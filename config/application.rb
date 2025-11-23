@@ -16,7 +16,7 @@ require 'action_cable/engine'
 
 Bundler.require(*Rails.groups)
 
-module RailsZen
+module Alesap
   # The application config
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
