@@ -22,6 +22,8 @@ gem 'redis', '~> 5.4'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.19'
 
+gem 'rack-cors'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
