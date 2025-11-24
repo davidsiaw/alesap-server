@@ -1,0 +1,23 @@
+version: '3.7'
+
+services:
+  alesap:
+    image: davidsiaw/alesap-server
+    deploy:
+      update_config:
+        order: stop-first
+    environment:
+      LETSENCRYPT_HOST: api.alesap.astrobunny.net
+      VIRTUAL_HOST: api.alesap.astrobunny.net
+      VIRTUAL_PORT: 3000
+      RAILS_ENV: production
+      RAILS_MASTER_KEY: ${ALESAP_MASTER_KEY}
+      ALLOWED_ORIGINS: alesap.astrobunny.net
+    container_name: rz
+    volumes:
+      - alesap-server:/srv/postgres
+    network_mode: bridge
+        
+volumes:
+  alesap-server:
+    external: true
