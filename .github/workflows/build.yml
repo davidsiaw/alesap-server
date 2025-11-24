@@ -28,5 +28,5 @@ jobs:
         password: ${{ secrets.PORTAINER_PASSWORD }}
         stack-name: ${{ secrets.PORTAINER_STACK }}
         stack-definition: 'stack-definition.yml'
-        template-variables: '{"ALESAP_MASTER_KEY": ${{ secrets.ALESAP_MASTER_KEY }}}'
+        template-variables: '{"ALESAP_MASTER_KEY": "${{ secrets.ALESAP_MASTER_KEY }}"}'
         image: davidsiaw/alesap-server:latest
