@@ -76,7 +76,6 @@ class CommandApi < Grape::API
             }
           end
 
-        p res
 
         {
           search: params['str'],
