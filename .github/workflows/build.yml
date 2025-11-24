@@ -21,7 +21,7 @@ jobs:
         labels: ${{ steps.meta.outputs.labels }}
 
     - name: deploy
-      uses: carlrygart/portainer-stack-deploy@v1
+      uses: nvti/portainer-stack-deploy@de0d8b7e93e2cb12c1f335f463984a898de5105a
       with:
         portainer-host: ${{ secrets.PORTAINER_HOST }}
         username: ${{ secrets.PORTAINER_USERNAME }}
@@ -30,3 +30,5 @@ jobs:
         stack-definition: 'stack-definition.yml'
         template-variables: '{"ALESAP_MASTER_KEY": "${{ secrets.ALESAP_MASTER_KEY }}"}'
         image: davidsiaw/alesap-server:latest
+        prune-stack: true
+        pull-image: true
