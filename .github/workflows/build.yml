@@ -5,11 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: actions/cache@v1
-      with:
-        path: vendor/bundle
-        key: deps
-        restore-keys: deps
     - name: build
       run: |-
         docker build -f docker/unit/Dockerfile -t davidsiaw/alesap-server .
