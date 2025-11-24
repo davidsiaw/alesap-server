@@ -1,4 +1,4 @@
-name: build
+name: buildndeploy
 on: [push]
 jobs:
   build:
@@ -19,3 +19,16 @@ jobs:
         push: true
         tags: davidsiaw/alesap-server:latest
         labels: ${{ steps.meta.outputs.labels }}
+
+    - name: deploy
+      uses: carlrygart/portainer-stack-deploy@v1
+      with:
+        portainer-host: ${{ secrets.PORTAINER_HOST }}
+        username: ${{ secrets.PORTAINER_USERNAME }}
+        password: ${{ secrets.PORTAINER_PASSWORD }}
+        stack-name: ${{ secrets.PORTAINER_STACK }}
+        stack-definition: 'stack-definition.yml'
+        template-variables: '{"ALESAP_MASTER_KEY": ${{ secrets.ALESAP_MASTER_KEY }}}'
+        image: davidsiaw/alesap-server:latest
+        prune-stack: true
+        pull-image: true
