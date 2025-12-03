@@ -257,7 +257,7 @@ GEM
     factory_bot_rails (6.5.1)
       factory_bot (~> 6.5)
       railties (>= 6.1.0)
-    faker (3.5.2)
+    faker (3.5.3)
       i18n (>= 1.8.11, < 2)
     falcon (0.52.4)
       async
@@ -458,6 +458,9 @@ GEM
     raabro (1.4.0)
     racc (1.8.1)
     rack (3.2.4)
+    rack-cors (3.0.0)
+      logger
+      rack (>= 3.0.14)
     rack-session (2.1.1)
       base64 (>= 0.1.0)
       rack (>= 3.0.0)
@@ -691,6 +694,7 @@ DEPENDENCIES
   paper_trail
   pg (>= 0.18, < 2.0)
   pry-byebug
+  rack-cors
   rails (~> 8)
   redis (~> 5.4)
   rspec-rails
