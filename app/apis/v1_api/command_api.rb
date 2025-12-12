@@ -59,30 +59,10 @@ class CommandApi < Grape::API
       end
       post do
 
-        strs = Istring.where("str LIKE ?", "#{params[:str]}%")
+        ss = SearchService.new(params[:str])
 
-        songs = PaselaEsong.joins(:name).merge(strs)
-        artists = PaselaArtist.joins(:artist_name).merge(strs)
+        ss.result
 
-        res = PaselaEsongPaselaArtist.
-          joins(:song, :artist).
-          merge(songs).
-          limit(20).
-          map do |x|
-            {
-              song: x.song_name,
-              code: x.code,
-              artist: x.artist_name
-            }
-          end
-
-
-        {
-          search: params['str'],
-          results: [
-            res
-          ]
-        }
       end
 
     end
