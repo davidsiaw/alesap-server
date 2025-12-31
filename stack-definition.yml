@@ -32,6 +32,8 @@ services:
       - alesap-server:/var/lib/postgresql/data
     networks:
       - alesap
+    ports:
+      - 5432
         
 volumes:
   alesap-server:
