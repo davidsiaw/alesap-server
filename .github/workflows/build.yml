@@ -28,7 +28,7 @@ jobs:
         password: ${{ secrets.PORTAINER_PASSWORD }}
         stack-name: ${{ secrets.PORTAINER_STACK }}
         stack-definition: 'stack-definition.yml'
-        template-variables: |
+        template-variables: |-
           {
             "ALESAP_MASTER_KEY": "${{ secrets.ALESAP_MASTER_KEY }}",
             "ALESAP_PG_PASS": "${{ secrets.ALESAP_PG_PASS }}",

@@ -15,7 +15,9 @@ services:
       ALLOWED_ORIGINS: alesap.astrobunny.net
       DATABASE_URL: ${ALESAP_DB_URL}
     container_name: alesap
-    network_mode: bridge
+    networks:
+      - alesap
+
   alesap-db:
     image: postgres:17
     deploy:
@@ -28,8 +30,13 @@ services:
     container_name: alesap-db
     volumes:
       - alesap-server:/var/lib/postgresql/data
-    network_mode: bridge
+    networks:
+      - alesap
         
 volumes:
   alesap-server:
+    external: true
+
+networks:
+  alesap:
     external: true
