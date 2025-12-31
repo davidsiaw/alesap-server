@@ -14,6 +14,7 @@ services:
       RAILS_MASTER_KEY: ${ALESAP_MASTER_KEY}
       ALLOWED_ORIGINS: alesap.astrobunny.net
       DATABASE_URL: ${ALESAP_DB_URL}
+      THING: 1
     container_name: alesap
     networks:
       - alesap
@@ -38,8 +39,7 @@ services:
       - 5432
     sysctls:
         - net.ipv6.conf.all.disable_ipv6=1
-    command: postgres -c 'config_file=/etc/postgresql/postgresql.conf'
-        
+    command: postgres -c 'config_file=/etc/postgresql/postgresql.conf';
 volumes:
   alesap-server:
     external: true
