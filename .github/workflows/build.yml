@@ -19,6 +19,8 @@ jobs:
         push: true
         tags: davidsiaw/alesap-server:latest
         labels: ${{ steps.meta.outputs.labels }}
+        cache-from: type=registry,ref=user/app:latest
+        cache-to: type=inline
 
     - name: deploy
       uses: nvti/portainer-stack-deploy@de0d8b7e93e2cb12c1f335f463984a898de5105a
@@ -28,7 +30,7 @@ jobs:
         password: ${{ secrets.PORTAINER_PASSWORD }}
         stack-name: ${{ secrets.PORTAINER_STACK }}
         stack-definition: 'stack-definition.yml'
-        template-variables: |-
+        template-variables: |
           {
             "ALESAP_MASTER_KEY": "${{ secrets.ALESAP_MASTER_KEY }}",
             "ALESAP_PG_PASS": "${{ secrets.ALESAP_PG_PASS }}",
