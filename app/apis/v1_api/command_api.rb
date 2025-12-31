@@ -56,10 +56,11 @@ class CommandApi < Grape::API
       desc 'search for songs'
       params do
         optional :str, type: String, desc: 'search str'
+        optional :page, type: Integer, desc: 'page num'
       end
       post do
 
-        ss = SearchService.new(params[:str])
+        ss = SearchService.new(params[:str], params[:page])
 
         ss.result
 
