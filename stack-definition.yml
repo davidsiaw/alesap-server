@@ -31,7 +31,7 @@ services:
       POSTGRES_HOST_AUTH_METHOD: trust
     container_name: alesap-db
     volumes:
-      - alesap-server:/var/lib/postgresql/data
+      - alesap-data:/var/lib/postgresql/data
       - postgres-config:/etc/postgresql
     networks:
       - alesap
@@ -41,7 +41,7 @@ services:
         - net.ipv6.conf.all.disable_ipv6=1
     command: postgres -c 'config_file=/etc/postgresql/postgresql.conf';
 volumes:
-  alesap-server:
+  alesap-data:
     external: true
   postgres-config:
     external: true
