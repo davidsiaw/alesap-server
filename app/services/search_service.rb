@@ -1,8 +1,9 @@
 class SearchService
   attr_accessor :rows_per_page
 
-  def initialize(search_term)
+  def initialize(search_term, page_num)
     @search_term = search_term
+    @page_num = page_num
   end
 
   def rel_basic_song
@@ -35,7 +36,6 @@ class SearchService
     end
   end
 
-
   def result_relation
     return rel_basic_song if rel_basic_song.count > 0
     return rel_basic_artist if rel_basic_artist.count > 0
@@ -43,13 +43,35 @@ class SearchService
     []
   end
 
+
+
   def result
+
+    codelist = result_relation.
+      map do |x|
+        x.code
+      end.to_a
+
+    # p codelist
+
+    ed = ExtraDatum.where(esong_key: codelist)
+
+    edhash = {}
+
+    ed.each do |x|
+      edhash[x.esong_key] ||= {}
+      edhash[x.esong_key][x.datatype] = x.value
+    end
+
+    # p ed
+
     res = result_relation.
       map do |x|
         {
           song: x.song_name,
           code: x.code,
-          artist: x.artist_name
+          artist: x.artist_name,
+          extra: edhash[x.code] || {}
         }
       end
 

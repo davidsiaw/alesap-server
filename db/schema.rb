@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 3000_01_01_000004) do
+ActiveRecord::Schema[8.1].define(version: 3000_01_01_000005) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "citext"
   enable_extension "pg_catalog.plpgsql"
@@ -50,6 +50,13 @@ ActiveRecord::Schema[8.1].define(version: 3000_01_01_000004) do
     t.index ["subject"], name: "index_commands_on_subject"
     t.index ["updated_at"], name: "index_commands_on_updated_at"
     t.index ["verb"], name: "index_commands_on_verb"
+  end
+
+  create_table "extra_data", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
+    t.string "datatype"
+    t.string "esong_key"
+    t.datetime "updated_at"
+    t.string "value"
   end
 
   create_table "istrings", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
