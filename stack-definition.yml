@@ -30,6 +30,7 @@ services:
     container_name: alesap-db
     volumes:
       - alesap-server:/var/lib/postgresql/data
+      - postgres-config:/etc/postgresql
     networks:
       - alesap
     ports:
@@ -39,6 +40,8 @@ services:
         
 volumes:
   alesap-server:
+    external: true
+  postgres-config:
     external: true
 
 networks:
