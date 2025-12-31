@@ -16,25 +16,25 @@ class CommandCreateTriggerJob < ApplicationJob
             data = YAML.load_file(file)
             data['result']['song'].each do |thesong|
 
-              sname = Istring.find_or_initialize_by(str: thesong['song_name'])
+              sname = Istring.find_or_initialize_by(str: thesong['song_name'].downcase)
               sname.save!
 
-              sruby = Istring.find_or_initialize_by(str: thesong['song_name_ruby'])
+              sruby = Istring.find_or_initialize_by(str: thesong['song_name_ruby'].downcase)
               sruby.save!
 
-              aname = Istring.find_or_initialize_by(str: thesong['singer_name'])
+              aname = Istring.find_or_initialize_by(str: thesong['singer_name'].downcase)
               aname.save!
 
               song = PaselaEsong.find_or_initialize_by(
                 esong_key: thesong['esong_code'],
-                name: sname.downcase,
-                ruby: sruby.downcase
+                name: sname,
+                ruby: sruby
               )
               song.save!
 
               artist = PaselaArtist.find_or_initialize_by(
                 master_singer_id: thesong['t_singer_master_id'],
-                artist_name: aname.downcase
+                artist_name: aname,
               )
               artist.save!
 
