@@ -28,7 +28,15 @@ jobs:
         password: ${{ secrets.PORTAINER_PASSWORD }}
         stack-name: ${{ secrets.PORTAINER_STACK }}
         stack-definition: 'stack-definition.yml'
-        template-variables: '{"ALESAP_MASTER_KEY": "${{ secrets.ALESAP_MASTER_KEY }}"}'
+        template-variables: |
+          {
+            "ALESAP_MASTER_KEY": "${{ secrets.ALESAP_MASTER_KEY }}",
+            "ALESAP_PG_PASS": "${{ secrets.ALESAP_PG_PASS }}",
+            "ALESAP_PG_USER": "${{ secrets.ALESAP_PG_USER }}",
+            "ALESAP_PG_DB": "${{ secrets.ALESAP_PG_DB }}",
+            "ALESAP_DB_URL": "${{ secrets.ALESAP_DB_URL }}",
+            "RAILS_ZEN_DATABASE_PASSWORD": "${{ secrets.ALESAP_PG_PASS }}"
+          }
         image: davidsiaw/alesap-server:latest
         prune-stack: true
         pull-image: true
