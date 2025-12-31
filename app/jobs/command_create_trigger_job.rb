@@ -27,14 +27,14 @@ class CommandCreateTriggerJob < ApplicationJob
 
               song = PaselaEsong.find_or_initialize_by(
                 esong_key: thesong['esong_code'],
-                name: sname,
-                ruby: sruby
+                name: sname.downcase,
+                ruby: sruby.downcase
               )
               song.save!
 
               artist = PaselaArtist.find_or_initialize_by(
                 master_singer_id: thesong['t_singer_master_id'],
-                artist_name: aname,
+                artist_name: aname.downcase
               )
               artist.save!
 
