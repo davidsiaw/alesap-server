@@ -19,7 +19,7 @@ jobs:
         push: true
         tags: davidsiaw/alesap-server:latest
         labels: ${{ steps.meta.outputs.labels }}
-        cache-from: type=registry,ref=user/app:latest
+        cache-from: type=registry,ref=davidsiaw/alesap-server:latest
         cache-to: type=inline
 
     - name: deploy
