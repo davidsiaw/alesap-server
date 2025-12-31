@@ -12,7 +12,7 @@ services:
       VIRTUAL_PORT: 3000
       RAILS_ENV: production
       RAILS_MASTER_KEY: ${ALESAP_MASTER_KEY}
-      ALLOWED_ORIGINS: alesap.astrobunny.net
+      ALLOWED_ORIGINS: alesap.astrobunny.net,alesap.blankaex.reisen
       DATABASE_URL: ${ALESAP_DB_URL}
       THING: 1
     container_name: alesap
