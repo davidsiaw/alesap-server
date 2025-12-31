@@ -27,6 +27,7 @@ services:
       POSTGRES_PASSWORD: ${ALESAP_PG_PASS}
       POSTGRES_USER: ${ALESAP_PG_USER}
       POSTGRES_DB: ${ALESAP_PG_DB}
+      POSTGRES_HOST_AUTH_METHOD: trust
     container_name: alesap-db
     volumes:
       - alesap-server:/var/lib/postgresql/data
