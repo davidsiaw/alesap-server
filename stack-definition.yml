@@ -13,9 +13,21 @@ services:
       RAILS_ENV: production
       RAILS_MASTER_KEY: ${ALESAP_MASTER_KEY}
       ALLOWED_ORIGINS: alesap.astrobunny.net
+      DATABASE_URL: ${ALESAP_DB_URL}
+    container_name: rz
+    network_mode: bridge
+  alesap-db:
+    image: postgres:17
+    deploy:
+      update_config:
+        order: stop-first
+    environment:
+      POSTGRES_PASSWORD: ${ALESAP_PG_PASS}
+      POSTGRES_USER: ${ALESAP_PG_USER}
+      POSTGRES_DB: ${ALESAP_PG_DB}
     container_name: rz
     volumes:
-      - alesap-server:/srv/postgres
+      - alesap-server:/var/lib/postgresql/data
     network_mode: bridge
         
 volumes:
