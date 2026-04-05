@@ -4,6 +4,48 @@ class CommandCreateTriggerJob < ApplicationJob
   def perform(id)
   	cmd = Command.find(id)
 
+    if cmd.verb == "loadextra2"
+
+      puts "loadingextra2"
+
+      Dir["db/data/data/*.yml"].each_slice(10) do |files|
+        ActiveRecord::Base.transaction do
+          files.each do |file|
+            puts "loadextra2 #{file}"
+
+            data = YAML.load_file(file)
+            data[:songs].each do |esong_code, reqresult|
+
+              thesong = reqresult['result']
+
+              thesong.each do |k, v|
+                next if k == 'song_variation'
+                next if k == 'song_name'
+                next if k == 'esong_code'
+                next if v.nil?
+
+                data = ExtraDatum.find_or_initialize_by(
+                  esong_key: thesong['esong_code'],
+                  datatype: k,
+                  value: v
+                )
+                data.save!
+              end
+
+            rescue => e
+              p e
+
+              p thesong
+
+              return
+
+            end
+          end
+        end
+      end
+
+    end
+
     if cmd.verb == "loadextra"
 
       puts "loadingextra"
