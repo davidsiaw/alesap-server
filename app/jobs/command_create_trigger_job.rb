@@ -16,19 +16,20 @@ class CommandCreateTriggerJob < ApplicationJob
             data = YAML.load_file(file)
             data['result']['song'].each do |thesong|
 
-              data = ExtraDatum.find_or_initialize_by(
-                esong_key: thesong['esong_code'],
-                datatype: 'songtype',
-                value: thesong['content_type']
-              )
-              data.save!
+              thesong.each do |k, v|
+                next if k == 'song_variation'
+                next if k == 'song_name'
+                next if k == 'esong_code'
+                next if k == 'singer_name'
+                next if v.nil?
 
-              data = ExtraDatum.find_or_initialize_by(
-                esong_key: thesong['esong_code'],
-                datatype: 'tieup',
-                value: thesong['tie_up']
-              )
-              data.save!
+                data = ExtraDatum.find_or_initialize_by(
+                  esong_key: thesong['esong_code'],
+                  datatype: k,
+                  value: v
+                )
+                data.save!
+              end
 
             rescue => e
               p e
