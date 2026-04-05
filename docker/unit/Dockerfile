@@ -24,17 +24,19 @@ ENV mecab_url https://drive.google.com/uc?export=download&id=1SJjk4IylQaO2yGc0vM
 
 ENV ipadic_url https://drive.google.com/uc?export=download&id=1aQCOnE4aGPz-3tXpt6Mok2fcPgbnnouh
 
+ARG _ARCH="--build=x86_64-unknown-linux-gnu"
+
 RUN curl -SL -o mecab-${MECAB_VERSION}.tar.gz ${mecab_url} \
   && tar zxf mecab-${MECAB_VERSION}.tar.gz \
   && cd mecab-${MECAB_VERSION} \
-  && ./configure --enable-utf8-only --with-charset=utf8 \
+  && ./configure --enable-utf8-only --with-charset=utf8 ${_ARCH} \
   && make \
   && make install
 
 RUN curl -SL -o mecab-ipadic-${IPADIC_VERSION}.tar.gz ${ipadic_url} \
   && tar zxf mecab-ipadic-${IPADIC_VERSION}.tar.gz \
   && cd mecab-ipadic-${IPADIC_VERSION} \
-  && ./configure --with-charset=utf8 \
+  && ./configure --with-charset=utf8 ${_ARCH} \
   && make \
   && make install \
   && cd
