@@ -79,6 +79,8 @@ ENV RAILS_ENV=development
 ENV DATABASE_URL=postgres://srv:@localhost
 ENV REDIS_URL=redis://localhost:6379/0
 
+ENV MECAB_PATH=/mecab-ipadic-${IPADIC_VERSION}
+
 HEALTHCHECK --interval=1m \
             --timeout=3s \
             --start-period=20s \

@@ -2,6 +2,10 @@
 
 # GET command
 class CommandApi < Grape::API
+
+  # Command list
+  STOP_SONG_COMMAND = 2
+
   resource :command do
 
     desc 'GET command'
@@ -51,6 +55,7 @@ class CommandApi < Grape::API
       { result: obj }
     end
 
+
     resource :search do
 
       desc 'search for songs'
@@ -65,7 +70,49 @@ class CommandApi < Grape::API
         ss.result
 
       end
+    end
 
+    desc 'queue command'
+    params do
+      requires :akey, type: String, desc: 'akey'
+      requires :skey, type: String, desc: 'skey'
+      requires :scd, type: String, desc: 'scd'
+      requires :ecd, type: String, desc: 'ecd'
+    end
+    post 'queue' do
+      conn = Faraday::Connection.new 'http://order.mashup.jp'
+      conn.post '/bridge/post_request.php' do |req|
+        req.body = CGI.unescape({
+          akey: params[:akey],
+          skey: params[:skey],
+          scd: params[:scd],
+          ecd: params[:ecd]
+        }.to_query)
+      end
+
+      status 200
+      { result: 'ok' }
+    end
+
+    desc 'stop song command'
+    params do
+      requires :akey, type: String, desc: 'akey'
+      requires :skey, type: String, desc: 'skey'
+      requires :scd, type: String, desc: 'scd'
+    end
+    post 'stop' do
+      conn = Faraday::Connection.new 'http://order.mashup.jp'
+      conn.post '/bridge/post_request.php' do |req|
+        req.body = CGI.unescape({
+          akey: params[:akey],
+          skey: params[:skey],
+          scd: params[:scd],
+          type: STOP_SONG_COMMAND
+        }.to_query)
+      end
+
+      status 200
+      { result: 'ok' }
     end
 
 
