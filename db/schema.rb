@@ -57,6 +57,9 @@ ActiveRecord::Schema[8.1].define(version: 3000_01_01_000005) do
     t.string "esong_key"
     t.datetime "updated_at"
     t.string "value"
+    t.index ["datatype"], name: "index_extra_data_on_datatype"
+    t.index ["esong_key"], name: "index_extra_data_on_esong_key"
+    t.index ["value"], name: "index_extra_data_on_value"
   end
 
   create_table "istrings", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|

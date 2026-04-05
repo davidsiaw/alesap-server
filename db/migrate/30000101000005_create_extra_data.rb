@@ -7,5 +7,9 @@ class CreateExtraData < ActiveRecord::Migration[8.1]
 
       t.datetime :updated_at
     end
+    
+    add_index :extra_data, :esong_key
+    add_index :extra_data, :datatype
+    add_index :extra_data, :value
   end
 end
