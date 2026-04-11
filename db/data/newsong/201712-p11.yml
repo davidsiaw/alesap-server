@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: 強(狂)愛
-    song_alias:
-    esong_code: 3921B44
-    t_singer_master_id: '56304'
-    singer_name: ジャックケイパー
-    singer_alias:
-    available_date: '2017-12-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きようあい
-    singer_name_ruby: しやつくけいは
-    song_variation:
-    - esong_code: 3921B44
-      song_name: 強(狂)愛
-      content_type: ''
   - song_name: 京都西陣
     song_alias:
     esong_code: 3794B15
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3918A19
       song_name: Cloudy
+      content_type: ''
+  - song_name: クラクション
+    song_alias:
+    esong_code: 3918A3
+    t_singer_master_id: '38233'
+    singer_name: WHITE JAM
+    singer_alias:
+    available_date: '2017-12-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらくしよん
+    singer_name_ruby: ほわいとしやむ
+    song_variation:
+    - esong_code: 3918A3
+      song_name: クラクション
       content_type: ''

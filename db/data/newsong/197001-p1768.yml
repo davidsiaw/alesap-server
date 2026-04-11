@@ -3,268 +3,64 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 90601
-  all_max_cnt: 120139
-  all_country_cnt: 90601
+  max_cnt: 103269
+  all_max_cnt: 133030
+  all_country_cnt: 103269
   song:
-  - song_name: 天使になりたい
+  - song_name: そよ風のソナチネ
     song_alias:
-    esong_code: 99A15
-    t_singer_master_id: '809'
-    singer_name: 小泉 今日子
+    esong_code: 807B3
+    t_singer_master_id: '5140'
+    singer_name: 笠原 弘子
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 魔法騎士(マジックナイト)レイアース<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: そよかせのそなちね
+    singer_name_ruby: かさはらひろこ
+    song_variation:
+    - esong_code: 807B3
+      song_name: そよ風のソナチネ
+      content_type: ''
+  - song_name: そよ風のバラード
+    song_alias:
+    esong_code: 148A46
+    t_singer_master_id: '12600'
+    singer_name: ザ・スウィング・ウエスト
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしになりたい
-    singer_name_ruby: こいすみきようこ
+    song_name_ruby: そよかせのはら
+    singer_name_ruby: さすういんくうえ
     song_variation:
-    - esong_code: 99A15
-      song_name: 天使になりたい
+    - esong_code: 148A46
+      song_name: そよ風のバラード
       content_type: ''
-  - song_name: 天使になれない!
+  - song_name: そよ風のビギン
     song_alias:
-    esong_code: 1164A24
-    t_singer_master_id: '14146'
-    singer_name: 植田 佳奈
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 機動天使エンジェリックレイヤー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしになれない
-    singer_name_ruby: うえたかな
-    song_variation:
-    - esong_code: 1164A24
-      song_name: 天使になれない!
-      content_type: ''
-  - song_name: 天使になんてなれなかった
-    song_alias:
-    esong_code: 346B6
-    t_singer_master_id: '2668'
-    singer_name: WANDS
+    esong_code: 327B7
+    t_singer_master_id: '465'
+    singer_name: 小畑 実
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしになんてなれな
-    singer_name_ruby: わんす
+    song_name_ruby: そよかせのひき
+    singer_name_ruby: おはたみのる
     song_variation:
-    - esong_code: 346B6
-      song_name: 天使になんてなれなかった
+    - esong_code: 327B7
+      song_name: そよ風のビギン
       content_type: ''
-  - song_name: 天使に寄す
+  - song_name: そよ風のフェイント
     song_alias:
-    esong_code: 1106B29
-    t_singer_master_id: '8177'
-    singer_name: ALI PROJECT
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしによす
-    singer_name_ruby: ありふろしえくと
-    song_variation:
-    - esong_code: 1106B29
-      song_name: 天使に寄す
-      content_type: ''
-  - song_name: 天使のいた屋上【予告編】
-    song_alias:
-    esong_code: 2551A36
-    t_singer_master_id: '33083'
-    singer_name: DAM the Movie
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしのいたおく00
-    singer_name_ruby: たむさむひ
-    song_variation:
-    - esong_code: 2551A36
-      song_name: 天使のいた屋上【予告編】
-      content_type: ''
-  - song_name: 天使のいた屋上【第1話】
-    song_alias:
-    esong_code: 2006B49
-    t_singer_master_id: '33083'
-    singer_name: DAM the Movie
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしのいたおく01
-    singer_name_ruby: たむさむひ
-    song_variation:
-    - esong_code: 2006B49
-      song_name: 天使のいた屋上【第1話】
-      content_type: ''
-  - song_name: 天使のいた屋上【第2話】
-    song_alias:
-    esong_code: 2007A1
-    t_singer_master_id: '33083'
-    singer_name: DAM the Movie
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしのいたおく02
-    singer_name_ruby: たむさむひ
-    song_variation:
-    - esong_code: 2007A1
-      song_name: 天使のいた屋上【第2話】
-      content_type: ''
-  - song_name: 天使のいた屋上【第3話】
-    song_alias:
-    esong_code: 2007A2
-    t_singer_master_id: '33083'
-    singer_name: DAM the Movie
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしのいたおく03
-    singer_name_ruby: たむさむひ
-    song_variation:
-    - esong_code: 2007A2
-      song_name: 天使のいた屋上【第3話】
-      content_type: ''
-  - song_name: 天使のいた屋上【第4話】
-    song_alias:
-    esong_code: 2007A3
-    t_singer_master_id: '33083'
-    singer_name: DAM the Movie
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしのいたおく04
-    singer_name_ruby: たむさむひ
-    song_variation:
-    - esong_code: 2007A3
-      song_name: 天使のいた屋上【第4話】
-      content_type: ''
-  - song_name: 天使のいた屋上【第5話】
-    song_alias:
-    esong_code: 2007A4
-    t_singer_master_id: '33083'
-    singer_name: DAM the Movie
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしのいたおく05
-    singer_name_ruby: たむさむひ
-    song_variation:
-    - esong_code: 2007A4
-      song_name: 天使のいた屋上【第5話】
-      content_type: ''
-  - song_name: 天使の悪戯 〜消えて行かないで〜
-    song_alias:
-    esong_code: 4371B41
-    t_singer_master_id: '47031'
-    singer_name: 川上 大輔
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: てんしのいたすらき
-    singer_name_ruby: かわかみたいすけ
-    song_variation:
-    - esong_code: 4371B41
-      song_name: 天使の悪戯 〜消えて行かないで〜
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 天使の悪戯 〜消えて行かないで〜
-    song_alias:
-    esong_code: 4371B40
-    t_singer_master_id: '47031'
-    singer_name: 川上 大輔
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: てんしのいたすらき
-    singer_name_ruby: かわかみたいすけ
-    song_variation:
-    - esong_code: 4371B40
-      song_name: 天使の悪戯 〜消えて行かないで〜
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 天使のINORI
-    song_alias:
-    esong_code: 1127A32
-    t_singer_master_id: '6135'
-    singer_name: かない みか
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ギャラクシーエンジェル<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしのいのり
-    singer_name_ruby: かないみか
-    song_variation:
-    - esong_code: 1127A32
-      song_name: 天使のINORI
-      content_type: ''
-  - song_name: 天使の胃袋
-    song_alias:
-    esong_code: 2469B7
-    t_singer_master_id: '31981'
-    singer_name: People In The Box
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしのいふくろ
-    singer_name_ruby: ひふるいんさほつくす
-    song_variation:
-    - esong_code: 2469B7
-      song_name: 天使の胃袋
-      content_type: ''
-  - song_name: 天使のウィンク
-    song_alias:
-    esong_code: 2641B11
-    t_singer_master_id: '2217'
-    singer_name: 松田 聖子
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: てんしのういんく
-    singer_name_ruby: まつたせいこ
-    song_variation:
-    - esong_code: 2641B11
-      song_name: 天使のウィンク
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 天使のウィンク（テクノバージョン）
-    song_alias:
-    esong_code: 714A2
+    esong_code: 587A20
     t_singer_master_id: '2217'
     singer_name: 松田 聖子
     singer_alias:
@@ -273,32 +69,32 @@ result:
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのういんく
+    song_name_ruby: そよかせのふえいん
     singer_name_ruby: まつたせいこ
     song_variation:
-    - esong_code: 714A2
-      song_name: 天使のウィンク（テクノバージョン）
+    - esong_code: 587A20
+      song_name: そよ風のフェイント
       content_type: ''
-  - song_name: 天使のウィンク
+  - song_name: 微風のマドリガル
     song_alias:
-    esong_code: 183B6
-    t_singer_master_id: '2217'
-    singer_name: 松田 聖子
+    esong_code: 1162B48
+    t_singer_master_id: '8077'
+    singer_name: 高汐 巴
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのういんく
-    singer_name_ruby: まつたせいこ
+    song_name_ruby: そよかせのまとり
+    singer_name_ruby: たかしおともえ
     song_variation:
-    - esong_code: 183B6
-      song_name: 天使のウィンク
+    - esong_code: 1162B48
+      song_name: 微風のマドリガル
       content_type: ''
-  - song_name: 天使のウィンク
+  - song_name: 微風(そよかぜ)のメロディー
     song_alias:
-    esong_code: 1553A45
+    esong_code: 476B10
     t_singer_master_id: '437'
     singer_name: 尾崎 亜美
     singer_alias:
@@ -307,213 +103,417 @@ result:
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのういんく
+    song_name_ruby: そよかせのめろて
     singer_name_ruby: おさきあみ
     song_variation:
-    - esong_code: 1553A45
-      song_name: 天使のウィンク
+    - esong_code: 476B10
+      song_name: 微風(そよかぜ)のメロディー
       content_type: ''
-  - song_name: 天使のえくぼ
+  - song_name: そよ風の妖精
     song_alias:
-    esong_code: 93B39
-    t_singer_master_id: '2168'
-    singer_name: 前川 清
+    esong_code: 1792B33
+    t_singer_master_id: '116'
+    singer_name: あみん
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのえくほ
-    singer_name_ruby: まえかわきよし
+    song_name_ruby: そよかせのようせい
+    singer_name_ruby: あみん
     song_variation:
-    - esong_code: 93B39
-      song_name: 天使のえくぼ
+    - esong_code: 1792B33
+      song_name: そよ風の妖精
       content_type: ''
-  - song_name: 天使のえくぼ
+  - song_name: そよ風のように
     song_alias:
-    esong_code: 236B16
-    t_singer_master_id: '2168'
-    singer_name: 前川 清
+    esong_code: 1150A45
+    t_singer_master_id: '19001'
+    singer_name: 千葉 進歩
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ウルトラマニアック<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: そよかせのように
+    singer_name_ruby: ちはすすむ
+    song_variation:
+    - esong_code: 1150A45
+      song_name: そよ風のように
+      content_type: ''
+  - song_name: 空
+    song_alias:
+    esong_code: 118B21
+    t_singer_master_id: '5430'
+    singer_name: hitomi
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そら
+    singer_name_ruby: ひとみ
+    song_variation:
+    - esong_code: 118B21
+      song_name: 空
+      content_type: ''
+  - song_name: 空
+    song_alias:
+    esong_code: 53A34
+    t_singer_master_id: '372'
+    singer_name: 大黒 摩季
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 中華一番<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: そら
+    singer_name_ruby: おおくろまき
+    song_variation:
+    - esong_code: 53A34
+      song_name: 空
+      content_type: ''
+  - song_name: 空
+    song_alias:
+    esong_code: 5283B21
+    t_singer_master_id: '58149'
+    singer_name: EcoMusic
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type: DAM生音
-    song_name_ruby: てんしのえくほ
-    singer_name_ruby: まえかわきよし
+    song_name_ruby: そら
+    singer_name_ruby: えこみゆしつく
     song_variation:
-    - esong_code: 236B16
-      song_name: 天使のえくぼ
+    - esong_code: 5283B21
+      song_name: 空
       content_type: DAM生音
-  - song_name: 天使のえくぼ
+  - song_name: 空
     song_alias:
-    esong_code: 2880A21
-    t_singer_master_id: '2168'
-    singer_name: 前川 清
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: てんしのえくほ
-    singer_name_ruby: まえかわきよし
-    song_variation:
-    - esong_code: 2880A21
-      song_name: 天使のえくぼ
-      content_type: JOY生演奏
-  - song_name: てんしのおしっこ
-    song_alias:
-    esong_code: 183B7
-    t_singer_master_id: '2061'
-    singer_name: ぶんけかな
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ひらけ!ポンキッキ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしのおしつこ
-    singer_name_ruby: ふんけかな
-    song_variation:
-    - esong_code: 183B7
-      song_name: てんしのおしっこ
-      content_type: ''
-  - song_name: 天使のかわりはいませんか
-    song_alias:
-    esong_code: 2825A14
-    t_singer_master_id: '45015'
-    singer_name: 水谷 千重子
+    esong_code: 1223A17
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのかわりはいま
-    singer_name_ruby: みすたにちえこ
+    song_name_ruby: そら
+    singer_name_ruby: きたしまさふろう
     song_variation:
-    - esong_code: 2825A14
-      song_name: 天使のかわりはいませんか
+    - esong_code: 1223A17
+      song_name: 空
       content_type: ''
-  - song_name: 天使の気持ち
+  - song_name: 空
     song_alias:
-    esong_code: 1071A21
-    t_singer_master_id: '1661'
-    singer_name: 中山 美穂
+    esong_code: 473A40
+    t_singer_master_id: '11966'
+    singer_name: YUAMU
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのきもち
-    singer_name_ruby: なかやまみほ
+    song_name_ruby: そら
+    singer_name_ruby: ゆあむ
     song_variation:
-    - esong_code: 1071A21
-      song_name: 天使の気持ち
+    - esong_code: 473A40
+      song_name: 空
       content_type: ''
-  - song_name: 天使の休息
+  - song_name: 空
     song_alias:
-    esong_code: 558B42
-    t_singer_master_id: '1883'
-    singer_name: 久松 史奈
+    esong_code: 741A29
+    t_singer_master_id: '19229'
+    singer_name: 川上 とも子
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ヒカルの碁<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: そら
+    singer_name_ruby: かわかみともこ
+    song_variation:
+    - esong_code: 741A29
+      song_name: 空
+      content_type: ''
+  - song_name: 空
+    song_alias:
+    esong_code: 5308B41
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: てんしのきゆうそく
-    singer_name_ruby: ひさまつふみな
+    song_name_ruby: そら
+    singer_name_ruby: きたしまさふろう
     song_variation:
-    - esong_code: 558B42
-      song_name: 天使の休息
+    - esong_code: 5308B41
+      song_name: 空
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 天使の休息
+  - song_name: 空
     song_alias:
-    esong_code: 183B8
-    t_singer_master_id: '1883'
-    singer_name: 久松 史奈
+    esong_code: 5320A20
+    t_singer_master_id: '12162'
+    singer_name: ケツメイシ
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: そら
+    singer_name_ruby: けつめいし
+    song_variation:
+    - esong_code: 5320A20
+      song_name: 空
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: Sora
+    song_alias:
+    esong_code: 2005A43
+    t_singer_master_id: '30244'
+    singer_name: ナナムジカ×のだめオーケストラ
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: そら
+    singer_name_ruby: ななむしかのためおけすとら
+    song_variation:
+    - esong_code: 2005A43
+      song_name: Sora
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 空
+    song_alias:
+    esong_code: 3079A34
+    t_singer_master_id: '30285'
+    singer_name: 侍
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのきゆうそく
-    singer_name_ruby: ひさまつふみな
+    song_name_ruby: そら
+    singer_name_ruby: さむらい
     song_variation:
-    - esong_code: 183B8
-      song_name: 天使の休息
+    - esong_code: 3079A34
+      song_name: 空
       content_type: ''
-  - song_name: 天使のくちびる
+  - song_name: 空
     song_alias:
-    esong_code: 760A18
-    t_singer_master_id: '931'
-    singer_name: 桜田 淳子
+    esong_code: 615B42
+    t_singer_master_id: '18587'
+    singer_name: スムルース
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのくちひる
-    singer_name_ruby: さくらたしゆんこ
+    song_name_ruby: そら
+    singer_name_ruby: すむるす
     song_variation:
-    - esong_code: 760A18
-      song_name: 天使のくちびる
+    - esong_code: 615B42
+      song_name: 空
       content_type: ''
-  - song_name: 天使の子守歌
+  - song_name: 空
     song_alias:
-    esong_code: 1071A22
-    t_singer_master_id: '1400'
-    singer_name: 谷山 浩子
+    esong_code: 3864A34
+    t_singer_master_id: '46432'
+    singer_name: GENERATIONS from EXILE TRIBE
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: そら
+    singer_name_ruby: しえねれしよんすふろむえくさい
+    song_variation:
+    - esong_code: 3864A34
+      song_name: 空
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 空
+    song_alias:
+    esong_code: 1068A30
+    t_singer_master_id: '13957'
+    singer_name: 市井 紗耶香 in CUBIC-CROSS
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのこもりうた
-    singer_name_ruby: たにやまひろこ
+    song_name_ruby: そら
+    singer_name_ruby: いちいさやかいんきゆひ
     song_variation:
-    - esong_code: 1071A22
-      song_name: 天使の子守歌
+    - esong_code: 1068A30
+      song_name: 空
       content_type: ''
-  - song_name: 天使のささやき（全英語詞）
+  - song_name: 空
     song_alias:
-    esong_code: 469B25
-    t_singer_master_id: '10282'
-    singer_name: 小柳 ゆき
+    esong_code: 314B26
+    t_singer_master_id: '372'
+    singer_name: 大黒 摩季
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: 中華一番<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのささやき
-    singer_name_ruby: こやなきゆき
+    song_name_ruby: そら
+    singer_name_ruby: おおくろまき
     song_variation:
-    - esong_code: 469B25
-      song_name: 天使のささやき（全英語詞）
+    - esong_code: 314B26
+      song_name: 空
       content_type: ''
-  - song_name: 天使のささやき
+  - song_name: そら
     song_alias:
-    esong_code: 2202B26
-    t_singer_master_id: '34793'
-    singer_name: 大江戸・真心組
+    esong_code: 1108B32
+    t_singer_master_id: '10619'
+    singer_name: KOKIA
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: てんしのささやき
-    singer_name_ruby: おおえとまこころくみ
+    song_name_ruby: そら
+    singer_name_ruby: こきあ
     song_variation:
-    - esong_code: 2202B26
-      song_name: 天使のささやき
+    - esong_code: 1108B32
+      song_name: そら
+      content_type: ''
+  - song_name: 空
+    song_alias:
+    esong_code: 5294B31
+    t_singer_master_id: '372'
+    singer_name: 大黒 摩季
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 中華一番<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: そら
+    singer_name_ruby: おおくろまき
+    song_variation:
+    - esong_code: 5294B31
+      song_name: 空
+      content_type: DAM生音
+  - song_name: 空 〜美しい我の空
+    song_alias:
+    esong_code: 2284A40
+    t_singer_master_id: '25258'
+    singer_name: 剛紫(244 ENDLI-x)
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そら
+    singer_name_ruby: つよし
+    song_variation:
+    - esong_code: 2284A40
+      song_name: 空 〜美しい我の空
+      content_type: ''
+  - song_name: 空 -翼を広げて-
+    song_alias:
+    esong_code: 782A11
+    t_singer_master_id: '2238'
+    singer_name: 松山 千春
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そら
+    singer_name_ruby: まつやまちはる
+    song_variation:
+    - esong_code: 782A11
+      song_name: 空 -翼を広げて-
+      content_type: ''
+  - song_name: sora-空-
+    song_alias:
+    esong_code: 3576B18
+    t_singer_master_id: '898'
+    singer_name: 西郷 輝彦
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そら
+    singer_name_ruby: さいこうてるひこ
+    song_variation:
+    - esong_code: 3576B18
+      song_name: sora-空-
+      content_type: ''
+  - song_name: SORA
+    song_alias:
+    esong_code: 476A41
+    t_singer_master_id: '14964'
+    singer_name: 長澤 奈央
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みさきクロニクル〜ダイバージェンス・イヴ〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: そら
+    singer_name_ruby: なかさわなお
+    song_variation:
+    - esong_code: 476A41
+      song_name: SORA
+      content_type: ''
+  - song_name: SORA
+    song_alias:
+    esong_code: 5245B24
+    t_singer_master_id: '23642'
+    singer_name: UVERworld
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: そら
+    singer_name_ruby: うはわると
+    song_variation:
+    - esong_code: 5245B24
+      song_name: SORA
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: そら
+    song_alias:
+    esong_code: 318A24
+    t_singer_master_id: '8741'
+    singer_name: GRAPEVINE
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そら
+    singer_name_ruby: くれいふはいん
+    song_variation:
+    - esong_code: 318A24
+      song_name: そら
       content_type: ''

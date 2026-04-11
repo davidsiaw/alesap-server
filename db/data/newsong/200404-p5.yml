@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 592
-  all_max_cnt: 727
-  all_country_cnt: 592
+  max_cnt: 588
+  all_max_cnt: 723
+  all_country_cnt: 588
   song:
-  - song_name: 希望の丘陵
-    song_alias:
-    esong_code: 411B10
-    t_singer_master_id: '18223'
-    singer_name: 萬Z(量産型)
-    singer_alias:
-    available_date: '2004-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 日本ブレイク工業<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きほうのおか
-    singer_name_ruby: まんそりようさんかた
-    song_variation:
-    - esong_code: 411B10
-      song_name: 希望の丘陵
-      content_type: ''
   - song_name: キミドリ
     song_alias:
     esong_code: 607A34
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 426B2
       song_name: 恋
+      content_type: ''
+  - song_name: 恋した女の子どすえ
+    song_alias:
+    esong_code: 363A1
+    t_singer_master_id: '10736'
+    singer_name: 安倍 なつみ
+    singer_alias:
+    available_date: '2004-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいしたおんなのこと
+    singer_name_ruby: あへなつみ
+    song_variation:
+    - esong_code: 363A1
+      song_name: 恋した女の子どすえ
       content_type: ''

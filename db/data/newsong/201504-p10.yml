@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1496
-  all_max_cnt: 1667
-  all_country_cnt: 1496
+  max_cnt: 1487
+  all_max_cnt: 1658
+  all_country_cnt: 1487
   song:
-  - song_name: 我武者LIFE
-    song_alias:
-    esong_code: 3415A21
-    t_singer_master_id: '28173'
-    singer_name: "℃-ute"
-    singer_alias:
-    available_date: '2015-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かむしやらいふ
-    singer_name_ruby: きゆと
-    song_variation:
-    - esong_code: 3415A21
-      song_name: 我武者LIFE
-      content_type: ''
   - song_name: がむしゃら行進曲
     song_alias:
     esong_code: 3430A34
@@ -151,7 +134,7 @@ result:
     singer_alias:
     available_date: '2015-04-14'
     end_date: '2999-04-10 00:00:00'
-    tie_up: FINAL FANTASY 零式<番組名>
+    tie_up: FINAL FANTASY(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: からふるふおりんら
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3229A20
       song_name: 北の漁場 (2014年明治座歌唱音源)
+      content_type: ''
+  - song_name: 北ものがたり
+    song_alias:
+    esong_code: 833B28
+    t_singer_master_id: '2503'
+    singer_name: 山本 譲二
+    singer_alias:
+    available_date: '2015-04-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたものかたり
+    singer_name_ruby: やまもとしようし
+    song_variation:
+    - esong_code: 833B28
+      song_name: 北ものがたり
       content_type: ''

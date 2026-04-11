@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1241
-  all_max_cnt: 1317
-  all_country_cnt: 1241
+  max_cnt: 1231
+  all_max_cnt: 1307
+  all_country_cnt: 1231
   song:
   - song_name: オールサマー・ロング
     song_alias:
@@ -43,23 +43,6 @@ result:
       content_type: ''
   - song_name: alterna
     song_alias:
-    esong_code: 292B11
-    t_singer_master_id: '8492'
-    singer_name: 浜崎 あゆみ
-    singer_alias:
-    available_date: '2005-08-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おるたな
-    singer_name_ruby: はまさきあゆみ
-    song_variation:
-    - esong_code: 292B11
-      song_name: alterna
-      content_type: ''
-  - song_name: alterna
-    song_alias:
     esong_code: 1340B17
     t_singer_master_id: '8492'
     singer_name: 浜崎 あゆみ
@@ -75,6 +58,23 @@ result:
     - esong_code: 1340B17
       song_name: alterna
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: alterna
+    song_alias:
+    esong_code: 292B11
+    t_singer_master_id: '8492'
+    singer_name: 浜崎 あゆみ
+    singer_alias:
+    available_date: '2005-08-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おるたな
+    singer_name_ruby: はまさきあゆみ
+    song_variation:
+    - esong_code: 292B11
+      song_name: alterna
+      content_type: ''
   - song_name: 俺たちの旅
     song_alias:
     esong_code: 1100B8
@@ -142,23 +142,6 @@ result:
     song_variation:
     - esong_code: 439B38
       song_name: ORANGE RANGEメドレー2 〜サマー★パレード〜
-      content_type: ''
-  - song_name: 終わらない物語
-    song_alias:
-    esong_code: 1137A34
-    t_singer_master_id: '5826'
-    singer_name: 井上 望
-    singer_alias:
-    available_date: '2005-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: も〜っと!おジャ魔女どれみ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おわらないものかた
-    singer_name_ruby: いのうえのそみ
-    song_variation:
-    - esong_code: 1137A34
-      song_name: 終わらない物語
       content_type: ''
   - song_name: ONJUKU-OUHARA-TAITOU 抜けて
     song_alias:
@@ -296,23 +279,6 @@ result:
     - esong_code: 1360A43
       song_name: 顔2005
       content_type: ''
-  - song_name: 鏡
-    song_alias:
-    esong_code: 1301B14
-    t_singer_master_id: '8558'
-    singer_name: 鈴木 あみ
-    singer_alias:
-    available_date: '2005-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かかみ
-    singer_name_ruby: すすきあみ
-    song_variation:
-    - esong_code: 1301B14
-      song_name: 鏡
-      content_type: ''
   - song_name: カガミ
     song_alias:
     esong_code: 1343A22
@@ -329,6 +295,23 @@ result:
     song_variation:
     - esong_code: 1343A22
       song_name: カガミ
+      content_type: ''
+  - song_name: 鏡
+    song_alias:
+    esong_code: 1301B14
+    t_singer_master_id: '8558'
+    singer_name: 鈴木 あみ
+    singer_alias:
+    available_date: '2005-08-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かかみ
+    singer_name_ruby: すすきあみ
+    song_variation:
+    - esong_code: 1301B14
+      song_name: 鏡
       content_type: ''
   - song_name: 輝きの中で
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1358A29
       song_name: 風が始まる場所
+      content_type: ''
+  - song_name: 風とおはなし
+    song_alias:
+    esong_code: 1359A2
+    t_singer_master_id: '10592'
+    singer_name: おかあさんといっしょ
+    singer_alias:
+    available_date: '2005-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: おかあさんといっしょ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせとおはなし
+    singer_name_ruby: おかあさんといつしよ
+    song_variation:
+    - esong_code: 1359A2
+      song_name: 風とおはなし
       content_type: ''

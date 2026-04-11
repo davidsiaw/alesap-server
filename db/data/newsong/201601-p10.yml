@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: X'mas Decoration
-    song_alias:
-    esong_code: 3586A11
-    t_singer_master_id: '54251'
-    singer_name: 妹S
-    singer_alias:
-    available_date: '2016-01-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 干物妹!うまるちゃん<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くりすますてこれ
-    singer_name_ruby: しすたす
-    song_variation:
-    - esong_code: 3586A11
-      song_name: X'mas Decoration
-      content_type: ''
   - song_name: 十字架(クルス)の島
     song_alias:
     esong_code: 2100A34
@@ -77,23 +60,6 @@ result:
       content_type: ''
   - song_name: 黒い雫
     song_alias:
-    esong_code: 3579B34
-    t_singer_master_id: '29531'
-    singer_name: Superfly
-    singer_alias:
-    available_date: '2016-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: くろいしすく
-    singer_name_ruby: すはふらい
-    song_variation:
-    - esong_code: 3579B34
-      song_name: 黒い雫
-      content_type: DAM生音
-  - song_name: 黒い雫
-    song_alias:
     esong_code: 3577B29
     t_singer_master_id: '29531'
     singer_name: Superfly
@@ -109,6 +75,23 @@ result:
     - esong_code: 3577B29
       song_name: 黒い雫
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 黒い雫
+    song_alias:
+    esong_code: 3579B34
+    t_singer_master_id: '29531'
+    singer_name: Superfly
+    singer_alias:
+    available_date: '2016-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: くろいしすく
+    singer_name_ruby: すはふらい
+    song_variation:
+    - esong_code: 3579B34
+      song_name: 黒い雫
+      content_type: DAM生音
   - song_name: clover
     song_alias:
     esong_code: 3578A20
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3584B48
       song_name: こころ
+      content_type: ''
+  - song_name: 心が叫びだす〜あなたの名前呼ぶよ
+    song_alias:
+    esong_code: 3580B40
+    t_singer_master_id: '55132'
+    singer_name: 少女、王子、世界の人々
+    singer_alias:
+    available_date: '2016-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 心が叫びたがってるんだ。<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころかさけひた
+    singer_name_ruby: しようしよおうしせかいのひと
+    song_variation:
+    - esong_code: 3580B40
+      song_name: 心が叫びだす〜あなたの名前呼ぶよ
       content_type: ''

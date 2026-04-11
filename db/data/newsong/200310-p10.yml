@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 531
-  all_max_cnt: 644
-  all_country_cnt: 531
+  max_cnt: 533
+  all_max_cnt: 646
+  all_country_cnt: 533
   song:
+  - song_name: 都会の恋編 〜デュエット・メドレー〜
+    song_alias:
+    esong_code: 767B36
+    t_singer_master_id: '5232'
+    singer_name: メドレー
+    singer_alias:
+    available_date: '2003-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とかいのこいへんて
+    singer_name_ruby: めとれ
+    song_variation:
+    - esong_code: 767B36
+      song_name: 都会の恋編 〜デュエット・メドレー〜
+      content_type: ''
   - song_name: ドギ☆マギWonderland
     song_alias:
     esong_code: 776B37
@@ -313,6 +330,23 @@ result:
     - esong_code: 301B42
       song_name: 長電話
       content_type: ''
+  - song_name: 泣きむし海峡
+    song_alias:
+    esong_code: 643B29
+    t_singer_master_id: '13954'
+    singer_name: 椎名 佐千子
+    singer_alias:
+    available_date: '2003-10-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なきむしかいきよう
+    singer_name_ruby: しいなさちこ
+    song_variation:
+    - esong_code: 643B29
+      song_name: 泣きむし海峡
+      content_type: ''
   - song_name: 泣くなよ
     song_alias:
     esong_code: 645A26
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 646B39
       song_name: NEW LIFE
-      content_type: ''
-  - song_name: NEW WORLD
-    song_alias:
-    esong_code: 824B25
-    t_singer_master_id: '2111'
-    singer_name: 布袋 寅泰
-    singer_alias:
-    available_date: '2003-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にゆわると
-    singer_name_ruby: ほていともやす
-    song_variation:
-    - esong_code: 824B25
-      song_name: NEW WORLD
-      content_type: ''
-  - song_name: 濡れた夢
-    song_alias:
-    esong_code: 767B22
-    t_singer_master_id: '1457'
-    singer_name: CHAGE&ASKA
-    singer_alias:
-    available_date: '2003-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ぬれたゆめ
-    singer_name_ruby: ちやけあんとあすか
-    song_variation:
-    - esong_code: 767B22
-      song_name: 濡れた夢
       content_type: ''

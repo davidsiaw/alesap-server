@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: 青い果実
-    song_alias:
-    esong_code: 1866B20
-    t_singer_master_id: '22769'
-    singer_name: D
-    singer_alias:
-    available_date: '2007-09-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あおいかしつ
-    singer_name_ruby: てい
-    song_variation:
-    - esong_code: 1866B20
-      song_name: 青い果実
-      content_type: ''
   - song_name: 青い蝶
     song_alias:
     esong_code: 1862A17
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1870A33
       song_name: アセロラ
+      content_type: ''
+  - song_name: あたしのすべて 〜Die for you〜
+    song_alias:
+    esong_code: 1871A13
+    t_singer_master_id: '23083'
+    singer_name: savage genius
+    singer_alias:
+    available_date: '2007-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あたしのすへて
+    singer_name_ruby: さひつししにあす
+    song_variation:
+    - esong_code: 1871A13
+      song_name: あたしのすべて 〜Die for you〜
       content_type: ''

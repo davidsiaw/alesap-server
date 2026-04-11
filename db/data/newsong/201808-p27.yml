@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1198
-  all_max_cnt: 1367
-  all_country_cnt: 1198
+  max_cnt: 1194
+  all_max_cnt: 1363
+  all_country_cnt: 1194
   song:
-  - song_name: 花ふたたび
-    song_alias:
-    esong_code: 3907A7
-    t_singer_master_id: '671'
-    singer_name: キム・ヨンジャ(金蓮子)
-    singer_alias:
-    available_date: '2018-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: はなふたたひ
-    singer_name_ruby: きむよんしや
-    song_variation:
-    - esong_code: 3907A7
-      song_name: 花ふたたび
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ハナミズキ
-    song_alias:
-    esong_code: 4051B12
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2018-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はなみすき
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 4051B12
-      song_name: ハナミズキ
-      content_type: ''
   - song_name: 羽田発・最終便
     song_alias:
     esong_code: 4047B21
@@ -449,23 +415,6 @@ result:
     - esong_code: 4050B36
       song_name: 日が昇るまで
       content_type: ''
-  - song_name: 光
-    song_alias:
-    esong_code: 4051A11
-    t_singer_master_id: '44185'
-    singer_name: A.B.C-Z
-    singer_alias:
-    available_date: '2018-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひかり
-    singer_name_ruby: えひしすい
-    song_variation:
-    - esong_code: 4051A11
-      song_name: 光
-      content_type: ''
   - song_name: Hikari
     song_alias:
     esong_code: 4048A39
@@ -483,6 +432,23 @@ result:
     - esong_code: 4048A39
       song_name: Hikari
       content_type: ''
+  - song_name: 光
+    song_alias:
+    esong_code: 4051A11
+    t_singer_master_id: '44185'
+    singer_name: A.B.C-Z
+    singer_alias:
+    available_date: '2018-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひかり
+    singer_name_ruby: えひしすい
+    song_variation:
+    - esong_code: 4051A11
+      song_name: 光
+      content_type: ''
   - song_name: ヒカリ証明論
     song_alias:
     esong_code: 4043A31
@@ -491,7 +457,7 @@ result:
     singer_alias:
     available_date: '2018-08-08'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂.<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひかりしようめいろん
@@ -508,7 +474,7 @@ result:
     singer_alias:
     available_date: '2018-08-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ファンタシースターオンライン2 ジ アニメーション<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひかりのあすほてん
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4042A5
       song_name: 光の明日 〜POTENTIAL ABILITY〜
+      content_type: ''
+  - song_name: ヒカリノムコウ (政宗)
+    song_alias:
+    esong_code: 4047A30
+    t_singer_master_id: '59482'
+    singer_name: Daito Music
+    singer_alias:
+    available_date: '2018-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひかりのむこう
+    singer_name_ruby: たいとみゆしつく
+    song_variation:
+    - esong_code: 4047A30
+      song_name: ヒカリノムコウ (政宗)
+      content_type: ''
+  - song_name: 悲劇なんて大キライ
+    song_alias:
+    esong_code: 4050A8
+    t_singer_master_id: '52630'
+    singer_name: 安野 希世乃
+    singer_alias:
+    available_date: '2018-08-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひけきなんてたい
+    singer_name_ruby: やすのきよの
+    song_variation:
+    - esong_code: 4050A8
+      song_name: 悲劇なんて大キライ
       content_type: ''

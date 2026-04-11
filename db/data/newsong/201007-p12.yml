@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
   - song_name: 恋するサンビスタ 〜Happy Tune 250%〜
     song_alias:
@@ -338,7 +338,7 @@ result:
     singer_alias:
     available_date: '2010-07-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL KAI(改)<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こころのはね
@@ -406,7 +406,7 @@ result:
     singer_alias:
     available_date: '2010-07-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 2010年ラジオの旅 アンドロイド・アナ MAICO 2010<番組名>
+    tie_up: アンドロイド・アナ MAICO 2010<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こすみつくらふそ
@@ -483,23 +483,6 @@ result:
     - esong_code: 2565B17
       song_name: この手の中に
       content_type: ''
-  - song_name: この世は最高!
-    song_alias:
-    esong_code: 1123B10
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2010-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: このよはさいこう
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 1123B10
-      song_name: この世は最高!
-      content_type: ''
   - song_name: コピペ
     song_alias:
     esong_code: 2574A47
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2574A47
       song_name: コピペ
+      content_type: ''
+  - song_name: Communication Breakdown
+    song_alias:
+    esong_code: 2573A23
+    t_singer_master_id: '38693'
+    singer_name: Crush Tears
+    singer_alias:
+    available_date: '2010-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 爆丸バトルブローラーズ ニューヴェストロイア<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こみゆにけしよんふ
+    singer_name_ruby: くらつしゆていあす
+    song_variation:
+    - esong_code: 2573A23
+      song_name: Communication Breakdown
       content_type: ''

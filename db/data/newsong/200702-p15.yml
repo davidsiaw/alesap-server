@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1199
-  all_max_cnt: 1301
-  all_country_cnt: 1199
+  max_cnt: 1196
+  all_max_cnt: 1298
+  all_country_cnt: 1196
   song:
   - song_name: サンライト・ツイスト (ゴーカート・ツイスト) GO-KART TWIST
     song_alias:
@@ -451,23 +451,6 @@ result:
       content_type: ''
   - song_name: 始発駅
     song_alias:
-    esong_code: 1729B36
-    t_singer_master_id: '671'
-    singer_name: キム・ヨンジャ(金蓮子)
-    singer_alias:
-    available_date: '2007-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: しはつえき
-    singer_name_ruby: きむよんしや
-    song_variation:
-    - esong_code: 1729B36
-      song_name: 始発駅
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 始発駅
-    song_alias:
     esong_code: 1723B4
     t_singer_master_id: '671'
     singer_name: キム・ヨンジャ(金蓮子)
@@ -483,6 +466,23 @@ result:
     - esong_code: 1723B4
       song_name: 始発駅
       content_type: ''
+  - song_name: 始発駅
+    song_alias:
+    esong_code: 1729B36
+    t_singer_master_id: '671'
+    singer_name: キム・ヨンジャ(金蓮子)
+    singer_alias:
+    available_date: '2007-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: しはつえき
+    singer_name_ruby: きむよんしや
+    song_variation:
+    - esong_code: 1729B36
+      song_name: 始発駅
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 自分
     song_alias:
     esong_code: 1733B5

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
   - song_name: あぁ・・・あんた川
     song_alias:
@@ -279,6 +279,23 @@ result:
     - esong_code: 3573A12
       song_name: I Don't Care
       content_type: ''
+  - song_name: I NEED U (Japanese Ver.)
+    song_alias:
+    esong_code: 3568B11
+    t_singer_master_id: '51130'
+    singer_name: BTS
+    singer_alias:
+    available_date: '2015-12-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいにしゆ
+    singer_name_ruby: ひていえす
+    song_variation:
+    - esong_code: 3568B11
+      song_name: I NEED U (Japanese Ver.)
+      content_type: ''
   - song_name: 愛の挨拶 〜夜空に星を散りばめて〜
     song_alias:
     esong_code: 3568B2
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3568A45
       song_name: あいまいみー
-      content_type: ''
-  - song_name: I'm alone
-    song_alias:
-    esong_code: 3574B32
-    t_singer_master_id: '53187'
-    singer_name: callme
-    singer_alias:
-    available_date: '2015-12-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいむあろん
-    singer_name_ruby: こるみ
-    song_variation:
-    - esong_code: 3574B32
-      song_name: I'm alone
       content_type: ''

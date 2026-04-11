@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
-  - song_name: ボクラノヒカリ
-    song_alias:
-    esong_code: 2742A5
-    t_singer_master_id: '42550'
-    singer_name: TH・IA
-    singer_alias:
-    available_date: '2012-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほくらのひかり
-    singer_name_ruby: ていあ
-    song_variation:
-    - esong_code: 2742A5
-      song_name: ボクラノヒカリ
-      content_type: ''
   - song_name: ぼくらのVICTORY
     song_alias:
     esong_code: 2737A44
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2759B6
       song_name: My Painter
+      content_type: ''
+  - song_name: my home town
+    song_alias:
+    esong_code: 2752A4
+    t_singer_master_id: '22325'
+    singer_name: MONKEY MAJIK
+    singer_alias:
+    available_date: '2012-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいほむたうん
+    singer_name_ruby: もんきましつく
+    song_variation:
+    - esong_code: 2752A4
+      song_name: my home town
       content_type: ''

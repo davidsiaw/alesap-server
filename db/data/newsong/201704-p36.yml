@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
-  - song_name: 未来列車
-    song_alias:
-    esong_code: 3794B42
-    t_singer_master_id: '8316'
-    singer_name: F-BLOOD
-    singer_alias:
-    available_date: '2017-04-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みらいれつしや
-    singer_name_ruby: えふふらつと
-    song_variation:
-    - esong_code: 3794B42
-      song_name: 未来列車
-      content_type: ''
-  - song_name: ミラクル☆Xmas
-    song_alias:
-    esong_code: 3790B36
-    t_singer_master_id: '38342'
-    singer_name: T.R.Futures
-    singer_alias:
-    available_date: '2017-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 未来戦隊タイムレンジャー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: みらくるくりすます
-    singer_name_ruby: ていあるふゆちやす
-    song_variation:
-    - esong_code: 3790B36
-      song_name: ミラクル☆Xmas
-      content_type: ''
   - song_name: ミラクル☆パラダイス
     song_alias:
     esong_code: 3793A39
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3793B32
       song_name: メルヒェン
+      content_type: ''
+  - song_name: メロディー
+    song_alias:
+    esong_code: 3795A33
+    t_singer_master_id: '1988'
+    singer_name: ふきのとう
+    singer_alias:
+    available_date: '2017-04-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めろてい
+    singer_name_ruby: ふきのとう
+    song_variation:
+    - esong_code: 3795A33
+      song_name: メロディー
+      content_type: ''
+  - song_name: 望月
+    song_alias:
+    esong_code: 3789A45
+    t_singer_master_id: '50823'
+    singer_name: 和楽器バンド
+    singer_alias:
+    available_date: '2017-04-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: もちつき
+    singer_name_ruby: わかつきはんと
+    song_variation:
+    - esong_code: 3789A45
+      song_name: 望月
       content_type: ''

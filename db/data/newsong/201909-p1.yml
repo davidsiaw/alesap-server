@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1233
-  all_max_cnt: 1468
-  all_country_cnt: 1233
+  max_cnt: 1221
+  all_max_cnt: 1456
+  all_country_cnt: 1221
   song:
   - song_name: 愛は狂奏曲
     song_alias:
@@ -92,23 +92,6 @@ result:
     - esong_code: 4249B48
       song_name: I'm gonna show U how 2 FUNK
       content_type: ''
-  - song_name: I'M SWAG [DAM本人歌唱]
-    song_alias:
-    esong_code: 4251B1
-    t_singer_master_id: '62787'
-    singer_name: ONE N' ONLY
-    singer_alias:
-    available_date: '2019-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: あいむすわつく
-    singer_name_ruby: わんえんおんり
-    song_variation:
-    - esong_code: 4251B1
-      song_name: I'M SWAG [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: アイラビュベイビー
     song_alias:
     esong_code: 4250B29
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4243B22
       song_name: アタドに告ぐ
+      content_type: ''
+  - song_name: 新しい友達Ⅱ
+    song_alias:
+    esong_code: 4247A12
+    t_singer_master_id: '64783'
+    singer_name: 川本真琴と峯田和伸
+    singer_alias:
+    available_date: '2019-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あたらしいともたち
+    singer_name_ruby: かわもとまこととみねたかす
+    song_variation:
+    - esong_code: 4247A12
+      song_name: 新しい友達Ⅱ
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: "『エド・ゲインにおめでとうって言われた。』"
-    song_alias:
-    esong_code: 1867B1
-    t_singer_master_id: '29698'
-    singer_name: the Pumpkin Head
-    singer_alias:
-    available_date: '2007-09-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えとけいんにおめ
-    singer_name_ruby: はんふきんへつと
-    song_variation:
-    - esong_code: 1867B1
-      song_name: "『エド・ゲインにおめでとうって言われた。』"
-      content_type: ''
   - song_name: Etranger
     song_alias:
     esong_code: 1869B44
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1865A28
       song_name: オモチャの兵隊
+      content_type: ''
+  - song_name: おやすみ Good Night
+    song_alias:
+    esong_code: 1866A12
+    t_singer_master_id: '29953'
+    singer_name: スラップスティック
+    singer_alias:
+    available_date: '2007-09-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやすみくつとな
+    singer_name_ruby: すらつふすていつく
+    song_variation:
+    - esong_code: 1866A12
+      song_name: おやすみ Good Night
       content_type: ''

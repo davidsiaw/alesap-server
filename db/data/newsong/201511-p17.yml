@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1324
-  all_max_cnt: 1489
-  all_country_cnt: 1324
+  max_cnt: 1317
+  all_max_cnt: 1482
+  all_country_cnt: 1317
   song:
-  - song_name: 嫉妬の権利
-    song_alias:
-    esong_code: 3547B32
-    t_singer_master_id: '44213'
-    singer_name: 乃木坂46
-    singer_alias:
-    available_date: '2015-11-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しつとのけんり
-    singer_name_ruby: のきさかふおていしつくす
-    song_variation:
-    - esong_code: 3547B32
-      song_name: 嫉妬の権利
-      content_type: ''
   - song_name: 失敗作少女 feat.初音ミク
     song_alias:
     esong_code: 3544B38
@@ -185,7 +168,7 @@ result:
     singer_alias:
     available_date: '2015-11-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しやいにしやいに
@@ -359,7 +342,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: しやないか
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3557B26
       song_name: J.A.N.A.I.C.A.
@@ -485,23 +468,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 秋恋
     song_alias:
-    esong_code: 3527B20
-    t_singer_master_id: '70'
-    singer_name: 浅田 あつこ
-    singer_alias:
-    available_date: '2015-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆうれん
-    singer_name_ruby: あさたあつこ
-    song_variation:
-    - esong_code: 3527B20
-      song_name: 秋恋
-      content_type: ''
-  - song_name: 秋恋
-    song_alias:
     esong_code: 3551B6
     t_singer_master_id: '70'
     singer_name: 浅田 あつこ
@@ -517,3 +483,37 @@ result:
     - esong_code: 3551B6
       song_name: 秋恋
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 秋恋
+    song_alias:
+    esong_code: 3527B20
+    t_singer_master_id: '70'
+    singer_name: 浅田 あつこ
+    singer_alias:
+    available_date: '2015-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆうれん
+    singer_name_ruby: あさたあつこ
+    song_variation:
+    - esong_code: 3527B20
+      song_name: 秋恋
+      content_type: ''
+  - song_name: シュガーソングとビターステップ
+    song_alias:
+    esong_code: 3451A37
+    t_singer_master_id: '33612'
+    singer_name: UNISON SQUARE GARDEN
+    singer_alias:
+    available_date: '2015-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 血界戦線<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: しゆかそんくと
+    singer_name_ruby: ゆにそんすくえあかてん
+    song_variation:
+    - esong_code: 3451A37
+      song_name: シュガーソングとビターステップ
+      content_type: DAMｸﾘｯﾌﾟ生音

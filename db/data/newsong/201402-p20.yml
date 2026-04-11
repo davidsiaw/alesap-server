@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: 出発のほかに何がある
-    song_alias:
-    esong_code: 269B45
-    t_singer_master_id: '1303'
-    singer_name: ザ・タイガース
-    singer_alias:
-    available_date: '2014-02-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆつはつのほかに
-    singer_name_ruby: さたいかす
-    song_variation:
-    - esong_code: 269B45
-      song_name: 出発のほかに何がある
-      content_type: ''
   - song_name: Show up!
     song_alias:
     esong_code: 3207A27
@@ -296,23 +279,6 @@ result:
     - esong_code: 3177A32
       song_name: 白い日記
       content_type: ''
-  - song_name: Sing
-    song_alias:
-    esong_code: 3203B10
-    t_singer_master_id: '46252'
-    singer_name: Goose house
-    singer_alias:
-    available_date: '2014-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんく
-    singer_name_ruby: くすはうす
-    song_variation:
-    - esong_code: 3203B10
-      song_name: Sing
-      content_type: ''
   - song_name: Sync
     song_alias:
     esong_code: 3199B10
@@ -329,6 +295,23 @@ result:
     song_variation:
     - esong_code: 3199B10
       song_name: Sync
+      content_type: ''
+  - song_name: Sing
+    song_alias:
+    esong_code: 3203B10
+    t_singer_master_id: '46252'
+    singer_name: Goose house
+    singer_alias:
+    available_date: '2014-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんく
+    singer_name_ruby: くすはうす
+    song_variation:
+    - esong_code: 3203B10
+      song_name: Sing
       content_type: ''
   - song_name: sing a song [パセラオリジナル]
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3200B44
       song_name: シンメトリー
+      content_type: ''
+  - song_name: 心友の樹
+    song_alias:
+    esong_code: 3179A12
+    t_singer_master_id: '47212'
+    singer_name: おはガールちゅ!ちゅ!ちゅ!
+    singer_alias:
+    available_date: '2014-02-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんゆうのき
+    singer_name_ruby: おはかるちゆちゆちゆ
+    song_variation:
+    - esong_code: 3179A12
+      song_name: 心友の樹
       content_type: ''

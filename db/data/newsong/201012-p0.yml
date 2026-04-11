@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1330
-  all_max_cnt: 1518
-  all_country_cnt: 1330
+  max_cnt: 1339
+  all_max_cnt: 1527
+  all_country_cnt: 1339
   song:
   - song_name: ああ思い出横丁
     song_alias:
@@ -24,22 +24,22 @@ result:
     - esong_code: 2128A19
       song_name: ああ思い出横丁
       content_type: ''
-  - song_name: I
+  - song_name: E.Y.E
     song_alias:
-    esong_code: 2160A2
-    t_singer_master_id: '7714'
-    singer_name: 小谷 美紗子
+    esong_code: 2161A18
+    t_singer_master_id: '26594'
+    singer_name: ν[NEU]
     singer_alias:
-    available_date: '2010-12-07'
+    available_date: '2010-12-21'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: あい
-    singer_name_ruby: おたにみさこ
+    singer_name_ruby: にゆ
     song_variation:
-    - esong_code: 2160A2
-      song_name: I
+    - esong_code: 2161A18
+      song_name: E.Y.E
       content_type: ''
   - song_name: i (仁後ver.)
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 2167B37
       song_name: i (仁後ver.)
       content_type: ''
-  - song_name: E.Y.E
-    song_alias:
-    esong_code: 2161A18
-    t_singer_master_id: '26594'
-    singer_name: ν[NEU]
-    singer_alias:
-    available_date: '2010-12-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あい
-    singer_name_ruby: にゆ
-    song_variation:
-    - esong_code: 2161A18
-      song_name: E.Y.E
-      content_type: ''
   - song_name: I
     song_alias:
     esong_code: 2131A7
@@ -90,6 +73,23 @@ result:
     singer_name_ruby: みすたちるとれん
     song_variation:
     - esong_code: 2131A7
+      song_name: I
+      content_type: ''
+  - song_name: I
+    song_alias:
+    esong_code: 2160A2
+    t_singer_master_id: '7714'
+    singer_name: 小谷 美紗子
+    singer_alias:
+    available_date: '2010-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あい
+    singer_name_ruby: おたにみさこ
+    song_variation:
+    - esong_code: 2160A2
       song_name: I
       content_type: ''
   - song_name: I・愛 KANSAI
@@ -298,23 +298,6 @@ result:
       content_type: ''
   - song_name: Eyes On Me
     song_alias:
-    esong_code: 2024B29
-    t_singer_master_id: '29531'
-    singer_name: Superfly
-    singer_alias:
-    available_date: '2010-12-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: The 3rd Birthday<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あいすおんみ
-    singer_name_ruby: すはふらい
-    song_variation:
-    - esong_code: 2024B29
-      song_name: Eyes On Me
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Eyes On Me
-    song_alias:
     esong_code: 2167A33
     t_singer_master_id: '29531'
     singer_name: Superfly
@@ -347,6 +330,23 @@ result:
     - esong_code: 2060A23
       song_name: Eyes On Me
       content_type: DAM生音
+  - song_name: Eyes On Me
+    song_alias:
+    esong_code: 2024B29
+    t_singer_master_id: '29531'
+    singer_name: Superfly
+    singer_alias:
+    available_date: '2010-12-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: The 3rd Birthday<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいすおんみ
+    singer_name_ruby: すはふらい
+    song_variation:
+    - esong_code: 2024B29
+      song_name: Eyes On Me
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: I still・・・
     song_alias:
     esong_code: 2285B25
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: 逢いたいね
     song_alias:
-    esong_code: 2163B27
-    t_singer_master_id: '5434'
-    singer_name: キム・ランヒ(金蘭姫)
-    singer_alias:
-    available_date: '2010-12-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あいたいね
-    singer_name_ruby: きむらんひ
-    song_variation:
-    - esong_code: 2163B27
-      song_name: 逢いたいね
-      content_type: DAM生音
-  - song_name: 逢いたいね
-    song_alias:
     esong_code: 2167B2
     t_singer_master_id: '5434'
     singer_name: キム・ランヒ(金蘭姫)
@@ -415,6 +398,23 @@ result:
     - esong_code: 2167B2
       song_name: 逢いたいね
       content_type: ''
+  - song_name: 逢いたいね
+    song_alias:
+    esong_code: 2163B27
+    t_singer_master_id: '5434'
+    singer_name: キム・ランヒ(金蘭姫)
+    singer_alias:
+    available_date: '2010-12-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あいたいね
+    singer_name_ruby: きむらんひ
+    song_variation:
+    - esong_code: 2163B27
+      song_name: 逢いたいね
+      content_type: DAM生音
   - song_name: 会いたかった
     song_alias:
     esong_code: 2164A16

@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 785
-  all_max_cnt: 853
-  all_country_cnt: 785
+  max_cnt: 780
+  all_max_cnt: 849
+  all_country_cnt: 780
   song:
-  - song_name: BLUE
-    song_alias:
-    esong_code: 2455A8
-    t_singer_master_id: '38480'
-    singer_name: 相対性理論+渋谷 慶一郎
-    singer_alias:
-    available_date: '2010-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふる
-    singer_name_ruby: そうたいせいりろんしふやけいいちろう
-    song_variation:
-    - esong_code: 2455A8
-      song_name: BLUE
-      content_type: ''
-  - song_name: BLUE (strings edit)feat.Hildur Guonadottir
-    song_alias:
-    esong_code: 2455A9
-    t_singer_master_id: '38480'
-    singer_name: 相対性理論+渋谷 慶一郎
-    singer_alias:
-    available_date: '2010-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふる
-    singer_name_ruby: そうたいせいりろんしふやけいいちろう
-    song_variation:
-    - esong_code: 2455A9
-      song_name: BLUE (strings edit)feat.Hildur Guonadottir
-      content_type: ''
-  - song_name: フルーツ・ラ・ブ・モード
-    song_alias:
-    esong_code: 2460B39
-    t_singer_master_id: '38591'
-    singer_name: 大谷 めいゆう
-    singer_alias:
-    available_date: '2010-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるつらふもと
-    singer_name_ruby: おおたにめいゆう
-    song_variation:
-    - esong_code: 2460B39
-      song_name: フルーツ・ラ・ブ・モード
-      content_type: ''
-  - song_name: ブルーバード
-    song_alias:
-    esong_code: 2456A24
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2010-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: NARUTO-ナルト-疾風伝<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ふるはと
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 2456A24
-      song_name: ブルーバード
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: BLUE BIRD
     song_alias:
     esong_code: 2459A19
@@ -194,23 +126,6 @@ result:
     - esong_code: 2459B33
       song_name: BLESS
       content_type: ''
-  - song_name: フレンズ -君の記憶のなかの僕-
-    song_alias:
-    esong_code: 2468A12
-    t_singer_master_id: '38683'
-    singer_name: 牛島 隆太
-    singer_alias:
-    available_date: '2010-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれんす
-    singer_name_ruby: うししまりゆうた
-    song_variation:
-    - esong_code: 2468A12
-      song_name: フレンズ -君の記憶のなかの僕-
-      content_type: ''
   - song_name: フレンズ
     song_alias:
     esong_code: 2461A25
@@ -227,6 +142,23 @@ result:
     song_variation:
     - esong_code: 2461A25
       song_name: フレンズ
+      content_type: ''
+  - song_name: フレンズ -君の記憶のなかの僕-
+    song_alias:
+    esong_code: 2468A12
+    t_singer_master_id: '38683'
+    singer_name: 牛島 隆太
+    singer_alias:
+    available_date: '2010-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれんす
+    singer_name_ruby: うししまりゆうた
+    song_variation:
+    - esong_code: 2468A12
+      song_name: フレンズ -君の記憶のなかの僕-
       content_type: ''
   - song_name: Blow up
     song_alias:
@@ -315,23 +247,6 @@ result:
       content_type: ''
   - song_name: BABY BABY BABY
     song_alias:
-    esong_code: 2457B21
-    t_singer_master_id: '13066'
-    singer_name: 中島 美嘉
-    singer_alias:
-    available_date: '2010-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へいひへいひ
-    singer_name_ruby: なかしまみか
-    song_variation:
-    - esong_code: 2457B21
-      song_name: BABY BABY BABY
-      content_type: ''
-  - song_name: BABY BABY BABY
-    song_alias:
     esong_code: 2461A23
     t_singer_master_id: '13066'
     singer_name: 中島 美嘉
@@ -347,6 +262,23 @@ result:
     - esong_code: 2461A23
       song_name: BABY BABY BABY
       content_type: DAM良音
+  - song_name: BABY BABY BABY
+    song_alias:
+    esong_code: 2457B21
+    t_singer_master_id: '13066'
+    singer_name: 中島 美嘉
+    singer_alias:
+    available_date: '2010-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へいひへいひ
+    singer_name_ruby: なかしまみか
+    song_variation:
+    - esong_code: 2457B21
+      song_name: BABY BABY BABY
+      content_type: ''
   - song_name: heavy+electro+dance+punk
     song_alias:
     esong_code: 2460A21
@@ -483,6 +415,23 @@ result:
     - esong_code: 2453B42
       song_name: 僕は君に恋をする
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 僕ら
+    song_alias:
+    esong_code: 2459A30
+    t_singer_master_id: '38571'
+    singer_name: DAY DRIVE
+    singer_alias:
+    available_date: '2010-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくら
+    singer_name_ruby: ていとらいふ
+    song_variation:
+    - esong_code: 2459A30
+      song_name: 僕ら
+      content_type: ''
   - song_name: ぼくら
     song_alias:
     esong_code: 2437A18
@@ -500,20 +449,71 @@ result:
     - esong_code: 2437A18
       song_name: ぼくら
       content_type: ''
-  - song_name: 僕ら
+  - song_name: 僕らの風 (JOYSOUND SP Ver.)
     song_alias:
-    esong_code: 2459A30
-    t_singer_master_id: '38571'
-    singer_name: DAY DRIVE
+    esong_code: 2456A31
+    t_singer_master_id: '37432'
+    singer_name: SKE48
+    singer_alias:
+    available_date: '2010-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾗｲｳﾞ
+    song_name_ruby: ほくらのかせ
+    singer_name_ruby: えすけいふおていえいと
+    song_variation:
+    - esong_code: 2456A31
+      song_name: 僕らの風 (JOYSOUND SP Ver.)
+      content_type: JOYﾗｲｳﾞ
+  - song_name: ポケットモンスターメドレー
+    song_alias:
+    esong_code: 2459A29
+    t_singer_master_id: '24121'
+    singer_name: アニメメドレー
     singer_alias:
     available_date: '2010-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ポケットモンスター<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほけつともんすた
+    singer_name_ruby: あにめめとれ
+    song_variation:
+    - esong_code: 2459A29
+      song_name: ポケットモンスターメドレー
+      content_type: ''
+  - song_name: 綻びし華
+    song_alias:
+    esong_code: 2457A49
+    t_singer_master_id: '33037'
+    singer_name: Asriel
+    singer_alias:
+    available_date: '2010-01-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Never7 -the end of infinity-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほころひしはな
+    singer_name_ruby: あすりえる
+    song_variation:
+    - esong_code: 2457A49
+      song_name: 綻びし華
+      content_type: ''
+  - song_name: 星屑スパイラル
+    song_alias:
+    esong_code: 2458B26
+    t_singer_master_id: '14004'
+    singer_name: 田村 ゆかり
+    singer_alias:
+    available_date: '2010-01-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: ほくら
-    singer_name_ruby: ていとらいふ
+    song_name_ruby: ほしくすすはいら
+    singer_name_ruby: たむらゆかり
     song_variation:
-    - esong_code: 2459A30
-      song_name: 僕ら
+    - esong_code: 2458B26
+      song_name: 星屑スパイラル
       content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
+  - song_name: ジャイアンみたい
+    song_alias:
+    esong_code: 3811B23
+    t_singer_master_id: '48769'
+    singer_name: 吉澤 嘉代子
+    singer_alias:
+    available_date: '2017-05-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやいあんみたい
+    singer_name_ruby: よしさわかよこ
+    song_variation:
+    - esong_code: 3811B23
+      song_name: ジャイアンみたい
+      content_type: ''
   - song_name: シャイニー
     song_alias:
     esong_code: 3816A7
@@ -264,23 +281,6 @@ result:
       content_type: ''
   - song_name: 上海たずね人
     song_alias:
-    esong_code: 3813B12
-    t_singer_master_id: '26915'
-    singer_name: たくみ 稜
-    singer_alias:
-    available_date: '2017-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: しやんはいたすねひ
-    singer_name_ruby: たくみりよう
-    song_variation:
-    - esong_code: 3813B12
-      song_name: 上海たずね人
-      content_type: JOY生演奏
-  - song_name: 上海たずね人
-    song_alias:
     esong_code: 3813A16
     t_singer_master_id: '26915'
     singer_name: たくみ 稜
@@ -296,6 +296,23 @@ result:
     - esong_code: 3813A16
       song_name: 上海たずね人
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 上海たずね人
+    song_alias:
+    esong_code: 3813B12
+    t_singer_master_id: '26915'
+    singer_name: たくみ 稜
+    singer_alias:
+    available_date: '2017-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: しやんはいたすねひ
+    singer_name_ruby: たくみりよう
+    song_variation:
+    - esong_code: 3813B12
+      song_name: 上海たずね人
+      content_type: JOY生演奏
   - song_name: 十億年
     song_alias:
     esong_code: 3807A10
@@ -491,7 +508,7 @@ result:
     singer_alias:
     available_date: '2017-05-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 遙かなる時空の中で6 幻燈ロンド<番組名>
+    tie_up: 遙かなる時空の中で6<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しようねつ
@@ -500,20 +517,3 @@ result:
     - esong_code: 3813B43
       song_name: 情熱 (Album Ver.)
       content_type: ''
-  - song_name: 昇竜に月立つ
-    song_alias:
-    esong_code: 3804B15
-    t_singer_master_id: '58194'
-    singer_name: 萬月邸
-    singer_alias:
-    available_date: '2017-05-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: しようりゆうにつきた
-    singer_name_ruby: はんけつてい
-    song_variation:
-    - esong_code: 3804B15
-      song_name: 昇竜に月立つ
-      content_type: JOYｸﾘｯﾌﾟ

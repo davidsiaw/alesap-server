@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
   - song_name: EVEN
     song_alias:
@@ -75,40 +75,6 @@ result:
     - esong_code: 3206A5
       song_name: 今、咲き誇る花たちよ
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: いまさらの恋
-    song_alias:
-    esong_code: 3179B41
-    t_singer_master_id: '169'
-    singer_name: 池田 聡
-    singer_alias:
-    available_date: '2014-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いまさらのこい
-    singer_name_ruby: いけたさとし
-    song_variation:
-    - esong_code: 3179B41
-      song_name: いまさらの恋
-      content_type: ''
-  - song_name: イマジン
-    song_alias:
-    esong_code: 3204B32
-    t_singer_master_id: '49625'
-    singer_name: USAGI
-    singer_alias:
-    available_date: '2014-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: いましん
-    singer_name_ruby: うさき
-    song_variation:
-    - esong_code: 3204B32
-      song_name: イマジン
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: イマジン
     song_alias:
     esong_code: 3206A1
@@ -126,6 +92,23 @@ result:
     - esong_code: 3206A1
       song_name: イマジン
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: イマジン
+    song_alias:
+    esong_code: 3204B32
+    t_singer_master_id: '49625'
+    singer_name: USAGI
+    singer_alias:
+    available_date: '2014-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: いましん
+    singer_name_ruby: うさき
+    song_variation:
+    - esong_code: 3204B32
+      song_name: イマジン
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: IMAGE DOWN (LAST GIGS ver.)
     song_alias:
     esong_code: 3212B20
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1054A21
       song_name: 失われた楽園
+      content_type: ''
+  - song_name: うたうたいのうた
+    song_alias:
+    esong_code: 3183A12
+    t_singer_master_id: '49799'
+    singer_name: ハッポ☆スチロールズ
+    singer_alias:
+    available_date: '2014-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うたうたいのうた
+    singer_name_ruby: はつほすちろるす
+    song_variation:
+    - esong_code: 3183A12
+      song_name: うたうたいのうた
       content_type: ''

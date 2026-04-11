@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 911
-  all_max_cnt: 1051
-  all_country_cnt: 911
+  max_cnt: 909
+  all_max_cnt: 1049
+  all_country_cnt: 909
   song:
+  - song_name: Closed blue feat.初音ミク
+    song_alias:
+    esong_code: 2527B21
+    t_singer_master_id: '36463'
+    singer_name: イナメトオル(40mP)
+    singer_alias:
+    available_date: '2010-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: くろすとふる
+    singer_name_ruby: いなめとおるよんしゆうめとる
+    song_variation:
+    - esong_code: 2527B21
+      song_name: Closed blue feat.初音ミク
+      content_type: VOCALOID
   - song_name: クローバー
     song_alias:
     esong_code: 2541B36
@@ -400,23 +417,6 @@ result:
       content_type: ''
   - song_name: GO!GO!MANIAC
     song_alias:
-    esong_code: 2530A32
-    t_singer_master_id: '37319'
-    singer_name: 放課後ティータイム
-    singer_alias:
-    available_date: '2010-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: けいおん!!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ここまにあつ
-    singer_name_ruby: ほうかこていたいむ
-    song_variation:
-    - esong_code: 2530A32
-      song_name: GO!GO!MANIAC
-      content_type: ''
-  - song_name: GO!GO!MANIAC
-    song_alias:
     esong_code: 2550A45
     t_singer_master_id: '37319'
     singer_name: 放課後ティータイム
@@ -432,6 +432,23 @@ result:
     - esong_code: 2550A45
       song_name: GO!GO!MANIAC
       content_type: DAM生音
+  - song_name: GO!GO!MANIAC
+    song_alias:
+    esong_code: 2530A32
+    t_singer_master_id: '37319'
+    singer_name: 放課後ティータイム
+    singer_alias:
+    available_date: '2010-05-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: けいおん!!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ここまにあつ
+    singer_name_ruby: ほうかこていたいむ
+    song_variation:
+    - esong_code: 2530A32
+      song_name: GO!GO!MANIAC
+      content_type: ''
   - song_name: 心の詩 feat.初音ミク
     song_alias:
     esong_code: 2539A31
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2544A18
       song_name: CUZ I'M JAPANESE feat.B.D.the brobus,Spinna B-ILL
-      content_type: ''
-  - song_name: コスモモバイル
-    song_alias:
-    esong_code: 2536B44
-    t_singer_master_id: '35187'
-    singer_name: 青春シャンプー
-    singer_alias:
-    available_date: '2010-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こすももはいる
-    singer_name_ruby: せいしゆんしやんふ
-    song_variation:
-    - esong_code: 2536B44
-      song_name: コスモモバイル
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1549
-  all_max_cnt: 1789
-  all_country_cnt: 1549
+  max_cnt: 1543
+  all_max_cnt: 1783
+  all_country_cnt: 1543
   song:
-  - song_name: 怒りのグルーヴ 〜おとぎ話篇〜
-    song_alias:
-    esong_code: 3312B45
-    t_singer_master_id: '567'
-    singer_name: 嘉門 達夫
-    singer_alias:
-    available_date: '2014-09-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いかりのくるふ
-    singer_name_ruby: かもんたつお
-    song_variation:
-    - esong_code: 3312B45
-      song_name: 怒りのグルーヴ 〜おとぎ話篇〜
-      content_type: ''
   - song_name: 生きる
     song_alias:
     esong_code: 3325B37
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3331A37
       song_name: いつまでも忘れない
+      content_type: ''
+  - song_name: いつも笑ってちょっぴり泣いて。
+    song_alias:
+    esong_code: 3320B40
+    t_singer_master_id: '2651'
+    singer_name: 渡辺 美里
+    singer_alias:
+    available_date: '2014-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつもわらつてちよつ
+    singer_name_ruby: わたなへみさと
+    song_variation:
+    - esong_code: 3320B40
+      song_name: いつも笑ってちょっぴり泣いて。
       content_type: ''

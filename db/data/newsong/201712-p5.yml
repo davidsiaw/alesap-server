@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: iN Your Eyes
-    song_alias:
-    esong_code: 3926A5
-    t_singer_master_id: '34814'
-    singer_name: 羽多野 渉
-    singer_alias:
-    available_date: '2017-12-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: THANATOS NiGHT<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いんゆああいす
-    singer_name_ruby: はたのわたる
-    song_variation:
-    - esong_code: 3926A5
-      song_name: iN Your Eyes
-      content_type: ''
-  - song_name: We Are
-    song_alias:
-    esong_code: 3915B42
-    t_singer_master_id: '40646'
-    singer_name: Aldious
-    singer_alias:
-    available_date: '2017-12-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういあ
-    singer_name_ruby: あるていあす
-    song_variation:
-    - esong_code: 3915B42
-      song_name: We Are
-      content_type: ''
   - song_name: We're KIRA Party!!
     song_alias:
     esong_code: 3922A20
@@ -474,7 +440,7 @@ result:
     singer_alias:
     available_date: '2017-12-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: え
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3916B20
       song_name: 笑顔
+      content_type: ''
+  - song_name: エガオノキミヘ [DAM本人歌唱]
+    song_alias:
+    esong_code: 3921A41
+    t_singer_master_id: '43548'
+    singer_name: 三森 すずこ
+    singer_alias:
+    available_date: '2017-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 結城友奈は勇者である -鷲尾須美の章-<番組名>
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: えかおのきみへ
+    singer_name_ruby: みもりすすこ
+    song_variation:
+    - esong_code: 3921A41
+      song_name: エガオノキミヘ [DAM本人歌唱]
+      content_type: DAM本人歌唱
+  - song_name: 笑顔をみせて
+    song_alias:
+    esong_code: 3916B26
+    t_singer_master_id: '7646'
+    singer_name: 松 たか子
+    singer_alias:
+    available_date: '2017-12-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えかおをみせて
+    singer_name_ruby: まつたかこ
+    song_variation:
+    - esong_code: 3916B26
+      song_name: 笑顔をみせて
       content_type: ''

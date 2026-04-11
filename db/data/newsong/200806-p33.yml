@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
-  - song_name: 雪物語
-    song_alias:
-    esong_code: 2019A2
-    t_singer_master_id: '6239'
-    singer_name: 岩本 公水
-    singer_alias:
-    available_date: '2008-06-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆきものかたり
-    singer_name_ruby: いわもとくみ
-    song_variation:
-    - esong_code: 2019A2
-      song_name: 雪物語
-      content_type: ''
-  - song_name: Yukiyanagi 雪柳 〜We're watching you〜
-    song_alias:
-    esong_code: 2018A41
-    t_singer_master_id: '32935'
-    singer_name: Micro
-    singer_alias:
-    available_date: '2008-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ゆきやなき
-    singer_name_ruby: まいくろ
-    song_variation:
-    - esong_code: 2018A41
-      song_name: Yukiyanagi 雪柳 〜We're watching you〜
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 夢
     song_alias:
     esong_code: 2020A19
@@ -83,7 +49,7 @@ result:
     singer_alias:
     available_date: '2008-06-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ひだまりラジオ×365<番組名>
+    tie_up: ひだまりスケッチ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ゆめてりはり
@@ -247,23 +213,6 @@ result:
       content_type: ''
   - song_name: よくある話 〜喪服の女編〜
     song_alias:
-    esong_code: 2020A7
-    t_singer_master_id: '14282'
-    singer_name: 柴咲 コウ
-    singer_alias:
-    available_date: '2008-06-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: よくあるはなし
-    singer_name_ruby: しはさきこう
-    song_variation:
-    - esong_code: 2020A7
-      song_name: よくある話 〜喪服の女編〜
-      content_type: DAM良音
-  - song_name: よくある話 〜喪服の女編〜
-    song_alias:
     esong_code: 2018A16
     t_singer_master_id: '14282'
     singer_name: 柴咲 コウ
@@ -279,6 +228,23 @@ result:
     - esong_code: 2018A16
       song_name: よくある話 〜喪服の女編〜
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: よくある話 〜喪服の女編〜
+    song_alias:
+    esong_code: 2020A7
+    t_singer_master_id: '14282'
+    singer_name: 柴咲 コウ
+    singer_alias:
+    available_date: '2008-06-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: よくあるはなし
+    singer_name_ruby: しはさきこう
+    song_variation:
+    - esong_code: 2020A7
+      song_name: よくある話 〜喪服の女編〜
+      content_type: DAM良音
   - song_name: よそみしないで
     song_alias:
     esong_code: 2029B25
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2026B10
       song_name: ラストシーン
+      content_type: ''
+  - song_name: Last Train (全英語詞)
+    song_alias:
+    esong_code: 2041A39
+    t_singer_master_id: '31631'
+    singer_name: knotlamp
+    singer_alias:
+    available_date: '2008-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らすととれいん
+    singer_name_ruby: のつとらんふ
+    song_variation:
+    - esong_code: 2041A39
+      song_name: Last Train (全英語詞)
+      content_type: ''
+  - song_name: ラダメスの手紙
+    song_alias:
+    esong_code: 2022B45
+    t_singer_master_id: '15601'
+    singer_name: 劇団四季(ミュージカル)
+    singer_alias:
+    available_date: '2008-06-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らためすのてかみ
+    singer_name_ruby: けきたんしきみゆしかる
+    song_variation:
+    - esong_code: 2022B45
+      song_name: ラダメスの手紙
       content_type: ''

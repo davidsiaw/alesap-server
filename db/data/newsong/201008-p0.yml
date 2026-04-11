@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1126
-  all_max_cnt: 1256
-  all_country_cnt: 1126
+  max_cnt: 1125
+  all_max_cnt: 1255
+  all_country_cnt: 1125
   song:
   - song_name: ああいい気持ち
     song_alias:
@@ -111,23 +111,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: アイスクリーム シンドローム
     song_alias:
-    esong_code: 2590A36
-    t_singer_master_id: '16005'
-    singer_name: スキマスイッチ
-    singer_alias:
-    available_date: '2010-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ポケットモンスター ダイヤモンド&パール(劇場版)<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あいすくりむしんと
-    singer_name_ruby: すきますいつち
-    song_variation:
-    - esong_code: 2590A36
-      song_name: アイスクリーム シンドローム
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: アイスクリーム シンドローム
-    song_alias:
     esong_code: 2579A34
     t_singer_master_id: '16005'
     singer_name: スキマスイッチ
@@ -143,6 +126,23 @@ result:
     - esong_code: 2579A34
       song_name: アイスクリーム シンドローム
       content_type: DAM生音
+  - song_name: アイスクリーム シンドローム
+    song_alias:
+    esong_code: 2590A36
+    t_singer_master_id: '16005'
+    singer_name: スキマスイッチ
+    singer_alias:
+    available_date: '2010-08-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ポケットモンスター ダイヤモンド&パール(劇場版)<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいすくりむしんと
+    singer_name_ruby: すきますいつち
+    song_variation:
+    - esong_code: 2590A36
+      song_name: アイスクリーム シンドローム
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: I still love U
     song_alias:
     esong_code: 2593B14
@@ -211,23 +211,6 @@ result:
     - esong_code: 2595B4
       song_name: 会いたいキモチ
       content_type: ''
-  - song_name: 逢いたくて... feat.CHIHIRO
-    song_alias:
-    esong_code: 2595A47
-    t_singer_master_id: '32221'
-    singer_name: SHIKATA
-    singer_alias:
-    available_date: '2010-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいたくて
-    singer_name_ruby: しかた
-    song_variation:
-    - esong_code: 2595A47
-      song_name: 逢いたくて... feat.CHIHIRO
-      content_type: ''
   - song_name: 逢いたくて
     song_alias:
     esong_code: 2595A8
@@ -244,6 +227,23 @@ result:
     song_variation:
     - esong_code: 2595A8
       song_name: 逢いたくて
+      content_type: ''
+  - song_name: 逢いたくて... feat.CHIHIRO
+    song_alias:
+    esong_code: 2595A47
+    t_singer_master_id: '32221'
+    singer_name: SHIKATA
+    singer_alias:
+    available_date: '2010-08-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいたくて
+    singer_name_ruby: しかた
+    song_variation:
+    - esong_code: 2595A47
+      song_name: 逢いたくて... feat.CHIHIRO
       content_type: ''
   - song_name: 愛ってナンダホー
     song_alias:

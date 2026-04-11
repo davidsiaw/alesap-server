@@ -55,11 +55,17 @@ gem 'async-redis'
 gem 'async-websocket'
 gem 'thread-local'
 
+# JP processing gems
+gem 'natto'
+gem 'mojinizer'
+gem 'tiny_segmenter'
+
 group :development, :test do
   gem 'async-rspec'
   gem 'factory_bot_rails'
   gem 'pry-byebug', platforms: %i[mri mingw x64_mingw]
   gem 'rspec-rails'
+  gem 'webmock'
 end
 
 group :test do

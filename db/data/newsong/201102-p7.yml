@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1174
-  all_max_cnt: 1303
-  all_country_cnt: 1174
+  max_cnt: 1169
+  all_max_cnt: 1300
+  all_country_cnt: 1169
   song:
-  - song_name: 女ごころ
-    song_alias:
-    esong_code: 2307A18
-    t_singer_master_id: '41742'
-    singer_name: さくら もみじ
-    singer_alias:
-    available_date: '2011-02-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなこころ
-    singer_name_ruby: さくらもみし
-    song_variation:
-    - esong_code: 2307A18
-      song_name: 女ごころ
-      content_type: ''
   - song_name: おんなの海峡
     song_alias:
     esong_code: 1638A13
@@ -457,7 +440,7 @@ result:
     singer_alias:
     available_date: '2011-02-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双3<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かせとくものおきて
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1953B23
       song_name: 桂川
+      content_type: ''
+  - song_name: 加藤ミリヤメドレー 〜2009〜
+    song_alias:
+    esong_code: 1781B31
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2011-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かとうみりやめとれ
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 1781B31
+      song_name: 加藤ミリヤメドレー 〜2009〜
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: ぶらり旅だよ東海道
-    song_alias:
-    esong_code: 1976B5
-    t_singer_master_id: '26764'
-    singer_name: 伊東 らん子
-    singer_alias:
-    available_date: '2008-04-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらりたひたよ
-    singer_name_ruby: いとうらんこ
-    song_variation:
-    - esong_code: 1976B5
-      song_name: ぶらり旅だよ東海道
-      content_type: ''
   - song_name: Follow
     song_alias:
     esong_code: 1988B23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1998A10
       song_name: ヘヴンズドアー・ガールズ
+      content_type: ''
+  - song_name: Perish
+    song_alias:
+    esong_code: 1990B1
+    t_singer_master_id: '21798'
+    singer_name: Moi dix Mois
+    singer_alias:
+    available_date: '2008-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へりつしゆ
+    singer_name_ruby: もわていすもわ
+    song_variation:
+    - esong_code: 1990B1
+      song_name: Perish
       content_type: ''

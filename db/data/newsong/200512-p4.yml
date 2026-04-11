@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 967
-  all_max_cnt: 1006
-  all_country_cnt: 967
+  max_cnt: 962
+  all_max_cnt: 1001
+  all_country_cnt: 962
   song:
-  - song_name: WINTER SONG (DANCING SNOW FLAKES VERSION)
-    song_alias:
-    esong_code: 1412A48
-    t_singer_master_id: '1607'
-    singer_name: DREAMS COME TRUE
-    singer_alias:
-    available_date: '2005-12-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういんたそんく
-    singer_name_ruby: とりむすかむとうる
-    song_variation:
-    - esong_code: 1412A48
-      song_name: WINTER SONG (DANCING SNOW FLAKES VERSION)
-      content_type: ''
-  - song_name: Weather Report
-    song_alias:
-    esong_code: 1423B32
-    t_singer_master_id: '5620'
-    singer_name: FISHMANS
-    singer_alias:
-    available_date: '2005-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえさりほと
-    singer_name_ruby: ふいつしゆまんす
-    song_variation:
-    - esong_code: 1423B32
-      song_name: Weather Report
-      content_type: ''
   - song_name: wednesday
     song_alias:
     esong_code: 1412A2
@@ -304,7 +270,7 @@ result:
     singer_alias:
     available_date: '2005-12-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボール<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: うるふはりけん
@@ -500,6 +466,23 @@ result:
     - esong_code: 1439A4
       song_name: emotion
       content_type: ''
+  - song_name: エルの絵本 (魔女とラフレンツェ)
+    song_alias:
+    esong_code: 1412B14
+    t_singer_master_id: '23665'
+    singer_name: Sound Horizon
+    singer_alias:
+    available_date: '2005-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えるのえほん
+    singer_name_ruby: さうんとほらいす
+    song_variation:
+    - esong_code: 1412B14
+      song_name: エルの絵本 (魔女とラフレンツェ)
+      content_type: ''
   - song_name: エルの絵本 (笛吹き男とパレード)
     song_alias:
     esong_code: 1412B11
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1412B11
       song_name: エルの絵本 (笛吹き男とパレード)
+      content_type: ''
+  - song_name: エルの肖像
+    song_alias:
+    esong_code: 1412B15
+    t_singer_master_id: '23665'
+    singer_name: Sound Horizon
+    singer_alias:
+    available_date: '2005-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えるのしようそう
+    singer_name_ruby: さうんとほらいす
+    song_variation:
+    - esong_code: 1412B15
+      song_name: エルの肖像
       content_type: ''

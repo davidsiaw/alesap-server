@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1330
-  all_max_cnt: 1518
-  all_country_cnt: 1330
+  max_cnt: 1339
+  all_max_cnt: 1527
+  all_country_cnt: 1339
   song:
   - song_name: WishStar 射!命?丸●
     song_alias:
@@ -41,23 +41,6 @@ result:
     - esong_code: 2134A24
       song_name: ウィル・ユー・リメンバー? 〜接吻はアスピリンの香り〜
       content_type: ''
-  - song_name: ウェザーリポート的な。
-    song_alias:
-    esong_code: 2163A28
-    t_singer_master_id: '31448'
-    singer_name: イロクイ。
-    singer_alias:
-    available_date: '2010-12-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえさりほと
-    singer_name_ruby: いろくい
-    song_variation:
-    - esong_code: 2163A28
-      song_name: ウェザーリポート的な。
-      content_type: ''
   - song_name: ウェザーリポート
     song_alias:
     esong_code: 2128B37
@@ -74,6 +57,23 @@ result:
     song_variation:
     - esong_code: 2128B37
       song_name: ウェザーリポート
+      content_type: ''
+  - song_name: ウェザーリポート的な。
+    song_alias:
+    esong_code: 2163A28
+    t_singer_master_id: '31448'
+    singer_name: イロクイ。
+    singer_alias:
+    available_date: '2010-12-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うえさりほと
+    singer_name_ruby: いろくい
+    song_variation:
+    - esong_code: 2163A28
+      song_name: ウェザーリポート的な。
       content_type: ''
   - song_name: Wash My Blood
     song_alias:
@@ -485,23 +485,6 @@ result:
       content_type: ''
   - song_name: 越前 雪の宿
     song_alias:
-    esong_code: 2163B13
-    t_singer_master_id: '2187'
-    singer_name: 真咲 よう子
-    singer_alias:
-    available_date: '2010-12-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: えちせんゆきのやと
-    singer_name_ruby: まさきようこ
-    song_variation:
-    - esong_code: 2163B13
-      song_name: 越前 雪の宿
-      content_type: DAM生音
-  - song_name: 越前 雪の宿
-    song_alias:
     esong_code: 2167B1
     t_singer_master_id: '2187'
     singer_name: 真咲 よう子
@@ -517,3 +500,20 @@ result:
     - esong_code: 2167B1
       song_name: 越前 雪の宿
       content_type: ''
+  - song_name: 越前 雪の宿
+    song_alias:
+    esong_code: 2163B13
+    t_singer_master_id: '2187'
+    singer_name: 真咲 よう子
+    singer_alias:
+    available_date: '2010-12-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: えちせんゆきのやと
+    singer_name_ruby: まさきようこ
+    song_variation:
+    - esong_code: 2163B13
+      song_name: 越前 雪の宿
+      content_type: DAM生音

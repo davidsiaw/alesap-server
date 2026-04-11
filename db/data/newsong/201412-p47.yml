@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
+  - song_name: Run in the Rain
+    song_alias:
+    esong_code: 3363A37
+    t_singer_master_id: '2879'
+    singer_name: 遊佐 未森
+    singer_alias:
+    available_date: '2014-12-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らんいんされいん
+    singer_name_ruby: ゆさみもり
+    song_variation:
+    - esong_code: 3363A37
+      song_name: Run in the Rain
+      content_type: ''
   - song_name: Land Escape
     song_alias:
     esong_code: 3363B39
@@ -245,7 +262,7 @@ result:
     - esong_code: 1177A12
       song_name: ルウは風の中で
       content_type: ''
-  - song_name: ルパンの葛藤 (龍真咲) [DAM本人歌唱]
+  - song_name: ルパンの葛藤 (龍真咲)[DAM本人歌唱]
     song_alias:
     esong_code: 3370B47
     t_singer_master_id: '1349'
@@ -260,7 +277,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3370B47
-      song_name: ルパンの葛藤 (龍真咲) [DAM本人歌唱]
+      song_name: ルパンの葛藤 (龍真咲)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: rainy,rainy,smiles.
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3377A1
       song_name: LONG DISTANCE Part.2
-      content_type: ''
-  - song_name: Long for the Blue moon
-    song_alias:
-    esong_code: 3365A28
-    t_singer_master_id: '40486'
-    singer_name: SHANK
-    singer_alias:
-    available_date: '2014-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ろんくふおさふ
-    singer_name_ruby: しやんく
-    song_variation:
-    - esong_code: 3365A28
-      song_name: Long for the Blue moon
       content_type: ''

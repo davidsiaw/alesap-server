@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1576
-  all_max_cnt: 1796
-  all_country_cnt: 1576
+  max_cnt: 1565
+  all_max_cnt: 1785
+  all_country_cnt: 1565
   song:
-  - song_name: オオエドランヴ
-    song_alias:
-    esong_code: 3716B34
-    t_singer_master_id: '53888'
-    singer_name: れをる
-    singer_alias:
-    available_date: '2016-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおえとらんふ
-    singer_name_ruby: れをる
-    song_variation:
-    - esong_code: 3716B34
-      song_name: オオエドランヴ
-      content_type: ''
   - song_name: オオカミ男
     song_alias:
     esong_code: 3721A33
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: 男の華
     song_alias:
-    esong_code: 3712A42
-    t_singer_master_id: '42133'
-    singer_name: 五色 まり
-    singer_alias:
-    available_date: '2016-11-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこのはな
-    singer_name_ruby: こしきまり
-    song_variation:
-    - esong_code: 3712A42
-      song_name: 男の華
-      content_type: ''
-  - song_name: 男の華
-    song_alias:
     esong_code: 3724A9
     t_singer_master_id: '57528'
     singer_name: 深澤 利雄
@@ -345,6 +311,23 @@ result:
     singer_name_ruby: ふかさわとしお
     song_variation:
     - esong_code: 3724A9
+      song_name: 男の華
+      content_type: ''
+  - song_name: 男の華
+    song_alias:
+    esong_code: 3712A42
+    t_singer_master_id: '42133'
+    singer_name: 五色 まり
+    singer_alias:
+    available_date: '2016-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのはな
+    singer_name_ruby: こしきまり
+    song_variation:
+    - esong_code: 3712A42
       song_name: 男の華
       content_type: ''
   - song_name: 男の挽歌
@@ -457,7 +440,7 @@ result:
     singer_alias:
     available_date: '2016-11-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ちびまる子ちゃん(第2期)<番組名>
+    tie_up: ちびまる子ちゃん<番組名>
     country_code: '0'
     content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: おとるほんほこ
@@ -517,3 +500,20 @@ result:
     - esong_code: 3717B18
       song_name: 鬼
       content_type: DAM生音
+  - song_name: 小野田線
+    song_alias:
+    esong_code: 1532B25
+    t_singer_master_id: '26407'
+    singer_name: 浅野 佑悠輝
+    singer_alias:
+    available_date: '2016-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おのたせん
+    singer_name_ruby: あさのゆうき
+    song_variation:
+    - esong_code: 1532B25
+      song_name: 小野田線
+      content_type: ''

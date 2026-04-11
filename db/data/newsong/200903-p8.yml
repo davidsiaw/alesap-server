@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
   - song_name: 神在月
     song_alias:
@@ -315,6 +315,23 @@ result:
       content_type: ''
   - song_name: 絆
     song_alias:
+    esong_code: 2251A2
+    t_singer_master_id: '6086'
+    singer_name: エレファントカシマシ
+    singer_alias:
+    available_date: '2009-03-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: えれふあんとかしまし
+    song_variation:
+    - esong_code: 2251A2
+      song_name: 絆
+      content_type: ''
+  - song_name: 絆
+    song_alias:
     esong_code: 2264A24
     t_singer_master_id: '29437'
     singer_name: BOURBONZ
@@ -347,23 +364,6 @@ result:
     - esong_code: 2270A43
       song_name: 寄生虫×ベイビー×ゴー!
       content_type: ''
-  - song_name: kiseki
-    song_alias:
-    esong_code: 2254B33
-    t_singer_master_id: '25461'
-    singer_name: NIRGILIS
-    singer_alias:
-    available_date: '2009-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 鉄腕バーディー DECODE:02<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きせき
-    singer_name_ruby: にるきりす
-    song_variation:
-    - esong_code: 2254B33
-      song_name: kiseki
-      content_type: ''
   - song_name: 奇跡
     song_alias:
     esong_code: 2270B20
@@ -380,6 +380,23 @@ result:
     song_variation:
     - esong_code: 2270B20
       song_name: 奇跡
+      content_type: ''
+  - song_name: kiseki
+    song_alias:
+    esong_code: 2254B33
+    t_singer_master_id: '25461'
+    singer_name: NIRGILIS
+    singer_alias:
+    available_date: '2009-03-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鉄腕バーディー DECODE:02<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きせき
+    singer_name_ruby: にるきりす
+    song_variation:
+    - esong_code: 2254B33
+      song_name: kiseki
       content_type: ''
   - song_name: 気絶するほど悩ましい (Album ver.)
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2259B7
       song_name: 北見のひとよ
-      content_type: ''
-  - song_name: 機動戦士ガンダム00メドレー
-    song_alias:
-    esong_code: 2276A10
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2009-03-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 機動戦士ガンダムOO<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きとうせんしかん
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 2276A10
-      song_name: 機動戦士ガンダム00メドレー
       content_type: ''

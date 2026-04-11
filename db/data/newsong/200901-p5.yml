@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
   - song_name: 風の宿
     song_alias:
@@ -91,6 +91,23 @@ result:
     song_variation:
     - esong_code: 2198B20
       song_name: 哀しみのボート (Millennium)
+      content_type: ''
+  - song_name: 悲しみの向こう側
+    song_alias:
+    esong_code: 2133B4
+    t_singer_master_id: '12233'
+    singer_name: ハン・ジナ(ハン・ボクスン)
+    singer_alias:
+    available_date: '2009-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしみのむこうか
+    singer_name_ruby: はんしな
+    song_variation:
+    - esong_code: 2133B4
+      song_name: 悲しみの向こう側
       content_type: ''
   - song_name: 悲しみブルー
     song_alias:
@@ -355,7 +372,7 @@ result:
     singer_alias:
     available_date: '2009-01-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神谷浩史・小野大輔のDearGirl 〜Stories〜<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: きえないおもい
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2253B43
       song_name: 木曽川しぐれ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 北の漁場
-    song_alias:
-    esong_code: 2253B45
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2009-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きたのりようは
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 2253B45
-      song_name: 北の漁場
       content_type: JOYﾎﾞｰｶﾙ

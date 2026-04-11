@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: 和歌山の和はチームワーク!
-    song_alias:
-    esong_code: 3213B27
-    t_singer_master_id: '50143'
-    singer_name: 宇和 千夏と藍田 真一
-    singer_alias:
-    available_date: '2014-03-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: わかやまのわはちむ
-    singer_name_ruby: うわちかあいたしんいち
-    song_variation:
-    - esong_code: 3213B27
-      song_name: 和歌山の和はチームワーク!
-      content_type: ''
-  - song_name: 別涙
-    song_alias:
-    esong_code: 3213A9
-    t_singer_master_id: '1441'
-    singer_name: ちあき なおみ
-    singer_alias:
-    available_date: '2014-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: わかれ
-    singer_name_ruby: ちあきなおみ
-    song_variation:
-    - esong_code: 3213A9
-      song_name: 別涙
-      content_type: ''
   - song_name: 別離(わかれ)のバンドネオン
     song_alias:
     esong_code: 3222A6
@@ -313,23 +279,6 @@ result:
     - esong_code: 3222A44
       song_name: われは海の子
       content_type: JOYうたいり
-  - song_name: One [DAM本人歌唱]
-    song_alias:
-    esong_code: 3197B25
-    t_singer_master_id: '12361'
-    singer_name: RIP SLYME
-    singer_alias:
-    available_date: '2014-03-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: わん
-    singer_name_ruby: りつふすらいむ
-    song_variation:
-    - esong_code: 3197B25
-      song_name: One [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: One
     song_alias:
     esong_code: 3211B42
@@ -347,6 +296,23 @@ result:
     - esong_code: 3211B42
       song_name: One
       content_type: ''
+  - song_name: One [DAM本人歌唱]
+    song_alias:
+    esong_code: 3197B25
+    t_singer_master_id: '12361'
+    singer_name: RIP SLYME
+    singer_alias:
+    available_date: '2014-03-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: わん
+    singer_name_ruby: りつふすらいむ
+    song_variation:
+    - esong_code: 3197B25
+      song_name: One [DAM本人歌唱]
+      content_type: DAM本人歌唱
   - song_name: ONE WAY
     song_alias:
     esong_code: 3223A8

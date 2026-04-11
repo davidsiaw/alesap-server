@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1016
-  all_max_cnt: 1156
-  all_country_cnt: 1016
+  max_cnt: 1008
+  all_max_cnt: 1148
+  all_country_cnt: 1008
   song:
   - song_name: EXCITE
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 3748A32
       song_name: EXCITE
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: EXCITE (テレビオープニングサイズ)
-    song_alias:
-    esong_code: 3743B39
-    t_singer_master_id: '22586'
-    singer_name: 三浦 大知
-    singer_alias:
-    available_date: '2017-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダーエグゼイド<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えきさいと
-    singer_name_ruby: みうらたいち
-    song_variation:
-    - esong_code: 3743B39
-      song_name: EXCITE (テレビオープニングサイズ)
-      content_type: ''
   - song_name: EXXXTASY
     song_alias:
     esong_code: 3750B21
@@ -125,23 +108,6 @@ result:
     song_variation:
     - esong_code: 3746A21
       song_name: 越後水原 「名演ギター 斉藤 功」
-      content_type: ''
-  - song_name: X day
-    song_alias:
-    esong_code: 3749B47
-    t_singer_master_id: '45040'
-    singer_name: indigo la End
-    singer_alias:
-    available_date: '2017-01-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えつくすてい
-    singer_name_ruby: いんていこらえんと
-    song_variation:
-    - esong_code: 3749B47
-      song_name: X day
       content_type: ''
   - song_name: Everything's Gonna Be Alright
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 3595A40
       song_name: 男富士
       content_type: ''
+  - song_name: 踊りましょ
+    song_alias:
+    esong_code: 3603A13
+    t_singer_master_id: '16203'
+    singer_name: 川奈 ルミ(夏川琉未)
+    singer_alias:
+    available_date: '2017-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとりましよ
+    singer_name_ruby: かわなるみ
+    song_variation:
+    - esong_code: 3603A13
+      song_name: 踊りましょ
+      content_type: ''
+  - song_name: おどりゃんせ feat.初音ミク、GUMI
+    song_alias:
+    esong_code: 3755B45
+    t_singer_master_id: '57976'
+    singer_name: ユリイ・カノン(YURRY CANON)
+    singer_alias:
+    available_date: '2017-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: おとりやんせ
+    singer_name_ruby: ゆりいかのん
+    song_variation:
+    - esong_code: 3755B45
+      song_name: おどりゃんせ feat.初音ミク、GUMI
+      content_type: VOCALOID

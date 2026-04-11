@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: ミセス マーメイド (LIVEカラオケ視聴用)
+    song_alias:
+    esong_code: 3146B4
+    t_singer_master_id: '1444'
+    singer_name: チェッカーズ
+    singer_alias:
+    available_date: '2013-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みせすまめいと
+    singer_name_ruby: ちえつかす
+    song_variation:
+    - esong_code: 3146B4
+      song_name: ミセス マーメイド (LIVEカラオケ視聴用)
+      content_type: ''
+  - song_name: 道
+    song_alias:
+    esong_code: 3159A34
+    t_singer_master_id: '386'
+    singer_name: 太田 裕美
+    singer_alias:
+    available_date: '2013-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みち
+    singer_name_ruby: おおたひろみ
+    song_variation:
+    - esong_code: 3159A34
+      song_name: 道
+      content_type: ''
   - song_name: 道しるべ
     song_alias:
     esong_code: 3158A38
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 3160A20
       song_name: MoonRise Romance
-      content_type: ''
-  - song_name: Moonlight
-    song_alias:
-    esong_code: 3152A47
-    t_singer_master_id: '10597'
-    singer_name: ZEEBRA
-    singer_alias:
-    available_date: '2013-12-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むんらいと
-    singer_name_ruby: しふら
-    song_variation:
-    - esong_code: 3152A47
-      song_name: Moonlight
-      content_type: ''
-  - song_name: 夫婦ごころ
-    song_alias:
-    esong_code: 3161B36
-    t_singer_master_id: '49549'
-    singer_name: 牛若 ひろし
-    singer_alias:
-    available_date: '2013-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めおとこころ
-    singer_name_ruby: うしわかひろし
-    song_variation:
-    - esong_code: 3161B36
-      song_name: 夫婦ごころ
       content_type: ''

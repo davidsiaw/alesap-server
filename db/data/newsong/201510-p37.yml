@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1462
-  all_max_cnt: 1642
-  all_country_cnt: 1462
+  max_cnt: 1455
+  all_max_cnt: 1635
+  all_country_cnt: 1455
   song:
-  - song_name: 振り子
-    song_alias:
-    esong_code: 3256A5
-    t_singer_master_id: '21664'
-    singer_name: 若原 りょう
-    singer_alias:
-    available_date: '2015-10-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ふりこ
-    singer_name_ruby: わかはらりよう
-    song_variation:
-    - esong_code: 3256A5
-      song_name: 振り子
-      content_type: DAM生音
-  - song_name: プリチー
-    song_alias:
-    esong_code: 3523A14
-    t_singer_master_id: '53180'
-    singer_name: アカシック
-    singer_alias:
-    available_date: '2015-10-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりち
-    singer_name_ruby: あかしつく
-    song_variation:
-    - esong_code: 3523A14
-      song_name: プリチー
-      content_type: ''
-  - song_name: British Exception
-    song_alias:
-    esong_code: 3512B46
-    t_singer_master_id: '43040'
-    singer_name: 山崎 はるか
-    singer_alias:
-    available_date: '2015-10-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アブソリュート・デュオ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりていつしゆえく
-    singer_name_ruby: やまさきはるか
-    song_variation:
-    - esong_code: 3512B46
-      song_name: British Exception
-      content_type: ''
-  - song_name: プリンセスの条件
-    song_alias:
-    esong_code: 3513A7
-    t_singer_master_id: '53889'
-    singer_name: 嶋村 侑&浅野 真澄&山村 響&沢城 みゆき
-    singer_alias:
-    available_date: '2015-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Go!プリンセスプリキュア<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりんせすのしよ
-    singer_name_ruby: しまむらゆうあさのますみやま
-    song_variation:
-    - esong_code: 3513A7
-      song_name: プリンセスの条件
-      content_type: ''
   - song_name: フルカラープログラム (D.A style)
     song_alias:
     esong_code: 3522B3
@@ -221,7 +153,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: ふれいくする
     singer_name_ruby: あせんしよんふる
     song_variation:
@@ -241,7 +173,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: ふれいくする
     singer_name_ruby: あせんしよんふる
     song_variation:
@@ -421,23 +353,6 @@ result:
     - esong_code: 3514A10
       song_name: フローライト
       content_type: ''
-  - song_name: Hey!Say!JUMPヒットソングメドレー
-    song_alias:
-    esong_code: 3524A12
-    t_singer_master_id: '31487'
-    singer_name: Hey!Say!JUMP
-    singer_alias:
-    available_date: '2015-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へいせいしやんふ
-    singer_name_ruby: へいせいしやんふ
-    song_variation:
-    - esong_code: 3524A12
-      song_name: Hey!Say!JUMPヒットソングメドレー
-      content_type: ''
   - song_name: Hey!Say!JUMPメドレー 〜2015〜
     song_alias:
     esong_code: 3527A11
@@ -454,6 +369,23 @@ result:
     song_variation:
     - esong_code: 3527A11
       song_name: Hey!Say!JUMPメドレー 〜2015〜
+      content_type: ''
+  - song_name: Hey!Say!JUMPヒットソングメドレー
+    song_alias:
+    esong_code: 3524A12
+    t_singer_master_id: '31487'
+    singer_name: Hey!Say!JUMP
+    singer_alias:
+    available_date: '2015-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へいせいしやんふ
+    singer_name_ruby: へいせいしやんふ
+    song_variation:
+    - esong_code: 3524A12
+      song_name: Hey!Say!JUMPヒットソングメドレー
       content_type: ''
   - song_name: BABY
     song_alias:
@@ -522,4 +454,72 @@ result:
     song_variation:
     - esong_code: 3521B32
       song_name: Best Friend
+      content_type: ''
+  - song_name: Better days
+    song_alias:
+    esong_code: 3518B11
+    t_singer_master_id: '54466'
+    singer_name: LONGMAN
+    singer_alias:
+    available_date: '2015-10-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へたていす
+    singer_name_ruby: ろんくまん
+    song_variation:
+    - esong_code: 3518B11
+      song_name: Better days
+      content_type: ''
+  - song_name: ヘッドライト・テールライト 「名演ピアノ 美野 春樹」
+    song_alias:
+    esong_code: 2782B1
+    t_singer_master_id: '1632'
+    singer_name: 中島 みゆき
+    singer_alias:
+    available_date: '2015-10-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へつとらいとてる
+    singer_name_ruby: なかしまみゆき
+    song_variation:
+    - esong_code: 2782B1
+      song_name: ヘッドライト・テールライト 「名演ピアノ 美野 春樹」
+      content_type: ''
+  - song_name: 別の人間 feat.中納良恵
+    song_alias:
+    esong_code: 3517B40
+    t_singer_master_id: '49286'
+    singer_name: tofubeats
+    singer_alias:
+    available_date: '2015-10-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へつのにんけん
+    singer_name_ruby: とふひつ
+    song_variation:
+    - esong_code: 3517B40
+      song_name: 別の人間 feat.中納良恵
+      content_type: ''
+  - song_name: べっぴん・じゃぱん
+    song_alias:
+    esong_code: 3520B31
+    t_singer_master_id: '51907'
+    singer_name: 七瀬 藍
+    singer_alias:
+    available_date: '2015-10-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へつひんしやは
+    singer_name_ruby: ななせあい
+    song_variation:
+    - esong_code: 3520B31
+      song_name: べっぴん・じゃぱん
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
   - song_name: 青い部屋
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 3465B34
       song_name: a gray crow
       content_type: ''
-  - song_name: A-G-A-I-N
-    song_alias:
-    esong_code: 3466B25
-    t_singer_master_id: '32808'
-    singer_name: 篠崎 愛
-    singer_alias:
-    available_date: '2015-07-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけいん
-    singer_name_ruby: しのさきあい
-    song_variation:
-    - esong_code: 3466B25
-      song_name: A-G-A-I-N
-      content_type: ''
   - song_name: AGAIN
     song_alias:
     esong_code: 3468B40
@@ -261,6 +244,23 @@ result:
     song_variation:
     - esong_code: 3468B40
       song_name: AGAIN
+      content_type: ''
+  - song_name: A-G-A-I-N
+    song_alias:
+    esong_code: 3466B25
+    t_singer_master_id: '32808'
+    singer_name: 篠崎 愛
+    singer_alias:
+    available_date: '2015-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あけいん
+    singer_name_ruby: しのさきあい
+    song_variation:
+    - esong_code: 3466B25
+      song_name: A-G-A-I-N
       content_type: ''
   - song_name: アサガオの散る頃に feat.初音ミク
     song_alias:
@@ -332,23 +332,6 @@ result:
       content_type: ''
   - song_name: 紫陽花しぐれ
     song_alias:
-    esong_code: 412B36
-    t_singer_master_id: '1449'
-    singer_name: 千葉 一夫
-    singer_alias:
-    available_date: '2015-07-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: あしさいしくれ
-    singer_name_ruby: ちはかすお
-    song_variation:
-    - esong_code: 412B36
-      song_name: 紫陽花しぐれ
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 紫陽花しぐれ
-    song_alias:
     esong_code: 3470B40
     t_singer_master_id: '1449'
     singer_name: 千葉 一夫
@@ -364,6 +347,23 @@ result:
     - esong_code: 3470B40
       song_name: 紫陽花しぐれ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 紫陽花しぐれ
+    song_alias:
+    esong_code: 412B36
+    t_singer_master_id: '1449'
+    singer_name: 千葉 一夫
+    singer_alias:
+    available_date: '2015-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あしさいしくれ
+    singer_name_ruby: ちはかすお
+    song_variation:
+    - esong_code: 412B36
+      song_name: 紫陽花しぐれ
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: あじさい情話
     song_alias:
     esong_code: 3468A26

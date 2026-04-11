@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
   - song_name: AFURI
     song_alias:
@@ -177,7 +177,7 @@ result:
     - esong_code: 3580B1
       song_name: アラサードリーミン
       content_type: ''
-  - song_name: 嵐のように生きた男 (北翔・紅 他) [DAM本人歌唱]
+  - song_name: 嵐のように生きた男 (北翔・紅 他)[DAM本人歌唱]
     song_alias:
     esong_code: 3579B35
     t_singer_master_id: '1349'
@@ -192,7 +192,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3579B35
-      song_name: 嵐のように生きた男 (北翔・紅 他) [DAM本人歌唱]
+      song_name: 嵐のように生きた男 (北翔・紅 他)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 嵐メドレー 〜2015〜
     song_alias:
@@ -211,23 +211,6 @@ result:
     - esong_code: 3586B37
       song_name: 嵐メドレー 〜2015〜
       content_type: ''
-  - song_name: ありがとう 〜無限のエール〜
-    song_alias:
-    esong_code: 3586A17
-    t_singer_master_id: '28173'
-    singer_name: "℃-ute"
-    singer_alias:
-    available_date: '2016-01-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ありかとうむけん
-    singer_name_ruby: きゆと
-    song_variation:
-    - esong_code: 3586A17
-      song_name: ありがとう 〜無限のエール〜
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: ありがとう 〜無限のエール〜 (tofubeats remix)
     song_alias:
     esong_code: 3584B36
@@ -245,6 +228,23 @@ result:
     - esong_code: 3584B36
       song_name: ありがとう 〜無限のエール〜 (tofubeats remix)
       content_type: ''
+  - song_name: ありがとう 〜無限のエール〜
+    song_alias:
+    esong_code: 3586A17
+    t_singer_master_id: '28173'
+    singer_name: "℃-ute"
+    singer_alias:
+    available_date: '2016-01-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ありかとうむけん
+    singer_name_ruby: きゆと
+    song_variation:
+    - esong_code: 3586A17
+      song_name: ありがとう 〜無限のエール〜
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: ある女の詩
     song_alias:
     esong_code: 2819A32
@@ -457,7 +457,7 @@ result:
     singer_alias:
     available_date: '2016-01-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いしさくらにせん

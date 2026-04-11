@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 655
-  all_max_cnt: 733
-  all_country_cnt: 655
+  max_cnt: 652
+  all_max_cnt: 730
+  all_country_cnt: 652
   song:
-  - song_name: BARA IRO NO JINSEI
-    song_alias:
-    esong_code: 971A27
-    t_singer_master_id: '1543'
-    singer_name: D'ERLANGER
-    singer_alias:
-    available_date: '2002-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はらいろのしんせ
-    singer_name_ruby: てらんしえ
-    song_variation:
-    - esong_code: 971A27
-      song_name: BARA IRO NO JINSEI
-      content_type: ''
   - song_name: パラダイス
     song_alias:
     esong_code: 155A49
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2002-11-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボールZ<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひかりのたひ96
@@ -381,23 +364,6 @@ result:
     - esong_code: 972A24
       song_name: ひなたぼっこ
       content_type: ''
-  - song_name: 陽はまた昇る
-    song_alias:
-    esong_code: 978A22
-    t_singer_master_id: '2457'
-    singer_name: 柳 ジョージ&レイニーウッド
-    singer_alias:
-    available_date: '2002-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひはまたのほる
-    singer_name_ruby: やなきしよしあんと
-    song_variation:
-    - esong_code: 978A22
-      song_name: 陽はまた昇る
-      content_type: ''
   - song_name: 秘密のクロール
     song_alias:
     esong_code: 978A23
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 154A46
       song_name: hiroメドレー〜2002〜
+      content_type: ''
+  - song_name: ピンクのリボン
+    song_alias:
+    esong_code: 971A36
+    t_singer_master_id: '1734'
+    singer_name: 新田 恵利
+    singer_alias:
+    available_date: '2002-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひんくのりほん
+    singer_name_ruby: につたえり
+    song_variation:
+    - esong_code: 971A36
+      song_name: ピンクのリボン
+      content_type: ''
+  - song_name: "「ピンポン!」ダッシュ!!"
+    song_alias:
+    esong_code: 975B22
+    t_singer_master_id: '12201'
+    singer_name: S
+    singer_alias:
+    available_date: '2002-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひんほんたつし
+    singer_name_ruby: えす
+    song_variation:
+    - esong_code: 975B22
+      song_name: "「ピンポン!」ダッシュ!!"
       content_type: ''

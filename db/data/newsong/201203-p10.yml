@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1318
-  all_max_cnt: 1435
-  all_country_cnt: 1318
+  max_cnt: 1313
+  all_max_cnt: 1430
+  all_country_cnt: 1313
   song:
-  - song_name: 君と僕はそこにいた
-    song_alias:
-    esong_code: 2780B19
-    t_singer_master_id: '42527'
-    singer_name: AiRI(UR@N)
-    singer_alias:
-    available_date: '2012-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 機動戦士ガンダムAGE<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみとほくはそこに
-    singer_name_ruby: あいり
-    song_variation:
-    - esong_code: 2780B19
-      song_name: 君と僕はそこにいた
-      content_type: ''
   - song_name: 君に逢いたかった
     song_alias:
     esong_code: 2642A24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2768A10
       song_name: QUIT
+      content_type: ''
+  - song_name: 空腹と空白
+    song_alias:
+    esong_code: 439B40
+    t_singer_master_id: '31350'
+    singer_name: つしまみれ
+    singer_alias:
+    available_date: '2012-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くうふくとくうはく
+    singer_name_ruby: つしまみれ
+    song_variation:
+    - esong_code: 439B40
+      song_name: 空腹と空白
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 954
-  all_max_cnt: 1029
-  all_country_cnt: 954
+  max_cnt: 946
+  all_max_cnt: 1021
+  all_country_cnt: 946
   song:
-  - song_name: 咲き乱れる花
-    song_alias:
-    esong_code: 4393A26
-    t_singer_master_id: '40197'
-    singer_name: レーモンド松屋
-    singer_alias:
-    available_date: '2020-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: さきみたれるはな
-    singer_name_ruby: れもんとまつや
-    song_variation:
-    - esong_code: 4393A26
-      song_name: 咲き乱れる花
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 桜が咲く頃に
-    song_alias:
-    esong_code: 4385B36
-    t_singer_master_id: '43064'
-    singer_name: でんぱ組.inc
-    singer_alias:
-    available_date: '2020-06-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくらかさくころに
-    singer_name_ruby: てんはくみいんく
-    song_variation:
-    - esong_code: 4385B36
-      song_name: 桜が咲く頃に
-      content_type: ''
   - song_name: サクラ道!
     song_alias:
     esong_code: 4391B10
@@ -66,7 +32,7 @@ result:
     singer_alias:
     available_date: '2020-06-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 新サクラ大戦 the Animation<番組名>
+    tie_up: サクラ大戦 (TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さくらゆめみし
@@ -364,6 +330,23 @@ result:
     - esong_code: 4384B39
       song_name: サンサーラ
       content_type: ''
+  - song_name: サンサンたいそう
+    song_alias:
+    esong_code: 834A1
+    t_singer_master_id: '4269'
+    singer_name: ドリーミング
+    singer_alias:
+    available_date: '2020-06-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: それいけ!アンパンマン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんさんたいそう
+    singer_name_ruby: とりみんく
+    song_variation:
+    - esong_code: 834A1
+      song_name: サンサンたいそう
+      content_type: ''
   - song_name: サンシャインじゃない?
     song_alias:
     esong_code: 4367B41
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4390B8
       song_name: 椎名林檎ベストメドレー
+      content_type: ''
+  - song_name: Shake it up!
+    song_alias:
+    esong_code: 4386A21
+    t_singer_master_id: '48636'
+    singer_name: 麻倉 もも
+    singer_alias:
+    available_date: '2020-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しえいくいつとあつふ
+    singer_name_ruby: あさくらもも
+    song_variation:
+    - esong_code: 4386A21
+      song_name: Shake it up!
       content_type: ''

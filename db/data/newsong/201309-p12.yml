@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1500
-  all_max_cnt: 1660
-  all_country_cnt: 1500
+  max_cnt: 1480
+  all_max_cnt: 1639
+  all_country_cnt: 1480
   song:
-  - song_name: Kiss you
-    song_alias:
-    esong_code: 3100A40
-    t_singer_master_id: '39020'
-    singer_name: miwa
-    singer_alias:
-    available_date: '2013-09-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 銀の匙 Silver Spoon<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすゆ
-    singer_name_ruby: みわ
-    song_variation:
-    - esong_code: 3100A40
-      song_name: Kiss you
-      content_type: ''
-  - song_name: 季節の風に
-    song_alias:
-    esong_code: 3113A1
-    t_singer_master_id: '48440'
-    singer_name: 浦江 アキコ
-    singer_alias:
-    available_date: '2013-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きせつのかせに
-    singer_name_ruby: うらえあきこ
-    song_variation:
-    - esong_code: 3113A1
-      song_name: 季節の風に
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 季節はずれのブーゲンビリア
-    song_alias:
-    esong_code: 3112A44
-    t_singer_master_id: '45709'
-    singer_name: 蛯名 敏子
-    singer_alias:
-    available_date: '2013-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: きせつはすれのふ
-    singer_name_ruby: えひなとしこ
-    song_variation:
-    - esong_code: 3112A44
-      song_name: 季節はずれのブーゲンビリア
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 北演歌
-    song_alias:
-    esong_code: 3113B9
-    t_singer_master_id: '920'
-    singer_name: 坂本 冬美
-    singer_alias:
-    available_date: '2013-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたえんか
-    singer_name_ruby: さかもとふゆみ
-    song_variation:
-    - esong_code: 3113B9
-      song_name: 北演歌
-      content_type: ''
   - song_name: 北の浜唄
     song_alias:
     esong_code: 2751A29
@@ -92,23 +24,6 @@ result:
     - esong_code: 2751A29
       song_name: 北の浜唄
       content_type: ''
-  - song_name: 北の浜唄
-    song_alias:
-    esong_code: 2751A28
-    t_singer_master_id: '2183'
-    singer_name: 真木 柚布子(由布子)
-    singer_alias:
-    available_date: '2013-09-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きたのはまうた
-    singer_name_ruby: まきゆうこ
-    song_variation:
-    - esong_code: 2751A28
-      song_name: 北の浜唄
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 菊花
     song_alias:
     esong_code: 3107B18
@@ -247,23 +162,6 @@ result:
       content_type: ''
   - song_name: 君が思い出す僕は 君を愛しているだろうか
     song_alias:
-    esong_code: 3112A39
-    t_singer_master_id: '6560'
-    singer_name: V6
-    singer_alias:
-    available_date: '2013-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きみかおもいたす
-    singer_name_ruby: ふいしつくす
-    song_variation:
-    - esong_code: 3112A39
-      song_name: 君が思い出す僕は 君を愛しているだろうか
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 君が思い出す僕は 君を愛しているだろうか
-    song_alias:
     esong_code: 3104B43
     t_singer_master_id: '6560'
     singer_name: V6
@@ -279,23 +177,40 @@ result:
     - esong_code: 3104B43
       song_name: 君が思い出す僕は 君を愛しているだろうか
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 君が恋しくて
+  - song_name: 君が思い出す僕は 君を愛しているだろうか
     song_alias:
-    esong_code: 2751A30
-    t_singer_master_id: '2168'
-    singer_name: 前川 清
+    esong_code: 3112A39
+    t_singer_master_id: '6560'
+    singer_name: V6
     singer_alias:
-    available_date: '2013-09-03'
+    available_date: '2013-09-21'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きみかおもいたす
+    singer_name_ruby: ふいしつくす
+    song_variation:
+    - esong_code: 3112A39
+      song_name: 君が思い出す僕は 君を愛しているだろうか
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 君が恋しくて
+    song_alias:
+    esong_code: 3105A46
+    t_singer_master_id: '2168'
+    singer_name: 前川 清
+    singer_alias:
+    available_date: '2013-09-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
     song_name_ruby: きみかこいしくて
     singer_name_ruby: まえかわきよし
     song_variation:
-    - esong_code: 2751A30
+    - esong_code: 3105A46
       song_name: 君が恋しくて
-      content_type: ''
+      content_type: DAM生音
   - song_name: 君が恋しくて
     song_alias:
     esong_code: 2554B48
@@ -315,21 +230,21 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 君が恋しくて
     song_alias:
-    esong_code: 3105A46
+    esong_code: 2751A30
     t_singer_master_id: '2168'
     singer_name: 前川 清
     singer_alias:
-    available_date: '2013-09-24'
+    available_date: '2013-09-03'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type:
     song_name_ruby: きみかこいしくて
     singer_name_ruby: まえかわきよし
     song_variation:
-    - esong_code: 3105A46
+    - esong_code: 2751A30
       song_name: 君が恋しくて
-      content_type: DAM生音
+      content_type: ''
   - song_name: 君が好きで
     song_alias:
     esong_code: 3102A17
@@ -383,23 +298,6 @@ result:
       content_type: ''
   - song_name: キミとのキセキ
     song_alias:
-    esong_code: 3103B3
-    t_singer_master_id: '42909'
-    singer_name: Kis-My-Ft2
-    singer_alias:
-    available_date: '2013-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きみとのきせき
-    singer_name_ruby: きすまいふつとつ
-    song_variation:
-    - esong_code: 3103B3
-      song_name: キミとのキセキ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: キミとのキセキ
-    song_alias:
     esong_code: 3092B14
     t_singer_master_id: '42909'
     singer_name: Kis-My-Ft2
@@ -415,6 +313,23 @@ result:
     - esong_code: 3092B14
       song_name: キミとのキセキ
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: キミとのキセキ
+    song_alias:
+    esong_code: 3103B3
+    t_singer_master_id: '42909'
+    singer_name: Kis-My-Ft2
+    singer_alias:
+    available_date: '2013-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きみとのきせき
+    singer_name_ruby: きすまいふつとつ
+    song_variation:
+    - esong_code: 3103B3
+      song_name: キミとのキセキ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 君と僕の赤い糸
     song_alias:
     esong_code: 3120A43
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 3106A16
       song_name: キミの空 feat.MAY'S
+      content_type: ''
+  - song_name: 君はどこに
+    song_alias:
+    esong_code: 2449B11
+    t_singer_master_id: '1349'
+    singer_name: 宝塚歌劇団
+    singer_alias:
+    available_date: '2013-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみはとこに
+    singer_name_ruby: たからつかかけき
+    song_variation:
+    - esong_code: 2449B11
+      song_name: 君はどこに
+      content_type: ''
+  - song_name: きみはホエホエむすめ
+    song_alias:
+    esong_code: 3103B19
+    t_singer_master_id: '15174'
+    singer_name: 桃井 はるこ
+    singer_alias:
+    available_date: '2013-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみはほえほえむすめ
+    singer_name_ruby: ももいはるこ
+    song_variation:
+    - esong_code: 3103B19
+      song_name: きみはホエホエむすめ
+      content_type: ''
+  - song_name: 君を束縛したいのです
+    song_alias:
+    esong_code: 3111B46
+    t_singer_master_id: '7891'
+    singer_name: YUKI
+    singer_alias:
+    available_date: '2013-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみをそくはくした
+    singer_name_ruby: ゆき
+    song_variation:
+    - esong_code: 3111B46
+      song_name: 君を束縛したいのです
+      content_type: ''
+  - song_name: キャッホー
+    song_alias:
+    esong_code: 3101B29
+    t_singer_master_id: '31710'
+    singer_name: 依布 サラサ
+    singer_alias:
+    available_date: '2013-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやつほ
+    singer_name_ruby: いふさらさ
+    song_variation:
+    - esong_code: 3101B29
+      song_name: キャッホー
+      content_type: ''
+  - song_name: GALAXY SUPERNOVA
+    song_alias:
+    esong_code: 3108A19
+    t_singer_master_id: '40660'
+    singer_name: 少女時代
+    singer_alias:
+    available_date: '2013-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやらくしすは
+    singer_name_ruby: しようしよしたい
+    song_variation:
+    - esong_code: 3108A19
+      song_name: GALAXY SUPERNOVA
       content_type: ''

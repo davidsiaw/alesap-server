@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1365
-  all_max_cnt: 1538
-  all_country_cnt: 1365
+  max_cnt: 1361
+  all_max_cnt: 1534
+  all_country_cnt: 1361
   song:
-  - song_name: 沖縄の母 〜池原富物語〜
-    song_alias:
-    esong_code: 3395B39
-    t_singer_master_id: '56670'
-    singer_name: 北吉 伸伍
-    singer_alias:
-    available_date: '2016-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おきなわのははいけは
-    singer_name_ruby: きたよししんこ
-    song_variation:
-    - esong_code: 3395B39
-      song_name: 沖縄の母 〜池原富物語〜
-      content_type: ''
-  - song_name: おじいちゃんちへいこう
-    song_alias:
-    esong_code: 3671A28
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2016-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みんなのうた<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おしいちやんちへい
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 3671A28
-      song_name: おじいちゃんちへいこう
-      content_type: ''
   - song_name: おじいちゃんちへいこう
     song_alias:
     esong_code: 3674B1
@@ -58,6 +24,23 @@ result:
     - esong_code: 3674B1
       song_name: おじいちゃんちへいこう
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: おじいちゃんちへいこう
+    song_alias:
+    esong_code: 3671A28
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2016-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おしいちやんちへい
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 3671A28
+      song_name: おじいちゃんちへいこう
+      content_type: ''
   - song_name: おしえて神様
     song_alias:
     esong_code: 3670B25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3676B44
       song_name: 御願不足
+      content_type: ''
+  - song_name: おばけのバケちゃま
+    song_alias:
+    esong_code: 3663B44
+    t_singer_master_id: '41977'
+    singer_name: ケロポンズ
+    singer_alias:
+    available_date: '2016-08-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おはけのはけちや
+    singer_name_ruby: けろほんす
+    song_variation:
+    - esong_code: 3663B44
+      song_name: おばけのバケちゃま
       content_type: ''

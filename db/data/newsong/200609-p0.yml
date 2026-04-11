@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
   - song_name: I Will
     song_alias:
@@ -330,23 +330,6 @@ result:
     - esong_code: 751B6
       song_name: 愛はこれから
       content_type: ''
-  - song_name: I Believe
-    song_alias:
-    esong_code: 1643A34
-    t_singer_master_id: '2429'
-    singer_name: 森山 良子
-    singer_alias:
-    available_date: '2006-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいひりふ
-    singer_name_ruby: もりやまりようこ
-    song_variation:
-    - esong_code: 1643A34
-      song_name: I Believe
-      content_type: ''
   - song_name: I believe
     song_alias:
     esong_code: 1657B45
@@ -363,6 +346,23 @@ result:
     song_variation:
     - esong_code: 1657B45
       song_name: I believe
+      content_type: ''
+  - song_name: I Believe
+    song_alias:
+    esong_code: 1643A34
+    t_singer_master_id: '2429'
+    singer_name: 森山 良子
+    singer_alias:
+    available_date: '2006-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいひりふ
+    singer_name_ruby: もりやまりようこ
+    song_variation:
+    - esong_code: 1643A34
+      song_name: I Believe
       content_type: ''
   - song_name: I'm Already There
     song_alias:

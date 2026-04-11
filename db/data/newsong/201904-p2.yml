@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1349
-  all_max_cnt: 1532
-  all_country_cnt: 1349
+  max_cnt: 1335
+  all_max_cnt: 1518
+  all_country_cnt: 1335
   song:
-  - song_name: アゲイン
-    song_alias:
-    esong_code: 4182A40
-    t_singer_master_id: '52977'
-    singer_name: WANIMA
-    singer_alias:
-    available_date: '2019-04-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あけいん
-    singer_name_ruby: わにま
-    song_variation:
-    - esong_code: 4182A40
-      song_name: アゲイン
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: Against The Abyss
     song_alias:
     esong_code: 4175B38
@@ -270,7 +253,7 @@ result:
     singer_alias:
     available_date: '2019-04-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ アスタリア 新章 「アヴァロンに眠る輝石」編<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: あとへんちや
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3545A9
       song_name: あばれ川
+      content_type: ''
+  - song_name: abnormalize -Remixed by Masayuki Nakano
+    song_alias:
+    esong_code: 4182B23
+    t_singer_master_id: '31843'
+    singer_name: 凛として時雨
+    singer_alias:
+    available_date: '2019-04-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 劇場版 PSYCHO-PASS<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あふのまらいす
+    singer_name_ruby: りんとしてしくれ
+    song_variation:
+    - esong_code: 4182B23
+      song_name: abnormalize -Remixed by Masayuki Nakano
       content_type: ''

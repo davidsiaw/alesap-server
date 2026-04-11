@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 754
-  all_max_cnt: 832
-  all_country_cnt: 754
+  max_cnt: 749
+  all_max_cnt: 827
+  all_country_cnt: 749
   song:
-  - song_name: スーパースター(Dynamite version)
-    song_alias:
-    esong_code: 1367A48
-    t_singer_master_id: '20368'
-    singer_name: 東京事変
-    singer_alias:
-    available_date: '2005-09-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すはすた
-    singer_name_ruby: とうきようしへん
-    song_variation:
-    - esong_code: 1367A48
-      song_name: スーパースター(Dynamite version)
-      content_type: ''
   - song_name: Super Sonic
     song_alias:
     esong_code: 1362B49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 587A8
       song_name: 退屈な日曜日
+      content_type: ''
+  - song_name: TIMES
+    song_alias:
+    esong_code: 1380B17
+    t_singer_master_id: '8558'
+    singer_name: 鈴木 あみ
+    singer_alias:
+    available_date: '2005-09-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいむす
+    singer_name_ruby: すすきあみ
+    song_variation:
+    - esong_code: 1380B17
+      song_name: TIMES
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
   - song_name: 刈干慕情
     song_alias:
@@ -415,23 +415,6 @@ result:
     - esong_code: 2026A13
       song_name: 君想い
       content_type: ''
-  - song_name: 君がいるから
-    song_alias:
-    esong_code: 2031B19
-    t_singer_master_id: '25245'
-    singer_name: 絢香
-    singer_alias:
-    available_date: '2008-06-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみかいるから
-    singer_name_ruby: あやか
-    song_variation:
-    - esong_code: 2031B19
-      song_name: 君がいるから
-      content_type: ''
   - song_name: キミがいるから 〜Just Windy Love〜
     song_alias:
     esong_code: 2029B38
@@ -448,6 +431,23 @@ result:
     song_variation:
     - esong_code: 2029B38
       song_name: キミがいるから 〜Just Windy Love〜
+      content_type: ''
+  - song_name: 君がいるから
+    song_alias:
+    esong_code: 2031B19
+    t_singer_master_id: '25245'
+    singer_name: 絢香
+    singer_alias:
+    available_date: '2008-06-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみかいるから
+    singer_name_ruby: あやか
+    song_variation:
+    - esong_code: 2031B19
+      song_name: 君がいるから
       content_type: ''
   - song_name: 君が教えてくれたこと
     song_alias:

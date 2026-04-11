@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1452
-  all_max_cnt: 1626
-  all_country_cnt: 1452
+  max_cnt: 1445
+  all_max_cnt: 1619
+  all_country_cnt: 1445
   song:
-  - song_name: 紅いブルース
-    song_alias:
-    esong_code: 4031B48
-    t_singer_master_id: '22234'
-    singer_name: 秋元 順子
-    singer_alias:
-    available_date: '2018-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あかいふるす
-    singer_name_ruby: あきもとしゆんこ
-    song_variation:
-    - esong_code: 4031B48
-      song_name: 紅いブルース
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 赤色のヒーロー
     song_alias:
     esong_code: 4023B28
@@ -434,6 +417,23 @@ result:
       content_type: ''
   - song_name: 明日へ手拍子
     song_alias:
+    esong_code: 4030A15
+    t_singer_master_id: '55232'
+    singer_name: 村木 弾
+    singer_alias:
+    available_date: '2018-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: あすへてひようし
+    singer_name_ruby: むらきたん
+    song_variation:
+    - esong_code: 4030A15
+      song_name: 明日へ手拍子
+      content_type: JOY生演奏
+  - song_name: 明日へ手拍子
+    song_alias:
     esong_code: 4025B4
     t_singer_master_id: '55232'
     singer_name: 村木 弾
@@ -466,23 +466,6 @@ result:
     - esong_code: 4032A3
       song_name: 明日へ手拍子
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 明日へ手拍子
-    song_alias:
-    esong_code: 4030A15
-    t_singer_master_id: '55232'
-    singer_name: 村木 弾
-    singer_alias:
-    available_date: '2018-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: あすへてひようし
-    singer_name_ruby: むらきたん
-    song_variation:
-    - esong_code: 4030A15
-      song_name: 明日へ手拍子
-      content_type: JOY生演奏
   - song_name: 明日への手紙 「名演ピアノ 美野 春樹」
     song_alias:
     esong_code: 4008B26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4034B7
       song_name: アソビの時間
+      content_type: ''
+  - song_name: URCHIN PHANTOM
+    song_alias:
+    esong_code: 4032A32
+    t_singer_master_id: '53293'
+    singer_name: ENTH
+    singer_alias:
+    available_date: '2018-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あちんふあんとむ
+    singer_name_ruby: えんす
+    song_variation:
+    - esong_code: 4032A32
+      song_name: URCHIN PHANTOM
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: Two years later
-    song_alias:
-    esong_code: 2839B17
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2012-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とういやすれい
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 2839B17
-      song_name: Two years later
-      content_type: ''
   - song_name: 24karats TRIBE OF GOLD
     song_alias:
     esong_code: 2844A5
@@ -77,23 +60,6 @@ result:
       content_type: ''
   - song_name: 東京しぐれ
     song_alias:
-    esong_code: 2834B33
-    t_singer_master_id: '39604'
-    singer_name: 出光 仁美
-    singer_alias:
-    available_date: '2012-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: とうきようしくれ
-    singer_name_ruby: いてみつひとみ
-    song_variation:
-    - esong_code: 2834B33
-      song_name: 東京しぐれ
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 東京しぐれ
-    song_alias:
     esong_code: 2834A49
     t_singer_master_id: '39604'
     singer_name: 出光 仁美
@@ -109,6 +75,23 @@ result:
     - esong_code: 2834A49
       song_name: 東京しぐれ
       content_type: DAM生音
+  - song_name: 東京しぐれ
+    song_alias:
+    esong_code: 2834B33
+    t_singer_master_id: '39604'
+    singer_name: 出光 仁美
+    singer_alias:
+    available_date: '2012-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: とうきようしくれ
+    singer_name_ruby: いてみつひとみ
+    song_variation:
+    - esong_code: 2834B33
+      song_name: 東京しぐれ
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: TOKYO挽歌
     song_alias:
     esong_code: 325B47
@@ -270,7 +253,7 @@ result:
     singer_alias:
     available_date: '2012-08-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とうもろ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2828B3
       song_name: とべない鳥
+      content_type: ''
+  - song_name: 止り木暮らし
+    song_alias:
+    esong_code: 2828B22
+    t_singer_master_id: '1673'
+    singer_name: 長保 有紀
+    singer_alias:
+    available_date: '2012-08-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とまりきくらし
+    singer_name_ruby: なかほゆき
+    song_variation:
+    - esong_code: 2828B22
+      song_name: 止り木暮らし
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: Fall in Love
-    song_alias:
-    esong_code: 2496B32
-    t_singer_master_id: '38508'
-    singer_name: 青山 テルマ×SOL
-    singer_alias:
-    available_date: '2010-02-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ふおるいんらふ
-    singer_name_ruby: あおやまてるまそる
-    song_variation:
-    - esong_code: 2496B32
-      song_name: Fall in Love
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Fall in Love
     song_alias:
     esong_code: 2473B35
@@ -125,6 +108,23 @@ result:
     song_variation:
     - esong_code: 2481B36
       song_name: フヒ
+      content_type: ''
+  - song_name: 冬恋かなし
+    song_alias:
+    esong_code: 2263B7
+    t_singer_master_id: '36210'
+    singer_name: Kenjiro
+    singer_alias:
+    available_date: '2010-02-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふゆこいかなし
+    singer_name_ruby: けんしろう
+    song_variation:
+    - esong_code: 2263B7
+      song_name: 冬恋かなし
       content_type: ''
   - song_name: 冬しらず
     song_alias:
@@ -364,23 +364,6 @@ result:
     - esong_code: 2481A44
       song_name: Princess
       content_type: ''
-  - song_name: 故郷
-    song_alias:
-    esong_code: 2482A45
-    t_singer_master_id: '1451'
-    singer_name: 千葉 マリア
-    singer_alias:
-    available_date: '2010-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるさと
-    singer_name_ruby: ちはまりあ
-    song_variation:
-    - esong_code: 2482A45
-      song_name: 故郷
-      content_type: ''
   - song_name: ふるさと
     song_alias:
     esong_code: 2463A37
@@ -397,6 +380,23 @@ result:
     song_variation:
     - esong_code: 2463A37
       song_name: ふるさと
+      content_type: ''
+  - song_name: 故郷
+    song_alias:
+    esong_code: 2482A45
+    t_singer_master_id: '1451'
+    singer_name: 千葉 マリア
+    singer_alias:
+    available_date: '2010-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるさと
+    singer_name_ruby: ちはまりあ
+    song_variation:
+    - esong_code: 2482A45
+      song_name: 故郷
       content_type: ''
   - song_name: Blue Valentine's Day
     song_alias:
@@ -432,23 +432,6 @@ result:
     - esong_code: 2462B27
       song_name: blooming
       content_type: ''
-  - song_name: Breakout
-    song_alias:
-    esong_code: 2482A48
-    t_singer_master_id: '10480'
-    singer_name: Dream
-    singer_alias:
-    available_date: '2010-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれいくあうと
-    singer_name_ruby: とりむ
-    song_variation:
-    - esong_code: 2482A48
-      song_name: Breakout
-      content_type: ''
   - song_name: BREAK OUT! (New Jack Swing mix)
     song_alias:
     esong_code: 2469A21
@@ -465,6 +448,23 @@ result:
     song_variation:
     - esong_code: 2469A21
       song_name: BREAK OUT! (New Jack Swing mix)
+      content_type: ''
+  - song_name: Breakout
+    song_alias:
+    esong_code: 2482A48
+    t_singer_master_id: '10480'
+    singer_name: Dream
+    singer_alias:
+    available_date: '2010-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれいくあうと
+    singer_name_ruby: とりむ
+    song_variation:
+    - esong_code: 2482A48
+      song_name: Breakout
       content_type: ''
   - song_name: BREAK OUT!
     song_alias:

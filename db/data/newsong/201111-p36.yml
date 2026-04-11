@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: BLUE
-    song_alias:
-    esong_code: 2705A8
-    t_singer_master_id: '37373'
-    singer_name: ViViD
-    singer_alias:
-    available_date: '2011-11-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: BLEACH<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ふる
-    singer_name_ruby: ひひつと
-    song_variation:
-    - esong_code: 2705A8
-      song_name: BLUE
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: プールサイドが切れるまで
     song_alias:
     esong_code: 2715A26
@@ -321,7 +304,7 @@ result:
     singer_alias:
     available_date: '2011-11-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ エクシリア<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type: JOY生演奏
     song_name_ruby: ふろくれす
@@ -398,23 +381,6 @@ result:
     - esong_code: 2703A45
       song_name: baby
       content_type: ''
-  - song_name: BABY I LOVE U (English Ver.)
-    song_alias:
-    esong_code: 2715B15
-    t_singer_master_id: '30913'
-    singer_name: Che'Nelle
-    singer_alias:
-    available_date: '2011-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: へいひあいらふ
-    singer_name_ruby: しえねる
-    song_variation:
-    - esong_code: 2715B15
-      song_name: BABY I LOVE U (English Ver.)
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ベイビー・アイラブユー (love with シェネル)
     song_alias:
     esong_code: 2698A32
@@ -432,6 +398,23 @@ result:
     - esong_code: 2698A32
       song_name: ベイビー・アイラブユー (love with シェネル)
       content_type: ''
+  - song_name: BABY I LOVE U (English Ver.)
+    song_alias:
+    esong_code: 2715B15
+    t_singer_master_id: '30913'
+    singer_name: Che'Nelle
+    singer_alias:
+    available_date: '2011-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: へいひあいらふ
+    singer_name_ruby: しえねる
+    song_variation:
+    - esong_code: 2715B15
+      song_name: BABY I LOVE U (English Ver.)
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Baby U!
     song_alias:
     esong_code: 2715B20
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2702A27
       song_name: Veil 〜伝えたい想い〜 feat.小夏ミナト
+      content_type: ''
+  - song_name: 放課後ティータイムメドレー 〜2010〜
+    song_alias:
+    esong_code: 2714A40
+    t_singer_master_id: '24121'
+    singer_name: アニメメドレー
+    singer_alias:
+    available_date: '2011-11-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: けいおん!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほうかこていたい
+    singer_name_ruby: あにめめとれ
+    song_variation:
+    - esong_code: 2714A40
+      song_name: 放課後ティータイムメドレー 〜2010〜
       content_type: ''

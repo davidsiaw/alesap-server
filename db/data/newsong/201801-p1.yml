@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1127
-  all_max_cnt: 1243
-  all_country_cnt: 1127
+  max_cnt: 1112
+  all_max_cnt: 1228
+  all_country_cnt: 1112
   song:
   - song_name: I'll be there
     song_alias:
@@ -177,23 +177,6 @@ result:
     - esong_code: 3766A37
       song_name: アカシアの白い花
       content_type: ''
-  - song_name: アカシアの街で 「名演ギター 斉藤 功」
-    song_alias:
-    esong_code: 3931A46
-    t_singer_master_id: '18770'
-    singer_name: 北山 たけし
-    singer_alias:
-    available_date: '2018-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかしあのまちて
-    singer_name_ruby: きたやまたけし
-    song_variation:
-    - esong_code: 3931A46
-      song_name: アカシアの街で 「名演ギター 斉藤 功」
-      content_type: ''
   - song_name: アカシアの街で
     song_alias:
     esong_code: 3652A39
@@ -211,6 +194,23 @@ result:
     - esong_code: 3652A39
       song_name: アカシアの街で
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: アカシアの街で 「名演ギター 斉藤 功」
+    song_alias:
+    esong_code: 3931A46
+    t_singer_master_id: '18770'
+    singer_name: 北山 たけし
+    singer_alias:
+    available_date: '2018-01-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかしあのまちて
+    singer_name_ruby: きたやまたけし
+    song_variation:
+    - esong_code: 3931A46
+      song_name: アカシアの街で 「名演ギター 斉藤 功」
+      content_type: ''
   - song_name: 赤羽ものがたり
     song_alias:
     esong_code: 2129B28
@@ -400,23 +400,6 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 明日、また
     song_alias:
-    esong_code: 3935B22
-    t_singer_master_id: '38639'
-    singer_name: "[Alexandros]"
-    singer_alias:
-    available_date: '2018-01-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あしたまた
-    singer_name_ruby: あれきさんとろす
-    song_variation:
-    - esong_code: 3935B22
-      song_name: 明日、また
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 明日、また
-    song_alias:
     esong_code: 3930B21
     t_singer_master_id: '38639'
     singer_name: "[Alexandros]"
@@ -432,6 +415,23 @@ result:
     - esong_code: 3930B21
       song_name: 明日、また
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 明日、また
+    song_alias:
+    esong_code: 3935B22
+    t_singer_master_id: '38639'
+    singer_name: "[Alexandros]"
+    singer_alias:
+    available_date: '2018-01-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あしたまた
+    singer_name_ruby: あれきさんとろす
+    song_variation:
+    - esong_code: 3935B22
+      song_name: 明日、また
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: ASPIRIN
     song_alias:
     esong_code: 3937A33
@@ -500,20 +500,20 @@ result:
     - esong_code: 2140A4
       song_name: 熱き心に
       content_type: ''
-  - song_name: apple*colorful*princess
+  - song_name: 後書きの始まり、虚無の目次
     song_alias:
-    esong_code: 3934B42
-    t_singer_master_id: '37552'
-    singer_name: 竹達 彩奈
+    esong_code: 3933B9
+    t_singer_master_id: '46360'
+    singer_name: まふまふ
     singer_alias:
-    available_date: '2018-01-31'
+    available_date: '2018-01-23'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: あつふるからふるふ
-    singer_name_ruby: たけたつあやな
+    song_name_ruby: あとかきのはしま
+    singer_name_ruby: まふまふ
     song_variation:
-    - esong_code: 3934B42
-      song_name: apple*colorful*princess
+    - esong_code: 3933B9
+      song_name: 後書きの始まり、虚無の目次
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1500
-  all_max_cnt: 1660
-  all_country_cnt: 1500
+  max_cnt: 1480
+  all_max_cnt: 1639
+  all_country_cnt: 1480
   song:
-  - song_name: 雨と夜に墜ちて
-    song_alias:
-    esong_code: 3110A16
-    t_singer_master_id: '16183'
-    singer_name: NIGHTMARE(ナイトメア)
-    singer_alias:
-    available_date: '2013-09-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめとよるにおちて
-    singer_name_ruby: ないとめあ
-    song_variation:
-    - esong_code: 3110A16
-      song_name: 雨と夜に墜ちて
-      content_type: ''
-  - song_name: あめにっき
-    song_alias:
-    esong_code: 3100B8
-    t_singer_master_id: '46928'
-    singer_name: ごりら公園
-    singer_alias:
-    available_date: '2013-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方風神録 〜Mountain of Faith.〜<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: あめにつき
-    singer_name_ruby: こりらこうえん
-    song_variation:
-    - esong_code: 3100B8
-      song_name: あめにっき
-      content_type: 東方
   - song_name: 雨の巡り合い
     song_alias:
     esong_code: 2705A19
@@ -200,7 +166,7 @@ result:
     t_singer_master_id: '6510'
     singer_name: 水森 かおり
     singer_alias:
-    available_date: '2013-09-24'
+    available_date: '2013-09-25'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3097B23
       song_name: Yeah!!
+      content_type: ''
+  - song_name: 家出少女と未亡人 feat.初音ミク
+    song_alias:
+    esong_code: 3112B1
+    t_singer_master_id: '48815'
+    singer_name: あんよくん&エンドケイプ
+    singer_alias:
+    available_date: '2013-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: いえてしようしよ
+    singer_name_ruby: あんよくんあんとえんとけい
+    song_variation:
+    - esong_code: 3112B1
+      song_name: 家出少女と未亡人 feat.初音ミク
+      content_type: VOCALOID
+  - song_name: 言えないサヨナラ
+    song_alias:
+    esong_code: 1118A38
+    t_singer_master_id: '20891'
+    singer_name: SING4
+    singer_alias:
+    available_date: '2013-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いえないさよなら
+    singer_name_ruby: しんくふお
+    song_variation:
+    - esong_code: 1118A38
+      song_name: 言えないサヨナラ
       content_type: ''

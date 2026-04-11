@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
   - song_name: 紅蓮花
     song_alias:
@@ -43,23 +43,6 @@ result:
       content_type: ''
   - song_name: GLORY DAYS
     song_alias:
-    esong_code: 2012B45
-    t_singer_master_id: '14556'
-    singer_name: タッキー&翼
-    singer_alias:
-    available_date: '2008-06-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろりていす
-    singer_name_ruby: たつきあんとつはさ
-    song_variation:
-    - esong_code: 2012B45
-      song_name: GLORY DAYS
-      content_type: ''
-  - song_name: GLORY DAYS
-    song_alias:
     esong_code: 1993B4
     t_singer_master_id: '32150'
     singer_name: BINECKS
@@ -73,6 +56,23 @@ result:
     singer_name_ruby: はいねつくす
     song_variation:
     - esong_code: 1993B4
+      song_name: GLORY DAYS
+      content_type: ''
+  - song_name: GLORY DAYS
+    song_alias:
+    esong_code: 2012B45
+    t_singer_master_id: '14556'
+    singer_name: タッキー&翼
+    singer_alias:
+    available_date: '2008-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くろりていす
+    singer_name_ruby: たつきあんとつはさ
+    song_variation:
+    - esong_code: 2012B45
       song_name: GLORY DAYS
       content_type: ''
   - song_name: グンナイベイビー
@@ -111,23 +111,6 @@ result:
       content_type: ''
   - song_name: 激動
     song_alias:
-    esong_code: 2015A29
-    t_singer_master_id: '23642'
-    singer_name: UVERworld
-    singer_alias:
-    available_date: '2008-06-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: D.Gray-man<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: けきとう
-    singer_name_ruby: うはわると
-    song_variation:
-    - esong_code: 2015A29
-      song_name: 激動
-      content_type: ''
-  - song_name: 激動
-    song_alias:
     esong_code: 2022A49
     t_singer_master_id: '23642'
     singer_name: UVERworld
@@ -143,6 +126,23 @@ result:
     - esong_code: 2022A49
       song_name: 激動
       content_type: DAMｸﾘｯﾌﾟ良音
+  - song_name: 激動
+    song_alias:
+    esong_code: 2015A29
+    t_singer_master_id: '23642'
+    singer_name: UVERworld
+    singer_alias:
+    available_date: '2008-06-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: D.Gray-man<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: けきとう
+    singer_name_ruby: うはわると
+    song_variation:
+    - esong_code: 2015A29
+      song_name: 激動
+      content_type: ''
   - song_name: 消せないリアル
     song_alias:
     esong_code: 2014A12
@@ -415,6 +415,23 @@ result:
     - esong_code: 2021A26
       song_name: 恋のセゾン
       content_type: ''
+  - song_name: 恋の炎
+    song_alias:
+    esong_code: 1999A33
+    t_singer_master_id: '27939'
+    singer_name: 榊原 ゆい
+    singer_alias:
+    available_date: '2008-06-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: かのこん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのほのお
+    singer_name_ruby: さかきはらゆい
+    song_variation:
+    - esong_code: 1999A33
+      song_name: 恋の炎
+      content_type: ''
   - song_name: 恋は流星 [SHOOTING STAR OF LOVE]
     song_alias:
     esong_code: 2028A17
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2019B33
       song_name: 御神火椿
-      content_type: ''
-  - song_name: 個人戦士オレダム
-    song_alias:
-    esong_code: 2020B45
-    t_singer_master_id: '33235'
-    singer_name: 原田 謙太
-    singer_alias:
-    available_date: '2008-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 瀬戸の花嫁<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こしんせんしおれた
-    singer_name_ruby: はらたけんた
-    song_variation:
-    - esong_code: 2020B45
-      song_name: 個人戦士オレダム
       content_type: ''

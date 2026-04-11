@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: ハルカナタ feat.鏡音レン
-    song_alias:
-    esong_code: 2805A22
-    t_singer_master_id: '45191'
-    singer_name: クイナ/chiroro*
-    singer_alias:
-    available_date: '2012-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: はるかなた
-    singer_name_ruby: くいなちろろ
-    song_variation:
-    - esong_code: 2805A22
-      song_name: ハルカナタ feat.鏡音レン
-      content_type: VOCALOID
-  - song_name: 遥か山の辺の道
-    song_alias:
-    esong_code: 2803B28
-    t_singer_master_id: '28677'
-    singer_name: 奥野 てる子
-    singer_alias:
-    available_date: '2012-06-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるかやまのへのみ
-    singer_name_ruby: おくのてるこ
-    song_variation:
-    - esong_code: 2803B28
-      song_name: 遥か山の辺の道
-      content_type: ''
   - song_name: 春の朝
     song_alias:
     esong_code: 1224B9
@@ -247,23 +213,6 @@ result:
       content_type: ''
   - song_name: 火消し一代
     song_alias:
-    esong_code: 2808A38
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2012-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひけしいちたい
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 2808A38
-      song_name: 火消し一代
-      content_type: ''
-  - song_name: 火消し一代
-    song_alias:
     esong_code: 2807B26
     t_singer_master_id: '641'
     singer_name: 北島 三郎
@@ -279,6 +228,23 @@ result:
     - esong_code: 2807B26
       song_name: 火消し一代
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 火消し一代
+    song_alias:
+    esong_code: 2808A38
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2012-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひけしいちたい
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 2808A38
+      song_name: 火消し一代
+      content_type: ''
   - song_name: 非公認戦隊アキバレンジャー feat.山形ユキオ
     song_alias:
     esong_code: 2799B19
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2802B40
       song_name: 人吉馬ーガーのうた
+      content_type: ''
+  - song_name: 独り占めドール
+    song_alias:
+    esong_code: 2805A43
+    t_singer_master_id: '43054'
+    singer_name: 幽閉サテライト/senya
+    singer_alias:
+    available_date: '2012-06-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方妖々夢 〜Perfect Cherry Blossom.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: ひとりしめとる
+    singer_name_ruby: ゆうへいさてらいとせんや
+    song_variation:
+    - esong_code: 2805A43
+      song_name: 独り占めドール
+      content_type: 東方
+  - song_name: ひとりじゃないからさ
+    song_alias:
+    esong_code: 2809B32
+    t_singer_master_id: '28495'
+    singer_name: Blue Trike
+    singer_alias:
+    available_date: '2012-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとりしやないから
+    singer_name_ruby: ふるとらいく
+    song_variation:
+    - esong_code: 2809B32
+      song_name: ひとりじゃないからさ
       content_type: ''

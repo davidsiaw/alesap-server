@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 545
-  all_max_cnt: 575
-  all_country_cnt: 545
+  max_cnt: 543
+  all_max_cnt: 573
+  all_country_cnt: 543
   song:
-  - song_name: 一つだけ
-    song_alias:
-    esong_code: 633B49
-    t_singer_master_id: '14918'
-    singer_name: LOST IN TIME
-    singer_alias:
-    available_date: '2004-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとつたけ
-    singer_name_ruby: ろすといんたいむ
-    song_variation:
-    - esong_code: 633B49
-      song_name: 一つだけ
-      content_type: ''
-  - song_name: 一つの出来事
-    song_alias:
-    esong_code: 585B47
-    t_singer_master_id: '2542'
-    singer_name: 吉田 拓郎
-    singer_alias:
-    available_date: '2004-05-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとつのてきこと
-    singer_name_ruby: よしたたくろう
-    song_variation:
-    - esong_code: 585B47
-      song_name: 一つの出来事
-      content_type: ''
   - song_name: ひとり遊び
     song_alias:
     esong_code: 779B11
@@ -249,7 +215,7 @@ result:
     song_alias:
     esong_code: 439B47
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2004-05-15'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 264A28
       song_name: Precious days
+      content_type: ''
+  - song_name: FLAME (PSYENCE FACTION VERSION)
+    song_alias:
+    esong_code: 82A35
+    t_singer_master_id: '2735'
+    singer_name: hide
+    singer_alias:
+    available_date: '2004-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれむ
+    singer_name_ruby: ひて
+    song_variation:
+    - esong_code: 82A35
+      song_name: FLAME (PSYENCE FACTION VERSION)
+      content_type: ''
+  - song_name: フレンズ
+    song_alias:
+    esong_code: 623B44
+    t_singer_master_id: '18995'
+    singer_name: 大黒 摩季とフレンズ
+    singer_alias:
+    available_date: '2004-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれんす
+    singer_name_ruby: おおくろまきとふれんす
+    song_variation:
+    - esong_code: 623B44
+      song_name: フレンズ
       content_type: ''

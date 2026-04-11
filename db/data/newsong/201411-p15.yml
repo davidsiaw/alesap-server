@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1477
-  all_max_cnt: 1665
-  all_country_cnt: 1477
+  max_cnt: 1474
+  all_max_cnt: 1662
+  all_country_cnt: 1474
   song:
-  - song_name: 恋に恋して
-    song_alias:
-    esong_code: 3361A18
-    t_singer_master_id: '10470'
-    singer_name: 倉木 麻衣
-    singer_alias:
-    available_date: '2014-11-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 名探偵コナン<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: こいにこいして
-    singer_name_ruby: くらきまい
-    song_variation:
-    - esong_code: 3361A18
-      song_name: 恋に恋して
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 恋のサンクチュアリ!
     song_alias:
     esong_code: 3353A28
@@ -160,23 +143,6 @@ result:
     - esong_code: 3349B38
       song_name: 恋人には絶対に知られたくない真実
       content_type: ''
-  - song_name: 情恋(こい)ほたる
-    song_alias:
-    esong_code: 3352B47
-    t_singer_master_id: '24709'
-    singer_name: 藤野 ゆき
-    singer_alias:
-    available_date: '2014-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいほたる
-    singer_name_ruby: ふしのゆき
-    song_variation:
-    - esong_code: 3352B47
-      song_name: 情恋(こい)ほたる
-      content_type: ''
   - song_name: 恋ぼたる
     song_alias:
     esong_code: 3174B19
@@ -193,6 +159,23 @@ result:
     song_variation:
     - esong_code: 3174B19
       song_name: 恋ぼたる
+      content_type: ''
+  - song_name: 情恋(こい)ほたる
+    song_alias:
+    esong_code: 3352B47
+    t_singer_master_id: '24709'
+    singer_name: 藤野 ゆき
+    singer_alias:
+    available_date: '2014-11-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいほたる
+    singer_name_ruby: ふしのゆき
+    song_variation:
+    - esong_code: 3352B47
+      song_name: 情恋(こい)ほたる
       content_type: ''
   - song_name: 恋遊戯
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2600B41
       song_name: 心のゆりかご
+      content_type: ''
+  - song_name: 心よ しなやかに舞え!
+    song_alias:
+    esong_code: 3349A39
+    t_singer_master_id: '950'
+    singer_name: 佐藤 健太
+    singer_alias:
+    available_date: '2014-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 高速戦隊ターボレンジャー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころよしなやかにま
+    singer_name_ruby: さとうけんた
+    song_variation:
+    - esong_code: 3349A39
+      song_name: 心よ しなやかに舞え!
       content_type: ''

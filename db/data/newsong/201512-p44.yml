@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
-  - song_name: 夜更けの乾杯
-    song_alias:
-    esong_code: 3571A16
-    t_singer_master_id: '8025'
-    singer_name: 浜 桂子
-    singer_alias:
-    available_date: '2015-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よふけのかんはい
-    singer_name_ruby: はまけいこ
-    song_variation:
-    - esong_code: 3571A16
-      song_name: 夜更けの乾杯
-      content_type: ''
-  - song_name: 夜更けのブルース
-    song_alias:
-    esong_code: 3566A6
-    t_singer_master_id: '54686'
-    singer_name: 丸兄 公敏
-    singer_alias:
-    available_date: '2015-12-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よふけのふるす
-    singer_name_ruby: まるけいきみとし
-    song_variation:
-    - esong_code: 3566A6
-      song_name: 夜更けのブルース
-      content_type: ''
-  - song_name: 夜の雨
-    song_alias:
-    esong_code: 3570B32
-    t_singer_master_id: '54958'
-    singer_name: 倉持 マリ
-    singer_alias:
-    available_date: '2015-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よるのあめ
-    singer_name_ruby: くらもちまり
-    song_variation:
-    - esong_code: 3570B32
-      song_name: 夜の雨
-      content_type: ''
-  - song_name: よわむし
-    song_alias:
-    esong_code: 2089A44
-    t_singer_master_id: '15546'
-    singer_name: 岡 たつや
-    singer_alias:
-    available_date: '2015-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よわむし
-    singer_name_ruby: おかたつや
-    song_variation:
-    - esong_code: 2089A44
-      song_name: よわむし
-      content_type: ''
   - song_name: 四銃士
     song_alias:
     esong_code: 3573B24
@@ -126,23 +58,6 @@ result:
     - esong_code: 3566B41
       song_name: 4秒
       content_type: ''
-  - song_name: ライア
-    song_alias:
-    esong_code: 3573B20
-    t_singer_master_id: '19414'
-    singer_name: Zwei
-    singer_alias:
-    available_date: '2015-12-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: STEINS;GATE 0<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: らいあ
-    singer_name_ruby: つはい
-    song_variation:
-    - esong_code: 3573B20
-      song_name: ライア
-      content_type: ''
   - song_name: Liar
     song_alias:
     esong_code: 3568A32
@@ -159,6 +74,23 @@ result:
     song_variation:
     - esong_code: 3568A32
       song_name: Liar
+      content_type: ''
+  - song_name: ライア
+    song_alias:
+    esong_code: 3573B20
+    t_singer_master_id: '19414'
+    singer_name: Zwei
+    singer_alias:
+    available_date: '2015-12-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: STEINS;GATE 0<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいあ
+    singer_name_ruby: つはい
+    song_variation:
+    - esong_code: 3573B20
+      song_name: ライア
       content_type: ''
   - song_name: License A Go Go!
     song_alias:
@@ -213,23 +145,6 @@ result:
       content_type: ''
   - song_name: LINE
     song_alias:
-    esong_code: 3567A7
-    t_singer_master_id: '16005'
-    singer_name: スキマスイッチ
-    singer_alias:
-    available_date: '2015-12-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: NARUTO-ナルト-疾風伝<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: らいん
-    singer_name_ruby: すきますいつち
-    song_variation:
-    - esong_code: 3567A7
-      song_name: LINE
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: LINE
-    song_alias:
     esong_code: 3569A30
     t_singer_master_id: '16005'
     singer_name: スキマスイッチ
@@ -245,6 +160,23 @@ result:
     - esong_code: 3569A30
       song_name: LINE
       content_type: DAM生音
+  - song_name: LINE
+    song_alias:
+    esong_code: 3567A7
+    t_singer_master_id: '16005'
+    singer_name: スキマスイッチ
+    singer_alias:
+    available_date: '2015-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: NARUTO-ナルト-疾風伝<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: らいん
+    singer_name_ruby: すきますいつち
+    song_variation:
+    - esong_code: 3567A7
+      song_name: LINE
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ラジカル・ラブカル
     song_alias:
     esong_code: 3565A38
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 3574B40
       song_name: ラブラブベイビーハッピースター
+      content_type: ''
+  - song_name: Lovely Xmas
+    song_alias:
+    esong_code: 3574A33
+    t_singer_master_id: '55032'
+    singer_name: 重岡 大毅&神山 智洋(from WEST.)
+    singer_alias:
+    available_date: '2015-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふりくりすます
+    singer_name_ruby: しけおかたいきかみやまとも
+    song_variation:
+    - esong_code: 3574A33
+      song_name: Lovely Xmas
+      content_type: ''
+  - song_name: Love Letter
+    song_alias:
+    esong_code: 3571A28
+    t_singer_master_id: '44954'
+    singer_name: MY FIRST STORY
+    singer_alias:
+    available_date: '2015-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふれた
+    singer_name_ruby: まいふあすとすとり
+    song_variation:
+    - esong_code: 3571A28
+      song_name: Love Letter
+      content_type: ''
+  - song_name: Love Letter
+    song_alias:
+    esong_code: 3569B38
+    t_singer_master_id: '47460'
+    singer_name: Jun.K(From 2PM)
+    singer_alias:
+    available_date: '2015-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふれた
+    singer_name_ruby: しゆんけい
+    song_variation:
+    - esong_code: 3569B38
+      song_name: Love Letter
+      content_type: ''
+  - song_name: ら・ら・ら feat.大黒摩季
+    song_alias:
+    esong_code: 3569B18
+    t_singer_master_id: '6455'
+    singer_name: 華原 朋美
+    singer_alias:
+    available_date: '2015-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ららら
+    singer_name_ruby: かはらともみ
+    song_variation:
+    - esong_code: 3569B18
+      song_name: ら・ら・ら feat.大黒摩季
       content_type: ''

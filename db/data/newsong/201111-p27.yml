@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: 敵は遠くに
-    song_alias:
-    esong_code: 2710B16
-    t_singer_master_id: '5833'
-    singer_name: ジャックス
-    singer_alias:
-    available_date: '2011-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てきはとおくに
-    singer_name_ruby: しやつくす
-    song_variation:
-    - esong_code: 2710B16
-      song_name: 敵は遠くに
-      content_type: ''
   - song_name: 手のひらのキセキ
     song_alias:
     esong_code: 2709A5
@@ -32,7 +15,7 @@ result:
     singer_alias:
     available_date: '2011-11-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ(TV版)<番組名>
+    tie_up: 探偵オペラ ミルキィホームズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: てのひらのきせき
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1071B15
       song_name: TO BE
+      content_type: ''
+  - song_name: To You... もう一度 feat.AZU
+    song_alias:
+    esong_code: 2707A38
+    t_singer_master_id: '37079'
+    singer_name: Sunya
+    singer_alias:
+    available_date: '2011-11-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうゆもういちと
+    singer_name_ruby: すんや
+    song_variation:
+    - esong_code: 2707A38
+      song_name: To You... もう一度 feat.AZU
       content_type: ''

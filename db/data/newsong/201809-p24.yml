@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
-  - song_name: 追想の理
-    song_alias:
-    esong_code: 4061B37
-    t_singer_master_id: '40669'
-    singer_name: VALSHE
-    singer_alias:
-    available_date: '2018-09-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 信長の忍び 〜姉川・石山篇〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ついそうのことわり
-    singer_name_ruby: はるしえ
-    song_variation:
-    - esong_code: 4061B37
-      song_name: 追想の理
-      content_type: ''
-  - song_name: 津軽慕情 「名演ギター 斉藤 功」
-    song_alias:
-    esong_code: 4044A46
-    t_singer_master_id: '15576'
-    singer_name: 山本 謙司(山本けんじ)
-    singer_alias:
-    available_date: '2018-09-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つかるほしよう
-    singer_name_ruby: やまもとけんし
-    song_variation:
-    - esong_code: 4044A46
-      song_name: 津軽慕情 「名演ギター 斉藤 功」
-      content_type: ''
   - song_name: 津軽旅情
     song_alias:
     esong_code: 4055B33
@@ -517,3 +483,37 @@ result:
     - esong_code: 4056B8
       song_name: Defunkdafied
       content_type: ''
+  - song_name: デルニエ旅行記 feat.初音ミク
+    song_alias:
+    esong_code: 4056B33
+    t_singer_master_id: '61982'
+    singer_name: PIPPO
+    singer_alias:
+    available_date: '2018-09-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: てるにえりよこうき
+    singer_name_ruby: ひつほ
+    song_variation:
+    - esong_code: 4056B33
+      song_name: デルニエ旅行記 feat.初音ミク
+      content_type: VOCALOID
+  - song_name: てるみい
+    song_alias:
+    esong_code: 4058B24
+    t_singer_master_id: '59128'
+    singer_name: IA&ONE
+    singer_alias:
+    available_date: '2018-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: "(18) キミト ツナガル パズル<番組名>"
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: てるみい
+    singer_name_ruby: いああんとおね
+    song_variation:
+    - esong_code: 4058B24
+      song_name: てるみい
+      content_type: VOCALOID

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 986
-  all_max_cnt: 1090
-  all_country_cnt: 986
+  max_cnt: 964
+  all_max_cnt: 1067
+  all_country_cnt: 964
   song:
-  - song_name: イタズラHoney
-    song_alias:
-    esong_code: 4679A14
-    t_singer_master_id: '70032'
-    singer_name: ZINGS
-    singer_alias:
-    available_date: '2022-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 神クズ☆アイドル<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いたすらはに
-    singer_name_ruby: しんくす
-    song_variation:
-    - esong_code: 4679A14
-      song_name: イタズラHoney
-      content_type: ''
   - song_name: 一味同心
     song_alias:
     esong_code: 4684B45
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4686B9
       song_name: ウエストサイド
+      content_type: ''
+  - song_name: Welcome to the PARADE!
+    song_alias:
+    esong_code: 4678A46
+    t_singer_master_id: '55534'
+    singer_name: 種﨑 敦美
+    singer_alias:
+    available_date: '2022-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: グランブルーファンタジー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うえるかむとうさは
+    singer_name_ruby: たねさきあつみ
+    song_variation:
+    - esong_code: 4678A46
+      song_name: Welcome to the PARADE!
       content_type: ''

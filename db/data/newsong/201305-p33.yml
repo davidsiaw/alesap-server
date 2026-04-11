@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: 無頼の徒
+    song_alias:
+    esong_code: 3041B25
+    t_singer_master_id: '36788'
+    singer_name: 鷲崎 健
+    singer_alias:
+    available_date: '2013-05-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらいのと
+    singer_name_ruby: わしさきたけし
+    song_variation:
+    - esong_code: 3041B25
+      song_name: 無頼の徒
+      content_type: ''
+  - song_name: Fly High!
+    song_alias:
+    esong_code: 3052B6
+    t_singer_master_id: '14869'
+    singer_name: 田中 理恵
+    singer_alias:
+    available_date: '2013-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 超次元ゲイム ネプテューヌ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらいはい
+    singer_name_ruby: たなかりえ
+    song_variation:
+    - esong_code: 3052B6
+      song_name: Fly High!
+      content_type: ''
   - song_name: Primal
     song_alias:
     esong_code: 3052B7
@@ -200,7 +234,7 @@ result:
     t_singer_master_id: '10507'
     singer_name: 氷川 きよし
     singer_alias:
-    available_date: '2013-05-28'
+    available_date: '2013-05-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -219,7 +253,7 @@ result:
     singer_alias:
     available_date: '2013-05-14'
     end_date: '2999-04-10 00:00:00'
-    tie_up: TALES OF THE ABYSS<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ふりりあんとわる
@@ -483,37 +517,3 @@ result:
     - esong_code: 3030A42
       song_name: halo effect
       content_type: ''
-  - song_name: へそ天エリザベスカラー
-    song_alias:
-    esong_code: 3049A22
-    t_singer_master_id: '704'
-    singer_name: 筋肉少女帯
-    singer_alias:
-    available_date: '2013-05-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へそてんえりさへ
-    singer_name_ruby: きんにくしようしよたい
-    song_variation:
-    - esong_code: 3049A22
-      song_name: へそ天エリザベスカラー
-      content_type: ''
-  - song_name: へそ曲がり
-    song_alias:
-    esong_code: 3035B3
-    t_singer_master_id: '20364'
-    singer_name: SUPER EIGHT
-    singer_alias:
-    available_date: '2013-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: へそまかり
-    singer_name_ruby: すはえいとかんしやにえいと
-    song_variation:
-    - esong_code: 3035B3
-      song_name: へそ曲がり
-      content_type: DAMﾌﾟﾛｵｹ

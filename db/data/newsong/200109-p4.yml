@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 407
-  all_max_cnt: 426
-  all_country_cnt: 407
+  max_cnt: 404
+  all_max_cnt: 423
+  all_country_cnt: 404
   song:
-  - song_name: 気をつけて
-    song_alias:
-    esong_code: 669A29
-    t_singer_master_id: '466'
-    singer_name: オフコース
-    singer_alias:
-    available_date: '2001-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きをつけて
-    singer_name_ruby: おふこす
-    song_variation:
-    - esong_code: 669A29
-      song_name: 気をつけて
-      content_type: ''
   - song_name: 金曜日の朝
     song_alias:
     esong_code: 672B22
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 700A15
       song_name: THE BORDER
+      content_type: ''
+  - song_name: Summer
+    song_alias:
+    esong_code: 668B25
+    t_singer_master_id: '250'
+    singer_name: 井上 陽水
+    singer_alias:
+    available_date: '2001-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さま
+    singer_name_ruby: いのうえようすい
+    song_variation:
+    - esong_code: 668B25
+      song_name: Summer
       content_type: ''

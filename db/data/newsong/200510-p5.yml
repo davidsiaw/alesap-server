@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 809
-  all_max_cnt: 933
-  all_country_cnt: 809
+  max_cnt: 808
+  all_max_cnt: 932
+  all_country_cnt: 808
   song:
   - song_name: おやすみ
     song_alias:
@@ -279,23 +279,6 @@ result:
     - esong_code: 1401B45
       song_name: COWBOY-Chris Farren Rock Mix
       content_type: ''
-  - song_name: COUNTDOWN
-    song_alias:
-    esong_code: 1384B26
-    t_singer_master_id: '13012'
-    singer_name: HYDE(L'Arc〜en〜Ciel)
-    singer_alias:
-    available_date: '2005-10-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かうんとたうん
-    singer_name_ruby: はいと
-    song_variation:
-    - esong_code: 1384B26
-      song_name: COUNTDOWN
-      content_type: ''
   - song_name: COUNTDOWN (US)
     song_alias:
     esong_code: 1384B27
@@ -312,6 +295,23 @@ result:
     song_variation:
     - esong_code: 1384B27
       song_name: COUNTDOWN (US)
+      content_type: ''
+  - song_name: COUNTDOWN
+    song_alias:
+    esong_code: 1384B26
+    t_singer_master_id: '13012'
+    singer_name: HYDE(L'Arc〜en〜Ciel)
+    singer_alias:
+    available_date: '2005-10-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かうんとたうん
+    singer_name_ruby: はいと
+    song_variation:
+    - esong_code: 1384B26
+      song_name: COUNTDOWN
       content_type: ''
   - song_name: 帰り道
     song_alias:

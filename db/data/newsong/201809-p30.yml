@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
-  - song_name: vanitas
-    song_alias:
-    esong_code: 4070A30
-    t_singer_master_id: '60094'
-    singer_name: DIMLIM
-    singer_alias:
-    available_date: '2018-09-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はにたす
-    singer_name_ruby: ていむりむ
-    song_variation:
-    - esong_code: 4070A30
-      song_name: vanitas
-      content_type: ''
-  - song_name: パニパニたいそう
-    song_alias:
-    esong_code: 4066B11
-    t_singer_master_id: '62366'
-    singer_name: 藤本 くるみ&吉武 優戯
-    singer_alias:
-    available_date: '2018-09-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: パニパニパイナ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はにはにたいそう
-    singer_name_ruby: ふしもとくるみよしたけゆうき
-    song_variation:
-    - esong_code: 4066B11
-      song_name: パニパニたいそう
-      content_type: ''
   - song_name: BURNING!!!
     song_alias:
     esong_code: 4064B18
@@ -49,7 +15,7 @@ result:
     singer_alias:
     available_date: '2018-09-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真・三國無双8<番組名>
+    tie_up: 真・三國無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はにんく
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4058B5
       song_name: ハロ/ハワユ
+      content_type: ''
+  - song_name: ハロー!ヒストリー
+    song_alias:
+    esong_code: 4069A1
+    t_singer_master_id: '62382'
+    singer_name: ハロプロ・オールスターズ
+    singer_alias:
+    available_date: '2018-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はろひすとり
+    singer_name_ruby: はろふろおるすたす
+    song_variation:
+    - esong_code: 4069A1
+      song_name: ハロー!ヒストリー
+      content_type: ''
+  - song_name: ハロー・ミュージック
+    song_alias:
+    esong_code: 4068B8
+    t_singer_master_id: '55577'
+    singer_name: サイダーガール
+    singer_alias:
+    available_date: '2018-09-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はろみゆしつく
+    singer_name_ruby: さいたかる
+    song_variation:
+    - esong_code: 4068B8
+      song_name: ハロー・ミュージック
       content_type: ''

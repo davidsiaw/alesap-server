@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 933
-  all_max_cnt: 1037
-  all_country_cnt: 933
+  max_cnt: 932
+  all_max_cnt: 1036
+  all_country_cnt: 932
   song:
-  - song_name: ベランダ
-    song_alias:
-    esong_code: 1784A1
-    t_singer_master_id: '23838'
-    singer_name: へきれき
-    singer_alias:
-    available_date: '2007-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へらんた
-    singer_name_ruby: へきれき
-    song_variation:
-    - esong_code: 1784A1
-      song_name: ベランダ
-      content_type: ''
   - song_name: BOYS BE AMBITIOUS
     song_alias:
     esong_code: 1773A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 257A26
       song_name: マイケルNo.1
+      content_type: ''
+  - song_name: Mystic Night
+    song_alias:
+    esong_code: 1783A36
+    t_singer_master_id: '12634'
+    singer_name: 岩永 哲哉
+    singer_alias:
+    available_date: '2007-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 恋する天使アンジェリーク 〜かがやきの明日〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいすていつくないと
+    singer_name_ruby: いわなかてつや
+    song_variation:
+    - esong_code: 1783A36
+      song_name: Mystic Night
       content_type: ''

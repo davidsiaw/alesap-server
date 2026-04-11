@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
-  - song_name: 手紙 〜未来〜
-    song_alias:
-    esong_code: 2739A32
-    t_singer_master_id: '12162'
-    singer_name: ケツメイシ
-    singer_alias:
-    available_date: '2012-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: てかみみらい
-    singer_name_ruby: けつめいし
-    song_variation:
-    - esong_code: 2739A32
-      song_name: 手紙 〜未来〜
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: DESTINY
     song_alias:
     esong_code: 2746A41
@@ -196,23 +179,6 @@ result:
       content_type: ''
   - song_name: 電波中毒
     song_alias:
-    esong_code: 2732B28
-    t_singer_master_id: '43950'
-    singer_name: 村人P(ラムネ)
-    singer_alias:
-    available_date: '2012-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: てんはちゆうと
-    singer_name_ruby: むらひとひ
-    song_variation:
-    - esong_code: 2732B28
-      song_name: 電波中毒
-      content_type: VOCALOID
-  - song_name: 電波中毒
-    song_alias:
     esong_code: 2747B22
     t_singer_master_id: '43950'
     singer_name: 村人P(ラムネ)
@@ -226,6 +192,23 @@ result:
     singer_name_ruby: むらひとひ
     song_variation:
     - esong_code: 2747B22
+      song_name: 電波中毒
+      content_type: VOCALOID
+  - song_name: 電波中毒
+    song_alias:
+    esong_code: 2732B28
+    t_singer_master_id: '43950'
+    singer_name: 村人P(ラムネ)
+    singer_alias:
+    available_date: '2012-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: てんはちゆうと
+    singer_name_ruby: むらひとひ
+    song_variation:
+    - esong_code: 2732B28
       song_name: 電波中毒
       content_type: VOCALOID
   - song_name: 10%Luv.
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2743A25
       song_name: 遠く遠く
+      content_type: ''
+  - song_name: 遠くの町
+    song_alias:
+    esong_code: 2737B31
+    t_singer_master_id: '36618'
+    singer_name: S.R.S
+    singer_alias:
+    available_date: '2012-01-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とおくのまち
+    singer_name_ruby: えすあるえす
+    song_variation:
+    - esong_code: 2737B31
+      song_name: 遠くの町
       content_type: ''

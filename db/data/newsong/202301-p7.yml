@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 952
-  all_max_cnt: 1096
-  all_country_cnt: 952
+  max_cnt: 967
+  all_max_cnt: 1109
+  all_country_cnt: 967
   song:
-  - song_name: ギフト
-    song_alias:
-    esong_code: 4730B1
-    t_singer_master_id: '33677'
-    singer_name: オーイシマサヨシ(大石昌良)
-    singer_alias:
-    available_date: '2023-01-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: お隣の天使様にいつの間にか駄目人間にされていた件<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きふと
-    singer_name_ruby: おいしまさよし
-    song_variation:
-    - esong_code: 4730B1
-      song_name: ギフト
-      content_type: ''
   - song_name: 気分
     song_alias:
     esong_code: 4731A35
@@ -74,23 +57,6 @@ result:
     song_variation:
     - esong_code: 4738B48
       song_name: 気まぐれランデブー
-      content_type: ''
-  - song_name: 君色々移り
-    song_alias:
-    esong_code: 4730A4
-    t_singer_master_id: '70910'
-    singer_name: 田中 秀和×浦島坂田船
-    singer_alias:
-    available_date: '2023-01-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみいろいろうつり
-    singer_name_ruby: たなかひてかすうらしま
-    song_variation:
-    - esong_code: 4730A4
-      song_name: 君色々移り
       content_type: ''
   - song_name: 君が愛を知りたいと言ったから
     song_alias:
@@ -228,6 +194,23 @@ result:
     - esong_code: 4740A10
       song_name: 君の手
       content_type: ''
+  - song_name: 君のdestination
+    song_alias:
+    esong_code: 4880B37
+    t_singer_master_id: '2542'
+    singer_name: 吉田 拓郎
+    singer_alias:
+    available_date: '2023-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのてすていね
+    singer_name_ruby: よしたたくろう
+    song_variation:
+    - esong_code: 4880B37
+      song_name: 君のdestination
+      content_type: ''
   - song_name: 君の花になる
     song_alias:
     esong_code: 4731A19
@@ -279,6 +262,23 @@ result:
     - esong_code: 4731A33
       song_name: 君を穿つ
       content_type: VOCALOID
+  - song_name: ギャグにしようぜ
+    song_alias:
+    esong_code: 4880B26
+    t_singer_master_id: '47410'
+    singer_name: My Hair is Bad
+    singer_alias:
+    available_date: '2023-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやくにしようせ
+    singer_name_ruby: まいへあいすはつと
+    song_variation:
+    - esong_code: 4880B26
+      song_name: ギャグにしようぜ
+      content_type: ''
   - song_name: Catch the Light
     song_alias:
     esong_code: 4740A49
@@ -312,6 +312,23 @@ result:
     song_variation:
     - esong_code: 4740B16
       song_name: Carry On
+      content_type: ''
+  - song_name: キャロル
+    song_alias:
+    esong_code: 4880B18
+    t_singer_master_id: '60233'
+    singer_name: 羊文学
+    singer_alias:
+    available_date: '2023-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやろる
+    singer_name_ruby: ひつしふんかく
+    song_variation:
+    - esong_code: 4880B18
+      song_name: キャロル
       content_type: ''
   - song_name: CANDY
     song_alias:
@@ -398,23 +415,6 @@ result:
     - esong_code: 4732A47
       song_name: 今日かぎり
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 鏡花水月
-    song_alias:
-    esong_code: 4731B21
-    t_singer_master_id: '70937'
-    singer_name: 宇都 圭輝×Sou
-    singer_alias:
-    available_date: '2023-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きようかすいけつ
-    singer_name_ruby: うとけいきそう
-    song_variation:
-    - esong_code: 4731B21
-      song_name: 鏡花水月
-      content_type: ''
   - song_name: 今日くらいいいじゃないか
     song_alias:
     esong_code: 4739B40
@@ -500,20 +500,20 @@ result:
     - esong_code: 4725B37
       song_name: K/D Dance Hall
       content_type: ''
-  - song_name: KING of SPADE
+  - song_name: 金色
     song_alias:
-    esong_code: 4730A2
-    t_singer_master_id: '70908'
-    singer_name: 南 早紀&沼倉 愛美&末柄 里恵&小笠原 早紀
+    esong_code: 4880B19
+    t_singer_master_id: '60233'
+    singer_name: 羊文学
     singer_alias:
-    available_date: '2023-01-15'
+    available_date: '2023-01-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: アイドルマスター ミリオンライブ! シアターデイズ<番組名>
+    tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: きんくおふすへ
-    singer_name_ruby: みなみさきぬまくらまなみす
+    song_name_ruby: きんいろ
+    singer_name_ruby: ひつしふんかく
     song_variation:
-    - esong_code: 4730A2
-      song_name: KING of SPADE
+    - esong_code: 4880B19
+      song_name: 金色
       content_type: ''

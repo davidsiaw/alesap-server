@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: 純情花吹雪
-    song_alias:
-    esong_code: 2764B47
-    t_singer_master_id: '37744'
-    singer_name: カレン
-    singer_alias:
-    available_date: '2012-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆんしようはな
-    singer_name_ruby: かれん2
-    song_variation:
-    - esong_code: 2764B47
-      song_name: 純情花吹雪
-      content_type: ''
-  - song_name: 生涯ワイルド宣言
-    song_alias:
-    esong_code: 2767A6
-    t_singer_master_id: '17451'
-    singer_name: 平田 広明
-    singer_alias:
-    available_date: '2012-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: TIGER&BUNNY<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようかいわいると
-    singer_name_ruby: ひらたひろあき
-    song_variation:
-    - esong_code: 2767A6
-      song_name: 生涯ワイルド宣言
-      content_type: ''
   - song_name: 消火器がダンディーで気が利く場合
     song_alias:
     esong_code: 2762B11
@@ -145,6 +111,23 @@ result:
       content_type: ''
   - song_name: 昭和放浪記
     song_alias:
+    esong_code: 2757A27
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2012-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: しようわほうろうき
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 2757A27
+      song_name: 昭和放浪記
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 昭和放浪記
+    song_alias:
     esong_code: 2748B48
     t_singer_master_id: '360'
     singer_name: 大川 栄策
@@ -177,23 +160,6 @@ result:
     - esong_code: 2757B37
       song_name: 昭和放浪記
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 昭和放浪記
-    song_alias:
-    esong_code: 2757A27
-    t_singer_master_id: '360'
-    singer_name: 大川 栄策
-    singer_alias:
-    available_date: '2012-02-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: しようわほうろうき
-    singer_name_ruby: おおかわえいさく
-    song_variation:
-    - esong_code: 2757A27
-      song_name: 昭和放浪記
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: シルバーの腕時計
     song_alias:
     esong_code: 2760B43
@@ -315,23 +281,6 @@ result:
       content_type: VOCALOID
   - song_name: Synchrogazer
     song_alias:
-    esong_code: 2739A45
-    t_singer_master_id: '12152'
-    singer_name: 水樹 奈々
-    singer_alias:
-    available_date: '2012-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 戦姫絶唱シンフォギア<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: しんくろけいさ
-    singer_name_ruby: みすきなな
-    song_variation:
-    - esong_code: 2739A45
-      song_name: Synchrogazer
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: Synchrogazer
-    song_alias:
     esong_code: 2752B23
     t_singer_master_id: '12152'
     singer_name: 水樹 奈々
@@ -347,6 +296,23 @@ result:
     - esong_code: 2752B23
       song_name: Synchrogazer
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Synchrogazer
+    song_alias:
+    esong_code: 2739A45
+    t_singer_master_id: '12152'
+    singer_name: 水樹 奈々
+    singer_alias:
+    available_date: '2012-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 戦姫絶唱シンフォギア<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: しんくろけいさ
+    singer_name_ruby: みすきなな
+    song_variation:
+    - esong_code: 2739A45
+      song_name: Synchrogazer
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: シンクロときめき
     song_alias:
     esong_code: 2767B24
@@ -517,3 +483,37 @@ result:
     - esong_code: 2773A46
       song_name: 人生夢櫻
       content_type: ''
+  - song_name: 人生夜汽車 (スタジオライブバージョン)
+    song_alias:
+    esong_code: 2750A40
+    t_singer_master_id: '1107'
+    singer_name: 神野 美伽
+    singer_alias:
+    available_date: '2012-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんせいよきしや
+    singer_name_ruby: しんのみか
+    song_variation:
+    - esong_code: 2750A40
+      song_name: 人生夜汽車 (スタジオライブバージョン)
+      content_type: ''
+  - song_name: 人生リセットボタン
+    song_alias:
+    esong_code: 2445A40
+    t_singer_master_id: '43972'
+    singer_name: kemu(KEMU VOXX)
+    singer_alias:
+    available_date: '2012-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: しんせいりせつとほ
+    singer_name_ruby: けむ
+    song_variation:
+    - esong_code: 2445A40
+      song_name: 人生リセットボタン
+      content_type: VOCALOID

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
-  - song_name: 母ぬふちゅくる
-    song_alias:
-    esong_code: 117A49
-    t_singer_master_id: '14166'
-    singer_name: 山里 ゆき子&兼村 利恵子
-    singer_alias:
-    available_date: '2002-06-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ははぬふちゆくる
-    singer_name_ruby: やまさとゆきこかねむらりえこ
-    song_variation:
-    - esong_code: 117A49
-      song_name: 母ぬふちゅくる
-      content_type: ''
   - song_name: BABYLON
     song_alias:
     esong_code: 863A25
@@ -134,7 +117,7 @@ result:
     singer_alias:
     available_date: '2002-06-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サモンナイト2<番組名>
+    tie_up: サモンナイト<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひかりのみやこ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 113A46
       song_name: FUN-KEY PERSONALITY feat.NORIYOSHI SASANUMA
+      content_type: ''
+  - song_name: FUN-KEY-WORD
+    song_alias:
+    esong_code: 113A47
+    t_singer_master_id: '2816'
+    singer_name: スチャダラパー
+    singer_alias:
+    available_date: '2002-06-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふあんきわと
+    singer_name_ruby: すちやたらは
+    song_variation:
+    - esong_code: 113A47
+      song_name: FUN-KEY-WORD
       content_type: ''

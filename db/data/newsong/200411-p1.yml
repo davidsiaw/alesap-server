@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 677
-  all_max_cnt: 709
-  all_country_cnt: 677
+  max_cnt: 674
+  all_max_cnt: 706
+  all_country_cnt: 674
   song:
-  - song_name: agony
-    song_alias:
-    esong_code: 236A27
-    t_singer_master_id: '14302'
-    singer_name: KOTOKO
-    singer_alias:
-    available_date: '2004-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 神無月の巫女<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あこに
-    singer_name_ruby: ことこ
-    song_variation:
-    - esong_code: 236A27
-      song_name: agony
-      content_type: ''
-  - song_name: 朝ごはんの歌
-    song_alias:
-    esong_code: 964A46
-    t_singer_master_id: '21782'
-    singer_name: びゅーちふるず
-    singer_alias:
-    available_date: '2004-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あさこはんのうた
-    singer_name_ruby: ひゆちふるす
-    song_variation:
-    - esong_code: 964A46
-      song_name: 朝ごはんの歌
-      content_type: ''
   - song_name: 朝焼け
     song_alias:
     esong_code: 960A42
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 941A20
       song_name: 新たなる誓い
+      content_type: ''
+  - song_name: ARIGATO
+    song_alias:
+    esong_code: 711B21
+    t_singer_master_id: '1928'
+    singer_name: B'z
+    singer_alias:
+    available_date: '2004-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｽｺﾞｵﾄ生音
+    song_name_ruby: ありかと
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 711B21
+      song_name: ARIGATO
+      content_type: JOYｽｺﾞｵﾄ生音
+  - song_name: あるぺじを
+    song_alias:
+    esong_code: 922A16
+    t_singer_master_id: '18228'
+    singer_name: KEY GOT CREW
+    singer_alias:
+    available_date: '2004-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あるへしお
+    singer_name_ruby: きかつとくる
+    song_variation:
+    - esong_code: 922A16
+      song_name: あるぺじを
       content_type: ''

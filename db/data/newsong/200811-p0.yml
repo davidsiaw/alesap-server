@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1132
-  all_country_cnt: 1023
+  max_cnt: 1015
+  all_max_cnt: 1124
+  all_country_cnt: 1015
   song:
   - song_name: I、愛、会い
     song_alias:
@@ -162,23 +162,6 @@ result:
       content_type: ''
   - song_name: 愛情行進曲
     song_alias:
-    esong_code: 2133A30
-    t_singer_master_id: '1352'
-    singer_name: 田川 寿美
-    singer_alias:
-    available_date: '2008-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいしようこうしん
-    singer_name_ruby: たかわとしみ
-    song_variation:
-    - esong_code: 2133A30
-      song_name: 愛情行進曲
-      content_type: ''
-  - song_name: 愛情行進曲
-    song_alias:
     esong_code: 2146B5
     t_singer_master_id: '1352'
     singer_name: 田川 寿美
@@ -194,6 +177,23 @@ result:
     - esong_code: 2146B5
       song_name: 愛情行進曲
       content_type: DAM生音
+  - song_name: 愛情行進曲
+    song_alias:
+    esong_code: 2133A30
+    t_singer_master_id: '1352'
+    singer_name: 田川 寿美
+    singer_alias:
+    available_date: '2008-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいしようこうしん
+    singer_name_ruby: たかわとしみ
+    song_variation:
+    - esong_code: 2133A30
+      song_name: 愛情行進曲
+      content_type: ''
   - song_name: I STAND FREE
     song_alias:
     esong_code: 2152B32
@@ -215,7 +215,7 @@ result:
     song_alias:
     esong_code: 2156A48
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2008-11-11'
     end_date: '2999-04-10 00:00:00'

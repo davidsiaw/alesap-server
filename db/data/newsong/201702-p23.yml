@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1284
-  all_max_cnt: 1473
-  all_country_cnt: 1284
+  max_cnt: 1277
+  all_max_cnt: 1466
+  all_country_cnt: 1277
   song:
-  - song_name: 誰にもわからない
-    song_alias:
-    esong_code: 3763B36
-    t_singer_master_id: '48912'
-    singer_name: 丸本 莉子
-    singer_alias:
-    available_date: '2017-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たれにもわからない
-    singer_name_ruby: まるもとりこ
-    song_variation:
-    - esong_code: 3763B36
-      song_name: 誰にもわからない
-      content_type: ''
-  - song_name: TA・WA・KE
-    song_alias:
-    esong_code: 3759A49
-    t_singer_master_id: '50711'
-    singer_name: BLUE ENCOUNT
-    singer_alias:
-    available_date: '2017-02-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たわけ
-    singer_name_ruby: ふるえんかうんと
-    song_variation:
-    - esong_code: 3759A49
-      song_name: TA・WA・KE
-      content_type: ''
   - song_name: Turn Off The Light
     song_alias:
     esong_code: 3757A48
@@ -185,7 +151,7 @@ result:
     singer_alias:
     available_date: '2017-02-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ガーリッシュナンバー CUTE GIRLS RADIO<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: ちえつくあ
@@ -400,23 +366,6 @@ result:
       content_type: ''
   - song_name: ついておいでよ
     song_alias:
-    esong_code: 2516B19
-    t_singer_master_id: '7990'
-    singer_name: 北川 裕二
-    singer_alias:
-    available_date: '2017-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ついておいてよ
-    singer_name_ruby: きたかわゆうし
-    song_variation:
-    - esong_code: 2516B19
-      song_name: ついておいでよ
-      content_type: DAM生音
-  - song_name: ついておいでよ
-    song_alias:
     esong_code: 3759A6
     t_singer_master_id: '7990'
     singer_name: 北川 裕二
@@ -468,23 +417,6 @@ result:
       content_type: ''
   - song_name: 津軽さくら物語
     song_alias:
-    esong_code: 3757B37
-    t_singer_master_id: '595'
-    singer_name: 川中 美幸
-    singer_alias:
-    available_date: '2017-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つかるさくらものか
-    singer_name_ruby: かわなかみゆき
-    song_variation:
-    - esong_code: 3757B37
-      song_name: 津軽さくら物語
-      content_type: ''
-  - song_name: 津軽さくら物語
-    song_alias:
     esong_code: 2554B44
     t_singer_master_id: '595'
     singer_name: 川中 美幸
@@ -500,6 +432,23 @@ result:
     - esong_code: 2554B44
       song_name: 津軽さくら物語
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 津軽さくら物語
+    song_alias:
+    esong_code: 3757B37
+    t_singer_master_id: '595'
+    singer_name: 川中 美幸
+    singer_alias:
+    available_date: '2017-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つかるさくらものか
+    singer_name_ruby: かわなかみゆき
+    song_variation:
+    - esong_code: 3757B37
+      song_name: 津軽さくら物語
+      content_type: ''
   - song_name: 津軽の風
     song_alias:
     esong_code: 3759A4
@@ -517,3 +466,54 @@ result:
     - esong_code: 3759A4
       song_name: 津軽の風
       content_type: JOY生演奏
+  - song_name: ツキサセ
+    song_alias:
+    esong_code: 3763A26
+    t_singer_master_id: '47215'
+    singer_name: そらる
+    singer_alias:
+    available_date: '2017-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきさせ
+    singer_name_ruby: そらる
+    song_variation:
+    - esong_code: 3763A26
+      song_name: ツキサセ
+      content_type: ''
+  - song_name: 月の雫
+    song_alias:
+    esong_code: 1377A31
+    t_singer_master_id: '1994'
+    singer_name: 藤 あや子
+    singer_alias:
+    available_date: '2017-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきのしすく
+    singer_name_ruby: ふしあやこ
+    song_variation:
+    - esong_code: 1377A31
+      song_name: 月の雫
+      content_type: ''
+  - song_name: 月枕
+    song_alias:
+    esong_code: 3760B6
+    t_singer_master_id: '11757'
+    singer_name: 竹島 宏
+    singer_alias:
+    available_date: '2017-02-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: つきまくら
+    singer_name_ruby: たけしまひろし
+    song_variation:
+    - esong_code: 3760B6
+      song_name: 月枕
+      content_type: JOYｸﾘｯﾌﾟ

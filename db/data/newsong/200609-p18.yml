@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
+  - song_name: 旅へでよう
+    song_alias:
+    esong_code: 1643A9
+    t_singer_master_id: '22065'
+    singer_name: RAM RIDER
+    singer_alias:
+    available_date: '2006-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たひへてよう
+    singer_name_ruby: らむらいた
+    song_variation:
+    - esong_code: 1643A9
+      song_name: 旅へでよう
+      content_type: ''
+  - song_name: 玉響のしずく (Full Vocal Ver.)
+    song_alias:
+    esong_code: 1629A29
+    t_singer_master_id: '26974'
+    singer_name: 井上 和彦&保志 総一朗&櫻井 孝宏
+    singer_alias:
+    available_date: '2006-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 遙かなる時空の中で(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たまゆらのしすく
+    singer_name_ruby: いのうえかすひこほしそうい
+    song_variation:
+    - esong_code: 1629A29
+      song_name: 玉響のしずく (Full Vocal Ver.)
+      content_type: ''
   - song_name: dummy
     song_alias:
     esong_code: 1659B25
@@ -227,23 +261,6 @@ result:
     song_variation:
     - esong_code: 989B42
       song_name: Change My Mind
-      content_type: ''
-  - song_name: 地下鉄のザジ
-    song_alias:
-    esong_code: 286B16
-    t_singer_master_id: '2734'
-    singer_name: 大貫 妙子
-    singer_alias:
-    available_date: '2006-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちかてつのさし
-    singer_name_ruby: おおぬきたえこ
-    song_variation:
-    - esong_code: 286B16
-      song_name: 地下鉄のザジ
       content_type: ''
   - song_name: 千曲川情話
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1645A32
       song_name: 強がりキューピッド
-      content_type: ''
-  - song_name: TREE CLIMBERS
-    song_alias:
-    esong_code: 1628B30
-    t_singer_master_id: '19551'
-    singer_name: 木村 カエラ
-    singer_alias:
-    available_date: '2006-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つりくらいます
-    singer_name_ruby: きむらかえら
-    song_variation:
-    - esong_code: 1628B30
-      song_name: TREE CLIMBERS
       content_type: ''

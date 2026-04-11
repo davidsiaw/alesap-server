@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1339
-  all_max_cnt: 1524
-  all_country_cnt: 1339
+  max_cnt: 1329
+  all_max_cnt: 1514
+  all_country_cnt: 1329
   song:
-  - song_name: エレクトリックガール
-    song_alias:
-    esong_code: 3958A11
-    t_singer_master_id: '33995'
-    singer_name: SCANDAL
-    singer_alias:
-    available_date: '2018-03-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えれくとりつくか
-    singer_name_ruby: すきやんたる
-    song_variation:
-    - esong_code: 3958A11
-      song_name: エレクトリックガール
-      content_type: ''
-  - song_name: EROTICA
-    song_alias:
-    esong_code: 3968A4
-    t_singer_master_id: '17458'
-    singer_name: NEWS
-    singer_alias:
-    available_date: '2018-03-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えろていか
-    singer_name_ruby: にゆす
-    song_variation:
-    - esong_code: 3968A4
-      song_name: EROTICA
-      content_type: ''
   - song_name: 演歌人生
     song_alias:
     esong_code: 1028A43
@@ -177,23 +143,6 @@ result:
     - esong_code: 3959B28
       song_name: お祝いの鐘 (リプライズ)
       content_type: ''
-  - song_name: お祝いをしよう (リプライズ)
-    song_alias:
-    esong_code: 3960B34
-    t_singer_master_id: '48387'
-    singer_name: ピエール瀧
-    singer_alias:
-    available_date: '2018-03-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アナと雪の女王<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おいわいをしよう
-    singer_name_ruby: ひえるたき
-    song_variation:
-    - esong_code: 3960B34
-      song_name: お祝いをしよう (リプライズ)
-      content_type: ''
   - song_name: お祝いをしよう
     song_alias:
     esong_code: 3959B27
@@ -210,6 +159,23 @@ result:
     song_variation:
     - esong_code: 3959B27
       song_name: お祝いをしよう
+      content_type: ''
+  - song_name: お祝いをしよう (リプライズ)
+    song_alias:
+    esong_code: 3960B34
+    t_singer_master_id: '48387'
+    singer_name: ピエール瀧
+    singer_alias:
+    available_date: '2018-03-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アナと雪の女王<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おいわいをしよう
+    singer_name_ruby: ひえるたき
+    song_variation:
+    - esong_code: 3960B34
+      song_name: お祝いをしよう (リプライズ)
       content_type: ''
   - song_name: 逢瀬橋
     song_alias:
@@ -417,40 +383,6 @@ result:
       content_type: ''
   - song_name: 男うた
     song_alias:
-    esong_code: 1035B27
-    t_singer_master_id: '2536'
-    singer_name: 吉 幾三
-    singer_alias:
-    available_date: '2018-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おとこうた
-    singer_name_ruby: よしいくそう
-    song_variation:
-    - esong_code: 1035B27
-      song_name: 男うた
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 男うた
-    song_alias:
-    esong_code: 1028B18
-    t_singer_master_id: '2536'
-    singer_name: 吉 幾三
-    singer_alias:
-    available_date: '2018-03-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: おとこうた
-    singer_name_ruby: よしいくそう
-    song_variation:
-    - esong_code: 1028B18
-      song_name: 男うた
-      content_type: JOY生演奏
-  - song_name: 男うた
-    song_alias:
     esong_code: 3957B39
     t_singer_master_id: '2536'
     singer_name: 吉 幾三
@@ -483,6 +415,40 @@ result:
     - esong_code: 1032A18
       song_name: 男うた
       content_type: DAM生音
+  - song_name: 男うた
+    song_alias:
+    esong_code: 1028B18
+    t_singer_master_id: '2536'
+    singer_name: 吉 幾三
+    singer_alias:
+    available_date: '2018-03-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: おとこうた
+    singer_name_ruby: よしいくそう
+    song_variation:
+    - esong_code: 1028B18
+      song_name: 男うた
+      content_type: JOY生演奏
+  - song_name: 男うた
+    song_alias:
+    esong_code: 1035B27
+    t_singer_master_id: '2536'
+    singer_name: 吉 幾三
+    singer_alias:
+    available_date: '2018-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おとこうた
+    singer_name_ruby: よしいくそう
+    song_variation:
+    - esong_code: 1035B27
+      song_name: 男うた
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 男と女のお話
     song_alias:
     esong_code: 1036A13
@@ -517,3 +483,37 @@ result:
     - esong_code: 1034B21
       song_name: 男と女の第2章
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 大人ごっこ
+    song_alias:
+    esong_code: 3962A32
+    t_singer_master_id: '57930'
+    singer_name: 緑黄色社会
+    singer_alias:
+    available_date: '2018-03-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとなこつこ
+    singer_name_ruby: りよくおうしよくしやかい
+    song_variation:
+    - esong_code: 3962A32
+      song_name: 大人ごっこ
+      content_type: ''
+  - song_name: おとなの掟
+    song_alias:
+    esong_code: 3853B29
+    t_singer_master_id: '8522'
+    singer_name: 椎名 林檎
+    singer_alias:
+    available_date: '2018-03-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おとなのおきて
+    singer_name_ruby: しいなりんこ
+    song_variation:
+    - esong_code: 3853B29
+      song_name: おとなの掟
+      content_type: JOYﾎﾞｰｶﾙ

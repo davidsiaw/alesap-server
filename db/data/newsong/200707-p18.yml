@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: 空への近道
-    song_alias:
-    esong_code: 1819A17
-    t_singer_master_id: '26948'
-    singer_name: オトナモード
-    singer_alias:
-    available_date: '2007-07-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そらへのちかみち
-    singer_name_ruby: おとなもと
-    song_variation:
-    - esong_code: 1819A17
-      song_name: 空への近道
-      content_type: ''
-  - song_name: 空への扉
-    song_alias:
-    esong_code: 1812B47
-    t_singer_master_id: '30364'
-    singer_name: CHARMAINE
-    singer_alias:
-    available_date: '2007-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: pop'n music<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: そらへのとひら
-    singer_name_ruby: しやるめいん
-    song_variation:
-    - esong_code: 1812B47
-      song_name: 空への扉
-      content_type: ''
   - song_name: 空も笑ってる
     song_alias:
     esong_code: 1817A47
@@ -517,3 +483,37 @@ result:
     - esong_code: 1807A14
       song_name: Double-Action
       content_type: JOYうたいり
+  - song_name: たまえとまる子の親友の歌
+    song_alias:
+    esong_code: 1814A18
+    t_singer_master_id: '30395'
+    singer_name: TARAKO&渡辺 菜生子
+    singer_alias:
+    available_date: '2007-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ちびまる子ちゃん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たまえとまるこのしん
+    singer_name_ruby: たらこわたなへなおこ
+    song_variation:
+    - esong_code: 1814A18
+      song_name: たまえとまる子の親友の歌
+      content_type: ''
+  - song_name: DAMランキングベストメドレー 〜2006・POPS 男〜
+    song_alias:
+    esong_code: 1817B6
+    t_singer_master_id: '12687'
+    singer_name: DKオリジナルメドレー
+    singer_alias:
+    available_date: '2007-07-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たむ2006ほおと
+    singer_name_ruby: ていけおりしなるめとれ
+    song_variation:
+    - esong_code: 1817B6
+      song_name: DAMランキングベストメドレー 〜2006・POPS 男〜
+      content_type: ''

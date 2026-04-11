@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 968
-  all_max_cnt: 1054
-  all_country_cnt: 968
+  max_cnt: 960
+  all_max_cnt: 1046
+  all_country_cnt: 960
   song:
   - song_name: ALMIGHTY〜仮面の約束 feat.川上洋平
     song_alias:
@@ -170,13 +170,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: かいとう
     singer_name_ruby: はつくなんは
     song_variation:
     - esong_code: 4521A40
       song_name: 怪盗
-      content_type: DAM生音
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 開幕宣言
     song_alias:
     esong_code: 4531A26
@@ -449,23 +449,6 @@ result:
     - esong_code: 4530A48
       song_name: COME TO ME
       content_type: ''
-  - song_name: カメムシ
-    song_alias:
-    esong_code: 4539A39
-    t_singer_master_id: '63123'
-    singer_name: カンザキイオリ
-    singer_alias:
-    available_date: '2021-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: かめむし
-    singer_name_ruby: かんさきいおり
-    song_variation:
-    - esong_code: 4539A39
-      song_name: カメムシ
-      content_type: VOCALOID
   - song_name: カメレオンシンドローム
     song_alias:
     esong_code: 4532B42
@@ -500,6 +483,23 @@ result:
     - esong_code: 4532B3
       song_name: 歌謡劇 雪中相合傘 -科白編-
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: color
+    song_alias:
+    esong_code: 4530B47
+    t_singer_master_id: '53554'
+    singer_name: Awesome City Club
+    singer_alias:
+    available_date: '2021-08-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: から
+    singer_name_ruby: おさむしていくらふ
+    song_variation:
+    - esong_code: 4530B47
+      song_name: color
+      content_type: ''
   - song_name: Color
     song_alias:
     esong_code: 4535B30

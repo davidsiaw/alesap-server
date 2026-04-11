@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1121
-  all_max_cnt: 1204
-  all_country_cnt: 1121
+  max_cnt: 1082
+  all_max_cnt: 1165
+  all_country_cnt: 1082
   song:
-  - song_name: エル・タンゴ・アヴェンタドール feat.巡音ルカ
-    song_alias:
-    esong_code: 4610A40
-    t_singer_master_id: '49514'
-    singer_name: nyanyannya
-    singer_alias:
-    available_date: '2022-03-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: えるたんこあへん
-    singer_name_ruby: にやにやんにや
-    song_variation:
-    - esong_code: 4610A40
-      song_name: エル・タンゴ・アヴェンタドール feat.巡音ルカ
-      content_type: VOCALOID
-  - song_name: 演歌一本勝負
-    song_alias:
-    esong_code: 4611B40
-    t_singer_master_id: '33011'
-    singer_name: 悠木 真湖
-    singer_alias:
-    available_date: '2022-03-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんかいつほんしよ
-    singer_name_ruby: ゆうきまこ
-    song_variation:
-    - esong_code: 4611B40
-      song_name: 演歌一本勝負
-      content_type: ''
-  - song_name: Angel
-    song_alias:
-    esong_code: 4610B6
-    t_singer_master_id: '57165'
-    singer_name: 内田 雄馬
-    singer_alias:
-    available_date: '2022-03-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんしえる
-    singer_name_ruby: うちたゆうま
-    song_variation:
-    - esong_code: 4610B6
-      song_name: Angel
-      content_type: ''
-  - song_name: Angel [DAM本人歌唱]
-    song_alias:
-    esong_code: 4607A46
-    t_singer_master_id: '57118'
-    singer_name: ちゃんみな
-    singer_alias:
-    available_date: '2022-03-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: えんしえる
-    singer_name_ruby: ちやんみな
-    song_variation:
-    - esong_code: 4607A46
-      song_name: Angel [DAM本人歌唱]
-      content_type: DAM本人歌唱
-  - song_name: エンドゲーム
-    song_alias:
-    esong_code: 4616B33
-    t_singer_master_id: '68757'
-    singer_name: 葛葉(from にじさんじ)
-    singer_alias:
-    available_date: '2022-03-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんとけむ
-    singer_name_ruby: くすは
-    song_variation:
-    - esong_code: 4616B33
-      song_name: エンドゲーム
-      content_type: ''
-  - song_name: endless voyage
-    song_alias:
-    esong_code: 4611B22
-    t_singer_master_id: '33715'
-    singer_name: fripSide
-    singer_alias:
-    available_date: '2022-03-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんとれすほや
-    singer_name_ruby: ふりつふさいと
-    song_variation:
-    - esong_code: 4611B22
-      song_name: endless voyage
-      content_type: ''
   - song_name: エンドロール
     song_alias:
     esong_code: 4605B16
@@ -366,23 +264,6 @@ result:
       content_type: ''
   - song_name: 男ひとり
     song_alias:
-    esong_code: 4613B4
-    t_singer_master_id: '26399'
-    singer_name: 松永 由美子
-    singer_alias:
-    available_date: '2022-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこひとり
-    singer_name_ruby: まつなかゆみこ
-    song_variation:
-    - esong_code: 4613B4
-      song_name: 男ひとり
-      content_type: ''
-  - song_name: 男ひとり
-    song_alias:
     esong_code: 4613B1
     t_singer_master_id: '18121'
     singer_name: 松永 清美
@@ -396,6 +277,23 @@ result:
     singer_name_ruby: まつなかきよみ
     song_variation:
     - esong_code: 4613B1
+      song_name: 男ひとり
+      content_type: ''
+  - song_name: 男ひとり
+    song_alias:
+    esong_code: 4613B4
+    t_singer_master_id: '26399'
+    singer_name: 松永 由美子
+    singer_alias:
+    available_date: '2022-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこひとり
+    singer_name_ruby: まつなかゆみこ
+    song_variation:
+    - esong_code: 4613B4
       song_name: 男ひとり
       content_type: ''
   - song_name: 大人なフリして。
@@ -466,23 +364,6 @@ result:
     - esong_code: 4509B10
       song_name: おとなの春に・・・
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: HONESTY
-    song_alias:
-    esong_code: 4608A14
-    t_singer_master_id: '55362'
-    singer_name: BiSH
-    singer_alias:
-    available_date: '2022-03-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おねすてい
-    singer_name_ruby: ひつしゆ
-    song_variation:
-    - esong_code: 4608A14
-      song_name: HONESTY
-      content_type: ''
   - song_name: おばけの招待状
     song_alias:
     esong_code: 4608A20
@@ -516,4 +397,123 @@ result:
     song_variation:
     - esong_code: 4606A10
       song_name: OverThink feat.EAERAN
+      content_type: ''
+  - song_name: オーバーテイク・ミー
+    song_alias:
+    esong_code: 4599A35
+    t_singer_master_id: '63705'
+    singer_name: Mr.ふぉるて
+    singer_alias:
+    available_date: '2022-03-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おはていくみ
+    singer_name_ruby: みすたふおるて
+    song_variation:
+    - esong_code: 4599A35
+      song_name: オーバーテイク・ミー
+      content_type: ''
+  - song_name: 溺れうる快晴
+    song_alias:
+    esong_code: 4599A48
+    t_singer_master_id: '69111'
+    singer_name: 泡く、脆く。
+    singer_alias:
+    available_date: '2022-03-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おほれうるかいせい
+    singer_name_ruby: あわくもろく
+    song_variation:
+    - esong_code: 4599A48
+      song_name: 溺れうる快晴
+      content_type: ''
+  - song_name: 朧月
+    song_alias:
+    esong_code: 4614B13
+    t_singer_master_id: '61835'
+    singer_name: 西郷 ひろし
+    singer_alias:
+    available_date: '2022-03-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おほろつき
+    singer_name_ruby: さいこうひろし
+    song_variation:
+    - esong_code: 4614B13
+      song_name: 朧月
+      content_type: ''
+  - song_name: おまえひとりさ
+    song_alias:
+    esong_code: 4480B11
+    t_singer_master_id: '1710'
+    singer_name: 西方 裕之
+    singer_alias:
+    available_date: '2022-03-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おまえひとりさ
+    singer_name_ruby: にしかたひろゆき
+    song_variation:
+    - esong_code: 4480B11
+      song_name: おまえひとりさ
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: おまえひとりさ
+    song_alias:
+    esong_code: 4607B20
+    t_singer_master_id: '1710'
+    singer_name: 西方 裕之
+    singer_alias:
+    available_date: '2022-03-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おまえひとりさ
+    singer_name_ruby: にしかたひろゆき
+    song_variation:
+    - esong_code: 4607B20
+      song_name: おまえひとりさ
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: おみやげを持って
+    song_alias:
+    esong_code: 4606A47
+    t_singer_master_id: '7091'
+    singer_name: サニーデイ・サービス
+    singer_alias:
+    available_date: '2022-03-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おみやけをもつて
+    singer_name_ruby: さにていさひす
+    song_variation:
+    - esong_code: 4606A47
+      song_name: おみやげを持って
+      content_type: ''
+  - song_name: おもいきりトロピカル!
+    song_alias:
+    esong_code: 4615A39
+    t_singer_master_id: '69351'
+    singer_name: ファイルーズあい&花守ゆみり&石川由依&瀬戸麻沙美...他1名
+    singer_alias:
+    available_date: '2022-03-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: トロピカル〜ジュ!プリキュア<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいきりとろひか
+    singer_name_ruby: ふあいるすあいはなもりゆみりい
+    song_variation:
+    - esong_code: 4615A39
+      song_name: おもいきりトロピカル!
       content_type: ''

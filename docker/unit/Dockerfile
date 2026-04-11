@@ -15,6 +15,32 @@ RUN apk --update add build-base git file less postgresql-dev nodejs tzdata curl 
     # cargo install && \
     mkdir -p /srv/tmp
 
+ENV MECAB_VERSION 0.996
+ENV IPADIC_VERSION 2.7.0-20070610
+
+# the file ids can be obtained from the google drive links from
+# http://taku910.github.io/mecab/#download
+ENV mecab_url https://drive.google.com/uc?export=download&id=1SJjk4IylQaO2yGc0vMtx5MHhZcjaeMLZ
+
+ENV ipadic_url https://drive.google.com/uc?export=download&id=1aQCOnE4aGPz-3tXpt6Mok2fcPgbnnouh
+
+ARG _ARCH="--build=x86_64-unknown-linux-gnu"
+
+RUN curl -SL -o mecab-${MECAB_VERSION}.tar.gz ${mecab_url} \
+  && tar zxf mecab-${MECAB_VERSION}.tar.gz \
+  && cd mecab-${MECAB_VERSION} \
+  && ./configure --enable-utf8-only --with-charset=utf8 ${_ARCH} \
+  && make \
+  && make install
+
+RUN curl -SL -o mecab-ipadic-${IPADIC_VERSION}.tar.gz ${ipadic_url} \
+  && tar zxf mecab-ipadic-${IPADIC_VERSION}.tar.gz \
+  && cd mecab-ipadic-${IPADIC_VERSION} \
+  && ./configure --with-charset=utf8 ${_ARCH} \
+  && make \
+  && make install \
+  && cd
+
 ADD Gemfile Gemfile.lock Rakefile package.json .rspec .rubocop.yml .rubocop_todo.yml config.ru /srv/
 
 WORKDIR /srv

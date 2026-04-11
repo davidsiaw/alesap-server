@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: いいね★
+    song_alias:
+    esong_code: 3160A27
+    t_singer_master_id: '49523'
+    singer_name: EverZOne
+    singer_alias:
+    available_date: '2013-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いいね
+    singer_name_ruby: えはそん
+    song_variation:
+    - esong_code: 3160A27
+      song_name: いいね★
+      content_type: ''
   - song_name: いい湯かな?
     song_alias:
     esong_code: 3151A4
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3151B21
       song_name: 今生きて
-      content_type: ''
-  - song_name: 今、咲き誇る花たちよ
-    song_alias:
-    esong_code: 3149A45
-    t_singer_master_id: '12187'
-    singer_name: コブクロ
-    singer_alias:
-    available_date: '2013-12-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いまさきほこるはなた
-    singer_name_ruby: こふくろ
-    song_variation:
-    - esong_code: 3149A45
-      song_name: 今、咲き誇る花たちよ
       content_type: ''

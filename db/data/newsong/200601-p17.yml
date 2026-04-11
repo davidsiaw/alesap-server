@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
-  - song_name: 最後の種
-    song_alias:
-    esong_code: 1431A39
-    t_singer_master_id: '18222'
-    singer_name: LUNKHEAD
-    singer_alias:
-    available_date: '2006-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいこのたね
-    singer_name_ruby: らんくへつと
-    song_variation:
-    - esong_code: 1431A39
-      song_name: 最後の種
-      content_type: ''
   - song_name: 最後の1ピース
     song_alias:
     esong_code: 1427B29
@@ -419,7 +402,7 @@ result:
     song_alias:
     esong_code: 939A41
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2006-01-01'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1417B24
       song_name: 砂漠の海
+      content_type: ''
+  - song_name: The Birds Song
+    song_alias:
+    esong_code: 1444B15
+    t_singer_master_id: '24234'
+    singer_name: Radio Beach
+    singer_alias:
+    available_date: '2006-01-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さはすそんく
+    singer_name_ruby: れていおひち
+    song_variation:
+    - esong_code: 1444B15
+      song_name: The Birds Song
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: 奥美濃気質
-    song_alias:
-    esong_code: 2798B36
-    t_singer_master_id: '17750'
-    singer_name: 秋本 ひろし
-    singer_alias:
-    available_date: '2012-06-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おくみのきしつ
-    singer_name_ruby: あきもとひろし
-    song_variation:
-    - esong_code: 2798B36
-      song_name: 奥美濃気質
-      content_type: ''
   - song_name: oath sign
     song_alias:
     esong_code: 2806B24
@@ -230,23 +213,6 @@ result:
       content_type: ''
   - song_name: 鬼
     song_alias:
-    esong_code: 2808A7
-    t_singer_master_id: '40145'
-    singer_name: Queen of Wand
-    singer_alias:
-    available_date: '2012-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おに
-    singer_name_ruby: くいんおふわんと
-    song_variation:
-    - esong_code: 2808A7
-      song_name: 鬼
-      content_type: ''
-  - song_name: 鬼
-    song_alias:
     esong_code: 2809B19
     t_singer_master_id: '16857'
     singer_name: 安藤 裕子
@@ -260,6 +226,23 @@ result:
     singer_name_ruby: あんとうゆうこ
     song_variation:
     - esong_code: 2809B19
+      song_name: 鬼
+      content_type: ''
+  - song_name: 鬼
+    song_alias:
+    esong_code: 2808A7
+    t_singer_master_id: '40145'
+    singer_name: Queen of Wand
+    singer_alias:
+    available_date: '2012-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おに
+    singer_name_ruby: くいんおふわんと
+    song_variation:
+    - esong_code: 2808A7
       song_name: 鬼
       content_type: ''
   - song_name: おねだり44℃
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2798B44
       song_name: 思い出のポエム
+      content_type: ''
+  - song_name: 想いでルンバ
+    song_alias:
+    esong_code: 2798B18
+    t_singer_master_id: '44611'
+    singer_name: 蜂谷 恵子
+    singer_alias:
+    available_date: '2012-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいてるんは
+    singer_name_ruby: はちやけいこ
+    song_variation:
+    - esong_code: 2798B18
+      song_name: 想いでルンバ
       content_type: ''

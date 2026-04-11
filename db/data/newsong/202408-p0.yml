@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 832
-  all_max_cnt: 965
-  all_country_cnt: 832
+  max_cnt: 909
+  all_max_cnt: 1064
+  all_country_cnt: 909
   song:
   - song_name: I
     song_alias:
@@ -143,6 +143,23 @@ result:
     - esong_code: 5010A17
       song_name: iDOLING
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 愛に満ちた世界
+    song_alias:
+    esong_code: 5015A16
+    t_singer_master_id: '66624'
+    singer_name: 瑛人
+    singer_alias:
+    available_date: '2024-08-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ソウルフル・ワールド<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいにみちたせかい
+    singer_name_ruby: えいと
+    song_variation:
+    - esong_code: 5015A16
+      song_name: 愛に満ちた世界
+      content_type: ''
   - song_name: 愛の悪戯
     song_alias:
     esong_code: 3576B31
@@ -449,6 +466,23 @@ result:
     - esong_code: 5009B39
       song_name: 阿賀野川舟唄
       content_type: ''
+  - song_name: 灯
+    song_alias:
+    esong_code: 5020A4
+    t_singer_master_id: '23729'
+    singer_name: lecca
+    singer_alias:
+    available_date: '2024-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかり
+    singer_name_ruby: れつか
+    song_variation:
+    - esong_code: 5020A4
+      song_name: 灯
+      content_type: ''
   - song_name: あかり
     song_alias:
     esong_code: 5010B12
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 5015A31
       song_name: 秋うらら
-      content_type: ''
-  - song_name: 秋風ノ神隠シ
-    song_alias:
-    esong_code: 5019A44
-    t_singer_master_id: '74693'
-    singer_name: 舞々
-    singer_alias:
-    available_date: '2024-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方虹龍洞 〜Unconnected Marketeers.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: あきかせのかみかく
-    singer_name_ruby: まいまい
-    song_variation:
-    - esong_code: 5019A44
-      song_name: 秋風ノ神隠シ
-      content_type: 東方
-  - song_name: 揚羽参式
-    song_alias:
-    esong_code: 5015B41
-    t_singer_master_id: '68393'
-    singer_name: 13.3g
-    singer_alias:
-    available_date: '2024-08-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけはさんしき
-    singer_name_ruby: しゆうさんてんさんくらむ
-    song_variation:
-    - esong_code: 5015B41
-      song_name: 揚羽参式
       content_type: ''

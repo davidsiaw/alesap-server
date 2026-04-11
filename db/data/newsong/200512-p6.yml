@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 967
-  all_max_cnt: 1006
-  all_country_cnt: 967
+  max_cnt: 962
+  all_max_cnt: 1001
+  all_country_cnt: 962
   song:
-  - song_name: almost in love
-    song_alias:
-    esong_code: 1414B21
-    t_singer_master_id: '12321'
-    singer_name: CHEMISTRY
-    singer_alias:
-    available_date: '2005-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: おるもすといんらふ
-    singer_name_ruby: けみすとり
-    song_variation:
-    - esong_code: 1414B21
-      song_name: almost in love
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 俺たちの朝
-    song_alias:
-    esong_code: 802B17
-    t_singer_master_id: '2208'
-    singer_name: 松崎 しげる
-    singer_alias:
-    available_date: '2005-12-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれたちのあさ
-    singer_name_ruby: まつさきしける
-    song_variation:
-    - esong_code: 802B17
-      song_name: 俺たちの朝
-      content_type: ''
   - song_name: オレの青春
     song_alias:
     esong_code: 1442B5
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1387B5
       song_name: 愛し
+      content_type: ''
+  - song_name: 悲しみのバレンタイン
+    song_alias:
+    esong_code: 479B45
+    t_singer_master_id: '15560'
+    singer_name: 玉置 成実
+    singer_alias:
+    available_date: '2005-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしみのはれんた
+    singer_name_ruby: たまきなみ
+    song_variation:
+    - esong_code: 479B45
+      song_name: 悲しみのバレンタイン
+      content_type: ''
+  - song_name: 悲しみの向こうへ
+    song_alias:
+    esong_code: 1443A12
+    t_singer_master_id: '15301'
+    singer_name: いとう かなこ
+    singer_alias:
+    available_date: '2005-12-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: School Days (ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしみのむこうへ
+    singer_name_ruby: いとうかなこ
+    song_variation:
+    - esong_code: 1443A12
+      song_name: 悲しみの向こうへ
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
-  - song_name: 紛うことなき挑戦者
-    song_alias:
-    esong_code: 3789A36
-    t_singer_master_id: '58524'
-    singer_name: 高野 麻里佳&今村 彩夏&東城 日沙子
-    singer_alias:
-    available_date: '2017-04-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 灼熱の卓球娘<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: まこうことなきちよ
-    singer_name_ruby: こうのまりかいまむらあやか
-    song_variation:
-    - esong_code: 3789A36
-      song_name: 紛うことなき挑戦者
-      content_type: ''
-  - song_name: Magical Fiction
-    song_alias:
-    esong_code: 3790B29
-    t_singer_master_id: '24697'
-    singer_name: チャットモンチー
-    singer_alias:
-    available_date: '2017-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ましかるふいくしよ
-    singer_name_ruby: ちやつともんち
-    song_variation:
-    - esong_code: 3790B29
-      song_name: Magical Fiction
-      content_type: ''
   - song_name: Ma City
     song_alias:
     esong_code: 3797B36
@@ -96,7 +62,7 @@ result:
     song_alias:
     esong_code: 3793B10
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2017-04-18'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3790B11
       song_name: 未来へ、さあ走り出せ!
+      content_type: ''
+  - song_name: 未来列車
+    song_alias:
+    esong_code: 3794B42
+    t_singer_master_id: '8316'
+    singer_name: F-BLOOD
+    singer_alias:
+    available_date: '2017-04-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みらいれつしや
+    singer_name_ruby: えふふらつと
+    song_variation:
+    - esong_code: 3794B42
+      song_name: 未来列車
+      content_type: ''
+  - song_name: ミラクル☆Xmas
+    song_alias:
+    esong_code: 3790B36
+    t_singer_master_id: '38342'
+    singer_name: T.R.Futures
+    singer_alias:
+    available_date: '2017-04-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 未来戦隊タイムレンジャー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: みらくるくりすます
+    singer_name_ruby: ていあるふゆちやす
+    song_variation:
+    - esong_code: 3790B36
+      song_name: ミラクル☆Xmas
       content_type: ''

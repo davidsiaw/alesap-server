@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
   - song_name: 台風 [オリジナルクリップ]
     song_alias:
@@ -18,26 +18,6 @@ result:
     tie_up:
     country_code: '0'
     content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    song_name_ruby: たいふう
-    singer_name_ruby: ひあのしやつく
-    song_variation:
-    - esong_code: 2934A19
-      song_name: 台風 [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 2934A19
-      song_name: 台風 [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: 台風 [オリジナルクリップ]
-    song_alias:
-    esong_code: 2934A19
-    t_singer_master_id: '46425'
-    singer_name: "→Pia-no-jaC←"
-    singer_alias:
-    available_date: '2012-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: パセラ限定クリップ
     song_name_ruby: たいふう
     singer_name_ruby: ひあのしやつく
     song_variation:
@@ -522,4 +502,21 @@ result:
     song_variation:
     - esong_code: 2928B3
       song_name: タピオカ洗脳ソング
+      content_type: ''
+  - song_name: DA BI DA・GO!
+    song_alias:
+    esong_code: 2918B27
+    t_singer_master_id: '18100'
+    singer_name: はいだ しょうこ
+    singer_alias:
+    available_date: '2012-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: パブー&モジーズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たひたこ
+    singer_name_ruby: はいたしようこ
+    song_variation:
+    - esong_code: 2918B27
+      song_name: DA BI DA・GO!
       content_type: ''

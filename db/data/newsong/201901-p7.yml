@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1020
-  all_max_cnt: 1219
-  all_country_cnt: 1020
+  max_cnt: 1004
+  all_max_cnt: 1203
+  all_country_cnt: 1004
   song:
-  - song_name: 女のゆりかご
-    song_alias:
-    esong_code: 3843A44
-    t_singer_master_id: '10799'
-    singer_name: 瀬口 侑希
-    singer_alias:
-    available_date: '2019-01-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おんなのゆりかこ
-    singer_name_ruby: せくちゆうき
-    song_variation:
-    - esong_code: 3843A44
-      song_name: 女のゆりかご
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: おんな望郷歌
-    song_alias:
-    esong_code: 1128A35
-    t_singer_master_id: '1683'
-    singer_name: 夏木 綾子
-    singer_alias:
-    available_date: '2019-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おんなほうきようか
-    singer_name_ruby: なつきあやこ
-    song_variation:
-    - esong_code: 1128A35
-      song_name: おんな望郷歌
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: おんな望郷歌
-    song_alias:
-    esong_code: 3996B1
-    t_singer_master_id: '1683'
-    singer_name: 夏木 綾子
-    singer_alias:
-    available_date: '2019-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなほうきようか
-    singer_name_ruby: なつきあやこ
-    song_variation:
-    - esong_code: 3996B1
-      song_name: おんな望郷歌
-      content_type: ''
-  - song_name: おんな望郷歌
-    song_alias:
-    esong_code: 4124B18
-    t_singer_master_id: '1683'
-    singer_name: 夏木 綾子
-    singer_alias:
-    available_date: '2019-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おんなほうきようか
-    singer_name_ruby: なつきあやこ
-    song_variation:
-    - esong_code: 4124B18
-      song_name: おんな望郷歌
-      content_type: DAM生音
-  - song_name: ONLY I CAN
-    song_alias:
-    esong_code: 4129B30
-    t_singer_master_id: '57381'
-    singer_name: 広瀬 裕也
-    singer_alias:
-    available_date: '2019-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: SSSS.GRIDMAN<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんりあいきやん
-    singer_name_ruby: ひろせゆうや
-    song_variation:
-    - esong_code: 4129B30
-      song_name: ONLY I CAN
-      content_type: ''
   - song_name: 火炎
     song_alias:
     esong_code: 4137A31
@@ -313,23 +228,6 @@ result:
     - esong_code: 4121B38
       song_name: かたおもい
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: katharsis
-    song_alias:
-    esong_code: 4128A38
-    t_singer_master_id: '45283'
-    singer_name: TK from 凛として時雨
-    singer_alias:
-    available_date: '2019-01-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東京喰種トーキョーグール:re<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かたるしす
-    singer_name_ruby: ていけふろむりんとしてしく
-    song_variation:
-    - esong_code: 4128A38
-      song_name: katharsis
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: カタルシス
     song_alias:
     esong_code: 4126A6
@@ -347,6 +245,23 @@ result:
     - esong_code: 4126A6
       song_name: カタルシス
       content_type: ''
+  - song_name: katharsis
+    song_alias:
+    esong_code: 4128A38
+    t_singer_master_id: '45283'
+    singer_name: TK from 凛として時雨
+    singer_alias:
+    available_date: '2019-01-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東京喰種トーキョーグール:re<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かたるしす
+    singer_name_ruby: ていけふろむりんとしてしく
+    song_variation:
+    - esong_code: 4128A38
+      song_name: katharsis
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 勝ち鬨の歌
     song_alias:
     esong_code: 4130A33
@@ -517,3 +432,88 @@ result:
     - esong_code: 4142A15
       song_name: かまってちょーだい
       content_type: ''
+  - song_name: 我慢ひとすじ
+    song_alias:
+    esong_code: 4127A29
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2019-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かまんひとすし
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 4127A29
+      song_name: 我慢ひとすじ
+      content_type: ''
+  - song_name: 紙飛行機
+    song_alias:
+    esong_code: 4125A22
+    t_singer_master_id: '60964'
+    singer_name: Awich
+    singer_alias:
+    available_date: '2019-01-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かみひこうき
+    singer_name_ruby: えいういつち
+    song_variation:
+    - esong_code: 4125A22
+      song_name: 紙飛行機
+      content_type: ''
+  - song_name: Come Back
+    song_alias:
+    esong_code: 4128B29
+    t_singer_master_id: '52163'
+    singer_name: SHE'S
+    singer_alias:
+    available_date: '2019-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かむはつく
+    singer_name_ruby: しす
+    song_variation:
+    - esong_code: 4128B29
+      song_name: Come Back
+      content_type: ''
+  - song_name: 鴨川の月
+    song_alias:
+    esong_code: 4127A6
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2019-01-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かもかわのつき
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 4127A6
+      song_name: 鴨川の月
+      content_type: ''
+  - song_name: 鴎の海峡
+    song_alias:
+    esong_code: 4130B11
+    t_singer_master_id: '47876'
+    singer_name: 杜 このみ
+    singer_alias:
+    available_date: '2019-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: かもめのかいきよう
+    singer_name_ruby: もりこのみ
+    song_variation:
+    - esong_code: 4130B11
+      song_name: 鴎の海峡
+      content_type: JOYｸﾘｯﾌﾟ

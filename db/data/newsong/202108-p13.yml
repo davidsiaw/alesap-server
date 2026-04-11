@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 968
-  all_max_cnt: 1054
-  all_country_cnt: 968
+  max_cnt: 960
+  all_max_cnt: 1046
+  all_country_cnt: 960
   song:
-  - song_name: 人生のメリーゴーランド (2021年新録音)
-    song_alias:
-    esong_code: 4536A20
-    t_singer_master_id: '11544'
-    singer_name: クミコ
-    singer_alias:
-    available_date: '2021-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんせいのめりこ
-    singer_name_ruby: くみこ
-    song_variation:
-    - esong_code: 4536A20
-      song_name: 人生のメリーゴーランド (2021年新録音)
-      content_type: ''
   - song_name: 人生はファンタスティコ☆
     song_alias:
     esong_code: 4537A25
@@ -32,7 +15,7 @@ result:
     singer_alias:
     available_date: '2021-08-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア World★Stars<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しんせいはふあんた
@@ -381,23 +364,6 @@ result:
     - esong_code: 4534A22
       song_name: START!! True dreams
       content_type: ''
-  - song_name: スタートライン
-    song_alias:
-    esong_code: 4528B17
-    t_singer_master_id: '57165'
-    singer_name: 内田 雄馬
-    singer_alias:
-    available_date: '2021-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すたとらいん
-    singer_name_ruby: うちたゆうま
-    song_variation:
-    - esong_code: 4528B17
-      song_name: スタートライン
-      content_type: ''
   - song_name: Stand up for music
     song_alias:
     esong_code: 4530B17
@@ -517,3 +483,37 @@ result:
     - esong_code: 4529B6
       song_name: stolen worID
       content_type: ''
+  - song_name: Strange Days
+    song_alias:
+    esong_code: 4533A20
+    t_singer_master_id: '56959'
+    singer_name: Panorama Panama Town
+    singer_alias:
+    available_date: '2021-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すとれんしていす
+    singer_name_ruby: はのらまはなまたうん
+    song_variation:
+    - esong_code: 4533A20
+      song_name: Strange Days
+      content_type: ''
+  - song_name: Strawberry
+    song_alias:
+    esong_code: 4535B9
+    t_singer_master_id: '66412'
+    singer_name: 香椎 モイミ
+    singer_alias:
+    available_date: '2021-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: すとろへり
+    singer_name_ruby: かしいもいみ
+    song_variation:
+    - esong_code: 4535B9
+      song_name: Strawberry
+      content_type: VOCALOID

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
-  - song_name: 永遠(とわ)に・・・
-    song_alias:
-    esong_code: 2747A40
-    t_singer_master_id: '43351'
-    singer_name: SHIN HYE SUNG×清木場 俊介
-    singer_alias:
-    available_date: '2012-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とわに
-    singer_name_ruby: しんへそんきよきはしゆんすけ
-    song_variation:
-    - esong_code: 2747A40
-      song_name: 永遠(とわ)に・・・
-      content_type: ''
   - song_name: Don't be afraid (Director's cut)
     song_alias:
     esong_code: 2746A20
@@ -41,6 +24,23 @@ result:
     - esong_code: 2746A20
       song_name: Don't be afraid (Director's cut)
       content_type: ''
+  - song_name: ナイアガラ・フォールズ
+    song_alias:
+    esong_code: 2740A11
+    t_singer_master_id: '2466'
+    singer_name: 山川 豊
+    singer_alias:
+    available_date: '2012-01-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ないあからふおる
+    singer_name_ruby: やまかわゆたか
+    song_variation:
+    - esong_code: 2740A11
+      song_name: ナイアガラ・フォールズ
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: ナイアガラ・フォールズ
     song_alias:
     esong_code: 2739B37
@@ -75,23 +75,6 @@ result:
     - esong_code: 2735B25
       song_name: ナイアガラ・フォールズ
       content_type: ''
-  - song_name: ナイアガラ・フォールズ
-    song_alias:
-    esong_code: 2740A11
-    t_singer_master_id: '2466'
-    singer_name: 山川 豊
-    singer_alias:
-    available_date: '2012-01-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ないあからふおる
-    singer_name_ruby: やまかわゆたか
-    song_variation:
-    - esong_code: 2740A11
-      song_name: ナイアガラ・フォールズ
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 泣いてもいいんだ
     song_alias:
     esong_code: 2751B17
@@ -264,23 +247,6 @@ result:
       content_type: ''
   - song_name: 泣きながら夢を見て
     song_alias:
-    esong_code: 2739B28
-    t_singer_master_id: '44003'
-    singer_name: すぎもと まさと&チェウニ
-    singer_alias:
-    available_date: '2012-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: なきなからゆめをみ
-    singer_name_ruby: すきもとまさとあんとちえう
-    song_variation:
-    - esong_code: 2739B28
-      song_name: 泣きながら夢を見て
-      content_type: DAM生音
-  - song_name: 泣きながら夢を見て
-    song_alias:
     esong_code: 2736A17
     t_singer_master_id: '44003'
     singer_name: すぎもと まさと&チェウニ
@@ -313,23 +279,23 @@ result:
     - esong_code: 2740A1
       song_name: 泣きながら夢を見て
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: なごり雪
+  - song_name: 泣きながら夢を見て
     song_alias:
-    esong_code: 2747A13
-    t_singer_master_id: '17415'
-    singer_name: よかにせどん
+    esong_code: 2739B28
+    t_singer_master_id: '44003'
+    singer_name: すぎもと まさと&チェウニ
     singer_alias:
-    available_date: '2012-01-25'
+    available_date: '2012-01-17'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: なこりゆき
-    singer_name_ruby: よかにせとん
+    content_type: DAM生音
+    song_name_ruby: なきなからゆめをみ
+    singer_name_ruby: すきもとまさとあんとちえう
     song_variation:
-    - esong_code: 2747A13
-      song_name: なごり雪
-      content_type: ''
+    - esong_code: 2739B28
+      song_name: 泣きながら夢を見て
+      content_type: DAM生音
   - song_name: なごり雪
     song_alias:
     esong_code: 2746A5
@@ -347,6 +313,23 @@ result:
     - esong_code: 2746A5
       song_name: なごり雪
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: なごり雪
+    song_alias:
+    esong_code: 2747A13
+    t_singer_master_id: '17415'
+    singer_name: よかにせどん
+    singer_alias:
+    available_date: '2012-01-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なこりゆき
+    singer_name_ruby: よかにせとん
+    song_variation:
+    - esong_code: 2747A13
+      song_name: なごり雪
+      content_type: ''
   - song_name: なさけ宿
     song_alias:
     esong_code: 2737B24
@@ -372,7 +355,7 @@ result:
     singer_alias:
     available_date: '2012-01-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ 第2幕<番組名>
+    tie_up: 探偵オペラ ミルキィホームズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: なそなそはひね
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2747A34
       song_name: ナミダ 空に輝く
+      content_type: ''
+  - song_name: 涙のアドレス
+    song_alias:
+    esong_code: 2746A34
+    t_singer_master_id: '489'
+    singer_name: KAI FIVE
+    singer_alias:
+    available_date: '2012-01-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたのあとれす
+    singer_name_ruby: かいふあいふ
+    song_variation:
+    - esong_code: 2746A34
+      song_name: 涙のアドレス
       content_type: ''

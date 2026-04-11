@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: 夏影
-    song_alias:
-    esong_code: 1533B11
-    t_singer_master_id: '12138'
-    singer_name: Lia
-    singer_alias:
-    available_date: '2007-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Air<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつかけ
-    singer_name_ruby: りあ
-    song_variation:
-    - esong_code: 1533B11
-      song_name: 夏影
-      content_type: ''
-  - song_name: 夏宙〜ナツゾラ〜
-    song_alias:
-    esong_code: 1814B24
-    t_singer_master_id: '12022'
-    singer_name: TIMESLIP-RENDEZVOUS
-    singer_alias:
-    available_date: '2007-07-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつそら
-    singer_name_ruby: たいむすりつふらんてふ
-    song_variation:
-    - esong_code: 1814B24
-      song_name: 夏宙〜ナツゾラ〜
-      content_type: ''
   - song_name: 夏だ!
     song_alias:
     esong_code: 1825A25
@@ -321,7 +287,7 @@ result:
     singer_alias:
     available_date: '2007-07-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦歌謡ショウ「新・愛ゆえに」<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: なまりのたんかん
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1813A15
       song_name: 日本万歳音頭
+      content_type: ''
+  - song_name: New Freedom
+    song_alias:
+    esong_code: 1802A3
+    t_singer_master_id: '7571'
+    singer_name: 堂島 孝平
+    singer_alias:
+    available_date: '2007-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にゆふりたむ
+    singer_name_ruby: とうしまこうへい
+    song_variation:
+    - esong_code: 1802A3
+      song_name: New Freedom
+      content_type: ''
+  - song_name: NEW LIFE
+    song_alias:
+    esong_code: 1811A42
+    t_singer_master_id: '28788'
+    singer_name: GReeeeN
+    singer_alias:
+    available_date: '2007-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にゆらいふ
+    singer_name_ruby: くりん
+    song_variation:
+    - esong_code: 1811A42
+      song_name: NEW LIFE
       content_type: ''

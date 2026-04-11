@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1549
-  all_max_cnt: 1789
-  all_country_cnt: 1549
+  max_cnt: 1543
+  all_max_cnt: 1783
+  all_country_cnt: 1543
   song:
-  - song_name: 栄光の男 [DAM本人歌唱]
-    song_alias:
-    esong_code: 3322A23
-    t_singer_master_id: '944'
-    singer_name: サザンオールスターズ
-    singer_alias:
-    available_date: '2014-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: えいこうのおとこ
-    singer_name_ruby: ささんおるすたす
-    song_variation:
-    - esong_code: 3322A23
-      song_name: 栄光の男 [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: 笑顔が似合う人
     song_alias:
     esong_code: 3320A7
@@ -230,23 +213,6 @@ result:
       content_type: ''
   - song_name: ENAMEL
     song_alias:
-    esong_code: 3323B34
-    t_singer_master_id: '22748'
-    singer_name: シド
-    singer_alias:
-    available_date: '2014-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 黒執事<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: えなめる
-    singer_name_ruby: しと
-    song_variation:
-    - esong_code: 3323B34
-      song_name: ENAMEL
-      content_type: DAM生音
-  - song_name: ENAMEL
-    song_alias:
     esong_code: 3328A18
     t_singer_master_id: '22748'
     singer_name: シド
@@ -417,7 +383,7 @@ result:
       content_type: ''
   - song_name: 艶歌船
     song_alias:
-    esong_code: 3321A26
+    esong_code: 3322A39
     t_singer_master_id: '2103'
     singer_name: 細川 たかし
     singer_alias:
@@ -425,13 +391,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM生音
     song_name_ruby: えんかふね
     singer_name_ruby: ほそかわたかし
     song_variation:
-    - esong_code: 3321A26
+    - esong_code: 3322A39
       song_name: 艶歌船
-      content_type: ''
+      content_type: DAM生音
   - song_name: 艶歌船
     song_alias:
     esong_code: 3322B7
@@ -451,7 +417,7 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 艶歌船
     song_alias:
-    esong_code: 3322A39
+    esong_code: 3321A26
     t_singer_master_id: '2103'
     singer_name: 細川 たかし
     singer_alias:
@@ -459,13 +425,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type:
     song_name_ruby: えんかふね
     singer_name_ruby: ほそかわたかし
     song_variation:
-    - esong_code: 3322A39
+    - esong_code: 3321A26
       song_name: 艶歌船
-      content_type: DAM生音
+      content_type: ''
   - song_name: 演歌みたいに
     song_alias:
     esong_code: 3332A46
@@ -504,7 +470,7 @@ result:
     song_alias:
     esong_code: 3316B6
     t_singer_master_id: '42105'
-    singer_name: ひとしずくP×やま△
+    singer_name: ひとしずく×やま△
     singer_alias:
     available_date: '2014-09-07'
     end_date: '2999-04-10 00:00:00'
@@ -512,8 +478,42 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: えんとれすうえつし
-    singer_name_ruby: ひとしすくひやまさんかつけ
+    singer_name_ruby: ひとしすくやまさんかつけ
     song_variation:
     - esong_code: 3316B6
       song_name: endless wedge feat.鏡音レン
       content_type: VOCALOID
+  - song_name: ENDLESSLY
+    song_alias:
+    esong_code: 3316A8
+    t_singer_master_id: '42138'
+    singer_name: 長田 栄二(永田英二)
+    singer_alias:
+    available_date: '2014-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんとれすり
+    singer_name_ruby: なかたえいし
+    song_variation:
+    - esong_code: 3316A8
+      song_name: ENDLESSLY
+      content_type: ''
+  - song_name: エンドレスリバース feat.ユリカ(cordelia)
+    song_alias:
+    esong_code: 3318B29
+    t_singer_master_id: '36337'
+    singer_name: SOUND HOLIC
+    singer_alias:
+    available_date: '2014-09-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方輝針城 〜Double Dealing Character.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: えんとれすりは
+    singer_name_ruby: さうんとほりつく
+    song_variation:
+    - esong_code: 3318B29
+      song_name: エンドレスリバース feat.ユリカ(cordelia)
+      content_type: 東方

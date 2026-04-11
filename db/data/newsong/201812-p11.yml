@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1336
-  all_max_cnt: 1508
-  all_country_cnt: 1336
+  max_cnt: 1321
+  all_max_cnt: 1493
+  all_country_cnt: 1321
   song:
-  - song_name: 菊
-    song_alias:
-    esong_code: 4110A35
-    t_singer_master_id: '1080'
-    singer_name: 唱歌・抒情歌
-    singer_alias:
-    available_date: '2018-12-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きく
-    singer_name_ruby: しようかしよしようか
-    song_variation:
-    - esong_code: 4110A35
-      song_name: 菊
-      content_type: ''
-  - song_name: 起死回生STORY
-    song_alias:
-    esong_code: 4096A31
-    t_singer_master_id: '51025'
-    singer_name: THE ORAL CIGARETTES
-    singer_alias:
-    available_date: '2018-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: きしかいせいすとり
-    singer_name_ruby: しおらるしかれつつ
-    song_variation:
-    - esong_code: 4096A31
-      song_name: 起死回生STORY
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: キズグチ reborn by MI8k
-    song_alias:
-    esong_code: 4114B25
-    t_singer_master_id: '58204'
-    singer_name: 湯木 慧
-    singer_alias:
-    available_date: '2018-12-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすくちりほ
-    singer_name_ruby: ゆきあきら
-    song_variation:
-    - esong_code: 4114B25
-      song_name: キズグチ reborn by MI8k
-      content_type: ''
-  - song_name: 絆 〜シンクロハーモニー〜
-    song_alias:
-    esong_code: 4115B20
-    t_singer_master_id: '62984'
-    singer_name: 陶山 恵実里&桑原 由気
-    singer_alias:
-    available_date: '2018-12-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイカツフレンズ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすなしんくろは
-    singer_name_ruby: すやまえみりくわはわゆうき
-    song_variation:
-    - esong_code: 4115B20
-      song_name: 絆 〜シンクロハーモニー〜
-      content_type: ''
-  - song_name: 絆Progressive
-    song_alias:
-    esong_code: 4114B34
-    t_singer_master_id: '29082'
-    singer_name: 平川 大輔
-    singer_alias:
-    available_date: '2018-12-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Free! -Dive to the Future-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすなふろくれ
-    singer_name_ruby: ひらかわたいすけ
-    song_variation:
-    - esong_code: 4114B34
-      song_name: 絆Progressive
-      content_type: ''
   - song_name: キズナミュージック♪
     song_alias:
     esong_code: 4108B45
@@ -100,7 +15,7 @@ result:
     singer_alias:
     available_date: '2018-12-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: BanG Dream!(TV版)<番組名>
+    tie_up: BanG Dream!(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きすなみゆしつ
@@ -298,23 +213,6 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: Gifts
     song_alias:
-    esong_code: 4108B48
-    t_singer_master_id: '29531'
-    singer_name: Superfly
-    singer_alias:
-    available_date: '2018-12-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みんなのうた<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きふつ
-    singer_name_ruby: すはふらい
-    song_variation:
-    - esong_code: 4108B48
-      song_name: Gifts
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Gifts
-    song_alias:
     esong_code: 4112A34
     t_singer_master_id: '29531'
     singer_name: Superfly
@@ -330,6 +228,23 @@ result:
     - esong_code: 4112A34
       song_name: Gifts
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: Gifts
+    song_alias:
+    esong_code: 4108B48
+    t_singer_master_id: '29531'
+    singer_name: Superfly
+    singer_alias:
+    available_date: '2018-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きふつ
+    singer_name_ruby: すはふらい
+    song_variation:
+    - esong_code: 4108B48
+      song_name: Gifts
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Give me your love
     song_alias:
     esong_code: 4115B12
@@ -500,20 +415,105 @@ result:
     - esong_code: 4106B37
       song_name: 君と夏の日
       content_type: ''
-  - song_name: 君に捧げる応援歌
+  - song_name: 君に願いを (2018 New Mix)
     song_alias:
-    esong_code: 4108A32
-    t_singer_master_id: '51072'
-    singer_name: HIPPY
+    esong_code: 4109A26
+    t_singer_master_id: '50071'
+    singer_name: ベリーグッドマン
     singer_alias:
-    available_date: '2018-12-04'
+    available_date: '2018-12-12'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: きみにささけるおう
-    singer_name_ruby: ひつひ
+    song_name_ruby: きみにねかいをにせ
+    singer_name_ruby: へりくつとまん
     song_variation:
-    - esong_code: 4108A32
-      song_name: 君に捧げる応援歌
+    - esong_code: 4109A26
+      song_name: 君に願いを (2018 New Mix)
+      content_type: ''
+  - song_name: 君の歌はワルツ
+    song_alias:
+    esong_code: 4108B19
+    t_singer_master_id: '1937'
+    singer_name: BEGIN
+    singer_alias:
+    available_date: '2018-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのうたはわるつ
+    singer_name_ruby: ひきん
+    song_variation:
+    - esong_code: 4108B19
+      song_name: 君の歌はワルツ
+      content_type: ''
+  - song_name: キミノカゼニナル feat.鏡音リン
+    song_alias:
+    esong_code: 4106B14
+    t_singer_master_id: '39031'
+    singer_name: のぼる↑
+    singer_alias:
+    available_date: '2018-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: "#コンパス<番組名>"
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: きみのかせになる
+    singer_name_ruby: のほる
+    song_variation:
+    - esong_code: 4106B14
+      song_name: キミノカゼニナル feat.鏡音リン
+      content_type: VOCALOID
+  - song_name: 君の唇を離さない
+    song_alias:
+    esong_code: 4117A45
+    t_singer_master_id: '63000'
+    singer_name: 吉本坂46
+    singer_alias:
+    available_date: '2018-12-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのくちひるをは
+    singer_name_ruby: よしもとさかふおていしつくす
+    song_variation:
+    - esong_code: 4117A45
+      song_name: 君の唇を離さない
+      content_type: ''
+  - song_name: 君のためのラプソディ
+    song_alias:
+    esong_code: 4117B35
+    t_singer_master_id: '21219'
+    singer_name: 神谷 浩史
+    singer_alias:
+    available_date: '2018-12-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのためのらふそ
+    singer_name_ruby: かみやひろし
+    song_variation:
+    - esong_code: 4117B35
+      song_name: 君のためのラプソディ
+      content_type: ''
+  - song_name: キミの冒険
+    song_alias:
+    esong_code: 4122A2
+    t_singer_master_id: '56008'
+    singer_name: 岡崎 体育
+    singer_alias:
+    available_date: '2018-12-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ポケットモンスター サン&ムーン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのほうけん
+    singer_name_ruby: おかさきたいいく
+    song_variation:
+    - esong_code: 4122A2
+      song_name: キミの冒険
       content_type: ''

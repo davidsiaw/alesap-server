@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1485
-  all_max_cnt: 1686
-  all_country_cnt: 1485
+  max_cnt: 1462
+  all_max_cnt: 1663
+  all_country_cnt: 1462
   song:
-  - song_name: YES or YES (Japanese ver.)[DAM本人歌唱]
-    song_alias:
-    esong_code: 4340A9
-    t_singer_master_id: '35291'
-    singer_name: TWICE
-    singer_alias:
-    available_date: '2020-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: いえすおあいえすし
-    singer_name_ruby: とうわいす
-    song_variation:
-    - esong_code: 4340A9
-      song_name: YES or YES (Japanese ver.)[DAM本人歌唱]
-      content_type: DAM本人歌唱
-  - song_name: イエスタデイ
-    song_alias:
-    esong_code: 4347A32
-    t_singer_master_id: '53847'
-    singer_name: Official髭男dism
-    singer_alias:
-    available_date: '2020-03-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: HELLO WORLD<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: いえすたてい
-    singer_name_ruby: おふいしやるひけたんていすむ
-    song_variation:
-    - esong_code: 4347A32
-      song_name: イエスタデイ
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: いけるかも
     song_alias:
     esong_code: 4336A26
@@ -126,23 +92,6 @@ result:
     - esong_code: 4350B6
       song_name: 五十鈴川恋唄
       content_type: ''
-  - song_name: 伊豆の夕月
-    song_alias:
-    esong_code: 4345A3
-    t_singer_master_id: '15903'
-    singer_name: 竹川 美子
-    singer_alias:
-    available_date: '2020-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: いすのゆうつき
-    singer_name_ruby: たけかわみこ
-    song_variation:
-    - esong_code: 4345A3
-      song_name: 伊豆の夕月
-      content_type: DAM生音
   - song_name: 伊豆の夕月
     song_alias:
     esong_code: 4339A49
@@ -364,23 +313,6 @@ result:
     - esong_code: 4335B9
       song_name: 偽りのラビリンス
       content_type: ''
-  - song_name: 命
-    song_alias:
-    esong_code: 4345A29
-    t_singer_master_id: '66141'
-    singer_name: ライスボール
-    singer_alias:
-    available_date: '2020-03-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのち
-    singer_name_ruby: らいすほる
-    song_variation:
-    - esong_code: 4345A29
-      song_name: 命
-      content_type: ''
   - song_name: いのち feat.ラブリーサマーちゃん
     song_alias:
     esong_code: 4342B17
@@ -397,6 +329,23 @@ result:
     song_variation:
     - esong_code: 4342B17
       song_name: いのち feat.ラブリーサマーちゃん
+      content_type: ''
+  - song_name: 命
+    song_alias:
+    esong_code: 4345A29
+    t_singer_master_id: '66141'
+    singer_name: ライスボール
+    singer_alias:
+    available_date: '2020-03-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのち
+    singer_name_ruby: らいすほる
+    song_variation:
+    - esong_code: 4345A29
+      song_name: 命
       content_type: ''
   - song_name: いのち坂
     song_alias:
@@ -466,23 +415,6 @@ result:
     - esong_code: 4347B39
       song_name: 今 君に届くなら
       content_type: ''
-  - song_name: イマサラ
-    song_alias:
-    esong_code: 4334A27
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2020-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いまさら
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 4334A27
-      song_name: イマサラ
-      content_type: ''
   - song_name: 今さら
     song_alias:
     esong_code: 4342B36
@@ -499,6 +431,23 @@ result:
     song_variation:
     - esong_code: 4342B36
       song_name: 今さら
+      content_type: ''
+  - song_name: イマサラ
+    song_alias:
+    esong_code: 4334A27
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2020-03-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いまさら
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 4334A27
+      song_name: イマサラ
       content_type: ''
   - song_name: イマジネーション
     song_alias:
@@ -517,3 +466,54 @@ result:
     - esong_code: 4331A14
       song_name: イマジネーション
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 今、誰が為のかがり火へ
+    song_alias:
+    esong_code: 4351A15
+    t_singer_master_id: '43054'
+    singer_name: 幽閉サテライト/senya
+    singer_alias:
+    available_date: '2020-03-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方永夜抄 〜Imperishable Night<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: いまたかためのかか
+    singer_name_ruby: ゆうへいさてらいとせんや
+    song_variation:
+    - esong_code: 4351A15
+      song_name: 今、誰が為のかがり火へ
+      content_type: 東方
+  - song_name: いま踏み出せ夏
+    song_alias:
+    esong_code: 4341A11
+    t_singer_master_id: '66083'
+    singer_name: 真っ白なキャンバス
+    singer_alias:
+    available_date: '2020-03-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いまふみたせなつ
+    singer_name_ruby: まつしろなきやんはす
+    song_variation:
+    - esong_code: 4341A11
+      song_name: いま踏み出せ夏
+      content_type: ''
+  - song_name: 今までおおきに
+    song_alias:
+    esong_code: 4345A41
+    t_singer_master_id: '640'
+    singer_name: 北沢 麻衣
+    singer_alias:
+    available_date: '2020-03-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いままておおきに
+    singer_name_ruby: きたさわまい
+    song_variation:
+    - esong_code: 4345A41
+      song_name: 今までおおきに
+      content_type: ''

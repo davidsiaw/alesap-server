@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
   - song_name: アラビアンナイト
     song_alias:
@@ -330,6 +330,23 @@ result:
     - esong_code: 3477A6
       song_name: unravel
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Yeah!Yeah!Yeah!
+    song_alias:
+    esong_code: 3449A10
+    t_singer_master_id: '38511'
+    singer_name: androp
+    singer_alias:
+    available_date: '2015-08-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いえいえいえ
+    singer_name_ruby: あんとろつふ
+    song_variation:
+    - esong_code: 3449A10
+      song_name: Yeah!Yeah!Yeah!
+      content_type: ''
   - song_name: イエ〜ィ!!☆夏休み
     song_alias:
     esong_code: 3476A38
@@ -468,23 +485,6 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: いざ キャバクラ!
     song_alias:
-    esong_code: 3478B3
-    t_singer_master_id: '50727'
-    singer_name: やつか ひとし
-    singer_alias:
-    available_date: '2015-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いさきやはくら
-    singer_name_ruby: やつかひとし
-    song_variation:
-    - esong_code: 3478B3
-      song_name: いざ キャバクラ!
-      content_type: ''
-  - song_name: いざ キャバクラ!
-    song_alias:
     esong_code: 3477A9
     t_singer_master_id: '50727'
     singer_name: やつか ひとし
@@ -500,20 +500,20 @@ result:
     - esong_code: 3477A9
       song_name: いざ キャバクラ!
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: '1988'
+  - song_name: いざ キャバクラ!
     song_alias:
-    esong_code: 3479B42
-    t_singer_master_id: '50071'
-    singer_name: ベリーグッドマン
+    esong_code: 3478B3
+    t_singer_master_id: '50727'
+    singer_name: やつか ひとし
     singer_alias:
-    available_date: '2015-08-11'
+    available_date: '2015-08-12'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: いちきゆうはちはち
-    singer_name_ruby: へりくつとまん
+    song_name_ruby: いさきやはくら
+    singer_name_ruby: やつかひとし
     song_variation:
-    - esong_code: 3479B42
-      song_name: '1988'
+    - esong_code: 3478B3
+      song_name: いざ キャバクラ!
       content_type: ''

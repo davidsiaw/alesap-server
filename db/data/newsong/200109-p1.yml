@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 407
-  all_max_cnt: 426
-  all_country_cnt: 407
+  max_cnt: 404
+  all_max_cnt: 423
+  all_country_cnt: 404
   song:
   - song_name: 嵐のち晴れ
     song_alias:
@@ -262,23 +262,6 @@ result:
     - esong_code: 16A33
       song_name: 海へ来なさい
       content_type: ''
-  - song_name: 裏切りへの前奏曲
-    song_alias:
-    esong_code: 668A25
-    t_singer_master_id: '136'
-    singer_name: アルフィー(THE ALFEE)
-    singer_alias:
-    available_date: '2001-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うらきりへのふれ
-    singer_name_ruby: あるふい
-    song_variation:
-    - esong_code: 668A25
-      song_name: 裏切りへの前奏曲
-      content_type: ''
   - song_name: ウルトラマンネオスTYPE2001
     song_alias:
     esong_code: 671B36
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 671B37
       song_name: 男のウヰスキー
+      content_type: ''
+  - song_name: 男の精神(こころ)
+    song_alias:
+    esong_code: 665B29
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2001-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのこころ
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 665B29
+      song_name: 男の精神(こころ)
       content_type: ''

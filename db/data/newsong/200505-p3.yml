@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 874
-  all_max_cnt: 915
-  all_country_cnt: 874
+  max_cnt: 864
+  all_max_cnt: 905
+  all_country_cnt: 864
   song:
-  - song_name: ウェーバーの子守唄
-    song_alias:
-    esong_code: 762B49
-    t_singer_master_id: '1603'
-    singer_name: 童謡
-    singer_alias:
-    available_date: '2005-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえはのこもり
-    singer_name_ruby: とうよう
-    song_variation:
-    - esong_code: 762B49
-      song_name: ウェーバーの子守唄
-      content_type: ''
-  - song_name: 上原 〜FUTOSHI〜
-    song_alias:
-    esong_code: 1230A27
-    t_singer_master_id: '16062'
-    singer_name: マキシマム ザ ホルモン
-    singer_alias:
-    available_date: '2005-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえはら
-    singer_name_ruby: まきしまむさほるもん
-    song_variation:
-    - esong_code: 1230A27
-      song_name: 上原 〜FUTOSHI〜
-      content_type: ''
   - song_name: WALKIN' ON THE SPIRAL
     song_alias:
     esong_code: 1229B25
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 44A13
       song_name: エーデルワイス
+      content_type: ''
+  - song_name: 江戸子守唄
+    song_alias:
+    esong_code: 763B42
+    t_singer_master_id: '1603'
+    singer_name: 童謡
+    singer_alias:
+    available_date: '2005-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えとこもりうた
+    singer_name_ruby: とうよう
+    song_variation:
+    - esong_code: 763B42
+      song_name: 江戸子守唄
+      content_type: ''
+  - song_name: Everlasting
+    song_alias:
+    esong_code: 654A48
+    t_singer_master_id: '15560'
+    singer_name: 玉置 成実
+    singer_alias:
+    available_date: '2005-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えはらすていんく
+    singer_name_ruby: たまきなみ
+    song_variation:
+    - esong_code: 654A48
+      song_name: Everlasting
       content_type: ''

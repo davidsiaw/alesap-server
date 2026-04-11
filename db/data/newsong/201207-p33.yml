@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: ファインダーダイバー
-    song_alias:
-    esong_code: 2824A11
-    t_singer_master_id: '33013'
-    singer_name: 石鹸屋
-    singer_alias:
-    available_date: '2012-07-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ダブルスポイラー〜東方文花帖<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: ふあいんたたい
-    singer_name_ruby: せつけんや
-    song_variation:
-    - esong_code: 2824A11
-      song_name: ファインダーダイバー
-      content_type: 東方
-  - song_name: FUNKY MONKEY BABYSメドレー 〜2011〜
-    song_alias:
-    esong_code: 2826B8
-    t_singer_master_id: '24880'
-    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
-    singer_alias:
-    available_date: '2012-07-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふあんきもんきへ
-    singer_name_ruby: ふあんきもんきへいひす
-    song_variation:
-    - esong_code: 2826B8
-      song_name: FUNKY MONKEY BABYSメドレー 〜2011〜
-      content_type: ''
-  - song_name: 恋心A B C
-    song_alias:
-    esong_code: 2821B24
-    t_singer_master_id: '33544'
-    singer_name: 阪口 大助
-    singer_alias:
-    available_date: '2012-07-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: VitaminX Addiction<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふあんたすていつくえ
-    singer_name_ruby: さかくちたいすけ
-    song_variation:
-    - esong_code: 2821B24
-      song_name: 恋心A B C
-      content_type: ''
   - song_name: ファンファーレ
     song_alias:
     esong_code: 2826B20
@@ -247,23 +196,6 @@ result:
       content_type: ''
   - song_name: 深川ブルース
     song_alias:
-    esong_code: 2819B28
-    t_singer_master_id: '48170'
-    singer_name: 野村 未奈(三代目コロムビア・ローズ 野村未奈)
-    singer_alias:
-    available_date: '2012-07-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ふかかわふるす
-    singer_name_ruby: のむらみな
-    song_variation:
-    - esong_code: 2819B28
-      song_name: 深川ブルース
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 深川ブルース
-    song_alias:
     esong_code: 2819A49
     t_singer_master_id: '48170'
     singer_name: 野村 未奈(三代目コロムビア・ローズ 野村未奈)
@@ -279,6 +211,23 @@ result:
     - esong_code: 2819A49
       song_name: 深川ブルース
       content_type: DAM生音
+  - song_name: 深川ブルース
+    song_alias:
+    esong_code: 2819B28
+    t_singer_master_id: '48170'
+    singer_name: 野村 未奈(三代目コロムビア・ローズ 野村未奈)
+    singer_alias:
+    available_date: '2012-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ふかかわふるす
+    singer_name_ruby: のむらみな
+    song_variation:
+    - esong_code: 2819B28
+      song_name: 深川ブルース
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 不死身の男
     song_alias:
     esong_code: 2815B18
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2822B16
       song_name: FLY
+      content_type: ''
+  - song_name: Pride
+    song_alias:
+    esong_code: 2669B40
+    t_singer_master_id: '36860'
+    singer_name: Nothing's Carved In Stone
+    singer_alias:
+    available_date: '2012-07-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: キングダム<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらいと
+    singer_name_ruby: なつしんくすかふといんすとん
+    song_variation:
+    - esong_code: 2669B40
+      song_name: Pride
+      content_type: ''
+  - song_name: PRIDE AND JOY
+    song_alias:
+    esong_code: 1078B17
+    t_singer_master_id: '1658'
+    singer_name: 中森 明菜
+    singer_alias:
+    available_date: '2012-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらいとあんと
+    singer_name_ruby: なかもりあきな
+    song_variation:
+    - esong_code: 1078B17
+      song_name: PRIDE AND JOY
+      content_type: ''
+  - song_name: Fly bye
+    song_alias:
+    esong_code: 2811A45
+    t_singer_master_id: '31478'
+    singer_name: Team.ねこかん[猫]
+    singer_alias:
+    available_date: '2012-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: S 〜METAL BLADE〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらいはい
+    singer_name_ruby: ちむねこかん
+    song_variation:
+    - esong_code: 2811A45
+      song_name: Fly bye
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: 約束の場所
-    song_alias:
-    esong_code: 1553A22
-    t_singer_master_id: '37762'
-    singer_name: 杉本 和也
-    singer_alias:
-    available_date: '2014-03-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やくそくのはしよ
-    singer_name_ruby: すきもとかすや
-    song_variation:
-    - esong_code: 1553A22
-      song_name: 約束の場所
-      content_type: ''
-  - song_name: 約束の場所
-    song_alias:
-    esong_code: 3220B29
-    t_singer_master_id: '43947'
-    singer_name: E-girls
-    singer_alias:
-    available_date: '2014-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やくそくのはしよ
-    singer_name_ruby: いかるす
-    song_variation:
-    - esong_code: 3220B29
-      song_name: 約束の場所
-      content_type: ''
   - song_name: 約束のヴェール
     song_alias:
     esong_code: 3220B7
@@ -417,23 +383,6 @@ result:
       content_type: ''
   - song_name: 雪国列車
     song_alias:
-    esong_code: 3215A49
-    t_singer_master_id: '18405'
-    singer_name: 川崎 修二
-    singer_alias:
-    available_date: '2014-03-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ゆきくにれつしや
-    singer_name_ruby: かわさきしゆうし
-    song_variation:
-    - esong_code: 3215A49
-      song_name: 雪国列車
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 雪国列車
-    song_alias:
     esong_code: 3214B13
     t_singer_master_id: '18405'
     singer_name: 川崎 修二
@@ -449,6 +398,23 @@ result:
     - esong_code: 3214B13
       song_name: 雪国列車
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 雪国列車
+    song_alias:
+    esong_code: 3215A49
+    t_singer_master_id: '18405'
+    singer_name: 川崎 修二
+    singer_alias:
+    available_date: '2014-03-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ゆきくにれつしや
+    singer_name_ruby: かわさきしゆうし
+    song_variation:
+    - esong_code: 3215A49
+      song_name: 雪国列車
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 雪子の止まり木あなたです
     song_alias:
     esong_code: 3216B36
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3224A6
       song_name: JUSTITIA
+      content_type: ''
+  - song_name: You tell me
+    song_alias:
+    esong_code: 3221A21
+    t_singer_master_id: '45391'
+    singer_name: chay
+    singer_alias:
+    available_date: '2014-03-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆてるみ
+    singer_name_ruby: ちやい
+    song_variation:
+    - esong_code: 3221A21
+      song_name: You tell me
+      content_type: ''
+  - song_name: YOU DO_OUTRO
+    song_alias:
+    esong_code: 3212A2
+    t_singer_master_id: '46460'
+    singer_name: G-DRAGON(from BIGBANG)
+    singer_alias:
+    available_date: '2014-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆとうあうとろ
+    singer_name_ruby: しとらこん
+    song_variation:
+    - esong_code: 3212A2
+      song_name: YOU DO_OUTRO
       content_type: ''

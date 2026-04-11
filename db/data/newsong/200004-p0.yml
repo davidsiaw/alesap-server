@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 113
-  all_max_cnt: 130
-  all_country_cnt: 113
+  max_cnt: 114
+  all_max_cnt: 131
+  all_country_cnt: 114
   song:
   - song_name: 愛情
     song_alias:
@@ -364,6 +364,23 @@ result:
     - esong_code: 327B35
       song_name: 君を信じて
       content_type: ''
+  - song_name: キャプテンウルトラ
+    song_alias:
+    esong_code: 94B12
+    t_singer_master_id: '78587'
+    singer_name: ボーカルショップ&マイスタージンガー&上高田少年合唱団
+    singer_alias:
+    available_date: '2000-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: キャプテンウルトラ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやふてんうるとら
+    singer_name_ruby: ほかるしよつふあんとまいすたし
+    song_variation:
+    - esong_code: 94B12
+      song_name: キャプテンウルトラ
+      content_type: ''
   - song_name: can't hold me back
     song_alias:
     esong_code: 327B33
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 330B22
       song_name: 神戸へ来てくれませんか
-      content_type: ''
-  - song_name: 根性戦隊ガッツマン
-    song_alias:
-    esong_code: 38A25
-    t_singer_master_id: '7413'
-    singer_name: 宮村 優子
-    singer_alias:
-    available_date: '2000-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 根性戦隊ガッツマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんしようせんたい
-    singer_name_ruby: みやむらゆうこ
-    song_variation:
-    - esong_code: 38A25
-      song_name: 根性戦隊ガッツマン
       content_type: ''

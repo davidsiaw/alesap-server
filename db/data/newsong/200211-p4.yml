@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 655
-  all_max_cnt: 733
-  all_country_cnt: 655
+  max_cnt: 652
+  all_max_cnt: 730
+  all_country_cnt: 652
   song:
   - song_name: おまえのための恋唄
     song_alias:
@@ -398,23 +398,6 @@ result:
     - esong_code: 970A31
       song_name: かみなりが鳴ってたくさん雨が降る夜
       content_type: ''
-  - song_name: カモン・チョコレート・ロッカーズ
-    song_alias:
-    esong_code: 978A21
-    t_singer_master_id: '2457'
-    singer_name: 柳 ジョージ&レイニーウッド
-    singer_alias:
-    available_date: '2002-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かもんちよこれとろ
-    singer_name_ruby: やなきしよしあんと
-    song_variation:
-    - esong_code: 978A21
-      song_name: カモン・チョコレート・ロッカーズ
-      content_type: ''
   - song_name: Colors
     song_alias:
     esong_code: 956A34
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 959B38
       song_name: 枯れない花
+      content_type: ''
+  - song_name: かんにんや・・・
+    song_alias:
+    esong_code: 967A25
+    t_singer_master_id: '671'
+    singer_name: キム・ヨンジャ(金蓮子)
+    singer_alias:
+    available_date: '2002-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんにんや
+    singer_name_ruby: きむよんしや
+    song_variation:
+    - esong_code: 967A25
+      song_name: かんにんや・・・
       content_type: ''

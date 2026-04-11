@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1233
-  all_max_cnt: 1468
-  all_country_cnt: 1233
+  max_cnt: 1221
+  all_max_cnt: 1456
+  all_country_cnt: 1221
   song:
-  - song_name: アワ・ダンサー
-    song_alias:
-    esong_code: 4254A49
-    t_singer_master_id: '55618'
-    singer_name: 浦島坂田船
-    singer_alias:
-    available_date: '2019-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あわたんさ
-    singer_name_ruby: うらしまさかたせん
-    song_variation:
-    - esong_code: 4254A49
-      song_name: アワ・ダンサー
-      content_type: ''
-  - song_name: アンインストール (あにそんボーカルVer.)
-    song_alias:
-    esong_code: 4234A23
-    t_singer_master_id: '48393'
-    singer_name: 荒川 美穂
-    singer_alias:
-    available_date: '2019-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ぼくらの<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あんいんすとる
-    singer_name_ruby: あらかわみほ
-    song_variation:
-    - esong_code: 4234A23
-      song_name: アンインストール (あにそんボーカルVer.)
-      content_type: DAM生音
   - song_name: アンサー (あにそんボーカルVer.)
     song_alias:
     esong_code: 4234A43
@@ -177,23 +143,6 @@ result:
     - esong_code: 4249B31
       song_name: 安寧(さよなら)
       content_type: ''
-  - song_name: Ambitious Eve (ストレイライト Ver.)
-    song_alias:
-    esong_code: 4254B38
-    t_singer_master_id: '64798'
-    singer_name: ストレイライト
-    singer_alias:
-    available_date: '2019-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドルマスター シャイニーカラーズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんひしやすいふ
-    singer_name_ruby: すとれいらいと
-    song_variation:
-    - esong_code: 4254B38
-      song_name: Ambitious Eve (ストレイライト Ver.)
-      content_type: ''
   - song_name: Ambitious Eve (アルストロメリア Ver.)
     song_alias:
     esong_code: 4248A4
@@ -210,6 +159,23 @@ result:
     song_variation:
     - esong_code: 4248A4
       song_name: Ambitious Eve (アルストロメリア Ver.)
+      content_type: ''
+  - song_name: Ambitious Eve (ストレイライト Ver.)
+    song_alias:
+    esong_code: 4254B38
+    t_singer_master_id: '64798'
+    singer_name: ストレイライト
+    singer_alias:
+    available_date: '2019-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター シャイニーカラーズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんひしやすいふ
+    singer_name_ruby: すとれいらいと
+    song_variation:
+    - esong_code: 4254B38
+      song_name: Ambitious Eve (ストレイライト Ver.)
       content_type: ''
   - song_name: Yellow
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4255A41
       song_name: 一徹 男街道
+      content_type: ''
+  - song_name: 一杯の水
+    song_alias:
+    esong_code: 4248A26
+    t_singer_master_id: '59091'
+    singer_name: STU48
+    singer_alias:
+    available_date: '2019-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつはいのみす
+    singer_name_ruby: えすていゆふおていえいと
+    song_variation:
+    - esong_code: 4248A26
+      song_name: 一杯の水
+      content_type: ''
+  - song_name: いつまでも続くブルー
+    song_alias:
+    esong_code: 4245A19
+    t_singer_master_id: '10914'
+    singer_name: 矢井田 瞳(YAIKO)
+    singer_alias:
+    available_date: '2019-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつまてもつつく
+    singer_name_ruby: やいたひとみ
+    song_variation:
+    - esong_code: 4245A19
+      song_name: いつまでも続くブルー
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 259
-  all_max_cnt: 274
-  all_country_cnt: 259
+  max_cnt: 254
+  all_max_cnt: 269
+  all_country_cnt: 254
   song:
-  - song_name: 空にかける橋
-    song_alias:
-    esong_code: 514A40
-    t_singer_master_id: '7314'
-    singer_name: 奥井 雅美
-    singer_alias:
-    available_date: '2001-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・エターニア THE ANIMATION<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: そらにかけるはし
-    singer_name_ruby: おくいまさみ
-    song_variation:
-    - esong_code: 514A40
-      song_name: 空にかける橋
-      content_type: ''
-  - song_name: 空の向こうまで
-    song_alias:
-    esong_code: 514A31
-    t_singer_master_id: '449'
-    singer_name: 織田 裕二
-    singer_alias:
-    available_date: '2001-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そらのむこうまて
-    singer_name_ruby: おたゆうし
-    song_variation:
-    - esong_code: 514A31
-      song_name: 空の向こうまで
-      content_type: ''
   - song_name: ダイヤモンド・レイン
     song_alias:
     esong_code: 624B19
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 520A34
       song_name: ト・キ・メ・キ
+      content_type: ''
+  - song_name: どこまでも遠くへ
+    song_alias:
+    esong_code: 518A27
+    t_singer_master_id: '8723'
+    singer_name: Something ELse
+    singer_alias:
+    available_date: '2001-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とこまてもとおく
+    singer_name_ruby: さむしんくえるす
+    song_variation:
+    - esong_code: 518A27
+      song_name: どこまでも遠くへ
+      content_type: ''
+  - song_name: ドッグスVSキャッツ
+    song_alias:
+    esong_code: 761A11
+    t_singer_master_id: '1444'
+    singer_name: チェッカーズ
+    singer_alias:
+    available_date: '2001-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とつくすふい
+    singer_name_ruby: ちえつかす
+    song_variation:
+    - esong_code: 761A11
+      song_name: ドッグスVSキャッツ
       content_type: ''

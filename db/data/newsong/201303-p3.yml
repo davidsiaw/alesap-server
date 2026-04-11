@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
   - song_name: ABAYO
     song_alias:
@@ -400,23 +400,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: ありがとう
     song_alias:
-    esong_code: 3003B11
-    t_singer_master_id: '24880'
-    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
-    singer_alias:
-    available_date: '2013-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ありかとう
-    singer_name_ruby: ふあんきもんきへいひす
-    song_variation:
-    - esong_code: 3003B11
-      song_name: ありがとう
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: ありがとう
-    song_alias:
     esong_code: 3004B31
     t_singer_master_id: '20714'
     singer_name: JUJU
@@ -432,6 +415,23 @@ result:
     - esong_code: 3004B31
       song_name: ありがとう
       content_type: JOY生演奏
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 3003B11
+    t_singer_master_id: '24880'
+    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
+    singer_alias:
+    available_date: '2013-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ありかとう
+    singer_name_ruby: ふあんきもんきへいひす
+    song_variation:
+    - esong_code: 3003B11
+      song_name: ありがとう
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: ありがとう音頭
     song_alias:
     esong_code: 2995A27

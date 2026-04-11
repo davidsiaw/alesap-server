@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 891
-  all_max_cnt: 961
-  all_country_cnt: 891
+  max_cnt: 888
+  all_max_cnt: 956
+  all_country_cnt: 888
   song:
-  - song_name: アーモンド
-    song_alias:
-    esong_code: 1661B24
-    t_singer_master_id: '26622'
-    singer_name: ORESKABAND(オレスカバンド)
-    singer_alias:
-    available_date: '2006-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あもんと
-    singer_name_ruby: おれすかはんと
-    song_variation:
-    - esong_code: 1661B24
-      song_name: アーモンド
-      content_type: ''
   - song_name: a Life Time
     song_alias:
     esong_code: 1661A49
@@ -40,23 +23,6 @@ result:
     song_variation:
     - esong_code: 1661A49
       song_name: a Life Time
-      content_type: ''
-  - song_name: ありがとう
-    song_alias:
-    esong_code: 1663A28
-    t_singer_master_id: '14026'
-    singer_name: 双葉
-    singer_alias:
-    available_date: '2006-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: ふたは
-    song_variation:
-    - esong_code: 1663A28
-      song_name: ありがとう
       content_type: ''
   - song_name: ありがとう
     song_alias:
@@ -90,6 +56,23 @@ result:
     singer_name_ruby: すはくりんくしやむふらんと
     song_variation:
     - esong_code: 1674B42
+      song_name: ありがとう
+      content_type: ''
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 1663A28
+    t_singer_master_id: '14026'
+    singer_name: 双葉
+    singer_alias:
+    available_date: '2006-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: ふたは
+    song_variation:
+    - esong_code: 1663A28
       song_name: ありがとう
       content_type: ''
   - song_name: arizona
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1662B45
       song_name: いま君に逢いたいと思うこと
+      content_type: ''
+  - song_name: イメージ
+    song_alias:
+    esong_code: 1665A1
+    t_singer_master_id: '3079'
+    singer_name: TOKIO
+    singer_alias:
+    available_date: '2006-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いめし
+    singer_name_ruby: ときお
+    song_variation:
+    - esong_code: 1665A1
+      song_name: イメージ
       content_type: ''

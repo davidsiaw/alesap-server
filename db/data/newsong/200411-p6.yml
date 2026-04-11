@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 677
-  all_max_cnt: 709
-  all_country_cnt: 677
+  max_cnt: 674
+  all_max_cnt: 706
+  all_country_cnt: 674
   song:
-  - song_name: 君を抱いて眠りたい
-    song_alias:
-    esong_code: 960A44
-    t_singer_master_id: '1232'
-    singer_name: 鈴木 雅之
-    singer_alias:
-    available_date: '2004-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: きみをたいてねむり
-    singer_name_ruby: すすきまさゆき
-    song_variation:
-    - esong_code: 960A44
-      song_name: 君を抱いて眠りたい
-      content_type: DAM良音
-  - song_name: 君を抱いて眠りたい
-    song_alias:
-    esong_code: 79B30
-    t_singer_master_id: '1232'
-    singer_name: 鈴木 雅之
-    singer_alias:
-    available_date: '2004-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみをたいてねむり
-    singer_name_ruby: すすきまさゆき
-    song_variation:
-    - esong_code: 79B30
-      song_name: 君を抱いて眠りたい
-      content_type: ''
   - song_name: Can't Resist (全英語詞)
     song_alias:
     esong_code: 960A48
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 625A2
       song_name: ケツメイシメドレー 〜溢れる感情〜
+      content_type: ''
+  - song_name: 現実を嗤う
+    song_alias:
+    esong_code: 414B30
+    t_singer_master_id: '20368'
+    singer_name: 東京事変
+    singer_alias:
+    available_date: '2004-11-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けんしつをわらう
+    singer_name_ruby: とうきようしへん
+    song_variation:
+    - esong_code: 414B30
+      song_name: 現実を嗤う
+      content_type: ''
+  - song_name: 恋しいわが家
+    song_alias:
+    esong_code: 940B43
+    t_singer_master_id: '960'
+    singer_name: 佐野 元春
+    singer_alias:
+    available_date: '2004-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいしいわかや
+    singer_name_ruby: さのもとはる
+    song_variation:
+    - esong_code: 940B43
+      song_name: 恋しいわが家
       content_type: ''

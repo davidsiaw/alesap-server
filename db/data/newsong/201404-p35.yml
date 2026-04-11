@@ -7,6 +7,23 @@ result:
   all_max_cnt: 1916
   all_country_cnt: 1684
   song:
+  - song_name: 1/2 NO エピソード
+    song_alias:
+    esong_code: 1110A4
+    t_singer_master_id: '24541'
+    singer_name: COLOR
+    singer_alias:
+    available_date: '2014-04-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にふんのいちのえひ
+    singer_name_ruby: から
+    song_variation:
+    - esong_code: 1110A4
+      song_name: 1/2 NO エピソード
+      content_type: ''
   - song_name: New World Order
     song_alias:
     esong_code: 3227B2
@@ -451,23 +468,6 @@ result:
       content_type: ''
   - song_name: のぞみ酒
     song_alias:
-    esong_code: 3215A44
-    t_singer_master_id: '47876'
-    singer_name: 杜 このみ
-    singer_alias:
-    available_date: '2014-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: のそみさけ
-    singer_name_ruby: もりこのみ
-    song_variation:
-    - esong_code: 3215A44
-      song_name: のぞみ酒
-      content_type: DAM生音
-  - song_name: のぞみ酒
-    song_alias:
     esong_code: 3215B17
     t_singer_master_id: '47876'
     singer_name: 杜 このみ
@@ -500,20 +500,20 @@ result:
     - esong_code: 3246B9
       song_name: のぞみ酒
       content_type: ''
-  - song_name: 能登の海鳴り
+  - song_name: のぞみ酒
     song_alias:
-    esong_code: 3229B36
-    t_singer_master_id: '50266'
-    singer_name: 竹村 こずえ
+    esong_code: 3215A44
+    t_singer_master_id: '47876'
+    singer_name: 杜 このみ
     singer_alias:
     available_date: '2014-04-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: のとのうみなり
-    singer_name_ruby: たけむらこすえ
+    content_type: DAM生音
+    song_name_ruby: のそみさけ
+    singer_name_ruby: もりこのみ
     song_variation:
-    - esong_code: 3229B36
-      song_name: 能登の海鳴り
-      content_type: DAMﾌﾟﾛｵｹ
+    - esong_code: 3215A44
+      song_name: のぞみ酒
+      content_type: DAM生音

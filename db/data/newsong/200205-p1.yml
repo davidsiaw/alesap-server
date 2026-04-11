@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 398
-  all_max_cnt: 457
-  all_country_cnt: 398
+  max_cnt: 395
+  all_max_cnt: 455
+  all_country_cnt: 395
   song:
-  - song_name: あなただけのESP! (真琴つばさ&檀れい)
-    song_alias:
-    esong_code: 840B37
-    t_singer_master_id: '1349'
-    singer_name: 宝塚歌劇団
-    singer_alias:
-    available_date: '2002-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたたけのいえ
-    singer_name_ruby: たからつかかけき
-    song_variation:
-    - esong_code: 840B37
-      song_name: あなただけのESP! (真琴つばさ&檀れい)
-      content_type: ''
   - song_name: あの子が天使になった日
     song_alias:
     esong_code: 839B21
@@ -151,7 +134,7 @@ result:
     singer_alias:
     available_date: '2002-05-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: スレイヤーズNEXT<番組名>
+    tie_up: スレイヤーズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あめのふあらうえい
@@ -483,6 +466,23 @@ result:
     - esong_code: 107B46
       song_name: エゴイスト
       content_type: DAM良音
+  - song_name: Eternity.
+    song_alias:
+    esong_code: 847A31
+    t_singer_master_id: '13424'
+    singer_name: Lyrico
+    singer_alias:
+    available_date: '2002-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えたにてい
+    singer_name_ruby: りりこ
+    song_variation:
+    - esong_code: 847A31
+      song_name: Eternity.
+      content_type: ''
   - song_name: eternity
     song_alias:
     esong_code: 836B35
@@ -500,20 +500,20 @@ result:
     - esong_code: 836B35
       song_name: eternity
       content_type: ''
-  - song_name: Eternity.
+  - song_name: ex-girlfriend
     song_alias:
-    esong_code: 847A31
-    t_singer_master_id: '13424'
-    singer_name: Lyrico
+    esong_code: 847A28
+    t_singer_master_id: '6035'
+    singer_name: 平井 堅
     singer_alias:
     available_date: '2002-05-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: えたにてい
-    singer_name_ruby: りりこ
+    song_name_ruby: えつくすかるふれ
+    singer_name_ruby: ひらいけん
     song_variation:
-    - esong_code: 847A31
-      song_name: Eternity.
+    - esong_code: 847A28
+      song_name: ex-girlfriend
       content_type: ''

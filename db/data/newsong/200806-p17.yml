@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
+  - song_name: スプラッシュ・マウンテン エヴリバディ・ハズ・ア・ラフィング・プレイス
+    song_alias:
+    esong_code: 2040B40
+    t_singer_master_id: '33307'
+    singer_name: 東京ディズニーリゾート(R) パークミュージック
+    singer_alias:
+    available_date: '2008-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すふらつしゆまうん
+    singer_name_ruby: とうきようていすにりそと
+    song_variation:
+    - esong_code: 2040B40
+      song_name: スプラッシュ・マウンテン エヴリバディ・ハズ・ア・ラフィング・プレイス
+      content_type: ''
   - song_name: スマイルループ
     song_alias:
     esong_code: 2043A10
@@ -23,23 +40,6 @@ result:
     song_variation:
     - esong_code: 2043A10
       song_name: スマイルループ
-      content_type: ''
-  - song_name: すまねえ魂
-    song_alias:
-    esong_code: 2027B23
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2008-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すまねえたましい
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 2027B23
-      song_name: すまねえ魂
       content_type: ''
   - song_name: スリージーラヴァー
     song_alias:

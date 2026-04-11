@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1328
-  all_max_cnt: 1485
-  all_country_cnt: 1328
+  max_cnt: 1315
+  all_max_cnt: 1472
+  all_country_cnt: 1315
   song:
-  - song_name: 椎名林檎ヒットソングメドレー2
-    song_alias:
-    esong_code: 4019B20
-    t_singer_master_id: '8522'
-    singer_name: 椎名 林檎
-    singer_alias:
-    available_date: '2018-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しいなりんこひつと
-    singer_name_ruby: しいなりんこ
-    song_variation:
-    - esong_code: 4019B20
-      song_name: 椎名林檎ヒットソングメドレー2
-      content_type: ''
-  - song_name: Shape of You
-    song_alias:
-    esong_code: 4013A21
-    t_singer_master_id: '61154'
-    singer_name: みやかわくん
-    singer_alias:
-    available_date: '2018-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえいふおふゆ
-    singer_name_ruby: みやかわくん
-    song_variation:
-    - esong_code: 4013A21
-      song_name: Shape of You
-      content_type: ''
   - song_name: Shapeless
     song_alias:
     esong_code: 4003A7
@@ -94,23 +60,6 @@ result:
       content_type: ''
   - song_name: シグナル
     song_alias:
-    esong_code: 4003B4
-    t_singer_master_id: '52977'
-    singer_name: WANIMA
-    singer_alias:
-    available_date: '2018-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: しくなる
-    singer_name_ruby: わにま
-    song_variation:
-    - esong_code: 4003B4
-      song_name: シグナル
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: シグナル
-    song_alias:
     esong_code: 4007A35
     t_singer_master_id: '40738'
     singer_name: ねごと
@@ -126,6 +75,23 @@ result:
     - esong_code: 4007A35
       song_name: シグナル
       content_type: ''
+  - song_name: シグナル
+    song_alias:
+    esong_code: 4003B4
+    t_singer_master_id: '52977'
+    singer_name: WANIMA
+    singer_alias:
+    available_date: '2018-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: しくなる
+    singer_name_ruby: わにま
+    song_variation:
+    - esong_code: 4003B4
+      song_name: シグナル
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: sea side motel
     song_alias:
     esong_code: 4007A17
@@ -164,7 +130,7 @@ result:
     song_alias:
     esong_code: 4005A31
     t_singer_master_id: '46612'
-    singer_name: ひとしずくP×やま△ feat.鏡音リン、鏡音レン
+    singer_name: ひとしずく×やま△ feat.鏡音リン、鏡音レン
     singer_alias:
     available_date: '2018-06-03'
     end_date: '2999-04-10 00:00:00'
@@ -172,7 +138,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: しすたすまし
-    singer_name_ruby: ひとしすくひやまさんかつけふい
+    singer_name_ruby: ひとしすくやまさんかつけふい
     song_variation:
     - esong_code: 4005A31
       song_name: Sister's ∞ mercY
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4003A8
       song_name: SHADOW MONSTER
+      content_type: ''
+  - song_name: ジャーバージャ
+    song_alias:
+    esong_code: 3991A20
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2018-06-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: しやはしや
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 3991A20
+      song_name: ジャーバージャ
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: シャングリラ
+    song_alias:
+    esong_code: 4004A46
+    t_singer_master_id: '40738'
+    singer_name: ねごと
+    singer_alias:
+    available_date: '2018-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやんくりら
+    singer_name_ruby: ねこと
+    song_variation:
+    - esong_code: 4004A46
+      song_name: シャングリラ
       content_type: ''

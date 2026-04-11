@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 986
-  all_max_cnt: 1090
-  all_country_cnt: 986
+  max_cnt: 964
+  all_max_cnt: 1067
+  all_country_cnt: 964
   song:
-  - song_name: Welcome to the PARADE!
-    song_alias:
-    esong_code: 4678A46
-    t_singer_master_id: '55534'
-    singer_name: 種﨑 敦美
-    singer_alias:
-    available_date: '2022-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: グランブルーファンタジー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえるかむとうさは
-    singer_name_ruby: たねさきあつみ
-    song_variation:
-    - esong_code: 4678A46
-      song_name: Welcome to the PARADE!
-      content_type: ''
   - song_name: Welcome to 僕らのセカイ
     song_alias:
     esong_code: 4681B47
@@ -442,7 +425,7 @@ result:
     song_alias:
     esong_code: 4681A37
     t_singer_master_id: '59326'
-    singer_name: 坂口 有望
+    singer_name: サカグチ アミ(坂口有望)
     singer_alias:
     available_date: '2022-09-30'
     end_date: '2999-04-10 00:00:00'
@@ -455,23 +438,6 @@ result:
     - esong_code: 4681A37
       song_name: XL
       content_type: ''
-  - song_name: 絵本のような
-    song_alias:
-    esong_code: 4674B4
-    t_singer_master_id: '67928'
-    singer_name: RuLu
-    singer_alias:
-    available_date: '2022-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: えほんのような
-    singer_name_ruby: るる
-    song_variation:
-    - esong_code: 4674B4
-      song_name: 絵本のような
-      content_type: VOCALOID
   - song_name: エメラルドのペテン師 〜嘘つきは魔法のはじまり
     song_alias:
     esong_code: 4675A44
@@ -522,4 +488,38 @@ result:
     song_variation:
     - esong_code: 4675A17
       song_name: L.I.B
+      content_type: ''
+  - song_name: Angel
+    song_alias:
+    esong_code: 4679B28
+    t_singer_master_id: '70269'
+    singer_name: YTR
+    singer_alias:
+    available_date: '2022-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんしえる
+    singer_name_ruby: ゆうたろう
+    song_variation:
+    - esong_code: 4679B28
+      song_name: Angel
+      content_type: ''
+  - song_name: 炎上アリス (高輪バーサス戦ver.)
+    song_alias:
+    esong_code: 4674B23
+    t_singer_master_id: '45282'
+    singer_name: 上坂 すみれ
+    singer_alias:
+    available_date: '2022-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ハナビちゃんは遅れがち<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんしようありす
+    singer_name_ruby: うえさかすみれ
+    song_variation:
+    - esong_code: 4674B23
+      song_name: 炎上アリス (高輪バーサス戦ver.)
       content_type: ''

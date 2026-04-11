@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
   - song_name: 未練心
     song_alias:
@@ -483,6 +483,23 @@ result:
     - esong_code: 2462A37
       song_name: ヤミツキ
       content_type: ''
+  - song_name: ヤンバルクイナが飛んだ
+    song_alias:
+    esong_code: 2462B37
+    t_singer_master_id: '38625'
+    singer_name: サーターアンダギー
+    singer_alias:
+    available_date: '2010-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: やんはるくいなか
+    singer_name_ruby: さたあんたき
+    song_variation:
+    - esong_code: 2462B37
+      song_name: ヤンバルクイナが飛んだ
+      content_type: ''
   - song_name: ヤンバルクイナが飛んだ (ワカバージョン)
     song_alias:
     esong_code: 2470A27
@@ -500,20 +517,3 @@ result:
     - esong_code: 2470A27
       song_name: ヤンバルクイナが飛んだ (ワカバージョン)
       content_type: ''
-  - song_name: ヤンバルクイナが飛んだ
-    song_alias:
-    esong_code: 2473B28
-    t_singer_master_id: '38625'
-    singer_name: サーターアンダギー
-    singer_alias:
-    available_date: '2010-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: やんはるくいなか
-    singer_name_ruby: さたあんたき
-    song_variation:
-    - esong_code: 2473B28
-      song_name: ヤンバルクイナが飛んだ
-      content_type: JOYｸﾘｯﾌﾟ

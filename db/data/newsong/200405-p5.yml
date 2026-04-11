@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 545
-  all_max_cnt: 575
-  all_country_cnt: 545
+  max_cnt: 543
+  all_max_cnt: 573
+  all_country_cnt: 543
   song:
-  - song_name: Good Morning Sue
-    song_alias:
-    esong_code: 475A49
-    t_singer_master_id: '10098'
-    singer_name: Crystal Kay
-    singer_alias:
-    available_date: '2004-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くつともにんく
-    singer_name_ruby: くりすたるけい
-    song_variation:
-    - esong_code: 475A49
-      song_name: Good Morning Sue
-      content_type: ''
   - song_name: cloud age symphony
     song_alias:
     esong_code: 318A47
@@ -145,23 +128,6 @@ result:
       content_type: ''
   - song_name: GET ON THE DANCE FLOOR
     song_alias:
-    esong_code: 542B41
-    t_singer_master_id: '7845'
-    singer_name: DA PUMP
-    singer_alias:
-    available_date: '2004-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けつとおんさた
-    singer_name_ruby: たはんふ
-    song_variation:
-    - esong_code: 542B41
-      song_name: GET ON THE DANCE FLOOR
-      content_type: ''
-  - song_name: GET ON THE DANCE FLOOR
-    song_alias:
     esong_code: 546B49
     t_singer_master_id: '7845'
     singer_name: DA PUMP
@@ -177,6 +143,23 @@ result:
     - esong_code: 546B49
       song_name: GET ON THE DANCE FLOOR
       content_type: DAM良音
+  - song_name: GET ON THE DANCE FLOOR
+    song_alias:
+    esong_code: 542B41
+    t_singer_master_id: '7845'
+    singer_name: DA PUMP
+    singer_alias:
+    available_date: '2004-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けつとおんさた
+    singer_name_ruby: たはんふ
+    song_variation:
+    - esong_code: 542B41
+      song_name: GET ON THE DANCE FLOOR
+      content_type: ''
   - song_name: 源平闘戰譚
     song_alias:
     esong_code: 123B22
@@ -415,23 +398,6 @@ result:
     - esong_code: 585B46
       song_name: 午前0時の街
       content_type: ''
-  - song_name: 今年は
-    song_alias:
-    esong_code: 893B26
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2004-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ことしは
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 893B26
-      song_name: 今年は
-      content_type: ''
   - song_name: この宇宙のどこかに
     song_alias:
     esong_code: 616A28
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 583A47
       song_name: GO! PLAYMATE-INN 〜ゆけよ同志〜
+      content_type: ''
+  - song_name: ゴミラの星
+    song_alias:
+    esong_code: 627A44
+    t_singer_master_id: '4269'
+    singer_name: ドリーミング
+    singer_alias:
+    available_date: '2004-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: それいけ!アンパンマン ゴミラの星<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こみらのほし
+    singer_name_ruby: とりみんく
+    song_variation:
+    - esong_code: 627A44
+      song_name: ゴミラの星
+      content_type: ''
+  - song_name: ごめん
+    song_alias:
+    esong_code: 582A41
+    t_singer_master_id: '16697'
+    singer_name: 川嶋 あい
+    singer_alias:
+    available_date: '2004-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こめん
+    singer_name_ruby: かわしまあい
+    song_variation:
+    - esong_code: 582A41
+      song_name: ごめん
       content_type: ''

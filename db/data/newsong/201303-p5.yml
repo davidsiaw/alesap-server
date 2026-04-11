@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
   - song_name: いとしいひと
     song_alias:
@@ -92,23 +92,6 @@ result:
     - esong_code: 3008B29
       song_name: 命の絆
       content_type: ''
-  - song_name: if
-    song_alias:
-    esong_code: 3012A6
-    t_singer_master_id: '14004'
-    singer_name: 田村 ゆかり
-    singer_alias:
-    available_date: '2013-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いふ
-    singer_name_ruby: たむらゆかり
-    song_variation:
-    - esong_code: 3012A6
-      song_name: if
-      content_type: ''
   - song_name: イフ
     song_alias:
     esong_code: 2998B36
@@ -142,6 +125,23 @@ result:
     song_variation:
     - esong_code: 2334A26
       song_name: EVE
+      content_type: ''
+  - song_name: if
+    song_alias:
+    esong_code: 3012A6
+    t_singer_master_id: '14004'
+    singer_name: 田村 ゆかり
+    singer_alias:
+    available_date: '2013-03-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いふ
+    singer_name_ruby: たむらゆかり
+    song_variation:
+    - esong_code: 3012A6
+      song_name: if
       content_type: ''
   - song_name: 今、風になって
     song_alias:

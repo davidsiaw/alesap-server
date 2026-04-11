@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
-  - song_name: Miss Mystery
-    song_alias:
-    esong_code: 2742B1
-    t_singer_master_id: '31075'
-    singer_name: BREAKERZ
-    singer_alias:
-    available_date: '2012-01-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 名探偵コナン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすみすてり
-    singer_name_ruby: ふれいかす
-    song_variation:
-    - esong_code: 2742B1
-      song_name: Miss Mystery
-      content_type: ''
   - song_name: 御霊よ永遠に
     song_alias:
     esong_code: 2504B49
@@ -109,23 +92,6 @@ result:
     - esong_code: 2738B12
       song_name: ミッシング
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: MUSIC
-    song_alias:
-    esong_code: 2738B21
-    t_singer_master_id: '35025'
-    singer_name: Kylee
-    singer_alias:
-    available_date: '2012-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みゆしつく
-    singer_name_ruby: かいり
-    song_variation:
-    - esong_code: 2738B21
-      song_name: MUSIC
-      content_type: ''
   - song_name: music
     song_alias:
     esong_code: 2748B14
@@ -142,6 +108,23 @@ result:
     song_variation:
     - esong_code: 2748B14
       song_name: music
+      content_type: ''
+  - song_name: MUSIC
+    song_alias:
+    esong_code: 2738B21
+    t_singer_master_id: '35025'
+    singer_name: Kylee
+    singer_alias:
+    available_date: '2012-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みゆしつく
+    singer_name_ruby: かいり
+    song_variation:
+    - esong_code: 2738B21
+      song_name: MUSIC
       content_type: ''
   - song_name: 未来の君へ
     song_alias:
@@ -434,6 +417,23 @@ result:
       content_type: ''
   - song_name: 霧笛
     song_alias:
+    esong_code: 2740A2
+    t_singer_master_id: '1352'
+    singer_name: 田川 寿美
+    singer_alias:
+    available_date: '2012-01-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: むてき
+    singer_name_ruby: たかわとしみ
+    song_variation:
+    - esong_code: 2740A2
+      song_name: 霧笛
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 霧笛
+    song_alias:
     esong_code: 2741B49
     t_singer_master_id: '1352'
     singer_name: 田川 寿美
@@ -466,23 +466,6 @@ result:
     - esong_code: 2739B29
       song_name: 霧笛
       content_type: DAM生音
-  - song_name: 霧笛
-    song_alias:
-    esong_code: 2740A2
-    t_singer_master_id: '1352'
-    singer_name: 田川 寿美
-    singer_alias:
-    available_date: '2012-01-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: むてき
-    singer_name_ruby: たかわとしみ
-    song_variation:
-    - esong_code: 2740A2
-      song_name: 霧笛
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: MOVIN'ON
     song_alias:
     esong_code: 2751B14
@@ -517,3 +500,20 @@ result:
     - esong_code: 1082B44
       song_name: Move Me
       content_type: ''
+  - song_name: 紫の月
+    song_alias:
+    esong_code: 2738B17
+    t_singer_master_id: '11757'
+    singer_name: 竹島 宏
+    singer_alias:
+    available_date: '2012-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: むらさきのつき
+    singer_name_ruby: たけしまひろし
+    song_variation:
+    - esong_code: 2738B17
+      song_name: 紫の月
+      content_type: JOYﾎﾞｰｶﾙ

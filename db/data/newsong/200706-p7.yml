@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
-  - song_name: 霧雨
-    song_alias:
-    esong_code: 1802B12
-    t_singer_master_id: '19648'
-    singer_name: 楠 大典
-    singer_alias:
-    available_date: '2007-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テニスの王子様<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きりさめ
-    singer_name_ruby: くすのきまさのり
-    song_variation:
-    - esong_code: 1802B12
-      song_name: 霧雨
-      content_type: ''
   - song_name: 桐の花
     song_alias:
     esong_code: 1801B19
@@ -474,7 +457,7 @@ result:
     singer_alias:
     available_date: '2007-06-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GUITARFREAKS 9thMIX & drummania 8thMIX Soundtracks<番組名>
+    tie_up: GuitarFreaks&DrumMania<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けつこうちよう
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1796B42
       song_name: Get UR Dream
+      content_type: ''
+  - song_name: GET WILD
+    song_alias:
+    esong_code: 1800B39
+    t_singer_master_id: '30175'
+    singer_name: KEI
+    singer_alias:
+    available_date: '2007-06-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けつとわいると
+    singer_name_ruby: けい
+    song_variation:
+    - esong_code: 1800B39
+      song_name: GET WILD
       content_type: ''

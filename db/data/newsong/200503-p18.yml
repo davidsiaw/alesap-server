@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 759
-  all_max_cnt: 802
-  all_country_cnt: 759
+  max_cnt: 760
+  all_max_cnt: 803
+  all_country_cnt: 760
   song:
+  - song_name: ひこうき
+    song_alias:
+    esong_code: 685A44
+    t_singer_master_id: '5620'
+    singer_name: FISHMANS
+    singer_alias:
+    available_date: '2005-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひこうき
+    singer_name_ruby: ふいつしゆまんす
+    song_variation:
+    - esong_code: 685A44
+      song_name: ひこうき
+      content_type: ''
   - song_name: 飛行船
     song_alias:
     esong_code: 985B42
@@ -111,23 +128,6 @@ result:
       content_type: ''
   - song_name: ひとすじの道
     song_alias:
-    esong_code: 682A43
-    t_singer_master_id: '2302'
-    singer_name: 美空 ひばり
-    singer_alias:
-    available_date: '2005-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとすしのみち
-    singer_name_ruby: みそらひはり
-    song_variation:
-    - esong_code: 682A43
-      song_name: ひとすじの道
-      content_type: ''
-  - song_name: ひとすじの道
-    song_alias:
     esong_code: 679B43
     t_singer_master_id: '1683'
     singer_name: 夏木 綾子
@@ -141,6 +141,23 @@ result:
     singer_name_ruby: なつきあやこ
     song_variation:
     - esong_code: 679B43
+      song_name: ひとすじの道
+      content_type: ''
+  - song_name: ひとすじの道
+    song_alias:
+    esong_code: 682A43
+    t_singer_master_id: '2302'
+    singer_name: 美空 ひばり
+    singer_alias:
+    available_date: '2005-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとすしのみち
+    singer_name_ruby: みそらひはり
+    song_variation:
+    - esong_code: 682A43
       song_name: ひとすじの道
       content_type: ''
   - song_name: 一粒の種 〜Love The Earth〜
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 676B44
       song_name: フィルター
-      content_type: ''
-  - song_name: feel, like a breeze
-    song_alias:
-    esong_code: 672A48
-    t_singer_master_id: '16272'
-    singer_name: angela(ANGELA)
-    singer_alias:
-    available_date: '2005-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふいるらいくあふ
-    singer_name_ruby: あんしえら
-    song_variation:
-    - esong_code: 672A48
-      song_name: feel, like a breeze
       content_type: ''

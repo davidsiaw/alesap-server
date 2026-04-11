@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1314
-  all_max_cnt: 1472
-  all_country_cnt: 1314
+  max_cnt: 1309
+  all_max_cnt: 1467
+  all_country_cnt: 1309
   song:
-  - song_name: roomy party
-    song_alias:
-    esong_code: 3836B40
-    t_singer_master_id: '57849'
-    singer_name: 日高 里菜&小倉 唯
-    singer_alias:
-    available_date: '2017-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: スクールガールストライカーズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: るみはてい
-    singer_name_ruby: ひたかりなおくらゆい
-    song_variation:
-    - esong_code: 3836B40
-      song_name: roomy party
-      content_type: ''
-  - song_name: rooms
-    song_alias:
-    esong_code: 3847A48
-    t_singer_master_id: '57551'
-    singer_name: Maison book girl
-    singer_alias:
-    available_date: '2017-07-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: るむす
-    singer_name_ruby: めそんふつくかる
-    song_variation:
-    - esong_code: 3847A48
-      song_name: rooms
-      content_type: ''
-  - song_name: RULER GAME
-    song_alias:
-    esong_code: 3848B24
-    t_singer_master_id: '52569'
-    singer_name: Fo'xTails
-    singer_alias:
-    available_date: '2017-07-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 時間の支配者<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: るらけむ
-    singer_name_ruby: ふおつくすているす
-    song_variation:
-    - esong_code: 3848B24
-      song_name: RULER GAME
-      content_type: ''
-  - song_name: RULE 〜牙ヲ穿テヨ〜
-    song_alias:
-    esong_code: 3844A44
-    t_singer_master_id: '59280'
-    singer_name: 小松 昌平
-    singer_alias:
-    available_date: '2017-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドルマスター SideM(ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: るるきはをうか
-    singer_name_ruby: こまつしようへい
-    song_variation:
-    - esong_code: 3844A44
-      song_name: RULE 〜牙ヲ穿テヨ〜
-      content_type: ''
-  - song_name: RAY OF LIGHT
-    song_alias:
-    esong_code: 3847B17
-    t_singer_master_id: '38348'
-    singer_name: 梶 裕貴
-    singer_alias:
-    available_date: '2017-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: SERVAMP-サーヴァンプ-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: れいおふらいと
-    singer_name_ruby: かしゆうき
-    song_variation:
-    - esong_code: 3847B17
-      song_name: RAY OF LIGHT
-      content_type: ''
   - song_name: RAINY WEDNESDAY
     song_alias:
     esong_code: 3838B26
@@ -255,13 +170,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: VOCALOID
     song_name_ruby: れていれ
     singer_name_ruby: はるん
     song_variation:
     - esong_code: 3846B38
       song_name: レディーレ
-      content_type: ''
+      content_type: VOCALOID
   - song_name: 煉瓦の街
     song_alias:
     esong_code: 3849B19
@@ -517,3 +432,88 @@ result:
     - esong_code: 2241B9
       song_name: 別れ上手
       content_type: JOY生演奏
+  - song_name: 別れの朝
+    song_alias:
+    esong_code: 3834B40
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2017-07-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わかれのあさ
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 3834B40
+      song_name: 別れの朝
+      content_type: ''
+  - song_name: 別れの涙
+    song_alias:
+    esong_code: 3842B9
+    t_singer_master_id: '59263'
+    singer_name: 安田 みつ子
+    singer_alias:
+    available_date: '2017-07-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わかれのなみた
+    singer_name_ruby: やすたみつこ
+    song_variation:
+    - esong_code: 3842B9
+      song_name: 別れの涙
+      content_type: ''
+  - song_name: 別れの街
+    song_alias:
+    esong_code: 3850A48
+    t_singer_master_id: '45687'
+    singer_name: 沢田 正人
+    singer_alias:
+    available_date: '2017-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わかれのまち
+    singer_name_ruby: さわたまさと
+    song_variation:
+    - esong_code: 3850A48
+      song_name: 別れの街
+      content_type: ''
+  - song_name: 惑星タントラ [Vocal:齋藤飛鳥]
+    song_alias:
+    esong_code: 3837A44
+    t_singer_master_id: '10810'
+    singer_name: MONDO GROSSO
+    singer_alias:
+    available_date: '2017-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わくせいたんとら
+    singer_name_ruby: もんとくろつそ
+    song_variation:
+    - esong_code: 3837A44
+      song_name: 惑星タントラ [Vocal:齋藤飛鳥]
+      content_type: ''
+  - song_name: わくドキ☆ワンダーランド
+    song_alias:
+    esong_code: 3848A46
+    t_singer_master_id: '50926'
+    singer_name: 山下 大輝
+    singer_alias:
+    available_date: '2017-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: FlyME project<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: わくときわんた
+    singer_name_ruby: やましたたいき
+    song_variation:
+    - esong_code: 3848A46
+      song_name: わくドキ☆ワンダーランド
+      content_type: ''

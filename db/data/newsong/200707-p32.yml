@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: Memory
-    song_alias:
-    esong_code: 1811B21
-    t_singer_master_id: '30345'
-    singer_name: 上條 ひとみ
-    singer_alias:
-    available_date: '2007-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めもり
-    singer_name_ruby: かみしようひとみ
-    song_variation:
-    - esong_code: 1811B21
-      song_name: Memory
-      content_type: ''
   - song_name: MELANCHOLIA
     song_alias:
     esong_code: 1817B3
@@ -355,7 +338,7 @@ result:
     singer_alias:
     available_date: '2007-07-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 スーパー歌謡ショウ 〜新宝島〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: やせいのおたけひ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1825A43
       song_name: 夕暮れ日和
+      content_type: ''
+  - song_name: 夕凪
+    song_alias:
+    esong_code: 1817B45
+    t_singer_master_id: '18420'
+    singer_name: 竹井 詩織里
+    singer_alias:
+    available_date: '2007-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうなき
+    singer_name_ruby: たけいしおり
+    song_variation:
+    - esong_code: 1817B45
+      song_name: 夕凪
       content_type: ''

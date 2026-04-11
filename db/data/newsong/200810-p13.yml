@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1258
-  all_max_cnt: 1360
-  all_country_cnt: 1258
+  max_cnt: 1253
+  all_max_cnt: 1354
+  all_country_cnt: 1253
   song:
-  - song_name: 恋におちたら
-    song_alias:
-    esong_code: 2126A42
-    t_singer_master_id: '10098'
-    singer_name: Crystal Kay
-    singer_alias:
-    available_date: '2008-10-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こいにおちたら
-    singer_name_ruby: くりすたるけい
-    song_variation:
-    - esong_code: 2126A42
-      song_name: 恋におちたら
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 恋猫
     song_alias:
     esong_code: 2034A31
@@ -451,23 +434,6 @@ result:
       content_type: ''
   - song_name: コスモス日和
     song_alias:
-    esong_code: 2110A35
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2008-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こすもすひより
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 2110A35
-      song_name: コスモス日和
-      content_type: ''
-  - song_name: コスモス日和
-    song_alias:
     esong_code: 2116B44
     t_singer_master_id: '641'
     singer_name: 北島 三郎
@@ -483,6 +449,23 @@ result:
     - esong_code: 2116B44
       song_name: コスモス日和
       content_type: DAM生音
+  - song_name: コスモス日和
+    song_alias:
+    esong_code: 2110A35
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2008-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こすもすひより
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 2110A35
+      song_name: コスモス日和
+      content_type: ''
   - song_name: Go Tight!
     song_alias:
     esong_code: 2154A5
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2112A34
       song_name: 胡蝶蘭
+      content_type: ''
+  - song_name: Cockroach
+    song_alias:
+    esong_code: 2118B39
+    t_singer_master_id: '24180'
+    singer_name: 土屋 アンナ
+    singer_alias:
+    available_date: '2008-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こつくろち
+    singer_name_ruby: つちやあんな
+    song_variation:
+    - esong_code: 2118B39
+      song_name: Cockroach
       content_type: ''

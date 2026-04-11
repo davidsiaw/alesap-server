@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
-  - song_name: ウルトラスマイル!! feat.レイ
-    song_alias:
-    esong_code: 2666A43
-    t_singer_master_id: '41436'
-    singer_name: voyager
-    singer_alias:
-    available_date: '2011-09-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ウルトラマン列伝<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うるとらすまいる
-    singer_name_ruby: ほいしや
-    song_variation:
-    - esong_code: 2666A43
-      song_name: ウルトラスマイル!! feat.レイ
-      content_type: ''
   - song_name: 憂いの鎖
     song_alias:
     esong_code: 2669B30
@@ -247,23 +230,6 @@ result:
       content_type: ''
   - song_name: Everyday、カチューシャ (SDN48 ver.)
     song_alias:
-    esong_code: 2675B40
-    t_singer_master_id: '41184'
-    singer_name: SDN48
-    singer_alias:
-    available_date: '2011-09-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えふりていかちゆ
-    singer_name_ruby: えすていえぬふおていえいと
-    song_variation:
-    - esong_code: 2675B40
-      song_name: Everyday、カチューシャ (SDN48 ver.)
-      content_type: ''
-  - song_name: Everyday、カチューシャ (SDN48 ver.)
-    song_alias:
     esong_code: 2667A21
     t_singer_master_id: '41184'
     singer_name: SDN48
@@ -279,6 +245,23 @@ result:
     - esong_code: 2667A21
       song_name: Everyday、カチューシャ (SDN48 ver.)
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Everyday、カチューシャ (SDN48 ver.)
+    song_alias:
+    esong_code: 2675B40
+    t_singer_master_id: '41184'
+    singer_name: SDN48
+    singer_alias:
+    available_date: '2011-09-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えふりていかちゆ
+    singer_name_ruby: えすていえぬふおていえいと
+    song_variation:
+    - esong_code: 2675B40
+      song_name: Everyday、カチューシャ (SDN48 ver.)
+      content_type: ''
   - song_name: Every Little Thingベストメドレー Vol.3
     song_alias:
     esong_code: 2672B33
@@ -468,21 +451,38 @@ result:
       content_type: ''
   - song_name: おかえりがおまもり
     song_alias:
-    esong_code: 2671A7
+    esong_code: 2668A16
     t_singer_master_id: '920'
     singer_name: 坂本 冬美
     singer_alias:
-    available_date: '2011-09-14'
+    available_date: '2011-09-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: おかえりかおまもり
     singer_name_ruby: さかもとふゆみ
     song_variation:
-    - esong_code: 2671A7
+    - esong_code: 2668A16
       song_name: おかえりがおまもり
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: おかえりがおまもり
+    song_alias:
+    esong_code: 2667B42
+    t_singer_master_id: '920'
+    singer_name: 坂本 冬美
+    singer_alias:
+    available_date: '2011-09-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おかえりかおまもり
+    singer_name_ruby: さかもとふゆみ
+    song_variation:
+    - esong_code: 2667B42
+      song_name: おかえりがおまもり
+      content_type: DAM生音
   - song_name: おかえりがおまもり
     song_alias:
     esong_code: 2663A44
@@ -502,18 +502,18 @@ result:
       content_type: ''
   - song_name: おかえりがおまもり
     song_alias:
-    esong_code: 2667B42
+    esong_code: 2671A7
     t_singer_master_id: '920'
     singer_name: 坂本 冬美
     singer_alias:
-    available_date: '2011-09-27'
+    available_date: '2011-09-14'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: おかえりかおまもり
     singer_name_ruby: さかもとふゆみ
     song_variation:
-    - esong_code: 2667B42
+    - esong_code: 2671A7
       song_name: おかえりがおまもり
-      content_type: DAM生音
+      content_type: JOYﾎﾞｰｶﾙ

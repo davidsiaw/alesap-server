@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: 揺れる
-    song_alias:
-    esong_code: 2681B26
-    t_singer_master_id: '40738'
-    singer_name: ねごと
-    singer_alias:
-    available_date: '2011-10-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆれる
-    singer_name_ruby: ねこと
-    song_variation:
-    - esong_code: 2681B26
-      song_name: 揺れる
-      content_type: ''
-  - song_name: 夜明け前
-    song_alias:
-    esong_code: 2693B19
-    t_singer_master_id: '22234'
-    singer_name: 秋元 順子
-    singer_alias:
-    available_date: '2011-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よあけまえ
-    singer_name_ruby: あきもとしゆんこ
-    song_variation:
-    - esong_code: 2693B19
-      song_name: 夜明け前
-      content_type: ''
   - song_name: 酔酒恋
     song_alias:
     esong_code: 1819A40
@@ -253,7 +219,7 @@ result:
     singer_alias:
     available_date: '2011-10-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ(TV版)<番組名>
+    tie_up: 探偵オペラ ミルキィホームズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: らいはるそうさせん
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2696A20
       song_name: LOVE SONGS
+      content_type: ''
+  - song_name: LOVED SEASON
+    song_alias:
+    esong_code: 2682B32
+    t_singer_master_id: '36222'
+    singer_name: Faylan(飛蘭)
+    singer_alias:
+    available_date: '2011-10-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふとしすん
+    singer_name_ruby: ふえいらん
+    song_variation:
+    - esong_code: 2682B32
+      song_name: LOVED SEASON
+      content_type: ''
+  - song_name: LOVE ME! 〜あなたのせいで狂いそう
+    song_alias:
+    esong_code: 2684A20
+    t_singer_master_id: '43190'
+    singer_name: T-ARA
+    singer_alias:
+    available_date: '2011-10-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふみあなたのせ
+    singer_name_ruby: ていあら
+    song_variation:
+    - esong_code: 2684A20
+      song_name: LOVE ME! 〜あなたのせいで狂いそう
       content_type: ''

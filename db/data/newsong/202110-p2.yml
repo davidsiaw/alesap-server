@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 958
-  all_max_cnt: 1039
-  all_country_cnt: 958
+  max_cnt: 936
+  all_max_cnt: 1016
+  all_country_cnt: 936
   song:
   - song_name: アバンチュール
     song_alias:
@@ -136,13 +136,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: あめあかり
     singer_name_ruby: たかわとしみ
     song_variation:
     - esong_code: 4552B28
       song_name: 雨あがり
-      content_type: DAM生音
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 雨のち奇跡的に晴れ [オリジナルクリップ]
     song_alias:
     esong_code: 4553B21
@@ -234,23 +234,6 @@ result:
     - esong_code: 4552B36
       song_name: アーユーレディー
       content_type: DAM生音
-  - song_name: Alive
-    song_alias:
-    esong_code: 4551A28
-    t_singer_master_id: '25056'
-    singer_name: 入野 自由
-    singer_alias:
-    available_date: '2021-10-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あらいふ
-    singer_name_ruby: いりのみゆ
-    song_variation:
-    - esong_code: 4551A28
-      song_name: Alive
-      content_type: ''
   - song_name: アランダーノ
     song_alias:
     esong_code: 4554B23
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 4549A11
       song_name: Easy Go
+      content_type: ''
+  - song_name: ICHIGO OLE
+    song_alias:
+    esong_code: 4553B47
+    t_singer_master_id: '61104'
+    singer_name: AYA a.k.a.PANDA
+    singer_alias:
+    available_date: '2021-10-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いちこおれ
+    singer_name_ruby: あやえけえはんた
+    song_variation:
+    - esong_code: 4553B47
+      song_name: ICHIGO OLE
       content_type: ''

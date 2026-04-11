@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: Moonlight
+    song_alias:
+    esong_code: 3152A47
+    t_singer_master_id: '10597'
+    singer_name: ZEEBRA
+    singer_alias:
+    available_date: '2013-12-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: むんらいと
+    singer_name_ruby: しふら
+    song_variation:
+    - esong_code: 3152A47
+      song_name: Moonlight
+      content_type: ''
+  - song_name: 夫婦ごころ
+    song_alias:
+    esong_code: 3161B36
+    t_singer_master_id: '49549'
+    singer_name: 牛若 ひろし
+    singer_alias:
+    available_date: '2013-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めおとこころ
+    singer_name_ruby: うしわかひろし
+    song_variation:
+    - esong_code: 3161B36
+      song_name: 夫婦ごころ
+      content_type: ''
   - song_name: めまい
     song_alias:
     esong_code: 3151A19
@@ -372,7 +406,7 @@ result:
     singer_alias:
     available_date: '2013-12-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 劇場版 HUNTER×HUNTER -The LAST MISSION-<番組名>
+    tie_up: HUNTER×HUNTER(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: やくそくのうた
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 3151B26
       song_name: やっと再会(あえ)たね
-      content_type: ''
-  - song_name: TV版 ヤッホ・ホー
-    song_alias:
-    esong_code: 3164B23
-    t_singer_master_id: '48874'
-    singer_name: 横山だいすけ&三谷たくみ&ムテ吉&ミーニャ&メーコブ
-    singer_alias:
-    available_date: '2013-12-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おかあさんといっしょ<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: やつほほ
-    singer_name_ruby: よこやまたいすけみたにたく
-    song_variation:
-    - esong_code: 3164B23
-      song_name: TV版 ヤッホ・ホー
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 山口の女
-    song_alias:
-    esong_code: 3164A49
-    t_singer_master_id: '43408'
-    singer_name: 村木 かおる
-    singer_alias:
-    available_date: '2013-12-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やまくちのひと
-    singer_name_ruby: むらきかおる
-    song_variation:
-    - esong_code: 3164A49
-      song_name: 山口の女
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 933
-  all_country_cnt: 880
+  max_cnt: 867
+  all_max_cnt: 920
+  all_country_cnt: 867
   song:
-  - song_name: On My Own
-    song_alias:
-    esong_code: 4522B21
-    t_singer_master_id: '40483'
-    singer_name: 悠木 碧
-    singer_alias:
-    available_date: '2021-07-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 蜘蛛ですが、なにか?<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんまいおうん
-    singer_name_ruby: ゆうきあおい
-    song_variation:
-    - esong_code: 4522B21
-      song_name: On My Own
-      content_type: ''
-  - song_name: 母さん
-    song_alias:
-    esong_code: 4523A35
-    t_singer_master_id: '29514'
-    singer_name: 小泉 孝
-    singer_alias:
-    available_date: '2021-07-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かあさん
-    singer_name_ruby: こいすみたかし
-    song_variation:
-    - esong_code: 4523A35
-      song_name: 母さん
-      content_type: ''
   - song_name: 廻廻奇譚 [歌ってみた利用OK]
     song_alias:
     esong_code: 4522A32
@@ -449,23 +415,6 @@ result:
     - esong_code: 4518B32
       song_name: 神堕とし奇譚
       content_type: VOCALOID
-  - song_name: かみさま、あなたの言うとおり feat.初音ミク
-    song_alias:
-    esong_code: 4515A3
-    t_singer_master_id: '67589'
-    singer_name: 卯花 ロク
-    singer_alias:
-    available_date: '2021-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: かみさまあなたのいう
-    singer_name_ruby: うかろく
-    song_variation:
-    - esong_code: 4515A3
-      song_name: かみさま、あなたの言うとおり feat.初音ミク
-      content_type: VOCALOID
   - song_name: Coming Smile
     song_alias:
     esong_code: 4521B39
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4526B45
       song_name: 歌謡劇 雪中相合傘 -科白編-
+      content_type: ''
+  - song_name: color
+    song_alias:
+    esong_code: 4523B17
+    t_singer_master_id: '63997'
+    singer_name: Hakubi
+    singer_alias:
+    available_date: '2021-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Artiswitch<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: から
+    singer_name_ruby: はくひ
+    song_variation:
+    - esong_code: 4523B17
+      song_name: color
+      content_type: ''
+  - song_name: Colors
+    song_alias:
+    esong_code: 4518A27
+    t_singer_master_id: '55618'
+    singer_name: 浦島坂田船
+    singer_alias:
+    available_date: '2021-07-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: からす
+    singer_name_ruby: うらしまさかたせん
+    song_variation:
+    - esong_code: 4518A27
+      song_name: Colors
+      content_type: ''
+  - song_name: Colors (feat.JAY'ED)
+    song_alias:
+    esong_code: 4527A45
+    t_singer_master_id: '68233'
+    singer_name: Linus
+    singer_alias:
+    available_date: '2021-07-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: からす
+    singer_name_ruby: らいなす
+    song_variation:
+    - esong_code: 4527A45
+      song_name: Colors (feat.JAY'ED)
       content_type: ''

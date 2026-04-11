@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 888
-  all_max_cnt: 934
-  all_country_cnt: 888
+  max_cnt: 881
+  all_max_cnt: 927
+  all_country_cnt: 881
   song:
-  - song_name: しぐれの酒場
-    song_alias:
-    esong_code: 4542B12
-    t_singer_master_id: '14133'
-    singer_name: 池田 輝郎(池田輝男)
-    singer_alias:
-    available_date: '2021-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: しくれのさかは
-    singer_name_ruby: いけたてるお
-    song_variation:
-    - esong_code: 4542B12
-      song_name: しぐれの酒場
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: シーサイド・モーテル feat.ちょまいよ
     song_alias:
     esong_code: 4546B43
@@ -500,20 +483,37 @@ result:
     - esong_code: 4539B8
       song_name: Shooting Star Warrior
       content_type: ''
-  - song_name: Je t'aime。
+  - song_name: Je t'aime 〜もっともっと
     song_alias:
-    esong_code: 4547A2
-    t_singer_master_id: '67950'
-    singer_name: 星街 すいせい
+    esong_code: 4536B43
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2021-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆてむもつとも
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 4536B43
+      song_name: Je t'aime 〜もっともっと
+      content_type: ''
+  - song_name: ジュブナイル
+    song_alias:
+    esong_code: 4547B35
+    t_singer_master_id: '61856'
+    singer_name: ReoNa
     singer_alias:
     available_date: '2021-09-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: しゆてむ
-    singer_name_ruby: ほしまちすいせい
+    song_name_ruby: しゆふないる
+    singer_name_ruby: れおな
     song_variation:
-    - esong_code: 4547A2
-      song_name: Je t'aime。
+    - esong_code: 4547B35
+      song_name: ジュブナイル
       content_type: ''

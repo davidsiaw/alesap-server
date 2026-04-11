@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
-  - song_name: message
-    song_alias:
-    esong_code: 2941A6
-    t_singer_master_id: '2553'
-    singer_name: 米倉 利紀
-    singer_alias:
-    available_date: '2012-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めつせし
-    singer_name_ruby: よねくらとしのり
-    song_variation:
-    - esong_code: 2941A6
-      song_name: message
-      content_type: ''
   - song_name: MESSAGE
     song_alias:
     esong_code: 2919A24
@@ -40,6 +23,23 @@ result:
     song_variation:
     - esong_code: 2919A24
       song_name: MESSAGE
+      content_type: ''
+  - song_name: message
+    song_alias:
+    esong_code: 2941A6
+    t_singer_master_id: '2553'
+    singer_name: 米倉 利紀
+    singer_alias:
+    available_date: '2012-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めつせし
+    singer_name_ruby: よねくらとしのり
+    song_variation:
+    - esong_code: 2941A6
+      song_name: message
       content_type: ''
   - song_name: Merry-go-round
     song_alias:
@@ -179,23 +179,6 @@ result:
       content_type: VOCALOID
   - song_name: 燃えて赤坂
     song_alias:
-    esong_code: 2932A41
-    t_singer_master_id: '612'
-    singer_name: 冠 二郎&北見 恭子
-    singer_alias:
-    available_date: '2012-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: もえてあかさか
-    singer_name_ruby: かんむりしろうきた
-    song_variation:
-    - esong_code: 2932A41
-      song_name: 燃えて赤坂
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 燃えて赤坂
-    song_alias:
     esong_code: 2931B3
     t_singer_master_id: '612'
     singer_name: 冠 二郎&北見 恭子
@@ -211,6 +194,23 @@ result:
     - esong_code: 2931B3
       song_name: 燃えて赤坂
       content_type: DAM生音
+  - song_name: 燃えて赤坂
+    song_alias:
+    esong_code: 2932A41
+    t_singer_master_id: '612'
+    singer_name: 冠 二郎&北見 恭子
+    singer_alias:
+    available_date: '2012-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: もえてあかさか
+    singer_name_ruby: かんむりしろうきた
+    song_variation:
+    - esong_code: 2932A41
+      song_name: 燃えて赤坂
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: もぐらトンネル
     song_alias:
     esong_code: 2937B8
@@ -315,23 +315,6 @@ result:
       content_type: ''
   - song_name: MONSTERS
     song_alias:
-    esong_code: 2938A18
-    t_singer_master_id: '46490'
-    singer_name: The MONSTERS
-    singer_alias:
-    available_date: '2012-11-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: もんすたす
-    singer_name_ruby: さもんすたす
-    song_variation:
-    - esong_code: 2938A18
-      song_name: MONSTERS
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: MONSTERS
-    song_alias:
     esong_code: 2938B38
     t_singer_master_id: '46490'
     singer_name: The MONSTERS
@@ -347,6 +330,23 @@ result:
     - esong_code: 2938B38
       song_name: MONSTERS
       content_type: ''
+  - song_name: MONSTERS
+    song_alias:
+    esong_code: 2938A18
+    t_singer_master_id: '46490'
+    singer_name: The MONSTERS
+    singer_alias:
+    available_date: '2012-11-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: もんすたす
+    singer_name_ruby: さもんすたす
+    song_variation:
+    - esong_code: 2938A18
+      song_name: MONSTERS
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 約束。。feat.HOME MADE 家族
     song_alias:
     esong_code: 2931B5

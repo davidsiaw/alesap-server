@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
+  - song_name: 2=1+1
+    song_alias:
+    esong_code: 3806A13
+    t_singer_master_id: '36108'
+    singer_name: 遊助
+    singer_alias:
+    available_date: '2017-05-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にはいちたすいち
+    singer_name_ruby: ゆうすけ
+    song_variation:
+    - esong_code: 3806A13
+      song_name: 2=1+1
+      content_type: ''
   - song_name: NEWLOOK
     song_alias:
     esong_code: 3808B10
@@ -398,23 +415,6 @@ result:
     - esong_code: 3808A6
       song_name: 拝啓、いつかの君へ
       content_type: DAM生音
-  - song_name: ハイスクール [ANIME SIDE] -Alternative-
-    song_alias:
-    esong_code: 3813A48
-    t_singer_master_id: '30312'
-    singer_name: 早見 沙織
-    singer_alias:
-    available_date: '2017-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 覆面系ノイズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はいすくるあにめさ
-    singer_name_ruby: はやみさおり
-    song_variation:
-    - esong_code: 3813A48
-      song_name: ハイスクール [ANIME SIDE] -Alternative-
-      content_type: ''
   - song_name: ハイスクール [ANIME SIDE] -Bootleg-
     song_alias:
     esong_code: 3813B1
@@ -431,6 +431,23 @@ result:
     song_variation:
     - esong_code: 3813B1
       song_name: ハイスクール [ANIME SIDE] -Bootleg-
+      content_type: ''
+  - song_name: ハイスクール [ANIME SIDE] -Alternative-
+    song_alias:
+    esong_code: 3813A48
+    t_singer_master_id: '30312'
+    singer_name: 早見 沙織
+    singer_alias:
+    available_date: '2017-05-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 覆面系ノイズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はいすくるあにめさ
+    singer_name_ruby: はやみさおり
+    song_variation:
+    - esong_code: 3813A48
+      song_name: ハイスクール [ANIME SIDE] -Alternative-
       content_type: ''
   - song_name: High School Boo!
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3812B49
       song_name: 博多祇園山笠
-      content_type: ''
-  - song_name: バカヤロー
-    song_alias:
-    esong_code: 3812B44
-    t_singer_master_id: '6297'
-    singer_name: ウルフルズ
-    singer_alias:
-    available_date: '2017-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はかやろ
-    singer_name_ruby: うるふるす
-    song_variation:
-    - esong_code: 3812B44
-      song_name: バカヤロー
       content_type: ''

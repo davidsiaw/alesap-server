@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 592
-  all_max_cnt: 727
-  all_country_cnt: 592
+  max_cnt: 588
+  all_max_cnt: 723
+  all_country_cnt: 588
   song:
-  - song_name: 片思いのハミング
-    song_alias:
-    esong_code: 250A38
-    t_singer_master_id: '2906'
-    singer_name: 伊藤 つかさ
-    singer_alias:
-    available_date: '2004-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 光の伝説<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かたおもいのはみんく
-    singer_name_ruby: いとうつかさ
-    song_variation:
-    - esong_code: 250A38
-      song_name: 片思いのハミング
-      content_type: ''
   - song_name: 合体!ゲッターロボ
     song_alias:
     esong_code: 245B22
@@ -96,7 +79,7 @@ result:
     song_alias:
     esong_code: 427B4
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2004-04-30'
     end_date: '2999-04-10 00:00:00'
@@ -347,23 +330,6 @@ result:
     - esong_code: 205B18
       song_name: Kiss Me
       content_type: ''
-  - song_name: キセキ
-    song_alias:
-    esong_code: 425A3
-    t_singer_master_id: '14522'
-    singer_name: 上戸 彩
-    singer_alias:
-    available_date: '2004-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きせき
-    singer_name_ruby: うえとあや
-    song_variation:
-    - esong_code: 425A3
-      song_name: キセキ
-      content_type: ''
   - song_name: 奇跡
     song_alias:
     esong_code: 403B6
@@ -381,22 +347,22 @@ result:
     - esong_code: 403B6
       song_name: 奇跡
       content_type: ''
-  - song_name: 北風
+  - song_name: キセキ
     song_alias:
-    esong_code: 359B14
-    t_singer_master_id: '18750'
-    singer_name: 黒田 美治
+    esong_code: 425A3
+    t_singer_master_id: '14522'
+    singer_name: 上戸 彩
     singer_alias:
-    available_date: '2004-04-15'
+    available_date: '2004-04-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: きたかせ
-    singer_name_ruby: くろたよしはる
+    song_name_ruby: きせき
+    singer_name_ruby: うえとあや
     song_variation:
-    - esong_code: 359B14
-      song_name: 北風
+    - esong_code: 425A3
+      song_name: キセキ
       content_type: ''
   - song_name: 北風
     song_alias:
@@ -413,6 +379,23 @@ result:
     singer_name_ruby: しやむすひれつし
     song_variation:
     - esong_code: 206A11
+      song_name: 北風
+      content_type: ''
+  - song_name: 北風
+    song_alias:
+    esong_code: 359B14
+    t_singer_master_id: '18750'
+    singer_name: 黒田 美治
+    singer_alias:
+    available_date: '2004-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたかせ
+    singer_name_ruby: くろたよしはる
+    song_variation:
+    - esong_code: 359B14
       song_name: 北風
       content_type: ''
   - song_name: 北上川絶唱
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 426B11
       song_name: きのみ
+      content_type: ''
+  - song_name: 希望の丘陵
+    song_alias:
+    esong_code: 411B10
+    t_singer_master_id: '18223'
+    singer_name: 萬Z(量産型)
+    singer_alias:
+    available_date: '2004-04-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 日本ブレイク工業<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きほうのおか
+    singer_name_ruby: まんそりようさんかた
+    song_variation:
+    - esong_code: 411B10
+      song_name: 希望の丘陵
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 564
-  all_max_cnt: 620
-  all_country_cnt: 564
+  max_cnt: 562
+  all_max_cnt: 618
+  all_country_cnt: 562
   song:
   - song_name: 夏の少年(こども)
     song_alias:
@@ -262,23 +262,6 @@ result:
     - esong_code: 412A44
       song_name: 日曜日の太陽
       content_type: ''
-  - song_name: 日光東照宮-祈りの参道
-    song_alias:
-    esong_code: 984B5
-    t_singer_master_id: '11547'
-    singer_name: 小町 雪乃
-    singer_alias:
-    available_date: '2004-01-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: につこうとうしようく
-    singer_name_ruby: こまちゆきの
-    song_variation:
-    - esong_code: 984B5
-      song_name: 日光東照宮-祈りの参道
-      content_type: ''
   - song_name: 日光東照宮-祝いの讃歌
     song_alias:
     esong_code: 984B6
@@ -295,6 +278,23 @@ result:
     song_variation:
     - esong_code: 984B6
       song_name: 日光東照宮-祝いの讃歌
+      content_type: ''
+  - song_name: 日光東照宮-祈りの参道
+    song_alias:
+    esong_code: 984B5
+    t_singer_master_id: '11547'
+    singer_name: 小町 雪乃
+    singer_alias:
+    available_date: '2004-01-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: につこうとうしようく
+    singer_name_ruby: こまちゆきの
+    song_variation:
+    - esong_code: 984B5
+      song_name: 日光東照宮-祈りの参道
       content_type: ''
   - song_name: 2度目の夏
     song_alias:

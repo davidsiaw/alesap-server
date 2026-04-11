@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 999
-  all_max_cnt: 1121
-  all_country_cnt: 999
+  max_cnt: 992
+  all_max_cnt: 1112
+  all_country_cnt: 992
   song:
   - song_name: 午前0時のBaby Doll
     song_alias:
@@ -449,23 +449,23 @@ result:
     - esong_code: 2290B22
       song_name: The Honesty 〜My Love Pt.III〜
       content_type: ''
-  - song_name: SAKURA -ハルヲウタワネバダ-
+  - song_name: Sakura
     song_alias:
-    esong_code: 2282A46
-    t_singer_master_id: '34254'
-    singer_name: 矢島美容室
+    esong_code: 2291B29
+    t_singer_master_id: '15968'
+    singer_name: レミオロメン
     singer_alias:
-    available_date: '2009-04-30'
+    available_date: '2009-04-07'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ良音
+    content_type: DAM生音
     song_name_ruby: さくら
-    singer_name_ruby: やしまひようしつ
+    singer_name_ruby: れみおろめん
     song_variation:
-    - esong_code: 2282A46
-      song_name: SAKURA -ハルヲウタワネバダ-
-      content_type: DAMｸﾘｯﾌﾟ良音
+    - esong_code: 2291B29
+      song_name: Sakura
+      content_type: DAM生音
   - song_name: SAKURA -ハルヲウタワネバダ-
     song_alias:
     esong_code: 2311B21
@@ -483,6 +483,23 @@ result:
     - esong_code: 2311B21
       song_name: SAKURA -ハルヲウタワネバダ-
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: SAKURA -ハルヲウタワネバダ-
+    song_alias:
+    esong_code: 2282A46
+    t_singer_master_id: '34254'
+    singer_name: 矢島美容室
+    singer_alias:
+    available_date: '2009-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ良音
+    song_name_ruby: さくら
+    singer_name_ruby: やしまひようしつ
+    song_variation:
+    - esong_code: 2282A46
+      song_name: SAKURA -ハルヲウタワネバダ-
+      content_type: DAMｸﾘｯﾌﾟ良音
   - song_name: 櫻
     song_alias:
     esong_code: 2292A29
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2292A29
       song_name: 櫻
-      content_type: ''
-  - song_name: 桜
-    song_alias:
-    esong_code: 2286A38
-    t_singer_master_id: '36383'
-    singer_name: Ley
-    singer_alias:
-    available_date: '2009-04-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくら
-    singer_name_ruby: りい
-    song_variation:
-    - esong_code: 2286A38
-      song_name: 桜
       content_type: ''

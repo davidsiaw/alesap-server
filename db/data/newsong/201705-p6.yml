@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
   - song_name: ETERNAL MIND
     song_alias:
@@ -160,23 +160,6 @@ result:
     - esong_code: 3808A8
       song_name: Everybody Go
       content_type: DAMﾗｲﾌﾞ
-  - song_name: Yell
-    song_alias:
-    esong_code: 3815A20
-    t_singer_master_id: '52068'
-    singer_name: INKT
-    singer_alias:
-    available_date: '2017-05-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: える
-    singer_name_ruby: いんく
-    song_variation:
-    - esong_code: 3815A20
-      song_name: Yell
-      content_type: ''
   - song_name: エール
     song_alias:
     esong_code: 3807B49
@@ -194,6 +177,23 @@ result:
     - esong_code: 3807B49
       song_name: エール
       content_type: DAMﾗｲﾌﾞ
+  - song_name: Yell
+    song_alias:
+    esong_code: 3815A20
+    t_singer_master_id: '52068'
+    singer_name: INKT
+    singer_alias:
+    available_date: '2017-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: える
+    singer_name_ruby: いんく
+    song_variation:
+    - esong_code: 3815A20
+      song_name: Yell
+      content_type: ''
   - song_name: エレキな恋人
     song_alias:
     esong_code: 3817B47
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: 縁結び祝い唄
     song_alias:
-    esong_code: 3812B46
-    t_singer_master_id: '2103'
-    singer_name: 細川 たかし
-    singer_alias:
-    available_date: '2017-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんむすひいわいう
-    singer_name_ruby: ほそかわたかし
-    song_variation:
-    - esong_code: 3812B46
-      song_name: 縁結び祝い唄
-      content_type: ''
-  - song_name: 縁結び祝い唄
-    song_alias:
     esong_code: 3813A24
     t_singer_master_id: '2103'
     singer_name: 細川 たかし
@@ -296,6 +279,23 @@ result:
     - esong_code: 3813A24
       song_name: 縁結び祝い唄
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 縁結び祝い唄
+    song_alias:
+    esong_code: 3812B46
+    t_singer_master_id: '2103'
+    singer_name: 細川 たかし
+    singer_alias:
+    available_date: '2017-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんむすひいわいう
+    singer_name_ruby: ほそかわたかし
+    song_variation:
+    - esong_code: 3812B46
+      song_name: 縁結び祝い唄
+      content_type: ''
   - song_name: 応援歌 feat.MOOMIN
     song_alias:
     esong_code: 3812A2
@@ -500,20 +500,20 @@ result:
     - esong_code: 3811A23
       song_name: 男のサガ
       content_type: ''
-  - song_name: 男の絶唱
+  - song_name: 男のひとやすみ
     song_alias:
-    esong_code: 3794B18
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
+    esong_code: 3720B41
+    t_singer_master_id: '30069'
+    singer_name: 安藤 かつゆき(安藤勝幸)
     singer_alias:
-    available_date: '2017-05-01'
+    available_date: '2017-05-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おとこのせつしよう
-    singer_name_ruby: ひかわきよし
+    content_type:
+    song_name_ruby: おとこのひとやすみ
+    singer_name_ruby: あんとうかつゆき
     song_variation:
-    - esong_code: 3794B18
-      song_name: 男の絶唱
-      content_type: DAM生音
+    - esong_code: 3720B41
+      song_name: 男のひとやすみ
+      content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1252
-  all_max_cnt: 1433
-  all_country_cnt: 1252
+  max_cnt: 1245
+  all_max_cnt: 1426
+  all_country_cnt: 1245
   song:
-  - song_name: あなただけを
-    song_alias:
-    esong_code: 3852B30
-    t_singer_master_id: '1937'
-    singer_name: BEGIN
-    singer_alias:
-    available_date: '2017-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたたけを
-    singer_name_ruby: ひきん
-    song_variation:
-    - esong_code: 3852B30
-      song_name: あなただけを
-      content_type: ''
   - song_name: あなたのキスを数えましょう -You were mine-
     song_alias:
     esong_code: 3859B26
@@ -347,23 +330,6 @@ result:
     - esong_code: 3859B5
       song_name: あやまリズム
       content_type: ''
-  - song_name: Alive
-    song_alias:
-    esong_code: 3864B25
-    t_singer_master_id: '10226'
-    singer_name: Do As Infinity
-    singer_alias:
-    available_date: '2017-08-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あらいふ
-    singer_name_ruby: とうあすいんふいにてい
-    song_variation:
-    - esong_code: 3864B25
-      song_name: Alive
-      content_type: ''
   - song_name: ALIVE
     song_alias:
     esong_code: 3855A19
@@ -380,6 +346,23 @@ result:
     song_variation:
     - esong_code: 3855A19
       song_name: ALIVE
+      content_type: ''
+  - song_name: Alive
+    song_alias:
+    esong_code: 3864B25
+    t_singer_master_id: '10226'
+    singer_name: Do As Infinity
+    singer_alias:
+    available_date: '2017-08-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あらいふ
+    singer_name_ruby: とうあすいんふいにてい
+    song_variation:
+    - esong_code: 3864B25
+      song_name: Alive
       content_type: ''
   - song_name: REM
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3863A31
       song_name: アンチスモーカーズレクイエム
+      content_type: ''
+  - song_name: 安波山
+    song_alias:
+    esong_code: 3862B9
+    t_singer_master_id: '54798'
+    singer_name: 菊池 正好
+    singer_alias:
+    available_date: '2017-08-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんはさん
+    singer_name_ruby: きくちまさよし
+    song_variation:
+    - esong_code: 3862B9
+      song_name: 安波山
       content_type: ''

@@ -3,60 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1344
-  all_max_cnt: 1519
-  all_country_cnt: 1344
+  max_cnt: 1334
+  all_max_cnt: 1509
+  all_country_cnt: 1334
   song:
-  - song_name: Deep in Abyss
+  - song_name: TAILWIND
     song_alias:
-    esong_code: 3868B49
-    t_singer_master_id: '59585'
-    singer_name: 富田 美憂&伊瀬 茉莉也
+    esong_code: 3868A39
+    t_singer_master_id: '53275'
+    singer_name: TrySail
     singer_alias:
-    available_date: '2017-09-05'
+    available_date: '2017-09-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: メイドインアビス<番組名>
+    tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: ていふいんあひ
-    singer_name_ruby: とみたみゆいせまりや
+    song_name_ruby: ているういんと
+    singer_name_ruby: とらいせいる
     song_variation:
-    - esong_code: 3868B49
-      song_name: Deep in Abyss
-      content_type: ''
-  - song_name: DAYBREAK INTERLUDE
-    song_alias:
-    esong_code: 3881B13
-    t_singer_master_id: '55014'
-    singer_name: TRIGGER
-    singer_alias:
-    available_date: '2017-09-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドリッシュセブン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていふれいくいん
-    singer_name_ruby: とりか
-    song_variation:
-    - esong_code: 3881B13
-      song_name: DAYBREAK INTERLUDE
-      content_type: ''
-  - song_name: Deal with the devil
-    song_alias:
-    esong_code: 3871B28
-    t_singer_master_id: '46838'
-    singer_name: Tia
-    singer_alias:
-    available_date: '2017-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 賭ケグルイ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ているういすさ
-    singer_name_ruby: ていあ
-    song_variation:
-    - esong_code: 3871B28
-      song_name: Deal with the devil
+    - esong_code: 3868A39
+      song_name: TAILWIND
       content_type: ''
   - song_name: Tailwind
     song_alias:
@@ -74,23 +40,6 @@ result:
     song_variation:
     - esong_code: 3874B29
       song_name: Tailwind
-      content_type: ''
-  - song_name: TAILWIND
-    song_alias:
-    esong_code: 3868A39
-    t_singer_master_id: '53275'
-    singer_name: TrySail
-    singer_alias:
-    available_date: '2017-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ているういんと
-    singer_name_ruby: とらいせいる
-    song_variation:
-    - esong_code: 3868A39
-      song_name: TAILWIND
       content_type: ''
   - song_name: DINGDONG心の中
     song_alias:
@@ -332,23 +281,6 @@ result:
       content_type: ''
   - song_name: 東京こぼれ花
     song_alias:
-    esong_code: 3870B26
-    t_singer_master_id: '12233'
-    singer_name: ハン・ジナ(ハン・ボクスン)
-    singer_alias:
-    available_date: '2017-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: とうきようこほれは
-    singer_name_ruby: はんしな
-    song_variation:
-    - esong_code: 3870B26
-      song_name: 東京こぼれ花
-      content_type: JOY生演奏
-  - song_name: 東京こぼれ花
-    song_alias:
     esong_code: 3876A4
     t_singer_master_id: '12233'
     singer_name: ハン・ジナ(ハン・ボクスン)
@@ -364,6 +296,23 @@ result:
     - esong_code: 3876A4
       song_name: 東京こぼれ花
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 東京こぼれ花
+    song_alias:
+    esong_code: 3869B42
+    t_singer_master_id: '12233'
+    singer_name: ハン・ジナ(ハン・ボクスン)
+    singer_alias:
+    available_date: '2017-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: とうきようこほれは
+    singer_name_ruby: はんしな
+    song_variation:
+    - esong_code: 3869B42
+      song_name: 東京こぼれ花
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 東京こぼれ花
     song_alias:
     esong_code: 3868B3
@@ -383,7 +332,7 @@ result:
       content_type: ''
   - song_name: 東京こぼれ花
     song_alias:
-    esong_code: 3869B42
+    esong_code: 3870B26
     t_singer_master_id: '12233'
     singer_name: ハン・ジナ(ハン・ボクスン)
     singer_alias:
@@ -391,13 +340,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: JOY生演奏
     song_name_ruby: とうきようこほれは
     singer_name_ruby: はんしな
     song_variation:
-    - esong_code: 3869B42
+    - esong_code: 3870B26
       song_name: 東京こぼれ花
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: JOY生演奏
   - song_name: 東京Σ
     song_alias:
     esong_code: 3881A11
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3880B12
       song_name: どうせなら
+      content_type: ''
+  - song_name: tonight is the night
+    song_alias:
+    esong_code: 3867B41
+    t_singer_master_id: '52922'
+    singer_name: the quiet room
+    singer_alias:
+    available_date: '2017-09-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうないといすさ
+    singer_name_ruby: さくわいえつとるむ
+    song_variation:
+    - esong_code: 3867B41
+      song_name: tonight is the night
+      content_type: ''
+  - song_name: 東北道
+    song_alias:
+    esong_code: 3883A48
+    t_singer_master_id: '55767'
+    singer_name: DOTAMA
+    singer_alias:
+    available_date: '2017-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうほくとう
+    singer_name_ruby: とたま
+    song_variation:
+    - esong_code: 3883A48
+      song_name: 東北道
+      content_type: ''
+  - song_name: Do what you want
+    song_alias:
+    esong_code: 3881A7
+    t_singer_master_id: '58498'
+    singer_name: DADARAY
+    singer_alias:
+    available_date: '2017-09-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうほわつとゆう
+    singer_name_ruby: たたれい
+    song_variation:
+    - esong_code: 3881A7
+      song_name: Do what you want
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1324
-  all_max_cnt: 1489
-  all_country_cnt: 1324
+  max_cnt: 1317
+  all_max_cnt: 1482
+  all_country_cnt: 1317
   song:
-  - song_name: 心友フォーエヴァー
-    song_alias:
-    esong_code: 3551B32
-    t_singer_master_id: '52149'
-    singer_name: あゆみくりかまき
-    singer_alias:
-    available_date: '2015-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんゆうふおえは
-    singer_name_ruby: あゆみくりかまき
-    song_variation:
-    - esong_code: 3551B32
-      song_name: 心友フォーエヴァー
-      content_type: ''
   - song_name: 水曜日のマネキンは笑う
     song_alias:
     esong_code: 3542A3
@@ -177,23 +160,6 @@ result:
     - esong_code: 3527B25
       song_name: 助六さん
       content_type: ''
-  - song_name: 助六さん
-    song_alias:
-    esong_code: 3551A46
-    t_singer_master_id: '2183'
-    singer_name: 真木 柚布子(由布子)
-    singer_alias:
-    available_date: '2015-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: すけろくさん
-    singer_name_ruby: まきゆうこ
-    song_variation:
-    - esong_code: 3551A46
-      song_name: 助六さん
-      content_type: DAM生音
   - song_name: Starting Over
     song_alias:
     esong_code: 3545A19
@@ -236,7 +202,7 @@ result:
     singer_alias:
     available_date: '2015-11-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL SUPER(超)<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: すたりんくすた
@@ -253,7 +219,7 @@ result:
     singer_alias:
     available_date: '2015-11-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL SUPER(超)<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: すたりんくすた
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3548B36
       song_name: 素晴らしき世界
+      content_type: ''
+  - song_name: Spinning Wheel
+    song_alias:
+    esong_code: 3552A31
+    t_singer_master_id: '54732'
+    singer_name: 竹内 涼真&稲葉 友&上遠野 太洸
+    singer_alias:
+    available_date: '2015-11-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 仮面ライダードライブ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すひにんくほい
+    singer_name_ruby: たけうちりようまいなはゆう
+    song_variation:
+    - esong_code: 3552A31
+      song_name: Spinning Wheel
+      content_type: ''
+  - song_name: Spin Big
+    song_alias:
+    esong_code: 3543A25
+    t_singer_master_id: '7775'
+    singer_name: BONNIE PINK
+    singer_alias:
+    available_date: '2015-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すひんひつく
+    singer_name_ruby: ほにひんく
+    song_variation:
+    - esong_code: 3543A25
+      song_name: Spin Big
       content_type: ''

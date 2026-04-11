@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1452
-  all_max_cnt: 1626
-  all_country_cnt: 1452
+  max_cnt: 1445
+  all_max_cnt: 1619
+  all_country_cnt: 1445
   song:
-  - song_name: 愛の破片
-    song_alias:
-    esong_code: 4031A29
-    t_singer_master_id: '61964'
-    singer_name: 宮末 加代子
-    singer_alias:
-    available_date: '2018-07-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのかけら
-    singer_name_ruby: みやすえかよこ
-    song_variation:
-    - esong_code: 4031A29
-      song_name: 愛の破片
-      content_type: ''
   - song_name: アイノカタチ feat.HIDE
     song_alias:
     esong_code: 4036A26
@@ -279,23 +262,6 @@ result:
     - esong_code: 4035B49
       song_name: I'll Be There
       content_type: ''
-  - song_name: I Wanna Be... (Anime Size)
-    song_alias:
-    esong_code: 4035B34
-    t_singer_master_id: '36641'
-    singer_name: SPYAIR
-    singer_alias:
-    available_date: '2018-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂.<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいわなひ
-    singer_name_ruby: すはいえあ
-    song_variation:
-    - esong_code: 4035B34
-      song_name: I Wanna Be... (Anime Size)
-      content_type: ''
   - song_name: I Wanna Be...
     song_alias:
     esong_code: 4031B21
@@ -304,7 +270,7 @@ result:
     singer_alias:
     available_date: '2018-07-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂.<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あいわなひ
@@ -312,6 +278,23 @@ result:
     song_variation:
     - esong_code: 4031B21
       song_name: I Wanna Be...
+      content_type: ''
+  - song_name: I Wanna Be... (Anime Size)
+    song_alias:
+    esong_code: 4035B34
+    t_singer_master_id: '36641'
+    singer_name: SPYAIR
+    singer_alias:
+    available_date: '2018-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 銀魂<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいわなひ
+    singer_name_ruby: すはいえあ
+    song_variation:
+    - esong_code: 4035B34
+      song_name: I Wanna Be... (Anime Size)
       content_type: ''
   - song_name: I WANNA BE WITH YOU
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 137B14
       song_name: 赤い衣装(ふく)
       content_type: ''
+  - song_name: 紅いブルース
+    song_alias:
+    esong_code: 4031B48
+    t_singer_master_id: '22234'
+    singer_name: 秋元 順子
+    singer_alias:
+    available_date: '2018-07-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あかいふるす
+    singer_name_ruby: あきもとしゆんこ
+    song_variation:
+    - esong_code: 4031B48
+      song_name: 紅いブルース
+      content_type: JOYﾎﾞｰｶﾙ

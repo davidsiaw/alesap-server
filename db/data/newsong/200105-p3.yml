@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 302
-  all_max_cnt: 316
-  all_country_cnt: 302
+  max_cnt: 297
+  all_max_cnt: 311
+  all_country_cnt: 297
   song:
-  - song_name: 木枯らしのダイアリー
-    song_alias:
-    esong_code: 612A19
-    t_singer_master_id: '2221'
-    singer_name: 松任谷 由実(荒井由実)
-    singer_alias:
-    available_date: '2001-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こからしのたいあ
-    singer_name_ruby: まつとうやゆみあらいゆみ
-    song_variation:
-    - esong_code: 612A19
-      song_name: 木枯らしのダイアリー
-      content_type: ''
   - song_name: KOKORO WARP
     song_alias:
     esong_code: 561A24
@@ -185,7 +168,7 @@ result:
     singer_alias:
     available_date: '2001-05-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: スレイヤーズTRY<番組名>
+    tie_up: スレイヤーズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さむうえあ
@@ -227,23 +210,6 @@ result:
     song_variation:
     - esong_code: 561B32
       song_name: ザ・レビュー (和央ようか&花總まり)
-      content_type: ''
-  - song_name: 至上の愛
-    song_alias:
-    esong_code: 272B18
-    t_singer_master_id: '136'
-    singer_name: アルフィー(THE ALFEE)
-    singer_alias:
-    available_date: '2001-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ししようのあい
-    singer_name_ruby: あるふい
-    song_variation:
-    - esong_code: 272B18
-      song_name: 至上の愛
       content_type: ''
   - song_name: シーズンオフの心には
     song_alias:
@@ -398,23 +364,6 @@ result:
     - esong_code: 562A30
       song_name: ジャングルジム
       content_type: ''
-  - song_name: シュプレヒコールに耳を塞いで
-    song_alias:
-    esong_code: 559B40
-    t_singer_master_id: '136'
-    singer_name: アルフィー(THE ALFEE)
-    singer_alias:
-    available_date: '2001-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆふれひこるに
-    singer_name_ruby: あるふい
-    song_variation:
-    - esong_code: 559B40
-      song_name: シュプレヒコールに耳を塞いで
-      content_type: ''
   - song_name: 消灯飛行
     song_alias:
     esong_code: 613A18
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 559B28
       song_name: 神世界・風
+      content_type: ''
+  - song_name: 魔羅(シンボル)'77
+    song_alias:
+    esong_code: 562A31
+    t_singer_master_id: '6544'
+    singer_name: "↑THE HIGH-LOWS↓"
+    singer_alias:
+    available_date: '2001-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんほる
+    singer_name_ruby: さはいろうす
+    song_variation:
+    - esong_code: 562A31
+      song_name: 魔羅(シンボル)'77
+      content_type: ''
+  - song_name: switch
+    song_alias:
+    esong_code: 560B37
+    t_singer_master_id: '5736'
+    singer_name: surface(SURFACE)
+    singer_alias:
+    available_date: '2001-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すういつち
+    singer_name_ruby: さふいす
+    song_variation:
+    - esong_code: 560B37
+      song_name: switch
+      content_type: ''
+  - song_name: 好きなのに
+    song_alias:
+    esong_code: 508A40
+    t_singer_master_id: '7817'
+    singer_name: 京 壮亮
+    singer_alias:
+    available_date: '2001-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すきなのに
+    singer_name_ruby: きようまさあき
+    song_variation:
+    - esong_code: 508A40
+      song_name: 好きなのに
       content_type: ''

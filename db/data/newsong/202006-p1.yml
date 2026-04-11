@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 954
-  all_max_cnt: 1029
-  all_country_cnt: 954
+  max_cnt: 946
+  all_max_cnt: 1021
+  all_country_cnt: 946
   song:
-  - song_name: あかるいみらい
-    song_alias:
-    esong_code: 4384A29
-    t_singer_master_id: '54118'
-    singer_name: yonige
-    singer_alias:
-    available_date: '2020-06-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかるいみらい
-    singer_name_ruby: よにけ
-    song_variation:
-    - esong_code: 4384A29
-      song_name: あかるいみらい
-      content_type: ''
   - song_name: 惡 -JUSTICE-
     song_alias:
     esong_code: 4383A49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4370A44
       song_name: アポロ
+      content_type: ''
+  - song_name: 奄美の夜
+    song_alias:
+    esong_code: 4389A38
+    t_singer_master_id: '66533'
+    singer_name: 宮 義経
+    singer_alias:
+    available_date: '2020-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あまみのよる
+    singer_name_ruby: みやよしつね
+    song_variation:
+    - esong_code: 4389A38
+      song_name: 奄美の夜
       content_type: ''

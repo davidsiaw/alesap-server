@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
+  - song_name: runaway girl
+    song_alias:
+    esong_code: 2601A30
+    t_singer_master_id: '28374'
+    singer_name: コトリンゴ
+    singer_alias:
+    available_date: '2010-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らなうえいかる
+    singer_name_ruby: ことりんこ
+    song_variation:
+    - esong_code: 2601A30
+      song_name: runaway girl
+      content_type: ''
   - song_name: RUB A DUB WESTERN
     song_alias:
     esong_code: 2600A21
@@ -111,23 +128,6 @@ result:
       content_type: ''
   - song_name: Lφve Rainbow
     song_alias:
-    esong_code: 2592B1
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2010-09-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふれいんほう
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 2592B1
-      song_name: Lφve Rainbow
-      content_type: ''
-  - song_name: Lφve Rainbow
-    song_alias:
     esong_code: 2607A26
     t_singer_master_id: '10314'
     singer_name: 嵐
@@ -143,6 +143,23 @@ result:
     - esong_code: 2607A26
       song_name: Lφve Rainbow
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Lφve Rainbow
+    song_alias:
+    esong_code: 2592B1
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2010-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふれいんほう
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 2592B1
+      song_name: Lφve Rainbow
+      content_type: ''
   - song_name: Loveless
     song_alias:
     esong_code: 2592A49
@@ -338,7 +355,7 @@ result:
     singer_alias:
     available_date: '2010-09-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・ファンタジア なりきりダンジョンX<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: りはす
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2589B22
       song_name: Lookin' In My Eyez
-      content_type: ''
-  - song_name: ルード・ボーイ (Re:birth)
-    song_alias:
-    esong_code: 2583A31
-    t_singer_master_id: '35403'
-    singer_name: DaizyStripper
-    singer_alias:
-    available_date: '2010-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: るとほい
-    singer_name_ruby: ていしすとりつは
-    song_variation:
-    - esong_code: 2583A31
-      song_name: ルード・ボーイ (Re:birth)
       content_type: ''

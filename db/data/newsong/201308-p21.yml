@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1176
-  all_max_cnt: 1313
-  all_country_cnt: 1176
+  max_cnt: 1175
+  all_max_cnt: 1312
+  all_country_cnt: 1175
   song:
-  - song_name: 旅路の途中
-    song_alias:
-    esong_code: 3098B27
-    t_singer_master_id: '37701'
-    singer_name: 高橋 優
-    singer_alias:
-    available_date: '2013-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たひしのとちゆう
-    singer_name_ruby: たかはしゆう
-    song_variation:
-    - esong_code: 3098B27
-      song_name: 旅路の途中
-      content_type: ''
-  - song_name: 旅人
-    song_alias:
-    esong_code: 3096B32
-    t_singer_master_id: '48598'
-    singer_name: SEiREN
-    singer_alias:
-    available_date: '2013-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たひひと
-    singer_name_ruby: せいれん
-    song_variation:
-    - esong_code: 3096B32
-      song_name: 旅人
-      content_type: ''
   - song_name: Toughness
     song_alias:
     esong_code: 3099B8
@@ -317,7 +283,7 @@ result:
     song_alias:
     esong_code: 3090B42
     t_singer_master_id: '27744'
-    singer_name: 大友 ジュン
+    singer_name: 大友 ジュン(井上純一)
     singer_alias:
     available_date: '2013-08-14'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3095A40
       song_name: 蕾がひらくとき
+      content_type: ''
+  - song_name: 蕾のままで・・・
+    song_alias:
+    esong_code: 3089A47
+    t_singer_master_id: '48519'
+    singer_name: 星 みはる
+    singer_alias:
+    available_date: '2013-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つほみのままて
+    singer_name_ruby: ほしみはる
+    song_variation:
+    - esong_code: 3089A47
+      song_name: 蕾のままで・・・
+      content_type: ''
+  - song_name: 出逢いは日本海
+    song_alias:
+    esong_code: 2489B13
+    t_singer_master_id: '39090'
+    singer_name: 西村 光司&阿川 真子
+    singer_alias:
+    available_date: '2013-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てあいはにほんかい
+    singer_name_ruby: にしむらこうしあかわまこ
+    song_variation:
+    - esong_code: 2489B13
+      song_name: 出逢いは日本海
       content_type: ''

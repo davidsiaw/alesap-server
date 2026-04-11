@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
   - song_name: 父子の絆
     song_alias:
@@ -196,23 +196,6 @@ result:
       content_type: ''
   - song_name: 女・・・さすらい
     song_alias:
-    esong_code: 2107B20
-    t_singer_master_id: '389'
-    singer_name: 大月 みやこ
-    singer_alias:
-    available_date: '2011-04-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなさすらい
-    singer_name_ruby: おおつきみやこ
-    song_variation:
-    - esong_code: 2107B20
-      song_name: 女・・・さすらい
-      content_type: ''
-  - song_name: 女・・・さすらい
-    song_alias:
     esong_code: 1439B13
     t_singer_master_id: '389'
     singer_name: 大月 みやこ
@@ -228,6 +211,23 @@ result:
     - esong_code: 1439B13
       song_name: 女・・・さすらい
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 女・・・さすらい
+    song_alias:
+    esong_code: 2107B20
+    t_singer_master_id: '389'
+    singer_name: 大月 みやこ
+    singer_alias:
+    available_date: '2011-04-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなさすらい
+    singer_name_ruby: おおつきみやこ
+    song_variation:
+    - esong_code: 2107B20
+      song_name: 女・・・さすらい
+      content_type: ''
   - song_name: 女どうし
     song_alias:
     esong_code: 1221B9
@@ -508,7 +508,7 @@ result:
     singer_alias:
     available_date: '2011-04-08'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 学園ヘタリア<番組名>
+    tie_up: ヘタリア(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かくえんふえすた

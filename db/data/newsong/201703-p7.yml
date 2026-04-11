@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1384
-  all_max_cnt: 1544
-  all_country_cnt: 1384
+  max_cnt: 1374
+  all_max_cnt: 1534
+  all_country_cnt: 1374
   song:
-  - song_name: お月さま
-    song_alias:
-    esong_code: 3772B4
-    t_singer_master_id: '53056'
-    singer_name: 藤原 さくら
-    singer_alias:
-    available_date: '2017-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おつきさま
-    singer_name_ruby: ふしわらさくら
-    song_variation:
-    - esong_code: 3772B4
-      song_name: お月さま
-      content_type: ''
-  - song_name: 男酒
-    song_alias:
-    esong_code: 3785B6
-    t_singer_master_id: '11121'
-    singer_name: 筑後 ゆたか
-    singer_alias:
-    available_date: '2017-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこさけ
-    singer_name_ruby: ちくこゆたか
-    song_variation:
-    - esong_code: 3785B6
-      song_name: 男酒
-      content_type: ''
   - song_name: 男と女の夜だもの
     song_alias:
     esong_code: 3194A48
@@ -417,21 +383,21 @@ result:
       content_type: ''
   - song_name: オホーツク海岸
     song_alias:
-    esong_code: 3195A16
+    esong_code: 3773A14
     t_singer_master_id: '8698'
     singer_name: 川野 夏美
     singer_alias:
-    available_date: '2017-03-07'
+    available_date: '2017-03-08'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: おほつくかいかん
     singer_name_ruby: かわのなつみ
     song_variation:
-    - esong_code: 3195A16
+    - esong_code: 3773A14
       song_name: オホーツク海岸
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: オホーツク海岸
     song_alias:
     esong_code: 3777A44
@@ -451,23 +417,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: オホーツク海岸
     song_alias:
-    esong_code: 3773A14
-    t_singer_master_id: '8698'
-    singer_name: 川野 夏美
-    singer_alias:
-    available_date: '2017-03-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おほつくかいかん
-    singer_name_ruby: かわのなつみ
-    song_variation:
-    - esong_code: 3773A14
-      song_name: オホーツク海岸
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: オホーツク海岸
-    song_alias:
     esong_code: 3773B12
     t_singer_master_id: '8698'
     singer_name: 川野 夏美
@@ -483,6 +432,23 @@ result:
     - esong_code: 3773B12
       song_name: オホーツク海岸
       content_type: JOY生演奏
+  - song_name: オホーツク海岸
+    song_alias:
+    esong_code: 3195A16
+    t_singer_master_id: '8698'
+    singer_name: 川野 夏美
+    singer_alias:
+    available_date: '2017-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おほつくかいかん
+    singer_name_ruby: かわのなつみ
+    song_variation:
+    - esong_code: 3195A16
+      song_name: オホーツク海岸
+      content_type: ''
   - song_name: お前次第だぜSONG
     song_alias:
     esong_code: 3771B24
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3782B23
       song_name: 想い出通り
+      content_type: ''
+  - song_name: 思い出の竿燈まつり
+    song_alias:
+    esong_code: 3654B1
+    t_singer_master_id: '58354'
+    singer_name: 橘 妃呂子
+    singer_alias:
+    available_date: '2017-03-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいてのかんとう
+    singer_name_ruby: たちはなひろこ
+    song_variation:
+    - esong_code: 3654B1
+      song_name: 思い出の竿燈まつり
+      content_type: ''
+  - song_name: 想い出の女
+    song_alias:
+    esong_code: 3774A48
+    t_singer_master_id: '765'
+    singer_name: 黒沢 明とロス・プリモス
+    singer_alias:
+    available_date: '2017-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいてのひと
+    singer_name_ruby: くろさわあきらとろすふりも
+    song_variation:
+    - esong_code: 3774A48
+      song_name: 想い出の女
       content_type: ''

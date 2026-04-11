@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
-  - song_name: ray of memories
-    song_alias:
-    esong_code: 2673B3
-    t_singer_master_id: '21628'
-    singer_name: 橋本 みゆき
-    singer_alias:
-    available_date: '2011-09-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 失われた未来を求めて<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: れいおふめもりす
-    singer_name_ruby: はしもとみゆき
-    song_variation:
-    - esong_code: 2673B3
-      song_name: ray of memories
-      content_type: ''
-  - song_name: Rainy Reincarnation feat.初音ミク
-    song_alias:
-    esong_code: 2677B14
-    t_singer_master_id: '42386'
-    singer_name: ゆうP
-    singer_alias:
-    available_date: '2011-09-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: れいにりいんかね
-    singer_name_ruby: ゆうひ
-    song_variation:
-    - esong_code: 2677B14
-      song_name: Rainy Reincarnation feat.初音ミク
-      content_type: VOCALOID
   - song_name: Rain
     song_alias:
     esong_code: 2665A38
@@ -417,23 +383,6 @@ result:
       content_type: JOY生演奏
   - song_name: 忘れていいの〜愛の幕切れ〜
     song_alias:
-    esong_code: 2667A15
-    t_singer_master_id: '420'
-    singer_name: 小川 知子&谷村 新司
-    singer_alias:
-    available_date: '2011-09-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: わすれていいの
-    singer_name_ruby: おかわともこたにむ
-    song_variation:
-    - esong_code: 2667A15
-      song_name: 忘れていいの〜愛の幕切れ〜
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 忘れていいの〜愛の幕切れ〜
-    song_alias:
     esong_code: 2673A39
     t_singer_master_id: '420'
     singer_name: 小川 知子&谷村 新司
@@ -449,6 +398,23 @@ result:
     - esong_code: 2673A39
       song_name: 忘れていいの〜愛の幕切れ〜
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 忘れていいの〜愛の幕切れ〜
+    song_alias:
+    esong_code: 2667A15
+    t_singer_master_id: '420'
+    singer_name: 小川 知子&谷村 新司
+    singer_alias:
+    available_date: '2011-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: わすれていいの
+    singer_name_ruby: おかわともこたにむ
+    song_variation:
+    - esong_code: 2667A15
+      song_name: 忘れていいの〜愛の幕切れ〜
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 忘れられない君(If)
     song_alias:
     esong_code: 2674A20
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2672B30
       song_name: 私、主役の赤座あかりです
+      content_type: ''
+  - song_name: ワタシ ダムガール
+    song_alias:
+    esong_code: 2674B44
+    t_singer_master_id: '43287'
+    singer_name: DAMガール/デンシケンセツ
+    singer_alias:
+    available_date: '2011-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わたしたむかる
+    singer_name_ruby: たむかるてんしけんせつ
+    song_variation:
+    - esong_code: 2674B44
+      song_name: ワタシ ダムガール
+      content_type: ''
+  - song_name: 私のあなた
+    song_alias:
+    esong_code: 2671B40
+    t_singer_master_id: '12410'
+    singer_name: 関 あや子
+    singer_alias:
+    available_date: '2011-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わたしのあなた
+    singer_name_ruby: せきあやこ
+    song_variation:
+    - esong_code: 2671B40
+      song_name: 私のあなた
       content_type: ''

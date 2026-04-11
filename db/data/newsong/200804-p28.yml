@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: ひとひら、ふたひら
-    song_alias:
-    esong_code: 1991A15
-    t_singer_master_id: '28762'
-    singer_name: 池上 ケイ(berry)
-    singer_alias:
-    available_date: '2008-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとひらふたひら
-    singer_name_ruby: いけかみけい
-    song_variation:
-    - esong_code: 1991A15
-      song_name: ひとひら、ふたひら
-      content_type: ''
   - song_name: 瞳カメラ
     song_alias:
     esong_code: 1984B3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1984B42
       song_name: フィエルテの海と共に消ゆ
+      content_type: ''
+  - song_name: フィーバーブギ
+    song_alias:
+    esong_code: 1989B15
+    t_singer_master_id: '15809'
+    singer_name: 大木 綾子
+    singer_alias:
+    available_date: '2008-04-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふいはふき
+    singer_name_ruby: おおきあやこ
+    song_variation:
+    - esong_code: 1989B15
+      song_name: フィーバーブギ
       content_type: ''

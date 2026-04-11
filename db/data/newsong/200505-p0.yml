@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 874
-  all_max_cnt: 915
-  all_country_cnt: 874
+  max_cnt: 864
+  all_max_cnt: 905
+  all_country_cnt: 864
   song:
   - song_name: ああおかしいね
     song_alias:
@@ -466,23 +466,6 @@ result:
     - esong_code: 756B46
       song_name: アカシ
       content_type: ''
-  - song_name: あかちゃんまんのぼうけん
-    song_alias:
-    esong_code: 478A10
-    t_singer_master_id: '4269'
-    singer_name: ドリーミング
-    singer_alias:
-    available_date: '2005-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: それいけ!アンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかちやんまんのほ
-    singer_name_ruby: とりみんく
-    song_variation:
-    - esong_code: 478A10
-      song_name: あかちゃんまんのぼうけん
-      content_type: ''
   - song_name: 暁ノ空ヲ翔ル
     song_alias:
     esong_code: 693A44
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 824B11
       song_name: 赤花や恋の花
+      content_type: ''
+  - song_name: 東崎
+    song_alias:
+    esong_code: 1243A6
+    t_singer_master_id: '659'
+    singer_name: 喜納 昌吉&チャンプルーズ
+    singer_alias:
+    available_date: '2005-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかりさち
+    singer_name_ruby: きなしようきちちやんふ
+    song_variation:
+    - esong_code: 1243A6
+      song_name: 東崎
       content_type: ''

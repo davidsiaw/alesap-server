@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1332
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1326
+  all_country_cnt: 1206
   song:
-  - song_name: 接吻
-    song_alias:
-    esong_code: 2970B18
-    t_singer_master_id: '19365'
-    singer_name: BENI(安良城 紅)
-    singer_alias:
-    available_date: '2013-01-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せつふん
-    singer_name_ruby: へに
-    song_variation:
-    - esong_code: 2970B18
-      song_name: 接吻
-      content_type: ''
   - song_name: セビロニハナ
     song_alias:
     esong_code: 2980A9
@@ -423,7 +406,7 @@ result:
     singer_alias:
     available_date: '2013-01-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ エクシリア2<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: そんくふおゆ
@@ -438,7 +421,7 @@ result:
     t_singer_master_id: '32937'
     singer_name: 中島 愛
     singer_alias:
-    available_date: '2013-01-22'
+    available_date: '2013-01-23'
     end_date: '2999-04-10 00:00:00'
     tie_up: 琴浦さん<番組名>
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2978A21
       song_name: 大爆発NO.1
+      content_type: ''
+  - song_name: 颱風騎士
+    song_alias:
+    esong_code: 1068B23
+    t_singer_master_id: '809'
+    singer_name: 小泉 今日子
+    singer_alias:
+    available_date: '2013-01-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいふんないと
+    singer_name_ruby: こいすみきようこ
+    song_variation:
+    - esong_code: 1068B23
+      song_name: 颱風騎士
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1097
-  all_max_cnt: 1192
-  all_country_cnt: 1097
+  max_cnt: 1085
+  all_max_cnt: 1180
+  all_country_cnt: 1085
   song:
-  - song_name: アイ (弾き語りVersion)
-    song_alias:
-    esong_code: 2508A27
-    t_singer_master_id: '28111'
-    singer_name: 秦 基博
-    singer_alias:
-    available_date: '2010-03-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あい
-    singer_name_ruby: はたもとひろ
-    song_variation:
-    - esong_code: 2508A27
-      song_name: アイ (弾き語りVersion)
-      content_type: DAM生音
   - song_name: 愛 (2009ver.)
     song_alias:
     esong_code: 2507B12
@@ -41,23 +24,6 @@ result:
     - esong_code: 2507B12
       song_name: 愛 (2009ver.)
       content_type: DAMﾗｲﾌﾞ
-  - song_name: アイ (弾き語りVersion)
-    song_alias:
-    esong_code: 2492B29
-    t_singer_master_id: '28111'
-    singer_name: 秦 基博
-    singer_alias:
-    available_date: '2010-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あい
-    singer_name_ruby: はたもとひろ
-    song_variation:
-    - esong_code: 2492B29
-      song_name: アイ (弾き語りVersion)
-      content_type: ''
   - song_name: i[ai]
     song_alias:
     esong_code: 2498B48
@@ -74,6 +40,40 @@ result:
     song_variation:
     - esong_code: 2498B48
       song_name: i[ai]
+      content_type: ''
+  - song_name: アイ (弾き語りVersion)
+    song_alias:
+    esong_code: 2508A27
+    t_singer_master_id: '28111'
+    singer_name: 秦 基博
+    singer_alias:
+    available_date: '2010-03-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あい
+    singer_name_ruby: はたもとひろ
+    song_variation:
+    - esong_code: 2508A27
+      song_name: アイ (弾き語りVersion)
+      content_type: DAM生音
+  - song_name: アイ (弾き語りVersion)
+    song_alias:
+    esong_code: 2492B29
+    t_singer_master_id: '28111'
+    singer_name: 秦 基博
+    singer_alias:
+    available_date: '2010-03-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あい
+    singer_name_ruby: はたもとひろ
+    song_variation:
+    - esong_code: 2492B29
+      song_name: アイ (弾き語りVersion)
       content_type: ''
   - song_name: アイ・ウィッシュ・クロスフェード feat.紫月菜乃
     song_alias:
@@ -261,23 +261,6 @@ result:
     song_variation:
     - esong_code: 2492B19
       song_name: I.D feat.VERBAL
-      content_type: ''
-  - song_name: 愛という名の別れ
-    song_alias:
-    esong_code: 2486B24
-    t_singer_master_id: '21652'
-    singer_name: 西山 ひとみ
-    singer_alias:
-    available_date: '2010-03-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいというなのわかれ
-    singer_name_ruby: にしやまひとみ
-    song_variation:
-    - esong_code: 2486B24
-      song_name: 愛という名の別れ
       content_type: ''
   - song_name: I don't stop
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2501A36
       song_name: I Like It feat.SWAY from SAPPORO
+      content_type: ''
+  - song_name: I LOVE すすきの
+    song_alias:
+    esong_code: 2496A45
+    t_singer_master_id: '39200'
+    singer_name: 滑川 まさ美(滑川宝水)
+    singer_alias:
+    available_date: '2010-03-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいらふすすきの
+    singer_name_ruby: なめりかわまさみ
+    song_variation:
+    - esong_code: 2496A45
+      song_name: I LOVE すすきの
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1364
-  all_max_cnt: 1539
-  all_country_cnt: 1364
+  max_cnt: 1346
+  all_max_cnt: 1521
+  all_country_cnt: 1346
   song:
-  - song_name: アマン(愛人)
-    song_alias:
-    esong_code: 4223B12
-    t_singer_master_id: '5869'
-    singer_name: 菅原 やすのり(すがはらやすのり)
-    singer_alias:
-    available_date: '2019-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あまん
-    singer_name_ruby: すかはらやすのり
-    song_variation:
-    - esong_code: 4223B12
-      song_name: アマン(愛人)
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: アマンテ
     song_alias:
     esong_code: 4208A22
@@ -41,23 +24,6 @@ result:
     - esong_code: 4208A22
       song_name: アマンテ
       content_type: ''
-  - song_name: AMICITIA
-    song_alias:
-    esong_code: 4203B21
-    t_singer_master_id: '32325'
-    singer_name: May'n
-    singer_alias:
-    available_date: '2019-06-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: あみきていあ
-    singer_name_ruby: めいん
-    song_variation:
-    - esong_code: 4203B21
-      song_name: AMICITIA
-      content_type: DAMﾗｲﾌﾞ
   - song_name: アムールの国
     song_alias:
     esong_code: 4193B20
@@ -153,13 +119,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: ありあひておくり
     singer_name_ruby: はんふおふちきん
     song_variation:
     - esong_code: 4202B29
       song_name: アリア (ビデオクリップバージョン)
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: ありがとう -還暦を迎えて-
     song_alias:
     esong_code: 4211A23
@@ -421,7 +387,7 @@ result:
     t_singer_master_id: '29531'
     singer_name: Superfly
     singer_alias:
-    available_date: '2019-06-11'
+    available_date: '2019-06-12'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4201B42
       song_name: 居酒屋「かずさ」
+      content_type: ''
+  - song_name: 居酒屋姉妹
+    song_alias:
+    esong_code: 4201B44
+    t_singer_master_id: '64171'
+    singer_name: あつこ&かおり
+    singer_alias:
+    available_date: '2019-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いさかやしまい
+    singer_name_ruby: あつこあんとかおり
+    song_variation:
+    - esong_code: 4201B44
+      song_name: 居酒屋姉妹
+      content_type: ''
+  - song_name: 諫早の娘
+    song_alias:
+    esong_code: 4210A13
+    t_singer_master_id: '1649'
+    singer_name: 中村 三郎
+    singer_alias:
+    available_date: '2019-06-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いさはやのひと
+    singer_name_ruby: なかむらさふろう
+    song_variation:
+    - esong_code: 4210A13
+      song_name: 諫早の娘
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 933
-  all_max_cnt: 1037
-  all_country_cnt: 933
+  max_cnt: 932
+  all_max_cnt: 1036
+  all_country_cnt: 932
   song:
   - song_name: 雨
     song_alias:
@@ -159,6 +159,23 @@ result:
     song_variation:
     - esong_code: 1788B17
       song_name: ありがとう・・・ (the pearl edition)
+      content_type: ''
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 1436A35
+    t_singer_master_id: '24990'
+    singer_name: しいの 乙吉
+    singer_alias:
+    available_date: '2007-05-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: しいのおときち
+    song_variation:
+    - esong_code: 1436A35
+      song_name: ありがとう
       content_type: ''
   - song_name: アリの夢
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1787A10
       song_name: 田舎道
-      content_type: ''
-  - song_name: enough (part2)
-    song_alias:
-    esong_code: 1782A25
-    t_singer_master_id: '727'
-    singer_name: 久宝 留理子
-    singer_alias:
-    available_date: '2007-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いなふはとつ
-    singer_name_ruby: くほうるりこ
-    song_variation:
-    - esong_code: 1782A25
-      song_name: enough (part2)
       content_type: ''

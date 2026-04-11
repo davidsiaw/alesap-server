@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1576
-  all_max_cnt: 1796
-  all_country_cnt: 1576
+  max_cnt: 1565
+  all_max_cnt: 1785
+  all_country_cnt: 1565
   song:
-  - song_name: 恋の曼珠沙華 [DAM本人歌唱]
-    song_alias:
-    esong_code: 3245A38
-    t_singer_master_id: '360'
-    singer_name: 大川 栄策
-    singer_alias:
-    available_date: '2016-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: こいのまんしゆしや
-    singer_name_ruby: おおかわえいさく
-    song_variation:
-    - esong_code: 3245A38
-      song_name: 恋の曼珠沙華 [DAM本人歌唱]
-      content_type: DAM本人歌唱
-  - song_name: 恋文
-    song_alias:
-    esong_code: 3714A49
-    t_singer_master_id: '44485'
-    singer_name: やなぎ なぎ
-    singer_alias:
-    available_date: '2016-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Rewrite(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいふみ
-    singer_name_ruby: やなきなき
-    song_variation:
-    - esong_code: 3714A49
-      song_name: 恋文
-      content_type: ''
   - song_name: 恋をしたのは
     song_alias:
     esong_code: 3711B32
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3724B19
       song_name: 湖畔の道
+      content_type: ''
+  - song_name: 湖畔の宿 「名演ギター 斉藤 功」
+    song_alias:
+    esong_code: 1423A11
+    t_singer_master_id: '1344'
+    singer_name: 高峰 三枝子
+    singer_alias:
+    available_date: '2016-11-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こはんのやと
+    singer_name_ruby: たかみねみえこ
+    song_variation:
+    - esong_code: 1423A11
+      song_name: 湖畔の宿 「名演ギター 斉藤 功」
+      content_type: ''
+  - song_name: こみゅ力
+    song_alias:
+    esong_code: 3725A39
+    t_singer_master_id: '49526'
+    singer_name: キュウソネコカミ
+    singer_alias:
+    available_date: '2016-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こみゆりよく
+    singer_name_ruby: きゆうそねこかみ
+    song_variation:
+    - esong_code: 3725A39
+      song_name: こみゅ力
       content_type: ''

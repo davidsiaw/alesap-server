@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1127
-  all_max_cnt: 1243
-  all_country_cnt: 1127
+  max_cnt: 1112
+  all_max_cnt: 1228
+  all_country_cnt: 1112
   song:
-  - song_name: かなかな2
-    song_alias:
-    esong_code: 1883A17
-    t_singer_master_id: '542'
-    singer_name: 門倉 有希
-    singer_alias:
-    available_date: '2018-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなかなかなかな
-    singer_name_ruby: かとくらゆき
-    song_variation:
-    - esong_code: 1883A17
-      song_name: かなかな2
-      content_type: ''
-  - song_name: 金沢茶屋街
-    song_alias:
-    esong_code: 3652A46
-    t_singer_master_id: '23563'
-    singer_name: 葵 かを里(調子かをり)
-    singer_alias:
-    available_date: '2018-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: かなさわちややか
-    singer_name_ruby: あおいかをり
-    song_variation:
-    - esong_code: 3652A46
-      song_name: 金沢茶屋街
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 金沢茶屋街
     song_alias:
     esong_code: 3828B25
@@ -60,6 +26,23 @@ result:
       content_type: ''
   - song_name: 金沢茶屋街
     song_alias:
+    esong_code: 2139B22
+    t_singer_master_id: '23563'
+    singer_name: 葵 かを里(調子かをり)
+    singer_alias:
+    available_date: '2018-01-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かなさわちややか
+    singer_name_ruby: あおいかをり
+    song_variation:
+    - esong_code: 2139B22
+      song_name: 金沢茶屋街
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 金沢茶屋街
+    song_alias:
     esong_code: 2138B42
     t_singer_master_id: '23563'
     singer_name: 葵 かを里(調子かをり)
@@ -77,21 +60,21 @@ result:
       content_type: JOY生演奏
   - song_name: 金沢茶屋街
     song_alias:
-    esong_code: 2139B22
+    esong_code: 3652A46
     t_singer_master_id: '23563'
     singer_name: 葵 かを里(調子かをり)
     singer_alias:
-    available_date: '2018-01-10'
+    available_date: '2018-01-14'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: かなさわちややか
     singer_name_ruby: あおいかをり
     song_variation:
-    - esong_code: 2139B22
+    - esong_code: 3652A46
       song_name: 金沢茶屋街
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 悲しいけれど
     song_alias:
     esong_code: 1351A21
@@ -347,23 +330,6 @@ result:
     - esong_code: 3932B28
       song_name: キイロイアメノウタ feat.メロディー・チューバック
       content_type: ''
-  - song_name: 聴かせて
-    song_alias:
-    esong_code: 3930A5
-    t_singer_master_id: '27708'
-    singer_name: 柿原 徹也
-    singer_alias:
-    available_date: '2018-01-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きかせて
-    singer_name_ruby: かきはらてつや
-    song_variation:
-    - esong_code: 3930A5
-      song_name: 聴かせて
-      content_type: ''
   - song_name: Kissがいいの
     song_alias:
     esong_code: 2106A17
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3936B46
       song_name: きっとこの手にVICTORY!!
+      content_type: ''
+  - song_name: 狐の嫁入り行列
+    song_alias:
+    esong_code: 1352A1
+    t_singer_master_id: '39356'
+    singer_name: 蒲原 一郎
+    singer_alias:
+    available_date: '2018-01-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きつねのよめいりき
+    singer_name_ruby: かんはらいちろう
+    song_variation:
+    - esong_code: 1352A1
+      song_name: 狐の嫁入り行列
+      content_type: ''
+  - song_name: Gift
+    song_alias:
+    esong_code: 3933B27
+    t_singer_master_id: '50396'
+    singer_name: Little Glee Monster
+    singer_alias:
+    available_date: '2018-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きふと
+    singer_name_ruby: りとるくりもんすた
+    song_variation:
+    - esong_code: 3933B27
+      song_name: Gift
       content_type: ''

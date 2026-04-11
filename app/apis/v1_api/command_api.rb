@@ -2,6 +2,10 @@
 
 # GET command
 class CommandApi < Grape::API
+
+  # Command list
+  STOP_SONG_COMMAND = 2
+
   resource :command do
 
     desc 'GET command'
@@ -51,40 +55,65 @@ class CommandApi < Grape::API
       { result: obj }
     end
 
+
     resource :search do
 
       desc 'search for songs'
       params do
         optional :str, type: String, desc: 'search str'
+        optional :page, type: Integer, desc: 'page num'
+        optional :request_id, type: String, desc: 'requestid'
       end
       post do
 
-        strs = Istring.where("str LIKE ?", "#{params[:str]}%")
+        ss = SearchService.new(params[:str], params[:page].to_i)
 
-        songs = PaselaEsong.joins(:name).merge(strs)
-        artists = PaselaArtist.joins(:artist_name).merge(strs)
+        ss.result.merge(request_id: params[:request_id])
 
-        res = PaselaEsongPaselaArtist.
-          joins(:song, :artist).
-          merge(songs).
-          limit(20).
-          map do |x|
-            {
-              song: x.song_name,
-              code: x.code,
-              artist: x.artist_name
-            }
-          end
+      end
+    end
 
-
-        {
-          search: params['str'],
-          results: [
-            res
-          ]
-        }
+    desc 'queue command'
+    params do
+      requires :akey, type: String, desc: 'akey'
+      requires :skey, type: String, desc: 'skey'
+      requires :scd, type: String, desc: 'scd'
+      requires :ecd, type: String, desc: 'ecd'
+    end
+    post 'queue' do
+      conn = Faraday::Connection.new 'http://order.mashup.jp'
+      conn.post '/bridge/post_request.php' do |req|
+        req.body = CGI.unescape({
+          akey: params[:akey],
+          skey: params[:skey],
+          scd: params[:scd],
+          ecd: params[:ecd]
+        }.to_query)
       end
 
+      status 200
+      { result: 'ok' }
+    end
+
+    desc 'stop song command'
+    params do
+      requires :akey, type: String, desc: 'akey'
+      requires :skey, type: String, desc: 'skey'
+      requires :scd, type: String, desc: 'scd'
+    end
+    post 'stop' do
+      conn = Faraday::Connection.new 'http://order.mashup.jp'
+      conn.post '/bridge/post_request.php' do |req|
+        req.body = CGI.unescape({
+          akey: params[:akey],
+          skey: params[:skey],
+          scd: params[:scd],
+          type: STOP_SONG_COMMAND
+        }.to_query)
+      end
+
+      status 200
+      { result: 'ok' }
     end
 
 

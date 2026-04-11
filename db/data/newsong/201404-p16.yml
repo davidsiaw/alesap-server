@@ -7,6 +7,23 @@ result:
   all_max_cnt: 1916
   all_country_cnt: 1684
   song:
+  - song_name: TV版 くりとくり
+    song_alias:
+    esong_code: 3237A22
+    t_singer_master_id: '34924'
+    singer_name: 横山 だいすけ&三谷 たくみ
+    singer_alias:
+    available_date: '2014-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: おかあさんといっしょ<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: くりとくり
+    singer_name_ruby: よこやまたいすけみたにたく
+    song_variation:
+    - esong_code: 3237A22
+      song_name: TV版 くりとくり
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Greensleeves -夕映えの小径-
     song_alias:
     esong_code: 3227A4
@@ -211,23 +228,6 @@ result:
     - esong_code: 3232A10
       song_name: Glorious Days 〜ただ道を探してる
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: GLORY DAYS
-    song_alias:
-    esong_code: 3226B45
-    t_singer_master_id: '15296'
-    singer_name: FLOW
-    singer_alias:
-    available_date: '2014-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろりていす
-    singer_name_ruby: ふろう
-    song_variation:
-    - esong_code: 3226B45
-      song_name: GLORY DAYS
-      content_type: ''
   - song_name: glory days
     song_alias:
     esong_code: 3228A8
@@ -244,6 +244,23 @@ result:
     song_variation:
     - esong_code: 3228A8
       song_name: glory days
+      content_type: ''
+  - song_name: GLORY DAYS
+    song_alias:
+    esong_code: 3226B45
+    t_singer_master_id: '15296'
+    singer_name: FLOW
+    singer_alias:
+    available_date: '2014-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くろりていす
+    singer_name_ruby: ふろう
+    song_variation:
+    - esong_code: 3226B45
+      song_name: GLORY DAYS
       content_type: ''
   - song_name: K&H ANTHEM
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3233A11
       song_name: 恋のスナイパー
-      content_type: ''
-  - song_name: 恋のボサノバ
-    song_alias:
-    esong_code: 3246A48
-    t_singer_master_id: '26883'
-    singer_name: 眞坂 孝夫
-    singer_alias:
-    available_date: '2014-04-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいのほさのは
-    singer_name_ruby: まさかたかお
-    song_variation:
-    - esong_code: 3246A48
-      song_name: 恋のボサノバ
       content_type: ''

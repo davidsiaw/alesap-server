@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1734
-  all_max_cnt: 2776
-  all_country_cnt: 1734
+  max_cnt: 1730
+  all_max_cnt: 2772
+  all_country_cnt: 1730
   song:
-  - song_name: INNOCENT NOTE
-    song_alias:
-    esong_code: 3117B25
-    t_singer_master_id: '45657'
-    singer_name: 内田 真礼
-    singer_alias:
-    available_date: '2013-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ガッチャマン クラウズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのせんとのと
-    singer_name_ruby: うちたまあや
-    song_variation:
-    - esong_code: 3117B25
-      song_name: INNOCENT NOTE
-      content_type: ''
   - song_name: INNOCENT BLUE
     song_alias:
     esong_code: 3124A9
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3125A41
       song_name: We Can Dance Tonight
+      content_type: ''
+  - song_name: ウィークエンド
+    song_alias:
+    esong_code: 3119A34
+    t_singer_master_id: '2524'
+    singer_name: 由紀 さおり
+    singer_alias:
+    available_date: '2013-10-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういくえんと
+    singer_name_ruby: ゆきさおり
+    song_variation:
+    - esong_code: 3119A34
+      song_name: ウィークエンド
       content_type: ''

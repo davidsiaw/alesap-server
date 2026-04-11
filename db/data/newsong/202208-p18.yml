@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1255
-  all_country_cnt: 1064
+  max_cnt: 1057
+  all_max_cnt: 1248
+  all_country_cnt: 1057
   song:
-  - song_name: Time Jackerz
-    song_alias:
-    esong_code: 4671A8
-    t_singer_master_id: '66890'
-    singer_name: OWV
-    singer_alias:
-    available_date: '2022-08-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: たいむしやつかす
-    singer_name_ruby: おうふ
-    song_variation:
-    - esong_code: 4671A8
-      song_name: Time Jackerz
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Time To Dive
-    song_alias:
-    esong_code: 4677A19
-    t_singer_master_id: '52163'
-    singer_name: SHE'S
-    singer_alias:
-    available_date: '2022-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいむとうたいふ
-    singer_name_ruby: しす
-    song_variation:
-    - esong_code: 4677A19
-      song_name: Time To Dive
-      content_type: ''
-  - song_name: タイムマシーンでYeah!
-    song_alias:
-    esong_code: 4667A40
-    t_singer_master_id: '67212'
-    singer_name: 櫻坂46
-    singer_alias:
-    available_date: '2022-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいむましんてい
-    singer_name_ruby: さくらさかふおていしつくす
-    song_variation:
-    - esong_code: 4667A40
-      song_name: タイムマシーンでYeah!
-      content_type: ''
   - song_name: Time Warp (v1.1)
     song_alias:
     esong_code: 4662B15
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4667B2
       song_name: チキチキバンバン
+      content_type: ''
+  - song_name: チキチキバンバン
+    song_alias:
+    esong_code: 4662B19
+    t_singer_master_id: '69561'
+    singer_name: QUEENDOM
+    singer_alias:
+    available_date: '2022-08-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: パリピ孔明<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ちきちきはんはん
+    singer_name_ruby: くいんたむ
+    song_variation:
+    - esong_code: 4662B19
+      song_name: チキチキバンバン
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: チキチキバンバン (Masayoshi Iimori DNQ BASS Remix)
+    song_alias:
+    esong_code: 4672A4
+    t_singer_master_id: '70095'
+    singer_name: JOLLY
+    singer_alias:
+    available_date: '2022-08-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちきちきはんはん
+    singer_name_ruby: しより
+    song_variation:
+    - esong_code: 4672A4
+      song_name: チキチキバンバン (Masayoshi Iimori DNQ BASS Remix)
+      content_type: ''
+  - song_name: チキンレース
+    song_alias:
+    esong_code: 4667B14
+    t_singer_master_id: '43426'
+    singer_name: Czecho No Republic
+    singer_alias:
+    available_date: '2022-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちきんれす
+    singer_name_ruby: ちえこのりはふりつく
+    song_variation:
+    - esong_code: 4667B14
+      song_name: チキンレース
       content_type: ''

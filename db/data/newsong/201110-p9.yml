@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
   - song_name: 父子の誓い
     song_alias:
@@ -400,23 +400,6 @@ result:
       content_type: ''
   - song_name: 風の乱
     song_alias:
-    esong_code: 1981A31
-    t_singer_master_id: '23832'
-    singer_name: 吉岡 知映
-    singer_alias:
-    available_date: '2011-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせのらん
-    singer_name_ruby: よしおかちえ
-    song_variation:
-    - esong_code: 1981A31
-      song_name: 風の乱
-      content_type: ''
-  - song_name: 風の乱
-    song_alias:
     esong_code: 2683A8
     t_singer_master_id: '43409'
     singer_name: 吉岡 千惠子
@@ -430,6 +413,23 @@ result:
     singer_name_ruby: よしおかちえこ
     song_variation:
     - esong_code: 2683A8
+      song_name: 風の乱
+      content_type: ''
+  - song_name: 風の乱
+    song_alias:
+    esong_code: 1981A31
+    t_singer_master_id: '23832'
+    singer_name: 吉岡 知映
+    singer_alias:
+    available_date: '2011-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせのらん
+    singer_name_ruby: よしおかちえ
+    song_variation:
+    - esong_code: 1981A31
       song_name: 風の乱
       content_type: ''
   - song_name: 風は名前を名乗らずに
@@ -451,23 +451,6 @@ result:
       content_type: ''
   - song_name: 風は吹いている
     song_alias:
-    esong_code: 2693B24
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2011-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせはふいている
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 2693B24
-      song_name: 風は吹いている
-      content_type: ''
-  - song_name: 風は吹いている
-    song_alias:
     esong_code: 2694A12
     t_singer_master_id: '25255'
     singer_name: AKB48
@@ -483,6 +466,23 @@ result:
     - esong_code: 2694A12
       song_name: 風は吹いている
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 風は吹いている
+    song_alias:
+    esong_code: 2693B24
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2011-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせはふいている
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 2693B24
+      song_name: 風は吹いている
+      content_type: ''
   - song_name: 風祝〜Kazahouri
     song_alias:
     esong_code: 2680B5

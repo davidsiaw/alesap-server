@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 902
-  all_max_cnt: 1197
-  all_country_cnt: 902
+  max_cnt: 897
+  all_max_cnt: 1191
+  all_country_cnt: 897
   song:
-  - song_name: Taste Of Honey feat.Co-Key&KM-MARKIT
-    song_alias:
-    esong_code: 1460B16
-    t_singer_master_id: '10597'
-    singer_name: ZEEBRA
-    singer_alias:
-    available_date: '2006-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていすとおふはに
-    singer_name_ruby: しふら
-    song_variation:
-    - esong_code: 1460B16
-      song_name: Taste Of Honey feat.Co-Key&KM-MARKIT
-      content_type: ''
-  - song_name: Day By Day
-    song_alias:
-    esong_code: 1448B24
-    t_singer_master_id: '15266'
-    singer_name: 光永 亮太
-    singer_alias:
-    available_date: '2006-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていはいてい
-    singer_name_ruby: みつなかりようた
-    song_variation:
-    - esong_code: 1448B24
-      song_name: Day By Day
-      content_type: ''
   - song_name: Deep Sky
     song_alias:
     esong_code: 1462A22
@@ -219,7 +185,7 @@ result:
     singer_alias:
     available_date: '2006-02-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦3 〜巴里は燃えているか〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: てんしのひとみ
@@ -247,23 +213,6 @@ result:
       content_type: ''
   - song_name: Together
     song_alias:
-    esong_code: 1454B3
-    t_singer_master_id: '10098'
-    singer_name: Crystal Kay
-    singer_alias:
-    available_date: '2006-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきやさ
-    singer_name_ruby: くりすたるけい
-    song_variation:
-    - esong_code: 1454B3
-      song_name: Together
-      content_type: ''
-  - song_name: Together
-    song_alias:
     esong_code: 1457B20
     t_singer_master_id: '10098'
     singer_name: Crystal Kay
@@ -279,6 +228,23 @@ result:
     - esong_code: 1457B20
       song_name: Together
       content_type: DAM良音
+  - song_name: Together
+    song_alias:
+    esong_code: 1454B3
+    t_singer_master_id: '10098'
+    singer_name: Crystal Kay
+    singer_alias:
+    available_date: '2006-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきやさ
+    singer_name_ruby: くりすたるけい
+    song_variation:
+    - esong_code: 1454B3
+      song_name: Together
+      content_type: ''
   - song_name: 東京の夢
     song_alias:
     esong_code: 1461A45
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1459A22
       song_name: どーして!
+      content_type: ''
+  - song_name: とっかえっこ
+    song_alias:
+    esong_code: 1401A49
+    t_singer_master_id: '24636'
+    singer_name: Sausage Butterfly Pasta Festa
+    singer_alias:
+    available_date: '2006-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とつかえつこ
+    singer_name_ruby: そせしはたふらいはすたふえすた
+    song_variation:
+    - esong_code: 1401A49
+      song_name: とっかえっこ
+      content_type: ''
+  - song_name: 突然 炎のごとく
+    song_alias:
+    esong_code: 1111A43
+    t_singer_master_id: '2979'
+    singer_name: De+LAX(De-LAX)
+    singer_alias:
+    available_date: '2006-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とつせんほのおのこ
+    singer_name_ruby: てらつくす
+    song_variation:
+    - esong_code: 1111A43
+      song_name: 突然 炎のごとく
       content_type: ''

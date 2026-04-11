@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 392
-  all_max_cnt: 480
-  all_country_cnt: 392
+  max_cnt: 391
+  all_max_cnt: 479
+  all_country_cnt: 391
   song:
-  - song_name: PRESSURE
-    song_alias:
-    esong_code: 146B47
-    t_singer_master_id: '12157'
-    singer_name: SOBUT
-    singer_alias:
-    available_date: '2002-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれつしや
-    singer_name_ruby: そはつと
-    song_variation:
-    - esong_code: 146B47
-      song_name: PRESSURE
-      content_type: ''
   - song_name: Friend of mine
     song_alias:
     esong_code: 918B35
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 920A32
       song_name: まほろ DE まんぼー
+      content_type: ''
+  - song_name: マント
+    song_alias:
+    esong_code: 918A26
+    t_singer_master_id: '8782'
+    singer_name: aiko
+    singer_alias:
+    available_date: '2002-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まんと
+    singer_name_ruby: あいこ
+    song_variation:
+    - esong_code: 918A26
+      song_name: マント
       content_type: ''

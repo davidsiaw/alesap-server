@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
-  - song_name: Misunderstanding
-    song_alias:
-    esong_code: 865B25
-    t_singer_master_id: '7845'
-    singer_name: DA PUMP
-    singer_alias:
-    available_date: '2002-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすあんたすたん
-    singer_name_ruby: たはんふ
-    song_variation:
-    - esong_code: 865B25
-      song_name: Misunderstanding
-      content_type: ''
   - song_name: 水色
     song_alias:
     esong_code: 863B28
@@ -185,7 +168,7 @@ result:
     singer_alias:
     available_date: '2002-06-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦2 〜君、死にたもうことなかれ〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: みなみかせここ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 114A41
       song_name: 行方不明
+      content_type: ''
+  - song_name: united rivers
+    song_alias:
+    esong_code: 114A42
+    t_singer_master_id: '12751'
+    singer_name: KICK THE CAN CREW
+    singer_alias:
+    available_date: '2002-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆないていつとりは
+    singer_name_ruby: きつくさかんくる
+    song_variation:
+    - esong_code: 114A42
+      song_name: united rivers
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: クラクション
-    song_alias:
-    esong_code: 3918A3
-    t_singer_master_id: '38233'
-    singer_name: WHITE JAM
-    singer_alias:
-    available_date: '2017-12-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらくしよん
-    singer_name_ruby: ほわいとしやむ
-    song_variation:
-    - esong_code: 3918A3
-      song_name: クラクション
-      content_type: ''
   - song_name: Grand symphony
     song_alias:
     esong_code: 3917B12
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2221B43
       song_name: 恋月
+      content_type: ''
+  - song_name: 恋という贈り物
+    song_alias:
+    esong_code: 3916B11
+    t_singer_master_id: '60212'
+    singer_name: HoneyWorks meets 天月-あまつき-
+    singer_alias:
+    available_date: '2017-12-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: いつだって僕らの恋は10センチだった。<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいというおくりもの
+    singer_name_ruby: はにわくすみつあまつき
+    song_variation:
+    - esong_code: 3916B11
+      song_name: 恋という贈り物
       content_type: ''

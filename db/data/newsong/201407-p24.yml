@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
   - song_name: セツナイロ
     song_alias:
@@ -108,23 +108,6 @@ result:
     song_variation:
     - esong_code: 3282A4
       song_name: Seven Journey
-      content_type: ''
-  - song_name: 7TH DIRECTION
-    song_alias:
-    esong_code: 3285B30
-    t_singer_master_id: '51094'
-    singer_name: 皆川 純子 with 諏訪部 順一
-    singer_alias:
-    available_date: '2014-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 新テニスの王子様<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: せふんすていれく
-    singer_name_ruby: みなかわしゆんこういすす
-    song_variation:
-    - esong_code: 3285B30
-      song_name: 7TH DIRECTION
       content_type: ''
   - song_name: ZERO
     song_alias:
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3299A11
       song_name: それも人生
+      content_type: ''
+  - song_name: 存在証明書
+    song_alias:
+    esong_code: 3289A6
+    t_singer_master_id: '47484'
+    singer_name: GOOD ON THE REEL
+    singer_alias:
+    available_date: '2014-07-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そんさいしようめい
+    singer_name_ruby: くつとおんさりる
+    song_variation:
+    - esong_code: 3289A6
+      song_name: 存在証明書
       content_type: ''

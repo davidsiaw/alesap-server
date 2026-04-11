@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
+  - song_name: エヴリ
+    song_alias:
+    esong_code: 3573A31
+    t_singer_master_id: '44306'
+    singer_name: THURSDAY'S YOUTH(Suck a Stew Dry)
+    singer_alias:
+    available_date: '2015-12-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えふり
+    singer_name_ruby: さすていすゆす
+    song_variation:
+    - esong_code: 3573A31
+      song_name: エヴリ
+      content_type: ''
   - song_name: エヴリィBuddy!
     song_alias:
     esong_code: 3573B39
@@ -338,7 +355,7 @@ result:
     singer_alias:
     available_date: '2015-12-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 映画ちびまる子ちゃん イタリアから来た少年<番組名>
+    tie_up: ちびまる子ちゃん(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おい
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3568A1
       song_name: お七
-      content_type: ''
-  - song_name: おしろのパジャマパーティー (にほんごうた)
-    song_alias:
-    esong_code: 3575B40
-    t_singer_master_id: '55064'
-    singer_name: 杉山 あいり&キャスト
-    singer_alias:
-    available_date: '2015-12-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ちいさなプリンセス ソフィア<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おしろのはしやま
-    singer_name_ruby: すきやまあいりあんときやす
-    song_variation:
-    - esong_code: 3575B40
-      song_name: おしろのパジャマパーティー (にほんごうた)
       content_type: ''

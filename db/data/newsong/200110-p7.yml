@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 350
-  all_max_cnt: 382
-  all_country_cnt: 350
+  max_cnt: 346
+  all_max_cnt: 378
+  all_country_cnt: 346
   song:
-  - song_name: とらわれの貧しい心で
-    song_alias:
-    esong_code: 694B22
-    t_singer_master_id: '1801'
-    singer_name: 浜田 省吾
-    singer_alias:
-    available_date: '2001-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とらわれのますしい
-    singer_name_ruby: はまたしようこ
-    song_variation:
-    - esong_code: 694B22
-      song_name: とらわれの貧しい心で
-      content_type: ''
   - song_name: トランス・トラップ
     song_alias:
     esong_code: 696A35
@@ -211,23 +194,6 @@ result:
     - esong_code: 697B26
       song_name: なんか変だ!
       content_type: ''
-  - song_name: 虹のできる訳
-    song_alias:
-    esong_code: 690B37
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2001-10-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にしのてきるわけ
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 690B37
-      song_name: 虹のできる訳
-      content_type: ''
   - song_name: 22才
     song_alias:
     esong_code: 694B31
@@ -381,23 +347,6 @@ result:
     - esong_code: 33B22
       song_name: 野の仏
       content_type: ''
-  - song_name: 灰色の指先
-    song_alias:
-    esong_code: 690B38
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2001-10-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はいいろのゆひさき
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 690B38
-      song_name: 灰色の指先
-      content_type: ''
   - song_name: Bye Bye Little Love
     song_alias:
     esong_code: 690B39
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 697A33
       song_name: パーティーを始めよう
+      content_type: ''
+  - song_name: 花
+    song_alias:
+    esong_code: 696B29
+    t_singer_master_id: '13040'
+    singer_name: 樹原 涼子
+    singer_alias:
+    available_date: '2001-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 俺の屍を越えてゆけ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はな
+    singer_name_ruby: きはらりようこ
+    song_variation:
+    - esong_code: 696B29
+      song_name: 花
+      content_type: ''
+  - song_name: 花いちもんめ
+    song_alias:
+    esong_code: 219B12
+    t_singer_master_id: '1671'
+    singer_name: 長渕 剛
+    singer_alias:
+    available_date: '2001-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はないちもんめ
+    singer_name_ruby: なかふちつよし
+    song_variation:
+    - esong_code: 219B12
+      song_name: 花いちもんめ
+      content_type: ''
+  - song_name: 花のように
+    song_alias:
+    esong_code: 692B37
+    t_singer_master_id: '7646'
+    singer_name: 松 たか子
+    singer_alias:
+    available_date: '2001-10-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなのように
+    singer_name_ruby: まつたかこ
+    song_variation:
+    - esong_code: 692B37
+      song_name: 花のように
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1179
-  all_max_cnt: 1291
-  all_country_cnt: 1179
+  max_cnt: 1177
+  all_max_cnt: 1289
+  all_country_cnt: 1177
   song:
   - song_name: 男と女のラムジャムパーティ
     song_alias:
@@ -128,23 +128,6 @@ result:
       content_type: ''
   - song_name: おばこ吹雪
     song_alias:
-    esong_code: 2042B34
-    t_singer_master_id: '12457'
-    singer_name: 小桜 舞子(小櫻舞子)
-    singer_alias:
-    available_date: '2008-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おはこふふき
-    singer_name_ruby: こさくらまいこ
-    song_variation:
-    - esong_code: 2042B34
-      song_name: おばこ吹雪
-      content_type: DAM生音
-  - song_name: おばこ吹雪
-    song_alias:
     esong_code: 2037A40
     t_singer_master_id: '12457'
     singer_name: 小桜 舞子(小櫻舞子)
@@ -160,6 +143,23 @@ result:
     - esong_code: 2037A40
       song_name: おばこ吹雪
       content_type: ''
+  - song_name: おばこ吹雪
+    song_alias:
+    esong_code: 2042B34
+    t_singer_master_id: '12457'
+    singer_name: 小桜 舞子(小櫻舞子)
+    singer_alias:
+    available_date: '2008-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おはこふふき
+    singer_name_ruby: こさくらまいこ
+    song_variation:
+    - esong_code: 2042B34
+      song_name: おばこ吹雪
+      content_type: DAM生音
   - song_name: おはようおじさん
     song_alias:
     esong_code: 2045B10

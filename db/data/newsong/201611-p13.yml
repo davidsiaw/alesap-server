@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1576
-  all_max_cnt: 1796
-  all_country_cnt: 1576
+  max_cnt: 1565
+  all_max_cnt: 1785
+  all_country_cnt: 1565
   song:
-  - song_name: 君とワンピース
-    song_alias:
-    esong_code: 3710A8
-    t_singer_master_id: '12162'
-    singer_name: ケツメイシ
-    singer_alias:
-    available_date: '2016-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみとわんひす
-    singer_name_ruby: けつめいし
-    song_variation:
-    - esong_code: 3710A8
-      song_name: 君とワンピース
-      content_type: ''
-  - song_name: 君なら大丈夫
-    song_alias:
-    esong_code: 3247A19
-    t_singer_master_id: '57334'
-    singer_name: 伊東 和哉
-    singer_alias:
-    available_date: '2016-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみならたいしよ
-    singer_name_ruby: いとうかすや
-    song_variation:
-    - esong_code: 3247A19
-      song_name: 君なら大丈夫
-      content_type: ''
   - song_name: 君に贈る花がない
     song_alias:
     esong_code: 3718B22
@@ -247,23 +213,6 @@ result:
       content_type: ''
   - song_name: Q&A
     song_alias:
-    esong_code: 3717B46
-    t_singer_master_id: '28111'
-    singer_name: 秦 基博
-    singer_alias:
-    available_date: '2016-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: きゆあんとえ
-    singer_name_ruby: はたもとひろ
-    song_variation:
-    - esong_code: 3717B46
-      song_name: Q&A
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: Q&A
-    song_alias:
     esong_code: 3717B28
     t_singer_master_id: '28111'
     singer_name: 秦 基博
@@ -279,6 +228,23 @@ result:
     - esong_code: 3717B28
       song_name: Q&A
       content_type: DAMﾗｲﾌﾞ
+  - song_name: Q&A
+    song_alias:
+    esong_code: 3717B46
+    t_singer_master_id: '28111'
+    singer_name: 秦 基博
+    singer_alias:
+    available_date: '2016-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: きゆあんとえ
+    singer_name_ruby: はたもとひろ
+    song_variation:
+    - esong_code: 3717B46
+      song_name: Q&A
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 京都湯の花〜ひとり旅
     song_alias:
     esong_code: 3712B1
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3721B10
       song_name: 金木犀
+      content_type: ''
+  - song_name: 金曜日の天使
+    song_alias:
+    esong_code: 3710B22
+    t_singer_master_id: '44669'
+    singer_name: パスピエ
+    singer_alias:
+    available_date: '2016-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きんようひのてんし
+    singer_name_ruby: はすひえ
+    song_variation:
+    - esong_code: 3710B22
+      song_name: 金曜日の天使
+      content_type: ''
+  - song_name: 九十九島
+    song_alias:
+    esong_code: 3724B18
+    t_singer_master_id: '1311'
+    singer_name: 平 浩二
+    singer_alias:
+    available_date: '2016-11-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くしゆうくしま
+    singer_name_ruby: たいらこうし
+    song_variation:
+    - esong_code: 3724B18
+      song_name: 九十九島
       content_type: ''

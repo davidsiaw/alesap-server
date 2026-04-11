@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
-  - song_name: 深海
-    song_alias:
-    esong_code: 866B24
-    t_singer_master_id: '7756'
-    singer_name: Laputa
-    singer_alias:
-    available_date: '2002-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんかい
-    singer_name_ruby: らひゆた
-    song_variation:
-    - esong_code: 866B24
-      song_name: 深海
-      content_type: ''
   - song_name: Sincerely Yours
     song_alias:
     esong_code: 854B30
@@ -75,7 +58,7 @@ result:
     - esong_code: 860B36
       song_name: 人生は大車輪
       content_type: ''
-  - song_name: スウィート・タイフーン (杜けあき)
+  - song_name: スイート・タイフーン (杜けあき)
     song_alias:
     esong_code: 77B24
     t_singer_master_id: '1349'
@@ -86,11 +69,11 @@ result:
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: すういとたいふん
+    song_name_ruby: すいとたいふん
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 77B24
-      song_name: スウィート・タイフーン (杜けあき)
+      song_name: スイート・タイフーン (杜けあき)
       content_type: ''
   - song_name: すき・すき・きらい・きらい・きらい・すき。
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 848B28
       song_name: 空耳ケーキ
+      content_type: ''
+  - song_name: Soleil
+    song_alias:
+    esong_code: 864B39
+    t_singer_master_id: '10038'
+    singer_name: GACKT(Gackt)
+    singer_alias:
+    available_date: '2002-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: それいる
+    singer_name_ruby: かくと
+    song_variation:
+    - esong_code: 864B39
+      song_name: Soleil
       content_type: ''

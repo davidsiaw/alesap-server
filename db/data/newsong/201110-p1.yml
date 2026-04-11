@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: 愛をくらえ
-    song_alias:
-    esong_code: 2679A45
-    t_singer_master_id: '29531'
-    singer_name: Superfly
-    singer_alias:
-    available_date: '2011-10-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいをくらえ
-    singer_name_ruby: すはふらい
-    song_variation:
-    - esong_code: 2679A45
-      song_name: 愛をくらえ
-      content_type: ''
   - song_name: 愛をくらえ
     song_alias:
     esong_code: 2683A49
@@ -41,6 +24,23 @@ result:
     - esong_code: 2683A49
       song_name: 愛をくらえ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 愛をくらえ
+    song_alias:
+    esong_code: 2679A45
+    t_singer_master_id: '29531'
+    singer_name: Superfly
+    singer_alias:
+    available_date: '2011-10-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいをくらえ
+    singer_name_ruby: すはふらい
+    song_variation:
+    - esong_code: 2679A45
+      song_name: 愛をくらえ
+      content_type: ''
   - song_name: 愛を食べて生きてよ
     song_alias:
     esong_code: 2688A18
@@ -228,23 +228,6 @@ result:
     - esong_code: 2691B15
       song_name: 暁前夜
       content_type: ''
-  - song_name: 秋色のアリア 〜version de l'apprivoiser
-    song_alias:
-    esong_code: 2686A36
-    t_singer_master_id: '16097'
-    singer_name: 小清水 亜美
-    singer_alias:
-    available_date: '2011-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: STAR DRIVER 輝きのタクト<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あきいろのありあ
-    singer_name_ruby: こしみすあみ
-    song_variation:
-    - esong_code: 2686A36
-      song_name: 秋色のアリア 〜version de l'apprivoiser
-      content_type: ''
   - song_name: 秋色のアリア
     song_alias:
     esong_code: 2686A35
@@ -261,6 +244,23 @@ result:
     song_variation:
     - esong_code: 2686A35
       song_name: 秋色のアリア
+      content_type: ''
+  - song_name: 秋色のアリア 〜version de l'apprivoiser
+    song_alias:
+    esong_code: 2686A36
+    t_singer_master_id: '16097'
+    singer_name: 小清水 亜美
+    singer_alias:
+    available_date: '2011-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: STAR DRIVER 輝きのタクト<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あきいろのありあ
+    singer_name_ruby: こしみすあみ
+    song_variation:
+    - esong_code: 2686A36
+      song_name: 秋色のアリア 〜version de l'apprivoiser
       content_type: ''
   - song_name: 秋麗
     song_alias:

@@ -3,10 +3,112 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1009
-  all_max_cnt: 1155
-  all_country_cnt: 1009
+  max_cnt: 1123
+  all_max_cnt: 1292
+  all_country_cnt: 1123
   song:
+  - song_name: あのね、ぼくね。
+    song_alias:
+    esong_code: 5111B43
+    t_singer_master_id: '66117'
+    singer_name: 樋口 楓(from にじさんじ)
+    singer_alias:
+    available_date: '2025-02-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あのねほくね
+    singer_name_ruby: ひくちかえてにしさんし
+    song_variation:
+    - esong_code: 5111B43
+      song_name: あのね、ぼくね。
+      content_type: ''
+  - song_name: あの街でもう一度
+    song_alias:
+    esong_code: 5110B17
+    t_singer_master_id: '59401'
+    singer_name: 峯 ゆかり
+    singer_alias:
+    available_date: '2025-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あのまちてもういち
+    singer_name_ruby: みねゆかり
+    song_variation:
+    - esong_code: 5110B17
+      song_name: あの街でもう一度
+      content_type: ''
+  - song_name: 暴れ獅子
+    song_alias:
+    esong_code: 5124B22
+    t_singer_master_id: '22183'
+    singer_name: 鴻巣 巧一
+    singer_alias:
+    available_date: '2025-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あはれしし
+    singer_name_ruby: こうのすこういち
+    song_variation:
+    - esong_code: 5124B22
+      song_name: 暴れ獅子
+      content_type: ''
+  - song_name: アビス (feat.Such)
+    song_alias:
+    esong_code: 5124A23
+    t_singer_master_id: '68716'
+    singer_name: necchi
+    singer_alias:
+    available_date: '2025-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あひす
+    singer_name_ruby: ねつち
+    song_variation:
+    - esong_code: 5124A23
+      song_name: アビス (feat.Such)
+      content_type: ''
+  - song_name: A PIECE OF CAKE
+    song_alias:
+    esong_code: 5110B27
+    t_singer_master_id: '65691'
+    singer_name: Snow Man
+    singer_alias:
+    available_date: '2025-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あひすおふけい
+    singer_name_ruby: すのまん
+    song_variation:
+    - esong_code: 5110B27
+      song_name: A PIECE OF CAKE
+      content_type: ''
+  - song_name: 天色
+    song_alias:
+    esong_code: 5110B21
+    t_singer_master_id: '73470'
+    singer_name: 青木 陽菜
+    singer_alias:
+    available_date: '2025-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: カードファイト!! ヴァンガード(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あまいろ
+    singer_name_ruby: あおきひな
+    song_variation:
+    - esong_code: 5110B21
+      song_name: 天色
+      content_type: ''
   - song_name: あまキュン
     song_alias:
     esong_code: 5129A24
@@ -62,7 +164,7 @@ result:
     song_alias:
     esong_code: 5129A13
     t_singer_master_id: '75441'
-    singer_name: 浅葱
+    singer_name: ASAGI(浅葱)
     singer_alias:
     available_date: '2025-02-25'
     end_date: '2999-04-10 00:00:00'
@@ -92,23 +194,6 @@ result:
     - esong_code: 5122A44
       song_name: 雨上がり、キミと
       content_type: ''
-  - song_name: 飴と鞭
-    song_alias:
-    esong_code: 5120A48
-    t_singer_master_id: '56192'
-    singer_name: MOSHIMO
-    singer_alias:
-    available_date: '2025-02-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 闇芝居<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめとむち
-    singer_name_ruby: もしも
-    song_variation:
-    - esong_code: 5120A48
-      song_name: 飴と鞭
-      content_type: ''
   - song_name: 雨のノック
     song_alias:
     esong_code: 5120A6
@@ -125,6 +210,23 @@ result:
     song_variation:
     - esong_code: 5120A6
       song_name: 雨のノック
+      content_type: ''
+  - song_name: 雨の漫湖ブルース
+    song_alias:
+    esong_code: 5121B27
+    t_singer_master_id: '57048'
+    singer_name: 中里 亜美
+    singer_alias:
+    available_date: '2025-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめのまんこふる
+    singer_name_ruby: なかさとあみ
+    song_variation:
+    - esong_code: 5121B27
+      song_name: 雨の漫湖ブルース
       content_type: ''
   - song_name: 雨一夜
     song_alias:
@@ -211,23 +313,6 @@ result:
     - esong_code: 5124A14
       song_name: ありがとう
       content_type: ''
-  - song_name: ありがとうとごめんなさい
-    song_alias:
-    esong_code: 5115B32
-    t_singer_master_id: '70793'
-    singer_name: 竹下☆ぱらだいす
-    singer_alias:
-    available_date: '2025-02-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ありかとうとこめ
-    singer_name_ruby: たけしたはらたいす
-    song_variation:
-    - esong_code: 5115B32
-      song_name: ありがとうとごめんなさい
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: ありがと、大好きになってくれて
     song_alias:
     esong_code: 5111A9
@@ -262,6 +347,23 @@ result:
     - esong_code: 5116A11
       song_name: ある男
       content_type: VOCALOID
+  - song_name: アルコール
+    song_alias:
+    esong_code: 5121B43
+    t_singer_master_id: '73939'
+    singer_name: Lavt
+    singer_alias:
+    available_date: '2025-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あるこる
+    singer_name_ruby: らうと
+    song_variation:
+    - esong_code: 5121B43
+      song_name: アルコール
+      content_type: ''
   - song_name: アロエ
     song_alias:
     esong_code: 5111A10
@@ -415,105 +517,3 @@ result:
     - esong_code: 5124A13
       song_name: アンハッピージャム
       content_type: ''
-  - song_name: イイね [歌ってみた利用OK]
-    song_alias:
-    esong_code: 5113A20
-    t_singer_master_id: '33453'
-    singer_name: ゴールデンボンバー
-    singer_alias:
-    available_date: '2025-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: 歌ってみた利用OK
-    song_name_ruby: いいね
-    singer_name_ruby: こるてんほんは
-    song_variation:
-    - esong_code: 5113A20
-      song_name: イイね [歌ってみた利用OK]
-      content_type: 歌ってみた利用OK
-  - song_name: イエナイ
-    song_alias:
-    esong_code: 5128B24
-    t_singer_master_id: '73257'
-    singer_name: Soala
-    singer_alias:
-    available_date: '2025-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: いえない
-    singer_name_ruby: そあら
-    song_variation:
-    - esong_code: 5128B24
-      song_name: イエナイ
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: イェルプ
-    song_alias:
-    esong_code: 5122A41
-    t_singer_master_id: '69784'
-    singer_name: エイハブ
-    singer_alias:
-    available_date: '2025-02-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: いえるふ
-    singer_name_ruby: えいはふ
-    song_variation:
-    - esong_code: 5122A41
-      song_name: イェルプ
-      content_type: VOCALOID
-  - song_name: イカサマホリック
-    song_alias:
-    esong_code: 5116A33
-    t_singer_master_id: '70473'
-    singer_name: DYES IWASAKI
-    singer_alias:
-    available_date: '2025-02-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: いかさまほりつく
-    singer_name_ruby: たいすいわさき
-    song_variation:
-    - esong_code: 5116A33
-      song_name: イカサマホリック
-      content_type: VOCALOID
-  - song_name: 行かないで
-    song_alias:
-    esong_code: 5129B38
-    t_singer_master_id: '67212'
-    singer_name: 櫻坂46
-    singer_alias:
-    available_date: '2025-02-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いかないて
-    singer_name_ruby: さくらさかふおていしつくす
-    song_variation:
-    - esong_code: 5129B38
-      song_name: 行かないで
-      content_type: ''
-  - song_name: 生きてる理由がわからない
-    song_alias:
-    esong_code: 5122A40
-    t_singer_master_id: '75876'
-    singer_name: 神様うさぎ
-    singer_alias:
-    available_date: '2025-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: いきてるりゆうかわ
-    singer_name_ruby: かみさまうさき
-    song_variation:
-    - esong_code: 5122A40
-      song_name: 生きてる理由がわからない
-      content_type: VOCALOID

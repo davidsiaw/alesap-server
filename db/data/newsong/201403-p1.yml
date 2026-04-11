@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
   - song_name: I LOVE IT (feat.ZION.T&BOYS NOIZE)
     song_alias:
@@ -451,23 +451,6 @@ result:
       content_type: ''
   - song_name: 明日も
     song_alias:
-    esong_code: 3215B14
-    t_singer_master_id: '49304'
-    singer_name: MUSH&Co.
-    singer_alias:
-    available_date: '2014-03-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: あしたも
-    singer_name_ruby: まつしゆあんとこ
-    song_variation:
-    - esong_code: 3215B14
-      song_name: 明日も
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 明日も
-    song_alias:
     esong_code: 3197B14
     t_singer_master_id: '49304'
     singer_name: MUSH&Co.
@@ -483,6 +466,23 @@ result:
     - esong_code: 3197B14
       song_name: 明日も
       content_type: DAM生音
+  - song_name: 明日も
+    song_alias:
+    esong_code: 3215B14
+    t_singer_master_id: '49304'
+    singer_name: MUSH&Co.
+    singer_alias:
+    available_date: '2014-03-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あしたも
+    singer_name_ruby: まつしゆあんとこ
+    song_variation:
+    - esong_code: 3215B14
+      song_name: 明日も
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: ASTRAEA
     song_alias:
     esong_code: 3216A34
@@ -502,7 +502,7 @@ result:
       content_type: ''
   - song_name: 明日の夫婦酒
     song_alias:
-    esong_code: 3048B32
+    esong_code: 3209B48
     t_singer_master_id: '50090'
     singer_name: 吉 幾三&香西 かおり
     singer_alias:
@@ -510,10 +510,10 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: あすのめおとさけ
     singer_name_ruby: よしいくそうこうさい
     song_variation:
-    - esong_code: 3048B32
+    - esong_code: 3209B48
       song_name: 明日の夫婦酒
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
   - song_name: あゝ北国
     song_alias:
@@ -92,23 +92,6 @@ result:
     - esong_code: 3918B47
       song_name: I can't say NO!!!!!!!
       content_type: ''
-  - song_name: 哀秋
-    song_alias:
-    esong_code: 2223A12
-    t_singer_master_id: '38439'
-    singer_name: 珊瑚 宣俊
-    singer_alias:
-    available_date: '2017-12-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいしゆう
-    singer_name_ruby: さんこのふとし
-    song_variation:
-    - esong_code: 2223A12
-      song_name: 哀秋
-      content_type: ''
   - song_name: 哀愁
     song_alias:
     esong_code: 2054B35
@@ -126,6 +109,23 @@ result:
     - esong_code: 2054B35
       song_name: 哀愁
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 哀秋
+    song_alias:
+    esong_code: 2223A12
+    t_singer_master_id: '38439'
+    singer_name: 珊瑚 宣俊
+    singer_alias:
+    available_date: '2017-12-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいしゆう
+    singer_name_ruby: さんこのふとし
+    song_variation:
+    - esong_code: 2223A12
+      song_name: 哀秋
+      content_type: ''
   - song_name: アイスクリームになりたいの
     song_alias:
     esong_code: 3791A20
@@ -142,23 +142,6 @@ result:
     song_variation:
     - esong_code: 3791A20
       song_name: アイスクリームになりたいの
-      content_type: ''
-  - song_name: 逢いたいよ
-    song_alias:
-    esong_code: 2143B26
-    t_singer_master_id: '306'
-    singer_name: 梅沢 富美男
-    singer_alias:
-    available_date: '2017-12-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいたいよ
-    singer_name_ruby: うめさわとみお
-    song_variation:
-    - esong_code: 2143B26
-      song_name: 逢いたいよ
       content_type: ''
   - song_name: ID
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2221B10
       song_name: 赤いランプの終列車
+      content_type: ''
+  - song_name: 証
+    song_alias:
+    esong_code: 3919A31
+    t_singer_master_id: '60250'
+    singer_name: 木村 良平&濱 健人
+    singer_alias:
+    available_date: '2017-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 活撃 刀剣乱舞<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかし
+    singer_name_ruby: きむらりようへいはまけんと
+    song_variation:
+    - esong_code: 3919A31
+      song_name: 証
       content_type: ''

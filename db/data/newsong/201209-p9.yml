@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1398
-  all_max_cnt: 1888
-  all_country_cnt: 1398
+  max_cnt: 1393
+  all_max_cnt: 1884
+  all_country_cnt: 1393
   song:
-  - song_name: 女の幸福
-    song_alias:
-    esong_code: 2878A22
-    t_singer_master_id: '30167'
-    singer_name: 名取 市郎
-    singer_alias:
-    available_date: '2012-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのしあわせ
-    singer_name_ruby: なとりしろう
-    song_variation:
-    - esong_code: 2878A22
-      song_name: 女の幸福
-      content_type: ''
-  - song_name: おんなの波止場
-    song_alias:
-    esong_code: 2851A47
-    t_singer_master_id: '1107'
-    singer_name: 神野 美伽
-    singer_alias:
-    available_date: '2012-09-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おんなのはとは
-    singer_name_ruby: しんのみか
-    song_variation:
-    - esong_code: 2851A47
-      song_name: おんなの波止場
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 女のひとりごと
     song_alias:
     esong_code: 2850A33
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2847B16
       song_name: 風の唄
+      content_type: ''
+  - song_name: 風の境界線
+    song_alias:
+    esong_code: 2857A1
+    t_singer_master_id: '44767'
+    singer_name: Hitomi
+    singer_alias:
+    available_date: '2012-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: LAST EXILE 〜銀翼のファム〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせのきようかいせ
+    singer_name_ruby: ひとみ
+    song_variation:
+    - esong_code: 2857A1
+      song_name: 風の境界線
+      content_type: ''
+  - song_name: 片瀬川
+    song_alias:
+    esong_code: 2843B29
+    t_singer_master_id: '35029'
+    singer_name: こおり 健太
+    singer_alias:
+    available_date: '2012-09-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かたせかわ
+    singer_name_ruby: こおりけんた
+    song_variation:
+    - esong_code: 2843B29
+      song_name: 片瀬川
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 877
-  all_max_cnt: 973
-  all_country_cnt: 877
+  max_cnt: 874
+  all_max_cnt: 970
+  all_country_cnt: 874
   song:
   - song_name: あゝあじさいの花
     song_alias:
@@ -77,23 +77,6 @@ result:
       content_type: ''
   - song_name: 愛してるって言えなくたって
     song_alias:
-    esong_code: 1744B49
-    t_singer_master_id: '2482'
-    singer_name: 山下 達郎
-    singer_alias:
-    available_date: '2011-03-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいしてるつていえな
-    singer_name_ruby: やましたたつろう
-    song_variation:
-    - esong_code: 1744B49
-      song_name: 愛してるって言えなくたって
-      content_type: ''
-  - song_name: 愛してるって言えなくたって
-    song_alias:
     esong_code: 1594A18
     t_singer_master_id: '2482'
     singer_name: 山下 達郎
@@ -109,6 +92,23 @@ result:
     - esong_code: 1594A18
       song_name: 愛してるって言えなくたって
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 愛してるって言えなくたって
+    song_alias:
+    esong_code: 1744B49
+    t_singer_master_id: '2482'
+    singer_name: 山下 達郎
+    singer_alias:
+    available_date: '2011-03-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいしてるつていえな
+    singer_name_ruby: やましたたつろう
+    song_variation:
+    - esong_code: 1744B49
+      song_name: 愛してるって言えなくたって
+      content_type: ''
   - song_name: 逢いたい・・・
     song_alias:
     esong_code: 1708B12

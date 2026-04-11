@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 577
-  all_max_cnt: 650
-  all_country_cnt: 577
+  max_cnt: 574
+  all_max_cnt: 647
+  all_country_cnt: 574
   song:
   - song_name: iNTERFACE
     song_alias:
@@ -281,23 +281,6 @@ result:
       content_type: ''
   - song_name: Any
     song_alias:
-    esong_code: 874B26
-    t_singer_master_id: '2287'
-    singer_name: Mr.Children
-    singer_alias:
-    available_date: '2002-07-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えに
-    singer_name_ruby: みすたちるとれん
-    song_variation:
-    - esong_code: 874B26
-      song_name: Any
-      content_type: ''
-  - song_name: Any
-    song_alias:
     esong_code: 120A49
     t_singer_master_id: '2287'
     singer_name: Mr.Children
@@ -313,6 +296,23 @@ result:
     - esong_code: 120A49
       song_name: Any
       content_type: DAM良音
+  - song_name: Any
+    song_alias:
+    esong_code: 874B26
+    t_singer_master_id: '2287'
+    singer_name: Mr.Children
+    singer_alias:
+    available_date: '2002-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えに
+    singer_name_ruby: みすたちるとれん
+    song_variation:
+    - esong_code: 874B26
+      song_name: Any
+      content_type: ''
   - song_name: Everybody Join Us (in The Party)
     song_alias:
     esong_code: 530B13
@@ -355,7 +355,7 @@ result:
     singer_alias:
     available_date: '2002-07-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: アイドル・プロジェクト 第2期<番組名>
+    tie_up: アイドル・プロジェクト<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えんしえるきす

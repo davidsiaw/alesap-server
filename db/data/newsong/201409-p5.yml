@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1549
-  all_max_cnt: 1789
-  all_country_cnt: 1549
+  max_cnt: 1543
+  all_max_cnt: 1783
+  all_country_cnt: 1543
   song:
-  - song_name: いつも笑ってちょっぴり泣いて。
-    song_alias:
-    esong_code: 3320B40
-    t_singer_master_id: '2651'
-    singer_name: 渡辺 美里
-    singer_alias:
-    available_date: '2014-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつもわらつてちよつ
-    singer_name_ruby: わたなへみさと
-    song_variation:
-    - esong_code: 3320B40
-      song_name: いつも笑ってちょっぴり泣いて。
-      content_type: ''
   - song_name: いつわりの部屋
     song_alias:
     esong_code: 3324A18
@@ -302,7 +285,7 @@ result:
     t_singer_master_id: '939'
     singer_name: 佐々木 新一
     singer_alias:
-    available_date: '2014-09-23'
+    available_date: '2014-09-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -485,23 +468,6 @@ result:
       content_type: 東方
   - song_name: ウィークエンダー
     song_alias:
-    esong_code: 3316A12
-    t_singer_master_id: '31487'
-    singer_name: Hey!Say!JUMP
-    singer_alias:
-    available_date: '2014-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういくえんた
-    singer_name_ruby: へいせいしやんふ
-    song_variation:
-    - esong_code: 3316A12
-      song_name: ウィークエンダー
-      content_type: ''
-  - song_name: ウィークエンダー
-    song_alias:
     esong_code: 3325B32
     t_singer_master_id: '31487'
     singer_name: Hey!Say!JUMP
@@ -517,3 +483,37 @@ result:
     - esong_code: 3325B32
       song_name: ウィークエンダー
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ウィークエンダー
+    song_alias:
+    esong_code: 3316A12
+    t_singer_master_id: '31487'
+    singer_name: Hey!Say!JUMP
+    singer_alias:
+    available_date: '2014-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういくえんた
+    singer_name_ruby: へいせいしやんふ
+    song_variation:
+    - esong_code: 3316A12
+      song_name: ウィークエンダー
+      content_type: ''
+  - song_name: WINNER
+    song_alias:
+    esong_code: 3331A46
+    t_singer_master_id: '46099'
+    singer_name: Gacharic Spin
+    singer_alias:
+    available_date: '2014-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういな
+    singer_name_ruby: かちやりつくすひん
+    song_variation:
+    - esong_code: 3331A46
+      song_name: WINNER
+      content_type: ''

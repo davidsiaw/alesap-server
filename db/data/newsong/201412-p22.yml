@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
+  - song_name: 銃爽
+    song_alias:
+    esong_code: 3368A16
+    t_singer_master_id: '52208'
+    singer_name: キネマ106
+    singer_alias:
+    available_date: '2014-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 艦隊これくしょん〜艦これ〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆうそう
+    singer_name_ruby: きねまとむ
+    song_variation:
+    - esong_code: 3368A16
+      song_name: 銃爽
+      content_type: ''
   - song_name: 自由な鳥 〜アライヴンのテーマ〜
     song_alias:
     esong_code: 3367B20
@@ -298,23 +315,6 @@ result:
       content_type: ''
   - song_name: じょんから姉妹
     song_alias:
-    esong_code: 2184A37
-    t_singer_master_id: '43723'
-    singer_name: なでしこ姉妹(永井裕子&井上由美子)
-    singer_alias:
-    available_date: '2014-12-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよんからしまい
-    singer_name_ruby: なてしこしまい
-    song_variation:
-    - esong_code: 2184A37
-      song_name: じょんから姉妹
-      content_type: ''
-  - song_name: じょんから姉妹
-    song_alias:
     esong_code: 3154B31
     t_singer_master_id: '43723'
     singer_name: なでしこ姉妹(永井裕子&井上由美子)
@@ -330,6 +330,23 @@ result:
     - esong_code: 3154B31
       song_name: じょんから姉妹
       content_type: DAM生音
+  - song_name: じょんから姉妹
+    song_alias:
+    esong_code: 2184A36
+    t_singer_master_id: '43723'
+    singer_name: なでしこ姉妹(永井裕子&井上由美子)
+    singer_alias:
+    available_date: '2014-12-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: しよんからしまい
+    singer_name_ruby: なてしこしまい
+    song_variation:
+    - esong_code: 2184A36
+      song_name: じょんから姉妹
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: じょんから姉妹
     song_alias:
     esong_code: 3057B5
@@ -349,7 +366,7 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: じょんから姉妹
     song_alias:
-    esong_code: 2184A36
+    esong_code: 2184A37
     t_singer_master_id: '43723'
     singer_name: なでしこ姉妹(永井裕子&井上由美子)
     singer_alias:
@@ -357,13 +374,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: しよんからしまい
     singer_name_ruby: なてしこしまい
     song_variation:
-    - esong_code: 2184A36
+    - esong_code: 2184A37
       song_name: じょんから姉妹
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: 知らないの (ネリーブライ)
     song_alias:
     esong_code: 1176A20
@@ -500,20 +517,3 @@ result:
     - esong_code: 3367A15
       song_name: 白い雪
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 白く巨大で
-    song_alias:
-    esong_code: 3374B30
-    t_singer_master_id: '33513'
-    singer_name: 核P-MODEL
-    singer_alias:
-    available_date: '2014-12-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しろくきよたいて
-    singer_name_ruby: かくひもてる
-    song_variation:
-    - esong_code: 3374B30
-      song_name: 白く巨大で
-      content_type: ''

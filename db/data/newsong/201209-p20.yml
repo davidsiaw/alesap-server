@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1398
-  all_max_cnt: 1888
-  all_country_cnt: 1398
+  max_cnt: 1393
+  all_max_cnt: 1884
+  all_country_cnt: 1393
   song:
-  - song_name: 呪文はプリ☆まじ
-    song_alias:
-    esong_code: 2853B28
-    t_singer_master_id: '27939'
-    singer_name: 榊原 ゆい
-    singer_alias:
-    available_date: '2012-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: プリズム☆ま〜じカル 〜PRISM Generations!〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆもんはふりま
-    singer_name_ruby: さかきはらゆい
-    song_variation:
-    - esong_code: 2853B28
-      song_name: 呪文はプリ☆まじ
-      content_type: ''
-  - song_name: 純
-    song_alias:
-    esong_code: 2856B29
-    t_singer_master_id: '14527'
-    singer_name: 今井 翼(from タッキー&翼)
-    singer_alias:
-    available_date: '2012-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆん
-    singer_name_ruby: いまいつはさ
-    song_variation:
-    - esong_code: 2856B29
-      song_name: 純
-      content_type: ''
-  - song_name: 純愛レンズ
-    song_alias:
-    esong_code: 2888B21
-    t_singer_master_id: '45906'
-    singer_name: 楠田 亜衣奈
-    singer_alias:
-    available_date: '2012-09-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ラブライブ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆんあいれんす
-    singer_name_ruby: くすたあいな
-    song_variation:
-    - esong_code: 2888B21
-      song_name: 純愛レンズ
-      content_type: ''
   - song_name: 瞬間
     song_alias:
     esong_code: 2849B45
@@ -298,23 +247,6 @@ result:
       content_type: ''
   - song_name: 白川郷
     song_alias:
-    esong_code: 2851A35
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2012-09-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: しらかわこう
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 2851A35
-      song_name: 白川郷
-      content_type: DAM生音
-  - song_name: 白川郷
-    song_alias:
     esong_code: 2851B9
     t_singer_master_id: '6510'
     singer_name: 水森 かおり
@@ -330,6 +262,23 @@ result:
     - esong_code: 2851B9
       song_name: 白川郷
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 白川郷
+    song_alias:
+    esong_code: 2851A35
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2012-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: しらかわこう
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 2851A35
+      song_name: 白川郷
+      content_type: DAM生音
   - song_name: シルバーバレット feat.GUMI
     song_alias:
     esong_code: 2852B26
@@ -517,3 +466,54 @@ result:
     - esong_code: 2851A20
       song_name: 人生はふたりの舞台
       content_type: DAM生音
+  - song_name: 人生ふたり咲き
+    song_alias:
+    esong_code: 2878B46
+    t_singer_master_id: '414'
+    singer_name: 岡 ゆう子
+    singer_alias:
+    available_date: '2012-09-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: しんせいふたりさ
+    singer_name_ruby: おかゆうこ
+    song_variation:
+    - esong_code: 2878B46
+      song_name: 人生ふたり咲き
+      content_type: JOY生演奏
+  - song_name: 新田川音頭
+    song_alias:
+    esong_code: 2855A35
+    t_singer_master_id: '6539'
+    singer_name: 藤 かおり
+    singer_alias:
+    available_date: '2012-09-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんたかわおんと
+    singer_name_ruby: ふしかおり
+    song_variation:
+    - esong_code: 2855A35
+      song_name: 新田川音頭
+      content_type: ''
+  - song_name: 人畜無害 feat.初音ミク
+    song_alias:
+    esong_code: 2845A30
+    t_singer_master_id: '42722'
+    singer_name: さつき が てんこもり
+    singer_alias:
+    available_date: '2012-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: しんちくむかい
+    singer_name_ruby: さつきかてんこもり
+    song_variation:
+    - esong_code: 2845A30
+      song_name: 人畜無害 feat.初音ミク
+      content_type: VOCALOID

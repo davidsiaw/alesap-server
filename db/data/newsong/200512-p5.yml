@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 967
-  all_max_cnt: 1006
-  all_country_cnt: 967
+  max_cnt: 962
+  all_max_cnt: 1001
+  all_country_cnt: 962
   song:
-  - song_name: エルの絵本 (笛吹き男とパレード)
-    song_alias:
-    esong_code: 1412B11
-    t_singer_master_id: '23665'
-    singer_name: Sound Horizon
-    singer_alias:
-    available_date: '2005-12-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えるのえほん
-    singer_name_ruby: さうんとほらいす
-    song_variation:
-    - esong_code: 1412B11
-      song_name: エルの絵本 (笛吹き男とパレード)
-      content_type: ''
-  - song_name: エルの肖像
-    song_alias:
-    esong_code: 1412B15
-    t_singer_master_id: '23665'
-    singer_name: Sound Horizon
-    singer_alias:
-    available_date: '2005-12-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えるのしようそう
-    singer_name_ruby: さうんとほらいす
-    song_variation:
-    - esong_code: 1412B15
-      song_name: エルの肖像
-      content_type: ''
   - song_name: エルの天秤
     song_alias:
     esong_code: 1387A36
@@ -434,23 +400,6 @@ result:
       content_type: ''
   - song_name: 父子じゃないか・・・
     song_alias:
-    esong_code: 1415B22
-    t_singer_master_id: '2536'
-    singer_name: 吉 幾三
-    singer_alias:
-    available_date: '2005-12-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おやこしやないか
-    singer_name_ruby: よしいくそう
-    song_variation:
-    - esong_code: 1415B22
-      song_name: 父子じゃないか・・・
-      content_type: ''
-  - song_name: 父子じゃないか・・・
-    song_alias:
     esong_code: 1415B47
     t_singer_master_id: '2536'
     singer_name: 吉 幾三
@@ -466,6 +415,23 @@ result:
     - esong_code: 1415B47
       song_name: 父子じゃないか・・・
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 父子じゃないか・・・
+    song_alias:
+    esong_code: 1415B22
+    t_singer_master_id: '2536'
+    singer_name: 吉 幾三
+    singer_alias:
+    available_date: '2005-12-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやこしやないか
+    singer_name_ruby: よしいくそう
+    song_variation:
+    - esong_code: 1415B22
+      song_name: 父子じゃないか・・・
+      content_type: ''
   - song_name: おやすみ
     song_alias:
     esong_code: 1110B31
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1412B19
       song_name: 檻の中の花
+      content_type: ''
+  - song_name: almost in love
+    song_alias:
+    esong_code: 1414B21
+    t_singer_master_id: '12321'
+    singer_name: CHEMISTRY
+    singer_alias:
+    available_date: '2005-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: おるもすといんらふ
+    singer_name_ruby: けみすとり
+    song_variation:
+    - esong_code: 1414B21
+      song_name: almost in love
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 俺たちの朝
+    song_alias:
+    esong_code: 802B17
+    t_singer_master_id: '2208'
+    singer_name: 松崎 しげる
+    singer_alias:
+    available_date: '2005-12-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれたちのあさ
+    singer_name_ruby: まつさきしける
+    song_variation:
+    - esong_code: 802B17
+      song_name: 俺たちの朝
       content_type: ''

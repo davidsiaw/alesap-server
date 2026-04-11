@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 888
-  all_max_cnt: 934
-  all_country_cnt: 888
+  max_cnt: 881
+  all_max_cnt: 927
+  all_country_cnt: 881
   song:
-  - song_name: 親父
-    song_alias:
-    esong_code: 4542B49
-    t_singer_master_id: '45258'
-    singer_name: 阿修羅
-    singer_alias:
-    available_date: '2021-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おやし
-    singer_name_ruby: あしゆら
-    song_variation:
-    - esong_code: 4542B49
-      song_name: 親父
-      content_type: ''
   - song_name: 親不孝
     song_alias:
     esong_code: 4548B1
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4549B41
       song_name: 鐘が鳴る
+      content_type: ''
+  - song_name: カフェイン
+    song_alias:
+    esong_code: 4544B11
+    t_singer_master_id: '68420'
+    singer_name: オオカワ セイヤ
+    singer_alias:
+    available_date: '2021-09-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かふえいん
+    singer_name_ruby: おおかわせいや
+    song_variation:
+    - esong_code: 4544B11
+      song_name: カフェイン
       content_type: ''

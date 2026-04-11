@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 809
-  all_max_cnt: 933
-  all_country_cnt: 809
+  max_cnt: 808
+  all_max_cnt: 932
+  all_country_cnt: 808
   song:
-  - song_name: やさい王国
-    song_alias:
-    esong_code: 1394B16
-    t_singer_master_id: '24535'
-    singer_name: unit MY
-    singer_alias:
-    available_date: '2005-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やさいおうこく
-    singer_name_ruby: ゆにつとまい
-    song_variation:
-    - esong_code: 1394B16
-      song_name: やさい王国
-      content_type: ''
   - song_name: 優しい硝酷
     song_alias:
     esong_code: 1384B41
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1384A11
       song_name: 夜明け生まれ来る少女
+      content_type: ''
+  - song_name: 洋子の・・・名残月
+    song_alias:
+    esong_code: 1384B11
+    t_singer_master_id: '1675'
+    singer_name: 長山 洋子(yoko)
+    singer_alias:
+    available_date: '2005-10-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ようこのなこりつ
+    singer_name_ruby: なかやまようこ
+    song_variation:
+    - esong_code: 1384B11
+      song_name: 洋子の・・・名残月
       content_type: ''

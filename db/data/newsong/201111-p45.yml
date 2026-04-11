@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: リフレイン
-    song_alias:
-    esong_code: 2704A47
-    t_singer_master_id: '41096'
-    singer_name: 三代目 J Soul Brothers from EXILE TRIBE
-    singer_alias:
-    available_date: '2011-11-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: りふれいん
-    singer_name_ruby: さんたいめしえいそうるふらさす
-    song_variation:
-    - esong_code: 2704A47
-      song_name: リフレイン
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Liberation
-    song_alias:
-    esong_code: 2710B33
-    t_singer_master_id: '41528'
-    singer_name: Administrator
-    singer_alias:
-    available_date: '2011-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: りへれしよん
-    singer_name_ruby: あとみにすとれた
-    song_variation:
-    - esong_code: 2710B33
-      song_name: Liberation
-      content_type: ''
   - song_name: リマインダー feat.初音ミク
     song_alias:
     esong_code: 2706A22
@@ -230,23 +196,6 @@ result:
       content_type: VOCALOID
   - song_name: LUCIFER
     song_alias:
-    esong_code: 2715B18
-    t_singer_master_id: '42612'
-    singer_name: SHINee
-    singer_alias:
-    available_date: '2011-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: るしふあ
-    singer_name_ruby: しやいに
-    song_variation:
-    - esong_code: 2715B18
-      song_name: LUCIFER
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: LUCIFER
-    song_alias:
     esong_code: 2704B47
     t_singer_master_id: '42612'
     singer_name: SHINee
@@ -262,6 +211,23 @@ result:
     - esong_code: 2704B47
       song_name: LUCIFER
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: LUCIFER
+    song_alias:
+    esong_code: 2715B18
+    t_singer_master_id: '42612'
+    singer_name: SHINee
+    singer_alias:
+    available_date: '2011-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: るしふあ
+    singer_name_ruby: しやいに
+    song_variation:
+    - esong_code: 2715B18
+      song_name: LUCIFER
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Lose Control feat.TARO SOUL&CITY-ACE
     song_alias:
     esong_code: 2708B38
@@ -306,7 +272,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: るみなすのいすみ
     singer_name_ruby: あふいりあさか
     song_variation:
@@ -326,7 +292,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: るみなすのいすみ
     singer_name_ruby: あふいりあさか
     song_variation:
@@ -523,3 +489,37 @@ result:
     - esong_code: 2707A40
       song_name: ROSE GARDEN,BABY BLUE
       content_type: ''
+  - song_name: Lock On
+    song_alias:
+    esong_code: 2698B19
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2011-11-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろつくおん
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 2698B19
+      song_name: Lock On
+      content_type: ''
+  - song_name: Lock On
+    song_alias:
+    esong_code: 2724A15
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2011-11-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ろつくおん
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 2724A15
+      song_name: Lock On
+      content_type: DAM生音

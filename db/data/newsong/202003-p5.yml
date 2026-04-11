@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1485
-  all_max_cnt: 1686
-  all_country_cnt: 1485
+  max_cnt: 1462
+  all_max_cnt: 1663
+  all_country_cnt: 1462
   song:
-  - song_name: 今、誰が為のかがり火へ
-    song_alias:
-    esong_code: 4351A15
-    t_singer_master_id: '43054'
-    singer_name: 幽閉サテライト/senya
-    singer_alias:
-    available_date: '2020-03-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方永夜抄 〜Imperishable Night<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: いまたかためのかか
-    singer_name_ruby: ゆうへいさてらいとせんや
-    song_variation:
-    - esong_code: 4351A15
-      song_name: 今、誰が為のかがり火へ
-      content_type: 東方
-  - song_name: いま踏み出せ夏
-    song_alias:
-    esong_code: 4341A11
-    t_singer_master_id: '66083'
-    singer_name: 真っ白なキャンバス
-    singer_alias:
-    available_date: '2020-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いまふみたせなつ
-    singer_name_ruby: まつしろなきやんはす
-    song_variation:
-    - esong_code: 4341A11
-      song_name: いま踏み出せ夏
-      content_type: ''
-  - song_name: 今までおおきに
-    song_alias:
-    esong_code: 4345A41
-    t_singer_master_id: '640'
-    singer_name: 北沢 麻衣
-    singer_alias:
-    available_date: '2020-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いままておおきに
-    singer_name_ruby: きたさわまい
-    song_variation:
-    - esong_code: 4345A41
-      song_name: 今までおおきに
-      content_type: ''
   - song_name: 今も僕は
     song_alias:
     esong_code: 4342B33
@@ -264,23 +213,6 @@ result:
       content_type: ''
   - song_name: Into the Wild
     song_alias:
-    esong_code: 4339A45
-    t_singer_master_id: '2855'
-    singer_name: GLAY
-    singer_alias:
-    available_date: '2020-03-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: いんとうさわいると
-    singer_name_ruby: くれい
-    song_variation:
-    - esong_code: 4339A45
-      song_name: Into the Wild
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: Into the Wild
-    song_alias:
     esong_code: 4328A21
     t_singer_master_id: '2855'
     singer_name: GLAY
@@ -296,6 +228,23 @@ result:
     - esong_code: 4328A21
       song_name: Into the Wild
       content_type: ''
+  - song_name: Into the Wild
+    song_alias:
+    esong_code: 4339A45
+    t_singer_master_id: '2855'
+    singer_name: GLAY
+    singer_alias:
+    available_date: '2020-03-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: いんとうさわいると
+    singer_name_ruby: くれい
+    song_variation:
+    - esong_code: 4339A45
+      song_name: Into the Wild
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Impulse to the higher
     song_alias:
     esong_code: 4347B11
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4336B46
       song_name: Well Wishing Word
+      content_type: ''
+  - song_name: Water Lily
+    song_alias:
+    esong_code: 4341A33
+    t_singer_master_id: '52553'
+    singer_name: LAMP IN TERREN
+    singer_alias:
+    available_date: '2020-03-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うおたりり
+    singer_name_ruby: らんふいんてれん
+    song_variation:
+    - esong_code: 4341A33
+      song_name: Water Lily
+      content_type: ''
+  - song_name: うさぎの耳
+    song_alias:
+    esong_code: 4346B19
+    t_singer_master_id: '63413'
+    singer_name: ももすももす
+    singer_alias:
+    available_date: '2020-03-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うさきのみみ
+    singer_name_ruby: ももすももす
+    song_variation:
+    - esong_code: 4346B19
+      song_name: うさぎの耳
+      content_type: ''
+  - song_name: 薄雪草
+    song_alias:
+    esong_code: 4350A39
+    t_singer_master_id: '60002'
+    singer_name: 田中 石夫
+    singer_alias:
+    available_date: '2020-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うすゆきそう
+    singer_name_ruby: たなかいしお
+    song_variation:
+    - esong_code: 4350A39
+      song_name: 薄雪草
       content_type: ''

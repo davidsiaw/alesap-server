@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1236
-  all_max_cnt: 1361
-  all_country_cnt: 1236
+  max_cnt: 1230
+  all_max_cnt: 1355
+  all_country_cnt: 1230
   song:
   - song_name: 男の涙
     song_alias:
@@ -349,23 +349,6 @@ result:
       content_type: ''
   - song_name: 面白山の滝
     song_alias:
-    esong_code: 3395B18
-    t_singer_master_id: '6239'
-    singer_name: 岩本 公水
-    singer_alias:
-    available_date: '2016-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもしろやまのたき
-    singer_name_ruby: いわもとくみ
-    song_variation:
-    - esong_code: 3395B18
-      song_name: 面白山の滝
-      content_type: ''
-  - song_name: 面白山の滝
-    song_alias:
     esong_code: 2099A31
     t_singer_master_id: '6239'
     singer_name: 岩本 公水
@@ -381,6 +364,23 @@ result:
     - esong_code: 2099A31
       song_name: 面白山の滝
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 面白山の滝
+    song_alias:
+    esong_code: 3395B18
+    t_singer_master_id: '6239'
+    singer_name: 岩本 公水
+    singer_alias:
+    available_date: '2016-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもしろやまのたき
+    singer_name_ruby: いわもとくみ
+    song_variation:
+    - esong_code: 3395B18
+      song_name: 面白山の滝
+      content_type: ''
   - song_name: 母子(おやこ)の絆
     song_alias:
     esong_code: 3598B35

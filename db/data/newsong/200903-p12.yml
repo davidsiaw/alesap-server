@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
+  - song_name: 恋はgroovy×2 (DJ-PASSION MORE PASSION REMIX)
+    song_alias:
+    esong_code: 2287B9
+    t_singer_master_id: '25411'
+    singer_name: 伊藤 由奈
+    singer_alias:
+    available_date: '2009-03-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいはくひくひ
+    singer_name_ruby: いとうゆな
+    song_variation:
+    - esong_code: 2287B9
+      song_name: 恋はgroovy×2 (DJ-PASSION MORE PASSION REMIX)
+      content_type: ''
   - song_name: 恋、花火
     song_alias:
     esong_code: 2300B41
@@ -253,7 +270,7 @@ result:
     singer_alias:
     available_date: '2009-03-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こすみつくらつき
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2254B36
       song_name: Golden LUV feat.MAKI GOTO
-      content_type: ''
-  - song_name: COLD COLD WORLD
-    song_alias:
-    esong_code: 2270A16
-    t_singer_master_id: '24328'
-    singer_name: JAMOSA
-    singer_alias:
-    available_date: '2009-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こるとこると
-    singer_name_ruby: しやもさ
-    song_variation:
-    - esong_code: 2270A16
-      song_name: COLD COLD WORLD
       content_type: ''

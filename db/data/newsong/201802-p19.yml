@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1327
-  all_max_cnt: 1549
-  all_country_cnt: 1327
+  max_cnt: 1314
+  all_max_cnt: 1536
+  all_country_cnt: 1314
   song:
-  - song_name: 勝利のイーグルス
-    song_alias:
-    esong_code: 3015B28
-    t_singer_master_id: '53851'
-    singer_name: 菅原 信介
-    singer_alias:
-    available_date: '2018-02-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようりのいくる
-    singer_name_ruby: すかはらしんすけ
-    song_variation:
-    - esong_code: 3015B28
-      song_name: 勝利のイーグルス
-      content_type: ''
-  - song_name: 昭和ブルース 「名演ギター 斉藤 功」
-    song_alias:
-    esong_code: 1139A24
-    t_singer_master_id: '113'
-    singer_name: 天知 茂
-    singer_alias:
-    available_date: '2018-02-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようわふるす
-    singer_name_ruby: あまちしける
-    song_variation:
-    - esong_code: 1139A24
-      song_name: 昭和ブルース 「名演ギター 斉藤 功」
-      content_type: ''
-  - song_name: 職業は勇者
-    song_alias:
-    esong_code: 3952B1
-    t_singer_master_id: '59777'
-    singer_name: スカイピース
-    singer_alias:
-    available_date: '2018-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよくきようはゆう
-    singer_name_ruby: すかいひす
-    song_variation:
-    - esong_code: 3952B1
-      song_name: 職業は勇者
-      content_type: ''
   - song_name: ショコラショー・タイム
     song_alias:
     esong_code: 3949A46
@@ -366,6 +315,23 @@ result:
       content_type: DAM生音
   - song_name: 人生勝負
     song_alias:
+    esong_code: 1190B20
+    t_singer_master_id: '2230'
+    singer_name: 松前 ひろ子
+    singer_alias:
+    available_date: '2018-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: しんせいしようふ
+    singer_name_ruby: まつまえひろこ
+    song_variation:
+    - esong_code: 1190B20
+      song_name: 人生勝負
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 人生勝負
+    song_alias:
     esong_code: 1207A1
     t_singer_master_id: '2230'
     singer_name: 松前 ひろ子
@@ -415,23 +381,6 @@ result:
     - esong_code: 1205B8
       song_name: 人生勝負
       content_type: JOY生演奏
-  - song_name: 人生勝負
-    song_alias:
-    esong_code: 1190B20
-    t_singer_master_id: '2230'
-    singer_name: 松前 ひろ子
-    singer_alias:
-    available_date: '2018-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: しんせいしようふ
-    singer_name_ruby: まつまえひろこ
-    song_variation:
-    - esong_code: 1190B20
-      song_name: 人生勝負
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 人生の峠みち
     song_alias:
     esong_code: 1135B48
@@ -517,3 +466,54 @@ result:
     - esong_code: 1205B14
       song_name: 人生夢灯り
       content_type: JOY生演奏
+  - song_name: 人生夢灯り
+    song_alias:
+    esong_code: 3943A44
+    t_singer_master_id: '8275'
+    singer_name: 水田 かおり
+    singer_alias:
+    available_date: '2018-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: しんせいゆめあかり
+    singer_name_ruby: みたかおり
+    song_variation:
+    - esong_code: 3943A44
+      song_name: 人生夢灯り
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Symphonic Brave
+    song_alias:
+    esong_code: 3948B21
+    t_singer_master_id: '57445'
+    singer_name: Legenders
+    singer_alias:
+    available_date: '2018-02-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター SideM(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんふおにつくふれ
+    singer_name_ruby: れしえんたす
+    song_variation:
+    - esong_code: 3948B21
+      song_name: Symphonic Brave
+      content_type: ''
+  - song_name: スイートマイルーム
+    song_alias:
+    esong_code: 3942B9
+    t_singer_master_id: '33453'
+    singer_name: ゴールデンボンバー
+    singer_alias:
+    available_date: '2018-02-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すいとまいるむ
+    singer_name_ruby: こるてんほんは
+    song_variation:
+    - esong_code: 3942B9
+      song_name: スイートマイルーム
+      content_type: ''

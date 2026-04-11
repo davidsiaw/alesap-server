@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1046
-  all_max_cnt: 1110
-  all_country_cnt: 1046
+  max_cnt: 1043
+  all_max_cnt: 1107
+  all_country_cnt: 1043
   song:
-  - song_name: 無人島
-    song_alias:
-    esong_code: 1854A21
-    t_singer_master_id: '20234'
-    singer_name: doa
-    singer_alias:
-    available_date: '2007-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むしんとう
-    singer_name_ruby: とあ
-    song_variation:
-    - esong_code: 1854A21
-      song_name: 無人島
-      content_type: ''
-  - song_name: 名犬ジョディー
-    song_alias:
-    esong_code: 1867B45
-    t_singer_master_id: '31143'
-    singer_name: モダーン今夜
-    singer_alias:
-    available_date: '2007-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めいけんしよてい
-    singer_name_ruby: もたんこんや
-    song_variation:
-    - esong_code: 1867B45
-      song_name: 名犬ジョディー
-      content_type: ''
   - song_name: 夫婦花道
     song_alias:
     esong_code: 1853B9
@@ -60,23 +26,6 @@ result:
       content_type: ''
   - song_name: 夫婦船
     song_alias:
-    esong_code: 1855B6
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2007-08-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: めおとふね
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 1855B6
-      song_name: 夫婦船
-      content_type: DAM生音
-  - song_name: 夫婦船
-    song_alias:
     esong_code: 1821B30
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -92,6 +41,23 @@ result:
     - esong_code: 1821B30
       song_name: 夫婦船
       content_type: ''
+  - song_name: 夫婦船
+    song_alias:
+    esong_code: 1855B6
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2007-08-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: めおとふね
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 1855B6
+      song_name: 夫婦船
+      content_type: DAM生音
   - song_name: めぐり逢い札幌 (with 晏愁李)
     song_alias:
     esong_code: 1853B8
@@ -347,11 +313,11 @@ result:
     - esong_code: 1851B14
       song_name: 野球狂の歌
       content_type: ''
-  - song_name: 約束 〜Flowers Song〜
+  - song_name: 約束 〜World wing〜
     song_alias:
-    esong_code: 1853A5
-    t_singer_master_id: '14521'
-    singer_name: 滝沢 秀明(from タッキー&翼)
+    esong_code: 1853A4
+    t_singer_master_id: '14527'
+    singer_name: 今井 翼(from タッキー&翼)
     singer_alias:
     available_date: '2007-08-10'
     end_date: '2999-04-10 00:00:00'
@@ -359,10 +325,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: やくそく
-    singer_name_ruby: たきさわひてあき
+    singer_name_ruby: いまいつはさ
     song_variation:
-    - esong_code: 1853A5
-      song_name: 約束 〜Flowers Song〜
+    - esong_code: 1853A4
+      song_name: 約束 〜World wing〜
       content_type: ''
   - song_name: 約束
     song_alias:
@@ -381,11 +347,11 @@ result:
     - esong_code: 1820A27
       song_name: 約束
       content_type: ''
-  - song_name: 約束 〜World wing〜
+  - song_name: 約束 〜Flowers Song〜
     song_alias:
-    esong_code: 1853A4
-    t_singer_master_id: '14527'
-    singer_name: 今井 翼(from タッキー&翼)
+    esong_code: 1853A5
+    t_singer_master_id: '14521'
+    singer_name: 滝沢 秀明(from タッキー&翼)
     singer_alias:
     available_date: '2007-08-10'
     end_date: '2999-04-10 00:00:00'
@@ -393,27 +359,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: やくそく
-    singer_name_ruby: いまいつはさ
+    singer_name_ruby: たきさわひてあき
     song_variation:
-    - esong_code: 1853A4
-      song_name: 約束 〜World wing〜
-      content_type: ''
-  - song_name: やさしさ
-    song_alias:
-    esong_code: 1124A10
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2007-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やさしさ
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 1124A10
-      song_name: やさしさ
+    - esong_code: 1853A5
+      song_name: 約束 〜Flowers Song〜
       content_type: ''
   - song_name: 椰子の実
     song_alias:
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 1850B24
       song_name: U&ME
+      content_type: ''
+  - song_name: 憂愁平野 〜おもかげ〜
+    song_alias:
+    esong_code: 1807A29
+    t_singer_master_id: '174'
+    singer_name: 石川 さゆり(SAYURI)
+    singer_alias:
+    available_date: '2007-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうしゆうへいや
+    singer_name_ruby: いしかわさゆり
+    song_variation:
+    - esong_code: 1807A29
+      song_name: 憂愁平野 〜おもかげ〜
+      content_type: ''
+  - song_name: 夕焼け
+    song_alias:
+    esong_code: 1850B38
+    t_singer_master_id: '4249'
+    singer_name: スピッツ
+    singer_alias:
+    available_date: '2007-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうやけ
+    singer_name_ruby: すひつつ
+    song_variation:
+    - esong_code: 1850B38
+      song_name: 夕焼け
+      content_type: ''
+  - song_name: 夕焼け
+    song_alias:
+    esong_code: 1850A7
+    t_singer_master_id: '24713'
+    singer_name: All Japan Goith(Skaしっぺ)
+    singer_alias:
+    available_date: '2007-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうやけ
+    singer_name_ruby: おるしやはんこいす
+    song_variation:
+    - esong_code: 1850A7
+      song_name: 夕焼け
       content_type: ''

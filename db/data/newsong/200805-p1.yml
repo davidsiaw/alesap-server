@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 920
-  all_max_cnt: 993
-  all_country_cnt: 920
+  max_cnt: 913
+  all_max_cnt: 986
+  all_country_cnt: 913
   song:
-  - song_name: AKATSUKI (Version S.S.S)
-    song_alias:
-    esong_code: 2001A46
-    t_singer_master_id: '7534'
-    singer_name: 稲葉 浩志
-    singer_alias:
-    available_date: '2008-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかつき
-    singer_name_ruby: いなはこうし
-    song_variation:
-    - esong_code: 2001A46
-      song_name: AKATSUKI (Version S.S.S)
-      content_type: ''
   - song_name: 茜
     song_alias:
     esong_code: 2003B9
@@ -75,23 +58,6 @@ result:
     - esong_code: 1997A27
       song_name: ACCESS!
       content_type: ''
-  - song_name: again
-    song_alias:
-    esong_code: 1996B18
-    t_singer_master_id: '24824'
-    singer_name: MUNEHIRO
-    singer_alias:
-    available_date: '2008-05-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけいん
-    singer_name_ruby: むねひろ
-    song_variation:
-    - esong_code: 1996B18
-      song_name: again
-      content_type: ''
   - song_name: Again
     song_alias:
     esong_code: 2012B24
@@ -108,6 +74,23 @@ result:
     song_variation:
     - esong_code: 2012B24
       song_name: Again
+      content_type: ''
+  - song_name: again
+    song_alias:
+    esong_code: 1996B18
+    t_singer_master_id: '24824'
+    singer_name: MUNEHIRO
+    singer_alias:
+    available_date: '2008-05-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あけいん
+    singer_name_ruby: むねひろ
+    song_variation:
+    - esong_code: 1996B18
+      song_name: again
       content_type: ''
   - song_name: 開け放つ窓
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 1993B28
       song_name: A RIZE
       content_type: ''
+  - song_name: ありえないくらい奇跡
+    song_alias:
+    esong_code: 1998A40
+    t_singer_master_id: '32161'
+    singer_name: つじ あやのとBEAT CRUSADERS
+    singer_alias:
+    available_date: '2008-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 超劇場版ケロロ軍曹3<番組名>
+    country_code: '0'
+    content_type: JOYうたいり
+    song_name_ruby: ありえないくらいきせ
+    singer_name_ruby: つしあやのとひとくる
+    song_variation:
+    - esong_code: 1998A40
+      song_name: ありえないくらい奇跡
+      content_type: JOYうたいり

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 320
-  all_max_cnt: 344
-  all_country_cnt: 320
+  max_cnt: 319
+  all_max_cnt: 343
+  all_country_cnt: 319
   song:
-  - song_name: いきてゆく物語
-    song_alias:
-    esong_code: 459B31
-    t_singer_master_id: '11867'
-    singer_name: 武田 鉄矢&水前寺 清子
-    singer_alias:
-    available_date: '2000-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いきてゆくものかた
-    singer_name_ruby: たけたてつやすいせ
-    song_variation:
-    - esong_code: 459B31
-      song_name: いきてゆく物語
-      content_type: ''
   - song_name: 1ばんほしかったもの
     song_alias:
     esong_code: 467A29
@@ -347,7 +330,7 @@ result:
     - esong_code: 460B32
       song_name: 男の拳
       content_type: ''
-  - song_name: honest
+  - song_name: honesto
     song_alias:
     esong_code: 482B25
     t_singer_master_id: '1560'
@@ -362,7 +345,7 @@ result:
     singer_name_ruby: とくなかひてあき
     song_variation:
     - esong_code: 482B25
-      song_name: honest
+      song_name: honesto
       content_type: ''
   - song_name: お花畑
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 483A28
       song_name: カイン
+      content_type: ''
+  - song_name: COUNT DOWN
+    song_alias:
+    esong_code: 486B30
+    t_singer_master_id: '1877'
+    singer_name: 光GENJI
+    singer_alias:
+    available_date: '2000-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かうんとたうん
+    singer_name_ruby: ひかるけんし
+    song_variation:
+    - esong_code: 486B30
+      song_name: COUNT DOWN
       content_type: ''

@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
+  - song_name: 新宝島
+    song_alias:
+    esong_code: 3504A35
+    t_singer_master_id: '31003'
+    singer_name: サカナクション
+    singer_alias:
+    available_date: '2015-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんたからしま
+    singer_name_ruby: さかなくしよん
+    song_variation:
+    - esong_code: 3504A35
+      song_name: 新宝島
+      content_type: ''
+  - song_name: 死 ん だ 妻 に 似 て い る
+    song_alias:
+    esong_code: 3498A14
+    t_singer_master_id: '33453'
+    singer_name: ゴールデンボンバー
+    singer_alias:
+    available_date: '2015-09-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: しんたつまににてい
+    singer_name_ruby: こるてんほんは
+    song_variation:
+    - esong_code: 3498A14
+      song_name: 死 ん だ 妻 に 似 て い る
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 死んでもいい
     song_alias:
     esong_code: 3496A43
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 3503A30
       song_name: 砂漠のイリュージョン
-      content_type: ''
-  - song_name: スノウィブルー
-    song_alias:
-    esong_code: 3499B44
-    t_singer_master_id: '29173'
-    singer_name: メガマソ
-    singer_alias:
-    available_date: '2015-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すのういふる
-    singer_name_ruby: めかまそ
-    song_variation:
-    - esong_code: 3499B44
-      song_name: スノウィブルー
-      content_type: ''
-  - song_name: Snow-White
-    song_alias:
-    esong_code: 3509B3
-    t_singer_master_id: '76991'
-    singer_name: "[reve parfait]"
-    singer_alias:
-    available_date: '2015-09-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: DYNAMIC CHORD(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: すのうほわいと
-    singer_name_ruby: れふはつふえ
-    song_variation:
-    - esong_code: 3509B3
-      song_name: Snow-White
       content_type: ''

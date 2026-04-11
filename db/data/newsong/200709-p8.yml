@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: カラフル
-    song_alias:
-    esong_code: 1862A4
-    t_singer_master_id: '13074'
-    singer_name: 柴田 淳
-    singer_alias:
-    available_date: '2007-09-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: からふる
-    singer_name_ruby: しはたしゆん
-    song_variation:
-    - esong_code: 1862A4
-      song_name: カラフル
-      content_type: ''
   - song_name: ガールフレンド
     song_alias:
     esong_code: 1871A49
@@ -60,23 +43,6 @@ result:
       content_type: ''
   - song_name: Kaleidoscope
     song_alias:
-    esong_code: 1859A49
-    t_singer_master_id: '5578'
-    singer_name: 高見沢 俊彦(Takamiy)
-    singer_alias:
-    available_date: '2007-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かれいとすこふ
-    singer_name_ruby: たかみさわとしひこ
-    song_variation:
-    - esong_code: 1859A49
-      song_name: Kaleidoscope
-      content_type: ''
-  - song_name: Kaleidoscope
-    song_alias:
     esong_code: 1866B43
     t_singer_master_id: '21327'
     singer_name: D'espairsRay
@@ -90,6 +56,23 @@ result:
     singer_name_ruby: ていすはすれい
     song_variation:
     - esong_code: 1866B43
+      song_name: Kaleidoscope
+      content_type: ''
+  - song_name: Kaleidoscope
+    song_alias:
+    esong_code: 1859A49
+    t_singer_master_id: '5578'
+    singer_name: 高見沢 俊彦(Takamiy)
+    singer_alias:
+    available_date: '2007-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かれいとすこふ
+    singer_name_ruby: たかみさわとしひこ
+    song_variation:
+    - esong_code: 1859A49
       song_name: Kaleidoscope
       content_type: ''
   - song_name: 彼氏
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1808A17
       song_name: CAT'S EYE (北村 Ver,)
+      content_type: ''
+  - song_name: GAL DEM HUNTER
+    song_alias:
+    esong_code: 1873A9
+    t_singer_master_id: '31201'
+    singer_name: BES&CHEHON
+    singer_alias:
+    available_date: '2007-09-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやるてはんた
+    singer_name_ruby: へすちえほん
+    song_variation:
+    - esong_code: 1873A9
+      song_name: GAL DEM HUNTER
       content_type: ''

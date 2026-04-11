@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
-  - song_name: はなまる
-    song_alias:
-    esong_code: 2449A15
-    t_singer_master_id: '33205'
-    singer_name: 戸松 遥
-    singer_alias:
-    available_date: '2009-12-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: THE IDOLM@STER DeariyStars<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はなまる
-    singer_name_ruby: とまつはるか
-    song_variation:
-    - esong_code: 2449A15
-      song_name: はなまる
-      content_type: ''
   - song_name: バーニング・ラブ
     song_alias:
     esong_code: 2432B21
@@ -321,7 +304,7 @@ result:
     singer_alias:
     available_date: '2009-12-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はんはかすと
@@ -483,6 +466,23 @@ result:
     - esong_code: 2402B5
       song_name: BIG BANG MUSIC! 〜青春ウォーカー〜
       content_type: ''
+  - song_name: ヒットソングメドレー2005 〜10-12月〜
+    song_alias:
+    esong_code: 2444A25
+    t_singer_master_id: '5232'
+    singer_name: メドレー
+    singer_alias:
+    available_date: '2009-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひつとそんく2005
+    singer_name_ruby: めとれ
+    song_variation:
+    - esong_code: 2444A25
+      song_name: ヒットソングメドレー2005 〜10-12月〜
+      content_type: ''
   - song_name: ヒットソングメドレー2005 〜7-9月〜
     song_alias:
     esong_code: 2444A26
@@ -500,20 +500,20 @@ result:
     - esong_code: 2444A26
       song_name: ヒットソングメドレー2005 〜7-9月〜
       content_type: ''
-  - song_name: ヒットソングメドレー2005 〜10-12月〜
+  - song_name: HIP HOP 番外地
     song_alias:
-    esong_code: 2444A25
-    t_singer_master_id: '5232'
-    singer_name: メドレー
+    esong_code: 2443A36
+    t_singer_master_id: '16671'
+    singer_name: THA BLUE HERB
     singer_alias:
-    available_date: '2009-12-18'
+    available_date: '2009-12-08'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: ひつとそんく2005
-    singer_name_ruby: めとれ
+    song_name_ruby: ひつふほつふは
+    singer_name_ruby: さふるはふ
     song_variation:
-    - esong_code: 2444A25
-      song_name: ヒットソングメドレー2005 〜10-12月〜
+    - esong_code: 2443A36
+      song_name: HIP HOP 番外地
       content_type: ''

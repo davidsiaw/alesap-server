@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1415
-  all_max_cnt: 1522
-  all_country_cnt: 1415
+  max_cnt: 1411
+  all_max_cnt: 1518
+  all_country_cnt: 1411
   song:
-  - song_name: 悲恋・戀塚 袈裟御前
-    song_alias:
-    esong_code: 1875B17
-    t_singer_master_id: '7889'
-    singer_name: 浜崎 千恵子
-    singer_alias:
-    available_date: '2007-10-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひれんこいつかけさ
-    singer_name_ruby: はまさきちえこ
-    song_variation:
-    - esong_code: 1875B17
-      song_name: 悲恋・戀塚 袈裟御前
-      content_type: ''
-  - song_name: HERO
-    song_alias:
-    esong_code: 1887B18
-    t_singer_master_id: '18234'
-    singer_name: jelly→
-    singer_alias:
-    available_date: '2007-10-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひろ
-    singer_name_ruby: しえり
-    song_variation:
-    - esong_code: 1887B18
-      song_name: HERO
-      content_type: ''
-  - song_name: ピンクのまほう
-    song_alias:
-    esong_code: 1891A9
-    t_singer_master_id: '22985'
-    singer_name: 佐久間 レイ
-    singer_alias:
-    available_date: '2007-10-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おねがいマイメロディ くるくるシャッフル<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひんくのまほう
-    singer_name_ruby: さくまれい
-    song_variation:
-    - esong_code: 1891A9
-      song_name: ピンクのまほう
-      content_type: ''
   - song_name: FIGHTING FLOW -FINAL EDITION-
     song_alias:
     esong_code: 1898B13
@@ -228,6 +177,23 @@ result:
     - esong_code: 1893A11
       song_name: 風味堂メドレー 〜2006〜
       content_type: ''
+  - song_name: fake star 〜Ken's swingin'jazz〜
+    song_alias:
+    esong_code: 1884B26
+    t_singer_master_id: '6035'
+    singer_name: 平井 堅
+    singer_alias:
+    available_date: '2007-10-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふえいくすた
+    singer_name_ruby: ひらいけん
+    song_variation:
+    - esong_code: 1884B26
+      song_name: fake star 〜Ken's swingin'jazz〜
+      content_type: ''
   - song_name: fake star
     song_alias:
     esong_code: 1888A8
@@ -262,23 +228,6 @@ result:
     - esong_code: 1884B25
       song_name: fake star
       content_type: DAM良音
-  - song_name: fake star 〜Ken's swingin'jazz〜
-    song_alias:
-    esong_code: 1884B26
-    t_singer_master_id: '6035'
-    singer_name: 平井 堅
-    singer_alias:
-    available_date: '2007-10-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふえいくすた
-    singer_name_ruby: ひらいけん
-    song_variation:
-    - esong_code: 1884B26
-      song_name: fake star 〜Ken's swingin'jazz〜
-      content_type: ''
   - song_name: fated (Orchestra version)
     song_alias:
     esong_code: 1884A44
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 1899A19
       song_name: フタリ (English Version)
+      content_type: ''
+  - song_name: ２人のイバショ☆
+    song_alias:
+    esong_code: 1880A30
+    t_singer_master_id: '20268'
+    singer_name: the do-nuts
+    singer_alias:
+    available_date: '2007-10-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたりのいはしよ
+    singer_name_ruby: さとうなつ
+    song_variation:
+    - esong_code: 1880A30
+      song_name: ２人のイバショ☆
+      content_type: ''
+  - song_name: ふたりの小舟 〜The water is wide〜
+    song_alias:
+    esong_code: 1790A47
+    t_singer_master_id: '30011'
+    singer_name: 宙美
+    singer_alias:
+    available_date: '2007-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたりのこふね
+    singer_name_ruby: ひろみ
+    song_variation:
+    - esong_code: 1790A47
+      song_name: ふたりの小舟 〜The water is wide〜
+      content_type: ''
+  - song_name: ふたりみらい
+    song_alias:
+    esong_code: 1887B37
+    t_singer_master_id: '23022'
+    singer_name: 宮崎 羽衣
+    singer_alias:
+    available_date: '2007-10-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ショコラ 〜maid cafe 'curio'〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたりみらい
+    singer_name_ruby: みやさきうい
+    song_variation:
+    - esong_code: 1887B37
+      song_name: ふたりみらい
       content_type: ''

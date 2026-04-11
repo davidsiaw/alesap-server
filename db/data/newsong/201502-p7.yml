@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
   - song_name: 円卓の円舞曲
     song_alias:
@@ -100,21 +100,21 @@ result:
       content_type: VOCALOID
   - song_name: お岩木山
     song_alias:
-    esong_code: 1336B5
+    esong_code: 1335A31
     t_singer_master_id: '36847'
     singer_name: 三山 ひろし(三山ヒロシ)
     singer_alias:
-    available_date: '2015-02-01'
+    available_date: '2015-02-11'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: おいわきやま
     singer_name_ruby: みやまひろし
     song_variation:
-    - esong_code: 1336B5
+    - esong_code: 1335A31
       song_name: お岩木山
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: お岩木山
     song_alias:
     esong_code: 1227B38
@@ -134,23 +134,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: お岩木山
     song_alias:
-    esong_code: 1335A31
-    t_singer_master_id: '36847'
-    singer_name: 三山 ひろし(三山ヒロシ)
-    singer_alias:
-    available_date: '2015-02-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おいわきやま
-    singer_name_ruby: みやまひろし
-    song_variation:
-    - esong_code: 1335A31
-      song_name: お岩木山
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: お岩木山
-    song_alias:
     esong_code: 1227A46
     t_singer_master_id: '36847'
     singer_name: 三山 ひろし(三山ヒロシ)
@@ -166,6 +149,23 @@ result:
     - esong_code: 1227A46
       song_name: お岩木山
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: お岩木山
+    song_alias:
+    esong_code: 1336B5
+    t_singer_master_id: '36847'
+    singer_name: 三山 ひろし(三山ヒロシ)
+    singer_alias:
+    available_date: '2015-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おいわきやま
+    singer_name_ruby: みやまひろし
+    song_variation:
+    - esong_code: 1336B5
+      song_name: お岩木山
+      content_type: ''
   - song_name: 追分みなと
     song_alias:
     esong_code: 3241A39

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1336
-  all_max_cnt: 1579
-  all_country_cnt: 1336
+  max_cnt: 1327
+  all_max_cnt: 1570
+  all_country_cnt: 1327
   song:
   - song_name: 明日ハレルヤ
     song_alias:
@@ -179,23 +179,6 @@ result:
       content_type: ''
   - song_name: 逢ってみたい人
     song_alias:
-    esong_code: 3731A34
-    t_singer_master_id: '47761'
-    singer_name: 水城 なつみ
-    singer_alias:
-    available_date: '2016-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: あつてみたいひと
-    singer_name_ruby: みすきなつみ
-    song_variation:
-    - esong_code: 3731A34
-      song_name: 逢ってみたい人
-      content_type: JOY生演奏
-  - song_name: 逢ってみたい人
-    song_alias:
     esong_code: 3731A3
     t_singer_master_id: '47761'
     singer_name: 水城 なつみ
@@ -211,6 +194,23 @@ result:
     - esong_code: 3731A3
       song_name: 逢ってみたい人
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 逢ってみたい人
+    song_alias:
+    esong_code: 3731A34
+    t_singer_master_id: '47761'
+    singer_name: 水城 なつみ
+    singer_alias:
+    available_date: '2016-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: あつてみたいひと
+    singer_name_ruby: みすきなつみ
+    song_variation:
+    - esong_code: 3731A34
+      song_name: 逢ってみたい人
+      content_type: JOY生演奏
   - song_name: Up In The Air
     song_alias:
     esong_code: 3739B29

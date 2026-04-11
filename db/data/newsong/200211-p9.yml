@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 655
-  all_max_cnt: 733
-  all_country_cnt: 655
+  max_cnt: 652
+  all_max_cnt: 730
+  all_country_cnt: 652
   song:
-  - song_name: 車線変更25時
-    song_alias:
-    esong_code: 156B47
-    t_singer_master_id: '13116'
-    singer_name: キンモクセイ
-    singer_alias:
-    available_date: '2002-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: しやせんへんこうにし
-    singer_name_ruby: きんもくせい
-    song_variation:
-    - esong_code: 156B47
-      song_name: 車線変更25時
-      content_type: DAM良音
   - song_name: しゃぶしゃぶレンジャーのうた
     song_alias:
     esong_code: 968B25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 952A29
       song_name: GGGマーチ
+      content_type: ''
+  - song_name: スローダンシング
+    song_alias:
+    esong_code: 158A44
+    t_singer_master_id: '437'
+    singer_name: 尾崎 亜美
+    singer_alias:
+    available_date: '2002-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すろたんしんく
+    singer_name_ruby: おさきあみ
+    song_variation:
+    - esong_code: 158A44
+      song_name: スローダンシング
       content_type: ''

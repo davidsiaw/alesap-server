@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: 星影の里
-    song_alias:
-    esong_code: 3411B47
-    t_singer_master_id: '55083'
-    singer_name: 三丘 翔太
-    singer_alias:
-    available_date: '2016-01-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしかけのさと
-    singer_name_ruby: みつおかしようた
-    song_variation:
-    - esong_code: 3411B47
-      song_name: 星影の里
-      content_type: ''
   - song_name: 星影の里
     song_alias:
     esong_code: 2100B4
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3577A39
       song_name: MY LIFE IS MY LIFE
+      content_type: ''
+  - song_name: Mine
+    song_alias:
+    esong_code: 3578A4
+    t_singer_master_id: '47606'
+    singer_name: 井上 苑子
+    singer_alias:
+    available_date: '2016-01-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいん
+    singer_name_ruby: いのうえそのこ
+    song_variation:
+    - esong_code: 3578A4
+      song_name: Mine
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 947
-  all_max_cnt: 1077
-  all_country_cnt: 947
+  max_cnt: 945
+  all_max_cnt: 1075
+  all_country_cnt: 945
   song:
-  - song_name: Dear My Keys 〜鍵盤の魔法〜
-    song_alias:
-    esong_code: 2381B30
-    t_singer_master_id: '37454'
-    singer_name: 寿 美菜子
-    singer_alias:
-    available_date: '2009-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: けいおん!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていあまいきす
-    singer_name_ruby: ことふきみなこ
-    song_variation:
-    - esong_code: 2381B30
-      song_name: Dear My Keys 〜鍵盤の魔法〜
-      content_type: ''
   - song_name: Take It Easy!
     song_alias:
     esong_code: 2383A2
@@ -296,23 +279,6 @@ result:
     - esong_code: 2381A38
       song_name: Do As Infinityメドレー3
       content_type: ''
-  - song_name: 東京
-    song_alias:
-    esong_code: 2376B27
-    t_singer_master_id: '1671'
-    singer_name: 長渕 剛
-    singer_alias:
-    available_date: '2009-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきよう
-    singer_name_ruby: なかふちつよし
-    song_variation:
-    - esong_code: 2376B27
-      song_name: 東京
-      content_type: ''
   - song_name: TOKYO
     song_alias:
     esong_code: 2389A35
@@ -329,6 +295,23 @@ result:
     song_variation:
     - esong_code: 2389A35
       song_name: TOKYO
+      content_type: ''
+  - song_name: 東京
+    song_alias:
+    esong_code: 2376B27
+    t_singer_master_id: '1671'
+    singer_name: 長渕 剛
+    singer_alias:
+    available_date: '2009-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきよう
+    singer_name_ruby: なかふちつよし
+    song_variation:
+    - esong_code: 2376B27
+      song_name: 東京
       content_type: ''
   - song_name: 東京なんて何さ
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2382B27
       song_name: 透明な祈り
+      content_type: ''
+  - song_name: tomorrow song
+    song_alias:
+    esong_code: 2388B35
+    t_singer_master_id: '26355'
+    singer_name: アフロマニア
+    singer_alias:
+    available_date: '2009-08-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうもろうそんく
+    singer_name_ruby: あふろまにあ
+    song_variation:
+    - esong_code: 2388B35
+      song_name: tomorrow song
       content_type: ''

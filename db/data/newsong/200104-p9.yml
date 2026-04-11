@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 319
-  all_max_cnt: 344
-  all_country_cnt: 319
+  max_cnt: 318
+  all_max_cnt: 343
+  all_country_cnt: 318
   song:
-  - song_name: リス
-    song_alias:
-    esong_code: 551B24
-    t_singer_master_id: '5059'
-    singer_name: "(THE)BLANKEY JET CITY"
-    singer_alias:
-    available_date: '2001-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: りす
-    singer_name_ruby: ふらんきしえつ
-    song_variation:
-    - esong_code: 551B24
-      song_name: リス
-      content_type: ''
   - song_name: リセット
     song_alias:
     esong_code: 554A23
@@ -43,23 +26,6 @@ result:
       content_type: ''
   - song_name: Listen
     song_alias:
-    esong_code: 545A36
-    t_singer_master_id: '6560'
-    singer_name: V6
-    singer_alias:
-    available_date: '2001-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: りつすん
-    singer_name_ruby: ふいしつくす
-    song_variation:
-    - esong_code: 545A36
-      song_name: Listen
-      content_type: ''
-  - song_name: Listen
-    song_alias:
     esong_code: 550B29
     t_singer_master_id: '8286'
     singer_name: TRICERATOPS
@@ -73,6 +39,23 @@ result:
     singer_name_ruby: とらいせらとつふす
     song_variation:
     - esong_code: 550B29
+      song_name: Listen
+      content_type: ''
+  - song_name: Listen
+    song_alias:
+    esong_code: 545A36
+    t_singer_master_id: '6560'
+    singer_name: V6
+    singer_alias:
+    available_date: '2001-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りつすん
+    singer_name_ruby: ふいしつくす
+    song_variation:
+    - esong_code: 545A36
       song_name: Listen
       content_type: ''
   - song_name: Little Darlin'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 307B1
       song_name: Lonely way
+      content_type: ''
+  - song_name: 我が愛は山の彼方に (稔幸)
+    song_alias:
+    esong_code: 545B32
+    t_singer_master_id: '1349'
+    singer_name: 宝塚歌劇団
+    singer_alias:
+    available_date: '2001-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わかあいはやまのか
+    singer_name_ruby: たからつかかけき
+    song_variation:
+    - esong_code: 545B32
+      song_name: 我が愛は山の彼方に (稔幸)
       content_type: ''

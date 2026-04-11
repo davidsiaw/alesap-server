@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
-  - song_name: セルリアン
-    song_alias:
-    esong_code: 3399A16
-    t_singer_master_id: '24759'
-    singer_name: BACK-ON
-    singer_alias:
-    available_date: '2015-02-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ガンダムビルド<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: せるりあん
-    singer_name_ruby: はつくおん
-    song_variation:
-    - esong_code: 3399A16
-      song_name: セルリアン
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ZERO
-    song_alias:
-    esong_code: 2207B12
-    t_singer_master_id: '1084'
-    singer_name: 少年隊
-    singer_alias:
-    available_date: '2015-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せろ
-    singer_name_ruby: しようねんたい
-    song_variation:
-    - esong_code: 2207B12
-      song_name: ZERO
-      content_type: ''
-  - song_name: 先生と少女騒動 〜第一審公判〜 feat.鏡音レン
-    song_alias:
-    esong_code: 3394A9
-    t_singer_master_id: '52651'
-    singer_name: マイナス(ワンダフル☆オポチュニティ!)
-    singer_alias:
-    available_date: '2015-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: せんせいとしようし
-    singer_name_ruby: まいなす
-    song_variation:
-    - esong_code: 3394A9
-      song_name: 先生と少女騒動 〜第一審公判〜 feat.鏡音レン
-      content_type: VOCALOID
   - song_name: センダンの花
     song_alias:
     esong_code: 1367A18
@@ -128,23 +77,6 @@ result:
       content_type: JOYうたいり
   - song_name: 早春慕情
     song_alias:
-    esong_code: 3197A44
-    t_singer_master_id: '13954'
-    singer_name: 椎名 佐千子
-    singer_alias:
-    available_date: '2015-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: そうしゆんほしよ
-    singer_name_ruby: しいなさちこ
-    song_variation:
-    - esong_code: 3197A44
-      song_name: 早春慕情
-      content_type: JOY生演奏
-  - song_name: 早春慕情
-    song_alias:
     esong_code: 3181B11
     t_singer_master_id: '13954'
     singer_name: 椎名 佐千子
@@ -160,6 +92,23 @@ result:
     - esong_code: 3181B11
       song_name: 早春慕情
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 早春慕情
+    song_alias:
+    esong_code: 3197A44
+    t_singer_master_id: '13954'
+    singer_name: 椎名 佐千子
+    singer_alias:
+    available_date: '2015-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: そうしゆんほしよ
+    singer_name_ruby: しいなさちこ
+    song_variation:
+    - esong_code: 3197A44
+      song_name: 早春慕情
+      content_type: JOY生演奏
   - song_name: そうらん節
     song_alias:
     esong_code: 3392A5
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2512B12
       song_name: 大漁船
+      content_type: ''
+  - song_name: 大漁船
+    song_alias:
+    esong_code: 994B42
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2015-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: たいりようふね
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 994B42
+      song_name: 大漁船
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ダウンタウンホテル100号室
+    song_alias:
+    esong_code: 3389B28
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2015-02-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たうんたうんほてる
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 3389B28
+      song_name: ダウンタウンホテル100号室
+      content_type: ''
+  - song_name: ダークマター
+    song_alias:
+    esong_code: 3397B35
+    t_singer_master_id: '52722'
+    singer_name: 鈴木 あきえ&延命 杏咲実
+    singer_alias:
+    available_date: '2015-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 天才てれびくん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たくまた
+    singer_name_ruby: すすきあきええんめいあさみ
+    song_variation:
+    - esong_code: 3397B35
+      song_name: ダークマター
       content_type: ''

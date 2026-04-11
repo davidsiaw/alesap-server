@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: バレンタイン・キッス feat.Ladybeard
-    song_alias:
-    esong_code: 3581A35
-    t_singer_master_id: '48203'
-    singer_name: トミタ 栞
-    singer_alias:
-    available_date: '2016-01-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はれんたいんきつす
-    singer_name_ruby: とみたしおり
-    song_variation:
-    - esong_code: 3581A35
-      song_name: バレンタイン・キッス feat.Ladybeard
-      content_type: ''
-  - song_name: HeLLo
-    song_alias:
-    esong_code: 3581B45
-    t_singer_master_id: '52865'
-    singer_name: Mrs.GREEN APPLE
-    singer_alias:
-    available_date: '2016-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はろ
-    singer_name_ruby: みせすくりんあつふる
-    song_variation:
-    - esong_code: 3581B45
-      song_name: HeLLo
-      content_type: ''
   - song_name: ハロウィン・ナイト (演歌バージョン)
     song_alias:
     esong_code: 3578B41
@@ -517,3 +483,37 @@ result:
     - esong_code: 3586A21
       song_name: 瞳
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 瞳そらさないで
+    song_alias:
+    esong_code: 3578B20
+    t_singer_master_id: '1523'
+    singer_name: DEEN
+    singer_alias:
+    available_date: '2016-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ひとみそらさないて
+    singer_name_ruby: ていん
+    song_variation:
+    - esong_code: 3578B20
+      song_name: 瞳そらさないで
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 瞳の奥の銀河(ミルキーウェイ)
+    song_alias:
+    esong_code: 3579B14
+    t_singer_master_id: '43355'
+    singer_name: Flower
+    singer_alias:
+    available_date: '2016-01-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 金田一少年の事件簿<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ひとみのおくのみるき
+    singer_name_ruby: ふらわ
+    song_variation:
+    - esong_code: 3579B14
+      song_name: 瞳の奥の銀河(ミルキーウェイ)
+      content_type: DAMｸﾘｯﾌﾟ

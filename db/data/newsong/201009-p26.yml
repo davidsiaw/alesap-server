@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
+  - song_name: Be more
+    song_alias:
+    esong_code: 2583A33
+    t_singer_master_id: '27628'
+    singer_name: KENN
+    singer_alias:
+    available_date: '2010-09-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 家庭教師ヒットマン REBORN!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひもあ
+    singer_name_ruby: けん
+    song_variation:
+    - esong_code: 2583A33
+      song_name: Be more
+      content_type: ''
   - song_name: 百年先も手をとりながら
     song_alias:
     esong_code: 2602B26
@@ -236,7 +253,7 @@ result:
     singer_alias:
     available_date: '2010-09-08'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA弐<番組名>
+    tie_up: 戦国BASARA(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふえいと
@@ -500,20 +517,3 @@ result:
     - esong_code: 2622B11
       song_name: ふたり宿
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Bright&Right
-    song_alias:
-    esong_code: 2433B49
-    t_singer_master_id: '14400'
-    singer_name: ACIDMAN
-    singer_alias:
-    available_date: '2010-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらいとあんとら
-    singer_name_ruby: あしつとまん
-    song_variation:
-    - esong_code: 2433B49
-      song_name: Bright&Right
-      content_type: ''

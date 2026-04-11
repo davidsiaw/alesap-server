@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
-  - song_name: 目覚める世代よ
-    song_alias:
-    esong_code: 2402A12
-    t_singer_master_id: '14185'
-    singer_name: 水木 まり
-    singer_alias:
-    available_date: '2010-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めさめるときよ
-    singer_name_ruby: みすきまり
-    song_variation:
-    - esong_code: 2402A12
-      song_name: 目覚める世代よ
-      content_type: ''
   - song_name: 目には青葉 山ホトトギス 初恋
     song_alias:
     esong_code: 2546A35
@@ -247,23 +230,6 @@ result:
       content_type: ''
   - song_name: 約束
     song_alias:
-    esong_code: 2546A23
-    t_singer_master_id: '5987'
-    singer_name: MUCC(ムック)
-    singer_alias:
-    available_date: '2010-06-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 閃光のナイトレイド<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: やくそく
-    singer_name_ruby: むつく
-    song_variation:
-    - esong_code: 2546A23
-      song_name: 約束
-      content_type: ''
-  - song_name: 約束
-    song_alias:
     esong_code: 2553A26
     t_singer_master_id: '33364'
     singer_name: BUZZ THE BEARS
@@ -279,22 +245,22 @@ result:
     - esong_code: 2553A26
       song_name: 約束
       content_type: ''
-  - song_name: 優しい川
+  - song_name: 約束
     song_alias:
-    esong_code: 1126B36
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
+    esong_code: 2546A23
+    t_singer_master_id: '5987'
+    singer_name: MUCC(ムック)
     singer_alias:
-    available_date: '2010-06-06'
+    available_date: '2010-06-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: 閃光のナイトレイド<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: やさしいかわ
-    singer_name_ruby: えれふあんとかしまし
+    song_name_ruby: やくそく
+    singer_name_ruby: むつく
     song_variation:
-    - esong_code: 1126B36
-      song_name: 優しい川
+    - esong_code: 2546A23
+      song_name: 約束
       content_type: ''
   - song_name: 優しい光
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2553B39
       song_name: 夕凪通信
+      content_type: ''
+  - song_name: 郵便屋さんのうた
+    song_alias:
+    esong_code: 2555A19
+    t_singer_master_id: '26665'
+    singer_name: サクラメリーメン
+    singer_alias:
+    available_date: '2010-06-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうひんやさんのう
+    singer_name_ruby: さくらめりめん
+    song_variation:
+    - esong_code: 2555A19
+      song_name: 郵便屋さんのうた
+      content_type: ''
+  - song_name: 誘惑ヴァイオレット
+    song_alias:
+    esong_code: 2549B28
+    t_singer_master_id: '34813'
+    singer_name: 姫宮みらんとチョコレートロッカーズ
+    singer_alias:
+    available_date: '2010-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 乃木坂春香の秘密 ぴゅあれっつぁ♪<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうわくはいおれつ
+    singer_name_ruby: ひめみやみらんとちよこれと
+    song_variation:
+    - esong_code: 2549B28
+      song_name: 誘惑ヴァイオレット
       content_type: ''

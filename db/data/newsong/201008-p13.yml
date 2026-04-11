@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1126
-  all_max_cnt: 1256
-  all_country_cnt: 1126
+  max_cnt: 1125
+  all_max_cnt: 1255
+  all_country_cnt: 1125
   song:
   - song_name: 今宵キミト
     song_alias:
@@ -217,23 +217,6 @@ result:
     - esong_code: 2587A6
       song_name: サイケデリックスマイル feat.初音ミク
       content_type: VOCALOID
-  - song_name: 最後のLOVE LETTER
-    song_alias:
-    esong_code: 1138B38
-    t_singer_master_id: '242'
-    singer_name: 稲垣 潤一
-    singer_alias:
-    available_date: '2010-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいこのらふれた
-    singer_name_ruby: いなかきしゆんいち
-    song_variation:
-    - esong_code: 1138B38
-      song_name: 最後のLOVE LETTER
-      content_type: ''
   - song_name: 最後のラブレター
     song_alias:
     esong_code: 2578B25
@@ -250,6 +233,23 @@ result:
     song_variation:
     - esong_code: 2578B25
       song_name: 最後のラブレター
+      content_type: ''
+  - song_name: 最後のLOVE LETTER
+    song_alias:
+    esong_code: 1138B38
+    t_singer_master_id: '242'
+    singer_name: 稲垣 潤一
+    singer_alias:
+    available_date: '2010-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいこのらふれた
+    singer_name_ruby: いなかきしゆんいち
+    song_variation:
+    - esong_code: 1138B38
+      song_name: 最後のLOVE LETTER
       content_type: ''
   - song_name: 最終決戦
     song_alias:
@@ -370,6 +370,23 @@ result:
     - esong_code: 2596A27
       song_name: サーカス
       content_type: ''
+  - song_name: 桜
+    song_alias:
+    esong_code: 2607B3
+    t_singer_master_id: '40788'
+    singer_name: けい・ゆーだい・INSPi
+    singer_alias:
+    available_date: '2010-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくら
+    singer_name_ruby: けいゆたいいんすひ
+    song_variation:
+    - esong_code: 2607B3
+      song_name: 桜
+      content_type: ''
   - song_name: 花桜
     song_alias:
     esong_code: 2571B33
@@ -404,23 +421,6 @@ result:
     - esong_code: 2577B49
       song_name: 桜 feat.初音ミク
       content_type: VOCALOID
-  - song_name: 桜
-    song_alias:
-    esong_code: 2607B3
-    t_singer_master_id: '40788'
-    singer_name: けい・ゆーだい・INSPi
-    singer_alias:
-    available_date: '2010-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくら
-    singer_name_ruby: けいゆたいいんすひ
-    song_variation:
-    - esong_code: 2607B3
-      song_name: 桜
-      content_type: ''
   - song_name: The Cry Against...
     song_alias:
     esong_code: 2578A34

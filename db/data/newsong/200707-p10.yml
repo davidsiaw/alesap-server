@@ -3,27 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
   - song_name: glitter
     song_alias:
-    esong_code: 1813B22
+    esong_code: 1805B6
     t_singer_master_id: '8492'
     singer_name: 浜崎 あゆみ
     singer_alias:
-    available_date: '2007-07-18'
+    available_date: '2007-07-13'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM良音
+    content_type:
     song_name_ruby: くりつた
     singer_name_ruby: はまさきあゆみ
     song_variation:
-    - esong_code: 1813B22
+    - esong_code: 1805B6
       song_name: glitter
-      content_type: DAM良音
+      content_type: ''
   - song_name: 車といふ名の密室
     song_alias:
     esong_code: 1815B9
@@ -319,7 +319,7 @@ result:
     t_singer_master_id: '1560'
     singer_name: 徳永 英明
     singer_alias:
-    available_date: '2007-07-11'
+    available_date: '2007-07-12'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

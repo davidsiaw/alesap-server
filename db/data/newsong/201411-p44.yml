@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1477
-  all_max_cnt: 1665
-  all_country_cnt: 1477
+  max_cnt: 1474
+  all_max_cnt: 1662
+  all_country_cnt: 1474
   song:
-  - song_name: モノクローム・サンセット
-    song_alias:
-    esong_code: 3349B16
-    t_singer_master_id: '5773'
-    singer_name: RAZZ MA TAZZ
-    singer_alias:
-    available_date: '2014-11-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ものくろむさんせつ
-    singer_name_ruby: らすまたす
-    song_variation:
-    - esong_code: 3349B16
-      song_name: モノクローム・サンセット
-      content_type: ''
-  - song_name: モノラルセカイ
-    song_alias:
-    esong_code: 3359A23
-    t_singer_master_id: '7844'
-    singer_name: スガ シカオ
-    singer_alias:
-    available_date: '2014-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ものらるせかい
-    singer_name_ruby: すかしかお
-    song_variation:
-    - esong_code: 3359A23
-      song_name: モノラルセカイ
-      content_type: ''
-  - song_name: 紅葉狩り音頭
-    song_alias:
-    esong_code: 3353A12
-    t_singer_master_id: '43737'
-    singer_name: 藤 小夜子
-    singer_alias:
-    available_date: '2014-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: もみしかりおんと
-    singer_name_ruby: ふしさよこ
-    song_variation:
-    - esong_code: 3353A12
-      song_name: 紅葉狩り音頭
-      content_type: ''
   - song_name: MOMO'S BEAT
     song_alias:
     esong_code: 3355A23
@@ -145,23 +94,6 @@ result:
       content_type: ''
   - song_name: 夜叉
     song_alias:
-    esong_code: 2616B25
-    t_singer_master_id: '2183'
-    singer_name: 真木 柚布子(由布子)
-    singer_alias:
-    available_date: '2014-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やしや
-    singer_name_ruby: まきゆうこ
-    song_variation:
-    - esong_code: 2616B25
-      song_name: 夜叉
-      content_type: ''
-  - song_name: 夜叉
-    song_alias:
     esong_code: 2616B24
     t_singer_master_id: '2183'
     singer_name: 真木 柚布子(由布子)
@@ -177,6 +109,23 @@ result:
     - esong_code: 2616B24
       song_name: 夜叉
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 夜叉
+    song_alias:
+    esong_code: 2616B25
+    t_singer_master_id: '2183'
+    singer_name: 真木 柚布子(由布子)
+    singer_alias:
+    available_date: '2014-11-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: やしや
+    singer_name_ruby: まきゆうこ
+    song_variation:
+    - esong_code: 2616B25
+      song_name: 夜叉
+      content_type: ''
   - song_name: 八尾坂道 風の盆
     song_alias:
     esong_code: 2337B22
@@ -517,3 +466,54 @@ result:
     - esong_code: 3357B2
       song_name: 雪の宿
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 雪の宿
+    song_alias:
+    esong_code: 3349B33
+    t_singer_master_id: '1699'
+    singer_name: 成世 昌平
+    singer_alias:
+    available_date: '2014-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ゆきのやと
+    singer_name_ruby: なるせしようへい
+    song_variation:
+    - esong_code: 3349B33
+      song_name: 雪の宿
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 雪の渡り鳥
+    song_alias:
+    esong_code: 2781B47
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2014-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆきのわたりとり
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 2781B47
+      song_name: 雪の渡り鳥
+      content_type: ''
+  - song_name: You can
+    song_alias:
+    esong_code: 3359A2
+    t_singer_master_id: '10470'
+    singer_name: 倉木 麻衣
+    singer_alias:
+    available_date: '2014-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆきやん
+    singer_name_ruby: くらきまい
+    song_variation:
+    - esong_code: 3359A2
+      song_name: You can
+      content_type: ''

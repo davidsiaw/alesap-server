@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1174
-  all_max_cnt: 1303
-  all_country_cnt: 1174
+  max_cnt: 1169
+  all_max_cnt: 1300
+  all_country_cnt: 1169
   song:
-  - song_name: UNLIMITED
-    song_alias:
-    esong_code: 1849B7
-    t_singer_master_id: '41701'
-    singer_name: FEST VAINQUEUR
-    singer_alias:
-    available_date: '2011-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんりみてつと
-    singer_name_ruby: ふえすとはんくる
-    song_variation:
-    - esong_code: 1849B7
-      song_name: UNLIMITED
-      content_type: ''
   - song_name: "「E」"
     song_alias:
     esong_code: 1793A21
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2011-02-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 停電ラジヲ<番組名>
+    tie_up: 停電少女と羽蟲のオーケストラ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いちりんか
@@ -330,23 +313,6 @@ result:
     - esong_code: 1826B7
       song_name: いっしょの時間
       content_type: ''
-  - song_name: IT'S OK feat.AI
-    song_alias:
-    esong_code: 1806B43
-    t_singer_master_id: '26529'
-    singer_name: AK-69
-    singer_alias:
-    available_date: '2011-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつつおけ
-    singer_name_ruby: えけしつくすていないん
-    song_variation:
-    - esong_code: 1806B43
-      song_name: IT'S OK feat.AI
-      content_type: ''
   - song_name: It's OK
     song_alias:
     esong_code: 2144A35
@@ -363,6 +329,23 @@ result:
     song_variation:
     - esong_code: 2144A35
       song_name: It's OK
+      content_type: ''
+  - song_name: IT'S OK feat.AI
+    song_alias:
+    esong_code: 1806B43
+    t_singer_master_id: '26529'
+    singer_name: AK-69
+    singer_alias:
+    available_date: '2011-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつつおけ
+    singer_name_ruby: えけしつくすていないん
+    song_variation:
+    - esong_code: 1806B43
+      song_name: IT'S OK feat.AI
       content_type: ''
   - song_name: It's all right
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1468B27
       song_name: 魂華
+      content_type: ''
+  - song_name: 祈り
+    song_alias:
+    esong_code: 1809B23
+    t_singer_master_id: '32525'
+    singer_name: Rose in many Colors
+    singer_alias:
+    available_date: '2011-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのり
+    singer_name_ruby: ろすいんめにからす
+    song_variation:
+    - esong_code: 1809B23
+      song_name: 祈り
       content_type: ''

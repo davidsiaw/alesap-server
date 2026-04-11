@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
-  - song_name: 枯れない花
-    song_alias:
-    esong_code: 2668A10
-    t_singer_master_id: '22234'
-    singer_name: 秋元 順子
-    singer_alias:
-    available_date: '2011-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: かれないはな
-    singer_name_ruby: あきもとしゆんこ
-    song_variation:
-    - esong_code: 2668A10
-      song_name: 枯れない花
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 枯れない花
-    song_alias:
-    esong_code: 2667B37
-    t_singer_master_id: '22234'
-    singer_name: 秋元 順子
-    singer_alias:
-    available_date: '2011-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かれないはな
-    singer_name_ruby: あきもとしゆんこ
-    song_variation:
-    - esong_code: 2667B37
-      song_name: 枯れない花
-      content_type: DAM生音
   - song_name: 花恋 〜かれん〜
     song_alias:
     esong_code: 2672A14
@@ -145,23 +111,6 @@ result:
       content_type: JOY生演奏
   - song_name: 寒椿
     song_alias:
-    esong_code: 2687B42
-    t_singer_master_id: '1683'
-    singer_name: 夏木 綾子
-    singer_alias:
-    available_date: '2011-09-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: かんつはき
-    singer_name_ruby: なつきあやこ
-    song_variation:
-    - esong_code: 2687B42
-      song_name: 寒椿
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 寒椿
-    song_alias:
     esong_code: 2673A29
     t_singer_master_id: '1683'
     singer_name: 夏木 綾子
@@ -177,6 +126,23 @@ result:
     - esong_code: 2673A29
       song_name: 寒椿
       content_type: ''
+  - song_name: 寒椿
+    song_alias:
+    esong_code: 2687B42
+    t_singer_master_id: '1683'
+    singer_name: 夏木 綾子
+    singer_alias:
+    available_date: '2011-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: かんつはき
+    singer_name_ruby: なつきあやこ
+    song_variation:
+    - esong_code: 2687B42
+      song_name: 寒椿
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 頑張っているあなたに
     song_alias:
     esong_code: 2672B18
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2669A34
       song_name: Keep It
+      content_type: ''
+  - song_name: "♯キボウレインボウ♯"
+    song_alias:
+    esong_code: 2667A48
+    t_singer_master_id: '39046'
+    singer_name: 池田 彩
+    singer_alias:
+    available_date: '2011-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スイートプリキュア♪<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きほうれいんほう
+    singer_name_ruby: いけたあや
+    song_variation:
+    - esong_code: 2667A48
+      song_name: "♯キボウレインボウ♯"
+      content_type: ''
+  - song_name: 君色
+    song_alias:
+    esong_code: 2678A38
+    t_singer_master_id: '42734'
+    singer_name: パク・ジョンミン
+    singer_alias:
+    available_date: '2011-09-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみいろ
+    singer_name_ruby: はくしよんみん
+    song_variation:
+    - esong_code: 2678A38
+      song_name: 君色
       content_type: ''

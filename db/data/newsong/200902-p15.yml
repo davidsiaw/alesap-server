@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: sweet swinging
-    song_alias:
-    esong_code: 2245A20
-    t_singer_master_id: '10095'
-    singer_name: clammbon
-    singer_alias:
-    available_date: '2009-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すいとすういんき
-    singer_name_ruby: くらむほん
-    song_variation:
-    - esong_code: 2245A20
-      song_name: sweet swinging
-      content_type: ''
   - song_name: sweep
     song_alias:
     esong_code: 2210A39
@@ -321,7 +304,7 @@ result:
     singer_alias:
     available_date: '2009-02-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: スレイヤーズ EVOLUTION-R<番組名>
+    tie_up: スレイヤーズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: すなとけい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2211A21
       song_name: Swallowtail Butterfly 〜あいのうた〜
+      content_type: ''
+  - song_name: 成功
+    song_alias:
+    esong_code: 2203B32
+    t_singer_master_id: '20269'
+    singer_name: KREVA
+    singer_alias:
+    available_date: '2009-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せいこう
+    singer_name_ruby: くれは
+    song_variation:
+    - esong_code: 2203B32
+      song_name: 成功
       content_type: ''

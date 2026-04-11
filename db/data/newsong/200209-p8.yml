@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 392
-  all_max_cnt: 480
-  all_country_cnt: 392
+  max_cnt: 391
+  all_max_cnt: 479
+  all_country_cnt: 391
   song:
-  - song_name: 涙の太陽
-    song_alias:
-    esong_code: 909B27
-    t_singer_master_id: '14486'
-    singer_name: 安西 マリア
-    singer_alias:
-    available_date: '2002-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみたのたいよう
-    singer_name_ruby: あんさいまりあ
-    song_variation:
-    - esong_code: 909B27
-      song_name: 涙の太陽
-      content_type: ''
   - song_name: NO.1
     song_alias:
     esong_code: 921A36
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 911B21
       song_name: バラードにリボンをかけて
+      content_type: ''
+  - song_name: 挽歌
+    song_alias:
+    esong_code: 134B43
+    t_singer_master_id: '2381'
+    singer_name: 村下 孝蔵
+    singer_alias:
+    available_date: '2002-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はんか
+    singer_name_ruby: むらしたこうそう
+    song_variation:
+    - esong_code: 134B43
+      song_name: 挽歌
       content_type: ''

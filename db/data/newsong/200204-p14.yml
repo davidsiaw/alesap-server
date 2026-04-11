@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: "『パズル』"
+    song_alias:
+    esong_code: 815B30
+    t_singer_master_id: '10480'
+    singer_name: Dream
+    singer_alias:
+    available_date: '2002-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はする
+    singer_name_ruby: とりむ
+    song_variation:
+    - esong_code: 815B30
+      song_name: "『パズル』"
+      content_type: ''
   - song_name: Back To Back
     song_alias:
     esong_code: 828B23
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 829B27
       song_name: ひぐらし
-      content_type: ''
-  - song_name: Peace Out イザ・サラバ。
-    song_alias:
-    esong_code: 773A37
-    t_singer_master_id: '12612'
-    singer_name: RUN&GUN
-    singer_alias:
-    available_date: '2002-04-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひすあうと
-    singer_name_ruby: らんあんとかん
-    song_variation:
-    - esong_code: 773A37
-      song_name: Peace Out イザ・サラバ。
       content_type: ''

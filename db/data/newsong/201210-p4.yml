@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: アンドロメダまで1hour
-    song_alias:
-    esong_code: 2913A42
-    t_singer_master_id: '14004'
-    singer_name: 田村 ゆかり
-    singer_alias:
-    available_date: '2012-10-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんとろめたまて
-    singer_name_ruby: たむらゆかり
-    song_variation:
-    - esong_code: 2913A42
-      song_name: アンドロメダまで1hour
-      content_type: ''
   - song_name: あんまり素敵じゃない世界
     song_alias:
     esong_code: 2910A13
@@ -332,23 +315,6 @@ result:
       content_type: ''
   - song_name: いつも笑顔で
     song_alias:
-    esong_code: 2905A39
-    t_singer_master_id: '21868'
-    singer_name: 井上 麻里奈
-    singer_alias:
-    available_date: '2012-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: スマイルプリキュア!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつもえかおて
-    singer_name_ruby: いのうえまりな
-    song_variation:
-    - esong_code: 2905A39
-      song_name: いつも笑顔で
-      content_type: ''
-  - song_name: いつも笑顔で
-    song_alias:
     esong_code: 2905B35
     t_singer_master_id: '36352'
     singer_name: ビーグルクルー
@@ -362,6 +328,23 @@ result:
     singer_name_ruby: ひくるくる
     song_variation:
     - esong_code: 2905B35
+      song_name: いつも笑顔で
+      content_type: ''
+  - song_name: いつも笑顔で
+    song_alias:
+    esong_code: 2905A39
+    t_singer_master_id: '21868'
+    singer_name: 井上 麻里奈
+    singer_alias:
+    available_date: '2012-10-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スマイルプリキュア!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつもえかおて
+    singer_name_ruby: いのうえまりな
+    song_variation:
+    - esong_code: 2905A39
       song_name: いつも笑顔で
       content_type: ''
   - song_name: いつも君がいた (Album ver.)
@@ -500,7 +483,7 @@ result:
     - esong_code: 2905A3
       song_name: 祈り〜涙の軌道 「名演ピアノ 美野 春樹」
       content_type: ''
-  - song_name: 祈りのように (瀬奈・霧矢・城咲) [DAM本人歌唱]
+  - song_name: 祈りのように (瀬奈・霧矢・城咲)[DAM本人歌唱]
     song_alias:
     esong_code: 2931B24
     t_singer_master_id: '1349'
@@ -515,5 +498,22 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 2931B24
-      song_name: 祈りのように (瀬奈・霧矢・城咲) [DAM本人歌唱]
+      song_name: 祈りのように (瀬奈・霧矢・城咲)[DAM本人歌唱]
       content_type: DAM本人歌唱
+  - song_name: 茨の木
+    song_alias:
+    esong_code: 2918A26
+    t_singer_master_id: '852'
+    singer_name: 小林 幸子(SACHIKO de KOBAYASHI)
+    singer_alias:
+    available_date: '2012-10-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いはらのき
+    singer_name_ruby: こはやしさちこ
+    song_variation:
+    - esong_code: 2918A26
+      song_name: 茨の木
+      content_type: ''

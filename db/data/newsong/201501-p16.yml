@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1114
-  all_max_cnt: 1275
-  all_country_cnt: 1114
+  max_cnt: 1110
+  all_max_cnt: 1271
+  all_country_cnt: 1110
   song:
-  - song_name: Snow Whisper feat.SYO&きゃろ
-    song_alias:
-    esong_code: 3381B8
-    t_singer_master_id: '36337'
-    singer_name: SOUND HOLIC
-    singer_alias:
-    available_date: '2015-01-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方妖々夢 〜Perfect Cherry Blossom.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: すのうういすは
-    singer_name_ruby: さうんとほりつく
-    song_variation:
-    - esong_code: 3381B8
-      song_name: Snow Whisper feat.SYO&きゃろ
-      content_type: 東方
   - song_name: Snow break
     song_alias:
     esong_code: 3382A42
@@ -517,3 +500,20 @@ result:
     - esong_code: 3379B48
       song_name: セルリアンヴェスパ feat.IA
       content_type: VOCALOID
+  - song_name: CELESTITE
+    song_alias:
+    esong_code: 3380B45
+    t_singer_master_id: '52047'
+    singer_name: 羽多野 渉&木村 良平
+    singer_alias:
+    available_date: '2015-01-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: TSUKIPRO SERIES<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: せれすたいと
+    singer_name_ruby: はたのわたるきむらりようへ
+    song_variation:
+    - esong_code: 3380B45
+      song_name: CELESTITE
+      content_type: ''

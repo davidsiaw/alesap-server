@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
   - song_name: 四季桜
     song_alias:
@@ -13,7 +13,7 @@ result:
     t_singer_master_id: '389'
     singer_name: 大月 みやこ
     singer_alias:
-    available_date: '2013-03-26'
+    available_date: '2013-03-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: じぶんROCK
     song_alias:
-    esong_code: 3003A47
-    t_singer_master_id: '28360'
-    singer_name: ONE OK ROCK
-    singer_alias:
-    available_date: '2013-03-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: しふんろつく
-    singer_name_ruby: わんおくろつく
-    song_variation:
-    - esong_code: 3003A47
-      song_name: じぶんROCK
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: じぶんROCK
-    song_alias:
     esong_code: 3003A27
     t_singer_master_id: '28360'
     singer_name: ONE OK ROCK
@@ -296,6 +279,23 @@ result:
     - esong_code: 3003A27
       song_name: じぶんROCK
       content_type: DAM生音
+  - song_name: じぶんROCK
+    song_alias:
+    esong_code: 3003A47
+    t_singer_master_id: '28360'
+    singer_name: ONE OK ROCK
+    singer_alias:
+    available_date: '2013-03-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: しふんろつく
+    singer_name_ruby: わんおくろつく
+    song_variation:
+    - esong_code: 3003A47
+      song_name: じぶんROCK
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 島唄 (2013年 ver.)
     song_alias:
     esong_code: 3006B25

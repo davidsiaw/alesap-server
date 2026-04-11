@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1550
-  all_country_cnt: 1338
+  max_cnt: 1320
+  all_max_cnt: 1532
+  all_country_cnt: 1320
   song:
-  - song_name: 想いあい
-    song_alias:
-    esong_code: 4146B31
-    t_singer_master_id: '62804'
-    singer_name: the shes gone
-    singer_alias:
-    available_date: '2019-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいあい
-    singer_name_ruby: しすこん
-    song_variation:
-    - esong_code: 4146B31
-      song_name: 想いあい
-      content_type: ''
-  - song_name: 思い出してあなたを
-    song_alias:
-    esong_code: 4144B30
-    t_singer_master_id: '52390'
-    singer_name: 月野 うさぎ/セーラームーン
-    singer_alias:
-    available_date: '2019-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 美少女戦士セーラームーン(ミュージカル)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいたしてあなた
-    singer_name_ruby: つきのうさきせらむ
-    song_variation:
-    - esong_code: 4144B30
-      song_name: 思い出してあなたを
-      content_type: ''
   - song_name: 情念月
     song_alias:
     esong_code: 4137A43
@@ -298,23 +264,6 @@ result:
       content_type: ''
   - song_name: 女一代 演歌船
     song_alias:
-    esong_code: 4142B6
-    t_singer_master_id: '2230'
-    singer_name: 松前 ひろ子
-    singer_alias:
-    available_date: '2019-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: おんないちたいえん
-    singer_name_ruby: まつまえひろこ
-    song_variation:
-    - esong_code: 4142B6
-      song_name: 女一代 演歌船
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 女一代 演歌船
-    song_alias:
     esong_code: 4138B19
     t_singer_master_id: '2230'
     singer_name: 松前 ひろ子
@@ -330,6 +279,23 @@ result:
     - esong_code: 4138B19
       song_name: 女一代 演歌船
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 女一代 演歌船
+    song_alias:
+    esong_code: 4142B6
+    t_singer_master_id: '2230'
+    singer_name: 松前 ひろ子
+    singer_alias:
+    available_date: '2019-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: おんないちたいえん
+    singer_name_ruby: まつまえひろこ
+    song_variation:
+    - esong_code: 4142B6
+      song_name: 女一代 演歌船
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: おんな川
     song_alias:
     esong_code: 4146A37
@@ -440,7 +406,7 @@ result:
     singer_alias:
     available_date: '2019-02-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: Caligula Overdose -カリギュラ オーバードーズ-<番組名>
+    tie_up: Caligula-カリギュラ-(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おんほろ
@@ -517,3 +483,37 @@ result:
     - esong_code: 4151B39
       song_name: 楓
       content_type: ''
+  - song_name: かえるくんの冒険
+    song_alias:
+    esong_code: 4146B30
+    t_singer_master_id: '51371'
+    singer_name: コンテンポラリーな生活
+    singer_alias:
+    available_date: '2019-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かえるくんのほうけ
+    singer_name_ruby: こんてんほらりなせいかつ
+    song_variation:
+    - esong_code: 4146B30
+      song_name: かえるくんの冒険
+      content_type: ''
+  - song_name: カエロスティウム
+    song_alias:
+    esong_code: 4139B8
+    t_singer_master_id: '46568'
+    singer_name: otetsu feat.巡音ルカ
+    singer_alias:
+    available_date: '2019-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: かえろすていうむ
+    singer_name_ruby: おてつふいちやりんくめ
+    song_variation:
+    - esong_code: 4139B8
+      song_name: カエロスティウム
+      content_type: VOCALOID

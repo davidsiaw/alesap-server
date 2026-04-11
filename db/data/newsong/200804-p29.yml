@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: フィーバーブギ
-    song_alias:
-    esong_code: 1989B15
-    t_singer_master_id: '15809'
-    singer_name: 大木 綾子
-    singer_alias:
-    available_date: '2008-04-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふいはふき
-    singer_name_ruby: おおきあやこ
-    song_variation:
-    - esong_code: 1989B15
-      song_name: フィーバーブギ
-      content_type: ''
   - song_name: forever we can make it!
     song_alias:
     esong_code: 1990A6
@@ -372,7 +355,7 @@ result:
     singer_alias:
     available_date: '2008-04-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 氷上・丹下のトラチョコチャット<番組名>
+    tie_up: トラブルチョコレート<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふらいとしやいんお
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1989A38
       song_name: Flashback
+      content_type: ''
+  - song_name: ぶらり旅だよ東海道
+    song_alias:
+    esong_code: 1976B5
+    t_singer_master_id: '26764'
+    singer_name: 伊東 らん子
+    singer_alias:
+    available_date: '2008-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらりたひたよ
+    singer_name_ruby: いとうらんこ
+    song_variation:
+    - esong_code: 1976B5
+      song_name: ぶらり旅だよ東海道
       content_type: ''

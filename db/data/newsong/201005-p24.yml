@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 911
-  all_max_cnt: 1051
-  all_country_cnt: 911
+  max_cnt: 909
+  all_max_cnt: 1049
+  all_country_cnt: 909
   song:
-  - song_name: 星の数だけ抱きしめて
-    song_alias:
-    esong_code: 2530A4
-    t_singer_master_id: '24738'
-    singer_name: MAY'S
-    singer_alias:
-    available_date: '2010-05-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしのかすたけた
-    singer_name_ruby: めいす
-    song_variation:
-    - esong_code: 2530A4
-      song_name: 星の数だけ抱きしめて
-      content_type: ''
   - song_name: 蛍の光
     song_alias:
     esong_code: 2536A32
@@ -423,7 +406,7 @@ result:
     singer_alias:
     available_date: '2010-05-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀幕ヘタリア Axis Powers Paint it,White(白くぬれ!)<番組名>
+    tie_up: ヘタリア(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まいんこつと
@@ -431,23 +414,6 @@ result:
     song_variation:
     - esong_code: 2541B22
       song_name: Mein Gott!
-      content_type: ''
-  - song_name: まごころの花
-    song_alias:
-    esong_code: 2529B41
-    t_singer_master_id: '1994'
-    singer_name: 藤 あや子
-    singer_alias:
-    available_date: '2010-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まこころのはな
-    singer_name_ruby: ふしあやこ
-    song_variation:
-    - esong_code: 2529B41
-      song_name: まごころの花
       content_type: ''
   - song_name: まごころの花
     song_alias:
@@ -466,6 +432,23 @@ result:
     - esong_code: 2535B14
       song_name: まごころの花
       content_type: DAM生音
+  - song_name: まごころの花
+    song_alias:
+    esong_code: 2529B41
+    t_singer_master_id: '1994'
+    singer_name: 藤 あや子
+    singer_alias:
+    available_date: '2010-05-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まこころのはな
+    singer_name_ruby: ふしあやこ
+    song_variation:
+    - esong_code: 2529B41
+      song_name: まごころの花
+      content_type: ''
   - song_name: Mother
     song_alias:
     esong_code: 2532A36
@@ -482,23 +465,6 @@ result:
     song_variation:
     - esong_code: 2532A36
       song_name: Mother
-      content_type: ''
-  - song_name: まさし
-    song_alias:
-    esong_code: 2543B44
-    t_singer_master_id: '33453'
-    singer_name: ゴールデンボンバー
-    singer_alias:
-    available_date: '2010-05-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まさし
-    singer_name_ruby: こるてんほんは
-    song_variation:
-    - esong_code: 2543B44
-      song_name: まさし
       content_type: ''
   - song_name: マジジョテッペンブルース
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 2542B7
       song_name: マジジョテッペンブルース
       content_type: ''
+  - song_name: Magic Spell
+    song_alias:
+    esong_code: 2540A1
+    t_singer_master_id: '18179'
+    singer_name: 新谷 良子(新☆谷良子)
+    singer_alias:
+    available_date: '2010-05-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: トリックスター0 -ラブ-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ましつくすへる
+    singer_name_ruby: しんたにりようこ
+    song_variation:
+    - esong_code: 2540A1
+      song_name: Magic Spell
+      content_type: ''
+  - song_name: マシーン・セリバテール feat.初音ミク
+    song_alias:
+    esong_code: 2540B39
+    t_singer_master_id: '36460'
+    singer_name: kihirohito
+    singer_alias:
+    available_date: '2010-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ましんせりはて
+    singer_name_ruby: きひろひと
+    song_variation:
+    - esong_code: 2540B39
+      song_name: マシーン・セリバテール feat.初音ミク
+      content_type: VOCALOID

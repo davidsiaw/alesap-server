@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1080
-  all_max_cnt: 1211
-  all_country_cnt: 1080
+  max_cnt: 1066
+  all_max_cnt: 1197
+  all_country_cnt: 1066
   song:
-  - song_name: 顔が無理
-    song_alias:
-    esong_code: 4187B32
-    t_singer_master_id: '60465'
-    singer_name: "-真天地開闢集団-ジグザグ"
-    singer_alias:
-    available_date: '2019-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かおかむり
-    singer_name_ruby: しんてんちかいひやくしゆうたんしく
-    song_variation:
-    - esong_code: 4187B32
-      song_name: 顔が無理
-      content_type: ''
-  - song_name: 書き下ろし主題歌
-    song_alias:
-    esong_code: 4192B32
-    t_singer_master_id: '63149'
-    singer_name: 眉村 ちあき
-    singer_alias:
-    available_date: '2019-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かきおろししゆたい
-    singer_name_ruby: まゆむらちあき
-    song_variation:
-    - esong_code: 4192B32
-      song_name: 書き下ろし主題歌
-      content_type: ''
-  - song_name: 学術的研究成果
-    song_alias:
-    esong_code: 4191B48
-    t_singer_master_id: '53448'
-    singer_name: 大地 葉
-    singer_alias:
-    available_date: '2019-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: LAIDBACKERS-レイドバッカーズ-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かくしゆつてきけ
-    singer_name_ruby: たいちよう
-    song_variation:
-    - esong_code: 4191B48
-      song_name: 学術的研究成果
-      content_type: ''
   - song_name: 彩酒
     song_alias:
     esong_code: 4193B26
@@ -281,23 +230,6 @@ result:
       content_type: ''
   - song_name: 悲しい女になりきって
     song_alias:
-    esong_code: 4189B25
-    t_singer_master_id: '356'
-    singer_name: 大石 まどか(大石円)
-    singer_alias:
-    available_date: '2019-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしいおんなになり
-    singer_name_ruby: おおいしまとか
-    song_variation:
-    - esong_code: 4189B25
-      song_name: 悲しい女になりきって
-      content_type: ''
-  - song_name: 悲しい女になりきって
-    song_alias:
     esong_code: 4189A41
     t_singer_master_id: '356'
     singer_name: 大石 まどか(大石円)
@@ -313,6 +245,23 @@ result:
     - esong_code: 4189A41
       song_name: 悲しい女になりきって
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 悲しい女になりきって
+    song_alias:
+    esong_code: 4189B25
+    t_singer_master_id: '356'
+    singer_name: 大石 まどか(大石円)
+    singer_alias:
+    available_date: '2019-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしいおんなになり
+    singer_name_ruby: おおいしまとか
+    song_variation:
+    - esong_code: 4189B25
+      song_name: 悲しい女になりきって
+      content_type: ''
   - song_name: 哀しいくらいにONLY YOU
     song_alias:
     esong_code: 4188B22
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4189A49
       song_name: がんばるきみへ
+      content_type: ''
+  - song_name: 傷だらけのローラ
+    song_alias:
+    esong_code: 4189A35
+    t_singer_master_id: '901'
+    singer_name: 西城 秀樹
+    singer_alias:
+    available_date: '2019-05-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾗｲｳﾞ視聴用
+    song_name_ruby: きすたらけのろ
+    singer_name_ruby: さいしようひてき
+    song_variation:
+    - esong_code: 4189A35
+      song_name: 傷だらけのローラ
+      content_type: JOYﾗｲｳﾞ視聴用
+  - song_name: Kiss Me
+    song_alias:
+    esong_code: 4194B36
+    t_singer_master_id: '63954'
+    singer_name: Nai Br.XX&Celeina Ann
+    singer_alias:
+    available_date: '2019-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: キャロル&チューズデイ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすみ
+    singer_name_ruby: ないふりつくすあんと
+    song_variation:
+    - esong_code: 4194B36
+      song_name: Kiss Me
+      content_type: ''
+  - song_name: きっといい恋できますね
+    song_alias:
+    esong_code: 4189B23
+    t_singer_master_id: '235'
+    singer_name: 伊藤 咲子
+    singer_alias:
+    available_date: '2019-05-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きつといいこいてき
+    singer_name_ruby: いとうさきこ
+    song_variation:
+    - esong_code: 4189B23
+      song_name: きっといい恋できますね
       content_type: ''

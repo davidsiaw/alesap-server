@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1080
-  all_max_cnt: 1165
-  all_country_cnt: 1080
+  max_cnt: 1075
+  all_max_cnt: 1160
+  all_country_cnt: 1075
   song:
-  - song_name: 君の住む街へ
-    song_alias:
-    esong_code: 1900B45
-    t_singer_master_id: '31490'
-    singer_name: 市川 たかし
-    singer_alias:
-    available_date: '2007-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみのすむまちへ
-    singer_name_ruby: いちかわたかし
-    song_variation:
-    - esong_code: 1900B45
-      song_name: 君の住む街へ
-      content_type: ''
   - song_name: 君のとなり
     song_alias:
     esong_code: 1896A10
@@ -162,23 +145,6 @@ result:
       content_type: ''
   - song_name: 銀座カンカン娘
     song_alias:
-    esong_code: 1903A9
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2007-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんさかんかんむ
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 1903A9
-      song_name: 銀座カンカン娘
-      content_type: ''
-  - song_name: 銀座カンカン娘
-    song_alias:
     esong_code: 1901B45
     t_singer_master_id: '7456'
     singer_name: ゴスペラーズ(The Gospellers)
@@ -192,6 +158,23 @@ result:
     singer_name_ruby: こすへらす
     song_variation:
     - esong_code: 1901B45
+      song_name: 銀座カンカン娘
+      content_type: ''
+  - song_name: 銀座カンカン娘
+    song_alias:
+    esong_code: 1903A9
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2007-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きんさかんかんむ
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 1903A9
       song_name: 銀座カンカン娘
       content_type: ''
   - song_name: 銀蝶渡り鳥
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1908A49
       song_name: GREED
+      content_type: ''
+  - song_name: 車が暖まるまで・・・
+    song_alias:
+    esong_code: 1895B8
+    t_singer_master_id: '13483'
+    singer_name: 高木 ちえ美
+    singer_alias:
+    available_date: '2007-11-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くるまかあたたまる
+    singer_name_ruby: たかきちえみ
+    song_variation:
+    - esong_code: 1895B8
+      song_name: 車が暖まるまで・・・
       content_type: ''

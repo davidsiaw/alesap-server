@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 592
-  all_max_cnt: 727
-  all_country_cnt: 592
+  max_cnt: 588
+  all_max_cnt: 723
+  all_country_cnt: 588
   song:
   - song_name: 兄貴のふるさと
     song_alias:
@@ -194,23 +194,6 @@ result:
     - esong_code: 398B5
       song_name: 雨の中のメロディー
       content_type: ''
-  - song_name: 彩〜Aja〜
-    song_alias:
-    esong_code: 376B7
-    t_singer_master_id: '944'
-    singer_name: サザンオールスターズ
-    singer_alias:
-    available_date: '2004-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あや
-    singer_name_ruby: ささんおるすたす
-    song_variation:
-    - esong_code: 376B7
-      song_name: 彩〜Aja〜
-      content_type: ''
   - song_name: 嵐メドレー 〜2002〜
     song_alias:
     esong_code: 410A5
@@ -347,23 +330,6 @@ result:
     - esong_code: 398B8
       song_name: 石川大阪友好条約
       content_type: ''
-  - song_name: いっさいがっさい
-    song_alias:
-    esong_code: 435B47
-    t_singer_master_id: '18260'
-    singer_name: 奥村 愛子
-    singer_alias:
-    available_date: '2004-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつさいかつさい
-    singer_name_ruby: おくむらあいこ
-    song_variation:
-    - esong_code: 435B47
-      song_name: いっさいがっさい
-      content_type: ''
   - song_name: いっさいがっさい(密命ヴァージョン)
     song_alias:
     esong_code: 365A1
@@ -380,6 +346,23 @@ result:
     song_variation:
     - esong_code: 365A1
       song_name: いっさいがっさい(密命ヴァージョン)
+      content_type: ''
+  - song_name: いっさいがっさい
+    song_alias:
+    esong_code: 435B47
+    t_singer_master_id: '18260'
+    singer_name: 奥村 愛子
+    singer_alias:
+    available_date: '2004-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつさいかつさい
+    singer_name_ruby: おくむらあいこ
+    song_variation:
+    - esong_code: 435B47
+      song_name: いっさいがっさい
       content_type: ''
   - song_name: いつでも
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 347A14
       song_name: in the name of love
+      content_type: ''
+  - song_name: UAベストメドレー
+    song_alias:
+    esong_code: 410A7
+    t_singer_master_id: '7037'
+    singer_name: UA(ううあ)
+    singer_alias:
+    available_date: '2004-04-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うあへすとめと
+    singer_name_ruby: うあ
+    song_variation:
+    - esong_code: 410A7
+      song_name: UAベストメドレー
       content_type: ''

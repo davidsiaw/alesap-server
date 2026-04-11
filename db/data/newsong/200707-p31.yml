@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: ミセス・ポットの助言
-    song_alias:
-    esong_code: 1819A12
-    t_singer_master_id: '15601'
-    singer_name: 劇団四季(ミュージカル)
-    singer_alias:
-    available_date: '2007-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みせすほつとのし
-    singer_name_ruby: けきたんしきみゆしかる
-    song_variation:
-    - esong_code: 1819A12
-      song_name: ミセス・ポットの助言
-      content_type: ''
   - song_name: 魅せられて
     song_alias:
     esong_code: 1818A49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1808A33
       song_name: めぐる恋の季節
+      content_type: ''
+  - song_name: Memory
+    song_alias:
+    esong_code: 1811B21
+    t_singer_master_id: '30345'
+    singer_name: 上條 ひとみ
+    singer_alias:
+    available_date: '2007-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めもり
+    singer_name_ruby: かみしようひとみ
+    song_variation:
+    - esong_code: 1811B21
+      song_name: Memory
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
   - song_name: 悲しみはオーロラに
     song_alias:
@@ -43,23 +43,6 @@ result:
       content_type: ''
   - song_name: カーネーション
     song_alias:
-    esong_code: 1805B49
-    t_singer_master_id: '8522'
-    singer_name: 椎名 林檎
-    singer_alias:
-    available_date: '2011-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かねしよん
-    singer_name_ruby: しいなりんこ
-    song_variation:
-    - esong_code: 1805B49
-      song_name: カーネーション
-      content_type: ''
-  - song_name: カーネーション
-    song_alias:
     esong_code: 2696B26
     t_singer_master_id: '8522'
     singer_name: 椎名 林檎
@@ -75,6 +58,23 @@ result:
     - esong_code: 2696B26
       song_name: カーネーション
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: カーネーション
+    song_alias:
+    esong_code: 1805B49
+    t_singer_master_id: '8522'
+    singer_name: 椎名 林檎
+    singer_alias:
+    available_date: '2011-11-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かねしよん
+    singer_name_ruby: しいなりんこ
+    song_variation:
+    - esong_code: 1805B49
+      song_name: カーネーション
+      content_type: ''
   - song_name: カパネットにとり feat.愛空アキハ
     song_alias:
     esong_code: 2702A23
@@ -434,21 +434,21 @@ result:
       content_type: ''
   - song_name: 寒ぼたん
     song_alias:
-    esong_code: 2705B20
+    esong_code: 2696B24
     t_singer_master_id: '8698'
     singer_name: 川野 夏美
     singer_alias:
-    available_date: '2011-11-01'
+    available_date: '2011-11-02'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: かんほたん
     singer_name_ruby: かわのなつみ
     song_variation:
-    - esong_code: 2705B20
+    - esong_code: 2696B24
       song_name: 寒ぼたん
-      content_type: DAMﾌﾟﾛｵｹ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 寒ぼたん
     song_alias:
     esong_code: 2704B45
@@ -468,6 +468,23 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 寒ぼたん
     song_alias:
+    esong_code: 2705B20
+    t_singer_master_id: '8698'
+    singer_name: 川野 夏美
+    singer_alias:
+    available_date: '2011-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: かんほたん
+    singer_name_ruby: かわのなつみ
+    song_variation:
+    - esong_code: 2705B20
+      song_name: 寒ぼたん
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 寒ぼたん
+    song_alias:
     esong_code: 1815A5
     t_singer_master_id: '8698'
     singer_name: 川野 夏美
@@ -483,23 +500,6 @@ result:
     - esong_code: 1815A5
       song_name: 寒ぼたん
       content_type: ''
-  - song_name: 寒ぼたん
-    song_alias:
-    esong_code: 2696B24
-    t_singer_master_id: '8698'
-    singer_name: 川野 夏美
-    singer_alias:
-    available_date: '2011-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かんほたん
-    singer_name_ruby: かわのなつみ
-    song_variation:
-    - esong_code: 2696B24
-      song_name: 寒ぼたん
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ガンよ飛んで行け
     song_alias:
     esong_code: 2707A36

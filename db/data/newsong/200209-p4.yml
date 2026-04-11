@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 392
-  all_max_cnt: 480
-  all_country_cnt: 392
+  max_cnt: 391
+  all_max_cnt: 479
+  all_country_cnt: 391
   song:
-  - song_name: 心に乙女
-    song_alias:
-    esong_code: 918A24
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '2002-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころにおとめ
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 918A24
-      song_name: 心に乙女
-      content_type: ''
   - song_name: 心の絆
     song_alias:
     esong_code: 810B40
@@ -300,7 +283,7 @@ result:
     song_alias:
     esong_code: 916A24
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2002-09-04'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 898A26
       song_name: 時間よとまれ
+      content_type: ''
+  - song_name: 時刻表
+    song_alias:
+    esong_code: 135A45
+    t_singer_master_id: '1632'
+    singer_name: 中島 みゆき
+    singer_alias:
+    available_date: '2002-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しこくひよう
+    singer_name_ruby: なかしまみゆき
+    song_variation:
+    - esong_code: 135A45
+      song_name: 時刻表
       content_type: ''

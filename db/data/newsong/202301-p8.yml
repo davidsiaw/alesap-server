@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 952
-  all_max_cnt: 1096
-  all_country_cnt: 952
+  max_cnt: 967
+  all_max_cnt: 1109
+  all_country_cnt: 967
   song:
+  - song_name: KING of SPADE
+    song_alias:
+    esong_code: 4730A2
+    t_singer_master_id: '70908'
+    singer_name: 南 早紀&沼倉 愛美&末柄 里恵&小笠原 早紀
+    singer_alias:
+    available_date: '2023-01-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター ミリオンライブ! シアターデイズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きんくおふすへ
+    singer_name_ruby: みなみさきぬまくらまなみす
+    song_variation:
+    - esong_code: 4730A2
+      song_name: KING of SPADE
+      content_type: ''
   - song_name: 禁言 (Prod.S.L.N.M)
     song_alias:
     esong_code: 4735A1
@@ -145,23 +162,6 @@ result:
       content_type: ''
   - song_name: グッドな音楽を
     song_alias:
-    esong_code: 4733B13
-    t_singer_master_id: '68626'
-    singer_name: ねぐせ。
-    singer_alias:
-    available_date: '2023-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: くつとなおんか
-    singer_name_ruby: ねくせ
-    song_variation:
-    - esong_code: 4733B13
-      song_name: グッドな音楽を
-      content_type: DAM生音
-  - song_name: グッドな音楽を
-    song_alias:
     esong_code: 4732A3
     t_singer_master_id: '68626'
     singer_name: ねぐせ。
@@ -177,6 +177,23 @@ result:
     - esong_code: 4732A3
       song_name: グッドな音楽を
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: グッドな音楽を
+    song_alias:
+    esong_code: 4733B13
+    t_singer_master_id: '68626'
+    singer_name: ねぐせ。
+    singer_alias:
+    available_date: '2023-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: くつとなおんか
+    singer_name_ruby: ねくせ
+    song_variation:
+    - esong_code: 4733B13
+      song_name: グッドな音楽を
+      content_type: DAM生音
   - song_name: グッドバイ
     song_alias:
     esong_code: 4732A1
@@ -261,6 +278,23 @@ result:
     song_variation:
     - esong_code: 4735A13
       song_name: Clouds Across The Moon
+      content_type: ''
+  - song_name: cloud achoo
+    song_alias:
+    esong_code: 4880B42
+    t_singer_master_id: '66655'
+    singer_name: Rin音
+    singer_alias:
+    available_date: '2023-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらうとあちゆ
+    singer_name_ruby: りんね
+    song_variation:
+    - esong_code: 4880B42
+      song_name: cloud achoo
       content_type: ''
   - song_name: Crown Clown
     song_alias:
@@ -468,23 +502,6 @@ result:
       content_type: ''
   - song_name: 群青
     song_alias:
-    esong_code: 4736A40
-    t_singer_master_id: '64865'
-    singer_name: Muvidat
-    singer_alias:
-    available_date: '2023-01-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 最後の召喚師 -The Last Summoner-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くんしよう
-    singer_name_ruby: むひたつと
-    song_variation:
-    - esong_code: 4736A40
-      song_name: 群青
-      content_type: ''
-  - song_name: 群青
-    song_alias:
     esong_code: 4729A16
     t_singer_master_id: '60429'
     singer_name: 千葉 翔也
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 4729A16
       song_name: 群青
-      content_type: ''
-  - song_name: 芸者ズンバ (Remix Version)
-    song_alias:
-    esong_code: 4732B9
-    t_singer_master_id: '29540'
-    singer_name: 夢路
-    singer_alias:
-    available_date: '2023-01-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けいしやすんは
-    singer_name_ruby: ゆめし
-    song_variation:
-    - esong_code: 4732B9
-      song_name: 芸者ズンバ (Remix Version)
       content_type: ''

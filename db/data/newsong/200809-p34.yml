@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: 目ン無い千鳥
-    song_alias:
-    esong_code: 2120A32
-    t_singer_master_id: '697'
-    singer_name: 霧島 昇&松原 操
-    singer_alias:
-    available_date: '2008-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めんないちとり
-    singer_name_ruby: きりしまのほるまつ
-    song_variation:
-    - esong_code: 2120A32
-      song_name: 目ン無い千鳥
-      content_type: ''
-  - song_name: モウイチド
-    song_alias:
-    esong_code: 2102A41
-    t_singer_master_id: '13569'
-    singer_name: 熊木 杏里
-    singer_alias:
-    available_date: '2008-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: もういちと
-    singer_name_ruby: くまきあんり
-    song_variation:
-    - esong_code: 2102A41
-      song_name: モウイチド
-      content_type: ''
   - song_name: 妄想ガール
     song_alias:
     esong_code: 2079A19
@@ -94,23 +60,6 @@ result:
       content_type: ''
   - song_name: 約束
     song_alias:
-    esong_code: 2084A49
-    t_singer_master_id: '15541'
-    singer_name: SABOTEN
-    singer_alias:
-    available_date: '2008-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やくそく
-    singer_name_ruby: さほてん
-    song_variation:
-    - esong_code: 2084A49
-      song_name: 約束
-      content_type: ''
-  - song_name: 約束
-    song_alias:
     esong_code: 2078A8
     t_singer_master_id: '33950'
     singer_name: golf
@@ -126,13 +75,30 @@ result:
     - esong_code: 2078A8
       song_name: 約束
       content_type: ''
+  - song_name: 約束
+    song_alias:
+    esong_code: 2084A49
+    t_singer_master_id: '15541'
+    singer_name: SABOTEN
+    singer_alias:
+    available_date: '2008-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: やくそく
+    singer_name_ruby: さほてん
+    song_variation:
+    - esong_code: 2084A49
+      song_name: 約束
+      content_type: ''
   - song_name: 約束の日 feat.青山テルマ
     song_alias:
     esong_code: 2102A27
     t_singer_master_id: '15624'
     singer_name: 童子-T
     singer_alias:
-    available_date: '2008-09-23'
+    available_date: '2008-09-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2075B24
       song_name: 夢芝居
+      content_type: ''
+  - song_name: 夢だったのね
+    song_alias:
+    esong_code: 2080B6
+    t_singer_master_id: '10917'
+    singer_name: ラッパ我リヤ
+    singer_alias:
+    available_date: '2008-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめたつたのね
+    singer_name_ruby: らつはかりや
+    song_variation:
+    - esong_code: 2080B6
+      song_name: 夢だったのね
+      content_type: ''
+  - song_name: 夢伝説 (新録)
+    song_alias:
+    esong_code: 2081B32
+    t_singer_master_id: '1241'
+    singer_name: スターダスト☆レビュー
+    singer_alias:
+    available_date: '2008-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめてんせつ
+    singer_name_ruby: すたたすとれひゆ
+    song_variation:
+    - esong_code: 2081B32
+      song_name: 夢伝説 (新録)
       content_type: ''

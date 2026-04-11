@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: SHINE
-    song_alias:
-    esong_code: 2481A39
-    t_singer_master_id: '14884'
-    singer_name: 朴 路美
-    singer_alias:
-    available_date: '2010-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: BLEACH<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやいん
-    singer_name_ruby: はくろみ
-    song_variation:
-    - esong_code: 2481A39
-      song_name: SHINE
-      content_type: ''
   - song_name: Just Feelin' Groove
     song_alias:
     esong_code: 2468B44
@@ -49,7 +32,7 @@ result:
     singer_alias:
     available_date: '2010-02-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA(TV版)<番組名>
+    tie_up: 戦国BASARA(アニメ版)<番組名>
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: しやつふ
@@ -449,23 +432,6 @@ result:
     - esong_code: 2479A22
       song_name: "『C-love FRAGRANCE Platinum Allure』メドレー"
       content_type: ''
-  - song_name: sink
-    song_alias:
-    esong_code: 2469A33
-    t_singer_master_id: '38519'
-    singer_name: 9GOATS BLACK OUT
-    singer_alias:
-    available_date: '2010-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんく
-    singer_name_ruby: ないんこつふらつくあうと
-    song_variation:
-    - esong_code: 2469A33
-      song_name: sink
-      content_type: ''
   - song_name: sing
     song_alias:
     esong_code: 2473B5
@@ -482,6 +448,23 @@ result:
     song_variation:
     - esong_code: 2473B5
       song_name: sing
+      content_type: ''
+  - song_name: sink
+    song_alias:
+    esong_code: 2469A33
+    t_singer_master_id: '38519'
+    singer_name: 9GOATS BLACK OUT
+    singer_alias:
+    available_date: '2010-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんく
+    singer_name_ruby: ないんこつふらつくあうと
+    song_variation:
+    - esong_code: 2469A33
+      song_name: sink
       content_type: ''
   - song_name: 人生川
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2474A26
       song_name: 人生通り雨
+      content_type: ''
+  - song_name: 人生みちづれ
+    song_alias:
+    esong_code: 2463B21
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2010-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんせいみちつれ
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 2463B21
+      song_name: 人生みちづれ
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
-  - song_name: あぶな橋
-    song_alias:
-    esong_code: 1938A7
-    t_singer_master_id: '32095'
-    singer_name: 樋口 三代子
-    singer_alias:
-    available_date: '2008-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あふなはし
-    singer_name_ruby: ひくちみよこ
-    song_variation:
-    - esong_code: 1938A7
-      song_name: あぶな橋
-      content_type: ''
   - song_name: abase
     song_alias:
     esong_code: 1936A20
@@ -179,23 +162,6 @@ result:
       content_type: ''
   - song_name: 雨情話
     song_alias:
-    esong_code: 1929B23
-    t_singer_master_id: '1710'
-    singer_name: 西方 裕之
-    singer_alias:
-    available_date: '2008-01-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめしようわ
-    singer_name_ruby: にしかたひろゆき
-    song_variation:
-    - esong_code: 1929B23
-      song_name: 雨情話
-      content_type: ''
-  - song_name: 雨情話
-    song_alias:
     esong_code: 1939A1
     t_singer_master_id: '1710'
     singer_name: 西方 裕之
@@ -211,6 +177,23 @@ result:
     - esong_code: 1939A1
       song_name: 雨情話
       content_type: DAM生音
+  - song_name: 雨情話
+    song_alias:
+    esong_code: 1929B23
+    t_singer_master_id: '1710'
+    singer_name: 西方 裕之
+    singer_alias:
+    available_date: '2008-01-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめしようわ
+    singer_name_ruby: にしかたひろゆき
+    song_variation:
+    - esong_code: 1929B23
+      song_name: 雨情話
+      content_type: ''
   - song_name: 雨に願いを...
     song_alias:
     esong_code: 1939A37
@@ -426,7 +409,7 @@ result:
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: あんたいとると
+    song_name_ruby: あんたいとるとふお
     singer_name_ruby: はまさきあゆみ
     song_variation:
     - esong_code: 1931B16
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1939A42
       song_name: YES −ここに永遠がある−
+      content_type: ''
+  - song_name: Yellow under tone
+    song_alias:
+    esong_code: 1939A24
+    t_singer_master_id: '32116'
+    singer_name: mark muffin
+    singer_alias:
+    available_date: '2008-01-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いえろあんたと
+    singer_name_ruby: まくまふいん
+    song_variation:
+    - esong_code: 1939A24
+      song_name: Yellow under tone
       content_type: ''

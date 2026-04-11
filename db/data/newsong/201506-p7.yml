@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1536
-  all_max_cnt: 1777
-  all_country_cnt: 1536
+  max_cnt: 1525
+  all_max_cnt: 1765
+  all_country_cnt: 1525
   song:
-  - song_name: 越前ひとり
-    song_alias:
-    esong_code: 645A39
-    t_singer_master_id: '31215'
-    singer_name: 五条 哲也
-    singer_alias:
-    available_date: '2015-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: えちせんひとり
-    singer_name_ruby: こしようてつや
-    song_variation:
-    - esong_code: 645A39
-      song_name: 越前ひとり
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 越前迷い雪
-    song_alias:
-    esong_code: 777A49
-    t_singer_master_id: '25224'
-    singer_name: 越前 優子
-    singer_alias:
-    available_date: '2015-06-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えちせんまよいゆき
-    singer_name_ruby: えちせんゆうこ
-    song_variation:
-    - esong_code: 777A49
-      song_name: 越前迷い雪
-      content_type: ''
-  - song_name: X.U.
-    song_alias:
-    esong_code: 3448A45
-    t_singer_master_id: '53544'
-    singer_name: SawanoHiroyuki[nZk]:Gemie
-    singer_alias:
-    available_date: '2015-06-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 終わりのセラフ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えつくすゆ
-    singer_name_ruby: さわのひろゆきぬしくし
-    song_variation:
-    - esong_code: 3448A45
-      song_name: X.U.
-      content_type: ''
   - song_name: Anything
     song_alias:
     esong_code: 3444A48
@@ -351,7 +300,7 @@ result:
     song_alias:
     esong_code: 3451B3
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2015-06-23'
     end_date: '2999-04-10 00:00:00'
@@ -398,23 +347,6 @@ result:
     - esong_code: 777A38
       song_name: 追分みなと
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 桜花爛漫
-    song_alias:
-    esong_code: 3450B49
-    t_singer_master_id: '40878'
-    singer_name: KEYTALK
-    singer_alias:
-    available_date: '2015-06-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 境界のRINNE<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おうからんまん
-    singer_name_ruby: きとく
-    song_variation:
-    - esong_code: 3450B49
-      song_name: 桜花爛漫
-      content_type: DAM生音
   - song_name: 黄金のキンデレラ 〜午前0時に魔法は解けず〜
     song_alias:
     esong_code: 3447B33
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 644A37
       song_name: 大阪恋物語
+      content_type: ''
+  - song_name: 大空にかける希望の虹
+    song_alias:
+    esong_code: 607B24
+    t_singer_master_id: '42507'
+    singer_name: 五月女 心ノ助
+    singer_alias:
+    available_date: '2015-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おおそらにかけるき
+    singer_name_ruby: さおとめしんのすけ
+    song_variation:
+    - esong_code: 607B24
+      song_name: 大空にかける希望の虹
+      content_type: ''
+  - song_name: 大利根ながれ月
+    song_alias:
+    esong_code: 732A37
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2015-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: おおとねなかれつ
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 732A37
+      song_name: 大利根ながれ月
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: おかえり・・・ただいま
+    song_alias:
+    esong_code: 781A26
+    t_singer_master_id: '33124'
+    singer_name: 梓 夕子
+    singer_alias:
+    available_date: '2015-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おかえりたたいま
+    singer_name_ruby: あすさゆうこ
+    song_variation:
+    - esong_code: 781A26
+      song_name: おかえり・・・ただいま
+      content_type: ''
+  - song_name: おかげサマー
+    song_alias:
+    esong_code: 3457A16
+    t_singer_master_id: '1462'
+    singer_name: TUBE
+    singer_alias:
+    available_date: '2015-06-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おかけさま
+    singer_name_ruby: ちゆふ
+    song_variation:
+    - esong_code: 3457A16
+      song_name: おかげサマー
       content_type: ''

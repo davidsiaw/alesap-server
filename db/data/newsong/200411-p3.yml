@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 677
-  all_max_cnt: 709
-  all_country_cnt: 677
+  max_cnt: 674
+  all_max_cnt: 706
+  all_country_cnt: 674
   song:
-  - song_name: 海の彼方
-    song_alias:
-    esong_code: 1147A10
-    t_singer_master_id: '10051'
-    singer_name: 夏川 りみ
-    singer_alias:
-    available_date: '2004-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うみのかなた
-    singer_name_ruby: なつかわりみ
-    song_variation:
-    - esong_code: 1147A10
-      song_name: 海の彼方
-      content_type: ''
-  - song_name: 海を見つめて
-    song_alias:
-    esong_code: 1054A48
-    t_singer_master_id: '2238'
-    singer_name: 松山 千春
-    singer_alias:
-    available_date: '2004-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うみをみつめて
-    singer_name_ruby: まつやまちはる
-    song_variation:
-    - esong_code: 1054A48
-      song_name: 海を見つめて
-      content_type: ''
   - song_name: E-I-E-N
     song_alias:
     esong_code: 769A34
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 833B23
       song_name: 大人のひみつ
+      content_type: ''
+  - song_name: 音の出ない月の下で
+    song_alias:
+    esong_code: 941A34
+    t_singer_master_id: '17323'
+    singer_name: 樽木 栄一郎
+    singer_alias:
+    available_date: '2004-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとのてないつきの
+    singer_name_ruby: たるきえいいちろう
+    song_variation:
+    - esong_code: 941A34
+      song_name: 音の出ない月の下で
+      content_type: ''
+  - song_name: オマエ・がむしゃら・はい・ジャンプ
+    song_alias:
+    esong_code: 960A49
+    t_singer_master_id: '16321'
+    singer_name: THEイナズマ戦隊
+    singer_alias:
+    available_date: '2004-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おまえかむしやらは
+    singer_name_ruby: さいなすませんたい
+    song_variation:
+    - esong_code: 960A49
+      song_name: オマエ・がむしゃら・はい・ジャンプ
       content_type: ''

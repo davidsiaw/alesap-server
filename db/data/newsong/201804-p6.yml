@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1307
-  all_max_cnt: 1525
-  all_country_cnt: 1307
+  max_cnt: 1293
+  all_max_cnt: 1511
+  all_country_cnt: 1293
   song:
-  - song_name: STU48 (山口ver.)
-    song_alias:
-    esong_code: 3972A15
-    t_singer_master_id: '59091'
-    singer_name: STU48
-    singer_alias:
-    available_date: '2018-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えすていゆふお
-    singer_name_ruby: えすていゆふおていえいと
-    song_variation:
-    - esong_code: 3972A15
-      song_name: STU48 (山口ver.)
-      content_type: ''
   - song_name: STU48 (徳島ver.)
     song_alias:
     esong_code: 3972A16
@@ -58,13 +41,13 @@ result:
     - esong_code: 3972A14
       song_name: STU48 (兵庫ver.)
       content_type: ''
-  - song_name: STU48 (岡山ver.)
+  - song_name: STU48 (広島ver.)
     song_alias:
-    esong_code: 3970B33
+    esong_code: 3972A4
     t_singer_master_id: '59091'
     singer_name: STU48
     singer_alias:
-    available_date: '2018-04-01'
+    available_date: '2018-04-06'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -72,8 +55,8 @@ result:
     song_name_ruby: えすていゆふお
     singer_name_ruby: えすていゆふおていえいと
     song_variation:
-    - esong_code: 3970B33
-      song_name: STU48 (岡山ver.)
+    - esong_code: 3972A4
+      song_name: STU48 (広島ver.)
       content_type: ''
   - song_name: STU48 (香川ver.)
     song_alias:
@@ -92,13 +75,13 @@ result:
     - esong_code: 3970B34
       song_name: STU48 (香川ver.)
       content_type: ''
-  - song_name: STU48 (愛媛ver.)
+  - song_name: STU48 (岡山ver.)
     song_alias:
-    esong_code: 3972A17
+    esong_code: 3970B33
     t_singer_master_id: '59091'
     singer_name: STU48
     singer_alias:
-    available_date: '2018-04-08'
+    available_date: '2018-04-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -106,25 +89,8 @@ result:
     song_name_ruby: えすていゆふお
     singer_name_ruby: えすていゆふおていえいと
     song_variation:
-    - esong_code: 3972A17
-      song_name: STU48 (愛媛ver.)
-      content_type: ''
-  - song_name: STU48 (広島ver.)
-    song_alias:
-    esong_code: 3972A4
-    t_singer_master_id: '59091'
-    singer_name: STU48
-    singer_alias:
-    available_date: '2018-04-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えすていゆふお
-    singer_name_ruby: えすていゆふおていえいと
-    song_variation:
-    - esong_code: 3972A4
-      song_name: STU48 (広島ver.)
+    - esong_code: 3970B33
+      song_name: STU48 (岡山ver.)
       content_type: ''
   - song_name: えそらごと
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3969B28
       song_name: お茶碗
+      content_type: ''
+  - song_name: 男うた
+    song_alias:
+    esong_code: 1019A49
+    t_singer_master_id: '2536'
+    singer_name: 吉 幾三
+    singer_alias:
+    available_date: '2018-04-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おとこうた
+    singer_name_ruby: よしいくそう
+    song_variation:
+    - esong_code: 1019A49
+      song_name: 男うた
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 男と女の炭坑節
+    song_alias:
+    esong_code: 1018B15
+    t_singer_master_id: '61257'
+    singer_name: 安田 明とビート・フォーク
+    singer_alias:
+    available_date: '2018-04-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとことおんなのたん
+    singer_name_ruby: やすたあきらとひとふお
+    song_variation:
+    - esong_code: 1018B15
+      song_name: 男と女の炭坑節
       content_type: ''

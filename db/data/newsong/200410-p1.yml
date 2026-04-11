@@ -9,7 +9,7 @@ result:
   song:
   - song_name: About Me
     song_alias:
-    esong_code: 606B10
+    esong_code: 227A37
     t_singer_master_id: '20579'
     singer_name: Utada
     singer_alias:
@@ -17,13 +17,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM良音
     song_name_ruby: あはうとみ
     singer_name_ruby: うたた
     song_variation:
-    - esong_code: 606B10
+    - esong_code: 227A37
       song_name: About Me
-      content_type: ''
+      content_type: DAM良音
   - song_name: A WHITE DEEP MORNING
     song_alias:
     esong_code: 592A3
@@ -466,23 +466,6 @@ result:
     - esong_code: 620A13
       song_name: We Gonna Rock It (S.U.N)
       content_type: ''
-  - song_name: Wake Me Up! (growin' up! mix)
-    song_alias:
-    esong_code: 608B5
-    t_singer_master_id: '7256'
-    singer_name: SPEED
-    singer_alias:
-    available_date: '2004-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえいくみあつふ
-    singer_name_ruby: すひと
-    song_variation:
-    - esong_code: 608B5
-      song_name: Wake Me Up! (growin' up! mix)
-      content_type: ''
   - song_name: Wake Me Up! (RISE Mix)
     song_alias:
     esong_code: 608B6
@@ -499,6 +482,23 @@ result:
     song_variation:
     - esong_code: 608B6
       song_name: Wake Me Up! (RISE Mix)
+      content_type: ''
+  - song_name: Wake Me Up! (growin' up! mix)
+    song_alias:
+    esong_code: 608B5
+    t_singer_master_id: '7256'
+    singer_name: SPEED
+    singer_alias:
+    available_date: '2004-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うえいくみあつふ
+    singer_name_ruby: すひと
+    song_variation:
+    - esong_code: 608B5
+      song_name: Wake Me Up! (growin' up! mix)
       content_type: ''
   - song_name: WALK ON THE SPRING FIELD
     song_alias:

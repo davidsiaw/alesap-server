@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1386
-  all_max_cnt: 1523
-  all_country_cnt: 1386
+  max_cnt: 1380
+  all_max_cnt: 1517
+  all_country_cnt: 1380
   song:
   - song_name: アイアンパイレーツ
     song_alias:
@@ -94,23 +94,6 @@ result:
       content_type: ''
   - song_name: 哀愁酒場
     song_alias:
-    esong_code: 3700B17
-    t_singer_master_id: '1352'
-    singer_name: 田川 寿美
-    singer_alias:
-    available_date: '2016-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あいしゆうさかは
-    singer_name_ruby: たかわとしみ
-    song_variation:
-    - esong_code: 3700B17
-      song_name: 哀愁酒場
-      content_type: DAM生音
-  - song_name: 哀愁酒場
-    song_alias:
     esong_code: 3696A32
     t_singer_master_id: '1352'
     singer_name: 田川 寿美
@@ -126,6 +109,23 @@ result:
     - esong_code: 3696A32
       song_name: 哀愁酒場
       content_type: JOY生演奏
+  - song_name: 哀愁酒場
+    song_alias:
+    esong_code: 3700B17
+    t_singer_master_id: '1352'
+    singer_name: 田川 寿美
+    singer_alias:
+    available_date: '2016-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あいしゆうさかは
+    singer_name_ruby: たかわとしみ
+    song_variation:
+    - esong_code: 3700B17
+      song_name: 哀愁酒場
+      content_type: DAM生音
   - song_name: 哀愁の酒
     song_alias:
     esong_code: 3701A10
@@ -374,7 +374,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: あいひせつと
     singer_name_ruby: ふるせつけんはちはち
     song_variation:
@@ -394,7 +394,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: あいひせつと
     singer_name_ruby: ふるせつけんはちはち
     song_variation:

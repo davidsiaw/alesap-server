@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 915
-  all_max_cnt: 991
-  all_country_cnt: 915
+  max_cnt: 897
+  all_max_cnt: 973
+  all_country_cnt: 897
   song:
-  - song_name: Alma
-    song_alias:
-    esong_code: 4449B8
-    t_singer_master_id: '33226'
-    singer_name: C&K
-    singer_alias:
-    available_date: '2020-12-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるま
-    singer_name_ruby: しあんとけ
-    song_variation:
-    - esong_code: 4449B8
-      song_name: Alma
-      content_type: ''
   - song_name: alone night
     song_alias:
     esong_code: 4454A6
@@ -74,23 +57,6 @@ result:
     song_variation:
     - esong_code: 4455A26
       song_name: ______
-      content_type: ''
-  - song_name: ANTI SOCIAL PRINCESS
-    song_alias:
-    esong_code: 4455A19
-    t_singer_master_id: '50321'
-    singer_name: 大森 靖子
-    singer_alias:
-    available_date: '2020-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんちそしやるふ
-    singer_name_ruby: おおもりせいこ
-    song_variation:
-    - esong_code: 4455A19
-      song_name: ANTI SOCIAL PRINCESS
       content_type: ''
   - song_name: アンデッドアリス
     song_alias:
@@ -162,23 +128,6 @@ result:
       content_type: ''
   - song_name: 生きるをする
     song_alias:
-    esong_code: 4449A5
-    t_singer_master_id: '53207'
-    singer_name: マカロニえんぴつ
-    singer_alias:
-    available_date: '2020-12-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンクエスト ダイの大冒険<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: いきるをする
-    singer_name_ruby: まかろにえんひつ
-    song_variation:
-    - esong_code: 4449A5
-      song_name: 生きるをする
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 生きるをする
-    song_alias:
     esong_code: 4451B4
     t_singer_master_id: '53207'
     singer_name: マカロニえんぴつ
@@ -194,6 +143,23 @@ result:
     - esong_code: 4451B4
       song_name: 生きるをする
       content_type: DAM生音
+  - song_name: 生きるをする
+    song_alias:
+    esong_code: 4449A5
+    t_singer_master_id: '53207'
+    singer_name: マカロニえんぴつ
+    singer_alias:
+    available_date: '2020-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ドラゴンクエスト ダイの大冒険<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: いきるをする
+    singer_name_ruby: まかろにえんひつ
+    song_variation:
+    - esong_code: 4449A5
+      song_name: 生きるをする
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 行こうぜBABY!
     song_alias:
     esong_code: 4449B14
@@ -398,23 +364,6 @@ result:
     - esong_code: 4454B3
       song_name: 一の坂川恋蛍
       content_type: ''
-  - song_name: "「%1」 (For me version)"
-    song_alias:
-    esong_code: 4455A17
-    t_singer_master_id: '63494'
-    singer_name: HARTY
-    singer_alias:
-    available_date: '2020-12-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いちはせんとふお
-    singer_name_ruby: はてい
-    song_variation:
-    - esong_code: 4455A17
-      song_name: "「%1」 (For me version)"
-      content_type: ''
   - song_name: "「%1」 (For you version)"
     song_alias:
     esong_code: 4455A18
@@ -432,22 +381,22 @@ result:
     - esong_code: 4455A18
       song_name: "「%1」 (For you version)"
       content_type: ''
-  - song_name: 一番好きな花
+  - song_name: "「%1」 (For me version)"
     song_alias:
-    esong_code: 4455A33
-    t_singer_master_id: '42716'
-    singer_name: NMB48
+    esong_code: 4455A17
+    t_singer_master_id: '63494'
+    singer_name: HARTY
     singer_alias:
-    available_date: '2020-12-25'
+    available_date: '2020-12-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: いちはんすきなはな
-    singer_name_ruby: えぬえむひふおていえいと
+    song_name_ruby: いちはせんとふお
+    singer_name_ruby: はてい
     song_variation:
-    - esong_code: 4455A33
-      song_name: 一番好きな花
+    - esong_code: 4455A17
+      song_name: "「%1」 (For me version)"
       content_type: ''
   - song_name: いつかのDays
     song_alias:
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4457B15
       song_name: いつまでも君を
+      content_type: ''
+  - song_name: 糸
+    song_alias:
+    esong_code: 4454A14
+    t_singer_master_id: '66828'
+    singer_name: クニタケ ヒロキ(from THE FOREVER YOUNG)
+    singer_alias:
+    available_date: '2020-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いと
+    singer_name_ruby: くにたけひろき
+    song_variation:
+    - esong_code: 4454A14
+      song_name: 糸
+      content_type: ''
+  - song_name: 愛しのキャンディマン
+    song_alias:
+    esong_code: 4449B15
+    t_singer_master_id: '67199'
+    singer_name: 甲本 ヒロト dedicated to KAYAMA YUZO
+    singer_alias:
+    available_date: '2020-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いとしのきやんてい
+    singer_name_ruby: こうもとひろとてていけい
+    song_variation:
+    - esong_code: 4449B15
+      song_name: 愛しのキャンディマン
+      content_type: ''
+  - song_name: 命の帳
+    song_alias:
+    esong_code: 4449B45
+    t_singer_master_id: '20368'
+    singer_name: 東京事変
+    singer_alias:
+    available_date: '2020-12-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのちのとはり
+    singer_name_ruby: とうきようしへん
+    song_variation:
+    - esong_code: 4449B45
+      song_name: 命の帳
       content_type: ''

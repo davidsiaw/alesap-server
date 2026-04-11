@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 433
-  all_max_cnt: 461
-  all_country_cnt: 433
+  max_cnt: 431
+  all_max_cnt: 459
+  all_country_cnt: 431
   song:
-  - song_name: 夢は終わらない〜こぼれ落ちる時の雫〜 (吉田Ver,)
-    song_alias:
-    esong_code: 763B36
-    t_singer_master_id: '13517'
-    singer_name: 吉田 由香里
-    singer_alias:
-    available_date: '2002-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・ファンタジア<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめはおわらない
-    singer_name_ruby: よしたゆかり
-    song_variation:
-    - esong_code: 763B36
-      song_name: 夢は終わらない〜こぼれ落ちる時の雫〜 (吉田Ver,)
-      content_type: ''
-  - song_name: ユーロ ゲキテイ
-    song_alias:
-    esong_code: 756B35
-    t_singer_master_id: '2868'
-    singer_name: 横山 智佐
-    singer_alias:
-    available_date: '2002-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 (ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆろけきてい
-    singer_name_ruby: よこやまちさ
-    song_variation:
-    - esong_code: 756B35
-      song_name: ユーロ ゲキテイ
-      content_type: ''
   - song_name: 夜明けに消えた恋
     song_alias:
     esong_code: 763A38
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 93B43
       song_name: LOST LOVE
+      content_type: ''
+  - song_name: 六花
+    song_alias:
+    esong_code: 762B33
+    t_singer_master_id: '1632'
+    singer_name: 中島 みゆき
+    singer_alias:
+    available_date: '2002-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろつか
+    singer_name_ruby: なかしまみゆき
+    song_variation:
+    - esong_code: 762B33
+      song_name: 六花
+      content_type: ''
+  - song_name: Romancing Train
+    song_alias:
+    esong_code: 757A28
+    t_singer_master_id: '8267'
+    singer_name: m.o.v.e(move)
+    singer_alias:
+    available_date: '2002-02-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: FF:U〜ファイナルファンタジー:アンリミテッド〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろまんしんくとれい
+    singer_name_ruby: むふ
+    song_variation:
+    - esong_code: 757A28
+      song_name: Romancing Train
       content_type: ''

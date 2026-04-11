@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1415
-  all_max_cnt: 1522
-  all_country_cnt: 1415
+  max_cnt: 1411
+  all_max_cnt: 1518
+  all_country_cnt: 1411
   song:
-  - song_name: 幸せごよみ
-    song_alias:
-    esong_code: 1882A25
-    t_singer_master_id: '651'
-    singer_name: 北原 由貴(北原由紀)
-    singer_alias:
-    available_date: '2007-10-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しあわせこよみ
-    singer_name_ruby: きたはらゆき
-    song_variation:
-    - esong_code: 1882A25
-      song_name: 幸せごよみ
-      content_type: ''
-  - song_name: 幸せになるために
-    song_alias:
-    esong_code: 1889A14
-    t_singer_master_id: '2221'
-    singer_name: 松任谷 由実(荒井由実)
-    singer_alias:
-    available_date: '2007-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: しあわせになるために
-    singer_name_ruby: まつとうやゆみあらいゆみ
-    song_variation:
-    - esong_code: 1889A14
-      song_name: 幸せになるために
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: シアワセノカタチ
     song_alias:
     esong_code: 1891B8
@@ -236,7 +202,7 @@ result:
     singer_alias:
     available_date: '2007-10-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダーアギト PROJECT G4(劇場版)<番組名>
+    tie_up: 仮面ライダーAGITO<番組名>
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: しけんたつ
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1883B48
       song_name: 志摩の夕波
+      content_type: ''
+  - song_name: Shiny days
+    song_alias:
+    esong_code: 1887B22
+    t_singer_master_id: '5589'
+    singer_name: 水谷 優子
+    singer_alias:
+    available_date: '2007-10-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: デジモンアドベンチャー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやいにていす
+    singer_name_ruby: みすたにゆうこ
+    song_variation:
+    - esong_code: 1887B22
+      song_name: Shiny days
+      content_type: ''
+  - song_name: シャイニン・オン 君が哀しい
+    song_alias:
+    esong_code: 1875B4
+    t_singer_master_id: '30291'
+    singer_name: Acid Black Cherry
+    singer_alias:
+    available_date: '2007-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやいにんおんきみか
+    singer_name_ruby: あしつとふらつくちえり
+    song_variation:
+    - esong_code: 1875B4
+      song_name: シャイニン・オン 君が哀しい
       content_type: ''

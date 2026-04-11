@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1586
-  all_max_cnt: 1734
-  all_country_cnt: 1586
+  max_cnt: 1581
+  all_max_cnt: 1729
+  all_country_cnt: 1581
   song:
-  - song_name: Decorate
-    song_alias:
-    esong_code: 2951B42
-    t_singer_master_id: '31887'
-    singer_name: トクマル シューゴ
-    singer_alias:
-    available_date: '2012-12-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てこれと
-    singer_name_ruby: とくまるしゆこ
-    song_variation:
-    - esong_code: 2951B42
-      song_name: Decorate
-      content_type: ''
   - song_name: Desire
     song_alias:
     esong_code: 2939B27
@@ -41,23 +24,6 @@ result:
     - esong_code: 2939B27
       song_name: Desire
       content_type: 東方
-  - song_name: DESIRE
-    song_alias:
-    esong_code: 2222B10
-    t_singer_master_id: '41321'
-    singer_name: ギルド
-    singer_alias:
-    available_date: '2012-12-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てさいあ
-    singer_name_ruby: きると
-    song_variation:
-    - esong_code: 2222B10
-      song_name: DESIRE
-      content_type: ''
   - song_name: デザートタウン
     song_alias:
     esong_code: 2950A32
@@ -219,7 +185,7 @@ result:
     singer_alias:
     available_date: '2012-12-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神谷浩史・小野大輔のDearGirl 〜Stories〜<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: てらすないつ
@@ -270,7 +236,7 @@ result:
     singer_alias:
     available_date: '2012-12-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヤッターマン(実写)<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: てんさいとろんほ
@@ -400,23 +366,6 @@ result:
       content_type: ''
   - song_name: 東京赤とんぼ
     song_alias:
-    esong_code: 2943A23
-    t_singer_master_id: '43723'
-    singer_name: なでしこ姉妹(永井裕子&井上由美子)
-    singer_alias:
-    available_date: '2012-12-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきようあかとんほ
-    singer_name_ruby: なてしこしまい
-    song_variation:
-    - esong_code: 2943A23
-      song_name: 東京赤とんぼ
-      content_type: ''
-  - song_name: 東京赤とんぼ
-    song_alias:
     esong_code: 2949A20
     t_singer_master_id: '43723'
     singer_name: なでしこ姉妹(永井裕子&井上由美子)
@@ -432,6 +381,23 @@ result:
     - esong_code: 2949A20
       song_name: 東京赤とんぼ
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 東京赤とんぼ
+    song_alias:
+    esong_code: 2943A23
+    t_singer_master_id: '43723'
+    singer_name: なでしこ姉妹(永井裕子&井上由美子)
+    singer_alias:
+    available_date: '2012-12-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきようあかとんほ
+    singer_name_ruby: なてしこしまい
+    song_variation:
+    - esong_code: 2943A23
+      song_name: 東京赤とんぼ
+      content_type: ''
   - song_name: 東京赤とんぼ
     song_alias:
     esong_code: 2948B43
@@ -517,3 +483,37 @@ result:
     - esong_code: 2961B13
       song_name: 東京ホテル
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 東京湾
+    song_alias:
+    esong_code: 2961B32
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2012-12-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: とうきようわん
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 2961B32
+      song_name: 東京湾
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 闘魂LOVE
+    song_alias:
+    esong_code: 2947A44
+    t_singer_master_id: '46591'
+    singer_name: INK1・2・3Girls
+    singer_alias:
+    available_date: '2012-12-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうこんらふ
+    singer_name_ruby: あいえぬけいちにさんかる
+    song_variation:
+    - esong_code: 2947A44
+      song_name: 闘魂LOVE
+      content_type: ''

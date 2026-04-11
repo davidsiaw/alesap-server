@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: MASQUERADE
-    song_alias:
-    esong_code: 3180A10
-    t_singer_master_id: '21327'
-    singer_name: D'espairsRay
-    singer_alias:
-    available_date: '2014-02-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ますかれと
-    singer_name_ruby: ていすはすれい
-    song_variation:
-    - esong_code: 3180A10
-      song_name: MASQUERADE
-      content_type: ''
   - song_name: Mask
     song_alias:
     esong_code: 3207B5
@@ -417,23 +400,6 @@ result:
       content_type: ''
   - song_name: 道の駅
     song_alias:
-    esong_code: 3197B28
-    t_singer_master_id: '6239'
-    singer_name: 岩本 公水
-    singer_alias:
-    available_date: '2014-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: みちのえき
-    singer_name_ruby: いわもとくみ
-    song_variation:
-    - esong_code: 3197B28
-      song_name: 道の駅
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 道の駅
-    song_alias:
     esong_code: 3205A49
     t_singer_master_id: '16147'
     singer_name: 花咲 里佳
@@ -449,6 +415,23 @@ result:
     - esong_code: 3205A49
       song_name: 道の駅
       content_type: ''
+  - song_name: 道の駅
+    song_alias:
+    esong_code: 3197B28
+    t_singer_master_id: '6239'
+    singer_name: 岩本 公水
+    singer_alias:
+    available_date: '2014-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: みちのえき
+    singer_name_ruby: いわもとくみ
+    song_variation:
+    - esong_code: 3197B28
+      song_name: 道の駅
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: みちのくひとり旅
     song_alias:
     esong_code: 2830B46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3206B43
       song_name: Missing
+      content_type: ''
+  - song_name: MISSING
+    song_alias:
+    esong_code: 3200B41
+    t_singer_master_id: '30910'
+    singer_name: SuG
+    singer_alias:
+    available_date: '2014-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みつしんく
+    singer_name_ruby: さく
+    song_variation:
+    - esong_code: 3200B41
+      song_name: MISSING
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
-  - song_name: ハリネズミのジレンマ
-    song_alias:
-    esong_code: 3465B26
-    t_singer_master_id: '1523'
-    singer_name: DEEN
-    singer_alias:
-    available_date: '2015-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はりねすみのしれ
-    singer_name_ruby: ていん
-    song_variation:
-    - esong_code: 3465B26
-      song_name: ハリネズミのジレンマ
-      content_type: ''
   - song_name: PARISの風に
     song_alias:
     esong_code: 544B37
@@ -466,23 +449,6 @@ result:
     - esong_code: 3465A9
       song_name: ひとりごと
       content_type: ''
-  - song_name: ひとり薩摩路
-    song_alias:
-    esong_code: 413A28
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2015-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: ひとりさつまし
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 413A28
-      song_name: ひとり薩摩路
-      content_type: DAMﾗｲﾌﾞ
   - song_name: ひとり薩摩路 [DAM本人歌唱]
     song_alias:
     esong_code: 413A27
@@ -500,6 +466,23 @@ result:
     - esong_code: 413A27
       song_name: ひとり薩摩路 [DAM本人歌唱]
       content_type: DAM本人歌唱
+  - song_name: ひとり薩摩路
+    song_alias:
+    esong_code: 413A28
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2015-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾗｲﾌﾞ
+    song_name_ruby: ひとりさつまし
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 413A28
+      song_name: ひとり薩摩路
+      content_type: DAMﾗｲﾌﾞ
   - song_name: ひとりじゃない
     song_alias:
     esong_code: 3462B7
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3462B7
       song_name: ひとりじゃない
+      content_type: ''
+  - song_name: ひとりでTANGOは踊れない
+    song_alias:
+    esong_code: 437B42
+    t_singer_master_id: '12814'
+    singer_name: 池田 一男
+    singer_alias:
+    available_date: '2015-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとりてたんこは
+    singer_name_ruby: いけたかすお
+    song_variation:
+    - esong_code: 437B42
+      song_name: ひとりでTANGOは踊れない
       content_type: ''

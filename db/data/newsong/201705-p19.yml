@@ -3,26 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
-  - song_name: SPARK
+  - song_name: スパイラル
     song_alias:
-    esong_code: 3808B18
-    t_singer_master_id: '16179'
-    singer_name: 鳥海 浩輔
+    esong_code: 3814B44
+    t_singer_master_id: '30312'
+    singer_name: 早見 沙織
     singer_alias:
-    available_date: '2017-05-23'
+    available_date: '2017-05-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 弱虫ペダル<番組名>
+    tie_up: 覆面系ノイズ<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: すはく
-    singer_name_ruby: とりうみこうすけ
+    song_name_ruby: すはいらる
+    singer_name_ruby: はやみさおり
     song_variation:
-    - esong_code: 3808B18
-      song_name: SPARK
+    - esong_code: 3814B44
+      song_name: スパイラル
       content_type: ''
   - song_name: SPARK
     song_alias:
@@ -39,6 +39,23 @@ result:
     singer_name_ruby: ふいしつくす
     song_variation:
     - esong_code: 3805A38
+      song_name: SPARK
+      content_type: ''
+  - song_name: SPARK
+    song_alias:
+    esong_code: 3808B18
+    t_singer_master_id: '16179'
+    singer_name: 鳥海 浩輔
+    singer_alias:
+    available_date: '2017-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 弱虫ペダル<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すはく
+    singer_name_ruby: とりうみこうすけ
+    song_variation:
+    - esong_code: 3808B18
       song_name: SPARK
       content_type: ''
   - song_name: SUPER×SPACER
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3815A24
       song_name: せやなせやせや人生は
-      content_type: ''
-  - song_name: Self Portrait
-    song_alias:
-    esong_code: 3819A9
-    t_singer_master_id: '53984'
-    singer_name: LILI LIMIT
-    singer_alias:
-    available_date: '2017-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せるふほとれいと
-    singer_name_ruby: りりりみつと
-    song_variation:
-    - esong_code: 3819A9
-      song_name: Self Portrait
       content_type: ''

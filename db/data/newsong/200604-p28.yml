@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: BREAK THROUGH
-    song_alias:
-    esong_code: 1492A37
-    t_singer_master_id: '12585'
-    singer_name: 松下 萌子
-    singer_alias:
-    available_date: '2006-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれいくする
-    singer_name_ruby: まつしたもえこ
-    song_variation:
-    - esong_code: 1492A37
-      song_name: BREAK THROUGH
-      content_type: ''
   - song_name: BLAZE UP
     song_alias:
     esong_code: 1491B31
@@ -128,23 +111,6 @@ result:
       content_type: ''
   - song_name: フレンジャー
     song_alias:
-    esong_code: 1481B33
-    t_singer_master_id: '16288'
-    singer_name: 大塚 愛
-    singer_alias:
-    available_date: '2006-04-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれんしや
-    singer_name_ruby: おおつかあい
-    song_variation:
-    - esong_code: 1481B33
-      song_name: フレンジャー
-      content_type: ''
-  - song_name: フレンジャー
-    song_alias:
     esong_code: 1488A37
     t_singer_master_id: '16288'
     singer_name: 大塚 愛
@@ -160,6 +126,23 @@ result:
     - esong_code: 1488A37
       song_name: フレンジャー
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: フレンジャー
+    song_alias:
+    esong_code: 1481B33
+    t_singer_master_id: '16288'
+    singer_name: 大塚 愛
+    singer_alias:
+    available_date: '2006-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれんしや
+    singer_name_ruby: おおつかあい
+    song_variation:
+    - esong_code: 1481B33
+      song_name: フレンジャー
+      content_type: ''
   - song_name: ふわり
     song_alias:
     esong_code: 1491B46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1492A17
       song_name: ホタルノヒカリ
+      content_type: ''
+  - song_name: 北海太鼓
+    song_alias:
+    esong_code: 1493A32
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2006-04-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほつかいたいこ
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 1493A32
+      song_name: 北海太鼓
       content_type: ''

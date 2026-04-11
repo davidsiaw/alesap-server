@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 1642
-  all_country_cnt: 1487
+  max_cnt: 1466
+  all_max_cnt: 1622
+  all_country_cnt: 1466
   song:
-  - song_name: ARTSTAR
-    song_alias:
-    esong_code: 3026A24
-    t_singer_master_id: '43646'
-    singer_name: SAKANAMON
-    singer_alias:
-    available_date: '2013-04-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あとすた
-    singer_name_ruby: さかなもん
-    song_variation:
-    - esong_code: 3026A24
-      song_name: ARTSTAR
-      content_type: ''
-  - song_name: あなたに逢えて
-    song_alias:
-    esong_code: 2799B41
-    t_singer_master_id: '47660'
-    singer_name: Yukie
-    singer_alias:
-    available_date: '2013-04-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたにあえて
-    singer_name_ruby: ゆきえ
-    song_variation:
-    - esong_code: 2799B41
-      song_name: あなたに逢えて
-      content_type: ''
   - song_name: あなたに出逢えたこの町で 〜にいつのうた〜
     song_alias:
     esong_code: 3016B3
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3015A1
       song_name: 主なきその声
+      content_type: ''
+  - song_name: アルバイト
+    song_alias:
+    esong_code: 3022B17
+    t_singer_master_id: '47617'
+    singer_name: BAND俺屋
+    singer_alias:
+    available_date: '2013-04-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あるはいと
+    singer_name_ruby: はんとおれや
+    song_variation:
+    - esong_code: 3022B17
+      song_name: アルバイト
+      content_type: ''
+  - song_name: アルバム
+    song_alias:
+    esong_code: 3032A19
+    t_singer_master_id: '38886'
+    singer_name: 恵比寿マスカッツ
+    singer_alias:
+    available_date: '2013-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あるはむ
+    singer_name_ruby: えひすますかつつ
+    song_variation:
+    - esong_code: 3032A19
+      song_name: アルバム
       content_type: ''

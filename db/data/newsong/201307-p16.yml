@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
-  - song_name: Get goal!
-    song_alias:
-    esong_code: 3072A20
-    t_singer_master_id: '43136'
-    singer_name: RO-KYU-BU!
-    singer_alias:
-    available_date: '2013-07-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ロウきゅーぶ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: けつとこる
-    singer_name_ruby: ろうきゆふ
-    song_variation:
-    - esong_code: 3072A20
-      song_name: Get goal!
-      content_type: ''
   - song_name: ゲットバック feat.IA
     song_alias:
     esong_code: 3075B4
@@ -168,7 +151,7 @@ result:
     singer_alias:
     available_date: '2013-07-02'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 劇場版 銀魂 完結篇 万事屋よ永遠なれ<番組名>
+    tie_up: 銀魂(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けんしようてい
@@ -185,7 +168,7 @@ result:
     singer_alias:
     available_date: '2013-07-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 劇場版 銀魂 完結篇 万事屋よ永遠なれ<番組名>
+    tie_up: 銀魂(劇場版)<番組名>
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: けんしようてい
@@ -517,3 +500,20 @@ result:
     - esong_code: 3072A5
       song_name: 恋みれん
       content_type: ''
+  - song_name: 恋めぐり
+    song_alias:
+    esong_code: 3074B45
+    t_singer_master_id: '5335'
+    singer_name: 浜 博也
+    singer_alias:
+    available_date: '2013-07-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: こいめくり
+    singer_name_ruby: はまひろや
+    song_variation:
+    - esong_code: 3074B45
+      song_name: 恋めぐり
+      content_type: JOYﾎﾞｰｶﾙ

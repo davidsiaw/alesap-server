@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1069
-  all_max_cnt: 1151
-  all_country_cnt: 1069
+  max_cnt: 1188
+  all_max_cnt: 1298
+  all_country_cnt: 1188
   song:
+  - song_name: i
+    song_alias:
+    esong_code: 4920B48
+    t_singer_master_id: '73418'
+    singer_name: POP ART TOWN
+    singer_alias:
+    available_date: '2024-01-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あい
+    singer_name_ruby: ほつふあとたうん
+    song_variation:
+    - esong_code: 4920B48
+      song_name: i
+      content_type: ''
   - song_name: 愛
     song_alias:
     esong_code: 4920A18
@@ -136,13 +153,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: あいつなみたは
     singer_name_ruby: つふきみゆ
     song_variation:
     - esong_code: 4919B12
       song_name: 会津なみだ橋
-      content_type: DAM生音
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 会津なみだ橋
     song_alias:
     esong_code: 4771B25
@@ -227,6 +244,23 @@ result:
     song_variation:
     - esong_code: 4917A8
       song_name: I don't care
+      content_type: ''
+  - song_name: 愛について
+    song_alias:
+    esong_code: 4920B46
+    t_singer_master_id: '66992'
+    singer_name: PEOPLE1
+    singer_alias:
+    available_date: '2024-01-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいについて
+    singer_name_ruby: ひふるわん
+    song_variation:
+    - esong_code: 4920B46
+      song_name: 愛について
       content_type: ''
   - song_name: 愛の兆し
     song_alias:
@@ -488,38 +522,4 @@ result:
     song_variation:
     - esong_code: 4910B31
       song_name: 愛を祈ろう
-      content_type: ''
-  - song_name: 愛を伝えたいだとか [JOYサビカラ]
-    song_alias:
-    esong_code: 4918A5
-    t_singer_master_id: '52236'
-    singer_name: あいみょん
-    singer_alias:
-    available_date: '2024-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいをつたえたいた
-    singer_name_ruby: あいみよん
-    song_variation:
-    - esong_code: 4918A5
-      song_name: 愛を伝えたいだとか [JOYサビカラ]
-      content_type: ''
-  - song_name: Outsider
-    song_alias:
-    esong_code: 4922A30
-    t_singer_master_id: '73438'
-    singer_name: 朝ノ瑠璃
-    singer_alias:
-    available_date: '2024-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あうとさいた
-    singer_name_ruby: あさのるり
-    song_variation:
-    - esong_code: 4922A30
-      song_name: Outsider
       content_type: ''

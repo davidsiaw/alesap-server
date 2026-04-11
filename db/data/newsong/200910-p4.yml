@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: In My Circle
-    song_alias:
-    esong_code: 2412A18
-    t_singer_master_id: '83'
-    singer_name: ASKA(飛鳥涼)
-    singer_alias:
-    available_date: '2009-10-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いんまいさくる
-    singer_name_ruby: あすか
-    song_variation:
-    - esong_code: 2412A18
-      song_name: In My Circle
-      content_type: ''
   - song_name: ウイスキーが、お好きでしょ
     song_alias:
     esong_code: 2413B37
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 2410B1
       song_name: 絵に描いたより pictureness
+      content_type: ''
+  - song_name: ENERGY
+    song_alias:
+    esong_code: 2411A32
+    t_singer_master_id: '19084'
+    singer_name: CHERRYBLOSSOM
+    singer_alias:
+    available_date: '2009-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えねるき
+    singer_name_ruby: ちえりふろつさむ
+    song_variation:
+    - esong_code: 2411A32
+      song_name: ENERGY
       content_type: ''

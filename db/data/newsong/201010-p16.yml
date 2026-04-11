@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
   - song_name: SHIVER
     song_alias:
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: シャボン
     song_alias:
-    esong_code: 2169A46
-    t_singer_master_id: '33013'
-    singer_name: 石鹸屋
-    singer_alias:
-    available_date: '2010-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: しやほん
-    singer_name_ruby: せつけんや
-    song_variation:
-    - esong_code: 2169A46
-      song_name: シャボン
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: シャボン
-    song_alias:
     esong_code: 2610B35
     t_singer_master_id: '33013'
     singer_name: 石鹸屋
@@ -279,23 +262,23 @@ result:
     - esong_code: 2610B35
       song_name: シャボン
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: しゃ・ぼん・だ・ま
+  - song_name: シャボン
     song_alias:
-    esong_code: 2464A18
-    t_singer_master_id: '31205'
-    singer_name: 阿澄 佳奈
+    esong_code: 2169A46
+    t_singer_master_id: '33013'
+    singer_name: 石鹸屋
     singer_alias:
     available_date: '2010-10-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 会長はメイド様!<番組名>
+    tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: しやほんたま
-    singer_name_ruby: あすみかな
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: しやほん
+    singer_name_ruby: せつけんや
     song_variation:
-    - esong_code: 2464A18
-      song_name: しゃ・ぼん・だ・ま
-      content_type: ''
+    - esong_code: 2169A46
+      song_name: シャボン
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: しゃぼん玉
     song_alias:
     esong_code: 2622A18
@@ -313,6 +296,23 @@ result:
     - esong_code: 2622A18
       song_name: しゃぼん玉
       content_type: JOYうたいり
+  - song_name: しゃ・ぼん・だ・ま
+    song_alias:
+    esong_code: 2464A18
+    t_singer_master_id: '31205'
+    singer_name: 阿澄 佳奈
+    singer_alias:
+    available_date: '2010-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 会長はメイド様!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやほんたま
+    singer_name_ruby: あすみかな
+    song_variation:
+    - esong_code: 2464A18
+      song_name: しゃ・ぼん・だ・ま
+      content_type: ''
   - song_name: シャラララ赤坂
     song_alias:
     esong_code: 2620A16

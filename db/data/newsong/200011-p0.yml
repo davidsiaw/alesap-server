@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 320
-  all_max_cnt: 344
-  all_country_cnt: 320
+  max_cnt: 319
+  all_max_cnt: 343
+  all_country_cnt: 319
   song:
   - song_name: I wish
     song_alias:
@@ -108,23 +108,6 @@ result:
     song_variation:
     - esong_code: 482B24
       song_name: 愛の力
-      content_type: ''
-  - song_name: あいは海
-    song_alias:
-    esong_code: 484B35
-    t_singer_master_id: '383'
-    singer_name: おおたか 静流
-    singer_alias:
-    available_date: '2000-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 天使になるもんっ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいはうみ
-    singer_name_ruby: おおたかしする
-    song_variation:
-    - esong_code: 484B35
-      song_name: あいは海
       content_type: ''
   - song_name: i miss you
     song_alias:
@@ -234,7 +217,7 @@ result:
     t_singer_master_id: '1675'
     singer_name: 長山 洋子(yoko)
     singer_alias:
-    available_date: '2000-11-08'
+    available_date: '2000-11-11'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 487A38
       song_name: Yellow
+      content_type: ''
+  - song_name: いきてゆく物語
+    song_alias:
+    esong_code: 459B31
+    t_singer_master_id: '11867'
+    singer_name: 武田 鉄矢&水前寺 清子
+    singer_alias:
+    available_date: '2000-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いきてゆくものかた
+    singer_name_ruby: たけたてつやすいせ
+    song_variation:
+    - esong_code: 459B31
+      song_name: いきてゆく物語
       content_type: ''

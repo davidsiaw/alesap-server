@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1349
-  all_max_cnt: 1532
-  all_country_cnt: 1349
+  max_cnt: 1335
+  all_max_cnt: 1518
+  all_country_cnt: 1335
   song:
-  - song_name: キレイエアー
-    song_alias:
-    esong_code: 4169A17
-    t_singer_master_id: '42637'
-    singer_name: 打首獄門同好会
-    singer_alias:
-    available_date: '2019-04-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きれいえあ
-    singer_name_ruby: うちくひこくもんとうこうかい
-    song_variation:
-    - esong_code: 4169A17
-      song_name: キレイエアー
-      content_type: ''
-  - song_name: 綺麗なものばかり (Album Mix)
-    song_alias:
-    esong_code: 4173B44
-    t_singer_master_id: '52153'
-    singer_name: ORESAMA
-    singer_alias:
-    available_date: '2019-04-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きれいなものはかり
-    singer_name_ruby: おれさま
-    song_variation:
-    - esong_code: 4173B44
-      song_name: 綺麗なものばかり (Album Mix)
-      content_type: ''
   - song_name: キレよう!
     song_alias:
     esong_code: 4179A13
@@ -253,7 +219,7 @@ result:
     singer_alias:
     available_date: '2019-04-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: カードキャプターさくら クリアカード編<番組名>
+    tie_up: カードキャプターさくら<番組名>
     country_code: '0'
     content_type: DAM生音
     song_name_ruby: くりああにそんほ
@@ -517,3 +483,37 @@ result:
     - esong_code: 4170A41
       song_name: 血液がない!
       content_type: ''
+  - song_name: 結局死ぬってなんなんだ
+    song_alias:
+    esong_code: 4182B28
+    t_singer_master_id: '63123'
+    singer_name: カンザキイオリ
+    singer_alias:
+    available_date: '2019-04-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: けつきよくしぬつてな
+    singer_name_ruby: かんさきいおり
+    song_variation:
+    - esong_code: 4182B28
+      song_name: 結局死ぬってなんなんだ
+      content_type: VOCALOID
+  - song_name: 結晶星
+    song_alias:
+    esong_code: 4172B49
+    t_singer_master_id: '48542'
+    singer_name: KANA-BOON
+    singer_alias:
+    available_date: '2019-04-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: けつしようせい
+    singer_name_ruby: かなふん
+    song_variation:
+    - esong_code: 4172B49
+      song_name: 結晶星
+      content_type: DAM生音

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
-  - song_name: しまじろうマーチ
-    song_alias:
-    esong_code: 1804A34
-    t_singer_master_id: '30210'
-    singer_name: 南 央美&ひまわりキッズ
-    singer_alias:
-    available_date: '2007-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: しましまとらのしまじろう<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しましろうまち
-    singer_name_ruby: みなみおみひまわりきつす
-    song_variation:
-    - esong_code: 1804A34
-      song_name: しまじろうマーチ
-      content_type: ''
   - song_name: シーモア
     song_alias:
     esong_code: 1802A11
@@ -92,7 +75,7 @@ result:
     - esong_code: 1794B32
       song_name: Just my love
       content_type: ''
-  - song_name: Just Like Paradise (全英語詞)
+  - song_name: Just Like Paradise
     song_alias:
     esong_code: 1795A5
     t_singer_master_id: '1497'
@@ -107,7 +90,7 @@ result:
     singer_name_ruby: ていえむねつとわ
     song_variation:
     - esong_code: 1795A5
-      song_name: Just Like Paradise (全英語詞)
+      song_name: Just Like Paradise
       content_type: ''
   - song_name: ジャスミン
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 1800A34
       song_name: 人生ひたすら
       content_type: DAM生音
+  - song_name: 新世界
+    song_alias:
+    esong_code: 1800A14
+    t_singer_master_id: '12518'
+    singer_name: THE BACK HORN
+    singer_alias:
+    available_date: '2007-06-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんせかい
+    singer_name_ruby: さはつくほん
+    song_variation:
+    - esong_code: 1800A14
+      song_name: 新世界
+      content_type: ''

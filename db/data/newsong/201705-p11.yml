@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
   - song_name: 君はサブカルチャー
     song_alias:
@@ -162,30 +162,13 @@ result:
       content_type: ''
   - song_name: 今日もサクラ舞う暁に
     song_alias:
-    esong_code: 3808A21
-    t_singer_master_id: '51251'
-    singer_name: CHiCO with HoneyWorks
-    singer_alias:
-    available_date: '2017-05-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: よりぬけ!銀魂さん過去回想篇<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: きようもさくらまうあ
-    singer_name_ruby: ちこういすはにわく
-    song_variation:
-    - esong_code: 3808A21
-      song_name: 今日もサクラ舞う暁に
-      content_type: DAM生音
-  - song_name: 今日もサクラ舞う暁に
-    song_alias:
     esong_code: 3820B40
     t_singer_master_id: '51251'
     singer_name: CHiCO with HoneyWorks
     singer_alias:
     available_date: '2017-05-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: よりぬけ!銀魂さん過去回想篇<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: きようもさくらまうあ
@@ -194,6 +177,23 @@ result:
     - esong_code: 3820B40
       song_name: 今日もサクラ舞う暁に
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 今日もサクラ舞う暁に
+    song_alias:
+    esong_code: 3808A21
+    t_singer_master_id: '51251'
+    singer_name: CHiCO with HoneyWorks
+    singer_alias:
+    available_date: '2017-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 銀魂<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: きようもさくらまうあ
+    singer_name_ruby: ちこういすはにわく
+    song_variation:
+    - esong_code: 3808A21
+      song_name: 今日もサクラ舞う暁に
+      content_type: DAM生音
   - song_name: きよしのスイスイマドロスさん
     song_alias:
     esong_code: 3816B40
@@ -381,23 +381,6 @@ result:
     - esong_code: 3814B14
       song_name: Good Night
       content_type: ''
-  - song_name: グッドバイ
-    song_alias:
-    esong_code: 3809A25
-    t_singer_master_id: '58824'
-    singer_name: Sentimental boys
-    singer_alias:
-    available_date: '2017-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くつとはい
-    singer_name_ruby: せんちめんたるほいす
-    song_variation:
-    - esong_code: 3809A25
-      song_name: グッドバイ
-      content_type: ''
   - song_name: Good Bye
     song_alias:
     esong_code: 3818A3
@@ -414,6 +397,23 @@ result:
     song_variation:
     - esong_code: 3818A3
       song_name: Good Bye
+      content_type: ''
+  - song_name: グッドバイ
+    song_alias:
+    esong_code: 3809A25
+    t_singer_master_id: '58824'
+    singer_name: Sentimental boys
+    singer_alias:
+    available_date: '2017-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとはい
+    singer_name_ruby: せんちめんたるほいす
+    song_variation:
+    - esong_code: 3809A25
+      song_name: グッドバイ
       content_type: ''
   - song_name: Good Morning
     song_alias:
@@ -466,23 +466,6 @@ result:
     - esong_code: 3814A10
       song_name: 昏キ帝都ノ終末ニ (with ルードハーネ Ver.)
       content_type: ''
-  - song_name: 昏キ帝都ノ終末ニ
-    song_alias:
-    esong_code: 3814A7
-    t_singer_master_id: '58885'
-    singer_name: 鈴村 健一&立花 慎之介
-    singer_alias:
-    available_date: '2017-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 遙かなる時空の中で6<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらきていとのしゆう
-    singer_name_ruby: すすむらけんいちたちはなし
-    song_variation:
-    - esong_code: 3814A7
-      song_name: 昏キ帝都ノ終末ニ
-      content_type: ''
   - song_name: 昏キ帝都ノ終末ニ (with ダリウス Ver.)
     song_alias:
     esong_code: 3814A9
@@ -499,6 +482,23 @@ result:
     song_variation:
     - esong_code: 3814A9
       song_name: 昏キ帝都ノ終末ニ (with ダリウス Ver.)
+      content_type: ''
+  - song_name: 昏キ帝都ノ終末ニ
+    song_alias:
+    esong_code: 3814A7
+    t_singer_master_id: '58885'
+    singer_name: 鈴村 健一&立花 慎之介
+    singer_alias:
+    available_date: '2017-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 遙かなる時空の中で6<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらきていとのしゆう
+    singer_name_ruby: すすむらけんいちたちはなし
+    song_variation:
+    - esong_code: 3814A7
+      song_name: 昏キ帝都ノ終末ニ
       content_type: ''
   - song_name: グラストライフル
     song_alias:

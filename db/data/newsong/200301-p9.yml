@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 662
-  all_max_cnt: 737
-  all_country_cnt: 662
+  max_cnt: 659
+  all_max_cnt: 734
+  all_country_cnt: 659
   song:
-  - song_name: しあわせのうた
-    song_alias:
-    esong_code: 79B26
-    t_singer_master_id: '14603'
-    singer_name: 森 進一&森 昌子
-    singer_alias:
-    available_date: '2003-01-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 釣りバカ日誌<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しあわせのうた
-    singer_name_ruby: もりしんいちもりまさこ
-    song_variation:
-    - esong_code: 79B26
-      song_name: しあわせのうた
-      content_type: ''
   - song_name: 幸せは小さなつみかさね
     song_alias:
     esong_code: 34B35
@@ -381,23 +364,6 @@ result:
     - esong_code: 84A37
       song_name: Sugar Baby Love
       content_type: ''
-  - song_name: ジュ・テーム
-    song_alias:
-    esong_code: 3A30
-    t_singer_master_id: '409'
-    singer_name: 岡村 孝子
-    singer_alias:
-    available_date: '2003-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆてむ
-    singer_name_ruby: おかむらたかこ
-    song_variation:
-    - esong_code: 3A30
-      song_name: ジュ・テーム
-      content_type: ''
   - song_name: ジュテーム
     song_alias:
     esong_code: 999A33
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 27B37
       song_name: Show me the way
+      content_type: ''
+  - song_name: 省略形達よ
+    song_alias:
+    esong_code: 3A33
+    t_singer_master_id: '6767'
+    singer_name: GARGOYLE
+    singer_alias:
+    available_date: '2003-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようりやくけいたち
+    singer_name_ruby: かこいる
+    song_variation:
+    - esong_code: 3A33
+      song_name: 省略形達よ
+      content_type: ''
+  - song_name: しょーがないよ!
+    song_alias:
+    esong_code: 998B36
+    t_singer_master_id: '1877'
+    singer_name: 光GENJI
+    singer_alias:
+    available_date: '2003-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しよかないよ
+    singer_name_ruby: ひかるけんし
+    song_variation:
+    - esong_code: 998B36
+      song_name: しょーがないよ!
       content_type: ''

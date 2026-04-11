@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1179
-  all_max_cnt: 1291
-  all_country_cnt: 1179
+  max_cnt: 1177
+  all_max_cnt: 1289
+  all_country_cnt: 1177
   song:
-  - song_name: Are One (全英語詞)
-    song_alias:
-    esong_code: 2048A25
-    t_singer_master_id: '26420'
-    singer_name: ワタナベ カズヒロ
-    singer_alias:
-    available_date: '2008-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 咎狗の血 True Blood<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あわん
-    singer_name_ruby: わたなへかすひろ
-    song_variation:
-    - esong_code: 2048A25
-      song_name: Are One (全英語詞)
-      content_type: ''
   - song_name: Are One [オリジナルクリップ]
     song_alias:
     esong_code: 2034B46
@@ -64,6 +47,23 @@ result:
     - esong_code: 2034B46
       song_name: Are One [オリジナルクリップ]
       content_type: パセラ限定クリップ
+  - song_name: Are One (全英語詞)
+    song_alias:
+    esong_code: 2048A25
+    t_singer_master_id: '26420'
+    singer_name: ワタナベ カズヒロ
+    singer_alias:
+    available_date: '2008-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 咎狗の血 True Blood<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あわん
+    singer_name_ruby: わたなへかすひろ
+    song_variation:
+    - esong_code: 2048A25
+      song_name: Are One (全英語詞)
+      content_type: ''
   - song_name: Unstoppable
     song_alias:
     esong_code: 2039A17
@@ -389,23 +389,6 @@ result:
       content_type: ''
   - song_name: イノセント
     song_alias:
-    esong_code: 2046B47
-    t_singer_master_id: '960'
-    singer_name: 佐野 元春
-    singer_alias:
-    available_date: '2008-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのせんと
-    singer_name_ruby: さのもとはる
-    song_variation:
-    - esong_code: 2046B47
-      song_name: イノセント
-      content_type: ''
-  - song_name: イノセント
-    song_alias:
     esong_code: 2038A10
     t_singer_master_id: '29743'
     singer_name: GLORY HILL
@@ -419,6 +402,23 @@ result:
     singer_name_ruby: くろりひる
     song_variation:
     - esong_code: 2038A10
+      song_name: イノセント
+      content_type: ''
+  - song_name: イノセント
+    song_alias:
+    esong_code: 2046B47
+    t_singer_master_id: '960'
+    singer_name: 佐野 元春
+    singer_alias:
+    available_date: '2008-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのせんと
+    singer_name_ruby: さのもとはる
+    song_variation:
+    - esong_code: 2046B47
       song_name: イノセント
       content_type: ''
   - song_name: 天命

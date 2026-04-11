@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
+  - song_name: ベッドタイムストーリー feat.YUKI
+    song_alias:
+    esong_code: 2586B43
+    t_singer_master_id: '15985'
+    singer_name: Jazztronik
+    singer_alias:
+    available_date: '2010-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へつとたいむすと
+    singer_name_ruby: しやすとろにつく
+    song_variation:
+    - esong_code: 2586B43
+      song_name: ベッドタイムストーリー feat.YUKI
+      content_type: ''
   - song_name: 紅つばき (夏木ゆたか歌謡劇場)
     song_alias:
     esong_code: 2591B4
@@ -417,23 +434,6 @@ result:
       content_type: ''
   - song_name: 本当は怖い愛とロマンス
     song_alias:
-    esong_code: 2606A41
-    t_singer_master_id: '774'
-    singer_name: 桑田 佳祐
-    singer_alias:
-    available_date: '2010-09-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ほんとうはこわいあい
-    singer_name_ruby: くわたけいすけ
-    song_variation:
-    - esong_code: 2606A41
-      song_name: 本当は怖い愛とロマンス
-      content_type: DAM生音
-  - song_name: 本当は怖い愛とロマンス
-    song_alias:
     esong_code: 2607B24
     t_singer_master_id: '774'
     singer_name: 桑田 佳祐
@@ -449,6 +449,23 @@ result:
     - esong_code: 2607B24
       song_name: 本当は怖い愛とロマンス
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 本当は怖い愛とロマンス
+    song_alias:
+    esong_code: 2606A41
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2010-09-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ほんとうはこわいあい
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 2606A41
+      song_name: 本当は怖い愛とロマンス
+      content_type: DAM生音
   - song_name: BORN TO BE COOL
     song_alias:
     esong_code: 2604B37
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2591A18
       song_name: ホントノコトバ feat.Lisa Halim,PURPLE REVEL,山猿
-      content_type: ''
-  - song_name: My
-    song_alias:
-    esong_code: 2586B44
-    t_singer_master_id: '13583'
-    singer_name: SHAKALABBITS
-    singer_alias:
-    available_date: '2010-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まい
-    singer_name_ruby: しやからひつつ
-    song_variation:
-    - esong_code: 2586B44
-      song_name: My
       content_type: ''

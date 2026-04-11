@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 951
-  all_max_cnt: 1042
-  all_country_cnt: 951
+  max_cnt: 949
+  all_max_cnt: 1040
+  all_country_cnt: 949
   song:
-  - song_name: 微笑みサンセット
-    song_alias:
-    esong_code: 1950B5
-    t_singer_master_id: '31639'
-    singer_name: 佐藤 利奈&井上 麻里奈&茅原 実里
-    singer_alias:
-    available_date: '2008-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みなみけ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほほえみさんせつと
-    singer_name_ruby: さとうりないのうえまりなす
-    song_variation:
-    - esong_code: 1950B5
-      song_name: 微笑みサンセット
-      content_type: ''
   - song_name: HOME
     song_alias:
     esong_code: 1942B31
@@ -440,7 +423,7 @@ result:
     singer_alias:
     available_date: '2008-02-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まめいと
@@ -500,20 +483,37 @@ result:
     - esong_code: 1957B31
       song_name: 迷い花
       content_type: ''
-  - song_name: マリンタワーに抱かれて
+  - song_name: 満月のしわざ
     song_alias:
-    esong_code: 1954B20
-    t_singer_master_id: '5020'
-    singer_name: INGRY MONGRY
+    esong_code: 1955A23
+    t_singer_master_id: '2813'
+    singer_name: 久川 綾
     singer_alias:
-    available_date: '2008-02-20'
+    available_date: '2008-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 魔物ハンター妖子 スーパー・ミュージック・クリップ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: まんけつのしわさ
+    singer_name_ruby: ひさかわあや
+    song_variation:
+    - esong_code: 1955A23
+      song_name: 満月のしわざ
+      content_type: ''
+  - song_name: 見えない海
+    song_alias:
+    esong_code: 1948A44
+    t_singer_master_id: '20234'
+    singer_name: doa
+    singer_alias:
+    available_date: '2008-02-10'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: まりんたわにたか
-    singer_name_ruby: いんくりもんくり
+    song_name_ruby: みえないうみ
+    singer_name_ruby: とあ
     song_variation:
-    - esong_code: 1954B20
-      song_name: マリンタワーに抱かれて
+    - esong_code: 1948A44
+      song_name: 見えない海
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 980
-  all_max_cnt: 1116
-  all_country_cnt: 980
+  max_cnt: 974
+  all_max_cnt: 1110
+  all_country_cnt: 974
   song:
-  - song_name: SHAKE! SHAKE!
-    song_alias:
-    esong_code: 4317A2
-    t_singer_master_id: '43218'
-    singer_name: 私立恵比寿中学
-    singer_alias:
-    available_date: '2020-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえいくしえいく
-    singer_name_ruby: しりつえひすちゆうかく
-    song_variation:
-    - esong_code: 4317A2
-      song_name: SHAKE! SHAKE!
-      content_type: ''
-  - song_name: Gemstone
-    song_alias:
-    esong_code: 4311B2
-    t_singer_master_id: '29531'
-    singer_name: Superfly
-    singer_alias:
-    available_date: '2020-01-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえむすとん
-    singer_name_ruby: すはふらい
-    song_variation:
-    - esong_code: 4311B2
-      song_name: Gemstone
-      content_type: ''
   - song_name: 自画像
     song_alias:
     esong_code: 4308A36
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1794B7
       song_name: 人生捨てたもんじゃない
+      content_type: ''
+  - song_name: 真善美
+    song_alias:
+    esong_code: 4312A14
+    t_singer_master_id: '20296'
+    singer_name: BRAHMAN
+    singer_alias:
+    available_date: '2020-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんせんひ
+    singer_name_ruby: ふらふまん
+    song_variation:
+    - esong_code: 4312A14
+      song_name: 真善美
+      content_type: ''
+  - song_name: 死んだら骨
+    song_alias:
+    esong_code: 4310A12
+    t_singer_master_id: '60208'
+    singer_name: SUSHIBOYS
+    singer_alias:
+    available_date: '2020-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんたらほね
+    singer_name_ruby: すしほいす
+    song_variation:
+    - esong_code: 4310A12
+      song_name: 死んだら骨
       content_type: ''

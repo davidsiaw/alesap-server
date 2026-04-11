@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: Double-Action Ax form
-    song_alias:
-    esong_code: 1870A39
-    t_singer_master_id: '31180'
-    singer_name: 佐藤 健&てらそま まさき
-    singer_alias:
-    available_date: '2007-09-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダー電王<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たふるあくしよん
-    singer_name_ruby: さとうたけるてらそままさき
-    song_variation:
-    - esong_code: 1870A39
-      song_name: Double-Action Ax form
-      content_type: ''
   - song_name: だまって俺について来い
     song_alias:
     esong_code: 1859A8
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1870B7
       song_name: 出逢いのチカラⅡ
+      content_type: ''
+  - song_name: Dear
+    song_alias:
+    esong_code: 1869B38
+    t_singer_master_id: '5305'
+    singer_name: 篠原 美也子
+    singer_alias:
+    available_date: '2007-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていあ
+    singer_name_ruby: しのはらみやこ
+    song_variation:
+    - esong_code: 1869B38
+      song_name: Dear
       content_type: ''

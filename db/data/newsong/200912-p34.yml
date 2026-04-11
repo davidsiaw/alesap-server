@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
-  - song_name: もいちど
-    song_alias:
-    esong_code: 2438B31
-    t_singer_master_id: '33496'
-    singer_name: BES
-    singer_alias:
-    available_date: '2009-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: もいちと
-    singer_name_ruby: へす
-    song_variation:
-    - esong_code: 2438B31
-      song_name: もいちど
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 妄想☆ふぇてぃっしゅっ!
     song_alias:
     esong_code: 2432A40
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2433A25
       song_name: 夢の続きⅡ
+      content_type: ''
+  - song_name: 夢のマニュアル
+    song_alias:
+    esong_code: 2432A49
+    t_singer_master_id: '19084'
+    singer_name: CHERRYBLOSSOM
+    singer_alias:
+    available_date: '2009-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 家庭教師ヒットマン REBORN!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめのまにゆある
+    singer_name_ruby: ちえりふろつさむ
+    song_variation:
+    - esong_code: 2432A49
+      song_name: 夢のマニュアル
       content_type: ''

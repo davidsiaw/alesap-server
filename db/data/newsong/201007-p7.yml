@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: 男と女のラブゲーム
-    song_alias:
-    esong_code: 2590A31
-    t_singer_master_id: '4282'
-    singer_name: ヒロシ&ミユキ
-    singer_alias:
-    available_date: '2010-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: おとことおんなのらふ
-    singer_name_ruby: ひろしあんとみゆき
-    song_variation:
-    - esong_code: 2590A31
-      song_name: 男と女のラブゲーム
-      content_type: JOY生演奏
   - song_name: 男の生き様
     song_alias:
     esong_code: 2573A10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2569B30
       song_name: Orange Juice feat.ASKA
+      content_type: ''
+  - song_name: 終わりなき哀しみ
+    song_alias:
+    esong_code: 2575A17
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2010-07-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おわりなきかなしみ
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 2575A17
+      song_name: 終わりなき哀しみ
       content_type: ''

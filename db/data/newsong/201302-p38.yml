@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
-  - song_name: 水の証〜ReTracks
-    song_alias:
-    esong_code: 2991A30
-    t_singer_master_id: '14869'
-    singer_name: 田中 理恵
-    singer_alias:
-    available_date: '2013-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 機動戦士ガンダムSEED<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすのあかしりとら
-    singer_name_ruby: たなかりえ
-    song_variation:
-    - esong_code: 2991A30
-      song_name: 水の証〜ReTracks
-      content_type: ''
   - song_name: ミスレル
     song_alias:
     esong_code: 2991A46
@@ -211,23 +194,6 @@ result:
     - esong_code: 2982B38
       song_name: 身の上ばなし
       content_type: ''
-  - song_name: ミュージック
-    song_alias:
-    esong_code: 2992B39
-    t_singer_master_id: '31003'
-    singer_name: サカナクション
-    singer_alias:
-    available_date: '2013-02-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: みゆしつく
-    singer_name_ruby: さかなくしよん
-    song_variation:
-    - esong_code: 2992B39
-      song_name: ミュージック
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: music
     song_alias:
     esong_code: 2992A25
@@ -245,6 +211,23 @@ result:
     - esong_code: 2992A25
       song_name: music
       content_type: ''
+  - song_name: ミュージック
+    song_alias:
+    esong_code: 2992B39
+    t_singer_master_id: '31003'
+    singer_name: サカナクション
+    singer_alias:
+    available_date: '2013-02-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: みゆしつく
+    singer_name_ruby: さかなくしよん
+    song_variation:
+    - esong_code: 2992B39
+      song_name: ミュージック
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ミュージック∞ファクトリー feat.鏡音リン
     song_alias:
     esong_code: 2989A10
@@ -355,7 +338,7 @@ result:
     singer_alias:
     available_date: '2013-02-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイ 天理篇<番組名>
+    tie_up: 神のみぞ知るセカイ(OVA)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: みらいへのとひら
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2982B19
       song_name: Limitation∞
+      content_type: ''
+  - song_name: 無色透明
+    song_alias:
+    esong_code: 2984A5
+    t_singer_master_id: '41517'
+    singer_name: LiSA
+    singer_alias:
+    available_date: '2013-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: むしよくとうめい
+    singer_name_ruby: りさ
+    song_variation:
+    - esong_code: 2984A5
+      song_name: 無色透明
       content_type: ''

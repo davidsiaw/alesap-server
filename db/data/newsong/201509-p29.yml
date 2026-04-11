@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
+  - song_name: ならば青春の光
+    song_alias:
+    esong_code: 3496A23
+    t_singer_master_id: '12899'
+    singer_name: GOING UNDER GROUND
+    singer_alias:
+    available_date: '2015-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ならはせいしゆんの
+    singer_name_ruby: こいんくあんたくらうんと
+    song_variation:
+    - esong_code: 3496A23
+      song_name: ならば青春の光
+      content_type: ''
   - song_name: NANKURU
     song_alias:
     esong_code: 3491A32
@@ -77,23 +94,6 @@ result:
       content_type: ''
   - song_name: 2時間だけのルージュ
     song_alias:
-    esong_code: 3498B27
-    t_singer_master_id: '10253'
-    singer_name: チェウニ
-    singer_alias:
-    available_date: '2015-09-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: にしかんたけのる
-    singer_name_ruby: ちえうに
-    song_variation:
-    - esong_code: 3498B27
-      song_name: 2時間だけのルージュ
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 2時間だけのルージュ
-    song_alias:
     esong_code: 3495B3
     t_singer_master_id: '10253'
     singer_name: チェウニ
@@ -109,6 +109,23 @@ result:
     - esong_code: 3495B3
       song_name: 2時間だけのルージュ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 2時間だけのルージュ
+    song_alias:
+    esong_code: 3498B27
+    t_singer_master_id: '10253'
+    singer_name: チェウニ
+    singer_alias:
+    available_date: '2015-09-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: にしかんたけのる
+    singer_name_ruby: ちえうに
+    song_variation:
+    - esong_code: 3498B27
+      song_name: 2時間だけのルージュ
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 虹の空
     song_alias:
     esong_code: 3503A19
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3493B12
       song_name: Knocked me down
-      content_type: ''
-  - song_name: ののしって
-    song_alias:
-    esong_code: 3490B13
-    t_singer_master_id: '54141'
-    singer_name: スルースキルズ
-    singer_alias:
-    available_date: '2015-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ののしつて
-    singer_name_ruby: するすきるす
-    song_variation:
-    - esong_code: 3490B13
-      song_name: ののしって
       content_type: ''

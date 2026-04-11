@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1536
-  all_max_cnt: 1777
-  all_country_cnt: 1536
+  max_cnt: 1525
+  all_max_cnt: 1765
+  all_country_cnt: 1525
   song:
   - song_name: あぁ・・・あんた川 「名演ギター 斉藤 功」
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 3454A13
       song_name: I am proud
       content_type: ''
-  - song_name: 曖色
-    song_alias:
-    esong_code: 3452A2
-    t_singer_master_id: '17386'
-    singer_name: 湘南乃風
-    singer_alias:
-    available_date: '2015-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいいろ
-    singer_name_ruby: しようなんのかせ
-    song_variation:
-    - esong_code: 3452A2
-      song_name: 曖色
-      content_type: ''
   - song_name: aiiro
     song_alias:
     esong_code: 3454A30
@@ -91,6 +74,23 @@ result:
     song_variation:
     - esong_code: 3454A30
       song_name: aiiro
+      content_type: ''
+  - song_name: 曖色
+    song_alias:
+    esong_code: 3452A2
+    t_singer_master_id: '17386'
+    singer_name: 湘南乃風
+    singer_alias:
+    available_date: '2015-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいいろ
+    singer_name_ruby: しようなんのかせ
+    song_variation:
+    - esong_code: 3452A2
+      song_name: 曖色
       content_type: ''
   - song_name: I wish 〜君がいるこの街で〜
     song_alias:
@@ -504,7 +504,7 @@ result:
     song_alias:
     esong_code: 3452A32
     t_singer_master_id: '46612'
-    singer_name: ひとしずくP×やま△ feat.鏡音リン、鏡音レン
+    singer_name: ひとしずく×やま△ feat.鏡音リン、鏡音レン
     singer_alias:
     available_date: '2015-06-20'
     end_date: '2999-04-10 00:00:00'
@@ -512,7 +512,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: あいよくのふりす
-    singer_name_ruby: ひとしすくひやまさんかつけふい
+    singer_name_ruby: ひとしすくやまさんかつけふい
     song_variation:
     - esong_code: 3452A32
       song_name: 愛欲のプリズナー

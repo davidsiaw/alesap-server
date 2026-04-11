@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1496
-  all_max_cnt: 1667
-  all_country_cnt: 1496
+  max_cnt: 1487
+  all_max_cnt: 1658
+  all_country_cnt: 1487
   song:
   - song_name: 愛の時代に
     song_alias:
@@ -349,23 +349,6 @@ result:
       content_type: ''
   - song_name: 青二才
     song_alias:
-    esong_code: 3121A19
-    t_singer_master_id: '45042'
-    singer_name: 松尾 雄史
-    singer_alias:
-    available_date: '2015-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あおにさい
-    singer_name_ruby: まつおゆうし
-    song_variation:
-    - esong_code: 3121A19
-      song_name: 青二才
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 青二才
-    song_alias:
     esong_code: 3130A38
     t_singer_master_id: '45042'
     singer_name: 松尾 雄史
@@ -381,6 +364,23 @@ result:
     - esong_code: 3130A38
       song_name: 青二才
       content_type: JOY生演奏
+  - song_name: 青二才
+    song_alias:
+    esong_code: 3121A19
+    t_singer_master_id: '45042'
+    singer_name: 松尾 雄史
+    singer_alias:
+    available_date: '2015-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あおにさい
+    singer_name_ruby: まつおゆうし
+    song_variation:
+    - esong_code: 3121A19
+      song_name: 青二才
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 赤い酒
     song_alias:
     esong_code: 784B40
@@ -419,7 +419,7 @@ result:
     song_alias:
     esong_code: 3424A26
     t_singer_master_id: '46612'
-    singer_name: ひとしずくP×やま△ feat.鏡音リン、鏡音レン
+    singer_name: ひとしずく×やま△ feat.鏡音リン、鏡音レン
     singer_alias:
     available_date: '2015-04-16'
     end_date: '2999-04-10 00:00:00'
@@ -427,7 +427,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: あかつきのものろく
-    singer_name_ruby: ひとしすくひやまさんかつけふい
+    singer_name_ruby: ひとしすくやまさんかつけふい
     song_variation:
     - esong_code: 3424A26
       song_name: 暁のモノローグ
@@ -512,7 +512,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: あけほし
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3427A8
       song_name: 明け星

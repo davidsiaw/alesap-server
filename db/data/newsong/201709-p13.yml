@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1344
-  all_max_cnt: 1519
-  all_country_cnt: 1344
+  max_cnt: 1334
+  all_max_cnt: 1509
+  all_country_cnt: 1334
   song:
-  - song_name: 健康節
-    song_alias:
-    esong_code: 3880A11
-    t_singer_master_id: '54983'
-    singer_name: 浅野 祥
-    singer_alias:
-    available_date: '2017-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けんこうふし
-    singer_name_ruby: あさのしよう
-    song_variation:
-    - esong_code: 3880A11
-      song_name: 健康節
-      content_type: ''
   - song_name: GO AHEAD SMILE!
     song_alias:
     esong_code: 3874A34
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3869B28
       song_name: 心の風
+      content_type: ''
+  - song_name: 心の真んなか母がいる (ニューヴァージョン)
+    song_alias:
+    esong_code: 3869B15
+    t_singer_master_id: '10798'
+    singer_name: 北川 大介
+    singer_alias:
+    available_date: '2017-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころのまんなかはは
+    singer_name_ruby: きたかわたいすけ
+    song_variation:
+    - esong_code: 3869B15
+      song_name: 心の真んなか母がいる (ニューヴァージョン)
       content_type: ''

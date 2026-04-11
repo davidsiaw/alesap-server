@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: 御陣乗太鼓
+    song_alias:
+    esong_code: 2696A22
+    t_singer_master_id: '42791'
+    singer_name: 門口 公将
+    singer_alias:
+    available_date: '2013-05-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こしんしよた
+    singer_name_ruby: かとくちきみすけ
+    song_variation:
+    - esong_code: 2696A22
+      song_name: 御陣乗太鼓
+      content_type: ''
   - song_name: コス☆ちぇん!
     song_alias:
     esong_code: 3037B34
@@ -376,7 +393,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: こふれいしやちほ
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3043A44
       song_name: ごぶれい!しゃちほこでらックス
@@ -434,23 +451,6 @@ result:
       content_type: ''
   - song_name: Calling
     song_alias:
-    esong_code: 3035A15
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2013-05-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: こりんく
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 3035A15
-      song_name: Calling
-      content_type: DAM生音
-  - song_name: Calling
-    song_alias:
     esong_code: 3035B6
     t_singer_master_id: '10314'
     singer_name: 嵐
@@ -466,6 +466,23 @@ result:
     - esong_code: 3035B6
       song_name: Calling
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: Calling
+    song_alias:
+    esong_code: 3035A15
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2013-05-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: こりんく
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 3035A15
+      song_name: Calling
+      content_type: DAM生音
   - song_name: call my name
     song_alias:
     esong_code: 3052A11
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3047A17
       song_name: Call me Anne
-      content_type: ''
-  - song_name: これが女のしあわせね
-    song_alias:
-    esong_code: 2380A20
-    t_singer_master_id: '32348'
-    singer_name: 渕上 雅代
-    singer_alias:
-    available_date: '2013-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: これかおんなのしあ
-    singer_name_ruby: ふちかみまさよ
-    song_variation:
-    - esong_code: 2380A20
-      song_name: これが女のしあわせね
       content_type: ''

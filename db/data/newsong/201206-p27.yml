@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: 長良川恋唄
-    song_alias:
-    esong_code: 336A21
-    t_singer_master_id: '129'
-    singer_name: 有明 一朗
-    singer_alias:
-    available_date: '2012-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なからかわこいう
-    singer_name_ruby: ありあけいちろう
-    song_variation:
-    - esong_code: 336A21
-      song_name: 長良川恋唄
-      content_type: ''
-  - song_name: ナギイチ
-    song_alias:
-    esong_code: 847B25
-    t_singer_master_id: '42716'
-    singer_name: NMB48
-    singer_alias:
-    available_date: '2012-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: なきいち
-    singer_name_ruby: えぬえむひふおていえいと
-    song_variation:
-    - esong_code: 847B25
-      song_name: ナギイチ
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 渚のラララ
     song_alias:
     esong_code: 2809A15
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2803A20
       song_name: 虹色のカナリア
+      content_type: ''
+  - song_name: 虹色の湖
+    song_alias:
+    esong_code: 2799A40
+    t_singer_master_id: '1560'
+    singer_name: 徳永 英明
+    singer_alias:
+    available_date: '2012-06-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にしいろのみすう
+    singer_name_ruby: とくなかひてあき
+    song_variation:
+    - esong_code: 2799A40
+      song_name: 虹色の湖
+      content_type: ''
+  - song_name: 21mg
+    song_alias:
+    esong_code: 2804B7
+    t_singer_master_id: '35295'
+    singer_name: 摩天楼オペラ
+    singer_alias:
+    available_date: '2012-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にしゆういちみりく
+    singer_name_ruby: まてんろうおへら
+    song_variation:
+    - esong_code: 2804B7
+      song_name: 21mg
       content_type: ''

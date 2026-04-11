@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: 僕の花
-    song_alias:
-    esong_code: 1818A45
-    t_singer_master_id: '30448'
-    singer_name: 五井 道子
-    singer_alias:
-    available_date: '2007-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほくのはな
-    singer_name_ruby: こいみちこ
-    song_variation:
-    - esong_code: 1818A45
-      song_name: 僕の花
-      content_type: ''
   - song_name: 僕らのヒーロー
     song_alias:
     esong_code: 1805A40
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1815A45
       song_name: マジカルジャーニー
+      content_type: ''
+  - song_name: MAGICAL WORLD
+    song_alias:
+    esong_code: 1818B24
+    t_singer_master_id: '11184'
+    singer_name: 鬼束 ちひろ
+    singer_alias:
+    available_date: '2007-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ましかるわると
+    singer_name_ruby: おにつかちひろ
+    song_variation:
+    - esong_code: 1818B24
+      song_name: MAGICAL WORLD
       content_type: ''

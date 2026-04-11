@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1365
-  all_max_cnt: 1538
-  all_country_cnt: 1365
+  max_cnt: 1361
+  all_max_cnt: 1534
+  all_country_cnt: 1361
   song:
-  - song_name: GOOD NIGHT AWESOME
-    song_alias:
-    esong_code: 3672A17
-    t_singer_master_id: '55013'
-    singer_name: IDOLiSH7
-    singer_alias:
-    available_date: '2016-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドリッシュセブン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くつとないとお
-    singer_name_ruby: あいとりつしゆせふん
-    song_variation:
-    - esong_code: 3672A17
-      song_name: GOOD NIGHT AWESOME
-      content_type: ''
   - song_name: GOOD NIGHT SONG (チャオ ベッラ チンクエッティver.)
     song_alias:
     esong_code: 3672A26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3664A2
       song_name: 気高く咲き誇れ!
+      content_type: ''
+  - song_name: 月光
+    song_alias:
+    esong_code: 3668A20
+    t_singer_master_id: '32364'
+    singer_name: 本間 由里
+    singer_alias:
+    available_date: '2016-08-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けつこう
+    singer_name_ruby: ほんまゆり
+    song_variation:
+    - esong_code: 3668A20
+      song_name: 月光
       content_type: ''

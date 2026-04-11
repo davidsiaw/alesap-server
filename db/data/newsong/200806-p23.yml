@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
-  - song_name: 虹が消えた日
-    song_alias:
-    esong_code: 2022B18
-    t_singer_master_id: '28111'
-    singer_name: 秦 基博
-    singer_alias:
-    available_date: '2008-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: にしかきえたひ
-    singer_name_ruby: はたもとひろ
-    song_variation:
-    - esong_code: 2022B18
-      song_name: 虹が消えた日
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 虹が消えた日
-    song_alias:
-    esong_code: 2013B39
-    t_singer_master_id: '28111'
-    singer_name: 秦 基博
-    singer_alias:
-    available_date: '2008-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にしかきえたひ
-    singer_name_ruby: はたもとひろ
-    song_variation:
-    - esong_code: 2013B39
-      song_name: 虹が消えた日
-      content_type: ''
-  - song_name: 虹の架け橋
-    song_alias:
-    esong_code: 2022B16
-    t_singer_master_id: '32891'
-    singer_name: 上原 れな
-    singer_alias:
-    available_date: '2008-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ToHeart2ad<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: にしのかけはし
-    singer_name_ruby: うえはられな
-    song_variation:
-    - esong_code: 2022B16
-      song_name: 虹の架け橋
-      content_type: ''
   - song_name: ニセモノ天国
     song_alias:
     esong_code: 1982B1
@@ -100,7 +49,7 @@ result:
     singer_alias:
     available_date: '2008-06-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・シンフォニア<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ににんさんきやく
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2013A18
       song_name: Birthday Song feat.常田 真太郎
+      content_type: ''
+  - song_name: am08:59
+    song_alias:
+    esong_code: 2014A19
+    t_singer_master_id: '26221'
+    singer_name: Rickie-G
+    singer_alias:
+    available_date: '2008-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はちしこしゆう
+    singer_name_ruby: りつきし
+    song_variation:
+    - esong_code: 2014A19
+      song_name: am08:59
+      content_type: ''
+  - song_name: 初恋
+    song_alias:
+    esong_code: 2043A13
+    t_singer_master_id: '31439'
+    singer_name: 幸村 精市
+    singer_alias:
+    available_date: '2008-06-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: テニスの王子様 (ミュージカル)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつこい
+    singer_name_ruby: ゆきむらせいいち
+    song_variation:
+    - esong_code: 2043A13
+      song_name: 初恋
+      content_type: ''
+  - song_name: BAD COMMUNICATION -ULTRA Pleasure style-
+    song_alias:
+    esong_code: 2018B4
+    t_singer_master_id: '1928'
+    singer_name: B'z
+    singer_alias:
+    available_date: '2008-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつとこみゆにけ
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 2018B4
+      song_name: BAD COMMUNICATION -ULTRA Pleasure style-
       content_type: ''

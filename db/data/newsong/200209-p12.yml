@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 392
-  all_max_cnt: 480
-  all_country_cnt: 392
+  max_cnt: 391
+  all_max_cnt: 479
+  all_country_cnt: 391
   song:
-  - song_name: ゆるぎない者達
-    song_alias:
-    esong_code: 918B36
-    t_singer_master_id: '2855'
-    singer_name: GLAY
-    singer_alias:
-    available_date: '2002-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆるきないものたち
-    singer_name_ruby: くれい
-    song_variation:
-    - esong_code: 918B36
-      song_name: ゆるぎない者達
-      content_type: ''
   - song_name: YOKOHAMA二十才まえ
     song_alias:
     esong_code: 701A15
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 145B43
       song_name: わーわー (Live Version)
+      content_type: ''
+  - song_name: One Side Love
+    song_alias:
+    esong_code: 910A29
+    t_singer_master_id: '7818'
+    singer_name: 小松 未歩
+    singer_alias:
+    available_date: '2002-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 名探偵コナン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: わんさいとらふ
+    singer_name_ruby: こまつみほ
+    song_variation:
+    - esong_code: 910A29
+      song_name: One Side Love
       content_type: ''

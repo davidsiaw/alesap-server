@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1356
-  all_max_cnt: 1472
-  all_country_cnt: 1356
+  max_cnt: 1352
+  all_max_cnt: 1469
+  all_country_cnt: 1352
   song:
-  - song_name: 肝どんどん
-    song_alias:
-    esong_code: 1517A27
-    t_singer_master_id: '15536'
-    singer_name: 前川 守賢
-    singer_alias:
-    available_date: '2006-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちむとんとん
-    singer_name_ruby: まえかわしゆけん
-    song_variation:
-    - esong_code: 1517A27
-      song_name: 肝どんどん
-      content_type: ''
-  - song_name: Chao Tokyo
-    song_alias:
-    esong_code: 995B47
-    t_singer_master_id: '3047'
-    singer_name: See-Saw
-    singer_alias:
-    available_date: '2006-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちやおとうきよう
-    singer_name_ruby: しそう
-    song_variation:
-    - esong_code: 995B47
-      song_name: Chao Tokyo
-      content_type: ''
   - song_name: ちゃーすがてぇー
     song_alias:
     esong_code: 1515B24
@@ -94,23 +60,6 @@ result:
       content_type: ''
   - song_name: チャンピオーネ
     song_alias:
-    esong_code: 1498B23
-    t_singer_master_id: '15759'
-    singer_name: ORANGE RANGE
-    singer_alias:
-    available_date: '2006-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちやんひおね
-    singer_name_ruby: おれんしれんし
-    song_variation:
-    - esong_code: 1498B23
-      song_name: チャンピオーネ
-      content_type: ''
-  - song_name: チャンピオーネ
-    song_alias:
     esong_code: 1535B2
     t_singer_master_id: '15759'
     singer_name: ORANGE RANGE
@@ -126,6 +75,23 @@ result:
     - esong_code: 1535B2
       song_name: チャンピオーネ
       content_type: DAM生音
+  - song_name: チャンピオーネ
+    song_alias:
+    esong_code: 1498B23
+    t_singer_master_id: '15759'
+    singer_name: ORANGE RANGE
+    singer_alias:
+    available_date: '2006-05-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちやんひおね
+    singer_name_ruby: おれんしれんし
+    song_variation:
+    - esong_code: 1498B23
+      song_name: チャンピオーネ
+      content_type: ''
   - song_name: 中央線 (「はじめてのやのあきこ」バージョン)
     song_alias:
     esong_code: 1508B44
@@ -517,3 +483,37 @@ result:
     - esong_code: 1513A2
       song_name: Dear friend
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: Dear My Friend 〜我、親愛なる友へ〜
+    song_alias:
+    esong_code: 1473B49
+    t_singer_master_id: '778'
+    singer_name: 桑名 正博
+    singer_alias:
+    available_date: '2006-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていあまいふれんと
+    singer_name_ruby: くわなまさひろ
+    song_variation:
+    - esong_code: 1473B49
+      song_name: Dear My Friend 〜我、親愛なる友へ〜
+      content_type: ''
+  - song_name: Decay
+    song_alias:
+    esong_code: 1563B4
+    t_singer_master_id: '22325'
+    singer_name: MONKEY MAJIK
+    singer_alias:
+    available_date: '2006-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていけい
+    singer_name_ruby: もんきましつく
+    song_variation:
+    - esong_code: 1563B4
+      song_name: Decay
+      content_type: ''

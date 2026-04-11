@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
-  - song_name: ハッピーエンドグレーテル feat.初音ミク
-    song_alias:
-    esong_code: 2677A28
-    t_singer_master_id: '42433'
-    singer_name: KulfiQ
-    singer_alias:
-    available_date: '2011-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: はつひえんとく
-    singer_name_ruby: くるふい
-    song_variation:
-    - esong_code: 2677A28
-      song_name: ハッピーエンドグレーテル feat.初音ミク
-      content_type: VOCALOID
-  - song_name: ハッピーシンセサイザさつき が てんこもり's(redial call..)
-    song_alias:
-    esong_code: 2672A22
-    t_singer_master_id: '43220'
-    singer_name: EasyPop feat.巡音ルカ・GUMI
-    singer_alias:
-    available_date: '2011-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: はつひしんせさい
-    singer_name_ruby: いしほつふふいちやりんくめ
-    song_variation:
-    - esong_code: 2672A22
-      song_name: ハッピーシンセサイザさつき が てんこもり's(redial call..)
-      content_type: VOCALOID
   - song_name: パーティーパーティー!
     song_alias:
     esong_code: 2675A15
@@ -49,7 +15,7 @@ result:
     singer_alias:
     available_date: '2011-09-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ -サマースペシャル-<番組名>
+    tie_up: 探偵オペラ ミルキィホームズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はていはて
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2676B22
       song_name: 浜唄
+      content_type: ''
+  - song_name: 横浜のブルース
+    song_alias:
+    esong_code: 2673B34
+    t_singer_master_id: '43252'
+    singer_name: 敏 あづま
+    singer_alias:
+    available_date: '2011-09-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はまのふるす
+    singer_name_ruby: としあつま
+    song_variation:
+    - esong_code: 2673B34
+      song_name: 横浜のブルース
+      content_type: ''
+  - song_name: はみだし者賛歌
+    song_alias:
+    esong_code: 2668B26
+    t_singer_master_id: '17451'
+    singer_name: 平田 広明
+    singer_alias:
+    available_date: '2011-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: TIGER&BUNNY<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はみたしものさんか
+    singer_name_ruby: ひらたひろあき
+    song_variation:
+    - esong_code: 2668B26
+      song_name: はみだし者賛歌
       content_type: ''

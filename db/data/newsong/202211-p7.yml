@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1411
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1405
+  all_country_cnt: 1206
   song:
   - song_name: おにごっこ
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 4700B22
       song_name: おにごっこ
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: おにごっこ
-    song_alias:
-    esong_code: 4702A35
-    t_singer_master_id: '65844'
-    singer_name: 優里
-    singer_alias:
-    available_date: '2022-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: おにこつこ
-    singer_name_ruby: ゆうり
-    song_variation:
-    - esong_code: 4702A35
-      song_name: おにごっこ
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: おにごっこ
     song_alias:
     esong_code: 4708B14
@@ -517,3 +500,20 @@ result:
     - esong_code: 4705A3
       song_name: おんなの嵯峨野路
       content_type: DAM生音
+  - song_name: 女の手酌酒
+    song_alias:
+    esong_code: 4627A20
+    t_singer_master_id: '6518'
+    singer_name: 川神 あい(木村悠希)
+    singer_alias:
+    available_date: '2022-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのてしやくさ
+    singer_name_ruby: かわかみあい
+    song_variation:
+    - esong_code: 4627A20
+      song_name: 女の手酌酒
+      content_type: ''

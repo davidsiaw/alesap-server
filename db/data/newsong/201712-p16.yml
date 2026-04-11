@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: さらば高円寺
-    song_alias:
-    esong_code: 2224B26
-    t_singer_master_id: '2625'
-    singer_name: ロス・プリモス
-    singer_alias:
-    available_date: '2017-12-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらはこうえんし
-    singer_name_ruby: ろすふりもす
-    song_variation:
-    - esong_code: 2224B26
-      song_name: さらば高円寺
-      content_type: ''
-  - song_name: さらば宝塚
-    song_alias:
-    esong_code: 2224B22
-    t_singer_master_id: '2625'
-    singer_name: ロス・プリモス
-    singer_alias:
-    available_date: '2017-12-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらはたからつか
-    singer_name_ruby: ろすふりもす
-    song_variation:
-    - esong_code: 2224B22
-      song_name: さらば宝塚
-      content_type: ''
   - song_name: さらば豊橋
     song_alias:
     esong_code: 2224B1
@@ -168,7 +134,7 @@ result:
     singer_alias:
     available_date: '2017-12-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しあわせならいいや
@@ -185,7 +151,7 @@ result:
     singer_alias:
     available_date: '2017-12-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しあわせならいいや
@@ -315,23 +281,6 @@ result:
       content_type: ''
   - song_name: CQCQ
     song_alias:
-    esong_code: 3824B27
-    t_singer_master_id: '57962'
-    singer_name: 神様、僕は気づいてしまった
-    singer_alias:
-    available_date: '2017-12-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: しきゆしきゆ
-    singer_name_ruby: かみさまほくはきついてしまつた
-    song_variation:
-    - esong_code: 3824B27
-      song_name: CQCQ
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: CQCQ
-    song_alias:
     esong_code: 3921A30
     t_singer_master_id: '57962'
     singer_name: 神様、僕は気づいてしまった
@@ -347,6 +296,23 @@ result:
     - esong_code: 3921A30
       song_name: CQCQ
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: CQCQ
+    song_alias:
+    esong_code: 3824B27
+    t_singer_master_id: '57962'
+    singer_name: 神様、僕は気づいてしまった
+    singer_alias:
+    available_date: '2017-12-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: しきゆしきゆ
+    singer_name_ruby: かみさまほくはきついてしまつた
+    song_variation:
+    - esong_code: 3824B27
+      song_name: CQCQ
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 時空旅行者
     song_alias:
     esong_code: 3923A49
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3923A46
       song_name: 自分らしく生きていたい それだけなんだけど
+      content_type: ''
+  - song_name: ジャカランダの花嫁
+    song_alias:
+    esong_code: 3828B24
+    t_singer_master_id: '60349'
+    singer_name: 荒木 悦朗
+    singer_alias:
+    available_date: '2017-12-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやからんたのは
+    singer_name_ruby: あらきえつろう
+    song_variation:
+    - esong_code: 3828B24
+      song_name: ジャカランダの花嫁
+      content_type: ''
+  - song_name: SHAKE
+    song_alias:
+    esong_code: 3921B24
+    t_singer_master_id: '47606'
+    singer_name: 井上 苑子
+    singer_alias:
+    available_date: '2017-12-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやけ
+    singer_name_ruby: いのうえそのこ
+    song_variation:
+    - esong_code: 3921B24
+      song_name: SHAKE
       content_type: ''

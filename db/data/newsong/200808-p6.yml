@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 942
-  all_max_cnt: 1036
-  all_country_cnt: 942
+  max_cnt: 935
+  all_max_cnt: 1029
+  all_country_cnt: 935
   song:
-  - song_name: 風にのって -Ride the Wind-
-    song_alias:
-    esong_code: 2064A23
-    t_singer_master_id: '8262'
-    singer_name: GRAND SLAM
-    singer_alias:
-    available_date: '2008-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせにのつて
-    singer_name_ruby: くらんとすらむ
-    song_variation:
-    - esong_code: 2064A23
-      song_name: 風にのって -Ride the Wind-
-      content_type: ''
-  - song_name: 風にまかせて
-    song_alias:
-    esong_code: 2068B27
-    t_singer_master_id: '33147'
-    singer_name: 宮地 佑紀生
-    singer_alias:
-    available_date: '2008-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせにまかせて
-    singer_name_ruby: みやちゆきお
-    song_variation:
-    - esong_code: 2068B27
-      song_name: 風にまかせて
-      content_type: ''
   - song_name: 風の向こうへ
     song_alias:
     esong_code: 2055B11
@@ -162,13 +128,30 @@ result:
       content_type: ''
   - song_name: 鐘を鳴らして
     song_alias:
+    esong_code: 2107B25
+    t_singer_master_id: '7775'
+    singer_name: BONNIE PINK
+    singer_alias:
+    available_date: '2008-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かねをならして
+    singer_name_ruby: ほにひんく
+    song_variation:
+    - esong_code: 2107B25
+      song_name: 鐘を鳴らして
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 鐘を鳴らして
+    song_alias:
     esong_code: 2063A14
     t_singer_master_id: '7775'
     singer_name: BONNIE PINK
     singer_alias:
     available_date: '2008-08-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ ヴェスペリア<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type: DAM良音
     song_name_ruby: かねをならして
@@ -185,7 +168,7 @@ result:
     singer_alias:
     available_date: '2008-08-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ ヴェスペリア<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: かねをならして
@@ -194,23 +177,6 @@ result:
     - esong_code: 2055B36
       song_name: 鐘を鳴らして
       content_type: ''
-  - song_name: 鐘を鳴らして
-    song_alias:
-    esong_code: 2107B25
-    t_singer_master_id: '7775'
-    singer_name: BONNIE PINK
-    singer_alias:
-    available_date: '2008-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ ヴェスペリア<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かねをならして
-    singer_name_ruby: ほにひんく
-    song_variation:
-    - esong_code: 2107B25
-      song_name: 鐘を鳴らして
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 彼女が髪を切った理由
     song_alias:
     esong_code: 2069A32
@@ -313,23 +279,6 @@ result:
     - esong_code: 2064A41
       song_name: 神頼みより安上がり
       content_type: ''
-  - song_name: Calm (全英語詞)
-    song_alias:
-    esong_code: 2068B11
-    t_singer_master_id: '31449'
-    singer_name: ATEETA
-    singer_alias:
-    available_date: '2008-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かむ
-    singer_name_ruby: あていた
-    song_variation:
-    - esong_code: 2068B11
-      song_name: Calm (全英語詞)
-      content_type: ''
   - song_name: GUM
     song_alias:
     esong_code: 2062B40
@@ -346,6 +295,23 @@ result:
     song_variation:
     - esong_code: 2062B40
       song_name: GUM
+      content_type: ''
+  - song_name: Calm (全英語詞)
+    song_alias:
+    esong_code: 2068B11
+    t_singer_master_id: '31449'
+    singer_name: ATEETA
+    singer_alias:
+    available_date: '2008-08-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かむ
+    singer_name_ruby: あていた
+    song_variation:
+    - esong_code: 2068B11
+      song_name: Calm (全英語詞)
       content_type: ''
   - song_name: Come In Now! feat.杉本恭一
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2068A10
       song_name: 傷だらけの夢
+      content_type: ''
+  - song_name: kissの行方
+    song_alias:
+    esong_code: 2066A30
+    t_singer_master_id: '7713'
+    singer_name: Anna(Bon-Bon Blanco)
+    singer_alias:
+    available_date: '2008-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ToLOVEる-とらぶる-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすのゆくえ
+    singer_name_ruby: あんな
+    song_variation:
+    - esong_code: 2066A30
+      song_name: kissの行方
+      content_type: ''
+  - song_name: Kiss Me
+    song_alias:
+    esong_code: 1107B47
+    t_singer_master_id: '1840'
+    singer_name: BAAD
+    singer_alias:
+    available_date: '2008-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすみ
+    singer_name_ruby: はと
+    song_variation:
+    - esong_code: 1107B47
+      song_name: Kiss Me
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1174
-  all_max_cnt: 1303
-  all_country_cnt: 1174
+  max_cnt: 1169
+  all_max_cnt: 1300
+  all_country_cnt: 1169
   song:
-  - song_name: 男 銀平しぐれ旅
-    song_alias:
-    esong_code: 1938A8
-    t_singer_master_id: '18405'
-    singer_name: 川崎 修二
-    singer_alias:
-    available_date: '2011-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこきんへいし
-    singer_name_ruby: かわさきしゆうし
-    song_variation:
-    - esong_code: 1938A8
-      song_name: 男 銀平しぐれ旅
-      content_type: ''
   - song_name: おとこ酒
     song_alias:
     esong_code: 1899B42
@@ -196,23 +179,6 @@ result:
       content_type: ''
   - song_name: おまえを抱いて
     song_alias:
-    esong_code: 1952A16
-    t_singer_master_id: '18405'
-    singer_name: 川崎 修二
-    singer_alias:
-    available_date: '2011-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おまえをたいて
-    singer_name_ruby: かわさきしゆうし
-    song_variation:
-    - esong_code: 1952A16
-      song_name: おまえを抱いて
-      content_type: ''
-  - song_name: おまえを抱いて
-    song_alias:
     esong_code: 1881B49
     t_singer_master_id: '18405'
     singer_name: 川崎 修二
@@ -228,6 +194,23 @@ result:
     - esong_code: 1881B49
       song_name: おまえを抱いて
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: おまえを抱いて
+    song_alias:
+    esong_code: 1952A16
+    t_singer_master_id: '18405'
+    singer_name: 川崎 修二
+    singer_alias:
+    available_date: '2011-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おまえをたいて
+    singer_name_ruby: かわさきしゆうし
+    song_variation:
+    - esong_code: 1952A16
+      song_name: おまえを抱いて
+      content_type: ''
   - song_name: Oh! Mama Go To
     song_alias:
     esong_code: 1947B35
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2143A27
       song_name: 温泉街のエトランジェ
+      content_type: ''
+  - song_name: 女ごころ
+    song_alias:
+    esong_code: 2307A18
+    t_singer_master_id: '41742'
+    singer_name: さくら もみじ
+    singer_alias:
+    available_date: '2011-02-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなこころ
+    singer_name_ruby: さくらもみし
+    song_variation:
+    - esong_code: 2307A18
+      song_name: 女ごころ
       content_type: ''

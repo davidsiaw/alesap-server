@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: コオロギのバイオリン
-    song_alias:
-    esong_code: 2470B4
-    t_singer_master_id: '12518'
-    singer_name: THE BACK HORN
-    singer_alias:
-    available_date: '2010-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こおろきのはいお
-    singer_name_ruby: さはつくほん
-    song_variation:
-    - esong_code: 2470B4
-      song_name: コオロギのバイオリン
-      content_type: ''
-  - song_name: 故郷は遠い空
-    song_alias:
-    esong_code: 2468A27
-    t_singer_master_id: '515'
-    singer_name: 春日 八郎
-    singer_alias:
-    available_date: '2010-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こきようはとおいそら
-    singer_name_ruby: かすかはちろう
-    song_variation:
-    - esong_code: 2468A27
-      song_name: 故郷は遠い空
-      content_type: ''
   - song_name: 極楽に行きたいのなら feat.初音ミク
     song_alias:
     esong_code: 2479A39
@@ -517,3 +483,37 @@ result:
     - esong_code: 2463A41
       song_name: Silent Bible
       content_type: ''
+  - song_name: Sign
+    song_alias:
+    esong_code: 2482B34
+    t_singer_master_id: '15296'
+    singer_name: FLOW
+    singer_alias:
+    available_date: '2010-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: NARUTO-ナルト-疾風伝<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: さいん
+    singer_name_ruby: ふろう
+    song_variation:
+    - esong_code: 2482B34
+      song_name: Sign
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Sign
+    song_alias:
+    esong_code: 2464A26
+    t_singer_master_id: '15296'
+    singer_name: FLOW
+    singer_alias:
+    available_date: '2010-02-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: NARUTO-ナルト-疾風伝<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: さいん
+    singer_name_ruby: ふろう
+    song_variation:
+    - esong_code: 2464A26
+      song_name: Sign
+      content_type: DAM生音

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
   - song_name: 梓
     song_alias:
@@ -406,7 +406,7 @@ result:
     singer_alias:
     available_date: '2010-07-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ<番組名>
+    tie_up: 探偵オペラ ミルキィホームズ(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あめあかりのみらい
@@ -466,23 +466,6 @@ result:
     - esong_code: 2566A43
       song_name: 雨の動物園
       content_type: ''
-  - song_name: アメリカ橋
-    song_alias:
-    esong_code: 2564B33
-    t_singer_master_id: '32154'
-    singer_name: ジェロ
-    singer_alias:
-    available_date: '2010-07-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめりかはし
-    singer_name_ruby: しえろ
-    song_variation:
-    - esong_code: 2564B33
-      song_name: アメリカ橋
-      content_type: ''
   - song_name: Alive
     song_alias:
     esong_code: 2570A42
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2568A23
       song_name: アラジンと魔法のランプ
+      content_type: ''
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 2566B47
+    t_singer_master_id: '35075'
+    singer_name: 佐藤 広海
+    singer_alias:
+    available_date: '2010-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: さとうひろみ
+    song_variation:
+    - esong_code: 2566B47
+      song_name: ありがとう
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
   - song_name: 明日、あつく、もっと、つよく (アルバムver.)
     song_alias:
@@ -281,23 +281,6 @@ result:
       content_type: VOCALOID
   - song_name: あなた
     song_alias:
-    esong_code: 3205A25
-    t_singer_master_id: '15103'
-    singer_name: 佐藤 ふみ代
-    singer_alias:
-    available_date: '2014-02-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなた
-    singer_name_ruby: さとうふみよ
-    song_variation:
-    - esong_code: 3205A25
-      song_name: あなた
-      content_type: ''
-  - song_name: あなた
-    song_alias:
     esong_code: 3198B32
     t_singer_master_id: '31983'
     singer_name: SUPER BEAVER
@@ -311,6 +294,23 @@ result:
     singer_name_ruby: すはひは
     song_variation:
     - esong_code: 3198B32
+      song_name: あなた
+      content_type: ''
+  - song_name: あなた
+    song_alias:
+    esong_code: 3205A25
+    t_singer_master_id: '15103'
+    singer_name: 佐藤 ふみ代
+    singer_alias:
+    available_date: '2014-02-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなた
+    singer_name_ruby: さとうふみよ
+    song_variation:
+    - esong_code: 3205A25
       song_name: あなた
       content_type: ''
   - song_name: あなたと乾杯

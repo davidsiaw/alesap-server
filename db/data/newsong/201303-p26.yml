@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
   - song_name: Dive-E (P.A.R.M.S ライブVER)[オリジナルクリップ]
     song_alias:
@@ -17,7 +17,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: たいふい
     singer_name_ruby: ありすしゆうはん
     song_variation:
@@ -37,7 +37,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: たいふい
     singer_name_ruby: ありすしゆうはん
     song_variation:
@@ -63,23 +63,6 @@ result:
     song_variation:
     - esong_code: 3015A27
       song_name: Time
-      content_type: ''
-  - song_name: Times mile
-    song_alias:
-    esong_code: 2999A2
-    t_singer_master_id: '4130'
-    singer_name: 宇都宮 隆(T・UTU)
-    singer_alias:
-    available_date: '2013-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいむすまいる
-    singer_name_ruby: うつのみやたかし
-    song_variation:
-    - esong_code: 2999A2
-      song_name: Times mile
       content_type: ''
   - song_name: 大文字
     song_alias:
@@ -223,7 +206,7 @@ result:
     t_singer_master_id: '2168'
     singer_name: 前川 清
     singer_alias:
-    available_date: '2013-03-19'
+    available_date: '2013-03-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -342,7 +325,7 @@ result:
     t_singer_master_id: '39220'
     singer_name: アンジュルム(スマイレージ)
     singer_alias:
-    available_date: '2013-03-19'
+    available_date: '2013-03-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -393,7 +376,7 @@ result:
     t_singer_master_id: '33364'
     singer_name: BUZZ THE BEARS
     singer_alias:
-    available_date: '2013-03-19'
+    available_date: '2013-03-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3013A48
       song_name: 小さなリンジー
+      content_type: ''
+  - song_name: チェインリアクション
+    song_alias:
+    esong_code: 3011B3
+    t_singer_master_id: '25669'
+    singer_name: NICO Touches the Walls
+    singer_alias:
+    available_date: '2013-03-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちえいんりあくしよん
+    singer_name_ruby: にこたつちすさうおるす
+    song_variation:
+    - esong_code: 3011B3
+      song_name: チェインリアクション
       content_type: ''

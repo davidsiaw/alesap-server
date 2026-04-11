@@ -266,7 +266,7 @@ result:
     song_alias:
     esong_code: 771A37
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2002-03-01'
     end_date: '2999-04-10 00:00:00'
@@ -366,23 +366,6 @@ result:
       content_type: ''
   - song_name: まほろば
     song_alias:
-    esong_code: 98A43
-    t_singer_master_id: '946'
-    singer_name: さだ まさし
-    singer_alias:
-    available_date: '2002-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まほろは
-    singer_name_ruby: さたまさし
-    song_variation:
-    - esong_code: 98A43
-      song_name: まほろば
-      content_type: ''
-  - song_name: まほろば
-    song_alias:
     esong_code: 98A44
     t_singer_master_id: '946'
     singer_name: さだ まさし
@@ -398,6 +381,23 @@ result:
     - esong_code: 98A44
       song_name: まほろば
       content_type: DAM良音
+  - song_name: まほろば
+    song_alias:
+    esong_code: 98A43
+    t_singer_master_id: '946'
+    singer_name: さだ まさし
+    singer_alias:
+    available_date: '2002-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まほろは
+    singer_name_ruby: さたまさし
+    song_variation:
+    - esong_code: 98A43
+      song_name: まほろば
+      content_type: ''
   - song_name: 真夜中のコーラス
     song_alias:
     esong_code: 775A35

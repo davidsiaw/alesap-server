@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1462
-  all_max_cnt: 1642
-  all_country_cnt: 1462
+  max_cnt: 1455
+  all_max_cnt: 1635
+  all_country_cnt: 1455
   song:
-  - song_name: 古来稀なり
-    song_alias:
-    esong_code: 3528A1
-    t_singer_master_id: '29007'
-    singer_name: 内藤 やすお
-    singer_alias:
-    available_date: '2015-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こらいまれなり
-    singer_name_ruby: ないとうやすお
-    song_variation:
-    - esong_code: 3528A1
-      song_name: 古来稀なり
-      content_type: ''
   - song_name: Corna
     song_alias:
     esong_code: 3512B13
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3510A12
       song_name: The Fire Inside
+      content_type: ''
+  - song_name: ザ・フォーク・クルセダーズヒットソングメドレー
+    song_alias:
+    esong_code: 3524A13
+    t_singer_master_id: '1978'
+    singer_name: ザ・フォーク・クルセダーズ
+    singer_alias:
+    available_date: '2015-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さふおくくるせた
+    singer_name_ruby: さふおくくるせた
+    song_variation:
+    - esong_code: 3524A13
+      song_name: ザ・フォーク・クルセダーズヒットソングメドレー
       content_type: ''

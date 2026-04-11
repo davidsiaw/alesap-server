@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: 恋なさけ
+    song_alias:
+    esong_code: 3035A42
+    t_singer_master_id: '1449'
+    singer_name: 千葉 一夫
+    singer_alias:
+    available_date: '2013-05-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: こいなさけ
+    singer_name_ruby: ちはかすお
+    song_variation:
+    - esong_code: 3035A42
+      song_name: 恋なさけ
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 恋におちて
     song_alias:
     esong_code: 3037B13
@@ -172,7 +189,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: こいひとはすないは
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3043A43
       song_name: 恋人はスナイパー
@@ -349,23 +366,6 @@ result:
       content_type: ''
   - song_name: ここにしかない景色
     song_alias:
-    esong_code: 3035B4
-    t_singer_master_id: '20364'
-    singer_name: SUPER EIGHT
-    singer_alias:
-    available_date: '2013-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ここにしかないけしき
-    singer_name_ruby: すはえいとかんしやにえいと
-    song_variation:
-    - esong_code: 3035B4
-      song_name: ここにしかない景色
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: ここにしかない景色
-    song_alias:
     esong_code: 3035A34
     t_singer_master_id: '20364'
     singer_name: SUPER EIGHT
@@ -381,6 +381,23 @@ result:
     - esong_code: 3035A34
       song_name: ここにしかない景色
       content_type: DAM生音
+  - song_name: ここにしかない景色
+    song_alias:
+    esong_code: 3035B4
+    t_singer_master_id: '20364'
+    singer_name: SUPER EIGHT
+    singer_alias:
+    available_date: '2013-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ここにしかないけしき
+    singer_name_ruby: すはえいとかんしやにえいと
+    song_variation:
+    - esong_code: 3035B4
+      song_name: ここにしかない景色
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 午後のプレリュード
     song_alias:
     esong_code: 3042B26
@@ -495,25 +512,8 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: こしよなりわに
-    singer_name_ruby: JOHNSYKES
+    singer_name_ruby: しよんさいくす
     song_variation:
     - esong_code: 3030A18
       song_name: コーショナリー・ワーニング
-      content_type: ''
-  - song_name: 御陣乗太鼓
-    song_alias:
-    esong_code: 2696A22
-    t_singer_master_id: '42791'
-    singer_name: 門口 公将
-    singer_alias:
-    available_date: '2013-05-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こしんしよた
-    singer_name_ruby: かとくちきみすけ
-    song_variation:
-    - esong_code: 2696A22
-      song_name: 御陣乗太鼓
       content_type: ''

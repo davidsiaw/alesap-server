@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
+  - song_name: 白く巨大で
+    song_alias:
+    esong_code: 3374B30
+    t_singer_master_id: '33513'
+    singer_name: 核P-MODEL
+    singer_alias:
+    available_date: '2014-12-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しろくきよたいて
+    singer_name_ruby: かくひもてる
+    song_variation:
+    - esong_code: 3374B30
+      song_name: 白く巨大で
+      content_type: ''
   - song_name: 白バイ野郎シグナルマン
     song_alias:
     esong_code: 763B10
@@ -270,7 +287,7 @@ result:
     singer_alias:
     available_date: '2014-12-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GALL FORCE-THE REVOLUTION-<番組名>
+    tie_up: GALL FORCE<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: すかおのすはいた
@@ -349,23 +366,6 @@ result:
       content_type: ''
   - song_name: STYLE
     song_alias:
-    esong_code: 3364B41
-    t_singer_master_id: '20609'
-    singer_name: 加藤 ミリヤ
-    singer_alias:
-    available_date: '2014-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すたいる
-    singer_name_ruby: かとうみりや
-    song_variation:
-    - esong_code: 3364B41
-      song_name: STYLE
-      content_type: ''
-  - song_name: STYLE
-    song_alias:
     esong_code: 3375B48
     t_singer_master_id: '52345'
     singer_name: ステーションセブン
@@ -379,6 +379,23 @@ result:
     singer_name_ruby: すてしよんせふん
     song_variation:
     - esong_code: 3375B48
+      song_name: STYLE
+      content_type: ''
+  - song_name: STYLE
+    song_alias:
+    esong_code: 3364B41
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2014-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたいる
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 3364B41
       song_name: STYLE
       content_type: ''
   - song_name: START
@@ -466,23 +483,6 @@ result:
     - esong_code: 3375B22
       song_name: Zutto...
       content_type: ''
-  - song_name: ずっと
-    song_alias:
-    esong_code: 3375A39
-    t_singer_master_id: '52068'
-    singer_name: INKT
-    singer_alias:
-    available_date: '2014-12-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: すつと
-    singer_name_ruby: いんく
-    song_variation:
-    - esong_code: 3375A39
-      song_name: ずっと
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: ずっと...
     song_alias:
     esong_code: 3368B37
@@ -500,20 +500,20 @@ result:
     - esong_code: 3368B37
       song_name: ずっと...
       content_type: ''
-  - song_name: stay out
+  - song_name: ずっと
     song_alias:
-    esong_code: 3367A8
-    t_singer_master_id: '39950'
-    singer_name: ROOKiEZ is PUNK'D
+    esong_code: 3375A39
+    t_singer_master_id: '52068'
+    singer_name: INKT
     singer_alias:
     available_date: '2014-12-14'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: すていあうと
-    singer_name_ruby: るきすいすはんくと
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: すつと
+    singer_name_ruby: いんく
     song_variation:
-    - esong_code: 3367A8
-      song_name: stay out
-      content_type: ''
+    - esong_code: 3375A39
+      song_name: ずっと
+      content_type: JOYｸﾘｯﾌﾟ

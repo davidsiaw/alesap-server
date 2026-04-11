@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
   - song_name: カラフル。
     song_alias:
@@ -272,7 +272,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: かわらないすとり
     singer_name_ruby: ほいすあんとめん
     song_variation:
@@ -292,7 +292,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: かわらないすとり
     singer_name_ruby: ほいすあんとめん
     song_variation:
@@ -319,23 +319,6 @@ result:
     - esong_code: 3400A11
       song_name: 感謝カンゲキ雨嵐
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: KANSHAして (MOD Mix)
-    song_alias:
-    esong_code: 3401A34
-    t_singer_master_id: '1255'
-    singer_name: SMAP
-    singer_alias:
-    available_date: '2015-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんしやして
-    singer_name_ruby: すまつふ
-    song_variation:
-    - esong_code: 3401A34
-      song_name: KANSHAして (MOD Mix)
-      content_type: ''
   - song_name: KANSHAして (wah wah version)
     song_alias:
     esong_code: 3401A35
@@ -352,6 +335,23 @@ result:
     song_variation:
     - esong_code: 3401A35
       song_name: KANSHAして (wah wah version)
+      content_type: ''
+  - song_name: KANSHAして (MOD Mix)
+    song_alias:
+    esong_code: 3401A34
+    t_singer_master_id: '1255'
+    singer_name: SMAP
+    singer_alias:
+    available_date: '2015-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんしやして
+    singer_name_ruby: すまつふ
+    song_variation:
+    - esong_code: 3401A34
+      song_name: KANSHAして (MOD Mix)
       content_type: ''
   - song_name: 感謝のことば 〜あなたに39〜
     song_alias:

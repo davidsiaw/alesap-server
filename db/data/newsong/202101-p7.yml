@@ -3,43 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 806
-  all_max_cnt: 881
-  all_country_cnt: 806
+  max_cnt: 802
+  all_max_cnt: 877
+  all_country_cnt: 802
   song:
-  - song_name: 勘違い性反希望症
+  - song_name: かんべんナ
     song_alias:
-    esong_code: 4462A24
-    t_singer_master_id: '40265'
-    singer_name: DECO*27
+    esong_code: 4456B6
+    t_singer_master_id: '40508'
+    singer_name: 福田 こうへい
     singer_alias:
-    available_date: '2021-01-19'
+    available_date: '2021-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: かんちかいせいはん
-    singer_name_ruby: てこにな
-    song_variation:
-    - esong_code: 4462A24
-      song_name: 勘違い性反希望症
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: がんばれ!蜘蛛子さんのテーマ
-    song_alias:
-    esong_code: 4468A40
-    t_singer_master_id: '40483'
-    singer_name: 悠木 碧
-    singer_alias:
-    available_date: '2021-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 蜘蛛ですが、なにか?<番組名>
-    country_code: '0'
     content_type:
-    song_name_ruby: かんはれくもこさ
-    singer_name_ruby: ゆうきあおい
+    song_name_ruby: かんへんな
+    singer_name_ruby: ふくたこうへい
     song_variation:
-    - esong_code: 4468A40
-      song_name: がんばれ!蜘蛛子さんのテーマ
+    - esong_code: 4456B6
+      song_name: かんべんナ
       content_type: ''
   - song_name: かんべんナ
     song_alias:
@@ -75,23 +58,6 @@ result:
     - esong_code: 4310A2
       song_name: かんべんナ
       content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: かんべんナ
-    song_alias:
-    esong_code: 4456B6
-    t_singer_master_id: '40508'
-    singer_name: 福田 こうへい
-    singer_alias:
-    available_date: '2021-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんへんな
-    singer_name_ruby: ふくたこうへい
-    song_variation:
-    - esong_code: 4456B6
-      song_name: かんべんナ
-      content_type: ''
   - song_name: きかんしゃトーマスのテーマ2 [歌ってみた利用OK]
     song_alias:
     esong_code: 4465A18
@@ -517,3 +483,37 @@ result:
     - esong_code: 4463A33
       song_name: ぎゅっと。
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: キューティーハニー [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4465A23
+    t_singer_master_id: '12005'
+    singer_name: 倖田 來未
+    singer_alias:
+    available_date: '2021-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: きゆていはに
+    singer_name_ruby: こうたくみ
+    song_variation:
+    - esong_code: 4465A23
+      song_name: キューティーハニー [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
+  - song_name: きゅんですきゅんです
+    song_alias:
+    esong_code: 4462B2
+    t_singer_master_id: '64565'
+    singer_name: ころん
+    singer_alias:
+    available_date: '2021-01-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きゆんてすきゆんて
+    singer_name_ruby: ころん
+    song_variation:
+    - esong_code: 4462B2
+      song_name: きゅんですきゅんです
+      content_type: ''

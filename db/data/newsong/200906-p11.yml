@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1072
-  all_max_cnt: 1218
-  all_country_cnt: 1072
+  max_cnt: 1061
+  all_max_cnt: 1207
+  all_country_cnt: 1061
   song:
-  - song_name: 極我執
-    song_alias:
-    esong_code: 2352A34
-    t_singer_master_id: '35242'
-    singer_name: boogieman
-    singer_alias:
-    available_date: '2009-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こくかしゆう
-    singer_name_ruby: ふきまん
-    song_variation:
-    - esong_code: 2352A34
-      song_name: 極我執
-      content_type: ''
   - song_name: ここから、これから。
     song_alias:
     esong_code: 2328A31
@@ -43,23 +26,6 @@ result:
       content_type: ''
   - song_name: ここで待とう
     song_alias:
-    esong_code: 2333B43
-    t_singer_master_id: '47164'
-    singer_name: NAO
-    singer_alias:
-    available_date: '2009-06-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ここてまとう
-    singer_name_ruby: なお2
-    song_variation:
-    - esong_code: 2333B43
-      song_name: ここで待とう
-      content_type: ''
-  - song_name: ここで待とう
-    song_alias:
     esong_code: 2330B39
     t_singer_master_id: '47164'
     singer_name: NAO
@@ -75,6 +41,23 @@ result:
     - esong_code: 2330B39
       song_name: ここで待とう
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: ここで待とう
+    song_alias:
+    esong_code: 2333B43
+    t_singer_master_id: '47164'
+    singer_name: NAO
+    singer_alias:
+    available_date: '2009-06-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ここてまとう
+    singer_name_ruby: なお2
+    song_variation:
+    - esong_code: 2333B43
+      song_name: ここで待とう
+      content_type: ''
   - song_name: ココニイル 〜虚空の果て〜 (フルバージョン)
     song_alias:
     esong_code: 2329A4
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2344A30
       song_name: 紺碧の夜に
+      content_type: ''
+  - song_name: 今夜、君を抱いて
+    song_alias:
+    esong_code: 2346A49
+    t_singer_master_id: '1993'
+    singer_name: 福山 雅治
+    singer_alias:
+    available_date: '2009-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こんやきみをたいて
+    singer_name_ruby: ふくやままさはる
+    song_variation:
+    - esong_code: 2346A49
+      song_name: 今夜、君を抱いて
       content_type: ''

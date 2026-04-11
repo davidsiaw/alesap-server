@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
-  - song_name: トリックスター
-    song_alias:
-    esong_code: 1754B36
-    t_singer_master_id: '18179'
-    singer_name: 新谷 良子(新☆谷良子)
-    singer_alias:
-    available_date: '2007-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とりつくすた
-    singer_name_ruby: しんたにりようこ
-    song_variation:
-    - esong_code: 1754B36
-      song_name: トリックスター
-      content_type: ''
   - song_name: ドリフト160(改)
     song_alias:
     esong_code: 1754B29
@@ -296,6 +279,23 @@ result:
     - esong_code: 1771B4
       song_name: 泣き虫デスマッチ
       content_type: ''
+  - song_name: 嘆きノ森
+    song_alias:
+    esong_code: 1756B29
+    t_singer_master_id: '22051'
+    singer_name: 彩音
+    singer_alias:
+    available_date: '2007-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ひぐらしのなく頃に 祭<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: なけきのもり
+    singer_name_ruby: あやね
+    song_variation:
+    - esong_code: 1756B29
+      song_name: 嘆きノ森
+      content_type: ''
   - song_name: なさけ舟
     song_alias:
     esong_code: 1758B21
@@ -329,23 +329,6 @@ result:
     song_variation:
     - esong_code: 1676B19
       song_name: なじみの酒場
-      content_type: ''
-  - song_name: なぜだか、俺は祈ってゐた。
-    song_alias:
-    esong_code: 1754B18
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2007-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なせたかおれはい
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 1754B18
-      song_name: なぜだか、俺は祈ってゐた。
       content_type: ''
   - song_name: 夏風便り
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1758B20
       song_name: 涙の指輪
+      content_type: ''
+  - song_name: 泪橋
+    song_alias:
+    esong_code: 1743A39
+    t_singer_master_id: '29304'
+    singer_name: みやま 健二(美山健二)
+    singer_alias:
+    available_date: '2007-04-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたはし
+    singer_name_ruby: みやまけんし
+    song_variation:
+    - esong_code: 1743A39
+      song_name: 泪橋
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: お手上げララバイ
-    song_alias:
-    esong_code: 2920A30
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2012-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おてあけららはい
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 2920A30
-      song_name: お手上げララバイ
-      content_type: ''
-  - song_name: 男と女のラブゲーム (バーチャルカラオケ)
-    song_alias:
-    esong_code: 2931B46
-    t_singer_master_id: '4282'
-    singer_name: ヒロシ&ミユキ
-    singer_alias:
-    available_date: '2012-10-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おとことおんなのらふ
-    singer_name_ruby: ひろしあんとみゆき
-    song_variation:
-    - esong_code: 2931B46
-      song_name: 男と女のラブゲーム (バーチャルカラオケ)
-      content_type: DAM生音
   - song_name: 男の影
     song_alias:
     esong_code: 2922B17
@@ -60,23 +26,6 @@ result:
       content_type: ''
   - song_name: 男の出発(たび)
     song_alias:
-    esong_code: 2904B25
-    t_singer_master_id: '35920'
-    singer_name: 大江 裕
-    singer_alias:
-    available_date: '2012-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おとこのたひ
-    singer_name_ruby: おおえゆたか
-    song_variation:
-    - esong_code: 2904B25
-      song_name: 男の出発(たび)
-      content_type: DAM生音
-  - song_name: 男の出発(たび)
-    song_alias:
     esong_code: 2905A9
     t_singer_master_id: '35920'
     singer_name: 大江 裕
@@ -92,6 +41,23 @@ result:
     - esong_code: 2905A9
       song_name: 男の出発(たび)
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 男の出発(たび)
+    song_alias:
+    esong_code: 2904B25
+    t_singer_master_id: '35920'
+    singer_name: 大江 裕
+    singer_alias:
+    available_date: '2012-10-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おとこのたひ
+    singer_name_ruby: おおえゆたか
+    song_variation:
+    - esong_code: 2904B25
+      song_name: 男の出発(たび)
+      content_type: DAM生音
   - song_name: 男のなみだ
     song_alias:
     esong_code: 2901B16
@@ -145,38 +111,21 @@ result:
       content_type: ''
   - song_name: 男橋
     song_alias:
-    esong_code: 2905A10
+    esong_code: 2897A14
     t_singer_master_id: '641'
     singer_name: 北島 三郎
     singer_alias:
-    available_date: '2012-10-23'
+    available_date: '2012-10-03'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: おとこはし
     singer_name_ruby: きたしまさふろう
     song_variation:
-    - esong_code: 2905A10
+    - esong_code: 2897A14
       song_name: 男橋
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 男橋
-    song_alias:
-    esong_code: 2904B30
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2012-10-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おとこはし
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 2904B30
-      song_name: 男橋
-      content_type: DAM生音
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 男橋
     song_alias:
     esong_code: 2897B19
@@ -196,21 +145,38 @@ result:
       content_type: ''
   - song_name: 男橋
     song_alias:
-    esong_code: 2897A14
+    esong_code: 2904B30
     t_singer_master_id: '641'
     singer_name: 北島 三郎
     singer_alias:
-    available_date: '2012-10-03'
+    available_date: '2012-10-23'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: DAM生音
     song_name_ruby: おとこはし
     singer_name_ruby: きたしまさふろう
     song_variation:
-    - esong_code: 2897A14
+    - esong_code: 2904B30
       song_name: 男橋
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: DAM生音
+  - song_name: 男橋
+    song_alias:
+    esong_code: 2905A10
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2012-10-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おとこはし
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 2905A10
+      song_name: 男橋
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: おとこ道
     song_alias:
     esong_code: 2910A14
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2897B11
       song_name: old woman
+      content_type: ''
+  - song_name: ALL MY LOVE IS FOR YOU
+    song_alias:
+    esong_code: 2917B29
+    t_singer_master_id: '40660'
+    singer_name: 少女時代
+    singer_alias:
+    available_date: '2012-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おるまいらふいす
+    singer_name_ruby: しようしよしたい
+    song_variation:
+    - esong_code: 2917B29
+      song_name: ALL MY LOVE IS FOR YOU
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 俺はわるくない
+    song_alias:
+    esong_code: 2902B10
+    t_singer_master_id: '45985'
+    singer_name: マキタスポーツ
+    singer_alias:
+    available_date: '2012-10-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれはわるくない
+    singer_name_ruby: まきたすほつ
+    song_variation:
+    - esong_code: 2902B10
+      song_name: 俺はわるくない
       content_type: ''

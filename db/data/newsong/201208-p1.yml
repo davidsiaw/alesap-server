@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
   - song_name: 揚げろ!エビフライ
     song_alias:
@@ -41,23 +41,6 @@ result:
     - esong_code: 1144B2
       song_name: 憧れ
       content_type: ''
-  - song_name: ASIAN KUNG-FU GENERATIONベストメドレー Vol.2
-    song_alias:
-    esong_code: 2837A21
-    t_singer_master_id: '15751'
-    singer_name: ASIAN KUNG-FU GENERATION
-    singer_alias:
-    available_date: '2012-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あしあんかんふし
-    singer_name_ruby: あしあんかんふしえねれしよん
-    song_variation:
-    - esong_code: 2837A21
-      song_name: ASIAN KUNG-FU GENERATIONベストメドレー Vol.2
-      content_type: ''
   - song_name: ASIAN KUNG-FU GENERATIONベストメドレー
     song_alias:
     esong_code: 2842B16
@@ -74,6 +57,23 @@ result:
     song_variation:
     - esong_code: 2842B16
       song_name: ASIAN KUNG-FU GENERATIONベストメドレー
+      content_type: ''
+  - song_name: ASIAN KUNG-FU GENERATIONベストメドレー Vol.2
+    song_alias:
+    esong_code: 2837A21
+    t_singer_master_id: '15751'
+    singer_name: ASIAN KUNG-FU GENERATION
+    singer_alias:
+    available_date: '2012-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あしあんかんふし
+    singer_name_ruby: あしあんかんふしえねれしよん
+    song_variation:
+    - esong_code: 2837A21
+      song_name: ASIAN KUNG-FU GENERATIONベストメドレー Vol.2
       content_type: ''
   - song_name: 明日川
     song_alias:
@@ -491,7 +491,7 @@ result:
     singer_alias:
     available_date: '2012-08-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あふたされいん

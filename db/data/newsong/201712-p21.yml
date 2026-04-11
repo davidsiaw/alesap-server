@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: たそがれマイ・ラブ
-    song_alias:
-    esong_code: 3929B7
-    t_singer_master_id: '2738'
-    singer_name: 斉藤 和義
-    singer_alias:
-    available_date: '2017-12-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たそかれまいらふ
-    singer_name_ruby: さいとうかすよし
-    song_variation:
-    - esong_code: 3929B7
-      song_name: たそがれマイ・ラブ
-      content_type: ''
-  - song_name: 正しい魔法の使い方
-    song_alias:
-    esong_code: 3920B3
-    t_singer_master_id: '39867'
-    singer_name: 渡辺 麻友(渡り廊下走り隊)
-    singer_alias:
-    available_date: '2017-12-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 魔法つかいプリキュア!奇跡の変身!キュアモフルン!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たたしいまほうのつ
-    singer_name_ruby: わたなへまゆ
-    song_variation:
-    - esong_code: 3920B3
-      song_name: 正しい魔法の使い方
-      content_type: ''
   - song_name: 正しいままではいられない
     song_alias:
     esong_code: 3925B7
@@ -245,11 +211,11 @@ result:
     - esong_code: 3720B49
       song_name: 断腸のミアリ峠 (タンジャンエ ミアリ コゲ)
       content_type: ''
-  - song_name: ダンバイン とぶ (歌唱:速水奨)
+  - song_name: ダンバイン とぶ (あにそんボーカルVer.)
     song_alias:
     esong_code: 3921A40
-    t_singer_master_id: '16038'
-    singer_name: MIQ(MIO)
+    t_singer_master_id: '12150'
+    singer_name: 速水 奨
     singer_alias:
     available_date: '2017-12-26'
     end_date: '2999-04-10 00:00:00'
@@ -257,10 +223,10 @@ result:
     country_code: '0'
     content_type: DAM生音
     song_name_ruby: たんはいんとふ
-    singer_name_ruby: みく
+    singer_name_ruby: はやみしよう
     song_variation:
     - esong_code: 3921A40
-      song_name: ダンバイン とぶ (歌唱:速水奨)
+      song_name: ダンバイン とぶ (あにそんボーカルVer.)
       content_type: DAM生音
   - song_name: 千重子のウインク
     song_alias:
@@ -332,23 +298,6 @@ result:
       content_type: ''
   - song_name: 千島桜
     song_alias:
-    esong_code: 2231A32
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2017-12-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちしまさくら
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 2231A32
-      song_name: 千島桜
-      content_type: ''
-  - song_name: 千島桜
-    song_alias:
     esong_code: 2223B45
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -366,6 +315,40 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 千島桜
     song_alias:
+    esong_code: 2231A32
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2017-12-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちしまさくら
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 2231A32
+      song_name: 千島桜
+      content_type: ''
+  - song_name: 千島桜
+    song_alias:
+    esong_code: 2220A33
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2017-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: ちしまさくら
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 2220A33
+      song_name: 千島桜
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 千島桜
+    song_alias:
     esong_code: 2222A46
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -381,23 +364,6 @@ result:
     - esong_code: 2222A46
       song_name: 千島桜
       content_type: JOY生演奏
-  - song_name: 千島桜
-    song_alias:
-    esong_code: 2220A33
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2017-12-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ちしまさくら
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 2220A33
-      song_name: 千島桜
-      content_type: DAM生音
   - song_name: 父の涙
     song_alias:
     esong_code: 2228B10
@@ -517,3 +483,37 @@ result:
     - esong_code: 3924B44
       song_name: CHOCOLATE
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: CHO DAI
+    song_alias:
+    esong_code: 3922A25
+    t_singer_master_id: '58216'
+    singer_name: モーニング娘。'17
+    singer_alias:
+    available_date: '2017-12-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちよたい
+    singer_name_ruby: もにんくむすめわんせふん
+    song_variation:
+    - esong_code: 3922A25
+      song_name: CHO DAI
+      content_type: ''
+  - song_name: ちんとんしゃん
+    song_alias:
+    esong_code: 3923B41
+    t_singer_master_id: '49375'
+    singer_name: 舞祭組
+    singer_alias:
+    available_date: '2017-12-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちんとんしやん
+    singer_name_ruby: ふさいく
+    song_variation:
+    - esong_code: 3923B41
+      song_name: ちんとんしゃん
+      content_type: ''

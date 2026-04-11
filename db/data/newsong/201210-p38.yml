@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: バベル feat.初音ミク
-    song_alias:
-    esong_code: 2905A27
-    t_singer_master_id: '46009'
-    singer_name: ATOLS
-    singer_alias:
-    available_date: '2012-10-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: はへる
-    singer_name_ruby: あとるす
-    song_variation:
-    - esong_code: 2905A27
-      song_name: バベル feat.初音ミク
-      content_type: VOCALOID
-  - song_name: バーボン・ダブルで・・・ (哀愁のジャズ・シンガー)
-    song_alias:
-    esong_code: 2921B17
-    t_singer_master_id: '7386'
-    singer_name: KANA
-    singer_alias:
-    available_date: '2012-10-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はほんたふ
-    singer_name_ruby: かな1
-    song_variation:
-    - esong_code: 2921B17
-      song_name: バーボン・ダブルで・・・ (哀愁のジャズ・シンガー)
-      content_type: ''
   - song_name: 浜辺の歌
     song_alias:
     esong_code: 2918A28
@@ -160,7 +126,7 @@ result:
     - esong_code: 2923A32
       song_name: Paranoia
       content_type: ''
-  - song_name: ばらベルサイユ (朝海・舞風 他) [DAM本人歌唱]
+  - song_name: ばらベルサイユ (朝海・舞風 他)[DAM本人歌唱]
     song_alias:
     esong_code: 2931B34
     t_singer_master_id: '1349'
@@ -175,25 +141,8 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 2931B34
-      song_name: ばらベルサイユ (朝海・舞風 他) [DAM本人歌唱]
+      song_name: ばらベルサイユ (朝海・舞風 他)[DAM本人歌唱]
       content_type: DAM本人歌唱
-  - song_name: 春の旅人
-    song_alias:
-    esong_code: 2904B44
-    t_singer_master_id: '2168'
-    singer_name: 前川 清
-    singer_alias:
-    available_date: '2012-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: はるのたひひと
-    singer_name_ruby: まえかわきよし
-    song_variation:
-    - esong_code: 2904B44
-      song_name: 春の旅人
-      content_type: DAM生音
   - song_name: 春の旅人
     song_alias:
     esong_code: 2905A19
@@ -211,6 +160,23 @@ result:
     - esong_code: 2905A19
       song_name: 春の旅人
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 春の旅人
+    song_alias:
+    esong_code: 2904B44
+    t_singer_master_id: '2168'
+    singer_name: 前川 清
+    singer_alias:
+    available_date: '2012-10-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: はるのたひひと
+    singer_name_ruby: まえかわきよし
+    song_variation:
+    - esong_code: 2904B44
+      song_name: 春の旅人
+      content_type: DAM生音
   - song_name: 春待ち酒
     song_alias:
     esong_code: 2912B39
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2905B42
       song_name: Be all right
+      content_type: ''
+  - song_name: ヒカリ
+    song_alias:
+    esong_code: 2918B9
+    t_singer_master_id: '46237'
+    singer_name: ココロオークション
+    singer_alias:
+    available_date: '2012-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひかり
+    singer_name_ruby: こころおくしよん
+    song_variation:
+    - esong_code: 2918B9
+      song_name: ヒカリ
+      content_type: ''
+  - song_name: HIKARI to OTO
+    song_alias:
+    esong_code: 2901B23
+    t_singer_master_id: '45972'
+    singer_name: BRAZILIANSIZE
+    singer_alias:
+    available_date: '2012-10-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひかりとおと
+    singer_name_ruby: ふらしりあんさいす
+    song_variation:
+    - esong_code: 2901B23
+      song_name: HIKARI to OTO
       content_type: ''

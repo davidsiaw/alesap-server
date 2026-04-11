@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1324
-  all_max_cnt: 1489
-  all_country_cnt: 1324
+  max_cnt: 1317
+  all_max_cnt: 1482
+  all_country_cnt: 1317
   song:
   - song_name: 君はファンタジー
     song_alias:
@@ -64,9 +64,9 @@ result:
     t_singer_master_id: '50889'
     singer_name: 大原 櫻子
     singer_alias:
-    available_date: '2015-11-03'
+    available_date: '2015-11-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 映画ちびまる子ちゃん イタリアから来た少年<番組名>
+    tie_up: ちびまる子ちゃん(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きみをわすれないよ
@@ -270,7 +270,7 @@ result:
     singer_alias:
     available_date: '2015-11-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きらきらまきしま
@@ -279,11 +279,11 @@ result:
     - esong_code: 3549A33
       song_name: 激!爆!マキシマム・オーバーヒート
       content_type: ''
-  - song_name: キラメク未来 〜夢の銀河へ〜 ft.ウルトラマンギンガ
+  - song_name: キラメク未来 〜夢の銀河へ〜
     song_alias:
     esong_code: 3559B32
-    t_singer_master_id: '41436'
-    singer_name: voyager
+    t_singer_master_id: '78850'
+    singer_name: voyager feat.ウルトラマンギンガ
     singer_alias:
     available_date: '2015-11-24'
     end_date: '2999-04-10 00:00:00'
@@ -291,10 +291,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: きらめくみらいゆめの
-    singer_name_ruby: ほいしや
+    singer_name_ruby: ほいしやふいちやりんくう
     song_variation:
     - esong_code: 3559B32
-      song_name: キラメク未来 〜夢の銀河へ〜 ft.ウルトラマンギンガ
+      song_name: キラメク未来 〜夢の銀河へ〜
       content_type: ''
   - song_name: 霧島の宿
     song_alias:
@@ -483,23 +483,6 @@ result:
     - esong_code: 3555B15
       song_name: Good night Baby
       content_type: ''
-  - song_name: Good Luck [DAM本人歌唱]
-    song_alias:
-    esong_code: 3551A37
-    t_singer_master_id: '1993'
-    singer_name: 福山 雅治
-    singer_alias:
-    available_date: '2015-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: くつとらつく
-    singer_name_ruby: ふくやままさはる
-    song_variation:
-    - esong_code: 3551A37
-      song_name: Good Luck [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: Goodbye
     song_alias:
     esong_code: 3548B26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3548B26
       song_name: Goodbye
+      content_type: ''
+  - song_name: グッバイ・ハートブレイク
+    song_alias:
+    esong_code: 3542B3
+    t_singer_master_id: '54635'
+    singer_name: シネマ
+    singer_alias:
+    available_date: '2015-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつはいはとふ
+    singer_name_ruby: しねま
+    song_variation:
+    - esong_code: 3542B3
+      song_name: グッバイ・ハートブレイク
       content_type: ''

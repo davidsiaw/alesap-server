@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 785
-  all_max_cnt: 853
-  all_country_cnt: 785
+  max_cnt: 780
+  all_max_cnt: 849
+  all_country_cnt: 780
   song:
-  - song_name: 告白
-    song_alias:
-    esong_code: 2459B23
-    t_singer_master_id: '13882'
-    singer_name: HY
-    singer_alias:
-    available_date: '2010-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こくはく
-    singer_name_ruby: えいちわい
-    song_variation:
-    - esong_code: 2459B23
-      song_name: 告白
-      content_type: ''
   - song_name: ここだけの話
     song_alias:
     esong_code: 2460B36
@@ -355,7 +338,7 @@ result:
     singer_alias:
     available_date: '2010-01-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL KAI(改)<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さいやんふらつと
@@ -404,7 +387,7 @@ result:
     t_singer_master_id: '19365'
     singer_name: BENI(安良城 紅)
     singer_alias:
-    available_date: '2010-01-19'
+    available_date: '2010-01-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -448,23 +431,6 @@ result:
     song_variation:
     - esong_code: 2459B42
       song_name: sa・ku・ra
-      content_type: ''
-  - song_name: サクラサク
-    song_alias:
-    esong_code: 2460B30
-    t_singer_master_id: '26896'
-    singer_name: ET-KING
-    singer_alias:
-    available_date: '2010-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくらさく
-    singer_name_ruby: いていきんく
-    song_variation:
-    - esong_code: 2460B30
-      song_name: サクラサク
       content_type: ''
   - song_name: サクラサク
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 2452B7
       song_name: さくらびと
       content_type: ''
+  - song_name: 鎖骨に眠れ
+    song_alias:
+    esong_code: 2457A26
+    t_singer_master_id: '37704'
+    singer_name: 花少年バディーズ
+    singer_alias:
+    available_date: '2010-01-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さこつにねむれ
+    singer_name_ruby: はなしようねんはていす
+    song_variation:
+    - esong_code: 2457A26
+      song_name: 鎖骨に眠れ
+      content_type: ''
+  - song_name: The Call (ニトロプラスPV Ver.)
+    song_alias:
+    esong_code: 2452B47
+    t_singer_master_id: '38495'
+    singer_name: Yukky(PIAS)
+    singer_alias:
+    available_date: '2010-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 装甲悪鬼村正<番組名>
+    country_code: '0'
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    song_name_ruby: さこる
+    singer_name_ruby: ゆつき
+    song_variation:
+    - esong_code: 2452B47
+      song_name: The Call (ニトロプラスPV Ver.)
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ

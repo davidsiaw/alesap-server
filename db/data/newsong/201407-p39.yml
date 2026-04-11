@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
-  - song_name: Blue
-    song_alias:
-    esong_code: 3296A18
-    t_singer_master_id: '51198'
-    singer_name: PIKARO
-    singer_alias:
-    available_date: '2014-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふる
-    singer_name_ruby: ひかろ
-    song_variation:
-    - esong_code: 3296A18
-      song_name: Blue
-      content_type: ''
   - song_name: BLUE WING'S
     song_alias:
     esong_code: 3281A2
@@ -75,23 +58,6 @@ result:
     - esong_code: 3280B35
       song_name: Full-Tenn
       content_type: ''
-  - song_name: フルドライブ
-    song_alias:
-    esong_code: 3286A33
-    t_singer_master_id: '48542'
-    singer_name: KANA-BOON
-    singer_alias:
-    available_date: '2014-07-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ふるとらいふ
-    singer_name_ruby: かなふん
-    song_variation:
-    - esong_code: 3286A33
-      song_name: フルドライブ
-      content_type: DAM生音
   - song_name: bloom
     song_alias:
     esong_code: 3285B31
@@ -168,7 +134,7 @@ result:
     singer_alias:
     available_date: '2014-07-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダー バトライド・ウォーⅡ<番組名>
+    tie_up: 仮面ライダー(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふれいくさしえる
@@ -176,23 +142,6 @@ result:
     song_variation:
     - esong_code: 3277B47
       song_name: Break the shell
-      content_type: ''
-  - song_name: 精霊剣舞祭(ブレイドダンス)
-    song_alias:
-    esong_code: 3290A41
-    t_singer_master_id: '51005'
-    singer_name: にーそっくすす
-    singer_alias:
-    available_date: '2014-07-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 精霊使いの剣舞<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれいとたんす
-    singer_name_ruby: にそつくすす
-    song_variation:
-    - esong_code: 3290A41
-      song_name: 精霊剣舞祭(ブレイドダンス)
       content_type: ''
   - song_name: 精霊剣舞祭(ブレイドダンス) (TV size Ver.)
     song_alias:
@@ -210,6 +159,23 @@ result:
     song_variation:
     - esong_code: 3285A29
       song_name: 精霊剣舞祭(ブレイドダンス) (TV size Ver.)
+      content_type: ''
+  - song_name: 精霊剣舞祭(ブレイドダンス)
+    song_alias:
+    esong_code: 3290A41
+    t_singer_master_id: '51005'
+    singer_name: にーそっくすす
+    singer_alias:
+    available_date: '2014-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 精霊使いの剣舞<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれいとたんす
+    singer_name_ruby: にそつくすす
+    song_variation:
+    - esong_code: 3290A41
+      song_name: 精霊剣舞祭(ブレイドダンス)
       content_type: ''
   - song_name: FLAME
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3296A6
       song_name: 望郷ひとり
+      content_type: ''
+  - song_name: 庖丁納め
+    song_alias:
+    esong_code: 3299B3
+    t_singer_master_id: '51244'
+    singer_name: 森口 冨士夫
+    singer_alias:
+    available_date: '2014-07-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほうちようおさめ
+    singer_name_ruby: もりくちふしお
+    song_variation:
+    - esong_code: 3299B3
+      song_name: 庖丁納め
+      content_type: ''
+  - song_name: Where 〜金色の夜〜
+    song_alias:
+    esong_code: 3289B21
+    t_singer_master_id: '908'
+    singer_name: 斉藤 由貴
+    singer_alias:
+    available_date: '2014-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほえあきんいろのよる
+    singer_name_ruby: さいとうゆき
+    song_variation:
+    - esong_code: 3289B21
+      song_name: Where 〜金色の夜〜
       content_type: ''

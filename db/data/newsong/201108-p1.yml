@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
   - song_name: I'm crying.
     song_alias:
@@ -330,23 +330,6 @@ result:
     - esong_code: 1163A2
       song_name: Across the tears
       content_type: ''
-  - song_name: あげは
-    song_alias:
-    esong_code: 2651B49
-    t_singer_master_id: '42948'
-    singer_name: empty sky
-    singer_alias:
-    available_date: '2011-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけは
-    singer_name_ruby: えんふていすかい
-    song_variation:
-    - esong_code: 2651B49
-      song_name: あげは
-      content_type: ''
   - song_name: アゲハ
     song_alias:
     esong_code: 2661B15
@@ -363,6 +346,23 @@ result:
     song_variation:
     - esong_code: 2661B15
       song_name: アゲハ
+      content_type: ''
+  - song_name: あげは
+    song_alias:
+    esong_code: 2651B49
+    t_singer_master_id: '42948'
+    singer_name: empty sky
+    singer_alias:
+    available_date: '2011-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あけは
+    singer_name_ruby: えんふていすかい
+    song_variation:
+    - esong_code: 2651B49
+      song_name: あげは
       content_type: ''
   - song_name: アザミ feat.KAITO
     song_alias:
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: 明日へのマーチ
     song_alias:
-    esong_code: 2647B49
-    t_singer_master_id: '774'
-    singer_name: 桑田 佳祐
-    singer_alias:
-    available_date: '2011-08-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすへのまち
-    singer_name_ruby: くわたけいすけ
-    song_variation:
-    - esong_code: 2647B49
-      song_name: 明日へのマーチ
-      content_type: ''
-  - song_name: 明日へのマーチ
-    song_alias:
     esong_code: 2656A15
     t_singer_master_id: '774'
     singer_name: 桑田 佳祐
@@ -500,6 +483,23 @@ result:
     - esong_code: 2656A15
       song_name: 明日へのマーチ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 明日へのマーチ
+    song_alias:
+    esong_code: 2647B49
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2011-08-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あすへのまち
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 2647B49
+      song_name: 明日へのマーチ
+      content_type: ''
   - song_name: azure
     song_alias:
     esong_code: 2667A36

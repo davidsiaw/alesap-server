@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1236
-  all_max_cnt: 1361
-  all_country_cnt: 1236
+  max_cnt: 1230
+  all_max_cnt: 1355
+  all_country_cnt: 1230
   song:
   - song_name: 俺の 俺の人生 悔いはない
     song_alias:
@@ -145,23 +145,6 @@ result:
       content_type: DAM生音
   - song_name: 女のあかり
     song_alias:
-    esong_code: 2098B18
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2016-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おんなのあかり
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 2098B18
-      song_name: 女のあかり
-      content_type: DAM生音
-  - song_name: 女のあかり
-    song_alias:
     esong_code: 2098A18
     t_singer_master_id: '1518'
     singer_name: 天童 よしみ
@@ -228,23 +211,6 @@ result:
     - esong_code: 3462B32
       song_name: 女はそれをがまんできない
       content_type: ''
-  - song_name: おんな港町 [DAM本人歌唱]
-    song_alias:
-    esong_code: 2098B9
-    t_singer_master_id: '2448'
-    singer_name: 八代 亜紀
-    singer_alias:
-    available_date: '2016-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: おんなみなとまち
-    singer_name_ruby: やしろあき
-    song_variation:
-    - esong_code: 2098B9
-      song_name: おんな港町 [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: Only Seventeen
     song_alias:
     esong_code: 3598B23
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3590A47
       song_name: 風詠む季節
+      content_type: ''
+  - song_name: 仮想ディストピア
+    song_alias:
+    esong_code: 3600A46
+    t_singer_master_id: '55449'
+    singer_name: MOMOIRO CLOVER Z TEDDYLOID
+    singer_alias:
+    available_date: '2016-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かそうていすとひ
+    singer_name_ruby: ももいろくろはせつとてていろいと
+    song_variation:
+    - esong_code: 3600A46
+      song_name: 仮想ディストピア
+      content_type: ''
+  - song_name: 花鳥風月
+    song_alias:
+    esong_code: 3598B32
+    t_singer_master_id: '49663'
+    singer_name: ファンキー加藤
+    singer_alias:
+    available_date: '2016-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かちようふうけつ
+    singer_name_ruby: ふあんきかとう
+    song_variation:
+    - esong_code: 3598B32
+      song_name: 花鳥風月
       content_type: ''

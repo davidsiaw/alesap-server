@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1571
-  all_max_cnt: 1703
-  all_country_cnt: 1571
+  max_cnt: 1566
+  all_max_cnt: 1698
+  all_country_cnt: 1566
   song:
-  - song_name: オレンジジュース
-    song_alias:
-    esong_code: 2645B2
-    t_singer_master_id: '2525'
-    singer_name: ユニコーン
-    singer_alias:
-    available_date: '2011-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれんししゆす
-    singer_name_ruby: ゆにこん
-    song_variation:
-    - esong_code: 2645B2
-      song_name: オレンジジュース
-      content_type: ''
   - song_name: Orange Smile
     song_alias:
     esong_code: 2643A25
@@ -245,23 +228,6 @@ result:
     - esong_code: 2632B48
       song_name: 女のみれん花
       content_type: ''
-  - song_name: おんなの夜汽車
-    song_alias:
-    esong_code: 2628A3
-    t_singer_master_id: '12457'
-    singer_name: 小桜 舞子(小櫻舞子)
-    singer_alias:
-    available_date: '2011-07-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おんなのよきしや
-    singer_name_ruby: こさくらまいこ
-    song_variation:
-    - esong_code: 2628A3
-      song_name: おんなの夜汽車
-      content_type: DAM生音
   - song_name: おんなの夜汽車
     song_alias:
     esong_code: 2647B22
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2630B39
       song_name: 風色ステップ
+      content_type: ''
+  - song_name: 風そして花
+    song_alias:
+    esong_code: 2647B28
+    t_singer_master_id: '2780'
+    singer_name: 島津 亜矢
+    singer_alias:
+    available_date: '2011-07-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: かせそしてはな
+    singer_name_ruby: しまつあや
+    song_variation:
+    - esong_code: 2647B28
+      song_name: 風そして花
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 風−命どう宝−
+    song_alias:
+    esong_code: 2610A22
+    t_singer_master_id: '19331'
+    singer_name: 安村 かず子
+    singer_alias:
+    available_date: '2011-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせぬちとうたか
+    singer_name_ruby: やすむらかすこ
+    song_variation:
+    - esong_code: 2610A22
+      song_name: 風−命どう宝−
       content_type: ''

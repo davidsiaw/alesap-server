@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
   - song_name: My love 〜もう一度だけ〜
     song_alias:
@@ -432,23 +432,6 @@ result:
     - esong_code: 2919A19
       song_name: 三浦半島
       content_type: ''
-  - song_name: ミスター (踊ってみた!Ver.)
-    song_alias:
-    esong_code: 2937A49
-    t_singer_master_id: '40445'
-    singer_name: KARA
-    singer_alias:
-    available_date: '2012-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすた
-    singer_name_ruby: から
-    song_variation:
-    - esong_code: 2937A49
-      song_name: ミスター (踊ってみた!Ver.)
-      content_type: ''
   - song_name: ミスター
     song_alias:
     esong_code: 2919A33
@@ -465,6 +448,23 @@ result:
     song_variation:
     - esong_code: 2919A33
       song_name: ミスター
+      content_type: ''
+  - song_name: ミスター (踊ってみた!Ver.)
+    song_alias:
+    esong_code: 2937A49
+    t_singer_master_id: '40445'
+    singer_name: KARA
+    singer_alias:
+    available_date: '2012-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすた
+    singer_name_ruby: から
+    song_variation:
+    - esong_code: 2937A49
+      song_name: ミスター (踊ってみた!Ver.)
       content_type: ''
   - song_name: Mr.Super Future Star
     song_alias:

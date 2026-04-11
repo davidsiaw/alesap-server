@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1328
-  all_max_cnt: 1485
-  all_country_cnt: 1328
+  max_cnt: 1315
+  all_max_cnt: 1472
+  all_country_cnt: 1315
   song:
-  - song_name: 鯉、鳴く
-    song_alias:
-    esong_code: 4004B23
-    t_singer_master_id: '58829'
-    singer_name: バンドハラスメント
-    singer_alias:
-    available_date: '2018-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいなく
-    singer_name_ruby: はんとはらすめんと
-    song_variation:
-    - esong_code: 4004B23
-      song_name: 鯉、鳴く
-      content_type: ''
   - song_name: 恋の予感
     song_alias:
     esong_code: 2143A34
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4012B3
       song_name: Go my rail
+      content_type: ''
+  - song_name: ゴマウェイ
+    song_alias:
+    esong_code: 4004A31
+    t_singer_master_id: '56303'
+    singer_name: 島爺
+    singer_alias:
+    available_date: '2018-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 少年アシベ GO!GO!ゴマちゃん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こまうえい
+    singer_name_ruby: しましい
+    song_variation:
+    - esong_code: 4004A31
+      song_name: ゴマウェイ
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: くじらのバス
-    song_alias:
-    esong_code: 99B4
-    t_singer_master_id: '26278'
-    singer_name: 森 みゆき
-    singer_alias:
-    available_date: '2006-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おかあさんといっしょ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くしらのはす
-    singer_name_ruby: もりみゆき
-    song_variation:
-    - esong_code: 99B4
-      song_name: くじらのバス
-      content_type: ''
   - song_name: 口車
     song_alias:
     esong_code: 1489B46
@@ -128,23 +111,6 @@ result:
       content_type: ''
   - song_name: 熊野古道
     song_alias:
-    esong_code: 1488A41
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2006-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: くまのことう
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 1488A41
-      song_name: 熊野古道
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 熊野古道
-    song_alias:
     esong_code: 1478A49
     t_singer_master_id: '6510'
     singer_name: 水森 かおり
@@ -160,6 +126,23 @@ result:
     - esong_code: 1478A49
       song_name: 熊野古道
       content_type: ''
+  - song_name: 熊野古道
+    song_alias:
+    esong_code: 1488A41
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2006-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: くまのことう
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 1488A41
+      song_name: 熊野古道
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 曇り空
     song_alias:
     esong_code: 1490A45
@@ -440,7 +423,7 @@ result:
     singer_alias:
     available_date: '2006-04-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ブラックジャック21<番組名>
+    tie_up: ブラックジャック<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けあれすふれす
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1486B16
       song_name: ケツメイシメドレー 〜2003〜
+      content_type: ''
+  - song_name: 月曜日
+    song_alias:
+    esong_code: 1491B18
+    t_singer_master_id: '22881'
+    singer_name: タカチャ
+    singer_alias:
+    available_date: '2006-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けつようひ
+    singer_name_ruby: たかちや
+    song_variation:
+    - esong_code: 1491B18
+      song_name: 月曜日
       content_type: ''

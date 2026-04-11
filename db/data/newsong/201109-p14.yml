@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
-  - song_name: Golden Smile feat.EXILE ATSUSHI
-    song_alias:
-    esong_code: 2671A3
-    t_singer_master_id: '729'
-    singer_name: 久保田 利伸
-    singer_alias:
-    available_date: '2011-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こるてんすまい
-    singer_name_ruby: くほたとしのふ
-    song_variation:
-    - esong_code: 2671A3
-      song_name: Golden Smile feat.EXILE ATSUSHI
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ゴンドゥレ マンドゥレ
-    song_alias:
-    esong_code: 2663B6
-    t_singer_master_id: '41997'
-    singer_name: パク・ヒョンビン
-    singer_alias:
-    available_date: '2011-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんとうれまんと
-    singer_name_ruby: はくひよんひん
-    song_variation:
-    - esong_code: 2663B6
-      song_name: ゴンドゥレ マンドゥレ
-      content_type: ''
   - song_name: 今夜も眠れない (病的な意味で)
     song_alias:
     esong_code: 2671A43
@@ -219,7 +185,7 @@ result:
     singer_alias:
     available_date: '2011-09-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 〜轟華絢爛〜<番組名>
+    tie_up: サクラ大戦 (TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さくらせんせん
@@ -296,23 +262,6 @@ result:
     - esong_code: 2669B10
       song_name: SAKURA 〜又、ここで会いたくて〜
       content_type: ''
-  - song_name: さくら雪
-    song_alias:
-    esong_code: 2675A36
-    t_singer_master_id: '16124'
-    singer_name: 大城 バネサ
-    singer_alias:
-    available_date: '2011-09-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくらゆき
-    singer_name_ruby: おおしろはねさ
-    song_variation:
-    - esong_code: 2675A36
-      song_name: さくら雪
-      content_type: ''
   - song_name: 桜雪
     song_alias:
     esong_code: 2675A1
@@ -329,6 +278,23 @@ result:
     song_variation:
     - esong_code: 2675A1
       song_name: 桜雪
+      content_type: ''
+  - song_name: さくら雪
+    song_alias:
+    esong_code: 2675A36
+    t_singer_master_id: '16124'
+    singer_name: 大城 バネサ
+    singer_alias:
+    available_date: '2011-09-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらゆき
+    singer_name_ruby: おおしろはねさ
+    song_variation:
+    - esong_code: 2675A36
+      song_name: さくら雪
       content_type: ''
   - song_name: 酒人生
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2662B37
       song_name: さよならフロンティア
+      content_type: ''
+  - song_name: さらば
+    song_alias:
+    esong_code: 2672B35
+    t_singer_master_id: '10541'
+    singer_name: おおい 大輔
+    singer_alias:
+    available_date: '2011-09-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さらは
+    singer_name_ruby: おおいたいすけ
+    song_variation:
+    - esong_code: 2672B35
+      song_name: さらば
+      content_type: ''
+  - song_name: The Roses
+    song_alias:
+    esong_code: 2671B17
+    t_singer_master_id: '34808'
+    singer_name: Diggy-MO'(SOUL'd OUT)
+    singer_alias:
+    available_date: '2011-09-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さろせす
+    singer_name_ruby: ていきも
+    song_variation:
+    - esong_code: 2671B17
+      song_name: The Roses
       content_type: ''

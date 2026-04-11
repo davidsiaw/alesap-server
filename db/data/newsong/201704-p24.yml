@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
-  - song_name: 鉄道カラオケ 「極楽橋出発」編
-    song_alias:
-    esong_code: 3804B5
-    t_singer_master_id: '56029'
-    singer_name: テイチク鉄道カラオケ
-    singer_alias:
-    available_date: '2017-04-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: てつとうからおけこ
-    singer_name_ruby: ていちくてつとうからおけ
-    song_variation:
-    - esong_code: 3804B5
-      song_name: 鉄道カラオケ 「極楽橋出発」編
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 鉄道カラオケ 「新今宮〜なんば」編
-    song_alias:
-    esong_code: 3804B8
-    t_singer_master_id: '56029'
-    singer_name: テイチク鉄道カラオケ
-    singer_alias:
-    available_date: '2017-04-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: てつとうからおけし
-    singer_name_ruby: ていちくてつとうからおけ
-    song_variation:
-    - esong_code: 3804B8
-      song_name: 鉄道カラオケ 「新今宮〜なんば」編
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 鉄道カラオケ 「橋本到着」編
     song_alias:
     esong_code: 3804B6
@@ -179,23 +145,6 @@ result:
       content_type: ''
   - song_name: 東京陽炎
     song_alias:
-    esong_code: 3788B11
-    t_singer_master_id: '7510'
-    singer_name: 岩出 和也
-    singer_alias:
-    available_date: '2017-04-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: とうきようかけろう
-    singer_name_ruby: いわてかすや
-    song_variation:
-    - esong_code: 3788B11
-      song_name: 東京陽炎
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 東京陽炎
-    song_alias:
     esong_code: 3788B35
     t_singer_master_id: '7510'
     singer_name: 岩出 和也
@@ -211,6 +160,23 @@ result:
     - esong_code: 3788B35
       song_name: 東京陽炎
       content_type: JOY生演奏
+  - song_name: 東京陽炎
+    song_alias:
+    esong_code: 3788B11
+    t_singer_master_id: '7510'
+    singer_name: 岩出 和也
+    singer_alias:
+    available_date: '2017-04-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: とうきようかけろう
+    singer_name_ruby: いわてかすや
+    song_variation:
+    - esong_code: 3788B11
+      song_name: 東京陽炎
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: TOKYO 散歩
     song_alias:
     esong_code: 3790A25
@@ -262,6 +228,23 @@ result:
     - esong_code: 3796A44
       song_name: To Tomorrow
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Tonight
+    song_alias:
+    esong_code: 3777A45
+    t_singer_master_id: '42909'
+    singer_name: Kis-My-Ft2
+    singer_alias:
+    available_date: '2017-04-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: とうないと
+    singer_name_ruby: きすまいふつとつ
+    song_variation:
+    - esong_code: 3777A45
+      song_name: Tonight
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: TONIGHT
     song_alias:
     esong_code: 3791B5
@@ -296,23 +279,6 @@ result:
     - esong_code: 3787B33
       song_name: Tonight
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Tonight
-    song_alias:
-    esong_code: 3777A45
-    t_singer_master_id: '42909'
-    singer_name: Kis-My-Ft2
-    singer_alias:
-    available_date: '2017-04-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: とうないと
-    singer_name_ruby: きすまいふつとつ
-    song_variation:
-    - esong_code: 3777A45
-      song_name: Tonight
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: tonight
     song_alias:
     esong_code: 3791A27
@@ -440,7 +406,7 @@ result:
     singer_alias:
     available_date: '2017-04-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: BanG Dream!(TV版)<番組名>
+    tie_up: BanG Dream!(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ときときしんく
@@ -517,3 +483,37 @@ result:
     - esong_code: 3789A19
       song_name: とけいライダーのうた
       content_type: ''
+  - song_name: 渡月橋 〜君 想ふ〜
+    song_alias:
+    esong_code: 3788B6
+    t_singer_master_id: '10470'
+    singer_name: 倉木 麻衣
+    singer_alias:
+    available_date: '2017-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 劇場版 名探偵コナン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とけつきようきみお
+    singer_name_ruby: くらきまい
+    song_variation:
+    - esong_code: 3788B6
+      song_name: 渡月橋 〜君 想ふ〜
+      content_type: ''
+  - song_name: どこまでも 〜How Far I'll Go〜
+    song_alias:
+    esong_code: 3787B29
+    t_singer_master_id: '58162'
+    singer_name: 屋比久 知奈
+    singer_alias:
+    available_date: '2017-04-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: モアナと伝説の海<番組名>
+    country_code: '0'
+    content_type: JOYうたいり
+    song_name_ruby: とこまてもはうふ
+    singer_name_ruby: やひくともな
+    song_variation:
+    - esong_code: 3787B29
+      song_name: どこまでも 〜How Far I'll Go〜
+      content_type: JOYうたいり

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: スプーンひとさじの愛
-    song_alias:
-    esong_code: 2565A31
-    t_singer_master_id: '33206'
-    singer_name: 花澤 香菜
-    singer_alias:
-    available_date: '2010-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: B型H系<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: すふんひとさし
-    singer_name_ruby: はなさわかな
-    song_variation:
-    - esong_code: 2565A31
-      song_name: スプーンひとさじの愛
-      content_type: ''
   - song_name: spoil
     song_alias:
     esong_code: 2568B26
@@ -262,23 +245,6 @@ result:
     - esong_code: 2567A30
       song_name: そして ボレロ
       content_type: ''
-  - song_name: 卒業 〜For You〜
-    song_alias:
-    esong_code: 2373B37
-    t_singer_master_id: '13429'
-    singer_name: 森田 成一
-    singer_alias:
-    available_date: '2010-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: そつきよう
-    singer_name_ruby: もりたまさかす
-    song_variation:
-    - esong_code: 2373B37
-      song_name: 卒業 〜For You〜
-      content_type: ''
   - song_name: 卒業
     song_alias:
     esong_code: 2374A36
@@ -296,22 +262,22 @@ result:
     - esong_code: 2374A36
       song_name: 卒業
       content_type: ''
-  - song_name: 空
+  - song_name: 卒業 〜For You〜
     song_alias:
-    esong_code: 2575A14
-    t_singer_master_id: '20609'
-    singer_name: 加藤 ミリヤ
+    esong_code: 2373B37
+    t_singer_master_id: '13429'
+    singer_name: 森田 成一
     singer_alias:
-    available_date: '2010-07-28'
+    available_date: '2010-07-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: そら
-    singer_name_ruby: かとうみりや
+    song_name_ruby: そつきよう
+    singer_name_ruby: もりたまさかす
     song_variation:
-    - esong_code: 2575A14
-      song_name: 空
+    - esong_code: 2373B37
+      song_name: 卒業 〜For You〜
       content_type: ''
   - song_name: 空 〜SORA〜
     song_alias:
@@ -346,6 +312,23 @@ result:
     song_variation:
     - esong_code: 2565A10
       song_name: SORA (この声が届くまで)
+      content_type: ''
+  - song_name: 空
+    song_alias:
+    esong_code: 2575A14
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2010-07-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そら
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 2575A14
+      song_name: 空
       content_type: ''
   - song_name: ソラニピストル
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2566A21
       song_name: 太陽
+      content_type: ''
+  - song_name: 太陽ギラギラ
+    song_alias:
+    esong_code: 1126B13
+    t_singer_master_id: '6086'
+    singer_name: エレファントカシマシ
+    singer_alias:
+    available_date: '2010-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいようきらきら
+    singer_name_ruby: えれふあんとかしまし
+    song_variation:
+    - esong_code: 1126B13
+      song_name: 太陽ギラギラ
       content_type: ''

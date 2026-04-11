@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: 君と雪の日
-    song_alias:
-    esong_code: 1492A29
-    t_singer_master_id: '24374'
-    singer_name: BOWL
-    singer_alias:
-    available_date: '2006-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみとゆきのひ
-    singer_name_ruby: ほうる
-    song_variation:
-    - esong_code: 1492A29
-      song_name: 君と雪の日
-      content_type: ''
   - song_name: 君にだまって行こう
     song_alias:
     esong_code: 1493A12
@@ -185,7 +168,7 @@ result:
     singer_alias:
     available_date: '2006-04-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ハンター×ハンター<番組名>
+    tie_up: HUNTER×HUNTER<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きやりおん
@@ -313,23 +296,6 @@ result:
     - esong_code: 1493B11
       song_name: killer smile
       content_type: ''
-  - song_name: キリキリマイ cherry blossom front mix
-    song_alias:
-    esong_code: 1481B46
-    t_singer_master_id: '15759'
-    singer_name: ORANGE RANGE
-    singer_alias:
-    available_date: '2006-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きりきりまい
-    singer_name_ruby: おれんしれんし
-    song_variation:
-    - esong_code: 1481B46
-      song_name: キリキリマイ cherry blossom front mix
-      content_type: ''
   - song_name: キリキリマイ
     song_alias:
     esong_code: 1478B35
@@ -347,6 +313,23 @@ result:
     - esong_code: 1478B35
       song_name: キリキリマイ
       content_type: JOYｽｺﾞｵﾄ生音
+  - song_name: キリキリマイ cherry blossom front mix
+    song_alias:
+    esong_code: 1481B46
+    t_singer_master_id: '15759'
+    singer_name: ORANGE RANGE
+    singer_alias:
+    available_date: '2006-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きりきりまい
+    singer_name_ruby: おれんしれんし
+    song_variation:
+    - esong_code: 1481B46
+      song_name: キリキリマイ cherry blossom front mix
+      content_type: ''
   - song_name: 霧雨楼
     song_alias:
     esong_code: 295A44
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1485A33
       song_name: 孔雀の夢
+      content_type: ''
+  - song_name: くじらのバス
+    song_alias:
+    esong_code: 99B4
+    t_singer_master_id: '26278'
+    singer_name: 森 みゆき
+    singer_alias:
+    available_date: '2006-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: おかあさんといっしょ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くしらのはす
+    singer_name_ruby: もりみゆき
+    song_variation:
+    - esong_code: 99B4
+      song_name: くじらのバス
       content_type: ''

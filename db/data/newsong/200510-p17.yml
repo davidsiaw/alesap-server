@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 809
-  all_max_cnt: 933
-  all_country_cnt: 809
+  max_cnt: 808
+  all_max_cnt: 932
+  all_country_cnt: 808
   song:
-  - song_name: 友よ、夢の彼方に:グランディオンのテーマ
-    song_alias:
-    esong_code: 1390B41
-    t_singer_master_id: '17330'
-    singer_name: 杉田 智和
-    singer_alias:
-    available_date: '2005-10-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 電脳冒険記ウェブダイバー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ともよゆめのかなたに
-    singer_name_ruby: すきたともかす
-    song_variation:
-    - esong_code: 1390B41
-      song_name: 友よ、夢の彼方に:グランディオンのテーマ
-      content_type: ''
   - song_name: ドライバー
     song_alias:
     esong_code: 1389A11
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1382B8
       song_name: 涙があふれても
+      content_type: ''
+  - song_name: 涙の隣りに座ってごらん
+    song_alias:
+    esong_code: 1382B33
+    t_singer_master_id: '8566'
+    singer_name: コロッケ
+    singer_alias:
+    available_date: '2005-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたのとなりにす
+    singer_name_ruby: ころつけ
+    song_variation:
+    - esong_code: 1382B33
+      song_name: 涙の隣りに座ってごらん
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
-  - song_name: 名前はリラ・・・
-    song_alias:
-    esong_code: 1390A3
-    t_singer_master_id: '23829'
-    singer_name: 千花 有黄
-    singer_alias:
-    available_date: '2015-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なまえはりら
-    singer_name_ruby: ちはなゆき
-    song_variation:
-    - esong_code: 1390A3
-      song_name: 名前はリラ・・・
-      content_type: ''
-  - song_name: 泪の坂道
-    song_alias:
-    esong_code: 2512A47
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2015-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみたのさかみち
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 2512A47
-      song_name: 泪の坂道
-      content_type: ''
   - song_name: 涙のNIGHT TRAIN
     song_alias:
     esong_code: 3398A32
@@ -196,23 +162,6 @@ result:
       content_type: VOCALOID
   - song_name: 二月堂
     song_alias:
-    esong_code: 3247A13
-    t_singer_master_id: '23563'
-    singer_name: 葵 かを里(調子かをり)
-    singer_alias:
-    available_date: '2015-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: にかつとう
-    singer_name_ruby: あおいかをり
-    song_variation:
-    - esong_code: 3247A13
-      song_name: 二月堂
-      content_type: JOY生演奏
-  - song_name: 二月堂
-    song_alias:
     esong_code: 3197A25
     t_singer_master_id: '23563'
     singer_name: 葵 かを里(調子かをり)
@@ -228,6 +177,23 @@ result:
     - esong_code: 3197A25
       song_name: 二月堂
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 二月堂
+    song_alias:
+    esong_code: 3247A13
+    t_singer_master_id: '23563'
+    singer_name: 葵 かを里(調子かをり)
+    singer_alias:
+    available_date: '2015-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: にかつとう
+    singer_name_ruby: あおいかをり
+    song_variation:
+    - esong_code: 3247A13
+      song_name: 二月堂
+      content_type: JOY生演奏
   - song_name: ニコラテスラの確執 feat.IA
     song_alias:
     esong_code: 3390A43
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3092B35
       song_name: 熱愛のブルース
+      content_type: ''
+  - song_name: 熱情のスペクトラム (アニメ映像Ver.)
+    song_alias:
+    esong_code: 3395B8
+    t_singer_master_id: '25694'
+    singer_name: いきものがかり
+    singer_alias:
+    available_date: '2015-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 七つの大罪<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねつしようのすへ
+    singer_name_ruby: いきものかかり
+    song_variation:
+    - esong_code: 3395B8
+      song_name: 熱情のスペクトラム (アニメ映像Ver.)
+      content_type: ''
+  - song_name: 熱風王子
+    song_alias:
+    esong_code: 1074A7
+    t_singer_master_id: '5706'
+    singer_name: 沖田 浩之
+    singer_alias:
+    available_date: '2015-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねつふうおうし
+    singer_name_ruby: おきたひろゆき
+    song_variation:
+    - esong_code: 1074A7
+      song_name: 熱風王子
       content_type: ''

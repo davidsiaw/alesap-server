@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1009
-  all_max_cnt: 1155
-  all_country_cnt: 1009
+  max_cnt: 1123
+  all_max_cnt: 1292
+  all_country_cnt: 1123
   song:
   - song_name: あゝ君に転生
     song_alias:
@@ -143,6 +143,23 @@ result:
     - esong_code: 5123A39
       song_name: 愛する人へ
       content_type: ''
+  - song_name: 愛セゾン
+    song_alias:
+    esong_code: 5131A28
+    t_singer_master_id: '75984'
+    singer_name: 東池袋52
+    singer_alias:
+    available_date: '2025-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいせそん
+    singer_name_ruby: ひかしいけふくろふいふていつ
+    song_variation:
+    - esong_code: 5131A28
+      song_name: 愛セゾン
+      content_type: ''
   - song_name: I・だって止まらない / Ryota Miyadate
     song_alias:
     esong_code: 5114B12
@@ -247,6 +264,23 @@ result:
       content_type: ''
   - song_name: アイボリー
     song_alias:
+    esong_code: 5131A22
+    t_singer_master_id: '48640'
+    singer_name: 田所 あずさ
+    singer_alias:
+    available_date: '2025-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいほり
+    singer_name_ruby: たところあすさ
+    song_variation:
+    - esong_code: 5131A22
+      song_name: アイボリー
+      content_type: ''
+  - song_name: アイボリー
+    song_alias:
     esong_code: 5116A17
     t_singer_master_id: '75826'
     singer_name: KOHAKU
@@ -296,6 +330,23 @@ result:
     - esong_code: 5111B42
       song_name: 愛My距離感
       content_type: ''
+  - song_name: I'm CRAZY
+    song_alias:
+    esong_code: 5121B10
+    t_singer_master_id: '75610'
+    singer_name: アマイワナ
+    singer_alias:
+    available_date: '2025-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいむくれいし
+    singer_name_ruby: あまいわな
+    song_variation:
+    - esong_code: 5121B10
+      song_name: I'm CRAZY
+      content_type: ''
   - song_name: I LOVE YOU KIMI NO ZENBU
     song_alias:
     esong_code: 5119B27
@@ -306,13 +357,30 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type:
     song_name_ruby: あいらふゆきみの
     singer_name_ruby: はかす
     song_variation:
     - esong_code: 5119B27
       song_name: I LOVE YOU KIMI NO ZENBU
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: ''
+  - song_name: IRIS
+    song_alias:
+    esong_code: 5128A47
+    t_singer_master_id: '74978'
+    singer_name: ジエメイ
+    singer_alias:
+    available_date: '2025-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あいりす
+    singer_name_ruby: しえめい
+    song_variation:
+    - esong_code: 5128A47
+      song_name: IRIS
+      content_type: DAM生音
   - song_name: I'll never see you
     song_alias:
     esong_code: 5124B49
@@ -329,6 +397,23 @@ result:
     song_variation:
     - esong_code: 5124B49
       song_name: I'll never see you
+      content_type: ''
+  - song_name: I'll be
+    song_alias:
+    esong_code: 5116B35
+    t_singer_master_id: '59648'
+    singer_name: 満島 ひかり
+    singer_alias:
+    available_date: '2025-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいるひ
+    singer_name_ruby: みつしまひかり
+    song_variation:
+    - esong_code: 5116B35
+      song_name: I'll be
       content_type: ''
   - song_name: ironic truth
     song_alias:
@@ -385,7 +470,7 @@ result:
     song_alias:
     esong_code: 5123A26
     t_singer_master_id: '10498'
-    singer_name: 深美 容子
+    singer_name: 深美 容子(深美よう子)
     singer_alias:
     available_date: '2025-02-23'
     end_date: '2999-04-10 00:00:00'
@@ -431,89 +516,4 @@ result:
     song_variation:
     - esong_code: 5119B21
       song_name: 暁
-      content_type: ''
-  - song_name: 贖いのSKY
-    song_alias:
-    esong_code: 5119B4
-    t_singer_master_id: '75844'
-    singer_name: 乙女フェスティバル
-    singer_alias:
-    available_date: '2025-02-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかないのすかい
-    singer_name_ruby: おとめふえすていはる
-    song_variation:
-    - esong_code: 5119B4
-      song_name: 贖いのSKY
-      content_type: ''
-  - song_name: 茜さす契り (CR戦国乙女2)
-    song_alias:
-    esong_code: 5116A29
-    t_singer_master_id: '62546'
-    singer_name: 戦国乙女
-    singer_alias:
-    available_date: '2025-02-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかねさすちきり
-    singer_name_ruby: せんこくおとめ
-    song_variation:
-    - esong_code: 5116A29
-      song_name: 茜さす契り (CR戦国乙女2)
-      content_type: ''
-  - song_name: 明るいお部屋で君ガルル
-    song_alias:
-    esong_code: 5111B33
-    t_singer_master_id: '71934'
-    singer_name: みつあくま
-    singer_alias:
-    available_date: '2025-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: あかるいおへやてき
-    singer_name_ruby: みつあくま
-    song_variation:
-    - esong_code: 5111B33
-      song_name: 明るいお部屋で君ガルル
-      content_type: VOCALOID
-  - song_name: AKAN
-    song_alias:
-    esong_code: 5120B49
-    t_singer_master_id: '74135'
-    singer_name: Aぇ!group
-    singer_alias:
-    available_date: '2025-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかん
-    singer_name_ruby: ええくるふ
-    song_variation:
-    - esong_code: 5120B49
-      song_name: AKAN
-      content_type: ''
-  - song_name: アゲイン
-    song_alias:
-    esong_code: 5114A36
-    t_singer_master_id: '62804'
-    singer_name: the shes gone
-    singer_alias:
-    available_date: '2025-02-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけいん
-    singer_name_ruby: しすこん
-    song_variation:
-    - esong_code: 5114A36
-      song_name: アゲイン
       content_type: ''

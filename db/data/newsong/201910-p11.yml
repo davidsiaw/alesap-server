@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1493
-  all_max_cnt: 1746
-  all_country_cnt: 1493
+  max_cnt: 1476
+  all_max_cnt: 1729
+  all_country_cnt: 1476
   song:
-  - song_name: 悲しい歌はもう歌いたくない
-    song_alias:
-    esong_code: 4263A32
-    t_singer_master_id: '60197'
-    singer_name: ラストアイドル
-    singer_alias:
-    available_date: '2019-10-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしいうたはもうう
-    singer_name_ruby: らすとあいとる
-    song_variation:
-    - esong_code: 4263A32
-      song_name: 悲しい歌はもう歌いたくない
-      content_type: ''
   - song_name: 悲しきASIAN BOY [DAM本人歌唱]
     song_alias:
     esong_code: 4266A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4269B41
       song_name: 消えない
+      content_type: ''
+  - song_name: 気球
+    song_alias:
+    esong_code: 4276B3
+    t_singer_master_id: '56643'
+    singer_name: The Wisely Brothers
+    singer_alias:
+    available_date: '2019-10-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ききゆう
+    singer_name_ruby: わいすりふらさす
+    song_variation:
+    - esong_code: 4276B3
+      song_name: 気球
       content_type: ''

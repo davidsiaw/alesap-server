@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1411
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1405
+  all_country_cnt: 1206
   song:
-  - song_name: 一歩前ノセカイ
-    song_alias:
-    esong_code: 4712B6
-    t_singer_master_id: '70098'
-    singer_name: TINGS
-    singer_alias:
-    available_date: '2022-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: シャインポスト<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつほまえのせかい
-    singer_name_ruby: ていんくす
-    song_variation:
-    - esong_code: 4712B6
-      song_name: 一歩前ノセカイ
-      content_type: ''
   - song_name: イデアル
     song_alias:
     esong_code: 4701B8
@@ -517,3 +500,20 @@ result:
     - esong_code: 4708A34
       song_name: 浮草の舟
       content_type: ''
+  - song_name: 浮草の舟
+    song_alias:
+    esong_code: 4712A12
+    t_singer_master_id: '6239'
+    singer_name: 岩本 公水
+    singer_alias:
+    available_date: '2022-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: うきくさのふね
+    singer_name_ruby: いわもとくみ
+    song_variation:
+    - esong_code: 4712A12
+      song_name: 浮草の舟
+      content_type: DAMｸﾘｯﾌﾟ生音

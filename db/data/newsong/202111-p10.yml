@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 999
-  all_max_cnt: 1083
-  all_country_cnt: 999
+  max_cnt: 985
+  all_max_cnt: 1069
+  all_country_cnt: 985
   song:
-  - song_name: 恋のMAGIC
-    song_alias:
-    esong_code: 4567A34
-    t_singer_master_id: '57983'
-    singer_name: うらたぬき(from 浦島坂田船)
-    singer_alias:
-    available_date: '2021-11-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいのましつく
-    singer_name_ruby: うらたぬきうらしまさかたせん
-    song_variation:
-    - esong_code: 4567A34
-      song_name: 恋のMAGIC
-      content_type: ''
-  - song_name: 恋降る月夜に君想ふ
-    song_alias:
-    esong_code: 4566A2
-    t_singer_master_id: '61498'
-    singer_name: King&Prince
-    singer_alias:
-    available_date: '2021-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こいふるつきよにきみ
-    singer_name_ruby: きんくあんとふりんす
-    song_variation:
-    - esong_code: 4566A2
-      song_name: 恋降る月夜に君想ふ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 恋末路
-    song_alias:
-    esong_code: 4560B15
-    t_singer_master_id: '67585'
-    singer_name: えぬ
-    singer_alias:
-    available_date: '2021-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいまつろ
-    singer_name_ruby: えぬ
-    song_variation:
-    - esong_code: 4560B15
-      song_name: 恋末路
-      content_type: ''
-  - song_name: Going my way
-    song_alias:
-    esong_code: 4569A3
-    t_singer_master_id: '36558'
-    singer_name: 北原 沙弥香
-    singer_alias:
-    available_date: '2021-11-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドルマスター シャイニーカラーズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいんくまいう
-    singer_name_ruby: きたはらさやか
-    song_variation:
-    - esong_code: 4569A3
-      song_name: Going my way
-      content_type: ''
-  - song_name: コインランドリー
-    song_alias:
-    esong_code: 4570B18
-    t_singer_master_id: '68423'
-    singer_name: きゃない
-    singer_alias:
-    available_date: '2021-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいんらんとり
-    singer_name_ruby: きやない
-    song_variation:
-    - esong_code: 4570B18
-      song_name: コインランドリー
-      content_type: ''
   - song_name: Go Wave!
     song_alias:
     esong_code: 4568B48
@@ -315,23 +230,6 @@ result:
       content_type: VOCALOID
   - song_name: 孤独の歌姫
     song_alias:
-    esong_code: 4561B49
-    t_singer_master_id: '68659'
-    singer_name: 田中 あいみ
-    singer_alias:
-    available_date: '2021-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ことくのしんか
-    singer_name_ruby: たなかあいみ2
-    song_variation:
-    - esong_code: 4561B49
-      song_name: 孤独の歌姫
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 孤独の歌姫
-    song_alias:
     esong_code: 4563B19
     t_singer_master_id: '68659'
     singer_name: 田中 あいみ
@@ -364,6 +262,23 @@ result:
     - esong_code: 4562A31
       song_name: 孤独の歌姫
       content_type: ''
+  - song_name: 孤独の歌姫
+    song_alias:
+    esong_code: 4561B49
+    t_singer_master_id: '68659'
+    singer_name: 田中 あいみ
+    singer_alias:
+    available_date: '2021-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ことくのしんか
+    singer_name_ruby: たなかあいみ2
+    song_variation:
+    - esong_code: 4561B49
+      song_name: 孤独の歌姫
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: この場所で.
     song_alias:
     esong_code: 4561A29
@@ -414,23 +329,6 @@ result:
     song_variation:
     - esong_code: 4561B40
       song_name: この夢に弔いを
-      content_type: ''
-  - song_name: この夜を止めてよ-From THE FIRST TAKE
-    song_alias:
-    esong_code: 4562A18
-    t_singer_master_id: '20714'
-    singer_name: JUJU
-    singer_alias:
-    available_date: '2021-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: このよるをとめてよふ
-    singer_name_ruby: しゆしゆ
-    song_variation:
-    - esong_code: 4562A18
-      song_name: この夜を止めてよ-From THE FIRST TAKE
       content_type: ''
   - song_name: Comet
     song_alias:
@@ -516,4 +414,106 @@ result:
     song_variation:
     - esong_code: 4564B19
       song_name: Call me
+      content_type: ''
+  - song_name: これだから最近の若者は最高なんだ
+    song_alias:
+    esong_code: 4564A8
+    t_singer_master_id: '42751'
+    singer_name: 忘れらんねえよ
+    singer_alias:
+    available_date: '2021-11-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: これたからさいきん
+    singer_name_ruby: わすれらんねえよ
+    song_variation:
+    - esong_code: 4564A8
+      song_name: これだから最近の若者は最高なんだ
+      content_type: ''
+  - song_name: コンサートホール
+    song_alias:
+    esong_code: 4562A37
+    t_singer_master_id: '36077'
+    singer_name: 清 竜人
+    singer_alias:
+    available_date: '2021-11-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こんさとほる
+    singer_name_ruby: きよしりゆうしん
+    song_variation:
+    - esong_code: 4562A37
+      song_name: コンサートホール
+      content_type: ''
+  - song_name: コントレイル
+    song_alias:
+    esong_code: 4569B1
+    t_singer_master_id: '68757'
+    singer_name: 葛葉(from にじさんじ)
+    singer_alias:
+    available_date: '2021-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こんとれいる
+    singer_name_ruby: くすは
+    song_variation:
+    - esong_code: 4569B1
+      song_name: コントレイル
+      content_type: ''
+  - song_name: 最後くらい
+    song_alias:
+    esong_code: 4573B23
+    t_singer_master_id: '64536'
+    singer_name: Karin.
+    singer_alias:
+    available_date: '2021-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいこくらい
+    singer_name_ruby: かりん
+    song_variation:
+    - esong_code: 4573B23
+      song_name: 最後くらい
+      content_type: ''
+  - song_name: 最後のTight Hug
+    song_alias:
+    esong_code: 4574A11
+    t_singer_master_id: '44213'
+    singer_name: 乃木坂46
+    singer_alias:
+    available_date: '2021-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいこのたいとはく
+    singer_name_ruby: のきさかふおていしつくす
+    song_variation:
+    - esong_code: 4574A11
+      song_name: 最後のTight Hug
+      content_type: ''
+  - song_name: サイドストーリー
+    song_alias:
+    esong_code: 4571A10
+    t_singer_master_id: '66322'
+    singer_name: フィルフリーク
+    singer_alias:
+    available_date: '2021-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいとすとり
+    singer_name_ruby: ふいるふりく
+    song_variation:
+    - esong_code: 4571A10
+      song_name: サイドストーリー
       content_type: ''

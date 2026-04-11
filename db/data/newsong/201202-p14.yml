@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: 黄金色の夢の中で
-    song_alias:
-    esong_code: 2766B2
-    t_singer_master_id: '32905'
-    singer_name: chaqq
-    singer_alias:
-    available_date: '2012-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こかねいろのゆめの
-    singer_name_ruby: ちやつく
-    song_variation:
-    - esong_code: 2766B2
-      song_name: 黄金色の夢の中で
-      content_type: ''
   - song_name: ご機嫌いかが?
     song_alias:
     esong_code: 2767A17
@@ -32,7 +15,7 @@ result:
     singer_alias:
     available_date: '2012-02-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイⅡ<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こきけんいかか
@@ -185,7 +168,7 @@ result:
     singer_alias:
     available_date: '2012-02-14'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ -サマースペシャル-<番組名>
+    tie_up: 探偵オペラ ミルキィホームズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こころのえてん
@@ -193,6 +176,23 @@ result:
     song_variation:
     - esong_code: 2758A27
       song_name: ココロノエデン
+      content_type: ''
+  - song_name: こころの絆 〜明日を信じて〜
+    song_alias:
+    esong_code: 2589A38
+    t_singer_master_id: '2503'
+    singer_name: 山本 譲二
+    singer_alias:
+    available_date: '2012-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころのきすなあす
+    singer_name_ruby: やまもとしようし
+    song_variation:
+    - esong_code: 2589A38
+      song_name: こころの絆 〜明日を信じて〜
       content_type: ''
   - song_name: こころの絆 〜明日を信じて〜
     song_alias:
@@ -211,40 +211,6 @@ result:
     - esong_code: 2758A4
       song_name: こころの絆 〜明日を信じて〜
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: こころの絆 〜明日を信じて〜
-    song_alias:
-    esong_code: 2757B30
-    t_singer_master_id: '2503'
-    singer_name: 山本 譲二
-    singer_alias:
-    available_date: '2012-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: こころのきすなあす
-    singer_name_ruby: やまもとしようし
-    song_variation:
-    - esong_code: 2757B30
-      song_name: こころの絆 〜明日を信じて〜
-      content_type: DAM生音
-  - song_name: こころの絆 〜明日を信じて〜
-    song_alias:
-    esong_code: 2589A38
-    t_singer_master_id: '2503'
-    singer_name: 山本 譲二
-    singer_alias:
-    available_date: '2012-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころのきすなあす
-    singer_name_ruby: やまもとしようし
-    song_variation:
-    - esong_code: 2589A38
-      song_name: こころの絆 〜明日を信じて〜
-      content_type: ''
   - song_name: GHOST BRIDGE
     song_alias:
     esong_code: 2007B3
@@ -383,23 +349,6 @@ result:
       content_type: ''
   - song_name: この世界に生まれたわけ
     song_alias:
-    esong_code: 2750A27
-    t_singer_master_id: '24880'
-    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
-    singer_alias:
-    available_date: '2012-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: このせかいにうまれた
-    singer_name_ruby: ふあんきもんきへいひす
-    song_variation:
-    - esong_code: 2750A27
-      song_name: この世界に生まれたわけ
-      content_type: ''
-  - song_name: この世界に生まれたわけ
-    song_alias:
     esong_code: 2757A36
     t_singer_master_id: '24880'
     singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
@@ -415,6 +364,23 @@ result:
     - esong_code: 2757A36
       song_name: この世界に生まれたわけ
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: この世界に生まれたわけ
+    song_alias:
+    esong_code: 2750A27
+    t_singer_master_id: '24880'
+    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
+    singer_alias:
+    available_date: '2012-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: このせかいにうまれた
+    singer_name_ruby: ふあんきもんきへいひす
+    song_variation:
+    - esong_code: 2750A27
+      song_name: この世界に生まれたわけ
+      content_type: ''
   - song_name: この瞬間をとめて
     song_alias:
     esong_code: 2767A26
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2750A11
       song_name: これから小唄
+      content_type: ''
+  - song_name: これくらいで歌う
+    song_alias:
+    esong_code: 2759A7
+    t_singer_master_id: '44280'
+    singer_name: ハンサムケンヤ
+    singer_alias:
+    available_date: '2012-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: これくらいてうたう
+    singer_name_ruby: はんさむけんや
+    song_variation:
+    - esong_code: 2759A7
+      song_name: これくらいで歌う
+      content_type: ''
+  - song_name: これくらいのサヨナラ
+    song_alias:
+    esong_code: 2767B8
+    t_singer_master_id: '42901'
+    singer_name: Secret
+    singer_alias:
+    available_date: '2012-02-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: これくらいのさよなら
+    singer_name_ruby: しくれつと
+    song_variation:
+    - esong_code: 2767B8
+      song_name: これくらいのサヨナラ
       content_type: ''

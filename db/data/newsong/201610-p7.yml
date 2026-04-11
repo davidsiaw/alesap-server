@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1386
-  all_max_cnt: 1523
-  all_country_cnt: 1386
+  max_cnt: 1380
+  all_max_cnt: 1517
+  all_country_cnt: 1380
   song:
-  - song_name: ENJOYMENT
-    song_alias:
-    esong_code: 3709B1
-    t_singer_master_id: '44732'
-    singer_name: 松岡 禎丞
-    singer_alias:
-    available_date: '2016-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: DAYS<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんしよいめんと
-    singer_name_ruby: まつおかよしつく
-    song_variation:
-    - esong_code: 3709B1
-      song_name: ENJOYMENT
-      content_type: ''
-  - song_name: End of the World
-    song_alias:
-    esong_code: 3695B25
-    t_singer_master_id: '13569'
-    singer_name: 熊木 杏里
-    singer_alias:
-    available_date: '2016-10-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Rewrite(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんとおふさわ
-    singer_name_ruby: くまきあんり
-    song_variation:
-    - esong_code: 3695B25
-      song_name: End of the World
-      content_type: ''
   - song_name: Endless Song
     song_alias:
     esong_code: 3714A43
@@ -508,7 +474,7 @@ result:
     singer_alias:
     available_date: '2016-10-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ちびまる子ちゃん(第2期)<番組名>
+    tie_up: ちびまる子ちゃん<番組名>
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: おとるほんほこ
@@ -517,3 +483,37 @@ result:
     - esong_code: 3711B48
       song_name: おどるポンポコリン
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: おどるポンポコリン
+    song_alias:
+    esong_code: 3706B3
+    t_singer_master_id: '33453'
+    singer_name: ゴールデンボンバー
+    singer_alias:
+    available_date: '2016-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ちびまる子ちゃん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとるほんほこ
+    singer_name_ruby: こるてんほんは
+    song_variation:
+    - esong_code: 3706B3
+      song_name: おどるポンポコリン
+      content_type: ''
+  - song_name: おにいちゃん
+    song_alias:
+    esong_code: 3709A41
+    t_singer_master_id: '40483'
+    singer_name: 悠木 碧
+    singer_alias:
+    available_date: '2016-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 田中くんはいつもけだるげ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おにいちやん
+    singer_name_ruby: ゆうきあおい
+    song_variation:
+    - esong_code: 3709A41
+      song_name: おにいちゃん
+      content_type: ''

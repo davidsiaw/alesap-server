@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1410
-  all_max_cnt: 1498
-  all_country_cnt: 1410
+  max_cnt: 1399
+  all_max_cnt: 1487
+  all_country_cnt: 1399
   song:
   - song_name: あぁァ、今日も歌うぞ〜!(発声練習曲)
     song_alias:
@@ -43,23 +43,6 @@ result:
       content_type: ''
   - song_name: 愛燦燦
     song_alias:
-    esong_code: 1533A2
-    t_singer_master_id: '7547'
-    singer_name: 河村 隆一
-    singer_alias:
-    available_date: '2006-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいさんさん
-    singer_name_ruby: かわむらりゆういち
-    song_variation:
-    - esong_code: 1533A2
-      song_name: 愛燦燦
-      content_type: ''
-  - song_name: 愛燦燦
-    song_alias:
     esong_code: 1527B18
     t_singer_master_id: '8559'
     singer_name: Fayray
@@ -73,6 +56,23 @@ result:
     singer_name_ruby: ふえいれい
     song_variation:
     - esong_code: 1527B18
+      song_name: 愛燦燦
+      content_type: ''
+  - song_name: 愛燦燦
+    song_alias:
+    esong_code: 1533A2
+    t_singer_master_id: '7547'
+    singer_name: 河村 隆一
+    singer_alias:
+    available_date: '2006-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいさんさん
+    singer_name_ruby: かわむらりゆういち
+    song_variation:
+    - esong_code: 1533A2
       song_name: 愛燦燦
       content_type: ''
   - song_name: icy 〜cold city〜
@@ -508,7 +508,7 @@ result:
     singer_alias:
     available_date: '2006-06-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真救世主 北斗の拳 〜ラオウ伝殉愛の章〜<番組名>
+    tie_up: 北斗の拳(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あいをとりもとせ

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
   - song_name: 好きだって今日は言ったっけ?
     song_alias:
@@ -279,40 +279,6 @@ result:
     - esong_code: 3004B11
       song_name: ずっと見ていて
       content_type: ''
-  - song_name: Stay gold
-    song_alias:
-    esong_code: 3013A43
-    t_singer_master_id: '36641'
-    singer_name: SPYAIR
-    singer_alias:
-    available_date: '2013-03-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すていこると
-    singer_name_ruby: すはいえあ
-    song_variation:
-    - esong_code: 3013A43
-      song_name: Stay gold
-      content_type: ''
-  - song_name: STAY GOLD
-    song_alias:
-    esong_code: 2997A25
-    t_singer_master_id: '17386'
-    singer_name: 湘南乃風
-    singer_alias:
-    available_date: '2013-03-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すていこると
-    singer_name_ruby: しようなんのかせ
-    song_variation:
-    - esong_code: 2997A25
-      song_name: STAY GOLD
-      content_type: ''
   - song_name: Stay Gold
     song_alias:
     esong_code: 3001B49
@@ -346,6 +312,40 @@ result:
     song_variation:
     - esong_code: 3005B20
       song_name: Stay Gold
+      content_type: ''
+  - song_name: STAY GOLD
+    song_alias:
+    esong_code: 2997A25
+    t_singer_master_id: '17386'
+    singer_name: 湘南乃風
+    singer_alias:
+    available_date: '2013-03-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すていこると
+    singer_name_ruby: しようなんのかせ
+    song_variation:
+    - esong_code: 2997A25
+      song_name: STAY GOLD
+      content_type: ''
+  - song_name: Stay gold
+    song_alias:
+    esong_code: 3013A43
+    t_singer_master_id: '36641'
+    singer_name: SPYAIR
+    singer_alias:
+    available_date: '2013-03-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すていこると
+    singer_name_ruby: すはいえあ
+    song_variation:
+    - esong_code: 3013A43
+      song_name: Stay gold
       content_type: ''
   - song_name: Steel of Fire
     song_alias:

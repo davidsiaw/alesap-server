@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1052
-  all_max_cnt: 1126
-  all_country_cnt: 1052
+  max_cnt: 1051
+  all_max_cnt: 1125
+  all_country_cnt: 1051
   song:
-  - song_name: Party time，Happy time
-    song_alias:
-    esong_code: 1962B48
-    t_singer_master_id: '2217'
-    singer_name: 松田 聖子
-    singer_alias:
-    available_date: '2008-03-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はていたいむは
-    singer_name_ruby: まつたせいこ
-    song_variation:
-    - esong_code: 1962B48
-      song_name: Party time，Happy time
-      content_type: ''
   - song_name: パーティー野郎!!
     song_alias:
     esong_code: 1963B37
@@ -58,6 +41,23 @@ result:
     - esong_code: 1972B34
       song_name: ハートブルース
       content_type: ''
+  - song_name: 花
+    song_alias:
+    esong_code: 1966A20
+    t_singer_master_id: '29387'
+    singer_name: ONE☆DRAFT
+    singer_alias:
+    available_date: '2008-03-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はな
+    singer_name_ruby: わんとらふと
+    song_variation:
+    - esong_code: 1966A20
+      song_name: 花
+      content_type: ''
   - song_name: hana
     song_alias:
     esong_code: 1944B26
@@ -77,19 +77,19 @@ result:
       content_type: ''
   - song_name: 花
     song_alias:
-    esong_code: 1966A20
-    t_singer_master_id: '29387'
-    singer_name: ONE☆DRAFT
+    esong_code: 1973A4
+    t_singer_master_id: '10051'
+    singer_name: 夏川 りみ
     singer_alias:
-    available_date: '2008-03-12'
+    available_date: '2008-03-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: はな
-    singer_name_ruby: わんとらふと
+    singer_name_ruby: なつかわりみ
     song_variation:
-    - esong_code: 1966A20
+    - esong_code: 1973A4
       song_name: 花
       content_type: ''
   - song_name: 花
@@ -107,23 +107,6 @@ result:
     singer_name_ruby: もりやまなおたろう
     song_variation:
     - esong_code: 1962A10
-      song_name: 花
-      content_type: ''
-  - song_name: 花
-    song_alias:
-    esong_code: 1973A4
-    t_singer_master_id: '10051'
-    singer_name: 夏川 りみ
-    singer_alias:
-    available_date: '2008-03-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はな
-    singer_name_ruby: なつかわりみ
-    song_variation:
-    - esong_code: 1973A4
       song_name: 花
       content_type: ''
   - song_name: 鼻唄人生
@@ -366,23 +349,6 @@ result:
       content_type: ''
   - song_name: パラレル
     song_alias:
-    esong_code: 1967A13
-    t_singer_master_id: '16857'
-    singer_name: 安藤 裕子
-    singer_alias:
-    available_date: '2008-03-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はられる
-    singer_name_ruby: あんとうゆうこ
-    song_variation:
-    - esong_code: 1967A13
-      song_name: パラレル
-      content_type: ''
-  - song_name: パラレル
-    song_alias:
     esong_code: 1975A8
     t_singer_master_id: '16857'
     singer_name: 安藤 裕子
@@ -398,6 +364,23 @@ result:
     - esong_code: 1975A8
       song_name: パラレル
       content_type: DAM良音
+  - song_name: パラレル
+    song_alias:
+    esong_code: 1967A13
+    t_singer_master_id: '16857'
+    singer_name: 安藤 裕子
+    singer_alias:
+    available_date: '2008-03-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はられる
+    singer_name_ruby: あんとうゆうこ
+    song_variation:
+    - esong_code: 1967A13
+      song_name: パラレル
+      content_type: ''
   - song_name: パリの娘
     song_alias:
     esong_code: 1966A1
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1966A7
       song_name: 春の雪
+      content_type: ''
+  - song_name: 春・夢綴り
+    song_alias:
+    esong_code: 1971B47
+    t_singer_master_id: '19049'
+    singer_name: Natsumi
+    singer_alias:
+    available_date: '2008-03-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はるゆめつつり
+    singer_name_ruby: なつみ
+    song_variation:
+    - esong_code: 1971B47
+      song_name: 春・夢綴り
       content_type: ''

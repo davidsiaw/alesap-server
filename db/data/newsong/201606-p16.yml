@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1457
-  all_max_cnt: 1594
-  all_country_cnt: 1457
+  max_cnt: 1447
+  all_max_cnt: 1584
+  all_country_cnt: 1447
   song:
-  - song_name: こころだいすきここったま!
-    song_alias:
-    esong_code: 3640B42
-    t_singer_master_id: '56342'
-    singer_name: 本渡 楓&潘 めぐみ
-    singer_alias:
-    available_date: '2016-06-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: かみさまみならい ヒミツのここたま<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころたいすきここ
-    singer_name_ruby: ほんとかえてはんめくみ
-    song_variation:
-    - esong_code: 3640B42
-      song_name: こころだいすきここったま!
-      content_type: ''
   - song_name: こころ手紙
     song_alias:
     esong_code: 3641B32
@@ -372,7 +355,7 @@ result:
     singer_alias:
     available_date: '2016-06-16'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA 真田幸村伝<番組名>
+    tie_up: 戦国BASARA<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こみてつとれつと
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3641B18
       song_name: gone feat.曽我部恵一
+      content_type: ''
+  - song_name: Contemporary Tokyo Cruise
+    song_alias:
+    esong_code: 3639B46
+    t_singer_master_id: '46677'
+    singer_name: cero
+    singer_alias:
+    available_date: '2016-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こんてんほらりと
+    singer_name_ruby: せろ
+    song_variation:
+    - esong_code: 3639B46
+      song_name: Contemporary Tokyo Cruise
       content_type: ''

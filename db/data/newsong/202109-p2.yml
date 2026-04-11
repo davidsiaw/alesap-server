@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 888
-  all_max_cnt: 934
-  all_country_cnt: 888
+  max_cnt: 881
+  all_max_cnt: 927
+  all_country_cnt: 881
   song:
   - song_name: RPG
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 4531A38
       song_name: アンドロギュノス
       content_type: ''
-  - song_name: Andromeda
-    song_alias:
-    esong_code: 4547A3
-    t_singer_master_id: '67950'
-    singer_name: 星街 すいせい
-    singer_alias:
-    available_date: '2021-09-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんとろめた
-    singer_name_ruby: ほしまちすいせい
-    song_variation:
-    - esong_code: 4547A3
-      song_name: Andromeda
-      content_type: ''
   - song_name: いい湯かな? (2021ver.)
     song_alias:
     esong_code: 4543A37
@@ -253,7 +236,7 @@ result:
     singer_alias:
     available_date: '2021-09-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いしさくらにせん
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4543A38
       song_name: イヤフォン・ライオット
+      content_type: ''
+  - song_name: Iridescent Light
+    song_alias:
+    esong_code: 4547A10
+    t_singer_master_id: '53645'
+    singer_name: MONOEYES
+    singer_alias:
+    available_date: '2021-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いりていせんとらい
+    singer_name_ruby: ものあいす
+    song_variation:
+    - esong_code: 4547A10
+      song_name: Iridescent Light
       content_type: ''

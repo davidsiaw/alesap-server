@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1496
-  all_max_cnt: 1667
-  all_country_cnt: 1496
+  max_cnt: 1487
+  all_max_cnt: 1658
+  all_country_cnt: 1487
   song:
+  - song_name: 雨の港町
+    song_alias:
+    esong_code: 851A35
+    t_singer_master_id: '2419'
+    singer_name: 森 昌子
+    singer_alias:
+    available_date: '2015-04-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめのみなとまち
+    singer_name_ruby: もりまさこ
+    song_variation:
+    - esong_code: 851A35
+      song_name: 雨の港町
+      content_type: ''
   - song_name: 雨の港宿
     song_alias:
     esong_code: 831B35
@@ -145,23 +162,6 @@ result:
       content_type: ''
   - song_name: ありがとう
     song_alias:
-    esong_code: 850B23
-    t_singer_master_id: '53222'
-    singer_name: 村井 敏朗
-    singer_alias:
-    available_date: '2015-04-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: むらいとしろう
-    song_variation:
-    - esong_code: 850B23
-      song_name: ありがとう
-      content_type: ''
-  - song_name: ありがとう
-    song_alias:
     esong_code: 3229A16
     t_singer_master_id: '26716'
     singer_name: 秋川 雅史
@@ -175,6 +175,23 @@ result:
     singer_name_ruby: あきかわまさふみ
     song_variation:
     - esong_code: 3229A16
+      song_name: ありがとう
+      content_type: ''
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 850B23
+    t_singer_master_id: '53222'
+    singer_name: 村井 敏朗
+    singer_alias:
+    available_date: '2015-04-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: むらいとしろう
+    song_variation:
+    - esong_code: 850B23
       song_name: ありがとう
       content_type: ''
   - song_name: ありがとうForever...
@@ -219,7 +236,7 @@ result:
     singer_alias:
     available_date: '2015-04-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双(TV版)<番組名>
+    tie_up: 戦国無双(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ありしひよとこしえに
@@ -244,23 +261,6 @@ result:
     song_variation:
     - esong_code: 3433A9
       song_name: アリスは突然に
-      content_type: ''
-  - song_name: 歩いていこう
-    song_alias:
-    esong_code: 3415B36
-    t_singer_master_id: '17329'
-    singer_name: 吉野 裕行
-    singer_alias:
-    available_date: '2015-04-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるいていこう
-    singer_name_ruby: よしのひろゆき
-    song_variation:
-    - esong_code: 3415B36
-      song_name: 歩いていこう
       content_type: ''
   - song_name: ある夕暮れ feat.初音ミク
     song_alias:
@@ -296,23 +296,6 @@ result:
     - esong_code: 3429B20
       song_name: あるよね〜
       content_type: ''
-  - song_name: アロエ
-    song_alias:
-    esong_code: 3429A47
-    t_singer_master_id: '944'
-    singer_name: サザンオールスターズ
-    singer_alias:
-    available_date: '2015-04-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あろえ
-    singer_name_ruby: ささんおるすたす
-    song_variation:
-    - esong_code: 3429A47
-      song_name: アロエ
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: アロエ
     song_alias:
     esong_code: 3425A28
@@ -508,7 +491,7 @@ result:
     singer_alias:
     available_date: '2015-04-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ Operation Victory Arrow<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いえむてい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3427B26
       song_name: EMT
+      content_type: ''
+  - song_name: 行かないで 〜No No No〜
+    song_alias:
+    esong_code: 3429B41
+    t_singer_master_id: '47461'
+    singer_name: JUNHO(From 2PM)
+    singer_alias:
+    available_date: '2015-04-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いかないてのの
+    singer_name_ruby: しゆの
+    song_variation:
+    - esong_code: 3429B41
+      song_name: 行かないで 〜No No No〜
       content_type: ''

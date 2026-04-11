@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
-  - song_name: OH OH OH〜We are the Winners〜
-    song_alias:
-    esong_code: 539B17
-    t_singer_master_id: '5671'
-    singer_name: 酒井 法子 with Lリーガーズ
-    singer_alias:
-    available_date: '2007-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおお
-    singer_name_ruby: さかいのりこういす
-    song_variation:
-    - esong_code: 539B17
-      song_name: OH OH OH〜We are the Winners〜
-      content_type: ''
   - song_name: 大晦日
     song_alias:
     esong_code: 1752B2
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 837B20
       song_name: 女の劇場
+      content_type: ''
+  - song_name: Only Love 〜心から欲しいもの〜
+    song_alias:
+    esong_code: 1751B30
+    t_singer_master_id: '13499'
+    singer_name: 私市 淳
+    singer_alias:
+    available_date: '2007-03-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 恋する天使アンジェリーク 〜かがやきの明日〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんりらふ
+    singer_name_ruby: きさいちあつし
+    song_variation:
+    - esong_code: 1751B30
+      song_name: Only Love 〜心から欲しいもの〜
       content_type: ''

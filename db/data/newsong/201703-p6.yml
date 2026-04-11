@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1384
-  all_max_cnt: 1544
-  all_country_cnt: 1384
+  max_cnt: 1374
+  all_max_cnt: 1534
+  all_country_cnt: 1374
   song:
   - song_name: 運命AUTOMATIC
     song_alias:
@@ -211,23 +211,6 @@ result:
     - esong_code: 3773A2
       song_name: FXXK IT (KR Ver.)
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: エフエックスエックスケー イット (エラ モルゲッタ)
-    song_alias:
-    esong_code: 3777B4
-    t_singer_master_id: '29285'
-    singer_name: BIGBANG
-    singer_alias:
-    available_date: '2017-03-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: えふえつくすえつくす
-    singer_name_ruby: ひつくはん
-    song_variation:
-    - esong_code: 3777B4
-      song_name: エフエックスエックスケー イット (エラ モルゲッタ)
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: EMMA
     song_alias:
     esong_code: 3781A6
@@ -347,23 +330,6 @@ result:
     - esong_code: 3776B33
       song_name: "'OISHII' TRIP"
       content_type: VOCALOID
-  - song_name: オオカミ少年隊のテーマ
-    song_alias:
-    esong_code: 3775A20
-    t_singer_master_id: '2870'
-    singer_name: 緒方 恵美
-    singer_alias:
-    available_date: '2017-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおかみしようねんた
-    singer_name_ruby: おかためくみ
-    song_variation:
-    - esong_code: 3775A20
-      song_name: オオカミ少年隊のテーマ
-      content_type: ''
   - song_name: 大阪府立山田高等学校校歌
     song_alias:
     esong_code: 3773B11
@@ -419,7 +385,7 @@ result:
     song_alias:
     esong_code: 3776A9
     t_singer_master_id: '56946'
-    singer_name: クアイフ
+    singer_name: Qaijff
     singer_alias:
     available_date: '2017-03-14'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3775A3
       song_name: おたんじょうびのうた
+      content_type: ''
+  - song_name: お月さま
+    song_alias:
+    esong_code: 3772B4
+    t_singer_master_id: '53056'
+    singer_name: 藤原 さくら
+    singer_alias:
+    available_date: '2017-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おつきさま
+    singer_name_ruby: ふしわらさくら
+    song_variation:
+    - esong_code: 3772B4
+      song_name: お月さま
+      content_type: ''
+  - song_name: 男酒
+    song_alias:
+    esong_code: 3785B6
+    t_singer_master_id: '11121'
+    singer_name: 筑後 ゆたか
+    singer_alias:
+    available_date: '2017-03-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこさけ
+    singer_name_ruby: ちくこゆたか
+    song_variation:
+    - esong_code: 3785B6
+      song_name: 男酒
       content_type: ''

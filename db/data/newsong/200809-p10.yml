@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
   - song_name: 瓦礫の詩人
     song_alias:
@@ -40,23 +40,6 @@ result:
     song_variation:
     - esong_code: 2111B27
       song_name: 乾いた花
-      content_type: ''
-  - song_name: 川越の女
-    song_alias:
-    esong_code: 1978A38
-    t_singer_master_id: '11102'
-    singer_name: 祥田 よしてる(祥田佳輝)
-    singer_alias:
-    available_date: '2008-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かわこえのひと
-    singer_name_ruby: しようたよしてる
-    song_variation:
-    - esong_code: 1978A38
-      song_name: 川越の女
       content_type: ''
   - song_name: 感謝状
     song_alias:
@@ -383,23 +366,6 @@ result:
       content_type: ''
   - song_name: ギフト
     song_alias:
-    esong_code: 2107B30
-    t_singer_master_id: '10295'
-    singer_name: ポルノグラフィティ
-    singer_alias:
-    available_date: '2008-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きふと
-    singer_name_ruby: ほるのくらふいてい
-    song_variation:
-    - esong_code: 2107B30
-      song_name: ギフト
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ギフト
-    song_alias:
     esong_code: 2076B47
     t_singer_master_id: '10295'
     singer_name: ポルノグラフィティ
@@ -415,6 +381,23 @@ result:
     - esong_code: 2076B47
       song_name: ギフト
       content_type: DAM生音
+  - song_name: ギフト
+    song_alias:
+    esong_code: 2107B30
+    t_singer_master_id: '10295'
+    singer_name: ポルノグラフィティ
+    singer_alias:
+    available_date: '2008-09-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きふと
+    singer_name_ruby: ほるのくらふいてい
+    song_variation:
+    - esong_code: 2107B30
+      song_name: ギフト
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 希望
     song_alias:
     esong_code: 2103A23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2079B18
       song_name: キミに歌ったラブソング
+      content_type: ''
+  - song_name: 君に捧げるララバイ
+    song_alias:
+    esong_code: 1059A3
+    t_singer_master_id: '5706'
+    singer_name: 沖田 浩之
+    singer_alias:
+    available_date: '2008-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみにささけるらら
+    singer_name_ruby: おきたひろゆき
+    song_variation:
+    - esong_code: 1059A3
+      song_name: 君に捧げるララバイ
       content_type: ''

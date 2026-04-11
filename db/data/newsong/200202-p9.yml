@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 433
-  all_max_cnt: 461
-  all_country_cnt: 433
+  max_cnt: 431
+  all_max_cnt: 459
+  all_country_cnt: 431
   song:
-  - song_name: not at all
-    song_alias:
-    esong_code: 762A27
-    t_singer_master_id: '1457'
-    singer_name: CHAGE&ASKA
-    singer_alias:
-    available_date: '2002-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のつとあつとおる
-    singer_name_ruby: ちやけあんとあすか
-    song_variation:
-    - esong_code: 762A27
-      song_name: not at all
-      content_type: ''
   - song_name: ノーブランド・ヒーローズ
     song_alias:
     esong_code: 761A30
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 757A31
       song_name: 人
+      content_type: ''
+  - song_name: ひとりで生きてゆければ
+    song_alias:
+    esong_code: 377A23
+    t_singer_master_id: '466'
+    singer_name: オフコース
+    singer_alias:
+    available_date: '2002-02-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとりていきてゆけ
+    singer_name_ruby: おふこす
+    song_variation:
+    - esong_code: 377A23
+      song_name: ひとりで生きてゆければ
       content_type: ''

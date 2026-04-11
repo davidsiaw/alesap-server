@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 947
-  all_max_cnt: 1077
-  all_country_cnt: 947
+  max_cnt: 945
+  all_max_cnt: 1075
+  all_country_cnt: 945
   song:
   - song_name: 生粋のメンバー
     song_alias:
@@ -213,23 +213,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: キミノウタ
     song_alias:
-    esong_code: 2382B8
-    t_singer_master_id: '24924'
-    singer_name: abingdon boys school
-    singer_alias:
-    available_date: '2009-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東京マグニチュード8.0<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみのうた
-    singer_name_ruby: あひんくとんほいすすくる
-    song_variation:
-    - esong_code: 2382B8
-      song_name: キミノウタ
-      content_type: ''
-  - song_name: キミノウタ
-    song_alias:
     esong_code: 2391B38
     t_singer_master_id: '24924'
     singer_name: abingdon boys school
@@ -245,23 +228,40 @@ result:
     - esong_code: 2391B38
       song_name: キミノウタ
       content_type: DAM良音
+  - song_name: キミノウタ
+    song_alias:
+    esong_code: 2382B8
+    t_singer_master_id: '24924'
+    singer_name: abingdon boys school
+    singer_alias:
+    available_date: '2009-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東京マグニチュード8.0<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのうた
+    singer_name_ruby: あひんくとんほいすすくる
+    song_variation:
+    - esong_code: 2382B8
+      song_name: キミノウタ
+      content_type: ''
   - song_name: 君の知らない物語
     song_alias:
-    esong_code: 2369B31
+    esong_code: 2399A15
     t_singer_master_id: '34981'
     singer_name: supercell
     singer_alias:
-    available_date: '2009-08-12'
+    available_date: '2009-08-26'
     end_date: '2999-04-10 00:00:00'
     tie_up: "〈物語〉シリーズ<番組名>"
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: きみのしらないものか
     singer_name_ruby: すはせる
     song_variation:
-    - esong_code: 2369B31
+    - esong_code: 2399A15
       song_name: 君の知らない物語
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 君の知らない物語
     song_alias:
     esong_code: 2378A9
@@ -281,21 +281,21 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 君の知らない物語
     song_alias:
-    esong_code: 2399A15
+    esong_code: 2369B31
     t_singer_master_id: '34981'
     singer_name: supercell
     singer_alias:
-    available_date: '2009-08-26'
+    available_date: '2009-08-12'
     end_date: '2999-04-10 00:00:00'
     tie_up: "〈物語〉シリーズ<番組名>"
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: きみのしらないものか
     singer_name_ruby: すはせる
     song_variation:
-    - esong_code: 2399A15
+    - esong_code: 2369B31
       song_name: 君の知らない物語
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: 君のそばに・・・
     song_alias:
     esong_code: 2376B23

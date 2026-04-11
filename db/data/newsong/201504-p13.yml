@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1496
-  all_max_cnt: 1667
-  all_country_cnt: 1496
+  max_cnt: 1487
+  all_max_cnt: 1658
+  all_country_cnt: 1487
   song:
-  - song_name: Crystalline feat.巡音ルカ
-    song_alias:
-    esong_code: 3427B38
-    t_singer_master_id: '52448'
-    singer_name: CIRCRUSH
-    singer_alias:
-    available_date: '2015-04-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: くりすたらいん
-    singer_name_ruby: さくらつしゆ
-    song_variation:
-    - esong_code: 3427B38
-      song_name: Crystalline feat.巡音ルカ
-      content_type: VOCALOID
   - song_name: CRITICAL LINE feat.kradness
     song_alias:
     esong_code: 3423A31
@@ -319,6 +302,23 @@ result:
     - esong_code: 3427B31
       song_name: GLORY BLUE
       content_type: ''
+  - song_name: 軍艦島
+    song_alias:
+    esong_code: 873A29
+    t_singer_master_id: '1649'
+    singer_name: 中村 三郎
+    singer_alias:
+    available_date: '2015-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くんかんしま
+    singer_name_ruby: なかむらさふろう
+    song_variation:
+    - esong_code: 873A29
+      song_name: 軍艦島
+      content_type: ''
   - song_name: 螢子
     song_alias:
     esong_code: 851B40
@@ -336,23 +336,6 @@ result:
     - esong_code: 851B40
       song_name: 螢子
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 螢子
-    song_alias:
-    esong_code: 852A34
-    t_singer_master_id: '2466'
-    singer_name: 山川 豊
-    singer_alias:
-    available_date: '2015-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: けいこ
-    singer_name_ruby: やまかわゆたか
-    song_variation:
-    - esong_code: 852A34
-      song_name: 螢子
-      content_type: DAM生音
   - song_name: 芸術家
     song_alias:
     esong_code: 1174B7
@@ -472,23 +455,6 @@ result:
     - esong_code: 3428B46
       song_name: GAME OVER?
       content_type: ''
-  - song_name: ゲラッポ・ダンストレイン (TVサイズVer.)
-    song_alias:
-    esong_code: 3422A23
-    t_singer_master_id: '50571'
-    singer_name: キング・クリームソーダ.
-    singer_alias:
-    available_date: '2015-04-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 妖怪ウォッチ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: けらつほたんす
-    singer_name_ruby: きんくくりむそた
-    song_variation:
-    - esong_code: 3422A23
-      song_name: ゲラッポ・ダンストレイン (TVサイズVer.)
-      content_type: ''
   - song_name: ゲラッポ・ダンストレイン (アニメver.)
     song_alias:
     esong_code: 3434B8
@@ -506,6 +472,23 @@ result:
     - esong_code: 3434B8
       song_name: ゲラッポ・ダンストレイン (アニメver.)
       content_type: ''
+  - song_name: ゲラッポ・ダンストレイン (TVサイズVer.)
+    song_alias:
+    esong_code: 3422A23
+    t_singer_master_id: '50571'
+    singer_name: キング・クリームソーダ.
+    singer_alias:
+    available_date: '2015-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 妖怪ウォッチ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: けらつほたんす
+    singer_name_ruby: きんくくりむそた
+    song_variation:
+    - esong_code: 3422A23
+      song_name: ゲラッポ・ダンストレイン (TVサイズVer.)
+      content_type: ''
   - song_name: ゲラッポ・ダンストレイン
     song_alias:
     esong_code: 3415A24
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3415A24
       song_name: ゲラッポ・ダンストレイン
+      content_type: ''
+  - song_name: 玄海おんな船
+    song_alias:
+    esong_code: 3285B39
+    t_singer_master_id: '414'
+    singer_name: 岡 ゆう子
+    singer_alias:
+    available_date: '2015-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けんかいおんなふ
+    singer_name_ruby: おかゆうこ
+    song_variation:
+    - esong_code: 3285B39
+      song_name: 玄海おんな船
       content_type: ''

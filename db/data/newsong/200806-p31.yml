@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
-  - song_name: 三日月
-    song_alias:
-    esong_code: 2022A22
-    t_singer_master_id: '33253'
-    singer_name: Lumiere
-    singer_alias:
-    available_date: '2008-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みかつき
-    singer_name_ruby: りゆみえる
-    song_variation:
-    - esong_code: 2022A22
-      song_name: 三日月
-      content_type: ''
-  - song_name: ミカヅキノキセキ
-    song_alias:
-    esong_code: 2029A18
-    t_singer_master_id: '24355'
-    singer_name: 彩冷える-ayabie-
-    singer_alias:
-    available_date: '2008-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みかつきのきせき
-    singer_name_ruby: あやひえ
-    song_variation:
-    - esong_code: 2029A18
-      song_name: ミカヅキノキセキ
-      content_type: ''
   - song_name: みかん色
     song_alias:
     esong_code: 2027B35
@@ -117,7 +83,7 @@ result:
     singer_alias:
     available_date: '2008-06-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サモンナイト エクステーゼ 〜夜明けの翼〜<番組名>
+    tie_up: サモンナイト<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: みちなきみちを
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2020A39
       song_name: moon wet with honey
+      content_type: ''
+  - song_name: 迷Q!?-迷宮-MAKE★YOU-
+    song_alias:
+    esong_code: 2022B8
+    t_singer_master_id: '15949'
+    singer_name: 岸本 早未
+    singer_alias:
+    available_date: '2008-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 探偵学園Q<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: めいきゆうめいきゆう
+    singer_name_ruby: きしもとはやみ
+    song_variation:
+    - esong_code: 2022B8
+      song_name: 迷Q!?-迷宮-MAKE★YOU-
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: Maze
+    song_alias:
+    esong_code: 1980A6
+    t_singer_master_id: '31794'
+    singer_name: JEJUNG(東方神起)
+    singer_alias:
+    available_date: '2008-06-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めいす
+    singer_name_ruby: しえしゆん
+    song_variation:
+    - esong_code: 1980A6
+      song_name: Maze
       content_type: ''

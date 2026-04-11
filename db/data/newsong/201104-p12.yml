@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
   - song_name: CLIMBER×CLIMBER
     song_alias:
@@ -485,23 +485,6 @@ result:
       content_type: ''
   - song_name: 恋の町札幌
     song_alias:
-    esong_code: 1445B13
-    t_singer_master_id: '195'
-    singer_name: 石原 裕次郎
-    singer_alias:
-    available_date: '2011-04-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こいのまちさつほろ
-    singer_name_ruby: いしはらゆうしろう
-    song_variation:
-    - esong_code: 1445B13
-      song_name: 恋の町札幌
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 恋の町札幌
-    song_alias:
     esong_code: 226B41
     t_singer_master_id: '1518'
     singer_name: 天童 よしみ
@@ -517,3 +500,20 @@ result:
     - esong_code: 226B41
       song_name: 恋の町札幌
       content_type: ''
+  - song_name: 恋の町札幌
+    song_alias:
+    esong_code: 1445B13
+    t_singer_master_id: '195'
+    singer_name: 石原 裕次郎
+    singer_alias:
+    available_date: '2011-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: こいのまちさつほろ
+    singer_name_ruby: いしはらゆうしろう
+    song_variation:
+    - esong_code: 1445B13
+      song_name: 恋の町札幌
+      content_type: JOYﾎﾞｰｶﾙ

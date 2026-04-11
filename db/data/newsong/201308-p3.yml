@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1176
-  all_max_cnt: 1313
-  all_country_cnt: 1176
+  max_cnt: 1175
+  all_max_cnt: 1312
+  all_country_cnt: 1175
   song:
   - song_name: UNCHAINED MELODY
     song_alias:
@@ -266,7 +266,7 @@ result:
     song_alias:
     esong_code: 3090A43
     t_singer_master_id: '42105'
-    singer_name: ひとしずくP×やま△
+    singer_name: ひとしずく×やま△
     singer_alias:
     available_date: '2013-08-11'
     end_date: '2999-04-10 00:00:00'
@@ -274,7 +274,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: いたちこつこらは
-    singer_name_ruby: ひとしすくひやまさんかつけ
+    singer_name_ruby: ひとしすくやまさんかつけ
     song_variation:
     - esong_code: 3090A43
       song_name: いたちごっこ∞らう゛ぁーず feat.鏡音レン
@@ -285,7 +285,7 @@ result:
     t_singer_master_id: '10507'
     singer_name: 氷川 きよし
     singer_alias:
-    available_date: '2013-08-27'
+    available_date: '2013-08-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -315,21 +315,21 @@ result:
       content_type: ''
   - song_name: 一厘のブルース
     song_alias:
-    esong_code: 2851A25
+    esong_code: 3093A46
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
     singer_alias:
-    available_date: '2013-08-06'
+    available_date: '2013-08-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: いちりんのふるす
     singer_name_ruby: とはいちろう
     song_variation:
-    - esong_code: 2851A25
+    - esong_code: 3093A46
       song_name: 一厘のブルース
-      content_type: ''
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 一厘のブルース
     song_alias:
     esong_code: 3093A29
@@ -349,23 +349,6 @@ result:
       content_type: DAM生音
   - song_name: 一厘のブルース
     song_alias:
-    esong_code: 3093A46
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2013-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: いちりんのふるす
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 3093A46
-      song_name: 一厘のブルース
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 一厘のブルース
-    song_alias:
     esong_code: 3088B41
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -381,6 +364,23 @@ result:
     - esong_code: 3088B41
       song_name: 一厘のブルース
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 一厘のブルース
+    song_alias:
+    esong_code: 2851A25
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2013-08-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いちりんのふるす
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 2851A25
+      song_name: 一厘のブルース
+      content_type: ''
   - song_name: いつか また・・・
     song_alias:
     esong_code: 3099B47

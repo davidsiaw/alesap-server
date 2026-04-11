@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1775
-  all_max_cnt: 1979
-  all_country_cnt: 1775
+  max_cnt: 1769
+  all_max_cnt: 1973
+  all_country_cnt: 1769
   song:
-  - song_name: 長岡未練
-    song_alias:
-    esong_code: 200A5
-    t_singer_master_id: '21591'
-    singer_name: 流川 次郎
-    singer_alias:
-    available_date: '2014-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なかおかみれん
-    singer_name_ruby: なかれかわしろう
-    song_variation:
-    - esong_code: 200A5
-      song_name: 長岡未練
-      content_type: ''
-  - song_name: 長崎育ち
-    song_alias:
-    esong_code: 3268B20
-    t_singer_master_id: '5851'
-    singer_name: 美輪 明宏(丸山明宏)
-    singer_alias:
-    available_date: '2014-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なかさきそたち
-    singer_name_ruby: みわあきひろ
-    song_variation:
-    - esong_code: 3268B20
-      song_name: 長崎育ち
-      content_type: ''
-  - song_name: 泣かせるぜ
-    song_alias:
-    esong_code: 3291B6
-    t_singer_master_id: '2873'
-    singer_name: 石原 裕次郎&川中 美幸
-    singer_alias:
-    available_date: '2014-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: なかせるせ
-    singer_name_ruby: いしはらゆうしろうかわなか
-    song_variation:
-    - esong_code: 3291B6
-      song_name: 泣かせるぜ
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 鳴きうさぎ
     song_alias:
     esong_code: 3293B1
@@ -383,23 +332,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 涙しぐれ
     song_alias:
-    esong_code: 3273B49
-    t_singer_master_id: '1824'
-    singer_name: 原田 悠里
-    singer_alias:
-    available_date: '2014-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみたしくれ
-    singer_name_ruby: はらたゆり
-    song_variation:
-    - esong_code: 3273B49
-      song_name: 涙しぐれ
-      content_type: ''
-  - song_name: 涙しぐれ
-    song_alias:
     esong_code: 3274A1
     t_singer_master_id: '1824'
     singer_name: 原田 悠里
@@ -415,6 +347,23 @@ result:
     - esong_code: 3274A1
       song_name: 涙しぐれ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 涙しぐれ
+    song_alias:
+    esong_code: 3273B49
+    t_singer_master_id: '1824'
+    singer_name: 原田 悠里
+    singer_alias:
+    available_date: '2014-06-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたしくれ
+    singer_name_ruby: はらたゆり
+    song_variation:
+    - esong_code: 3273B49
+      song_name: 涙しぐれ
+      content_type: ''
   - song_name: 涙つづり
     song_alias:
     esong_code: 3291A48
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3277A40
       song_name: 涙星
+      content_type: ''
+  - song_name: なみだ雪
+    song_alias:
+    esong_code: 3293B4
+    t_singer_master_id: '2183'
+    singer_name: 真木 柚布子(由布子)
+    singer_alias:
+    available_date: '2014-06-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: なみたゆき
+    singer_name_ruby: まきゆうこ
+    song_variation:
+    - esong_code: 3293B4
+      song_name: なみだ雪
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 涙酔わせて
+    song_alias:
+    esong_code: 3275A40
+    t_singer_master_id: '32959'
+    singer_name: 霧島 美甫
+    singer_alias:
+    available_date: '2014-06-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたよわせて
+    singer_name_ruby: きりしまみほ
+    song_variation:
+    - esong_code: 3275A40
+      song_name: 涙酔わせて
+      content_type: ''
+  - song_name: 奈落ブランコ
+    song_alias:
+    esong_code: 3274A41
+    t_singer_master_id: '40145'
+    singer_name: Queen of Wand
+    singer_alias:
+    available_date: '2014-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ならくふらんこ
+    singer_name_ruby: くいんおふわんと
+    song_variation:
+    - esong_code: 3274A41
+      song_name: 奈落ブランコ
       content_type: ''

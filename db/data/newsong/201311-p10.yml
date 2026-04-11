@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
+  - song_name: 想いで迷子
+    song_alias:
+    esong_code: 2929B42
+    t_singer_master_id: '14143'
+    singer_name: 中田 久美
+    singer_alias:
+    available_date: '2013-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいてまいこ
+    singer_name_ruby: なかたくみ
+    song_variation:
+    - esong_code: 2929B42
+      song_name: 想いで迷子
+      content_type: ''
   - song_name: 思わせ光線 (紅組)
     song_alias:
     esong_code: 3138A48
@@ -370,7 +387,7 @@ result:
     t_singer_master_id: '2190'
     singer_name: 増位山 太志郎
     singer_alias:
-    available_date: '2013-11-19'
+    available_date: '2013-11-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3145A40
       song_name: おんな華舞台
-      content_type: ''
-  - song_name: On va jouer ensemble
-    song_alias:
-    esong_code: 3143A13
-    t_singer_master_id: '49249'
-    singer_name: お月さま交響曲 feat.來香滄,真野綾,更科真都 他
-    singer_alias:
-    available_date: '2013-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんはしゆえあん
-    singer_name_ruby: おつきさまこうきようきよくふいちやりんくら
-    song_variation:
-    - esong_code: 3143A13
-      song_name: On va jouer ensemble
       content_type: ''

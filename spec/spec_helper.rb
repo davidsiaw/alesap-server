@@ -18,6 +18,7 @@ require 'factory_bot'
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 
 require 'rails_helper'
+require 'webmock/rspec'
 
 RSpec.configure do |config|
   config.include FactoryBot::Syntax::Methods

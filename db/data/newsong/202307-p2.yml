@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1082
-  all_max_cnt: 1200
-  all_country_cnt: 1082
+  max_cnt: 1165
+  all_max_cnt: 1309
+  all_country_cnt: 1165
   song:
+  - song_name: 暑さのせい
+    song_alias:
+    esong_code: 4804A37
+    t_singer_master_id: '384'
+    singer_name: 大滝 詠一
+    singer_alias:
+    available_date: '2023-07-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あつさのせい
+    singer_name_ruby: おおたきえいいち
+    song_variation:
+    - esong_code: 4804A37
+      song_name: 暑さのせい
+      content_type: ''
   - song_name: Attitude
     song_alias:
     esong_code: 4810A41
@@ -58,6 +75,23 @@ result:
     - esong_code: 4814B16
       song_name: アナクロニズム feat.ねんね
       content_type: VOCALOID
+  - song_name: あなたがくれた奇跡
+    song_alias:
+    esong_code: 4921B27
+    t_singer_master_id: '73433'
+    singer_name: 鶴屋 美咲&小川 桜花(from Girls2)
+    singer_alias:
+    available_date: '2023-07-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたかくれたきせ
+    singer_name_ruby: つるやみさきあんとおか
+    song_variation:
+    - esong_code: 4921B27
+      song_name: あなたがくれた奇跡
+      content_type: ''
   - song_name: あなた探して港町
     song_alias:
     esong_code: 4808B4
@@ -279,6 +313,23 @@ result:
     - esong_code: 4808B5
       song_name: ABARERO -Dark Electro Rock Remix-
       content_type: ''
+  - song_name: Avant-garde
+    song_alias:
+    esong_code: 4909A37
+    t_singer_master_id: '73254'
+    singer_name: 前田 一世&小林 ゆう
+    singer_alias:
+    available_date: '2023-07-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 新テニスの王子様<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あはんきやると
+    singer_name_ruby: まえたいつせいこはやしゆ
+    song_variation:
+    - esong_code: 4909A37
+      song_name: Avant-garde
+      content_type: ''
   - song_name: アマリリス
     song_alias:
     esong_code: 4811B28
@@ -329,6 +380,23 @@ result:
     song_variation:
     - esong_code: 4811B15
       song_name: Am I ready?
+      content_type: ''
+  - song_name: 愛(アムール)、その戯曲
+    song_alias:
+    esong_code: 4928B26
+    t_singer_master_id: '14437'
+    singer_name: 緑川 光
+    singer_alias:
+    available_date: '2023-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 新テニスの王子様<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あむるそのききよ
+    singer_name_ruby: みとりかわひかる
+    song_variation:
+    - esong_code: 4928B26
+      song_name: 愛(アムール)、その戯曲
       content_type: ''
   - song_name: 雨のおもいで
     song_alias:
@@ -448,72 +516,4 @@ result:
     song_variation:
     - esong_code: 4813A3
       song_name: α-Skill
-      content_type: ''
-  - song_name: あれからまた冬隣
-    song_alias:
-    esong_code: 2929A12
-    t_singer_master_id: '22235'
-    singer_name: 桐山 純一
-    singer_alias:
-    available_date: '2023-07-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あれからまたふゆと
-    singer_name_ruby: きりやましゆんいち
-    song_variation:
-    - esong_code: 2929A12
-      song_name: あれからまた冬隣
-      content_type: ''
-  - song_name: アワソラ
-    song_alias:
-    esong_code: 4807B9
-    t_singer_master_id: '71878'
-    singer_name: XlamV
-    singer_alias:
-    available_date: '2023-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: VS AMBIVALENZ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あわそら
-    singer_name_ruby: くらんふ
-    song_variation:
-    - esong_code: 4807B9
-      song_name: アワソラ
-      content_type: ''
-  - song_name: 阿波の唄太郎
-    song_alias:
-    esong_code: 4806B25
-    t_singer_master_id: '71962'
-    singer_name: 藤本 俊光
-    singer_alias:
-    available_date: '2023-07-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あわのうたたろう
-    singer_name_ruby: ふしもととしみつ
-    song_variation:
-    - esong_code: 4806B25
-      song_name: 阿波の唄太郎
-      content_type: ''
-  - song_name: 哀れな人々 (日本語版)
-    song_alias:
-    esong_code: 4802A39
-    t_singer_master_id: '71902'
-    singer_name: 浦嶋 りんこ
-    singer_alias:
-    available_date: '2023-07-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あわれなひとひと
-    singer_name_ruby: うらしまりんこ
-    song_variation:
-    - esong_code: 4802A39
-      song_name: 哀れな人々 (日本語版)
       content_type: ''

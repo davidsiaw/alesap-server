@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
-  - song_name: 新世界
-    song_alias:
-    esong_code: 1800A14
-    t_singer_master_id: '12518'
-    singer_name: THE BACK HORN
-    singer_alias:
-    available_date: '2007-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんせかい
-    singer_name_ruby: さはつくほん
-    song_variation:
-    - esong_code: 1800A14
-      song_name: 新世界
-      content_type: ''
   - song_name: シンデレラ・グラフィティ
     song_alias:
     esong_code: 1152B30
@@ -440,7 +423,7 @@ result:
     singer_alias:
     available_date: '2007-06-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 松来未祐と金田朋子のRADIOデコピンないと2<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: すほつしましよ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1798A48
       song_name: すろうらいふすとーりー
+      content_type: ''
+  - song_name: Slow Jam feat. 童子-T
+    song_alias:
+    esong_code: 1569B5
+    t_singer_master_id: '24742'
+    singer_name: ARIA
+    singer_alias:
+    available_date: '2007-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すろしやむふい
+    singer_name_ruby: ありあ
+    song_variation:
+    - esong_code: 1569B5
+      song_name: Slow Jam feat. 童子-T
       content_type: ''

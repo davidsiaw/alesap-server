@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1132
-  all_country_cnt: 1023
+  max_cnt: 1015
+  all_max_cnt: 1124
+  all_country_cnt: 1015
   song:
   - song_name: 思い出いつか
     song_alias:
@@ -45,7 +45,7 @@ result:
     song_alias:
     esong_code: 2156B1
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2008-11-11'
     end_date: '2999-04-10 00:00:00'
@@ -128,23 +128,6 @@ result:
       content_type: ''
   - song_name: ORION
     song_alias:
-    esong_code: 2146A6
-    t_singer_master_id: '13066'
-    singer_name: 中島 美嘉
-    singer_alias:
-    available_date: '2008-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: おりおん
-    singer_name_ruby: なかしまみか
-    song_variation:
-    - esong_code: 2146A6
-      song_name: ORION
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: ORION
-    song_alias:
     esong_code: 2150A11
     t_singer_master_id: '13066'
     singer_name: 中島 美嘉
@@ -160,6 +143,23 @@ result:
     - esong_code: 2150A11
       song_name: ORION
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: ORION
+    song_alias:
+    esong_code: 2184A48
+    t_singer_master_id: '13066'
+    singer_name: 中島 美嘉
+    singer_alias:
+    available_date: '2008-11-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おりおん
+    singer_name_ruby: なかしまみか
+    song_variation:
+    - esong_code: 2184A48
+      song_name: ORION
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ORION
     song_alias:
     esong_code: 2132B22
@@ -179,21 +179,21 @@ result:
       content_type: ''
   - song_name: ORION
     song_alias:
-    esong_code: 2184A48
+    esong_code: 2146A6
     t_singer_master_id: '13066'
     singer_name: 中島 美嘉
     singer_alias:
-    available_date: '2008-11-25'
+    available_date: '2008-11-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: おりおん
     singer_name_ruby: なかしまみか
     song_variation:
-    - esong_code: 2184A48
+    - esong_code: 2146A6
       song_name: ORION
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Always With You w/z TWO-J,SAY
     song_alias:
     esong_code: 2152A8

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 598
-  all_max_cnt: 668
-  all_country_cnt: 598
+  max_cnt: 592
+  all_max_cnt: 662
+  all_country_cnt: 592
   song:
   - song_name: 雨
     song_alias:
@@ -74,23 +74,6 @@ result:
     song_variation:
     - esong_code: 712B36
       song_name: 嵐の素顔（EURO VERSION）
-      content_type: ''
-  - song_name: UNCROWNED KINGDOM
-    song_alias:
-    esong_code: 711B27
-    t_singer_master_id: '136'
-    singer_name: アルフィー(THE ALFEE)
-    singer_alias:
-    available_date: '2001-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんくらうんときん
-    singer_name_ruby: あるふい
-    song_variation:
-    - esong_code: 711B27
-      song_name: UNCROWNED KINGDOM
       content_type: ''
   - song_name: UNCREAR
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 712A31
       song_name: 美しい暮らし
+      content_type: ''
+  - song_name: うつろな愛
+    song_alias:
+    esong_code: 717A31
+    t_singer_master_id: '230'
+    singer_name: 五輪 真弓
+    singer_alias:
+    available_date: '2001-12-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うつろなあい
+    singer_name_ruby: いつわまゆみ
+    song_variation:
+    - esong_code: 717A31
+      song_name: うつろな愛
       content_type: ''

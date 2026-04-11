@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1576
-  all_max_cnt: 1796
-  all_country_cnt: 1576
+  max_cnt: 1565
+  all_max_cnt: 1785
+  all_country_cnt: 1565
   song:
   - song_name: I'm Rainbow
     song_alias:
@@ -77,23 +77,6 @@ result:
       content_type: ''
   - song_name: 愛をありがとう
     song_alias:
-    esong_code: 3034A32
-    t_singer_master_id: '39713'
-    singer_name: 香川 ゆう子(香川侑子)
-    singer_alias:
-    available_date: '2016-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいをありかとう
-    singer_name_ruby: かかわゆうこ
-    song_variation:
-    - esong_code: 3034A32
-      song_name: 愛をありがとう
-      content_type: ''
-  - song_name: 愛をありがとう
-    song_alias:
     esong_code: 3727A28
     t_singer_master_id: '42886'
     singer_name: 野村 真希
@@ -107,6 +90,23 @@ result:
     singer_name_ruby: のむらまき
     song_variation:
     - esong_code: 3727A28
+      song_name: 愛をありがとう
+      content_type: ''
+  - song_name: 愛をありがとう
+    song_alias:
+    esong_code: 3034A32
+    t_singer_master_id: '39713'
+    singer_name: 香川 ゆう子(香川侑子)
+    singer_alias:
+    available_date: '2016-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいをありかとう
+    singer_name_ruby: かかわゆうこ
+    song_variation:
+    - esong_code: 3034A32
       song_name: 愛をありがとう
       content_type: ''
   - song_name: アウトサイダー
@@ -364,23 +364,6 @@ result:
     - esong_code: 3725A40
       song_name: 秋エモい
       content_type: ''
-  - song_name: Again
-    song_alias:
-    esong_code: 3714B35
-    t_singer_master_id: '63529'
-    singer_name: あらき(ARAKI)
-    singer_alias:
-    available_date: '2016-11-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけいん
-    singer_name_ruby: あらき
-    song_variation:
-    - esong_code: 3714B35
-      song_name: Again
-      content_type: ''
   - song_name: again
     song_alias:
     esong_code: 3724B28
@@ -397,6 +380,23 @@ result:
     song_variation:
     - esong_code: 3724B28
       song_name: again
+      content_type: ''
+  - song_name: Again
+    song_alias:
+    esong_code: 3714B35
+    t_singer_master_id: '63529'
+    singer_name: あらき(ARAKI)
+    singer_alias:
+    available_date: '2016-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あけいん
+    singer_name_ruby: あらき
+    song_variation:
+    - esong_code: 3714B35
+      song_name: Again
       content_type: ''
   - song_name: Against Profile
     song_alias:

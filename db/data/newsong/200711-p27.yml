@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1080
-  all_max_cnt: 1165
-  all_country_cnt: 1080
+  max_cnt: 1075
+  all_max_cnt: 1160
+  all_country_cnt: 1075
   song:
-  - song_name: 冬の雨音
-    song_alias:
-    esong_code: 1902B47
-    t_singer_master_id: '15296'
-    singer_name: FLOW
-    singer_alias:
-    available_date: '2007-11-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふゆのあまおと
-    singer_name_ruby: ふろう
-    song_variation:
-    - esong_code: 1902B47
-      song_name: 冬の雨音
-      content_type: ''
-  - song_name: 冬の話
-    song_alias:
-    esong_code: 1904B8
-    t_singer_master_id: '18416'
-    singer_name: つばき
-    singer_alias:
-    available_date: '2007-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふゆのはなし
-    singer_name_ruby: つはき
-    song_variation:
-    - esong_code: 1904B8
-      song_name: 冬の話
-      content_type: ''
-  - song_name: BRIGHTEN US
-    song_alias:
-    esong_code: 1918B7
-    t_singer_master_id: '11184'
-    singer_name: 鬼束 ちひろ
-    singer_alias:
-    available_date: '2007-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらいてんあす
-    singer_name_ruby: おにつかちひろ
-    song_variation:
-    - esong_code: 1918B7
-      song_name: BRIGHTEN US
-      content_type: ''
-  - song_name: PLANET
-    song_alias:
-    esong_code: 1901B39
-    t_singer_master_id: '12899'
-    singer_name: GOING UNDER GROUND
-    singer_alias:
-    available_date: '2007-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらねつと
-    singer_name_ruby: こいんくあんたくらうんと
-    song_variation:
-    - esong_code: 1901B39
-      song_name: PLANET
-      content_type: ''
-  - song_name: PLANET DANCE
-    song_alias:
-    esong_code: 1899B39
-    t_singer_master_id: '5408'
-    singer_name: Fire Bomber
-    singer_alias:
-    available_date: '2007-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: マクロス7<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらねつとたんす
-    singer_name_ruby: ふあいあほんは
-    song_variation:
-    - esong_code: 1899B39
-      song_name: PLANET DANCE
-      content_type: ''
   - song_name: プランタン
     song_alias:
     esong_code: 1902A12
@@ -262,23 +177,6 @@ result:
     - esong_code: 1909A12
       song_name: ふるさと挽歌 〜挿入歌「島原の子守唄」〜
       content_type: ''
-  - song_name: Blue Days
-    song_alias:
-    esong_code: 1903A36
-    t_singer_master_id: '2566'
-    singer_name: RABBIT
-    singer_alias:
-    available_date: '2007-11-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるていす
-    singer_name_ruby: らひつと
-    song_variation:
-    - esong_code: 1903A36
-      song_name: Blue Days
-      content_type: ''
   - song_name: Blue days
     song_alias:
     esong_code: 1905B42
@@ -295,6 +193,23 @@ result:
     song_variation:
     - esong_code: 1905B42
       song_name: Blue days
+      content_type: ''
+  - song_name: Blue Days
+    song_alias:
+    esong_code: 1903A36
+    t_singer_master_id: '2566'
+    singer_name: RABBIT
+    singer_alias:
+    available_date: '2007-11-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるていす
+    singer_name_ruby: らひつと
+    song_variation:
+    - esong_code: 1903A36
+      song_name: Blue Days
       content_type: ''
   - song_name: Blue Technique
     song_alias:
@@ -451,23 +366,6 @@ result:
       content_type: ''
   - song_name: Friend
     song_alias:
-    esong_code: 1897B43
-    t_singer_master_id: '19067'
-    singer_name: サスケ
-    singer_alias:
-    available_date: '2007-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれんと
-    singer_name_ruby: さすけ
-    song_variation:
-    - esong_code: 1897B43
-      song_name: Friend
-      content_type: ''
-  - song_name: Friend
-    song_alias:
     esong_code: 1905B41
     t_singer_master_id: '12583'
     singer_name: wyse
@@ -481,6 +379,23 @@ result:
     singer_name_ruby: わいす
     song_variation:
     - esong_code: 1905B41
+      song_name: Friend
+      content_type: ''
+  - song_name: Friend
+    song_alias:
+    esong_code: 1897B43
+    t_singer_master_id: '19067'
+    singer_name: サスケ
+    singer_alias:
+    available_date: '2007-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれんと
+    singer_name_ruby: さすけ
+    song_variation:
+    - esong_code: 1897B43
       song_name: Friend
       content_type: ''
   - song_name: From Now
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 1895A36
       song_name: フンダリー ケッタリー
+      content_type: ''
+  - song_name: ブーンブーン
+    song_alias:
+    esong_code: 1918A4
+    t_singer_master_id: '1008'
+    singer_name: シーナ&ザ・ロケッツ
+    singer_alias:
+    available_date: '2007-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふんふん
+    singer_name_ruby: しなあんとさろ
+    song_variation:
+    - esong_code: 1918A4
+      song_name: ブーンブーン
+      content_type: ''
+  - song_name: Baby,I LOVE YOU.
+    song_alias:
+    esong_code: 1905B9
+    t_singer_master_id: '14855'
+    singer_name: Waive
+    singer_alias:
+    available_date: '2007-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へいひあいらふ
+    singer_name_ruby: うえいふ
+    song_variation:
+    - esong_code: 1905B9
+      song_name: Baby,I LOVE YOU.
+      content_type: ''
+  - song_name: ペケペケ
+    song_alias:
+    esong_code: 1897A1
+    t_singer_master_id: '20722'
+    singer_name: キャプテンストライダム
+    singer_alias:
+    available_date: '2007-11-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へけへけ
+    singer_name_ruby: きやふてんすとらいたむ
+    song_variation:
+    - esong_code: 1897A1
+      song_name: ペケペケ
+      content_type: ''
+  - song_name: 紅帯
+    song_alias:
+    esong_code: 1909B17
+    t_singer_master_id: '1709'
+    singer_name: 西尾 夕紀
+    singer_alias:
+    available_date: '2007-11-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へにおひ
+    singer_name_ruby: にしおゆき
+    song_variation:
+    - esong_code: 1909B17
+      song_name: 紅帯
+      content_type: ''
+  - song_name: Heavenly Blue
+    song_alias:
+    esong_code: 1894B14
+    t_singer_master_id: '31484'
+    singer_name: The Seeker
+    singer_alias:
+    available_date: '2007-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へふんりふる
+    singer_name_ruby: さしか
+    song_variation:
+    - esong_code: 1894B14
+      song_name: Heavenly Blue
       content_type: ''

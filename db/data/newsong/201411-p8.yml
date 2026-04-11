@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1477
-  all_max_cnt: 1665
-  all_country_cnt: 1477
+  max_cnt: 1474
+  all_max_cnt: 1662
+  all_country_cnt: 1474
   song:
-  - song_name: オーバードライブ!
-    song_alias:
-    esong_code: 3362B42
-    t_singer_master_id: '40363'
-    singer_name: ミルキィホームズ
-    singer_alias:
-    available_date: '2014-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: トイズドライブ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おはとらいふ
-    singer_name_ruby: みるきいほむす
-    song_variation:
-    - esong_code: 3362B42
-      song_name: オーバードライブ!
-      content_type: ''
   - song_name: over knowledge
     song_alias:
     esong_code: 3352A49
@@ -145,23 +128,6 @@ result:
       content_type: ''
   - song_name: おやじのたそがれ
     song_alias:
-    esong_code: 3357B4
-    t_singer_master_id: '1710'
-    singer_name: 西方 裕之
-    singer_alias:
-    available_date: '2014-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おやしのたそかれ
-    singer_name_ruby: にしかたひろゆき
-    song_variation:
-    - esong_code: 3357B4
-      song_name: おやじのたそがれ
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: おやじのたそがれ
-    song_alias:
     esong_code: 3357A25
     t_singer_master_id: '1710'
     singer_name: 西方 裕之
@@ -177,6 +143,23 @@ result:
     - esong_code: 3357A25
       song_name: おやじのたそがれ
       content_type: DAM生音
+  - song_name: おやじのたそがれ
+    song_alias:
+    esong_code: 3357B4
+    t_singer_master_id: '1710'
+    singer_name: 西方 裕之
+    singer_alias:
+    available_date: '2014-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おやしのたそかれ
+    singer_name_ruby: にしかたひろゆき
+    song_variation:
+    - esong_code: 3357B4
+      song_name: おやじのたそがれ
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: All I Want For Christmas Is You
     song_alias:
     esong_code: 3362A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2574A8
       song_name: 女のみち
+      content_type: ''
+  - song_name: おんなの宿
+    song_alias:
+    esong_code: 2825B29
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2014-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのやと
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 2825B29
+      song_name: おんなの宿
       content_type: ''

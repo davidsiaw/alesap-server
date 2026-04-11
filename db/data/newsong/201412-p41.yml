@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
   - song_name: My Story
     song_alias:
@@ -466,6 +466,23 @@ result:
     - esong_code: 3363A21
       song_name: まとい feat.初音ミク
       content_type: VOCALOID
+  - song_name: 真夏の夜の夢
+    song_alias:
+    esong_code: 3347B34
+    t_singer_master_id: '47187'
+    singer_name: 放課後プリンセス
+    singer_alias:
+    available_date: '2014-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まなつのよるのゆめ
+    singer_name_ruby: ほうかこふりんせす
+    song_variation:
+    - esong_code: 3347B34
+      song_name: 真夏の夜の夢
+      content_type: ''
   - song_name: 真昼の月 〜母へ贈る歌〜
     song_alias:
     esong_code: 3152B10
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3363B44
       song_name: マーベラス!
-      content_type: ''
-  - song_name: MAMACITA -AYAYA-
-    song_alias:
-    esong_code: 3372B19
-    t_singer_master_id: '35204'
-    singer_name: SUPER JUNIOR
-    singer_alias:
-    available_date: '2014-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まましたあやや
-    singer_name_ruby: すはしゆにあ
-    song_variation:
-    - esong_code: 3372B19
-      song_name: MAMACITA -AYAYA-
       content_type: ''

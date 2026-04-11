@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 806
-  all_max_cnt: 881
-  all_country_cnt: 806
+  max_cnt: 802
+  all_max_cnt: 877
+  all_country_cnt: 802
   song:
-  - song_name: 約束
-    song_alias:
-    esong_code: 4331A33
-    t_singer_master_id: '57834'
-    singer_name: 中澤 卓也
-    singer_alias:
-    available_date: '2021-01-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: やくそく
-    singer_name_ruby: なかさわたくや
-    song_variation:
-    - esong_code: 4331A33
-      song_name: 約束
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 約束
-    song_alias:
-    esong_code: 4468B32
-    t_singer_master_id: '57834'
-    singer_name: 中澤 卓也
-    singer_alias:
-    available_date: '2021-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: やくそく
-    singer_name_ruby: なかさわたくや
-    song_variation:
-    - esong_code: 4468B32
-      song_name: 約束
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 約束
-    song_alias:
-    esong_code: 3830A23
-    t_singer_master_id: '57834'
-    singer_name: 中澤 卓也
-    singer_alias:
-    available_date: '2021-01-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: やくそく
-    singer_name_ruby: なかさわたくや
-    song_variation:
-    - esong_code: 3830A23
-      song_name: 約束
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 約束
-    song_alias:
-    esong_code: 4459B14
-    t_singer_master_id: '57834'
-    singer_name: 中澤 卓也
-    singer_alias:
-    available_date: '2021-01-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やくそく
-    singer_name_ruby: なかさわたくや
-    song_variation:
-    - esong_code: 4459B14
-      song_name: 約束
-      content_type: ''
   - song_name: 夜行
     song_alias:
     esong_code: 4460B37
@@ -162,23 +94,6 @@ result:
       content_type: ''
   - song_name: Your Song
     song_alias:
-    esong_code: 4461B11
-    t_singer_master_id: '66073'
-    singer_name: シロとクロ
-    singer_alias:
-    available_date: '2021-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆあそんく
-    singer_name_ruby: しろとくろ
-    song_variation:
-    - esong_code: 4461B11
-      song_name: Your Song
-      content_type: ''
-  - song_name: Your Song
-    song_alias:
     esong_code: 4466A22
     t_singer_master_id: '54873'
     singer_name: DEZERT
@@ -192,6 +107,23 @@ result:
     singer_name_ruby: てさと
     song_variation:
     - esong_code: 4466A22
+      song_name: Your Song
+      content_type: ''
+  - song_name: Your Song
+    song_alias:
+    esong_code: 4461B11
+    t_singer_master_id: '66073'
+    singer_name: シロとクロ
+    singer_alias:
+    available_date: '2021-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆあそんく
+    singer_name_ruby: しろとくろ
+    song_variation:
+    - esong_code: 4461B11
       song_name: Your Song
       content_type: ''
   - song_name: 友情ピアス
@@ -279,23 +211,6 @@ result:
     - esong_code: 4458B21
       song_name: 雪窓
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ゆずれない願い
-    song_alias:
-    esong_code: 328A15
-    t_singer_master_id: '2955'
-    singer_name: 田村 直美
-    singer_alias:
-    available_date: '2021-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 魔法騎士(マジックナイト)レイアース<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆすれないねかい
-    singer_name_ruby: たむらなおみ
-    song_variation:
-    - esong_code: 328A15
-      song_name: ゆずれない願い
-      content_type: ''
   - song_name: ゆずれない願い [歌ってみた利用OK]
     song_alias:
     esong_code: 4465A25
@@ -313,6 +228,23 @@ result:
     - esong_code: 4465A25
       song_name: ゆずれない願い [歌ってみた利用OK]
       content_type: 歌ってみた利用OK
+  - song_name: ゆずれない願い
+    song_alias:
+    esong_code: 328A15
+    t_singer_master_id: '2955'
+    singer_name: 田村 直美
+    singer_alias:
+    available_date: '2021-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 魔法騎士(マジックナイト)レイアース<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆすれないねかい
+    singer_name_ruby: たむらなおみ
+    song_variation:
+    - esong_code: 328A15
+      song_name: ゆずれない願い
+      content_type: ''
   - song_name: Universe
     song_alias:
     esong_code: 4463A4
@@ -398,23 +330,6 @@ result:
     - esong_code: 4465A13
       song_name: 夢の礫
       content_type: ''
-  - song_name: ゆらゆら feat.初音ミク
-    song_alias:
-    esong_code: 4462B33
-    t_singer_master_id: '63517'
-    singer_name: syudou
-    singer_alias:
-    available_date: '2021-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ゆらゆら
-    singer_name_ruby: しゆとう
-    song_variation:
-    - esong_code: 4462B33
-      song_name: ゆらゆら feat.初音ミク
-      content_type: VOCALOID
   - song_name: ゆらゆら
     song_alias:
     esong_code: 4459B5
@@ -432,6 +347,23 @@ result:
     - esong_code: 4459B5
       song_name: ゆらゆら
       content_type: ''
+  - song_name: ゆらゆら feat.初音ミク
+    song_alias:
+    esong_code: 4462B33
+    t_singer_master_id: '63517'
+    singer_name: syudou
+    singer_alias:
+    available_date: '2021-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ゆらゆら
+    singer_name_ruby: しゆとう
+    song_variation:
+    - esong_code: 4462B33
+      song_name: ゆらゆら feat.初音ミク
+      content_type: VOCALOID
   - song_name: 揺れていたいよ
     song_alias:
     esong_code: 4464A6
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 4459A48
       song_name: 横浜港町
+      content_type: ''
+  - song_name: 4年7ヶ月
+    song_alias:
+    esong_code: 4463B20
+    t_singer_master_id: '50453'
+    singer_name: WEST.
+    singer_alias:
+    available_date: '2021-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よねんななかけつ
+    singer_name_ruby: うえすと
+    song_variation:
+    - esong_code: 4463B20
+      song_name: 4年7ヶ月
+      content_type: ''
+  - song_name: 酔わせて候
+    song_alias:
+    esong_code: 4463A43
+    t_singer_master_id: '10086'
+    singer_name: 山崎 ていじ(山崎悌史)
+    singer_alias:
+    available_date: '2021-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よわせてそうろう
+    singer_name_ruby: やまさきていし
+    song_variation:
+    - esong_code: 4463A43
+      song_name: 酔わせて候
+      content_type: ''
+  - song_name: '404'
+    song_alias:
+    esong_code: 4462A43
+    t_singer_master_id: '64565'
+    singer_name: ころん
+    singer_alias:
+    available_date: '2021-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よんまるよん
+    singer_name_ruby: ころん
+    song_variation:
+    - esong_code: 4462A43
+      song_name: '404'
+      content_type: ''
+  - song_name: LIKE IT! LOVE IT!
+    song_alias:
+    esong_code: 4468A4
+    t_singer_master_id: '61640'
+    singer_name: 楠木 ともり
+    singer_alias:
+    available_date: '2021-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ラブライブ!虹ヶ咲学園スクールアイドル同好会<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいくいつとらふい
+    singer_name_ruby: くすのきともり
+    song_variation:
+    - esong_code: 4468A4
+      song_name: LIKE IT! LOVE IT!
       content_type: ''

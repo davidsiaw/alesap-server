@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: Come along this way
-    song_alias:
-    esong_code: 2917B35
-    t_singer_master_id: '46221'
-    singer_name: 彩藍
-    singer_alias:
-    available_date: '2012-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かむあろんくてい
-    singer_name_ruby: さら
-    song_variation:
-    - esong_code: 2917B35
-      song_name: Come along this way
-      content_type: ''
-  - song_name: カムイ岬に降る雪
-    song_alias:
-    esong_code: 2910A3
-    t_singer_master_id: '45661'
-    singer_name: 次郎丸
-    singer_alias:
-    available_date: '2012-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かむいみさきにふるゆ
-    singer_name_ruby: しろうまる
-    song_variation:
-    - esong_code: 2910A3
-      song_name: カムイ岬に降る雪
-      content_type: ''
   - song_name: Come closer
     song_alias:
     esong_code: 2897B35
@@ -100,7 +66,7 @@ result:
     singer_alias:
     available_date: '2012-10-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦歌謡ショウ「紅蜥易」<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かもなあさくさ
@@ -119,7 +85,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: からす
     singer_name_ruby: はまたまろん
     song_variation:
@@ -139,7 +105,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: からす
     singer_name_ruby: はまたまろん
     song_variation:
@@ -370,6 +336,23 @@ result:
     - esong_code: 2900B39
       song_name: 絆道
       content_type: ''
+  - song_name: キセキ
+    song_alias:
+    esong_code: 2906A26
+    t_singer_master_id: '43827'
+    singer_name: ELEKITER ROUND φ
+    singer_alias:
+    available_date: '2012-10-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きせき
+    singer_name_ruby: えれきてるらうんとせろ
+    song_variation:
+    - esong_code: 2906A26
+      song_name: キセキ
+      content_type: ''
   - song_name: キセキ (青春・涙コーラス ver.)
     song_alias:
     esong_code: 2908A33
@@ -386,23 +369,6 @@ result:
     song_variation:
     - esong_code: 2908A33
       song_name: キセキ (青春・涙コーラス ver.)
-      content_type: ''
-  - song_name: キセキ
-    song_alias:
-    esong_code: 2906A26
-    t_singer_master_id: '43827'
-    singer_name: ELEKITER ROUND φ
-    singer_alias:
-    available_date: '2012-10-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 日野聡vs立花慎之介 平成ニッポン・国取り合戦ラジオ!!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きせき
-    singer_name_ruby: えれきてるらうんとせろ
-    song_variation:
-    - esong_code: 2906A26
-      song_name: キセキ
       content_type: ''
   - song_name: 奇跡 〜生きていること〜
     song_alias:
@@ -523,3 +489,37 @@ result:
     - esong_code: 2917A45
       song_name: 北国行き11:50
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 北国フェリー
+    song_alias:
+    esong_code: 2917B18
+    t_singer_master_id: '36342'
+    singer_name: 走 裕介
+    singer_alias:
+    available_date: '2012-10-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きたくにふえり
+    singer_name_ruby: はしりゆうすけ
+    song_variation:
+    - esong_code: 2917B18
+      song_name: 北国フェリー
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: きたないことば
+    song_alias:
+    esong_code: 2903A34
+    t_singer_master_id: '30910'
+    singer_name: SuG
+    singer_alias:
+    available_date: '2012-10-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたないことは
+    singer_name_ruby: さく
+    song_variation:
+    - esong_code: 2903A34
+      song_name: きたないことば
+      content_type: ''

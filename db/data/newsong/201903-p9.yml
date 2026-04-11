@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1280
-  all_max_cnt: 1466
-  all_country_cnt: 1280
+  max_cnt: 1271
+  all_max_cnt: 1457
+  all_country_cnt: 1271
   song:
-  - song_name: 勝手にひとりでドキドキすんなよ
-    song_alias:
-    esong_code: 4152B39
-    t_singer_master_id: '63132'
-    singer_name: 藤川 千愛
-    singer_alias:
-    available_date: '2019-03-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かつてにひとりてと
-    singer_name_ruby: ふしかわちあい
-    song_variation:
-    - esong_code: 4152B39
-      song_name: 勝手にひとりでドキドキすんなよ
-      content_type: ''
   - song_name: カーテンコール
     song_alias:
     esong_code: 4153B23
@@ -43,23 +26,6 @@ result:
       content_type: ''
   - song_name: 紙の鶴
     song_alias:
-    esong_code: 4157A1
-    t_singer_master_id: '23775'
-    singer_name: 丘 みどり
-    singer_alias:
-    available_date: '2019-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: かみのつる
-    singer_name_ruby: おかみとり
-    song_variation:
-    - esong_code: 4157A1
-      song_name: 紙の鶴
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 紙の鶴
-    song_alias:
     esong_code: 4153B12
     t_singer_master_id: '23775'
     singer_name: 丘 みどり
@@ -75,6 +41,23 @@ result:
     - esong_code: 4153B12
       song_name: 紙の鶴
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 紙の鶴
+    song_alias:
+    esong_code: 4157A1
+    t_singer_master_id: '23775'
+    singer_name: 丘 みどり
+    singer_alias:
+    available_date: '2019-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: かみのつる
+    singer_name_ruby: おかみとり
+    song_variation:
+    - esong_code: 4157A1
+      song_name: 紙の鶴
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: GUM
     song_alias:
     esong_code: 4169A4
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4151A26
       song_name: 北国恋唄
+      content_type: ''
+  - song_name: 北の海峡風港
+    song_alias:
+    esong_code: 3504A17
+    t_singer_master_id: '60027'
+    singer_name: 海老名 重幸
+    singer_alias:
+    available_date: '2019-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたのかいきようかせ
+    singer_name_ruby: えひなしけゆき
+    song_variation:
+    - esong_code: 3504A17
+      song_name: 北の海峡風港
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1576
-  all_max_cnt: 1796
-  all_country_cnt: 1576
+  max_cnt: 1565
+  all_max_cnt: 1785
+  all_country_cnt: 1565
   song:
   - song_name: 浅草純情三代目
     song_alias:
@@ -57,23 +57,6 @@ result:
     song_variation:
     - esong_code: 3714B27
       song_name: 朝+
-      content_type: ''
-  - song_name: アジサイの花束
-    song_alias:
-    esong_code: 3713B5
-    t_singer_master_id: '25056'
-    singer_name: 入野 自由
-    singer_alias:
-    available_date: '2016-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あしさいのはなたは
-    singer_name_ruby: いりのみゆ
-    song_variation:
-    - esong_code: 3713B5
-      song_name: アジサイの花束
       content_type: ''
   - song_name: あした [DAM本人歌唱]
     song_alias:
@@ -132,7 +115,7 @@ result:
     t_singer_master_id: '10051'
     singer_name: 夏川 りみ
     singer_alias:
-    available_date: '2016-11-07'
+    available_date: '2016-11-09'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -179,23 +162,6 @@ result:
       content_type: ''
   - song_name: 明日舟
     song_alias:
-    esong_code: 3713A17
-    t_singer_master_id: '8029'
-    singer_name: 北野 まち子(北乃町子)
-    singer_alias:
-    available_date: '2016-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: あしたふね
-    singer_name_ruby: きたのまちこ
-    song_variation:
-    - esong_code: 3713A17
-      song_name: 明日舟
-      content_type: JOY生演奏
-  - song_name: 明日舟
-    song_alias:
     esong_code: 3229A37
     t_singer_master_id: '8029'
     singer_name: 北野 まち子(北乃町子)
@@ -211,23 +177,23 @@ result:
     - esong_code: 3229A37
       song_name: 明日舟
       content_type: DAM生音
-  - song_name: アシンメトリ
+  - song_name: 明日舟
     song_alias:
-    esong_code: 3716A27
-    t_singer_master_id: '40738'
-    singer_name: ねごと
+    esong_code: 3713A17
+    t_singer_master_id: '8029'
+    singer_name: 北野 まち子(北乃町子)
     singer_alias:
-    available_date: '2016-11-09'
+    available_date: '2016-11-02'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: あしんめとり
-    singer_name_ruby: ねこと
+    content_type: JOY生演奏
+    song_name_ruby: あしたふね
+    singer_name_ruby: きたのまちこ
     song_variation:
-    - esong_code: 3716A27
-      song_name: アシンメトリ
-      content_type: ''
+    - esong_code: 3713A17
+      song_name: 明日舟
+      content_type: JOY生演奏
   - song_name: アシンメトリー
     song_alias:
     esong_code: 3716B33
@@ -244,6 +210,23 @@ result:
     song_variation:
     - esong_code: 3716B33
       song_name: アシンメトリー
+      content_type: ''
+  - song_name: アシンメトリ
+    song_alias:
+    esong_code: 3716A27
+    t_singer_master_id: '40738'
+    singer_name: ねごと
+    singer_alias:
+    available_date: '2016-11-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あしんめとり
+    singer_name_ruby: ねこと
+    song_variation:
+    - esong_code: 3716A27
+      song_name: アシンメトリ
       content_type: ''
   - song_name: As a Sugar
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3247A18
       song_name: あなたの背中
+      content_type: ''
+  - song_name: あなたの夢を見ています
+    song_alias:
+    esong_code: 3722B4
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2016-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたのゆめをみてい
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 3722B4
+      song_name: あなたの夢を見ています
       content_type: ''

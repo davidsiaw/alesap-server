@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 933
-  all_country_cnt: 880
+  max_cnt: 867
+  all_max_cnt: 920
+  all_country_cnt: 867
   song:
   - song_name: あいうえおおきなシトロンJAPAN
     song_alias:
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: 愛結び
     song_alias:
-    esong_code: 4518B36
-    t_singer_master_id: '62653'
-    singer_name: Novelbright
-    singer_alias:
-    available_date: '2021-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あいむすひ
-    singer_name_ruby: のへるふらいと
-    song_variation:
-    - esong_code: 4518B36
-      song_name: 愛結び
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 愛結び
-    song_alias:
     esong_code: 4520B24
     t_singer_master_id: '62653'
     singer_name: Novelbright
@@ -296,23 +279,23 @@ result:
     - esong_code: 4520B24
       song_name: 愛結び
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: I LOB YOU
+  - song_name: 愛結び
     song_alias:
-    esong_code: 4524A7
-    t_singer_master_id: '60452'
-    singer_name: 榎木 淳弥
+    esong_code: 4518B36
+    t_singer_master_id: '62653'
+    singer_name: Novelbright
     singer_alias:
-    available_date: '2021-07-30'
+    available_date: '2021-07-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 新テニスの王子様<番組名>
+    tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: あいろふゆ
-    singer_name_ruby: えのきしゆんや
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あいむすひ
+    singer_name_ruby: のへるふらいと
     song_variation:
-    - esong_code: 4524A7
-      song_name: I LOB YOU
-      content_type: ''
+    - esong_code: 4518B36
+      song_name: 愛結び
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: Awake
     song_alias:
     esong_code: 4525B9
@@ -517,3 +500,20 @@ result:
     - esong_code: 4521B44
       song_name: Az-ONE
       content_type: ''
+  - song_name: 悪鬼と砂糖
+    song_alias:
+    esong_code: 4525A4
+    t_singer_master_id: '68202'
+    singer_name: IDONO KAWAZU
+    singer_alias:
+    available_date: '2021-07-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: あつきとしゆか
+    singer_name_ruby: いとのかわす
+    song_variation:
+    - esong_code: 4525A4
+      song_name: 悪鬼と砂糖
+      content_type: VOCALOID

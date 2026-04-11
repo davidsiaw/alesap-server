@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 807
-  all_max_cnt: 867
-  all_country_cnt: 807
+  max_cnt: 806
+  all_max_cnt: 866
+  all_country_cnt: 806
   song:
-  - song_name: レム
-    song_alias:
-    esong_code: 545B7
-    t_singer_master_id: '12276'
-    singer_name: BUMP OF CHICKEN
-    singer_alias:
-    available_date: '2004-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: れむ
-    singer_name_ruby: はんふおふちきん
-    song_variation:
-    - esong_code: 545B7
-      song_name: レム
-      content_type: ''
   - song_name: レモンスター
     song_alias:
     esong_code: 582B9
@@ -381,23 +364,6 @@ result:
     - esong_code: 556A6
       song_name: What cha gonna?
       content_type: ''
-  - song_name: '1'
-    song_alias:
-    esong_code: 578A13
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2004-09-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: わん
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 578A13
-      song_name: '1'
-      content_type: ''
   - song_name: ONE 〜命の灯火〜
     song_alias:
     esong_code: 557A7
@@ -414,6 +380,23 @@ result:
     song_variation:
     - esong_code: 557A7
       song_name: ONE 〜命の灯火〜
+      content_type: ''
+  - song_name: '1'
+    song_alias:
+    esong_code: 578A13
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2004-09-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わん
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 578A13
+      song_name: '1'
       content_type: ''
   - song_name: ONE YESTERDAY (DCT Mix)
     song_alias:

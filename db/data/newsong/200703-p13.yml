@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
   - song_name: 獣拳戦隊ゲキレンジャー
     song_alias:
@@ -26,23 +26,6 @@ result:
       content_type: ''
   - song_name: 秋冬カモメ
     song_alias:
-    esong_code: 1743B2
-    t_singer_master_id: '1354'
-    singer_name: 多岐川 舞子
-    singer_alias:
-    available_date: '2007-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆうとうかもめ
-    singer_name_ruby: たきかわまいこ
-    song_variation:
-    - esong_code: 1743B2
-      song_name: 秋冬カモメ
-      content_type: ''
-  - song_name: 秋冬カモメ
-    song_alias:
     esong_code: 1749B11
     t_singer_master_id: '1354'
     singer_name: 多岐川 舞子
@@ -58,6 +41,23 @@ result:
     - esong_code: 1749B11
       song_name: 秋冬カモメ
       content_type: DAM生音
+  - song_name: 秋冬カモメ
+    song_alias:
+    esong_code: 1743B2
+    t_singer_master_id: '1354'
+    singer_name: 多岐川 舞子
+    singer_alias:
+    available_date: '2007-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆうとうかもめ
+    singer_name_ruby: たきかわまいこ
+    song_variation:
+    - esong_code: 1743B2
+      song_name: 秋冬カモメ
+      content_type: ''
   - song_name: 17才
     song_alias:
     esong_code: 1756B40
@@ -500,9 +500,9 @@ result:
     - esong_code: 1743A21
       song_name: シングル・アゲイン
       content_type: ''
-  - song_name: 真情
+  - song_name: 真情 (ニューバージョン)
     song_alias:
-    esong_code: 685A29
+    esong_code: 1750A48
     t_singer_master_id: '5744'
     singer_name: 藤原 浩
     singer_alias:
@@ -510,10 +510,10 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM生音
     song_name_ruby: しんしよう
     singer_name_ruby: ふしわらひろし
     song_variation:
-    - esong_code: 685A29
-      song_name: 真情
-      content_type: ''
+    - esong_code: 1750A48
+      song_name: 真情 (ニューバージョン)
+      content_type: DAM生音

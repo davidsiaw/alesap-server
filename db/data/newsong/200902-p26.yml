@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: FLASH IN THE DARK
-    song_alias:
-    esong_code: 2204A45
-    t_singer_master_id: '35299'
-    singer_name: EMILIA
-    singer_alias:
-    available_date: '2009-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: マクロス7 銀河がオレを呼んでいる!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらつしゆいんさた
-    singer_name_ruby: えみりあ
-    song_variation:
-    - esong_code: 2204A45
-      song_name: FLASH IN THE DARK
-      content_type: ''
-  - song_name: BRAND-NEW DAY
-    song_alias:
-    esong_code: 2211B49
-    t_singer_master_id: '15296'
-    singer_name: FLOW
-    singer_alias:
-    available_date: '2009-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらんとにゆて
-    singer_name_ruby: ふろう
-    song_variation:
-    - esong_code: 2211B49
-      song_name: BRAND-NEW DAY
-      content_type: ''
   - song_name: FREAK
     song_alias:
     esong_code: 2213B15
@@ -457,7 +423,7 @@ result:
     singer_alias:
     available_date: '2009-02-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: スレイヤーズ EVOLUTION-R<番組名>
+    tie_up: スレイヤーズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふろんとふれいきん
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2212B36
       song_name: 平成笠間音頭
+      content_type: ''
+  - song_name: Hey! Hey! Alright
+    song_alias:
+    esong_code: 2254A14
+    t_singer_master_id: '35046'
+    singer_name: スチャダラパー+木村 カエラ
+    singer_alias:
+    available_date: '2009-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: メジャー5rd Season<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: へいへいおるらいと
+    singer_name_ruby: すちやたらはきむらかえら
+    song_variation:
+    - esong_code: 2254A14
+      song_name: Hey! Hey! Alright
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: VEGA
+    song_alias:
+    esong_code: 2211A49
+    t_singer_master_id: '34808'
+    singer_name: Diggy-MO'(SOUL'd OUT)
+    singer_alias:
+    available_date: '2009-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へか
+    singer_name_ruby: ていきも
+    song_variation:
+    - esong_code: 2211A49
+      song_name: VEGA
       content_type: ''

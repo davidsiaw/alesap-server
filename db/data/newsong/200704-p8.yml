@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
-  - song_name: 悲しいしらせ
-    song_alias:
-    esong_code: 1769B48
-    t_singer_master_id: '5124'
-    singer_name: ムーンライダーズ
-    singer_alias:
-    available_date: '2007-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしいしらせ
-    singer_name_ruby: むんらいたす
-    song_variation:
-    - esong_code: 1769B48
-      song_name: 悲しいしらせ
-      content_type: ''
   - song_name: 悲しみトワイライト
     song_alias:
     esong_code: 1759A18
@@ -177,23 +160,6 @@ result:
     - esong_code: 1754B20
       song_name: カミング・アウト
       content_type: ''
-  - song_name: COME ON!
-    song_alias:
-    esong_code: 1763B25
-    t_singer_master_id: '13173'
-    singer_name: 高橋 直純
-    singer_alias:
-    available_date: '2007-04-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かもん
-    singer_name_ruby: たかはしなおすみ
-    song_variation:
-    - esong_code: 1763B25
-      song_name: COME ON!
-      content_type: ''
   - song_name: COME ON
     song_alias:
     esong_code: 1771A12
@@ -210,6 +176,23 @@ result:
     song_variation:
     - esong_code: 1771A12
       song_name: COME ON
+      content_type: ''
+  - song_name: COME ON!
+    song_alias:
+    esong_code: 1763B25
+    t_singer_master_id: '13173'
+    singer_name: 高橋 直純
+    singer_alias:
+    available_date: '2007-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かもん
+    singer_name_ruby: たかはしなおすみ
+    song_variation:
+    - esong_code: 1763B25
+      song_name: COME ON!
       content_type: ''
   - song_name: カヨワキボクラ
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1769B41
       song_name: KISS
+      content_type: ''
+  - song_name: 傷の上には赤いBLOOD
+    song_alias:
+    esong_code: 1761A17
+    t_singer_master_id: '25258'
+    singer_name: 剛紫(244 ENDLI-x)
+    singer_alias:
+    available_date: '2007-04-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすのうえにはあか
+    singer_name_ruby: つよし
+    song_variation:
+    - esong_code: 1761A17
+      song_name: 傷の上には赤いBLOOD
       content_type: ''

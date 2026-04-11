@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1339
-  all_max_cnt: 1524
-  all_country_cnt: 1339
+  max_cnt: 1329
+  all_max_cnt: 1514
+  all_country_cnt: 1329
   song:
-  - song_name: 大人ごっこ
-    song_alias:
-    esong_code: 3962A32
-    t_singer_master_id: '57930'
-    singer_name: 緑黄色社会
-    singer_alias:
-    available_date: '2018-03-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとなこつこ
-    singer_name_ruby: りよくおうしよくしやかい
-    song_variation:
-    - esong_code: 3962A32
-      song_name: 大人ごっこ
-      content_type: ''
-  - song_name: おとなの掟
-    song_alias:
-    esong_code: 3853B29
-    t_singer_master_id: '8522'
-    singer_name: 椎名 林檎
-    singer_alias:
-    available_date: '2018-03-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おとなのおきて
-    singer_name_ruby: しいなりんこ
-    song_variation:
-    - esong_code: 3853B29
-      song_name: おとなの掟
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 乙女のTwinkle Love
     song_alias:
     esong_code: 3964A1
@@ -79,7 +45,7 @@ result:
     song_alias:
     esong_code: 3963B11
     t_singer_master_id: '59326'
-    singer_name: 坂口 有望
+    singer_name: サカグチ アミ(坂口有望)
     singer_alias:
     available_date: '2018-03-21'
     end_date: '2999-04-10 00:00:00'
@@ -400,6 +366,23 @@ result:
       content_type: ''
   - song_name: 親父の手紙
     song_alias:
+    esong_code: 1034B44
+    t_singer_master_id: '55232'
+    singer_name: 村木 弾
+    singer_alias:
+    available_date: '2018-03-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: おやしのてかみ
+    singer_name_ruby: むらきたん
+    song_variation:
+    - esong_code: 1034B44
+      song_name: 親父の手紙
+      content_type: JOY生演奏
+  - song_name: 親父の手紙
+    song_alias:
     esong_code: 1032A23
     t_singer_master_id: '55232'
     singer_name: 村木 弾
@@ -432,23 +415,6 @@ result:
     - esong_code: 1036A38
       song_name: 親父の手紙
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 親父の手紙
-    song_alias:
-    esong_code: 1034B44
-    t_singer_master_id: '55232'
-    singer_name: 村木 弾
-    singer_alias:
-    available_date: '2018-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: おやしのてかみ
-    singer_name_ruby: むらきたん
-    song_variation:
-    - esong_code: 1034B44
-      song_name: 親父の手紙
-      content_type: JOY生演奏
   - song_name: おやすみ with 島袋寛子
     song_alias:
     esong_code: 3968B37
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3961B28
       song_name: オラハラッパー
+      content_type: ''
+  - song_name: ALL I need
+    song_alias:
+    esong_code: 3968B35
+    t_singer_master_id: '37512'
+    singer_name: 逗子三兄弟
+    singer_alias:
+    available_date: '2018-03-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おるあいにと
+    singer_name_ruby: すしさんきようたい
+    song_variation:
+    - esong_code: 3968B35
+      song_name: ALL I need
+      content_type: ''
+  - song_name: ALWAYS
+    song_alias:
+    esong_code: 3969A11
+    t_singer_master_id: '56906'
+    singer_name: FlowBack
+    singer_alias:
+    available_date: '2018-03-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おるうえいす
+    singer_name_ruby: ふろうはつく
+    song_variation:
+    - esong_code: 3969A11
+      song_name: ALWAYS
       content_type: ''

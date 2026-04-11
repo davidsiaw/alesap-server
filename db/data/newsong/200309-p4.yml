@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 385
-  all_max_cnt: 411
-  all_country_cnt: 385
+  max_cnt: 380
+  all_max_cnt: 405
+  all_country_cnt: 380
   song:
-  - song_name: 最後の夏休み
-    song_alias:
-    esong_code: 639B30
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '2003-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいこのなつやすみ
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 639B30
-      song_name: 最後の夏休み
-      content_type: ''
-  - song_name: 最果ソング
-    song_alias:
-    esong_code: 640B26
-    t_singer_master_id: '15372'
-    singer_name: ジャパハリネット
-    singer_alias:
-    available_date: '2003-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいはてそんく
-    singer_name_ruby: しやははりねつと
-    song_variation:
-    - esong_code: 640B26
-      song_name: 最果ソング
-      content_type: ''
   - song_name: Sign of Wish
     song_alias:
     esong_code: 633A25
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 639B32
       song_name: 自由TIME
+      content_type: ''
+  - song_name: Joy
+    song_alias:
+    esong_code: 634A30
+    t_singer_master_id: '15266'
+    singer_name: 光永 亮太
+    singer_alias:
+    available_date: '2003-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しよい
+    singer_name_ruby: みつなかりようた
+    song_variation:
+    - esong_code: 634A30
+      song_name: Joy
+      content_type: ''
+  - song_name: 少年時代
+    song_alias:
+    esong_code: 641A32
+    t_singer_master_id: '15243'
+    singer_name: ROCKING TIME
+    singer_alias:
+    available_date: '2003-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようねんしたい
+    singer_name_ruby: ろつきんくたいむ
+    song_variation:
+    - esong_code: 641A32
+      song_name: 少年時代
       content_type: ''

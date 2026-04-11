@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1174
-  all_max_cnt: 1303
-  all_country_cnt: 1174
+  max_cnt: 1169
+  all_max_cnt: 1300
+  all_country_cnt: 1169
   song:
-  - song_name: 恋花火
-    song_alias:
-    esong_code: 2300A33
-    t_singer_master_id: '41744'
-    singer_name: 田島 征夫
-    singer_alias:
-    available_date: '2011-02-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいはなひ
-    singer_name_ruby: たしままさお
-    song_variation:
-    - esong_code: 2300A33
-      song_name: 恋花火
-      content_type: ''
-  - song_name: 恋人たちの星まつり
-    song_alias:
-    esong_code: 1809B25
-    t_singer_master_id: '7087'
-    singer_name: 山形 ユキオ
-    singer_alias:
-    available_date: '2011-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 銀河疾風サスライガー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいひとたちのほし
-    singer_name_ruby: やまかたゆきお
-    song_variation:
-    - esong_code: 1809B25
-      song_name: 恋人たちの星まつり
-      content_type: ''
   - song_name: 甲州しぐれ
     song_alias:
     esong_code: 2300A32
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1913B44
       song_name: コンクリート
+      content_type: ''
+  - song_name: コンピューターおばあちゃん
+    song_alias:
+    esong_code: 1821A38
+    t_singer_master_id: '41756'
+    singer_name: フレネシ
+    singer_alias:
+    available_date: '2011-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こんひゆたおは
+    singer_name_ruby: ふれねし
+    song_variation:
+    - esong_code: 1821A38
+      song_name: コンピューターおばあちゃん
+      content_type: ''
+  - song_name: 紺碧の双刃
+    song_alias:
+    esong_code: 1863B9
+    t_singer_master_id: '13996'
+    singer_name: 陰陽座
+    singer_alias:
+    available_date: '2011-02-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こんへきのそうし
+    singer_name_ruby: おんみようさ
+    song_variation:
+    - esong_code: 1863B9
+      song_name: 紺碧の双刃
       content_type: ''

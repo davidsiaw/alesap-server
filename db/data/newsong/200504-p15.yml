@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 721
-  all_max_cnt: 767
-  all_country_cnt: 721
+  max_cnt: 719
+  all_max_cnt: 765
+  all_country_cnt: 719
   song:
-  - song_name: NATURALLY
-    song_alias:
-    esong_code: 694B45
-    t_singer_master_id: '16704'
-    singer_name: 吉井 和哉(YOSHII LOVINSON)
-    singer_alias:
-    available_date: '2005-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なちゆらり
-    singer_name_ruby: よしいかすや
-    song_variation:
-    - esong_code: 694B45
-      song_name: NATURALLY
-      content_type: ''
-  - song_name: 夏休み
-    song_alias:
-    esong_code: 1131A46
-    t_singer_master_id: '18584'
-    singer_name: やなわらばー
-    singer_alias:
-    available_date: '2005-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつやすみ
-    singer_name_ruby: やなわらは
-    song_variation:
-    - esong_code: 1131A46
-      song_name: 夏休み
-      content_type: ''
   - song_name: 夏を待つセイル(帆)のように
     song_alias:
     esong_code: 753B46
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 733B49
       song_name: はじめまして
+      content_type: ''
+  - song_name: パジャマでおじゃま
+    song_alias:
+    esong_code: 227A13
+    t_singer_master_id: '1603'
+    singer_name: 童謡
+    singer_alias:
+    available_date: '2005-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はしやまておし
+    singer_name_ruby: とうよう
+    song_variation:
+    - esong_code: 227A13
+      song_name: パジャマでおじゃま
+      content_type: ''
+  - song_name: はしれちょうとっきゅう
+    song_alias:
+    esong_code: 217B11
+    t_singer_master_id: '1603'
+    singer_name: 童謡
+    singer_alias:
+    available_date: '2005-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はしれちようとつきゆ
+    singer_name_ruby: とうよう
+    song_variation:
+    - esong_code: 217B11
+      song_name: はしれちょうとっきゅう
       content_type: ''

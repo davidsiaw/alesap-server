@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 774
-  all_max_cnt: 820
-  all_country_cnt: 774
+  max_cnt: 765
+  all_max_cnt: 811
+  all_country_cnt: 765
   song:
   - song_name: あーあ。
     song_alias:
@@ -330,23 +330,6 @@ result:
     - esong_code: 4503A12
       song_name: 愛は永遠に・・・
       content_type: ''
-  - song_name: I Love You
-    song_alias:
-    esong_code: 4504B23
-    t_singer_master_id: '8680'
-    singer_name: くるり
-    singer_alias:
-    available_date: '2021-05-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいらふゆ
-    singer_name_ruby: くるり
-    song_variation:
-    - esong_code: 4504B23
-      song_name: I Love You
-      content_type: ''
   - song_name: アイラヴユー
     song_alias:
     esong_code: 4499A31
@@ -364,6 +347,23 @@ result:
     - esong_code: 4499A31
       song_name: アイラヴユー
       content_type: DAM生音
+  - song_name: I Love You
+    song_alias:
+    esong_code: 4504B23
+    t_singer_master_id: '8680'
+    singer_name: くるり
+    singer_alias:
+    available_date: '2021-05-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいらふゆ
+    singer_name_ruby: くるり
+    song_variation:
+    - esong_code: 4504B23
+      song_name: I Love You
+      content_type: ''
   - song_name: アイロニズム feat.初音ミク
     song_alias:
     esong_code: 4506A7
@@ -400,23 +400,6 @@ result:
       content_type: ''
   - song_name: 愛を知るまでは
     song_alias:
-    esong_code: 4504A44
-    t_singer_master_id: '52236'
-    singer_name: あいみょん
-    singer_alias:
-    available_date: '2021-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あいをしるまては
-    singer_name_ruby: あいみよん
-    song_variation:
-    - esong_code: 4504A44
-      song_name: 愛を知るまでは
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 愛を知るまでは
-    song_alias:
     esong_code: 4500B33
     t_singer_master_id: '52236'
     singer_name: あいみょん
@@ -432,6 +415,23 @@ result:
     - esong_code: 4500B33
       song_name: 愛を知るまでは
       content_type: ''
+  - song_name: 愛を知るまでは
+    song_alias:
+    esong_code: 4504A44
+    t_singer_master_id: '52236'
+    singer_name: あいみょん
+    singer_alias:
+    available_date: '2021-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: あいをしるまては
+    singer_name_ruby: あいみよん
+    song_variation:
+    - esong_code: 4504A44
+      song_name: 愛を知るまでは
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 愛を私に
     song_alias:
     esong_code: 4502B31

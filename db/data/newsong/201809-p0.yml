@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
   - song_name: ああ、無情
     song_alias:
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: アイデア
     song_alias:
-    esong_code: 4060A46
-    t_singer_master_id: '41420'
-    singer_name: 星野 源
-    singer_alias:
-    available_date: '2018-09-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あいてあ
-    singer_name_ruby: ほしのけん
-    song_variation:
-    - esong_code: 4060A46
-      song_name: アイデア
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: アイデア
-    song_alias:
     esong_code: 4063A9
     t_singer_master_id: '41420'
     singer_name: 星野 源
@@ -279,6 +262,23 @@ result:
     - esong_code: 4063A9
       song_name: アイデア
       content_type: DAM生音
+  - song_name: アイデア
+    song_alias:
+    esong_code: 4060A46
+    t_singer_master_id: '41420'
+    singer_name: 星野 源
+    singer_alias:
+    available_date: '2018-09-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいてあ
+    singer_name_ruby: ほしのけん
+    song_variation:
+    - esong_code: 4060A46
+      song_name: アイデア
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: identity
     song_alias:
     esong_code: 4060A10
@@ -349,23 +349,6 @@ result:
       content_type: ''
   - song_name: アイノカタチ feat.HIDE
     song_alias:
-    esong_code: 4062A43
-    t_singer_master_id: '8452'
-    singer_name: MISIA
-    singer_alias:
-    available_date: '2018-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あいのかたち
-    singer_name_ruby: みしや
-    song_variation:
-    - esong_code: 4062A43
-      song_name: アイノカタチ feat.HIDE
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: アイノカタチ feat.HIDE
-    song_alias:
     esong_code: 4067A43
     t_singer_master_id: '8452'
     singer_name: MISIA
@@ -381,6 +364,23 @@ result:
     - esong_code: 4067A43
       song_name: アイノカタチ feat.HIDE
       content_type: DAM生音
+  - song_name: アイノカタチ feat.HIDE
+    song_alias:
+    esong_code: 4062A43
+    t_singer_master_id: '8452'
+    singer_name: MISIA
+    singer_alias:
+    available_date: '2018-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あいのかたち
+    singer_name_ruby: みしや
+    song_variation:
+    - esong_code: 4062A43
+      song_name: アイノカタチ feat.HIDE
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 愛の鐘
     song_alias:
     esong_code: 4064B42
@@ -491,7 +491,7 @@ result:
     singer_alias:
     available_date: '2018-09-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂.<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type: DAM生音
     song_name_ruby: あいわなひ

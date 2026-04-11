@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
+  - song_name: '1988'
+    song_alias:
+    esong_code: 3479B42
+    t_singer_master_id: '50071'
+    singer_name: ベリーグッドマン
+    singer_alias:
+    available_date: '2015-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いちきゆうはちはち
+    singer_name_ruby: へりくつとまん
+    song_variation:
+    - esong_code: 3479B42
+      song_name: '1988'
+      content_type: ''
   - song_name: いちについて
     song_alias:
     esong_code: 3474A31
@@ -179,23 +196,6 @@ result:
       content_type: ''
   - song_name: いのちの人
     song_alias:
-    esong_code: 3484A6
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2015-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: いのちのひと
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 3484A6
-      song_name: いのちの人
-      content_type: JOY生演奏
-  - song_name: いのちの人
-    song_alias:
     esong_code: 3480B39
     t_singer_master_id: '1518'
     singer_name: 天童 よしみ
@@ -211,6 +211,23 @@ result:
     - esong_code: 3480B39
       song_name: いのちの人
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: いのちの人
+    song_alias:
+    esong_code: 3484A6
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2015-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: いのちのひと
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 3484A6
+      song_name: いのちの人
+      content_type: JOY生演奏
   - song_name: 命のへそ (Team N)
     song_alias:
     esong_code: 3476B40
@@ -330,23 +347,6 @@ result:
     - esong_code: 3485B4
       song_name: 今すぐ飛び込む勇気
       content_type: ''
-  - song_name: イルカが空を泳ぐ晩
-    song_alias:
-    esong_code: 3476B6
-    t_singer_master_id: '386'
-    singer_name: 太田 裕美
-    singer_alias:
-    available_date: '2015-08-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いるかかそらをおよ
-    singer_name_ruby: おおたひろみ
-    song_variation:
-    - esong_code: 3476B6
-      song_name: イルカが空を泳ぐ晩
-      content_type: ''
   - song_name: IROIRO
     song_alias:
     esong_code: 3478A10
@@ -406,7 +406,7 @@ result:
     singer_alias:
     available_date: '2015-08-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ガッチャマン クラウズ インサイト<番組名>
+    tie_up: ガッチャマン クラウズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いんさいと

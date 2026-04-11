@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 623
-  all_max_cnt: 682
-  all_country_cnt: 623
+  max_cnt: 618
+  all_max_cnt: 678
+  all_country_cnt: 618
   song:
-  - song_name: 残夢
-    song_alias:
-    esong_code: 1480A28
-    t_singer_master_id: '462'
-    singer_name: 小野 正利
-    singer_alias:
-    available_date: '2006-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 刃鳴散らす<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さんむ
-    singer_name_ruby: おのまさとし
-    song_variation:
-    - esong_code: 1480A28
-      song_name: 残夢
-      content_type: ''
   - song_name: 三陸産のウニに涙したい One Day A Happy Day!
     song_alias:
     esong_code: 1654A30
@@ -75,23 +58,6 @@ result:
     - esong_code: 31B40
       song_name: SHAKE ME DOWN
       content_type: ''
-  - song_name: ジェラシー
-    song_alias:
-    esong_code: 144B3
-    t_singer_master_id: '230'
-    singer_name: 五輪 真弓
-    singer_alias:
-    available_date: '2006-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえらし
-    singer_name_ruby: いつわまゆみ
-    song_variation:
-    - esong_code: 144B3
-      song_name: ジェラシー
-      content_type: ''
   - song_name: Jealousy
     song_alias:
     esong_code: 1659A8
@@ -108,6 +74,23 @@ result:
     song_variation:
     - esong_code: 1659A8
       song_name: Jealousy
+      content_type: ''
+  - song_name: ジェラシー
+    song_alias:
+    esong_code: 144B3
+    t_singer_master_id: '230'
+    singer_name: 五輪 真弓
+    singer_alias:
+    available_date: '2006-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しえらし
+    singer_name_ruby: いつわまゆみ
+    song_variation:
+    - esong_code: 144B3
+      song_name: ジェラシー
       content_type: ''
   - song_name: 叱らないで
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 661B18
       song_name: 湘南の男たち
+      content_type: ''
+  - song_name: 勝利のうた
+    song_alias:
+    esong_code: 1654A33
+    t_singer_master_id: '27657'
+    singer_name: ダンデライオン
+    singer_alias:
+    available_date: '2006-10-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ロックマンエグゼ BEAST<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようりのうた
+    singer_name_ruby: たんてらいおん
+    song_variation:
+    - esong_code: 1654A33
+      song_name: 勝利のうた
       content_type: ''

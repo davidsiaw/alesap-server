@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: ふるさと情歌
-    song_alias:
-    esong_code: 2102B30
-    t_singer_master_id: '34044'
-    singer_name: 佐々木 純
-    singer_alias:
-    available_date: '2008-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるさとしようか
-    singer_name_ruby: ささきしゆん
-    song_variation:
-    - esong_code: 2102B30
-      song_name: ふるさと情歌
-      content_type: ''
-  - song_name: ふるさとは・・・秋
-    song_alias:
-    esong_code: 2120A44
-    t_singer_master_id: '34247'
-    singer_name: 森 一樹
-    singer_alias:
-    available_date: '2008-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるさとはあき
-    singer_name_ruby: もりかすき
-    song_variation:
-    - esong_code: 2120A44
-      song_name: ふるさとは・・・秋
-      content_type: ''
   - song_name: ブルー・シャトウ
     song_alias:
     esong_code: 2120B21
@@ -245,7 +211,7 @@ result:
     - esong_code: 2102A30
       song_name: フロイデ
       content_type: ''
-  - song_name: BLOWIN' (ULTRA Treasure Style)
+  - song_name: BLOWIN' -ULTRA Treasure Style-
     song_alias:
     esong_code: 2081A35
     t_singer_master_id: '1928'
@@ -260,7 +226,7 @@ result:
     singer_name_ruby: ひす
     song_variation:
     - esong_code: 2081A35
-      song_name: BLOWIN' (ULTRA Treasure Style)
+      song_name: BLOWIN' -ULTRA Treasure Style-
       content_type: ''
   - song_name: brokedown
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2107A7
       song_name: HELPLESS
+      content_type: ''
+  - song_name: 貿易風にさらされて (Single Version)
+    song_alias:
+    esong_code: 2101B9
+    t_singer_master_id: '34034'
+    singer_name: マザー・グース
+    singer_alias:
+    available_date: '2008-09-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほうえきふうにさら
+    singer_name_ruby: まさくす
+    song_variation:
+    - esong_code: 2101B9
+      song_name: 貿易風にさらされて (Single Version)
+      content_type: ''
+  - song_name: 望郷新相馬 パートⅡ
+    song_alias:
+    esong_code: 2076A11
+    t_singer_master_id: '33925'
+    singer_name: 森下 紋己子
+    singer_alias:
+    available_date: '2008-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほうきようしんそう
+    singer_name_ruby: もりしたふみこ
+    song_variation:
+    - esong_code: 2076A11
+      song_name: 望郷新相馬 パートⅡ
       content_type: ''

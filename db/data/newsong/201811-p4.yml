@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1182
-  all_max_cnt: 1336
-  all_country_cnt: 1182
+  max_cnt: 1168
+  all_max_cnt: 1322
+  all_country_cnt: 1168
   song:
   - song_name: Introduction的な
     song_alias:
@@ -142,23 +142,6 @@ result:
     song_variation:
     - esong_code: 4101B34
       song_name: Water me!〜楽園オアシス
-      content_type: ''
-  - song_name: 嘘つきマシーン (Team N)
-    song_alias:
-    esong_code: 4100B42
-    t_singer_master_id: '42716'
-    singer_name: NMB48
-    singer_alias:
-    available_date: '2018-11-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うそつきましん
-    singer_name_ruby: えぬえむひふおていえいと
-    song_variation:
-    - esong_code: 4100B42
-      song_name: 嘘つきマシーン (Team N)
       content_type: ''
   - song_name: 嘘なき一日
     song_alias:
@@ -364,23 +347,6 @@ result:
     - esong_code: 4105A14
       song_name: 噂の一座
       content_type: ''
-  - song_name: AIR
-    song_alias:
-    esong_code: 4091B20
-    t_singer_master_id: '51637'
-    singer_name: WINNER
-    singer_alias:
-    available_date: '2018-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えあ
-    singer_name_ruby: ういな
-    song_variation:
-    - esong_code: 4091B20
-      song_name: AIR
-      content_type: ''
   - song_name: Airplane pt.2 (Japanese ver.)
     song_alias:
     esong_code: 4096A38
@@ -400,23 +366,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: Airplane pt.2 (Japanese ver.)
     song_alias:
-    esong_code: 4091A29
-    t_singer_master_id: '51130'
-    singer_name: BTS
-    singer_alias:
-    available_date: '2018-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えあふれいんは
-    singer_name_ruby: ひていえす
-    song_variation:
-    - esong_code: 4091A29
-      song_name: Airplane pt.2 (Japanese ver.)
-      content_type: ''
-  - song_name: Airplane pt.2 (Japanese ver.)
-    song_alias:
     esong_code: 4091A14
     t_singer_master_id: '51130'
     singer_name: BTS
@@ -432,6 +381,23 @@ result:
     - esong_code: 4091A14
       song_name: Airplane pt.2 (Japanese ver.)
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Airplane pt.2 (Japanese ver.)
+    song_alias:
+    esong_code: 4091A29
+    t_singer_master_id: '51130'
+    singer_name: BTS
+    singer_alias:
+    available_date: '2018-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えあふれいんは
+    singer_name_ruby: ひていえす
+    song_variation:
+    - esong_code: 4091A29
+      song_name: Airplane pt.2 (Japanese ver.)
+      content_type: ''
   - song_name: 永遠の物語
     song_alias:
     esong_code: 4094A27
@@ -474,7 +440,7 @@ result:
     singer_alias:
     available_date: '2018-11-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えきせんとりつくは
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4092B5
       song_name: Eternal Unity -明日へのメロディ-
+      content_type: ''
+  - song_name: EDENへ
+    song_alias:
+    esong_code: 4091A16
+    t_singer_master_id: '23642'
+    singer_name: UVERworld
+    singer_alias:
+    available_date: '2018-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えてんへ
+    singer_name_ruby: うはわると
+    song_variation:
+    - esong_code: 4091A16
+      song_name: EDENへ
+      content_type: ''
+  - song_name: everlasting song
+    song_alias:
+    esong_code: 4095A29
+    t_singer_master_id: '62726'
+    singer_name: fine(舞台)
+    singer_alias:
+    available_date: '2018-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: あんさんぶるスターズ!(舞台)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えはらすていんく
+    singer_name_ruby: ふいね
+    song_variation:
+    - esong_code: 4095A29
+      song_name: everlasting song
       content_type: ''

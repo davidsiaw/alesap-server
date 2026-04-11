@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 479
-  all_max_cnt: 548
-  all_country_cnt: 479
+  max_cnt: 476
+  all_max_cnt: 545
+  all_country_cnt: 476
   song:
-  - song_name: 3年後の都会(まち)で・・・
-    song_alias:
-    esong_code: 924A28
-    t_singer_master_id: '16697'
-    singer_name: 川嶋 あい
-    singer_alias:
-    available_date: '2003-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さんねんこのまちて
-    singer_name_ruby: かわしまあい
-    song_variation:
-    - esong_code: 924A28
-      song_name: 3年後の都会(まち)で・・・
-      content_type: ''
-  - song_name: しあわせたずね人
-    song_alias:
-    esong_code: 50B39
-    t_singer_master_id: '15428'
-    singer_name: 遠山 洋子
-    singer_alias:
-    available_date: '2003-11-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しあわせたすねひ
-    singer_name_ruby: とおやまようこ
-    song_variation:
-    - esong_code: 50B39
-      song_name: しあわせたずね人
-      content_type: ''
   - song_name: 幸せの子守唄
     song_alias:
     esong_code: 957B32
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 960B32
       song_name: STEP IN THE DAY
+      content_type: ''
+  - song_name: ストロベリータイム
+    song_alias:
+    esong_code: 924A13
+    t_singer_master_id: '7037'
+    singer_name: UA(ううあ)
+    singer_alias:
+    available_date: '2003-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すとろへりたいむ
+    singer_name_ruby: うあ
+    song_variation:
+    - esong_code: 924A13
+      song_name: ストロベリータイム
+      content_type: ''
+  - song_name: ストロベリーチップス
+    song_alias:
+    esong_code: 914B34
+    t_singer_master_id: '15229'
+    singer_name: HALCALI
+    singer_alias:
+    available_date: '2003-11-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すとろへりちつふ
+    singer_name_ruby: はるかり
+    song_variation:
+    - esong_code: 914B34
+      song_name: ストロベリーチップス
       content_type: ''

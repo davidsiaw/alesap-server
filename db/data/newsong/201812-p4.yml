@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1336
-  all_max_cnt: 1508
-  all_country_cnt: 1336
+  max_cnt: 1321
+  all_max_cnt: 1493
+  all_country_cnt: 1321
   song:
   - song_name: アン ジュール 〜もう終わりなのね〜
     song_alias:
@@ -108,6 +108,23 @@ result:
     song_variation:
     - esong_code: 4106B30
       song_name: iiwake
+      content_type: ''
+  - song_name: いいんだよ
+    song_alias:
+    esong_code: 4112B13
+    t_singer_master_id: '60781'
+    singer_name: 須澤 紀信
+    singer_alias:
+    available_date: '2018-12-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いいんたよ
+    singer_name_ruby: すさわきしん
+    song_variation:
+    - esong_code: 4112B13
+      song_name: いいんだよ
       content_type: ''
   - song_name: Aeon
     song_alias:
@@ -230,23 +247,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: いさりび鉄道
     song_alias:
-    esong_code: 4108B49
-    t_singer_master_id: '70'
-    singer_name: 浅田 あつこ
-    singer_alias:
-    available_date: '2018-12-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: いさりひてつとう
-    singer_name_ruby: あさたあつこ
-    song_variation:
-    - esong_code: 4108B49
-      song_name: いさりび鉄道
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: いさりび鉄道
-    song_alias:
     esong_code: 4112B39
     t_singer_master_id: '70'
     singer_name: 浅田 あつこ
@@ -262,6 +262,23 @@ result:
     - esong_code: 4112B39
       song_name: いさりび鉄道
       content_type: DAM生音
+  - song_name: いさりび鉄道
+    song_alias:
+    esong_code: 4108B49
+    t_singer_master_id: '70'
+    singer_name: 浅田 あつこ
+    singer_alias:
+    available_date: '2018-12-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: いさりひてつとう
+    singer_name_ruby: あさたあつこ
+    song_variation:
+    - esong_code: 4108B49
+      song_name: いさりび鉄道
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: いさりび鉄道
     song_alias:
     esong_code: 2003A11
@@ -465,23 +482,6 @@ result:
     song_variation:
     - esong_code: 4110A4
       song_name: いつかの君へ
-      content_type: ''
-  - song_name: いつかのクーデター
-    song_alias:
-    esong_code: 4116B37
-    t_singer_master_id: '26951'
-    singer_name: GRANRODEO
-    singer_alias:
-    available_date: '2018-12-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつかのくてた
-    singer_name_ruby: くらんろてお
-    song_variation:
-    - esong_code: 4116B37
-      song_name: いつかのクーデター
       content_type: ''
   - song_name: 飯綱落とし
     song_alias:

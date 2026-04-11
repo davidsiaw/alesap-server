@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1398
-  all_max_cnt: 1888
-  all_country_cnt: 1398
+  max_cnt: 1393
+  all_max_cnt: 1884
+  all_country_cnt: 1393
   song:
-  - song_name: 舞の道
-    song_alias:
-    esong_code: 2878A32
-    t_singer_master_id: '45310'
-    singer_name: 米藏 一正
-    singer_alias:
-    available_date: '2012-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まいのみち
-    singer_name_ruby: よねくらかすまさ
-    song_variation:
-    - esong_code: 2878A32
-      song_name: 舞の道
-      content_type: ''
-  - song_name: My Place
-    song_alias:
-    esong_code: 2844A45
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2012-09-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まいふれいす
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 2844A45
-      song_name: My Place
-      content_type: ''
-  - song_name: 禍々しくも聖なるかな
-    song_alias:
-    esong_code: 2194B38
-    t_singer_master_id: '45823'
-    singer_name: 後ろから這いより隊
-    singer_alias:
-    available_date: '2012-09-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 這いよれ!ニャル子さん<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: まかまかしくもせ
-    singer_name_ruby: うしろからはいよりたい
-    song_variation:
-    - esong_code: 2194B38
-      song_name: 禍々しくも聖なるかな
-      content_type: ''
-  - song_name: MAXIMUM OVERDRIVE
-    song_alias:
-    esong_code: 2848B35
-    t_singer_master_id: '16395'
-    singer_name: Hi-STANDARD
-    singer_alias:
-    available_date: '2012-09-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: まきしまむおは
-    singer_name_ruby: はいすたんたと
-    song_variation:
-    - esong_code: 2848B35
-      song_name: MAXIMUM OVERDRIVE
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: magnet feat.初音ミク、巡音ルカ [DAMライブ生音]
-    song_alias:
-    esong_code: 2851A36
-    t_singer_master_id: '37791'
-    singer_name: 湊 貴大(流星P)
-    singer_alias:
-    available_date: '2012-09-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: まくねつと
-    singer_name_ruby: みなとたかひろ
-    song_variation:
-    - esong_code: 2851A36
-      song_name: magnet feat.初音ミク、巡音ルカ [DAMライブ生音]
-      content_type: VOCALOID
   - song_name: magnolia
     song_alias:
     esong_code: 2888A45
@@ -119,7 +34,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: まけないて
     singer_name_ruby: ありすしゆうはん
     song_variation:
@@ -139,7 +54,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: まけないて
     singer_name_ruby: ありすしゆうはん
     song_variation:
@@ -287,23 +202,6 @@ result:
       content_type: ''
   - song_name: また明日
     song_alias:
-    esong_code: 2851A37
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2012-09-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: またあした
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 2851A37
-      song_name: また明日
-      content_type: DAM生音
-  - song_name: また明日
-    song_alias:
     esong_code: 2851B10
     t_singer_master_id: '8578'
     singer_name: ゆず
@@ -319,6 +217,23 @@ result:
     - esong_code: 2851B10
       song_name: また明日
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: また明日
+    song_alias:
+    esong_code: 2851A37
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2012-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: またあした
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 2851A37
+      song_name: また明日
+      content_type: DAM生音
   - song_name: またね。(betsu-oke ver.)
     song_alias:
     esong_code: 2846B23
@@ -522,4 +437,89 @@ result:
     song_variation:
     - esong_code: 2846A12
       song_name: 三日月
+      content_type: ''
+  - song_name: みくみくにしてあげる♪【してやんよ】[DAMライブ生音]
+    song_alias:
+    esong_code: 2851A16
+    t_singer_master_id: '33654'
+    singer_name: ika
+    singer_alias:
+    available_date: '2012-09-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: みくみくにしてあけ
+    singer_name_ruby: あいか
+    song_variation:
+    - esong_code: 2851A16
+      song_name: みくみくにしてあげる♪【してやんよ】[DAMライブ生音]
+      content_type: VOCALOID
+  - song_name: 396 feat.初音ミク
+    song_alias:
+    esong_code: 2857A26
+    t_singer_master_id: '36463'
+    singer_name: イナメトオル(40mP)
+    singer_alias:
+    available_date: '2012-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: みくろ
+    singer_name_ruby: いなめとおるよんしゆうめとる
+    song_variation:
+    - esong_code: 2857A26
+      song_name: 396 feat.初音ミク
+      content_type: VOCALOID
+  - song_name: みずいろ
+    song_alias:
+    esong_code: 2847B40
+    t_singer_master_id: '31346'
+    singer_name: 遠藤 綾
+    singer_alias:
+    available_date: '2012-09-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: しろくまカフェ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすいろ
+    singer_name_ruby: えんとうあや
+    song_variation:
+    - esong_code: 2847B40
+      song_name: みずいろ
+      content_type: ''
+  - song_name: Mr.&Mrs.Balloon feat.GEROCK
+    song_alias:
+    esong_code: 2888B32
+    t_singer_master_id: '30386'
+    singer_name: BIGMAMA
+    singer_alias:
+    available_date: '2012-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすたあんとみせ
+    singer_name_ruby: ひつくまま
+    song_variation:
+    - esong_code: 2888B32
+      song_name: Mr.&Mrs.Balloon feat.GEROCK
+      content_type: ''
+  - song_name: Mr.Kissman
+    song_alias:
+    esong_code: 2853A21
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2012-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすたきすまん
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 2853A21
+      song_name: Mr.Kissman
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: Hello Goodbye
-    song_alias:
-    esong_code: 1989A33
-    t_singer_master_id: '30423'
-    singer_name: 相葉 雅紀(嵐)
-    singer_alias:
-    available_date: '2008-04-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はろくつとは
-    singer_name_ruby: あいはまさき
-    song_variation:
-    - esong_code: 1989A33
-      song_name: Hello Goodbye
-      content_type: ''
   - song_name: Punk Folk 〜夢のつづきを〜
     song_alias:
     esong_code: 1986A7
@@ -109,7 +92,7 @@ result:
     - esong_code: 1976A20
       song_name: Humpty Dumpty
       content_type: ''
-  - song_name: BURN -フメツノフェイス-
+  - song_name: BURN-フメツノフェイス-
     song_alias:
     esong_code: 1977B48
     t_singer_master_id: '1928'
@@ -124,7 +107,7 @@ result:
     singer_name_ruby: ひす
     song_variation:
     - esong_code: 1977B48
-      song_name: BURN -フメツノフェイス-
+      song_name: BURN-フメツノフェイス-
       content_type: ''
   - song_name: Here by my side (Japanese version)
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1986B13
       song_name: ひとひら
+      content_type: ''
+  - song_name: ひとひら、ふたひら
+    song_alias:
+    esong_code: 1991A15
+    t_singer_master_id: '28762'
+    singer_name: 池上 ケイ(berry)
+    singer_alias:
+    available_date: '2008-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとひらふたひら
+    singer_name_ruby: いけかみけい
+    song_variation:
+    - esong_code: 1991A15
+      song_name: ひとひら、ふたひら
       content_type: ''

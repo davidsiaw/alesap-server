@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1174
-  all_max_cnt: 1303
-  all_country_cnt: 1174
+  max_cnt: 1169
+  all_max_cnt: 1300
+  all_country_cnt: 1169
   song:
   - song_name: 宛てのない手紙 遊turing JAY'ED
     song_alias:
@@ -483,23 +483,6 @@ result:
     - esong_code: 1828A48
       song_name: アワイロサクラチル
       content_type: ''
-  - song_name: アンサイズニア
-    song_alias:
-    esong_code: 1926B29
-    t_singer_master_id: '28360'
-    singer_name: ONE OK ROCK
-    singer_alias:
-    available_date: '2011-02-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんさいすにあ
-    singer_name_ruby: わんおくろつく
-    song_variation:
-    - esong_code: 1926B29
-      song_name: アンサイズニア
-      content_type: ''
   - song_name: Angelic...
     song_alias:
     esong_code: 1860A37
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1860A37
       song_name: Angelic...
+      content_type: ''
+  - song_name: UNLIMITED
+    song_alias:
+    esong_code: 1849B7
+    t_singer_master_id: '41701'
+    singer_name: FEST VAINQUEUR
+    singer_alias:
+    available_date: '2011-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんりみてつと
+    singer_name_ruby: ふえすとはんくる
+    song_variation:
+    - esong_code: 1849B7
+      song_name: UNLIMITED
       content_type: ''

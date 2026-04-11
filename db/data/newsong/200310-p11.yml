@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 531
-  all_max_cnt: 644
-  all_country_cnt: 531
+  max_cnt: 533
+  all_max_cnt: 646
+  all_country_cnt: 533
   song:
+  - song_name: NEW WORLD
+    song_alias:
+    esong_code: 824B25
+    t_singer_master_id: '2111'
+    singer_name: 布袋 寅泰
+    singer_alias:
+    available_date: '2003-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にゆわると
+    singer_name_ruby: ほていともやす
+    song_variation:
+    - esong_code: 824B25
+      song_name: NEW WORLD
+      content_type: ''
+  - song_name: 濡れた夢
+    song_alias:
+    esong_code: 767B22
+    t_singer_master_id: '1457'
+    singer_name: CHAGE&ASKA
+    singer_alias:
+    available_date: '2003-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ぬれたゆめ
+    singer_name_ruby: ちやけあんとあすか
+    song_variation:
+    - esong_code: 767B22
+      song_name: 濡れた夢
+      content_type: ''
   - song_name: Necessary
     song_alias:
     esong_code: 833A32
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 844B9
       song_name: PURPLE FIRE TAIL
-      content_type: ''
-  - song_name: HARVEST MOON
-    song_alias:
-    esong_code: 719A24
-    t_singer_master_id: '10119'
-    singer_name: 島谷 ひとみ
-    singer_alias:
-    available_date: '2003-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はへすとむん
-    singer_name_ruby: しまたにひとみ
-    song_variation:
-    - esong_code: 719A24
-      song_name: HARVEST MOON
-      content_type: ''
-  - song_name: バリアフリー
-    song_alias:
-    esong_code: 845B11
-    t_singer_master_id: '14973'
-    singer_name: 太陽族
-    singer_alias:
-    available_date: '2003-10-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はりあふり
-    singer_name_ruby: たいようそく
-    song_variation:
-    - esong_code: 845B11
-      song_name: バリアフリー
       content_type: ''

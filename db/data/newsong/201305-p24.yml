@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: 冷たい雨
+    song_alias:
+    esong_code: 3038B16
+    t_singer_master_id: '23608'
+    singer_name: 水橋 かおり
+    singer_alias:
+    available_date: '2013-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ひだまりスケッチ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: つめたいあめ
+    singer_name_ruby: みすはしかおり
+    song_variation:
+    - esong_code: 3038B16
+      song_name: 冷たい雨
+      content_type: ''
   - song_name: つりびより
     song_alias:
     esong_code: 3030A24
@@ -109,23 +126,6 @@ result:
     - esong_code: 3033A4
       song_name: Dear My Precious
       content_type: ''
-  - song_name: Dear My Friend
-    song_alias:
-    esong_code: 3030B21
-    t_singer_master_id: '44344'
-    singer_name: Dorothy Little Happy
-    singer_alias:
-    available_date: '2013-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていあまいふれんと
-    singer_name_ruby: とろしりとるはつひ
-    song_variation:
-    - esong_code: 3030B21
-      song_name: Dear My Friend
-      content_type: ''
   - song_name: Dear my friend
     song_alias:
     esong_code: 3042B34
@@ -143,6 +143,23 @@ result:
     - esong_code: 3042B34
       song_name: Dear my friend
       content_type: 東方
+  - song_name: Dear My Friend
+    song_alias:
+    esong_code: 3030B21
+    t_singer_master_id: '44344'
+    singer_name: Dorothy Little Happy
+    singer_alias:
+    available_date: '2013-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていあまいふれんと
+    singer_name_ruby: とろしりとるはつひ
+    song_variation:
+    - esong_code: 3030B21
+      song_name: Dear My Friend
+      content_type: ''
   - song_name: T.S.G
     song_alias:
     esong_code: 3039A38
@@ -306,7 +323,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: てすていに
     singer_name_ruby: すちむかるす
     song_variation:
@@ -326,7 +343,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: てすていに
     singer_name_ruby: すちむかるす
     song_variation:
@@ -369,6 +386,23 @@ result:
     song_variation:
     - esong_code: 3041A27
       song_name: デート・ア・ライブ
+      content_type: ''
+  - song_name: テノヒラ未来
+    song_alias:
+    esong_code: 3032A39
+    t_singer_master_id: '34727'
+    singer_name: シクラメン
+    singer_alias:
+    available_date: '2013-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てのひらみらい
+    singer_name_ruby: しくらめん
+    song_variation:
+    - esong_code: 3032A39
+      song_name: テノヒラ未来
       content_type: ''
   - song_name: Dual Personality
     song_alias:
@@ -416,7 +450,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: てらていすこ
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3043A45
       song_name: でらディスコ
@@ -489,37 +523,3 @@ result:
     - esong_code: 3052A26
       song_name: 天真爛漫
       content_type: ''
-  - song_name: 天までとどけっ!
-    song_alias:
-    esong_code: 3034A43
-    t_singer_master_id: '36821'
-    singer_name: T-Pistonz+KMC
-    singer_alias:
-    available_date: '2013-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: イナズマイレブンGO(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんまてととけつ
-    singer_name_ruby: ていひすとんすけえむし
-    song_variation:
-    - esong_code: 3034A43
-      song_name: 天までとどけっ!
-      content_type: ''
-  - song_name: とある従者への追憶〜Phase of Scarlet.
-    song_alias:
-    esong_code: 3038A28
-    t_singer_master_id: '44572'
-    singer_name: Kraster feat.Ne;on
-    singer_alias:
-    available_date: '2013-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方紅魔郷 〜the Embodiment of Scarlet Devil<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: とあるしゆうしやへ
-    singer_name_ruby: くらすたふいちやりんくね
-    song_variation:
-    - esong_code: 3038A28
-      song_name: とある従者への追憶〜Phase of Scarlet.
-      content_type: 東方

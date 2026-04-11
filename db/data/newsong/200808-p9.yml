@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 942
-  all_max_cnt: 1036
-  all_country_cnt: 942
+  max_cnt: 935
+  all_max_cnt: 1029
+  all_country_cnt: 935
   song:
   - song_name: 恋女房
     song_alias:
@@ -41,23 +41,6 @@ result:
     - esong_code: 2051B5
       song_name: "「恋のうた」メドレー"
       content_type: ''
-  - song_name: 恋のうたメドレー Vol.2
-    song_alias:
-    esong_code: 2061A44
-    t_singer_master_id: '5232'
-    singer_name: メドレー
-    singer_alias:
-    available_date: '2008-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいのうためとれ
-    singer_name_ruby: めとれ
-    song_variation:
-    - esong_code: 2061A44
-      song_name: 恋のうたメドレー Vol.2
-      content_type: ''
   - song_name: 恋のうたメドレー Vol.1
     song_alias:
     esong_code: 2061A43
@@ -74,6 +57,23 @@ result:
     song_variation:
     - esong_code: 2061A43
       song_name: 恋のうたメドレー Vol.1
+      content_type: ''
+  - song_name: 恋のうたメドレー Vol.2
+    song_alias:
+    esong_code: 2061A44
+    t_singer_master_id: '5232'
+    singer_name: メドレー
+    singer_alias:
+    available_date: '2008-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのうためとれ
+    singer_name_ruby: めとれ
+    song_variation:
+    - esong_code: 2061A44
+      song_name: 恋のうたメドレー Vol.2
       content_type: ''
   - song_name: 恋のカタチ
     song_alias:

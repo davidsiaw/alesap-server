@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
-  - song_name: 熱情のスペクトラム (アニメ映像Ver.)
-    song_alias:
-    esong_code: 3395B8
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2015-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 七つの大罪<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ねつしようのすへ
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 3395B8
-      song_name: 熱情のスペクトラム (アニメ映像Ver.)
-      content_type: ''
-  - song_name: 熱風王子
-    song_alias:
-    esong_code: 1074A7
-    t_singer_master_id: '5706'
-    singer_name: 沖田 浩之
-    singer_alias:
-    available_date: '2015-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ねつふうおうし
-    singer_name_ruby: おきたひろゆき
-    song_variation:
-    - esong_code: 1074A7
-      song_name: 熱風王子
-      content_type: ''
   - song_name: ネトカノ
     song_alias:
     esong_code: 3390A45
@@ -419,7 +385,7 @@ result:
     song_alias:
     esong_code: 1196A39
     t_singer_master_id: '10498'
-    singer_name: 深美 容子
+    singer_name: 深美 容子(深美よう子)
     singer_alias:
     available_date: '2015-02-28'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3401B14
       song_name: はじめてのさよなら
+      content_type: ''
+  - song_name: はじめての夏 (mcAKMix)
+    song_alias:
+    esong_code: 3401A41
+    t_singer_master_id: '1255'
+    singer_name: SMAP
+    singer_alias:
+    available_date: '2015-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 姫ちゃんのリボン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はしめてのなつ
+    singer_name_ruby: すまつふ
+    song_variation:
+    - esong_code: 3401A41
+      song_name: はじめての夏 (mcAKMix)
+      content_type: ''
+  - song_name: ハシレ!ディギディギ
+    song_alias:
+    esong_code: 3399B1
+    t_singer_master_id: '52755'
+    singer_name: メルヘンヌ イエロ〜プリン
+    singer_alias:
+    available_date: '2015-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はしれていきて
+    singer_name_ruby: めるへんぬいえろふりん
+    song_variation:
+    - esong_code: 3399B1
+      song_name: ハシレ!ディギディギ
       content_type: ''

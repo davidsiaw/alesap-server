@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 814
-  all_max_cnt: 889
-  all_country_cnt: 814
+  max_cnt: 807
+  all_max_cnt: 882
+  all_country_cnt: 807
   song:
-  - song_name: 炎上パンチ
-    song_alias:
-    esong_code: 4495A14
-    t_singer_master_id: '48401'
-    singer_name: コレコレ
-    singer_alias:
-    available_date: '2021-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんしようはんち
-    singer_name_ruby: これこれ
-    song_variation:
-    - esong_code: 4495A14
-      song_name: 炎上パンチ
-      content_type: ''
   - song_name: エンデヴァー
     song_alias:
     esong_code: 4495B11
@@ -281,6 +264,23 @@ result:
       content_type: ''
   - song_name: 男護り船
     song_alias:
+    esong_code: 4493B43
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2021-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おとこまもりふね
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 4493B43
+      song_name: 男護り船
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 男護り船
+    song_alias:
     esong_code: 4488B23
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -313,23 +313,6 @@ result:
     - esong_code: 4345A2
       song_name: 男護り船
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 男護り船
-    song_alias:
-    esong_code: 4493B43
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2021-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おとこまもりふね
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 4493B43
-      song_name: 男護り船
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: オードトワレ
     song_alias:
     esong_code: 4497A22
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4488B15
       song_name: おやじ想へば
+      content_type: ''
+  - song_name: Alright
+    song_alias:
+    esong_code: 4492A42
+    t_singer_master_id: '66520'
+    singer_name: TAEYO
+    singer_alias:
+    available_date: '2021-04-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おるらいと
+    singer_name_ruby: たいよう
+    song_variation:
+    - esong_code: 4492A42
+      song_name: Alright
       content_type: ''

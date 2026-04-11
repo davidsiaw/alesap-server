@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
+  - song_name: Dancin'in the Secret
+    song_alias:
+    esong_code: 2600A33
+    t_singer_master_id: '17458'
+    singer_name: NEWS
+    singer_alias:
+    available_date: '2010-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たんしんいんさし
+    singer_name_ruby: にゆす
+    song_variation:
+    - esong_code: 2600A33
+      song_name: Dancin'in the Secret
+      content_type: ''
   - song_name: 知恵ッ子 ヤンサレ
     song_alias:
     esong_code: 2602A17
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2589B19
       song_name: TVスター
-      content_type: ''
-  - song_name: ディヴィニティ
-    song_alias:
-    esong_code: 2599B39
-    t_singer_master_id: '22055'
-    singer_name: eufonius
-    singer_alias:
-    available_date: '2010-09-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: メイプルストーリー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていひにてい
-    singer_name_ruby: ゆふおにあす
-    song_variation:
-    - esong_code: 2599B39
-      song_name: ディヴィニティ
       content_type: ''

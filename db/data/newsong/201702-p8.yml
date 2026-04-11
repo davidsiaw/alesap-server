@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1284
-  all_max_cnt: 1473
-  all_country_cnt: 1284
+  max_cnt: 1277
+  all_max_cnt: 1466
+  all_country_cnt: 1277
   song:
-  - song_name: 想い出酒場
-    song_alias:
-    esong_code: 2554B46
-    t_singer_master_id: '25002'
-    singer_name: 山口 瑠美
-    singer_alias:
-    available_date: '2017-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おもいてさかは
-    singer_name_ruby: やまくちるみ
-    song_variation:
-    - esong_code: 2554B46
-      song_name: 想い出酒場
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 想い出酒場
     song_alias:
     esong_code: 3757B32
@@ -41,6 +24,23 @@ result:
     - esong_code: 3757B32
       song_name: 想い出酒場
       content_type: ''
+  - song_name: 想い出酒場
+    song_alias:
+    esong_code: 2554B46
+    t_singer_master_id: '25002'
+    singer_name: 山口 瑠美
+    singer_alias:
+    available_date: '2017-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おもいてさかは
+    singer_name_ruby: やまくちるみ
+    song_variation:
+    - esong_code: 2554B46
+      song_name: 想い出酒場
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 想いで迷子
     song_alias:
     esong_code: 3480A44
@@ -60,7 +60,7 @@ result:
       content_type: ''
   - song_name: 父子鷹
     song_alias:
-    esong_code: 1538A39
+    esong_code: 3759A10
     t_singer_master_id: '40508'
     singer_name: 福田 こうへい
     singer_alias:
@@ -68,13 +68,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOY生演奏
     song_name_ruby: おやこたか
     singer_name_ruby: ふくたこうへい
     song_variation:
-    - esong_code: 1538A39
+    - esong_code: 3759A10
       song_name: 父子鷹
-      content_type: ''
+      content_type: JOY生演奏
   - song_name: 父子鷹
     song_alias:
     esong_code: 3758B24
@@ -94,7 +94,7 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 父子鷹
     song_alias:
-    esong_code: 3759A10
+    esong_code: 1538A39
     t_singer_master_id: '40508'
     singer_name: 福田 こうへい
     singer_alias:
@@ -102,13 +102,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOY生演奏
+    content_type:
     song_name_ruby: おやこたか
     singer_name_ruby: ふくたこうへい
     song_variation:
-    - esong_code: 3759A10
+    - esong_code: 1538A39
       song_name: 父子鷹
-      content_type: JOY生演奏
+      content_type: ''
   - song_name: orion
     song_alias:
     esong_code: 3763B45
@@ -279,23 +279,6 @@ result:
     - esong_code: 3480B18
       song_name: 俺は浪花の暴れん坊
       content_type: ''
-  - song_name: orange
-    song_alias:
-    esong_code: 3762A22
-    t_singer_master_id: '48304'
-    singer_name: ircle
-    singer_alias:
-    available_date: '2017-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれんし
-    singer_name_ruby: あくる
-    song_variation:
-    - esong_code: 3762A22
-      song_name: orange
-      content_type: ''
   - song_name: オレンヂ
     song_alias:
     esong_code: 3766B9
@@ -312,6 +295,23 @@ result:
     song_variation:
     - esong_code: 3766B9
       song_name: オレンヂ
+      content_type: ''
+  - song_name: orange
+    song_alias:
+    esong_code: 3762A22
+    t_singer_master_id: '48304'
+    singer_name: ircle
+    singer_alias:
+    available_date: '2017-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれんし
+    singer_name_ruby: あくる
+    song_variation:
+    - esong_code: 3762A22
+      song_name: orange
       content_type: ''
   - song_name: 音楽室は秘密基地
     song_alias:
@@ -349,23 +349,6 @@ result:
       content_type: ''
   - song_name: おんな泣かせ
     song_alias:
-    esong_code: 3758B22
-    t_singer_master_id: '36847'
-    singer_name: 三山 ひろし(三山ヒロシ)
-    singer_alias:
-    available_date: '2017-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おんななかせ
-    singer_name_ruby: みやまひろし
-    song_variation:
-    - esong_code: 3758B22
-      song_name: おんな泣かせ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: おんな泣かせ
-    song_alias:
     esong_code: 3759A12
     t_singer_master_id: '36847'
     singer_name: 三山 ひろし(三山ヒロシ)
@@ -381,6 +364,23 @@ result:
     - esong_code: 3759A12
       song_name: おんな泣かせ
       content_type: JOY生演奏
+  - song_name: おんな泣かせ
+    song_alias:
+    esong_code: 3758B22
+    t_singer_master_id: '36847'
+    singer_name: 三山 ひろし(三山ヒロシ)
+    singer_alias:
+    available_date: '2017-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おんななかせ
+    singer_name_ruby: みやまひろし
+    song_variation:
+    - esong_code: 3758B22
+      song_name: おんな泣かせ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 女の雨宿り
     song_alias:
     esong_code: 3758A10
@@ -400,23 +400,6 @@ result:
       content_type: ''
   - song_name: 女の日本海
     song_alias:
-    esong_code: 2538B6
-    t_singer_master_id: '1710'
-    singer_name: 西方 裕之
-    singer_alias:
-    available_date: '2017-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おんなのにほんかい
-    singer_name_ruby: にしかたひろゆき
-    song_variation:
-    - esong_code: 2538B6
-      song_name: 女の日本海
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 女の日本海
-    song_alias:
     esong_code: 3195B21
     t_singer_master_id: '1710'
     singer_name: 西方 裕之
@@ -432,6 +415,23 @@ result:
     - esong_code: 3195B21
       song_name: 女の日本海
       content_type: ''
+  - song_name: 女の日本海
+    song_alias:
+    esong_code: 2538B6
+    t_singer_master_id: '1710'
+    singer_name: 西方 裕之
+    singer_alias:
+    available_date: '2017-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おんなのにほんかい
+    singer_name_ruby: にしかたひろゆき
+    song_variation:
+    - esong_code: 2538B6
+      song_name: 女の日本海
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: おんなの花
     song_alias:
     esong_code: 3194A10
@@ -449,23 +449,6 @@ result:
     - esong_code: 3194A10
       song_name: おんなの花
       content_type: ''
-  - song_name: 女の花舞台
-    song_alias:
-    esong_code: 2577B37
-    t_singer_master_id: '194'
-    singer_name: 石原 詢子
-    singer_alias:
-    available_date: '2017-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おんなのはなふたい
-    singer_name_ruby: いしはらしゆんこ
-    song_variation:
-    - esong_code: 2577B37
-      song_name: 女の花舞台
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 女の花舞台
     song_alias:
     esong_code: 3620B22
@@ -500,6 +483,23 @@ result:
     - esong_code: 2518A25
       song_name: 女の花舞台
       content_type: JOY生演奏
+  - song_name: 女の花舞台
+    song_alias:
+    esong_code: 2577B37
+    t_singer_master_id: '194'
+    singer_name: 石原 詢子
+    singer_alias:
+    available_date: '2017-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おんなのはなふたい
+    singer_name_ruby: いしはらしゆんこ
+    song_variation:
+    - esong_code: 2577B37
+      song_name: 女の花舞台
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 女の未練
     song_alias:
     esong_code: 3191B36

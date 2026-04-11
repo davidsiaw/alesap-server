@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: 夏の約束
-    song_alias:
-    esong_code: 2812B47
-    t_singer_master_id: '8356'
-    singer_name: 堀江 由衣
-    singer_alias:
-    available_date: '2012-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: DOG DAYS'<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつのやくそく
-    singer_name_ruby: ほりえゆい
-    song_variation:
-    - esong_code: 2812B47
-      song_name: 夏の約束
-      content_type: ''
-  - song_name: 夏休み:シンリャク絵日記
-    song_alias:
-    esong_code: 2813B49
-    t_singer_master_id: '41417'
-    singer_name: 金元 寿子
-    singer_alias:
-    available_date: '2012-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 侵略!?イカ娘<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつやすみしんりやく
-    singer_name_ruby: かねもとひさこ
-    song_variation:
-    - esong_code: 2813B49
-      song_name: 夏休み:シンリャク絵日記
-      content_type: ''
-  - song_name: なでしこの花のように
-    song_alias:
-    esong_code: 2817B25
-    t_singer_master_id: '2176'
-    singer_name: 真木 ことみ
-    singer_alias:
-    available_date: '2012-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: なてしこのはなのよ
-    singer_name_ruby: まきことみ
-    song_variation:
-    - esong_code: 2817B25
-      song_name: なでしこの花のように
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: なないろの朝 feat.初音ミク
     song_alias:
     esong_code: 2811B5
@@ -83,7 +32,7 @@ result:
     singer_alias:
     available_date: '2012-07-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: るろうに剣心 〜明治剣客浪漫譚〜 新京都編<番組名>
+    tie_up: るろうに剣心 〜明治剣客浪漫譚〜<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: なないろのかせ
@@ -366,23 +315,6 @@ result:
       content_type: ''
   - song_name: 24時の孤独
     song_alias:
-    esong_code: 2812B39
-    t_singer_master_id: '22234'
-    singer_name: 秋元 順子
-    singer_alias:
-    available_date: '2012-07-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にしゆうよしのこ
-    singer_name_ruby: あきもとしゆんこ
-    song_variation:
-    - esong_code: 2812B39
-      song_name: 24時の孤独
-      content_type: ''
-  - song_name: 24時の孤独
-    song_alias:
     esong_code: 2819B21
     t_singer_master_id: '22234'
     singer_name: 秋元 順子
@@ -398,9 +330,43 @@ result:
     - esong_code: 2819B21
       song_name: 24時の孤独
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 24時の孤独
+    song_alias:
+    esong_code: 2812B39
+    t_singer_master_id: '22234'
+    singer_name: 秋元 順子
+    singer_alias:
+    available_date: '2012-07-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にしゆうよしのこ
+    singer_name_ruby: あきもとしゆんこ
+    song_variation:
+    - esong_code: 2812B39
+      song_name: 24時の孤独
+      content_type: ''
+  - song_name: 2012Spark (PANORAMA ver.)
+    song_alias:
+    esong_code: 2812A47
+    t_singer_master_id: '10295'
+    singer_name: ポルノグラフィティ
+    singer_alias:
+    available_date: '2012-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にせろいちにす
+    singer_name_ruby: ほるのくらふいてい
+    song_variation:
+    - esong_code: 2812A47
+      song_name: 2012Spark (PANORAMA ver.)
+      content_type: ''
   - song_name: 2012Spark
     song_alias:
-    esong_code: 2819B11
+    esong_code: 2819B32
     t_singer_master_id: '10295'
     singer_name: ポルノグラフィティ
     singer_alias:
@@ -408,13 +374,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: にせろいちにす
     singer_name_ruby: ほるのくらふいてい
     song_variation:
-    - esong_code: 2819B11
+    - esong_code: 2819B32
       song_name: 2012Spark
-      content_type: DAM生音
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 2012Spark
     song_alias:
     esong_code: 2816A9
@@ -434,7 +400,7 @@ result:
       content_type: JOY生演奏
   - song_name: 2012Spark
     song_alias:
-    esong_code: 2819B32
+    esong_code: 2819B11
     t_singer_master_id: '10295'
     singer_name: ポルノグラフィティ
     singer_alias:
@@ -442,30 +408,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type: DAM生音
     song_name_ruby: にせろいちにす
     singer_name_ruby: ほるのくらふいてい
     song_variation:
-    - esong_code: 2819B32
+    - esong_code: 2819B11
       song_name: 2012Spark
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 2012Spark (PANORAMA ver.)
-    song_alias:
-    esong_code: 2812A47
-    t_singer_master_id: '10295'
-    singer_name: ポルノグラフィティ
-    singer_alias:
-    available_date: '2012-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にせろいちにす
-    singer_name_ruby: ほるのくらふいてい
-    song_variation:
-    - esong_code: 2812A47
-      song_name: 2012Spark (PANORAMA ver.)
-      content_type: ''
+      content_type: DAM生音
   - song_name: 日曜日、僕は荷物持ち
     song_alias:
     esong_code: 889B47
@@ -517,3 +466,54 @@ result:
     - esong_code: 2822B8
       song_name: 脱ぎなさいよ
       content_type: ''
+  - song_name: ぬくもり
+    song_alias:
+    esong_code: 2825A21
+    t_singer_master_id: '45481'
+    singer_name: 渡邊 まりか
+    singer_alias:
+    available_date: '2012-07-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ぬくもり
+    singer_name_ruby: わたなへまりか
+    song_variation:
+    - esong_code: 2825A21
+      song_name: ぬくもり
+      content_type: ''
+  - song_name: Naked Body
+    song_alias:
+    esong_code: 2811A47
+    t_singer_master_id: '1604'
+    singer_name: DOG FIGHT
+    singer_alias:
+    available_date: '2012-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねいきつとはて
+    singer_name_ruby: とつくふあいと
+    song_variation:
+    - esong_code: 2811A47
+      song_name: Naked Body
+      content_type: ''
+  - song_name: ネオン街ブルース
+    song_alias:
+    esong_code: 2815B23
+    t_singer_master_id: '10086'
+    singer_name: 山崎 ていじ(山崎悌史)
+    singer_alias:
+    available_date: '2012-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ねおんまちふるす
+    singer_name_ruby: やまさきていし
+    song_variation:
+    - esong_code: 2815B23
+      song_name: ネオン街ブルース
+      content_type: JOYｸﾘｯﾌﾟ

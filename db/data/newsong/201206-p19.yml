@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: 人生かぞえ歌
-    song_alias:
-    esong_code: 2806B18
-    t_singer_master_id: '45015'
-    singer_name: 水谷 千重子
-    singer_alias:
-    available_date: '2012-06-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: しんせいかそえう
-    singer_name_ruby: みすたにちえこ
-    song_variation:
-    - esong_code: 2806B18
-      song_name: 人生かぞえ歌
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 人生かぞえ歌
-    song_alias:
-    esong_code: 2800A42
-    t_singer_master_id: '45015'
-    singer_name: 水谷 千重子
-    singer_alias:
-    available_date: '2012-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: しんせいかそえう
-    singer_name_ruby: みすたにちえこ
-    song_variation:
-    - esong_code: 2800A42
-      song_name: 人生かぞえ歌
-      content_type: DAM生音
   - song_name: 人生坂
     song_alias:
     esong_code: 2374B47
@@ -315,23 +281,6 @@ result:
       content_type: ''
   - song_name: スターゲイズ・ラブ
     song_alias:
-    esong_code: 2798B21
-    t_singer_master_id: '21088'
-    singer_name: 平野 綾
-    singer_alias:
-    available_date: '2012-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すたけいすらふ
-    singer_name_ruby: ひらのあや
-    song_variation:
-    - esong_code: 2798B21
-      song_name: スターゲイズ・ラブ
-      content_type: ''
-  - song_name: スターゲイズ・ラブ
-    song_alias:
     esong_code: 2807B22
     t_singer_master_id: '21088'
     singer_name: 平野 綾
@@ -347,6 +296,23 @@ result:
     - esong_code: 2807B22
       song_name: スターゲイズ・ラブ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: スターゲイズ・ラブ
+    song_alias:
+    esong_code: 2798B21
+    t_singer_master_id: '21088'
+    singer_name: 平野 綾
+    singer_alias:
+    available_date: '2012-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたけいすらふ
+    singer_name_ruby: ひらのあや
+    song_variation:
+    - esong_code: 2798B21
+      song_name: スターゲイズ・ラブ
+      content_type: ''
   - song_name: Stars
     song_alias:
     esong_code: 2805B16
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2806A42
       song_name: Stay
+      content_type: ''
+  - song_name: STAY,AWAY 〜キャンドルの心〜
+    song_alias:
+    esong_code: 2805A19
+    t_singer_master_id: '15072'
+    singer_name: 影山 ヒロノブ&堀江 美都子
+    singer_alias:
+    available_date: '2012-06-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 聖闘士星矢<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すていあうえいきやん
+    singer_name_ruby: かけやまひろのふほりえみつ
+    song_variation:
+    - esong_code: 2805A19
+      song_name: STAY,AWAY 〜キャンドルの心〜
+      content_type: ''
+  - song_name: Still Alive
+    song_alias:
+    esong_code: 2808B2
+    t_singer_master_id: '29285'
+    singer_name: BIGBANG
+    singer_alias:
+    available_date: '2012-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すているあらいふ
+    singer_name_ruby: ひつくはん
+    song_variation:
+    - esong_code: 2808B2
+      song_name: Still Alive
       content_type: ''

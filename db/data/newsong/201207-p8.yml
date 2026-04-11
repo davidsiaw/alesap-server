@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: おんなの涙
-    song_alias:
-    esong_code: 2814A12
-    t_singer_master_id: '45321'
-    singer_name: 上北 恭子
-    singer_alias:
-    available_date: '2012-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのなみた
-    singer_name_ruby: かみきたきようこ
-    song_variation:
-    - esong_code: 2814A12
-      song_name: おんなの涙
-      content_type: ''
   - song_name: おんなの夢舞台
     song_alias:
     esong_code: 2822A17
@@ -43,23 +26,6 @@ result:
       content_type: ''
   - song_name: ONLY YOU
     song_alias:
-    esong_code: 2819A8
-    t_singer_master_id: '6365'
-    singer_name: 安室 奈美恵
-    singer_alias:
-    available_date: '2012-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: おんりゆ
-    singer_name_ruby: あむろなみえ
-    song_variation:
-    - esong_code: 2819A8
-      song_name: ONLY YOU
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: ONLY YOU
-    song_alias:
     esong_code: 2815B31
     t_singer_master_id: '6365'
     singer_name: 安室 奈美恵
@@ -75,6 +41,23 @@ result:
     - esong_code: 2815B31
       song_name: ONLY YOU
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: ONLY YOU
+    song_alias:
+    esong_code: 2819A8
+    t_singer_master_id: '6365'
+    singer_name: 安室 奈美恵
+    singer_alias:
+    available_date: '2012-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: おんりゆ
+    singer_name_ruby: あむろなみえ
+    song_variation:
+    - esong_code: 2819A8
+      song_name: ONLY YOU
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 開運橋ブルース
     song_alias:
     esong_code: 2814A10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 701A46
       song_name: 悲しみが色をかえるまで
+      content_type: ''
+  - song_name: CAFE BLEU
+    song_alias:
+    esong_code: 2812B14
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2012-07-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かふえふりゆ
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 2812B14
+      song_name: CAFE BLEU
       content_type: ''

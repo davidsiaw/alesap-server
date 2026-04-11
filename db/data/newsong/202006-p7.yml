@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 954
-  all_max_cnt: 1029
-  all_country_cnt: 954
+  max_cnt: 946
+  all_max_cnt: 1021
+  all_country_cnt: 946
   song:
-  - song_name: 怪獣の花唄
-    song_alias:
-    esong_code: 4388A25
-    t_singer_master_id: '65658'
-    singer_name: Vaundy
-    singer_alias:
-    available_date: '2020-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かいしゆうのはなう
-    singer_name_ruby: はうんてい
-    song_variation:
-    - esong_code: 4388A25
-      song_name: 怪獣の花唄
-      content_type: ''
   - song_name: 海中の月を掬う
     song_alias:
     esong_code: 4382B20
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4388B21
       song_name: 聞かせてwow wowを
+      content_type: ''
+  - song_name: きずな
+    song_alias:
+    esong_code: 4388B37
+    t_singer_master_id: '66522'
+    singer_name: クミコ&井上 芳雄
+    singer_alias:
+    available_date: '2020-06-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: くみこあんといのうえよし
+    song_variation:
+    - esong_code: 4388B37
+      song_name: きずな
       content_type: ''

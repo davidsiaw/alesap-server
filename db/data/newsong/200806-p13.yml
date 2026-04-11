@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
+  - song_name: さよならのために
+    song_alias:
+    esong_code: 2027B48
+    t_singer_master_id: '1230'
+    singer_name: 鈴木 トオル
+    singer_alias:
+    available_date: '2008-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよならのために
+    singer_name_ruby: すすきとおる
+    song_variation:
+    - esong_code: 2027B48
+      song_name: さよならのために
+      content_type: ''
   - song_name: さらさら (アルバムバージョン)
     song_alias:
     esong_code: 2029B29
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2012B23
       song_name: SIX SENSES
-      content_type: ''
-  - song_name: 自転車で出せるだけのスピード風さえも追越した気がした
-    song_alias:
-    esong_code: 1064B19
-    t_singer_master_id: '10013'
-    singer_name: rumania montevideo
-    singer_alias:
-    available_date: '2008-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: してんしやてた
-    singer_name_ruby: るまにあもんてひ
-    song_variation:
-    - esong_code: 1064B19
-      song_name: 自転車で出せるだけのスピード風さえも追越した気がした
       content_type: ''

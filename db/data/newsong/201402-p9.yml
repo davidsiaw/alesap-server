@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: 男の火祭り
-    song_alias:
-    esong_code: 3181B23
-    t_singer_master_id: '920'
-    singer_name: 坂本 冬美
-    singer_alias:
-    available_date: '2014-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: おとこのひまつり
-    singer_name_ruby: さかもとふゆみ
-    song_variation:
-    - esong_code: 3181B23
-      song_name: 男の火祭り
-      content_type: JOY生演奏
   - song_name: 男の火祭り
     song_alias:
     esong_code: 3181B34
@@ -81,7 +64,7 @@ result:
     t_singer_master_id: '18570'
     singer_name: Berryz工房
     singer_alias:
-    available_date: '2014-02-18'
+    available_date: '2014-02-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -517,3 +500,20 @@ result:
     - esong_code: 3171B37
       song_name: おんなの夜明け 〜第二章〜
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: On my way
+    song_alias:
+    esong_code: 3181A31
+    t_singer_master_id: '15296'
+    singer_name: FLOW
+    singer_alias:
+    available_date: '2014-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんまいうえい
+    singer_name_ruby: ふろう
+    song_variation:
+    - esong_code: 3181A31
+      song_name: On my way
+      content_type: ''

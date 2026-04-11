@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 891
-  all_max_cnt: 987
-  all_country_cnt: 891
+  max_cnt: 848
+  all_max_cnt: 943
+  all_country_cnt: 848
   song:
   - song_name: 夫へ・・・
     song_alias:
@@ -142,23 +142,6 @@ result:
     song_variation:
     - esong_code: 4594B26
       song_name: AMAZING DAYS (DEEP SQUAD meets EXILE TETSUYA)
-      content_type: ''
-  - song_name: Amazing happy days
-    song_alias:
-    esong_code: 4594B3
-    t_singer_master_id: '69062'
-    singer_name: 土岐 隼一&山谷 祥生
-    singer_alias:
-    available_date: '2022-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: A3!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめいしんくはつ
-    singer_name_ruby: ときしゆんいちやまやよし
-    song_variation:
-    - esong_code: 4594B3
-      song_name: Amazing happy days
       content_type: ''
   - song_name: 雨に咲くダンデライオン
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4601A22
       song_name: 一路道
+      content_type: ''
+  - song_name: 一周目の冬
+    song_alias:
+    esong_code: 4600A5
+    t_singer_master_id: '63862'
+    singer_name: 安斉 かれん
+    singer_alias:
+    available_date: '2022-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつしゆうめのふゆ
+    singer_name_ruby: あんさいかれん
+    song_variation:
+    - esong_code: 4600A5
+      song_name: 一周目の冬
       content_type: ''

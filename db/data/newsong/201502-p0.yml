@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
   - song_name: あぁ・・・あんた川
     song_alias:
@@ -85,7 +85,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: あいあむあけんか
     singer_name_ruby: ゆま
     song_variation:
@@ -105,7 +105,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: あいあむあけんか
     singer_name_ruby: ゆま
     song_variation:
@@ -132,23 +132,6 @@ result:
     - esong_code: 3393B28
       song_name: あいうえおじさん
       content_type: ''
-  - song_name: 愛唄〜since 2007〜
-    song_alias:
-    esong_code: 3395B6
-    t_singer_master_id: '52678'
-    singer_name: whiteeeen
-    singer_alias:
-    available_date: '2015-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいうたしんすにせん
-    singer_name_ruby: ほわいていん
-    song_variation:
-    - esong_code: 3395B6
-      song_name: 愛唄〜since 2007〜
-      content_type: ''
   - song_name: I Just Wanna Be With You 〜仮想と真実の狭間で〜
     song_alias:
     esong_code: 3395A5
@@ -168,23 +151,6 @@ result:
       content_type: ''
   - song_name: 哀愁の宗谷岬
     song_alias:
-    esong_code: 1228A11
-    t_singer_master_id: '1709'
-    singer_name: 西尾 夕紀
-    singer_alias:
-    available_date: '2015-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あいしゆうのそうやみ
-    singer_name_ruby: にしおゆき
-    song_variation:
-    - esong_code: 1228A11
-      song_name: 哀愁の宗谷岬
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 哀愁の宗谷岬
-    song_alias:
     esong_code: 1230B26
     t_singer_master_id: '1709'
     singer_name: 西尾 夕紀
@@ -200,6 +166,23 @@ result:
     - esong_code: 1230B26
       song_name: 哀愁の宗谷岬
       content_type: ''
+  - song_name: 哀愁の宗谷岬
+    song_alias:
+    esong_code: 1228A11
+    t_singer_master_id: '1709'
+    singer_name: 西尾 夕紀
+    singer_alias:
+    available_date: '2015-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいしゆうのそうやみ
+    singer_name_ruby: にしおゆき
+    song_variation:
+    - esong_code: 1228A11
+      song_name: 哀愁の宗谷岬
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 愛情≪Carnation
     song_alias:
     esong_code: 3393A10
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3394A33
       song_name: アイラブ東京
+      content_type: ''
+  - song_name: I LOVE YOU
+    song_alias:
+    esong_code: 3394B43
+    t_singer_master_id: '1407'
+    singer_name: 玉置 浩二
+    singer_alias:
+    available_date: '2015-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいらふゆ
+    singer_name_ruby: たまきこうし
+    song_variation:
+    - esong_code: 3394B43
+      song_name: I LOVE YOU
       content_type: ''

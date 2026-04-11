@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1462
-  all_max_cnt: 1642
-  all_country_cnt: 1462
+  max_cnt: 1455
+  all_max_cnt: 1635
+  all_country_cnt: 1455
   song:
-  - song_name: KEIKO KEIKO
-    song_alias:
-    esong_code: 3520B38
-    t_singer_master_id: '1837'
-    singer_name: 半田 浩二
-    singer_alias:
-    available_date: '2015-10-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けいこけいこ
-    singer_name_ruby: はんたこうし
-    song_variation:
-    - esong_code: 3520B38
-      song_name: KEIKO KEIKO
-      content_type: ''
   - song_name: 劇場支配人のテーマ
     song_alias:
     esong_code: 3513A26
@@ -66,7 +49,7 @@ result:
     singer_alias:
     available_date: '2015-10-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DD北斗の拳2 イチゴ味+<番組名>
+    tie_up: 北斗の拳<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けせないななつのほし
@@ -187,7 +170,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: こ
     singer_name_ruby: あせんしよんふる
     song_variation:
@@ -207,7 +190,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: こ
     singer_name_ruby: あせんしよんふる
     song_variation:
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3523A17
       song_name: 幸励の唄
+      content_type: ''
+  - song_name: 声
+    song_alias:
+    esong_code: 3526B21
+    t_singer_master_id: '27537'
+    singer_name: The Birthday
+    singer_alias:
+    available_date: '2015-10-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こえ
+    singer_name_ruby: さはすてい
+    song_variation:
+    - esong_code: 3526B21
+      song_name: 声
       content_type: ''

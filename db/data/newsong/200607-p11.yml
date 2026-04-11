@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1033
-  all_max_cnt: 1129
-  all_country_cnt: 1033
+  max_cnt: 1024
+  all_max_cnt: 1120
+  all_country_cnt: 1024
   song:
-  - song_name: 恋に落ちて
-    song_alias:
-    esong_code: 1576B41
-    t_singer_master_id: '26872'
-    singer_name: 藤田 麻衣子
-    singer_alias:
-    available_date: '2006-07-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 緋色の欠片<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいにおちて
-    singer_name_ruby: ふしたまいこ
-    song_variation:
-    - esong_code: 1576B41
-      song_name: 恋に落ちて
-      content_type: ''
   - song_name: 恋のエチュード
     song_alias:
     esong_code: 1568A18
@@ -168,7 +151,7 @@ result:
     singer_alias:
     available_date: '2006-07-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ああっ女神さまっ 〜それぞれの翼〜<番組名>
+    tie_up: ああっ女神さまっ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こいひととうし
@@ -381,23 +364,6 @@ result:
     - esong_code: 1372B21
       song_name: 古都の夢
       content_type: ''
-  - song_name: この先もずっと 〜Brother&Sister〜
-    song_alias:
-    esong_code: 1586B48
-    t_singer_master_id: '22551'
-    singer_name: MEGARYU
-    singer_alias:
-    available_date: '2006-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: このさきもすつと
-    singer_name_ruby: めかりゆう
-    song_variation:
-    - esong_code: 1586B48
-      song_name: この先もずっと 〜Brother&Sister〜
-      content_type: ''
   - song_name: このみち
     song_alias:
     esong_code: 1577A35
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1608A43
       song_name: 彩雨の揺り篭
+      content_type: ''
+  - song_name: サイケデリック・ラブレター
+    song_alias:
+    esong_code: 1571A11
+    t_singer_master_id: '250'
+    singer_name: 井上 陽水
+    singer_alias:
+    available_date: '2006-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいけてりつく
+    singer_name_ruby: いのうえようすい
+    song_variation:
+    - esong_code: 1571A11
+      song_name: サイケデリック・ラブレター
+      content_type: ''
+  - song_name: サウンドシステムマン
+    song_alias:
+    esong_code: 1589A45
+    t_singer_master_id: '15050'
+    singer_name: FIRE BALL
+    singer_alias:
+    available_date: '2006-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さうんとしすてむま
+    singer_name_ruby: ふあいやほる
+    song_variation:
+    - esong_code: 1589A45
+      song_name: サウンドシステムマン
       content_type: ''

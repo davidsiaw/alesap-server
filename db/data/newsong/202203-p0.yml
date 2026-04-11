@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1121
-  all_max_cnt: 1204
-  all_country_cnt: 1121
+  max_cnt: 1082
+  all_max_cnt: 1165
+  all_country_cnt: 1082
   song:
   - song_name: あぁ故郷よ
     song_alias:
@@ -26,23 +26,6 @@ result:
       content_type: ''
   - song_name: あぁ、もう。
     song_alias:
-    esong_code: 4607B17
-    t_singer_master_id: '59065'
-    singer_name: Saucy Dog
-    singer_alias:
-    available_date: '2022-03-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ああもう
-    singer_name_ruby: さうしとつく
-    song_variation:
-    - esong_code: 4607B17
-      song_name: あぁ、もう。
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: あぁ、もう。
-    song_alias:
     esong_code: 4596B23
     t_singer_master_id: '59065'
     singer_name: Saucy Dog
@@ -58,6 +41,23 @@ result:
     - esong_code: 4596B23
       song_name: あぁ、もう。
       content_type: DAM生音
+  - song_name: あぁ、もう。
+    song_alias:
+    esong_code: 4607B17
+    t_singer_master_id: '59065'
+    singer_name: Saucy Dog
+    singer_alias:
+    available_date: '2022-03-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ああもう
+    singer_name_ruby: さうしとつく
+    song_variation:
+    - esong_code: 4607B17
+      song_name: あぁ、もう。
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: あぁ、もう。
     song_alias:
     esong_code: 4598B4
@@ -449,23 +449,6 @@ result:
     - esong_code: 4605B45
       song_name: I Remember All Of You
       content_type: ''
-  - song_name: I'll Be
-    song_alias:
-    esong_code: 4611B8
-    t_singer_master_id: '69282'
-    singer_name: Love Harmony's,Inc.
-    singer_alias:
-    available_date: '2022-03-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいるひ
-    singer_name_ruby: らふはもにすいんく
-    song_variation:
-    - esong_code: 4611B8
-      song_name: I'll Be
-      content_type: ''
   - song_name: 愛をありがとう
     song_alias:
     esong_code: 4606A42
@@ -517,3 +500,20 @@ result:
     - esong_code: 4607B48
       song_name: 愛を探して
       content_type: VOCALOID
+  - song_name: 愛をとりもどせ!! [JOYサビカラ]
+    song_alias:
+    esong_code: 4522A2
+    t_singer_master_id: '752'
+    singer_name: クリスタルキング
+    singer_alias:
+    available_date: '2022-03-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 北斗の拳<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいをとりもとせ
+    singer_name_ruby: くりすたるきんく
+    song_variation:
+    - esong_code: 4522A2
+      song_name: 愛をとりもどせ!! [JOYサビカラ]
+      content_type: ''

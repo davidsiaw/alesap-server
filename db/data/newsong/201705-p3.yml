@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
   - song_name: あんたが命やった
     song_alias:
@@ -236,7 +236,7 @@ result:
     singer_alias:
     available_date: '2017-05-16'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いくしすたんすり
@@ -321,7 +321,7 @@ result:
     singer_alias:
     available_date: '2017-05-16'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いさゆけうわさのし
@@ -329,6 +329,23 @@ result:
     song_variation:
     - esong_code: 3809A47
       song_name: いざゆけウワサの情報通
+      content_type: ''
+  - song_name: 石狩哀歌
+    song_alias:
+    esong_code: 3626A21
+    t_singer_master_id: '1107'
+    singer_name: 神野 美伽
+    singer_alias:
+    available_date: '2017-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いしかりあいか
+    singer_name_ruby: しんのみか
+    song_variation:
+    - esong_code: 3626A21
+      song_name: 石狩哀歌
       content_type: ''
   - song_name: 石狩哀歌
     song_alias:
@@ -364,23 +381,6 @@ result:
     - esong_code: 3813A19
       song_name: 石狩哀歌
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 石狩哀歌
-    song_alias:
-    esong_code: 3626A21
-    t_singer_master_id: '1107'
-    singer_name: 神野 美伽
-    singer_alias:
-    available_date: '2017-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いしかりあいか
-    singer_name_ruby: しんのみか
-    song_variation:
-    - esong_code: 3626A21
-      song_name: 石狩哀歌
-      content_type: ''
   - song_name: 石狩挽歌 (スタジオライブバージョン)
     song_alias:
     esong_code: 3626A20

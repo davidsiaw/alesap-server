@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 662
-  all_max_cnt: 737
-  all_country_cnt: 662
+  max_cnt: 659
+  all_max_cnt: 734
+  all_country_cnt: 659
   song:
-  - song_name: Deja Vu
-    song_alias:
-    esong_code: 166B8
-    t_singer_master_id: '15059'
-    singer_name: 仁絵
-    singer_alias:
-    available_date: '2003-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てしやふ
-    singer_name_ruby: ひとえ
-    song_variation:
-    - esong_code: 166B8
-      song_name: Deja Vu
-      content_type: ''
-  - song_name: DEJA-VU
-    song_alias:
-    esong_code: 172A4
-    t_singer_master_id: '11153'
-    singer_name: 松田 優作
-    singer_alias:
-    available_date: '2003-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てしやふ
-    singer_name_ruby: まつたゆうさく
-    song_variation:
-    - esong_code: 172A4
-      song_name: DEJA-VU
-      content_type: ''
   - song_name: Death
     song_alias:
     esong_code: 28A21
@@ -423,7 +389,7 @@ result:
     singer_alias:
     available_date: '2003-01-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: NG騎士ラムネ&40(OVA)<番組名>
+    tie_up: NG騎士ラムネ&40<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とひたせせしゆ
@@ -502,6 +468,23 @@ result:
       content_type: ''
   - song_name: DRIVE
     song_alias:
+    esong_code: 986B30
+    t_singer_master_id: '152'
+    singer_name: アン・ルイス
+    singer_alias:
+    available_date: '2003-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とらいふ
+    singer_name_ruby: あんるいす
+    song_variation:
+    - esong_code: 986B30
+      song_name: DRIVE
+      content_type: ''
+  - song_name: DRIVE
+    song_alias:
     esong_code: 758A1
     t_singer_master_id: '809'
     singer_name: 小泉 今日子
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 758A1
       song_name: DRIVE
+      content_type: ''
+  - song_name: ドライブカー
+    song_alias:
+    esong_code: 996A26
+    t_singer_master_id: '14789'
+    singer_name: 岩瀬 敬吾
+    singer_alias:
+    available_date: '2003-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とらいふか
+    singer_name_ruby: いわせけいこ
+    song_variation:
+    - esong_code: 996A26
+      song_name: ドライブカー
       content_type: ''

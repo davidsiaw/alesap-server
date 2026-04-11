@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
+  - song_name: 加賀岬
+    song_alias:
+    esong_code: 3565A27
+    t_singer_master_id: '31414'
+    singer_name: 井口 裕香
+    singer_alias:
+    available_date: '2015-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 艦隊これくしょん〜艦これ〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かかみさき
+    singer_name_ruby: いくちゆか
+    song_variation:
+    - esong_code: 3565A27
+      song_name: 加賀岬
+      content_type: ''
   - song_name: 輝く未来 (塔の上のラプンツェル)
     song_alias:
     esong_code: 3569B2
@@ -466,23 +483,6 @@ result:
     - esong_code: 2088B19
       song_name: カモメ恋唄
       content_type: ''
-  - song_name: 花紋
-    song_alias:
-    esong_code: 3566A25
-    t_singer_master_id: '54913'
-    singer_name: 佐咲 紗花 with 三狐神囃子
-    singer_alias:
-    available_date: '2015-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 牙狼-GARO- 〜紅蓮ノ月〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かもん
-    singer_name_ruby: ささきさやかういすいなり
-    song_variation:
-    - esong_code: 3566A25
-      song_name: 花紋
-      content_type: ''
   - song_name: COME ON!
     song_alias:
     esong_code: 3575A12
@@ -500,20 +500,20 @@ result:
     - esong_code: 3575A12
       song_name: COME ON!
       content_type: ''
-  - song_name: color
+  - song_name: 花紋
     song_alias:
-    esong_code: 3564B42
-    t_singer_master_id: '40878'
-    singer_name: KEYTALK
+    esong_code: 3566A25
+    t_singer_master_id: '54913'
+    singer_name: 佐咲 紗花 with 三狐神囃子
     singer_alias:
-    available_date: '2015-12-09'
+    available_date: '2015-12-02'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: 牙狼-GARO-(アニメ版)<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: から
-    singer_name_ruby: きとく
+    song_name_ruby: かもん
+    singer_name_ruby: ささきさやかういすいなり
     song_variation:
-    - esong_code: 3564B42
-      song_name: color
+    - esong_code: 3566A25
+      song_name: 花紋
       content_type: ''

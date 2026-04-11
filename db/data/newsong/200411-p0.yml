@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 677
-  all_max_cnt: 709
-  all_country_cnt: 677
+  max_cnt: 674
+  all_max_cnt: 706
+  all_country_cnt: 674
   song:
-  - song_name: 愛
-    song_alias:
-    esong_code: 941B43
-    t_singer_master_id: '15229'
-    singer_name: HALCALI
-    singer_alias:
-    available_date: '2004-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あい
-    singer_name_ruby: はるかり
-    song_variation:
-    - esong_code: 941B43
-      song_name: 愛
-      content_type: ''
   - song_name: i
     song_alias:
     esong_code: 457B29
@@ -40,6 +23,23 @@ result:
     song_variation:
     - esong_code: 457B29
       song_name: i
+      content_type: ''
+  - song_name: 愛
+    song_alias:
+    esong_code: 941B43
+    t_singer_master_id: '15229'
+    singer_name: HALCALI
+    singer_alias:
+    available_date: '2004-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あい
+    singer_name_ruby: はるかり
+    song_variation:
+    - esong_code: 941B43
+      song_name: 愛
       content_type: ''
   - song_name: アイアンリーガー 〜限りなき使命〜
     song_alias:
@@ -176,23 +176,6 @@ result:
     song_variation:
     - esong_code: 606A6
       song_name: I〜誰か・・・
-      content_type: ''
-  - song_name: 愛と欲望の日々
-    song_alias:
-    esong_code: 377B8
-    t_singer_master_id: '944'
-    singer_name: サザンオールスターズ
-    singer_alias:
-    available_date: '2004-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいとよくほうのひ
-    singer_name_ruby: ささんおるすたす
-    song_variation:
-    - esong_code: 377B8
-      song_name: 愛と欲望の日々
       content_type: ''
   - song_name: 愛と呼ぶもの
     song_alias:
@@ -500,20 +483,37 @@ result:
     - esong_code: 906B36
       song_name: 明るい未来
       content_type: ''
-  - song_name: 秋のほほづえ
+  - song_name: agony
     song_alias:
-    esong_code: 1050B30
-    t_singer_master_id: '5803'
-    singer_name: 伊藤 麻衣子
+    esong_code: 236A27
+    t_singer_master_id: '14302'
+    singer_name: KOTOKO
     singer_alias:
-    available_date: '2004-11-15'
+    available_date: '2004-11-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 神無月の巫女<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あこに
+    singer_name_ruby: ことこ
+    song_variation:
+    - esong_code: 236A27
+      song_name: agony
+      content_type: ''
+  - song_name: 朝ごはんの歌
+    song_alias:
+    esong_code: 964A46
+    t_singer_master_id: '21782'
+    singer_name: びゅーちふるず
+    singer_alias:
+    available_date: '2004-11-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: あきのほほつえ
-    singer_name_ruby: いとうまいこ
+    song_name_ruby: あさこはんのうた
+    singer_name_ruby: ひゆちふるす
     song_variation:
-    - esong_code: 1050B30
-      song_name: 秋のほほづえ
+    - esong_code: 964A46
+      song_name: 朝ごはんの歌
       content_type: ''

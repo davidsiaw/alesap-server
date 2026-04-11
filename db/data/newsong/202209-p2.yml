@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 986
-  all_max_cnt: 1090
-  all_country_cnt: 986
+  max_cnt: 964
+  all_max_cnt: 1067
+  all_country_cnt: 964
   song:
+  - song_name: 雨燦々
+    song_alias:
+    esong_code: 4683B36
+    t_singer_master_id: '60110'
+    singer_name: King Gnu
+    singer_alias:
+    available_date: '2022-09-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あめさんさん
+    singer_name_ruby: きんくぬ
+    song_variation:
+    - esong_code: 4683B36
+      song_name: 雨燦々
+      content_type: DAM生音
   - song_name: 雨燦々
     song_alias:
     esong_code: 4681B16
@@ -24,40 +41,6 @@ result:
     - esong_code: 4681B16
       song_name: 雨燦々
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 雨燦々
-    song_alias:
-    esong_code: 4674A3
-    t_singer_master_id: '60110'
-    singer_name: King Gnu
-    singer_alias:
-    available_date: '2022-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あめさんさん
-    singer_name_ruby: きんくぬ
-    song_variation:
-    - esong_code: 4674A3
-      song_name: 雨燦々
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 雨燦々
-    song_alias:
-    esong_code: 4685B11
-    t_singer_master_id: '60110'
-    singer_name: King Gnu
-    singer_alias:
-    available_date: '2022-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あめさんさん
-    singer_name_ruby: きんくぬ
-    song_variation:
-    - esong_code: 4685B11
-      song_name: 雨燦々
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: あめだま
     song_alias:
     esong_code: 4681A42
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 4674B34
       song_name: 忙しい夜が終わる頃に
+      content_type: ''
+  - song_name: イタズラHoney
+    song_alias:
+    esong_code: 4679A14
+    t_singer_master_id: '70032'
+    singer_name: ZINGS
+    singer_alias:
+    available_date: '2022-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 神クズ☆アイドル<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いたすらはに
+    singer_name_ruby: しんくす
+    song_variation:
+    - esong_code: 4679A14
+      song_name: イタズラHoney
       content_type: ''

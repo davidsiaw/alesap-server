@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1775
-  all_max_cnt: 1979
-  all_country_cnt: 1775
+  max_cnt: 1769
+  all_max_cnt: 1973
+  all_country_cnt: 1769
   song:
-  - song_name: 海峡こえて
-    song_alias:
-    esong_code: 3291B18
-    t_singer_master_id: '5041'
-    singer_name: 上杉 香緒里
-    singer_alias:
-    available_date: '2014-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: かいきようこえて
-    singer_name_ruby: うえすきかおり
-    song_variation:
-    - esong_code: 3291B18
-      song_name: 海峡こえて
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 海峡酒場
-    song_alias:
-    esong_code: 3275B13
-    t_singer_master_id: '48671'
-    singer_name: 宮崎 武
-    singer_alias:
-    available_date: '2014-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かいきようさかは
-    singer_name_ruby: みやさきたけし
-    song_variation:
-    - esong_code: 3275B13
-      song_name: 海峡酒場
-      content_type: ''
   - song_name: 海峡のふるさと
     song_alias:
     esong_code: 3275A27
@@ -517,3 +483,37 @@ result:
     - esong_code: 3264A11
       song_name: 片足のウェンディ feat.GUMI
       content_type: VOCALOID
+  - song_name: 滑空スカイハイ
+    song_alias:
+    esong_code: 3273B13
+    t_singer_master_id: '50947'
+    singer_name: モジャン棒
+    singer_alias:
+    available_date: '2014-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方花映塚 〜Phantasmagoria of Flower View.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: かつくうすかいはい
+    singer_name_ruby: もしやんほう
+    song_variation:
+    - esong_code: 3273B13
+      song_name: 滑空スカイハイ
+      content_type: 東方
+  - song_name: かっこよすぎてゴメンなさい
+    song_alias:
+    esong_code: 3266B22
+    t_singer_master_id: '26590'
+    singer_name: DUSTAR-3
+    singer_alias:
+    available_date: '2014-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かつこよすきてこ
+    singer_name_ruby: たすたすり
+    song_variation:
+    - esong_code: 3266B22
+      song_name: かっこよすぎてゴメンなさい
+      content_type: ''

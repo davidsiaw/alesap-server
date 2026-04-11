@@ -3,27 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
-  - song_name: 女子モドキ
+  - song_name: 昇竜に月立つ
     song_alias:
-    esong_code: 3804B48
-    t_singer_master_id: '55464'
-    singer_name: JY
+    esong_code: 3804B15
+    t_singer_master_id: '58194'
+    singer_name: 萬月邸
     singer_alias:
-    available_date: '2017-05-10'
+    available_date: '2017-05-07'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: しよしもとき
-    singer_name_ruby: しえいわい
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: しようりゆうにつきた
+    singer_name_ruby: はんけつてい
     song_variation:
-    - esong_code: 3804B48
-      song_name: 女子モドキ
-      content_type: ''
+    - esong_code: 3804B15
+      song_name: 昇竜に月立つ
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 女子モドキ
     song_alias:
     esong_code: 3805B17
@@ -41,6 +41,23 @@ result:
     - esong_code: 3805B17
       song_name: 女子モドキ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 女子モドキ
+    song_alias:
+    esong_code: 3804B48
+    t_singer_master_id: '55464'
+    singer_name: JY
+    singer_alias:
+    available_date: '2017-05-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しよしもとき
+    singer_name_ruby: しえいわい
+    song_variation:
+    - esong_code: 3804B48
+      song_name: 女子モドキ
+      content_type: ''
   - song_name: 女子モドキ
     song_alias:
     esong_code: 3812A16
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3811B27
       song_name: 心拍数♯0822
-      content_type: ''
-  - song_name: Gin Fizz
-    song_alias:
-    esong_code: 3818A35
-    t_singer_master_id: '58972'
-    singer_name: TOSHIKO
-    singer_alias:
-    available_date: '2017-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんふいす
-    singer_name_ruby: としこ
-    song_variation:
-    - esong_code: 3818A35
-      song_name: Gin Fizz
       content_type: ''

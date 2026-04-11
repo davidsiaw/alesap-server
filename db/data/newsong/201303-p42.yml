@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: MAGIC
-    song_alias:
-    esong_code: 3011B34
-    t_singer_master_id: '46231'
-    singer_name: AMOYAMO
-    singer_alias:
-    available_date: '2013-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ましつく
-    singer_name_ruby: あもやも
-    song_variation:
-    - esong_code: 3011B34
-      song_name: MAGIC
-      content_type: ''
-  - song_name: Magic
-    song_alias:
-    esong_code: 3006A45
-    t_singer_master_id: '45174'
-    singer_name: 石原 夏織
-    singer_alias:
-    available_date: '2013-03-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: マギ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ましつく
-    singer_name_ruby: いしはらかおり
-    song_variation:
-    - esong_code: 3006A45
-      song_name: Magic
-      content_type: ''
   - song_name: マジで感謝!
     song_alias:
     esong_code: 3002A28
@@ -253,7 +219,7 @@ result:
     singer_alias:
     available_date: '2013-03-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア The Beautiful World<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まわるちきゆうろんと
@@ -404,7 +370,7 @@ result:
     t_singer_master_id: '25669'
     singer_name: NICO Touches the Walls
     singer_alias:
-    available_date: '2013-03-26'
+    available_date: '2013-03-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -517,3 +483,37 @@ result:
     - esong_code: 2994B27
       song_name: ミタサレナイヨクボウ feat.しゃちょう
       content_type: 東方
+  - song_name: 見つけなくちゃ!乙女心!!
+    song_alias:
+    esong_code: 3007B33
+    t_singer_master_id: '47398'
+    singer_name: 上村 彩子&堀江 由衣&荒川 美穂
+    singer_alias:
+    available_date: '2013-03-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 乙女ぶれいく!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: みつけなくちやおとめ
+    singer_name_ruby: うえむらあやこほりえゆいあら
+    song_variation:
+    - esong_code: 3007B33
+      song_name: 見つけなくちゃ!乙女心!!
+      content_type: ''
+  - song_name: Missing You
+    song_alias:
+    esong_code: 3006A10
+    t_singer_master_id: '41227'
+    singer_name: 2PM
+    singer_alias:
+    available_date: '2013-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みつしんくゆ
+    singer_name_ruby: とうひえむ
+    song_variation:
+    - esong_code: 3006A10
+      song_name: Missing You
+      content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
   - song_name: ありがとう
     song_alias:
@@ -22,6 +22,23 @@ result:
     singer_name_ruby: ほりえしゆん
     song_variation:
     - esong_code: 2445B23
+      song_name: ありがとう
+      content_type: ''
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 2442B9
+    t_singer_master_id: '33164'
+    singer_name: Lil'B
+    singer_alias:
+    available_date: '2009-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: りるひ
+    song_variation:
+    - esong_code: 2442B9
       song_name: ありがとう
       content_type: ''
   - song_name: Alicema
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2445A32
       song_name: 命の光
-      content_type: ''
-  - song_name: EVE
-    song_alias:
-    esong_code: 2432B6
-    t_singer_master_id: '21397'
-    singer_name: ヴィドール
-    singer_alias:
-    available_date: '2009-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いふ
-    singer_name_ruby: ひとる
-    song_variation:
-    - esong_code: 2432B6
-      song_name: EVE
       content_type: ''

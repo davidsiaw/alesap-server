@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1020
-  all_max_cnt: 1219
-  all_country_cnt: 1020
+  max_cnt: 1004
+  all_max_cnt: 1203
+  all_country_cnt: 1004
   song:
-  - song_name: YES!! 鮫柄水泳部
-    song_alias:
-    esong_code: 4129B21
-    t_singer_master_id: '63145'
-    singer_name: 宮田 幸季&鈴村 健一&相楽 信頼&菅原 雅芳
-    singer_alias:
-    available_date: '2019-01-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Free! -Dive to the Future-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いえすさめつかすい
-    singer_name_ruby: みやたこうきすすむらけん
-    song_variation:
-    - esong_code: 4129B21
-      song_name: YES!! 鮫柄水泳部
-      content_type: ''
   - song_name: 言えなかったこと
     song_alias:
     esong_code: 4124A31
@@ -432,23 +415,6 @@ result:
     - esong_code: 4129B16
       song_name: 祈りはからっぽ feat.flower、結月ゆかり
       content_type: VOCALOID
-  - song_name: IBUNKAコミュニケーション
-    song_alias:
-    esong_code: 4129A6
-    t_singer_master_id: '56045'
-    singer_name: Uncle Bomb
-    singer_alias:
-    available_date: '2019-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いふんかこみゆにけ
-    singer_name_ruby: あんくるほむ
-    song_variation:
-    - esong_code: 4129A6
-      song_name: IBUNKAコミュニケーション
-      content_type: ''
   - song_name: 今、咲き誇る花たちよ (混声三部)
     song_alias:
     esong_code: 4133A26
@@ -517,3 +483,37 @@ result:
     - esong_code: 4128B4
       song_name: Instinct
       content_type: ''
+  - song_name: In This Place〜2人のキズナ
+    song_alias:
+    esong_code: 4120B42
+    t_singer_master_id: '31055'
+    singer_name: 青山 テルマ
+    singer_alias:
+    available_date: '2019-01-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: シュガー・ラッシュ:オンライン<番組名>
+    country_code: '0'
+    content_type: JOYうたいり
+    song_name_ruby: いんていすふれい
+    singer_name_ruby: あおやまてるま
+    song_variation:
+    - esong_code: 4120B42
+      song_name: In This Place〜2人のキズナ
+      content_type: JOYうたいり
+  - song_name: In This Place (日本語バージョン)
+    song_alias:
+    esong_code: 4120B43
+    t_singer_master_id: '31055'
+    singer_name: 青山 テルマ
+    singer_alias:
+    available_date: '2019-01-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: シュガー・ラッシュ:オンライン<番組名>
+    country_code: '0'
+    content_type: JOYうたいり
+    song_name_ruby: いんていすふれい
+    singer_name_ruby: あおやまてるま
+    song_variation:
+    - esong_code: 4120B43
+      song_name: In This Place (日本語バージョン)
+      content_type: JOYうたいり

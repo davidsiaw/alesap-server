@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1114
-  all_max_cnt: 1275
-  all_country_cnt: 1114
+  max_cnt: 1110
+  all_max_cnt: 1271
+  all_country_cnt: 1110
   song:
   - song_name: O.R.I.O.N.
     song_alias:
@@ -400,6 +400,23 @@ result:
       content_type: ''
   - song_name: 風やまず
     song_alias:
+    esong_code: 1499A46
+    t_singer_master_id: '40508'
+    singer_name: 福田 こうへい
+    singer_alias:
+    available_date: '2015-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: かせやます
+    singer_name_ruby: ふくたこうへい
+    song_variation:
+    - esong_code: 1499A46
+      song_name: 風やまず
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 風やまず
+    song_alias:
     esong_code: 1487B23
     t_singer_master_id: '40508'
     singer_name: 福田 こうへい
@@ -415,23 +432,6 @@ result:
     - esong_code: 1487B23
       song_name: 風やまず
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 風やまず
-    song_alias:
-    esong_code: 1499A46
-    t_singer_master_id: '40508'
-    singer_name: 福田 こうへい
-    singer_alias:
-    available_date: '2015-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かせやます
-    singer_name_ruby: ふくたこうへい
-    song_variation:
-    - esong_code: 1499A46
-      song_name: 風やまず
-      content_type: DAM生音
   - song_name: 片翼のラブレター
     song_alias:
     esong_code: 3388A9

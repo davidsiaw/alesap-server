@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
+  - song_name: On va jouer ensemble
+    song_alias:
+    esong_code: 3143A13
+    t_singer_master_id: '49249'
+    singer_name: お月さま交響曲 feat.來香滄,真野綾,更科真都 他
+    singer_alias:
+    available_date: '2013-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんはしゆえあん
+    singer_name_ruby: おつきさまこうきようきよくふいちやりんくら
+    song_variation:
+    - esong_code: 3143A13
+      song_name: On va jouer ensemble
+      content_type: ''
   - song_name: only you (唯一人)
     song_alias:
     esong_code: 3142B8
@@ -26,21 +43,21 @@ result:
       content_type: ''
   - song_name: 母さんの手
     song_alias:
-    esong_code: 3139B15
+    esong_code: 3001B6
     t_singer_master_id: '1267'
     singer_name: 瀬川 瑛子
     singer_alias:
-    available_date: '2013-11-19'
+    available_date: '2013-11-05'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type:
     song_name_ruby: かあさんのて
     singer_name_ruby: せかわえいこ
     song_variation:
-    - esong_code: 3139B15
+    - esong_code: 3001B6
       song_name: 母さんの手
-      content_type: DAMﾌﾟﾛｵｹ
+      content_type: ''
   - song_name: 母さんの手
     song_alias:
     esong_code: 3139A37
@@ -60,21 +77,21 @@ result:
       content_type: DAM生音
   - song_name: 母さんの手
     song_alias:
-    esong_code: 3001B6
+    esong_code: 3139B15
     t_singer_master_id: '1267'
     singer_name: 瀬川 瑛子
     singer_alias:
-    available_date: '2013-11-05'
+    available_date: '2013-11-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: かあさんのて
     singer_name_ruby: せかわえいこ
     song_variation:
-    - esong_code: 3001B6
+    - esong_code: 3139B15
       song_name: 母さんの手
-      content_type: ''
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: かあちゃんの灯り
     song_alias:
     esong_code: 3145B28
@@ -298,23 +315,6 @@ result:
       content_type: ''
   - song_name: 風泣き岬
     song_alias:
-    esong_code: 3138A10
-    t_singer_master_id: '30205'
-    singer_name: 花咲 ゆき美
-    singer_alias:
-    available_date: '2013-11-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かせなきみさき
-    singer_name_ruby: はなさきゆきみ
-    song_variation:
-    - esong_code: 3138A10
-      song_name: 風泣き岬
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 風泣き岬
-    song_alias:
     esong_code: 3139B22
     t_singer_master_id: '30205'
     singer_name: 花咲 ゆき美
@@ -330,6 +330,23 @@ result:
     - esong_code: 3139B22
       song_name: 風泣き岬
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 風泣き岬
+    song_alias:
+    esong_code: 3138A10
+    t_singer_master_id: '30205'
+    singer_name: 花咲 ゆき美
+    singer_alias:
+    available_date: '2013-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かせなきみさき
+    singer_name_ruby: はなさきゆきみ
+    song_variation:
+    - esong_code: 3138A10
+      song_name: 風泣き岬
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 風に消えた街
     song_alias:
     esong_code: 3141B25
@@ -495,25 +512,8 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: かつてにはいふりつ
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3134A34
       song_name: 勝手にハイブリッド
       content_type: ''
-  - song_name: カナシキヒステリックガール feat.初音ミク
-    song_alias:
-    esong_code: 3140B13
-    t_singer_master_id: '43193'
-    singer_name: ナノウ
-    singer_alias:
-    available_date: '2013-11-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: かなしきひすてりつく
-    singer_name_ruby: なのう
-    song_variation:
-    - esong_code: 3140B13
-      song_name: カナシキヒステリックガール feat.初音ミク
-      content_type: VOCALOID

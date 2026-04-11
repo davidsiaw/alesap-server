@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
-  - song_name: BLUE LAGOON 2003 〜HOT SUMMER BREEZE〜
-    song_alias:
-    esong_code: 606A26
-    t_singer_master_id: '16133'
-    singer_name: FUDGE with 高中 正義
-    singer_alias:
-    available_date: '2011-04-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるらくん
-    singer_name_ruby: ふあつしういすたかなかまさ
-    song_variation:
-    - esong_code: 606A26
-      song_name: BLUE LAGOON 2003 〜HOT SUMMER BREEZE〜
-      content_type: ''
-  - song_name: BREAK DOWN
-    song_alias:
-    esong_code: 1925A13
-    t_singer_master_id: '41960'
-    singer_name: BEAST(K-POP)
-    singer_alias:
-    available_date: '2011-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれいくたうん
-    singer_name_ruby: ひすと
-    song_variation:
-    - esong_code: 1925A13
-      song_name: BREAK DOWN
-      content_type: ''
-  - song_name: Brave
-    song_alias:
-    esong_code: 1924A18
-    t_singer_master_id: '26377'
-    singer_name: ナオト・インティライミ
-    singer_alias:
-    available_date: '2011-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれいふ
-    singer_name_ruby: なおといんていらいみ
-    song_variation:
-    - esong_code: 1924A18
-      song_name: Brave
-      content_type: ''
   - song_name: Prayer
     song_alias:
     esong_code: 1529B49
@@ -75,23 +24,6 @@ result:
     - esong_code: 1529B49
       song_name: Prayer
       content_type: ''
-  - song_name: Friends
-    song_alias:
-    esong_code: 1494A22
-    t_singer_master_id: '33628'
-    singer_name: FTISLAND
-    singer_alias:
-    available_date: '2011-04-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれんす
-    singer_name_ruby: えふていあいらんと
-    song_variation:
-    - esong_code: 1494A22
-      song_name: Friends
-      content_type: ''
   - song_name: フレンズ
     song_alias:
     esong_code: 1419B20
@@ -108,6 +40,23 @@ result:
     song_variation:
     - esong_code: 1419B20
       song_name: フレンズ
+      content_type: ''
+  - song_name: Friends
+    song_alias:
+    esong_code: 1494A22
+    t_singer_master_id: '33628'
+    singer_name: FTISLAND
+    singer_alias:
+    available_date: '2011-04-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれんす
+    singer_name_ruby: えふていあいらんと
+    song_variation:
+    - esong_code: 1494A22
+      song_name: Friends
       content_type: ''
   - song_name: Frozen Music
     song_alias:
@@ -168,7 +117,7 @@ result:
     singer_alias:
     available_date: '2011-04-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神谷浩史・小野大輔のDearGirl 〜Stories〜<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: ふろろく
@@ -517,3 +466,54 @@ result:
     - esong_code: 1465A31
       song_name: ボクを忘れた空想紀行
       content_type: VOCALOID
+  - song_name: 星くずの掃除婦
+    song_alias:
+    esong_code: 1465B15
+    t_singer_master_id: '42082'
+    singer_name: きくお
+    singer_alias:
+    available_date: '2011-04-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ほしくすのそうし
+    singer_name_ruby: きくお
+    song_variation:
+    - esong_code: 1465B15
+      song_name: 星くずの掃除婦
+      content_type: VOCALOID
+  - song_name: 星空のディスタンス (long version)
+    song_alias:
+    esong_code: 1659B37
+    t_singer_master_id: '136'
+    singer_name: アルフィー(THE ALFEE)
+    singer_alias:
+    available_date: '2011-04-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほしそらのていす
+    singer_name_ruby: あるふい
+    song_variation:
+    - esong_code: 1659B37
+      song_name: 星空のディスタンス (long version)
+      content_type: ''
+  - song_name: 蛍月夜
+    song_alias:
+    esong_code: 1443B47
+    t_singer_master_id: '11851'
+    singer_name: 竹内 順子
+    singer_alias:
+    available_date: '2011-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 停電少女と羽蟲のオーケストラ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほたるつきよ
+    singer_name_ruby: たけうちしゆんこ
+    song_variation:
+    - esong_code: 1443B47
+      song_name: 蛍月夜
+      content_type: ''

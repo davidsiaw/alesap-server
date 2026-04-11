@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
-  - song_name: Dream City Neo Tokio
-    song_alias:
-    esong_code: 792A12
-    t_singer_master_id: '5228'
-    singer_name: HARRY
-    singer_alias:
-    available_date: '2002-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 未来警察ウラシマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とりむしていねお
-    singer_name_ruby: はり
-    song_variation:
-    - esong_code: 792A12
-      song_name: Dream City Neo Tokio
-      content_type: ''
   - song_name: ドレミのため息
     song_alias:
     esong_code: 860A34
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2002-06-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: スレイヤーズえくせれんと<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: なりたい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 973A1
       song_name: 花白蘭 (紫苑ゆう)
+      content_type: ''
+  - song_name: 母ぬふちゅくる
+    song_alias:
+    esong_code: 117A49
+    t_singer_master_id: '14166'
+    singer_name: 山里 ゆき子&兼村 利恵子
+    singer_alias:
+    available_date: '2002-06-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ははぬふちゆくる
+    singer_name_ruby: やまさとゆきこかねむらりえこ
+    song_variation:
+    - esong_code: 117A49
+      song_name: 母ぬふちゅくる
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 914
-  all_max_cnt: 950
-  all_country_cnt: 914
+  max_cnt: 909
+  all_max_cnt: 945
+  all_country_cnt: 909
   song:
-  - song_name: 君とパスタの日々
-    song_alias:
-    esong_code: 1405B34
-    t_singer_master_id: '15467'
-    singer_name: 森山 直太朗
-    singer_alias:
-    available_date: '2005-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみとはすたのひひ
-    singer_name_ruby: もりやまなおたろう
-    song_variation:
-    - esong_code: 1405B34
-      song_name: 君とパスタの日々
-      content_type: ''
   - song_name: 君の愛に包まれて痛い
     song_alias:
     esong_code: 1397A14
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1406B18
       song_name: Good trip? Bad trip?
+      content_type: ''
+  - song_name: Good-bye
+    song_alias:
+    esong_code: 1406A23
+    t_singer_master_id: '8680'
+    singer_name: くるり
+    singer_alias:
+    available_date: '2005-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとはい
+    singer_name_ruby: くるり
+    song_variation:
+    - esong_code: 1406A23
+      song_name: Good-bye
       content_type: ''

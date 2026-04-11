@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: 放課後ティータイムメドレー 〜2010〜
-    song_alias:
-    esong_code: 2714A40
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2011-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: けいおん!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほうかこていたい
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 2714A40
-      song_name: 放課後ティータイムメドレー 〜2010〜
-      content_type: ''
   - song_name: 放課後_ロマンス [オリジナルクリップ]
     song_alias:
     esong_code: 2709B32
@@ -514,7 +497,7 @@ result:
     singer_alias:
     available_date: '2011-11-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・シンフォニア THE ANIMATION<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ほんとうそ
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 2708A16
       song_name: ホ・ン・ト・ウ・ソ
+      content_type: ''
+  - song_name: 本当の未来は
+    song_alias:
+    esong_code: 2706A45
+    t_singer_master_id: '40029'
+    singer_name: OverTheDogs
+    singer_alias:
+    available_date: '2011-11-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほんとうのみらいは
+    singer_name_ruby: おはさとつくす
+    song_variation:
+    - esong_code: 2706A45
+      song_name: 本当の未来は
       content_type: ''

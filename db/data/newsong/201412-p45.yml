@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
+  - song_name: 雪の古都(まち)
+    song_alias:
+    esong_code: 3154B35
+    t_singer_master_id: '52130'
+    singer_name: 河嶋 けんじ
+    singer_alias:
+    available_date: '2014-12-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆきのまち
+    singer_name_ruby: かわしまけんし
+    song_variation:
+    - esong_code: 3154B35
+      song_name: 雪の古都(まち)
+      content_type: ''
   - song_name: 雪舞い川
     song_alias:
     esong_code: 1932A24
@@ -58,23 +75,6 @@ result:
     - esong_code: 1183A3
       song_name: ゆけゆけムテキング
       content_type: ''
-  - song_name: ユートピア
-    song_alias:
-    esong_code: 3363A33
-    t_singer_master_id: '43923'
-    singer_name: 中田 裕二
-    singer_alias:
-    available_date: '2014-12-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆとひあ
-    singer_name_ruby: なかたゆうし
-    song_variation:
-    - esong_code: 3363A33
-      song_name: ユートピア
-      content_type: ''
   - song_name: utopia
     song_alias:
     esong_code: 3372A8
@@ -91,6 +91,23 @@ result:
     song_variation:
     - esong_code: 3372A8
       song_name: utopia
+      content_type: ''
+  - song_name: ユートピア
+    song_alias:
+    esong_code: 3363A33
+    t_singer_master_id: '43923'
+    singer_name: 中田 裕二
+    singer_alias:
+    available_date: '2014-12-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆとひあ
+    singer_name_ruby: なかたゆうし
+    song_variation:
+    - esong_code: 3363A33
+      song_name: ユートピア
       content_type: ''
   - song_name: YUTORI IS GOOD
     song_alias:
@@ -500,20 +517,3 @@ result:
     - esong_code: 3373A11
       song_name: ヨロコビ・シンクロニシティ (なるver.)
       content_type: ''
-  - song_name: 42.195km
-    song_alias:
-    esong_code: 3367B32
-    t_singer_master_id: '12187'
-    singer_name: コブクロ
-    singer_alias:
-    available_date: '2014-12-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: よんしゆうにてんい
-    singer_name_ruby: こふくろ
-    song_variation:
-    - esong_code: 3367B32
-      song_name: 42.195km
-      content_type: JOYﾎﾞｰｶﾙ

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
-  - song_name: GATE 〜それは暁のように〜
-    song_alias:
-    esong_code: 3466B9
-    t_singer_master_id: '40547'
-    singer_name: 岸田教団&THE明星ロケッツ
-    singer_alias:
-    available_date: '2015-07-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: GATE 自衛隊 彼の地にて、斯く戦えり<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: けとそれはあかつ
-    singer_name_ruby: きしたきようたんあんとしみようし
-    song_variation:
-    - esong_code: 3466B9
-      song_name: GATE 〜それは暁のように〜
-      content_type: ''
   - song_name: GATE 〜それは暁のように〜 (TV size)
     song_alias:
     esong_code: 3462B14
@@ -49,7 +32,7 @@ result:
     singer_alias:
     available_date: '2015-07-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア The World Twinkle<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けへつろおれんちは
@@ -400,23 +383,6 @@ result:
       content_type: ''
   - song_name: 恋人岬
     song_alias:
-    esong_code: 514A7
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2015-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: こいひとみさき
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 514A7
-      song_name: 恋人岬
-      content_type: JOY生演奏
-  - song_name: 恋人岬
-    song_alias:
     esong_code: 510B4
     t_singer_master_id: '6510'
     singer_name: 水森 かおり
@@ -432,6 +398,23 @@ result:
     - esong_code: 510B4
       song_name: 恋人岬
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 恋人岬
+    song_alias:
+    esong_code: 514A7
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2015-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: こいひとみさき
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 514A7
+      song_name: 恋人岬
+      content_type: JOY生演奏
   - song_name: 恋水
     song_alias:
     esong_code: 3473A3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3469A20
       song_name: 黒蝶夢想
+      content_type: ''
+  - song_name: 告白ライバル宣言 feat.代永翼
+    song_alias:
+    esong_code: 3464A18
+    t_singer_master_id: '43384'
+    singer_name: HoneyWorks
+    singer_alias:
+    available_date: '2015-07-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 告白実行委員会<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こくはくらいはるせ
+    singer_name_ruby: はにわくす
+    song_variation:
+    - esong_code: 3464A18
+      song_name: 告白ライバル宣言 feat.代永翼
       content_type: ''

@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: ワクワク海賊
+    song_alias:
+    esong_code: 3161B23
+    t_singer_master_id: '47228'
+    singer_name: 歌う海賊団ッ!
+    singer_alias:
+    available_date: '2013-12-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わくわくかいそく
+    singer_name_ruby: うたうかいそくたんつ
+    song_variation:
+    - esong_code: 3161B23
+      song_name: ワクワク海賊
+      content_type: ''
+  - song_name: 忘れた夏
+    song_alias:
+    esong_code: 3156A22
+    t_singer_master_id: '46251'
+    singer_name: 黒住 憲五
+    singer_alias:
+    available_date: '2013-12-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わすれたなつ
+    singer_name_ruby: くろすみけんこ
+    song_variation:
+    - esong_code: 3156A22
+      song_name: 忘れた夏
+      content_type: ''
   - song_name: 私がカバーガール
     song_alias:
     esong_code: 3153A33
@@ -245,23 +279,6 @@ result:
     - esong_code: 3152A2
       song_name: ワンダーランド
       content_type: ''
-  - song_name: ONE NIGHT GIGOLO (LIVEカラオケ視聴用)
-    song_alias:
-    esong_code: 3146B6
-    t_singer_master_id: '1444'
-    singer_name: チェッカーズ
-    singer_alias:
-    available_date: '2013-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: わんないとしころ
-    singer_name_ruby: ちえつかす
-    song_variation:
-    - esong_code: 3146B6
-      song_name: ONE NIGHT GIGOLO (LIVEカラオケ視聴用)
-      content_type: ''
   - song_name: ONE NIGHT GIGOLO (LIVEカラオケ)
     song_alias:
     esong_code: 3146B5
@@ -278,6 +295,23 @@ result:
     song_variation:
     - esong_code: 3146B5
       song_name: ONE NIGHT GIGOLO (LIVEカラオケ)
+      content_type: ''
+  - song_name: ONE NIGHT GIGOLO (LIVEカラオケ視聴用)
+    song_alias:
+    esong_code: 3146B6
+    t_singer_master_id: '1444'
+    singer_name: チェッカーズ
+    singer_alias:
+    available_date: '2013-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わんないとしころ
+    singer_name_ruby: ちえつかす
+    song_variation:
+    - esong_code: 3146B6
+      song_name: ONE NIGHT GIGOLO (LIVEカラオケ視聴用)
       content_type: ''
   - song_name: ONE FROM THE HEART
     song_alias:

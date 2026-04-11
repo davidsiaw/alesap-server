@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 577
-  all_max_cnt: 620
-  all_country_cnt: 577
+  max_cnt: 576
+  all_max_cnt: 619
+  all_country_cnt: 576
   song:
   - song_name: Butterfly
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 818A6
       song_name: 花になったかまきり
       content_type: ''
-  - song_name: HANABI〜8月の日〜
-    song_alias:
-    esong_code: 609B24
-    t_singer_master_id: '11113'
-    singer_name: 未来
-    singer_alias:
-    available_date: '2003-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はなひ
-    singer_name_ruby: みく
-    song_variation:
-    - esong_code: 609B24
-      song_name: HANABI〜8月の日〜
-      content_type: ''
   - song_name: H・A・N・A・B・I 〜君がいた夏〜
     song_alias:
     esong_code: 818B12
@@ -159,6 +142,23 @@ result:
     song_variation:
     - esong_code: 818B12
       song_name: H・A・N・A・B・I 〜君がいた夏〜
+      content_type: ''
+  - song_name: HANABI〜8月の日〜
+    song_alias:
+    esong_code: 609B24
+    t_singer_master_id: '11113'
+    singer_name: 未来
+    singer_alias:
+    available_date: '2003-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなひ
+    singer_name_ruby: みく
+    song_variation:
+    - esong_code: 609B24
+      song_name: HANABI〜8月の日〜
       content_type: ''
   - song_name: HANABI 〜episode Ⅱ〜
     song_alias:

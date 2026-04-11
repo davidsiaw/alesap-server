@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1415
-  all_max_cnt: 1522
-  all_country_cnt: 1415
+  max_cnt: 1411
+  all_max_cnt: 1518
+  all_country_cnt: 1411
   song:
-  - song_name: 感情二号線
-    song_alias:
-    esong_code: 1886A22
-    t_singer_master_id: '22773'
-    singer_name: N.U
-    singer_alias:
-    available_date: '2007-10-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんしようにこう
-    singer_name_ruby: えぬゆ
-    song_variation:
-    - esong_code: 1886A22
-      song_name: 感情二号線
-      content_type: ''
-  - song_name: 寒椿
-    song_alias:
-    esong_code: 1897A44
-    t_singer_master_id: '31540'
-    singer_name: 立花 うた子
-    singer_alias:
-    available_date: '2007-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんつはき
-    singer_name_ruby: たちはなうたこ
-    song_variation:
-    - esong_code: 1897A44
-      song_name: 寒椿
-      content_type: ''
   - song_name: Can-na-bis (Shake TRAFFIC SIGNAL Remix)
     song_alias:
     esong_code: 1892A4
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1886A29
       song_name: 君の嘘
+      content_type: ''
+  - song_name: 君の街に帰ろう
+    song_alias:
+    esong_code: 1882A43
+    t_singer_master_id: '31333'
+    singer_name: 黒崎とかずみ
+    singer_alias:
+    available_date: '2007-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのまちにかえろう
+    singer_name_ruby: くろさきとかすみ
+    song_variation:
+    - esong_code: 1882A43
+      song_name: 君の街に帰ろう
+      content_type: ''
+  - song_name: 君はいずこに
+    song_alias:
+    esong_code: 1883A5
+    t_singer_master_id: '16044'
+    singer_name: 翔 ゆたか
+    singer_alias:
+    available_date: '2007-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみはいすこに
+    singer_name_ruby: しようゆたか
+    song_variation:
+    - esong_code: 1883A5
+      song_name: 君はいずこに
       content_type: ''

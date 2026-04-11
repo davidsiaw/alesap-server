@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
   - song_name: パパは嫌い (紅組)
     song_alias:
@@ -117,7 +117,7 @@ result:
     singer_alias:
     available_date: '2011-08-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: とっとこハム太郎でちゅ<番組名>
+    tie_up: とっとこハム太郎<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はむたろうとつとこう
@@ -168,7 +168,7 @@ result:
     singer_alias:
     available_date: '2011-08-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂'<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はらんすとる
@@ -434,23 +434,6 @@ result:
       content_type: ''
   - song_name: 春よ来い
     song_alias:
-    esong_code: 2647A34
-    t_singer_master_id: '2176'
-    singer_name: 真木 ことみ
-    singer_alias:
-    available_date: '2011-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるよこい
-    singer_name_ruby: まきことみ
-    song_variation:
-    - esong_code: 2647A34
-      song_name: 春よ来い
-      content_type: ''
-  - song_name: 春よ来い
-    song_alias:
     esong_code: 2647A9
     t_singer_master_id: '2176'
     singer_name: 真木 ことみ
@@ -483,23 +466,40 @@ result:
     - esong_code: 2659B36
       song_name: 春よ来い
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: Hello!
+  - song_name: 春よ来い
     song_alias:
-    esong_code: 2661A15
-    t_singer_master_id: '7891'
-    singer_name: YUKI
+    esong_code: 2647A34
+    t_singer_master_id: '2176'
+    singer_name: 真木 ことみ
     singer_alias:
-    available_date: '2011-08-21'
+    available_date: '2011-08-02'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: はろ
-    singer_name_ruby: ゆき
+    content_type:
+    song_name_ruby: はるよこい
+    singer_name_ruby: まきことみ
     song_variation:
-    - esong_code: 2661A15
-      song_name: Hello!
-      content_type: JOYﾎﾞｰｶﾙ
+    - esong_code: 2647A34
+      song_name: 春よ来い
+      content_type: ''
+  - song_name: HELLO 〜Paradise Kiss〜
+    song_alias:
+    esong_code: 2660B48
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2011-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: はろ
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 2660B48
+      song_name: HELLO 〜Paradise Kiss〜
+      content_type: JOY生演奏
   - song_name: Hello
     song_alias:
     esong_code: 2648A3

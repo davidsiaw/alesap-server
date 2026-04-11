@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 448
-  all_max_cnt: 493
-  all_country_cnt: 448
+  max_cnt: 446
+  all_max_cnt: 491
+  all_country_cnt: 446
   song:
   - song_name: 愛
     song_alias:
@@ -149,7 +149,7 @@ result:
     t_singer_master_id: '10083'
     singer_name: チャン・ウンスク(チャン・スー)
     singer_alias:
-    available_date: '2003-03-19'
+    available_date: '2003-03-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -364,23 +364,6 @@ result:
     - esong_code: 249B21
       song_name: 女神(アテナ)の子守唄
       content_type: ''
-  - song_name: あてのない闇
-    song_alias:
-    esong_code: 412A29
-    t_singer_master_id: '4130'
-    singer_name: 宇都宮 隆(T・UTU)
-    singer_alias:
-    available_date: '2003-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あてのないやみ
-    singer_name_ruby: うつのみやたかし
-    song_variation:
-    - esong_code: 412A29
-      song_name: あてのない闇
-      content_type: ''
   - song_name: ANOTHER
     song_alias:
     esong_code: 417A23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 417B24
       song_name: 雨のハイウェイ
+      content_type: ''
+  - song_name: アリとアリクイ
+    song_alias:
+    esong_code: 416A33
+    t_singer_master_id: '15438'
+    singer_name: 水木 一郎&橋本 潮
+    singer_alias:
+    available_date: '2003-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: なんでもQ あにまるQ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありとありくい
+    singer_name_ruby: みすきいちろうはしもとし
+    song_variation:
+    - esong_code: 416A33
+      song_name: アリとアリクイ
       content_type: ''

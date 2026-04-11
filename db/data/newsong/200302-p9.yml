@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 535
-  all_max_cnt: 597
-  all_country_cnt: 535
+  max_cnt: 533
+  all_max_cnt: 595
+  all_country_cnt: 533
   song:
-  - song_name: 闘え!!キングスカッシャー
-    song_alias:
-    esong_code: 375B22
-    t_singer_master_id: '710'
-    singer_name: 草尾 毅
-    singer_alias:
-    available_date: '2003-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: NG騎士ラムネ&40<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たたかえきんくすか
-    singer_name_ruby: くさおたけし
-    song_variation:
-    - esong_code: 375B22
-      song_name: 闘え!!キングスカッシャー
-      content_type: ''
-  - song_name: ダッシュ!ヒカリアン
-    song_alias:
-    esong_code: 399A27
-    t_singer_master_id: '6594'
-    singer_name: 遠藤 正明
-    singer_alias:
-    available_date: '2003-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 超特急ヒカリアン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たつしゆひかりあん
-    singer_name_ruby: えんとうまさあき
-    song_variation:
-    - esong_code: 399A27
-      song_name: ダッシュ!ヒカリアン
-      content_type: ''
   - song_name: たとえば墜ちてゆくなら
     song_alias:
     esong_code: 198B24
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 217B8
       song_name: デート日和
+      content_type: ''
+  - song_name: テームズ河のDANCE
+    song_alias:
+    esong_code: 400B31
+    t_singer_master_id: '1429'
+    singer_name: ダ・カーポ
+    singer_alias:
+    available_date: '2003-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 名探偵ホームズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: てむすかわのた
+    singer_name_ruby: たかほ
+    song_variation:
+    - esong_code: 400B31
+      song_name: テームズ河のDANCE
+      content_type: ''
+  - song_name: TELEPHONE LOVE
+    song_alias:
+    esong_code: 400B28
+    t_singer_master_id: '15355'
+    singer_name: 曽我部 恵一
+    singer_alias:
+    available_date: '2003-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てれふおんらふ
+    singer_name_ruby: そかへけいいち
+    song_variation:
+    - esong_code: 400B28
+      song_name: TELEPHONE LOVE
       content_type: ''

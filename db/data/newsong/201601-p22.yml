@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: 何度でも
-    song_alias:
-    esong_code: 3579A4
-    t_singer_master_id: '10098'
-    singer_name: Crystal Kay
-    singer_alias:
-    available_date: '2016-01-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: なんとても
-    singer_name_ruby: くりすたるけい
-    song_variation:
-    - esong_code: 3579A4
-      song_name: 何度でも
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: No.7
     song_alias:
     esong_code: 3590A32
@@ -313,23 +296,6 @@ result:
     - esong_code: 3578A22
       song_name: ねこ曜日
       content_type: ''
-  - song_name: NEVER (ドラマver.)
-    song_alias:
-    esong_code: 3579B44
-    t_singer_master_id: '2262'
-    singer_name: MIE
-    singer_alias:
-    available_date: '2016-01-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ねは
-    singer_name_ruby: み
-    song_variation:
-    - esong_code: 3579B44
-      song_name: NEVER (ドラマver.)
-      content_type: DAM生音
   - song_name: NEVER SAY GOOD-BYE- (ドラマver.)
     song_alias:
     esong_code: 3579B22
@@ -346,6 +312,23 @@ result:
     song_variation:
     - esong_code: 3579B22
       song_name: NEVER SAY GOOD-BYE- (ドラマver.)
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: NEVER (ドラマver.)
+    song_alias:
+    esong_code: 3579B44
+    t_singer_master_id: '2262'
+    singer_name: MIE
+    singer_alias:
+    available_date: '2016-01-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: ねはとらまは
+    singer_name_ruby: み
+    song_variation:
+    - esong_code: 3579B44
+      song_name: NEVER (ドラマver.)
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 眠れぬ夜は自分のせい
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3577A45
       song_name: NO ME WITHOUT YOU
+      content_type: ''
+  - song_name: NO MORE CRY
+    song_alias:
+    esong_code: 3587A19
+    t_singer_master_id: '33226'
+    singer_name: C&K
+    singer_alias:
+    available_date: '2016-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のもあくらい
+    singer_name_ruby: しあんとけ
+    song_variation:
+    - esong_code: 3587A19
+      song_name: NO MORE CRY
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1199
-  all_max_cnt: 1301
-  all_country_cnt: 1199
+  max_cnt: 1196
+  all_max_cnt: 1298
+  all_country_cnt: 1196
   song:
   - song_name: いつかまた会いましょう
     song_alias:
@@ -211,23 +211,6 @@ result:
     - esong_code: 1738B11
       song_name: 命の行方 〜どうぶつたちへのレクイエム〜
       content_type: ''
-  - song_name: 祈り (Album Ver.)
-    song_alias:
-    esong_code: 1740B9
-    t_singer_master_id: '1230'
-    singer_name: 鈴木 トオル
-    singer_alias:
-    available_date: '2007-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのり
-    singer_name_ruby: すすきとおる
-    song_variation:
-    - esong_code: 1740B9
-      song_name: 祈り (Album Ver.)
-      content_type: ''
   - song_name: 祈り
     song_alias:
     esong_code: 1723A15
@@ -244,6 +227,23 @@ result:
     song_variation:
     - esong_code: 1723A15
       song_name: 祈り
+      content_type: ''
+  - song_name: 祈り (Album Ver.)
+    song_alias:
+    esong_code: 1740B9
+    t_singer_master_id: '1230'
+    singer_name: 鈴木 トオル
+    singer_alias:
+    available_date: '2007-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのり
+    singer_name_ruby: すすきとおる
+    song_variation:
+    - esong_code: 1740B9
+      song_name: 祈り (Album Ver.)
       content_type: ''
   - song_name: even though.....
     song_alias:

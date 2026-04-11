@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1176
-  all_max_cnt: 1313
-  all_country_cnt: 1176
+  max_cnt: 1175
+  all_max_cnt: 1312
+  all_country_cnt: 1175
   song:
   - song_name: Anocent
     song_alias:
@@ -77,23 +77,6 @@ result:
       content_type: ''
   - song_name: AHEAD
     song_alias:
-    esong_code: 3090B8
-    t_singer_master_id: '32344'
-    singer_name: VAMPS
-    singer_alias:
-    available_date: '2013-08-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あへつと
-    singer_name_ruby: はんふす
-    song_variation:
-    - esong_code: 3090B8
-      song_name: AHEAD
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: AHEAD
-    song_alias:
     esong_code: 3090A12
     t_singer_master_id: '32344'
     singer_name: VAMPS
@@ -109,6 +92,23 @@ result:
     - esong_code: 3090A12
       song_name: AHEAD
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: AHEAD
+    song_alias:
+    esong_code: 3090B8
+    t_singer_master_id: '32344'
+    singer_name: VAMPS
+    singer_alias:
+    available_date: '2013-08-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あへつと
+    singer_name_ruby: はんふす
+    song_variation:
+    - esong_code: 3090B8
+      song_name: AHEAD
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 甘い罠 〜Je T'aime
     song_alias:
     esong_code: 2466B28
@@ -298,23 +298,6 @@ result:
       content_type: ''
   - song_name: 雨の函館
     song_alias:
-    esong_code: 3092B12
-    t_singer_master_id: '541'
-    singer_name: 角川 博
-    singer_alias:
-    available_date: '2013-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あめのはこたて
-    singer_name_ruby: かとかわひろし
-    song_variation:
-    - esong_code: 3092B12
-      song_name: 雨の函館
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 雨の函館
-    song_alias:
     esong_code: 3093A38
     t_singer_master_id: '541'
     singer_name: 角川 博
@@ -330,13 +313,30 @@ result:
     - esong_code: 3093A38
       song_name: 雨の函館
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 雨の函館
+    song_alias:
+    esong_code: 3092B12
+    t_singer_master_id: '541'
+    singer_name: 角川 博
+    singer_alias:
+    available_date: '2013-08-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あめのはこたて
+    singer_name_ruby: かとかわひろし
+    song_variation:
+    - esong_code: 3092B12
+      song_name: 雨の函館
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 雨降り坂道
     song_alias:
     esong_code: 3097B13
     t_singer_master_id: '10507'
     singer_name: 氷川 きよし
     singer_alias:
-    available_date: '2013-08-27'
+    available_date: '2013-08-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

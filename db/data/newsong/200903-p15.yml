@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
+  - song_name: サヨナラと云わないで
+    song_alias:
+    esong_code: 2259B9
+    t_singer_master_id: '36188'
+    singer_name: 大橋 節夫
+    singer_alias:
+    available_date: '2009-03-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよならといわないて
+    singer_name_ruby: おおはしせつお
+    song_variation:
+    - esong_code: 2259B9
+      song_name: サヨナラと云わないで
+      content_type: ''
   - song_name: サヨナラの朝
     song_alias:
     esong_code: 2254A32
@@ -143,7 +160,7 @@ result:
     - esong_code: 2281A46
       song_name: Thank you
       content_type: ''
-  - song_name: 三国志ラヴ・テーマ
+  - song_name: 三国志 (ラヴ・テーマ)
     song_alias:
     esong_code: 2265B1
     t_singer_master_id: '36234'
@@ -151,14 +168,14 @@ result:
     singer_alias:
     available_date: '2009-03-14'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: 人形劇三国志<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さんこくしらふて
     singer_name_ruby: こいけたまお
     song_variation:
     - esong_code: 2265B1
-      song_name: 三国志ラヴ・テーマ
+      song_name: 三国志 (ラヴ・テーマ)
       content_type: ''
   - song_name: 三年寝太郎
     song_alias:
@@ -500,20 +517,3 @@ result:
     - esong_code: 2254B39
       song_name: shiningray feat.初音ミク
       content_type: VOCALOID
-  - song_name: SHOUT!
-    song_alias:
-    esong_code: 2269B30
-    t_singer_master_id: '36244'
-    singer_name: 米本 千珠&TIGER-G
-    singer_alias:
-    available_date: '2009-03-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: センチメンタル・グラフティ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやうと
-    singer_name_ruby: よねもとちつたいかし
-    song_variation:
-    - esong_code: 2269B30
-      song_name: SHOUT!
-      content_type: ''

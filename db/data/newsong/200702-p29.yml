@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1199
-  all_max_cnt: 1301
-  all_country_cnt: 1199
+  max_cnt: 1196
+  all_max_cnt: 1298
+  all_country_cnt: 1196
   song:
-  - song_name: 番屋
-    song_alias:
-    esong_code: 1708B27
-    t_singer_master_id: '1107'
-    singer_name: 神野 美伽
-    singer_alias:
-    available_date: '2007-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: はんや
-    singer_name_ruby: しんのみか
-    song_variation:
-    - esong_code: 1708B27
-      song_name: 番屋
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Here I am!
     song_alias:
     esong_code: 1509B3
@@ -111,23 +94,6 @@ result:
       content_type: ''
   - song_name: Picture Perfect
     song_alias:
-    esong_code: 1731B2
-    t_singer_master_id: '28990'
-    singer_name: MONKEY MAJIK+m-flo
-    singer_alias:
-    available_date: '2007-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: ひくちやはふ
-    singer_name_ruby: もんきましつくえむふろう
-    song_variation:
-    - esong_code: 1731B2
-      song_name: Picture Perfect
-      content_type: DAM良音
-  - song_name: Picture Perfect
-    song_alias:
     esong_code: 1723A35
     t_singer_master_id: '28990'
     singer_name: MONKEY MAJIK+m-flo
@@ -143,6 +109,23 @@ result:
     - esong_code: 1723A35
       song_name: Picture Perfect
       content_type: ''
+  - song_name: Picture Perfect
+    song_alias:
+    esong_code: 1731B2
+    t_singer_master_id: '28990'
+    singer_name: MONKEY MAJIK+m-flo
+    singer_alias:
+    available_date: '2007-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: ひくちやはふ
+    singer_name_ruby: もんきましつくえむふろう
+    song_variation:
+    - esong_code: 1731B2
+      song_name: Picture Perfect
+      content_type: DAM良音
   - song_name: ひぐらし
     song_alias:
     esong_code: 1734B39
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1736A1
       song_name: 火花
+      content_type: ''
+  - song_name: Beeper Love (Saurus Version)
+    song_alias:
+    esong_code: 980A14
+    t_singer_master_id: '6543'
+    singer_name: NOW
+    singer_alias:
+    available_date: '2007-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ママはぽよぽよザウルスがお好き<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひはらふ
+    singer_name_ruby: なう
+    song_variation:
+    - esong_code: 980A14
+      song_name: Beeper Love (Saurus Version)
       content_type: ''

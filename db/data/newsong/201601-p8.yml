@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: 神様の涙
-    song_alias:
-    esong_code: 3580A13
-    t_singer_master_id: '52461'
-    singer_name: 赤色のグリッター
-    singer_alias:
-    available_date: '2016-01-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かみさまのなみた
-    singer_name_ruby: あかいろのくりつた
-    song_variation:
-    - esong_code: 3580A13
-      song_name: 神様の涙
-      content_type: ''
   - song_name: 神様も言う通りに
     song_alias:
     esong_code: 3582B28
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2016-01-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダー バトライド・ウォー 創生<番組名>
+    tie_up: 仮面ライダー(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かられすいめし
@@ -315,6 +298,23 @@ result:
       content_type: ''
   - song_name: 川の流れのように
     song_alias:
+    esong_code: 3279A44
+    t_singer_master_id: '2448'
+    singer_name: 八代 亜紀
+    singer_alias:
+    available_date: '2016-01-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かわのなかれのよう
+    singer_name_ruby: やしろあき
+    song_variation:
+    - esong_code: 3279A44
+      song_name: 川の流れのように
+      content_type: ''
+  - song_name: 川の流れのように
+    song_alias:
     esong_code: 3578B39
     t_singer_master_id: '44184'
     singer_name: 岩佐 美咲(AKB48)
@@ -345,23 +345,6 @@ result:
     singer_name_ruby: きたはらみれい
     song_variation:
     - esong_code: 2568A33
-      song_name: 川の流れのように
-      content_type: ''
-  - song_name: 川の流れのように
-    song_alias:
-    esong_code: 3279A44
-    t_singer_master_id: '2448'
-    singer_name: 八代 亜紀
-    singer_alias:
-    available_date: '2016-01-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かわのなかれのよう
-    singer_name_ruby: やしろあき
-    song_variation:
-    - esong_code: 3279A44
       song_name: 川の流れのように
       content_type: ''
   - song_name: GAN×2!ACTION 〜アキラの性分〜
@@ -517,3 +500,20 @@ result:
     - esong_code: 2984B11
       song_name: 北の町へ verⅡ
       content_type: ''
+  - song_name: 気づかず過ぎた初恋
+    song_alias:
+    esong_code: 3579A3
+    t_singer_master_id: '2221'
+    singer_name: 松任谷 由実(荒井由実)
+    singer_alias:
+    available_date: '2016-01-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: リトルプリンス 星の王子さまと私<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きつかすすきた
+    singer_name_ruby: まつとうやゆみあらいゆみ
+    song_variation:
+    - esong_code: 3579A3
+      song_name: 気づかず過ぎた初恋
+      content_type: JOYﾎﾞｰｶﾙ

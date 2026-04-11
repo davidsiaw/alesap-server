@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 814
-  all_max_cnt: 889
-  all_country_cnt: 814
+  max_cnt: 807
+  all_max_cnt: 882
+  all_country_cnt: 807
   song:
   - song_name: I AM
     song_alias:
@@ -449,23 +449,6 @@ result:
     - esong_code: 4494B28
       song_name: 赤い幻夜
       content_type: ''
-  - song_name: 灯
-    song_alias:
-    esong_code: 4496A16
-    t_singer_master_id: '32778'
-    singer_name: 若林 直美
-    singer_alias:
-    available_date: '2021-04-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: THE IDOLM@STER STELLA STAGE<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかし
-    singer_name_ruby: わかはやしなおみ
-    song_variation:
-    - esong_code: 4496A16
-      song_name: 灯
-      content_type: ''
   - song_name: 証
     song_alias:
     esong_code: 4488A5
@@ -482,6 +465,23 @@ result:
     song_variation:
     - esong_code: 4488A5
       song_name: 証
+      content_type: ''
+  - song_name: 灯
+    song_alias:
+    esong_code: 4496A16
+    t_singer_master_id: '32778'
+    singer_name: 若林 直美
+    singer_alias:
+    available_date: '2021-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: THE IDOLM@STER STELLA STAGE<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかし
+    singer_name_ruby: わかはやしなおみ
+    song_variation:
+    - esong_code: 4496A16
+      song_name: 灯
       content_type: ''
   - song_name: 赤ちょうちん
     song_alias:

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
+  - song_name: See you again
+    song_alias:
+    esong_code: 1629A11
+    t_singer_master_id: '17386'
+    singer_name: 湘南乃風
+    singer_alias:
+    available_date: '2006-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆあけいん
+    singer_name_ruby: しようなんのかせ
+    song_variation:
+    - esong_code: 1629A11
+      song_name: See you again
+      content_type: ''
   - song_name: 17の月
     song_alias:
     esong_code: 1627A33
@@ -142,6 +159,23 @@ result:
     song_variation:
     - esong_code: 1643A4
       song_name: 順番には逆らえない
+      content_type: ''
+  - song_name: 情炎海峡
+    song_alias:
+    esong_code: 1483B30
+    t_singer_master_id: '33726'
+    singer_name: やしま ひろみ
+    singer_alias:
+    available_date: '2006-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようえんかいきよ
+    singer_name_ruby: やしまひろみ
+    song_variation:
+    - esong_code: 1483B30
+      song_name: 情炎海峡
       content_type: ''
   - song_name: しょうがない人
     song_alias:
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 1646B8
       song_name: 深呼吸
-      content_type: ''
-  - song_name: じんじんさせて
-    song_alias:
-    esong_code: 1643A22
-    t_singer_master_id: '1967'
-    singer_name: ピンク・レディー
-    singer_alias:
-    available_date: '2006-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんしんさせて
-    singer_name_ruby: ひんくれてい
-    song_variation:
-    - esong_code: 1643A22
-      song_name: じんじんさせて
-      content_type: ''
-  - song_name: 人生遠まわり
-    song_alias:
-    esong_code: 195B49
-    t_singer_master_id: '610'
-    singer_name: 神戸 一郎
-    singer_alias:
-    available_date: '2006-09-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんせいとおまわり
-    singer_name_ruby: かんへいちろう
-    song_variation:
-    - esong_code: 195B49
-      song_name: 人生遠まわり
       content_type: ''

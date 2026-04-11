@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
-  - song_name: 桜
-    song_alias:
-    esong_code: 3081B38
-    t_singer_master_id: '15705'
-    singer_name: 河口 恭吾
-    singer_alias:
-    available_date: '2013-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: さくら
-    singer_name_ruby: かわくちきようこ
-    song_variation:
-    - esong_code: 3081B38
-      song_name: 桜
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: SAKURA
     song_alias:
     esong_code: 3076B43
@@ -51,7 +34,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: さくらいとしいきみへ
     singer_name_ruby: あつし
     song_variation:
@@ -71,7 +54,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: さくらいとしいきみへ
     singer_name_ruby: あつし
     song_variation:
@@ -491,23 +474,6 @@ result:
       content_type: ''
   - song_name: 佐渡炎歌
     song_alias:
-    esong_code: 3073B30
-    t_singer_master_id: '1165'
-    singer_name: 城之内 早苗
-    singer_alias:
-    available_date: '2013-07-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さとえんか
-    singer_name_ruby: しようのうちさなえ
-    song_variation:
-    - esong_code: 3073B30
-      song_name: 佐渡炎歌
-      content_type: DAM生音
-  - song_name: 佐渡炎歌
-    song_alias:
     esong_code: 3074A7
     t_singer_master_id: '1165'
     singer_name: 城之内 早苗
@@ -523,3 +489,37 @@ result:
     - esong_code: 3074A7
       song_name: 佐渡炎歌
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 佐渡炎歌
+    song_alias:
+    esong_code: 3073B30
+    t_singer_master_id: '1165'
+    singer_name: 城之内 早苗
+    singer_alias:
+    available_date: '2013-07-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: さとえんか
+    singer_name_ruby: しようのうちさなえ
+    song_variation:
+    - esong_code: 3073B30
+      song_name: 佐渡炎歌
+      content_type: DAM生音
+  - song_name: 3rd_05 My dear friend [パセラオリジナル]
+    song_alias:
+    esong_code: 3075A16
+    t_singer_master_id: '48318'
+    singer_name: 桃ヶ原 ぴんく
+    singer_alias:
+    available_date: '2013-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スマイル☆シューター<番組名>
+    country_code: '0'
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    song_name_ruby: さとせろふあい
+    singer_name_ruby: ももかはらひんくはせら
+    song_variation:
+    - esong_code: 3075A16
+      song_name: 3rd_05 My dear friend [パセラオリジナル]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ

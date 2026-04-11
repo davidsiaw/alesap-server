@@ -3,26 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 973
-  all_max_cnt: 1055
-  all_country_cnt: 973
+  max_cnt: 965
+  all_max_cnt: 1047
+  all_country_cnt: 965
   song:
-  - song_name: 暁
+  - song_name: アカツキ
     song_alias:
-    esong_code: 2425B15
-    t_singer_master_id: '1457'
-    singer_name: CHAGE&ASKA
+    esong_code: 2425B24
+    t_singer_master_id: '33777'
+    singer_name: HI LOCKATION MARKETS
     singer_alias:
-    available_date: '2009-11-11'
+    available_date: '2009-11-10'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: あかつき
-    singer_name_ruby: ちやけあんとあすか
+    singer_name_ruby: はいろけしよんまけつつ
     song_variation:
-    - esong_code: 2425B15
-      song_name: 暁
+    - esong_code: 2425B24
+      song_name: アカツキ
       content_type: ''
   - song_name: あかね空
     song_alias:
@@ -92,6 +92,23 @@ result:
     - esong_code: 2424A25
       song_name: Actually
       content_type: ''
+  - song_name: again (YUI Acoustic Version)
+    song_alias:
+    esong_code: 2440B31
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2009-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鋼の錬金術師 (2009)<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あけいん
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 2440B31
+      song_name: again (YUI Acoustic Version)
+      content_type: DAM生音
   - song_name: Again
     song_alias:
     esong_code: 2423B45
@@ -126,23 +143,6 @@ result:
     - esong_code: 2430A8
       song_name: Again 〜もう一度逢いたくて〜
       content_type: ''
-  - song_name: again (YUI Acoustic Version)
-    song_alias:
-    esong_code: 2440B31
-    t_singer_master_id: '22240'
-    singer_name: YUI
-    singer_alias:
-    available_date: '2009-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 鋼の錬金術師 (2009)<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あけいん
-    singer_name_ruby: ゆい
-    song_variation:
-    - esong_code: 2440B31
-      song_name: again (YUI Acoustic Version)
-      content_type: DAM生音
   - song_name: アゲきゅんLOVE
     song_alias:
     esong_code: 2417A10
@@ -302,7 +302,7 @@ result:
     t_singer_master_id: '14621'
     singer_name: MINMI
     singer_alias:
-    available_date: '2009-11-10'
+    available_date: '2009-11-11'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

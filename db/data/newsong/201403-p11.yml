@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: 冠 Revolution (I Like Enka MIX)
-    song_alias:
-    esong_code: 196B36
-    t_singer_master_id: '611'
-    singer_name: 冠 二郎
-    singer_alias:
-    available_date: '2014-03-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんむりれほりゆ
-    singer_name_ruby: かんむりしろう
-    song_variation:
-    - esong_code: 196B36
-      song_name: 冠 Revolution (I Like Enka MIX)
-      content_type: ''
   - song_name: 祇園のおんな
     song_alias:
     esong_code: 3214B14
@@ -196,23 +179,6 @@ result:
       content_type: ''
   - song_name: 北の嫁っこ
     song_alias:
-    esong_code: 3212B10
-    t_singer_master_id: '2292'
-    singer_name: 水沢 明美
-    singer_alias:
-    available_date: '2014-03-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きたのよめつこ
-    singer_name_ruby: みすさわあけみ
-    song_variation:
-    - esong_code: 3212B10
-      song_name: 北の嫁っこ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 北の嫁っこ
-    song_alias:
     esong_code: 3212A47
     t_singer_master_id: '2292'
     singer_name: 水沢 明美
@@ -228,6 +194,23 @@ result:
     - esong_code: 3212A47
       song_name: 北の嫁っこ
       content_type: JOY生演奏
+  - song_name: 北の嫁っこ
+    song_alias:
+    esong_code: 3212B10
+    t_singer_master_id: '2292'
+    singer_name: 水沢 明美
+    singer_alias:
+    available_date: '2014-03-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きたのよめつこ
+    singer_name_ruby: みすさわあけみ
+    song_variation:
+    - esong_code: 3212B10
+      song_name: 北の嫁っこ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 北の乱空吹雪
     song_alias:
     esong_code: 3221B49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3220A21
       song_name: キミに 〜Maybe I fall in love〜
+      content_type: ''
+  - song_name: 君の歌、僕の歌
+    song_alias:
+    esong_code: 3209A10
+    t_singer_master_id: '827'
+    singer_name: CoCo
+    singer_alias:
+    available_date: '2014-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのうたほくのう
+    singer_name_ruby: ここ
+    song_variation:
+    - esong_code: 3209A10
+      song_name: 君の歌、僕の歌
       content_type: ''

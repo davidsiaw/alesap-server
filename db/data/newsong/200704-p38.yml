@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
-  - song_name: 冷羽ひとり
-    song_alias:
-    esong_code: 1757B48
-    t_singer_master_id: '2870'
-    singer_name: 緒方 恵美
-    singer_alias:
-    available_date: '2007-04-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 吸血姫美夕<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: れいはひとり
-    singer_name_ruby: おかためくみ
-    song_variation:
-    - esong_code: 1757B48
-      song_name: 冷羽ひとり
-      content_type: ''
   - song_name: Layla
     song_alias:
     esong_code: 1761B26
@@ -160,23 +143,6 @@ result:
     - esong_code: 66A22
       song_name: Let's go!タフガイ
       content_type: ''
-  - song_name: レッツ・ダンス
-    song_alias:
-    esong_code: 1771B30
-    t_singer_master_id: '12600'
-    singer_name: ザ・スウィング・ウエスト
-    singer_alias:
-    available_date: '2007-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: れつつたんす
-    singer_name_ruby: さすういんくうえ
-    song_variation:
-    - esong_code: 1771B30
-      song_name: レッツ・ダンス
-      content_type: ''
   - song_name: Let's Dance (木更津サリィ)
     song_alias:
     esong_code: 1760B16
@@ -193,6 +159,23 @@ result:
     song_variation:
     - esong_code: 1760B16
       song_name: Let's Dance (木更津サリィ)
+      content_type: ''
+  - song_name: レッツ・ダンス
+    song_alias:
+    esong_code: 1771B30
+    t_singer_master_id: '12600'
+    singer_name: ザ・スウィング・ウエスト
+    singer_alias:
+    available_date: '2007-04-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: れつつたんす
+    singer_name_ruby: さすういんくうえ
+    song_variation:
+    - esong_code: 1771B30
+      song_name: レッツ・ダンス
       content_type: ''
   - song_name: let go
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 1760B4
       song_name: Rolling star
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 輪舞曲
+    song_alias:
+    esong_code: 1771A10
+    t_singer_master_id: '29259'
+    singer_name: 黒薔薇保存会
+    singer_alias:
+    available_date: '2007-04-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろんと
+    singer_name_ruby: くろはらほそんかい
+    song_variation:
+    - esong_code: 1771A10
+      song_name: 輪舞曲
+      content_type: ''

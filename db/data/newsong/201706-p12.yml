@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
-  - song_name: 君が好きだよ
-    song_alias:
-    esong_code: 3829A17
-    t_singer_master_id: '59092'
-    singer_name: 桜川 たつる
-    singer_alias:
-    available_date: '2017-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみかすきたよ
-    singer_name_ruby: さくらかわたつる
-    song_variation:
-    - esong_code: 3829A17
-      song_name: 君が好きだよ
-      content_type: ''
   - song_name: 君がまだ知らない世界で
     song_alias:
     esong_code: 3828B19
@@ -228,23 +211,6 @@ result:
     - esong_code: 3830A20
       song_name: Catch the Moment
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Catch Me!
-    song_alias:
-    esong_code: 3830B38
-    t_singer_master_id: '59107'
-    singer_name: miracle^2 from ミラクルちゅーんず!
-    singer_alias:
-    available_date: '2017-06-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドル×戦士 ミラクルちゅーんず!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやつちみ
-    singer_name_ruby: みらくるみらくるふろむみらくるちゆんす
-    song_variation:
-    - esong_code: 3830B38
-      song_name: Catch Me!
-      content_type: ''
   - song_name: Catch Me
     song_alias:
     esong_code: 3833A2
@@ -261,6 +227,23 @@ result:
     song_variation:
     - esong_code: 3833A2
       song_name: Catch Me
+      content_type: ''
+  - song_name: Catch Me!
+    song_alias:
+    esong_code: 3830B38
+    t_singer_master_id: '59107'
+    singer_name: miracle^2 from ミラクルちゅーんず!
+    singer_alias:
+    available_date: '2017-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドル×戦士 ミラクルちゅーんず!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやつちみ
+    singer_name_ruby: みらくるみらくるふろむみらくるちゆんす
+    song_variation:
+    - esong_code: 3830B38
+      song_name: Catch Me!
       content_type: ''
   - song_name: GALAXY HidE and SeeK
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 3824A40
       song_name: 口笛
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: good for nothing
+    song_alias:
+    esong_code: 3828A11
+    t_singer_master_id: '59075'
+    singer_name: MR.8
+    singer_alias:
+    available_date: '2017-06-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとふおなつ
+    singer_name_ruby: みすたえいと
+    song_variation:
+    - esong_code: 3828A11
+      song_name: good for nothing
+      content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: 人生花ごよみ
+    song_alias:
+    esong_code: 3037B4
+    t_singer_master_id: '1824'
+    singer_name: 原田 悠里
+    singer_alias:
+    available_date: '2013-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: しんせいはなこよ
+    singer_name_ruby: はらたゆり
+    song_variation:
+    - esong_code: 3037B4
+      song_name: 人生花ごよみ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 人生を語らず
     song_alias:
     esong_code: 3031A6
@@ -40,23 +57,6 @@ result:
     song_variation:
     - esong_code: 3033A16
       song_name: 人体夜行
-      content_type: ''
-  - song_name: シンデレラモラトリアム
-    song_alias:
-    esong_code: 3034A2
-    t_singer_master_id: '39215'
-    singer_name: CONNECT
-    singer_alias:
-    available_date: '2013-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんてれらもらとり
-    singer_name_ruby: こねくと
-    song_variation:
-    - esong_code: 3034A2
-      song_name: シンデレラモラトリアム
       content_type: ''
   - song_name: Sweet Sky
     song_alias:
@@ -268,7 +268,7 @@ result:
     t_singer_master_id: '41076'
     singer_name: PASSPO☆(ぱすぽ☆)
     singer_alias:
-    available_date: '2013-05-21'
+    available_date: '2013-05-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -315,23 +315,6 @@ result:
       content_type: ''
   - song_name: SPARK
     song_alias:
-    esong_code: 3034B9
-    t_singer_master_id: '41096'
-    singer_name: 三代目 J Soul Brothers from EXILE TRIBE
-    singer_alias:
-    available_date: '2013-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: すはく
-    singer_name_ruby: さんたいめしえいそうるふらさす
-    song_variation:
-    - esong_code: 3034B9
-      song_name: SPARK
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: SPARK
-    song_alias:
     esong_code: 3034A14
     t_singer_master_id: '41096'
     singer_name: 三代目 J Soul Brothers from EXILE TRIBE
@@ -347,6 +330,23 @@ result:
     - esong_code: 3034A14
       song_name: SPARK
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: SPARK
+    song_alias:
+    esong_code: 3034B9
+    t_singer_master_id: '41096'
+    singer_name: 三代目 J Soul Brothers from EXILE TRIBE
+    singer_alias:
+    available_date: '2013-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: すはく
+    singer_name_ruby: さんたいめしえいそうるふらさす
+    song_variation:
+    - esong_code: 3034B9
+      song_name: SPARK
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: すばらしい日々
     song_alias:
     esong_code: 3034A3

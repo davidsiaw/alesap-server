@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: いきまっしょい！
+    song_alias:
+    esong_code: 821B28
+    t_singer_master_id: '8409'
+    singer_name: モーニング娘。
+    singer_alias:
+    available_date: '2002-04-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いきまつしよい
+    singer_name_ruby: もにんくむすめ
+    song_variation:
+    - esong_code: 821B28
+      song_name: いきまっしょい！
+      content_type: ''
   - song_name: 急げ！若者
     song_alias:
     esong_code: 817B31
@@ -83,7 +100,7 @@ result:
     singer_alias:
     available_date: '2002-04-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦2 〜君、死にたもうことなかれ〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いとしのしやんほ
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 833A25
       song_name: 笑顔を咲かせましょう
-      content_type: ''
-  - song_name: 液体
-    song_alias:
-    esong_code: 829B25
-    t_singer_master_id: '7906'
-    singer_name: Plastic Tree
-    singer_alias:
-    available_date: '2002-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えきたい
-    singer_name_ruby: ふらすていつくとうり
-    song_variation:
-    - esong_code: 829B25
-      song_name: 液体
       content_type: ''

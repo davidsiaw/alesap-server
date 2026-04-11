@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1336
-  all_max_cnt: 1508
-  all_country_cnt: 1336
+  max_cnt: 1321
+  all_max_cnt: 1493
+  all_country_cnt: 1321
   song:
   - song_name: 悪魔の踊り方
     song_alias:
@@ -126,7 +126,7 @@ result:
     - esong_code: 4113B23
       song_name: 明日への階段 〜ルドルフ・The Last Kiss〜
       content_type: ''
-  - song_name: アスター feat.初音ミク
+  - song_name: アスター
     song_alias:
     esong_code: 4105B27
     t_singer_master_id: '56309'
@@ -141,7 +141,7 @@ result:
     singer_name_ruby: はるまきこはん
     song_variation:
     - esong_code: 4105B27
-      song_name: アスター feat.初音ミク
+      song_name: アスター
       content_type: VOCALOID
   - song_name: ASTRO=SIGN [パセラオリジナル]
     song_alias:
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: ADAMAS
     song_alias:
-    esong_code: 4109A46
-    t_singer_master_id: '41517'
-    singer_name: LiSA
-    singer_alias:
-    available_date: '2018-12-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ソードアート・オンライン アリシゼーション<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あたます
-    singer_name_ruby: りさ
-    song_variation:
-    - esong_code: 4109A46
-      song_name: ADAMAS
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: ADAMAS
-    song_alias:
     esong_code: 4112A49
     t_singer_master_id: '41517'
     singer_name: LiSA
@@ -296,6 +279,23 @@ result:
     - esong_code: 4112A49
       song_name: ADAMAS
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: ADAMAS
+    song_alias:
+    esong_code: 4109A46
+    t_singer_master_id: '41517'
+    singer_name: LiSA
+    singer_alias:
+    available_date: '2018-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ソードアート・オンライン アリシゼーション<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あたます
+    singer_name_ruby: りさ
+    song_variation:
+    - esong_code: 4109A46
+      song_name: ADAMAS
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: ADAMAS (TV Size)
     song_alias:
     esong_code: 4112B35

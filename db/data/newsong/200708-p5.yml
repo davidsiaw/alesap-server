@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1046
-  all_max_cnt: 1110
-  all_country_cnt: 1046
+  max_cnt: 1043
+  all_max_cnt: 1107
+  all_country_cnt: 1043
   song:
-  - song_name: 大石のテリトリー
-    song_alias:
-    esong_code: 1850B40
-    t_singer_master_id: '24408'
-    singer_name: 青学メンバー
-    singer_alias:
-    available_date: '2007-08-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テニスの王子様 (ミュージカル)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおいしのてりとり
-    singer_name_ruby: せいかくめんは
-    song_variation:
-    - esong_code: 1850B40
-      song_name: 大石のテリトリー
-      content_type: ''
   - song_name: OSAKAラブ・ストーリー
     song_alias:
     esong_code: 776A33
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1859B36
       song_name: 折紙人生
+      content_type: ''
+  - song_name: オールウェイズ -Many Rivers Crossed-
+    song_alias:
+    esong_code: 1867A27
+    t_singer_master_id: '16424'
+    singer_name: nobodyknows+
+    singer_alias:
+    available_date: '2007-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おるうえいす
+    singer_name_ruby: のはていのうす
+    song_variation:
+    - esong_code: 1867A27
+      song_name: オールウェイズ -Many Rivers Crossed-
       content_type: ''

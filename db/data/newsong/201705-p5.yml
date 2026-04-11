@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
   - song_name: Wake me up
     song_alias:
@@ -400,23 +400,6 @@ result:
       content_type: ''
   - song_name: 永遠の愛・恋文
     song_alias:
-    esong_code: 3805B36
-    t_singer_master_id: '2433'
-    singer_name: 森若 里子
-    singer_alias:
-    available_date: '2017-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: えいえんのあいこいふ
-    singer_name_ruby: もりわかさとこ
-    song_variation:
-    - esong_code: 3805B36
-      song_name: 永遠の愛・恋文
-      content_type: JOY生演奏
-  - song_name: 永遠の愛・恋文
-    song_alias:
     esong_code: 3805B12
     t_singer_master_id: '2433'
     singer_name: 森若 里子
@@ -432,23 +415,23 @@ result:
     - esong_code: 3805B12
       song_name: 永遠の愛・恋文
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: EXPLODE
+  - song_name: 永遠の愛・恋文
     song_alias:
-    esong_code: 3801A44
-    t_singer_master_id: '42909'
-    singer_name: Kis-My-Ft2
+    esong_code: 3805B36
+    t_singer_master_id: '2433'
+    singer_name: 森若 里子
     singer_alias:
-    available_date: '2017-05-03'
+    available_date: '2017-05-10'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: えくすふろと
-    singer_name_ruby: きすまいふつとつ
+    content_type: JOY生演奏
+    song_name_ruby: えいえんのあいこいふ
+    singer_name_ruby: もりわかさとこ
     song_variation:
-    - esong_code: 3801A44
-      song_name: EXPLODE
-      content_type: ''
+    - esong_code: 3805B36
+      song_name: 永遠の愛・恋文
+      content_type: JOY生演奏
   - song_name: EXPLODE
     song_alias:
     esong_code: 3807A38
@@ -466,6 +449,23 @@ result:
     - esong_code: 3807A38
       song_name: EXPLODE
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: EXPLODE
+    song_alias:
+    esong_code: 3801A44
+    t_singer_master_id: '42909'
+    singer_name: Kis-My-Ft2
+    singer_alias:
+    available_date: '2017-05-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えくすふろと
+    singer_name_ruby: きすまいふつとつ
+    song_variation:
+    - esong_code: 3801A44
+      song_name: EXPLODE
+      content_type: ''
   - song_name: エゴサーチ症候群
     song_alias:
     esong_code: 3806B36

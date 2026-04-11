@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 531
-  all_max_cnt: 644
-  all_country_cnt: 531
+  max_cnt: 533
+  all_max_cnt: 646
+  all_country_cnt: 533
   song:
+  - song_name: チュク・チュク・チャン
+    song_alias:
+    esong_code: 990B38
+    t_singer_master_id: '15092'
+    singer_name: 山本 まさゆき&サカモト児童合唱団
+    singer_alias:
+    available_date: '2003-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: タイムボカン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちゆくちゆくちやん
+    singer_name_ruby: やまもとまさゆきさかもとし
+    song_variation:
+    - esong_code: 990B38
+      song_name: チュク・チュク・チャン
+      content_type: ''
   - song_name: CHILDREN IN THE WAR LiveFrom HIGHCOMMUNICATIONS'03
     song_alias:
     esong_code: 837A32
@@ -177,23 +194,6 @@ result:
     - esong_code: 843A5
       song_name: DJお願い!
       content_type: ''
-  - song_name: Days
-    song_alias:
-    esong_code: 648B32
-    t_singer_master_id: '13226'
-    singer_name: チン☆パラ
-    singer_alias:
-    available_date: '2003-10-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていす
-    singer_name_ruby: ちんはら
-    song_variation:
-    - esong_code: 648B32
-      song_name: Days
-      content_type: ''
   - song_name: DAYS 〜僕らの未来〜
     song_alias:
     esong_code: 842B5
@@ -210,6 +210,23 @@ result:
     song_variation:
     - esong_code: 842B5
       song_name: DAYS 〜僕らの未来〜
+      content_type: ''
+  - song_name: Days
+    song_alias:
+    esong_code: 648B32
+    t_singer_master_id: '13226'
+    singer_name: チン☆パラ
+    singer_alias:
+    available_date: '2003-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていす
+    singer_name_ruby: ちんはら
+    song_variation:
+    - esong_code: 648B32
+      song_name: Days
       content_type: ''
   - song_name: December
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 844B11
       song_name: DO YOU LOVE ME?
-      content_type: ''
-  - song_name: 都会の恋編 〜デュエット・メドレー〜
-    song_alias:
-    esong_code: 767B36
-    t_singer_master_id: '5232'
-    singer_name: メドレー
-    singer_alias:
-    available_date: '2003-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とかいのこいへんて
-    singer_name_ruby: めとれ
-    song_variation:
-    - esong_code: 767B36
-      song_name: 都会の恋編 〜デュエット・メドレー〜
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: 桜の約束 〜始まりの場所〜
-    song_alias:
-    esong_code: 3926A6
-    t_singer_master_id: '60322'
-    singer_name: 平川 大輔&日野 聡&福山 潤&石田 彰
-    singer_alias:
-    available_date: '2017-12-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ボーイフレンド(仮)きらめき☆ノート<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくらのやくそくはし
-    singer_name_ruby: ひらかわたいすけひのさとし
-    song_variation:
-    - esong_code: 3926A6
-      song_name: 桜の約束 〜始まりの場所〜
-      content_type: ''
   - song_name: 桜紅葉
     song_alias:
     esong_code: 3539B41
@@ -49,7 +32,7 @@ result:
     singer_alias:
     available_date: '2017-12-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ささうんとおふ
@@ -227,23 +210,6 @@ result:
     song_variation:
     - esong_code: 3919B27
       song_name: The Brightest Woman
-      content_type: ''
-  - song_name: サポーターズ!
-    song_alias:
-    esong_code: 3920A44
-    t_singer_master_id: '44185'
-    singer_name: A.B.C-Z
-    singer_alias:
-    available_date: '2017-12-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さほたす
-    singer_name_ruby: えひしすい
-    song_variation:
-    - esong_code: 3920A44
-      song_name: サポーターズ!
       content_type: ''
   - song_name: SUMMER NIGHT BIKINI
     song_alias:
@@ -451,6 +417,23 @@ result:
       content_type: ''
   - song_name: さよならを嘘にかえて
     song_alias:
+    esong_code: 2220A27
+    t_singer_master_id: '45042'
+    singer_name: 松尾 雄史
+    singer_alias:
+    available_date: '2017-12-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: さよならをうそにかえ
+    singer_name_ruby: まつおゆうし
+    song_variation:
+    - esong_code: 2220A27
+      song_name: さよならを嘘にかえて
+      content_type: DAM生音
+  - song_name: さよならを嘘にかえて
+    song_alias:
     esong_code: 2224B33
     t_singer_master_id: '45042'
     singer_name: 松尾 雄史
@@ -483,23 +466,6 @@ result:
     - esong_code: 2223B9
       song_name: さよならを嘘にかえて
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: さよならを嘘にかえて
-    song_alias:
-    esong_code: 2220A27
-    t_singer_master_id: '45042'
-    singer_name: 松尾 雄史
-    singer_alias:
-    available_date: '2017-12-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さよならをうそにかえ
-    singer_name_ruby: まつおゆうし
-    song_variation:
-    - esong_code: 2220A27
-      song_name: さよならを嘘にかえて
-      content_type: DAM生音
   - song_name: The Lightning
     song_alias:
     esong_code: 3927A20
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3927A20
       song_name: The Lightning
+      content_type: ''
+  - song_name: さらば高円寺
+    song_alias:
+    esong_code: 2224B26
+    t_singer_master_id: '2625'
+    singer_name: ロス・プリモス
+    singer_alias:
+    available_date: '2017-12-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さらはこうえんし
+    singer_name_ruby: ろすふりもす
+    song_variation:
+    - esong_code: 2224B26
+      song_name: さらば高円寺
+      content_type: ''
+  - song_name: さらば宝塚
+    song_alias:
+    esong_code: 2224B22
+    t_singer_master_id: '2625'
+    singer_name: ロス・プリモス
+    singer_alias:
+    available_date: '2017-12-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さらはたからつか
+    singer_name_ruby: ろすふりもす
+    song_variation:
+    - esong_code: 2224B22
+      song_name: さらば宝塚
       content_type: ''

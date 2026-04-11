@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 947
-  all_max_cnt: 1077
-  all_country_cnt: 947
+  max_cnt: 945
+  all_max_cnt: 1075
+  all_country_cnt: 945
   song:
   - song_name: この詩にのせて
     song_alias:
@@ -485,6 +485,23 @@ result:
       content_type: VOCALOID
   - song_name: The Next Decade
     song_alias:
+    esong_code: 2379B3
+    t_singer_master_id: '10038'
+    singer_name: GACKT(Gackt)
+    singer_alias:
+    available_date: '2009-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 仮面ライダーディケイド<番組名>
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: さねくすとていけ
+    singer_name_ruby: かくと
+    song_variation:
+    - esong_code: 2379B3
+      song_name: The Next Decade
+      content_type: DAM良音
+  - song_name: The Next Decade
+    song_alias:
     esong_code: 2369A33
     t_singer_master_id: '10038'
     singer_name: GACKT(Gackt)
@@ -500,20 +517,3 @@ result:
     - esong_code: 2369A33
       song_name: The Next Decade
       content_type: ''
-  - song_name: The Next Decade
-    song_alias:
-    esong_code: 2379B3
-    t_singer_master_id: '10038'
-    singer_name: GACKT(Gackt)
-    singer_alias:
-    available_date: '2009-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダーディケイド オールライダー対大ショッカー<番組名>
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: さねくすとていけ
-    singer_name_ruby: かくと
-    song_variation:
-    - esong_code: 2379B3
-      song_name: The Next Decade
-      content_type: DAM良音

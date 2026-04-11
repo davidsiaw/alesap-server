@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
-  - song_name: きよしのMerry X'mas
-    song_alias:
-    esong_code: 2941B32
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2012-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きよしのめりくりす
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 2941B32
-      song_name: きよしのMerry X'mas
-      content_type: ''
   - song_name: きらいっぱい×すきいっぱい
     song_alias:
     esong_code: 2929A46
@@ -264,23 +247,6 @@ result:
       content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
   - song_name: 口笛の彼方に
     song_alias:
-    esong_code: 2932A43
-    t_singer_master_id: '956'
-    singer_name: 里見 浩太朗
-    singer_alias:
-    available_date: '2012-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: くちふえのかなたに
-    singer_name_ruby: さとみこうたろう
-    song_variation:
-    - esong_code: 2932A43
-      song_name: 口笛の彼方に
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 口笛の彼方に
-    song_alias:
     esong_code: 2931B16
     t_singer_master_id: '956'
     singer_name: 里見 浩太朗
@@ -296,6 +262,23 @@ result:
     - esong_code: 2931B16
       song_name: 口笛の彼方に
       content_type: DAM生音
+  - song_name: 口笛の彼方に
+    song_alias:
+    esong_code: 2932A43
+    t_singer_master_id: '956'
+    singer_name: 里見 浩太朗
+    singer_alias:
+    available_date: '2012-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: くちふえのかなたに
+    singer_name_ruby: さとみこうたろう
+    song_variation:
+    - esong_code: 2932A43
+      song_name: 口笛の彼方に
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 口約束
     song_alias:
     esong_code: 2939A24
@@ -517,3 +500,20 @@ result:
     - esong_code: 2940B3
       song_name: クリスマスツリーを切り倒せ! feat.初音ミク
       content_type: VOCALOID
+  - song_name: クリスマスの谷
+    song_alias:
+    esong_code: 2937A1
+    t_singer_master_id: '4269'
+    singer_name: ドリーミング
+    singer_alias:
+    available_date: '2012-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: それいけ!アンパンマン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くりすますのたに
+    singer_name_ruby: とりみんく
+    song_variation:
+    - esong_code: 2937A1
+      song_name: クリスマスの谷
+      content_type: ''

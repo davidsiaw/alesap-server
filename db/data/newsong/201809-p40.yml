@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
-  - song_name: ゆっくり行こう
-    song_alias:
-    esong_code: 4068B38
-    t_singer_master_id: '40879'
-    singer_name: クリープハイプ
-    singer_alias:
-    available_date: '2018-09-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆつくりいこう
-    singer_name_ruby: くりふはいふ
-    song_variation:
-    - esong_code: 4068B38
-      song_name: ゆっくり行こう
-      content_type: ''
-  - song_name: ユーフォーユーフォー
-    song_alias:
-    esong_code: 4066B34
-    t_singer_master_id: '54950'
-    singer_name: ナユタン星人
-    singer_alias:
-    available_date: '2018-09-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ゆふおゆふお
-    singer_name_ruby: なゆたんせいしん
-    song_variation:
-    - esong_code: 4066B34
-      song_name: ユーフォーユーフォー
-      content_type: VOCALOID
-  - song_name: 夢色トレイン
-    song_alias:
-    esong_code: 4065B2
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2018-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめいろとれいん
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 4065B2
-      song_name: 夢色トレイン
-      content_type: ''
-  - song_name: 夢追いふたり舟
-    song_alias:
-    esong_code: 4067B23
-    t_singer_master_id: '60833'
-    singer_name: ヨッシー田村
-    singer_alias:
-    available_date: '2018-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめおいふたりふね
-    singer_name_ruby: よつしたむら
-    song_variation:
-    - esong_code: 4067B23
-      song_name: 夢追いふたり舟
-      content_type: ''
-  - song_name: 夢かなうた
-    song_alias:
-    esong_code: 4059B14
-    t_singer_master_id: '58003'
-    singer_name: 森田 由美恵
-    singer_alias:
-    available_date: '2018-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめかなうた
-    singer_name_ruby: もりたゆみえ
-    song_variation:
-    - esong_code: 4059B14
-      song_name: 夢かなうた
-      content_type: ''
   - song_name: ユメクイ
     song_alias:
     esong_code: 4062A25
@@ -400,23 +315,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: よりそい蛍
     song_alias:
-    esong_code: 4056A26
-    t_singer_master_id: '1165'
-    singer_name: 城之内 早苗
-    singer_alias:
-    available_date: '2018-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よりそいほたる
-    singer_name_ruby: しようのうちさなえ
-    song_variation:
-    - esong_code: 4056A26
-      song_name: よりそい蛍
-      content_type: ''
-  - song_name: よりそい蛍
-    song_alias:
     esong_code: 4063A22
     t_singer_master_id: '1165'
     singer_name: 城之内 早苗
@@ -432,6 +330,23 @@ result:
     - esong_code: 4063A22
       song_name: よりそい蛍
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: よりそい蛍
+    song_alias:
+    esong_code: 4056A26
+    t_singer_master_id: '1165'
+    singer_name: 城之内 早苗
+    singer_alias:
+    available_date: '2018-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よりそいほたる
+    singer_name_ruby: しようのうちさなえ
+    song_variation:
+    - esong_code: 4056A26
+      song_name: よりそい蛍
+      content_type: ''
   - song_name: 夜王子と月の姫
     song_alias:
     esong_code: 4068A30
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 4061B30
       song_name: 夜、光る。
+      content_type: ''
+  - song_name: よろしく九九組
+    song_alias:
+    esong_code: 4059B36
+    t_singer_master_id: '59871'
+    singer_name: スタァライト九九組
+    singer_alias:
+    available_date: '2018-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 少女☆歌劇 レヴュースタァライト<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: よろしくくくくみ
+    singer_name_ruby: すたあらいとくくくみ
+    song_variation:
+    - esong_code: 4059B36
+      song_name: よろしく九九組
+      content_type: ''
+  - song_name: RIOT WOLF
+    song_alias:
+    esong_code: 4066A36
+    t_singer_master_id: '45275'
+    singer_name: 小野 友樹
+    singer_alias:
+    available_date: '2018-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: あんさんぶるスターズ!(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいおつとうるふ
+    singer_name_ruby: おのゆうき
+    song_variation:
+    - esong_code: 4066A36
+      song_name: RIOT WOLF
+      content_type: ''
+  - song_name: Life -4460mix-
+    song_alias:
+    esong_code: 4065A23
+    t_singer_master_id: '62343'
+    singer_name: Bigfumi
+    singer_alias:
+    available_date: '2018-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいふよんよんろくせ
+    singer_name_ruby: ひつくふみ
+    song_variation:
+    - esong_code: 4065A23
+      song_name: Life -4460mix-
+      content_type: ''
+  - song_name: ライム色の幻 feat.KAITO
+    song_alias:
+    esong_code: 4059B15
+    t_singer_master_id: '37945'
+    singer_name: Re:nG
+    singer_alias:
+    available_date: '2018-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: らいむいろのまほろ
+    singer_name_ruby: れんし
+    song_variation:
+    - esong_code: 4059B15
+      song_name: ライム色の幻 feat.KAITO
+      content_type: VOCALOID
+  - song_name: 楽園
+    song_alias:
+    esong_code: 4065A40
+    t_singer_master_id: '43487'
+    singer_name: 小倉 唯
+    singer_alias:
+    available_date: '2018-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ウマ娘 プリティーダービー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らくえん
+    singer_name_ruby: おくらゆい
+    song_variation:
+    - esong_code: 4065A40
+      song_name: 楽園
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1576
-  all_max_cnt: 1796
-  all_country_cnt: 1576
+  max_cnt: 1565
+  all_max_cnt: 1785
+  all_country_cnt: 1565
   song:
-  - song_name: 小野田線
-    song_alias:
-    esong_code: 1532B25
-    t_singer_master_id: '26407'
-    singer_name: 浅野 佑悠輝
-    singer_alias:
-    available_date: '2016-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おのたせん
-    singer_name_ruby: あさのゆうき
-    song_variation:
-    - esong_code: 1532B25
-      song_name: 小野田線
-      content_type: ''
   - song_name: OVER THE TOP
     song_alias:
     esong_code: 3714B42
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3712A48
       song_name: おんな恋
+      content_type: ''
+  - song_name: 女のあかね雲
+    song_alias:
+    esong_code: 252B15
+    t_singer_master_id: '22162'
+    singer_name: 桜木 レイ
+    singer_alias:
+    available_date: '2016-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのあかねくも
+    singer_name_ruby: さくらきれい
+    song_variation:
+    - esong_code: 252B15
+      song_name: 女のあかね雲
       content_type: ''

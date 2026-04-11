@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1198
-  all_max_cnt: 1367
-  all_country_cnt: 1198
+  max_cnt: 1194
+  all_max_cnt: 1363
+  all_country_cnt: 1194
   song:
-  - song_name: 絶唱謳歌
-    song_alias:
-    esong_code: 4042A29
-    t_singer_master_id: '59865'
-    singer_name: アクメ
-    singer_alias:
-    available_date: '2018-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せつしようおうか
-    singer_name_ruby: あくめ
-    song_variation:
-    - esong_code: 4042A29
-      song_name: 絶唱謳歌
-      content_type: ''
   - song_name: せめて一花の祝福を
     song_alias:
     esong_code: 4042A27
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4051A28
       song_name: 太陽と星たちの賛歌
+      content_type: ''
+  - song_name: DOUBT
+    song_alias:
+    esong_code: 4041B28
+    t_singer_master_id: '62097'
+    singer_name: HISASHI×YOW-ROW
+    singer_alias:
+    available_date: '2018-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たうと
+    singer_name_ruby: ひさしよういちろう
+    song_variation:
+    - esong_code: 4041B28
+      song_name: DOUBT
       content_type: ''

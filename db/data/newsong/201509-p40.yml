@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
   - song_name: MISSION
     song_alias:
@@ -15,7 +15,7 @@ result:
     singer_alias:
     available_date: '2015-09-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真・三國無双7<番組名>
+    tie_up: 真・三國無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: みつしよん
@@ -109,23 +109,6 @@ result:
     - esong_code: 3504B28
       song_name: 美濃路のどかに
       content_type: ''
-  - song_name: MUSIC MAGIC
-    song_alias:
-    esong_code: 3509A10
-    t_singer_master_id: '49663'
-    singer_name: ファンキー加藤
-    singer_alias:
-    available_date: '2015-09-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みゆしつくまし
-    singer_name_ruby: ふあんきかとう
-    song_variation:
-    - esong_code: 3509A10
-      song_name: MUSIC MAGIC
-      content_type: ''
   - song_name: MUTOPIA
     song_alias:
     esong_code: 3493B38
@@ -168,7 +151,7 @@ result:
     singer_alias:
     available_date: '2015-09-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ Operation Victory Arrow<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: みらいのゆめをそた
@@ -466,23 +449,6 @@ result:
     - esong_code: 3505A20
       song_name: Maybe Maybe
       content_type: ''
-  - song_name: 夫婦心唱
-    song_alias:
-    esong_code: 3496B29
-    t_singer_master_id: '27012'
-    singer_name: 濱田 陽子
-    singer_alias:
-    available_date: '2015-09-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めおとうた
-    singer_name_ruby: はまたようこ
-    song_variation:
-    - esong_code: 3496B29
-      song_name: 夫婦心唱
-      content_type: ''
   - song_name: 夫婦縁華
     song_alias:
     esong_code: 3494B29
@@ -517,3 +483,37 @@ result:
     - esong_code: 3490B1
       song_name: 夫婦・桜
       content_type: ''
+  - song_name: 夫婦譜 〜愛するあんたに贈る応援歌〜
+    song_alias:
+    esong_code: 3492A35
+    t_singer_master_id: '551'
+    singer_name: 金田 たつえ
+    singer_alias:
+    available_date: '2015-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: めおとふあいするあん
+    singer_name_ruby: かねたたつえ
+    song_variation:
+    - esong_code: 3492A35
+      song_name: 夫婦譜 〜愛するあんたに贈る応援歌〜
+      content_type: JOY生演奏
+  - song_name: 夫婦譜 〜愛するあんたに贈る応援歌〜
+    song_alias:
+    esong_code: 3492B8
+    t_singer_master_id: '551'
+    singer_name: 金田 たつえ
+    singer_alias:
+    available_date: '2015-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: めおとふあいするあん
+    singer_name_ruby: かねたたつえ
+    song_variation:
+    - esong_code: 3492B8
+      song_name: 夫婦譜 〜愛するあんたに贈る応援歌〜
+      content_type: JOYﾎﾞｰｶﾙ

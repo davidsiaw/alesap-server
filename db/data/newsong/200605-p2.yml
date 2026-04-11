@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1356
-  all_max_cnt: 1472
-  all_country_cnt: 1356
+  max_cnt: 1352
+  all_max_cnt: 1469
+  all_country_cnt: 1352
   song:
   - song_name: 朝はどこから
     song_alias:
@@ -313,23 +313,6 @@ result:
     - esong_code: 1563A44
       song_name: "＠-train"
       content_type: ''
-  - song_name: アーティスト出身別メドレー 〜埼玉〜
-    song_alias:
-    esong_code: 1526B40
-    t_singer_master_id: '12687'
-    singer_name: DKオリジナルメドレー
-    singer_alias:
-    available_date: '2006-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あていすとしゆつし
-    singer_name_ruby: ていけおりしなるめとれ
-    song_variation:
-    - esong_code: 1526B40
-      song_name: アーティスト出身別メドレー 〜埼玉〜
-      content_type: ''
   - song_name: アーティスト出身別メドレー 〜宮城〜
     song_alias:
     esong_code: 1526B42
@@ -363,6 +346,23 @@ result:
     song_variation:
     - esong_code: 1526B41
       song_name: アーティスト出身別メドレー 〜北海道〜
+      content_type: ''
+  - song_name: アーティスト出身別メドレー 〜埼玉〜
+    song_alias:
+    esong_code: 1526B40
+    t_singer_master_id: '12687'
+    singer_name: DKオリジナルメドレー
+    singer_alias:
+    available_date: '2006-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あていすとしゆつし
+    singer_name_ruby: ていけおりしなるめとれ
+    song_variation:
+    - esong_code: 1526B40
+      song_name: アーティスト出身別メドレー 〜埼玉〜
       content_type: ''
   - song_name: ATLANTIS
     song_alias:

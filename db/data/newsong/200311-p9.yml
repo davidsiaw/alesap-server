@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 479
-  all_max_cnt: 548
-  all_country_cnt: 479
+  max_cnt: 476
+  all_max_cnt: 545
+  all_country_cnt: 476
   song:
-  - song_name: 十三湖の雪うた
-    song_alias:
-    esong_code: 293A16
-    t_singer_master_id: '671'
-    singer_name: キム・ヨンジャ(金蓮子)
-    singer_alias:
-    available_date: '2003-11-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とさこのゆきうた
-    singer_name_ruby: きむよんしや
-    song_variation:
-    - esong_code: 293A16
-      song_name: 十三湖の雪うた
-      content_type: ''
-  - song_name: 年下の男の子
-    song_alias:
-    esong_code: 856B36
-    t_singer_master_id: '17489'
-    singer_name: ネコベッド
-    singer_alias:
-    available_date: '2003-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とししたのおとこのこ
-    singer_name_ruby: ねこへつと
-    song_variation:
-    - esong_code: 856B36
-      song_name: 年下の男の子
-      content_type: ''
-  - song_name: としま 未来へ
-    song_alias:
-    esong_code: 959A10
-    t_singer_master_id: '946'
-    singer_name: さだ まさし
-    singer_alias:
-    available_date: '2003-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: としまみらいへ
-    singer_name_ruby: さたまさし
-    song_variation:
-    - esong_code: 959A10
-      song_name: としま 未来へ
-      content_type: ''
   - song_name: どーだい
     song_alias:
     esong_code: 680A34
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 921A14
       song_name: 日常の私
+      content_type: ''
+  - song_name: 日曜日のたいくつ
+    song_alias:
+    esong_code: 921A3
+    t_singer_master_id: '466'
+    singer_name: オフコース
+    singer_alias:
+    available_date: '2003-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にちようひのたいく
+    singer_name_ruby: おふこす
+    song_variation:
+    - esong_code: 921A3
+      song_name: 日曜日のたいくつ
+      content_type: ''
+  - song_name: NEWSニッポン
+    song_alias:
+    esong_code: 848B2
+    t_singer_master_id: '17458'
+    singer_name: NEWS
+    singer_alias:
+    available_date: '2003-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にゆすにつほん
+    singer_name_ruby: にゆす
+    song_variation:
+    - esong_code: 848B2
+      song_name: NEWSニッポン
+      content_type: ''
+  - song_name: N.Y.すとーりー
+    song_alias:
+    esong_code: 648B30
+    t_singer_master_id: '2355'
+    singer_name: 都 はるみ
+    singer_alias:
+    available_date: '2003-11-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にゆよくすとり
+    singer_name_ruby: みやこはるみ
+    song_variation:
+    - esong_code: 648B30
+      song_name: N.Y.すとーりー
       content_type: ''

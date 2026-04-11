@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
   - song_name: I was King
     song_alias:
@@ -145,23 +145,6 @@ result:
       content_type: ''
   - song_name: 赤い橋
     song_alias:
-    esong_code: 3805B14
-    t_singer_master_id: '36849'
-    singer_name: 塩乃 華織
-    singer_alias:
-    available_date: '2017-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あかいはし
-    singer_name_ruby: しおのかおり
-    song_variation:
-    - esong_code: 3805B14
-      song_name: 赤い橋
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 赤い橋
-    song_alias:
     esong_code: 3805B39
     t_singer_master_id: '36849'
     singer_name: 塩乃 華織
@@ -177,6 +160,23 @@ result:
     - esong_code: 3805B39
       song_name: 赤い橋
       content_type: JOY生演奏
+  - song_name: 赤い橋
+    song_alias:
+    esong_code: 3805B14
+    t_singer_master_id: '36849'
+    singer_name: 塩乃 華織
+    singer_alias:
+    available_date: '2017-05-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あかいはし
+    singer_name_ruby: しおのかおり
+    song_variation:
+    - esong_code: 3805B14
+      song_name: 赤い橋
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 赤坂恋花
     song_alias:
     esong_code: 3811A21
@@ -202,7 +202,7 @@ result:
     singer_alias:
     available_date: '2017-05-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 遙かなる時空の中で6 幻燈ロンド<番組名>
+    tie_up: 遙かなる時空の中で6<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あかつきのこえ
@@ -502,18 +502,18 @@ result:
       content_type: ''
   - song_name: あなたと生きる
     song_alias:
-    esong_code: 3808A5
+    esong_code: 3805B8
     t_singer_master_id: '595'
     singer_name: 川中 美幸
     singer_alias:
-    available_date: '2017-05-16'
+    available_date: '2017-05-10'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: あなたといきる
     singer_name_ruby: かわなかみゆき
     song_variation:
-    - esong_code: 3808A5
+    - esong_code: 3805B8
       song_name: あなたと生きる
-      content_type: DAM生音
+      content_type: JOYﾎﾞｰｶﾙ

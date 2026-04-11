@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: 神様のテトリス
-    song_alias:
-    esong_code: 3920B17
-    t_singer_master_id: '38233'
-    singer_name: WHITE JAM
-    singer_alias:
-    available_date: '2017-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かみさまのてとりす
-    singer_name_ruby: ほわいとしやむ
-    song_variation:
-    - esong_code: 3920B17
-      song_name: 神様のテトリス
-      content_type: ''
   - song_name: かみしばい
     song_alias:
     esong_code: 3805A20
@@ -113,7 +96,7 @@ result:
     song_alias:
     esong_code: 3916A25
     t_singer_master_id: '59326'
-    singer_name: 坂口 有望
+    singer_name: サカグチ アミ(坂口有望)
     singer_alias:
     available_date: '2017-12-05'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2141B49
       song_name: ギター月夜
+      content_type: ''
+  - song_name: 北に舞う
+    song_alias:
+    esong_code: 3752A49
+    t_singer_master_id: '60291'
+    singer_name: 天希 道弘
+    singer_alias:
+    available_date: '2017-12-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたにまう
+    singer_name_ruby: あまきみちひろ
+    song_variation:
+    - esong_code: 3752A49
+      song_name: 北に舞う
       content_type: ''

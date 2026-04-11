@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
   - song_name: 今も愛してる
     song_alias:
@@ -162,23 +162,6 @@ result:
       content_type: VOCALOID
   - song_name: ウヰスキー
     song_alias:
-    esong_code: 2828B31
-    t_singer_master_id: '661'
-    singer_name: 木下 結子
-    singer_alias:
-    available_date: '2012-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういすき
-    singer_name_ruby: きのしたゆいこ
-    song_variation:
-    - esong_code: 2828B31
-      song_name: ウヰスキー
-      content_type: ''
-  - song_name: ウヰスキー
-    song_alias:
     esong_code: 2834B38
     t_singer_master_id: '661'
     singer_name: 木下 結子
@@ -211,6 +194,23 @@ result:
     - esong_code: 2834A10
       song_name: ウヰスキー
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: ウヰスキー
+    song_alias:
+    esong_code: 2828B31
+    t_singer_master_id: '661'
+    singer_name: 木下 結子
+    singer_alias:
+    available_date: '2012-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういすき
+    singer_name_ruby: きのしたゆいこ
+    song_variation:
+    - esong_code: 2828B31
+      song_name: ウヰスキー
+      content_type: ''
   - song_name: We Know
     song_alias:
     esong_code: 2831B17
@@ -236,7 +236,7 @@ result:
     singer_alias:
     available_date: '2012-08-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ういんくすおふは
@@ -417,23 +417,6 @@ result:
       content_type: ''
   - song_name: うたびと
     song_alias:
-    esong_code: 2834B2
-    t_singer_master_id: '595'
-    singer_name: 川中 美幸
-    singer_alias:
-    available_date: '2012-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: うたひと
-    singer_name_ruby: かわなかみゆき
-    song_variation:
-    - esong_code: 2834B2
-      song_name: うたびと
-      content_type: DAM生音
-  - song_name: うたびと
-    song_alias:
     esong_code: 2834B34
     t_singer_master_id: '595'
     singer_name: 川中 美幸
@@ -449,6 +432,23 @@ result:
     - esong_code: 2834B34
       song_name: うたびと
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: うたびと
+    song_alias:
+    esong_code: 2834B2
+    t_singer_master_id: '595'
+    singer_name: 川中 美幸
+    singer_alias:
+    available_date: '2012-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: うたひと
+    singer_name_ruby: かわなかみゆき
+    song_variation:
+    - esong_code: 2834B2
+      song_name: うたびと
+      content_type: DAM生音
   - song_name: うちわ
     song_alias:
     esong_code: 2833A25

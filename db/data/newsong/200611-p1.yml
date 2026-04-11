@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 891
-  all_max_cnt: 961
-  all_country_cnt: 891
+  max_cnt: 888
+  all_max_cnt: 956
+  all_country_cnt: 888
   song:
-  - song_name: アカツキの詩
-    song_alias:
-    esong_code: 1667A24
-    t_singer_master_id: '16005'
-    singer_name: スキマスイッチ
-    singer_alias:
-    available_date: '2006-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかつきのうた
-    singer_name_ruby: すきますいつち
-    song_variation:
-    - esong_code: 1667A24
-      song_name: アカツキの詩
-      content_type: ''
   - song_name: あかりが消えたら
     song_alias:
     esong_code: 1689B47
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1674B35
       song_name: 雨の日曜日
+      content_type: ''
+  - song_name: アーモンド
+    song_alias:
+    esong_code: 1661B24
+    t_singer_master_id: '26622'
+    singer_name: ORESKABAND(オレスカバンド)
+    singer_alias:
+    available_date: '2006-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あもんと
+    singer_name_ruby: おれすかはんと
+    song_variation:
+    - esong_code: 1661B24
+      song_name: アーモンド
       content_type: ''

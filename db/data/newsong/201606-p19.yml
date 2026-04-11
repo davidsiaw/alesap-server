@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1457
-  all_max_cnt: 1594
-  all_country_cnt: 1457
+  max_cnt: 1447
+  all_max_cnt: 1584
+  all_country_cnt: 1447
   song:
-  - song_name: THUNDERBIRD
-    song_alias:
-    esong_code: 3638B44
-    t_singer_master_id: '7067'
-    singer_name: T.M.Revolution
-    singer_alias:
-    available_date: '2016-06-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さんたはと
-    singer_name_ruby: ていえむれほりゆしよん
-    song_variation:
-    - esong_code: 3638B44
-      song_name: THUNDERBIRD
-      content_type: DAM生音
   - song_name: SUNDAY
     song_alias:
     esong_code: 3634B16
@@ -364,23 +347,6 @@ result:
     - esong_code: 849B42
       song_name: 忍び里
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: シノブ
-    song_alias:
-    esong_code: 3634B7
-    t_singer_master_id: '45040'
-    singer_name: indigo la End
-    singer_alias:
-    available_date: '2016-06-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しのふ
-    singer_name_ruby: いんていこらえんと
-    song_variation:
-    - esong_code: 3634B7
-      song_name: シノブ
-      content_type: ''
   - song_name: 渋谷川
     song_alias:
     esong_code: 3637B14
@@ -517,3 +483,37 @@ result:
     - esong_code: 3644B25
       song_name: '18'
       content_type: ''
+  - song_name: 14歳
+    song_alias:
+    esong_code: 3640B48
+    t_singer_master_id: '56347'
+    singer_name: 中村 ピアノ
+    singer_alias:
+    available_date: '2016-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆうよんさい
+    singer_name_ruby: なかむらひあの
+    song_variation:
+    - esong_code: 3640B48
+      song_name: 14歳
+      content_type: ''
+  - song_name: 秋恋歌
+    song_alias:
+    esong_code: 1262B22
+    t_singer_master_id: '813'
+    singer_name: 香西 かおり
+    singer_alias:
+    available_date: '2016-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: しゆうれんか
+    singer_name_ruby: こうさいかおり
+    song_variation:
+    - esong_code: 1262B22
+      song_name: 秋恋歌
+      content_type: DAMﾌﾟﾛｵｹ

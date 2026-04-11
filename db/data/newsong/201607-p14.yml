@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1509
-  all_max_cnt: 1659
-  all_country_cnt: 1509
+  max_cnt: 1504
+  all_max_cnt: 1654
+  all_country_cnt: 1504
   song:
-  - song_name: 梔子リアリー
-    song_alias:
-    esong_code: 3663B4
-    t_singer_master_id: '55899'
-    singer_name: 花谷 麻妃(Fullfull☆Pocket)
-    singer_alias:
-    available_date: '2016-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くちなしりあり
-    singer_name_ruby: はなたにまき
-    song_variation:
-    - esong_code: 3663B4
-      song_name: 梔子リアリー
-      content_type: ''
   - song_name: くつ
     song_alias:
     esong_code: 3661A17
@@ -432,23 +415,6 @@ result:
     - esong_code: 3652B17
       song_name: 化粧なおし
       content_type: DAM生音
-  - song_name: 怪・セラ・セラ
-    song_alias:
-    esong_code: 3636A20
-    t_singer_master_id: '24503'
-    singer_name: 山下 智久(Tomohisa Yamashita)
-    singer_alias:
-    available_date: '2016-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: けせらせら
-    singer_name_ruby: やましたともひさ
-    song_variation:
-    - esong_code: 3636A20
-      song_name: 怪・セラ・セラ
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: けだるげサンシャイン
     song_alias:
     esong_code: 3659A6
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3650A17
       song_name: Get Chance! ポケモンガオーレ!
+      content_type: ''
+  - song_name: 結末ユメロディ feat.IA
+    song_alias:
+    esong_code: 3648A34
+    t_singer_master_id: '42567'
+    singer_name: 150P
+    singer_alias:
+    available_date: '2016-07-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: けつまつゆめろてい
+    singer_name_ruby: わんはふひ
+    song_variation:
+    - esong_code: 3648A34
+      song_name: 結末ユメロディ feat.IA
+      content_type: VOCALOID
+  - song_name: ケラケラあっちむいてホイ!
+    song_alias:
+    esong_code: 3644A1
+    t_singer_master_id: '42064'
+    singer_name: ケラケラ
+    singer_alias:
+    available_date: '2016-07-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: リルリルフェアリル 〜妖精のドア〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: けらけらあつちむいて
+    singer_name_ruby: けらけら
+    song_variation:
+    - esong_code: 3644A1
+      song_name: ケラケラあっちむいてホイ!
       content_type: ''

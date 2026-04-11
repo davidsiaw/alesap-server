@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 980
-  all_max_cnt: 1116
-  all_country_cnt: 980
+  max_cnt: 974
+  all_max_cnt: 1110
+  all_country_cnt: 974
   song:
-  - song_name: on my own way
-    song_alias:
-    esong_code: 4311B33
-    t_singer_master_id: '65705'
-    singer_name: Tohji
-    singer_alias:
-    available_date: '2020-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんまいおうんうえい
-    singer_name_ruby: とし
-    song_variation:
-    - esong_code: 4311B33
-      song_name: on my own way
-      content_type: ''
   - song_name: 海峡雪しぐれ
     song_alias:
     esong_code: 4204A41
@@ -170,7 +153,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: かくめいのはんか
     singer_name_ruby: かなてももこ
     song_variation:
@@ -190,7 +173,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: かくめいのはんか
     singer_name_ruby: かなてももこ
     song_variation:
@@ -268,23 +251,6 @@ result:
     - esong_code: 4318B30
       song_name: 過食性障害嘔吐
       content_type: ''
-  - song_name: かすみ草
-    song_alias:
-    esong_code: 4310A49
-    t_singer_master_id: '1449'
-    singer_name: 千葉 一夫
-    singer_alias:
-    available_date: '2020-01-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かすみそう
-    singer_name_ruby: ちはかすお
-    song_variation:
-    - esong_code: 4310A49
-      song_name: かすみ草
-      content_type: DAM生音
   - song_name: かすみ草のように
     song_alias:
     esong_code: 4318B47
@@ -522,4 +488,38 @@ result:
     song_variation:
     - esong_code: 4307B11
       song_name: 観音橋
+      content_type: ''
+  - song_name: かんぱい!
+    song_alias:
+    esong_code: 4319A44
+    t_singer_master_id: '55769'
+    singer_name: 平川 美香
+    singer_alias:
+    available_date: '2020-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんはい
+    singer_name_ruby: ひらかわみか
+    song_variation:
+    - esong_code: 4319A44
+      song_name: かんぱい!
+      content_type: ''
+  - song_name: 顔面ファラウェイ
+    song_alias:
+    esong_code: 4309A42
+    t_singer_master_id: '63149'
+    singer_name: 眉村 ちあき
+    singer_alias:
+    available_date: '2020-01-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんめんふあらうえ
+    singer_name_ruby: まゆむらちあき
+    song_variation:
+    - esong_code: 4309A42
+      song_name: 顔面ファラウェイ
       content_type: ''

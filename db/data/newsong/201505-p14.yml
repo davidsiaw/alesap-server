@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1230
-  all_max_cnt: 1369
-  all_country_cnt: 1230
+  max_cnt: 1222
+  all_max_cnt: 1361
+  all_country_cnt: 1222
   song:
-  - song_name: コミュニケーションイズデッド
-    song_alias:
-    esong_code: 3435A18
-    t_singer_master_id: '41200'
-    singer_name: デスおはぎ(松任谷P) feat.重音テト
-    singer_alias:
-    available_date: '2015-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: こみゆにけしよんい
-    singer_name_ruby: てすおはきふいちやりんくし
-    song_variation:
-    - esong_code: 3435A18
-      song_name: コミュニケーションイズデッド
-      content_type: VOCALOID
-  - song_name: コミュ力革命 feat.初音ミク、鏡音リン
-    song_alias:
-    esong_code: 3433B24
-    t_singer_master_id: '50992'
-    singer_name: ゆう十
-    singer_alias:
-    available_date: '2015-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: こみゆりよくかくめい
-    singer_name_ruby: ゆうと
-    song_variation:
-    - esong_code: 3433B24
-      song_name: コミュ力革命 feat.初音ミク、鏡音リン
-      content_type: VOCALOID
-  - song_name: Collide
-    song_alias:
-    esong_code: 3441B31
-    t_singer_master_id: '23642'
-    singer_name: UVERworld
-    singer_alias:
-    available_date: '2015-05-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こらいと
-    singer_name_ruby: うはわると
-    song_variation:
-    - esong_code: 3441B31
-      song_name: Collide
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Collide
     song_alias:
     esong_code: 3441A25
@@ -75,7 +24,7 @@ result:
     - esong_code: 3441A25
       song_name: Collide
       content_type: ''
-  - song_name: Golden Time 〜半永久的に愛してよ(ハート)
+  - song_name: Golden Time
     song_alias:
     esong_code: 3437A41
     t_singer_master_id: '8356'
@@ -83,20 +32,20 @@ result:
     singer_alias:
     available_date: '2015-05-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: Animelo Summer Live<番組名>
+    tie_up: ゴールデンタイム<番組名>
     country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
+    content_type:
     song_name_ruby: こるてんたいむ
     singer_name_ruby: ほりえゆい
     song_variation:
     - esong_code: 3437A41
-      song_name: Golden Time 〜半永久的に愛してよ(ハート)
-      content_type: DAMﾗｲﾌﾞ
+      song_name: Golden Time
+      content_type: ''
   - song_name: CALL MY NAME
     song_alias:
     esong_code: 859B20
     t_singer_master_id: '2131'
-    singer_name: Voice
+    singer_name: VOICE
     singer_alias:
     available_date: '2015-05-02'
     end_date: '2999-04-10 00:00:00'
@@ -517,3 +466,54 @@ result:
     - esong_code: 3442A25
       song_name: The beautiful world
       content_type: 東方
+  - song_name: The first snow
+    song_alias:
+    esong_code: 3437A11
+    t_singer_master_id: '51096'
+    singer_name: EXO
+    singer_alias:
+    available_date: '2015-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾗｲﾌﾞ
+    song_name_ruby: さふあすとすのう
+    singer_name_ruby: えくそ
+    song_variation:
+    - esong_code: 3437A11
+      song_name: The first snow
+      content_type: DAMﾗｲﾌﾞ
+  - song_name: submarine
+    song_alias:
+    esong_code: 3436A11
+    t_singer_master_id: '40486'
+    singer_name: SHANK
+    singer_alias:
+    available_date: '2015-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さふまりん
+    singer_name_ruby: しやんく
+    song_variation:
+    - esong_code: 3436A11
+      song_name: submarine
+      content_type: ''
+  - song_name: Summer side
+    song_alias:
+    esong_code: 3443A18
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2015-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さまさいと
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 3443A18
+      song_name: Summer side
+      content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
-  - song_name: 十勝望郷歌
-    song_alias:
-    esong_code: 848A46
-    t_singer_master_id: '44211'
-    singer_name: 中村 仁美(戸川よし乃)
-    singer_alias:
-    available_date: '2015-12-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: とかちほうきようか
-    singer_name_ruby: なかむらひとみ
-    song_variation:
-    - esong_code: 848A46
-      song_name: 十勝望郷歌
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 十勝望郷歌
     song_alias:
     esong_code: 489A49
@@ -41,23 +24,23 @@ result:
     - esong_code: 489A49
       song_name: 十勝望郷歌
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: talking
+  - song_name: 十勝望郷歌
     song_alias:
-    esong_code: 3569A19
-    t_singer_master_id: '48542'
-    singer_name: KANA-BOON
+    esong_code: 3561A30
+    t_singer_master_id: '44211'
+    singer_name: 中村 仁美(戸川よし乃)
     singer_alias:
-    available_date: '2015-12-27'
+    available_date: '2015-12-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: すべてがFになる THE PERFECT INSIDER<番組名>
+    tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ときんく
-    singer_name_ruby: かなふん
+    content_type:
+    song_name_ruby: とかちほうきようか
+    singer_name_ruby: なかむらひとみ
     song_variation:
-    - esong_code: 3569A19
-      song_name: talking
-      content_type: DAMｸﾘｯﾌﾟ
+    - esong_code: 3561A30
+      song_name: 十勝望郷歌
+      content_type: ''
   - song_name: talking
     song_alias:
     esong_code: 3565B46
@@ -75,6 +58,23 @@ result:
     - esong_code: 3565B46
       song_name: talking
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: talking
+    song_alias:
+    esong_code: 3569A19
+    t_singer_master_id: '48542'
+    singer_name: KANA-BOON
+    singer_alias:
+    available_date: '2015-12-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: すべてがFになる THE PERFECT INSIDER<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ときんく
+    singer_name_ruby: かなふん
+    song_variation:
+    - esong_code: 3569A19
+      song_name: talking
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 時計
     song_alias:
     esong_code: 2089A37
@@ -372,7 +372,7 @@ result:
     singer_alias:
     available_date: '2015-12-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神谷浩史・小野大輔のDearGirl 〜Stories〜<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: とらいふとらいふ

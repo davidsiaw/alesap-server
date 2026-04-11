@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1354
-  all_max_cnt: 1525
-  all_country_cnt: 1354
+  max_cnt: 1339
+  all_max_cnt: 1510
+  all_country_cnt: 1339
   song:
-  - song_name: キミノシアター
-    song_alias:
-    esong_code: 4282B21
-    t_singer_master_id: '58569'
-    singer_name: QoN
-    singer_alias:
-    available_date: '2019-11-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみのしあた
-    singer_name_ruby: くおん
-    song_variation:
-    - esong_code: 4282B21
-      song_name: キミノシアター
-      content_type: ''
-  - song_name: 君のStarlight Road
-    song_alias:
-    esong_code: 4290A32
-    t_singer_master_id: '65363'
-    singer_name: 河上 英里子
-    singer_alias:
-    available_date: '2019-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: グルーヴコースター<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみのすたらいとろ
-    singer_name_ruby: かわかみえりこ
-    song_variation:
-    - esong_code: 4290A32
-      song_name: 君のStarlight Road
-      content_type: ''
   - song_name: キミのソンリッサ
     song_alias:
     esong_code: 4276B18
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4281A22
       song_name: グラスとラムレーズン
+      content_type: ''
+  - song_name: graphite/diamond
+    song_alias:
+    esong_code: 4287A36
+    t_singer_master_id: '32325'
+    singer_name: May'n
+    singer_alias:
+    available_date: '2019-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アズールレーン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらふあいとたい
+    singer_name_ruby: めいん
+    song_variation:
+    - esong_code: 4287A36
+      song_name: graphite/diamond
+      content_type: ''
+  - song_name: Cream
+    song_alias:
+    esong_code: 4295B21
+    t_singer_master_id: '63098'
+    singer_name: アバンティーズ
+    singer_alias:
+    available_date: '2019-11-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くりむ
+    singer_name_ruby: あはんていす
+    song_variation:
+    - esong_code: 4295B21
+      song_name: Cream
       content_type: ''

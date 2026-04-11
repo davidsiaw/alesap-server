@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 350
-  all_max_cnt: 382
-  all_country_cnt: 350
+  max_cnt: 346
+  all_max_cnt: 378
+  all_country_cnt: 346
   song:
-  - song_name: 新・僕はマグマ
-    song_alias:
-    esong_code: 693A27
-    t_singer_master_id: '12223'
-    singer_name: ZONE
-    singer_alias:
-    available_date: '2001-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんほくはまくま
-    singer_name_ruby: そん
-    song_variation:
-    - esong_code: 693A27
-      song_name: 新・僕はマグマ
-      content_type: ''
   - song_name: SWEET SEASON
     song_alias:
     esong_code: 691A39
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 690B35
       song_name: チャイニーズフード
+      content_type: ''
+  - song_name: 知覧の母〜ホタル〜
+    song_alias:
+    esong_code: 602A35
+    t_singer_master_id: '6322'
+    singer_name: 歌川 二三子
+    singer_alias:
+    available_date: '2001-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちらんのははほたる
+    singer_name_ruby: うたかわふみこ
+    song_variation:
+    - esong_code: 602A35
+      song_name: 知覧の母〜ホタル〜
       content_type: ''

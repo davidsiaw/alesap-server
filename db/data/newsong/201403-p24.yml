@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: ちっぽけな愛のうた
-    song_alias:
-    esong_code: 3221B25
-    t_singer_master_id: '49552'
-    singer_name: 小枝 理子&小笠原 秋
-    singer_alias:
-    available_date: '2014-03-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ちつほけなあいのう
-    singer_name_ruby: こえたりこおかさわらあき
-    song_variation:
-    - esong_code: 3221B25
-      song_name: ちっぽけな愛のうた
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: CHEAT DANCER
     song_alias:
     esong_code: 3208A38
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3219B48
       song_name: TAKE IT EASY
+      content_type: ''
+  - song_name: Take Care
+    song_alias:
+    esong_code: 3223B17
+    t_singer_master_id: '36221'
+    singer_name: BIG BEAR
+    singer_alias:
+    available_date: '2014-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていくけあ
+    singer_name_ruby: ひつくへあ
+    song_variation:
+    - esong_code: 3223B17
+      song_name: Take Care
       content_type: ''

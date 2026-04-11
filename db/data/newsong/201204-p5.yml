@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1295
-  all_max_cnt: 1405
-  all_country_cnt: 1295
+  max_cnt: 1285
+  all_max_cnt: 1395
+  all_country_cnt: 1285
   song:
   - song_name: Waitress,Waitress!
     song_alias:
@@ -111,23 +111,6 @@ result:
       content_type: VOCALOID
   - song_name: 歌一生
     song_alias:
-    esong_code: 2787A34
-    t_singer_master_id: '571'
-    singer_name: 佳山 明生
-    singer_alias:
-    available_date: '2012-04-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: うたいつしよう
-    singer_name_ruby: かやまあきお
-    song_variation:
-    - esong_code: 2787A34
-      song_name: 歌一生
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 歌一生
-    song_alias:
     esong_code: 488B13
     t_singer_master_id: '571'
     singer_name: 佳山 明生
@@ -143,6 +126,23 @@ result:
     - esong_code: 488B13
       song_name: 歌一生
       content_type: ''
+  - song_name: 歌一生
+    song_alias:
+    esong_code: 2787A34
+    t_singer_master_id: '571'
+    singer_name: 佳山 明生
+    singer_alias:
+    available_date: '2012-04-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: うたいつしよう
+    singer_name_ruby: かやまあきお
+    song_variation:
+    - esong_code: 2787A34
+      song_name: 歌一生
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: UTAO
     song_alias:
     esong_code: 2783B1

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
+  - song_name: 霧舟の宿
+    song_alias:
+    esong_code: 2201A2
+    t_singer_master_id: '647'
+    singer_name: 北野 都
+    singer_alias:
+    available_date: '2009-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きりふねのやと
+    singer_name_ruby: きたのみやこ
+    song_variation:
+    - esong_code: 2201A2
+      song_name: 霧舟の宿
+      content_type: ''
   - song_name: GUILTY RUBY
     song_alias:
     esong_code: 2200A38
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2197B28
       song_name: KO.A.KU.MAⅡ feat.MAICHI
-      content_type: ''
-  - song_name: 恋
-    song_alias:
-    esong_code: 2193A3
-    t_singer_master_id: '1658'
-    singer_name: 中森 明菜
-    singer_alias:
-    available_date: '2009-01-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こい
-    singer_name_ruby: なかもりあきな
-    song_variation:
-    - esong_code: 2193A3
-      song_name: 恋
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1576
-  all_max_cnt: 1796
-  all_country_cnt: 1576
+  max_cnt: 1565
+  all_max_cnt: 1785
+  all_country_cnt: 1565
   song:
-  - song_name: Claw
-    song_alias:
-    esong_code: 3722A16
-    t_singer_master_id: '38639'
-    singer_name: "[Alexandros]"
-    singer_alias:
-    available_date: '2016-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろう
-    singer_name_ruby: あれきさんとろす
-    song_variation:
-    - esong_code: 3722A16
-      song_name: Claw
-      content_type: ''
-  - song_name: Growin'Jewel!
-    song_alias:
-    esong_code: 3727A14
-    t_singer_master_id: '53854'
-    singer_name: SoLaMiDressing
-    singer_alias:
-    available_date: '2016-11-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: プリパラ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろういんしゆ
-    singer_name_ruby: そらみとれつしんく
-    song_variation:
-    - esong_code: 3727A14
-      song_name: Growin'Jewel!
-      content_type: ''
   - song_name: Grown empathy
     song_alias:
     esong_code: 3722B46
@@ -236,7 +202,7 @@ result:
     singer_alias:
     available_date: '2016-11-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 白猫プロジェクト<番組名>
+    tie_up: 白猫プロジェクト(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けつしていろあせない
@@ -517,3 +483,37 @@ result:
     - esong_code: 3711B20
       song_name: 恋のしっぽを追いかけて feat.GUMI
       content_type: VOCALOID
+  - song_name: 恋の曼珠沙華 [DAM本人歌唱]
+    song_alias:
+    esong_code: 3245A38
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2016-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: こいのまんしゆしや
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 3245A38
+      song_name: 恋の曼珠沙華 [DAM本人歌唱]
+      content_type: DAM本人歌唱
+  - song_name: 恋文
+    song_alias:
+    esong_code: 3714A49
+    t_singer_master_id: '44485'
+    singer_name: やなぎ なぎ
+    singer_alias:
+    available_date: '2016-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Rewrite(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいふみ
+    singer_name_ruby: やなきなき
+    song_variation:
+    - esong_code: 3714A49
+      song_name: 恋文
+      content_type: ''

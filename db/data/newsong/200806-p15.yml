@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
+  - song_name: 昭和平成旅がらす
+    song_alias:
+    esong_code: 1497A41
+    t_singer_master_id: '12817'
+    singer_name: 北原 晃次(北原こうじ)
+    singer_alias:
+    available_date: '2008-06-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようわへいせいたひ
+    singer_name_ruby: きたはらこうし
+    song_variation:
+    - esong_code: 1497A41
+      song_name: 昭和平成旅がらす
+      content_type: ''
   - song_name: SHOT!
     song_alias:
     esong_code: 2012B25
@@ -180,8 +197,8 @@ result:
   - song_name: 新宿恋模様
     song_alias:
     esong_code: 1911A12
-    t_singer_master_id: '31718'
-    singer_name: 小川 夏生(小川夏輝)
+    t_singer_master_id: '72157'
+    singer_name: なつき ようこ(小川夏輝)
     singer_alias:
     available_date: '2008-06-03'
     end_date: '2999-04-10 00:00:00'
@@ -189,7 +206,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: しんしゆくこいもよ
-    singer_name_ruby: おかわなつき
+    singer_name_ruby: なつきようこ
     song_variation:
     - esong_code: 1911A12
       song_name: 新宿恋模様
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2027A36
       song_name: スタートライン
-      content_type: ''
-  - song_name: Star Line
-    song_alias:
-    esong_code: 2019B30
-    t_singer_master_id: '30354'
-    singer_name: 元気ロケッツ
-    singer_alias:
-    available_date: '2008-06-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すたらいん
-    singer_name_ruby: けんきろけつつ
-    song_variation:
-    - esong_code: 2019B30
-      song_name: Star Line
       content_type: ''

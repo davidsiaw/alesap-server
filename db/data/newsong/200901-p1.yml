@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
   - song_name: あなたの夢をみたわ
     song_alias:
@@ -91,23 +91,6 @@ result:
     song_variation:
     - esong_code: 2199A48
       song_name: あの頃から
-      content_type: ''
-  - song_name: あの日タイムマシン
-    song_alias:
-    esong_code: 2202A12
-    t_singer_master_id: '14391'
-    singer_name: LONG SHOT PARTY
-    singer_alias:
-    available_date: '2009-01-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 夏目友人帳<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのひたいむましん
-    singer_name_ruby: ろんくしよつとは
-    song_variation:
-    - esong_code: 2202A12
-      song_name: あの日タイムマシン
       content_type: ''
   - song_name: あの双子が円周率1000桁に挑戦 feat.鏡音リン、鏡音レン
     song_alias:
@@ -321,7 +304,7 @@ result:
     singer_alias:
     available_date: '2009-01-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・シンフォニア THE ANIMATION<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: あるまてりあ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2196A30
       song_name: It's my life
+      content_type: ''
+  - song_name: 愛しさの糧
+    song_alias:
+    esong_code: 2201B15
+    t_singer_master_id: '5140'
+    singer_name: 笠原 弘子
+    singer_alias:
+    available_date: '2009-01-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: るろうに剣心 〜明治剣客浪漫譚〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いとしさのかて
+    singer_name_ruby: かさはらひろこ
+    song_variation:
+    - esong_code: 2201B15
+      song_name: 愛しさの糧
       content_type: ''

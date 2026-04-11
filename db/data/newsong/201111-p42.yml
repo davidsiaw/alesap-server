@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: yayaya (Japanese ver.)
-    song_alias:
-    esong_code: 2714B33
-    t_singer_master_id: '43190'
-    singer_name: T-ARA
-    singer_alias:
-    available_date: '2011-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ややや
-    singer_name_ruby: ていあら
-    song_variation:
-    - esong_code: 2714B33
-      song_name: yayaya (Japanese ver.)
-      content_type: ''
   - song_name: YOU
     song_alias:
     esong_code: 2704B18
@@ -134,7 +117,7 @@ result:
     singer_alias:
     available_date: '2011-11-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 スーパー歌謡ショウ 〜新宝島〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ゆうきりんりん
@@ -415,23 +398,6 @@ result:
     - esong_code: 2715A30
       song_name: 夢みるコーラス・ガール
       content_type: ''
-  - song_name: 夢見る自由 (クラスメイト・バージョン)
-    song_alias:
-    esong_code: 2708B47
-    t_singer_master_id: '43682'
-    singer_name: 日高 里菜&喜多村 英梨&明坂 聡美
-    singer_alias:
-    available_date: '2011-11-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国乙女 〜桃色パラドックス〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめみるしゆう
-    singer_name_ruby: ひたかりなきたむらえりあけ
-    song_variation:
-    - esong_code: 2708B47
-      song_name: 夢見る自由 (クラスメイト・バージョン)
-      content_type: ''
   - song_name: 夢見る自由
     song_alias:
     esong_code: 2708B19
@@ -448,6 +414,23 @@ result:
     song_variation:
     - esong_code: 2708B19
       song_name: 夢見る自由
+      content_type: ''
+  - song_name: 夢見る自由 (クラスメイト・バージョン)
+    song_alias:
+    esong_code: 2708B47
+    t_singer_master_id: '43682'
+    singer_name: 日高 里菜&喜多村 英梨&明坂 聡美
+    singer_alias:
+    available_date: '2011-11-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 戦国乙女 〜桃色パラドックス〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめみるしゆう
+    singer_name_ruby: ひたかりなきたむらえりあけ
+    song_variation:
+    - esong_code: 2708B47
+      song_name: 夢見る自由 (クラスメイト・バージョン)
       content_type: ''
   - song_name: 夢六道からくり糸車
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1815A11
       song_name: 酔いどれ数え唄
+      content_type: ''
+  - song_name: よかったね 笑えて
+    song_alias:
+    esong_code: 2703A23
+    t_singer_master_id: '1944'
+    singer_name: ビリー・バンバン
+    singer_alias:
+    available_date: '2011-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: よかつたねわらえて
+    singer_name_ruby: ひりはんはん
+    song_variation:
+    - esong_code: 2703A23
+      song_name: よかったね 笑えて
       content_type: ''

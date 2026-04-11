@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1033
-  all_max_cnt: 1129
-  all_country_cnt: 1033
+  max_cnt: 1024
+  all_max_cnt: 1120
+  all_country_cnt: 1024
   song:
-  - song_name: climb up
-    song_alias:
-    esong_code: 1181A17
-    t_singer_master_id: '12152'
-    singer_name: 水樹 奈々
-    singer_alias:
-    available_date: '2006-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらいむあつふ
-    singer_name_ruby: みすきなな
-    song_variation:
-    - esong_code: 1181A17
-      song_name: climb up
-      content_type: ''
   - song_name: Crystal Kayメドレー 〜2003 Vol.2〜
     song_alias:
     esong_code: 1579A29
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1583B5
       song_name: 恋しくて
+      content_type: ''
+  - song_name: 恋に落ちて
+    song_alias:
+    esong_code: 1576B41
+    t_singer_master_id: '26872'
+    singer_name: 藤田 麻衣子
+    singer_alias:
+    available_date: '2006-07-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 緋色の欠片<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいにおちて
+    singer_name_ruby: ふしたまいこ
+    song_variation:
+    - esong_code: 1576B41
+      song_name: 恋に落ちて
       content_type: ''

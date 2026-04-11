@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
   - song_name: Shake My Heart
     song_alias:
@@ -160,23 +160,6 @@ result:
     - esong_code: 2374A2
       song_name: 四季の歌
       content_type: ''
-  - song_name: 四季の歌
-    song_alias:
-    esong_code: 2562B3
-    t_singer_master_id: '32154'
-    singer_name: ジェロ
-    singer_alias:
-    available_date: '2010-07-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しきのうた
-    singer_name_ruby: しえろ
-    song_variation:
-    - esong_code: 2562B3
-      song_name: 四季の歌
-      content_type: ''
   - song_name: SIGNAL
     song_alias:
     esong_code: 2383A47
@@ -253,7 +236,7 @@ result:
     singer_alias:
     available_date: '2010-07-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ3<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しすまないゆうひ
@@ -321,7 +304,7 @@ result:
     singer_alias:
     available_date: '2010-07-14'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GuitarFreaksV&DrumManiaV<番組名>
+    tie_up: GuitarFreaks&DrumMania<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しなりお
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2568A24
       song_name: ジャックと豆の木
+      content_type: ''
+  - song_name: シャニムニ
+    song_alias:
+    esong_code: 2489B49
+    t_singer_master_id: '26951'
+    singer_name: GRANRODEO
+    singer_alias:
+    available_date: '2010-07-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやにむに
+    singer_name_ruby: くらんろてお
+    song_variation:
+    - esong_code: 2489B49
+      song_name: シャニムニ
       content_type: ''

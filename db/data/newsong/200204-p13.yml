@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: 南海の美少年（天草四郎の唄）
+    song_alias:
+    esong_code: 103A48
+    t_singer_master_id: '1774'
+    singer_name: 橋 幸夫
+    singer_alias:
+    available_date: '2002-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なんかいのひしよう
+    singer_name_ruby: はしゆきお
+    song_variation:
+    - esong_code: 103A48
+      song_name: 南海の美少年（天草四郎の唄）
+      content_type: ''
   - song_name: なんにも言わずにI LOVE YOU
     song_alias:
     esong_code: 821B32
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 827B32
       song_name: burst
-      content_type: ''
-  - song_name: "『パズル』"
-    song_alias:
-    esong_code: 815B30
-    t_singer_master_id: '10480'
-    singer_name: Dream
-    singer_alias:
-    available_date: '2002-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はする
-    singer_name_ruby: とりむ
-    song_variation:
-    - esong_code: 815B30
-      song_name: "『パズル』"
       content_type: ''

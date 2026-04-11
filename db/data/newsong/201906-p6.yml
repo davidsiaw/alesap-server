@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1364
-  all_max_cnt: 1539
-  all_country_cnt: 1364
+  max_cnt: 1346
+  all_max_cnt: 1521
+  all_country_cnt: 1346
   song:
-  - song_name: 海鳴りのうた
-    song_alias:
-    esong_code: 4198B41
-    t_singer_master_id: '54051'
-    singer_name: Halo at 四畳半
-    singer_alias:
-    available_date: '2019-06-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うみなりのうた
-    singer_name_ruby: はろあつとよしようはん
-    song_variation:
-    - esong_code: 4198B41
-      song_name: 海鳴りのうた
-      content_type: ''
-  - song_name: 海の匂いのお母さん
-    song_alias:
-    esong_code: 4193B12
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2019-06-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うみのにおいのおかあ
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 4193B12
-      song_name: 海の匂いのお母さん
-      content_type: ''
-  - song_name: 海の幽霊 (ビデオクリップバージョン)
-    song_alias:
-    esong_code: 4204B41
-    t_singer_master_id: '44604'
-    singer_name: 米津玄師(ハチ)
-    singer_alias:
-    available_date: '2019-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 海獣の子供<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うみのゆうれい
-    singer_name_ruby: よねつけんし
-    song_variation:
-    - esong_code: 4204B41
-      song_name: 海の幽霊 (ビデオクリップバージョン)
-      content_type: ''
   - song_name: 海の幽霊
     song_alias:
     esong_code: 4203B47
@@ -211,23 +160,6 @@ result:
     - esong_code: 4201B10
       song_name: edge
       content_type: ''
-  - song_name: エトワール・エ・トワ [エディション・ル・ブラン]
-    song_alias:
-    esong_code: 4199A46
-    t_singer_master_id: '64143'
-    singer_name: クレモンティーヌ&アイノア
-    singer_alias: Clementine&ainhoa
-    available_date: '2019-06-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: "〈物語〉シリーズ<番組名>"
-    country_code: '0'
-    content_type:
-    song_name_ruby: えとわるえとわえて
-    singer_name_ruby: CLEMENTINEAINHOA
-    song_variation:
-    - esong_code: 4199A46
-      song_name: エトワール・エ・トワ [エディション・ル・ブラン]
-      content_type: ''
   - song_name: エトワール・エ・トワ [エディション・ル・ブルー]
     song_alias:
     esong_code: 4199B11
@@ -240,10 +172,27 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: えとわるえとわえて
-    singer_name_ruby: CLEMENTINE
+    singer_name_ruby: くれもんていぬ
     song_variation:
     - esong_code: 4199B11
       song_name: エトワール・エ・トワ [エディション・ル・ブルー]
+      content_type: ''
+  - song_name: エトワール・エ・トワ [エディション・ル・ブラン]
+    song_alias:
+    esong_code: 4199A46
+    t_singer_master_id: '64143'
+    singer_name: クレモンティーヌ&アイノア
+    singer_alias: Clementine&ainhoa
+    available_date: '2019-06-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: "〈物語〉シリーズ<番組名>"
+    country_code: '0'
+    content_type:
+    song_name_ruby: えとわるえとわえて
+    singer_name_ruby: くれもんていぬあんとあいのあ
+    song_variation:
+    - esong_code: 4199A46
+      song_name: エトワール・エ・トワ [エディション・ル・ブラン]
       content_type: ''
   - song_name: Ever☆Blooming!
     song_alias:
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4199B10
       song_name: Oh! AIWO
+      content_type: ''
+  - song_name: おーい!おーい!!
+    song_alias:
+    esong_code: 4204A47
+    t_singer_master_id: '42679'
+    singer_name: 竹原ピストル
+    singer_alias:
+    available_date: '2019-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おいおい
+    singer_name_ruby: たけはらひすとる
+    song_variation:
+    - esong_code: 4204A47
+      song_name: おーい!おーい!!
+      content_type: ''
+  - song_name: おいでよ名古屋
+    song_alias:
+    esong_code: 4201B28
+    t_singer_master_id: '60065'
+    singer_name: 麗麗-reirei-
+    singer_alias:
+    available_date: '2019-06-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おいてよなこや
+    singer_name_ruby: れいれい
+    song_variation:
+    - esong_code: 4201B28
+      song_name: おいでよ名古屋
+      content_type: ''
+  - song_name: 桜門の友
+    song_alias:
+    esong_code: 4209A33
+    t_singer_master_id: '60515'
+    singer_name: 朝井 敏伸
+    singer_alias:
+    available_date: '2019-06-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おうもんのとも
+    singer_name_ruby: あさいとしのふ
+    song_variation:
+    - esong_code: 4209A33
+      song_name: 桜門の友
       content_type: ''

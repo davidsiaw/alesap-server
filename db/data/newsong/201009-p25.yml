@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
+  - song_name: ハレルヤ〜HALLELUJAH!〜
+    song_alias:
+    esong_code: 2603B2
+    t_singer_master_id: '209'
+    singer_name: 泉谷 しげる
+    singer_alias:
+    available_date: '2010-09-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はれるや
+    singer_name_ruby: いすみやしける
+    song_variation:
+    - esong_code: 2603B2
+      song_name: ハレルヤ〜HALLELUJAH!〜
+      content_type: ''
   - song_name: Hello,Again 〜昔からある場所〜
     song_alias:
     esong_code: 2579A35
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2598B41
       song_name: 秘密の森の舞踏会
-      content_type: ''
-  - song_name: Be more
-    song_alias:
-    esong_code: 2583A33
-    t_singer_master_id: '27628'
-    singer_name: KENN
-    singer_alias:
-    available_date: '2010-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 家庭教師ヒットマン REBORN!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひもあ
-    singer_name_ruby: けん
-    song_variation:
-    - esong_code: 2583A33
-      song_name: Be more
       content_type: ''

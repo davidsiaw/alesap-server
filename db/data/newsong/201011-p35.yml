@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1316
-  all_max_cnt: 1449
-  all_country_cnt: 1316
+  max_cnt: 1315
+  all_max_cnt: 1448
+  all_country_cnt: 1315
   song:
-  - song_name: HOT!HOT!
-    song_alias:
-    esong_code: 2593A10
-    t_singer_master_id: '26377'
-    singer_name: ナオト・インティライミ
-    singer_alias:
-    available_date: '2010-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほつとほつと
-    singer_name_ruby: なおといんていらいみ
-    song_variation:
-    - esong_code: 2593A10
-      song_name: HOT!HOT!
-      content_type: ''
   - song_name: ほっぺのプチトマト
     song_alias:
     esong_code: 2374A49
@@ -77,23 +60,6 @@ result:
       content_type: ''
   - song_name: HOME
     song_alias:
-    esong_code: 2357B41
-    t_singer_master_id: '32929'
-    singer_name: Hi-Fi CAMP
-    singer_alias:
-    available_date: '2010-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほむ
-    singer_name_ruby: はいふあいきやんふ
-    song_variation:
-    - esong_code: 2357B41
-      song_name: HOME
-      content_type: ''
-  - song_name: HOME
-    song_alias:
     esong_code: 2611B43
     t_singer_master_id: '41130'
     singer_name: イケメン'ズ
@@ -107,6 +73,23 @@ result:
     singer_name_ruby: いけめんす
     song_variation:
     - esong_code: 2611B43
+      song_name: HOME
+      content_type: ''
+  - song_name: HOME
+    song_alias:
+    esong_code: 2357B41
+    t_singer_master_id: '32929'
+    singer_name: Hi-Fi CAMP
+    singer_alias:
+    available_date: '2010-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほむ
+    singer_name_ruby: はいふあいきやんふ
+    song_variation:
+    - esong_code: 2357B41
       song_name: HOME
       content_type: ''
   - song_name: HOME MADE HAPPY
@@ -287,7 +270,7 @@ result:
     singer_alias:
     available_date: '2010-11-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ(TV版)<番組名>
+    tie_up: 探偵オペラ ミルキィホームズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ほんのうのたうと
@@ -304,7 +287,7 @@ result:
     singer_alias:
     available_date: '2010-11-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL KAI(改)<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まいえいていんすま
@@ -517,3 +500,20 @@ result:
     - esong_code: 2624A34
       song_name: 負けない心 (ビデオクリップバージョン)
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 負けんもんね
+    song_alias:
+    esong_code: 2625B11
+    t_singer_master_id: '1632'
+    singer_name: 中島 みゆき
+    singer_alias:
+    available_date: '2010-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まけんもんね
+    singer_name_ruby: なかしまみゆき
+    song_variation:
+    - esong_code: 2625B11
+      song_name: 負けんもんね
+      content_type: ''

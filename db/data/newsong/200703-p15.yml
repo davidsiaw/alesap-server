@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
   - song_name: 青函物語
     song_alias:
@@ -160,23 +160,6 @@ result:
     - esong_code: 1771A40
       song_name: SEVENTH HEAVEN
       content_type: ''
-  - song_name: serenade (D.N.mix)
-    song_alias:
-    esong_code: 1743A15
-    t_singer_master_id: '18861'
-    singer_name: GALNERYUS
-    singer_alias:
-    available_date: '2007-03-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せれなて
-    singer_name_ruby: かるねりうす
-    song_variation:
-    - esong_code: 1743A15
-      song_name: serenade (D.N.mix)
-      content_type: ''
   - song_name: Serenade (album mix)
     song_alias:
     esong_code: 1742B37
@@ -193,6 +176,23 @@ result:
     song_variation:
     - esong_code: 1742B37
       song_name: Serenade (album mix)
+      content_type: ''
+  - song_name: serenade (D.N.mix)
+    song_alias:
+    esong_code: 1743A15
+    t_singer_master_id: '18861'
+    singer_name: GALNERYUS
+    singer_alias:
+    available_date: '2007-03-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せれなて
+    singer_name_ruby: かるねりうす
+    song_variation:
+    - esong_code: 1743A15
+      song_name: serenade (D.N.mix)
       content_type: ''
   - song_name: Celebration
     song_alias:

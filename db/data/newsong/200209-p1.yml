@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 392
-  all_max_cnt: 480
-  all_country_cnt: 392
+  max_cnt: 391
+  all_max_cnt: 479
+  all_country_cnt: 391
   song:
-  - song_name: イージュー★ライダー
-    song_alias:
-    esong_code: 924A24
-    t_singer_master_id: '8354'
-    singer_name: PENPALS
-    singer_alias:
-    available_date: '2002-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いしゆらいた
-    singer_name_ruby: へんはるす
-    song_variation:
-    - esong_code: 924A24
-      song_name: イージュー★ライダー
-      content_type: ''
   - song_name: it's a beautiful day
     song_alias:
     esong_code: 912A25
@@ -162,23 +145,6 @@ result:
       content_type: ''
   - song_name: Wishing On The Same Star
     song_alias:
-    esong_code: 141A45
-    t_singer_master_id: '6365'
-    singer_name: 安室 奈美恵
-    singer_alias:
-    available_date: '2002-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: ういつしんくおんさ
-    singer_name_ruby: あむろなみえ
-    song_variation:
-    - esong_code: 141A45
-      song_name: Wishing On The Same Star
-      content_type: DAM良音
-  - song_name: Wishing On The Same Star
-    song_alias:
     esong_code: 916A25
     t_singer_master_id: '6365'
     singer_name: 安室 奈美恵
@@ -194,6 +160,23 @@ result:
     - esong_code: 916A25
       song_name: Wishing On The Same Star
       content_type: ''
+  - song_name: Wishing On The Same Star
+    song_alias:
+    esong_code: 141A45
+    t_singer_master_id: '6365'
+    singer_name: 安室 奈美恵
+    singer_alias:
+    available_date: '2002-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: ういつしんくおんさ
+    singer_name_ruby: あむろなみえ
+    song_variation:
+    - esong_code: 141A45
+      song_name: Wishing On The Same Star
+      content_type: DAM良音
   - song_name: We never know
     song_alias:
     esong_code: 910B37
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 136B49
       song_name: 思い切り橋
+      content_type: ''
+  - song_name: 想い出の冬休み
+    song_alias:
+    esong_code: 911B23
+    t_singer_master_id: '1923'
+    singer_name: 弘田 三枝子
+    singer_alias:
+    available_date: '2002-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいてのふゆやす
+    singer_name_ruby: ひろたみえこ
+    song_variation:
+    - esong_code: 911B23
+      song_name: 想い出の冬休み
       content_type: ''

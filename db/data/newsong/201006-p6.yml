@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
-  - song_name: おふとんたんの唄 feat.初音ミク
-    song_alias:
-    esong_code: 2560B27
-    t_singer_master_id: '36336'
-    singer_name: 互助会
-    singer_alias:
-    available_date: '2010-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: おふとんたんのうた
-    singer_name_ruby: こしよかい
-    song_variation:
-    - esong_code: 2560B27
-      song_name: おふとんたんの唄 feat.初音ミク
-      content_type: VOCALOID
   - song_name: OH BABY 恋してたい
     song_alias:
     esong_code: 2560A29
@@ -415,23 +398,6 @@ result:
     - esong_code: 2553B42
       song_name: 終わりのない旅
       content_type: ''
-  - song_name: オワリはじまり
-    song_alias:
-    esong_code: 2531A25
-    t_singer_master_id: '25481'
-    singer_name: かりゆし58
-    singer_alias:
-    available_date: '2010-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おわりはしまり
-    singer_name_ruby: かりゆしこしゆうはち
-    song_variation:
-    - esong_code: 2531A25
-      song_name: オワリはじまり
-      content_type: ''
   - song_name: ongaku
     song_alias:
     esong_code: 2559A49
@@ -483,6 +449,23 @@ result:
     - esong_code: 2541A26
       song_name: おんな石松一人旅
       content_type: ''
+  - song_name: おんな好き
+    song_alias:
+    esong_code: 2498A22
+    t_singer_master_id: '24653'
+    singer_name: 天城 実
+    singer_alias:
+    available_date: '2010-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなすき
+    singer_name_ruby: あまきみのる
+    song_variation:
+    - esong_code: 2498A22
+      song_name: おんな好き
+      content_type: ''
   - song_name: 女の雨
     song_alias:
     esong_code: 2559B2
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2555A11
       song_name: 女の桟橋
+      content_type: ''
+  - song_name: 女の四季
+    song_alias:
+    esong_code: 2557B10
+    t_singer_master_id: '2371'
+    singer_name: 三善 英史
+    singer_alias:
+    available_date: '2010-06-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのしき
+    singer_name_ruby: みよしえいし
+    song_variation:
+    - esong_code: 2557B10
+      song_name: 女の四季
       content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
+  - song_name: あなた
+    song_alias:
+    esong_code: 1658B27
+    t_singer_master_id: '49277'
+    singer_name: 志衣 歩
+    singer_alias:
+    available_date: '2013-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなた
+    singer_name_ruby: しいあゆみ
+    song_variation:
+    - esong_code: 1658B27
+      song_name: あなた
+      content_type: ''
   - song_name: あなただけいればいい
     song_alias:
     esong_code: 1588A49
@@ -128,23 +145,6 @@ result:
       content_type: ''
   - song_name: あなたのせいよ
     song_alias:
-    esong_code: 3139B13
-    t_singer_master_id: '13954'
-    singer_name: 椎名 佐千子
-    singer_alias:
-    available_date: '2013-11-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: あなたのせいよ
-    singer_name_ruby: しいなさちこ
-    song_variation:
-    - esong_code: 3139B13
-      song_name: あなたのせいよ
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: あなたのせいよ
-    song_alias:
     esong_code: 3139A30
     t_singer_master_id: '13954'
     singer_name: 椎名 佐千子
@@ -160,6 +160,23 @@ result:
     - esong_code: 3139A30
       song_name: あなたのせいよ
       content_type: DAM生音
+  - song_name: あなたのせいよ
+    song_alias:
+    esong_code: 3139B13
+    t_singer_master_id: '13954'
+    singer_name: 椎名 佐千子
+    singer_alias:
+    available_date: '2013-11-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あなたのせいよ
+    singer_name_ruby: しいなさちこ
+    song_variation:
+    - esong_code: 3139B13
+      song_name: あなたのせいよ
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: あなたのそばで
     song_alias:
     esong_code: 995A13
@@ -285,7 +302,7 @@ result:
     t_singer_master_id: '22748'
     singer_name: シド
     singer_alias:
-    available_date: '2013-11-05'
+    available_date: '2013-11-06'
     end_date: '2999-04-10 00:00:00'
     tie_up: マギ<番組名>
     country_code: '0'
@@ -364,43 +381,6 @@ result:
     - esong_code: 3142A31
       song_name: あの娘にひとめぼれ
       content_type: ''
-  - song_name: あの頃のように
-    song_alias:
-    esong_code: 3145B4
-    t_singer_master_id: '48979'
-    singer_name: 澤地 哲夫
-    singer_alias:
-    available_date: '2013-11-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのころのように
-    singer_name_ruby: さわしてつお
-    song_variation:
-    - esong_code: 3145B4
-      song_name: あの頃のように
-      content_type: ''
-  - song_name: あの頃のように 歌詞入り [オリジナルクリップ]
-    song_alias:
-    esong_code: 3154A27
-    t_singer_master_id: '48979'
-    singer_name: 澤地 哲夫
-    singer_alias:
-    available_date: '2013-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: パセラ限定クリップ
-    song_name_ruby: あのころのように
-    singer_name_ruby: さわしてつお
-    song_variation:
-    - esong_code: 3154A27
-      song_name: あの頃のように 歌詞入り [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 3154A27
-      song_name: あの頃のように 歌詞入り [オリジナルクリップ]
-      content_type: パセラ限定クリップ
   - song_name: あの頃のように 歌詞入り [オリジナルクリップ]
     song_alias:
     esong_code: 3154A27
@@ -421,6 +401,43 @@ result:
     - esong_code: 3154A27
       song_name: あの頃のように 歌詞入り [オリジナルクリップ]
       content_type: パセラ限定クリップ
+  - song_name: あの頃のように 歌詞入り [オリジナルクリップ]
+    song_alias:
+    esong_code: 3154A27
+    t_singer_master_id: '48979'
+    singer_name: 澤地 哲夫
+    singer_alias:
+    available_date: '2013-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: パセラ限定クリップ
+    song_name_ruby: あのころのように
+    singer_name_ruby: さわしてつお
+    song_variation:
+    - esong_code: 3154A27
+      song_name: あの頃のように 歌詞入り [オリジナルクリップ]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    - esong_code: 3154A27
+      song_name: あの頃のように 歌詞入り [オリジナルクリップ]
+      content_type: パセラ限定クリップ
+  - song_name: あの頃のように
+    song_alias:
+    esong_code: 3145B4
+    t_singer_master_id: '48979'
+    singer_name: 澤地 哲夫
+    singer_alias:
+    available_date: '2013-11-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あのころのように
+    singer_name_ruby: さわしてつお
+    song_variation:
+    - esong_code: 3145B4
+      song_name: あの頃のように
+      content_type: ''
   - song_name: あの空へ帰ろう
     song_alias:
     esong_code: 3143A36
@@ -505,21 +522,4 @@ result:
     song_variation:
     - esong_code: 3144B25
       song_name: あの街の空
-      content_type: ''
-  - song_name: 網走漁港
-    song_alias:
-    esong_code: 3137B36
-    t_singer_master_id: '8557'
-    singer_name: 響 あゆみ(大空亜由美)
-    singer_alias:
-    available_date: '2013-11-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あはしりきよこう
-    singer_name_ruby: ひひきあゆみ
-    song_variation:
-    - esong_code: 3137B36
-      song_name: 網走漁港
       content_type: ''

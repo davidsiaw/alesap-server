@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
   - song_name: あと100マイル
     song_alias:
@@ -253,7 +253,7 @@ result:
     singer_alias:
     available_date: '2015-07-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ Operation Victory Arrow<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あふりかのほし
@@ -383,23 +383,6 @@ result:
       content_type: DAM生音
   - song_name: 雨のヨコハマ
     song_alias:
-    esong_code: 412B38
-    t_singer_master_id: '1376'
-    singer_name: 立樹 みか
-    singer_alias:
-    available_date: '2015-07-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: あめのよこはま
-    singer_name_ruby: たちきみか
-    song_variation:
-    - esong_code: 412B38
-      song_name: 雨のヨコハマ
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 雨のヨコハマ
-    song_alias:
     esong_code: 457A27
     t_singer_master_id: '1376'
     singer_name: 立樹 みか
@@ -415,6 +398,23 @@ result:
     - esong_code: 457A27
       song_name: 雨のヨコハマ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 雨のヨコハマ
+    song_alias:
+    esong_code: 412B38
+    t_singer_master_id: '1376'
+    singer_name: 立樹 みか
+    singer_alias:
+    available_date: '2015-07-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あめのよこはま
+    singer_name_ruby: たちきみか
+    song_variation:
+    - esong_code: 412B38
+      song_name: 雨のヨコハマ
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 雨 (Remix by Avec Avec (Sugar's Campaign))
     song_alias:
     esong_code: 3470A41

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
-  - song_name: ゆっくり ゆっくり
-    song_alias:
-    esong_code: 2991B7
-    t_singer_master_id: '47206'
-    singer_name: 鈴木 翼&大友 剛
-    singer_alias:
-    available_date: '2013-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆつくりゆつくり
-    singer_name_ruby: すすきつはさおおともつよ
-    song_variation:
-    - esong_code: 2991B7
-      song_name: ゆっくり ゆっくり
-      content_type: ''
   - song_name: 指先
     song_alias:
     esong_code: 2992A36
@@ -132,7 +115,7 @@ result:
     t_singer_master_id: '44854'
     singer_name: 鈴木 このみ
     singer_alias:
-    available_date: '2013-02-26'
+    available_date: '2013-02-27'
     end_date: '2999-04-10 00:00:00'
     tie_up: さくら荘のペットな彼女<番組名>
     country_code: '0'
@@ -196,6 +179,23 @@ result:
       content_type: ''
   - song_name: 夢の花 咲かそう
     song_alias:
+    esong_code: 2978B26
+    t_singer_master_id: '1655'
+    singer_name: 中村 美律子
+    singer_alias:
+    available_date: '2013-02-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめのはなさかそう
+    singer_name_ruby: なかむらみつこ
+    song_variation:
+    - esong_code: 2978B26
+      song_name: 夢の花 咲かそう
+      content_type: ''
+  - song_name: 夢の花 咲かそう
+    song_alias:
     esong_code: 2986B16
     t_singer_master_id: '2190'
     singer_name: 増位山 太志郎
@@ -230,40 +230,6 @@ result:
       content_type: DAM生音
   - song_name: 夢の花 咲かそう
     song_alias:
-    esong_code: 2978A36
-    t_singer_master_id: '2190'
-    singer_name: 増位山 太志郎
-    singer_alias:
-    available_date: '2013-02-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめのはなさかそう
-    singer_name_ruby: ますいやまたいしろう
-    song_variation:
-    - esong_code: 2978A36
-      song_name: 夢の花 咲かそう
-      content_type: ''
-  - song_name: 夢の花 咲かそう
-    song_alias:
-    esong_code: 2985B2
-    t_singer_master_id: '2190'
-    singer_name: 増位山 太志郎
-    singer_alias:
-    available_date: '2013-02-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ゆめのはなさかそう
-    singer_name_ruby: ますいやまたいしろう
-    song_variation:
-    - esong_code: 2985B2
-      song_name: 夢の花 咲かそう
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 夢の花 咲かそう
-    song_alias:
     esong_code: 2986B17
     t_singer_master_id: '1655'
     singer_name: 中村 美律子
@@ -279,6 +245,23 @@ result:
     - esong_code: 2986B17
       song_name: 夢の花 咲かそう
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 夢の花 咲かそう
+    song_alias:
+    esong_code: 2978A36
+    t_singer_master_id: '2190'
+    singer_name: 増位山 太志郎
+    singer_alias:
+    available_date: '2013-02-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめのはなさかそう
+    singer_name_ruby: ますいやまたいしろう
+    song_variation:
+    - esong_code: 2978A36
+      song_name: 夢の花 咲かそう
+      content_type: ''
   - song_name: 夢の花 咲かそう
     song_alias:
     esong_code: 2985A47
@@ -298,21 +281,21 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 夢の花 咲かそう
     song_alias:
-    esong_code: 2978B26
-    t_singer_master_id: '1655'
-    singer_name: 中村 美律子
+    esong_code: 2985B2
+    t_singer_master_id: '2190'
+    singer_name: 増位山 太志郎
     singer_alias:
-    available_date: '2013-02-13'
+    available_date: '2013-02-26'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: ゆめのはなさかそう
-    singer_name_ruby: なかむらみつこ
+    singer_name_ruby: ますいやまたいしろう
     song_variation:
-    - esong_code: 2978B26
+    - esong_code: 2985B2
       song_name: 夢の花 咲かそう
-      content_type: ''
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 夢の花 咲かそう
     song_alias:
     esong_code: 2985A26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2981B16
       song_name: 汚れた脚 The Silence of Innocence
+      content_type: ''
+  - song_name: よさこいおんな町
+    song_alias:
+    esong_code: 2987B9
+    t_singer_master_id: '8025'
+    singer_name: 浜 桂子
+    singer_alias:
+    available_date: '2013-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よさこいおんなまち
+    singer_name_ruby: はまけいこ
+    song_variation:
+    - esong_code: 2987B9
+      song_name: よさこいおんな町
       content_type: ''

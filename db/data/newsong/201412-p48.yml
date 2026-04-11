@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
+  - song_name: Long for the Blue moon
+    song_alias:
+    esong_code: 3365A28
+    t_singer_master_id: '40486'
+    singer_name: SHANK
+    singer_alias:
+    available_date: '2014-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろんくふおさふ
+    singer_name_ruby: しやんく
+    song_variation:
+    - esong_code: 3365A28
+      song_name: Long for the Blue moon
+      content_type: ''
   - song_name: Lonely,Morning,Dreaming
     song_alias:
     esong_code: 3377B24
@@ -49,7 +66,7 @@ result:
     singer_alias:
     available_date: '2014-12-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 第3期「花組公演音楽集〜太正十五年版〜」<番組名>
+    tie_up: サクラ大戦(ドラマCD版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: わかこころになるか
@@ -75,23 +92,6 @@ result:
     - esong_code: 2154B33
       song_name: 我が人生 生き抜く
       content_type: ''
-  - song_name: 我儘
-    song_alias:
-    esong_code: 3375A3
-    t_singer_master_id: '7882'
-    singer_name: KinKi Kids
-    singer_alias:
-    available_date: '2014-12-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: わかまま
-    singer_name_ruby: きんききつす
-    song_variation:
-    - esong_code: 3375A3
-      song_name: 我儘
-      content_type: ''
   - song_name: ワガママ
     song_alias:
     esong_code: 3373B30
@@ -108,6 +108,23 @@ result:
     song_variation:
     - esong_code: 3373B30
       song_name: ワガママ
+      content_type: ''
+  - song_name: 我儘
+    song_alias:
+    esong_code: 3375A3
+    t_singer_master_id: '7882'
+    singer_name: KinKi Kids
+    singer_alias:
+    available_date: '2014-12-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わかまま
+    singer_name_ruby: きんききつす
+    song_variation:
+    - esong_code: 3375A3
+      song_name: 我儘
       content_type: ''
   - song_name: 若者たち
     song_alias:
@@ -330,6 +347,23 @@ result:
     - esong_code: 3364A1
       song_name: wanna be
       content_type: ''
+  - song_name: 悪い魔法の歌
+    song_alias:
+    esong_code: 1126A22
+    t_singer_master_id: '20960'
+    singer_name: 中尾 隆聖&鶴 ひろみ
+    singer_alias:
+    available_date: '2014-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: それいけ!アンパンマン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: わるいまほうのうた
+    singer_name_ruby: なかおりゆうせいつるひろみ
+    song_variation:
+    - esong_code: 1126A22
+      song_name: 悪い魔法の歌
+      content_type: ''
   - song_name: ワールドエンド
     song_alias:
     esong_code: 3373B37
@@ -421,7 +455,7 @@ result:
     t_singer_master_id: '25694'
     singer_name: いきものがかり
     singer_alias:
-    available_date: '2014-12-23'
+    available_date: '2014-12-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 2489B45
       song_name: wonder wall
-      content_type: ''
-  - song_name: ワンダーパワーロボタック!
-    song_alias:
-    esong_code: 563B12
-    t_singer_master_id: '20594'
-    singer_name: LAMUSE
-    singer_alias:
-    available_date: '2014-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テツワン探偵 ロボタック<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: わんたはわろ
-    singer_name_ruby: らみゆす
-    song_variation:
-    - esong_code: 563B12
-      song_name: ワンダーパワーロボタック!
-      content_type: ''
-  - song_name: Wonderful Rush
-    song_alias:
-    esong_code: 3379A40
-    t_singer_master_id: '41536'
-    singer_name: μ's
-    singer_alias:
-    available_date: '2014-12-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ラブライブ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: わんたふるらつしゆ
-    singer_name_ruby: みゆす
-    song_variation:
-    - esong_code: 3379A40
-      song_name: Wonderful Rush
       content_type: ''

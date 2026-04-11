@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1199
-  all_max_cnt: 1301
-  all_country_cnt: 1199
+  max_cnt: 1196
+  all_max_cnt: 1298
+  all_country_cnt: 1196
   song:
-  - song_name: 45℃
-    song_alias:
-    esong_code: 595B19
-    t_singer_master_id: '7571'
-    singer_name: 堂島 孝平
-    singer_alias:
-    available_date: '2007-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よんしゆうこと
-    singer_name_ruby: とうしまこうへい
-    song_variation:
-    - esong_code: 595B19
-      song_name: 45℃
-      content_type: ''
-  - song_name: Like a Magic☆ (ZIPANG RAYTO 'Crystal' MIX)
-    song_alias:
-    esong_code: 1735A46
-    t_singer_master_id: '16700'
-    singer_name: ICHIDAI
-    singer_alias:
-    available_date: '2007-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らいくあましつく
-    singer_name_ruby: いちたい
-    song_variation:
-    - esong_code: 1735A46
-      song_name: Like a Magic☆ (ZIPANG RAYTO 'Crystal' MIX)
-      content_type: ''
   - song_name: LIGHT IT UP
     song_alias:
     esong_code: 1739A13
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1734A3
       song_name: REAL DISTANCE
+      content_type: ''
+  - song_name: REGRET
+    song_alias:
+    esong_code: 1729B32
+    t_singer_master_id: '20769'
+    singer_name: the GazettE(ガゼット)
+    singer_alias:
+    available_date: '2007-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: りくれつと
+    singer_name_ruby: かせつと
+    song_variation:
+    - esong_code: 1729B32
+      song_name: REGRET
+      content_type: DAM生音
+  - song_name: recall
+    song_alias:
+    esong_code: 1731A37
+    t_singer_master_id: '6120'
+    singer_name: My Little Lover
+    singer_alias:
+    available_date: '2007-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りこる
+    singer_name_ruby: まいりとるらは
+    song_variation:
+    - esong_code: 1731A37
+      song_name: recall
       content_type: ''

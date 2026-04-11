@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 433
-  all_max_cnt: 461
-  all_country_cnt: 433
+  max_cnt: 431
+  all_max_cnt: 459
+  all_country_cnt: 431
   song:
-  - song_name: EDGE
-    song_alias:
-    esong_code: 765B33
-    t_singer_master_id: '54'
-    singer_name: access
-    singer_alias:
-    available_date: '2002-02-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えつし
-    singer_name_ruby: あくせす
-    song_variation:
-    - esong_code: 765B33
-      song_name: EDGE
-      content_type: ''
   - song_name: M (Above&Beyond remix)
     song_alias:
     esong_code: 763A25
@@ -245,23 +228,6 @@ result:
     - esong_code: 703A29
       song_name: お万
       content_type: ''
-  - song_name: 想い（S.O.S. edition）
-    song_alias:
-    esong_code: 761A40
-    t_singer_master_id: '11108'
-    singer_name: Skoop On Somebody(SKOOP)
-    singer_alias:
-    available_date: '2002-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもい
-    singer_name_ruby: すくふおんさむはてい
-    song_variation:
-    - esong_code: 761A40
-      song_name: 想い（S.O.S. edition）
-      content_type: ''
   - song_name: 想い
     song_alias:
     esong_code: 763B31
@@ -278,6 +244,23 @@ result:
     song_variation:
     - esong_code: 763B31
       song_name: 想い
+      content_type: ''
+  - song_name: 想い（S.O.S. edition）
+    song_alias:
+    esong_code: 761A40
+    t_singer_master_id: '11108'
+    singer_name: Skoop On Somebody(SKOOP)
+    singer_alias:
+    available_date: '2002-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもい
+    singer_name_ruby: すくふおんさむはてい
+    song_variation:
+    - esong_code: 761A40
+      song_name: 想い（S.O.S. edition）
       content_type: ''
   - song_name: おもいで日記
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 767A29
       song_name: 風のはじまる場所
+      content_type: ''
+  - song_name: 片恋椿
+    song_alias:
+    esong_code: 764B30
+    t_singer_master_id: '13523'
+    singer_name: 志穂 かおり
+    singer_alias:
+    available_date: '2002-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かたこいつはき
+    singer_name_ruby: しほかおり
+    song_variation:
+    - esong_code: 764B30
+      song_name: 片恋椿
       content_type: ''

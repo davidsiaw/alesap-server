@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: 紅霧紅夢
-    song_alias:
-    esong_code: 1438A10
-    t_singer_master_id: '33013'
-    singer_name: 石鹸屋
-    singer_alias:
-    available_date: '2012-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方紅魔郷 〜the Embodiment of Scarlet Devil<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: こうむこうむ
-    singer_name_ruby: せつけんや
-    song_variation:
-    - esong_code: 1438A10
-      song_name: 紅霧紅夢
-      content_type: 東方
-  - song_name: 声
-    song_alias:
-    esong_code: 2818A48
-    t_singer_master_id: '40524'
-    singer_name: 我羇道
-    singer_alias:
-    available_date: '2012-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こえ
-    singer_name_ruby: かきとう
-    song_variation:
-    - esong_code: 2818A48
-      song_name: 声
-      content_type: ''
   - song_name: ご機嫌いかが
     song_alias:
     esong_code: 1242B47
@@ -60,23 +26,6 @@ result:
       content_type: ''
   - song_name: 告白
     song_alias:
-    esong_code: 2813A2
-    t_singer_master_id: '24203'
-    singer_name: アンジェラ・アキ
-    singer_alias:
-    available_date: '2012-07-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 宇宙兄弟<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こくはく
-    singer_name_ruby: あんしえらあき
-    song_variation:
-    - esong_code: 2813A2
-      song_name: 告白
-      content_type: ''
-  - song_name: 告白
-    song_alias:
     esong_code: 2815A33
     t_singer_master_id: '24203'
     singer_name: アンジェラ・アキ
@@ -92,6 +41,23 @@ result:
     - esong_code: 2815A33
       song_name: 告白
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 告白
+    song_alias:
+    esong_code: 2813A2
+    t_singer_master_id: '24203'
+    singer_name: アンジェラ・アキ
+    singer_alias:
+    available_date: '2012-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 宇宙兄弟<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こくはく
+    singer_name_ruby: あんしえらあき
+    song_variation:
+    - esong_code: 2813A2
+      song_name: 告白
+      content_type: ''
   - song_name: ここから始まるんだ!
     song_alias:
     esong_code: 2820A12
@@ -202,7 +168,7 @@ result:
     singer_alias:
     available_date: '2012-07-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GuitarFreaksV6 BLAZING!!!!&DrumManiaV6 BLAZING!!<番組名>
+    tie_up: GuitarFreaks&DrumMania<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こころのおれたえんし
@@ -449,23 +415,6 @@ result:
     - esong_code: 2824B37
       song_name: このままずっと・・・・
       content_type: ''
-  - song_name: GO FOR IT!!
-    song_alias:
-    esong_code: 2823B37
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2012-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こふおいつと
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 2823B37
-      song_name: GO FOR IT!!
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: GO FOR IT !!
     song_alias:
     esong_code: 2813A3
@@ -483,6 +432,23 @@ result:
     - esong_code: 2813A3
       song_name: GO FOR IT !!
       content_type: ''
+  - song_name: GO FOR IT!!
+    song_alias:
+    esong_code: 2823B37
+    t_singer_master_id: '32267'
+    singer_name: 西野 カナ
+    singer_alias:
+    available_date: '2012-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: こふおいつと
+    singer_name_ruby: にしのかな
+    song_variation:
+    - esong_code: 2823B37
+      song_name: GO FOR IT!!
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: こまくさ帰行
     song_alias:
     esong_code: 2819B23
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2812B41
       song_name: こまくさ帰行
+      content_type: ''
+  - song_name: ごめんね ジュエル
+    song_alias:
+    esong_code: 2812A30
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2012-07-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こめんねしゆえる
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 2812A30
+      song_name: ごめんね ジュエル
+      content_type: ''
+  - song_name: 木漏れ日色の記憶
+    song_alias:
+    esong_code: 2812A41
+    t_singer_master_id: '42960'
+    singer_name: ChouCho(ちょうちょ)
+    singer_alias:
+    available_date: '2012-07-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こもれひいろのきお
+    singer_name_ruby: ちようちよ
+    song_variation:
+    - esong_code: 2812A41
+      song_name: 木漏れ日色の記憶
       content_type: ''

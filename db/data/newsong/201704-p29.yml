@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
-  - song_name: "「花」-0714- [DAM本人歌唱]"
-    song_alias:
-    esong_code: 3778A3
-    t_singer_master_id: '44954'
-    singer_name: MY FIRST STORY
-    singer_alias:
-    available_date: '2017-04-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: はなれないよ
-    singer_name_ruby: まいふあすとすとり
-    song_variation:
-    - esong_code: 3778A3
-      song_name: "「花」-0714- [DAM本人歌唱]"
-      content_type: DAM本人歌唱
   - song_name: 母情歌
     song_alias:
     esong_code: 3792B40
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3786B16
       song_name: ピクニックには早すぎる
+      content_type: ''
+  - song_name: Because
+    song_alias:
+    esong_code: 3793B43
+    t_singer_master_id: '57165'
+    singer_name: 内田 雄馬
+    singer_alias:
+    available_date: '2017-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター SideM(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひこす
+    singer_name_ruby: うちたゆうま
+    song_variation:
+    - esong_code: 3793B43
+      song_name: Because
       content_type: ''

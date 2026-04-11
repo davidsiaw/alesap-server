@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 958
-  all_max_cnt: 1067
-  all_country_cnt: 958
+  max_cnt: 953
+  all_max_cnt: 1062
+  all_country_cnt: 953
   song:
-  - song_name: 瞳は知っている
-    song_alias:
-    esong_code: 2355B25
-    t_singer_master_id: '1462'
-    singer_name: TUBE
-    singer_alias:
-    available_date: '2009-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとみはしつている
-    singer_name_ruby: ちゆふ
-    song_variation:
-    - esong_code: 2355B25
-      song_name: 瞳は知っている
-      content_type: ''
-  - song_name: 独りかくれんぼ
-    song_alias:
-    esong_code: 2365B33
-    t_singer_master_id: '19694'
-    singer_name: R*A*P
-    singer_alias:
-    available_date: '2009-07-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとりかくれんほ
-    singer_name_ruby: あるえひ
-    song_variation:
-    - esong_code: 2365B33
-      song_name: 独りかくれんぼ
-      content_type: ''
-  - song_name: ひとり旅
-    song_alias:
-    esong_code: 1109B41
-    t_singer_master_id: '2410'
-    singer_name: 森 進一
-    singer_alias:
-    available_date: '2009-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとりたひ
-    singer_name_ruby: もりしんいち
-    song_variation:
-    - esong_code: 1109B41
-      song_name: ひとり旅
-      content_type: ''
   - song_name: People
     song_alias:
     esong_code: 2349A15
@@ -134,7 +83,7 @@ result:
     singer_alias:
     available_date: '2009-07-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・バーサス<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ひゆあういんく
@@ -466,23 +415,6 @@ result:
     - esong_code: 2353A6
       song_name: Focus (single Ver.)
       content_type: ''
-  - song_name: FOR U
-    song_alias:
-    esong_code: 2360A40
-    t_singer_master_id: '33359'
-    singer_name: EMI MARIA
-    singer_alias:
-    available_date: '2009-07-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふおゆ
-    singer_name_ruby: えみまりあ
-    song_variation:
-    - esong_code: 2360A40
-      song_name: FOR U
-      content_type: ''
   - song_name: For You
     song_alias:
     esong_code: 2354B4
@@ -500,6 +432,23 @@ result:
     - esong_code: 2354B4
       song_name: For You
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: FOR U
+    song_alias:
+    esong_code: 2360A40
+    t_singer_master_id: '33359'
+    singer_name: EMI MARIA
+    singer_alias:
+    available_date: '2009-07-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふおゆ
+    singer_name_ruby: えみまりあ
+    song_variation:
+    - esong_code: 2360A40
+      song_name: FOR U
+      content_type: ''
   - song_name: Falling (2009)
     song_alias:
     esong_code: 2367B40
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2367B40
       song_name: Falling (2009)
+      content_type: ''
+  - song_name: Follow Me
+    song_alias:
+    esong_code: 2360A28
+    t_singer_master_id: '31668'
+    singer_name: AK-69 a.k.a KALASSY NIKOFF
+    singer_alias:
+    available_date: '2009-07-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふおろみ
+    singer_name_ruby: えけしつくすていないんからしにこふ
+    song_variation:
+    - esong_code: 2360A28
+      song_name: Follow Me
+      content_type: ''
+  - song_name: 福原美穂メドレー
+    song_alias:
+    esong_code: 2366A37
+    t_singer_master_id: '28262'
+    singer_name: 福原 美穂
+    singer_alias:
+    available_date: '2009-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふくはらみほめとれ
+    singer_name_ruby: ふくはらみほ
+    song_variation:
+    - esong_code: 2366A37
+      song_name: 福原美穂メドレー
+      content_type: ''
+  - song_name: 不健康ミュージック
+    song_alias:
+    esong_code: 2367A13
+    t_singer_master_id: '28417'
+    singer_name: 鶴
+    singer_alias:
+    available_date: '2009-07-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふけんこうみゆし
+    singer_name_ruby: つる
+    song_variation:
+    - esong_code: 2367A13
+      song_name: 不健康ミュージック
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: スニーカードリーマー
-    song_alias:
-    esong_code: 3920B18
-    t_singer_master_id: '38233'
-    singer_name: WHITE JAM
-    singer_alias:
-    available_date: '2017-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すにかとりま
-    singer_name_ruby: ほわいとしやむ
-    song_variation:
-    - esong_code: 3920B18
-      song_name: スニーカードリーマー
-      content_type: ''
-  - song_name: Snow halation (歌唱:林鼓子)
-    song_alias:
-    esong_code: 3921A44
-    t_singer_master_id: '41536'
-    singer_name: μ's
-    singer_alias:
-    available_date: '2017-12-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ラブライブ!<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: すのうはれしよん
-    singer_name_ruby: みゆす
-    song_variation:
-    - esong_code: 3921A44
-      song_name: Snow halation (歌唱:林鼓子)
-      content_type: DAM生音
   - song_name: スノウループ
     song_alias:
     esong_code: 3918A11
@@ -347,23 +313,6 @@ result:
     - esong_code: 3918B25
       song_name: セツナヒコウキ
       content_type: ''
-  - song_name: 絶望頂プライド
-    song_alias:
-    esong_code: 3918A15
-    t_singer_master_id: '60232'
-    singer_name: 黒田 崇矢&宇垣 秀成
-    singer_alias:
-    available_date: '2017-12-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: せつほうちようふ
-    singer_name_ruby: くろたたかやうかきひて
-    song_variation:
-    - esong_code: 3918A15
-      song_name: 絶望頂プライド
-      content_type: ''
   - song_name: 絶望頂プライド [Maji Spec Edition]
     song_alias:
     esong_code: 3918A17
@@ -372,7 +321,7 @@ result:
     singer_alias:
     available_date: '2017-12-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: せつほうちようふ
@@ -380,6 +329,23 @@ result:
     song_variation:
     - esong_code: 3918A17
       song_name: 絶望頂プライド [Maji Spec Edition]
+      content_type: ''
+  - song_name: 絶望頂プライド
+    song_alias:
+    esong_code: 3918A15
+    t_singer_master_id: '60232'
+    singer_name: 黒田 崇矢&宇垣 秀成
+    singer_alias:
+    available_date: '2017-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 龍が如く<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: せつほうちようふ
+    singer_name_ruby: くろたたかやうかきひて
+    song_variation:
+    - esong_code: 3918A15
+      song_name: 絶望頂プライド
       content_type: ''
   - song_name: 瀬戸内児島の恋情話
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3918B20
       song_name: 千の弓矢
+      content_type: ''
+  - song_name: ゼンブレンタルジャーニー
+    song_alias:
+    esong_code: 3918A32
+    t_singer_master_id: '4340'
+    singer_name: 奥田 民生
+    singer_alias:
+    available_date: '2017-12-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せんふれんたるし
+    singer_name_ruby: おくたたみお
+    song_variation:
+    - esong_code: 3918A32
+      song_name: ゼンブレンタルジャーニー
+      content_type: ''
+  - song_name: 相馬神長老林の詩
+    song_alias:
+    esong_code: 2141B33
+    t_singer_master_id: '55499'
+    singer_name: 相馬 清志
+    singer_alias:
+    available_date: '2017-12-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そうまかんちよろりん
+    singer_name_ruby: そうまきよし
+    song_variation:
+    - esong_code: 2141B33
+      song_name: 相馬神長老林の詩
       content_type: ''

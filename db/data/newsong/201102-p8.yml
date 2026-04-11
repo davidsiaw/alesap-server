@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1174
-  all_max_cnt: 1303
-  all_country_cnt: 1174
+  max_cnt: 1169
+  all_max_cnt: 1300
+  all_country_cnt: 1169
   song:
-  - song_name: 加藤ミリヤメドレー 〜2009〜
-    song_alias:
-    esong_code: 1781B31
-    t_singer_master_id: '20609'
-    singer_name: 加藤 ミリヤ
-    singer_alias:
-    available_date: '2011-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かとうみりやめとれ
-    singer_name_ruby: かとうみりや
-    song_variation:
-    - esong_code: 1781B31
-      song_name: 加藤ミリヤメドレー 〜2009〜
-      content_type: ''
   - song_name: カートニアゴ
     song_alias:
     esong_code: 1849B1
@@ -32,7 +15,7 @@ result:
     singer_alias:
     available_date: '2011-02-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: よりぬき銀魂さん<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かとにあこ
@@ -143,6 +126,23 @@ result:
     - esong_code: 1821A35
       song_name: 鎌倉慕情
       content_type: ''
+  - song_name: Come with Me!! (憂Ver.)
+    song_alias:
+    esong_code: 1827A36
+    t_singer_master_id: '38114'
+    singer_name: 米澤 円
+    singer_alias:
+    available_date: '2011-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: けいおん!!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かむういすみ
+    singer_name_ruby: よねさわまとか
+    song_variation:
+    - esong_code: 1827A36
+      song_name: Come with Me!! (憂Ver.)
+      content_type: ''
   - song_name: Come with Me!! (純Ver.)
     song_alias:
     esong_code: 1827A35
@@ -176,23 +176,6 @@ result:
     song_variation:
     - esong_code: 1827A30
       song_name: Come with Me!! (和Ver.)
-      content_type: ''
-  - song_name: Come with Me!! (憂Ver.)
-    song_alias:
-    esong_code: 1827A36
-    t_singer_master_id: '38114'
-    singer_name: 米澤 円
-    singer_alias:
-    available_date: '2011-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: けいおん!!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かむういすみ
-    singer_name_ruby: よねさわまとか
-    song_variation:
-    - esong_code: 1827A36
-      song_name: Come with Me!! (憂Ver.)
       content_type: ''
   - song_name: 神室雪月花
     song_alias:
@@ -266,7 +249,7 @@ result:
     song_alias:
     esong_code: 1951B48
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2011-02-02'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1948B32
       song_name: 菊人形の呪い
+      content_type: ''
+  - song_name: 傷だらけの天使
+    song_alias:
+    esong_code: 1814B41
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2011-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすたらけのてん
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 1814B41
+      song_name: 傷だらけの天使
       content_type: ''

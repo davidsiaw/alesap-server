@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: 水無瀬川
-    song_alias:
-    esong_code: 1982A6
-    t_singer_master_id: '414'
-    singer_name: 岡 ゆう子
-    singer_alias:
-    available_date: '2008-04-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みなせかわ
-    singer_name_ruby: おかゆうこ
-    song_variation:
-    - esong_code: 1982A6
-      song_name: 水無瀬川
-      content_type: ''
   - song_name: 水底の町
     song_alias:
     esong_code: 1986B20
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1981B6
       song_name: モテ期のうた
+      content_type: ''
+  - song_name: モトヤDEサンバ
+    song_alias:
+    esong_code: 1979A2
+    t_singer_master_id: '32725'
+    singer_name: 和泉 元彌ファミリーとパティオ&侑二
+    singer_alias:
+    available_date: '2008-04-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: もとやてさんは
+    singer_name_ruby: いすみもとやふあみりとは
+    song_variation:
+    - esong_code: 1979A2
+      song_name: モトヤDEサンバ
       content_type: ''

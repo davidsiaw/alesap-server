@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1082
-  all_max_cnt: 1200
-  all_country_cnt: 1082
+  max_cnt: 1165
+  all_max_cnt: 1309
+  all_country_cnt: 1165
   song:
+  - song_name: stretch my arms
+    song_alias:
+    esong_code: 4909A30
+    t_singer_master_id: '32986'
+    singer_name: FACT
+    singer_alias:
+    available_date: '2023-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: STRETCH MY
+    singer_name_ruby: ふあくと
+    song_variation:
+    - esong_code: 4909A30
+      song_name: stretch my arms
+      content_type: ''
   - song_name: アイアムアヒーロー
     song_alias:
     esong_code: 4799B9
@@ -40,6 +57,23 @@ result:
     song_variation:
     - esong_code: 4810A28
       song_name: I AM THE BEST
+      content_type: ''
+  - song_name: 藍色閃光
+    song_alias:
+    esong_code: 4909A10
+    t_singer_master_id: '64955'
+    singer_name: 原因は自分にある。
+    singer_alias:
+    available_date: '2023-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいいろせんこう
+    singer_name_ruby: けんいんはしふんにある
+    song_variation:
+    - esong_code: 4909A10
+      song_name: 藍色閃光
       content_type: ''
   - song_name: 愛飢えナイトオウル
     song_alias:
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 4811A45
       song_name: 愛をこめてありがとう
-      content_type: ''
-  - song_name: 藍を見つけて
-    song_alias:
-    esong_code: 4810A26
-    t_singer_master_id: '70513'
-    singer_name: ミセカイ
-    singer_alias:
-    available_date: '2023-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいをみつけて
-    singer_name_ruby: みせかい
-    song_variation:
-    - esong_code: 4810A26
-      song_name: 藍を見つけて
-      content_type: ''
-  - song_name: 青空について考える
-    song_alias:
-    esong_code: 4808B17
-    t_singer_master_id: '72006'
-    singer_name: 僕が見たかった青空
-    singer_alias:
-    available_date: '2023-07-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あおそらについてか
-    singer_name_ruby: ほくかみたかつたあおそら
-    song_variation:
-    - esong_code: 4808B17
-      song_name: 青空について考える
       content_type: ''

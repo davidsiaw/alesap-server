@@ -7,6 +7,40 @@ result:
   all_max_cnt: 1916
   all_country_cnt: 1684
   song:
+  - song_name: 修善寺の宿
+    song_alias:
+    esong_code: 3228A25
+    t_singer_master_id: '495'
+    singer_name: 鏡 五郎
+    singer_alias:
+    available_date: '2014-04-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: しゆせんしのやと
+    singer_name_ruby: かかみころう
+    song_variation:
+    - esong_code: 3228A25
+      song_name: 修善寺の宿
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 出航-departure-
+    song_alias:
+    esong_code: 3237B14
+    t_singer_master_id: '2870'
+    singer_name: 緒方 恵美
+    singer_alias:
+    available_date: '2014-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ダンガンロンパ(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆつこうていは
+    singer_name_ruby: おかためくみ
+    song_variation:
+    - esong_code: 3237B14
+      song_name: 出航-departure-
+      content_type: ''
   - song_name: 10才のありがとう
     song_alias:
     esong_code: 3241B41
@@ -58,23 +92,6 @@ result:
     - esong_code: 3217B49
       song_name: しゅーてぃん☆すたー
       content_type: VOCALOID
-  - song_name: Churrasco(シュハスコ) [DAM本人歌唱]
-    song_alias:
-    esong_code: 3229B25
-    t_singer_master_id: '1937'
-    singer_name: BEGIN
-    singer_alias:
-    available_date: '2014-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: しゆはすこ
-    singer_name_ruby: ひきん
-    song_variation:
-    - esong_code: 3229B25
-      song_name: Churrasco(シュハスコ) [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: See you later... Good night
     song_alias:
     esong_code: 3239A40
@@ -315,23 +332,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 昭和の花
     song_alias:
-    esong_code: 3229B33
-    t_singer_master_id: '824'
-    singer_name: 小金沢 昇司
-    singer_alias:
-    available_date: '2014-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: しようわのはな
-    singer_name_ruby: こかねさわしようし
-    song_variation:
-    - esong_code: 3229B33
-      song_name: 昭和の花
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 昭和の花
-    song_alias:
     esong_code: 3229B7
     t_singer_master_id: '824'
     singer_name: 小金沢 昇司
@@ -347,6 +347,23 @@ result:
     - esong_code: 3229B7
       song_name: 昭和の花
       content_type: DAM生音
+  - song_name: 昭和の花
+    song_alias:
+    esong_code: 3229B33
+    t_singer_master_id: '824'
+    singer_name: 小金沢 昇司
+    singer_alias:
+    available_date: '2014-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: しようわのはな
+    singer_name_ruby: こかねさわしようし
+    song_variation:
+    - esong_code: 3229B33
+      song_name: 昭和の花
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 昭和やったね
     song_alias:
     esong_code: 3238A25
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3226A48
       song_name: じょんがら海峡
-      content_type: ''
-  - song_name: じょんからしぐれ
-    song_alias:
-    esong_code: 3227A9
-    t_singer_master_id: '8017'
-    singer_name: 水元 亜紀(水元やよい)
-    singer_alias:
-    available_date: '2014-04-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよんからしくれ
-    singer_name_ruby: みすもとあき
-    song_variation:
-    - esong_code: 3227A9
-      song_name: じょんからしぐれ
       content_type: ''

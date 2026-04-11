@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: ハートのパズル
-    song_alias:
-    esong_code: 280A44
-    t_singer_master_id: '13589'
-    singer_name: 野川 さくら
-    singer_alias:
-    available_date: '2014-03-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はとのはする
-    singer_name_ruby: のかわさくら
-    song_variation:
-    - esong_code: 280A44
-      song_name: ハートのパズル
-      content_type: ''
   - song_name: ハートのベクトル
     song_alias:
     esong_code: 3214A14
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2844B27
       song_name: 春への幻想
+      content_type: ''
+  - song_name: 春雪
+    song_alias:
+    esong_code: 3211A17
+    t_singer_master_id: '20714'
+    singer_name: JUJU
+    singer_alias:
+    available_date: '2014-03-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はるゆき
+    singer_name_ruby: しゆしゆ
+    song_variation:
+    - esong_code: 3211A17
+      song_name: 春雪
       content_type: ''

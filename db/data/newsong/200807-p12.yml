@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1179
-  all_max_cnt: 1291
-  all_country_cnt: 1179
+  max_cnt: 1177
+  all_max_cnt: 1289
+  all_country_cnt: 1177
   song:
-  - song_name: 佐渡海峡
-    song_alias:
-    esong_code: 2039B16
-    t_singer_master_id: '8029'
-    singer_name: 北野 まち子(北乃町子)
-    singer_alias:
-    available_date: '2008-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さとかいきよう
-    singer_name_ruby: きたのまちこ
-    song_variation:
-    - esong_code: 2039B16
-      song_name: 佐渡海峡
-      content_type: ''
-  - song_name: 佐渡海峡
-    song_alias:
-    esong_code: 2042B32
-    t_singer_master_id: '8029'
-    singer_name: 北野 まち子(北乃町子)
-    singer_alias:
-    available_date: '2008-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さとかいきよう
-    singer_name_ruby: きたのまちこ
-    song_variation:
-    - esong_code: 2042B32
-      song_name: 佐渡海峡
-      content_type: DAM生音
   - song_name: Sunny Sunday
     song_alias:
     esong_code: 2062B7
@@ -162,23 +128,6 @@ result:
       content_type: ''
   - song_name: SUMMER SONG
     song_alias:
-    esong_code: 2037A37
-    t_singer_master_id: '22240'
-    singer_name: YUI
-    singer_alias:
-    available_date: '2008-07-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さまそんく
-    singer_name_ruby: ゆい
-    song_variation:
-    - esong_code: 2037A37
-      song_name: SUMMER SONG
-      content_type: ''
-  - song_name: SUMMER SONG
-    song_alias:
     esong_code: 2042B23
     t_singer_master_id: '22240'
     singer_name: YUI
@@ -194,6 +143,23 @@ result:
     - esong_code: 2042B23
       song_name: SUMMER SONG
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: SUMMER SONG
+    song_alias:
+    esong_code: 2037A37
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2008-07-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さまそんく
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 2037A37
+      song_name: SUMMER SONG
+      content_type: ''
   - song_name: SUMMER TIME w/JUNGLE ROOTS
     song_alias:
     esong_code: 2050A49
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2053B20
       song_name: しあわせ一番星
+      content_type: ''
+  - song_name: シアワセ革命
+    song_alias:
+    esong_code: 2042A17
+    t_singer_master_id: '33484'
+    singer_name: Lovely Idol
+    singer_alias:
+    available_date: '2008-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: らぶドル 〜Lovely Idol〜 (ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせかくめい
+    singer_name_ruby: らふりあいとる
+    song_variation:
+    - esong_code: 2042A17
+      song_name: シアワセ革命
+      content_type: ''
+  - song_name: 幸せつぼみ
+    song_alias:
+    esong_code: 2037B4
+    t_singer_master_id: '33424'
+    singer_name: 華 かほり(KAORI)
+    singer_alias:
+    available_date: '2008-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせつほみ
+    singer_name_ruby: はなかほり
+    song_variation:
+    - esong_code: 2037B4
+      song_name: 幸せつぼみ
       content_type: ''

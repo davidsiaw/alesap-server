@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 999
-  all_max_cnt: 1121
-  all_country_cnt: 999
+  max_cnt: 992
+  all_max_cnt: 1112
+  all_country_cnt: 992
   song:
   - song_name: しあわせドラマ
     song_alias:
@@ -64,7 +64,7 @@ result:
     t_singer_master_id: '21930'
     singer_name: 東方神起
     singer_alias:
-    available_date: '2009-04-21'
+    available_date: '2009-04-22'
     end_date: '2999-04-10 00:00:00'
     tie_up: ONE PIECE<番組名>
     country_code: '0'
@@ -74,6 +74,23 @@ result:
     song_variation:
     - esong_code: 2284A33
       song_name: Share The World
+      content_type: ''
+  - song_name: GENERATION
+    song_alias:
+    esong_code: 2296A2
+    t_singer_master_id: '12895'
+    singer_name: EXILE
+    singer_alias:
+    available_date: '2009-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しえねれしよん
+    singer_name_ruby: えくさいる
+    song_variation:
+    - esong_code: 2296A2
+      song_name: GENERATION
       content_type: ''
   - song_name: GENERATION
     song_alias:
@@ -92,23 +109,6 @@ result:
     - esong_code: 2311B22
       song_name: GENERATION
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: GENERATION
-    song_alias:
-    esong_code: 2296A2
-    t_singer_master_id: '12895'
-    singer_name: EXILE
-    singer_alias:
-    available_date: '2009-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえねれしよん
-    singer_name_ruby: えくさいる
-    song_variation:
-    - esong_code: 2296A2
-      song_name: GENERATION
-      content_type: ''
   - song_name: シェリー
     song_alias:
     esong_code: 2298B41
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: Seeds of dream
     song_alias:
-    esong_code: 2291A30
-    t_singer_master_id: '33419'
-    singer_name: girl next door
-    singer_alias:
-    available_date: '2009-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: しすおふとり
-    singer_name_ruby: かるねくすととあ
-    song_variation:
-    - esong_code: 2291A30
-      song_name: Seeds of dream
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: Seeds of dream
-    song_alias:
     esong_code: 2283A15
     t_singer_master_id: '33419'
     singer_name: girl next door
@@ -296,6 +279,23 @@ result:
     - esong_code: 2319A24
       song_name: Seeds of dream
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Seeds of dream
+    song_alias:
+    esong_code: 2291A30
+    t_singer_master_id: '33419'
+    singer_name: girl next door
+    singer_alias:
+    available_date: '2009-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: しすおふとり
+    singer_name_ruby: かるねくすととあ
+    song_variation:
+    - esong_code: 2291A30
+      song_name: Seeds of dream
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 死神の嘲笑
     song_alias:
     esong_code: 2282B18

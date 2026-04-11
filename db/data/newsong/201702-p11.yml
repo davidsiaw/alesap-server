@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1284
-  all_max_cnt: 1473
-  all_country_cnt: 1284
+  max_cnt: 1277
+  all_max_cnt: 1466
+  all_country_cnt: 1277
   song:
   - song_name: キセキ的Shining!
     song_alias:
@@ -262,23 +262,6 @@ result:
     - esong_code: 3745A28
       song_name: 君と夏フェス
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 君と100回目の恋
-    song_alias:
-    esong_code: 3768A13
-    t_singer_master_id: '39020'
-    singer_name: miwa
-    singer_alias:
-    available_date: '2017-02-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみとひやつかいめの
-    singer_name_ruby: みわ
-    song_variation:
-    - esong_code: 3768A13
-      song_name: 君と100回目の恋
-      content_type: ''
   - song_name: 君と100回目の恋 (movie ver.)
     song_alias:
     esong_code: 3760B43
@@ -295,6 +278,23 @@ result:
     song_variation:
     - esong_code: 3760B43
       song_name: 君と100回目の恋 (movie ver.)
+      content_type: ''
+  - song_name: 君と100回目の恋
+    song_alias:
+    esong_code: 3768A13
+    t_singer_master_id: '39020'
+    singer_name: miwa
+    singer_alias:
+    available_date: '2017-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみとひやつかいめの
+    singer_name_ruby: みわ
+    song_variation:
+    - esong_code: 3768A13
+      song_name: 君と100回目の恋
       content_type: ''
   - song_name: 君と僕との1ページ
     song_alias:

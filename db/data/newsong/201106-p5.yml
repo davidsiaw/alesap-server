@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1312
-  all_max_cnt: 1466
-  all_country_cnt: 1312
+  max_cnt: 1301
+  all_max_cnt: 1455
+  all_country_cnt: 1301
   song:
-  - song_name: If feat.巡音ルカ
-    song_alias:
-    esong_code: 573B17
-    t_singer_master_id: '42586'
-    singer_name: 無力P
-    singer_alias:
-    available_date: '2011-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: いふ
-    singer_name_ruby: むりよくひ
-    song_variation:
-    - esong_code: 573B17
-      song_name: If feat.巡音ルカ
-      content_type: VOCALOID
-  - song_name: If I Ain't Got You
-    song_alias:
-    esong_code: 241A43
-    t_singer_master_id: '36455'
-    singer_name: KG
-    singer_alias:
-    available_date: '2011-06-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いふあいえいんとか
-    singer_name_ruby: けし
-    song_variation:
-    - esong_code: 241A43
-      song_name: If I Ain't Got You
-      content_type: ''
   - song_name: いまさら好きだと伝えちゃダメかな?
     song_alias:
     esong_code: 1349A36
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 841B45
       song_name: 栄光へのエール!
+      content_type: ''
+  - song_name: HMVヒットメドレー 〜2011年3月ランキング〜
+    song_alias:
+    esong_code: 627B6
+    t_singer_master_id: '12695'
+    singer_name: HMVメドレー
+    singer_alias:
+    available_date: '2011-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいちえむふ1103
+    singer_name_ruby: えいちえむふいめと
+    song_variation:
+    - esong_code: 627B6
+      song_name: HMVヒットメドレー 〜2011年3月ランキング〜
+      content_type: ''
+  - song_name: HMVヒットメドレー 〜2011年4月ランキング〜
+    song_alias:
+    esong_code: 627B5
+    t_singer_master_id: '12695'
+    singer_name: HMVメドレー
+    singer_alias:
+    available_date: '2011-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいちえむふ1104
+    singer_name_ruby: えいちえむふいめと
+    song_variation:
+    - esong_code: 627B5
+      song_name: HMVヒットメドレー 〜2011年4月ランキング〜
       content_type: ''

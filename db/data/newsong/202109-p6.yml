@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 888
-  all_max_cnt: 934
-  all_country_cnt: 888
+  max_cnt: 881
+  all_max_cnt: 927
+  all_country_cnt: 881
   song:
-  - song_name: カフェイン
-    song_alias:
-    esong_code: 4544B11
-    t_singer_master_id: '68420'
-    singer_name: オオカワ セイヤ
-    singer_alias:
-    available_date: '2021-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かふえいん
-    singer_name_ruby: おおかわせいや
-    song_variation:
-    - esong_code: 4544B11
-      song_name: カフェイン
-      content_type: ''
   - song_name: KABUKIMONO
     song_alias:
     esong_code: 4543A15
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4544B33
       song_name: 君に会うために
+      content_type: ''
+  - song_name: 君に捧げる応援歌
+    song_alias:
+    esong_code: 4108A32
+    t_singer_master_id: '51072'
+    singer_name: HIPPY
+    singer_alias:
+    available_date: '2021-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみにささけるおう
+    singer_name_ruby: ひつひ
+    song_variation:
+    - esong_code: 4108A32
+      song_name: 君に捧げる応援歌
       content_type: ''

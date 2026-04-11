@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
-  - song_name: 時の旅人
-    song_alias:
-    esong_code: 3073A37
-    t_singer_master_id: '1718'
-    singer_name: 西田 敏行
-    singer_alias:
-    available_date: '2013-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ドラえもん(劇場版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ときのたひひと
-    singer_name_ruby: にしたとしゆき
-    song_variation:
-    - esong_code: 3073A37
-      song_name: 時の旅人
-      content_type: ''
-  - song_name: 時の針
-    song_alias:
-    esong_code: 3074B9
-    t_singer_master_id: '271'
-    singer_name: 岩崎 宏美
-    singer_alias:
-    available_date: '2013-07-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ときのはり
-    singer_name_ruby: いわさきひろみ
-    song_variation:
-    - esong_code: 3074B9
-      song_name: 時の針
-      content_type: ''
-  - song_name: TALKING BLUES
-    song_alias:
-    esong_code: 3076A4
-    t_singer_master_id: '10435'
-    singer_name: きただに ひろし
-    singer_alias:
-    available_date: '2013-07-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ONE PIECE<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ときんくふる
-    singer_name_ruby: きたたにひろし
-    song_variation:
-    - esong_code: 3076A4
-      song_name: TALKING BLUES
-      content_type: ''
   - song_name: 独裁 -monopolize- (UNDER:COVER 2)
     song_alias:
     esong_code: 3078B33
@@ -313,7 +262,7 @@ result:
     - esong_code: 3073A35
       song_name: 友達だから
       content_type: ''
-  - song_name: 友達の唄
+  - song_name: 友達の唄 (アニメバージョン)
     song_alias:
     esong_code: 3073B9
     t_singer_master_id: '12276'
@@ -324,11 +273,11 @@ result:
     tie_up: ドラえもん(劇場版)<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: ともたちのうた
+    song_name_ruby: ともたちのうたあに
     singer_name_ruby: はんふおふちきん
     song_variation:
     - esong_code: 3073B9
-      song_name: 友達の唄
+      song_name: 友達の唄 (アニメバージョン)
       content_type: ''
   - song_name: 友達より大事な人
     song_alias:
@@ -517,3 +466,54 @@ result:
     - esong_code: 3068B42
       song_name: Dream 〜5つの願い〜
       content_type: ''
+  - song_name: Dream Wave
+    song_alias:
+    esong_code: 3083B6
+    t_singer_master_id: '42680'
+    singer_name: ももいろクローバーZ(ももいろクローバー)
+    singer_alias:
+    available_date: '2013-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりむうえふ
+    singer_name_ruby: ももいろくろはせつと
+    song_variation:
+    - esong_code: 3083B6
+      song_name: Dream Wave
+      content_type: ''
+  - song_name: Dreamcatcher
+    song_alias:
+    esong_code: 3084B5
+    t_singer_master_id: '45194'
+    singer_name: 加藤 シゲアキ(from NEWS)
+    singer_alias:
+    available_date: '2013-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりむきやつちや
+    singer_name_ruby: かとうしけあき
+    song_variation:
+    - esong_code: 3084B5
+      song_name: Dreamcatcher
+      content_type: ''
+  - song_name: Dream Creator feat.GUMI
+    song_alias:
+    esong_code: 3077B47
+    t_singer_master_id: '45790'
+    singer_name: 八王子P
+    singer_alias:
+    available_date: '2013-07-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: とりむくりえいた
+    singer_name_ruby: はちおうしひ
+    song_variation:
+    - esong_code: 3077B47
+      song_name: Dream Creator feat.GUMI
+      content_type: VOCALOID

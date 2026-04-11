@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1359
-  all_max_cnt: 1522
-  all_country_cnt: 1359
+  max_cnt: 1356
+  all_max_cnt: 1519
+  all_country_cnt: 1356
   song:
+  - song_name: 恋心 (Acoustic Version)
+    song_alias:
+    esong_code: 3915B7
+    t_singer_master_id: '50864'
+    singer_name: MACO
+    singer_alias:
+    available_date: '2017-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいこころ
+    singer_name_ruby: まこ
+    song_variation:
+    - esong_code: 3915B7
+      song_name: 恋心 (Acoustic Version)
+      content_type: ''
   - song_name: 恋心
     song_alias:
     esong_code: 2278A14
@@ -23,23 +40,6 @@ result:
     song_variation:
     - esong_code: 2278A14
       song_name: 恋心
-      content_type: ''
-  - song_name: 恋慕 こいごころ
-    song_alias:
-    esong_code: 2226B39
-    t_singer_master_id: '60190'
-    singer_name: 高山 サラサ
-    singer_alias:
-    available_date: '2017-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいこころ
-    singer_name_ruby: たかやまさらさ
-    song_variation:
-    - esong_code: 2226B39
-      song_name: 恋慕 こいごころ
       content_type: ''
   - song_name: 恋しくて出雲
     song_alias:

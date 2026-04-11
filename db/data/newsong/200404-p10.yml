@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 592
-  all_max_cnt: 727
-  all_country_cnt: 592
+  max_cnt: 588
+  all_max_cnt: 723
+  all_country_cnt: 588
   song:
-  - song_name: sora-空-
-    song_alias:
-    esong_code: 20B8
-    t_singer_master_id: '18402'
-    singer_name: D-NA
-    singer_alias:
-    available_date: '2004-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そら
-    singer_name_ruby: ていな
-    song_variation:
-    - esong_code: 20B8
-      song_name: sora-空-
-      content_type: ''
-  - song_name: 空も飛べるはず
-    song_alias:
-    esong_code: 403A18
-    t_singer_master_id: '4249'
-    singer_name: スピッツ
-    singer_alias:
-    available_date: '2004-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY SHOW劇
-    song_name_ruby: そらもとへるはす
-    singer_name_ruby: すひつつ
-    song_variation:
-    - esong_code: 403A18
-      song_name: 空も飛べるはず
-      content_type: JOY SHOW劇
   - song_name: ソラヲミロ
     song_alias:
     esong_code: 425B6
@@ -504,7 +470,7 @@ result:
     song_alias:
     esong_code: 440A41
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2004-04-30'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 440A41
       song_name: ちいさな魂
+      content_type: ''
+  - song_name: 血の管
+    song_alias:
+    esong_code: 365B7
+    t_singer_master_id: '2287'
+    singer_name: Mr.Children
+    singer_alias:
+    available_date: '2004-04-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちのくた
+    singer_name_ruby: みすたちるとれん
+    song_variation:
+    - esong_code: 365B7
+      song_name: 血の管
+      content_type: ''
+  - song_name: ちびっこカウボーイ
+    song_alias:
+    esong_code: 426A2
+    t_singer_master_id: '5175'
+    singer_name: 杉並児童合唱団
+    singer_alias:
+    available_date: '2004-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちひつこかうほ
+    singer_name_ruby: すきなみしとう
+    song_variation:
+    - esong_code: 426A2
+      song_name: ちびっこカウボーイ
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: モノクロームオーバードライブ
-    song_alias:
-    esong_code: 3198B3
-    t_singer_master_id: '49934'
-    singer_name: 遠藤 ゆりか
-    singer_alias:
-    available_date: '2014-02-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Z/X IGNITION<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ものくろむおは
-    singer_name_ruby: えんとうゆりか
-    song_variation:
-    - esong_code: 3198B3
-      song_name: モノクロームオーバードライブ
-      content_type: ''
   - song_name: モンじゃい・ビート
     song_alias:
     esong_code: 2966B27
@@ -49,7 +32,7 @@ result:
     singer_alias:
     available_date: '2014-02-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ 劇場版<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: や
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3201B7
       song_name: ユートピア
+      content_type: ''
+  - song_name: UNIQUE
+    song_alias:
+    esong_code: 3179A8
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2014-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆにく
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 3179A8
+      song_name: UNIQUE
       content_type: ''

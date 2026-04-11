@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
-  - song_name: ミサイル
-    song_alias:
-    esong_code: 1740B25
-    t_singer_master_id: '5729'
-    singer_name: 横道坊主
-    singer_alias:
-    available_date: '2007-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みさいる
-    singer_name_ruby: おうとうほうす
-    song_variation:
-    - esong_code: 1740B25
-      song_name: ミサイル
-      content_type: ''
   - song_name: Mr.1・2・3・4 Man
     song_alias:
     esong_code: 1707B43
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1754B15
       song_name: Memorial Song
+      content_type: ''
+  - song_name: melody
+    song_alias:
+    esong_code: 1753A18
+    t_singer_master_id: '23486'
+    singer_name: 植村 花菜
+    singer_alias:
+    available_date: '2007-03-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めろてい
+    singer_name_ruby: うえむらかな
+    song_variation:
+    - esong_code: 1753A18
+      song_name: melody
       content_type: ''

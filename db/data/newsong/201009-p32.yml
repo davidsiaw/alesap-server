@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
+  - song_name: 豊かなるかな、はぐれ道
+    song_alias:
+    esong_code: 2608B8
+    t_singer_master_id: '2114'
+    singer_name: 堀内 孝雄
+    singer_alias:
+    available_date: '2010-09-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆたかなるかなはく
+    singer_name_ruby: ほりうちたかお
+    song_variation:
+    - esong_code: 2608B8
+      song_name: 豊かなるかな、はぐれ道
+      content_type: ''
   - song_name: 湯の町みれん (夏木ゆたか歌謡劇場)
     song_alias:
     esong_code: 2591B2
@@ -26,23 +43,6 @@ result:
       content_type: DAM生音
   - song_name: 指環
     song_alias:
-    esong_code: 2589B29
-    t_singer_master_id: '7256'
-    singer_name: SPEED
-    singer_alias:
-    available_date: '2010-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆひわ
-    singer_name_ruby: すひと
-    song_variation:
-    - esong_code: 2589B29
-      song_name: 指環
-      content_type: ''
-  - song_name: 指環
-    song_alias:
     esong_code: 2622B15
     t_singer_master_id: '7256'
     singer_name: SPEED
@@ -58,6 +58,23 @@ result:
     - esong_code: 2622B15
       song_name: 指環
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 指環
+    song_alias:
+    esong_code: 2589B29
+    t_singer_master_id: '7256'
+    singer_name: SPEED
+    singer_alias:
+    available_date: '2010-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆひわ
+    singer_name_ruby: すひと
+    song_variation:
+    - esong_code: 2589B29
+      song_name: 指環
+      content_type: ''
   - song_name: 夢あきらめないで
     song_alias:
     esong_code: 2602B17
@@ -347,23 +364,6 @@ result:
     - esong_code: 2589B5
       song_name: RIGHT NOW
       content_type: ''
-  - song_name: LIVE
-    song_alias:
-    esong_code: 2600A28
-    t_singer_master_id: '17458'
-    singer_name: NEWS
-    singer_alias:
-    available_date: '2010-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らいふ
-    singer_name_ruby: にゆす
-    song_variation:
-    - esong_code: 2600A28
-      song_name: LIVE
-      content_type: ''
   - song_name: LIFE
     song_alias:
     esong_code: 2591A30
@@ -380,6 +380,23 @@ result:
     song_variation:
     - esong_code: 2591A30
       song_name: LIFE
+      content_type: ''
+  - song_name: LIVE
+    song_alias:
+    esong_code: 2600A28
+    t_singer_master_id: '17458'
+    singer_name: NEWS
+    singer_alias:
+    available_date: '2010-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいふ
+    singer_name_ruby: にゆす
+    song_variation:
+    - esong_code: 2600A28
+      song_name: LIVE
       content_type: ''
   - song_name: LIFE IS^-^MIRACLE WIND
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2608B22
       song_name: ラテン街の夜
-      content_type: ''
-  - song_name: runaway girl
-    song_alias:
-    esong_code: 2601A30
-    t_singer_master_id: '28374'
-    singer_name: コトリンゴ
-    singer_alias:
-    available_date: '2010-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らなうえいかる
-    singer_name_ruby: ことりんこ
-    song_variation:
-    - esong_code: 2601A30
-      song_name: runaway girl
       content_type: ''

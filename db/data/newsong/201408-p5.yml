@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1224
-  all_max_cnt: 1364
-  all_country_cnt: 1224
+  max_cnt: 1216
+  all_max_cnt: 1356
+  all_country_cnt: 1216
   song:
-  - song_name: イマジネーション
-    song_alias:
-    esong_code: 3306A18
-    t_singer_master_id: '36641'
-    singer_name: SPYAIR
-    singer_alias:
-    available_date: '2014-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ハイキュー!!<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: いましねしよん
-    singer_name_ruby: すはいえあ
-    song_variation:
-    - esong_code: 3306A18
-      song_name: イマジネーション
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: イマジネーション
-    song_alias:
-    esong_code: 3306B33
-    t_singer_master_id: '36641'
-    singer_name: SPYAIR
-    singer_alias:
-    available_date: '2014-08-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ハイキュー!!<番組名>
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: いましねしよん
-    singer_name_ruby: すはいえあ
-    song_variation:
-    - esong_code: 3306B33
-      song_name: イマジネーション
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: イマジネーション
-    song_alias:
-    esong_code: 3308B16
-    t_singer_master_id: '36641'
-    singer_name: SPYAIR
-    singer_alias:
-    available_date: '2014-08-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ハイキュー!!<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: いましねしよん
-    singer_name_ruby: すはいえあ
-    song_variation:
-    - esong_code: 3308B16
-      song_name: イマジネーション
-      content_type: DAM生音
   - song_name: 今を描こう
     song_alias:
     esong_code: 3299B38
@@ -296,23 +245,6 @@ result:
     - esong_code: 1099B39
       song_name: WALK
       content_type: ''
-  - song_name: 魚心くんソング
-    song_alias:
-    esong_code: 3305A41
-    t_singer_master_id: '51070'
-    singer_name: 流川ガールズ
-    singer_alias:
-    available_date: '2014-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 普通の女子校生が【ろこどる】やってみた。<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うおこころくんそん
-    singer_name_ruby: なかれかわかるす
-    song_variation:
-    - esong_code: 3305A41
-      song_name: 魚心くんソング
-      content_type: ''
   - song_name: 動かなくなるまで、好きでいて。
     song_alias:
     esong_code: 3305B39
@@ -347,23 +279,6 @@ result:
     - esong_code: 3310A45
       song_name: うしろゆびさされ組
       content_type: ''
-  - song_name: 歌いやすい曲メドレー (男性編)
-    song_alias:
-    esong_code: 3309A28
-    t_singer_master_id: '5232'
-    singer_name: メドレー
-    singer_alias:
-    available_date: '2014-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたいやすいきよくめ
-    singer_name_ruby: めとれ
-    song_variation:
-    - esong_code: 3309A28
-      song_name: 歌いやすい曲メドレー (男性編)
-      content_type: ''
   - song_name: 歌いやすい曲メドレー (女性編)
     song_alias:
     esong_code: 3309A27
@@ -380,6 +295,23 @@ result:
     song_variation:
     - esong_code: 3309A27
       song_name: 歌いやすい曲メドレー (女性編)
+      content_type: ''
+  - song_name: 歌いやすい曲メドレー (男性編)
+    song_alias:
+    esong_code: 3309A28
+    t_singer_master_id: '5232'
+    singer_name: メドレー
+    singer_alias:
+    available_date: '2014-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うたいやすいきよくめ
+    singer_name_ruby: めとれ
+    song_variation:
+    - esong_code: 3309A28
+      song_name: 歌いやすい曲メドレー (男性編)
       content_type: ''
   - song_name: うた歌いま〜す、うた歌いま〜す
     song_alias:
@@ -398,7 +330,7 @@ result:
     - esong_code: 3308A43
       song_name: うた歌いま〜す、うた歌いま〜す
       content_type: ''
-  - song_name: うたかたの恋 (凰稀かなめ・実咲凜音) [DAM本人歌唱]
+  - song_name: うたかたの恋 (凰稀かなめ・実咲凜音)[DAM本人歌唱]
     song_alias:
     esong_code: 3306B18
     t_singer_master_id: '1349'
@@ -413,7 +345,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3306B18
-      song_name: うたかたの恋 (凰稀かなめ・実咲凜音) [DAM本人歌唱]
+      song_name: うたかたの恋 (凰稀かなめ・実咲凜音)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: UTA・KIZUNA -あなたに届きますように-
     song_alias:
@@ -502,6 +434,23 @@ result:
       content_type: ''
   - song_name: うれし涙 feat.シェネル&MACO
     song_alias:
+    esong_code: 3302B44
+    t_singer_master_id: '37425'
+    singer_name: SPICY CHOCOLATE
+    singer_alias:
+    available_date: '2014-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: うれしなみた
+    singer_name_ruby: すはいしちよこれと
+    song_variation:
+    - esong_code: 3302B44
+      song_name: うれし涙 feat.シェネル&MACO
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: うれし涙 feat.シェネル&MACO
+    song_alias:
     esong_code: 3316B32
     t_singer_master_id: '37425'
     singer_name: SPICY CHOCOLATE
@@ -517,3 +466,54 @@ result:
     - esong_code: 3316B32
       song_name: うれし涙 feat.シェネル&MACO
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ウンミィの歌
+    song_alias:
+    esong_code: 3304B43
+    t_singer_master_id: '51345'
+    singer_name: 古賀 ひとみ&ヤング・フレッシュ
+    singer_alias:
+    available_date: '2014-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: サザエさん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うんみいのうた
+    singer_name_ruby: こかひとみやんくふれつ
+    song_variation:
+    - esong_code: 3304B43
+      song_name: ウンミィの歌
+      content_type: ''
+  - song_name: 運命の女
+    song_alias:
+    esong_code: 3310A3
+    t_singer_master_id: '11757'
+    singer_name: 竹島 宏
+    singer_alias:
+    available_date: '2014-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うんめいのひと
+    singer_name_ruby: たけしまひろし
+    song_variation:
+    - esong_code: 3310A3
+      song_name: 運命の女
+      content_type: ''
+  - song_name: 永遠の灯
+    song_alias:
+    esong_code: 3306A3
+    t_singer_master_id: '51362'
+    singer_name: れみ・ふうり&みき・ななせ
+    singer_alias:
+    available_date: '2014-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイカツ!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいえんのともしひ
+    singer_name_ruby: れみふうりみきななせ
+    song_variation:
+    - esong_code: 3306A3
+      song_name: 永遠の灯
+      content_type: ''

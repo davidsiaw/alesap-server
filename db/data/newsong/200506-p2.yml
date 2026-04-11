@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1103
-  all_max_cnt: 1154
-  all_country_cnt: 1103
+  max_cnt: 1091
+  all_max_cnt: 1142
+  all_country_cnt: 1091
   song:
-  - song_name: あふりらんぽ
-    song_alias:
-    esong_code: 1258B34
-    t_singer_master_id: '23576'
-    singer_name: あふりらんぽ
-    singer_alias:
-    available_date: '2005-06-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あふりらんほ
-    singer_name_ruby: あふりらんほ
-    song_variation:
-    - esong_code: 1258B34
-      song_name: あふりらんぽ
-      content_type: ''
   - song_name: a fool girl
     song_alias:
     esong_code: 1260B40
@@ -296,23 +279,6 @@ result:
     - esong_code: 1301A32
       song_name: ALONE
       content_type: JOY SHOW劇
-  - song_name: Unstoppable (T2002)
-    song_alias:
-    esong_code: 1260A44
-    t_singer_master_id: '18667'
-    singer_name: THC!!
-    singer_alias:
-    available_date: '2005-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんすとつはふる
-    singer_name_ruby: ていえいちし
-    song_variation:
-    - esong_code: 1260A44
-      song_name: Unstoppable (T2002)
-      content_type: ''
   - song_name: Unstoppable (T2005)
     song_alias:
     esong_code: 1260A46
@@ -329,6 +295,23 @@ result:
     song_variation:
     - esong_code: 1260A46
       song_name: Unstoppable (T2005)
+      content_type: ''
+  - song_name: Unstoppable (T2002)
+    song_alias:
+    esong_code: 1260A44
+    t_singer_master_id: '18667'
+    singer_name: THC!!
+    singer_alias:
+    available_date: '2005-06-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんすとつはふる
+    singer_name_ruby: ていえいちし
+    song_variation:
+    - esong_code: 1260A44
+      song_name: Unstoppable (T2002)
       content_type: ''
   - song_name: あんた
     song_alias:
@@ -440,7 +423,7 @@ result:
     singer_alias:
     available_date: '2005-06-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GIRLSブラボー -second season-<番組名>
+    tie_up: GIRLSブラボー<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あんとせん
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1277A23
       song_name: YELLOW YELLOW HAPPY
+      content_type: ''
+  - song_name: Yellow Halloween Night
+    song_alias:
+    esong_code: 1257B42
+    t_singer_master_id: '15267'
+    singer_name: Yum!Yum!ORANGE
+    singer_alias:
+    available_date: '2005-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いえろはろういんな
+    singer_name_ruby: やむやむおれんし
+    song_variation:
+    - esong_code: 1257B42
+      song_name: Yellow Halloween Night
       content_type: ''

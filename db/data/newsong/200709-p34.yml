@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: ランナー
-    song_alias:
-    esong_code: 1866A44
-    t_singer_master_id: '8723'
-    singer_name: Something ELse
-    singer_alias:
-    available_date: '2007-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らんな
-    singer_name_ruby: さむしんくえるす
-    song_variation:
-    - esong_code: 1866A44
-      song_name: ランナー
-      content_type: ''
   - song_name: ランプ
     song_alias:
     esong_code: 1872A45
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1856A8
       song_name: Rocks
+      content_type: ''
+  - song_name: ロックスター
+    song_alias:
+    esong_code: 1868A34
+    t_singer_master_id: '24719'
+    singer_name: redballoon
+    singer_alias:
+    available_date: '2007-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろつくすた
+    singer_name_ruby: れつとはるん
+    song_variation:
+    - esong_code: 1868A34
+      song_name: ロックスター
       content_type: ''

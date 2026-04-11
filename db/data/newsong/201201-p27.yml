@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
-  - song_name: ピアス feat.GUMI
-    song_alias:
-    esong_code: 2746A12
-    t_singer_master_id: '40528'
-    singer_name: 蝶々P
-    singer_alias:
-    available_date: '2012-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ひあす
-    singer_name_ruby: ちようちようひ
-    song_variation:
-    - esong_code: 2746A12
-      song_name: ピアス feat.GUMI
-      content_type: VOCALOID
   - song_name: P.S.
     song_alias:
     esong_code: 2741B14
@@ -349,23 +332,6 @@ result:
       content_type: ''
   - song_name: ひとりじゃない
     song_alias:
-    esong_code: 2747A24
-    t_singer_master_id: '37592'
-    singer_name: DUFF
-    singer_alias:
-    available_date: '2012-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとりしやない
-    singer_name_ruby: たふ
-    song_variation:
-    - esong_code: 2747A24
-      song_name: ひとりじゃない
-      content_type: ''
-  - song_name: ひとりじゃない
-    song_alias:
     esong_code: 2759B5
     t_singer_master_id: '43399'
     singer_name: SORGENTI
@@ -379,6 +345,23 @@ result:
     singer_name_ruby: そるしえんてい
     song_variation:
     - esong_code: 2759B5
+      song_name: ひとりじゃない
+      content_type: ''
+  - song_name: ひとりじゃない
+    song_alias:
+    esong_code: 2747A24
+    t_singer_master_id: '37592'
+    singer_name: DUFF
+    singer_alias:
+    available_date: '2012-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとりしやない
+    singer_name_ruby: たふ
+    song_variation:
+    - esong_code: 2747A24
       song_name: ひとりじゃない
       content_type: ''
   - song_name: 一人じゃないからね 〜僕らの夢と希望〜
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2746A2
       song_name: ピョコピョコ ウルトラ
+      content_type: ''
+  - song_name: Beyond
+    song_alias:
+    esong_code: 2742A18
+    t_singer_master_id: '18373'
+    singer_name: 豊永 利行
+    singer_alias:
+    available_date: '2012-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 素顔の少年<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひよんと
+    singer_name_ruby: とよなかとしゆき
+    song_variation:
+    - esong_code: 2742A18
+      song_name: Beyond
       content_type: ''

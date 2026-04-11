@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
   - song_name: 今より先を
     song_alias:
@@ -298,6 +298,23 @@ result:
       content_type: ''
   - song_name: 浮草ふたり
     song_alias:
+    esong_code: 3498B22
+    t_singer_master_id: '38631'
+    singer_name: 菊地 まどか
+    singer_alias:
+    available_date: '2015-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: うきくさふたり
+    singer_name_ruby: きくちまとか
+    song_variation:
+    - esong_code: 3498B22
+      song_name: 浮草ふたり
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 浮草ふたり
+    song_alias:
     esong_code: 3489A10
     t_singer_master_id: '38631'
     singer_name: 菊地 まどか
@@ -330,30 +347,13 @@ result:
     - esong_code: 3498A37
       song_name: 浮草ふたり
       content_type: DAM生音
-  - song_name: 浮草ふたり
-    song_alias:
-    esong_code: 3498B22
-    t_singer_master_id: '38631'
-    singer_name: 菊地 まどか
-    singer_alias:
-    available_date: '2015-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: うきくさふたり
-    singer_name_ruby: きくちまとか
-    song_variation:
-    - esong_code: 3498B22
-      song_name: 浮草ふたり
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 浮草ふたりづれ
     song_alias:
     esong_code: 3505B12
     t_singer_master_id: '54323'
     singer_name: 夏木 綾子&葡萄園 玉助
     singer_alias:
-    available_date: '2015-09-29'
+    available_date: '2015-09-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

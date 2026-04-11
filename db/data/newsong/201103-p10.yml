@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 877
-  all_max_cnt: 973
-  all_country_cnt: 877
+  max_cnt: 874
+  all_max_cnt: 970
+  all_country_cnt: 874
   song:
   - song_name: 西郷隆盛 〜あぁ幕末の薩摩武士〜
     song_alias:
@@ -143,23 +143,6 @@ result:
     - esong_code: 1655B10
       song_name: Silent Scream
       content_type: ''
-  - song_name: SIGN
-    song_alias:
-    esong_code: 1624A44
-    t_singer_master_id: '20609'
-    singer_name: 加藤 ミリヤ
-    singer_alias:
-    available_date: '2011-03-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいん
-    singer_name_ruby: かとうみりや
-    song_variation:
-    - esong_code: 1624A44
-      song_name: SIGN
-      content_type: ''
   - song_name: サイン
     song_alias:
     esong_code: 1778B39
@@ -209,6 +192,23 @@ result:
     singer_name_ruby: ふらうんあいとかるす
     song_variation:
     - esong_code: 1710A5
+      song_name: SIGN
+      content_type: ''
+  - song_name: SIGN
+    song_alias:
+    esong_code: 1624A44
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2011-03-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいん
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 1624A44
       song_name: SIGN
       content_type: ''
   - song_name: 酒場は男の港
@@ -270,7 +270,7 @@ result:
     singer_alias:
     available_date: '2011-03-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: よりぬき銀魂さん<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さくらね

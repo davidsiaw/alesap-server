@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: ストレート・ストリート
-    song_alias:
-    esong_code: 3182B48
-    t_singer_master_id: '48063'
-    singer_name: Rough Clover
-    singer_alias:
-    available_date: '2014-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すとれとすとりと
-    singer_name_ruby: らふくろは
-    song_variation:
-    - esong_code: 3182B48
-      song_name: ストレート・ストリート
-      content_type: ''
   - song_name: ストローヘッド
     song_alias:
     esong_code: 3202B28
@@ -47,7 +30,7 @@ result:
     t_singer_master_id: '2296'
     singer_name: 水田 竜子
     singer_alias:
-    available_date: '2014-02-25'
+    available_date: '2014-02-26'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -75,6 +58,23 @@ result:
     - esong_code: 3206B28
       song_name: Snedronningen feat.ユリカ(cordelia)
       content_type: 東方
+  - song_name: スノーマジックファンタジー
+    song_alias:
+    esong_code: 3197A5
+    t_singer_master_id: '39377'
+    singer_name: SEKAI NO OWARI(世界の終わり)
+    singer_alias:
+    available_date: '2014-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: すのましつくふあ
+    singer_name_ruby: せかいのおわり
+    song_variation:
+    - esong_code: 3197A5
+      song_name: スノーマジックファンタジー
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: スノーマジックファンタジー
     song_alias:
     esong_code: 3204B18
@@ -109,23 +109,6 @@ result:
     - esong_code: 3204B2
       song_name: スノーマジックファンタジー
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: スノーマジックファンタジー
-    song_alias:
-    esong_code: 3197A5
-    t_singer_master_id: '39377'
-    singer_name: SEKAI NO OWARI(世界の終わり)
-    singer_alias:
-    available_date: '2014-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: すのましつくふあ
-    singer_name_ruby: せかいのおわり
-    song_variation:
-    - esong_code: 3197A5
-      song_name: スノーマジックファンタジー
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: SPIKE! feat.初音ミク
     song_alias:
     esong_code: 3204B39
@@ -517,3 +500,20 @@ result:
     - esong_code: 3179B33
       song_name: 刹那のMisty feat.F9
       content_type: 東方
+  - song_name: 瀬戸内恋みなと
+    song_alias:
+    esong_code: 3205A47
+    t_singer_master_id: '41270'
+    singer_name: 高瀬 豊子
+    singer_alias:
+    available_date: '2014-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せとうちこいみなと
+    singer_name_ruby: たかせとよこ
+    song_variation:
+    - esong_code: 3205A47
+      song_name: 瀬戸内恋みなと
+      content_type: ''

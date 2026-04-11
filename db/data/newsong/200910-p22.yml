@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: 虹 (Album Version)
-    song_alias:
-    esong_code: 2405A19
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2009-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にし
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 2405A19
-      song_name: 虹 (Album Version)
-      content_type: ''
   - song_name: 虹色の魚
     song_alias:
     esong_code: 2414A4
@@ -287,7 +270,7 @@ result:
     singer_alias:
     available_date: '2009-10-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: Navel×Lantis インターネットラジオ ねぶら<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: ねふらてめんほ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2416B1
       song_name: 白昼夢
+      content_type: ''
+  - song_name: 白朝夢
+    song_alias:
+    esong_code: 2408B2
+    t_singer_master_id: '37886'
+    singer_name: WEAVER
+    singer_alias:
+    available_date: '2009-10-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はくちようむ
+    singer_name_ruby: ういは
+    song_variation:
+    - esong_code: 2408B2
+      song_name: 白朝夢
       content_type: ''

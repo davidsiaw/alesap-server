@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 677
-  all_max_cnt: 709
-  all_country_cnt: 677
+  max_cnt: 674
+  all_max_cnt: 706
+  all_country_cnt: 674
   song:
-  - song_name: ピエロ
-    song_alias:
-    esong_code: 828A42
-    t_singer_master_id: '19533'
-    singer_name: ラバーキャロッツ
-    singer_alias:
-    available_date: '2004-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひえろ
-    singer_name_ruby: らはきやろつつ
-    song_variation:
-    - esong_code: 828A42
-      song_name: ピエロ
-      content_type: ''
-  - song_name: 東へ西へ
-    song_alias:
-    esong_code: 848A27
-    t_singer_master_id: '2111'
-    singer_name: 布袋 寅泰
-    singer_alias:
-    available_date: '2004-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひかしへにしへ
-    singer_name_ruby: ほていともやす
-    song_variation:
-    - esong_code: 848A27
-      song_name: 東へ西へ
-      content_type: ''
   - song_name: HIKARI
     song_alias:
     esong_code: 941A15
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 601A45
       song_name: 2つ目の純粋
+      content_type: ''
+  - song_name: ふたり華
+    song_alias:
+    esong_code: 598B10
+    t_singer_master_id: '2503'
+    singer_name: 山本 譲二
+    singer_alias:
+    available_date: '2004-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたりはな
+    singer_name_ruby: やまもとしようし
+    song_variation:
+    - esong_code: 598B10
+      song_name: ふたり華
+      content_type: ''
+  - song_name: "「浮遊した理想」"
+    song_alias:
+    esong_code: 567A28
+    t_singer_master_id: '21327'
+    singer_name: D'espairsRay
+    singer_alias:
+    available_date: '2004-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふゆうしたりそう
+    singer_name_ruby: ていすはすれい
+    song_variation:
+    - esong_code: 567A28
+      song_name: "「浮遊した理想」"
       content_type: ''

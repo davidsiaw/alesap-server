@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
   - song_name: Oh! SUSHI (スシ食いねェ!英語ヴァージョン)
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 2742A49
       song_name: お願い Catch Me
       content_type: ''
-  - song_name: Honesty (Japanese ver.)
-    song_alias:
-    esong_code: 2736A15
-    t_singer_master_id: '24203'
-    singer_name: アンジェラ・アキ
-    singer_alias:
-    available_date: '2012-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おねすてい
-    singer_name_ruby: あんしえらあき
-    song_variation:
-    - esong_code: 2736A15
-      song_name: Honesty (Japanese ver.)
-      content_type: ''
   - song_name: Honesty (English Ver.)
     song_alias:
     esong_code: 2748A38
@@ -261,6 +244,23 @@ result:
     song_variation:
     - esong_code: 2748A38
       song_name: Honesty (English Ver.)
+      content_type: ''
+  - song_name: Honesty (Japanese ver.)
+    song_alias:
+    esong_code: 2736A15
+    t_singer_master_id: '24203'
+    singer_name: アンジェラ・アキ
+    singer_alias:
+    available_date: '2012-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おねすてい
+    singer_name_ruby: あんしえらあき
+    song_variation:
+    - esong_code: 2736A15
+      song_name: Honesty (Japanese ver.)
       content_type: ''
   - song_name: over planet
     song_alias:
@@ -374,7 +374,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: 白衣性恋愛症候群<番組名>
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: おもいのはね
     singer_name_ruby: いまいあさみ
     song_variation:
@@ -394,7 +394,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: 白衣性恋愛症候群<番組名>
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: おもいのはね
     singer_name_ruby: いまいあさみ
     song_variation:
@@ -491,23 +491,6 @@ result:
       content_type: ''
   - song_name: オリオンをなぞる
     song_alias:
-    esong_code: 2739B15
-    t_singer_master_id: '33612'
-    singer_name: UNISON SQUARE GARDEN
-    singer_alias:
-    available_date: '2012-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: TIGER&BUNNY<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おりおんをなそる
-    singer_name_ruby: ゆにそんすくえあかてん
-    song_variation:
-    - esong_code: 2739B15
-      song_name: オリオンをなぞる
-      content_type: ''
-  - song_name: オリオンをなぞる
-    song_alias:
     esong_code: 2650B30
     t_singer_master_id: '33612'
     singer_name: UNISON SQUARE GARDEN
@@ -523,3 +506,20 @@ result:
     - esong_code: 2650B30
       song_name: オリオンをなぞる
       content_type: DAM生音
+  - song_name: オリオンをなぞる
+    song_alias:
+    esong_code: 2739B15
+    t_singer_master_id: '33612'
+    singer_name: UNISON SQUARE GARDEN
+    singer_alias:
+    available_date: '2012-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: TIGER&BUNNY<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おりおんをなそる
+    singer_name_ruby: ゆにそんすくえあかてん
+    song_variation:
+    - esong_code: 2739B15
+      song_name: オリオンをなぞる
+      content_type: ''

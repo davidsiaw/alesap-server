@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 809
-  all_max_cnt: 933
-  all_country_cnt: 809
+  max_cnt: 808
+  all_max_cnt: 932
+  all_country_cnt: 808
   song:
-  - song_name: ほうき星
-    song_alias:
-    esong_code: 1385B44
-    t_singer_master_id: '20784'
-    singer_name: ユンナ
-    singer_alias:
-    available_date: '2005-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: BLEACH<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ほうきほし
-    singer_name_ruby: ゆんな
-    song_variation:
-    - esong_code: 1385B44
-      song_name: ほうき星
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: WHEN YOU WISH UPON A STAR 〜星に願いを〜
     song_alias:
     esong_code: 1387B35
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1127A19
       song_name: 窓から見てるP・T・A
+      content_type: ''
+  - song_name: 真夏の雨
+    song_alias:
+    esong_code: 1254A24
+    t_singer_master_id: '8680'
+    singer_name: くるり
+    singer_alias:
+    available_date: '2005-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まなつのあめ
+    singer_name_ruby: くるり
+    song_variation:
+    - esong_code: 1254A24
+      song_name: 真夏の雨
       content_type: ''

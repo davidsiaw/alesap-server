@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: めくるめく
-    song_alias:
-    esong_code: 3005A30
-    t_singer_master_id: '38625'
-    singer_name: サーターアンダギー
-    singer_alias:
-    available_date: '2013-03-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めくるめく
-    singer_name_ruby: さたあんたき
-    song_variation:
-    - esong_code: 3005A30
-      song_name: めくるめく
-      content_type: ''
-  - song_name: message
-    song_alias:
-    esong_code: 3012A17
-    t_singer_master_id: '47469'
-    singer_name: ミナワ
-    singer_alias:
-    available_date: '2013-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めつせし
-    singer_name_ruby: みなわ
-    song_variation:
-    - esong_code: 3012A17
-      song_name: message
-      content_type: ''
   - song_name: message (version2)
     song_alias:
     esong_code: 2995A6
@@ -406,7 +372,7 @@ result:
     singer_alias:
     available_date: '2013-03-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ 劇場版<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: やかんひこう
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2999A45
       song_name: やまがた旅情
+      content_type: ''
+  - song_name: やわらかい気配
+    song_alias:
+    esong_code: 3005B24
+    t_singer_master_id: '28111'
+    singer_name: 秦 基博
+    singer_alias:
+    available_date: '2013-03-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: やわらかいけはい
+    singer_name_ruby: はたもとひろ
+    song_variation:
+    - esong_code: 3005B24
+      song_name: やわらかい気配
+      content_type: ''
+  - song_name: ヤングアダルト
+    song_alias:
+    esong_code: 2998B33
+    t_singer_master_id: '6909'
+    singer_name: SOPHIA
+    singer_alias:
+    available_date: '2013-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: やんくあたると
+    singer_name_ruby: そふいあ
+    song_variation:
+    - esong_code: 2998B33
+      song_name: ヤングアダルト
       content_type: ''

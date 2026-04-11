@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
   - song_name: Z!Z!Z! -Zip!ZAP!Zipangu!-　(crossover version)
     song_alias:
@@ -28,7 +28,7 @@ result:
     song_alias:
     esong_code: 1938A10
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2008-01-16'
     end_date: '2999-04-10 00:00:00'
@@ -296,23 +296,6 @@ result:
     - esong_code: 1942A37
       song_name: JAMがもってった!セーラーふく
       content_type: ''
-  - song_name: Shangri-La
-    song_alias:
-    esong_code: 1933A49
-    t_singer_master_id: '12375'
-    singer_name: w-inds.
-    singer_alias:
-    available_date: '2008-01-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやんくりら
-    singer_name_ruby: ういんす
-    song_variation:
-    - esong_code: 1933A49
-      song_name: Shangri-La
-      content_type: ''
   - song_name: Shangrila
     song_alias:
     esong_code: 1933B29
@@ -329,6 +312,23 @@ result:
     song_variation:
     - esong_code: 1933B29
       song_name: Shangrila
+      content_type: ''
+  - song_name: Shangri-La
+    song_alias:
+    esong_code: 1933A49
+    t_singer_master_id: '12375'
+    singer_name: w-inds.
+    singer_alias:
+    available_date: '2008-01-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやんくりら
+    singer_name_ruby: ういんす
+    song_variation:
+    - esong_code: 1933A49
+      song_name: Shangri-La
       content_type: ''
   - song_name: Chandelier
     song_alias:

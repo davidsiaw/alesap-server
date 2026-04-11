@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1230
-  all_max_cnt: 1369
-  all_country_cnt: 1230
+  max_cnt: 1222
+  all_max_cnt: 1361
+  all_country_cnt: 1222
   song:
-  - song_name: 抱きしめたい
-    song_alias:
-    esong_code: 3436A42
-    t_singer_master_id: '1642'
-    singer_name: 中原 理恵
-    singer_alias:
-    available_date: '2015-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たきしめたい
-    singer_name_ruby: なかはらりえ
-    song_variation:
-    - esong_code: 3436A42
-      song_name: 抱きしめたい
-      content_type: ''
-  - song_name: 抱きしめて
-    song_alias:
-    esong_code: 3437B45
-    t_singer_master_id: '45040'
-    singer_name: indigo la End
-    singer_alias:
-    available_date: '2015-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たきしめて
-    singer_name_ruby: いんていこらえんと
-    song_variation:
-    - esong_code: 3437B45
-      song_name: 抱きしめて
-      content_type: ''
-  - song_name: DARKNESS feat.塚☆リカ (LOVEです☆ver.)
-    song_alias:
-    esong_code: 3435A48
-    t_singer_master_id: '54626'
-    singer_name: 塚 だぁくねす(A.B.C-Z)
-    singer_alias:
-    available_date: '2015-05-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たくねす
-    singer_name_ruby: つかたあくねす
-    song_variation:
-    - esong_code: 3435A48
-      song_name: DARKNESS feat.塚☆リカ (LOVEです☆ver.)
-      content_type: ''
-  - song_name: ダストシャイニー
-    song_alias:
-    esong_code: 3435A41
-    t_singer_master_id: '53327'
-    singer_name: HEAD SPEAKER
-    singer_alias:
-    available_date: '2015-05-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たすとしやいに
-    singer_name_ruby: へつとすひか
-    song_variation:
-    - esong_code: 3435A41
-      song_name: ダストシャイニー
-      content_type: ''
-  - song_name: 黄昏ララバイ
-    song_alias:
-    esong_code: 787B29
-    t_singer_master_id: '824'
-    singer_name: 小金沢 昇司
-    singer_alias:
-    available_date: '2015-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たそかれららはい
-    singer_name_ruby: こかねさわしようし
-    song_variation:
-    - esong_code: 787B29
-      song_name: 黄昏ララバイ
-      content_type: ''
   - song_name: 黄昏ララバイ
     song_alias:
     esong_code: 787B22
@@ -109,6 +24,23 @@ result:
     - esong_code: 787B22
       song_name: 黄昏ララバイ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 黄昏ララバイ
+    song_alias:
+    esong_code: 787B29
+    t_singer_master_id: '824'
+    singer_name: 小金沢 昇司
+    singer_alias:
+    available_date: '2015-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たそかれららはい
+    singer_name_ruby: こかねさわしようし
+    song_variation:
+    - esong_code: 787B29
+      song_name: 黄昏ララバイ
+      content_type: ''
   - song_name: 旅立ちの日
     song_alias:
     esong_code: 3436B18
@@ -151,7 +83,7 @@ result:
     singer_alias:
     available_date: '2015-05-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA4 皇<番組名>
+    tie_up: 戦国BASARA<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たふるている
@@ -287,7 +219,7 @@ result:
     singer_alias:
     available_date: '2015-05-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボールGT<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type: JOY生演奏
     song_name_ruby: たんたんこころひ
@@ -517,3 +449,71 @@ result:
     - esong_code: 3437A5
       song_name: 中年かまってちゃん
       content_type: ''
+  - song_name: チュチュ・バレリーナ
+    song_alias:
+    esong_code: 3434B24
+    t_singer_master_id: '53299'
+    singer_name: もな・るか・みき from AIKATSU☆STARS!
+    singer_alias:
+    available_date: '2015-05-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイカツ!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちゆちゆはれりな
+    singer_name_ruby: もなるかみきふろむあいかつすたす
+    song_variation:
+    - esong_code: 3434B24
+      song_name: チュチュ・バレリーナ
+      content_type: ''
+  - song_name: CHU CHU LUV SCANDAL
+    song_alias:
+    esong_code: 3438A29
+    t_singer_master_id: '48792'
+    singer_name: MARGINAL#4
+    singer_alias:
+    available_date: '2015-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: MARGINAL#4<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちゆちゆらふす
+    singer_name_ruby: ましなるなんはふお
+    song_variation:
+    - esong_code: 3438A29
+      song_name: CHU CHU LUV SCANDAL
+      content_type: ''
+  - song_name: T.U.B.E.
+    song_alias:
+    esong_code: 3443B12
+    t_singer_master_id: '43653'
+    singer_name: 鎮座DOPENESS
+    singer_alias:
+    available_date: '2015-05-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちゆふ
+    singer_name_ruby: ちんさとふねす
+    song_variation:
+    - esong_code: 3443B12
+      song_name: T.U.B.E.
+      content_type: ''
+  - song_name: ちょいときまぐれ渡り鳥
+    song_alias:
+    esong_code: 791B26
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2015-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: ちよいときまくれわ
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 791B26
+      song_name: ちょいときまぐれ渡り鳥
+      content_type: DAMｸﾘｯﾌﾟ生音

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: 小さな合鍵
-    song_alias:
-    esong_code: 2901B30
-    t_singer_master_id: '37821'
-    singer_name: 星 まさる
-    singer_alias:
-    available_date: '2012-10-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちいさなあいかき
-    singer_name_ruby: ほしまさる
-    song_variation:
-    - esong_code: 2901B30
-      song_name: 小さな合鍵
-      content_type: ''
-  - song_name: 小さな恋のうた
-    song_alias:
-    esong_code: 2931B11
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
-    singer_alias:
-    available_date: '2012-10-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: ちいさなこいのうた
-    singer_name_ruby: こうたくみ
-    song_variation:
-    - esong_code: 2931B11
-      song_name: 小さな恋のうた
-      content_type: DAMﾗｲﾌﾞ
   - song_name: 小さな勇気
     song_alias:
     esong_code: 2921B42
@@ -111,23 +77,6 @@ result:
       content_type: ''
   - song_name: 誓い
     song_alias:
-    esong_code: 2905A47
-    t_singer_master_id: '24212'
-    singer_name: CLIFF EDGE
-    singer_alias:
-    available_date: '2012-10-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちかい
-    singer_name_ruby: くりふえつし
-    song_variation:
-    - esong_code: 2905A47
-      song_name: 誓い
-      content_type: ''
-  - song_name: 誓い
-    song_alias:
     esong_code: 2902B33
     t_singer_master_id: '45519'
     singer_name: ACE OF SPADES
@@ -141,6 +90,23 @@ result:
     singer_name_ruby: えすおふすへす
     song_variation:
     - esong_code: 2902B33
+      song_name: 誓い
+      content_type: ''
+  - song_name: 誓い
+    song_alias:
+    esong_code: 2905A47
+    t_singer_master_id: '24212'
+    singer_name: CLIFF EDGE
+    singer_alias:
+    available_date: '2012-10-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちかい
+    singer_name_ruby: くりふえつし
+    song_variation:
+    - esong_code: 2905A47
       song_name: 誓い
       content_type: ''
   - song_name: 地下鉄の動態
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2897B4
       song_name: 月夜行
+      content_type: ''
+  - song_name: 月夜華
+    song_alias:
+    esong_code: 2897B30
+    t_singer_master_id: '1376'
+    singer_name: 立樹 みか
+    singer_alias:
+    available_date: '2012-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきよはな
+    singer_name_ruby: たちきみか
+    song_variation:
+    - esong_code: 2897B30
+      song_name: 月夜華
+      content_type: ''
+  - song_name: 筑波夜景
+    song_alias:
+    esong_code: 2913A1
+    t_singer_master_id: '46157'
+    singer_name: 橘 潤
+    singer_alias:
+    available_date: '2012-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つくはやけい
+    singer_name_ruby: たちはなしゆん
+    song_variation:
+    - esong_code: 2913A1
+      song_name: 筑波夜景
       content_type: ''

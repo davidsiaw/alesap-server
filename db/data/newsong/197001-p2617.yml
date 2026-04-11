@@ -3,115 +3,251 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 90601
-  all_max_cnt: 120139
-  all_country_cnt: 90601
+  max_cnt: 103269
+  all_max_cnt: 133030
+  all_country_cnt: 103269
   song:
-  - song_name: みんな夢でありました
+  - song_name: ふたつの夢
     song_alias:
-    esong_code: 293B49
-    t_singer_master_id: '2417'
-    singer_name: 森田 童子
+    esong_code: 66A42
+    t_singer_master_id: '5606'
+    singer_name: Le Couple
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: ふたつのゆめ
+    singer_name_ruby: るくふる
+    song_variation:
+    - esong_code: 66A42
+      song_name: ふたつの夢
+      content_type: DAM良音
+  - song_name: 二つの夢
+    song_alias:
+    esong_code: 1159B20
+    t_singer_master_id: '1741'
+    singer_name: 忍者
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: みんなゆめてありま
-    singer_name_ruby: もりたとうし
+    song_name_ruby: ふたつのゆめ
+    singer_name_ruby: にんしや
     song_variation:
-    - esong_code: 293B49
-      song_name: みんな夢でありました
+    - esong_code: 1159B20
+      song_name: 二つの夢
       content_type: ''
-  - song_name: みんな夢の中
+  - song_name: 二つの夜
     song_alias:
-    esong_code: 269B1
-    t_singer_master_id: '1323'
-    singer_name: 高田 恭子
+    esong_code: 1254B11
+    t_singer_master_id: '23502'
+    singer_name: デジマンズ
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: みんなゆめのなか
-    singer_name_ruby: たかたきようこ
+    song_name_ruby: ふたつのよる
+    singer_name_ruby: てしまんす
     song_variation:
-    - esong_code: 269B1
-      song_name: みんな夢の中
+    - esong_code: 1254B11
+      song_name: 二つの夜
       content_type: ''
-  - song_name: みんな夢・夢・夢
+  - song_name: ふたつ星
     song_alias:
-    esong_code: 905B9
-    t_singer_master_id: '1346'
-    singer_name: 高山 厳
+    esong_code: 2883B48
+    t_singer_master_id: '15234'
+    singer_name: I WiSH
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: ふたつほし
+    singer_name_ruby: あいういつしゆ
+    song_variation:
+    - esong_code: 2883B48
+      song_name: ふたつ星
+      content_type: JOY生演奏
+  - song_name: ふたつ星
+    song_alias:
+    esong_code: 5222A48
+    t_singer_master_id: '15234'
+    singer_name: I WiSH
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ふたつほし
+    singer_name_ruby: あいういつしゆ
+    song_variation:
+    - esong_code: 5222A48
+      song_name: ふたつ星
+      content_type: DAM生音
+  - song_name: ふたつ星
+    song_alias:
+    esong_code: 4983A24
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ふたつほし
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 4983A24
+      song_name: ふたつ星
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: ふた情け
+    song_alias:
+    esong_code: 4845B16
+    t_singer_master_id: '2818'
+    singer_name: 山口 かおる(青木香織)
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: ふたなさけ
+    singer_name_ruby: やまくちかおる
+    song_variation:
+    - esong_code: 4845B16
+      song_name: ふた情け
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 双葉
+    song_alias:
+    esong_code: 4813A26
+    t_singer_master_id: '52236'
+    singer_name: あいみょん
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ふたは
+    singer_name_ruby: あいみよん
+    song_variation:
+    - esong_code: 4813A26
+      song_name: 双葉
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 双葉山
+    song_alias:
+    esong_code: 134B21
+    t_singer_master_id: '2103'
+    singer_name: 細川 たかし
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: みんなゆめゆめゆめ
-    singer_name_ruby: たかやまけん
+    song_name_ruby: ふたはやま
+    singer_name_ruby: ほそかわたかし
     song_variation:
-    - esong_code: 905B9
-      song_name: みんな夢・夢・夢
+    - esong_code: 134B21
+      song_name: 双葉山
       content_type: ''
-  - song_name: みんな私が悪いのよ
+  - song_name: FU・TA・MA・TA
     song_alias:
-    esong_code: 2171B35
-    t_singer_master_id: '34849'
-    singer_name: グリーン
+    esong_code: 134A16
+    t_singer_master_id: '1398'
+    singer_name: 谷村 有美
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: みんなわたしかわる
-    singer_name_ruby: くりん
+    song_name_ruby: ふたまた
+    singer_name_ruby: たにむらゆみ
     song_variation:
-    - esong_code: 2171B35
-      song_name: みんな私が悪いのよ
+    - esong_code: 134A16
+      song_name: FU・TA・MA・TA
       content_type: ''
-  - song_name: ミンミンミシマ
+  - song_name: FUTAMATA 女性篇 〜アッシー君とツクシンボー〜
     song_alias:
-    esong_code: 1155A36
-    t_singer_master_id: '8352'
-    singer_name: 東京混声合唱団
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 万能文化猫娘<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: みんみんみしま
-    singer_name_ruby: とうきようこんせいか
-    song_variation:
-    - esong_code: 1155A36
-      song_name: ミンミンミシマ
-      content_type: ''
-  - song_name: 民謡酒場
-    song_alias:
-    esong_code: 560A16
-    t_singer_master_id: '5674'
-    singer_name: 桃原 あい子&真栄城 まさ子
+    esong_code: 772B1
+    t_singer_master_id: '567'
+    singer_name: 嘉門 達夫
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: みんようさかは
-    singer_name_ruby: とうはるあいこまえしろまさこ
+    song_name_ruby: ふたまたしよせいへ
+    singer_name_ruby: かもんたつお
     song_variation:
-    - esong_code: 560A16
-      song_name: 民謡酒場
+    - esong_code: 772B1
+      song_name: FUTAMATA 女性篇 〜アッシー君とツクシンボー〜
       content_type: ''
-  - song_name: 民謡酒場
+  - song_name: 二股の女
     song_alias:
-    esong_code: 2244B19
+    esong_code: 201A22
+    t_singer_master_id: '10009'
+    singer_name: 東京プリン&シルビア
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたまたのおんな
+    singer_name_ruby: とうきようふりんしるひあ
+    song_variation:
+    - esong_code: 201A22
+      song_name: 二股の女
+      content_type: ''
+  - song_name: ぶたまんごころ
+    song_alias:
+    esong_code: 773B30
+    t_singer_master_id: '13575'
+    singer_name: 小林 亜星
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたまんこころ
+    singer_name_ruby: こはやしあせい
+    song_variation:
+    - esong_code: 773B30
+      song_name: ぶたまんごころ
+      content_type: ''
+  - song_name: 二見情話(ふたみじょうわ)
+    song_alias:
+    esong_code: 2855B29
+    t_singer_master_id: '424'
+    singer_name: 沖縄曲
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: ふたみしようわ
+    singer_name_ruby: おきなわきよく
+    song_variation:
+    - esong_code: 2855B29
+      song_name: 二見情話(ふたみじょうわ)
+      content_type: JOY生演奏
+  - song_name: 二見情話(ふたみじょうわ)
+    song_alias:
+    esong_code: 237B10
     t_singer_master_id: '424'
     singer_name: 沖縄曲
     singer_alias:
@@ -120,219 +256,100 @@ result:
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: みんようさかは
+    song_name_ruby: ふたみしようわ
     singer_name_ruby: おきなわきよく
     song_variation:
-    - esong_code: 2244B19
-      song_name: 民謡酒場
+    - esong_code: 237B10
+      song_name: 二見情話(ふたみじょうわ)
       content_type: ''
-  - song_name: 無
+  - song_name: 二見情話(ふたみじょうわ)
     song_alias:
-    esong_code: 5035A3
-    t_singer_master_id: '60707'
-    singer_name: The Brow Beat
+    esong_code: 2688B31
+    t_singer_master_id: '424'
+    singer_name: 沖縄曲
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ふたみしようわ
+    singer_name_ruby: おきなわきよく
+    song_variation:
+    - esong_code: 2688B31
+      song_name: 二見情話(ふたみじょうわ)
+      content_type: DAM生音
+  - song_name: ふたり
+    song_alias:
+    esong_code: 237B11
+    t_singer_master_id: '979'
+    singer_name: 沢田 知可子
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: む
-    singer_name_ruby: さふろうひと
+    song_name_ruby: ふたり
+    singer_name_ruby: さわたちかこ
     song_variation:
-    - esong_code: 5035A3
-      song_name: 無
+    - esong_code: 237B11
+      song_name: ふたり
       content_type: ''
-  - song_name: 六日町ブルース
+  - song_name: ふたり
     song_alias:
-    esong_code: 304B36
-    t_singer_master_id: '137'
-    singer_name: アローナイツ
+    esong_code: 317A37
+    t_singer_master_id: '5736'
+    singer_name: surface(SURFACE)
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: むいかまちふるす
-    singer_name_ruby: あろないつ
+    song_name_ruby: ふたり
+    singer_name_ruby: さふいす
     song_variation:
-    - esong_code: 304B36
-      song_name: 六日町ブルース
+    - esong_code: 317A37
+      song_name: ふたり
       content_type: ''
-  - song_name: 六日町ブルース
+  - song_name: ふたり
     song_alias:
-    esong_code: 513B11
-    t_singer_master_id: '6907'
-    singer_name: 森咲 あゆみ
+    esong_code: 664A14
+    t_singer_master_id: '14464'
+    singer_name: 諫山 実生
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: むいかまちふるす
-    singer_name_ruby: もりさきあゆみ
+    song_name_ruby: ふたり
+    singer_name_ruby: いさやまみお
     song_variation:
-    - esong_code: 513B11
-      song_name: 六日町ブルース
+    - esong_code: 664A14
+      song_name: ふたり
       content_type: ''
-  - song_name: 無意味な黄色 〜Meaningless Yellow
+  - song_name: 二人
     song_alias:
-    esong_code: 1090A14
-    t_singer_master_id: '8488'
-    singer_name: al.ni.co
+    esong_code: 2402B32
+    t_singer_master_id: '16200'
+    singer_name: アンダーグラフ
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: むいみなきいろみに
-    singer_name_ruby: あるにこ
+    song_name_ruby: ふたり
+    singer_name_ruby: あんたくらふ
     song_variation:
-    - esong_code: 1090A14
-      song_name: 無意味な黄色 〜Meaningless Yellow
+    - esong_code: 2402B32
+      song_name: 二人
       content_type: ''
-  - song_name: MW 〜Dear Mr.&Ms.ピカレスク〜
+  - song_name: 二人
     song_alias:
-    esong_code: 2860A10
-    t_singer_master_id: '33872'
-    singer_name: flumpool
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: むうていあみすた
-    singer_name_ruby: ふらんふる
-    song_variation:
-    - esong_code: 2860A10
-      song_name: MW 〜Dear Mr.&Ms.ピカレスク〜
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: MW 〜Dear Mr.&Ms.ピカレスク〜
-    song_alias:
-    esong_code: 2346B7
-    t_singer_master_id: '33872'
-    singer_name: flumpool
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むうていあみすた
-    singer_name_ruby: ふらんふる
-    song_variation:
-    - esong_code: 2346B7
-      song_name: MW 〜Dear Mr.&Ms.ピカレスク〜
-      content_type: ''
-  - song_name: MW 〜Dear Mr.&Ms.ピカレスク〜
-    song_alias:
-    esong_code: 2354A19
-    t_singer_master_id: '33872'
-    singer_name: flumpool
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: むうていあみすた
-    singer_name_ruby: ふらんふる
-    song_variation:
-    - esong_code: 2354A19
-      song_name: MW 〜Dear Mr.&Ms.ピカレスク〜
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 夢影川(むえいがわ)
-    song_alias:
-    esong_code: 928B42
-    t_singer_master_id: '17318'
-    singer_name: 小林 ゆき
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むえいかわ
-    singer_name_ruby: こはやしゆき
-    song_variation:
-    - esong_code: 928B42
-      song_name: 夢影川(むえいがわ)
-      content_type: ''
-  - song_name: 無縁坂
-    song_alias:
-    esong_code: 269B14
-    t_singer_master_id: '786'
-    singer_name: グレープ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むえんさか
-    singer_name_ruby: くれふ
-    song_variation:
-    - esong_code: 269B14
-      song_name: 無縁坂
-      content_type: ''
-  - song_name: 無縁坂
-    song_alias:
-    esong_code: 2869B41
-    t_singer_master_id: '786'
-    singer_name: グレープ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: むえんさか
-    singer_name_ruby: くれふ
-    song_variation:
-    - esong_code: 2869B41
-      song_name: 無縁坂
-      content_type: JOY生演奏
-  - song_name: 無縁坂
-    song_alias:
-    esong_code: 2206A44
-    t_singer_master_id: '1658'
-    singer_name: 中森 明菜
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むえんさか
-    singer_name_ruby: なかもりあきな
-    song_variation:
-    - esong_code: 2206A44
-      song_name: 無縁坂
-      content_type: ''
-  - song_name: 無縁坂
-    song_alias:
-    esong_code: 434B9
-    t_singer_master_id: '786'
-    singer_name: グレープ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: むえんさか
-    singer_name_ruby: くれふ
-    song_variation:
-    - esong_code: 434B9
-      song_name: 無縁坂
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 向かいあわせ
-    song_alias:
-    esong_code: 2509B42
+    esong_code: 5173B46
     t_singer_master_id: '8782'
     singer_name: aiko
     singer_alias:
@@ -340,180 +357,163 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: むかいあわせ
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ふたり
     singer_name_ruby: あいこ
     song_variation:
-    - esong_code: 2509B42
-      song_name: 向かいあわせ
-      content_type: ''
-  - song_name: むかい風
+    - esong_code: 5173B46
+      song_name: 二人
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: ふたり
     song_alias:
-    esong_code: 3249A23
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: むかいかせ
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 3249A23
-      song_name: むかい風
-      content_type: DAM生音
-  - song_name: むかい風
-    song_alias:
-    esong_code: 342B1
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
+    esong_code: 2486B34
+    t_singer_master_id: '34810'
+    singer_name: 松下 優也
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: むかいかせ
-    singer_name_ruby: てんとうよしみ
+    song_name_ruby: ふたり
+    singer_name_ruby: まつしたゆうや
     song_variation:
-    - esong_code: 342B1
-      song_name: むかい風
+    - esong_code: 2486B34
+      song_name: ふたり
       content_type: ''
-  - song_name: むかい風
+  - song_name: フタリ
     song_alias:
-    esong_code: 178A37
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
+    esong_code: 1171A2
+    t_singer_master_id: '21474'
+    singer_name: 竹内 順子&鴻口 可南
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Dr.リンにきいてみて!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたり
+    singer_name_ruby: たけうちしゆんこ
+    song_variation:
+    - esong_code: 1171A2
+      song_name: フタリ
+      content_type: ''
+  - song_name: 二人
+    song_alias:
+    esong_code: 19B15
+    t_singer_master_id: '809'
+    singer_name: 小泉 今日子
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたり
+    singer_name_ruby: こいすみきようこ
+    song_variation:
+    - esong_code: 19B15
+      song_name: 二人
+      content_type: ''
+  - song_name: ふたり
+    song_alias:
+    esong_code: 874A6
+    t_singer_master_id: '5599'
+    singer_name: 浜本 沙良
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたり
+    singer_name_ruby: はまもとさら
+    song_variation:
+    - esong_code: 874A6
+      song_name: ふたり
+      content_type: ''
+  - song_name: ふ FU た TA り RI
+    song_alias:
+    esong_code: 307B20
+    t_singer_master_id: '1350'
+    singer_name: 宝 ひとみ
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ふ・た・り<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたり
+    singer_name_ruby: たからひとみ
+    song_variation:
+    - esong_code: 307B20
+      song_name: ふ FU た TA り RI
+      content_type: ''
+  - song_name: ふたり
+    song_alias:
+    esong_code: 1115A5
+    t_singer_master_id: '20873'
+    singer_name: OWL
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたり
+    singer_name_ruby: あうる
+    song_variation:
+    - esong_code: 1115A5
+      song_name: ふたり
+      content_type: ''
+  - song_name: ふたり
+    song_alias:
+    esong_code: 4836B16
+    t_singer_master_id: '70203'
+    singer_name: 鳥羽 一郎&原田 悠里
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ふたり
+    singer_name_ruby: とはいちろうはらたゆり
+    song_variation:
+    - esong_code: 4836B16
+      song_name: ふたり
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: ふたり
+    song_alias:
+    esong_code: 4836B15
+    t_singer_master_id: '70203'
+    singer_name: 鳥羽 一郎&原田 悠里
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: むかいかせ
-    singer_name_ruby: てんとうよしみ
+    song_name_ruby: ふたり
+    singer_name_ruby: とはいちろうはらたゆり
     song_variation:
-    - esong_code: 178A37
-      song_name: むかい風
+    - esong_code: 4836B15
+      song_name: ふたり
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 向かい風に打たれながら
+  - song_name: 二人
     song_alias:
-    esong_code: 3540B35
-    t_singer_master_id: '22685'
-    singer_name: 茅原 実里
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: RAIL WARS!<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: むかいかせにうたれ
-    singer_name_ruby: ちはらみのり
-    song_variation:
-    - esong_code: 3540B35
-      song_name: 向かい風に打たれながら
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: MUKAI NIGHT
-    song_alias:
-    esong_code: 1686B42
-    t_singer_master_id: '11179'
-    singer_name: NUMBER GIRL
+    esong_code: 4278A16
+    t_singer_master_id: '8782'
+    singer_name: aiko
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: むかいないと
-    singer_name_ruby: なんはかる
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ふたり
+    singer_name_ruby: あいこ
     song_variation:
-    - esong_code: 1686B42
-      song_name: MUKAI NIGHT
-      content_type: ''
-  - song_name: 向う横丁の
-    song_alias:
-    esong_code: 799B5
-    t_singer_master_id: '61461'
-    singer_name: 童謡(わらべうた)
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むかうよこちよう
-    singer_name_ruby: とうようわらへうた
-    song_variation:
-    - esong_code: 799B5
-      song_name: 向う横丁の
-      content_type: ''
-  - song_name: 迎え酒
-    song_alias:
-    esong_code: 2256A41
-    t_singer_master_id: '36102'
-    singer_name: 松田 定子
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むかえさけ
-    singer_name_ruby: まつたさたこ
-    song_variation:
-    - esong_code: 2256A41
-      song_name: 迎え酒
-      content_type: ''
-  - song_name: むかえに来たら
-    song_alias:
-    esong_code: 1108B16
-    t_singer_master_id: '10007'
-    singer_name: bird
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むかえにきたら
-    singer_name_ruby: はと
-    song_variation:
-    - esong_code: 1108B16
-      song_name: むかえに来たら
-      content_type: ''
-  - song_name: 迎えに来てよ
-    song_alias:
-    esong_code: 270A2
-    t_singer_master_id: '1048'
-    singer_name: 島津 ゆたか
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むかえにきてよ
-    singer_name_ruby: しまつゆたか
-    song_variation:
-    - esong_code: 270A2
-      song_name: 迎えに来てよ
-      content_type: ''
-  - song_name: ムカシ
-    song_alias:
-    esong_code: 1714B21
-    t_singer_master_id: '2355'
-    singer_name: 都 はるみ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: むかし
-    singer_name_ruby: みやこはるみ
-    song_variation:
-    - esong_code: 1714B21
-      song_name: ムカシ
-      content_type: DAM生音
+    - esong_code: 4278A16
+      song_name: 二人
+      content_type: DAMｸﾘｯﾌﾟ

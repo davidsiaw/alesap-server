@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: RUN with U
-    song_alias:
-    esong_code: 3178B34
-    t_singer_master_id: '43235'
-    singer_name: フェアリーズ(Fairies)
-    singer_alias:
-    available_date: '2014-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ジュエルペット ハッピネス<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: らんういすゆ
-    singer_name_ruby: ふえありす
-    song_variation:
-    - esong_code: 3178B34
-      song_name: RUN with U
-      content_type: ''
   - song_name: RUNWAY
     song_alias:
     esong_code: 3204A33
@@ -83,7 +66,7 @@ result:
     singer_alias:
     available_date: '2014-02-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA4<番組名>
+    tie_up: 戦国BASARA<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: らんなすはい
@@ -236,7 +219,7 @@ result:
     singer_alias:
     available_date: '2014-02-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ 劇場版<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: りはうこうくうたい
@@ -349,23 +332,6 @@ result:
       content_type: ''
   - song_name: 流氷波止場
     song_alias:
-    esong_code: 3139A26
-    t_singer_master_id: '5034'
-    singer_name: 市川 由紀乃
-    singer_alias:
-    available_date: '2014-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: りゆうひようはとは
-    singer_name_ruby: いちかわゆきの
-    song_variation:
-    - esong_code: 3139A26
-      song_name: 流氷波止場
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 流氷波止場
-    song_alias:
     esong_code: 3182A14
     t_singer_master_id: '5034'
     singer_name: 市川 由紀乃
@@ -381,6 +347,23 @@ result:
     - esong_code: 3182A14
       song_name: 流氷波止場
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 流氷波止場
+    song_alias:
+    esong_code: 3139A26
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2014-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: りゆうひようはとは
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 3139A26
+      song_name: 流氷波止場
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Relive
     song_alias:
     esong_code: 3181A34
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3180A33
       song_name: ルート・サンシャイン
+      content_type: ''
+  - song_name: Lay it down
+    song_alias:
+    esong_code: 3178B36
+    t_singer_master_id: '44214'
+    singer_name: 家入 レオ
+    singer_alias:
+    available_date: '2014-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: れいいつとたうん
+    singer_name_ruby: いえいりれお
+    song_variation:
+    - esong_code: 3178B36
+      song_name: Lay it down
       content_type: ''

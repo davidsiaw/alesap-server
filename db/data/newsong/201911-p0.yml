@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1354
-  all_max_cnt: 1525
-  all_country_cnt: 1354
+  max_cnt: 1339
+  all_max_cnt: 1510
+  all_country_cnt: 1339
   song:
-  - song_name: あぁ人生峠
-    song_alias:
-    esong_code: 4284B40
-    t_singer_master_id: '13930'
-    singer_name: 木原 たけし
-    singer_alias:
-    available_date: '2019-11-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ああしんせいとうけ
-    singer_name_ruby: きはらたけし
-    song_variation:
-    - esong_code: 4284B40
-      song_name: あぁ人生峠
-      content_type: DAM生音
   - song_name: あぁ人生峠
     song_alias:
     esong_code: 4279A38
@@ -41,6 +24,23 @@ result:
     - esong_code: 4279A38
       song_name: あぁ人生峠
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: あぁ人生峠
+    song_alias:
+    esong_code: 4284B40
+    t_singer_master_id: '13930'
+    singer_name: 木原 たけし
+    singer_alias:
+    available_date: '2019-11-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ああしんせいとうけ
+    singer_name_ruby: きはらたけし
+    song_variation:
+    - esong_code: 4284B40
+      song_name: あぁ人生峠
+      content_type: DAM生音
   - song_name: I_SK [パセラオリジナル]
     song_alias:
     esong_code: 4285B35
@@ -262,23 +262,6 @@ result:
     - esong_code: 4284B17
       song_name: 愛と優
       content_type: ''
-  - song_name: アイノカタチ
-    song_alias:
-    esong_code: 4280B18
-    t_singer_master_id: '28788'
-    singer_name: GReeeeN
-    singer_alias:
-    available_date: '2019-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あいのかたち
-    singer_name_ruby: くりん
-    song_variation:
-    - esong_code: 4280B18
-      song_name: アイノカタチ
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: アイノカタチ feat.HIDE
     song_alias:
     esong_code: 4278B49
@@ -296,6 +279,23 @@ result:
     - esong_code: 4278B49
       song_name: アイノカタチ feat.HIDE
       content_type: ''
+  - song_name: アイノカタチ
+    song_alias:
+    esong_code: 4280B18
+    t_singer_master_id: '28788'
+    singer_name: GReeeeN
+    singer_alias:
+    available_date: '2019-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あいのかたち
+    singer_name_ruby: くりん
+    song_variation:
+    - esong_code: 4280B18
+      song_name: アイノカタチ
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 愛の鎖
     song_alias:
     esong_code: 4283A47
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: アイヤ子守唄
     song_alias:
-    esong_code: 3730B3
-    t_singer_master_id: '40508'
-    singer_name: 福田 こうへい
-    singer_alias:
-    available_date: '2019-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいやこもりうた
-    singer_name_ruby: ふくたこうへい
-    song_variation:
-    - esong_code: 3730B3
-      song_name: アイヤ子守唄
-      content_type: ''
-  - song_name: アイヤ子守唄
-    song_alias:
     esong_code: 4280B19
     t_singer_master_id: '40508'
     singer_name: 福田 こうへい
@@ -415,6 +398,23 @@ result:
     - esong_code: 4280B19
       song_name: アイヤ子守唄
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: アイヤ子守唄
+    song_alias:
+    esong_code: 3730B3
+    t_singer_master_id: '40508'
+    singer_name: 福田 こうへい
+    singer_alias:
+    available_date: '2019-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいやこもりうた
+    singer_name_ruby: ふくたこうへい
+    song_variation:
+    - esong_code: 3730B3
+      song_name: アイヤ子守唄
+      content_type: ''
   - song_name: I Like It
     song_alias:
     esong_code: 4287B19
@@ -449,23 +449,6 @@ result:
     - esong_code: 4283A7
       song_name: I LIKE SUSHI
       content_type: ''
-  - song_name: "(うた)I LOVE コイキング"
-    song_alias:
-    esong_code: 4285A12
-    t_singer_master_id: '65295'
-    singer_name: ポケモン Kids TV
-    singer_alias:
-    available_date: '2019-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ポケモンガオーレ<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あいらふこいきんく
-    singer_name_ruby: ほけもんきつすてれひ
-    song_variation:
-    - esong_code: 4285A12
-      song_name: "(うた)I LOVE コイキング"
-      content_type: DAM生音
   - song_name: "(うた)I LOVE コイキング (ダンスver.)"
     song_alias:
     esong_code: 4285A11
@@ -482,6 +465,23 @@ result:
     song_variation:
     - esong_code: 4285A11
       song_name: "(うた)I LOVE コイキング (ダンスver.)"
+      content_type: DAM生音
+  - song_name: "(うた)I LOVE コイキング"
+    song_alias:
+    esong_code: 4285A12
+    t_singer_master_id: '65295'
+    singer_name: ポケモン Kids TV
+    singer_alias:
+    available_date: '2019-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ポケモンガオーレ<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あいらふこいきんく
+    singer_name_ruby: ほけもんきつすてれひ
+    song_variation:
+    - esong_code: 4285A12
+      song_name: "(うた)I LOVE コイキング"
       content_type: DAM生音
   - song_name: "(うた)I Love Pikachu and Eevee"
     song_alias:

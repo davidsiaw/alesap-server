@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1233
-  all_max_cnt: 1468
-  all_country_cnt: 1233
+  max_cnt: 1221
+  all_max_cnt: 1456
+  all_country_cnt: 1221
   song:
-  - song_name: 音楽を終わらせよう (HEIAN ver.)
-    song_alias:
-    esong_code: 4249B45
-    t_singer_master_id: '61418'
-    singer_name: ".ENDRECHERI."
-    singer_alias:
-    available_date: '2019-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんかくをおわらせ
-    singer_name_ruby: えんとりけり
-    song_variation:
-    - esong_code: 4249B45
-      song_name: 音楽を終わらせよう (HEIAN ver.)
-      content_type: ''
-  - song_name: オンステージ
-    song_alias:
-    esong_code: 4260B33
-    t_singer_master_id: '54640'
-    singer_name: team鳳
-    singer_alias:
-    available_date: '2019-09-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: スタミュ -高校星歌劇- (第3期)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんすてし
-    singer_name_ruby: ちむおおとり
-    song_variation:
-    - esong_code: 4260B33
-      song_name: オンステージ
-      content_type: ''
-  - song_name: おんな泣き港
-    song_alias:
-    esong_code: 4251B6
-    t_singer_master_id: '1667'
-    singer_name: 永井 みゆき
-    singer_alias:
-    available_date: '2019-09-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おんななきみなと
-    singer_name_ruby: なかいみゆき
-    song_variation:
-    - esong_code: 4251B6
-      song_name: おんな泣き港
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: おんなの雨暦
     song_alias:
     esong_code: 4258B16
@@ -349,23 +298,6 @@ result:
       content_type: ''
   - song_name: 過去を喰らう
     song_alias:
-    esong_code: 4245B26
-    t_singer_master_id: '64556'
-    singer_name: 花譜
-    singer_alias:
-    available_date: '2019-09-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: かこをくらう
-    singer_name_ruby: かふ
-    song_variation:
-    - esong_code: 4245B26
-      song_name: 過去を喰らう
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 過去を喰らう
-    song_alias:
     esong_code: 4247B6
     t_singer_master_id: '64556'
     singer_name: 花譜
@@ -381,6 +313,23 @@ result:
     - esong_code: 4247B6
       song_name: 過去を喰らう
       content_type: ''
+  - song_name: 過去を喰らう
+    song_alias:
+    esong_code: 4245B26
+    t_singer_master_id: '64556'
+    singer_name: 花譜
+    singer_alias:
+    available_date: '2019-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: かこをくらう
+    singer_name_ruby: かふ
+    song_variation:
+    - esong_code: 4245B26
+      song_name: 過去を喰らう
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 風花港
     song_alias:
     esong_code: 4250A48
@@ -517,3 +466,54 @@ result:
     - esong_code: 4255A26
       song_name: 風の尾道
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 風の先へ
+    song_alias:
+    esong_code: 4249A7
+    t_singer_master_id: '59612'
+    singer_name: 刀剣男士 formation of 三百年
+    singer_alias:
+    available_date: '2019-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 刀剣乱舞(ミュージカル)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせのさきへ
+    singer_name_ruby: とうけんたんしふおめしよんおふみ
+    song_variation:
+    - esong_code: 4249A7
+      song_name: 風の先へ
+      content_type: ''
+  - song_name: 数えきれない夜をくぐって
+    song_alias:
+    esong_code: 4257B41
+    t_singer_master_id: '12321'
+    singer_name: CHEMISTRY
+    singer_alias:
+    available_date: '2019-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かそえきれないよる
+    singer_name_ruby: けみすとり
+    song_variation:
+    - esong_code: 4257B41
+      song_name: 数えきれない夜をくぐって
+      content_type: ''
+  - song_name: KATANA
+    song_alias:
+    esong_code: 4248A44
+    t_singer_master_id: '64801'
+    singer_name: EXiNA
+    singer_alias:
+    available_date: '2019-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かたな
+    singer_name_ruby: いくしな
+    song_variation:
+    - esong_code: 4248A44
+      song_name: KATANA
+      content_type: ''

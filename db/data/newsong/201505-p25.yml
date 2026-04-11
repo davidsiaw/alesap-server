@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1230
-  all_max_cnt: 1369
-  all_country_cnt: 1230
+  max_cnt: 1222
+  all_max_cnt: 1361
+  all_country_cnt: 1222
   song:
-  - song_name: 特別な君へ
-    song_alias:
-    esong_code: 3440A23
-    t_singer_master_id: '44185'
-    singer_name: A.B.C-Z
-    singer_alias:
-    available_date: '2015-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とくへつなきみへ
-    singer_name_ruby: えひしすい
-    song_variation:
-    - esong_code: 3440A23
-      song_name: 特別な君へ
-      content_type: ''
-  - song_name: ドグラマグラ
-    song_alias:
-    esong_code: 3438A33
-    t_singer_master_id: '51122'
-    singer_name: QOOLAND
-    singer_alias:
-    available_date: '2015-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とくらまくら
-    singer_name_ruby: くらんと
-    song_variation:
-    - esong_code: 3438A33
-      song_name: ドグラマグラ
-      content_type: ''
-  - song_name: どこまで Happy!!!
-    song_alias:
-    esong_code: 3441B24
-    t_singer_master_id: '44185'
-    singer_name: A.B.C-Z
-    singer_alias:
-    available_date: '2015-05-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とこまてはつひ
-    singer_name_ruby: えひしすい
-    song_variation:
-    - esong_code: 3441B24
-      song_name: どこまで Happy!!!
-      content_type: ''
-  - song_name: ドストエフスキーを読んだと嘘をついた
-    song_alias:
-    esong_code: 3437A6
-    t_singer_master_id: '42751'
-    singer_name: 忘れらんねえよ
-    singer_alias:
-    available_date: '2015-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とすとえふすきを
-    singer_name_ruby: わすれらんねえよ
-    song_variation:
-    - esong_code: 3437A6
-      song_name: ドストエフスキーを読んだと嘘をついた
-      content_type: ''
   - song_name: DOGG RUN TOWN
     song_alias:
     esong_code: 3436A27
@@ -143,23 +75,6 @@ result:
     - esong_code: 787B38
       song_name: とまり木夢灯り
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: とまり木夢灯り
-    song_alias:
-    esong_code: 792B38
-    t_singer_master_id: '813'
-    singer_name: 香西 かおり
-    singer_alias:
-    available_date: '2015-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: とまりきゆめあかり
-    singer_name_ruby: こうさいかおり
-    song_variation:
-    - esong_code: 792B38
-      song_name: とまり木夢灯り
-      content_type: DAM生音
   - song_name: DRIVE A LIVE (Jupiter ver.)
     song_alias:
     esong_code: 3431B31
@@ -230,23 +145,6 @@ result:
       content_type: ''
   - song_name: Dracula La
     song_alias:
-    esong_code: 3440B47
-    t_singer_master_id: '38639'
-    singer_name: "[Alexandros]"
-    singer_alias:
-    available_date: '2015-05-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: とらきゆらら
-    singer_name_ruby: あれきさんとろす
-    song_variation:
-    - esong_code: 3440B47
-      song_name: Dracula La
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Dracula La
-    song_alias:
     esong_code: 3434A21
     t_singer_master_id: '38639'
     singer_name: "[Alexandros]"
@@ -262,6 +160,23 @@ result:
     - esong_code: 3434A21
       song_name: Dracula La
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Dracula La
+    song_alias:
+    esong_code: 3440B47
+    t_singer_master_id: '38639'
+    singer_name: "[Alexandros]"
+    singer_alias:
+    available_date: '2015-05-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: とらきゆらら
+    singer_name_ruby: あれきさんとろす
+    song_variation:
+    - esong_code: 3440B47
+      song_name: Dracula La
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: トラブルガールズ
     song_alias:
     esong_code: 3443A38
@@ -270,7 +185,7 @@ result:
     singer_alias:
     available_date: '2015-05-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 愛・天地無用!<番組名>
+    tie_up: 天地無用!<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とらふるかるす
@@ -517,3 +432,88 @@ result:
     - esong_code: 3225B10
       song_name: ドンギバッ!
       content_type: ''
+  - song_name: どんだけ待つのよ
+    song_alias:
+    esong_code: 2419B28
+    t_singer_master_id: '32721'
+    singer_name: たむらぱん
+    singer_alias:
+    available_date: '2015-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とんたけまつのよ
+    singer_name_ruby: たむらはん
+    song_variation:
+    - esong_code: 2419B28
+      song_name: どんだけ待つのよ
+      content_type: ''
+  - song_name: Don't give it up
+    song_alias:
+    esong_code: 3439A2
+    t_singer_master_id: '18074'
+    singer_name: 平原 綾香
+    singer_alias:
+    available_date: '2015-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とんときふいつ
+    singer_name_ruby: ひらはらあやか
+    song_variation:
+    - esong_code: 3439A2
+      song_name: Don't give it up
+      content_type: ''
+  - song_name: Don't stop
+    song_alias:
+    esong_code: 3439B21
+    t_singer_master_id: '53387'
+    singer_name: PUSHIM×韻シスト
+    singer_alias:
+    available_date: '2015-05-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とんとすとつふ
+    singer_name_ruby: ふしんいんしすと
+    song_variation:
+    - esong_code: 3439B21
+      song_name: Don't stop
+      content_type: ''
+  - song_name: Don't be love feat.斉藤和義
+    song_alias:
+    esong_code: 3438B3
+    t_singer_master_id: '45223'
+    singer_name: シシド・カフカ
+    singer_alias:
+    available_date: '2015-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とんとひらふ
+    singer_name_ruby: ししとかふか
+    song_variation:
+    - esong_code: 3438B3
+      song_name: Don't be love feat.斉藤和義
+      content_type: ''
+  - song_name: Don't Look Back [パセラオリジナル]
+    song_alias:
+    esong_code: 3444A21
+    t_singer_master_id: '53467'
+    singer_name: ノエル=ヴァーミリオン(CV:近藤佳奈子)&ツバキ=ヤヨイ(CV:今井麻美)
+    singer_alias:
+    available_date: '2015-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BLAZBLUE CONTINUUM SHIFT Ⅱ<番組名>
+    country_code: '0'
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    song_name_ruby: とんとるつくはつ
+    singer_name_ruby: のえるはみりおんこんとうかなこあんはせら
+    song_variation:
+    - esong_code: 3444A21
+      song_name: Don't Look Back [パセラオリジナル]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ

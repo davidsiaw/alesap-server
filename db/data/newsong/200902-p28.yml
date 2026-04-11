@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: Horizon -Radioバージョン-
-    song_alias:
-    esong_code: 1639B47
-    t_singer_master_id: '2894'
-    singer_name: 國府田 マリ子
-    singer_alias:
-    available_date: '2009-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 國府田マリ子のGM(Game Museum)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほらいそん
-    singer_name_ruby: こうたまりこ
-    song_variation:
-    - esong_code: 1639B47
-      song_name: Horizon -Radioバージョン-
-      content_type: ''
-  - song_name: ほれてふられてブルース
-    song_alias:
-    esong_code: 2253B9
-    t_singer_master_id: '36065'
-    singer_name: 津和 のり子
-    singer_alias:
-    available_date: '2009-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほれてふられてふる
-    singer_name_ruby: つわのりこ
-    song_variation:
-    - esong_code: 2253B9
-      song_name: ほれてふられてブルース
-      content_type: ''
-  - song_name: Bolero
-    song_alias:
-    esong_code: 2213A25
-    t_singer_master_id: '21930'
-    singer_name: 東方神起
-    singer_alias:
-    available_date: '2009-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ほれろ
-    singer_name_ruby: とうほうしんき
-    song_variation:
-    - esong_code: 2213A25
-      song_name: Bolero
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: Bolero
     song_alias:
     esong_code: 2254A13
@@ -75,6 +24,23 @@ result:
     - esong_code: 2254A13
       song_name: Bolero
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Bolero
+    song_alias:
+    esong_code: 2213A25
+    t_singer_master_id: '21930'
+    singer_name: 東方神起
+    singer_alias:
+    available_date: '2009-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ほれろ
+    singer_name_ruby: とうほうしんき
+    song_variation:
+    - esong_code: 2213A25
+      song_name: Bolero
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: WHY?
     song_alias:
     esong_code: 2213B13
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2210B29
       song_name: marionette
+      content_type: ''
+  - song_name: まりかぎでいいのぜ
+    song_alias:
+    esong_code: 2246B47
+    t_singer_master_id: '42487'
+    singer_name: イオシス/miko(Alternative ending)
+    singer_alias:
+    available_date: '2009-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方永夜抄 〜Imperishable Night<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: まりかきていいの
+    singer_name_ruby: いおしすみこ
+    song_variation:
+    - esong_code: 2246B47
+      song_name: まりかぎでいいのぜ
+      content_type: 東方
+  - song_name: まんまる
+    song_alias:
+    esong_code: 2245B31
+    t_singer_master_id: '20538'
+    singer_name: 100s
+    singer_alias:
+    available_date: '2009-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まんまる
+    singer_name_ruby: ひやくしき
+    song_variation:
+    - esong_code: 2245B31
+      song_name: まんまる
       content_type: ''

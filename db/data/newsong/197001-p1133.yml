@@ -3,64 +3,387 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 90601
-  all_max_cnt: 120139
-  all_country_cnt: 90601
+  max_cnt: 103269
+  all_max_cnt: 133030
+  all_country_cnt: 103269
   song:
-  - song_name: 今夜はふたり
+  - song_name: けやき通りがいろづく頃
     song_alias:
-    esong_code: 119A12
-    t_singer_master_id: '391'
-    singer_name: 大月 みやこ&弦 哲也
+    esong_code: 772B17
+    t_singer_master_id: '601'
+    singer_name: KAN
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: こんやはふたり
-    singer_name_ruby: おおつきみやこけんてつや
+    song_name_ruby: けやきとおりかい
+    singer_name_ruby: かん
     song_variation:
-    - esong_code: 119A12
-      song_name: 今夜はふたり
+    - esong_code: 772B17
+      song_name: けやき通りがいろづく頃
       content_type: ''
-  - song_name: 今夜はふたり
+  - song_name: 欅並木
     song_alias:
-    esong_code: 5295B37
-    t_singer_master_id: '391'
-    singer_name: 大月 みやこ&弦 哲也
+    esong_code: 2110A48
+    t_singer_master_id: '8343'
+    singer_name: 山乃 芳之
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けやきなみき
+    singer_name_ruby: やまのよしゆき
+    song_variation:
+    - esong_code: 2110A48
+      song_name: 欅並木
+      content_type: ''
+  - song_name: ケヤキの神
+    song_alias:
+    esong_code: 82A32
+    t_singer_master_id: '8163'
+    singer_name: IKECHAN
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けやきのかみ
+    singer_name_ruby: いけちやん
+    song_variation:
+    - esong_code: 82A32
+      song_name: ケヤキの神
+      content_type: ''
+  - song_name: ケヤキの神 (UGA)
+    song_alias:
+    esong_code: 5097A24
+    t_singer_master_id: '8163'
+    singer_name: IKECHAN
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けやきのかみ
+    singer_name_ruby: いけちやん
+    song_variation:
+    - esong_code: 5097A24
+      song_name: ケヤキの神 (UGA)
+      content_type: ''
+  - song_name: ケラケラじゃんけん
+    song_alias:
+    esong_code: 3330B17
+    t_singer_master_id: '42064'
+    singer_name: ケラケラ
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けらけらしやんけん
+    singer_name_ruby: けらけら
+    song_variation:
+    - esong_code: 3330B17
+      song_name: ケラケラじゃんけん
+      content_type: ''
+  - song_name: ゲラゲラと笑うな
+    song_alias:
+    esong_code: 3090A40
+    t_singer_master_id: '44409'
+    singer_name: 石風呂
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 太鼓の達人<番組名>
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: けらけらとわらう
+    singer_name_ruby: いしふろ
+    song_variation:
+    - esong_code: 3090A40
+      song_name: ゲラゲラと笑うな
+      content_type: VOCALOID
+  - song_name: ゲラゲラポー走曲
+    song_alias:
+    esong_code: 3361A49
+    t_singer_master_id: '52074'
+    singer_name: ようかいキング・ドリームソーダ
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 妖怪ウォッチ(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: けらけらほそ
+    singer_name_ruby: ようかいきんくとりむそた
+    song_variation:
+    - esong_code: 3361A49
+      song_name: ゲラゲラポー走曲
+      content_type: ''
+  - song_name: ゲラゲラポーのうた
+    song_alias:
+    esong_code: 3247A44
+    t_singer_master_id: '50571'
+    singer_name: キング・クリームソーダ.
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 妖怪ウォッチ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: けらけらほの
+    singer_name_ruby: きんくくりむそた
+    song_variation:
+    - esong_code: 3247A44
+      song_name: ゲラゲラポーのうた
+      content_type: ''
+  - song_name: GUERRILLA
+    song_alias:
+    esong_code: 680A2
+    t_singer_master_id: '2132'
+    singer_name: BOφWY
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けりら
+    singer_name_ruby: ほうい
+    song_variation:
+    - esong_code: 680A2
+      song_name: GUERRILLA
+      content_type: ''
+  - song_name: ゲリラ 〜Get it up〜
+    song_alias:
+    esong_code: 909A8
+    t_singer_master_id: '2916'
+    singer_name: 坂井 真紀
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けりらけつといつ
+    singer_name_ruby: さかいまき
+    song_variation:
+    - esong_code: 909A8
+      song_name: ゲリラ 〜Get it up〜
+      content_type: ''
+  - song_name: GUERRILLA MONSTER
+    song_alias:
+    esong_code: 972A22
+    t_singer_master_id: '14984'
+    singer_name: RYO the SKYWALKER&CORN HEAD
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けりらもんすた
+    singer_name_ruby: りようさすかいうおかこんへつと
+    song_variation:
+    - esong_code: 972A22
+      song_name: GUERRILLA MONSTER
+      content_type: ''
+  - song_name: ゲルニカ
+    song_alias:
+    esong_code: 500B30
+    t_singer_master_id: '8649'
+    singer_name: PIERROT
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けるにか
+    singer_name_ruby: ひえろ
+    song_variation:
+    - esong_code: 500B30
+      song_name: ゲルニカ
+      content_type: ''
+  - song_name: GUERNICA
+    song_alias:
+    esong_code: 2389B1
+    t_singer_master_id: '25669'
+    singer_name: NICO Touches the Walls
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けるにか
+    singer_name_ruby: にこたつちすさうおるす
+    song_variation:
+    - esong_code: 2389B1
+      song_name: GUERNICA
+      content_type: ''
+  - song_name: けれど生きている
+    song_alias:
+    esong_code: 443A13
+    t_singer_master_id: '500'
+    singer_name: かぐや姫
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けれといきている
+    singer_name_ruby: かくやひめ
+    song_variation:
+    - esong_code: 443A13
+      song_name: けれど生きている
+      content_type: ''
+  - song_name: けれど空は青−Close friend−
+    song_alias:
+    esong_code: 261A20
+    t_singer_master_id: '83'
+    singer_name: ASKA(飛鳥涼)
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けれとそらはあお
+    singer_name_ruby: あすか
+    song_variation:
+    - esong_code: 261A20
+      song_name: けれど空は青−Close friend−
+      content_type: ''
+  - song_name: けれども世界に落ちる雪
+    song_alias:
+    esong_code: 2017B12
+    t_singer_master_id: '33199'
+    singer_name: Lack Of Common sense
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けれともせかいにお
+    singer_name_ruby: らつくおふこもんせんす
+    song_variation:
+    - esong_code: 2017B12
+      song_name: けれども世界に落ちる雪
+      content_type: ''
+  - song_name: ゲレンデがとけるほど恋したい
+    song_alias:
+    esong_code: 3537A15
+    t_singer_master_id: '1921'
+    singer_name: 広瀬 香美
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: けれんてかとけ
+    singer_name_ruby: ひろせこうみ
+    song_variation:
+    - esong_code: 3537A15
+      song_name: ゲレンデがとけるほど恋したい
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: ゲレンデがとけるほど恋したい
+    song_alias:
+    esong_code: 2004A1
+    t_singer_master_id: '1921'
+    singer_name: 広瀬 香美
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾗｲﾌﾞ
+    song_name_ruby: けれんてかとけ
+    singer_name_ruby: ひろせこうみ
+    song_variation:
+    - esong_code: 2004A1
+      song_name: ゲレンデがとけるほど恋したい
+      content_type: DAMﾗｲﾌﾞ
+  - song_name: ゲレンデがとけるほど恋したい
+    song_alias:
+    esong_code: 1314A2
+    t_singer_master_id: '1921'
+    singer_name: 広瀬 香美
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: けれんてかとけ
+    singer_name_ruby: ひろせこうみ
+    song_variation:
+    - esong_code: 1314A2
+      song_name: ゲレンデがとけるほど恋したい
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: ゲレンデがとけるほど恋したい
+    song_alias:
+    esong_code: 862A11
+    t_singer_master_id: '1921'
+    singer_name: 広瀬 香美
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けれんてかとけ
+    singer_name_ruby: ひろせこうみ
+    song_variation:
+    - esong_code: 862A11
+      song_name: ゲレンデがとけるほど恋したい
+      content_type: ''
+  - song_name: ゲレンデがとけるほど恋したい
+    song_alias:
+    esong_code: 2874B29
+    t_singer_master_id: '1921'
+    singer_name: 広瀬 香美
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: けれんてかとけ
+    singer_name_ruby: ひろせこうみ
+    song_variation:
+    - esong_code: 2874B29
+      song_name: ゲレンデがとけるほど恋したい
+      content_type: JOY生演奏
+  - song_name: ゲレンデがとけるほど恋したい
+    song_alias:
+    esong_code: 3432A37
+    t_singer_master_id: '1921'
+    singer_name: 広瀬 香美
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type: DAM生音
-    song_name_ruby: こんやはふたり
-    singer_name_ruby: おおつきみやこけんてつや
+    song_name_ruby: けれんてかとけ
+    singer_name_ruby: ひろせこうみ
     song_variation:
-    - esong_code: 5295B37
-      song_name: 今夜はふたり
+    - esong_code: 3432A37
+      song_name: ゲレンデがとけるほど恋したい
       content_type: DAM生音
-  - song_name: 今夜はフル回転
+  - song_name: ゲレンデソングメドレー
     song_alias:
-    esong_code: 267B15
-    t_singer_master_id: '870'
-    singer_name: 米米CLUB
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやはふるかいてん
-    singer_name_ruby: こめこめくらふ
-    song_variation:
-    - esong_code: 267B15
-      song_name: 今夜はフル回転
-      content_type: ''
-  - song_name: 今夜はまったり口説き唄メドレー
-    song_alias:
-    esong_code: 32B47
+    esong_code: 26B45
     t_singer_master_id: '12687'
     singer_name: DKオリジナルメドレー
     singer_alias:
@@ -69,219 +392,32 @@ result:
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: こんやはまつたりくと
+    song_name_ruby: けれんてそんく
     singer_name_ruby: ていけおりしなるめとれ
     song_variation:
-    - esong_code: 32B47
-      song_name: 今夜はまったり口説き唄メドレー
+    - esong_code: 26B45
+      song_name: ゲレンデソングメドレー
       content_type: ''
-  - song_name: 今夜はミステリー
+  - song_name: ゲレンデに始まる物語
     song_alias:
-    esong_code: 1387B17
-    t_singer_master_id: '24459'
-    singer_name: 新田 一郎
+    esong_code: 188A48
+    t_singer_master_id: '3028'
+    singer_name: リズミックス
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: こんやはみすてり
-    singer_name_ruby: につたいちろう
+    song_name_ruby: けれんてにはし
+    singer_name_ruby: りすみつくす
     song_variation:
-    - esong_code: 1387B17
-      song_name: 今夜はミステリー
+    - esong_code: 188A48
+      song_name: ゲレンデに始まる物語
       content_type: ''
-  - song_name: 今夜はラテン・ナンバーで
+  - song_name: KELO KELO (全英語詞)
     song_alias:
-    esong_code: 4357A16
-    t_singer_master_id: '30281'
-    singer_name: 安藤 栄子
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやはらてんなんは
-    singer_name_ruby: あんとうえいこ
-    song_variation:
-    - esong_code: 4357A16
-      song_name: 今夜はラテン・ナンバーで
-      content_type: ''
-  - song_name: 今夜ふたりで
-    song_alias:
-    esong_code: 1062B7
-    t_singer_master_id: '141'
-    singer_name: 安全地帯
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやふたりて
-    singer_name_ruby: あんせんちたい
-    song_variation:
-    - esong_code: 1062B7
-      song_name: 今夜ふたりで
-      content_type: ''
-  - song_name: 今夜また逢いに行く
-    song_alias:
-    esong_code: 3647A12
-    t_singer_master_id: '10919'
-    singer_name: 竹内 力(RIKI)
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやまたあいにいく
-    singer_name_ruby: たけうちりき
-    song_variation:
-    - esong_code: 3647A12
-      song_name: 今夜また逢いに行く
-      content_type: ''
-  - song_name: 今夜も眠れない
-    song_alias:
-    esong_code: 1163B10
-    t_singer_master_id: '10892'
-    singer_name: 松本 典子
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやもねむれない
-    singer_name_ruby: まつもとのりこ
-    song_variation:
-    - esong_code: 1163B10
-      song_name: 今夜も眠れない
-      content_type: ''
-  - song_name: 今夜もひとり
-    song_alias:
-    esong_code: 2212B32
-    t_singer_master_id: '35427'
-    singer_name: 小野 ひろし
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやもひとり
-    singer_name_ruby: おのひろし
-    song_variation:
-    - esong_code: 2212B32
-      song_name: 今夜もひとり
-      content_type: ''
-  - song_name: 今夜もひとり・・・
-    song_alias:
-    esong_code: 289A27
-    t_singer_master_id: '2228'
-    singer_name: 松原 のぶえ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやもひとり
-    singer_name_ruby: まつはらのふえ
-    song_variation:
-    - esong_code: 289A27
-      song_name: 今夜もひとり・・・
-      content_type: ''
-  - song_name: 今夜、桃色クラブで。
-    song_alias:
-    esong_code: 175B26
-    t_singer_master_id: '7648'
-    singer_name: 及川 光博
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやももいろくらふ
-    singer_name_ruby: おいかわみつひろ
-    song_variation:
-    - esong_code: 175B26
-      song_name: 今夜、桃色クラブで。
-      content_type: ''
-  - song_name: 今夜、私に
-    song_alias:
-    esong_code: 119A13
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやわたしに
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 119A13
-      song_name: 今夜、私に
-      content_type: ''
-  - song_name: さぁ
-    song_alias:
-    esong_code: 1298B7
-    t_singer_master_id: '5736'
-    singer_name: surface(SURFACE)
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: まもって守護月天!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さあ
-    singer_name_ruby: さふいす
-    song_variation:
-    - esong_code: 1298B7
-      song_name: さぁ
-      content_type: ''
-  - song_name: さあ歩きはじめよう
-    song_alias:
-    esong_code: 121A7
-    t_singer_master_id: '10634'
-    singer_name: 沢田 亜矢子
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 家なき子<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さああるきはしめよ
-    singer_name_ruby: さわたあやこ
-    song_variation:
-    - esong_code: 121A7
-      song_name: さあ歩きはじめよう
-      content_type: ''
-  - song_name: さぁ、顔を上げて!
-    song_alias:
-    esong_code: 190B49
-    t_singer_master_id: '5613'
-    singer_name: 飯田 建彦
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さあかおをあけて
-    singer_name_ruby: いいたたつひこ
-    song_variation:
-    - esong_code: 190B49
-      song_name: さぁ、顔を上げて!
-      content_type: ''
-  - song_name: さぁ鐘を鳴らせ
-    song_alias:
-    esong_code: 3069A24
+    esong_code: 271B33
     t_singer_master_id: '1607'
     singer_name: DREAMS COME TRUE
     singer_alias:
@@ -290,236 +426,94 @@ result:
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: さあかねをならせ
+    song_name_ruby: けろけろ
     singer_name_ruby: とりむすかむとうる
     song_variation:
-    - esong_code: 3069A24
-      song_name: さぁ鐘を鳴らせ
+    - esong_code: 271B33
+      song_name: KELO KELO (全英語詞)
       content_type: ''
-  - song_name: ザ・アキラブルース
+  - song_name: ケロケロ
     song_alias:
-    esong_code: 2465B6
-    t_singer_master_id: '38649'
-    singer_name: ザ・アキラ
+    esong_code: 102A23
+    t_singer_master_id: '1607'
+    singer_name: DREAMS COME TRUE
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: さあきらふるす
-    singer_name_ruby: さあきら
+    song_name_ruby: けろけろ
+    singer_name_ruby: とりむすかむとうる
     song_variation:
-    - esong_code: 2465B6
-      song_name: ザ・アキラブルース
+    - esong_code: 102A23
+      song_name: ケロケロ
       content_type: ''
-  - song_name: さあさ、お立ち合い
+  - song_name: ケロケロ社長の歌
     song_alias:
-    esong_code: 2348B3
-    t_singer_master_id: '37138'
-    singer_name: 源 吾朗
+    esong_code: 1762B24
+    t_singer_master_id: '7208'
+    singer_name: 藤 みえこ(藤美詠子)
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: さあさおたちあい
-    singer_name_ruby: けんころう
+    song_name_ruby: けろけろしやちようの
+    singer_name_ruby: ふしみえこ
     song_variation:
-    - esong_code: 2348B3
-      song_name: さあさ、お立ち合い
+    - esong_code: 1762B24
+      song_name: ケロケロ社長の歌
       content_type: ''
-  - song_name: さあ冒険だ
+  - song_name: けろっこデメタン
     song_alias:
-    esong_code: 834B3
-    t_singer_master_id: '2658'
-    singer_name: 和田 アキ子
+    esong_code: 318A8
+    t_singer_master_id: '2122'
+    singer_name: 堀江 美都子
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ポンキッキーズ<番組名>
+    tie_up: けろっこデメタン<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: さあほうけんた
-    singer_name_ruby: わたあきこ
+    song_name_ruby: けろつこてめたん
+    singer_name_ruby: ほりえみつこ
     song_variation:
-    - esong_code: 834B3
-      song_name: さあ冒険だ
+    - esong_code: 318A8
+      song_name: けろっこデメタン
       content_type: ''
-  - song_name: さぁ みんなで
+  - song_name: ケロヨン音頭
     song_alias:
-    esong_code: 1103A2
-    t_singer_master_id: '5985'
-    singer_name: JUICE
+    esong_code: 397A4
+    t_singer_master_id: '18819'
+    singer_name: 森あき子&新井勢津朗&千種瞳&田上和枝&若草児童合唱団
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: おはよう!こどもショー<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: さあみんなて
-    singer_name_ruby: しゆす
+    song_name_ruby: けろよんおんと
+    singer_name_ruby: もりあきこあらいせつろう
     song_variation:
-    - esong_code: 1103A2
-      song_name: さぁ みんなで
+    - esong_code: 397A4
+      song_name: ケロヨン音頭
       content_type: ''
-  - song_name: Sign [オリジナルクリップ]
+  - song_name: ケロヨンソング
     song_alias:
-    esong_code: 1909A37
-    t_singer_master_id: '16403'
-    singer_name: 皆川 純子
+    esong_code: 1129B37
+    t_singer_master_id: '2134'
+    singer_name: ボニー・ジャックス
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: パセラ限定クリップ
-    song_name_ruby: さい
-    singer_name_ruby: みなかわしゆんこ
-    song_variation:
-    - esong_code: 1909A37
-      song_name: Sign [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 1909A37
-      song_name: Sign [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: 賽
-    song_alias:
-    esong_code: 1944B2
-    t_singer_master_id: '14862'
-    singer_name: Kagrra,(Kagrra)
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: おはよう!こどもショー<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: さい
-    singer_name_ruby: かくら
+    song_name_ruby: けろよんそんく
+    singer_name_ruby: ほにしやつくす
     song_variation:
-    - esong_code: 1944B2
-      song_name: 賽
-      content_type: ''
-  - song_name: Sign [オリジナルクリップ]
-    song_alias:
-    esong_code: 1909A37
-    t_singer_master_id: '16403'
-    singer_name: 皆川 純子
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    song_name_ruby: さい
-    singer_name_ruby: みなかわしゆんこ
-    song_variation:
-    - esong_code: 1909A37
-      song_name: Sign [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 1909A37
-      song_name: Sign [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: 最愛
-    song_alias:
-    esong_code: 121A9
-    t_singer_master_id: '510'
-    singer_name: 柏原 芳恵
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいあい
-    singer_name_ruby: かしわはらよしえ
-    song_variation:
-    - esong_code: 121A9
-      song_name: 最愛
-      content_type: ''
-  - song_name: さいあいあい
-    song_alias:
-    esong_code: 54A38
-    t_singer_master_id: '14985'
-    singer_name: ROSA LUXENBURG
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいあいあい
-    singer_name_ruby: ろさるくせんふるく
-    song_variation:
-    - esong_code: 54A38
-      song_name: さいあいあい
-      content_type: ''
-  - song_name: 最愛のひと 〜シングルバージョン〜
-    song_alias:
-    esong_code: 1392A3
-    t_singer_master_id: '10253'
-    singer_name: チェウニ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: さいあいのひとしんく
-    singer_name_ruby: ちえうに
-    song_variation:
-    - esong_code: 1392A3
-      song_name: 最愛のひと 〜シングルバージョン〜
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 最愛のひと 〜シングルバージョン〜(UGA)
-    song_alias:
-    esong_code: 5128A11
-    t_singer_master_id: '10253'
-    singer_name: チェウニ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいあいのひとしんく
-    singer_name_ruby: ちえうに
-    song_variation:
-    - esong_code: 5128A11
-      song_name: 最愛のひと 〜シングルバージョン〜(UGA)
-      content_type: ''
-  - song_name: 最愛のひと 〜シングルバージョン〜
-    song_alias:
-    esong_code: 2243A45
-    t_singer_master_id: '10253'
-    singer_name: チェウニ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: さいあいのひとしんく
-    singer_name_ruby: ちえうに
-    song_variation:
-    - esong_code: 2243A45
-      song_name: 最愛のひと 〜シングルバージョン〜
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 妻愛人
-    song_alias:
-    esong_code: 1637B42
-    t_singer_master_id: '27736'
-    singer_name: めぐ&ゆり
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいあいひと
-    singer_name_ruby: めくあんとゆり
-    song_variation:
-    - esong_code: 1637B42
-      song_name: 妻愛人
+    - esong_code: 1129B37
+      song_name: ケロヨンソング
       content_type: ''

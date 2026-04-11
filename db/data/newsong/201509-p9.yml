@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
   - song_name: オールナイトロング
     song_alias:
@@ -60,23 +60,6 @@ result:
       content_type: ''
   - song_name: 終わらない歌
     song_alias:
-    esong_code: 3492A46
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2015-09-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おわらないうた
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 3492A46
-      song_name: 終わらない歌
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 終わらない歌
-    song_alias:
     esong_code: 3499A34
     t_singer_master_id: '54252'
     singer_name: 清水 信之 with Best Friends
@@ -92,6 +75,23 @@ result:
     - esong_code: 3499A34
       song_name: 終わらない歌
       content_type: ''
+  - song_name: 終わらない歌
+    song_alias:
+    esong_code: 3492A46
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2015-09-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おわらないうた
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 3492A46
+      song_name: 終わらない歌
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 終わりなき物語
     song_alias:
     esong_code: 3508A34
@@ -100,7 +100,7 @@ result:
     singer_alias:
     available_date: '2015-09-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おわりなきものかた

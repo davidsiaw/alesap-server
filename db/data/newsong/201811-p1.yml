@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1182
-  all_max_cnt: 1336
-  all_country_cnt: 1182
+  max_cnt: 1168
+  all_max_cnt: 1322
+  all_country_cnt: 1168
   song:
   - song_name: あさがおの花
     song_alias:
@@ -83,7 +83,7 @@ result:
     singer_alias:
     available_date: '2018-11-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: レイトン ミステリー探偵社 〜カトリーのナゾトキファイル〜<番組名>
+    tie_up: レイトンシリーズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あしたもせかいはまわ
@@ -313,23 +313,6 @@ result:
     - esong_code: 4102A36
       song_name: Adonis
       content_type: ''
-  - song_name: Another colony
-    song_alias:
-    esong_code: 4091B14
-    t_singer_master_id: '50096'
-    singer_name: 'TRUE'
-    singer_alias:
-    available_date: '2018-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 転生したらスライムだった件<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなさころに
-    singer_name_ruby: とうる
-    song_variation:
-    - esong_code: 4091B14
-      song_name: Another colony
-      content_type: ''
   - song_name: Another colony (TV Size)
     song_alias:
     esong_code: 4095A9
@@ -346,6 +329,23 @@ result:
     song_variation:
     - esong_code: 4095A9
       song_name: Another colony (TV Size)
+      content_type: ''
+  - song_name: Another colony
+    song_alias:
+    esong_code: 4091B14
+    t_singer_master_id: '50096'
+    singer_name: 'TRUE'
+    singer_alias:
+    available_date: '2018-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 転生したらスライムだった件<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなさころに
+    singer_name_ruby: とうる
+    song_variation:
+    - esong_code: 4091B14
+      song_name: Another colony
       content_type: ''
   - song_name: another point
     song_alias:

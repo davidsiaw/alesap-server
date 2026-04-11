@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1628
-  all_max_cnt: 1827
-  all_country_cnt: 1628
+  max_cnt: 1617
+  all_max_cnt: 1816
+  all_country_cnt: 1617
   song:
-  - song_name: 女の海流
-    song_alias:
-    esong_code: 908A20
-    t_singer_master_id: '2014'
-    singer_name: 藤野 とし恵
-    singer_alias:
-    available_date: '2015-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おんなのかいりゆう
-    singer_name_ruby: ふしのとしえ
-    song_variation:
-    - esong_code: 908A20
-      song_name: 女の海流
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: おんなの桟橋
-    song_alias:
-    esong_code: 968A36
-    t_singer_master_id: '20265'
-    singer_name: 熊谷 ひろみ
-    singer_alias:
-    available_date: '2015-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのさんはし
-    singer_name_ruby: くまかいひろみ
-    song_variation:
-    - esong_code: 968A36
-      song_name: おんなの桟橋
-      content_type: ''
-  - song_name: 女の止まり木
-    song_alias:
-    esong_code: 983A10
-    t_singer_master_id: '5035'
-    singer_name: 秋山 涼子
-    singer_alias:
-    available_date: '2015-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: おんなのとまりき
-    singer_name_ruby: あきやまりようこ
-    song_variation:
-    - esong_code: 983A10
-      song_name: 女の止まり木
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 女のともし火
     song_alias:
     esong_code: 944B25
@@ -77,23 +26,6 @@ result:
       content_type: ''
   - song_name: 女の舟唄
     song_alias:
-    esong_code: 3269A19
-    t_singer_master_id: '1352'
-    singer_name: 田川 寿美
-    singer_alias:
-    available_date: '2015-03-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おんなのふなうた
-    singer_name_ruby: たかわとしみ
-    song_variation:
-    - esong_code: 3269A19
-      song_name: 女の舟唄
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 女の舟唄
-    song_alias:
     esong_code: 3408B15
     t_singer_master_id: '1352'
     singer_name: 田川 寿美
@@ -109,6 +41,23 @@ result:
     - esong_code: 3408B15
       song_name: 女の舟唄
       content_type: DAM生音
+  - song_name: 女の舟唄
+    song_alias:
+    esong_code: 3269A19
+    t_singer_master_id: '1352'
+    singer_name: 田川 寿美
+    singer_alias:
+    available_date: '2015-03-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おんなのふなうた
+    singer_name_ruby: たかわとしみ
+    song_variation:
+    - esong_code: 3269A19
+      song_name: 女の舟唄
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 女の御輿
     song_alias:
     esong_code: 900B29
@@ -417,21 +366,21 @@ result:
       content_type: ''
   - song_name: 風うた
     song_alias:
-    esong_code: 3269A46
+    esong_code: 3204B1
     t_singer_master_id: '920'
     singer_name: 坂本 冬美
     singer_alias:
-    available_date: '2015-03-24'
+    available_date: '2015-03-04'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type:
     song_name_ruby: かせうた
     singer_name_ruby: さかもとふゆみ
     song_variation:
-    - esong_code: 3269A46
+    - esong_code: 3204B1
       song_name: 風うた
-      content_type: DAM生音
+      content_type: ''
   - song_name: 風うた
     song_alias:
     esong_code: 3269A20
@@ -451,21 +400,21 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 風うた
     song_alias:
-    esong_code: 3204B1
+    esong_code: 3269A46
     t_singer_master_id: '920'
     singer_name: 坂本 冬美
     singer_alias:
-    available_date: '2015-03-04'
+    available_date: '2015-03-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM生音
     song_name_ruby: かせうた
     singer_name_ruby: さかもとふゆみ
     song_variation:
-    - esong_code: 3204B1
+    - esong_code: 3269A46
       song_name: 風うた
-      content_type: ''
+      content_type: DAM生音
   - song_name: 風うた
     song_alias:
     esong_code: 3204A49
@@ -517,3 +466,54 @@ result:
     - esong_code: 3403B17
       song_name: 風の想い出 〜La Memoire Perdue〜
       content_type: ''
+  - song_name: 風のブルース
+    song_alias:
+    esong_code: 915A6
+    t_singer_master_id: '52903'
+    singer_name: 井口 ひろみち
+    singer_alias:
+    available_date: '2015-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせのふるす
+    singer_name_ruby: いくちひろみち
+    song_variation:
+    - esong_code: 915A6
+      song_name: 風のブルース
+      content_type: ''
+  - song_name: 風の行方
+    song_alias:
+    esong_code: 912B10
+    t_singer_master_id: '34900'
+    singer_name: 木山 ゆうじ
+    singer_alias:
+    available_date: '2015-03-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせのゆくえ
+    singer_name_ruby: きやまゆうし
+    song_variation:
+    - esong_code: 912B10
+      song_name: 風の行方
+      content_type: ''
+  - song_name: 花葬 feat.初音ミク
+    song_alias:
+    esong_code: 3417A43
+    t_singer_master_id: '49653'
+    singer_name: なぎさ
+    singer_alias:
+    available_date: '2015-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: かそう
+    singer_name_ruby: なきさ
+    song_variation:
+    - esong_code: 3417A43
+      song_name: 花葬 feat.初音ミク
+      content_type: VOCALOID

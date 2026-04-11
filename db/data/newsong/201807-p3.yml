@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1452
-  all_max_cnt: 1626
-  all_country_cnt: 1452
+  max_cnt: 1445
+  all_max_cnt: 1619
+  all_country_cnt: 1445
   song:
-  - song_name: URCHIN PHANTOM
-    song_alias:
-    esong_code: 4032A32
-    t_singer_master_id: '53293'
-    singer_name: ENTH
-    singer_alias:
-    available_date: '2018-07-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あちんふあんとむ
-    singer_name_ruby: えんす
-    song_variation:
-    - esong_code: 4032A32
-      song_name: URCHIN PHANTOM
-      content_type: ''
   - song_name: あっちゅうま
     song_alias:
     esong_code: 4034A24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4023A17
       song_name: 雨のあとに
+      content_type: ''
+  - song_name: 雨の大阪 「名演ギター 斉藤 功」
+    song_alias:
+    esong_code: 4025B29
+    t_singer_master_id: '2270'
+    singer_name: 三門 忠司
+    singer_alias:
+    available_date: '2018-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめのおおさか
+    singer_name_ruby: みかとちゆうし
+    song_variation:
+    - esong_code: 4025B29
+      song_name: 雨の大阪 「名演ギター 斉藤 功」
       content_type: ''

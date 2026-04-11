@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 774
-  all_max_cnt: 820
-  all_country_cnt: 774
+  max_cnt: 765
+  all_max_cnt: 811
+  all_country_cnt: 765
   song:
-  - song_name: 祈り
-    song_alias:
-    esong_code: 4498B3
-    t_singer_master_id: '67869'
-    singer_name: Shinon Tomura
-    singer_alias:
-    available_date: '2021-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのり
-    singer_name_ruby: しのんとむら
-    song_variation:
-    - esong_code: 4498B3
-      song_name: 祈り
-      content_type: ''
-  - song_name: 今更だって僕は言うかな
-    song_alias:
-    esong_code: 4499A29
-    t_singer_master_id: '59065'
-    singer_name: Saucy Dog
-    singer_alias:
-    available_date: '2021-05-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: いまさらたつてほ
-    singer_name_ruby: さうしとつく
-    song_variation:
-    - esong_code: 4499A29
-      song_name: 今更だって僕は言うかな
-      content_type: DAM生音
   - song_name: Imaginary Line feat.flower
     song_alias:
     esong_code: 4501A13
@@ -517,3 +483,37 @@ result:
     - esong_code: 4503A19
       song_name: エライエライエライ! feat.音街ウナ、鏡音リン
       content_type: VOCALOID
+  - song_name: エンジェル feat.初音ミク
+    song_alias:
+    esong_code: 4497B18
+    t_singer_master_id: '67794'
+    singer_name: Glue
+    singer_alias:
+    available_date: '2021-05-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: えんしえる
+    singer_name_ruby: くる
+    song_variation:
+    - esong_code: 4497B18
+      song_name: エンジェル feat.初音ミク
+      content_type: VOCALOID
+  - song_name: Angel,Here We Come
+    song_alias:
+    esong_code: 4500A3
+    t_singer_master_id: '67889'
+    singer_name: ステレオガール
+    singer_alias:
+    available_date: '2021-05-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんしえるひあうい
+    singer_name_ruby: すてれおかる
+    song_variation:
+    - esong_code: 4500A3
+      song_name: Angel,Here We Come
+      content_type: ''

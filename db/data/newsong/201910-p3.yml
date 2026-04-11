@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1493
-  all_max_cnt: 1746
-  all_country_cnt: 1493
+  max_cnt: 1476
+  all_max_cnt: 1729
+  all_country_cnt: 1476
   song:
   - song_name: ある計画は今も密かに feat.初音ミク
     song_alias:
@@ -221,7 +221,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: あんのうんすかい
     singer_name_ruby: すすゆ
     song_variation:
@@ -241,7 +241,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: あんのうんすかい
     singer_name_ruby: すすゆ
     song_variation:
@@ -423,23 +423,6 @@ result:
       content_type: ''
   - song_name: イエスタデイ
     song_alias:
-    esong_code: 4260B46
-    t_singer_master_id: '53847'
-    singer_name: Official髭男dism
-    singer_alias:
-    available_date: '2019-10-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: HELLO WORLD<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いえすたてい
-    singer_name_ruby: おふいしやるひけたんていすむ
-    song_variation:
-    - esong_code: 4260B46
-      song_name: イエスタデイ
-      content_type: ''
-  - song_name: イエスタデイ
-    song_alias:
     esong_code: 4265B5
     t_singer_master_id: '53847'
     singer_name: Official髭男dism
@@ -472,6 +455,23 @@ result:
     - esong_code: 4273A26
       song_name: イエスタデイ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: イエスタデイ
+    song_alias:
+    esong_code: 4260B46
+    t_singer_master_id: '53847'
+    singer_name: Official髭男dism
+    singer_alias:
+    available_date: '2019-10-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: HELLO WORLD<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いえすたてい
+    singer_name_ruby: おふいしやるひけたんていすむ
+    song_variation:
+    - esong_code: 4260B46
+      song_name: イエスタデイ
+      content_type: ''
   - song_name: イエスマンイズデッド
     song_alias:
     esong_code: 4269A32
@@ -510,7 +510,7 @@ result:
     song_alias:
     esong_code: 4268A39
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2019-10-15'
     end_date: '2999-04-10 00:00:00'

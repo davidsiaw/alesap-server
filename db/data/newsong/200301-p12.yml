@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 662
-  all_max_cnt: 737
-  all_country_cnt: 662
+  max_cnt: 659
+  all_max_cnt: 734
+  all_country_cnt: 659
   song:
-  - song_name: 戦え！電人ザボーガー
-    song_alias:
-    esong_code: 284B18
-    t_singer_master_id: '1058'
-    singer_name: 子門 真人
-    singer_alias:
-    available_date: '2003-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 電人ザボーガー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たたかえてんしん
-    singer_name_ruby: しもんまさと
-    song_variation:
-    - esong_code: 284B18
-      song_name: 戦え！電人ザボーガー
-      content_type: ''
-  - song_name: 正しい兄弟愛
-    song_alias:
-    esong_code: 130B16
-    t_singer_master_id: '2867'
-    singer_name: 佐々木 望
-    singer_alias:
-    available_date: '2003-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ここはグリーンウッド<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たたしいきようた
-    singer_name_ruby: ささきのそむ
-    song_variation:
-    - esong_code: 130B16
-      song_name: 正しい兄弟愛
-      content_type: ''
   - song_name: タナトス
     song_alias:
     esong_code: 997A29
@@ -347,23 +313,6 @@ result:
     - esong_code: 57A19
       song_name: 罪なデマ
       content_type: ''
-  - song_name: DAY
-    song_alias:
-    esong_code: 62B40
-    t_singer_master_id: '15166'
-    singer_name: 3B LAB.☆S(3B LAB.☆)
-    singer_alias:
-    available_date: '2003-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てい
-    singer_name_ruby: すりひらほ
-    song_variation:
-    - esong_code: 62B40
-      song_name: DAY
-      content_type: ''
   - song_name: t
     song_alias:
     esong_code: 479B29
@@ -381,22 +330,22 @@ result:
     - esong_code: 479B29
       song_name: t
       content_type: ''
-  - song_name: tears
+  - song_name: DAY
     song_alias:
-    esong_code: 999A22
-    t_singer_master_id: '8577'
-    singer_name: Blue
+    esong_code: 62B40
+    t_singer_master_id: '15166'
+    singer_name: 3B LAB.☆S(3B LAB.☆)
     singer_alias:
-    available_date: '2003-01-01'
+    available_date: '2003-01-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: ていあす
-    singer_name_ruby: ふる
+    song_name_ruby: てい
+    singer_name_ruby: すりひらほ
     song_variation:
-    - esong_code: 999A22
-      song_name: tears
+    - esong_code: 62B40
+      song_name: DAY
       content_type: ''
   - song_name: TEARS
     song_alias:
@@ -414,6 +363,23 @@ result:
     song_variation:
     - esong_code: 182A7
       song_name: TEARS
+      content_type: ''
+  - song_name: tears
+    song_alias:
+    esong_code: 999A22
+    t_singer_master_id: '8577'
+    singer_name: Blue
+    singer_alias:
+    available_date: '2003-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていあす
+    singer_name_ruby: ふる
+    song_variation:
+    - esong_code: 999A22
+      song_name: tears
       content_type: ''
   - song_name: Day after day
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2B23
       song_name: Deep Black
+      content_type: ''
+  - song_name: DEJA-VU
+    song_alias:
+    esong_code: 172A4
+    t_singer_master_id: '11153'
+    singer_name: 松田 優作
+    singer_alias:
+    available_date: '2003-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てしやふ
+    singer_name_ruby: まつたゆうさく
+    song_variation:
+    - esong_code: 172A4
+      song_name: DEJA-VU
+      content_type: ''
+  - song_name: Deja Vu
+    song_alias:
+    esong_code: 166B8
+    t_singer_master_id: '15059'
+    singer_name: 仁絵
+    singer_alias:
+    available_date: '2003-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てしやふ
+    singer_name_ruby: ひとえ
+    song_variation:
+    - esong_code: 166B8
+      song_name: Deja Vu
       content_type: ''

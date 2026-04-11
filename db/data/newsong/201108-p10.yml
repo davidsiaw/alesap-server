@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
   - song_name: 神様ありがとう
     song_alias:
@@ -160,23 +160,6 @@ result:
     - esong_code: 2656A35
       song_name: Karma
       content_type: ''
-  - song_name: "「カルメン」 組曲 第3幕への間奏曲"
-    song_alias:
-    esong_code: 2655B13
-    t_singer_master_id: '12685'
-    singer_name: BGM
-    singer_alias:
-    available_date: '2011-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かるめんくみきよくた
-    singer_name_ruby: ひしえむ
-    song_variation:
-    - esong_code: 2655B13
-      song_name: "「カルメン」 組曲 第3幕への間奏曲"
-      content_type: ''
   - song_name: "「カルメン」 組曲 第1幕への前奏曲"
     song_alias:
     esong_code: 2655B12
@@ -194,22 +177,22 @@ result:
     - esong_code: 2655B12
       song_name: "「カルメン」 組曲 第1幕への前奏曲"
       content_type: ''
-  - song_name: 枯れない花
+  - song_name: "「カルメン」 組曲 第3幕への間奏曲"
     song_alias:
-    esong_code: 2657A32
-    t_singer_master_id: '22234'
-    singer_name: 秋元 順子
+    esong_code: 2655B13
+    t_singer_master_id: '12685'
+    singer_name: BGM
     singer_alias:
-    available_date: '2011-08-24'
+    available_date: '2011-08-09'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: かれないはな
-    singer_name_ruby: あきもとしゆんこ
+    song_name_ruby: かるめんくみきよくた
+    singer_name_ruby: ひしえむ
     song_variation:
-    - esong_code: 2657A32
-      song_name: 枯れない花
+    - esong_code: 2655B13
+      song_name: "「カルメン」 組曲 第3幕への間奏曲"
       content_type: ''
   - song_name: 枯れない花
     song_alias:
@@ -228,6 +211,23 @@ result:
     - esong_code: 2657B15
       song_name: 枯れない花
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 枯れない花
+    song_alias:
+    esong_code: 2657A32
+    t_singer_master_id: '22234'
+    singer_name: 秋元 順子
+    singer_alias:
+    available_date: '2011-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かれないはな
+    singer_name_ruby: あきもとしゆんこ
+    song_variation:
+    - esong_code: 2657A32
+      song_name: 枯れない花
+      content_type: ''
   - song_name: 変わりたいと、強く望め。それ以外は、いらない。
     song_alias:
     esong_code: 2657A44
@@ -434,23 +434,6 @@ result:
       content_type: ''
   - song_name: キズナ
     song_alias:
-    esong_code: 2653A49
-    t_singer_master_id: '38380'
-    singer_name: ゆまち&愛奈
-    singer_alias:
-    available_date: '2011-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: ゆまちあんとあいな
-    song_variation:
-    - esong_code: 2653A49
-      song_name: キズナ
-      content_type: ''
-  - song_name: キズナ
-    song_alias:
     esong_code: 2658B41
     t_singer_master_id: '41166'
     singer_name: OUTER-TRIBE
@@ -464,6 +447,23 @@ result:
     singer_name_ruby: あうたとらいふ
     song_variation:
     - esong_code: 2658B41
+      song_name: キズナ
+      content_type: ''
+  - song_name: キズナ
+    song_alias:
+    esong_code: 2653A49
+    t_singer_master_id: '38380'
+    singer_name: ゆまち&愛奈
+    singer_alias:
+    available_date: '2011-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: ゆまちあんとあいな
+    song_variation:
+    - esong_code: 2653A49
       song_name: キズナ
       content_type: ''
   - song_name: キズナ

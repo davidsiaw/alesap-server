@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
-  - song_name: 運命(さだめ)
-    song_alias:
-    esong_code: 1772B7
-    t_singer_master_id: '14521'
-    singer_name: 滝沢 秀明(from タッキー&翼)
-    singer_alias:
-    available_date: '2007-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さため
-    singer_name_ruby: たきさわひてあき
-    song_variation:
-    - esong_code: 1772B7
-      song_name: 運命(さだめ)
-      content_type: ''
   - song_name: さつまの人
     song_alias:
     esong_code: 1456B24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1770A14
       song_name: G・M・J・P
+      content_type: ''
+  - song_name: ジェラシー
+    song_alias:
+    esong_code: 523A14
+    t_singer_master_id: '2727'
+    singer_name: シャ乱Q
+    singer_alias:
+    available_date: '2007-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しえらし
+    singer_name_ruby: しやらんきゆ
+    song_variation:
+    - esong_code: 523A14
+      song_name: ジェラシー
       content_type: ''

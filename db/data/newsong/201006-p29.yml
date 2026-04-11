@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
   - song_name: Plug in to the Socket
     song_alias:
@@ -483,23 +483,6 @@ result:
     - esong_code: 2561B42
       song_name: Hey Boy
       content_type: ''
-  - song_name: HEY YOU!
-    song_alias:
-    esong_code: 2558A12
-    t_singer_master_id: '24180'
-    singer_name: 土屋 アンナ
-    singer_alias:
-    available_date: '2010-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へいゆ
-    singer_name_ruby: つちやあんな
-    song_variation:
-    - esong_code: 2558A12
-      song_name: HEY YOU!
-      content_type: ''
   - song_name: HEY YOU・・・
     song_alias:
     esong_code: 2552B7
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2552B7
       song_name: HEY YOU・・・
+      content_type: ''
+  - song_name: HEY YOU!
+    song_alias:
+    esong_code: 2558A12
+    t_singer_master_id: '24180'
+    singer_name: 土屋 アンナ
+    singer_alias:
+    available_date: '2010-06-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へいゆ
+    singer_name_ruby: つちやあんな
+    song_variation:
+    - esong_code: 2558A12
+      song_name: HEY YOU!
       content_type: ''

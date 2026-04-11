@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1252
-  all_max_cnt: 1433
-  all_country_cnt: 1252
+  max_cnt: 1245
+  all_max_cnt: 1426
+  all_country_cnt: 1245
   song:
-  - song_name: 知床岬
-    song_alias:
-    esong_code: 3862A15
-    t_singer_master_id: '25825'
-    singer_name: 入山 アキ子
-    singer_alias:
-    available_date: '2017-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しれとこみさき
-    singer_name_ruby: いりやまあきこ
-    song_variation:
-    - esong_code: 3862A15
-      song_name: 知床岬
-      content_type: ''
-  - song_name: 白い十代 (2017ver.)
-    song_alias:
-    esong_code: 3866A26
-    t_singer_master_id: '53555'
-    singer_name: Koochewsen(クウチュウ戦)
-    singer_alias:
-    available_date: '2017-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しろいしゆうたい
-    singer_name_ruby: くうちゆうせん
-    song_variation:
-    - esong_code: 3866A26
-      song_name: 白い十代 (2017ver.)
-      content_type: ''
-  - song_name: 白い花
-    song_alias:
-    esong_code: 3864A15
-    t_singer_master_id: '59517'
-    singer_name: 村野 武範
-    singer_alias:
-    available_date: '2017-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しろいはな
-    singer_name_ruby: むらのたけのり
-    song_variation:
-    - esong_code: 3864A15
-      song_name: 白い花
-      content_type: ''
   - song_name: Singin' in the Rain
     song_alias:
     esong_code: 3856B45
@@ -111,23 +60,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: 新庄恋しや
     song_alias:
-    esong_code: 3855A42
-    t_singer_master_id: '2296'
-    singer_name: 水田 竜子
-    singer_alias:
-    available_date: '2017-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: しんしようこいしや
-    singer_name_ruby: みすたりゆうこ
-    song_variation:
-    - esong_code: 3855A42
-      song_name: 新庄恋しや
-      content_type: JOY生演奏
-  - song_name: 新庄恋しや
-    song_alias:
     esong_code: 3593A6
     t_singer_master_id: '2296'
     singer_name: 水田 竜子
@@ -145,21 +77,21 @@ result:
       content_type: ''
   - song_name: 新庄恋しや
     song_alias:
-    esong_code: 3858B49
+    esong_code: 3855A42
     t_singer_master_id: '2296'
     singer_name: 水田 竜子
     singer_alias:
-    available_date: '2017-08-29'
+    available_date: '2017-08-09'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: JOY生演奏
     song_name_ruby: しんしようこいしや
     singer_name_ruby: みすたりゆうこ
     song_variation:
-    - esong_code: 3858B49
+    - esong_code: 3855A42
       song_name: 新庄恋しや
-      content_type: DAM生音
+      content_type: JOY生演奏
   - song_name: 新庄恋しや
     song_alias:
     esong_code: 3593A4
@@ -230,23 +162,6 @@ result:
       content_type: ''
   - song_name: 人生讃歌 〜渡る世間は鬼ばかり〜
     song_alias:
-    esong_code: 3865B40
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2017-08-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: しんせいさんかわた
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 3865B40
-      song_name: 人生讃歌 〜渡る世間は鬼ばかり〜
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 人生讃歌 〜渡る世間は鬼ばかり〜
-    song_alias:
     esong_code: 3593A17
     t_singer_master_id: '1518'
     singer_name: 天童 よしみ
@@ -262,6 +177,23 @@ result:
     - esong_code: 3593A17
       song_name: 人生讃歌 〜渡る世間は鬼ばかり〜
       content_type: ''
+  - song_name: 人生讃歌 〜渡る世間は鬼ばかり〜
+    song_alias:
+    esong_code: 3865B40
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2017-08-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: しんせいさんかわた
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 3865B40
+      song_name: 人生讃歌 〜渡る世間は鬼ばかり〜
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 人生峠
     song_alias:
     esong_code: 3863B4
@@ -517,3 +449,71 @@ result:
     - esong_code: 3861B32
       song_name: Squall
       content_type: ''
+  - song_name: す、好きなんかじゃない!
+    song_alias:
+    esong_code: 3855B30
+    t_singer_master_id: '58032'
+    singer_name: 伊藤 彩沙
+    singer_alias:
+    available_date: '2017-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BanG Dream!(アニメ版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すすきなんかしやな
+    singer_name_ruby: いとうあやさ
+    song_variation:
+    - esong_code: 3855B30
+      song_name: す、好きなんかじゃない!
+      content_type: ''
+  - song_name: ススメRunner!!
+    song_alias:
+    esong_code: 3865B37
+    t_singer_master_id: '56598'
+    singer_name: fourfolium
+    singer_alias:
+    available_date: '2017-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: NEW GAME!!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すすめらんな
+    singer_name_ruby: ふおふおりうむ
+    song_variation:
+    - esong_code: 3865B37
+      song_name: ススメRunner!!
+      content_type: ''
+  - song_name: 鈴蘭灯
+    song_alias:
+    esong_code: 3862B39
+    t_singer_master_id: '36373'
+    singer_name: 山本 ゆうじ
+    singer_alias:
+    available_date: '2017-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すすらんとう
+    singer_name_ruby: やまもとゆうし
+    song_variation:
+    - esong_code: 3862B39
+      song_name: 鈴蘭灯
+      content_type: ''
+  - song_name: すずらんの道
+    song_alias:
+    esong_code: 3858A4
+    t_singer_master_id: '10166'
+    singer_name: 大沢 桃子
+    singer_alias:
+    available_date: '2017-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: すすらんのみち
+    singer_name_ruby: おおさわももこ
+    song_variation:
+    - esong_code: 3858A4
+      song_name: すずらんの道
+      content_type: DAMｸﾘｯﾌﾟ生音

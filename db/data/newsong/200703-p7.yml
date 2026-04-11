@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
-  - song_name: 硝子のアルバム
-    song_alias:
-    esong_code: 1752A46
-    t_singer_master_id: '21772'
-    singer_name: KISAKI PROJECT feat.樹威
-    singer_alias:
-    available_date: '2007-03-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: からすのあるはむ
-    singer_name_ruby: きさきふろしえくとふいとしゆい
-    song_variation:
-    - esong_code: 1752A46
-      song_name: 硝子のアルバム
-      content_type: ''
   - song_name: カラフルタクシー
     song_alias:
     esong_code: 1756B15
@@ -128,23 +111,6 @@ result:
       content_type: ''
   - song_name: き・ず・な
     song_alias:
-    esong_code: 1747B49
-    t_singer_master_id: '813'
-    singer_name: 香西 かおり
-    singer_alias:
-    available_date: '2007-03-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: こうさいかおり
-    song_variation:
-    - esong_code: 1747B49
-      song_name: き・ず・な
-      content_type: ''
-  - song_name: き・ず・な
-    song_alias:
     esong_code: 1749B4
     t_singer_master_id: '813'
     singer_name: 香西 かおり
@@ -160,6 +126,23 @@ result:
     - esong_code: 1749B4
       song_name: き・ず・な
       content_type: DAM生音
+  - song_name: き・ず・な
+    song_alias:
+    esong_code: 1747B49
+    t_singer_master_id: '813'
+    singer_name: 香西 かおり
+    singer_alias:
+    available_date: '2007-03-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: こうさいかおり
+    song_variation:
+    - esong_code: 1747B49
+      song_name: き・ず・な
+      content_type: ''
   - song_name: 北の国のダイヤモンド
     song_alias:
     esong_code: 1743A26
@@ -321,7 +304,7 @@ result:
     singer_alias:
     available_date: '2007-03-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦3 〜巴里は燃えているか〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きみしのふうた
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1743B20
       song_name: キャンディ・ライン
+      content_type: ''
+  - song_name: Can't stop believing
+    song_alias:
+    esong_code: 1743B43
+    t_singer_master_id: '12664'
+    singer_name: TETSUYA(L'Arc〜en〜Ciel)
+    singer_alias:
+    available_date: '2007-03-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやんとすとつふひ
+    singer_name_ruby: てつや
+    song_variation:
+    - esong_code: 1743B43
+      song_name: Can't stop believing
       content_type: ''

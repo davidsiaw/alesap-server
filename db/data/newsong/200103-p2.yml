@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 286
-  all_max_cnt: 313
-  all_country_cnt: 286
+  max_cnt: 284
+  all_max_cnt: 311
+  all_country_cnt: 284
   song:
   - song_name: キボウ
     song_alias:
@@ -415,23 +415,6 @@ result:
     - esong_code: 542A35
       song_name: 声
       content_type: ''
-  - song_name: 告白の場所
-    song_alias:
-    esong_code: 523B39
-    t_singer_master_id: '2870'
-    singer_name: 緒方 恵美
-    singer_alias:
-    available_date: '2001-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こくはくのはしよ
-    singer_name_ruby: おかためくみ
-    song_variation:
-    - esong_code: 523B39
-      song_name: 告白の場所
-      content_type: ''
   - song_name: 心のフェロモン
     song_alias:
     esong_code: 524B27
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 523B32
       song_name: Go-Round
+      content_type: ''
+  - song_name: 桜
+    song_alias:
+    esong_code: 525B32
+    t_singer_master_id: '8356'
+    singer_name: 堀江 由衣
+    singer_alias:
+    available_date: '2001-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくら
+    singer_name_ruby: ほりえゆい
+    song_variation:
+    - esong_code: 525B32
+      song_name: 桜
       content_type: ''

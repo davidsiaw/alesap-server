@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1628
-  all_max_cnt: 1827
-  all_country_cnt: 1628
+  max_cnt: 1617
+  all_max_cnt: 1816
+  all_country_cnt: 1617
   song:
-  - song_name: L-エル-
-    song_alias:
-    esong_code: 3408B33
-    t_singer_master_id: '30291'
-    singer_name: Acid Black Cherry
-    singer_alias:
-    available_date: '2015-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: える
-    singer_name_ruby: あしつとふらつくちえり
-    song_variation:
-    - esong_code: 3408B33
-      song_name: L-エル-
-      content_type: ''
-  - song_name: YELL
-    song_alias:
-    esong_code: 3417A21
-    t_singer_master_id: '53099'
-    singer_name: ORANGE PORT
-    singer_alias:
-    available_date: '2015-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: える
-    singer_name_ruby: おれんしほと
-    song_variation:
-    - esong_code: 3417A21
-      song_name: YELL
-      content_type: ''
-  - song_name: Elderflower Cordial
-    song_alias:
-    esong_code: 3402B48
-    t_singer_master_id: '2179'
-    singer_name: 槇原 敬之
-    singer_alias:
-    available_date: '2015-03-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えるたふらわこ
-    singer_name_ruby: まきはらのりゆき
-    song_variation:
-    - esong_code: 3402B48
-      song_name: Elderflower Cordial
-      content_type: ''
   - song_name: electric irony
     song_alias:
     esong_code: 3413A15
@@ -247,23 +196,6 @@ result:
       content_type: ''
   - song_name: 奥の細道
     song_alias:
-    esong_code: 3284B30
-    t_singer_master_id: '97'
-    singer_name: 渥美 二郎
-    singer_alias:
-    available_date: '2015-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: おくのほそみち
-    singer_name_ruby: あつみしろう
-    song_variation:
-    - esong_code: 3284B30
-      song_name: 奥の細道
-      content_type: JOY生演奏
-  - song_name: 奥の細道
-    song_alias:
     esong_code: 3215A19
     t_singer_master_id: '97'
     singer_name: 渥美 二郎
@@ -279,6 +211,23 @@ result:
     - esong_code: 3215A19
       song_name: 奥の細道
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 奥の細道
+    song_alias:
+    esong_code: 3284B30
+    t_singer_master_id: '97'
+    singer_name: 渥美 二郎
+    singer_alias:
+    available_date: '2015-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: おくのほそみち
+    singer_name_ruby: あつみしろう
+    song_variation:
+    - esong_code: 3284B30
+      song_name: 奥の細道
+      content_type: JOY生演奏
   - song_name: 奥の細道
     song_alias:
     esong_code: 3298A33
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 902B37
       song_name: 男のしぐれ
+      content_type: ''
+  - song_name: 男の花道 〜玄碩と歌右衛門〜
+    song_alias:
+    esong_code: 883A33
+    t_singer_master_id: '8742'
+    singer_name: 琴 けい子
+    singer_alias:
+    available_date: '2015-03-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのはなみちけ
+    singer_name_ruby: ことけいこ
+    song_variation:
+    - esong_code: 883A33
+      song_name: 男の花道 〜玄碩と歌右衛門〜
+      content_type: ''
+  - song_name: 男の道
+    song_alias:
+    esong_code: 868A24
+    t_singer_master_id: '53107'
+    singer_name: 元木 道夫
+    singer_alias:
+    available_date: '2015-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのみち
+    singer_name_ruby: もときみちお
+    song_variation:
+    - esong_code: 868A24
+      song_name: 男の道
+      content_type: ''
+  - song_name: 大人の片想い。
+    song_alias:
+    esong_code: 3411B29
+    t_singer_master_id: '53010'
+    singer_name: 吉沢 明歩
+    singer_alias:
+    available_date: '2015-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとなのかたおもい
+    singer_name_ruby: よしさわあきほ
+    song_variation:
+    - esong_code: 3411B29
+      song_name: 大人の片想い。
       content_type: ''

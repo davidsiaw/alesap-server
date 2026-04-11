@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1318
-  all_max_cnt: 1435
-  all_country_cnt: 1318
+  max_cnt: 1313
+  all_max_cnt: 1430
+  all_country_cnt: 1313
   song:
   - song_name: あらはちょちんちょちん
     song_alias:
@@ -366,23 +366,6 @@ result:
       content_type: ''
   - song_name: 生きてる生きてく
     song_alias:
-    esong_code: 2777B45
-    t_singer_master_id: '1993'
-    singer_name: 福山 雅治
-    singer_alias:
-    available_date: '2012-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ドラえもん(劇場版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いきてるいきてく
-    singer_name_ruby: ふくやままさはる
-    song_variation:
-    - esong_code: 2777B45
-      song_name: 生きてる生きてく
-      content_type: ''
-  - song_name: 生きてる生きてく
-    song_alias:
     esong_code: 2778A8
     t_singer_master_id: '1993'
     singer_name: 福山 雅治
@@ -398,6 +381,23 @@ result:
     - esong_code: 2778A8
       song_name: 生きてる生きてく
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 生きてる生きてく
+    song_alias:
+    esong_code: 2777B45
+    t_singer_master_id: '1993'
+    singer_name: 福山 雅治
+    singer_alias:
+    available_date: '2012-03-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ドラえもん(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いきてるいきてく
+    singer_name_ruby: ふくやままさはる
+    song_variation:
+    - esong_code: 2777B45
+      song_name: 生きてる生きてく
+      content_type: ''
   - song_name: 生きよう
     song_alias:
     esong_code: 2586B3

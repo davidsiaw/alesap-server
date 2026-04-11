@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: Magenta Another Sky
-    song_alias:
-    esong_code: 2818B44
-    t_singer_master_id: '33930'
-    singer_name: 原田 ひとみ
-    singer_alias:
-    available_date: '2012-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アルカナ・ファミリア(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ましえんたあなさ
-    singer_name_ruby: はらたひとみ
-    song_variation:
-    - esong_code: 2818B44
-      song_name: Magenta Another Sky
-      content_type: ''
-  - song_name: MAGIC
-    song_alias:
-    esong_code: 2814A36
-    t_singer_master_id: '7261'
-    singer_name: SHOW
-    singer_alias:
-    available_date: '2012-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ましつく
-    singer_name_ruby: しよう
-    song_variation:
-    - esong_code: 2814A36
-      song_name: MAGIC
-      content_type: ''
-  - song_name: Magic
-    song_alias:
-    esong_code: 2820B40
-    t_singer_master_id: '41386'
-    singer_name: Heavenstamp
-    singer_alias:
-    available_date: '2012-07-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ましつく
-    singer_name_ruby: へふんすたんふ
-    song_variation:
-    - esong_code: 2820B40
-      song_name: Magic
-      content_type: ''
   - song_name: マジメになったら涙が出るぜ
     song_alias:
     esong_code: 2820A7
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2824A16
       song_name: 美空に続く光 featuring.天乙准花
+      content_type: ''
+  - song_name: 道草 feat.初音ミク
+    song_alias:
+    esong_code: 2811B6
+    t_singer_master_id: '45296'
+    singer_name: Wato
+    singer_alias:
+    available_date: '2012-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: みちくさ
+    singer_name_ruby: わと
+    song_variation:
+    - esong_code: 2811B6
+      song_name: 道草 feat.初音ミク
+      content_type: VOCALOID
+  - song_name: みちのく風酒場
+    song_alias:
+    esong_code: 2823B34
+    t_singer_master_id: '1449'
+    singer_name: 千葉 一夫
+    singer_alias:
+    available_date: '2012-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: みちのくかせさかは
+    singer_name_ruby: ちはかすお
+    song_variation:
+    - esong_code: 2823B34
+      song_name: みちのく風酒場
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: みちのく風酒場
+    song_alias:
+    esong_code: 2824B8
+    t_singer_master_id: '1449'
+    singer_name: 千葉 一夫
+    singer_alias:
+    available_date: '2012-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みちのくかせさかは
+    singer_name_ruby: ちはかすお
+    song_variation:
+    - esong_code: 2824B8
+      song_name: みちのく風酒場
       content_type: ''

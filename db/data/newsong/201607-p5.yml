@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1509
-  all_max_cnt: 1659
-  all_country_cnt: 1509
+  max_cnt: 1504
+  all_max_cnt: 1654
+  all_country_cnt: 1504
   song:
   - song_name: INAZUMA
     song_alias:
@@ -296,23 +296,6 @@ result:
     - esong_code: 3655A47
       song_name: YING YANG
       content_type: ''
-  - song_name: We are I★CHU! (POP'N STAR ver.)
-    song_alias:
-    esong_code: 3658B35
-    t_singer_master_id: '54776'
-    singer_name: POP'N STAR
-    singer_alias:
-    available_date: '2016-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイ★チュウ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういああいちゆう
-    singer_name_ruby: ほつふんすた
-    song_variation:
-    - esong_code: 3658B35
-      song_name: We are I★CHU! (POP'N STAR ver.)
-      content_type: ''
   - song_name: We are I★CHU! (F∞F ver.)
     song_alias:
     esong_code: 3658B33
@@ -329,6 +312,23 @@ result:
     song_variation:
     - esong_code: 3658B33
       song_name: We are I★CHU! (F∞F ver.)
+      content_type: ''
+  - song_name: We are I★CHU! (POP'N STAR ver.)
+    song_alias:
+    esong_code: 3658B35
+    t_singer_master_id: '54776'
+    singer_name: POP'N STAR
+    singer_alias:
+    available_date: '2016-07-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイ★チュウ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういああいちゆう
+    singer_name_ruby: ほつふんすた
+    song_variation:
+    - esong_code: 3658B35
+      song_name: We are I★CHU! (POP'N STAR ver.)
       content_type: ''
   - song_name: WE ARE GO
     song_alias:
@@ -423,7 +423,7 @@ result:
     singer_alias:
     available_date: '2016-07-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ アスタリア 〜結晶の大地と導きの光〜<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ういひろんく

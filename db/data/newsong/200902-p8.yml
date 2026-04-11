@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
   - song_name: 傷だらけのローラ
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 2253B12
       song_name: キズナ
       content_type: ''
-  - song_name: 絆
-    song_alias:
-    esong_code: 2251A2
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2009-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 2251A2
-      song_name: 絆
-      content_type: ''
   - song_name: キスを頂戴
     song_alias:
     esong_code: 2213B10
@@ -98,7 +81,7 @@ result:
     t_singer_master_id: '7410'
     singer_name: 奈良崎 正明
     singer_alias:
-    available_date: '2009-02-17'
+    available_date: '2009-02-18'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -347,6 +330,23 @@ result:
     - esong_code: 2206B5
       song_name: Catch
       content_type: ''
+  - song_name: CATCH THE RAINBOW (SAKOSHIN 808 MIX)
+    song_alias:
+    esong_code: 2212A15
+    t_singer_master_id: '8452'
+    singer_name: MISIA
+    singer_alias:
+    available_date: '2009-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやつちされいんほ
+    singer_name_ruby: みしや
+    song_variation:
+    - esong_code: 2212A15
+      song_name: CATCH THE RAINBOW (SAKOSHIN 808 MIX)
+      content_type: ''
   - song_name: CATCH THE RAINBOW (GOMI'S OLD SCHOOL REMIX)
     song_alias:
     esong_code: 2212A14
@@ -380,23 +380,6 @@ result:
     song_variation:
     - esong_code: 2212A16
       song_name: CATCH THE RAINBOW (THE LOWBROWS"TURN UP THE BASS")
-      content_type: ''
-  - song_name: CATCH THE RAINBOW (SAKOSHIN 808 MIX)
-    song_alias:
-    esong_code: 2212A15
-    t_singer_master_id: '8452'
-    singer_name: MISIA
-    singer_alias:
-    available_date: '2009-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやつちされいんほ
-    singer_name_ruby: みしや
-    song_variation:
-    - esong_code: 2212A15
-      song_name: CATCH THE RAINBOW (SAKOSHIN 808 MIX)
       content_type: ''
   - song_name: Can We Fall In Love (全英語詞)
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2253A39
       song_name: キョーコとタカシ
+      content_type: ''
+  - song_name: キラキラ
+    song_alias:
+    esong_code: 2200B6
+    t_singer_master_id: '26345'
+    singer_name: ストロボ
+    singer_alias:
+    available_date: '2009-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きらきら
+    singer_name_ruby: すとろほ
+    song_variation:
+    - esong_code: 2200B6
+      song_name: キラキラ
       content_type: ''

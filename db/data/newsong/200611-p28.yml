@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 891
-  all_max_cnt: 961
-  all_country_cnt: 891
+  max_cnt: 888
+  all_max_cnt: 956
+  all_country_cnt: 888
   song:
-  - song_name: Love into my eyes
-    song_alias:
-    esong_code: 1675A23
-    t_singer_master_id: '28331'
-    singer_name: ROUTE405
-    singer_alias:
-    available_date: '2006-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふいんとうまいあ
-    singer_name_ruby: るとよんまるこ
-    song_variation:
-    - esong_code: 1675A23
-      song_name: Love into my eyes
-      content_type: ''
-  - song_name: Love The One You're With
-    song_alias:
-    esong_code: 1679B48
-    t_singer_master_id: '26324'
-    singer_name: SUEMITSU&THE SUEMITH
-    singer_alias:
-    available_date: '2006-11-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふさわんゆあ
-    singer_name_ruby: すえみつあんとさすえみす
-    song_variation:
-    - esong_code: 1679B48
-      song_name: Love The One You're With
-      content_type: ''
-  - song_name: Love Song
-    song_alias:
-    esong_code: 1661B7
-    t_singer_master_id: '19228'
-    singer_name: 石川 清貴
-    singer_alias:
-    available_date: '2006-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふそんく
-    singer_name_ruby: いしかわきよたか
-    song_variation:
-    - esong_code: 1661B7
-      song_name: Love Song
-      content_type: ''
   - song_name: Love Dub
     song_alias:
     esong_code: 1668B47
@@ -168,7 +117,7 @@ result:
     singer_alias:
     available_date: '2006-11-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・ザ・テンペスト<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: らふりきやつつあ
@@ -296,6 +245,23 @@ result:
     - esong_code: 1672A47
       song_name: リフレイン
       content_type: ''
+  - song_name: り・ぼん
+    song_alias:
+    esong_code: 1667A49
+    t_singer_master_id: '6120'
+    singer_name: My Little Lover
+    singer_alias:
+    available_date: '2006-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りほん
+    singer_name_ruby: まいりとるらは
+    song_variation:
+    - esong_code: 1667A49
+      song_name: り・ぼん
+      content_type: ''
   - song_name: REBORN
     song_alias:
     esong_code: 1668A21
@@ -312,23 +278,6 @@ result:
     song_variation:
     - esong_code: 1668A21
       song_name: REBORN
-      content_type: ''
-  - song_name: り・ぼん
-    song_alias:
-    esong_code: 1667A49
-    t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
-    singer_alias:
-    available_date: '2006-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: りほん
-    singer_name_ruby: まいりとるらは
-    song_variation:
-    - esong_code: 1667A49
-      song_name: り・ぼん
       content_type: ''
   - song_name: リミット
     song_alias:
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 1687B2
       song_name: RAIN (GLAY VERSION)
+      content_type: ''
+  - song_name: れっつアプリコット体操
+    song_alias:
+    esong_code: 1679B6
+    t_singer_master_id: '27072'
+    singer_name: 稲村 優奈
+    singer_alias:
+    available_date: '2006-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ギャラクシーエンジェる〜ん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: れつつあふりこつと
+    singer_name_ruby: いなむらゆうな
+    song_variation:
+    - esong_code: 1679B6
+      song_name: れっつアプリコット体操
+      content_type: ''
+  - song_name: Let's start from here (original)(全英語詞)
+    song_alias:
+    esong_code: 1680A17
+    t_singer_master_id: '23809'
+    singer_name: mink
+    singer_alias:
+    available_date: '2006-11-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: れつつすたふろむひ
+    singer_name_ruby: みんく
+    song_variation:
+    - esong_code: 1680A17
+      song_name: Let's start from here (original)(全英語詞)
+      content_type: ''
+  - song_name: Ready Go!
+    song_alias:
+    esong_code: 1663B32
+    t_singer_master_id: '18395'
+    singer_name: WaT
+    singer_alias:
+    available_date: '2006-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: れていこ
+    singer_name_ruby: わつと
+    song_variation:
+    - esong_code: 1663B32
+      song_name: Ready Go!
       content_type: ''

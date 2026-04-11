@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1236
-  all_max_cnt: 1361
-  all_country_cnt: 1236
+  max_cnt: 1230
+  all_max_cnt: 1355
+  all_country_cnt: 1230
   song:
-  - song_name: 津和野ひとり
-    song_alias:
-    esong_code: 2099B17
-    t_singer_master_id: '22230'
-    singer_name: 藤村 圭
-    singer_alias:
-    available_date: '2016-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つわのひとり
-    singer_name_ruby: ふしむらけい
-    song_variation:
-    - esong_code: 2099B17
-      song_name: 津和野ひとり
-      content_type: ''
-  - song_name: Dearest
-    song_alias:
-    esong_code: 3598A11
-    t_singer_master_id: '28928'
-    singer_name: Sadie
-    singer_alias:
-    available_date: '2016-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていあれすと
-    singer_name_ruby: さてい
-    song_variation:
-    - esong_code: 3598A11
-      song_name: Dearest
-      content_type: ''
-  - song_name: decent black
-    song_alias:
-    esong_code: 3588B14
-    t_singer_master_id: '23608'
-    singer_name: 水橋 かおり
-    singer_alias:
-    available_date: '2016-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: "〈物語〉シリーズ<番組名>"
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていせんとふらつ
-    singer_name_ruby: みすはしかおり
-    song_variation:
-    - esong_code: 3588B14
-      song_name: decent black
-      content_type: ''
   - song_name: D×D×D
     song_alias:
     esong_code: 3588B38
@@ -313,23 +262,6 @@ result:
     - esong_code: 3591B22
       song_name: てんてる☆リング
       content_type: ''
-  - song_name: 24-7
-    song_alias:
-    esong_code: 3588B29
-    t_singer_master_id: '34658'
-    singer_name: coldrain
-    singer_alias:
-    available_date: '2016-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうえんていふお
-    singer_name_ruby: こるとれいん
-    song_variation:
-    - esong_code: 3588B29
-      song_name: 24-7
-      content_type: ''
   - song_name: 24-7 〜僕らのストーリー〜
     song_alias:
     esong_code: 3599B23
@@ -346,6 +278,23 @@ result:
     song_variation:
     - esong_code: 3599B23
       song_name: 24-7 〜僕らのストーリー〜
+      content_type: ''
+  - song_name: 24-7
+    song_alias:
+    esong_code: 3588B29
+    t_singer_master_id: '34658'
+    singer_name: coldrain
+    singer_alias:
+    available_date: '2016-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうえんていふお
+    singer_name_ruby: こるとれいん
+    song_variation:
+    - esong_code: 3588B29
+      song_name: 24-7
       content_type: ''
   - song_name: 東京音頭
     song_alias:
@@ -517,3 +466,54 @@ result:
     - esong_code: 2097B45
       song_name: 十勝望郷歌
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 時々他人
+    song_alias:
+    esong_code: 2099B14
+    t_singer_master_id: '55285'
+    singer_name: 下山 けんじ
+    singer_alias:
+    available_date: '2016-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ときときたにん
+    singer_name_ruby: しもやまけんし
+    song_variation:
+    - esong_code: 2099B14
+      song_name: 時々他人
+      content_type: ''
+  - song_name: ときめき神戸
+    song_alias:
+    esong_code: 3599A34
+    t_singer_master_id: '55419'
+    singer_name: 今井 たかし&かや乃 舞紅悦
+    singer_alias:
+    available_date: '2016-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ときめきこうへ
+    singer_name_ruby: いまいたかしかやのまいこう
+    song_variation:
+    - esong_code: 3599A34
+      song_name: ときめき神戸
+      content_type: ''
+  - song_name: 時を越えて
+    song_alias:
+    esong_code: 3597A6
+    t_singer_master_id: '10342'
+    singer_name: 合唱
+    singer_alias:
+    available_date: '2016-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ときをこえて
+    singer_name_ruby: かつしよう
+    song_variation:
+    - esong_code: 3597A6
+      song_name: 時を越えて
+      content_type: ''

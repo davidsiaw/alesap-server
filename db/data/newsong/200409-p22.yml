@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 807
-  all_max_cnt: 867
-  all_country_cnt: 807
+  max_cnt: 806
+  all_max_cnt: 866
+  all_country_cnt: 806
   song:
   - song_name: mind
     song_alias:
@@ -466,23 +466,6 @@ result:
     - esong_code: 549B5
       song_name: "∞の世界"
       content_type: ''
-  - song_name: 無詞(No Words)
-    song_alias:
-    esong_code: 574A11
-    t_singer_master_id: '17457'
-    singer_name: 女子十二楽坊
-    singer_alias:
-    available_date: '2004-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むし
-    singer_name_ruby: しよししゆうにかくほう
-    song_variation:
-    - esong_code: 574A11
-      song_name: 無詞(No Words)
-      content_type: ''
   - song_name: 夢死
     song_alias:
     esong_code: 578A4
@@ -499,6 +482,23 @@ result:
     song_variation:
     - esong_code: 578A4
       song_name: 夢死
+      content_type: ''
+  - song_name: 無詞(No Words)
+    song_alias:
+    esong_code: 574A11
+    t_singer_master_id: '17457'
+    singer_name: 女子十二楽坊
+    singer_alias:
+    available_date: '2004-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: むし
+    singer_name_ruby: しよししゆうにかくほう
+    song_variation:
+    - esong_code: 574A11
+      song_name: 無詞(No Words)
       content_type: ''
   - song_name: 無敵フォルゴレ
     song_alias:

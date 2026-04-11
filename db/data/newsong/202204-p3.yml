@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1058
-  all_max_cnt: 1147
-  all_country_cnt: 1058
+  max_cnt: 1021
+  all_max_cnt: 1110
+  all_country_cnt: 1021
   song:
-  - song_name: いちごちゃん
-    song_alias:
-    esong_code: 4615A48
-    t_singer_master_id: '62878'
-    singer_name: さとう もか
-    singer_alias:
-    available_date: '2022-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いちこちやん
-    singer_name_ruby: さとうもか
-    song_variation:
-    - esong_code: 4615A48
-      song_name: いちごちゃん
-      content_type: ''
   - song_name: いつか結婚しても
     song_alias:
     esong_code: 4617B41
@@ -193,6 +176,23 @@ result:
     song_variation:
     - esong_code: 4625A31
       song_name: engrave
+      content_type: ''
+  - song_name: Into the noise
+    song_alias:
+    esong_code: 4847A25
+    t_singer_master_id: '72460'
+    singer_name: α-TuNe
+    singer_alias:
+    available_date: '2022-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Live us<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いんとうさのいす
+    singer_name_ruby: あるふあちゆん
+    song_variation:
+    - esong_code: 4847A25
+      song_name: Into the noise
       content_type: ''
   - song_name: Into the Flame
     song_alias:
@@ -398,23 +398,6 @@ result:
     - esong_code: 4626A38
       song_name: ウオノエガール
       content_type: ''
-  - song_name: 埋み火
-    song_alias:
-    esong_code: 4615B32
-    t_singer_master_id: '53276'
-    singer_name: 斉藤 壮馬
-    singer_alias:
-    available_date: '2022-04-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うすみひ
-    singer_name_ruby: さいとうそうま
-    song_variation:
-    - esong_code: 4615B32
-      song_name: 埋み火
-      content_type: ''
   - song_name: うそうそほんと
     song_alias:
     esong_code: 4619B17
@@ -500,20 +483,37 @@ result:
     - esong_code: 4624A13
       song_name: 歌よ [歌ってみた利用OK]
       content_type: 歌ってみた利用OK
-  - song_name: 宇宙は砂時計
+  - song_name: 産声とクラブ
     song_alias:
-    esong_code: 4618A20
-    t_singer_master_id: '43218'
-    singer_name: 私立恵比寿中学
+    esong_code: 4625B49
+    t_singer_master_id: '69483'
+    singer_name: 麻倉 もも&たかはし 智秋&上田 麗奈&中村 温姫
     singer_alias:
-    available_date: '2022-04-10'
+    available_date: '2022-04-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター ミリオンライブ! シアターデイズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うふこえとくらふ
+    singer_name_ruby: あさくらももたかはしちあきう
+    song_variation:
+    - esong_code: 4625B49
+      song_name: 産声とクラブ
+      content_type: ''
+  - song_name: 初心LOVE [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4619B31
+    t_singer_master_id: '68657'
+    singer_name: なにわ男子
+    singer_alias:
+    available_date: '2022-04-14'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: うちゆうはすなとけ
-    singer_name_ruby: しりつえひすちゆうかく
+    content_type: 歌ってみた利用OK
+    song_name_ruby: うふらふ
+    singer_name_ruby: なにわたんし
     song_variation:
-    - esong_code: 4618A20
-      song_name: 宇宙は砂時計
-      content_type: ''
+    - esong_code: 4619B31
+      song_name: 初心LOVE [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK

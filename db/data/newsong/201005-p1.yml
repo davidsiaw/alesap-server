@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 911
-  all_max_cnt: 1051
-  all_country_cnt: 911
+  max_cnt: 909
+  all_max_cnt: 1049
+  all_country_cnt: 909
   song:
   - song_name: 愛遥かに (DA TROPPO TEMPO)
     song_alias:
@@ -213,23 +213,6 @@ result:
       content_type: ''
   - song_name: 秋風
     song_alias:
-    esong_code: 2529A49
-    t_singer_master_id: '2536'
-    singer_name: 吉 幾三
-    singer_alias:
-    available_date: '2010-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あきかせ
-    singer_name_ruby: よしいくそう
-    song_variation:
-    - esong_code: 2529A49
-      song_name: 秋風
-      content_type: ''
-  - song_name: 秋風
-    song_alias:
     esong_code: 2535A35
     t_singer_master_id: '2536'
     singer_name: 吉 幾三
@@ -245,6 +228,23 @@ result:
     - esong_code: 2535A35
       song_name: 秋風
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 秋風
+    song_alias:
+    esong_code: 2529A49
+    t_singer_master_id: '2536'
+    singer_name: 吉 幾三
+    singer_alias:
+    available_date: '2010-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あきかせ
+    singer_name_ruby: よしいくそう
+    song_variation:
+    - esong_code: 2529A49
+      song_name: 秋風
+      content_type: ''
   - song_name: action (彩-irodori- ver.)
     song_alias:
     esong_code: 2487A43

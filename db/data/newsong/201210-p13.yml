@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: 北国フェリー
-    song_alias:
-    esong_code: 2917B18
-    t_singer_master_id: '36342'
-    singer_name: 走 裕介
-    singer_alias:
-    available_date: '2012-10-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きたくにふえり
-    singer_name_ruby: はしりゆうすけ
-    song_variation:
-    - esong_code: 2917B18
-      song_name: 北国フェリー
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: きたないことば
-    song_alias:
-    esong_code: 2903A34
-    t_singer_master_id: '30910'
-    singer_name: SuG
-    singer_alias:
-    available_date: '2012-10-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたないことは
-    singer_name_ruby: さく
-    song_variation:
-    - esong_code: 2903A34
-      song_name: きたないことば
-      content_type: ''
   - song_name: キッチンプリンセス
     song_alias:
     esong_code: 2910A30
@@ -236,7 +202,7 @@ result:
     singer_alias:
     available_date: '2012-10-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: FAIRY TAIL<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きみかくれたもの
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1906A20
       song_name: キャッチ&ボール
+      content_type: ''
+  - song_name: キャデラック
+    song_alias:
+    esong_code: 2923A12
+    t_singer_master_id: '46289'
+    singer_name: 夏木 マリ with Flash Packer
+    singer_alias:
+    available_date: '2012-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやてらつく
+    singer_name_ruby: なつきまりういすふらつし
+    song_variation:
+    - esong_code: 2923A12
+      song_name: キャデラック
+      content_type: ''
+  - song_name: キャデラック
+    song_alias:
+    esong_code: 2922A19
+    t_singer_master_id: '46277'
+    singer_name: ミソッカス
+    singer_alias:
+    available_date: '2012-10-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやてらつく
+    singer_name_ruby: みそつかす
+    song_variation:
+    - esong_code: 2922A19
+      song_name: キャデラック
       content_type: ''

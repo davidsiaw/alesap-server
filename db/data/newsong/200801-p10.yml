@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
-  - song_name: GREEN DAYS
-    song_alias:
-    esong_code: 1938B20
-    t_singer_master_id: '2179'
-    singer_name: 槇原 敬之
-    singer_alias:
-    available_date: '2008-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: くりんていす
-    singer_name_ruby: まきはらのりゆき
-    song_variation:
-    - esong_code: 1938B20
-      song_name: GREEN DAYS
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: GReeeeNメドレー
     song_alias:
     esong_code: 1937A37
@@ -92,6 +75,23 @@ result:
     - esong_code: 1929A25
       song_name: Crazy for you
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: KURENAI
+    song_alias:
+    esong_code: 1922A49
+    t_singer_master_id: '23022'
+    singer_name: 宮崎 羽衣
+    singer_alias:
+    available_date: '2008-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ナイトウィザート -The ANIMATION-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くれない
+    singer_name_ruby: みやさきうい
+    song_variation:
+    - esong_code: 1922A49
+      song_name: KURENAI
+      content_type: ''
   - song_name: CHRONOGRAPH
     song_alias:
     esong_code: 1944B44
@@ -366,23 +366,6 @@ result:
       content_type: ''
   - song_name: 告白
     song_alias:
-    esong_code: 1933B20
-    t_singer_master_id: '32045'
-    singer_name: 岡平 健治
-    singer_alias:
-    available_date: '2008-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こくはく
-    singer_name_ruby: おかひらけんし
-    song_variation:
-    - esong_code: 1933B20
-      song_name: 告白
-      content_type: ''
-  - song_name: 告白
-    song_alias:
     esong_code: 1945B28
     t_singer_master_id: '13427'
     singer_name: RAG FAIR
@@ -396,6 +379,23 @@ result:
     singer_name_ruby: らくふえあ
     song_variation:
     - esong_code: 1945B28
+      song_name: 告白
+      content_type: ''
+  - song_name: 告白
+    song_alias:
+    esong_code: 1933B20
+    t_singer_master_id: '32045'
+    singer_name: 岡平 健治
+    singer_alias:
+    available_date: '2008-01-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こくはく
+    singer_name_ruby: おかひらけんし
+    song_variation:
+    - esong_code: 1933B20
       song_name: 告白
       content_type: ''
   - song_name: cocoon

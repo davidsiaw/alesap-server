@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: 明日を迎えに行こう
-    song_alias:
-    esong_code: 2084A48
-    t_singer_master_id: '16321'
-    singer_name: THEイナズマ戦隊
-    singer_alias:
-    available_date: '2008-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あしたをむかえにいこ
-    singer_name_ruby: さいなすませんたい
-    song_variation:
-    - esong_code: 2084A48
-      song_name: 明日を迎えに行こう
-      content_type: ''
   - song_name: As U r -君は君のままで-
     song_alias:
     esong_code: 2068A27
@@ -43,23 +26,6 @@ result:
       content_type: ''
   - song_name: あたらしい日々
     song_alias:
-    esong_code: 2121A21
-    t_singer_master_id: '7252'
-    singer_name: Every Little Thing
-    singer_alias:
-    available_date: '2008-09-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あたらしいひひ
-    singer_name_ruby: えふりりとるしんく
-    song_variation:
-    - esong_code: 2121A21
-      song_name: あたらしい日々
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: あたらしい日々
-    song_alias:
     esong_code: 2076B3
     t_singer_master_id: '7252'
     singer_name: Every Little Thing
@@ -75,6 +41,23 @@ result:
     - esong_code: 2076B3
       song_name: あたらしい日々
       content_type: DAMｸﾘｯﾌﾟ良音
+  - song_name: あたらしい日々
+    song_alias:
+    esong_code: 2121A21
+    t_singer_master_id: '7252'
+    singer_name: Every Little Thing
+    singer_alias:
+    available_date: '2008-09-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あたらしいひひ
+    singer_name_ruby: えふりりとるしんく
+    song_variation:
+    - esong_code: 2121A21
+      song_name: あたらしい日々
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 熱くなれ
     song_alias:
     esong_code: 2081A26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2073A49
       song_name: 雨傘
+      content_type: ''
+  - song_name: アマノジャク
+    song_alias:
+    esong_code: 2107A28
+    t_singer_master_id: '18652'
+    singer_name: 野中 藍
+    singer_alias:
+    available_date: '2008-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あまのしやく
+    singer_name_ruby: のなかあい
+    song_variation:
+    - esong_code: 2107A28
+      song_name: アマノジャク
       content_type: ''

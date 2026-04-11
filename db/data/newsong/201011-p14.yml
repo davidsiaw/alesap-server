@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1316
-  all_max_cnt: 1449
-  all_country_cnt: 1316
+  max_cnt: 1315
+  all_max_cnt: 1448
+  all_country_cnt: 1315
   song:
-  - song_name: 言葉以上・・・ feat.AZU
-    song_alias:
-    esong_code: 2614A32
-    t_singer_master_id: '41090'
-    singer_name: Crystal Boy
-    singer_alias:
-    available_date: '2010-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ことはいしよう
-    singer_name_ruby: くりすたるほい
-    song_variation:
-    - esong_code: 2614A32
-      song_name: 言葉以上・・・ feat.AZU
-      content_type: ''
-  - song_name: この愛に走れたら
-    song_alias:
-    esong_code: 2173B32
-    t_singer_master_id: '27045'
-    singer_name: 山田 かつし
-    singer_alias:
-    available_date: '2010-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: このあいにはしれたら
-    singer_name_ruby: やまたかつし
-    song_variation:
-    - esong_code: 2173B32
-      song_name: この愛に走れたら
-      content_type: ''
   - song_name: この街で
     song_alias:
     esong_code: 2358A17
@@ -434,23 +400,6 @@ result:
       content_type: ''
   - song_name: 酒の舟
     song_alias:
-    esong_code: 2169A26
-    t_singer_master_id: '2176'
-    singer_name: 真木 ことみ
-    singer_alias:
-    available_date: '2010-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: さけのふね
-    singer_name_ruby: まきことみ
-    song_variation:
-    - esong_code: 2169A26
-      song_name: 酒の舟
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 酒の舟
-    song_alias:
     esong_code: 2624A27
     t_singer_master_id: '2176'
     singer_name: 真木 ことみ
@@ -466,6 +415,23 @@ result:
     - esong_code: 2624A27
       song_name: 酒の舟
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 酒の舟
+    song_alias:
+    esong_code: 2169A26
+    t_singer_master_id: '2176'
+    singer_name: 真木 ことみ
+    singer_alias:
+    available_date: '2010-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: さけのふね
+    singer_name_ruby: まきことみ
+    song_variation:
+    - esong_code: 2169A26
+      song_name: 酒の舟
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 笹舟
     song_alias:
     esong_code: 2611B48
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2349A48
       song_name: さすらい人のバラード
+      content_type: ''
+  - song_name: 里ごよみ
+    song_alias:
+    esong_code: 2213A35
+    t_singer_master_id: '939'
+    singer_name: 佐々木 新一
+    singer_alias:
+    available_date: '2010-11-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さとこよみ
+    singer_name_ruby: ささきしんいち
+    song_variation:
+    - esong_code: 2213A35
+      song_name: 里ごよみ
+      content_type: ''
+  - song_name: 佐渡へ渡る
+    song_alias:
+    esong_code: 2184B32
+    t_singer_master_id: '41184'
+    singer_name: SDN48
+    singer_alias:
+    available_date: '2010-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さとへわたる
+    singer_name_ruby: えすていえぬふおていえいと
+    song_variation:
+    - esong_code: 2184B32
+      song_name: 佐渡へ渡る
       content_type: ''

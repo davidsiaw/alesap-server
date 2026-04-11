@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 980
-  all_max_cnt: 1116
-  all_country_cnt: 980
+  max_cnt: 974
+  all_max_cnt: 1110
+  all_country_cnt: 974
   song:
   - song_name: 今の貴女に恋してる
     song_alias:
@@ -43,7 +43,7 @@ result:
       content_type: ''
   - song_name: Imitation Rain
     song_alias:
-    esong_code: 4309B38
+    esong_code: 4316A27
     t_singer_master_id: '65690'
     singer_name: SixTONES
     singer_alias:
@@ -51,13 +51,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type:
     song_name_ruby: いみてしよんれいん
     singer_name_ruby: すとんす
     song_variation:
-    - esong_code: 4309B38
+    - esong_code: 4316A27
       song_name: Imitation Rain
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: ''
   - song_name: Imitation Rain
     song_alias:
     esong_code: 4315B9
@@ -77,7 +77,7 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: Imitation Rain
     song_alias:
-    esong_code: 4316A27
+    esong_code: 4309B38
     t_singer_master_id: '65690'
     singer_name: SixTONES
     singer_alias:
@@ -85,13 +85,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: いみてしよんれいん
     singer_name_ruby: すとんす
     song_variation:
-    - esong_code: 4316A27
+    - esong_code: 4309B38
       song_name: Imitation Rain
-      content_type: ''
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: image_____
     song_alias:
     esong_code: 4317B39
@@ -177,23 +177,6 @@ result:
     - esong_code: 4312A44
       song_name: インディビジュアル・ジュエル
       content_type: ''
-  - song_name: イントゥ・ジ・アンノウン〜心のままに (feat.AURORA)
-    song_alias:
-    esong_code: 4308B24
-    t_singer_master_id: '7646'
-    singer_name: 松 たか子
-    singer_alias:
-    available_date: '2020-01-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アナと雪の女王<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: いんとうしあんのう
-    singer_name_ruby: まつたかこ
-    song_variation:
-    - esong_code: 4308B24
-      song_name: イントゥ・ジ・アンノウン〜心のままに (feat.AURORA)
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: イントゥ・ジ・アンノウン〜心のままに (エンドソング)
     song_alias:
     esong_code: 4316B13
@@ -211,23 +194,23 @@ result:
     - esong_code: 4316B13
       song_name: イントゥ・ジ・アンノウン〜心のままに (エンドソング)
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Inferno
+  - song_name: イントゥ・ジ・アンノウン〜心のままに (feat.AURORA)
     song_alias:
-    esong_code: 4311A40
-    t_singer_master_id: '65701'
-    singer_name: SawanoHiroyuki[nZk]:Benjamin&mpi
+    esong_code: 4308B24
+    t_singer_master_id: '7646'
+    singer_name: 松 たか子
     singer_alias:
-    available_date: '2020-01-14'
+    available_date: '2020-01-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: プロメア<番組名>
+    tie_up: アナと雪の女王<番組名>
     country_code: '0'
-    content_type:
-    song_name_ruby: いんふえるの
-    singer_name_ruby: さわのひろゆきぬしくへ
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: いんとうしあんのう
+    singer_name_ruby: まつたかこ
     song_variation:
-    - esong_code: 4311A40
-      song_name: Inferno
-      content_type: ''
+    - esong_code: 4308B24
+      song_name: イントゥ・ジ・アンノウン〜心のままに (feat.AURORA)
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: インフェルノ
     song_alias:
     esong_code: 4309B45
@@ -245,6 +228,23 @@ result:
     - esong_code: 4309B45
       song_name: インフェルノ
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: Inferno
+    song_alias:
+    esong_code: 4311A40
+    t_singer_master_id: '65701'
+    singer_name: SawanoHiroyuki[nZk]:Benjamin&mpi
+    singer_alias:
+    available_date: '2020-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: プロメア<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いんふえるの
+    singer_name_ruby: さわのひろゆきぬしくへ
+    song_variation:
+    - esong_code: 4311A40
+      song_name: Inferno
+      content_type: ''
   - song_name: We Are Golden
     song_alias:
     esong_code: 4314A49
@@ -261,23 +261,6 @@ result:
     song_variation:
     - esong_code: 4314A49
       song_name: We Are Golden
-      content_type: ''
-  - song_name: WE ARE THE WORLD
-    song_alias:
-    esong_code: 4315B49
-    t_singer_master_id: '61214'
-    singer_name: EMPiRE
-    singer_alias:
-    available_date: '2020-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういあさわる
-    singer_name_ruby: えんはいあ
-    song_variation:
-    - esong_code: 4315B49
-      song_name: WE ARE THE WORLD
       content_type: ''
   - song_name: Weeeekend☆
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4319A37
       song_name: うどんのじかんです!
+      content_type: ''
+  - song_name: 生まれ変わっても
+    song_alias:
+    esong_code: 4315A35
+    t_singer_master_id: '60057'
+    singer_name: FOMARE
+    singer_alias:
+    available_date: '2020-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うまれかわつても
+    singer_name_ruby: ふおまれ
+    song_variation:
+    - esong_code: 4315A35
+      song_name: 生まれ変わっても
       content_type: ''

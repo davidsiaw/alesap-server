@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
   - song_name: ピエロ
     song_alias:
@@ -466,23 +466,6 @@ result:
     - esong_code: 3479B17
       song_name: believe in myself
       content_type: ''
-  - song_name: HERO (TV size)
-    song_alias:
-    esong_code: 3480A41
-    t_singer_master_id: '33610'
-    singer_name: ソナーポケット
-    singer_alias:
-    available_date: '2015-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: うしおととら<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひろ
-    singer_name_ruby: そなほけつと
-    song_variation:
-    - esong_code: 3480A41
-      song_name: HERO (TV size)
-      content_type: ''
   - song_name: HERO
     song_alias:
     esong_code: 3471B9
@@ -499,6 +482,23 @@ result:
     song_variation:
     - esong_code: 3471B9
       song_name: HERO
+      content_type: ''
+  - song_name: HERO (TV size)
+    song_alias:
+    esong_code: 3480A41
+    t_singer_master_id: '33610'
+    singer_name: ソナーポケット
+    singer_alias:
+    available_date: '2015-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: うしおととら<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひろ
+    singer_name_ruby: そなほけつと
+    song_variation:
+    - esong_code: 3480A41
+      song_name: HERO (TV size)
       content_type: ''
   - song_name: ファイアスターター
     song_alias:

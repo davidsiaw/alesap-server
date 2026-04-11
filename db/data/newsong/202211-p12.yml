@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1411
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1405
+  all_country_cnt: 1206
   song:
-  - song_name: 五明後日
-    song_alias:
-    esong_code: 4703B8
-    t_singer_master_id: '45831'
-    singer_name: DISH//
-    singer_alias:
-    available_date: '2022-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こあさつて
-    singer_name_ruby: ていつしゆ
-    song_variation:
-    - esong_code: 4703B8
-      song_name: 五明後日
-      content_type: ''
   - song_name: 恋灯り
     song_alias:
     esong_code: 4525B31
@@ -517,3 +500,20 @@ result:
     - esong_code: 4702A1
       song_name: コトノハトイロ feat.さとうささら,知声
       content_type: VOCALOID
+  - song_name: この青空は忘れない
+    song_alias:
+    esong_code: 4708A25
+    t_singer_master_id: '70619'
+    singer_name: ジュニア
+    singer_alias:
+    available_date: '2022-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 忍たま乱太郎<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: このあおそらはわす
+    singer_name_ruby: しゆにあ
+    song_variation:
+    - esong_code: 4708A25
+      song_name: この青空は忘れない
+      content_type: ''

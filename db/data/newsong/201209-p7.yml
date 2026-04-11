@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1398
-  all_max_cnt: 1888
-  all_country_cnt: 1398
+  max_cnt: 1393
+  all_max_cnt: 1884
+  all_country_cnt: 1393
   song:
-  - song_name: お祝いマンボ
-    song_alias:
-    esong_code: 2850B23
-    t_singer_master_id: '37185'
-    singer_name: 桂川 さくら
-    singer_alias:
-    available_date: '2012-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おいわいまんほ
-    singer_name_ruby: かつらかわさくら
-    song_variation:
-    - esong_code: 2850B23
-      song_name: お祝いマンボ
-      content_type: ''
-  - song_name: 王様ゲーム
-    song_alias:
-    esong_code: 2888B8
-    t_singer_master_id: '33226'
-    singer_name: C&K
-    singer_alias:
-    available_date: '2012-09-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おうさまけむ
-    singer_name_ruby: しあんとけ
-    song_variation:
-    - esong_code: 2888B8
-      song_name: 王様ゲーム
-      content_type: ''
   - song_name: 大江戸瓦版
     song_alias:
     esong_code: 2349A40
@@ -287,7 +253,7 @@ result:
     singer_alias:
     available_date: '2012-09-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HUNTER×HUNTER(2011)<番組名>
+    tie_up: HUNTER×HUNTER<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おちろそこまて
@@ -517,3 +483,37 @@ result:
     - esong_code: 2856B34
       song_name: おなかパンパン
       content_type: ''
+  - song_name: おばたま
+    song_alias:
+    esong_code: 2855A18
+    t_singer_master_id: '37115'
+    singer_name: 阿蘇 千里
+    singer_alias:
+    available_date: '2012-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おはたま
+    singer_name_ruby: あそせんり
+    song_variation:
+    - esong_code: 2855A18
+      song_name: おばたま
+      content_type: ''
+  - song_name: Obscure Questions
+    song_alias:
+    esong_code: 2879A48
+    t_singer_master_id: '38164'
+    singer_name: ピノキオピー(ピノキオP)
+    singer_alias:
+    available_date: '2012-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: おふすきゆあくえす
+    singer_name_ruby: ひのきおひ
+    song_variation:
+    - esong_code: 2879A48
+      song_name: Obscure Questions
+      content_type: VOCALOID

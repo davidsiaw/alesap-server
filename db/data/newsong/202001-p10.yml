@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 980
-  all_max_cnt: 1116
-  all_country_cnt: 980
+  max_cnt: 974
+  all_max_cnt: 1110
+  all_country_cnt: 974
   song:
-  - song_name: クレイジーラブ
-    song_alias:
-    esong_code: 4313B46
-    t_singer_master_id: '25827'
-    singer_name: 田島 貴男
-    singer_alias:
-    available_date: '2020-01-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くれいしらふ
-    singer_name_ruby: たしまたかお
-    song_variation:
-    - esong_code: 4313B46
-      song_name: クレイジーラブ
-      content_type: ''
-  - song_name: Claymore
-    song_alias:
-    esong_code: 4315B21
-    t_singer_master_id: '60788'
-    singer_name: 西川 貴教
-    singer_alias:
-    available_date: '2020-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くれいもあ
-    singer_name_ruby: にしかわたかのり
-    song_variation:
-    - esong_code: 4315B21
-      song_name: Claymore
-      content_type: ''
   - song_name: Crescent rise
     song_alias:
     esong_code: 4316A16
@@ -185,7 +151,7 @@ result:
     singer_alias:
     available_date: '2020-01-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 新サクラ大戦<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けきていこくかけ
@@ -264,23 +230,6 @@ result:
       content_type: DAM生音
   - song_name: 恋衣
     song_alias:
-    esong_code: 4316A18
-    t_singer_master_id: '1165'
-    singer_name: 城之内 早苗
-    singer_alias:
-    available_date: '2020-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こいころも
-    singer_name_ruby: しようのうちさなえ
-    song_variation:
-    - esong_code: 4316A18
-      song_name: 恋衣
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 恋衣
-    song_alias:
     esong_code: 4310B17
     t_singer_master_id: '1165'
     singer_name: 城之内 早苗
@@ -296,6 +245,23 @@ result:
     - esong_code: 4310B17
       song_name: 恋衣
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 恋衣
+    song_alias:
+    esong_code: 4312B3
+    t_singer_master_id: '1165'
+    singer_name: 城之内 早苗
+    singer_alias:
+    available_date: '2020-01-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいころも
+    singer_name_ruby: しようのうちさなえ
+    song_variation:
+    - esong_code: 4312B3
+      song_name: 恋衣
+      content_type: ''
   - song_name: 恋衣
     song_alias:
     esong_code: 4309B37
@@ -315,21 +281,21 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 恋衣
     song_alias:
-    esong_code: 4312B3
+    esong_code: 4316A18
     t_singer_master_id: '1165'
     singer_name: 城之内 早苗
     singer_alias:
-    available_date: '2020-01-08'
+    available_date: '2020-01-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: こいころも
     singer_name_ruby: しようのうちさなえ
     song_variation:
-    - esong_code: 4312B3
+    - esong_code: 4316A18
       song_name: 恋衣
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 恋する瞳は美しい [DAM本人歌唱]
     song_alias:
     esong_code: 4310A38
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4309A1
       song_name: 心の実
+      content_type: ''
+  - song_name: KOKORO&KARADA
+    song_alias:
+    esong_code: 4314B5
+    t_singer_master_id: '60795'
+    singer_name: モーニング娘。'20
+    singer_alias:
+    available_date: '2020-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころあんとからた
+    singer_name_ruby: もにんくむすめとうせろ
+    song_variation:
+    - esong_code: 4314B5
+      song_name: KOKORO&KARADA
+      content_type: ''
+  - song_name: ココロソマリ (TV Size)
+    song_alias:
+    esong_code: 4310A23
+    t_singer_master_id: '51281'
+    singer_name: 水瀬 いのり
+    singer_alias:
+    available_date: '2020-01-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ソマリと森の神様<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころそまりてれひ
+    singer_name_ruby: みなせいのり
+    song_variation:
+    - esong_code: 4310A23
+      song_name: ココロソマリ (TV Size)
       content_type: ''

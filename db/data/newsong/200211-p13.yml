@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 655
-  all_max_cnt: 733
-  all_country_cnt: 655
+  max_cnt: 652
+  all_max_cnt: 730
+  all_country_cnt: 652
   song:
-  - song_name: Dream〜風に打たれて〜
-    song_alias:
-    esong_code: 971B22
-    t_singer_master_id: '1877'
-    singer_name: 光GENJI
-    singer_alias:
-    available_date: '2002-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とりむ
-    singer_name_ruby: ひかるけんし
-    song_variation:
-    - esong_code: 971B22
-      song_name: Dream〜風に打たれて〜
-      content_type: ''
   - song_name: ドリーム・シフト
     song_alias:
     esong_code: 294A16
@@ -372,7 +355,7 @@ result:
     singer_alias:
     available_date: '2002-11-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: スレイヤーズN>EX<番組名>
+    tie_up: スレイヤーズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: にしのように
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 969A26
       song_name: ノーヒットノーラン
+      content_type: ''
+  - song_name: No Make de On The Bed
+    song_alias:
+    esong_code: 158B43
+    t_singer_master_id: '11108'
+    singer_name: Skoop On Somebody(SKOOP)
+    singer_alias:
+    available_date: '2002-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のめいくておんさ
+    singer_name_ruby: すくふおんさむはてい
+    song_variation:
+    - esong_code: 158B43
+      song_name: No Make de On The Bed
       content_type: ''

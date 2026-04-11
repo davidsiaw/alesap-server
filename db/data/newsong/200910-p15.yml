@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: Sing!×3 2〜Around 40's Karaoke Best Songsメドレー
-    song_alias:
-    esong_code: 2409A10
-    t_singer_master_id: '12687'
-    singer_name: DKオリジナルメドレー
-    singer_alias:
-    available_date: '2009-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんくしんくしん
-    singer_name_ruby: ていけおりしなるめとれ
-    song_variation:
-    - esong_code: 2409A10
-      song_name: Sing!×3 2〜Around 40's Karaoke Best Songsメドレー
-      content_type: ''
-  - song_name: 深紅の花園
-    song_alias:
-    esong_code: 2412B36
-    t_singer_master_id: '33037'
-    singer_name: Asriel
-    singer_alias:
-    available_date: '2009-10-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんくのはなその
-    singer_name_ruby: あすりえる
-    song_variation:
-    - esong_code: 2412B36
-      song_name: 深紅の花園
-      content_type: ''
   - song_name: 人生兄弟
     song_alias:
     esong_code: 2430B13
@@ -83,7 +49,7 @@ result:
     singer_alias:
     available_date: '2009-10-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 紐育レビュウショウ 〜歌う大紐育〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しんふおにういす
@@ -145,23 +111,6 @@ result:
       content_type: ''
   - song_name: SWEET DREAMS
     song_alias:
-    esong_code: 2407B20
-    t_singer_master_id: '32344'
-    singer_name: VAMPS
-    singer_alias:
-    available_date: '2009-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: すいととりむす
-    singer_name_ruby: はんふす
-    song_variation:
-    - esong_code: 2407B20
-      song_name: SWEET DREAMS
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: SWEET DREAMS
-    song_alias:
     esong_code: 2329B47
     t_singer_master_id: '32344'
     singer_name: VAMPS
@@ -177,6 +126,23 @@ result:
     - esong_code: 2329B47
       song_name: SWEET DREAMS
       content_type: ''
+  - song_name: SWEET DREAMS
+    song_alias:
+    esong_code: 2407B20
+    t_singer_master_id: '32344'
+    singer_name: VAMPS
+    singer_alias:
+    available_date: '2009-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: すいととりむす
+    singer_name_ruby: はんふす
+    song_variation:
+    - esong_code: 2407B20
+      song_name: SWEET DREAMS
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: SWEET LITTLE CHERRY PIES
     song_alias:
     esong_code: 2400A16
@@ -415,23 +381,6 @@ result:
     - esong_code: 2399B47
       song_name: ストロウハット・ファンタジィ
       content_type: ''
-  - song_name: Strawberry 〜甘く切ない涙〜 [パセラオリジナル]
-    song_alias:
-    esong_code: 2411B46
-    t_singer_master_id: '24966'
-    singer_name: 今井 麻美
-    singer_alias:
-    available_date: '2009-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: にゃんこい!<番組名>
-    country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    song_name_ruby: すとろへり
-    singer_name_ruby: いまいあさみ
-    song_variation:
-    - esong_code: 2411B46
-      song_name: Strawberry 〜甘く切ない涙〜 [パセラオリジナル]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
   - song_name: Strawberry 〜甘く切ない涙〜
     song_alias:
     esong_code: 2412A34
@@ -449,6 +398,23 @@ result:
     - esong_code: 2412A34
       song_name: Strawberry 〜甘く切ない涙〜
       content_type: ''
+  - song_name: Strawberry 〜甘く切ない涙〜 [パセラオリジナル]
+    song_alias:
+    esong_code: 2411B46
+    t_singer_master_id: '24966'
+    singer_name: 今井 麻美
+    singer_alias:
+    available_date: '2009-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: にゃんこい!<番組名>
+    country_code: '0'
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    song_name_ruby: すとろへり
+    singer_name_ruby: いまいあさみ
+    song_variation:
+    - esong_code: 2411B46
+      song_name: Strawberry 〜甘く切ない涙〜 [パセラオリジナル]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
   - song_name: ストロベリー・Magic
     song_alias:
     esong_code: 2412B38
@@ -517,3 +483,37 @@ result:
     - esong_code: 2400B14
       song_name: 砂の城
       content_type: ''
+  - song_name: SPY OF LOVE
+    song_alias:
+    esong_code: 2410B9
+    t_singer_master_id: '32127'
+    singer_name: 藤崎 賢一
+    singer_alias:
+    available_date: '2009-10-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すはいおふらふ
+    singer_name_ruby: ふしさきけんいち
+    song_variation:
+    - esong_code: 2410B9
+      song_name: SPY OF LOVE
+      content_type: ''
+  - song_name: SPICE! feat.鏡音レン
+    song_alias:
+    esong_code: 2414B48
+    t_singer_master_id: '37791'
+    singer_name: 湊 貴大(流星P)
+    singer_alias:
+    available_date: '2009-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: すはいす
+    singer_name_ruby: みなとたかひろ
+    song_variation:
+    - esong_code: 2414B48
+      song_name: SPICE! feat.鏡音レン
+      content_type: VOCALOID

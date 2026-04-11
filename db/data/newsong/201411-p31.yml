@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1477
-  all_max_cnt: 1665
-  all_country_cnt: 1477
+  max_cnt: 1474
+  all_max_cnt: 1662
+  all_country_cnt: 1474
   song:
-  - song_name: 虹 feat.初音ミク
-    song_alias:
-    esong_code: 3351A23
-    t_singer_master_id: '51969'
-    singer_name: whoo
-    singer_alias:
-    available_date: '2014-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: にし
-    singer_name_ruby: ふ
-    song_variation:
-    - esong_code: 3351A23
-      song_name: 虹 feat.初音ミク
-      content_type: VOCALOID
-  - song_name: 21g
-    song_alias:
-    esong_code: 3358A46
-    t_singer_master_id: '39929'
-    singer_name: 古川本舗
-    singer_alias:
-    available_date: '2014-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にしゆういちくら
-    singer_name_ruby: ふるかわほんほ
-    song_variation:
-    - esong_code: 3358A46
-      song_name: 21g
-      content_type: ''
   - song_name: 25時の女
     song_alias:
     esong_code: 3351B1
@@ -100,7 +66,7 @@ result:
     singer_alias:
     available_date: '2014-11-08'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・シンフォニア<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ににんさんきやく
@@ -281,23 +247,6 @@ result:
       content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
   - song_name: 熱情のスペクトラム
     song_alias:
-    esong_code: 3338B49
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2014-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 七つの大罪<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ねつしようのすへ
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 3338B49
-      song_name: 熱情のスペクトラム
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 熱情のスペクトラム
-    song_alias:
     esong_code: 3349B20
     t_singer_master_id: '25694'
     singer_name: いきものがかり
@@ -313,6 +262,23 @@ result:
     - esong_code: 3349B20
       song_name: 熱情のスペクトラム
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 熱情のスペクトラム
+    song_alias:
+    esong_code: 3338B49
+    t_singer_master_id: '25694'
+    singer_name: いきものがかり
+    singer_alias:
+    available_date: '2014-11-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 七つの大罪<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ねつしようのすへ
+    singer_name_ruby: いきものかかり
+    song_variation:
+    - esong_code: 3338B49
+      song_name: 熱情のスペクトラム
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Never Surrender
     song_alias:
     esong_code: 3360B36
@@ -517,3 +483,37 @@ result:
     - esong_code: 3356B37
       song_name: Highschool love
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: ハイタテキ!
+    song_alias:
+    esong_code: 3348B40
+    t_singer_master_id: '43218'
+    singer_name: 私立恵比寿中学
+    singer_alias:
+    available_date: '2014-11-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はいたてき
+    singer_name_ruby: しりつえひすちゆうかく
+    song_variation:
+    - esong_code: 3348B40
+      song_name: ハイタテキ!
+      content_type: ''
+  - song_name: Bye Bye
+    song_alias:
+    esong_code: 3355A17
+    t_singer_master_id: '38233'
+    singer_name: WHITE JAM
+    singer_alias:
+    available_date: '2014-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はいはい
+    singer_name_ruby: ほわいとしやむ
+    song_variation:
+    - esong_code: 3355A17
+      song_name: Bye Bye
+      content_type: ''

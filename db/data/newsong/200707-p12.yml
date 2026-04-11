@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
   - song_name: こんなんだったっけ
     song_alias:
@@ -245,23 +245,6 @@ result:
     - esong_code: 1810B26
       song_name: CIRCLE OF SWINDLER
       content_type: ''
-  - song_name: 酒と泪と男と女 (歌唱指導)/河島英五
-    song_alias:
-    esong_code: 1806A46
-    t_singer_master_id: '23862'
-    singer_name: enjoy lesson
-    singer_alias:
-    available_date: '2007-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さけとなみたとおと
-    singer_name_ruby: えんしよいれつすん
-    song_variation:
-    - esong_code: 1806A46
-      song_name: 酒と泪と男と女 (歌唱指導)/河島英五
-      content_type: ''
   - song_name: 酒と泪と男と女
     song_alias:
     esong_code: 1852A14
@@ -278,6 +261,23 @@ result:
     song_variation:
     - esong_code: 1852A14
       song_name: 酒と泪と男と女
+      content_type: ''
+  - song_name: 酒と泪と男と女 (歌唱指導)/河島英五
+    song_alias:
+    esong_code: 1806A46
+    t_singer_master_id: '23862'
+    singer_name: enjoy lesson
+    singer_alias:
+    available_date: '2007-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さけとなみたとおと
+    singer_name_ruby: えんしよいれつすん
+    song_variation:
+    - esong_code: 1806A46
+      song_name: 酒と泪と男と女 (歌唱指導)/河島英五
       content_type: ''
   - song_name: 酒燃料爆進曲
     song_alias:

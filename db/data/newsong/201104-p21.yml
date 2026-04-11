@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
-  - song_name: ソメイヨシノ
-    song_alias:
-    esong_code: 1530A7
-    t_singer_master_id: '42010'
-    singer_name: 繭子
-    singer_alias:
-    available_date: '2011-04-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そめいよしの
-    singer_name_ruby: まゆこ
-    song_variation:
-    - esong_code: 1530A7
-      song_name: ソメイヨシノ
-      content_type: ''
   - song_name: SO YOUNG
     song_alias:
     esong_code: 1494A46
@@ -236,7 +219,7 @@ result:
     singer_alias:
     available_date: '2011-04-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双3<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たいかとうとう
@@ -306,7 +289,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: こちら わい×うい放送部<番組名>
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: たいすきまいふれん
     singer_name_ruby: かなつへあんとこんちやん
     song_variation:
@@ -326,7 +309,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: こちら わい×うい放送部<番組名>
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: たいすきまいふれん
     singer_name_ruby: かなつへあんとこんちやん
     song_variation:
@@ -463,7 +446,7 @@ result:
     singer_alias:
     available_date: '2011-04-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: レモンエンジェル<番組名>
+    tie_up: くりいむレモン レモンエンジェル<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たいようをあけたい
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 1410B6
       song_name: 高山の女 (新録音)
+      content_type: ''
+  - song_name: 高山本線 訪ね旅
+    song_alias:
+    esong_code: 1425A25
+    t_singer_master_id: '30507'
+    singer_name: 香川 浩二
+    singer_alias:
+    available_date: '2011-04-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たかやまほんせんたす
+    singer_name_ruby: かかわこうし
+    song_variation:
+    - esong_code: 1425A25
+      song_name: 高山本線 訪ね旅
       content_type: ''

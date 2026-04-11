@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1082
-  all_max_cnt: 1200
-  all_country_cnt: 1082
+  max_cnt: 1165
+  all_max_cnt: 1309
+  all_country_cnt: 1165
   song:
+  - song_name: 藍を見つけて
+    song_alias:
+    esong_code: 4810A26
+    t_singer_master_id: '70513'
+    singer_name: ミセカイ
+    singer_alias:
+    available_date: '2023-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいをみつけて
+    singer_name_ruby: みせかい
+    song_variation:
+    - esong_code: 4810A26
+      song_name: 藍を見つけて
+      content_type: ''
+  - song_name: 青空について考える
+    song_alias:
+    esong_code: 4808B17
+    t_singer_master_id: '72006'
+    singer_name: 僕が見たかった青空
+    singer_alias:
+    available_date: '2023-07-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あおそらについてか
+    singer_name_ruby: ほくかみたかつたあおそら
+    song_variation:
+    - esong_code: 4808B17
+      song_name: 青空について考える
+      content_type: ''
   - song_name: 蒼のステージ [オリジナルクリップ]
     song_alias:
     esong_code: 4812A27
@@ -17,7 +51,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: あおのすてし
     singer_name_ruby: らむしやんく
     song_variation:
@@ -37,7 +71,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: あおのすてし
     singer_name_ruby: らむしやんく
     song_variation:
@@ -137,23 +171,6 @@ result:
     song_variation:
     - esong_code: 2929A16
       song_name: アカシア挽歌
-      content_type: ''
-  - song_name: アカネ
-    song_alias:
-    esong_code: 4801A25
-    t_singer_master_id: '67019'
-    singer_name: 上野 大樹
-    singer_alias:
-    available_date: '2023-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかね
-    singer_name_ruby: うえのたいき
-    song_variation:
-    - esong_code: 4801A25
-      song_name: アカネ
       content_type: ''
   - song_name: 燈
     song_alias:
@@ -512,20 +529,3 @@ result:
     - esong_code: 4808B26
       song_name: 厚化粧の女
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 暑さのせい
-    song_alias:
-    esong_code: 4804A37
-    t_singer_master_id: '384'
-    singer_name: 大滝 詠一
-    singer_alias:
-    available_date: '2023-07-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あつさのせい
-    singer_name_ruby: おおたきえいいち
-    song_variation:
-    - esong_code: 4804A37
-      song_name: 暑さのせい
-      content_type: ''

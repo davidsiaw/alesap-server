@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
+  - song_name: Hello!
+    song_alias:
+    esong_code: 2661A15
+    t_singer_master_id: '7891'
+    singer_name: YUKI
+    singer_alias:
+    available_date: '2011-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: はろ
+    singer_name_ruby: ゆき
+    song_variation:
+    - esong_code: 2661A15
+      song_name: Hello!
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Hello
     song_alias:
     esong_code: 2662A16
@@ -24,23 +41,6 @@ result:
     - esong_code: 2662A16
       song_name: Hello
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: HELLO 〜Paradise Kiss〜
-    song_alias:
-    esong_code: 2660B48
-    t_singer_master_id: '22240'
-    singer_name: YUI
-    singer_alias:
-    available_date: '2011-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: はろ
-    singer_name_ruby: ゆい
-    song_variation:
-    - esong_code: 2660B48
-      song_name: HELLO 〜Paradise Kiss〜
-      content_type: JOY生演奏
   - song_name: Hello Allo
     song_alias:
     esong_code: 2652B35

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
-  - song_name: Yellow under tone
-    song_alias:
-    esong_code: 1939A24
-    t_singer_master_id: '32116'
-    singer_name: mark muffin
-    singer_alias:
-    available_date: '2008-01-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いえろあんたと
-    singer_name_ruby: まくまふいん
-    song_variation:
-    - esong_code: 1939A24
-      song_name: Yellow under tone
-      content_type: ''
   - song_name: 生きてこそ
     song_alias:
     esong_code: 1941B26
@@ -440,7 +423,7 @@ result:
     singer_alias:
     available_date: '2008-01-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ういすあうとえんと
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1941A23
       song_name: wing area
+      content_type: ''
+  - song_name: WINK SNIPER
+    song_alias:
+    esong_code: 1941B14
+    t_singer_master_id: '26363'
+    singer_name: Base Ball Bear
+    singer_alias:
+    available_date: '2008-01-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういんくすないは
+    singer_name_ruby: へすほるへあ
+    song_variation:
+    - esong_code: 1941B14
+      song_name: WINK SNIPER
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
   - song_name: Only for you feat.MAYU
     song_alias:
@@ -30,7 +30,7 @@ result:
     t_singer_master_id: '12544'
     singer_name: BoA
     singer_alias:
-    available_date: '2013-02-26'
+    available_date: '2013-02-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -268,7 +268,7 @@ result:
     t_singer_master_id: '5034'
     singer_name: 市川 由紀乃
     singer_alias:
-    available_date: '2013-02-26'
+    available_date: '2013-02-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -349,23 +349,6 @@ result:
       content_type: ''
   - song_name: 金沢わすれ雨
     song_alias:
-    esong_code: 2966B14
-    t_singer_master_id: '26414'
-    singer_name: 山本 あき
-    singer_alias:
-    available_date: '2013-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: かなさわわすれあめ
-    singer_name_ruby: やまもとあき
-    song_variation:
-    - esong_code: 2966B14
-      song_name: 金沢わすれ雨
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 金沢わすれ雨
-    song_alias:
     esong_code: 2986B1
     t_singer_master_id: '26414'
     singer_name: 山本 あき
@@ -381,6 +364,23 @@ result:
     - esong_code: 2986B1
       song_name: 金沢わすれ雨
       content_type: JOY生演奏
+  - song_name: 金沢わすれ雨
+    song_alias:
+    esong_code: 2966B14
+    t_singer_master_id: '26414'
+    singer_name: 山本 あき
+    singer_alias:
+    available_date: '2013-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: かなさわわすれあめ
+    singer_name_ruby: やまもとあき
+    song_variation:
+    - esong_code: 2966B14
+      song_name: 金沢わすれ雨
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 哀しみ桟橋 「名演ギター 斉藤 功」
     song_alias:
     esong_code: 2967A33

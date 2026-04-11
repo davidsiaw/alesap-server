@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: セプテンバー・バレンタイン
-    song_alias:
-    esong_code: 2411B14
-    t_singer_master_id: '24386'
-    singer_name: 佐々木 幸男
-    singer_alias:
-    available_date: '2009-10-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せふてんはは
-    singer_name_ruby: ささきゆきお
-    song_variation:
-    - esong_code: 2411B14
-      song_name: セプテンバー・バレンタイン
-      content_type: ''
-  - song_name: セレブレイション
-    song_alias:
-    esong_code: 2412A22
-    t_singer_master_id: '891'
-    singer_name: ゴダイゴ
-    singer_alias:
-    available_date: '2009-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せれふれいしよん
-    singer_name_ruby: こたいこ
-    song_variation:
-    - esong_code: 2412A22
-      song_name: セレブレイション
-      content_type: ''
   - song_name: ZERO
     song_alias:
     esong_code: 2413A49
@@ -349,23 +315,6 @@ result:
       content_type: ''
   - song_name: その先へ feat.FUZZY CONTROL
     song_alias:
-    esong_code: 2408A6
-    t_singer_master_id: '1607'
-    singer_name: DREAMS COME TRUE
-    singer_alias:
-    available_date: '2009-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: そのさきへ
-    singer_name_ruby: とりむすかむとうる
-    song_variation:
-    - esong_code: 2408A6
-      song_name: その先へ feat.FUZZY CONTROL
-      content_type: DAM生音
-  - song_name: その先へ feat.FUZZY CONTROL
-    song_alias:
     esong_code: 2413B31
     t_singer_master_id: '1607'
     singer_name: DREAMS COME TRUE
@@ -381,6 +330,23 @@ result:
     - esong_code: 2413B31
       song_name: その先へ feat.FUZZY CONTROL
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: その先へ feat.FUZZY CONTROL
+    song_alias:
+    esong_code: 2408A6
+    t_singer_master_id: '1607'
+    singer_name: DREAMS COME TRUE
+    singer_alias:
+    available_date: '2009-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: そのさきへ
+    singer_name_ruby: とりむすかむとうる
+    song_variation:
+    - esong_code: 2408A6
+      song_name: その先へ feat.FUZZY CONTROL
+      content_type: DAM生音
   - song_name: 空 feat.鏡音レン (full ver.)
     song_alias:
     esong_code: 2412B40
@@ -517,3 +483,37 @@ result:
     - esong_code: 2406A46
       song_name: Songs of Love
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: そんなことがすてきです。
+    song_alias:
+    esong_code: 2406B32
+    t_singer_master_id: '33041'
+    singer_name: 大橋トリオ
+    singer_alias:
+    available_date: '2009-10-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そんなことかすてき
+    singer_name_ruby: おおはしとりお
+    song_variation:
+    - esong_code: 2406B32
+      song_name: そんなことがすてきです。
+      content_type: ''
+  - song_name: TIGER BIKINI
+    song_alias:
+    esong_code: 2407A12
+    t_singer_master_id: '8650'
+    singer_name: SEX MACHINEGUNS
+    singer_alias:
+    available_date: '2009-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいかひきに
+    singer_name_ruby: せつくすましんかんす
+    song_variation:
+    - esong_code: 2407A12
+      song_name: TIGER BIKINI
+      content_type: ''

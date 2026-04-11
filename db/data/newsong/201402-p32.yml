@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: Noise
-    song_alias:
-    esong_code: 3199B25
-    t_singer_master_id: '28220'
-    singer_name: Angelo
-    singer_alias:
-    available_date: '2014-02-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のいす
-    singer_name_ruby: あんしえろ
-    song_variation:
-    - esong_code: 3199B25
-      song_name: Noise
-      content_type: ''
-  - song_name: NOISE feat.CUL
-    song_alias:
-    esong_code: 3204B38
-    t_singer_master_id: '41146'
-    singer_name: SHO(キセノンP)
-    singer_alias:
-    available_date: '2014-02-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: のいす
-    singer_name_ruby: しよう
-    song_variation:
-    - esong_code: 3204B38
-      song_name: NOISE feat.CUL
-      content_type: VOCALOID
   - song_name: 脳内革命ガール feat.初音ミク
     song_alias:
     esong_code: 3199A20
@@ -228,23 +194,6 @@ result:
     - esong_code: 3179B10
       song_name: Hide&Seek
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Hide&Seek
-    song_alias:
-    esong_code: 3178B4
-    t_singer_master_id: '21930'
-    singer_name: 東方神起
-    singer_alias:
-    available_date: '2014-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はいとあんとし
-    singer_name_ruby: とうほうしんき
-    song_variation:
-    - esong_code: 3178B4
-      song_name: Hide&Seek
-      content_type: ''
   - song_name: Hide&Seek (Markus Bogelund's Audio Ninja Remix)
     song_alias:
     esong_code: 3198B43
@@ -261,6 +210,23 @@ result:
     song_variation:
     - esong_code: 3198B43
       song_name: Hide&Seek (Markus Bogelund's Audio Ninja Remix)
+      content_type: ''
+  - song_name: Hide&Seek
+    song_alias:
+    esong_code: 3178B4
+    t_singer_master_id: '21930'
+    singer_name: 東方神起
+    singer_alias:
+    available_date: '2014-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はいとあんとし
+    singer_name_ruby: とうほうしんき
+    song_variation:
+    - esong_code: 3178B4
+      song_name: Hide&Seek
       content_type: ''
   - song_name: 灰とダイヤモンド
     song_alias:
@@ -483,7 +449,7 @@ result:
     - esong_code: 2985A4
       song_name: 放浪(はぐれ)酒
       content_type: ''
-  - song_name: 放浪(はぐれ)酒
+  - song_name: 放浪酒
     song_alias:
     esong_code: 3197B40
     t_singer_master_id: '2503'
@@ -498,9 +464,9 @@ result:
     singer_name_ruby: やまもとしようし
     song_variation:
     - esong_code: 3197B40
-      song_name: 放浪(はぐれ)酒
+      song_name: 放浪酒
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 放浪(はぐれ)酒
+  - song_name: 放浪酒
     song_alias:
     esong_code: 3197B22
     t_singer_master_id: '2503'
@@ -515,5 +481,39 @@ result:
     singer_name_ruby: やまもとしようし
     song_variation:
     - esong_code: 3197B22
-      song_name: 放浪(はぐれ)酒
+      song_name: 放浪酒
       content_type: DAM生音
+  - song_name: 箱根八里
+    song_alias:
+    esong_code: 3205B39
+    t_singer_master_id: '1080'
+    singer_name: 唱歌・抒情歌
+    singer_alias:
+    available_date: '2014-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYうたいり
+    song_name_ruby: はこねはちり
+    singer_name_ruby: しようかしよしようか
+    song_variation:
+    - esong_code: 3205B39
+      song_name: 箱根八里
+      content_type: JOYうたいり
+  - song_name: Virgin Marry 〜聖母マリア〜
+    song_alias:
+    esong_code: 3206B38
+    t_singer_master_id: '50058'
+    singer_name: Fly or Die
+    singer_alias:
+    available_date: '2014-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はしんまりせ
+    singer_name_ruby: ふらいおあたい
+    song_variation:
+    - esong_code: 3206B38
+      song_name: Virgin Marry 〜聖母マリア〜
+      content_type: ''

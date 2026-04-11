@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1255
-  all_country_cnt: 1064
+  max_cnt: 1057
+  all_max_cnt: 1248
+  all_country_cnt: 1057
   song:
   - song_name: 音の割れたチャイム (カミングフレーバー)
     song_alias:
@@ -364,23 +364,6 @@ result:
     - esong_code: 4670A47
       song_name: 怪獣
       content_type: ''
-  - song_name: 帰り道
-    song_alias:
-    esong_code: 4670B40
-    t_singer_master_id: '64246'
-    singer_name: めいちゃん
-    singer_alias:
-    available_date: '2022-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かえりみち
-    singer_name_ruby: めいちやん
-    song_variation:
-    - esong_code: 4670B40
-      song_name: 帰り道
-      content_type: ''
   - song_name: 帰り路
     song_alias:
     esong_code: 4670B23
@@ -397,6 +380,23 @@ result:
     song_variation:
     - esong_code: 4670B23
       song_name: 帰り路
+      content_type: ''
+  - song_name: 帰り道
+    song_alias:
+    esong_code: 4670B40
+    t_singer_master_id: '64246'
+    singer_name: めいちゃん
+    singer_alias:
+    available_date: '2022-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かえりみち
+    singer_name_ruby: めいちやん
+    song_variation:
+    - esong_code: 4670B40
+      song_name: 帰り道
       content_type: ''
   - song_name: かえりみちの色
     song_alias:

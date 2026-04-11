@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
   - song_name: あっち向いて☆こっち向いて☆イカ向いて!
     song_alias:
@@ -400,6 +400,23 @@ result:
       content_type: ''
   - song_name: アリアドネの糸
     song_alias:
+    esong_code: 2677B39
+    t_singer_master_id: '10226'
+    singer_name: Do As Infinity
+    singer_alias:
+    available_date: '2011-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ありあとねのいと
+    singer_name_ruby: とうあすいんふいにてい
+    song_variation:
+    - esong_code: 2677B39
+      song_name: アリアドネの糸
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: アリアドネの糸
+    song_alias:
     esong_code: 2687B40
     t_singer_master_id: '10226'
     singer_name: Do As Infinity
@@ -432,23 +449,23 @@ result:
     - esong_code: 2684B43
       song_name: アリアドネの糸
       content_type: DAM生音
-  - song_name: アリアドネの糸
+  - song_name: アリガトウ
     song_alias:
-    esong_code: 2677B39
-    t_singer_master_id: '10226'
-    singer_name: Do As Infinity
+    esong_code: 2666A49
+    t_singer_master_id: '25255'
+    singer_name: AKB48
     singer_alias:
-    available_date: '2011-09-30'
+    available_date: '2011-09-10'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ありあとねのいと
-    singer_name_ruby: とうあすいんふいにてい
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: えけひふおていえいと
     song_variation:
-    - esong_code: 2677B39
-      song_name: アリアドネの糸
-      content_type: JOYﾎﾞｰｶﾙ
+    - esong_code: 2666A49
+      song_name: アリガトウ
+      content_type: ''
   - song_name: ありがとう
     song_alias:
     esong_code: 2675B4
@@ -482,23 +499,6 @@ result:
     song_variation:
     - esong_code: 2669A21
       song_name: ありがとう 〜今だから〜
-      content_type: ''
-  - song_name: アリガトウ
-    song_alias:
-    esong_code: 2666A49
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2011-09-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 2666A49
-      song_name: アリガトウ
       content_type: ''
   - song_name: ありがとう 〜出会ったすべてのあなたに〜
     song_alias:

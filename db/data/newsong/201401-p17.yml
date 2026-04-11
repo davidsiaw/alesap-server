@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: スキだよ。
-    song_alias:
-    esong_code: 3166B49
-    t_singer_master_id: '48675'
-    singer_name: ハヤテ
-    singer_alias:
-    available_date: '2014-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すきたよ
-    singer_name_ruby: はやて
-    song_variation:
-    - esong_code: 3166B49
-      song_name: スキだよ。
-      content_type: ''
   - song_name: 好きなのに
     song_alias:
     esong_code: 3173B11
@@ -517,3 +500,20 @@ result:
     - esong_code: 3168A46
       song_name: Say Goodbye
       content_type: ''
+  - song_name: 青春狂想曲 feat.猫村いろは
+    song_alias:
+    esong_code: 3172A46
+    t_singer_master_id: '27805'
+    singer_name: あすなろ
+    singer_alias:
+    available_date: '2014-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: せいしゆんきようそう
+    singer_name_ruby: あすなろ
+    song_variation:
+    - esong_code: 3172A46
+      song_name: 青春狂想曲 feat.猫村いろは
+      content_type: VOCALOID

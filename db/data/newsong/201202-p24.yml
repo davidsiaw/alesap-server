@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: 27 feat.初音ミク
-    song_alias:
-    esong_code: 2768A11
-    t_singer_master_id: '52025'
-    singer_name: hiro'
-    singer_alias:
-    available_date: '2012-02-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: つな
-    singer_name_ruby: ひろ2
-    song_variation:
-    - esong_code: 2768A11
-      song_name: 27 feat.初音ミク
-      content_type: VOCALOID
-  - song_name: 繋がる心
-    song_alias:
-    esong_code: 2748B38
-    t_singer_master_id: '25245'
-    singer_name: 絢香
-    singer_alias:
-    available_date: '2012-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つなかるこころ
-    singer_name_ruby: あやか
-    song_variation:
-    - esong_code: 2748B38
-      song_name: 繋がる心
-      content_type: ''
   - song_name: つながるまで
     song_alias:
     esong_code: 2770A16
@@ -94,23 +60,6 @@ result:
       content_type: ''
   - song_name: 冷たい雨
     song_alias:
-    esong_code: 2773A4
-    t_singer_master_id: '7775'
-    singer_name: BONNIE PINK
-    singer_alias:
-    available_date: '2012-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: つめたいあめ
-    singer_name_ruby: ほにひんく
-    song_variation:
-    - esong_code: 2773A4
-      song_name: 冷たい雨
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 冷たい雨
-    song_alias:
     esong_code: 2764B20
     t_singer_master_id: '7775'
     singer_name: BONNIE PINK
@@ -126,6 +75,23 @@ result:
     - esong_code: 2764B20
       song_name: 冷たい雨
       content_type: ''
+  - song_name: 冷たい雨
+    song_alias:
+    esong_code: 2773A4
+    t_singer_master_id: '7775'
+    singer_name: BONNIE PINK
+    singer_alias:
+    available_date: '2012-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: つめたいあめ
+    singer_name_ruby: ほにひんく
+    song_variation:
+    - esong_code: 2773A4
+      song_name: 冷たい雨
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 冷たいくちづけ
     song_alias:
     esong_code: 2753A29
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2750B9
       song_name: テルマエ・ロマン
+      content_type: ''
+  - song_name: Tell Your World
+    song_alias:
+    esong_code: 2769B19
+    t_singer_master_id: '45595'
+    singer_name: livetune feat.初音ミク
+    singer_alias:
+    available_date: '2012-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: てるゆあわると
+    singer_name_ruby: らいふちゆんふいちやりんくは
+    song_variation:
+    - esong_code: 2769B19
+      song_name: Tell Your World
+      content_type: VOCALOID
+  - song_name: DANGEROUS CAT 〜MAKE ME WET〜
+    song_alias:
+    esong_code: 2765A4
+    t_singer_master_id: '33060'
+    singer_name: 田中 聖(KAT-TUN)
+    singer_alias:
+    available_date: '2012-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てんしやらすきや
+    singer_name_ruby: たなかこうき
+    song_variation:
+    - esong_code: 2765A4
+      song_name: DANGEROUS CAT 〜MAKE ME WET〜
       content_type: ''

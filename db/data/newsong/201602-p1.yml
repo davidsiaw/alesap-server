@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1236
-  all_max_cnt: 1361
-  all_country_cnt: 1236
+  max_cnt: 1230
+  all_max_cnt: 1355
+  all_country_cnt: 1230
   song:
   - song_name: 青い夏
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 3598A23
       song_name: AXIS
       content_type: ''
-  - song_name: a-gain (TVサイズ)
-    song_alias:
-    esong_code: 3590B42
-    t_singer_master_id: '37034'
-    singer_name: Ray
-    singer_alias:
-    available_date: '2016-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 蒼の彼方のフォーリズム<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけいん
-    singer_name_ruby: れい
-    song_variation:
-    - esong_code: 3590B42
-      song_name: a-gain (TVサイズ)
-      content_type: ''
   - song_name: a-gain
     song_alias:
     esong_code: 3597A21
@@ -159,6 +142,23 @@ result:
     song_variation:
     - esong_code: 3597A21
       song_name: a-gain
+      content_type: ''
+  - song_name: a-gain (TVサイズ)
+    song_alias:
+    esong_code: 3590B42
+    t_singer_master_id: '37034'
+    singer_name: Ray
+    singer_alias:
+    available_date: '2016-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 蒼の彼方のフォーリズム<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あけいん
+    singer_name_ruby: れい
+    song_variation:
+    - esong_code: 3590B42
+      song_name: a-gain (TVサイズ)
       content_type: ''
   - song_name: Age Night
     song_alias:
@@ -349,23 +349,6 @@ result:
       content_type: ''
   - song_name: 明日への手紙
     song_alias:
-    esong_code: 3588A2
-    t_singer_master_id: '26365'
-    singer_name: 手嶌 葵
-    singer_alias:
-    available_date: '2016-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすへのてかみ
-    singer_name_ruby: てしまあおい
-    song_variation:
-    - esong_code: 3588A2
-      song_name: 明日への手紙
-      content_type: ''
-  - song_name: 明日への手紙
-    song_alias:
     esong_code: 3590A18
     t_singer_master_id: '26365'
     singer_name: 手嶌 葵
@@ -381,6 +364,23 @@ result:
     - esong_code: 3590A18
       song_name: 明日への手紙
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 明日への手紙
+    song_alias:
+    esong_code: 3588A2
+    t_singer_master_id: '26365'
+    singer_name: 手嶌 葵
+    singer_alias:
+    available_date: '2016-02-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あすへのてかみ
+    singer_name_ruby: てしまあおい
+    song_variation:
+    - esong_code: 3588A2
+      song_name: 明日への手紙
+      content_type: ''
   - song_name: 熱くなれ
     song_alias:
     esong_code: 3587B39

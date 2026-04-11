@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: あや子のお国自慢だよ 〜がんばろな東北!!〜
-    song_alias:
-    esong_code: 2765A18
-    t_singer_master_id: '1994'
-    singer_name: 藤 あや子
-    singer_alias:
-    available_date: '2012-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あやこのおくにしま
-    singer_name_ruby: ふしあやこ
-    song_variation:
-    - esong_code: 2765A18
-      song_name: あや子のお国自慢だよ 〜がんばろな東北!!〜
-      content_type: ''
   - song_name: are you ready now?
     song_alias:
     esong_code: 2024B46
@@ -264,23 +247,6 @@ result:
       content_type: ''
   - song_name: イエス
     song_alias:
-    esong_code: 2757A22
-    t_singer_master_id: '30291'
-    singer_name: Acid Black Cherry
-    singer_alias:
-    available_date: '2012-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: いえす
-    singer_name_ruby: あしつとふらつくちえり
-    song_variation:
-    - esong_code: 2757A22
-      song_name: イエス
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: イエス
-    song_alias:
     esong_code: 2767A39
     t_singer_master_id: '30291'
     singer_name: Acid Black Cherry
@@ -296,6 +262,23 @@ result:
     - esong_code: 2767A39
       song_name: イエス
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: イエス
+    song_alias:
+    esong_code: 2757A22
+    t_singer_master_id: '30291'
+    singer_name: Acid Black Cherry
+    singer_alias:
+    available_date: '2012-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: いえす
+    singer_name_ruby: あしつとふらつくちえり
+    song_variation:
+    - esong_code: 2757A22
+      song_name: イエス
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 家の裏でマンボウが死んでるPメドレー
     song_alias:
     esong_code: 2766A34
@@ -517,3 +500,20 @@ result:
     - esong_code: 2762A43
       song_name: いち、にの、さーん!
       content_type: ''
+  - song_name: いちばんいっぱい
+    song_alias:
+    esong_code: 2757B47
+    t_singer_master_id: '37319'
+    singer_name: 放課後ティータイム
+    singer_alias:
+    available_date: '2012-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 映画 けいおん!<番組名>
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: いちはんいつはい
+    singer_name_ruby: ほうかこていたいむ
+    song_variation:
+    - esong_code: 2757B47
+      song_name: いちばんいっぱい
+      content_type: DAMﾌﾟﾛｵｹ

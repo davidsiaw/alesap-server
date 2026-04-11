@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: 3月9日 「名演ピアノ 美野 春樹」
-    song_alias:
-    esong_code: 2194A30
-    t_singer_master_id: '15968'
-    singer_name: レミオロメン
-    singer_alias:
-    available_date: '2009-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さんかつここのか
-    singer_name_ruby: れみおろめん
-    song_variation:
-    - esong_code: 2194A30
-      song_name: 3月9日 「名演ピアノ 美野 春樹」
-      content_type: DAM生音
   - song_name: Son gotta see tomorrow
     song_alias:
     esong_code: 2245A49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2246A39
       song_name: jamboree!!
+      content_type: ''
+  - song_name: 住宅街の悪夢
+    song_alias:
+    esong_code: 2253B27
+    t_singer_master_id: '36069'
+    singer_name: 福神
+    singer_alias:
+    available_date: '2009-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆうたくかいの
+    singer_name_ruby: ふくしん
+    song_variation:
+    - esong_code: 2253B27
+      song_name: 住宅街の悪夢
       content_type: ''

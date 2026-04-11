@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
-  - song_name: Because
-    song_alias:
-    esong_code: 3793B43
-    t_singer_master_id: '57165'
-    singer_name: 内田 雄馬
-    singer_alias:
-    available_date: '2017-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドルマスター SideM(ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひこす
-    singer_name_ruby: うちたゆうま
-    song_variation:
-    - esong_code: 3793B43
-      song_name: Because
-      content_type: ''
   - song_name: ピザまん
     song_alias:
     esong_code: 3789A10
@@ -383,23 +366,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 百夜行
     song_alias:
-    esong_code: 3798B5
-    t_singer_master_id: '920'
-    singer_name: 坂本 冬美
-    singer_alias:
-    available_date: '2017-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ひやくやこう
-    singer_name_ruby: さかもとふゆみ
-    song_variation:
-    - esong_code: 3798B5
-      song_name: 百夜行
-      content_type: DAM生音
-  - song_name: 百夜行
-    song_alias:
     esong_code: 3792B13
     t_singer_master_id: '920'
     singer_name: 坂本 冬美
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3801B8
       song_name: 秘恋宿
+      content_type: ''
+  - song_name: ひろいしま feat.財部亮治,ABTVnetwork
+    song_alias:
+    esong_code: 3787A1
+    t_singer_master_id: '51072'
+    singer_name: HIPPY
+    singer_alias:
+    available_date: '2017-04-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひろいしま
+    singer_name_ruby: ひつひ
+    song_variation:
+    - esong_code: 3787A1
+      song_name: ひろいしま feat.財部亮治,ABTVnetwork
+      content_type: ''
+  - song_name: B.Y.O.B.(BRING YOUR OWN BLOOD)
+    song_alias:
+    esong_code: 3797A36
+    t_singer_master_id: '32344'
+    singer_name: VAMPS
+    singer_alias:
+    available_date: '2017-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひわいおひ
+    singer_name_ruby: はんふす
+    song_variation:
+    - esong_code: 3797A36
+      song_name: B.Y.O.B.(BRING YOUR OWN BLOOD)
       content_type: ''

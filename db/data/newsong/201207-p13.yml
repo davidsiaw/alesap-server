@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: 元寇
-    song_alias:
-    esong_code: 2812B8
-    t_singer_master_id: '789'
-    singer_name: 軍歌(軍歌・戦時歌謡)
-    singer_alias:
-    available_date: '2012-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けんこう
-    singer_name_ruby: くんか
-    song_variation:
-    - esong_code: 2812B8
-      song_name: 元寇
-      content_type: ''
-  - song_name: 原罪のレクイエム
-    song_alias:
-    esong_code: 2820A22
-    t_singer_master_id: '14302'
-    singer_name: KOTOKO
-    singer_alias:
-    available_date: '2012-07-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: PRISM ARK (ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: けんさいのれくい
-    singer_name_ruby: ことこ
-    song_variation:
-    - esong_code: 2820A22
-      song_name: 原罪のレクイエム
-      content_type: ''
   - song_name: 現実的論理主義者 feat.IA
     song_alias:
     esong_code: 2816A6
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2822A47
       song_name: 神戸・万灯会
+      content_type: ''
+  - song_name: 紅霧紅夢
+    song_alias:
+    esong_code: 1438A10
+    t_singer_master_id: '33013'
+    singer_name: 石鹸屋
+    singer_alias:
+    available_date: '2012-07-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方紅魔郷 〜the Embodiment of Scarlet Devil<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: こうむこうむ
+    singer_name_ruby: せつけんや
+    song_variation:
+    - esong_code: 1438A10
+      song_name: 紅霧紅夢
+      content_type: 東方
+  - song_name: 声
+    song_alias:
+    esong_code: 2818A48
+    t_singer_master_id: '40524'
+    singer_name: 我羇道
+    singer_alias:
+    available_date: '2012-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こえ
+    singer_name_ruby: かきとう
+    song_variation:
+    - esong_code: 2818A48
+      song_name: 声
       content_type: ''

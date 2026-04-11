@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1167
-  all_max_cnt: 1285
-  all_country_cnt: 1167
+  max_cnt: 1163
+  all_max_cnt: 1281
+  all_country_cnt: 1163
   song:
-  - song_name: カーブの向こうに
-    song_alias:
-    esong_code: 1927A5
-    t_singer_master_id: '10121'
-    singer_name: 三角堂
-    singer_alias:
-    available_date: '2007-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かふのむこうに
-    singer_name_ruby: さんかくとう
-    song_variation:
-    - esong_code: 1927A5
-      song_name: カーブの向こうに
-      content_type: ''
   - song_name: カモミール・バスルーム
     song_alias:
     esong_code: 1928B31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1677B26
       song_name: Keep it real
+      content_type: ''
+  - song_name: キーポン節
+    song_alias:
+    esong_code: 1917A5
+    t_singer_master_id: '6297'
+    singer_name: ウルフルズ
+    singer_alias:
+    available_date: '2007-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きほんふし
+    singer_name_ruby: うるふるす
+    song_variation:
+    - esong_code: 1917A5
+      song_name: キーポン節
       content_type: ''

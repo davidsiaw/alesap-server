@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1237
-  all_max_cnt: 1447
-  all_country_cnt: 1237
+  max_cnt: 1218
+  all_max_cnt: 1428
+  all_country_cnt: 1218
   song:
-  - song_name: あるわけないのその奥に
-    song_alias:
-    esong_code: 4299A33
-    t_singer_master_id: '55872'
-    singer_name: まねきケチャ
-    singer_alias:
-    available_date: '2019-12-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ゲゲゲの鬼太郎<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるわけないのそのお
-    singer_name_ruby: まねきけちや
-    song_variation:
-    - esong_code: 4299A33
-      song_name: あるわけないのその奥に
-      content_type: ''
   - song_name: あれから (AI歌唱)
     song_alias:
     esong_code: 4299A18
@@ -517,3 +500,20 @@ result:
     - esong_code: 4300A48
       song_name: いただきます
       content_type: DAM生音
+  - song_name: 板室慕情
+    song_alias:
+    esong_code: 2234A6
+    t_singer_master_id: '53962'
+    singer_name: わかば 一郎
+    singer_alias:
+    available_date: '2019-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いたむろほしよう
+    singer_name_ruby: わかはいちろう
+    song_variation:
+    - esong_code: 2234A6
+      song_name: 板室慕情
+      content_type: ''

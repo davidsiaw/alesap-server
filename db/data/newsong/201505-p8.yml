@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1230
-  all_max_cnt: 1369
-  all_country_cnt: 1230
+  max_cnt: 1222
+  all_max_cnt: 1361
+  all_country_cnt: 1222
   song:
-  - song_name: おんなの春
-    song_alias:
-    esong_code: 1221B15
-    t_singer_master_id: '2103'
-    singer_name: 細川 たかし
-    singer_alias:
-    available_date: '2015-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのはる
-    singer_name_ruby: ほそかわたかし
-    song_variation:
-    - esong_code: 1221B15
-      song_name: おんなの春
-      content_type: ''
-  - song_name: 女のままで
-    song_alias:
-    esong_code: 787B39
-    t_singer_master_id: '44099'
-    singer_name: 神里 美和子
-    singer_alias:
-    available_date: '2015-05-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのままて
-    singer_name_ruby: かみさとみわこ
-    song_variation:
-    - esong_code: 787B39
-      song_name: 女のままで
-      content_type: ''
   - song_name: 女花
     song_alias:
     esong_code: 3306B4
@@ -466,23 +432,6 @@ result:
     - esong_code: 791A21
       song_name: 風岬
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 風岬
-    song_alias:
-    esong_code: 792B35
-    t_singer_master_id: '1107'
-    singer_name: 神野 美伽
-    singer_alias:
-    available_date: '2015-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かせみさき
-    singer_name_ruby: しんのみか
-    song_variation:
-    - esong_code: 792B35
-      song_name: 風岬
-      content_type: DAM生音
   - song_name: カタカナトーク
     song_alias:
     esong_code: 3435B49
@@ -508,7 +457,7 @@ result:
     singer_alias:
     available_date: '2015-05-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 愛・天地無用!<番組名>
+    tie_up: 天地無用!<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かたやふりさいえん
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3443B31
       song_name: 型破りサイエンス
+      content_type: ''
+  - song_name: GOTTA BE YOU
+    song_alias:
+    esong_code: 3437A30
+    t_singer_master_id: '40705'
+    singer_name: 2NE1
+    singer_alias:
+    available_date: '2015-05-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾗｲﾌﾞ
+    song_name_ruby: かつたひゆ
+    singer_name_ruby: とうえにいわん
+    song_variation:
+    - esong_code: 3437A30
+      song_name: GOTTA BE YOU
+      content_type: DAMﾗｲﾌﾞ
+  - song_name: カーテンコールが止む前に feat.初音ミク
+    song_alias:
+    esong_code: 3431B23
+    t_singer_master_id: '48964'
+    singer_name: n-buna
+    singer_alias:
+    available_date: '2015-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: かてんこるかや
+    singer_name_ruby: なふな
+    song_variation:
+    - esong_code: 3431B23
+      song_name: カーテンコールが止む前に feat.初音ミク
+      content_type: VOCALOID
+  - song_name: 金沢 恋みれん
+    song_alias:
+    esong_code: 796A32
+    t_singer_master_id: '53307'
+    singer_name: 森川 すみ子
+    singer_alias:
+    available_date: '2015-05-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなさわこいみれん
+    singer_name_ruby: もりかわすみこ
+    song_variation:
+    - esong_code: 796A32
+      song_name: 金沢 恋みれん
       content_type: ''

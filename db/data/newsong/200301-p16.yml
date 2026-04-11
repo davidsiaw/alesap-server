@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 662
-  all_max_cnt: 737
-  all_country_cnt: 662
+  max_cnt: 659
+  all_max_cnt: 734
+  all_country_cnt: 659
   song:
-  - song_name: 春を待つ少女
-    song_alias:
-    esong_code: 1B22
-    t_singer_master_id: '92'
-    singer_name: 安達 明
-    singer_alias:
-    available_date: '2003-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるをまつしようし
-    singer_name_ruby: あたちあきら
-    song_variation:
-    - esong_code: 1B22
-      song_name: 春を待つ少女
-      content_type: ''
-  - song_name: ハロー!シャイダー
-    song_alias:
-    esong_code: 95A3
-    t_singer_master_id: '713'
-    singer_name: 串田 アキラ
-    singer_alias:
-    available_date: '2003-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 宇宙刑事シャイダー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はろしやいた
-    singer_name_ruby: くしたあきら
-    song_variation:
-    - esong_code: 95A3
-      song_name: ハロー!シャイダー
-      content_type: ''
   - song_name: はんぱもん
     song_alias:
     esong_code: 66A28
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 17A10
       song_name: ふたり
+      content_type: ''
+  - song_name: 二人の夏
+    song_alias:
+    esong_code: 996B30
+    t_singer_master_id: '444'
+    singer_name: 小田 和正
+    singer_alias:
+    available_date: '2003-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたりのなつ
+    singer_name_ruby: おたかすまさ
+    song_variation:
+    - esong_code: 996B30
+      song_name: 二人の夏
+      content_type: ''
+  - song_name: 二人のりでいこう
+    song_alias:
+    esong_code: 42A19
+    t_singer_master_id: '2185'
+    singer_name: 真心ブラザーズ
+    singer_alias:
+    available_date: '2003-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたりのりていこう
+    singer_name_ruby: まこころふらさす
+    song_variation:
+    - esong_code: 42A19
+      song_name: 二人のりでいこう
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1108
-  all_max_cnt: 1216
-  all_country_cnt: 1108
+  max_cnt: 1161
+  all_max_cnt: 1290
+  all_country_cnt: 1161
   song:
   - song_name: 愛々傘
     song_alias:
@@ -177,6 +177,23 @@ result:
     - esong_code: 4830A37
       song_name: 逢いたい
       content_type: ''
+  - song_name: あいてるドアから失礼しますよ
+    song_alias:
+    esong_code: 4957B48
+    t_singer_master_id: '5597'
+    singer_name: 友部 正人
+    singer_alias:
+    available_date: '2023-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいてるとあからし
+    singer_name_ruby: ともへまさと
+    song_variation:
+    - esong_code: 4957B48
+      song_name: あいてるドアから失礼しますよ
+      content_type: ''
   - song_name: Eye to Eye
     song_alias:
     esong_code: 4824B46
@@ -228,23 +245,6 @@ result:
     - esong_code: 4814B31
       song_name: 愛に誉れ
       content_type: ''
-  - song_name: 愛の魂
-    song_alias:
-    esong_code: 4824B10
-    t_singer_master_id: '28178'
-    singer_name: 高橋 しげき
-    singer_alias:
-    available_date: '2023-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのうた
-    singer_name_ruby: たかはししけき
-    song_variation:
-    - esong_code: 4824B10
-      song_name: 愛の魂
-      content_type: ''
   - song_name: 愛の歌
     song_alias:
     esong_code: 4819B41
@@ -261,6 +261,23 @@ result:
     song_variation:
     - esong_code: 4819B41
       song_name: 愛の歌
+      content_type: ''
+  - song_name: 愛の魂
+    song_alias:
+    esong_code: 4824B10
+    t_singer_master_id: '28178'
+    singer_name: 高橋 しげき
+    singer_alias:
+    available_date: '2023-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのうた
+    singer_name_ruby: たかはししけき
+    song_variation:
+    - esong_code: 4824B10
+      song_name: 愛の魂
       content_type: ''
   - song_name: I know U know
     song_alias:
@@ -500,20 +517,3 @@ result:
     - esong_code: 4820B45
       song_name: 青のすみか
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 暁の風 〜あゝ沼田城〜
-    song_alias:
-    esong_code: 4819A26
-    t_singer_master_id: '56351'
-    singer_name: 実川 長生
-    singer_alias:
-    available_date: '2023-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかつきのかせああ
-    singer_name_ruby: みのりかわちようせい
-    song_variation:
-    - esong_code: 4819A26
-      song_name: 暁の風 〜あゝ沼田城〜
-      content_type: ''

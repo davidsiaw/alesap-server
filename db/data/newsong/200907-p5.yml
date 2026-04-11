@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 958
-  all_max_cnt: 1067
-  all_country_cnt: 958
+  max_cnt: 953
+  all_max_cnt: 1062
+  all_country_cnt: 953
   song:
-  - song_name: おふくろ
-    song_alias:
-    esong_code: 2368A5
-    t_singer_master_id: '1283'
-    singer_name: 千 昌夫
-    singer_alias:
-    available_date: '2009-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おふくろ
-    singer_name_ruby: せんまさお
-    song_variation:
-    - esong_code: 2368A5
-      song_name: おふくろ
-      content_type: ''
   - song_name: おふくろ日本一
     song_alias:
     esong_code: 2359A45
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2353A48
       song_name: 風 -the wind talk to you-
+      content_type: ''
+  - song_name: 風と星と月と雨
+    song_alias:
+    esong_code: 2360B13
+    t_singer_master_id: '10595'
+    singer_name: SHUUBI
+    singer_alias:
+    available_date: '2009-07-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせとほしとつきと
+    singer_name_ruby: しゆうひ
+    song_variation:
+    - esong_code: 2360B13
+      song_name: 風と星と月と雨
       content_type: ''

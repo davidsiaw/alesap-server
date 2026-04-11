@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 535
-  all_max_cnt: 597
-  all_country_cnt: 535
+  max_cnt: 533
+  all_max_cnt: 595
+  all_country_cnt: 533
   song:
-  - song_name: BRAND
-    song_alias:
-    esong_code: 399A34
-    t_singer_master_id: '12346'
-    singer_name: OZWORLD
-    singer_alias:
-    available_date: '2003-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらんと
-    singer_name_ruby: おすわると
-    song_variation:
-    - esong_code: 399A34
-      song_name: BRAND
-      content_type: ''
-  - song_name: Bridge
-    song_alias:
-    esong_code: 407B31
-    t_singer_master_id: '6802'
-    singer_name: 米倉 千尋
-    singer_alias:
-    available_date: '2003-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 学園都市ヴァラノワール<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりつし
-    singer_name_ruby: よねくらちひろ
-    song_variation:
-    - esong_code: 407B31
-      song_name: Bridge
-      content_type: ''
   - song_name: Break Down, Build Up
     song_alias:
     esong_code: 398B40
@@ -145,23 +111,6 @@ result:
       content_type: ''
   - song_name: Bady's breath
     song_alias:
-    esong_code: 90B30
-    t_singer_master_id: '10437'
-    singer_name: shela
-    singer_alias:
-    available_date: '2003-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: へいひすふ
-    singer_name_ruby: しえら
-    song_variation:
-    - esong_code: 90B30
-      song_name: Bady's breath
-      content_type: DAM良音
-  - song_name: Bady's breath
-    song_alias:
     esong_code: 90B14
     t_singer_master_id: '10437'
     singer_name: shela
@@ -177,6 +126,23 @@ result:
     - esong_code: 90B14
       song_name: Bady's breath
       content_type: ''
+  - song_name: Bady's breath
+    song_alias:
+    esong_code: 90B30
+    t_singer_master_id: '10437'
+    singer_name: shela
+    singer_alias:
+    available_date: '2003-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: へいひすふ
+    singer_name_ruby: しえら
+    song_variation:
+    - esong_code: 90B30
+      song_name: Bady's breath
+      content_type: DAM良音
   - song_name: Baby Baby Baby
     song_alias:
     esong_code: 251B38
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 142B18
       song_name: WHY
+      content_type: ''
+  - song_name: MAICOは踊る
+    song_alias:
+    esong_code: 403A31
+    t_singer_master_id: '10265'
+    singer_name: 丹下 桜
+    singer_alias:
+    available_date: '2003-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アンドロイド・アナ MAICO 2010<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいこはおとる
+    singer_name_ruby: たんけさくら
+    song_variation:
+    - esong_code: 403A31
+      song_name: MAICOは踊る
+      content_type: ''
+  - song_name: magic number
+    song_alias:
+    esong_code: 105B30
+    t_singer_master_id: '12751'
+    singer_name: KICK THE CAN CREW
+    singer_alias:
+    available_date: '2003-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ましつくなんは
+    singer_name_ruby: きつくさかんくる
+    song_variation:
+    - esong_code: 105B30
+      song_name: magic number
       content_type: ''

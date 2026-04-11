@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: NO MORE CRY
-    song_alias:
-    esong_code: 3587A19
-    t_singer_master_id: '33226'
-    singer_name: C&K
-    singer_alias:
-    available_date: '2016-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のもあくらい
-    singer_name_ruby: しあんとけ
-    song_variation:
-    - esong_code: 3587A19
-      song_name: NO MORE CRY
-      content_type: ''
   - song_name: NonStop! Journey
     song_alias:
     esong_code: 3578A37
@@ -168,7 +151,7 @@ result:
     singer_alias:
     available_date: '2016-01-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はかみたいあいしゆ
@@ -213,23 +196,6 @@ result:
       content_type: ''
   - song_name: 葉桜の恋
     song_alias:
-    esong_code: 3425B17
-    t_singer_master_id: '8292'
-    singer_name: 背味 孝太郎
-    singer_alias:
-    available_date: '2016-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はさくらのこい
-    singer_name_ruby: せみこうたろう
-    song_variation:
-    - esong_code: 3425B17
-      song_name: 葉桜の恋
-      content_type: ''
-  - song_name: 葉桜の恋
-    song_alias:
     esong_code: 2100A38
     t_singer_master_id: '8292'
     singer_name: 背味 孝太郎
@@ -245,6 +211,23 @@ result:
     - esong_code: 2100A38
       song_name: 葉桜の恋
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 葉桜の恋
+    song_alias:
+    esong_code: 3425B17
+    t_singer_master_id: '8292'
+    singer_name: 背味 孝太郎
+    singer_alias:
+    available_date: '2016-01-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はさくらのこい
+    singer_name_ruby: せみこうたろう
+    song_variation:
+    - esong_code: 3425B17
+      song_name: 葉桜の恋
+      content_type: ''
   - song_name: 始まりはいつも突然に (album mix)
     song_alias:
     esong_code: 3584B24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3577B40
       song_name: ハッピートーキョーガール
+      content_type: ''
+  - song_name: Buddy
+    song_alias:
+    esong_code: 3585A12
+    t_singer_master_id: '47349'
+    singer_name: D.A.T
+    singer_alias:
+    available_date: '2016-01-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はてい
+    singer_name_ruby: たつと
+    song_variation:
+    - esong_code: 3585A12
+      song_name: Buddy
       content_type: ''

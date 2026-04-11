@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
   - song_name: Elfin
     song_alias:
@@ -160,7 +160,7 @@ result:
     - esong_code: 2557A7
       song_name: エンドロール
       content_type: ''
-  - song_name: 皇女さまとお呼びッ
+  - song_name: 皇女さまとお呼びッ(皇家の花婿教育)
     song_alias:
     esong_code: 2553B40
     t_singer_master_id: '21352'
@@ -168,14 +168,14 @@ result:
     singer_alias:
     available_date: '2010-06-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 天地無用!魎皇鬼 [第1期]<番組名>
+    tie_up: 天地無用!<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おうしよさまとおよ
     singer_name_ruby: たかたゆみ
     song_variation:
     - esong_code: 2553B40
-      song_name: 皇女さまとお呼びッ
+      song_name: 皇女さまとお呼びッ(皇家の花婿教育)
       content_type: ''
   - song_name: オウ・マイ・パパ
     song_alias:
@@ -295,23 +295,6 @@ result:
     song_variation:
     - esong_code: 2545B44
       song_name: Okay
-      content_type: ''
-  - song_name: 教えてよ 〜miseducation〜
-    song_alias:
-    esong_code: 2552A38
-    t_singer_master_id: '39279'
-    singer_name: 舞花
-    singer_alias:
-    available_date: '2010-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おしえてよ
-    singer_name_ruby: まいか
-    song_variation:
-    - esong_code: 2552A38
-      song_name: 教えてよ 〜miseducation〜
       content_type: ''
   - song_name: お上手小唄
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 2555A15
       song_name: おはよう今日の日
       content_type: ''
+  - song_name: おふとんたんの唄 feat.初音ミク
+    song_alias:
+    esong_code: 2560B27
+    t_singer_master_id: '36336'
+    singer_name: 互助会
+    singer_alias:
+    available_date: '2010-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: おふとんたんのうた
+    singer_name_ruby: こしよかい
+    song_variation:
+    - esong_code: 2560B27
+      song_name: おふとんたんの唄 feat.初音ミク
+      content_type: VOCALOID

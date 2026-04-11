@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 444
-  all_max_cnt: 464
-  all_country_cnt: 444
+  max_cnt: 442
+  all_max_cnt: 462
+  all_country_cnt: 442
   song:
-  - song_name: 世界が終わる日
-    song_alias:
-    esong_code: 504A29
-    t_singer_master_id: '657'
-    singer_name: The KIX・S(KIX・S)
-    singer_alias:
-    available_date: '2001-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せかいかおわるひ
-    singer_name_ruby: さきつくす
-    song_variation:
-    - esong_code: 504A29
-      song_name: 世界が終わる日
-      content_type: ''
   - song_name: S.H.R.〜セクシーヒーローレヴォリューション〜
     song_alias:
     esong_code: 506B24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 499B27
       song_name: 翼なき疾走
+      content_type: ''
+  - song_name: Tears
+    song_alias:
+    esong_code: 504A26
+    t_singer_master_id: '10276'
+    singer_name: Calyn
+    singer_alias:
+    available_date: '2001-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていあす
+    singer_name_ruby: かりん
+    song_variation:
+    - esong_code: 504A26
+      song_name: Tears
       content_type: ''

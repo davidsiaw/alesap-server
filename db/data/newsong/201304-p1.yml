@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 1642
-  all_country_cnt: 1487
+  max_cnt: 1466
+  all_max_cnt: 1622
+  all_country_cnt: 1466
   song:
   - song_name: aim / 中島卓偉×toshinori YONEKURA
     song_alias:
@@ -415,40 +415,6 @@ result:
     - esong_code: 3024B20
       song_name: 明日
       content_type: ''
-  - song_name: アースチャイルド
-    song_alias:
-    esong_code: 3030A2
-    t_singer_master_id: '39377'
-    singer_name: SEKAI NO OWARI(世界の終わり)
-    singer_alias:
-    available_date: '2013-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすちやいると
-    singer_name_ruby: せかいのおわり
-    song_variation:
-    - esong_code: 3030A2
-      song_name: アースチャイルド
-      content_type: ''
-  - song_name: アスファルトの花
-    song_alias:
-    esong_code: 3016B46
-    t_singer_master_id: '37709'
-    singer_name: 岡本 信彦
-    singer_alias:
-    available_date: '2013-04-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすふあるとのはな
-    singer_name_ruby: おかもとのふひこ
-    song_variation:
-    - esong_code: 3016B46
-      song_name: アスファルトの花
-      content_type: ''
   - song_name: 新しい調べ
     song_alias:
     esong_code: 3027B44
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3016A47
       song_name: 安曇川哀歌(あどがわあいか)
+      content_type: ''
+  - song_name: ARTSTAR
+    song_alias:
+    esong_code: 3026A24
+    t_singer_master_id: '43646'
+    singer_name: SAKANAMON
+    singer_alias:
+    available_date: '2013-04-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あとすた
+    singer_name_ruby: さかなもん
+    song_variation:
+    - esong_code: 3026A24
+      song_name: ARTSTAR
+      content_type: ''
+  - song_name: あなたに逢えて
+    song_alias:
+    esong_code: 2799B41
+    t_singer_master_id: '47660'
+    singer_name: Yukie
+    singer_alias:
+    available_date: '2013-04-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたにあえて
+    singer_name_ruby: ゆきえ
+    song_variation:
+    - esong_code: 2799B41
+      song_name: あなたに逢えて
       content_type: ''

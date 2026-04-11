@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1462
-  all_max_cnt: 1642
-  all_country_cnt: 1462
+  max_cnt: 1455
+  all_max_cnt: 1635
+  all_country_cnt: 1455
   song:
-  - song_name: 薄紅デイトリッパー
-    song_alias:
-    esong_code: 3513A17
-    t_singer_master_id: '54420'
-    singer_name: れみ from STAR☆ANIS&みほ from AIKATSU☆STARS!
-    singer_alias:
-    available_date: '2015-10-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイカツ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うすへにていとり
-    singer_name_ruby: れみふろむすたあにすあ
-    song_variation:
-    - esong_code: 3513A17
-      song_name: 薄紅デイトリッパー
-      content_type: ''
   - song_name: 唄う地球 〜Memories in interiors of eyes〜
     song_alias:
     esong_code: 3514A36
@@ -66,7 +49,7 @@ result:
     singer_alias:
     available_date: '2015-10-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア The World Twinkle<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: うちはしすかとろ
@@ -145,23 +128,6 @@ result:
       content_type: ''
   - song_name: 海の声
     song_alias:
-    esong_code: 3523B11
-    t_singer_master_id: '54428'
-    singer_name: 桐谷 健太
-    singer_alias:
-    available_date: '2015-10-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: うみのこえ
-    singer_name_ruby: きりたにけんた
-    song_variation:
-    - esong_code: 3523B11
-      song_name: 海の声
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 海の声
-    song_alias:
     esong_code: 3524B22
     t_singer_master_id: '1937'
     singer_name: BEGIN
@@ -177,6 +143,23 @@ result:
     - esong_code: 3524B22
       song_name: 海の声
       content_type: ''
+  - song_name: 海の声
+    song_alias:
+    esong_code: 3523B11
+    t_singer_master_id: '54428'
+    singer_name: 桐谷 健太
+    singer_alias:
+    available_date: '2015-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: うみのこえ
+    singer_name_ruby: きりたにけんた
+    song_variation:
+    - esong_code: 3523B11
+      song_name: 海の声
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 海より
     song_alias:
     esong_code: 3518B16
@@ -485,6 +468,23 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 越前恋おんな
     song_alias:
+    esong_code: 3507B18
+    t_singer_master_id: '50266'
+    singer_name: 竹村 こずえ
+    singer_alias:
+    available_date: '2015-10-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えちせんこいおんな
+    singer_name_ruby: たけむらこすえ
+    song_variation:
+    - esong_code: 3507B18
+      song_name: 越前恋おんな
+      content_type: ''
+  - song_name: 越前恋おんな
+    song_alias:
     esong_code: 3229A27
     t_singer_master_id: '50266'
     singer_name: 竹村 こずえ
@@ -500,20 +500,20 @@ result:
     - esong_code: 3229A27
       song_name: 越前恋おんな
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 越前恋おんな
+  - song_name: EGG
     song_alias:
-    esong_code: 3306B2
-    t_singer_master_id: '50266'
-    singer_name: 竹村 こずえ
+    esong_code: 3511B38
+    t_singer_master_id: '19551'
+    singer_name: 木村 カエラ
     singer_alias:
-    available_date: '2015-10-20'
+    available_date: '2015-10-09'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: えちせんこいおんな
-    singer_name_ruby: たけむらこすえ
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: えつく
+    singer_name_ruby: きむらかえら
     song_variation:
-    - esong_code: 3306B2
-      song_name: 越前恋おんな
-      content_type: DAM生音
+    - esong_code: 3511B38
+      song_name: EGG
+      content_type: JOYﾎﾞｰｶﾙ

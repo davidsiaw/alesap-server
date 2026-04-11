@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1332
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1326
+  all_country_cnt: 1206
   song:
-  - song_name: Help me!!
-    song_alias:
-    esong_code: 2971B40
-    t_singer_master_id: '8409'
-    singer_name: モーニング娘。
-    singer_alias:
-    available_date: '2013-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へるふみ
-    singer_name_ruby: もにんくむすめ
-    song_variation:
-    - esong_code: 2971B40
-      song_name: Help me!!
-      content_type: ''
-  - song_name: へんしんロボット★マックス
-    song_alias:
-    esong_code: 2974B16
-    t_singer_master_id: '34924'
-    singer_name: 横山 だいすけ&三谷 たくみ
-    singer_alias:
-    available_date: '2013-01-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おかあさんといっしょ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: へんしんろほつとま
-    singer_name_ruby: よこやまたいすけみたにたく
-    song_variation:
-    - esong_code: 2974B16
-      song_name: へんしんロボット★マックス
-      content_type: ''
-  - song_name: Voice
-    song_alias:
-    esong_code: 2972A8
-    t_singer_master_id: '22586'
-    singer_name: 三浦 大知
-    singer_alias:
-    available_date: '2013-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほいす
-    singer_name_ruby: みうらたいち
-    song_variation:
-    - esong_code: 2972A8
-      song_name: Voice
-      content_type: ''
-  - song_name: BOYS BE 〜君にあげるために〜
-    song_alias:
-    esong_code: 975B35
-    t_singer_master_id: '13428'
-    singer_name: 影山 ヒロノブ&BROADWAY
-    singer_alias:
-    available_date: '2013-01-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 聖闘士星矢<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほいすひき
-    singer_name_ruby: かけやまひろのふあんとふ
-    song_variation:
-    - esong_code: 975B35
-      song_name: BOYS BE 〜君にあげるために〜
-      content_type: ''
   - song_name: ホイッスル 〜君と過ごした日々〜
     song_alias:
     esong_code: 2964A34
@@ -323,7 +255,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: ほしになるのたつ
     singer_name_ruby: みむ
     song_variation:
@@ -343,7 +275,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: ほしになるのたつ
     singer_name_ruby: みむ
     song_variation:
@@ -353,23 +285,6 @@ result:
     - esong_code: 2966A16
       song_name: 星になるのだっ! [オリジナルクリップ]
       content_type: パセラ限定クリップ
-  - song_name: 星のとなりの空け者〜彦星〜
-    song_alias:
-    esong_code: 2967B30
-    t_singer_master_id: '41201'
-    singer_name: 家の裏でマンボウが死んでるP
-    singer_alias:
-    available_date: '2013-01-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ほしのとなりのうつけ
-    singer_name_ruby: いえのうらてまんほうかしんてるひ
-    song_variation:
-    - esong_code: 2967B30
-      song_name: 星のとなりの空け者〜彦星〜
-      content_type: VOCALOID
   - song_name: 星のとなりの空け者〜織姫〜
     song_alias:
     esong_code: 2967B28
@@ -386,6 +301,23 @@ result:
     song_variation:
     - esong_code: 2967B28
       song_name: 星のとなりの空け者〜織姫〜
+      content_type: VOCALOID
+  - song_name: 星のとなりの空け者〜彦星〜
+    song_alias:
+    esong_code: 2967B30
+    t_singer_master_id: '41201'
+    singer_name: 家の裏でマンボウが死んでるP
+    singer_alias:
+    available_date: '2013-01-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ほしのとなりのうつけ
+    singer_name_ruby: いえのうらてまんほうかしんてるひ
+    song_variation:
+    - esong_code: 2967B30
+      song_name: 星のとなりの空け者〜彦星〜
       content_type: VOCALOID
   - song_name: 星のとなりの空け者〜カッパ〜
     song_alias:
@@ -522,4 +454,72 @@ result:
     song_variation:
     - esong_code: 2973B26
       song_name: HOME HEART
+      content_type: ''
+  - song_name: Voyage (A Classical Version)
+    song_alias:
+    esong_code: 2968B18
+    t_singer_master_id: '8492'
+    singer_name: 浜崎 あゆみ
+    singer_alias:
+    available_date: '2013-01-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほやしゆ
+    singer_name_ruby: はまさきあゆみ
+    song_variation:
+    - esong_code: 2968B18
+      song_name: Voyage (A Classical Version)
+      content_type: ''
+  - song_name: ボーリング
+    song_alias:
+    esong_code: 2969A26
+    t_singer_master_id: '37701'
+    singer_name: 高橋 優
+    singer_alias:
+    available_date: '2013-01-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほりんく
+    singer_name_ruby: たかはしゆう
+    song_variation:
+    - esong_code: 2969A26
+      song_name: ボーリング
+      content_type: ''
+  - song_name: ほろよい酔虎伝
+    song_alias:
+    esong_code: 2976B42
+    t_singer_master_id: '611'
+    singer_name: 冠 二郎
+    singer_alias:
+    available_date: '2013-01-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ほろよいすいこてん
+    singer_name_ruby: かんむりしろう
+    song_variation:
+    - esong_code: 2976B42
+      song_name: ほろよい酔虎伝
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Hollowly Rain
+    song_alias:
+    esong_code: 2974B39
+    t_singer_master_id: '33037'
+    singer_name: Asriel
+    singer_alias:
+    available_date: '2013-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほろりれいん
+    singer_name_ruby: あすりえる
+    song_variation:
+    - esong_code: 2974B39
+      song_name: Hollowly Rain
       content_type: ''

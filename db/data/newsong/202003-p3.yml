@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1485
-  all_max_cnt: 1686
-  all_country_cnt: 1485
+  max_cnt: 1462
+  all_max_cnt: 1663
+  all_country_cnt: 1462
   song:
-  - song_name: Ami
-    song_alias:
-    esong_code: 4341A43
-    t_singer_master_id: '53056'
-    singer_name: 藤原 さくら
-    singer_alias:
-    available_date: '2020-03-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あみ
-    singer_name_ruby: ふしわらさくら
-    song_variation:
-    - esong_code: 4341A43
-      song_name: Ami
-      content_type: ''
   - song_name: 雨の街路樹
     song_alias:
     esong_code: 4334A13
@@ -142,23 +125,6 @@ result:
     song_variation:
     - esong_code: 4337B25
       song_name: Are U Ready? -闘わknight!-
-      content_type: ''
-  - song_name: AliVe
-    song_alias:
-    esong_code: 4337B39
-    t_singer_master_id: '64969'
-    singer_name: AliA
-    singer_alias:
-    available_date: '2020-03-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あらいふ
-    singer_name_ruby: ありあ
-    song_variation:
-    - esong_code: 4337B39
-      song_name: AliVe
       content_type: ''
   - song_name: 嵐ベストメドレー Vol.6
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 4334A40
       song_name: いいKAGENにして
       content_type: ''
+  - song_name: YES or YES (Japanese ver.)[DAM本人歌唱]
+    song_alias:
+    esong_code: 4340A9
+    t_singer_master_id: '35291'
+    singer_name: TWICE
+    singer_alias:
+    available_date: '2020-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: いえすおあいえすし
+    singer_name_ruby: とうわいす
+    song_variation:
+    - esong_code: 4340A9
+      song_name: YES or YES (Japanese ver.)[DAM本人歌唱]
+      content_type: DAM本人歌唱
+  - song_name: イエスタデイ
+    song_alias:
+    esong_code: 4347A32
+    t_singer_master_id: '53847'
+    singer_name: Official髭男dism
+    singer_alias:
+    available_date: '2020-03-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: HELLO WORLD<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: いえすたてい
+    singer_name_ruby: おふいしやるひけたんていすむ
+    song_variation:
+    - esong_code: 4347A32
+      song_name: イエスタデイ
+      content_type: JOYｸﾘｯﾌﾟ

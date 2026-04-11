@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
-  - song_name: 生きて候
-    song_alias:
-    esong_code: 4068A18
-    t_singer_master_id: '28697'
-    singer_name: 紅 晴美
-    singer_alias:
-    available_date: '2018-09-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いきてそうろう
-    singer_name_ruby: くれないはるみ
-    song_variation:
-    - esong_code: 4068A18
-      song_name: 生きて候
-      content_type: ''
   - song_name: 生きる
     song_alias:
     esong_code: 4056A9
@@ -74,23 +57,6 @@ result:
     song_variation:
     - esong_code: 4064A38
       song_name: 生きることが下手な、お前に
-      content_type: ''
-  - song_name: "「生きろ」"
-    song_alias:
-    esong_code: 4062A29
-    t_singer_master_id: '17458'
-    singer_name: NEWS
-    singer_alias:
-    available_date: '2018-09-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いきろ
-    singer_name_ruby: にゆす
-    song_variation:
-    - esong_code: 4062A29
-      song_name: "「生きろ」"
       content_type: ''
   - song_name: IGNITER
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4057A28
       song_name: 芋煮 de ハーモニー
+      content_type: ''
+  - song_name: イヤミ音頭
+    song_alias:
+    esong_code: 4069B4
+    t_singer_master_id: '17331'
+    singer_name: 鈴村 健一
+    singer_alias:
+    available_date: '2018-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: おそ松さん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いやみおんと
+    singer_name_ruby: すすむらけんいち
+    song_variation:
+    - esong_code: 4069B4
+      song_name: イヤミ音頭
+      content_type: ''
+  - song_name: イリュージョニスタ! (G@ME VERSION)
+    song_alias:
+    esong_code: 4064A9
+    t_singer_master_id: '60982'
+    singer_name: 原 紗友里&牧野 由依&M・A・O&竹達 彩奈&洲崎 綾
+    singer_alias:
+    available_date: '2018-09-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター シンデレラガールズ スターライトステージ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いりゆしよにすた
+    singer_name_ruby: はらさゆりまきのゆいまお
+    song_variation:
+    - esong_code: 4064A9
+      song_name: イリュージョニスタ! (G@ME VERSION)
       content_type: ''

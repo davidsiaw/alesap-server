@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: 涙に沈む太陽
+    song_alias:
+    esong_code: 3167B20
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2013-12-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: なみたにしすむた
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 3167B20
+      song_name: 涙に沈む太陽
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 涙の終着駅
     song_alias:
     esong_code: 3152A39
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3175B18
       song_name: No Make
-      content_type: ''
-  - song_name: のんのん日和
-    song_alias:
-    esong_code: 3153A32
-    t_singer_master_id: '49427'
-    singer_name: 小岩井 ことり&村川 梨衣&佐倉 綾音&阿澄 佳奈
-    singer_alias:
-    available_date: '2013-12-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: のんのんびより<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: のんのんひより
-    singer_name_ruby: こいわいことりむらかわりえさ
-    song_variation:
-    - esong_code: 3153A32
-      song_name: のんのん日和
       content_type: ''

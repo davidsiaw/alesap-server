@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 877
-  all_max_cnt: 973
-  all_country_cnt: 877
+  max_cnt: 874
+  all_max_cnt: 970
+  all_country_cnt: 874
   song:
-  - song_name: WHY
-    song_alias:
-    esong_code: 1751B48
-    t_singer_master_id: '39730'
-    singer_name: 4Minute
-    singer_alias:
-    available_date: '2011-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほわい
-    singer_name_ruby: ふおみにつつ
-    song_variation:
-    - esong_code: 1751B48
-      song_name: WHY
-      content_type: ''
-  - song_name: why I wanna know
-    song_alias:
-    esong_code: 1681B6
-    t_singer_master_id: '32333'
-    singer_name: イオシス/3L
-    singer_alias:
-    available_date: '2011-03-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方地霊殿 〜Subterranean Animism.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: ほわいあいわなのう
-    singer_name_ruby: いおしすすりえる
-    song_variation:
-    - esong_code: 1681B6
-      song_name: why I wanna know
-      content_type: 東方
   - song_name: WHITE HOLE
     song_alias:
     esong_code: 1591B5
@@ -66,7 +32,7 @@ result:
     singer_alias:
     available_date: '2011-03-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ3<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ほんていあ
@@ -83,7 +49,7 @@ result:
     singer_alias:
     available_date: '2011-03-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボールZ<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まいんとはわ
@@ -502,6 +468,23 @@ result:
       content_type: ''
   - song_name: Miracle
     song_alias:
+    esong_code: 1594A6
+    t_singer_master_id: '12895'
+    singer_name: EXILE
+    singer_alias:
+    available_date: '2011-03-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: みらくる
+    singer_name_ruby: えくさいる
+    song_variation:
+    - esong_code: 1594A6
+      song_name: Miracle
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Miracle
+    song_alias:
     esong_code: 1690B37
     t_singer_master_id: '12895'
     singer_name: EXILE
@@ -517,3 +500,20 @@ result:
     - esong_code: 1690B37
       song_name: Miracle
       content_type: ''
+  - song_name: milk
+    song_alias:
+    esong_code: 1548B33
+    t_singer_master_id: '8782'
+    singer_name: aiko
+    singer_alias:
+    available_date: '2011-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: みるく
+    singer_name_ruby: あいこ
+    song_variation:
+    - esong_code: 1548B33
+      song_name: milk
+      content_type: JOY生演奏

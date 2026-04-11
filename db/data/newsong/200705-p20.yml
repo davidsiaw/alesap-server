@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 933
-  all_max_cnt: 1037
-  all_country_cnt: 933
+  max_cnt: 932
+  all_max_cnt: 1036
+  all_country_cnt: 932
   song:
-  - song_name: 涙猫
-    song_alias:
-    esong_code: 1779A33
-    t_singer_master_id: '29173'
-    singer_name: メガマソ
-    singer_alias:
-    available_date: '2007-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: なみたねこ
-    singer_name_ruby: めかまそ
-    song_variation:
-    - esong_code: 1779A33
-      song_name: 涙猫
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 涙をゼロに・・・
     song_alias:
     esong_code: 1773B16
@@ -117,7 +100,7 @@ result:
     singer_alias:
     available_date: '2007-05-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 桃井はるこのニコニコRADIO<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: にしゆういつせいき
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1665A21
       song_name: 初恋のまま・・・
+      content_type: ''
+  - song_name: 初恋よ夏嵐になれ
+    song_alias:
+    esong_code: 1781B30
+    t_singer_master_id: '14826'
+    singer_name: 高橋 直純&宮田 幸季
+    singer_alias:
+    available_date: '2007-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 遙かなる時空の中で(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつこいよなつあらし
+    singer_name_ruby: たかはしなおすみやたこう
+    song_variation:
+    - esong_code: 1781B30
+      song_name: 初恋よ夏嵐になれ
       content_type: ''

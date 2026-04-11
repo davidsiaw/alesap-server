@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
-  - song_name: 傷の上には赤いBLOOD
-    song_alias:
-    esong_code: 1761A17
-    t_singer_master_id: '25258'
-    singer_name: 剛紫(244 ENDLI-x)
-    singer_alias:
-    available_date: '2007-04-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすのうえにはあか
-    singer_name_ruby: つよし
-    song_variation:
-    - esong_code: 1761A17
-      song_name: 傷の上には赤いBLOOD
-      content_type: ''
   - song_name: 北のみれん唄
     song_alias:
     esong_code: 925B21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1766B20
       song_name: きよしのソレソレ音頭
+      content_type: ''
+  - song_name: キラメキ
+    song_alias:
+    esong_code: 1781B20
+    t_singer_master_id: '13028'
+    singer_name: 175R
+    singer_alias:
+    available_date: '2007-04-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きらめき
+    singer_name_ruby: いなこらいた
+    song_variation:
+    - esong_code: 1781B20
+      song_name: キラメキ
       content_type: ''

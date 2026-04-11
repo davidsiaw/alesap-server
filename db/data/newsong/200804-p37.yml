@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: Rainy Saturday&Coffee Break
-    song_alias:
-    esong_code: 1980B25
-    t_singer_master_id: '5303'
-    singer_name: 林 哲司
-    singer_alias:
-    available_date: '2008-04-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: れいにさたてい
-    singer_name_ruby: はやしてつし
-    song_variation:
-    - esong_code: 1980B25
-      song_name: Rainy Saturday&Coffee Break
-      content_type: ''
   - song_name: Less Than Zero
     song_alias:
     esong_code: 1976B49
@@ -508,7 +491,7 @@ result:
     singer_alias:
     available_date: '2008-04-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 〜君あるがため〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: わらつてわらつて
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1990B29
       song_name: 笑って、笑って
+      content_type: ''
+  - song_name: 悪い習慣
+    song_alias:
+    esong_code: 1976B48
+    t_singer_master_id: '10447'
+    singer_name: KIRINJI(キリンジ)
+    singer_alias:
+    available_date: '2008-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わるいしゆうかん
+    singer_name_ruby: きりんし
+    song_variation:
+    - esong_code: 1976B48
+      song_name: 悪い習慣
       content_type: ''

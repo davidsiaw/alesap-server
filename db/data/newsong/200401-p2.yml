@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 564
-  all_max_cnt: 620
-  all_country_cnt: 564
+  max_cnt: 562
+  all_max_cnt: 618
+  all_country_cnt: 562
   song:
   - song_name: we're alright
     song_alias:
@@ -398,23 +398,6 @@ result:
     - esong_code: 433B41
       song_name: Oath 〜誓い〜
       content_type: ''
-  - song_name: 男の魂
-    song_alias:
-    esong_code: 192B40
-    t_singer_master_id: '6322'
-    singer_name: 歌川 二三子
-    singer_alias:
-    available_date: '2004-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこのたましい
-    singer_name_ruby: うたかわふみこ
-    song_variation:
-    - esong_code: 192B40
-      song_name: 男の魂
-      content_type: ''
   - song_name: 踊り子
     song_alias:
     esong_code: 439A49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 990B20
       song_name: 想いがあふれたら
+      content_type: ''
+  - song_name: 想い出が多すぎて
+    song_alias:
+    esong_code: 181B42
+    t_singer_master_id: '5391'
+    singer_name: 高木 麻早
+    singer_alias:
+    available_date: '2004-01-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいてかおおす
+    singer_name_ruby: たかきまさ
+    song_variation:
+    - esong_code: 181B42
+      song_name: 想い出が多すぎて
       content_type: ''

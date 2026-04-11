@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 806
-  all_max_cnt: 881
-  all_country_cnt: 806
+  max_cnt: 802
+  all_max_cnt: 877
+  all_country_cnt: 802
   song:
-  - song_name: オンリー
-    song_alias:
-    esong_code: 4468A45
-    t_singer_master_id: '55215'
-    singer_name: 大原 ゆい子
-    singer_alias:
-    available_date: '2021-01-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 無職転生 〜異世界行ったら本気だす〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんり
-    singer_name_ruby: おおはらゆいこ
-    song_variation:
-    - esong_code: 4468A45
-      song_name: オンリー
-      content_type: ''
   - song_name: Only wish
     song_alias:
     esong_code: 4459A23
@@ -449,23 +432,6 @@ result:
     - esong_code: 4463B22
       song_name: GIRL
       content_type: ''
-  - song_name: カルマ
-    song_alias:
-    esong_code: 4462B44
-    t_singer_master_id: '66624'
-    singer_name: 瑛人
-    singer_alias:
-    available_date: '2021-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かるま
-    singer_name_ruby: えいと
-    song_variation:
-    - esong_code: 4462B44
-      song_name: カルマ
-      content_type: ''
   - song_name: 勘ぐれい
     song_alias:
     esong_code: 4464B37
@@ -517,3 +483,37 @@ result:
     - esong_code: 4462B9
       song_name: 元祖!天才チルノちゃん☆
       content_type: 東方
+  - song_name: 勘違い性反希望症
+    song_alias:
+    esong_code: 4462A24
+    t_singer_master_id: '40265'
+    singer_name: DECO*27
+    singer_alias:
+    available_date: '2021-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: かんちかいせいはん
+    singer_name_ruby: てこにな
+    song_variation:
+    - esong_code: 4462A24
+      song_name: 勘違い性反希望症
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: がんばれ!蜘蛛子さんのテーマ
+    song_alias:
+    esong_code: 4468A40
+    t_singer_master_id: '40483'
+    singer_name: 悠木 碧
+    singer_alias:
+    available_date: '2021-01-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 蜘蛛ですが、なにか?<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんはれくもこさ
+    singer_name_ruby: ゆうきあおい
+    song_variation:
+    - esong_code: 4468A40
+      song_name: がんばれ!蜘蛛子さんのテーマ
+      content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: 心友の樹
-    song_alias:
-    esong_code: 3179A12
-    t_singer_master_id: '47212'
-    singer_name: おはガールちゅ!ちゅ!ちゅ!
-    singer_alias:
-    available_date: '2014-02-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんゆうのき
-    singer_name_ruby: おはかるちゆちゆちゆ
-    song_variation:
-    - esong_code: 3179A12
-      song_name: 心友の樹
-      content_type: ''
   - song_name: 水郷情話
     song_alias:
     esong_code: 3205A15
@@ -415,23 +398,6 @@ result:
     - esong_code: 3179B47
       song_name: STEP
       content_type: ''
-  - song_name: Step by Step (Japanese ver.)
-    song_alias:
-    esong_code: 3168B20
-    t_singer_master_id: '41659'
-    singer_name: ZE:A
-    singer_alias:
-    available_date: '2014-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すてつふはいすて
-    singer_name_ruby: せあ
-    song_variation:
-    - esong_code: 3168B20
-      song_name: Step by Step (Japanese ver.)
-      content_type: ''
   - song_name: step by step
     song_alias:
     esong_code: 3198B36
@@ -448,6 +414,23 @@ result:
     song_variation:
     - esong_code: 3198B36
       song_name: step by step
+      content_type: ''
+  - song_name: Step by Step (Japanese ver.)
+    song_alias:
+    esong_code: 3168B20
+    t_singer_master_id: '41659'
+    singer_name: ZE:A
+    singer_alias:
+    available_date: '2014-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すてつふはいすて
+    singer_name_ruby: せあ
+    song_variation:
+    - esong_code: 3168B20
+      song_name: Step by Step (Japanese ver.)
       content_type: ''
   - song_name: STUPiG
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3208A14
       song_name: Stray cat
+      content_type: ''
+  - song_name: ストレート・ストリート
+    song_alias:
+    esong_code: 3182B48
+    t_singer_master_id: '48063'
+    singer_name: Rough Clover
+    singer_alias:
+    available_date: '2014-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すとれとすとりと
+    singer_name_ruby: らふくろは
+    song_variation:
+    - esong_code: 3182B48
+      song_name: ストレート・ストリート
       content_type: ''

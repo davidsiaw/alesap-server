@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: 少年の夢
-    song_alias:
-    esong_code: 1640B38
-    t_singer_master_id: '25415'
-    singer_name: タイナカ サチ
-    singer_alias:
-    available_date: '2006-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようねんのゆめ
-    singer_name_ruby: たいなかさち
-    song_variation:
-    - esong_code: 1640B38
-      song_name: 少年の夢
-      content_type: ''
-  - song_name: 勝利の花びら
-    song_alias:
-    esong_code: 1581B2
-    t_singer_master_id: '25924'
-    singer_name: チナッチャブル
-    singer_alias:
-    available_date: '2006-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ケロロ軍曹<番組名>
-    country_code: '0'
-    content_type: JOYうたいり
-    song_name_ruby: しようりのはなひら
-    singer_name_ruby: ちなつちやふる
-    song_variation:
-    - esong_code: 1581B2
-      song_name: 勝利の花びら
-      content_type: JOYうたいり
   - song_name: 処女航海
     song_alias:
     esong_code: 1625B9
@@ -381,22 +347,22 @@ result:
     - esong_code: 1584A6
       song_name: STAR PLAYA
       content_type: ''
-  - song_name: ずっと遠くで
+  - song_name: STAY
     song_alias:
-    esong_code: 820B8
-    t_singer_master_id: '283'
-    singer_name: 上田 正樹
+    esong_code: 1591A27
+    t_singer_master_id: '1255'
+    singer_name: SMAP
     singer_alias:
-    available_date: '2006-08-17'
+    available_date: '2006-08-18'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: すつととおくて
-    singer_name_ruby: うえたまさき
+    song_name_ruby: すてい
+    singer_name_ruby: すまつふ
     song_variation:
-    - esong_code: 820B8
-      song_name: ずっと遠くで
+    - esong_code: 1591A27
+      song_name: STAY
       content_type: ''
   - song_name: Stay
     song_alias:
@@ -414,23 +380,6 @@ result:
     song_variation:
     - esong_code: 1624B45
       song_name: Stay
-      content_type: ''
-  - song_name: STAY
-    song_alias:
-    esong_code: 1591A27
-    t_singer_master_id: '1255'
-    singer_name: SMAP
-    singer_alias:
-    available_date: '2006-08-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すてい
-    singer_name_ruby: すまつふ
-    song_variation:
-    - esong_code: 1591A27
-      song_name: STAY
       content_type: ''
   - song_name: STAY WITH ME
     song_alias:
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 1608B49
       song_name: stupid
+      content_type: ''
+  - song_name: STOP
+    song_alias:
+    esong_code: 197A43
+    t_singer_master_id: '5039'
+    singer_name: 穴井 夕子(東京パフォーマンスドール)
+    singer_alias:
+    available_date: '2006-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すとつふ
+    singer_name_ruby: あないゆうこ
+    song_variation:
+    - esong_code: 197A43
+      song_name: STOP
+      content_type: ''
+  - song_name: ストーンハウス
+    song_alias:
+    esong_code: 1588A17
+    t_singer_master_id: '12046'
+    singer_name: MONGOL800
+    singer_alias:
+    available_date: '2006-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すとんはうす
+    singer_name_ruby: もんこるはつひやく
+    song_variation:
+    - esong_code: 1588A17
+      song_name: ストーンハウス
+      content_type: ''
+  - song_name: 砂銀
+    song_alias:
+    esong_code: 1581A36
+    t_singer_master_id: '26937'
+    singer_name: 彩菜&堀 奈生
+    singer_alias:
+    available_date: '2006-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 朱-Aka-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すなきん
+    singer_name_ruby: あやなほりなな
+    song_variation:
+    - esong_code: 1581A36
+      song_name: 砂銀
       content_type: ''

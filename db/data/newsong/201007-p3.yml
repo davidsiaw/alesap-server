@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: ありがとう
-    song_alias:
-    esong_code: 2590A34
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2010-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: ありかとう
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 2590A34
-      song_name: ありがとう
-      content_type: JOY生演奏
   - song_name: ありがとう
     song_alias:
     esong_code: 2566B47
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2565B12
       song_name: It's sweet,so sweet
+      content_type: ''
+  - song_name: いつでも夢を
+    song_alias:
+    esong_code: 2564B47
+    t_singer_master_id: '19380'
+    singer_name: 原 由子 duet with 桑田 佳祐
+    singer_alias:
+    available_date: '2010-07-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつてもゆめを
+    singer_name_ruby: はらゆうこてゆえつと
+    song_variation:
+    - esong_code: 2564B47
+      song_name: いつでも夢を
       content_type: ''

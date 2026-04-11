@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1775
-  all_max_cnt: 1979
-  all_country_cnt: 1775
+  max_cnt: 1769
+  all_max_cnt: 1973
+  all_country_cnt: 1769
   song:
-  - song_name: なみだ雪
-    song_alias:
-    esong_code: 3293B4
-    t_singer_master_id: '2183'
-    singer_name: 真木 柚布子(由布子)
-    singer_alias:
-    available_date: '2014-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: なみたゆき
-    singer_name_ruby: まきゆうこ
-    song_variation:
-    - esong_code: 3293B4
-      song_name: なみだ雪
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 涙酔わせて
-    song_alias:
-    esong_code: 3275A40
-    t_singer_master_id: '32959'
-    singer_name: 霧島 美甫
-    singer_alias:
-    available_date: '2014-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみたよわせて
-    singer_name_ruby: きりしまみほ
-    song_variation:
-    - esong_code: 3275A40
-      song_name: 涙酔わせて
-      content_type: ''
-  - song_name: 奈落ブランコ
-    song_alias:
-    esong_code: 3274A41
-    t_singer_master_id: '40145'
-    singer_name: Queen of Wand
-    singer_alias:
-    available_date: '2014-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ならくふらんこ
-    singer_name_ruby: くいんおふわんと
-    song_variation:
-    - esong_code: 3274A41
-      song_name: 奈落ブランコ
-      content_type: ''
   - song_name: 南国土佐を後にして
     song_alias:
     esong_code: 3015A25
@@ -100,7 +49,7 @@ result:
     singer_alias:
     available_date: '2014-06-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイ 女神篇<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: なんちやつてあいと
@@ -400,23 +349,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: NIPPON
     song_alias:
-    esong_code: 3268A26
-    t_singer_master_id: '8522'
-    singer_name: 椎名 林檎
-    singer_alias:
-    available_date: '2014-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: につほん
-    singer_name_ruby: しいなりんこ
-    song_variation:
-    - esong_code: 3268A26
-      song_name: NIPPON
-      content_type: ''
-  - song_name: NIPPON
-    song_alias:
     esong_code: 3268A27
     t_singer_master_id: '8522'
     singer_name: 椎名 林檎
@@ -432,6 +364,23 @@ result:
     - esong_code: 3268A27
       song_name: NIPPON
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: NIPPON
+    song_alias:
+    esong_code: 3268A26
+    t_singer_master_id: '8522'
+    singer_name: 椎名 林檎
+    singer_alias:
+    available_date: '2014-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: につほん
+    singer_name_ruby: しいなりんこ
+    song_variation:
+    - esong_code: 3268A26
+      song_name: NIPPON
+      content_type: ''
   - song_name: 日本茶チャチャ
     song_alias:
     esong_code: 2743B43
@@ -517,3 +466,54 @@ result:
     - esong_code: 3293A22
       song_name: 女房役
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 女人高野
+    song_alias:
+    esong_code: 3296A45
+    t_singer_master_id: '1352'
+    singer_name: 田川 寿美
+    singer_alias:
+    available_date: '2014-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: によにんこうや
+    singer_name_ruby: たかわとしみ
+    song_variation:
+    - esong_code: 3296A45
+      song_name: 女人高野
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 人情酒場
+    song_alias:
+    esong_code: 3268B15
+    t_singer_master_id: '28697'
+    singer_name: 紅 晴美
+    singer_alias:
+    available_date: '2014-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にんしようさかは
+    singer_name_ruby: くれないはるみ
+    song_variation:
+    - esong_code: 3268B15
+      song_name: 人情酒場
+      content_type: ''
+  - song_name: にんだらん
+    song_alias:
+    esong_code: 1132A39
+    t_singer_master_id: '2883'
+    singer_name: りんけんバンド
+    singer_alias:
+    available_date: '2014-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にんたらん
+    singer_name_ruby: りんけんはんと
+    song_variation:
+    - esong_code: 1132A39
+      song_name: にんだらん
+      content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: 我武者羅
-    song_alias:
-    esong_code: 2804B6
-    t_singer_master_id: '21485'
-    singer_name: 小西 克幸
-    singer_alias:
-    available_date: '2012-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双3<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かむしやら
-    singer_name_ruby: こにしかつゆき
-    song_variation:
-    - esong_code: 2804B6
-      song_name: 我武者羅
-      content_type: ''
   - song_name: Color
     song_alias:
     esong_code: 2798B1
@@ -517,3 +500,20 @@ result:
     - esong_code: 2801B28
       song_name: 奇跡の魔法 feat.CUL
       content_type: VOCALOID
+  - song_name: 奇跡はあなたの中に
+    song_alias:
+    esong_code: 2806A44
+    t_singer_master_id: '37493'
+    singer_name: HanaH
+    singer_alias:
+    available_date: '2012-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きせきはあなたのなか
+    singer_name_ruby: はな
+    song_variation:
+    - esong_code: 2806A44
+      song_name: 奇跡はあなたの中に
+      content_type: ''

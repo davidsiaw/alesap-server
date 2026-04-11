@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1499
-  all_max_cnt: 1700
-  all_country_cnt: 1499
+  max_cnt: 1492
+  all_max_cnt: 1694
+  all_country_cnt: 1492
   song:
-  - song_name: 523km
-    song_alias:
-    esong_code: 3352B41
-    t_singer_master_id: '37080'
-    singer_name: DigiCut
-    singer_alias:
-    available_date: '2014-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こひやくにしゆう
-    singer_name_ruby: てしかつと
-    song_variation:
-    - esong_code: 3352B41
-      song_name: 523km
-      content_type: ''
   - song_name: ゴブリンズスケルツォ
     song_alias:
     esong_code: 3332B44
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3333B41
       song_name: さくらの花よ泣きなさい
+      content_type: ''
+  - song_name: The Glory Days
+    song_alias:
+    esong_code: 3350B44
+    t_singer_master_id: '46838'
+    singer_name: Tia
+    singer_alias:
+    available_date: '2014-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: キャプテン・アース<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくろりて
+    singer_name_ruby: ていあ
+    song_variation:
+    - esong_code: 3350B44
+      song_name: The Glory Days
       content_type: ''

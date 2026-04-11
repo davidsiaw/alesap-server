@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1499
-  all_max_cnt: 1700
-  all_country_cnt: 1499
+  max_cnt: 1492
+  all_max_cnt: 1694
+  all_country_cnt: 1492
   song:
-  - song_name: シーラカンス通り
-    song_alias:
-    esong_code: 3340B41
-    t_singer_master_id: '48769'
-    singer_name: 吉澤 嘉代子
-    singer_alias:
-    available_date: '2014-10-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しらかんすとおり
-    singer_name_ruby: よしさわかよこ
-    song_variation:
-    - esong_code: 3340B41
-      song_name: シーラカンス通り
-      content_type: ''
   - song_name: 白雪姫
     song_alias:
     esong_code: 3322A3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3342B6
       song_name: スカッとPUNCH!!
+      content_type: ''
+  - song_name: 好き
+    song_alias:
+    esong_code: 3338A16
+    t_singer_master_id: '32267'
+    singer_name: 西野 カナ
+    singer_alias:
+    available_date: '2014-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すき
+    singer_name_ruby: にしのかな
+    song_variation:
+    - esong_code: 3338A16
+      song_name: 好き
       content_type: ''

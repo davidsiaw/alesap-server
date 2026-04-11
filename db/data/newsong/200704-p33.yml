@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
-  - song_name: 街の灯
-    song_alias:
-    esong_code: 1772A15
-    t_singer_master_id: '7715'
-    singer_name: 中村 一義
-    singer_alias:
-    available_date: '2007-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まちのあかり
-    singer_name_ruby: なかむらかすよし
-    song_variation:
-    - esong_code: 1772A15
-      song_name: 街の灯
-      content_type: ''
   - song_name: まっがーれ↓スペクタクル
     song_alias:
     esong_code: 1758B27
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1757B25
       song_name: 未来の太陽
+      content_type: ''
+  - song_name: 未来の地図 feat.川嶋 あい
+    song_alias:
+    esong_code: 1765B17
+    t_singer_master_id: '22229'
+    singer_name: Mi
+    singer_alias:
+    available_date: '2007-04-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みらいのちす
+    singer_name_ruby: えむあい
+    song_variation:
+    - esong_code: 1765B17
+      song_name: 未来の地図 feat.川嶋 あい
       content_type: ''

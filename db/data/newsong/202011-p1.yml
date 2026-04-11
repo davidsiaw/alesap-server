@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 952
-  all_country_cnt: 880
+  max_cnt: 871
+  all_max_cnt: 943
+  all_country_cnt: 871
   song:
   - song_name: A Walk
     song_alias:
@@ -279,23 +279,6 @@ result:
     - esong_code: 4441B23
       song_name: 足跡
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 明日の計画
-    song_alias:
-    esong_code: 4443B29
-    t_singer_master_id: '42637'
-    singer_name: 打首獄門同好会
-    singer_alias:
-    available_date: '2020-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あしたのけいかく
-    singer_name_ruby: うちくひこくもんとうこうかい
-    song_variation:
-    - esong_code: 4443B29
-      song_name: 明日の計画
-      content_type: ''
   - song_name: 明日は晴れ!
     song_alias:
     esong_code: 4438B10
@@ -485,21 +468,21 @@ result:
       content_type: ''
   - song_name: あなたの水中花
     song_alias:
-    esong_code: 4184B12
+    esong_code: 4267B26
     t_singer_master_id: '2228'
     singer_name: 松原 のぶえ
     singer_alias:
-    available_date: '2020-11-06'
+    available_date: '2020-11-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: あなたのすいちゆうか
     singer_name_ruby: まつはらのふえ
     song_variation:
-    - esong_code: 4184B12
+    - esong_code: 4267B26
       song_name: あなたの水中花
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: あなたの水中花
     song_alias:
     esong_code: 4441B17
@@ -517,3 +500,20 @@ result:
     - esong_code: 4441B17
       song_name: あなたの水中花
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: あなたの水中花
+    song_alias:
+    esong_code: 4184B12
+    t_singer_master_id: '2228'
+    singer_name: 松原 のぶえ
+    singer_alias:
+    available_date: '2020-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あなたのすいちゆうか
+    singer_name_ruby: まつはらのふえ
+    song_variation:
+    - esong_code: 4184B12
+      song_name: あなたの水中花
+      content_type: JOYﾎﾞｰｶﾙ

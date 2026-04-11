@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
+  - song_name: SUPER☆STAR
+    song_alias:
+    esong_code: 1644B5
+    t_singer_master_id: '16859'
+    singer_name: KAMUI
+    singer_alias:
+    available_date: '2006-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すはすた
+    singer_name_ruby: かむい
+    song_variation:
+    - esong_code: 1644B5
+      song_name: SUPER☆STAR
+      content_type: ''
   - song_name: スパート!
     song_alias:
     esong_code: 1655A12
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1643B31
       song_name: そこにあるかも知れない... (Special Full Version)
-      content_type: ''
-  - song_name: その目に映して
-    song_alias:
-    esong_code: 1627A35
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '2006-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そのめにうつして
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 1627A35
-      song_name: その目に映して
       content_type: ''

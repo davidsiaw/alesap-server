@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1349
-  all_max_cnt: 1532
-  all_country_cnt: 1349
+  max_cnt: 1335
+  all_max_cnt: 1518
+  all_country_cnt: 1335
   song:
-  - song_name: スローダンス
-    song_alias:
-    esong_code: 4181B46
-    t_singer_master_id: '63916'
-    singer_name: 二ノ宮 れい&小椋 タケル
-    singer_alias:
-    available_date: '2019-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すろたんす
-    singer_name_ruby: にのみやれいあんとおくら
-    song_variation:
-    - esong_code: 4181B46
-      song_name: スローダンス
-      content_type: ''
-  - song_name: 静寂のアポストル
-    song_alias:
-    esong_code: 4175B35
-    t_singer_master_id: '12156'
-    singer_name: JAM Project
-    singer_alias:
-    available_date: '2019-04-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ワンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: せいしやくのあほ
-    singer_name_ruby: しやむふろしえくと
-    song_variation:
-    - esong_code: 4175B35
-      song_name: 静寂のアポストル
-      content_type: ''
-  - song_name: 静寂のアポストル (TV Size)
-    song_alias:
-    esong_code: 4181B17
-    t_singer_master_id: '12156'
-    singer_name: JAM Project
-    singer_alias:
-    available_date: '2019-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ワンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: せいしやくのあほ
-    singer_name_ruby: しやむふろしえくと
-    song_variation:
-    - esong_code: 4181B17
-      song_name: 静寂のアポストル (TV Size)
-      content_type: ''
   - song_name: 青春
     song_alias:
     esong_code: 4180A18
@@ -315,23 +264,6 @@ result:
       content_type: ''
   - song_name: せめてもう一度
     song_alias:
-    esong_code: 4175B49
-    t_singer_master_id: '389'
-    singer_name: 大月 みやこ
-    singer_alias:
-    available_date: '2019-04-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せめてもういちと
-    singer_name_ruby: おおつきみやこ
-    song_variation:
-    - esong_code: 4175B49
-      song_name: せめてもう一度
-      content_type: ''
-  - song_name: せめてもう一度
-    song_alias:
     esong_code: 4175B23
     t_singer_master_id: '389'
     singer_name: 大月 みやこ
@@ -347,6 +279,23 @@ result:
     - esong_code: 4175B23
       song_name: せめてもう一度
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: せめてもう一度
+    song_alias:
+    esong_code: 4175B49
+    t_singer_master_id: '389'
+    singer_name: 大月 みやこ
+    singer_alias:
+    available_date: '2019-04-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せめてもういちと
+    singer_name_ruby: おおつきみやこ
+    song_variation:
+    - esong_code: 4175B49
+      song_name: せめてもう一度
+      content_type: ''
   - song_name: ぜろ
     song_alias:
     esong_code: 4170A17
@@ -517,3 +466,54 @@ result:
     - esong_code: 4171B28
       song_name: そこらへんによくある話
       content_type: ''
+  - song_name: そして時代は続く
+    song_alias:
+    esong_code: 4182B26
+    t_singer_master_id: '63123'
+    singer_name: カンザキイオリ
+    singer_alias:
+    available_date: '2019-04-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: そしてしたいはつ
+    singer_name_ruby: かんさきいおり
+    song_variation:
+    - esong_code: 4182B26
+      song_name: そして時代は続く
+      content_type: VOCALOID
+  - song_name: そっけない
+    song_alias:
+    esong_code: 4173A27
+    t_singer_master_id: '21655'
+    singer_name: RADWIMPS
+    singer_alias:
+    available_date: '2019-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: そつけない
+    singer_name_ruby: らつとういんふす
+    song_variation:
+    - esong_code: 4173A27
+      song_name: そっけない
+      content_type: DAM生音
+  - song_name: そっけない
+    song_alias:
+    esong_code: 4173A41
+    t_singer_master_id: '21655'
+    singer_name: RADWIMPS
+    singer_alias:
+    available_date: '2019-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: そつけない
+    singer_name_ruby: らつとういんふす
+    song_variation:
+    - esong_code: 4173A41
+      song_name: そっけない
+      content_type: DAMﾌﾟﾛｵｹ

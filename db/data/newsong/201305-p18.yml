@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: しゃくなげの花
+    song_alias:
+    esong_code: 3033A2
+    t_singer_master_id: '8424'
+    singer_name: 犬山 イヌコ(inuko inuyama)
+    singer_alias:
+    available_date: '2013-05-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやくなけのはな
+    singer_name_ruby: いぬやまいぬこ
+    song_variation:
+    - esong_code: 3033A2
+      song_name: しゃくなげの花
+      content_type: ''
   - song_name: Justいましかない
     song_alias:
     esong_code: 3031A18
@@ -183,7 +200,7 @@ result:
     t_singer_master_id: '10507'
     singer_name: 氷川 きよし
     singer_alias:
-    available_date: '2013-05-28'
+    available_date: '2013-05-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -287,7 +304,7 @@ result:
     singer_alias:
     available_date: '2013-05-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダー×スーパー戦隊×宇宙刑事 スーパーヒーロー大戦Z<番組名>
+    tie_up: 劇場版 スーパーヒーロー大戦<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しようちやくうい
@@ -506,20 +523,3 @@ result:
     - esong_code: 2833A12
       song_name: 人生五分と五分
       content_type: ''
-  - song_name: 人生花ごよみ
-    song_alias:
-    esong_code: 3037B4
-    t_singer_master_id: '1824'
-    singer_name: 原田 悠里
-    singer_alias:
-    available_date: '2013-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: しんせいはなこよ
-    singer_name_ruby: はらたゆり
-    song_variation:
-    - esong_code: 3037B4
-      song_name: 人生花ごよみ
-      content_type: JOYﾎﾞｰｶﾙ

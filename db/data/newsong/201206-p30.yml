@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: ハッピーラッキー☆ゴー!
-    song_alias:
-    esong_code: 2802A14
-    t_singer_master_id: '43508'
-    singer_name: 芦田 愛菜
-    singer_alias:
-    available_date: '2012-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ジュエルペット きら☆デコッ!<番組名>
-    country_code: '0'
-    content_type: JOYうたいり
-    song_name_ruby: はつひらつきこ
-    singer_name_ruby: あしたまな
-    song_variation:
-    - esong_code: 2802A14
-      song_name: ハッピーラッキー☆ゴー!
-      content_type: JOYうたいり
-  - song_name: Party
-    song_alias:
-    esong_code: 2797B10
-    t_singer_master_id: '12154'
-    singer_name: AiM
-    singer_alias:
-    available_date: '2012-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はてい
-    singer_name_ruby: えいむ
-    song_variation:
-    - esong_code: 2797B10
-      song_name: Party
-      content_type: ''
   - song_name: PARTY! PARTY!
     song_alias:
     esong_code: 2400B32
@@ -66,7 +32,7 @@ result:
     singer_alias:
     available_date: '2012-06-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ ザ ヒーローズ ツインブレイヴ<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: はていらふひ
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2804B5
       song_name: 春風ラブレター
+      content_type: ''
+  - song_name: ハルカナタ feat.鏡音レン
+    song_alias:
+    esong_code: 2805A22
+    t_singer_master_id: '45191'
+    singer_name: クイナ/chiroro*
+    singer_alias:
+    available_date: '2012-06-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: はるかなた
+    singer_name_ruby: くいなちろろ
+    song_variation:
+    - esong_code: 2805A22
+      song_name: ハルカナタ feat.鏡音レン
+      content_type: VOCALOID
+  - song_name: 遥か山の辺の道
+    song_alias:
+    esong_code: 2803B28
+    t_singer_master_id: '28677'
+    singer_name: 奥野 てる子
+    singer_alias:
+    available_date: '2012-06-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はるかやまのへのみ
+    singer_name_ruby: おくのてるこ
+    song_variation:
+    - esong_code: 2803B28
+      song_name: 遥か山の辺の道
       content_type: ''

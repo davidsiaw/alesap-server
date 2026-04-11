@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
   - song_name: 君宛のメロディー
     song_alias:
@@ -398,6 +398,23 @@ result:
     - esong_code: 1960A24
       song_name: 清姫の帯
       content_type: ''
+  - song_name: ギリギリHERO
+    song_alias:
+    esong_code: 1978B18
+    t_singer_master_id: '16137'
+    singer_name: mihimaru GT
+    singer_alias:
+    available_date: '2008-04-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きりきりひろ
+    singer_name_ruby: みひまるしてい
+    song_variation:
+    - esong_code: 1978B18
+      song_name: ギリギリHERO
+      content_type: ''
   - song_name: キリンの首より長くなる。
     song_alias:
     esong_code: 1983A49
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1998A17
       song_name: 銀座のマキ
-      content_type: ''
-  - song_name: 禁断症状
-    song_alias:
-    esong_code: 1992B43
-    t_singer_master_id: '28285'
-    singer_name: LuLu
-    singer_alias:
-    available_date: '2008-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんたんしようし
-    singer_name_ruby: るる
-    song_variation:
-    - esong_code: 1992B43
-      song_name: 禁断症状
       content_type: ''

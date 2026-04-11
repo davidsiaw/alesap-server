@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: 鹿児島の男
-    song_alias:
-    esong_code: 591B30
-    t_singer_master_id: '12623'
-    singer_name: 瀬戸内 三郎
-    singer_alias:
-    available_date: '2007-09-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かこしまのおとこ
-    singer_name_ruby: せとうちさふろう
-    song_variation:
-    - esong_code: 591B30
-      song_name: 鹿児島の男
-      content_type: ''
   - song_name: カサブタ
     song_alias:
     esong_code: 1869B15
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1869A13
       song_name: カラ岳(たき)
+      content_type: ''
+  - song_name: カラフル
+    song_alias:
+    esong_code: 1862A4
+    t_singer_master_id: '13074'
+    singer_name: 柴田 淳
+    singer_alias:
+    available_date: '2007-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: からふる
+    singer_name_ruby: しはたしゆん
+    song_variation:
+    - esong_code: 1862A4
+      song_name: カラフル
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
-  - song_name: 琉球列島
-    song_alias:
-    esong_code: 3485B17
-    t_singer_master_id: '54089'
-    singer_name: 与那覇 忠
-    singer_alias:
-    available_date: '2015-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: りゆうきゆうれつとう
-    singer_name_ruby: よなはたたし
-    song_variation:
-    - esong_code: 3485B17
-      song_name: 琉球列島
-      content_type: ''
-  - song_name: 流線コントラスト
-    song_alias:
-    esong_code: 3476B37
-    t_singer_master_id: '52240'
-    singer_name: 豊田 萌絵
-    singer_alias:
-    available_date: '2015-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 響け!ユーフォニアム<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: りゆうせんこんとらす
-    singer_name_ruby: とよたもえ
-    song_variation:
-    - esong_code: 3476B37
-      song_name: 流線コントラスト
-      content_type: ''
   - song_name: Lily
     song_alias:
     esong_code: 3487A40
@@ -66,7 +32,7 @@ result:
     singer_alias:
     available_date: '2015-08-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダードライブ サプライズ・フューチャー<番組名>
+    tie_up: 仮面ライダードライブ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: りれい
@@ -196,23 +162,6 @@ result:
       content_type: ''
   - song_name: 麗人草
     song_alias:
-    esong_code: 3486B40
-    t_singer_master_id: '1994'
-    singer_name: 藤 あや子
-    singer_alias:
-    available_date: '2015-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: れいしんそう
-    singer_name_ruby: ふしあやこ
-    song_variation:
-    - esong_code: 3486B40
-      song_name: 麗人草
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 麗人草
-    song_alias:
     esong_code: 3485A35
     t_singer_master_id: '1994'
     singer_name: 藤 あや子
@@ -228,6 +177,23 @@ result:
     - esong_code: 3485A35
       song_name: 麗人草
       content_type: ''
+  - song_name: 麗人草
+    song_alias:
+    esong_code: 3486B40
+    t_singer_master_id: '1994'
+    singer_name: 藤 あや子
+    singer_alias:
+    available_date: '2015-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: れいしんそう
+    singer_name_ruby: ふしあやこ
+    song_variation:
+    - esong_code: 3486B40
+      song_name: 麗人草
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Let's go! Red!
     song_alias:
     esong_code: 3485A9
@@ -338,7 +304,7 @@ result:
     singer_alias:
     available_date: '2015-08-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ガッチャマン クラウズ インサイト<番組名>
+    tie_up: ガッチャマン クラウズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ろくしゆうおくのつ
@@ -346,23 +312,6 @@ result:
     song_variation:
     - esong_code: 3473B43
       song_name: 60億の翼
-      content_type: ''
-  - song_name: Rollin'
-    song_alias:
-    esong_code: 3474A34
-    t_singer_master_id: '52159'
-    singer_name: Crystal Lake
-    singer_alias:
-    available_date: '2015-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ろりん
-    singer_name_ruby: くりすたるれいく
-    song_variation:
-    - esong_code: 3474A34
-      song_name: Rollin'
       content_type: ''
   - song_name: ローリン
     song_alias:
@@ -380,6 +329,23 @@ result:
     song_variation:
     - esong_code: 3474A45
       song_name: ローリン
+      content_type: ''
+  - song_name: Rollin'
+    song_alias:
+    esong_code: 3474A34
+    t_singer_master_id: '52159'
+    singer_name: Crystal Lake
+    singer_alias:
+    available_date: '2015-08-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろりん
+    singer_name_ruby: くりすたるれいく
+    song_variation:
+    - esong_code: 3474A34
+      song_name: Rollin'
       content_type: ''
   - song_name: ロンドンデリーの歌 (野上彰作詞)
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 3474B1
       song_name: ワガハイは feat.GUMI
       content_type: VOCALOID
+  - song_name: 別れ旅
+    song_alias:
+    esong_code: 3486A49
+    t_singer_master_id: '54042'
+    singer_name: 大乃国&渚 ひろみ
+    singer_alias:
+    available_date: '2015-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わかれたひ
+    singer_name_ruby: おおのくになきさひろみ
+    song_variation:
+    - esong_code: 3486A49
+      song_name: 別れ旅
+      content_type: ''
+  - song_name: わかんないのはいやだ
+    song_alias:
+    esong_code: 3476B46
+    t_singer_master_id: '38314'
+    singer_name: 植田 真梨恵
+    singer_alias:
+    available_date: '2015-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わかんないのはいやた
+    singer_name_ruby: うえたまりえ
+    song_variation:
+    - esong_code: 3476B46
+      song_name: わかんないのはいやだ
+      content_type: ''

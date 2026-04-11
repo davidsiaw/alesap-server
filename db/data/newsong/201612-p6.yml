@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1336
-  all_max_cnt: 1579
-  all_country_cnt: 1336
+  max_cnt: 1327
+  all_max_cnt: 1570
+  all_country_cnt: 1327
   song:
   - song_name: 運命の人
     song_alias:
@@ -227,23 +227,6 @@ result:
     song_variation:
     - esong_code: 3734B3
       song_name: F.M.B!!
-      content_type: ''
-  - song_name: el.
-    song_alias:
-    esong_code: 3740B37
-    t_singer_master_id: '45040'
-    singer_name: indigo la End
-    singer_alias:
-    available_date: '2016-12-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: える
-    singer_name_ruby: いんていこらえんと
-    song_variation:
-    - esong_code: 3740B37
-      song_name: el.
       content_type: ''
   - song_name: LOL
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3740B12
       song_name: お邪魔チックLover
+      content_type: ''
+  - song_name: 小樽 待つ女
+    song_alias:
+    esong_code: 3737B14
+    t_singer_master_id: '32672'
+    singer_name: 叶 やよい
+    singer_alias:
+    available_date: '2016-12-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おたるまつおんな
+    singer_name_ruby: かのうやよい
+    song_variation:
+    - esong_code: 3737B14
+      song_name: 小樽 待つ女
       content_type: ''

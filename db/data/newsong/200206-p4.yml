@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
   - song_name: くぐりぬけた花水木
     song_alias:
@@ -128,23 +128,6 @@ result:
       content_type: ''
   - song_name: Clover
     song_alias:
-    esong_code: 864A38
-    t_singer_master_id: '7646'
-    singer_name: 松 たか子
-    singer_alias:
-    available_date: '2002-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろは
-    singer_name_ruby: まつたかこ
-    song_variation:
-    - esong_code: 864A38
-      song_name: Clover
-      content_type: ''
-  - song_name: Clover
-    song_alias:
     esong_code: 116B43
     t_singer_master_id: '7646'
     singer_name: 松 たか子
@@ -160,6 +143,23 @@ result:
     - esong_code: 116B43
       song_name: Clover
       content_type: DAM良音
+  - song_name: Clover
+    song_alias:
+    esong_code: 864A38
+    t_singer_master_id: '7646'
+    singer_name: 松 たか子
+    singer_alias:
+    available_date: '2002-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くろは
+    singer_name_ruby: まつたかこ
+    song_variation:
+    - esong_code: 864A38
+      song_name: Clover
+      content_type: ''
   - song_name: 激情
     song_alias:
     esong_code: 719B28

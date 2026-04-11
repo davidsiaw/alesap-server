@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1307
-  all_max_cnt: 1525
-  all_country_cnt: 1307
+  max_cnt: 1293
+  all_max_cnt: 1511
+  all_country_cnt: 1293
   song:
   - song_name: あゝあの人に
     song_alias:
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: アイラブユー
     song_alias:
-    esong_code: 3986A40
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2018-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あいらふゆ
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 3986A40
-      song_name: アイラブユー
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: アイラブユー
-    song_alias:
     esong_code: 3979A8
     t_singer_master_id: '32267'
     singer_name: 西野 カナ
@@ -279,6 +262,23 @@ result:
     - esong_code: 3979A8
       song_name: アイラブユー
       content_type: ''
+  - song_name: アイラブユー
+    song_alias:
+    esong_code: 3986A40
+    t_singer_master_id: '32267'
+    singer_name: 西野 カナ
+    singer_alias:
+    available_date: '2018-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あいらふゆ
+    singer_name_ruby: にしのかな
+    song_variation:
+    - esong_code: 3986A40
+      song_name: アイラブユー
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: I'll be there
     song_alias:
     esong_code: 3977B28

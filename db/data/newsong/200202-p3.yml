@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 433
-  all_max_cnt: 461
-  all_country_cnt: 433
+  max_cnt: 431
+  all_max_cnt: 459
+  all_country_cnt: 431
   song:
-  - song_name: 片恋椿
-    song_alias:
-    esong_code: 764B30
-    t_singer_master_id: '13523'
-    singer_name: 志穂 かおり
-    singer_alias:
-    available_date: '2002-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かたこいつはき
-    singer_name_ruby: しほかおり
-    song_variation:
-    - esong_code: 764B30
-      song_name: 片恋椿
-      content_type: ''
   - song_name: 門倉有希メドレー
     song_alias:
     esong_code: 94A42
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 764A38
       song_name: 霧と恋
+      content_type: ''
+  - song_name: 霧のバラード
+    song_alias:
+    esong_code: 768A40
+    t_singer_master_id: '2271'
+    singer_name: 美川 憲一
+    singer_alias:
+    available_date: '2002-02-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きりのはらと
+    singer_name_ruby: みかわけんいち
+    song_variation:
+    - esong_code: 768A40
+      song_name: 霧のバラード
       content_type: ''

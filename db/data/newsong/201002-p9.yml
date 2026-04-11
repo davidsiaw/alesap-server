@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: きっとStand by you
-    song_alias:
-    esong_code: 2479B2
-    t_singer_master_id: '18397'
-    singer_name: 清水 愛
-    singer_alias:
-    available_date: '2010-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 魔法少女リリカルなのは<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きつとすたんとは
-    singer_name_ruby: しみすあい
-    song_variation:
-    - esong_code: 2479B2
-      song_name: きっとStand by you
-      content_type: ''
-  - song_name: 汽笛 feat.重音テト
-    song_alias:
-    esong_code: 2479B30
-    t_singer_master_id: '37586'
-    singer_name: 耳ロボP
-    singer_alias:
-    available_date: '2010-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: きてき
-    singer_name_ruby: みみろほひ
-    song_variation:
-    - esong_code: 2479B30
-      song_name: 汽笛 feat.重音テト
-      content_type: VOCALOID
   - song_name: 希望のうた
     song_alias:
     esong_code: 2480A42
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2477B33
       song_name: くちべに切手
+      content_type: ''
+  - song_name: ぐ〜チョコランタンのテーマ
+    song_alias:
+    esong_code: 2468B48
+    t_singer_master_id: '28158'
+    singer_name: スプー&アネム&ズズ&ジャコビ
+    singer_alias:
+    available_date: '2010-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: おかあさんといっしょ ぐ〜チョコランタン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くちよこらんたん
+    singer_name_ruby: すふあねむすすしやこひ
+    song_variation:
+    - esong_code: 2468B48
+      song_name: ぐ〜チョコランタンのテーマ
+      content_type: ''
+  - song_name: Good!
+    song_alias:
+    esong_code: 2479B21
+    t_singer_master_id: '38907'
+    singer_name: 朴 路美&釘宮 理恵&豊口 めぐみ&大川 透&藤原 啓治
+    singer_alias:
+    available_date: '2010-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鋼の錬金術師<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつと
+    singer_name_ruby: はくろみくきみやりえと
+    song_variation:
+    - esong_code: 2479B21
+      song_name: Good!
       content_type: ''

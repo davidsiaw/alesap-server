@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: シンガロング
-    song_alias:
-    esong_code: 1871B44
-    t_singer_master_id: '20538'
-    singer_name: 100s
-    singer_alias:
-    available_date: '2007-09-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんかろんく
-    singer_name_ruby: ひやくしき
-    song_variation:
-    - esong_code: 1871B44
-      song_name: シンガロング
-      content_type: ''
   - song_name: SHINING with DUBSENSEMANIA
     song_alias:
     esong_code: 1865B37
@@ -517,3 +500,20 @@ result:
     - esong_code: 1870B11
       song_name: スパイダー
       content_type: ''
+  - song_name: Spiderman
+    song_alias:
+    esong_code: 1866B41
+    t_singer_master_id: '25455'
+    singer_name: DJ OZMA
+    singer_alias:
+    available_date: '2007-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: すはいたまん
+    singer_name_ruby: ていしえいおすま
+    song_variation:
+    - esong_code: 1866B41
+      song_name: Spiderman
+      content_type: DAM良音

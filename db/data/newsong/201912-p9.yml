@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1237
-  all_max_cnt: 1447
-  all_country_cnt: 1237
+  max_cnt: 1218
+  all_max_cnt: 1428
+  all_country_cnt: 1218
   song:
-  - song_name: 河童
-    song_alias:
-    esong_code: 4284A15
-    t_singer_master_id: '174'
-    singer_name: 石川 さゆり(SAYURI)
-    singer_alias:
-    available_date: '2019-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: かつは
-    singer_name_ruby: いしかわさゆり
-    song_variation:
-    - esong_code: 4284A15
-      song_name: 河童
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: カツベン節
     song_alias:
     esong_code: 4296B2
@@ -227,23 +210,6 @@ result:
     song_variation:
     - esong_code: 4301A27
       song_name: カリフォルニア
-      content_type: ''
-  - song_name: Girl is fun
-    song_alias:
-    esong_code: 4294B11
-    t_singer_master_id: '45657'
-    singer_name: 内田 真礼
-    singer_alias:
-    available_date: '2019-12-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かるいすふあん
-    singer_name_ruby: うちたまあや
-    song_variation:
-    - esong_code: 4294B11
-      song_name: Girl is fun
       content_type: ''
   - song_name: ガルスピ 〜Smells Like Girl Spirit〜
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4307B39
       song_name: キセキ
+      content_type: ''
+  - song_name: キセキ (Eden Ver.)
+    song_alias:
+    esong_code: 4303A27
+    t_singer_master_id: '60905'
+    singer_name: Eden
+    singer_alias:
+    available_date: '2019-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: あんさんぶるスターズ!(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きせきえてんは
+    singer_name_ruby: えてん
+    song_variation:
+    - esong_code: 4303A27
+      song_name: キセキ (Eden Ver.)
+      content_type: ''
+  - song_name: キセキ (Trickstar Ver.)
+    song_alias:
+    esong_code: 4303A28
+    t_singer_master_id: '55263'
+    singer_name: Trickstar
+    singer_alias:
+    available_date: '2019-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: あんさんぶるスターズ!(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きせきとりつくすた
+    singer_name_ruby: とりつくすた
+    song_variation:
+    - esong_code: 4303A28
+      song_name: キセキ (Trickstar Ver.)
       content_type: ''

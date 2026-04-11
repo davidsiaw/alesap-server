@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: ドラえもん・七不思議〜其の一〜
-    song_alias:
-    esong_code: 1468A17
-    t_singer_master_id: '25475'
-    singer_name: 森の木児童合唱団&水田 わさび&堀内 法利&堀内 愛祥
-    singer_alias:
-    available_date: '2008-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ドラえもん(新)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とらえもんななふし
-    singer_name_ruby: もりのきしとうかつしようたんみすたわさひほり
-    song_variation:
-    - esong_code: 1468A17
-      song_name: ドラえもん・七不思議〜其の一〜
-      content_type: ''
   - song_name: ドラえもん ひみつ道具の数えうた
     song_alias:
     esong_code: 1468A13
@@ -466,23 +449,6 @@ result:
     - esong_code: 1991A31
       song_name: 菜の花鉄道
       content_type: ''
-  - song_name: 涙
-    song_alias:
-    esong_code: 1977A12
-    t_singer_master_id: '32712'
-    singer_name: 辻中 泰乃
-    singer_alias:
-    available_date: '2008-04-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東京魔人學園剣風帖 龍龍<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみた
-    singer_name_ruby: つしなかやすの
-    song_variation:
-    - esong_code: 1977A12
-      song_name: 涙
-      content_type: ''
   - song_name: ナミダ feat.ACO
     song_alias:
     esong_code: 1976A24
@@ -500,6 +466,23 @@ result:
     - esong_code: 1976A24
       song_name: ナミダ feat.ACO
       content_type: ''
+  - song_name: 涙
+    song_alias:
+    esong_code: 1977A12
+    t_singer_master_id: '32712'
+    singer_name: 辻中 泰乃
+    singer_alias:
+    available_date: '2008-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東京魔人學園剣風帖 龍龍<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみた
+    singer_name_ruby: つしなかやすの
+    song_variation:
+    - esong_code: 1977A12
+      song_name: 涙
+      content_type: ''
   - song_name: 涙の色
     song_alias:
     esong_code: 1989B21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1989B21
       song_name: 涙の色
+      content_type: ''
+  - song_name: 涙のウェディング・ディ
+    song_alias:
+    esong_code: 291A46
+    t_singer_master_id: '707'
+    singer_name: クールス(クールス・ロカビリークラブ)
+    singer_alias:
+    available_date: '2008-04-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたのうえてい
+    singer_name_ruby: くるす
+    song_variation:
+    - esong_code: 291A46
+      song_name: 涙のウェディング・ディ
       content_type: ''

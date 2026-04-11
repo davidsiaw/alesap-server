@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1336
-  all_max_cnt: 1579
-  all_country_cnt: 1336
+  max_cnt: 1327
+  all_max_cnt: 1570
+  all_country_cnt: 1327
   song:
-  - song_name: たそがれ本線
-    song_alias:
-    esong_code: 3685A20
-    t_singer_master_id: '26414'
-    singer_name: 山本 あき
-    singer_alias:
-    available_date: '2016-12-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: たそかれほんせん
-    singer_name_ruby: やまもとあき
-    song_variation:
-    - esong_code: 3685A20
-      song_name: たそがれ本線
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: だってこんな好きなんだから
-    song_alias:
-    esong_code: 3736A49
-    t_singer_master_id: '57688'
-    singer_name: 月に吠える。
-    singer_alias:
-    available_date: '2016-12-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たつてこんなすきな
-    singer_name_ruby: つきにほえる
-    song_variation:
-    - esong_code: 3736A49
-      song_name: だってこんな好きなんだから
-      content_type: ''
-  - song_name: 脱法ロック feat.鏡音レン
-    song_alias:
-    esong_code: 3739A10
-    t_singer_master_id: '43451'
-    singer_name: Neru
-    singer_alias:
-    available_date: '2016-12-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: たつほうろつく
-    singer_name_ruby: ねる
-    song_variation:
-    - esong_code: 3739A10
-      song_name: 脱法ロック feat.鏡音レン
-      content_type: VOCALOID
-  - song_name: WWDBEST
-    song_alias:
-    esong_code: 3739B26
-    t_singer_master_id: '43064'
-    singer_name: でんぱ組.inc
-    singer_alias:
-    available_date: '2016-12-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たふりゆたふ
-    singer_name_ruby: てんはくみいんく
-    song_variation:
-    - esong_code: 3739B26
-      song_name: WWDBEST
-      content_type: ''
-  - song_name: Double Down
-    song_alias:
-    esong_code: 3734A37
-    t_singer_master_id: '46401'
-    singer_name: SKY-HI
-    singer_alias:
-    available_date: '2016-12-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たふるたうん
-    singer_name_ruby: すかいはい
-    song_variation:
-    - esong_code: 3734A37
-      song_name: Double Down
-      content_type: ''
   - song_name: たらい舟に乗って
     song_alias:
     esong_code: 3726A18
@@ -228,22 +143,22 @@ result:
     - esong_code: 3741B18
       song_name: Dance Dance!!
       content_type: ''
-  - song_name: タンポポ
+  - song_name: 蒲公英
     song_alias:
-    esong_code: 3741A29
-    t_singer_master_id: '55017'
-    singer_name: Le☆S☆Ca
+    esong_code: 3728B17
+    t_singer_master_id: '54093'
+    singer_name: the irony
     singer_alias:
-    available_date: '2016-12-17'
+    available_date: '2016-12-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: Tokyo 7th シスターズ<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: たんほほ
-    singer_name_ruby: れすか
+    singer_name_ruby: しあいろに
     song_variation:
-    - esong_code: 3741A29
-      song_name: タンポポ
+    - esong_code: 3728B17
+      song_name: 蒲公英
       content_type: ''
   - song_name: たんぽぽ
     song_alias:
@@ -262,22 +177,22 @@ result:
     - esong_code: 3741A10
       song_name: たんぽぽ
       content_type: ''
-  - song_name: 蒲公英
+  - song_name: タンポポ
     song_alias:
-    esong_code: 3728B17
-    t_singer_master_id: '54093'
-    singer_name: the irony
+    esong_code: 3741A29
+    t_singer_master_id: '55017'
+    singer_name: Le☆S☆Ca
     singer_alias:
-    available_date: '2016-12-06'
+    available_date: '2016-12-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: Tokyo 7th シスターズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たんほほ
-    singer_name_ruby: しあいろに
+    singer_name_ruby: れすか
     song_variation:
-    - esong_code: 3728B17
-      song_name: 蒲公英
+    - esong_code: 3741A29
+      song_name: タンポポ
       content_type: ''
   - song_name: 小さな世界
     song_alias:
@@ -517,3 +432,88 @@ result:
     - esong_code: 3577A35
       song_name: 津軽の春
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 津軽の春
+    song_alias:
+    esong_code: 3731A31
+    t_singer_master_id: '10799'
+    singer_name: 瀬口 侑希
+    singer_alias:
+    available_date: '2016-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: つかるのはる
+    singer_name_ruby: せくちゆうき
+    song_variation:
+    - esong_code: 3731A31
+      song_name: 津軽の春
+      content_type: JOY生演奏
+  - song_name: 津軽の春
+    song_alias:
+    esong_code: 3730B49
+    t_singer_master_id: '10799'
+    singer_name: 瀬口 侑希
+    singer_alias:
+    available_date: '2016-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: つかるのはる
+    singer_name_ruby: せくちゆうき
+    song_variation:
+    - esong_code: 3730B49
+      song_name: 津軽の春
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 津軽のブルース
+    song_alias:
+    esong_code: 3731A29
+    t_singer_master_id: '15576'
+    singer_name: 山本 謙司(山本けんじ)
+    singer_alias:
+    available_date: '2016-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: つかるのふるす
+    singer_name_ruby: やまもとけんし
+    song_variation:
+    - esong_code: 3731A29
+      song_name: 津軽のブルース
+      content_type: JOY生演奏
+  - song_name: 津軽のブルース
+    song_alias:
+    esong_code: 3577A8
+    t_singer_master_id: '15576'
+    singer_name: 山本 謙司(山本けんじ)
+    singer_alias:
+    available_date: '2016-12-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: つかるのふるす
+    singer_name_ruby: やまもとけんし
+    song_variation:
+    - esong_code: 3577A8
+      song_name: 津軽のブルース
+      content_type: DAM生音
+  - song_name: 津軽のブルース
+    song_alias:
+    esong_code: 3730B47
+    t_singer_master_id: '15576'
+    singer_name: 山本 謙司(山本けんじ)
+    singer_alias:
+    available_date: '2016-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: つかるのふるす
+    singer_name_ruby: やまもとけんし
+    song_variation:
+    - esong_code: 3730B47
+      song_name: 津軽のブルース
+      content_type: JOYﾎﾞｰｶﾙ

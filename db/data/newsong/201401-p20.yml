@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: ちっぽけな勇気 [DAM本人歌唱]
-    song_alias:
-    esong_code: 3167A40
-    t_singer_master_id: '24880'
-    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
-    singer_alias:
-    available_date: '2014-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: ちつほけなゆうき
-    singer_name_ruby: ふあんきもんきへいひす
-    song_variation:
-    - esong_code: 3167A40
-      song_name: ちっぽけな勇気 [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: チーム坂
     song_alias:
     esong_code: 3176B43
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2285A41
       song_name: TiC TaC
+      content_type: ''
+  - song_name: ティーパーティへようこそ
+    song_alias:
+    esong_code: 3172A27
+    t_singer_master_id: '49678'
+    singer_name: はる*あま*にゃ(haru*nya、あまね)
+    singer_alias:
+    available_date: '2014-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていはていへよ
+    singer_name_ruby: はるあまにや
+    song_variation:
+    - esong_code: 3172A27
+      song_name: ティーパーティへようこそ
       content_type: ''

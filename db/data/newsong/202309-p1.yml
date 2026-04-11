@@ -3,10 +3,78 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1183
-  all_max_cnt: 1289
-  all_country_cnt: 1183
+  max_cnt: 1305
+  all_max_cnt: 1441
+  all_country_cnt: 1305
   song:
+  - song_name: 愛に野菊を
+    song_alias:
+    esong_code: 4843B28
+    t_singer_master_id: '6772'
+    singer_name: 鈴木 ヒロミツ
+    singer_alias:
+    available_date: '2023-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいにのきくを
+    singer_name_ruby: すすきひろみつ
+    song_variation:
+    - esong_code: 4843B28
+      song_name: 愛に野菊を
+      content_type: ''
+  - song_name: 愛の乾燥機
+    song_alias:
+    esong_code: 4842A29
+    t_singer_master_id: '68137'
+    singer_name: ヤングスキニー
+    singer_alias:
+    available_date: '2023-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのかんそうき
+    singer_name_ruby: やんくすきに
+    song_variation:
+    - esong_code: 4842A29
+      song_name: 愛の乾燥機
+      content_type: ''
+  - song_name: アイノケダモノ
+    song_alias:
+    esong_code: 4840B8
+    t_singer_master_id: '39220'
+    singer_name: アンジュルム(スマイレージ)
+    singer_alias:
+    available_date: '2023-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あいのけたもの
+    singer_name_ruby: あんしゆるむ
+    song_variation:
+    - esong_code: 4840B8
+      song_name: アイノケダモノ
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 愛の幻日
+    song_alias:
+    esong_code: 4833A43
+    t_singer_master_id: '71603'
+    singer_name: かよこ
+    singer_alias:
+    available_date: '2023-09-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのけんしつ
+    singer_name_ruby: かよこ
+    song_variation:
+    - esong_code: 4833A43
+      song_name: 愛の幻日
+      content_type: ''
   - song_name: 愛の波
     song_alias:
     esong_code: 4840B3
@@ -24,6 +92,23 @@ result:
     - esong_code: 4840B3
       song_name: 愛の波
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 愛のまま
+    song_alias:
+    esong_code: 4846B48
+    t_singer_master_id: '67019'
+    singer_name: 上野 大樹
+    singer_alias:
+    available_date: '2023-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのまま
+    singer_name_ruby: うえのたいき
+    song_variation:
+    - esong_code: 4846B48
+      song_name: 愛のまま
+      content_type: ''
   - song_name: 愛のままで愛を眠らせて
     song_alias:
     esong_code: 4842B15
@@ -177,23 +262,6 @@ result:
     - esong_code: 4833B30
       song_name: 青い夢
       content_type: ''
-  - song_name: 青のすみか
-    song_alias:
-    esong_code: 4840B4
-    t_singer_master_id: '63152'
-    singer_name: キタニ タツヤ
-    singer_alias:
-    available_date: '2023-09-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 呪術廻戦<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あおのすみか
-    singer_name_ruby: きたにたつや
-    song_variation:
-    - esong_code: 4840B4
-      song_name: 青のすみか
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 青のすみか [JOYサビカラ]
     song_alias:
     esong_code: 4840B40
@@ -211,6 +279,23 @@ result:
     - esong_code: 4840B40
       song_name: 青のすみか [JOYサビカラ]
       content_type: ''
+  - song_name: 青のすみか
+    song_alias:
+    esong_code: 4840B4
+    t_singer_master_id: '63152'
+    singer_name: キタニ タツヤ
+    singer_alias:
+    available_date: '2023-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 呪術廻戦<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あおのすみか
+    singer_name_ruby: きたにたつや
+    song_variation:
+    - esong_code: 4840B4
+      song_name: 青のすみか
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 青森一途 [オリジナルクリップ]
     song_alias:
     esong_code: 4839B14
@@ -221,7 +306,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: あおもりいつと
     singer_name_ruby: けつはつてとうほく
     song_variation:
@@ -241,7 +326,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: あおもりいつと
     singer_name_ruby: けつはつてとうほく
     song_variation:
@@ -285,6 +370,40 @@ result:
     - esong_code: 3957B46
       song_name: 赤い花
       content_type: ''
+  - song_name: akatsuki
+    song_alias:
+    esong_code: 4858A44
+    t_singer_master_id: '12321'
+    singer_name: CHEMISTRY
+    singer_alias:
+    available_date: '2023-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかつき
+    singer_name_ruby: けみすとり
+    song_variation:
+    - esong_code: 4858A44
+      song_name: akatsuki
+      content_type: ''
+  - song_name: あかつき情話
+    song_alias:
+    esong_code: 4846B3
+    t_singer_master_id: '47761'
+    singer_name: 水城 なつみ
+    singer_alias:
+    available_date: '2023-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あかつきしようわ
+    singer_name_ruby: みすきなつみ
+    song_variation:
+    - esong_code: 4846B3
+      song_name: あかつき情話
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: アカデミー
     song_alias:
     esong_code: 4840A1
@@ -304,23 +423,6 @@ result:
       content_type: VOCALOID
   - song_name: 燈
     song_alias:
-    esong_code: 4840B9
-    t_singer_master_id: '62324'
-    singer_name: 崎山 蒼志
-    singer_alias:
-    available_date: '2023-09-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 呪術廻戦<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あかり
-    singer_name_ruby: さきやまそうし
-    song_variation:
-    - esong_code: 4840B9
-      song_name: 燈
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 燈
-    song_alias:
     esong_code: 4826A46
     t_singer_master_id: '62324'
     singer_name: 崎山 蒼志
@@ -336,6 +438,23 @@ result:
     - esong_code: 4826A46
       song_name: 燈
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 燈
+    song_alias:
+    esong_code: 4840B9
+    t_singer_master_id: '62324'
+    singer_name: 崎山 蒼志
+    singer_alias:
+    available_date: '2023-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 呪術廻戦<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あかり
+    singer_name_ruby: さきやまそうし
+    song_variation:
+    - esong_code: 4840B9
+      song_name: 燈
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: アガリサガリ feat.R-指定&CHEHON
     song_alias:
     esong_code: 4840B5
@@ -403,129 +522,4 @@ result:
     song_variation:
     - esong_code: 4851B42
       song_name: 悪魔のキッス
-      content_type: ''
-  - song_name: 憧れのままに
-    song_alias:
-    esong_code: 4853B9
-    t_singer_master_id: '72527'
-    singer_name: yama×キタニ タツヤ
-    singer_alias:
-    available_date: '2023-09-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あこかれのままに
-    singer_name_ruby: やまきたにたつや
-    song_variation:
-    - esong_code: 4853B9
-      song_name: 憧れのままに
-      content_type: ''
-  - song_name: 明日、虫になっても [オリジナルクリップ]
-    song_alias:
-    esong_code: 4828B25
-    t_singer_master_id: '67257'
-    singer_name: XANVALA
-    singer_alias:
-    available_date: '2023-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    song_name_ruby: あしたむしになつても
-    singer_name_ruby: さんはら
-    song_variation:
-    - esong_code: 4828B25
-      song_name: 明日、虫になっても [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 4828B25
-      song_name: 明日、虫になっても [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: 明日、虫になっても [オリジナルクリップ]
-    song_alias:
-    esong_code: 4828B25
-    t_singer_master_id: '67257'
-    singer_name: XANVALA
-    singer_alias:
-    available_date: '2023-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: パセラ限定クリップ
-    song_name_ruby: あしたむしになつても
-    singer_name_ruby: さんはら
-    song_variation:
-    - esong_code: 4828B25
-      song_name: 明日、虫になっても [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 4828B25
-      song_name: 明日、虫になっても [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: アシッドエンド
-    song_alias:
-    esong_code: 4829A30
-    t_singer_master_id: '48404'
-    singer_name: Eight feat.初音ミク
-    singer_alias:
-    available_date: '2023-09-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: あしつとえんと
-    singer_name_ruby: えいとふいちやりんくは
-    song_variation:
-    - esong_code: 4829A30
-      song_name: アシッドエンド
-      content_type: VOCALOID
-  - song_name: astro
-    song_alias:
-    esong_code: 4828B26
-    t_singer_master_id: '71634'
-    singer_name: Blue Journey
-    singer_alias:
-    available_date: '2023-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすとろ
-    singer_name_ruby: ふるしやに
-    song_variation:
-    - esong_code: 4828B26
-      song_name: astro
-      content_type: ''
-  - song_name: あなたと二人で
-    song_alias:
-    esong_code: 4597A18
-    t_singer_master_id: '72302'
-    singer_name: 大物一般人A
-    singer_alias:
-    available_date: '2023-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あたなとふたりて
-    singer_name_ruby: おおものいつはんしんえ
-    song_variation:
-    - esong_code: 4597A18
-      song_name: あなたと二人で
-      content_type: ''
-  - song_name: 熱田七里の湊町
-    song_alias:
-    esong_code: 4831B5
-    t_singer_master_id: '72331'
-    singer_name: 信濃 二郎/青木 ゆう
-    singer_alias:
-    available_date: '2023-09-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あつたしちりのみなと
-    singer_name_ruby: しなのしろうあおきゆう
-    song_variation:
-    - esong_code: 4831B5
-      song_name: 熱田七里の湊町
       content_type: ''

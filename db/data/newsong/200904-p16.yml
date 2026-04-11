@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 999
-  all_max_cnt: 1121
-  all_country_cnt: 999
+  max_cnt: 992
+  all_max_cnt: 1112
+  all_country_cnt: 992
   song:
   - song_name: 世界の果て
     song_alias:
@@ -92,23 +92,6 @@ result:
     - esong_code: 2296B30
       song_name: せっせっせ
       content_type: ''
-  - song_name: 絶対
-    song_alias:
-    esong_code: 2284B44
-    t_singer_master_id: '33496'
-    singer_name: BES
-    singer_alias:
-    available_date: '2009-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せつたい
-    singer_name_ruby: へす
-    song_variation:
-    - esong_code: 2284B44
-      song_name: 絶対
-      content_type: ''
   - song_name: Set me free
     song_alias:
     esong_code: 2299B30
@@ -128,21 +111,21 @@ result:
       content_type: ''
   - song_name: 刹那
     song_alias:
-    esong_code: 2308A31
+    esong_code: 2290A20
     t_singer_master_id: '28788'
     singer_name: GReeeeN
     singer_alias:
-    available_date: '2009-04-28'
+    available_date: '2009-04-08'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: せつな
     singer_name_ruby: くりん
     song_variation:
-    - esong_code: 2308A31
+    - esong_code: 2290A20
       song_name: 刹那
-      content_type: DAM生音
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 刹那
     song_alias:
     esong_code: 2301A25
@@ -160,23 +143,6 @@ result:
     - esong_code: 2301A25
       song_name: 刹那
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 刹那
-    song_alias:
-    esong_code: 2290A20
-    t_singer_master_id: '28788'
-    singer_name: GReeeeN
-    singer_alias:
-    available_date: '2009-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: せつな
-    singer_name_ruby: くりん
-    song_variation:
-    - esong_code: 2290A20
-      song_name: 刹那
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: セツナノキヲク
     song_alias:
     esong_code: 2287A23
@@ -219,7 +185,7 @@ result:
     singer_alias:
     available_date: '2009-04-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 空の境界 第七章 殺人考察(後)<番組名>
+    tie_up: 空の境界<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: せふんすへふん
@@ -466,23 +432,6 @@ result:
     - esong_code: 2290A38
       song_name: そんなところに神は宿らない feat.鏡音リン
       content_type: VOCALOID
-  - song_name: 大丈夫
-    song_alias:
-    esong_code: 2302B4
-    t_singer_master_id: '18426'
-    singer_name: ji ma ma
-    singer_alias:
-    available_date: '2009-04-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいしようふ
-    singer_name_ruby: しまま
-    song_variation:
-    - esong_code: 2302B4
-      song_name: 大丈夫
-      content_type: ''
   - song_name: ダイジョウブ
     song_alias:
     esong_code: 2298A36
@@ -499,6 +448,23 @@ result:
     song_variation:
     - esong_code: 2298A36
       song_name: ダイジョウブ
+      content_type: ''
+  - song_name: 大丈夫
+    song_alias:
+    esong_code: 2302B4
+    t_singer_master_id: '18426'
+    singer_name: ji ma ma
+    singer_alias:
+    available_date: '2009-04-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいしようふ
+    singer_name_ruby: しまま
+    song_variation:
+    - esong_code: 2302B4
+      song_name: 大丈夫
       content_type: ''
   - song_name: 大切にするよ
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 2283A31
       song_name: 大切にするよ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: タイブレーク
+    song_alias:
+    esong_code: 2293A9
+    t_singer_master_id: '35186'
+    singer_name: 青学レギュラー&氷帝学園&比嘉メンバー
+    singer_alias:
+    available_date: '2009-04-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: テニスの王子様 (ミュージカル)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいふれく
+    singer_name_ruby: せいかくれきゆらひようていかくえん
+    song_variation:
+    - esong_code: 2293A9
+      song_name: タイブレーク
+      content_type: ''
+  - song_name: ダイヤモンド
+    song_alias:
+    esong_code: 2289B49
+    t_singer_master_id: '18365'
+    singer_name: 若旦那(湘南乃風)
+    singer_alias:
+    available_date: '2009-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいやもんと
+    singer_name_ruby: わかたんな
+    song_variation:
+    - esong_code: 2289B49
+      song_name: ダイヤモンド
+      content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1179
-  all_max_cnt: 1291
-  all_country_cnt: 1179
+  max_cnt: 1301
+  all_max_cnt: 1464
+  all_country_cnt: 1301
   song:
   - song_name: Aye,aye,sir! (feat.ばぁう&ちぐさくん)
     song_alias:
@@ -213,6 +213,23 @@ result:
       content_type: ''
   - song_name: EYES ON YOU
     song_alias:
+    esong_code: 5025A38
+    t_singer_master_id: '32267'
+    singer_name: 西野 カナ
+    singer_alias:
+    available_date: '2024-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あいすおんゆ
+    singer_name_ruby: にしのかな
+    song_variation:
+    - esong_code: 5025A38
+      song_name: EYES ON YOU
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: EYES ON YOU
+    song_alias:
     esong_code: 5021B27
     t_singer_master_id: '32267'
     singer_name: 西野 カナ
@@ -245,23 +262,6 @@ result:
     - esong_code: 5028A24
       song_name: EYES ON YOU [JOYサビカラ]
       content_type: ''
-  - song_name: EYES ON YOU
-    song_alias:
-    esong_code: 5025A38
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2024-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あいすおんゆ
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 5025A38
-      song_name: EYES ON YOU
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: I still feat.明智マヤ
     song_alias:
     esong_code: 5039B46
@@ -466,6 +466,23 @@ result:
     - esong_code: 5018A24
       song_name: 愛舞い、喰らい。
       content_type: ''
+  - song_name: I My Me Mine Sunshine!
+    song_alias:
+    esong_code: 5023A3
+    t_singer_master_id: '74247'
+    singer_name: アスタレーヴ
+    singer_alias:
+    available_date: '2024-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Re:ステージ! プリズムステップ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいまいみまいんさ
+    singer_name_ruby: あすたれふ
+    song_variation:
+    - esong_code: 5023A3
+      song_name: I My Me Mine Sunshine!
+      content_type: ''
   - song_name: I'm an Osakan
     song_alias:
     esong_code: 5017B3
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 5018A16
       song_name: アイムホーム!
-      content_type: ''
-  - song_name: I like you!!
-    song_alias:
-    esong_code: 5021A47
-    t_singer_master_id: '50453'
-    singer_name: WEST.
-    singer_alias:
-    available_date: '2024-09-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいらいくゆ
-    singer_name_ruby: うえすと
-    song_variation:
-    - esong_code: 5021A47
-      song_name: I like you!!
       content_type: ''

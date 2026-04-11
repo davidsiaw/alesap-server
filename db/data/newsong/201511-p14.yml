@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1324
-  all_max_cnt: 1489
-  all_country_cnt: 1324
+  max_cnt: 1317
+  all_max_cnt: 1482
+  all_country_cnt: 1317
   song:
-  - song_name: 鼓動、千々に
-    song_alias:
-    esong_code: 3553A14
-    t_singer_master_id: '7882'
-    singer_name: KinKi Kids
-    singer_alias:
-    available_date: '2015-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ことうちちに
-    singer_name_ruby: きんききつす
-    song_variation:
-    - esong_code: 3553A14
-      song_name: 鼓動、千々に
-      content_type: ''
   - song_name: 孤独のシグナル
     song_alias:
     esong_code: 3559B13
@@ -451,6 +434,23 @@ result:
       content_type: ''
   - song_name: 再会酒
     song_alias:
+    esong_code: 3551A48
+    t_singer_master_id: '2526'
+    singer_name: 湯原 昌幸
+    singer_alias:
+    available_date: '2015-11-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: さいかいさけ
+    singer_name_ruby: ゆはらまさゆき
+    song_variation:
+    - esong_code: 3551A48
+      song_name: 再会酒
+      content_type: DAM生音
+  - song_name: 再会酒
+    song_alias:
     esong_code: 3551B18
     t_singer_master_id: '2526'
     singer_name: 湯原 昌幸
@@ -483,23 +483,6 @@ result:
     - esong_code: 3547A12
       song_name: 再会酒
       content_type: ''
-  - song_name: 再会酒
-    song_alias:
-    esong_code: 3551A48
-    t_singer_master_id: '2526'
-    singer_name: 湯原 昌幸
-    singer_alias:
-    available_date: '2015-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さいかいさけ
-    singer_name_ruby: ゆはらまさゆき
-    song_variation:
-    - esong_code: 3551A48
-      song_name: 再会酒
-      content_type: DAM生音
   - song_name: 最後のやさしさ
     song_alias:
     esong_code: 3558A37
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3558A37
       song_name: 最後のやさしさ
+      content_type: ''
+  - song_name: 最後のLove song (デュエット:ERIKO)
+    song_alias:
+    esong_code: 3548B17
+    t_singer_master_id: '15011'
+    singer_name: 加納 ひろし(嘉納ひろし)
+    singer_alias:
+    available_date: '2015-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいこのらふそん
+    singer_name_ruby: かのうひろし
+    song_variation:
+    - esong_code: 3548B17
+      song_name: 最後のLove song (デュエット:ERIKO)
       content_type: ''

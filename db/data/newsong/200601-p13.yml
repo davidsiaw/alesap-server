@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
-  - song_name: キラリ
-    song_alias:
-    esong_code: 1444B43
-    t_singer_master_id: '24818'
-    singer_name: フジモト タカコ
-    singer_alias:
-    available_date: '2006-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きらり
-    singer_name_ruby: ふしもとたかこ
-    song_variation:
-    - esong_code: 1444B43
-      song_name: キラリ
-      content_type: ''
   - song_name: 霧子の街に霧がふる
     song_alias:
     esong_code: 258B18
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1438B35
       song_name: くるま売りたいな
+      content_type: ''
+  - song_name: くるりメドレー
+    song_alias:
+    esong_code: 1427B1
+    t_singer_master_id: '8680'
+    singer_name: くるり
+    singer_alias:
+    available_date: '2006-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くるりめとれ
+    singer_name_ruby: くるり
+    song_variation:
+    - esong_code: 1427B1
+      song_name: くるりメドレー
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 398
-  all_max_cnt: 457
-  all_country_cnt: 398
+  max_cnt: 395
+  all_max_cnt: 455
+  all_country_cnt: 395
   song:
-  - song_name: ex-girlfriend
-    song_alias:
-    esong_code: 847A28
-    t_singer_master_id: '6035'
-    singer_name: 平井 堅
-    singer_alias:
-    available_date: '2002-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えつくすかるふれ
-    singer_name_ruby: ひらいけん
-    song_variation:
-    - esong_code: 847A28
-      song_name: ex-girlfriend
-      content_type: ''
   - song_name: ever since
     song_alias:
     esong_code: 839A26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 842A29
       song_name: 兼久商店
+      content_type: ''
+  - song_name: 紙の花
+    song_alias:
+    esong_code: 406A21
+    t_singer_master_id: '8593'
+    singer_name: 佐倉 さくら
+    singer_alias:
+    available_date: '2002-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かみのはな
+    singer_name_ruby: さくらさくら
+    song_variation:
+    - esong_code: 406A21
+      song_name: 紙の花
       content_type: ''

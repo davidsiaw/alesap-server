@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1241
-  all_max_cnt: 1317
-  all_country_cnt: 1241
+  max_cnt: 1231
+  all_max_cnt: 1307
+  all_country_cnt: 1231
   song:
-  - song_name: カール
-    song_alias:
-    esong_code: 295B46
-    t_singer_master_id: '12899'
-    singer_name: GOING UNDER GROUND
-    singer_alias:
-    available_date: '2005-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かる
-    singer_name_ruby: こいんくあんたくらうんと
-    song_variation:
-    - esong_code: 295B46
-      song_name: カール
-      content_type: ''
-  - song_name: 軽井沢コネクション
-    song_alias:
-    esong_code: 1146A25
-    t_singer_master_id: '425'
-    singer_name: 荻野目 洋子
-    singer_alias:
-    available_date: '2005-08-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かるいさわこねくし
-    singer_name_ruby: おきのめようこ
-    song_variation:
-    - esong_code: 1146A25
-      song_name: 軽井沢コネクション
-      content_type: ''
   - song_name: 可愛い恋人
     song_alias:
     esong_code: 1355B16
@@ -262,23 +228,6 @@ result:
     - esong_code: 362A44
       song_name: 奇跡
       content_type: ''
-  - song_name: 季節はずれの男
-    song_alias:
-    esong_code: 1342B34
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2005-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きせつはすれのおと
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 1342B34
-      song_name: 季節はずれの男
-      content_type: ''
   - song_name: 基礎編 (歌唱指導)
     song_alias:
     esong_code: 1340A11
@@ -313,23 +262,6 @@ result:
     - esong_code: 1355A2
       song_name: 北風に
       content_type: ''
-  - song_name: ギター侍のうた (女斬りバージョン)
-    song_alias:
-    esong_code: 1358A22
-    t_singer_master_id: '21307'
-    singer_name: 波田 陽区
-    singer_alias:
-    available_date: '2005-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたさむらいの
-    singer_name_ruby: はたようく
-    song_variation:
-    - esong_code: 1358A22
-      song_name: ギター侍のうた (女斬りバージョン)
-      content_type: ''
   - song_name: ギター侍のうた (男斬りバージョン)
     song_alias:
     esong_code: 1358A21
@@ -346,6 +278,23 @@ result:
     song_variation:
     - esong_code: 1358A21
       song_name: ギター侍のうた (男斬りバージョン)
+      content_type: ''
+  - song_name: ギター侍のうた (女斬りバージョン)
+    song_alias:
+    esong_code: 1358A22
+    t_singer_master_id: '21307'
+    singer_name: 波田 陽区
+    singer_alias:
+    available_date: '2005-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたさむらいの
+    singer_name_ruby: はたようく
+    song_variation:
+    - esong_code: 1358A22
+      song_name: ギター侍のうた (女斬りバージョン)
       content_type: ''
   - song_name: 機動戦士ガンダムSEEDメドレー
     song_alias:
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 1334B44
       song_name: 君と歩いた道
+      content_type: ''
+  - song_name: 君と二人で
+    song_alias:
+    esong_code: 1357A37
+    t_singer_master_id: '1566'
+    singer_name: 所 ジョージ
+    singer_alias:
+    available_date: '2005-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみとふたりて
+    singer_name_ruby: ところしよし
+    song_variation:
+    - esong_code: 1357A37
+      song_name: 君と二人で
+      content_type: ''
+  - song_name: 君にありがとう
+    song_alias:
+    esong_code: 1355A3
+    t_singer_master_id: '574'
+    singer_name: 加山 雄三
+    singer_alias:
+    available_date: '2005-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみにありかとう
+    singer_name_ruby: かやまゆうそう
+    song_variation:
+    - esong_code: 1355A3
+      song_name: 君にありがとう
+      content_type: ''
+  - song_name: 君に告げる
+    song_alias:
+    esong_code: 1333B37
+    t_singer_master_id: '16005'
+    singer_name: スキマスイッチ
+    singer_alias:
+    available_date: '2005-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみにつける
+    singer_name_ruby: すきますいつち
+    song_variation:
+    - esong_code: 1333B37
+      song_name: 君に告げる
       content_type: ''

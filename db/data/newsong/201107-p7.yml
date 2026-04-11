@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1571
-  all_max_cnt: 1703
-  all_country_cnt: 1571
+  max_cnt: 1566
+  all_max_cnt: 1698
+  all_country_cnt: 1566
   song:
-  - song_name: 哀歌(エレジー)
-    song_alias:
-    esong_code: 2640A13
-    t_singer_master_id: '33167'
-    singer_name: いずみ 恵子
-    singer_alias:
-    available_date: '2011-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えれし
-    singer_name_ruby: いすみけいこ
-    song_variation:
-    - esong_code: 2640A13
-      song_name: 哀歌(エレジー)
-      content_type: ''
   - song_name: 演歌舟
     song_alias:
     esong_code: 2057B4
@@ -423,7 +406,7 @@ result:
     singer_alias:
     available_date: '2011-07-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双3 Z<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おとこいつほんやり
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1445B43
       song_name: おばあちゃん
+      content_type: ''
+  - song_name: Over the Rainbow
+    song_alias:
+    esong_code: 2644B25
+    t_singer_master_id: '29356'
+    singer_name: 寺島 拓篤
+    singer_alias:
+    available_date: '2011-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: うたの☆プリンスさまっ♪<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おはされいん
+    singer_name_ruby: てらしまたくま
+    song_variation:
+    - esong_code: 2644B25
+      song_name: Over the Rainbow
       content_type: ''

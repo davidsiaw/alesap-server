@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: 千の花 千の空
-    song_alias:
-    esong_code: 1491A11
-    t_singer_master_id: '25835'
-    singer_name: 清田 まなみ
-    singer_alias:
-    available_date: '2006-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みんなのうた<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: せんのはなせんのそら
-    singer_name_ruby: きよたまなみ
-    song_variation:
-    - esong_code: 1491A11
-      song_name: 千の花 千の空
-      content_type: ''
   - song_name: ぞうさんのぼうし
     song_alias:
     esong_code: 1488B10
@@ -468,23 +451,6 @@ result:
       content_type: ''
   - song_name: 高瀬舟
     song_alias:
-    esong_code: 1488B46
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
-    singer_alias:
-    available_date: '2006-04-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: たかせふね
-    singer_name_ruby: いつきひろし
-    song_variation:
-    - esong_code: 1488B46
-      song_name: 高瀬舟
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 高瀬舟
-    song_alias:
     esong_code: 1481A26
     t_singer_master_id: '221'
     singer_name: 五木 ひろし
@@ -500,6 +466,23 @@ result:
     - esong_code: 1481A26
       song_name: 高瀬舟
       content_type: ''
+  - song_name: 高瀬舟
+    song_alias:
+    esong_code: 1488B46
+    t_singer_master_id: '221'
+    singer_name: 五木 ひろし
+    singer_alias:
+    available_date: '2006-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: たかせふね
+    singer_name_ruby: いつきひろし
+    song_variation:
+    - esong_code: 1488B46
+      song_name: 高瀬舟
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: ただ風は吹くから
     song_alias:
     esong_code: 1485A10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1485A10
       song_name: ただ風は吹くから
+      content_type: ''
+  - song_name: ただ君だけを愛してた
+    song_alias:
+    esong_code: 199B49
+    t_singer_master_id: '2713'
+    singer_name: BLOW
+    singer_alias:
+    available_date: '2006-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たたきみたけを
+    singer_name_ruby: ふろう
+    song_variation:
+    - esong_code: 199B49
+      song_name: ただ君だけを愛してた
       content_type: ''

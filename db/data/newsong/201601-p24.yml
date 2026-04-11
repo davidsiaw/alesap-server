@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: Buddy
-    song_alias:
-    esong_code: 3585A12
-    t_singer_master_id: '47349'
-    singer_name: D.A.T
-    singer_alias:
-    available_date: '2016-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はてい
-    singer_name_ruby: たつと
-    song_variation:
-    - esong_code: 3585A12
-      song_name: Buddy
-      content_type: ''
   - song_name: はてしなき恋
     song_alias:
     esong_code: 2100A26
@@ -162,23 +145,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 花つむぎ
     song_alias:
-    esong_code: 2105B26
-    t_singer_master_id: '893'
-    singer_name: 伍代 夏子
-    singer_alias:
-    available_date: '2016-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: はなつむき
-    singer_name_ruby: こたいなつこ
-    song_variation:
-    - esong_code: 2105B26
-      song_name: 花つむぎ
-      content_type: DAM生音
-  - song_name: 花つむぎ
-    song_alias:
     esong_code: 3443B29
     t_singer_master_id: '893'
     singer_name: 伍代 夏子
@@ -194,6 +160,23 @@ result:
     - esong_code: 3443B29
       song_name: 花つむぎ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 花つむぎ
+    song_alias:
+    esong_code: 2105B26
+    t_singer_master_id: '893'
+    singer_name: 伍代 夏子
+    singer_alias:
+    available_date: '2016-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: はなつむき
+    singer_name_ruby: こたいなつこ
+    song_variation:
+    - esong_code: 2105B26
+      song_name: 花つむぎ
+      content_type: DAM生音
   - song_name: 花ノウタ
     song_alias:
     esong_code: 3587A29
@@ -500,20 +483,37 @@ result:
     - esong_code: 3097A11
       song_name: 萌黄雨物語(はるさめじょうわ)
       content_type: ''
-  - song_name: バルーン [DAM本人歌唱]
+  - song_name: バレンタイン・キッス feat.Ladybeard
     song_alias:
-    esong_code: 3579B43
-    t_singer_master_id: '1937'
-    singer_name: BEGIN
+    esong_code: 3581A35
+    t_singer_master_id: '48203'
+    singer_name: トミタ 栞
     singer_alias:
-    available_date: '2016-01-12'
+    available_date: '2016-01-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: はるん
-    singer_name_ruby: ひきん
+    content_type:
+    song_name_ruby: はれんたいんきつす
+    singer_name_ruby: とみたしおり
     song_variation:
-    - esong_code: 3579B43
-      song_name: バルーン [DAM本人歌唱]
-      content_type: DAM本人歌唱
+    - esong_code: 3581A35
+      song_name: バレンタイン・キッス feat.Ladybeard
+      content_type: ''
+  - song_name: HeLLo
+    song_alias:
+    esong_code: 3581B45
+    t_singer_master_id: '52865'
+    singer_name: Mrs.GREEN APPLE
+    singer_alias:
+    available_date: '2016-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はろ
+    singer_name_ruby: みせすくりんあつふる
+    song_variation:
+    - esong_code: 3581B45
+      song_name: HeLLo
+      content_type: ''

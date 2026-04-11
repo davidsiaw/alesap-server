@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
+  - song_name: 幸せのかたち
+    song_alias:
+    esong_code: 1982A13
+    t_singer_master_id: '24273'
+    singer_name: Yellow Cherry
+    singer_alias:
+    available_date: '2008-04-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせのかたち
+    singer_name_ruby: いえろちえり
+    song_variation:
+    - esong_code: 1982A13
+      song_name: 幸せのかたち
+      content_type: ''
   - song_name: 幸せの種
     song_alias:
     esong_code: 1983A44
@@ -109,22 +126,22 @@ result:
     - esong_code: 1990A42
       song_name: JEALOUS CANDLE
       content_type: ''
-  - song_name: Gentle Night
+  - song_name: 志恩
     song_alias:
-    esong_code: 1984B21
-    t_singer_master_id: '2870'
-    singer_name: 緒方 恵美
+    esong_code: 1985A12
+    t_singer_master_id: '5987'
+    singer_name: MUCC(ムック)
     singer_alias:
-    available_date: '2008-04-13'
+    available_date: '2008-04-08'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: しえんとるないと
-    singer_name_ruby: おかためくみ
+    song_name_ruby: しおん
+    singer_name_ruby: むつく
     song_variation:
-    - esong_code: 1984B21
-      song_name: Gentle Night
+    - esong_code: 1985A12
+      song_name: 志恩
       content_type: ''
   - song_name: 紫音-sion-
     song_alias:
@@ -142,23 +159,6 @@ result:
     song_variation:
     - esong_code: 1988B40
       song_name: 紫音-sion-
-      content_type: ''
-  - song_name: 志恩
-    song_alias:
-    esong_code: 1985A12
-    t_singer_master_id: '5987'
-    singer_name: MUCC(ムック)
-    singer_alias:
-    available_date: '2008-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しおん
-    singer_name_ruby: むつく
-    song_variation:
-    - esong_code: 1985A12
-      song_name: 志恩
       content_type: ''
   - song_name: シグナル
     song_alias:
@@ -196,23 +196,6 @@ result:
       content_type: ''
   - song_name: しぐれ花
     song_alias:
-    esong_code: 1987A4
-    t_singer_master_id: '414'
-    singer_name: 岡 ゆう子
-    singer_alias:
-    available_date: '2008-04-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: しくれはな
-    singer_name_ruby: おかゆうこ
-    song_variation:
-    - esong_code: 1987A4
-      song_name: しぐれ花
-      content_type: DAM生音
-  - song_name: しぐれ花
-    song_alias:
     esong_code: 1978A40
     t_singer_master_id: '414'
     singer_name: 岡 ゆう子
@@ -228,6 +211,23 @@ result:
     - esong_code: 1978A40
       song_name: しぐれ花
       content_type: ''
+  - song_name: しぐれ花
+    song_alias:
+    esong_code: 1987A4
+    t_singer_master_id: '414'
+    singer_name: 岡 ゆう子
+    singer_alias:
+    available_date: '2008-04-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: しくれはな
+    singer_name_ruby: おかゆうこ
+    song_variation:
+    - esong_code: 1987A4
+      song_name: しぐれ花
+      content_type: DAM生音
   - song_name: 失恋男のモンタージュ
     song_alias:
     esong_code: 388B14

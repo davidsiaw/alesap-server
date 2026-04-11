@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
-  - song_name: 髙尾山 [DAM本人歌唱]
-    song_alias:
-    esong_code: 3481A20
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2015-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: たかおさん
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 3481A20
-      song_name: 髙尾山 [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: TAKARAZUKA花詩集100!! [DAM本人歌唱]
     song_alias:
     esong_code: 3481A25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3479A47
       song_name: 月夜にお砂糖星
+      content_type: ''
+  - song_name: 伝い落ちるもの 伝えたいこと
+    song_alias:
+    esong_code: 3482A11
+    t_singer_master_id: '12253'
+    singer_name: 甲斐田 ゆき
+    singer_alias:
+    available_date: '2015-08-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 新テニスの王子様<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: つたいおちるものつた
+    singer_name_ruby: かいたゆき
+    song_variation:
+    - esong_code: 3482A11
+      song_name: 伝い落ちるもの 伝えたいこと
       content_type: ''

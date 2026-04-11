@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 535
-  all_max_cnt: 597
-  all_country_cnt: 535
+  max_cnt: 533
+  all_max_cnt: 595
+  all_country_cnt: 533
   song:
-  - song_name: Mercy Me 〜いつか光を抱けるように〜
-    song_alias:
-    esong_code: 223A18
-    t_singer_master_id: '10491'
-    singer_name: wyolica
-    singer_alias:
-    available_date: '2003-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めるしみ
-    singer_name_ruby: わいよりか
-    song_variation:
-    - esong_code: 223A18
-      song_name: Mercy Me 〜いつか光を抱けるように〜
-      content_type: ''
-  - song_name: melody
-    song_alias:
-    esong_code: 252B30
-    t_singer_master_id: '14356'
-    singer_name: day after tomorrow
-    singer_alias:
-    available_date: '2003-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めろてい
-    singer_name_ruby: ていあふたとうもろう
-    song_variation:
-    - esong_code: 252B30
-      song_name: melody
-      content_type: ''
   - song_name: メロンのためいき
     song_alias:
     esong_code: 252A28
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 138A6
       song_name: LIFE is...
+      content_type: ''
+  - song_name: 楽園
+    song_alias:
+    esong_code: 408A28
+    t_singer_master_id: '2568'
+    singer_name: LA・PPISCH
+    singer_alias:
+    available_date: '2003-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らくえん
+    singer_name_ruby: れひつしゆ
+    song_variation:
+    - esong_code: 408A28
+      song_name: 楽園
+      content_type: ''
+  - song_name: 落書き
+    song_alias:
+    esong_code: 131B22
+    t_singer_master_id: '8323'
+    singer_name: Kiroro
+    singer_alias:
+    available_date: '2003-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らくかき
+    singer_name_ruby: きろろ
+    song_variation:
+    - esong_code: 131B22
+      song_name: 落書き
       content_type: ''

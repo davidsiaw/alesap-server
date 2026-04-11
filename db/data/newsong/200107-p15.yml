@@ -7,23 +7,6 @@ result:
   all_max_cnt: 588
   all_country_cnt: 546
   song:
-  - song_name: MY SELF
-    song_alias:
-    esong_code: 601A31
-    t_singer_master_id: '6909'
-    singer_name: SOPHIA
-    singer_alias:
-    available_date: '2001-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まいせるふ
-    singer_name_ruby: そふいあ
-    song_variation:
-    - esong_code: 601A31
-      song_name: MY SELF
-      content_type: ''
   - song_name: MYself
     song_alias:
     esong_code: 314A15
@@ -40,6 +23,23 @@ result:
     song_variation:
     - esong_code: 314A15
       song_name: MYself
+      content_type: ''
+  - song_name: MY SELF
+    song_alias:
+    esong_code: 601A31
+    t_singer_master_id: '6909'
+    singer_name: SOPHIA
+    singer_alias:
+    available_date: '2001-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいせるふ
+    singer_name_ruby: そふいあ
+    song_variation:
+    - esong_code: 601A31
+      song_name: MY SELF
       content_type: ''
   - song_name: My Tomorrow
     song_alias:
@@ -219,7 +219,7 @@ result:
     singer_alias:
     available_date: '2001-07-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 魔法少女プリティサミー Super Kiss<番組名>
+    tie_up: 魔法少女プリティサミー<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まほうのとひら

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 958
-  all_max_cnt: 1067
-  all_country_cnt: 958
+  max_cnt: 953
+  all_max_cnt: 1062
+  all_country_cnt: 953
   song:
   - song_name: 青い花
     song_alias:
@@ -227,23 +227,6 @@ result:
     song_variation:
     - esong_code: 2366B9
       song_name: earth trip
-      content_type: ''
-  - song_name: あなたが愛をくれたから・・・
-    song_alias:
-    esong_code: 2349A33
-    t_singer_master_id: '25339'
-    singer_name: Metis
-    singer_alias:
-    available_date: '2009-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたかあいをくれ
-    singer_name_ruby: めていす
-    song_variation:
-    - esong_code: 2349A33
-      song_name: あなたが愛をくれたから・・・
       content_type: ''
   - song_name: あなたが愛をくれたから・・・
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2358B48
       song_name: Are you ready?
+      content_type: ''
+  - song_name: 新垣結衣メドレー
+    song_alias:
+    esong_code: 2352B22
+    t_singer_master_id: '31713'
+    singer_name: 新垣 結衣
+    singer_alias:
+    available_date: '2009-07-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あらかきゆいめと
+    singer_name_ruby: あらかきゆい
+    song_variation:
+    - esong_code: 2352B22
+      song_name: 新垣結衣メドレー
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 319
-  all_max_cnt: 344
-  all_country_cnt: 319
+  max_cnt: 318
+  all_max_cnt: 343
+  all_country_cnt: 318
   song:
-  - song_name: 戦士よ起ちあがれ！
-    song_alias:
-    esong_code: 236B29
-    t_singer_master_id: '6594'
-    singer_name: 遠藤 正明
-    singer_alias:
-    available_date: '2001-04-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 魔装機神サイバスター<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: せんしよたちあかれ
-    singer_name_ruby: えんとうまさあき
-    song_variation:
-    - esong_code: 236B29
-      song_name: 戦士よ起ちあがれ！
-      content_type: ''
   - song_name: 空に星があるように
     song_alias:
     esong_code: 83A31
@@ -109,23 +92,6 @@ result:
     - esong_code: 549A40
       song_name: たったった
       content_type: ''
-  - song_name: TOUCH ME
-    song_alias:
-    esong_code: 553B32
-    t_singer_master_id: '1877'
-    singer_name: 光GENJI
-    singer_alias:
-    available_date: '2001-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たつちみ
-    singer_name_ruby: ひかるけんし
-    song_variation:
-    - esong_code: 553B32
-      song_name: TOUCH ME
-      content_type: ''
   - song_name: Touch Me
     song_alias:
     esong_code: 550B26
@@ -142,6 +108,23 @@ result:
     song_variation:
     - esong_code: 550B26
       song_name: Touch Me
+      content_type: ''
+  - song_name: TOUCH ME
+    song_alias:
+    esong_code: 553B32
+    t_singer_master_id: '1877'
+    singer_name: 光GENJI
+    singer_alias:
+    available_date: '2001-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たつちみ
+    singer_name_ruby: ひかるけんし
+    song_variation:
+    - esong_code: 553B32
+      song_name: TOUCH ME
       content_type: ''
   - song_name: 楽しい人が好き
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 553A34
       song_name: トライアングル
+      content_type: ''
+  - song_name: ドラマ
+    song_alias:
+    esong_code: 544A21
+    t_singer_master_id: '8713'
+    singer_name: 宇多田 ヒカル
+    singer_alias:
+    available_date: '2001-04-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とらま
+    singer_name_ruby: うたたひかる
+    song_variation:
+    - esong_code: 544A21
+      song_name: ドラマ
       content_type: ''

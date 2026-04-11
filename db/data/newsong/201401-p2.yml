@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
   - song_name: あの素晴しい朝をもう一度
     song_alias:
@@ -262,23 +262,6 @@ result:
     - esong_code: 3169A48
       song_name: あやかし百菌夜行
       content_type: ''
-  - song_name: ありがとう [DAM本人歌唱]
-    song_alias:
-    esong_code: 3167A33
-    t_singer_master_id: '24880'
-    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
-    singer_alias:
-    available_date: '2014-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: ありかとう
-    singer_name_ruby: ふあんきもんきへいひす
-    song_variation:
-    - esong_code: 3167A33
-      song_name: ありがとう [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: ありがとう
     song_alias:
     esong_code: 3173B14
@@ -296,6 +279,23 @@ result:
     - esong_code: 3173B14
       song_name: ありがとう
       content_type: ''
+  - song_name: ありがとう [DAM本人歌唱]
+    song_alias:
+    esong_code: 3167A33
+    t_singer_master_id: '24880'
+    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
+    singer_alias:
+    available_date: '2014-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: ありかとう
+    singer_name_ruby: ふあんきもんきへいひす
+    song_variation:
+    - esong_code: 3167A33
+      song_name: ありがとう [DAM本人歌唱]
+      content_type: DAM本人歌唱
   - song_name: ありがとう おかげさん
     song_alias:
     esong_code: 3167B6

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1411
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1405
+  all_country_cnt: 1206
   song:
-  - song_name: カラカラ
-    song_alias:
-    esong_code: 4708A13
-    t_singer_master_id: '70461'
-    singer_name: 結束バンド
-    singer_alias:
-    available_date: '2022-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ぼっち・ざ・ろっく!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: からから
-    singer_name_ruby: けつそくはんと
-    song_variation:
-    - esong_code: 4708A13
-      song_name: カラカラ
-      content_type: ''
   - song_name: Colors
     song_alias:
     esong_code: 4705A8
@@ -332,23 +315,6 @@ result:
       content_type: ''
   - song_name: KICK BACK
     song_alias:
-    esong_code: 4708A28
-    t_singer_master_id: '44604'
-    singer_name: 米津玄師(ハチ)
-    singer_alias:
-    available_date: '2022-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: チェンソーマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きつくはつく
-    singer_name_ruby: よねつけんし
-    song_variation:
-    - esong_code: 4708A28
-      song_name: KICK BACK
-      content_type: ''
-  - song_name: KICK BACK
-    song_alias:
     esong_code: 4713B23
     t_singer_master_id: '44604'
     singer_name: 米津玄師(ハチ)
@@ -364,6 +330,23 @@ result:
     - esong_code: 4713B23
       song_name: KICK BACK
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: KICK BACK
+    song_alias:
+    esong_code: 4708A28
+    t_singer_master_id: '44604'
+    singer_name: 米津玄師(ハチ)
+    singer_alias:
+    available_date: '2022-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: チェンソーマン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きつくはつく
+    singer_name_ruby: よねつけんし
+    song_variation:
+    - esong_code: 4708A28
+      song_name: KICK BACK
+      content_type: ''
   - song_name: KICK BACK (ビデオクリップバージョン)
     song_alias:
     esong_code: 4713A46
@@ -517,3 +500,20 @@ result:
     - esong_code: 4705A9
       song_name: gimme gimme
       content_type: DAMﾗｲﾌﾞ
+  - song_name: 君恋列車
+    song_alias:
+    esong_code: 4701A45
+    t_singer_master_id: '63464'
+    singer_name: 二見 颯一
+    singer_alias:
+    available_date: '2022-11-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きみこいれつしや
+    singer_name_ruby: ふたみそういち
+    song_variation:
+    - esong_code: 4701A45
+      song_name: 君恋列車
+      content_type: JOYﾎﾞｰｶﾙ

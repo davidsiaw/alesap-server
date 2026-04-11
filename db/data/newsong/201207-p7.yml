@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: おふくろ港
-    song_alias:
-    esong_code: 2814B3
-    t_singer_master_id: '45327'
-    singer_name: 堤 共栄
-    singer_alias:
-    available_date: '2012-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おふくろみなと
-    singer_name_ruby: つつみきようえい
-    song_variation:
-    - esong_code: 2814B3
-      song_name: おふくろ港
-      content_type: ''
   - song_name: オフロスキーのオーユー!
     song_alias:
     esong_code: 2830A28
@@ -100,7 +83,7 @@ result:
     singer_alias:
     available_date: '2012-07-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 〜桜華絢爛〜<番組名>
+    tie_up: サクラ大戦 (TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おまつりたんす
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2012-07-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ているず おぶ 劇場<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: おもつているすつと
@@ -517,3 +500,20 @@ result:
     - esong_code: 2817B22
       song_name: 女のうなじ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: おんなの涙
+    song_alias:
+    esong_code: 2814A12
+    t_singer_master_id: '45321'
+    singer_name: 上北 恭子
+    singer_alias:
+    available_date: '2012-07-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのなみた
+    singer_name_ruby: かみきたきようこ
+    song_variation:
+    - esong_code: 2814A12
+      song_name: おんなの涙
+      content_type: ''

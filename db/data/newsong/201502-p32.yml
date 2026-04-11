@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
-  - song_name: はじめての夏 (mcAKMix)
-    song_alias:
-    esong_code: 3401A41
-    t_singer_master_id: '1255'
-    singer_name: SMAP
-    singer_alias:
-    available_date: '2015-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 姫ちゃんのリボン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はしめてのなつ
-    singer_name_ruby: すまつふ
-    song_variation:
-    - esong_code: 3401A41
-      song_name: はじめての夏 (mcAKMix)
-      content_type: ''
-  - song_name: ハシレ!ディギディギ
-    song_alias:
-    esong_code: 3399B1
-    t_singer_master_id: '52755'
-    singer_name: メルヘンヌ イエロ〜プリン
-    singer_alias:
-    available_date: '2015-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はしれていきて
-    singer_name_ruby: めるへんぬいえろふりん
-    song_variation:
-    - esong_code: 3399B1
-      song_name: ハシレ!ディギディギ
-      content_type: ''
   - song_name: Virgin Road (ショパン:雨だれのプレリュード)
     song_alias:
     esong_code: 3399B37
@@ -434,23 +400,6 @@ result:
       content_type: ''
   - song_name: Heartache
     song_alias:
-    esong_code: 3391B7
-    t_singer_master_id: '28360'
-    singer_name: ONE OK ROCK
-    singer_alias:
-    available_date: '2015-02-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はとえいく
-    singer_name_ruby: わんおくろつく
-    song_variation:
-    - esong_code: 3391B7
-      song_name: Heartache
-      content_type: ''
-  - song_name: Heartache
-    song_alias:
     esong_code: 3392A11
     t_singer_master_id: '28360'
     singer_name: ONE OK ROCK
@@ -466,6 +415,23 @@ result:
     - esong_code: 3392A11
       song_name: Heartache
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Heartache
+    song_alias:
+    esong_code: 3391B7
+    t_singer_master_id: '28360'
+    singer_name: ONE OK ROCK
+    singer_alias:
+    available_date: '2015-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はとえいく
+    singer_name_ruby: わんおくろつく
+    song_variation:
+    - esong_code: 3391B7
+      song_name: Heartache
+      content_type: ''
   - song_name: Heart Chrome feat.杏音鳥音
     song_alias:
     esong_code: 3390B20
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3397A10
       song_name: Heartbreaker
+      content_type: ''
+  - song_name: ハートブレイク・カフェ
+    song_alias:
+    esong_code: 1161B21
+    t_singer_master_id: '10606'
+    singer_name: 松浦 ゆみ
+    singer_alias:
+    available_date: '2015-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はとふれいくかふ
+    singer_name_ruby: まつうらゆみ
+    song_variation:
+    - esong_code: 1161B21
+      song_name: ハートブレイク・カフェ
+      content_type: ''
+  - song_name: 花篝り
+    song_alias:
+    esong_code: 3390B25
+    t_singer_master_id: '52601'
+    singer_name: 沢城 みゆき&福山 潤
+    singer_alias:
+    available_date: '2015-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ノラガミ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなかかり
+    singer_name_ruby: さわしろみゆきふくやましゆ
+    song_variation:
+    - esong_code: 3390B25
+      song_name: 花篝り
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 598
-  all_max_cnt: 668
-  all_country_cnt: 598
+  max_cnt: 592
+  all_max_cnt: 662
+  all_country_cnt: 592
   song:
-  - song_name: 思い込み
-    song_alias:
-    esong_code: 712A32
-    t_singer_master_id: '433'
-    singer_name: 小椋 佳
-    singer_alias:
-    available_date: '2001-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいこみ
-    singer_name_ruby: おくらけい
-    song_variation:
-    - esong_code: 712A32
-      song_name: 思い込み
-      content_type: ''
   - song_name: 想い出にしたくない
     song_alias:
     esong_code: 725B27
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 722A31
       song_name: 絆
+      content_type: ''
+  - song_name: 奇跡の雨
+    song_alias:
+    esong_code: 723A31
+    t_singer_master_id: '8736'
+    singer_name: 7HOUSE
+    singer_alias:
+    available_date: '2001-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きせきのあめ
+    singer_name_ruby: せふんはうす
+    song_variation:
+    - esong_code: 723A31
+      song_name: 奇跡の雨
       content_type: ''

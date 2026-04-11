@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1356
-  all_max_cnt: 1472
-  all_country_cnt: 1356
+  max_cnt: 1352
+  all_max_cnt: 1469
+  all_country_cnt: 1352
   song:
-  - song_name: さすらい純情
-    song_alias:
-    esong_code: 1512B42
-    t_singer_master_id: '15897'
-    singer_name: 黒川 英二
-    singer_alias:
-    available_date: '2006-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: さすらいしゆんし
-    singer_name_ruby: くろかわえいし
-    song_variation:
-    - esong_code: 1512B42
-      song_name: さすらい純情
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 幸 feat.48.9(RINO LATINAII,ヨシピィ・ダ・ガマ,UZI)
     song_alias:
     esong_code: 1499A39
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1512A13
       song_name: SUNSHINY DAY
+      content_type: ''
+  - song_name: Sunshine Love (Original)
+    song_alias:
+    esong_code: 1448B35
+    t_singer_master_id: '23840'
+    singer_name: So'Fly
+    singer_alias:
+    available_date: '2006-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんしやいんらふ
+    singer_name_ruby: そふらい
+    song_variation:
+    - esong_code: 1448B35
+      song_name: Sunshine Love (Original)
       content_type: ''

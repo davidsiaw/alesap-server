@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1255
-  all_country_cnt: 1064
+  max_cnt: 1057
+  all_max_cnt: 1248
+  all_country_cnt: 1057
   song:
   - song_name: 生きてて偉い
     song_alias:
@@ -94,6 +94,23 @@ result:
       content_type: ''
   - song_name: 石狩ルーラン十六番地
     song_alias:
+    esong_code: 4124A45
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2022-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いしかりるらんし
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 4124A45
+      song_name: 石狩ルーラン十六番地
+      content_type: ''
+  - song_name: 石狩ルーラン十六番地
+    song_alias:
     esong_code: 4676B21
     t_singer_master_id: '5034'
     singer_name: 市川 由紀乃
@@ -126,23 +143,6 @@ result:
     - esong_code: 4672A29
       song_name: 石狩ルーラン十六番地
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 石狩ルーラン十六番地
-    song_alias:
-    esong_code: 4124A45
-    t_singer_master_id: '5034'
-    singer_name: 市川 由紀乃
-    singer_alias:
-    available_date: '2022-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いしかりるらんし
-    singer_name_ruby: いちかわゆきの
-    song_variation:
-    - esong_code: 4124A45
-      song_name: 石狩ルーラン十六番地
-      content_type: ''
   - song_name: Easy Peasy
     song_alias:
     esong_code: 4670B26

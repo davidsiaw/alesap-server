@@ -7,23 +7,6 @@ result:
   all_max_cnt: 687
   all_country_cnt: 626
   song:
-  - song_name: FREEDOM
-    song_alias:
-    esong_code: 456A32
-    t_singer_master_id: '15562'
-    singer_name: 向風
-    singer_alias:
-    available_date: '2003-04-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりたむ
-    singer_name_ruby: むかいかせ
-    song_variation:
-    - esong_code: 456A32
-      song_name: FREEDOM
-      content_type: ''
   - song_name: プリティーパンクミュージック
     song_alias:
     esong_code: 461A20
@@ -211,6 +194,23 @@ result:
     - esong_code: 485A9
       song_name: Best Friend Of Mine
       content_type: ''
+  - song_name: 紅いろ椿
+    song_alias:
+    esong_code: 410A22
+    t_singer_master_id: '356'
+    singer_name: 大石 まどか(大石円)
+    singer_alias:
+    available_date: '2003-04-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へにいろつはき
+    singer_name_ruby: おおいしまとか
+    song_variation:
+    - esong_code: 410A22
+      song_name: 紅いろ椿
+      content_type: ''
   - song_name: ヘヘヘのハハハ
     song_alias:
     esong_code: 479B6
@@ -372,7 +372,7 @@ result:
     singer_alias:
     available_date: '2003-04-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 青春ラジメニア<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: ほくらのせいしゆん

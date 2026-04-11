@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
   - song_name: I LOVE MY HEART
     song_alias:
@@ -245,23 +245,6 @@ result:
     - esong_code: 2761A39
       song_name: ACUTE feat.初音ミク、巡音ルカ、KAITO
       content_type: VOCALOID
-  - song_name: "〜again"
-    song_alias:
-    esong_code: 2764B35
-    t_singer_master_id: '33058'
-    singer_name: 上田 竜也(from KAT-TUN)
-    singer_alias:
-    available_date: '2012-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけいん
-    singer_name_ruby: うえたたつや
-    song_variation:
-    - esong_code: 2764B35
-      song_name: "〜again"
-      content_type: ''
   - song_name: again
     song_alias:
     esong_code: 2758B25
@@ -278,6 +261,23 @@ result:
     song_variation:
     - esong_code: 2758B25
       song_name: again
+      content_type: ''
+  - song_name: "〜again"
+    song_alias:
+    esong_code: 2764B35
+    t_singer_master_id: '33058'
+    singer_name: 上田 竜也(from KAT-TUN)
+    singer_alias:
+    available_date: '2012-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あけいん
+    singer_name_ruby: うえたたつや
+    song_variation:
+    - esong_code: 2764B35
+      song_name: "〜again"
       content_type: ''
   - song_name: Against
     song_alias:
@@ -363,23 +363,6 @@ result:
     song_variation:
     - esong_code: 2760B37
       song_name: 明日への橋
-      content_type: ''
-  - song_name: 明日へのバトン
-    song_alias:
-    esong_code: 2749B14
-    t_singer_master_id: '21219'
-    singer_name: 神谷 浩史
-    singer_alias:
-    available_date: '2012-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あしたへのはとん
-    singer_name_ruby: かみやひろし
-    song_variation:
-    - esong_code: 2749B14
-      song_name: 明日へのバトン
       content_type: ''
   - song_name: 明日への飛翔 〜flap your wings〜
     song_alias:
@@ -474,7 +457,7 @@ result:
     singer_alias:
     available_date: '2012-02-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイⅡ<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あたふたないとあんと
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2766B45
       song_name: あっぱれ!瞬間積極剤
+      content_type: ''
+  - song_name: あなたがいてくれるから
+    song_alias:
+    esong_code: 2750A24
+    t_singer_master_id: '27852'
+    singer_name: Zero
+    singer_alias:
+    available_date: '2012-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたかいてくれる
+    singer_name_ruby: せろ
+    song_variation:
+    - esong_code: 2750A24
+      song_name: あなたがいてくれるから
       content_type: ''

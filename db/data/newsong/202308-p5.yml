@@ -3,17 +3,119 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1108
-  all_max_cnt: 1216
-  all_country_cnt: 1108
+  max_cnt: 1161
+  all_max_cnt: 1290
+  all_country_cnt: 1161
   song:
+  - song_name: 絵で
+    song_alias:
+    esong_code: 4814B25
+    t_singer_master_id: '68117'
+    singer_name: 諭吉佳作/men
+    singer_alias:
+    available_date: '2023-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Artiswitch<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えて
+    singer_name_ruby: ゆきちかさくめん
+    song_variation:
+    - esong_code: 4814B25
+      song_name: 絵で
+      content_type: ''
+  - song_name: エナジーバンパイア
+    song_alias:
+    esong_code: 4819A15
+    t_singer_master_id: '68318'
+    singer_name: King&President
+    singer_alias:
+    available_date: '2023-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えなしはんは
+    singer_name_ruby: きんくあんとふれしてんと
+    song_variation:
+    - esong_code: 4819A15
+      song_name: エナジーバンパイア
+      content_type: ''
+  - song_name: ABCDガール
+    song_alias:
+    esong_code: 4824A19
+    t_singer_master_id: '63035'
+    singer_name: KALMA
+    singer_alias:
+    available_date: '2023-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えひしてい
+    singer_name_ruby: かるま
+    song_variation:
+    - esong_code: 4824A19
+      song_name: ABCDガール
+      content_type: ''
+  - song_name: FF&Flapping
+    song_alias:
+    esong_code: 4815A36
+    t_singer_master_id: '63041'
+    singer_name: すとぷり
+    singer_alias:
+    available_date: '2023-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えふえふあんとふら
+    singer_name_ruby: すとふり
+    song_variation:
+    - esong_code: 4815A36
+      song_name: FF&Flapping
+      content_type: ''
+  - song_name: everyday life.
+    song_alias:
+    esong_code: 4816B9
+    t_singer_master_id: '45831'
+    singer_name: DISH//
+    singer_alias:
+    available_date: '2023-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えふりていらいふ
+    singer_name_ruby: ていつしゆ
+    song_variation:
+    - esong_code: 4816B9
+      song_name: everyday life.
+      content_type: ''
+  - song_name: error pt.2
+    song_alias:
+    esong_code: 4814B42
+    t_singer_master_id: '64131'
+    singer_name: 百足
+    singer_alias:
+    available_date: '2023-08-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えらはとつ
+    singer_name_ruby: むかて
+    song_variation:
+    - esong_code: 4814B42
+      song_name: error pt.2
+      content_type: ''
   - song_name: エロイーズ
     song_alias:
     esong_code: 4822B14
     t_singer_master_id: '45392'
     singer_name: ドレスコーズ
     singer_alias:
-    available_date: '2023-08-30'
+    available_date: '2023-08-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -145,23 +247,6 @@ result:
       content_type: ''
   - song_name: オオカミと彗星
     song_alias:
-    esong_code: 4824B3
-    t_singer_master_id: '20364'
-    singer_name: SUPER EIGHT
-    singer_alias:
-    available_date: '2023-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおかみとすいせい
-    singer_name_ruby: すはえいとかんしやにえいと
-    song_variation:
-    - esong_code: 4824B3
-      song_name: オオカミと彗星
-      content_type: ''
-  - song_name: オオカミと彗星
-    song_alias:
     esong_code: 4820B33
     t_singer_master_id: '20364'
     singer_name: SUPER EIGHT
@@ -177,6 +262,23 @@ result:
     - esong_code: 4820B33
       song_name: オオカミと彗星
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: オオカミと彗星
+    song_alias:
+    esong_code: 4824B3
+    t_singer_master_id: '20364'
+    singer_name: SUPER EIGHT
+    singer_alias:
+    available_date: '2023-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おおかみとすいせい
+    singer_name_ruby: すはえいとかんしやにえいと
+    song_variation:
+    - esong_code: 4824B3
+      song_name: オオカミと彗星
+      content_type: ''
   - song_name: 大阪えとらんぜ
     song_alias:
     esong_code: 4817B21
@@ -279,6 +381,23 @@ result:
     - esong_code: 4824B16
       song_name: おかえりなさい
       content_type: ''
+  - song_name: okashi
+    song_alias:
+    esong_code: 4951B37
+    t_singer_master_id: '71049'
+    singer_name: claquepot
+    singer_alias:
+    available_date: '2023-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おかし
+    singer_name_ruby: くらつくほつと
+    song_variation:
+    - esong_code: 4951B37
+      song_name: okashi
+      content_type: ''
   - song_name: オーケストラ '23
     song_alias:
     esong_code: 4816B32
@@ -295,23 +414,6 @@ result:
     song_variation:
     - esong_code: 4816B32
       song_name: オーケストラ '23
-      content_type: ''
-  - song_name: Oh s**t!! feat.SKY-HI
-    song_alias:
-    esong_code: 4822A32
-    t_singer_master_id: '72196'
-    singer_name: s**t kingz
-    singer_alias:
-    available_date: '2023-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おしつと
-    singer_name_ruby: しつときんくす
-    song_variation:
-    - esong_code: 4822A32
-      song_name: Oh s**t!! feat.SKY-HI
       content_type: ''
   - song_name: おしろい花 (デュエットバージョン)
     song_alias:
@@ -415,105 +517,3 @@ result:
     - esong_code: 4825B19
       song_name: 男の人生…心の道
       content_type: ''
-  - song_name: 男の砂時計
-    song_alias:
-    esong_code: 4818A26
-    t_singer_master_id: '15801'
-    singer_name: 福田 みのる
-    singer_alias:
-    available_date: '2023-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこのすなとけい
-    singer_name_ruby: ふくたみのる
-    song_variation:
-    - esong_code: 4818A26
-      song_name: 男の砂時計
-      content_type: ''
-  - song_name: おとしもの
-    song_alias:
-    esong_code: 4816B37
-    t_singer_master_id: '71269'
-    singer_name: あくあ ゆい
-    singer_alias:
-    available_date: '2023-08-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとしもの
-    singer_name_ruby: あくあゆい
-    song_variation:
-    - esong_code: 4816B37
-      song_name: おとしもの
-      content_type: ''
-  - song_name: オーバーキル
-    song_alias:
-    esong_code: 4819B17
-    t_singer_master_id: '72165'
-    singer_name: She is Legend
-    singer_alias:
-    available_date: '2023-08-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ヘブンバーンズレッド<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おはきる
-    singer_name_ruby: しいすれしえんと
-    song_variation:
-    - esong_code: 4819B17
-      song_name: オーバーキル
-      content_type: ''
-  - song_name: おひとりさま天国
-    song_alias:
-    esong_code: 4817B24
-    t_singer_master_id: '44213'
-    singer_name: 乃木坂46
-    singer_alias:
-    available_date: '2023-08-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おひとりさまてんこ
-    singer_name_ruby: のきさかふおていしつくす
-    song_variation:
-    - esong_code: 4817B24
-      song_name: おひとりさま天国
-      content_type: ''
-  - song_name: おままごと
-    song_alias:
-    esong_code: 4823B16
-    t_singer_master_id: '65805'
-    singer_name: ファイルーズあい
-    singer_alias:
-    available_date: '2023-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ヒプノシスマイク<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おままこと
-    singer_name_ruby: ふあいるすあい
-    song_variation:
-    - esong_code: 4823B16
-      song_name: おままごと
-      content_type: ''
-  - song_name: オモイダマ [DAM本人歌唱]
-    song_alias:
-    esong_code: 4820B16
-    t_singer_master_id: '20364'
-    singer_name: SUPER EIGHT
-    singer_alias:
-    available_date: '2023-08-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: おもいたま
-    singer_name_ruby: すはえいとかんしやにえいと
-    song_variation:
-    - esong_code: 4820B16
-      song_name: オモイダマ [DAM本人歌唱]
-      content_type: DAM本人歌唱

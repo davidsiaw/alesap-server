@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: 燧灘
-    song_alias:
-    esong_code: 2464A19
-    t_singer_master_id: '5041'
-    singer_name: 上杉 香緒里
-    singer_alias:
-    available_date: '2010-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ひうちなた
-    singer_name_ruby: うえすきかおり
-    song_variation:
-    - esong_code: 2464A19
-      song_name: 燧灘
-      content_type: DAM生音
   - song_name: 光あるうちに行け
     song_alias:
     esong_code: 2481B17
@@ -281,23 +264,6 @@ result:
       content_type: ''
   - song_name: 瞳の奥をのぞかせて
     song_alias:
-    esong_code: 2462B44
-    t_singer_master_id: '10295'
-    singer_name: ポルノグラフィティ
-    singer_alias:
-    available_date: '2010-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとみのおくをのそ
-    singer_name_ruby: ほるのくらふいてい
-    song_variation:
-    - esong_code: 2462B44
-      song_name: 瞳の奥をのぞかせて
-      content_type: ''
-  - song_name: 瞳の奥をのぞかせて
-    song_alias:
     esong_code: 2493B39
     t_singer_master_id: '10295'
     singer_name: ポルノグラフィティ
@@ -313,6 +279,23 @@ result:
     - esong_code: 2493B39
       song_name: 瞳の奥をのぞかせて
       content_type: DAM生音
+  - song_name: 瞳の奥をのぞかせて
+    song_alias:
+    esong_code: 2462B44
+    t_singer_master_id: '10295'
+    singer_name: ポルノグラフィティ
+    singer_alias:
+    available_date: '2010-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとみのおくをのそ
+    singer_name_ruby: ほるのくらふいてい
+    song_variation:
+    - esong_code: 2462B44
+      song_name: 瞳の奥をのぞかせて
+      content_type: ''
   - song_name: 瞳のスクリーン
     song_alias:
     esong_code: 2482B10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2468A34
       song_name: Beaming
+      content_type: ''
+  - song_name: 日向の恋唄
+    song_alias:
+    esong_code: 2482A12
+    t_singer_master_id: '356'
+    singer_name: 大石 まどか(大石円)
+    singer_alias:
+    available_date: '2010-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひむかのこいうた
+    singer_name_ruby: おおいしまとか
+    song_variation:
+    - esong_code: 2482A12
+      song_name: 日向の恋唄
       content_type: ''

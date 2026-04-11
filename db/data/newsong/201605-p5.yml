@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1527
-  all_country_cnt: 1321
+  max_cnt: 1310
+  all_max_cnt: 1516
+  all_country_cnt: 1310
   song:
-  - song_name: 泡沫サタデーナイト!
-    song_alias:
-    esong_code: 2086A8
-    t_singer_master_id: '58217'
-    singer_name: モーニング娘。'16
-    singer_alias:
-    available_date: '2016-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたかたさたてな
-    singer_name_ruby: もにんくむすめわんしつくす
-    song_variation:
-    - esong_code: 2086A8
-      song_name: 泡沫サタデーナイト!
-      content_type: ''
-  - song_name: UTAGE
-    song_alias:
-    esong_code: 3627B14
-    t_singer_master_id: '43646'
-    singer_name: SAKANAMON
-    singer_alias:
-    available_date: '2016-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたけ
-    singer_name_ruby: さかなもん
-    song_variation:
-    - esong_code: 3627B14
-      song_name: UTAGE
-      content_type: ''
   - song_name: 歌の翼
     song_alias:
     esong_code: 1556A48
@@ -94,23 +60,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: うぬぼれ
     song_alias:
-    esong_code: 1602A20
-    t_singer_master_id: '32154'
-    singer_name: ジェロ
-    singer_alias:
-    available_date: '2016-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うぬほれ
-    singer_name_ruby: しえろ
-    song_variation:
-    - esong_code: 1602A20
-      song_name: うぬぼれ
-      content_type: ''
-  - song_name: うぬぼれ
-    song_alias:
     esong_code: 1557B34
     t_singer_master_id: '32154'
     singer_name: ジェロ
@@ -126,6 +75,23 @@ result:
     - esong_code: 1557B34
       song_name: うぬぼれ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: うぬぼれ
+    song_alias:
+    esong_code: 1602A20
+    t_singer_master_id: '32154'
+    singer_name: ジェロ
+    singer_alias:
+    available_date: '2016-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うぬほれ
+    singer_name_ruby: しえろ
+    song_variation:
+    - esong_code: 1602A20
+      song_name: うぬぼれ
+      content_type: ''
   - song_name: 舞哈BABY!!-WooHa-
     song_alias:
     esong_code: 3631B38
@@ -517,3 +483,37 @@ result:
     - esong_code: 2084B35
       song_name: 越後水原
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 越前つばき
+    song_alias:
+    esong_code: 2087B26
+    t_singer_master_id: '5744'
+    singer_name: 藤原 浩
+    singer_alias:
+    available_date: '2016-05-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: えちせんつはき
+    singer_name_ruby: ふしわらひろし
+    song_variation:
+    - esong_code: 2087B26
+      song_name: 越前つばき
+      content_type: JOY生演奏
+  - song_name: 恵傳
+    song_alias:
+    esong_code: 3628A43
+    t_singer_master_id: '44282'
+    singer_name: 前野 智昭
+    singer_alias:
+    available_date: '2016-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 剣が君 for V<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えてん
+    singer_name_ruby: まえのともあき
+    song_variation:
+    - esong_code: 3628A43
+      song_name: 恵傳
+      content_type: ''

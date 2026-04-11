@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1284
-  all_max_cnt: 1473
-  all_country_cnt: 1284
+  max_cnt: 1277
+  all_max_cnt: 1466
+  all_country_cnt: 1277
   song:
   - song_name: 青い薔薇 (La rosa azul)
     song_alias:
@@ -417,23 +417,6 @@ result:
       content_type: ''
   - song_name: 熱海あたりで
     song_alias:
-    esong_code: 3476A14
-    t_singer_master_id: '6071'
-    singer_name: 小沢 あきこ(小沢亜貴子)
-    singer_alias:
-    available_date: '2017-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あたみあたりて
-    singer_name_ruby: おさわあきこ
-    song_variation:
-    - esong_code: 3476A14
-      song_name: 熱海あたりで
-      content_type: ''
-  - song_name: 熱海あたりで
-    song_alias:
     esong_code: 2519B5
     t_singer_master_id: '6071'
     singer_name: 小沢 あきこ(小沢亜貴子)
@@ -449,6 +432,23 @@ result:
     - esong_code: 2519B5
       song_name: 熱海あたりで
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 熱海あたりで
+    song_alias:
+    esong_code: 3476A14
+    t_singer_master_id: '6071'
+    singer_name: 小沢 あきこ(小沢亜貴子)
+    singer_alias:
+    available_date: '2017-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あたみあたりて
+    singer_name_ruby: おさわあきこ
+    song_variation:
+    - esong_code: 3476A14
+      song_name: 熱海あたりで
+      content_type: ''
   - song_name: "「新しい人」に"
     song_alias:
     esong_code: 3766A8

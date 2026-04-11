@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1500
-  all_max_cnt: 1660
-  all_country_cnt: 1500
+  max_cnt: 1480
+  all_max_cnt: 1639
+  all_country_cnt: 1480
   song:
-  - song_name: 大宮めぐり逢い
-    song_alias:
-    esong_code: 2036A16
-    t_singer_master_id: '33406'
-    singer_name: 宮桜 まみ&南 有二
-    singer_alias:
-    available_date: '2013-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおみやめくりあい
-    singer_name_ruby: みやさくらまみみなみゆうし
-    song_variation:
-    - esong_code: 2036A16
-      song_name: 大宮めぐり逢い
-      content_type: ''
-  - song_name: 丘の上の小さな太陽
-    song_alias:
-    esong_code: 1055B18
-    t_singer_master_id: '720'
-    singer_name: 工藤 静香
-    singer_alias:
-    available_date: '2013-09-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おかのうえのちいさな
-    singer_name_ruby: くとうしすか
-    song_variation:
-    - esong_code: 1055B18
-      song_name: 丘の上の小さな太陽
-      content_type: ''
-  - song_name: お気軽ウッキーラッキー
-    song_alias:
-    esong_code: 3112A41
-    t_singer_master_id: '48554'
-    singer_name: MarMee
-    singer_alias:
-    available_date: '2013-09-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おきかるうつきら
-    singer_name_ruby: まみ
-    song_variation:
-    - esong_code: 3112A41
-      song_name: お気軽ウッキーラッキー
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: お吉
-    song_alias:
-    esong_code: 849B16
-    t_singer_master_id: '2585'
-    singer_name: 竜 鉄也
-    singer_alias:
-    available_date: '2013-09-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おきち
-    singer_name_ruby: りゆうてつや
-    song_variation:
-    - esong_code: 849B16
-      song_name: お吉
-      content_type: ''
   - song_name: 奥久慈慕情
     song_alias:
     esong_code: 2701A7
@@ -179,6 +111,23 @@ result:
       content_type: ''
   - song_name: 男の酒場
     song_alias:
+    esong_code: 3110B23
+    t_singer_master_id: '1710'
+    singer_name: 西方 裕之
+    singer_alias:
+    available_date: '2013-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのさかは
+    singer_name_ruby: にしかたひろゆき
+    song_variation:
+    - esong_code: 3110B23
+      song_name: 男の酒場
+      content_type: ''
+  - song_name: 男の酒場
+    song_alias:
     esong_code: 3110B24
     t_singer_master_id: '1710'
     singer_name: 西方 裕之
@@ -194,23 +143,6 @@ result:
     - esong_code: 3110B24
       song_name: 男の酒場
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 男の酒場
-    song_alias:
-    esong_code: 3110B23
-    t_singer_master_id: '1710'
-    singer_name: 西方 裕之
-    singer_alias:
-    available_date: '2013-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこのさかは
-    singer_name_ruby: にしかたひろゆき
-    song_variation:
-    - esong_code: 3110B23
-      song_name: 男の酒場
-      content_type: ''
   - song_name: 男の酒には・・・。
     song_alias:
     esong_code: 2684B30
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 3101B24
       song_name: オープン ア ブック!
+      content_type: ''
+  - song_name: 朧月夜
+    song_alias:
+    esong_code: 3112B40
+    t_singer_master_id: '60536'
+    singer_name: 唱歌
+    singer_alias:
+    available_date: '2013-09-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYうたいり
+    song_name_ruby: おほろつきよ
+    singer_name_ruby: しようか
+    song_variation:
+    - esong_code: 3112B40
+      song_name: 朧月夜
+      content_type: JOYうたいり
+  - song_name: お前・・・ありがとう
+    song_alias:
+    esong_code: 2071B42
+    t_singer_master_id: '33856'
+    singer_name: 邦男&なおみ
+    singer_alias:
+    available_date: '2013-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おまえありかとう
+    singer_name_ruby: くにおなおみ
+    song_variation:
+    - esong_code: 2071B42
+      song_name: お前・・・ありがとう
+      content_type: ''
+  - song_name: お前らなんかみんな大嫌いだ
+    song_alias:
+    esong_code: 3112B3
+    t_singer_master_id: '68852'
+    singer_name: オワタP feat.初音ミク
+    singer_alias:
+    available_date: '2013-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: おまえらなんかみんな
+    singer_name_ruby: おわたひふいちやりんくは
+    song_variation:
+    - esong_code: 3112B3
+      song_name: お前らなんかみんな大嫌いだ
+      content_type: VOCALOID
+  - song_name: Omen Man
+    song_alias:
+    esong_code: 3109A35
+    t_singer_master_id: '31669'
+    singer_name: LEO今井
+    singer_alias:
+    available_date: '2013-09-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おめんまん
+    singer_name_ruby: れおいまい
+    song_variation:
+    - esong_code: 3109A35
+      song_name: Omen Man
       content_type: ''

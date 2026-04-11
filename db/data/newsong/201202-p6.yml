@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: HMVヒットメドレー 〜2011年12月ランキング〜
-    song_alias:
-    esong_code: 2759B47
-    t_singer_master_id: '12695'
-    singer_name: HMVメドレー
-    singer_alias:
-    available_date: '2012-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えいちえむふ1112
-    singer_name_ruby: えいちえむふいめと
-    song_variation:
-    - esong_code: 2759B47
-      song_name: HMVヒットメドレー 〜2011年12月ランキング〜
-      content_type: ''
   - song_name: 笑顔のキャンバス
     song_alias:
     esong_code: 2748B33
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: 大阪流転
     song_alias:
-    esong_code: 2758A2
-    t_singer_master_id: '2270'
-    singer_name: 三門 忠司
-    singer_alias:
-    available_date: '2012-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おおさかるてん
-    singer_name_ruby: みかとちゆうし
-    song_variation:
-    - esong_code: 2758A2
-      song_name: 大阪流転
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 大阪流転
-    song_alias:
     esong_code: 2760B35
     t_singer_master_id: '2270'
     singer_name: 三門 忠司
@@ -347,6 +313,23 @@ result:
     - esong_code: 2760B35
       song_name: 大阪流転
       content_type: ''
+  - song_name: 大阪流転
+    song_alias:
+    esong_code: 2758A2
+    t_singer_master_id: '2270'
+    singer_name: 三門 忠司
+    singer_alias:
+    available_date: '2012-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おおさかるてん
+    singer_name_ruby: みかとちゆうし
+    song_variation:
+    - esong_code: 2758A2
+      song_name: 大阪流転
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 沖縄ディスコナイト
     song_alias:
     esong_code: 2773B6
@@ -517,3 +500,20 @@ result:
     - esong_code: 2762A37
       song_name: おにぎり おにぎり
       content_type: ''
+  - song_name: Overcoming feat.まめこ
+    song_alias:
+    esong_code: 2007A26
+    t_singer_master_id: '38202'
+    singer_name: ふぉれすとぴれお
+    singer_alias:
+    available_date: '2012-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方永夜抄 〜Imperishable Night<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: おはかみんく
+    singer_name_ruby: ふおれすとひれお
+    song_variation:
+    - esong_code: 2007A26
+      song_name: Overcoming feat.まめこ
+      content_type: 東方

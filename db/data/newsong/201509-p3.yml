@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
   - song_name: "「雨のワルツ」"
     song_alias:
@@ -117,7 +117,7 @@ result:
     singer_alias:
     available_date: '2015-09-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あるていめつとえなし
@@ -185,7 +185,7 @@ result:
     singer_alias:
     available_date: '2015-09-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あわふあいていんく
@@ -202,7 +202,7 @@ result:
     singer_alias:
     available_date: '2015-09-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あわふあいていんく
@@ -228,23 +228,6 @@ result:
     - esong_code: 3495B38
       song_name: Encore
       content_type: ''
-  - song_name: アンチヒーロー
-    song_alias:
-    esong_code: 3497A34
-    t_singer_master_id: '54233'
-    singer_name: LINE wanna be Anchors
-    singer_alias:
-    available_date: '2015-09-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんちひろ
-    singer_name_ruby: らいんわなひあんかす
-    song_variation:
-    - esong_code: 3497A34
-      song_name: アンチヒーロー
-      content_type: ''
   - song_name: ANTIHERO
     song_alias:
     esong_code: 3497A38
@@ -262,22 +245,22 @@ result:
     - esong_code: 3497A38
       song_name: ANTIHERO
       content_type: ''
-  - song_name: アンビリーバーズ
+  - song_name: アンチヒーロー
     song_alias:
-    esong_code: 3488B49
-    t_singer_master_id: '44604'
-    singer_name: 米津玄師(ハチ)
+    esong_code: 3497A34
+    t_singer_master_id: '54233'
+    singer_name: LINE wanna be Anchors
     singer_alias:
-    available_date: '2015-09-01'
+    available_date: '2015-09-13'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: あんひりはす
-    singer_name_ruby: よねつけんし
+    song_name_ruby: あんちひろ
+    singer_name_ruby: らいんわなひあんかす
     song_variation:
-    - esong_code: 3488B49
-      song_name: アンビリーバーズ
+    - esong_code: 3497A34
+      song_name: アンチヒーロー
       content_type: ''
   - song_name: アンビリーバーズ
     song_alias:
@@ -296,6 +279,23 @@ result:
     - esong_code: 3503A14
       song_name: アンビリーバーズ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: アンビリーバーズ
+    song_alias:
+    esong_code: 3488B49
+    t_singer_master_id: '44604'
+    singer_name: 米津玄師(ハチ)
+    singer_alias:
+    available_date: '2015-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんひりはす
+    singer_name_ruby: よねつけんし
+    song_variation:
+    - esong_code: 3488B49
+      song_name: アンビリーバーズ
+      content_type: ''
   - song_name: Unfair World
     song_alias:
     esong_code: 3504A39
@@ -313,23 +313,6 @@ result:
     - esong_code: 3504A39
       song_name: Unfair World
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Unfair World
-    song_alias:
-    esong_code: 3495B8
-    t_singer_master_id: '41096'
-    singer_name: 三代目 J Soul Brothers from EXILE TRIBE
-    singer_alias:
-    available_date: '2015-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あんふえあわると
-    singer_name_ruby: さんたいめしえいそうるふらさす
-    song_variation:
-    - esong_code: 3495B8
-      song_name: Unfair World
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Unfair World
     song_alias:
     esong_code: 3498A15
@@ -381,6 +364,23 @@ result:
     - esong_code: 3504B4
       song_name: Unfair World (Unplugged Version)
       content_type: ''
+  - song_name: Unfair World
+    song_alias:
+    esong_code: 3495B8
+    t_singer_master_id: '41096'
+    singer_name: 三代目 J Soul Brothers from EXILE TRIBE
+    singer_alias:
+    available_date: '2015-09-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あんふえあわると
+    singer_name_ruby: さんたいめしえいそうるふらさす
+    song_variation:
+    - esong_code: 3495B8
+      song_name: Unfair World
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: いいから
     song_alias:
     esong_code: 3503B30

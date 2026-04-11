@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1295
-  all_max_cnt: 1405
-  all_country_cnt: 1295
+  max_cnt: 1285
+  all_max_cnt: 1395
+  all_country_cnt: 1285
   song:
-  - song_name: 鏡開き
-    song_alias:
-    esong_code: 2791A10
-    t_singer_master_id: '414'
-    singer_name: 岡 ゆう子
-    singer_alias:
-    available_date: '2012-04-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かかみひらき
-    singer_name_ruby: おかゆうこ
-    song_variation:
-    - esong_code: 2791A10
-      song_name: 鏡開き
-      content_type: ''
   - song_name: 輝け!放課後
     song_alias:
     esong_code: 2785B20
@@ -95,8 +78,8 @@ result:
   - song_name: かざぐるま
     song_alias:
     esong_code: 2781A42
-    t_singer_master_id: '31718'
-    singer_name: 小川 夏生(小川夏輝)
+    t_singer_master_id: '72157'
+    singer_name: なつき ようこ(小川夏輝)
     singer_alias:
     available_date: '2012-04-11'
     end_date: '2999-04-10 00:00:00'
@@ -104,7 +87,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: かさくるま
-    singer_name_ruby: おかわなつき
+    singer_name_ruby: なつきようこ
     song_variation:
     - esong_code: 2781A42
       song_name: かざぐるま
@@ -298,23 +281,6 @@ result:
       content_type: ''
   - song_name: 我慢船
     song_alias:
-    esong_code: 2787A13
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2012-04-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かまんふね
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 2787A13
-      song_name: 我慢船
-      content_type: DAM生音
-  - song_name: 我慢船
-    song_alias:
     esong_code: 2787A41
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -347,6 +313,23 @@ result:
     - esong_code: 2617B9
       song_name: 我慢船
       content_type: ''
+  - song_name: 我慢船
+    song_alias:
+    esong_code: 2787A13
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2012-04-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: かまんふね
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 2787A13
+      song_name: 我慢船
+      content_type: DAM生音
   - song_name: 神様のくれた5分
     song_alias:
     esong_code: 383B49
@@ -517,3 +500,20 @@ result:
     - esong_code: 2788B38
       song_name: ガラスのエース 遊turing 柴田知美
       content_type: ''
+  - song_name: 硝子ノ華 feat.VY2
+    song_alias:
+    esong_code: 2789A43
+    t_singer_master_id: '36565'
+    singer_name: マチゲリータ
+    singer_alias:
+    available_date: '2012-04-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: からすのはな
+    singer_name_ruby: まちけりた
+    song_variation:
+    - esong_code: 2789A43
+      song_name: 硝子ノ華 feat.VY2
+      content_type: VOCALOID

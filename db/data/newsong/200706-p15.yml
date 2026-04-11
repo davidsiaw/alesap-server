@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
-  - song_name: 直線サイクリング
-    song_alias:
-    esong_code: 1794B26
-    t_singer_master_id: '2750'
-    singer_name: L⇔R
-    singer_alias:
-    available_date: '2007-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちよくせんさいくりん
-    singer_name_ruby: えるある
-    song_variation:
-    - esong_code: 1794B26
-      song_name: 直線サイクリング
-      content_type: ''
   - song_name: チョコレイト・ディスコ
     song_alias:
     esong_code: 1731A34
@@ -160,23 +143,6 @@ result:
     - esong_code: 1746A33
       song_name: 冷たい夜
       content_type: ''
-  - song_name: ツヨガリ
-    song_alias:
-    esong_code: 1796B28
-    t_singer_master_id: '22881'
-    singer_name: タカチャ
-    singer_alias:
-    available_date: '2007-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つよかり
-    singer_name_ruby: たかちや
-    song_variation:
-    - esong_code: 1796B28
-      song_name: ツヨガリ
-      content_type: ''
   - song_name: つよがり
     song_alias:
     esong_code: 1798B39
@@ -193,6 +159,23 @@ result:
     song_variation:
     - esong_code: 1798B39
       song_name: つよがり
+      content_type: ''
+  - song_name: ツヨガリ
+    song_alias:
+    esong_code: 1796B28
+    t_singer_master_id: '22881'
+    singer_name: タカチャ
+    singer_alias:
+    available_date: '2007-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つよかり
+    singer_name_ruby: たかちや
+    song_variation:
+    - esong_code: 1796B28
+      song_name: ツヨガリ
       content_type: ''
   - song_name: つよがりドライバー
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1796B24
       song_name: Tell you
+      content_type: ''
+  - song_name: 手をつないだら
+    song_alias:
+    esong_code: 1797A32
+    t_singer_master_id: '21333'
+    singer_name: 風味堂
+    singer_alias:
+    available_date: '2007-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てをつないたら
+    singer_name_ruby: ふうみとう
+    song_variation:
+    - esong_code: 1797A32
+      song_name: 手をつないだら
       content_type: ''

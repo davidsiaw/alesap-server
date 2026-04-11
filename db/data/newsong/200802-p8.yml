@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 951
-  all_max_cnt: 1042
-  all_country_cnt: 951
+  max_cnt: 949
+  all_max_cnt: 1040
+  all_country_cnt: 949
   song:
   - song_name: キャバレー
     song_alias:
@@ -94,23 +94,6 @@ result:
       content_type: ''
   - song_name: 京都二年坂
     song_alias:
-    esong_code: 1949A34
-    t_singer_master_id: '893'
-    singer_name: 伍代 夏子
-    singer_alias:
-    available_date: '2008-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きようとにねんさか
-    singer_name_ruby: こたいなつこ
-    song_variation:
-    - esong_code: 1949A34
-      song_name: 京都二年坂
-      content_type: ''
-  - song_name: 京都二年坂
-    song_alias:
     esong_code: 1953B33
     t_singer_master_id: '893'
     singer_name: 伍代 夏子
@@ -126,6 +109,23 @@ result:
     - esong_code: 1953B33
       song_name: 京都二年坂
       content_type: DAM生音
+  - song_name: 京都二年坂
+    song_alias:
+    esong_code: 1949A34
+    t_singer_master_id: '893'
+    singer_name: 伍代 夏子
+    singer_alias:
+    available_date: '2008-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きようとにねんさか
+    singer_name_ruby: こたいなつこ
+    song_variation:
+    - esong_code: 1949A34
+      song_name: 京都二年坂
+      content_type: ''
   - song_name: 恐竜ダダンバ
     song_alias:
     esong_code: 1948B12
@@ -366,23 +366,6 @@ result:
       content_type: ''
   - song_name: CRY
     song_alias:
-    esong_code: 1957B42
-    t_singer_master_id: '24328'
-    singer_name: JAMOSA
-    singer_alias:
-    available_date: '2008-02-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらい
-    singer_name_ruby: しやもさ
-    song_variation:
-    - esong_code: 1957B42
-      song_name: CRY
-      content_type: ''
-  - song_name: CRY
-    song_alias:
     esong_code: 1950B25
     t_singer_master_id: '11911'
     singer_name: RIZE(雷図)
@@ -396,6 +379,23 @@ result:
     singer_name_ruby: らいす
     song_variation:
     - esong_code: 1950B25
+      song_name: CRY
+      content_type: ''
+  - song_name: CRY
+    song_alias:
+    esong_code: 1957B42
+    t_singer_master_id: '24328'
+    singer_name: JAMOSA
+    singer_alias:
+    available_date: '2008-02-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらい
+    singer_name_ruby: しやもさ
+    song_variation:
+    - esong_code: 1957B42
       song_name: CRY
       content_type: ''
   - song_name: Cry&Smile!!

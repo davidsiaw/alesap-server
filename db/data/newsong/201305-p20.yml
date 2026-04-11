@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
   - song_name: SMASH
     song_alias:
@@ -319,6 +319,23 @@ result:
     - esong_code: 3042B48
       song_name: Save The Truth
       content_type: ''
+  - song_name: ゼラニウム
+    song_alias:
+    esong_code: 3030A13
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2013-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せらにうむ
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 3030A13
+      song_name: ゼラニウム
+      content_type: ''
   - song_name: 糶〜せり
     song_alias:
     esong_code: 3033B1
@@ -505,21 +522,4 @@ result:
     song_variation:
     - esong_code: 3041A45
       song_name: ソウルから
-      content_type: ''
-  - song_name: SOUL FOOD
-    song_alias:
-    esong_code: 3047A29
-    t_singer_master_id: '14047'
-    singer_name: CRAZY KEN BAND
-    singer_alias:
-    available_date: '2013-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そうるふと
-    singer_name_ruby: くれいしけんはんと
-    song_variation:
-    - esong_code: 3047A29
-      song_name: SOUL FOOD
       content_type: ''

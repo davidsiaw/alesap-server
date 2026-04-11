@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 807
-  all_max_cnt: 867
-  all_country_cnt: 807
+  max_cnt: 806
+  all_max_cnt: 866
+  all_country_cnt: 806
   song:
   - song_name: SEY YES
     song_alias:
@@ -94,23 +94,6 @@ result:
       content_type: ''
   - song_name: 世界に一つだけの花
     song_alias:
-    esong_code: 560B2
-    t_singer_master_id: '2179'
-    singer_name: 槇原 敬之
-    singer_alias:
-    available_date: '2004-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せかいにひとつたけ
-    singer_name_ruby: まきはらのりゆき
-    song_variation:
-    - esong_code: 560B2
-      song_name: 世界に一つだけの花
-      content_type: ''
-  - song_name: 世界に一つだけの花
-    song_alias:
     esong_code: 574A6
     t_singer_master_id: '17457'
     singer_name: 女子十二楽坊
@@ -124,6 +107,23 @@ result:
     singer_name_ruby: しよししゆうにかくほう
     song_variation:
     - esong_code: 574A6
+      song_name: 世界に一つだけの花
+      content_type: ''
+  - song_name: 世界に一つだけの花
+    song_alias:
+    esong_code: 560B2
+    t_singer_master_id: '2179'
+    singer_name: 槇原 敬之
+    singer_alias:
+    available_date: '2004-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せかいにひとつたけ
+    singer_name_ruby: まきはらのりゆき
+    song_variation:
+    - esong_code: 560B2
       song_name: 世界に一つだけの花
       content_type: ''
   - song_name: せつなさを殺せない (self cover)
@@ -491,7 +491,7 @@ result:
     singer_alias:
     available_date: '2004-09-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボール<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: そんこくうそんく

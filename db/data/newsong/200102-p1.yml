@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 259
-  all_max_cnt: 274
-  all_country_cnt: 259
+  max_cnt: 254
+  all_max_cnt: 269
+  all_country_cnt: 254
   song:
   - song_name: ウィークエンド・アバンチュール
     song_alias:
@@ -193,23 +193,6 @@ result:
     song_variation:
     - esong_code: 520A28
       song_name: エンジェル
-      content_type: ''
-  - song_name: ENDLESS LOVE
-    song_alias:
-    esong_code: 516B39
-    t_singer_master_id: '2870'
-    singer_name: 緒方 恵美
-    singer_alias:
-    available_date: '2001-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんとれすらふ
-    singer_name_ruby: おかためくみ
-    song_variation:
-    - esong_code: 516B39
-      song_name: ENDLESS LOVE
       content_type: ''
   - song_name: 大井追っかけ音次郎
     song_alias:
@@ -500,20 +483,37 @@ result:
     - esong_code: 517B23
       song_name: 環七フィーバー
       content_type: ''
-  - song_name: がんばって負けないで
+  - song_name: 絆坂
     song_alias:
-    esong_code: 516B30
-    t_singer_master_id: '3044'
-    singer_name: 井上 喜久子
+    esong_code: 513B34
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2001-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすなさか
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 513B34
+      song_name: 絆坂
+      content_type: ''
+  - song_name: Givin' Me All
+    song_alias:
+    esong_code: 518B21
+    t_singer_master_id: '1100'
+    singer_name: SING LIKE TALKING
     singer_alias:
     available_date: '2001-02-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: かんはつてまけな
-    singer_name_ruby: いのうえきくこ
+    song_name_ruby: きひんみおる
+    singer_name_ruby: しんくらいくときんく
     song_variation:
-    - esong_code: 516B30
-      song_name: がんばって負けないで
+    - esong_code: 518B21
+      song_name: Givin' Me All
       content_type: ''

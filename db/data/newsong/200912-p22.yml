@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
-  - song_name: tomoni
-    song_alias:
-    esong_code: 1108B28
-    t_singer_master_id: '10619'
-    singer_name: KOKIA
-    singer_alias:
-    available_date: '2009-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ともに
-    singer_name_ruby: こきあ
-    song_variation:
-    - esong_code: 1108B28
-      song_name: tomoni
-      content_type: ''
   - song_name: 友よ女よ
     song_alias:
     esong_code: 2443A35
@@ -517,3 +500,20 @@ result:
     - esong_code: 2444B33
       song_name: ナスが好き feat.神威がくぽ
       content_type: VOCALOID
+  - song_name: 懐しきlove-song
+    song_alias:
+    esong_code: 2446B47
+    t_singer_master_id: '916'
+    singer_name: 坂本 九
+    singer_alias:
+    available_date: '2009-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なつかしきらふそん
+    singer_name_ruby: さかもときゆう
+    song_variation:
+    - esong_code: 2446B47
+      song_name: 懐しきlove-song
+      content_type: ''

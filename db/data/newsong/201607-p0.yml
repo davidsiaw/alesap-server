@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1509
-  all_max_cnt: 1659
-  all_country_cnt: 1509
+  max_cnt: 1504
+  all_max_cnt: 1654
+  all_country_cnt: 1504
   song:
   - song_name: ああ・・・しのび雨
     song_alias:
@@ -262,23 +262,6 @@ result:
     - esong_code: 3653A20
       song_name: アイネクライネ
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 愛の詩 (Piano Version)
-    song_alias:
-    esong_code: 3647B14
-    t_singer_master_id: '920'
-    singer_name: 坂本 冬美
-    singer_alias:
-    available_date: '2016-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのうた
-    singer_name_ruby: さかもとふゆみ
-    song_variation:
-    - esong_code: 3647B14
-      song_name: 愛の詩 (Piano Version)
-      content_type: ''
   - song_name: 愛の歌
     song_alias:
     esong_code: 3646A16
@@ -295,6 +278,23 @@ result:
     song_variation:
     - esong_code: 3646A16
       song_name: 愛の歌
+      content_type: ''
+  - song_name: 愛の詩 (Piano Version)
+    song_alias:
+    esong_code: 3647B14
+    t_singer_master_id: '920'
+    singer_name: 坂本 冬美
+    singer_alias:
+    available_date: '2016-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのうた
+    singer_name_ruby: さかもとふゆみ
+    song_variation:
+    - esong_code: 3647B14
+      song_name: 愛の詩 (Piano Version)
       content_type: ''
   - song_name: 愛の言葉
     song_alias:

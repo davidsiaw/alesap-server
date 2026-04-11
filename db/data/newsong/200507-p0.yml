@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 877
-  all_max_cnt: 974
-  all_country_cnt: 877
+  max_cnt: 871
+  all_max_cnt: 968
+  all_country_cnt: 871
   song:
   - song_name: ああ犬田布岬
     song_alias:
@@ -313,23 +313,6 @@ result:
     - esong_code: 1306B22
       song_name: あいらぶおきなわ
       content_type: ''
-  - song_name: I LOVE YOU
-    song_alias:
-    esong_code: 512A6
-    t_singer_master_id: '692'
-    singer_name: 京本 政樹
-    singer_alias:
-    available_date: '2005-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいらふゆ
-    singer_name_ruby: きようもとまさき
-    song_variation:
-    - esong_code: 512A6
-      song_name: I LOVE YOU
-      content_type: ''
   - song_name: I Love You
     song_alias:
     esong_code: 1302A29
@@ -346,6 +329,23 @@ result:
     song_variation:
     - esong_code: 1302A29
       song_name: I Love You
+      content_type: ''
+  - song_name: I LOVE YOU
+    song_alias:
+    esong_code: 512A6
+    t_singer_master_id: '692'
+    singer_name: 京本 政樹
+    singer_alias:
+    available_date: '2005-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいらふゆ
+    singer_name_ruby: きようもとまさき
+    song_variation:
+    - esong_code: 512A6
+      song_name: I LOVE YOU
       content_type: ''
   - song_name: I Love 横浜
     song_alias:

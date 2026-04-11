@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 385
-  all_max_cnt: 411
-  all_country_cnt: 385
+  max_cnt: 380
+  all_max_cnt: 405
+  all_country_cnt: 380
   song:
-  - song_name: 人間模様
-    song_alias:
-    esong_code: 765B36
-    t_singer_master_id: '174'
-    singer_name: 石川 さゆり(SAYURI)
-    singer_alias:
-    available_date: '2003-09-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にんけんもよう
-    singer_name_ruby: いしかわさゆり
-    song_variation:
-    - esong_code: 765B36
-      song_name: 人間模様
-      content_type: ''
-  - song_name: 熱
-    song_alias:
-    esong_code: 634A27
-    t_singer_master_id: '15927'
-    singer_name: マニ☆ラバ
-    singer_alias:
-    available_date: '2003-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ねつ
-    singer_name_ruby: まにらは
-    song_variation:
-    - esong_code: 634A27
-      song_name: 熱
-      content_type: ''
-  - song_name: No doubt
-    song_alias:
-    esong_code: 637B40
-    t_singer_master_id: '14348'
-    singer_name: Lead
-    singer_alias:
-    available_date: '2003-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のたうと
-    singer_name_ruby: りと
-    song_variation:
-    - esong_code: 637B40
-      song_name: No doubt
-      content_type: ''
   - song_name: Not Alone
     song_alias:
     esong_code: 733B25
@@ -381,6 +330,23 @@ result:
     - esong_code: 638B22
       song_name: 晴れ 雨 のち スキ
       content_type: ''
+  - song_name: パンクメドレー〜THE 女歌〜
+    song_alias:
+    esong_code: 633B30
+    t_singer_master_id: '16299'
+    singer_name: パンクオールスターズ
+    singer_alias:
+    available_date: '2003-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はんくめとれ
+    singer_name_ruby: はんくおるすたす
+    song_variation:
+    - esong_code: 633B30
+      song_name: パンクメドレー〜THE 女歌〜
+      content_type: ''
   - song_name: パンクメドレー〜THE アニメソング〜
     song_alias:
     esong_code: 633B28
@@ -431,23 +397,6 @@ result:
     song_variation:
     - esong_code: 633B29
       song_name: パンクメドレー〜THE 男歌〜
-      content_type: ''
-  - song_name: パンクメドレー〜THE 女歌〜
-    song_alias:
-    esong_code: 633B30
-    t_singer_master_id: '16299'
-    singer_name: パンクオールスターズ
-    singer_alias:
-    available_date: '2003-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はんくめとれ
-    singer_name_ruby: はんくおるすたす
-    song_variation:
-    - esong_code: 633B30
-      song_name: パンクメドレー〜THE 女歌〜
       content_type: ''
   - song_name: Here goes KAIZOKU-SEN
     song_alias:
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 631B29
       song_name: Big Joke
+      content_type: ''
+  - song_name: BIG MACHINE
+    song_alias:
+    esong_code: 639B23
+    t_singer_master_id: '1928'
+    singer_name: B'z
+    singer_alias:
+    available_date: '2003-09-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひつくましん
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 639B23
+      song_name: BIG MACHINE
+      content_type: ''
+  - song_name: ひとつ=運命共同体
+    song_alias:
+    esong_code: 632A37
+    t_singer_master_id: '15205'
+    singer_name: can/goo
+    singer_alias:
+    available_date: '2003-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ウルトラマニアック<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとついこるうんめ
+    singer_name_ruby: かんく
+    song_variation:
+    - esong_code: 632A37
+      song_name: ひとつ=運命共同体
+      content_type: ''
+  - song_name: ひとつになれば
+    song_alias:
+    esong_code: 632A34
+    t_singer_master_id: '13916'
+    singer_name: orange pekoe
+    singer_alias:
+    available_date: '2003-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとつになれは
+    singer_name_ruby: おれんしへこ
+    song_variation:
+    - esong_code: 632A34
+      song_name: ひとつになれば
       content_type: ''

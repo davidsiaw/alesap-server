@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 662
-  all_max_cnt: 737
-  all_country_cnt: 662
+  max_cnt: 659
+  all_max_cnt: 734
+  all_country_cnt: 659
   song:
-  - song_name: Heaven's Night
-    song_alias:
-    esong_code: 999A26
-    t_singer_master_id: '12923'
-    singer_name: FLAME
-    singer_alias:
-    available_date: '2003-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へふんすないと
-    singer_name_ruby: ふれいむ
-    song_variation:
-    - esong_code: 999A26
-      song_name: Heaven's Night
-      content_type: ''
-  - song_name: 冒険者たち
-    song_alias:
-    esong_code: 37A29
-    t_singer_master_id: '1877'
-    singer_name: 光GENJI
-    singer_alias:
-    available_date: '2003-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほうけんしやたち
-    singer_name_ruby: ひかるけんし
-    song_variation:
-    - esong_code: 37A29
-      song_name: 冒険者たち
-      content_type: ''
   - song_name: Poker Face
     song_alias:
     esong_code: 999B24
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 587B27
       song_name: マンデー・モナリザ・クラブ
+      content_type: ''
+  - song_name: ミアルカ
+    song_alias:
+    esong_code: 63A22
+    t_singer_master_id: '15169'
+    singer_name: 中原 美紗緒
+    singer_alias:
+    available_date: '2003-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みあるか
+    singer_name_ruby: なかはらみさお
+    song_variation:
+    - esong_code: 63A22
+      song_name: ミアルカ
+      content_type: ''
+  - song_name: 見えないもの
+    song_alias:
+    esong_code: 209A27
+    t_singer_master_id: '1255'
+    singer_name: SMAP
+    singer_alias:
+    available_date: '2003-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みえないもの
+    singer_name_ruby: すまつふ
+    song_variation:
+    - esong_code: 209A27
+      song_name: 見えないもの
       content_type: ''

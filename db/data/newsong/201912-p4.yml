@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1237
-  all_max_cnt: 1447
-  all_country_cnt: 1237
+  max_cnt: 1218
+  all_max_cnt: 1428
+  all_country_cnt: 1218
   song:
-  - song_name: 板室慕情
-    song_alias:
-    esong_code: 2234A6
-    t_singer_master_id: '53962'
-    singer_name: わかば 一郎
-    singer_alias:
-    available_date: '2019-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いたむろほしよう
-    singer_name_ruby: わかはいちろう
-    song_variation:
-    - esong_code: 2234A6
-      song_name: 板室慕情
-      content_type: ''
   - song_name: '12:37'
     song_alias:
     esong_code: 4278A31
@@ -279,23 +262,6 @@ result:
     - esong_code: 4294B14
       song_name: Ill Humor
       content_type: ''
-  - song_name: 色は匂へど 散りぬるを (Fractal 1.5ver.)
-    song_alias:
-    esong_code: 4301B12
-    t_singer_master_id: '65585'
-    singer_name: 天宮 みや&柚木 梨沙(from 少女フラクタル)
-    singer_alias:
-    available_date: '2019-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方風神録 〜Mountain of Faith.〜<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: いろはにおへとちり
-    singer_name_ruby: あまみやみやゆすきりさしよ
-    song_variation:
-    - esong_code: 4301B12
-      song_name: 色は匂へど 散りぬるを (Fractal 1.5ver.)
-      content_type: 東方
   - song_name: 色は匂へど 散りぬるを (オリカラ)
     song_alias:
     esong_code: 4300B21
@@ -312,6 +278,23 @@ result:
     song_variation:
     - esong_code: 4300B21
       song_name: 色は匂へど 散りぬるを (オリカラ)
+      content_type: 東方
+  - song_name: 色は匂へど 散りぬるを (Fractal 1.5ver.)
+    song_alias:
+    esong_code: 4301B12
+    t_singer_master_id: '65585'
+    singer_name: 天宮 みや&柚木 梨沙(from 少女フラクタル)
+    singer_alias:
+    available_date: '2019-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方風神録 〜Mountain of Faith.〜<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: いろはにおへとちり
+    singer_name_ruby: あまみやみやゆすきりさしよ
+    song_variation:
+    - esong_code: 4301B12
+      song_name: 色は匂へど 散りぬるを (Fractal 1.5ver.)
       content_type: 東方
   - song_name: 色は匂へど 散りぬるを
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4300A5
       song_name: WAKE UP!
+      content_type: ''
+  - song_name: Welcome to the GLORIA!
+    song_alias:
+    esong_code: 4298A31
+    t_singer_master_id: '55201'
+    singer_name: THRIVE
+    singer_alias:
+    available_date: '2019-12-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: B-Project<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うえるかむとうさく
+    singer_name_ruby: すらいふ
+    song_variation:
+    - esong_code: 4298A31
+      song_name: Welcome to the GLORIA!
       content_type: ''

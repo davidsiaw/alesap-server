@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1198
-  all_max_cnt: 1367
-  all_country_cnt: 1198
+  max_cnt: 1194
+  all_max_cnt: 1363
+  all_country_cnt: 1194
   song:
-  - song_name: メルティランドナイトメア feat.初音ミク
-    song_alias:
-    esong_code: 4049A4
-    t_singer_master_id: '56309'
-    singer_name: はるまきごはん
-    singer_alias:
-    available_date: '2018-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: めるていらんとない
-    singer_name_ruby: はるまきこはん
-    song_variation:
-    - esong_code: 4049A4
-      song_name: メルティランドナイトメア feat.初音ミク
-      content_type: VOCALOID
-  - song_name: もう行かなくちゃ
-    song_alias:
-    esong_code: 4053B7
-    t_singer_master_id: '44361'
-    singer_name: はやぶさ
-    singer_alias:
-    available_date: '2018-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: もういかなくちや
-    singer_name_ruby: はやふさ
-    song_variation:
-    - esong_code: 4053B7
-      song_name: もう行かなくちゃ
-      content_type: ''
-  - song_name: もういちど ルミナス
-    song_alias:
-    esong_code: 4041A22
-    t_singer_master_id: '59467'
-    singer_name: Pastel*Palettes
-    singer_alias:
-    available_date: '2018-08-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: バンドリ! ガールズバンドパーティ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: もういちとるみなす
-    singer_name_ruby: はすてるはれつと
-    song_variation:
-    - esong_code: 4041A22
-      song_name: もういちど ルミナス
-      content_type: ''
   - song_name: 燃えてヒーロー
     song_alias:
     esong_code: 4050B20
@@ -143,23 +92,6 @@ result:
     - esong_code: 4039A32
       song_name: モナリザ
       content_type: ''
-  - song_name: もののふの花
-    song_alias:
-    esong_code: 4047A38
-    t_singer_master_id: '30247'
-    singer_name: 松川 未樹
-    singer_alias:
-    available_date: '2018-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: もののふのはな
-    singer_name_ruby: まつかわみき
-    song_variation:
-    - esong_code: 4047A38
-      song_name: もののふの花
-      content_type: DAM生音
   - song_name: もののふの花
     song_alias:
     esong_code: 4043B6
@@ -298,7 +230,7 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 弥太郎鴉
     song_alias:
-    esong_code: 4039B9
+    esong_code: 4036B30
     t_singer_master_id: '1655'
     singer_name: 中村 美律子
     singer_alias:
@@ -306,30 +238,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOY生演奏
     song_name_ruby: やたろうからす
     singer_name_ruby: なかむらみつこ
     song_variation:
-    - esong_code: 4039B9
+    - esong_code: 4036B30
       song_name: 弥太郎鴉
-      content_type: ''
-  - song_name: 弥太郎鴉
-    song_alias:
-    esong_code: 4044A20
-    t_singer_master_id: '1655'
-    singer_name: 中村 美律子
-    singer_alias:
-    available_date: '2018-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: やたろうからす
-    singer_name_ruby: なかむらみつこ
-    song_variation:
-    - esong_code: 4044A20
-      song_name: 弥太郎鴉
-      content_type: DAM生音
+      content_type: JOY生演奏
   - song_name: 弥太郎鴉
     song_alias:
     esong_code: 4040A37
@@ -349,7 +264,24 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 弥太郎鴉
     song_alias:
-    esong_code: 4036B30
+    esong_code: 4044A20
+    t_singer_master_id: '1655'
+    singer_name: 中村 美律子
+    singer_alias:
+    available_date: '2018-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: やたろうからす
+    singer_name_ruby: なかむらみつこ
+    song_variation:
+    - esong_code: 4044A20
+      song_name: 弥太郎鴉
+      content_type: DAM生音
+  - song_name: 弥太郎鴉
+    song_alias:
+    esong_code: 4039B9
     t_singer_master_id: '1655'
     singer_name: 中村 美律子
     singer_alias:
@@ -357,13 +289,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOY生演奏
+    content_type:
     song_name_ruby: やたろうからす
     singer_name_ruby: なかむらみつこ
     song_variation:
-    - esong_code: 4036B30
+    - esong_code: 4039B9
       song_name: 弥太郎鴉
-      content_type: JOY生演奏
+      content_type: ''
   - song_name: やばたにえん feat.結月ゆかり
     song_alias:
     esong_code: 4042A18
@@ -517,3 +449,71 @@ result:
     - esong_code: 4041A36
       song_name: 夕焼け人情商店街
       content_type: ''
+  - song_name: 有楽
+    song_alias:
+    esong_code: 4038A46
+    t_singer_master_id: '53180'
+    singer_name: アカシック
+    singer_alias:
+    available_date: '2018-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうらく
+    singer_name_ruby: あかしつく
+    song_variation:
+    - esong_code: 4038A46
+      song_name: 有楽
+      content_type: ''
+  - song_name: 誘惑にノー・タッチ
+    song_alias:
+    esong_code: 4052B48
+    t_singer_master_id: '62196'
+    singer_name: さとちん電波隊
+    singer_alias:
+    available_date: '2018-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうわくにのたつち
+    singer_name_ruby: さとちんてんはたい
+    song_variation:
+    - esong_code: 4052B48
+      song_name: 誘惑にノー・タッチ
+      content_type: ''
+  - song_name: U.S.A.
+    song_alias:
+    esong_code: 4041A43
+    t_singer_master_id: '7845'
+    singer_name: DA PUMP
+    singer_alias:
+    available_date: '2018-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ゆえすえ
+    singer_name_ruby: たはんふ
+    song_variation:
+    - esong_code: 4041A43
+      song_name: U.S.A.
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 歪んだ世界 feat.初音ミク
+    song_alias:
+    esong_code: 4053A31
+    t_singer_master_id: '40528'
+    singer_name: 蝶々P
+    singer_alias:
+    available_date: '2018-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ゆかんたせかい
+    singer_name_ruby: ちようちようひ
+    song_variation:
+    - esong_code: 4053A31
+      song_name: 歪んだ世界 feat.初音ミク
+      content_type: VOCALOID

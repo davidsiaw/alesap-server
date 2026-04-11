@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1427
-  all_max_cnt: 1545
-  all_country_cnt: 1427
+  max_cnt: 1410
+  all_max_cnt: 1528
+  all_country_cnt: 1410
   song:
   - song_name: ああ・人生
     song_alias:
@@ -49,7 +49,7 @@ result:
     singer_alias:
     available_date: '2014-05-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真・三國無双7<番組名>
+    tie_up: 真・三國無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あい
@@ -457,23 +457,6 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: あいつ 〜男の友情〜
     song_alias:
-    esong_code: 3034B42
-    t_singer_master_id: '44'
-    singer_name: 秋岡 秀治
-    singer_alias:
-    available_date: '2014-05-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あいつおとこのゆうし
-    singer_name_ruby: あきおかしゆうし
-    song_variation:
-    - esong_code: 3034B42
-      song_name: あいつ 〜男の友情〜
-      content_type: DAM生音
-  - song_name: あいつ 〜男の友情〜
-    song_alias:
     esong_code: 3069B34
     t_singer_master_id: '44'
     singer_name: 秋岡 秀治
@@ -489,6 +472,23 @@ result:
     - esong_code: 3069B34
       song_name: あいつ 〜男の友情〜
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: あいつ 〜男の友情〜
+    song_alias:
+    esong_code: 3034B42
+    t_singer_master_id: '44'
+    singer_name: 秋岡 秀治
+    singer_alias:
+    available_date: '2014-05-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あいつおとこのゆうし
+    singer_name_ruby: あきおかしゆうし
+    song_variation:
+    - esong_code: 3034B42
+      song_name: あいつ 〜男の友情〜
+      content_type: DAM生音
   - song_name: 愛と勇気のテーマ
     song_alias:
     esong_code: 3259A25

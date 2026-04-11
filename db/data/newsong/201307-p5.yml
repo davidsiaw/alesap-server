@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
   - song_name: いつものmusic
     song_alias:
@@ -30,7 +30,7 @@ result:
     t_singer_master_id: '48245'
     singer_name: 瀬生 ひろ菜(一之瀬ひろな)
     singer_alias:
-    available_date: '2013-07-23'
+    available_date: '2013-07-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -40,23 +40,6 @@ result:
     song_variation:
     - esong_code: 3080B4
       song_name: 伊東で逢いましょう
-      content_type: ''
-  - song_name: いとしいあんちくしょう 「名演ピアノ 美野 春樹」
-    song_alias:
-    esong_code: 3074A19
-    t_singer_master_id: '661'
-    singer_name: 木下 結子
-    singer_alias:
-    available_date: '2013-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いとしいあんちくしよ
-    singer_name_ruby: きのしたゆいこ
-    song_variation:
-    - esong_code: 3074A19
-      song_name: いとしいあんちくしょう 「名演ピアノ 美野 春樹」
       content_type: ''
   - song_name: いとしいあんちくしょう
     song_alias:
@@ -75,6 +58,23 @@ result:
     - esong_code: 3072B29
       song_name: いとしいあんちくしょう
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: いとしいあんちくしょう 「名演ピアノ 美野 春樹」
+    song_alias:
+    esong_code: 3074A19
+    t_singer_master_id: '661'
+    singer_name: 木下 結子
+    singer_alias:
+    available_date: '2013-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いとしいあんちくしよ
+    singer_name_ruby: きのしたゆいこ
+    song_variation:
+    - esong_code: 3074A19
+      song_name: いとしいあんちくしょう 「名演ピアノ 美野 春樹」
+      content_type: ''
   - song_name: InaZuma☆Venus
     song_alias:
     esong_code: 3068B41
@@ -132,7 +132,7 @@ result:
     t_singer_master_id: '389'
     singer_name: 大月 みやこ
     singer_alias:
-    available_date: '2013-07-23'
+    available_date: '2013-07-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -149,7 +149,7 @@ result:
     t_singer_master_id: '31404'
     singer_name: 二階堂 和美
     singer_alias:
-    available_date: '2013-07-23'
+    available_date: '2013-07-24'
     end_date: '2999-04-10 00:00:00'
     tie_up: かぐや姫の物語<番組名>
     country_code: '0'
@@ -213,21 +213,21 @@ result:
       content_type: ''
   - song_name: 今きたよ
     song_alias:
-    esong_code: 3073B35
+    esong_code: 3074A11
     t_singer_master_id: '1706'
     singer_name: 新沼 謙治
     singer_alias:
-    available_date: '2013-07-03'
+    available_date: '2013-07-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: いまきたよ
     singer_name_ruby: にいぬまけんし
     song_variation:
-    - esong_code: 3073B35
+    - esong_code: 3074A11
       song_name: 今きたよ
-      content_type: DAM生音
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 今きたよ
     song_alias:
     esong_code: 3068B33
@@ -247,21 +247,21 @@ result:
       content_type: ''
   - song_name: 今きたよ
     song_alias:
-    esong_code: 3074A11
+    esong_code: 3073B35
     t_singer_master_id: '1706'
     singer_name: 新沼 謙治
     singer_alias:
-    available_date: '2013-07-30'
+    available_date: '2013-07-03'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type: DAM生音
     song_name_ruby: いまきたよ
     singer_name_ruby: にいぬまけんし
     song_variation:
-    - esong_code: 3074A11
+    - esong_code: 3073B35
       song_name: 今きたよ
-      content_type: DAMﾌﾟﾛｵｹ
+      content_type: DAM生音
   - song_name: 今こそ1歩ずつ
     song_alias:
     esong_code: 3070B36

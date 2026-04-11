@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: 地球生命体
-    song_alias:
-    esong_code: 2688A25
-    t_singer_master_id: '40029'
-    singer_name: OverTheDogs
-    singer_alias:
-    available_date: '2011-10-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちきゆうせいめいたい
-    singer_name_ruby: おはさとつくす
-    song_variation:
-    - esong_code: 2688A25
-      song_name: 地球生命体
-      content_type: ''
   - song_name: 千曲恋唄
     song_alias:
     esong_code: 2387B39
@@ -83,7 +66,7 @@ result:
     singer_alias:
     available_date: '2011-10-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL KAI(改)<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ちようすはと
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2682B39
       song_name: Days (from Daybreakers)
+      content_type: ''
+  - song_name: Days.
+    song_alias:
+    esong_code: 2686A43
+    t_singer_master_id: '18146'
+    singer_name: HERO
+    singer_alias:
+    available_date: '2011-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていす
+    singer_name_ruby: ひろ
+    song_variation:
+    - esong_code: 2686A43
+      song_name: Days.
       content_type: ''

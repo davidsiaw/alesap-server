@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: 私生活
-    song_alias:
-    esong_code: 1872A34
-    t_singer_master_id: '20368'
-    singer_name: 東京事変
-    singer_alias:
-    available_date: '2007-09-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しせいかつ
-    singer_name_ruby: とうきようしへん
-    song_variation:
-    - esong_code: 1872A34
-      song_name: 私生活
-      content_type: ''
   - song_name: 時代のむこうへ
     song_alias:
     esong_code: 1870B34
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1690A48
       song_name: しろいともだち
+      content_type: ''
+  - song_name: シンガロング
+    song_alias:
+    esong_code: 1871B44
+    t_singer_master_id: '20538'
+    singer_name: 100s
+    singer_alias:
+    available_date: '2007-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんかろんく
+    singer_name_ruby: ひやくしき
+    song_variation:
+    - esong_code: 1871B44
+      song_name: シンガロング
       content_type: ''

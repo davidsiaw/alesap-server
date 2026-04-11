@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
   - song_name: うたかた
     song_alias:
@@ -383,23 +383,6 @@ result:
       content_type: 東方
   - song_name: 越後母慕情
     song_alias:
-    esong_code: 2819A45
-    t_singer_master_id: '5041'
-    singer_name: 上杉 香緒里
-    singer_alias:
-    available_date: '2012-07-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: えちこははほし
-    singer_name_ruby: うえすきかおり
-    song_variation:
-    - esong_code: 2819A45
-      song_name: 越後母慕情
-      content_type: DAM生音
-  - song_name: 越後母慕情
-    song_alias:
     esong_code: 2819B24
     t_singer_master_id: '5041'
     singer_name: 上杉 香緒里
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2828A23
       song_name: ERO (2012 version)
+      content_type: ''
+  - song_name: Angel 〜First Love〜 feat.ALEXXX
+    song_alias:
+    esong_code: 2809B17
+    t_singer_master_id: '42212'
+    singer_name: 平井 大
+    singer_alias:
+    available_date: '2012-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんしえるふあす
+    singer_name_ruby: ひらいたい
+    song_variation:
+    - esong_code: 2809B17
+      song_name: Angel 〜First Love〜 feat.ALEXXX
       content_type: ''

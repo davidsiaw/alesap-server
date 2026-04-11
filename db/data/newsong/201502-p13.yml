@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
   - song_name: Carry On!
     song_alias:
@@ -143,23 +143,6 @@ result:
     - esong_code: 3387A17
       song_name: 行列のできるえーりん診療所 (PUNK IT! ver.)
       content_type: 東方
-  - song_name: 極限Dreamer (TVサイズ)
-    song_alias:
-    esong_code: 3401A25
-    t_singer_master_id: '49446'
-    singer_name: SCREEN mode
-    singer_alias:
-    available_date: '2015-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 夜ノヤッターマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きよくけんとり
-    singer_name_ruby: すくりんもと
-    song_variation:
-    - esong_code: 3401A25
-      song_name: 極限Dreamer (TVサイズ)
-      content_type: ''
   - song_name: 極限Dreamer
     song_alias:
     esong_code: 3391B22
@@ -330,23 +313,6 @@ result:
     - esong_code: 3389B38
       song_name: 綺麗になるわ
       content_type: ''
-  - song_name: KinKi Kidsヒットソングメドレー2
-    song_alias:
-    esong_code: 3399B24
-    t_singer_master_id: '7882'
-    singer_name: KinKi Kids
-    singer_alias:
-    available_date: '2015-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんききつすひつと
-    singer_name_ruby: きんききつす
-    song_variation:
-    - esong_code: 3399B24
-      song_name: KinKi Kidsヒットソングメドレー2
-      content_type: ''
   - song_name: KinKi Kidsヒットソングメドレー
     song_alias:
     esong_code: 3399B25
@@ -363,6 +329,23 @@ result:
     song_variation:
     - esong_code: 3399B25
       song_name: KinKi Kidsヒットソングメドレー
+      content_type: ''
+  - song_name: KinKi Kidsヒットソングメドレー2
+    song_alias:
+    esong_code: 3399B24
+    t_singer_master_id: '7882'
+    singer_name: KinKi Kids
+    singer_alias:
+    available_date: '2015-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きんききつすひつと
+    singer_name_ruby: きんききつす
+    song_variation:
+    - esong_code: 3399B24
+      song_name: KinKi Kidsヒットソングメドレー2
       content_type: ''
   - song_name: 銀座小路
     song_alias:
@@ -517,3 +500,23 @@ result:
     - esong_code: 3391B25
       song_name: 口笛吹いて、こんにちは
       content_type: ''
+  - song_name: グッジョブ!ムチューマン [オリジナルクリップ]
+    song_alias:
+    esong_code: 3392A40
+    t_singer_master_id: '49679'
+    singer_name: BOYS AND MEN
+    singer_alias:
+    available_date: '2015-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: パセラ限定クリップ
+    song_name_ruby: くつしよふむち
+    singer_name_ruby: ほいすあんとめん
+    song_variation:
+    - esong_code: 3392A40
+      song_name: グッジョブ!ムチューマン [オリジナルクリップ]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    - esong_code: 3392A40
+      song_name: グッジョブ!ムチューマン [オリジナルクリップ]
+      content_type: パセラ限定クリップ

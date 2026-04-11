@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 999
-  all_max_cnt: 1121
-  all_country_cnt: 999
+  max_cnt: 992
+  all_max_cnt: 1112
+  all_country_cnt: 992
   song:
   - song_name: 雨ニモマケズ
     song_alias:
@@ -415,40 +415,23 @@ result:
     - esong_code: 2303A1
       song_name: いつかくる春 こない春
       content_type: ''
-  - song_name: It's all Love! (misonoとデュエット!)(オリカラ)
+  - song_name: It's all Love!
     song_alias:
-    esong_code: 2307B19
+    esong_code: 2311B17
     t_singer_master_id: '36256'
     singer_name: 倖田來未×misono
     singer_alias:
-    available_date: '2009-04-19'
+    available_date: '2009-04-14'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: いつつおるらふ
     singer_name_ruby: こうたくみみその
     song_variation:
-    - esong_code: 2307B19
-      song_name: It's all Love! (misonoとデュエット!)(オリカラ)
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: It's all Love!(倖田來未とデュエット!)(オリカラ)
-    song_alias:
-    esong_code: 2307B18
-    t_singer_master_id: '36256'
-    singer_name: 倖田來未×misono
-    singer_alias:
-    available_date: '2009-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: いつつおるらふ
-    singer_name_ruby: こうたくみみその
-    song_variation:
-    - esong_code: 2307B18
-      song_name: It's all Love!(倖田來未とデュエット!)(オリカラ)
-      content_type: DAMｸﾘｯﾌﾟ
+    - esong_code: 2311B17
+      song_name: It's all Love!
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: It's all Love! (二人でデュエット!)(オリカラ)
     song_alias:
     esong_code: 2307B20
@@ -468,40 +451,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: It's all Love!
     song_alias:
-    esong_code: 2291A35
-    t_singer_master_id: '36256'
-    singer_name: 倖田來未×misono
-    singer_alias:
-    available_date: '2009-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: いつつおるらふ
-    singer_name_ruby: こうたくみみその
-    song_variation:
-    - esong_code: 2291A35
-      song_name: It's all Love!
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: It's all Love!
-    song_alias:
-    esong_code: 2311B17
-    t_singer_master_id: '36256'
-    singer_name: 倖田來未×misono
-    singer_alias:
-    available_date: '2009-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: いつつおるらふ
-    singer_name_ruby: こうたくみみその
-    song_variation:
-    - esong_code: 2311B17
-      song_name: It's all Love!
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: It's all Love!
-    song_alias:
     esong_code: 2270B32
     t_singer_master_id: '36256'
     singer_name: 倖田來未×misono
@@ -517,3 +466,54 @@ result:
     - esong_code: 2270B32
       song_name: It's all Love!
       content_type: ''
+  - song_name: It's all Love!
+    song_alias:
+    esong_code: 2291A35
+    t_singer_master_id: '36256'
+    singer_name: 倖田來未×misono
+    singer_alias:
+    available_date: '2009-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: いつつおるらふ
+    singer_name_ruby: こうたくみみその
+    song_variation:
+    - esong_code: 2291A35
+      song_name: It's all Love!
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: It's all Love!(倖田來未とデュエット!)(オリカラ)
+    song_alias:
+    esong_code: 2307B18
+    t_singer_master_id: '36256'
+    singer_name: 倖田來未×misono
+    singer_alias:
+    available_date: '2009-04-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: いつつおるらふ
+    singer_name_ruby: こうたくみみその
+    song_variation:
+    - esong_code: 2307B18
+      song_name: It's all Love!(倖田來未とデュエット!)(オリカラ)
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: It's all Love! (misonoとデュエット!)(オリカラ)
+    song_alias:
+    esong_code: 2307B19
+    t_singer_master_id: '36256'
+    singer_name: 倖田來未×misono
+    singer_alias:
+    available_date: '2009-04-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: いつつおるらふ
+    singer_name_ruby: こうたくみみその
+    song_variation:
+    - esong_code: 2307B19
+      song_name: It's all Love! (misonoとデュエット!)(オリカラ)
+      content_type: DAMｸﾘｯﾌﾟ

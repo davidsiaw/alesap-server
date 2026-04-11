@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1127
-  all_max_cnt: 1243
-  all_country_cnt: 1127
+  max_cnt: 1112
+  all_max_cnt: 1228
+  all_country_cnt: 1112
   song:
-  - song_name: 狐の嫁入り行列
-    song_alias:
-    esong_code: 1352A1
-    t_singer_master_id: '39356'
-    singer_name: 蒲原 一郎
-    singer_alias:
-    available_date: '2018-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きつねのよめいりき
-    singer_name_ruby: かんはらいちろう
-    song_variation:
-    - esong_code: 1352A1
-      song_name: 狐の嫁入り行列
-      content_type: ''
-  - song_name: Gift
-    song_alias:
-    esong_code: 3933B27
-    t_singer_master_id: '50396'
-    singer_name: Little Glee Monster
-    singer_alias:
-    available_date: '2018-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きふと
-    singer_name_ruby: りとるくりもんすた
-    song_variation:
-    - esong_code: 3933B27
-      song_name: Gift
-      content_type: ''
   - song_name: Give Me Up
     song_alias:
     esong_code: 3928B29
@@ -359,23 +325,6 @@ result:
     - esong_code: 3940B27
       song_name: GABBY [パセラオリジナル]
       content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-  - song_name: Candy Pop
-    song_alias:
-    esong_code: 3939A9
-    t_singer_master_id: '35291'
-    singer_name: TWICE
-    singer_alias:
-    available_date: '2018-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんていほつふ
-    singer_name_ruby: とうわいす
-    song_variation:
-    - esong_code: 3939A9
-      song_name: Candy Pop
-      content_type: ''
   - song_name: Cambell
     song_alias:
     esong_code: 3945B17
@@ -528,4 +477,55 @@ result:
     song_variation:
     - esong_code: 3736A23
       song_name: くちなし雨情
+      content_type: ''
+  - song_name: くちなしの花
+    song_alias:
+    esong_code: 2140A43
+    t_singer_master_id: '2190'
+    singer_name: 増位山 太志郎
+    singer_alias:
+    available_date: '2018-01-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くちなしのはな
+    singer_name_ruby: ますいやまたいしろう
+    song_variation:
+    - esong_code: 2140A43
+      song_name: くちなしの花
+      content_type: ''
+  - song_name: グッドスリープコンソール
+    song_alias:
+    esong_code: 3933B10
+    t_singer_master_id: '46360'
+    singer_name: まふまふ
+    singer_alias:
+    available_date: '2018-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとすりふ
+    singer_name_ruby: まふまふ
+    song_variation:
+    - esong_code: 3933B10
+      song_name: グッドスリープコンソール
+      content_type: ''
+  - song_name: Good Life
+    song_alias:
+    esong_code: 3935B33
+    t_singer_master_id: '32156'
+    singer_name: 清水 翔太
+    singer_alias:
+    available_date: '2018-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとらいふ
+    singer_name_ruby: しみすしようた
+    song_variation:
+    - esong_code: 3935B33
+      song_name: Good Life
       content_type: ''

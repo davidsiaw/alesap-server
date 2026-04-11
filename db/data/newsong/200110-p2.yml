@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 350
-  all_max_cnt: 382
-  all_country_cnt: 350
+  max_cnt: 346
+  all_max_cnt: 378
+  all_country_cnt: 346
   song:
   - song_name: 開田慕情
     song_alias:
@@ -91,23 +91,6 @@ result:
     song_variation:
     - esong_code: 677B38
       song_name: 悲しい歌のくりかえし
-      content_type: ''
-  - song_name: カーニバルの騎士たち
-    song_alias:
-    esong_code: 691A26
-    t_singer_master_id: '4130'
-    singer_name: 宇都宮 隆(T・UTU)
-    singer_alias:
-    available_date: '2001-10-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かにはるのきした
-    singer_name_ruby: うつのみやたかし
-    song_variation:
-    - esong_code: 691A26
-      song_name: カーニバルの騎士たち
       content_type: ''
   - song_name: カーネル
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 679A29
       song_name: グッバイ・ベイビイ&エイメン
+      content_type: ''
+  - song_name: 雲レ日
+    song_alias:
+    esong_code: 694A27
+    t_singer_master_id: '8805'
+    singer_name: '19'
+    singer_alias:
+    available_date: '2001-10-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くもれひ
+    singer_name_ruby: しゆく
+    song_variation:
+    - esong_code: 694A27
+      song_name: 雲レ日
       content_type: ''

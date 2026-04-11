@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: あなたへ贈る歌
+    song_alias:
+    esong_code: 2970A5
+    t_singer_master_id: '37464'
+    singer_name: erica
+    singer_alias:
+    available_date: '2013-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたへおくるうた
+    singer_name_ruby: えりか
+    song_variation:
+    - esong_code: 2970A5
+      song_name: あなたへ贈る歌
+      content_type: ''
+  - song_name: あなたを許さない!
+    song_alias:
+    esong_code: 3052A18
+    t_singer_master_id: '14469'
+    singer_name: 車 恩心
+    singer_alias:
+    available_date: '2013-05-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたをゆるさない
+    singer_name_ruby: しやおんしん
+    song_variation:
+    - esong_code: 3052A18
+      song_name: あなたを許さない!
+      content_type: ''
   - song_name: アニー
     song_alias:
     esong_code: 3033B37
@@ -115,7 +149,7 @@ result:
     t_singer_master_id: '2466'
     singer_name: 山川 豊
     singer_alias:
-    available_date: '2013-05-21'
+    available_date: '2013-05-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -160,6 +194,23 @@ result:
     - esong_code: 3041B7
       song_name: 溢れる
       content_type: ''
+  - song_name: アベノ☆MIX
+    song_alias:
+    esong_code: 3053A3
+    t_singer_master_id: '47834'
+    singer_name: 街角景気☆JAPAN↑
+    singer_alias:
+    available_date: '2013-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あへのみくす
+    singer_name_ruby: まちかとけいきしやはん
+    song_variation:
+    - esong_code: 3053A3
+      song_name: アベノ☆MIX
+      content_type: ''
   - song_name: アベノ☆MIX [オリジナルクリップ]
     song_alias:
     esong_code: 3036B49
@@ -180,23 +231,6 @@ result:
     - esong_code: 3036B49
       song_name: アベノ☆MIX [オリジナルクリップ]
       content_type: パセラ限定クリップ
-  - song_name: アベノ☆MIX
-    song_alias:
-    esong_code: 3053A3
-    t_singer_master_id: '47834'
-    singer_name: 街角景気☆JAPAN↑
-    singer_alias:
-    available_date: '2013-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あへのみくす
-    singer_name_ruby: まちかとけいきしやはん
-    song_variation:
-    - esong_code: 3053A3
-      song_name: アベノ☆MIX
-      content_type: ''
   - song_name: アベノ☆MIX [オリジナルクリップ]
     song_alias:
     esong_code: 3036B49
@@ -251,23 +285,6 @@ result:
     - esong_code: 3041A6
       song_name: 雨上がりのジルバ
       content_type: ''
-  - song_name: 雨上がりのミライ (アニソンLIVE ver.)
-    song_alias:
-    esong_code: 3034B12
-    t_singer_master_id: '40363'
-    singer_name: ミルキィホームズ
-    singer_alias:
-    available_date: '2013-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あめあかりのみらい
-    singer_name_ruby: みるきいほむす
-    song_variation:
-    - esong_code: 3034B12
-      song_name: 雨上がりのミライ (アニソンLIVE ver.)
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 雨とアスファルト feat.初音ミク
     song_alias:
     esong_code: 3036B22
@@ -304,23 +321,6 @@ result:
       content_type: ''
   - song_name: 綾子のよさこい演歌
     song_alias:
-    esong_code: 2383B25
-    t_singer_master_id: '1683'
-    singer_name: 夏木 綾子
-    singer_alias:
-    available_date: '2013-05-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あやこのよさこいえん
-    singer_name_ruby: なつきあやこ
-    song_variation:
-    - esong_code: 2383B25
-      song_name: 綾子のよさこい演歌
-      content_type: ''
-  - song_name: 綾子のよさこい演歌
-    song_alias:
     esong_code: 3035B11
     t_singer_master_id: '1683'
     singer_name: 夏木 綾子
@@ -336,6 +336,23 @@ result:
     - esong_code: 3035B11
       song_name: 綾子のよさこい演歌
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 綾子のよさこい演歌
+    song_alias:
+    esong_code: 2383B25
+    t_singer_master_id: '1683'
+    singer_name: 夏木 綾子
+    singer_alias:
+    available_date: '2013-05-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あやこのよさこいえん
+    singer_name_ruby: なつきあやこ
+    song_variation:
+    - esong_code: 2383B25
+      song_name: 綾子のよさこい演歌
+      content_type: ''
   - song_name: 操り人形の館 feat.ユリカ(cordelia)
     song_alias:
     esong_code: 3038A30
@@ -505,21 +522,4 @@ result:
     song_variation:
     - esong_code: 3043A37
       song_name: A LONG WAY TO NOWHERE
-      content_type: ''
-  - song_name: Our Song
-    song_alias:
-    esong_code: 3033A25
-    t_singer_master_id: '39865'
-    singer_name: ゆいかおり(小倉唯&石原夏織)
-    singer_alias:
-    available_date: '2013-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ゆいかおりの実♪デジタル<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あわそんく
-    singer_name_ruby: ゆいかおり
-    song_variation:
-    - esong_code: 3033A25
-      song_name: Our Song
       content_type: ''

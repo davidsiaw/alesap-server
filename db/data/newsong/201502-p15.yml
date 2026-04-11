@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
-  - song_name: 元気出せよ
-    song_alias:
-    esong_code: 3072B14
-    t_singer_master_id: '2707'
-    singer_name: 裕木 奈江
-    singer_alias:
-    available_date: '2015-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けんきたせよ
-    singer_name_ruby: ゆうきなえ
-    song_variation:
-    - esong_code: 3072B14
-      song_name: 元気出せよ
-      content_type: ''
   - song_name: 元気種☆ [オリジナルクリップ]
     song_alias:
     esong_code: 3392B14
@@ -64,23 +47,6 @@ result:
     - esong_code: 3392B14
       song_name: 元気種☆ [オリジナルクリップ]
       content_type: パセラ限定クリップ
-  - song_name: 元気種☆
-    song_alias:
-    esong_code: 3399A12
-    t_singer_master_id: '49631'
-    singer_name: 仮面女子
-    singer_alias:
-    available_date: '2015-02-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: けんきたね
-    singer_name_ruby: かめんしよし
-    song_variation:
-    - esong_code: 3399A12
-      song_name: 元気種☆
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 元氣魂
     song_alias:
     esong_code: 3387B11
@@ -522,4 +488,38 @@ result:
     song_variation:
     - esong_code: 3389B26
       song_name: ここがロドスだ、ここで跳べ!
+      content_type: ''
+  - song_name: ココロオドレバ
+    song_alias:
+    esong_code: 3392B41
+    t_singer_master_id: '30078'
+    singer_name: 渋谷 すばる(from SUPER EIGHT)
+    singer_alias:
+    available_date: '2015-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころおとれは
+    singer_name_ruby: しふたにすはる
+    song_variation:
+    - esong_code: 3392B41
+      song_name: ココロオドレバ
+      content_type: ''
+  - song_name: こころ酒
+    song_alias:
+    esong_code: 1336B8
+    t_singer_master_id: '2190'
+    singer_name: 増位山 太志郎
+    singer_alias:
+    available_date: '2015-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころさけ
+    singer_name_ruby: ますいやまたいしろう
+    song_variation:
+    - esong_code: 1336B8
+      song_name: こころ酒
       content_type: ''

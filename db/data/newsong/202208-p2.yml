@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1255
-  all_country_cnt: 1064
+  max_cnt: 1057
+  all_max_cnt: 1248
+  all_country_cnt: 1057
   song:
   - song_name: あの最高峰へ
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 4671A25
       song_name: あはっててっぺんっ
       content_type: ''
-  - song_name: Aventure
-    song_alias:
-    esong_code: 4672B38
-    t_singer_master_id: '65732'
-    singer_name: GENIC
-    singer_alias:
-    available_date: '2022-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あはんちゆる
-    singer_name_ruby: しえにつく
-    song_variation:
-    - esong_code: 4672B38
-      song_name: Aventure
-      content_type: ''
   - song_name: アバンチュール
     song_alias:
     esong_code: 4677B48
@@ -91,6 +74,23 @@ result:
     song_variation:
     - esong_code: 4677B48
       song_name: アバンチュール
+      content_type: ''
+  - song_name: Aventure
+    song_alias:
+    esong_code: 4672B38
+    t_singer_master_id: '65732'
+    singer_name: GENIC
+    singer_alias:
+    available_date: '2022-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あはんちゆる
+    singer_name_ruby: しえにつく
+    song_variation:
+    - esong_code: 4672B38
+      song_name: Aventure
       content_type: ''
   - song_name: Abracada-Boo
     song_alias:
@@ -398,23 +398,6 @@ result:
     - esong_code: 4667B42
       song_name: Untitled
       content_type: ''
-  - song_name: UNDERWORLD
-    song_alias:
-    esong_code: 4665A34
-    t_singer_master_id: '70071'
-    singer_name: AZALEA
-    singer_alias:
-    available_date: '2022-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: パリピ孔明<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんたわると
-    singer_name_ruby: あさりえ
-    song_variation:
-    - esong_code: 4665A34
-      song_name: UNDERWORLD
-      content_type: ''
   - song_name: UNDERWORLD EIKO ver.
     song_alias:
     esong_code: 4665A46
@@ -431,6 +414,23 @@ result:
     song_variation:
     - esong_code: 4665A46
       song_name: UNDERWORLD EIKO ver.
+      content_type: ''
+  - song_name: UNDERWORLD
+    song_alias:
+    esong_code: 4665A34
+    t_singer_master_id: '70071'
+    singer_name: AZALEA
+    singer_alias:
+    available_date: '2022-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: パリピ孔明<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんたわると
+    singer_name_ruby: あさりえ
+    song_variation:
+    - esong_code: 4665A34
+      song_name: UNDERWORLD
       content_type: ''
   - song_name: Until the END
     song_alias:

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1071
+  all_max_cnt: 1192
+  all_country_cnt: 1071
   song:
-  - song_name: 残波岬
-    song_alias:
-    esong_code: 2187A20
-    t_singer_master_id: '1376'
-    singer_name: 立樹 みか
-    singer_alias:
-    available_date: '2008-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さんはみさき
-    singer_name_ruby: たちきみか
-    song_variation:
-    - esong_code: 2187A20
-      song_name: 残波岬
-      content_type: ''
   - song_name: 残波岬
     song_alias:
     esong_code: 2194A11
@@ -56,6 +39,23 @@ result:
     singer_name_ruby: たまなはあきお
     song_variation:
     - esong_code: 2191B17
+      song_name: 残波岬
+      content_type: ''
+  - song_name: 残波岬
+    song_alias:
+    esong_code: 2187A20
+    t_singer_master_id: '1376'
+    singer_name: 立樹 みか
+    singer_alias:
+    available_date: '2008-12-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんはみさき
+    singer_name_ruby: たちきみか
+    song_variation:
+    - esong_code: 2187A20
       song_name: 残波岬
       content_type: ''
   - song_name: 三百年の恋
@@ -126,23 +126,6 @@ result:
     - esong_code: 2171B44
       song_name: 幸せの種 (Winter version)
       content_type: ''
-  - song_name: 幸せはすぐそこに・・・ (台詞入り)
-    song_alias:
-    esong_code: 2172A26
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2008-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しあわせはすくそこ
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 2172A26
-      song_name: 幸せはすぐそこに・・・ (台詞入り)
-      content_type: ''
   - song_name: 幸せはすぐそこに・・・ 「名演ギター 斉藤 功」
     song_alias:
     esong_code: 2176B37
@@ -160,6 +143,23 @@ result:
     - esong_code: 2176B37
       song_name: 幸せはすぐそこに・・・ 「名演ギター 斉藤 功」
       content_type: DAM生音
+  - song_name: 幸せはすぐそこに・・・ (台詞入り)
+    song_alias:
+    esong_code: 2172A26
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2008-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせはすくそこ
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 2172A26
+      song_name: 幸せはすぐそこに・・・ (台詞入り)
+      content_type: ''
   - song_name: J.S.T.ROCK'N'ROLL
     song_alias:
     esong_code: 2185B5
@@ -415,23 +415,6 @@ result:
     - esong_code: 2172A14
       song_name: シヤチハタ
       content_type: ''
-  - song_name: JAM Projectメドレー
-    song_alias:
-    esong_code: 2183B33
-    t_singer_master_id: '12156'
-    singer_name: JAM Project
-    singer_alias:
-    available_date: '2008-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アニメメドレー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやむふろしえ
-    singer_name_ruby: しやむふろしえくと
-    song_variation:
-    - esong_code: 2183B33
-      song_name: JAM Projectメドレー
-      content_type: ''
   - song_name: JAM Projectメドレー2
     song_alias:
     esong_code: 2183B34
@@ -448,6 +431,23 @@ result:
     song_variation:
     - esong_code: 2183B34
       song_name: JAM Projectメドレー2
+      content_type: ''
+  - song_name: JAM Projectメドレー
+    song_alias:
+    esong_code: 2183B33
+    t_singer_master_id: '12156'
+    singer_name: JAM Project
+    singer_alias:
+    available_date: '2008-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アニメメドレー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやむふろしえ
+    singer_name_ruby: しやむふろしえくと
+    song_variation:
+    - esong_code: 2183B33
+      song_name: JAM Projectメドレー
       content_type: ''
   - song_name: Shalala −私にくれた物−
     song_alias:

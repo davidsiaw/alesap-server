@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1072
-  all_max_cnt: 1218
-  all_country_cnt: 1072
+  max_cnt: 1061
+  all_max_cnt: 1207
+  all_country_cnt: 1061
   song:
   - song_name: 蒼-iconoclast
     song_alias:
@@ -281,23 +281,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: again
     song_alias:
-    esong_code: 2327A48
-    t_singer_master_id: '22240'
-    singer_name: YUI
-    singer_alias:
-    available_date: '2009-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 鋼の錬金術師 (2009)<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あけいん
-    singer_name_ruby: ゆい
-    song_variation:
-    - esong_code: 2327A48
-      song_name: again
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: again
-    song_alias:
     esong_code: 2321B5
     t_singer_master_id: '22240'
     singer_name: YUI
@@ -313,6 +296,23 @@ result:
     - esong_code: 2321B5
       song_name: again
       content_type: ''
+  - song_name: again
+    song_alias:
+    esong_code: 2327A48
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2009-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鋼の錬金術師 (2009)<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あけいん
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 2327A48
+      song_name: again
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 赤穂城絵巻
     song_alias:
     esong_code: 2344B45
@@ -500,9 +500,9 @@ result:
     - esong_code: 2329A23
       song_name: あしたへ
       content_type: ''
-  - song_name: 明日は来るから (2 Future club mix)
+  - song_name: 明日は来るから (ヴォーカル&ピアノver.)
     song_alias:
-    esong_code: 2344A34
+    esong_code: 2344A35
     t_singer_master_id: '21930'
     singer_name: 東方神起
     singer_alias:
@@ -514,6 +514,6 @@ result:
     song_name_ruby: あすはくるから
     singer_name_ruby: とうほうしんき
     song_variation:
-    - esong_code: 2344A34
-      song_name: 明日は来るから (2 Future club mix)
+    - esong_code: 2344A35
+      song_name: 明日は来るから (ヴォーカル&ピアノver.)
       content_type: ''

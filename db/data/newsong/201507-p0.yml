@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
   - song_name: ああああああああああああ feat.鏡音リン
     song_alias:
@@ -162,23 +162,6 @@ result:
       content_type: ''
   - song_name: 会津・山の神
     song_alias:
-    esong_code: 510B6
-    t_singer_master_id: '52806'
-    singer_name: 津吹 みゆ
-    singer_alias:
-    available_date: '2015-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あいつやまのかみ
-    singer_name_ruby: つふきみゆ
-    song_variation:
-    - esong_code: 510B6
-      song_name: 会津・山の神
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 会津・山の神
-    song_alias:
     esong_code: 515A26
     t_singer_master_id: '52806'
     singer_name: 津吹 みゆ
@@ -194,7 +177,24 @@ result:
     - esong_code: 515A26
       song_name: 会津・山の神
       content_type: JOY生演奏
-  - song_name: 愛に帰れ (明日海りお) [DAM本人歌唱]
+  - song_name: 会津・山の神
+    song_alias:
+    esong_code: 510B6
+    t_singer_master_id: '52806'
+    singer_name: 津吹 みゆ
+    singer_alias:
+    available_date: '2015-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいつやまのかみ
+    singer_name_ruby: つふきみゆ
+    song_variation:
+    - esong_code: 510B6
+      song_name: 会津・山の神
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 愛に帰れ (明日海りお)[DAM本人歌唱]
     song_alias:
     esong_code: 3464B44
     t_singer_master_id: '1349'
@@ -209,7 +209,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3464B44
-      song_name: 愛に帰れ (明日海りお) [DAM本人歌唱]
+      song_name: 愛に帰れ (明日海りお)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: アイノアイノウタ
     song_alias:
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: 愛のかげろう
     song_alias:
-    esong_code: 3470B44
-    t_singer_master_id: '389'
-    singer_name: 大月 みやこ
-    singer_alias:
-    available_date: '2015-07-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あいのかけろう
-    singer_name_ruby: おおつきみやこ
-    song_variation:
-    - esong_code: 3470B44
-      song_name: 愛のかげろう
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 愛のかげろう
-    song_alias:
     esong_code: 413A39
     t_singer_master_id: '389'
     singer_name: 大月 みやこ
@@ -296,6 +279,23 @@ result:
     - esong_code: 413A39
       song_name: 愛のかげろう
       content_type: ''
+  - song_name: 愛のかげろう
+    song_alias:
+    esong_code: 3470B44
+    t_singer_master_id: '389'
+    singer_name: 大月 みやこ
+    singer_alias:
+    available_date: '2015-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいのかけろう
+    singer_name_ruby: おおつきみやこ
+    song_variation:
+    - esong_code: 3470B44
+      song_name: 愛のかげろう
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 愛のかたち
     song_alias:
     esong_code: 3473A22

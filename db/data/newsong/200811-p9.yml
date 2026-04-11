@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1132
-  all_country_cnt: 1023
+  max_cnt: 1015
+  all_max_cnt: 1124
+  all_country_cnt: 1015
   song:
-  - song_name: 銀の海
-    song_alias:
-    esong_code: 2170A27
-    t_singer_master_id: '33775'
-    singer_name: サイリン(彩琳)
-    singer_alias:
-    available_date: '2008-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんのうみ
-    singer_name_ruby: さいりん
-    song_variation:
-    - esong_code: 2170A27
-      song_name: 銀の海
-      content_type: ''
-  - song_name: 銀の星
-    song_alias:
-    esong_code: 1125B47
-    t_singer_master_id: '4269'
-    singer_name: ドリーミング
-    singer_alias:
-    available_date: '2008-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: それいけ!アンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんのほし
-    singer_name_ruby: とりみんく
-    song_variation:
-    - esong_code: 1125B47
-      song_name: 銀の星
-      content_type: ''
   - song_name: クアトロ
     song_alias:
     esong_code: 2155B7
@@ -211,23 +177,6 @@ result:
     - esong_code: 2158B30
       song_name: クリスマス・イブ
       content_type: ''
-  - song_name: クリスマスの谷
-    song_alias:
-    esong_code: 2170A46
-    t_singer_master_id: '4269'
-    singer_name: ドリーミング
-    singer_alias:
-    available_date: '2008-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: それいけ!アンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くりすますのたに
-    singer_name_ruby: とりみんく
-    song_variation:
-    - esong_code: 2170A46
-      song_name: クリスマスの谷
-      content_type: ''
   - song_name: クリスマス巴里
     song_alias:
     esong_code: 1420A37
@@ -236,7 +185,7 @@ result:
     singer_alias:
     available_date: '2008-11-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦3 〜巴里は燃えているか〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: くりすますはり
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 998B11
       song_name: 恋心
+      content_type: ''
+  - song_name: 恋する乙女は無敵です。
+    song_alias:
+    esong_code: 2146B22
+    t_singer_master_id: '30312'
+    singer_name: 早見 沙織
+    singer_alias:
+    available_date: '2008-11-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: セキレイ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいするおとめはむて
+    singer_name_ruby: はやみさおり
+    song_variation:
+    - esong_code: 2146B22
+      song_name: 恋する乙女は無敵です。
+      content_type: ''
+  - song_name: 恋ノアイボウ心ノクピド
+    song_alias:
+    esong_code: 2156A14
+    t_singer_master_id: '28360'
+    singer_name: ONE OK ROCK
+    singer_alias:
+    available_date: '2008-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのあいほうここ
+    singer_name_ruby: わんおくろつく
+    song_variation:
+    - esong_code: 2156A14
+      song_name: 恋ノアイボウ心ノクピド
+      content_type: ''
+  - song_name: 恋のOh!Edo数え唄
+    song_alias:
+    esong_code: 2158B20
+    t_singer_master_id: '34793'
+    singer_name: 大江戸・真心組
+    singer_alias:
+    available_date: '2008-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのおえとかそ
+    singer_name_ruby: おおえとまこころくみ
+    song_variation:
+    - esong_code: 2158B20
+      song_name: 恋のOh!Edo数え唄
       content_type: ''

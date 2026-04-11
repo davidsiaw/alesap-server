@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: YES ME FRIEND
-    song_alias:
-    esong_code: 2409A24
-    t_singer_master_id: '15047'
-    singer_name: NANJAMAN
-    singer_alias:
-    available_date: '2009-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いえすみふれんと
-    singer_name_ruby: なんしやまん
-    song_variation:
-    - esong_code: 2409A24
-      song_name: YES ME FRIEND
-      content_type: ''
   - song_name: イキナリナリユキナリッ
     song_alias:
     esong_code: 2408A47
@@ -213,23 +196,6 @@ result:
       content_type: ''
   - song_name: It's all too much
     song_alias:
-    esong_code: 2401B41
-    t_singer_master_id: '22240'
-    singer_name: YUI
-    singer_alias:
-    available_date: '2009-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつつおるとうま
-    singer_name_ruby: ゆい
-    song_variation:
-    - esong_code: 2401B41
-      song_name: It's all too much
-      content_type: ''
-  - song_name: It's all too much
-    song_alias:
     esong_code: 2426B23
     t_singer_master_id: '22240'
     singer_name: YUI
@@ -245,6 +211,23 @@ result:
     - esong_code: 2426B23
       song_name: It's all too much
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: It's all too much
+    song_alias:
+    esong_code: 2401B41
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2009-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつつおるとうま
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 2401B41
+      song_name: It's all too much
+      content_type: ''
   - song_name: いつもとなりに 〜ニーソックス履いて〜
     song_alias:
     esong_code: 2410B4
@@ -508,7 +491,7 @@ result:
     singer_alias:
     available_date: '2009-10-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 紐育レビュウショウ 〜歌う大紐育〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いんていへんて
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2415A40
       song_name: インディペンデンス!
+      content_type: ''
+  - song_name: In My Circle
+    song_alias:
+    esong_code: 2412A18
+    t_singer_master_id: '83'
+    singer_name: ASKA(飛鳥涼)
+    singer_alias:
+    available_date: '2009-10-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いんまいさくる
+    singer_name_ruby: あすか
+    song_variation:
+    - esong_code: 2412A18
+      song_name: In My Circle
       content_type: ''

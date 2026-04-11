@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1307
-  all_max_cnt: 1525
-  all_country_cnt: 1307
+  max_cnt: 1293
+  all_max_cnt: 1511
+  all_country_cnt: 1293
   song:
-  - song_name: 男うた
-    song_alias:
-    esong_code: 1019A49
-    t_singer_master_id: '2536'
-    singer_name: 吉 幾三
-    singer_alias:
-    available_date: '2018-04-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おとこうた
-    singer_name_ruby: よしいくそう
-    song_variation:
-    - esong_code: 1019A49
-      song_name: 男うた
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 男と女の炭坑節
-    song_alias:
-    esong_code: 1018B15
-    t_singer_master_id: '61257'
-    singer_name: 安田 明とビート・フォーク
-    singer_alias:
-    available_date: '2018-04-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとことおんなのたん
-    singer_name_ruby: やすたあきらとひとふお
-    song_variation:
-    - esong_code: 1018B15
-      song_name: 男と女の炭坑節
-      content_type: ''
   - song_name: 男の子
     song_alias:
     esong_code: 3970A24
@@ -236,7 +202,7 @@ result:
     singer_alias:
     available_date: '2018-04-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: KING OF PRISM -Over the Sunshine!-<番組名>
+    tie_up: KING OF PRISM(舞台版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おはささんし
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3972A8
       song_name: Oli Oli DISCO
+      content_type: ''
+  - song_name: オリーブの髪かざり
+    song_alias:
+    esong_code: 3977A24
+    t_singer_master_id: '809'
+    singer_name: 小泉 今日子
+    singer_alias:
+    available_date: '2018-04-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おりふのかみかさ
+    singer_name_ruby: こいすみきようこ
+    song_variation:
+    - esong_code: 3977A24
+      song_name: オリーブの髪かざり
+      content_type: ''
+  - song_name: Always love you
+    song_alias:
+    esong_code: 1015A19
+    t_singer_master_id: '61313'
+    singer_name: 下松 翔
+    singer_alias:
+    available_date: '2018-04-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おるうえいすらふ
+    singer_name_ruby: くたまつしよう
+    song_variation:
+    - esong_code: 1015A19
+      song_name: Always love you
       content_type: ''

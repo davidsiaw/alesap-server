@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
-  - song_name: 自転車チリリン
-    song_alias:
-    esong_code: 2673B24
-    t_singer_master_id: '39220'
-    singer_name: アンジュルム(スマイレージ)
-    singer_alias:
-    available_date: '2011-09-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: してんしやちりりん
-    singer_name_ruby: あんしゆるむ
-    song_variation:
-    - esong_code: 2673B24
-      song_name: 自転車チリリン
-      content_type: ''
-  - song_name: 信濃路ひとり
-    song_alias:
-    esong_code: 2676B32
-    t_singer_master_id: '12401'
-    singer_name: 松本 ゆかり
-    singer_alias:
-    available_date: '2011-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しなのしひとり
-    singer_name_ruby: まつもとゆかり
-    song_variation:
-    - esong_code: 2676B32
-      song_name: 信濃路ひとり
-      content_type: ''
   - song_name: Synapse doll feat.GUMI
     song_alias:
     esong_code: 2666B32
@@ -279,6 +245,23 @@ result:
     - esong_code: 2675B6
       song_name: JUICY GIRL feat.The SAMOS
       content_type: ''
+  - song_name: SHOOT!
+    song_alias:
+    esong_code: 2664B45
+    t_singer_master_id: '43136'
+    singer_name: RO-KYU-BU!
+    singer_alias:
+    available_date: '2011-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ロウきゅーぶ!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆと
+    singer_name_ruby: ろうきゆふ
+    song_variation:
+    - esong_code: 2664B45
+      song_name: SHOOT!
+      content_type: ''
   - song_name: Sully
     song_alias:
     esong_code: 2662A36
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2677A48
       song_name: 少年時代 〜It's My World〜
+      content_type: ''
+  - song_name: 昭和のいぶし銀
+    song_alias:
+    esong_code: 2665B24
+    t_singer_master_id: '40829'
+    singer_name: 小林 のりお
+    singer_alias:
+    available_date: '2011-09-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようわのいふしき
+    singer_name_ruby: こはやしのりお
+    song_variation:
+    - esong_code: 2665B24
+      song_name: 昭和のいぶし銀
       content_type: ''

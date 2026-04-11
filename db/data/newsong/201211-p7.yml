@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
-  - song_name: ウルトラセブン21
-    song_alias:
-    esong_code: 178B47
-    t_singer_master_id: '8101'
-    singer_name: 前田 達也
-    singer_alias:
-    available_date: '2012-11-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ウルトラマンネオス<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うるとらせふんとう
-    singer_name_ruby: まえたたつや
-    song_variation:
-    - esong_code: 178B47
-      song_name: ウルトラセブン21
-      content_type: ''
   - song_name: ULTRA FLY
     song_alias:
     esong_code: 2920A33
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: エレクトリックボーイ
     song_alias:
-    esong_code: 2929A5
-    t_singer_master_id: '40445'
-    singer_name: KARA
-    singer_alias:
-    available_date: '2012-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: えれくとりつくほ
-    singer_name_ruby: から
-    song_variation:
-    - esong_code: 2929A5
-      song_name: エレクトリックボーイ
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: エレクトリックボーイ
-    song_alias:
     esong_code: 2930B9
     t_singer_master_id: '40445'
     singer_name: KARA
@@ -347,6 +313,23 @@ result:
     - esong_code: 2930B9
       song_name: エレクトリックボーイ
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: エレクトリックボーイ
+    song_alias:
+    esong_code: 2929A5
+    t_singer_master_id: '40445'
+    singer_name: KARA
+    singer_alias:
+    available_date: '2012-11-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: えれくとりつくほ
+    singer_name_ruby: から
+    song_variation:
+    - esong_code: 2929A5
+      song_name: エレクトリックボーイ
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: エロカワ☆ボルテージ♪
     song_alias:
     esong_code: 2924B10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2936A4
       song_name: 近江路
+      content_type: ''
+  - song_name: 大江裕メドレー
+    song_alias:
+    esong_code: 2923B26
+    t_singer_master_id: '35920'
+    singer_name: 大江 裕
+    singer_alias:
+    available_date: '2012-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おおえゆたかめとれ
+    singer_name_ruby: おおえゆたか
+    song_variation:
+    - esong_code: 2923B26
+      song_name: 大江裕メドレー
       content_type: ''

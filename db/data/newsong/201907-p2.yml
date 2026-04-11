@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1478
-  all_max_cnt: 1729
-  all_country_cnt: 1478
+  max_cnt: 1463
+  all_max_cnt: 1714
+  all_country_cnt: 1463
   song:
   - song_name: EARTH
     song_alias:
@@ -91,23 +91,6 @@ result:
     song_variation:
     - esong_code: 4211B39
       song_name: 足立佳奈メドレー 〜2018〜
-      content_type: ''
-  - song_name: ASH
-    song_alias:
-    esong_code: 4224A21
-    t_singer_master_id: '49274'
-    singer_name: 雨宮 天
-    singer_alias:
-    available_date: '2019-07-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あつしゆ
-    singer_name_ruby: あまみやそら
-    song_variation:
-    - esong_code: 4224A21
-      song_name: ASH
       content_type: ''
   - song_name: Up to U
     song_alias:
@@ -364,23 +347,6 @@ result:
     - esong_code: 4227B19
       song_name: AFTERALL
       content_type: ''
-  - song_name: After the Tears
-    song_alias:
-    esong_code: 4224A19
-    t_singer_master_id: '49274'
-    singer_name: 雨宮 天
-    singer_alias:
-    available_date: '2019-07-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あふたさていあ
-    singer_name_ruby: あまみやそら
-    song_variation:
-    - esong_code: 4224A19
-      song_name: After the Tears
-      content_type: ''
   - song_name: After the Rain feat.FUKI
     song_alias:
     esong_code: 4217A48
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4224A26
       song_name: 雨のバラード
+      content_type: ''
+  - song_name: 雨の港 「名演ギター 斉藤 功」
+    song_alias:
+    esong_code: 4219A25
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2019-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめのみなと
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 4219A25
+      song_name: 雨の港 「名演ギター 斉藤 功」
+      content_type: ''
+  - song_name: 雨降り酒
+    song_alias:
+    esong_code: 4210B28
+    t_singer_master_id: '2228'
+    singer_name: 松原 のぶえ
+    singer_alias:
+    available_date: '2019-07-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめふりさけ
+    singer_name_ruby: まつはらのふえ
+    song_variation:
+    - esong_code: 4210B28
+      song_name: 雨降り酒
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1586
-  all_max_cnt: 1734
-  all_country_cnt: 1586
+  max_cnt: 1581
+  all_max_cnt: 1729
+  all_country_cnt: 1581
   song:
-  - song_name: 夏の魔法
-    song_alias:
-    esong_code: 2949B40
-    t_singer_master_id: '46388'
-    singer_name: RYUTist
-    singer_alias:
-    available_date: '2012-12-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつのまほう
-    singer_name_ruby: りゆていすと
-    song_variation:
-    - esong_code: 2949B40
-      song_name: 夏の魔法
-      content_type: ''
-  - song_name: なにもかもたったひとつ
-    song_alias:
-    esong_code: 2954B7
-    t_singer_master_id: '386'
-    singer_name: 太田 裕美
-    singer_alias:
-    available_date: '2012-12-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なにもかもたつたひと
-    singer_name_ruby: おおたひろみ
-    song_variation:
-    - esong_code: 2954B7
-      song_name: なにもかもたったひとつ
-      content_type: ''
   - song_name: なによ
     song_alias:
     esong_code: 2950A20
@@ -338,7 +304,7 @@ result:
     singer_alias:
     available_date: '2012-12-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双 Chronicle 2nd<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: にちりんにちかうあい
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2944A33
       song_name: 願い
+      content_type: ''
+  - song_name: 新星Ω神話(ネクストジェネレーション)
+    song_alias:
+    esong_code: 2942A43
+    t_singer_master_id: '43855'
+    singer_name: ROOT FIVE(√5)
+    singer_alias:
+    available_date: '2012-12-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 聖闘士星矢Ω<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねくすとしえねれ
+    singer_name_ruby: るとふあいふ
+    song_variation:
+    - esong_code: 2942A43
+      song_name: 新星Ω神話(ネクストジェネレーション)
+      content_type: ''
+  - song_name: NEXT MY SELF
+    song_alias:
+    esong_code: 2956B13
+    t_singer_master_id: '36243'
+    singer_name: 真野 恵里菜
+    singer_alias:
+    available_date: '2012-12-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねくすとまいせるふ
+    singer_name_ruby: まのえりな
+    song_variation:
+    - esong_code: 2956B13
+      song_name: NEXT MY SELF
       content_type: ''

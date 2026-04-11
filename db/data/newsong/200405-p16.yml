@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 545
-  all_max_cnt: 575
-  all_country_cnt: 545
+  max_cnt: 543
+  all_max_cnt: 573
+  all_country_cnt: 543
   song:
-  - song_name: 夜想花
-    song_alias:
-    esong_code: 116A33
-    t_singer_master_id: '5250'
-    singer_name: L'Arc〜en〜Ciel
-    singer_alias:
-    available_date: '2004-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やそうか
-    singer_name_ruby: らるくあんしえる
-    song_variation:
-    - esong_code: 116A33
-      song_name: 夜想花
-      content_type: ''
-  - song_name: ヤーダ姫の冒険
-    song_alias:
-    esong_code: 627A49
-    t_singer_master_id: '4269'
-    singer_name: ドリーミング
-    singer_alias:
-    available_date: '2004-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: それいけ!アンパンマン ばいきんまんの逆襲<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: やたひめのほう
-    singer_name_ruby: とりみんく
-    song_variation:
-    - esong_code: 627A49
-      song_name: ヤーダ姫の冒険
-      content_type: ''
   - song_name: 闇に散りけり・・・
     song_alias:
     esong_code: 123B34
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 629B46
       song_name: Love is All
+      content_type: ''
+  - song_name: LOVE WAY
+    song_alias:
+    esong_code: 361B2
+    t_singer_master_id: '18756'
+    singer_name: 大森 洋平
+    singer_alias:
+    available_date: '2004-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふうえい
+    singer_name_ruby: おおもりようへい
+    song_variation:
+    - esong_code: 361B2
+      song_name: LOVE WAY
+      content_type: ''
+  - song_name: ラブスパイラル
+    song_alias:
+    esong_code: 576B48
+    t_singer_master_id: '14556'
+    singer_name: タッキー&翼
+    singer_alias:
+    available_date: '2004-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふすはいらる
+    singer_name_ruby: たつきあんとつはさ
+    song_variation:
+    - esong_code: 576B48
+      song_name: ラブスパイラル
       content_type: ''

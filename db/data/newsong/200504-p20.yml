@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 721
-  all_max_cnt: 767
-  all_country_cnt: 721
+  max_cnt: 719
+  all_max_cnt: 765
+  all_country_cnt: 719
   song:
-  - song_name: 魔法
-    song_alias:
-    esong_code: 241A31
-    t_singer_master_id: '7844'
-    singer_name: スガ シカオ
-    singer_alias:
-    available_date: '2005-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まほう
-    singer_name_ruby: すかしかお
-    song_variation:
-    - esong_code: 241A31
-      song_name: 魔法
-      content_type: ''
-  - song_name: murmur
-    song_alias:
-    esong_code: 733B46
-    t_singer_master_id: '22856'
-    singer_name: he
-    singer_alias:
-    available_date: '2005-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まま
-    singer_name_ruby: ひ
-    song_variation:
-    - esong_code: 733B46
-      song_name: murmur
-      content_type: ''
   - song_name: 守りたいの
     song_alias:
     esong_code: 769A1
@@ -389,7 +355,7 @@ result:
     singer_alias:
     available_date: '2005-04-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: Romancing SaGa -Minstrel Song-<番組名>
+    tie_up: Romancing SaGa<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: めぬえつと
@@ -406,10 +372,10 @@ result:
     singer_alias:
     available_date: '2005-04-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: Romancing SaGa -Minstrel Song-<番組名>
+    tie_up: Romancing SaGa<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: めぬえつと
+    song_name_ruby: めぬえつとあこすて
     singer_name_ruby: やまさきまさよし
     song_variation:
     - esong_code: 716B46
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 708A47
       song_name: Motive(全英語詞)
+      content_type: ''
+  - song_name: Moments (MY STORY Classical ver.)
+    song_alias:
+    esong_code: 715A43
+    t_singer_master_id: '8492'
+    singer_name: 浜崎 あゆみ
+    singer_alias:
+    available_date: '2005-04-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: もめんつ
+    singer_name_ruby: はまさきあゆみ
+    song_variation:
+    - esong_code: 715A43
+      song_name: Moments (MY STORY Classical ver.)
+      content_type: ''
+  - song_name: ももいろの海
+    song_alias:
+    esong_code: 735B16
+    t_singer_master_id: '15524'
+    singer_name: Pigeon's Milk
+    singer_alias:
+    available_date: '2005-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ももいろのうみ
+    singer_name_ruby: ひしよんすみるく
+    song_variation:
+    - esong_code: 735B16
+      song_name: ももいろの海
       content_type: ''

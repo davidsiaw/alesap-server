@@ -3,47 +3,234 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 90601
-  all_max_cnt: 120139
-  all_country_cnt: 90601
+  max_cnt: 103269
+  all_max_cnt: 133030
+  all_country_cnt: 103269
   song:
-  - song_name: バス・ストップ
+  - song_name: 遠い街角 (The Wanderin'Street)
     song_alias:
-    esong_code: 225B10
-    t_singer_master_id: '1311'
-    singer_name: 平 浩二
+    esong_code: 2868A37
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: とおいまちかと
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 2868A37
+      song_name: 遠い街角 (The Wanderin'Street)
+      content_type: JOY生演奏
+  - song_name: 遠い街角 (The Wanderin'Street)
+    song_alias:
+    esong_code: 189B8
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすすとつふ
-    singer_name_ruby: たいらこうし
+    song_name_ruby: とおいまちかと
+    singer_name_ruby: くわたけいすけ
     song_variation:
-    - esong_code: 225B10
-      song_name: バス・ストップ
+    - esong_code: 189B8
+      song_name: 遠い街角 (The Wanderin'Street)
       content_type: ''
-  - song_name: バス・ストップ
+  - song_name: 遠い街から
     song_alias:
-    esong_code: 548A45
-    t_singer_master_id: '1311'
-    singer_name: 平 浩二
+    esong_code: 189B9
+    t_singer_master_id: '2258'
+    singer_name: MULTI MAX
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: はすすとつふ
-    singer_name_ruby: たいらこうし
+    content_type:
+    song_name_ruby: とおいまちから
+    singer_name_ruby: まるちまつくす
     song_variation:
-    - esong_code: 548A45
-      song_name: バス・ストップ
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: Pass-Through
+    - esong_code: 189B9
+      song_name: 遠い街から
+      content_type: ''
+  - song_name: 遠い街から with 川江美奈子
     song_alias:
-    esong_code: 5284B17
+    esong_code: 1960A40
+    t_singer_master_id: '259'
+    singer_name: 今井 美樹
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とおいまちから
+    singer_name_ruby: いまいみき
+    song_variation:
+    - esong_code: 1960A40
+      song_name: 遠い街から with 川江美奈子
+      content_type: ''
+  - song_name: 遠い街から
+    song_alias:
+    esong_code: 102A17
+    t_singer_master_id: '259'
+    singer_name: 今井 美樹
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とおいまちから
+    singer_name_ruby: いまいみき
+    song_variation:
+    - esong_code: 102A17
+      song_name: 遠い街から
+      content_type: ''
+  - song_name: 遠い街のスタンプ
+    song_alias:
+    esong_code: 102A18
+    t_singer_master_id: '809'
+    singer_name: 小泉 今日子
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とおいまちのすたんふ
+    singer_name_ruby: こいすみきようこ
+    song_variation:
+    - esong_code: 102A18
+      song_name: 遠い街のスタンプ
+      content_type: ''
+  - song_name: 遠い街のどこかで
+    song_alias:
+    esong_code: 2043B24
+    t_singer_master_id: '1661'
+    singer_name: 中山 美穂
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: とおいまちのとこか
+    singer_name_ruby: なかやまみほ
+    song_variation:
+    - esong_code: 2043B24
+      song_name: 遠い街のどこかで
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 遠い街のどこかで
+    song_alias:
+    esong_code: 189B10
+    t_singer_master_id: '1661'
+    singer_name: 中山 美穂
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とおいまちのとこか
+    singer_name_ruby: なかやまみほ
+    song_variation:
+    - esong_code: 189B10
+      song_name: 遠い街のどこかで
+      content_type: ''
+  - song_name: 遠い窓 近い窓
+    song_alias:
+    esong_code: 190A19
+    t_singer_master_id: '324'
+    singer_name: EPO
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とおいまとちかいま
+    singer_name_ruby: えほ
+    song_variation:
+    - esong_code: 190A19
+      song_name: 遠い窓 近い窓
+      content_type: ''
+  - song_name: 遠い昔
+    song_alias:
+    esong_code: 1133B16
+    t_singer_master_id: '141'
+    singer_name: 安全地帯
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とおいむかし
+    singer_name_ruby: あんせんちたい
+    song_variation:
+    - esong_code: 1133B16
+      song_name: 遠い昔
+      content_type: ''
+  - song_name: 遠い昔になってしまうなら
+    song_alias:
+    esong_code: 4374B3
+    t_singer_master_id: '671'
+    singer_name: キム・ヨンジャ(金蓮子)
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: とおいむかしになつて
+    singer_name_ruby: きむよんしや
+    song_variation:
+    - esong_code: 4374B3
+      song_name: 遠い昔になってしまうなら
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 遠い約束
+    song_alias:
+    esong_code: 1166B24
+    t_singer_master_id: '5368'
+    singer_name: 三重野 瞳
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とおいやくそく
+    singer_name_ruby: みえのひとみ
+    song_variation:
+    - esong_code: 1166B24
+      song_name: 遠い約束
+      content_type: ''
+  - song_name: 遠い約束の歌
+    song_alias:
+    esong_code: 1092B38
+    t_singer_master_id: '10288'
+    singer_name: WAG
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とおいやくそくのうた
+    singer_name_ruby: わく
+    song_variation:
+    - esong_code: 1092B38
+      song_name: 遠い約束の歌
+      content_type: ''
+  - song_name: 遠い夢
+    song_alias:
+    esong_code: 5284A13
     t_singer_master_id: '58149'
     singer_name: EcoMusic
     singer_alias:
@@ -52,468 +239,281 @@ result:
     tie_up:
     country_code: '0'
     content_type: DAM生音
-    song_name_ruby: はすする
+    song_name_ruby: とおいゆめ
     singer_name_ruby: えこみゆしつく
     song_variation:
-    - esong_code: 5284B17
-      song_name: Pass-Through
+    - esong_code: 5284A13
+      song_name: 遠い夢
       content_type: DAM生音
-  - song_name: bird's sorrow
+  - song_name: 遠い夢
     song_alias:
-    esong_code: 2940B17
-    t_singer_master_id: '35281'
-    singer_name: back number
+    esong_code: 722B17
+    t_singer_master_id: '5338'
+    singer_name: 鷹橋 敏輝
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすそろう
-    singer_name_ruby: はつくなんは
+    song_name_ruby: とおいゆめ
+    singer_name_ruby: たかはしとしき
     song_variation:
-    - esong_code: 2940B17
-      song_name: bird's sorrow
+    - esong_code: 722B17
+      song_name: 遠い夢
       content_type: ''
-  - song_name: PASTIME
+  - song_name: 遠い夜明け
     song_alias:
-    esong_code: 1093A16
-    t_singer_master_id: '10079'
-    singer_name: pre-school
+    esong_code: 1071B32
+    t_singer_master_id: '977'
+    singer_name: 沢田 研二
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすたいむ
-    singer_name_ruby: ふりすくる
+    song_name_ruby: とおいよあけ
+    singer_name_ruby: さわたけんし
     song_variation:
-    - esong_code: 1093A16
-      song_name: PASTIME
+    - esong_code: 1071B32
+      song_name: 遠い夜明け
       content_type: ''
-  - song_name: バス通学
+  - song_name: 遠い夜明け
     song_alias:
-    esong_code: 462B6
-    t_singer_master_id: '915'
-    singer_name: 榊原 郁恵
+    esong_code: 683A4
+    t_singer_master_id: '1639'
+    singer_name: 中西 圭三
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすつうかく
-    singer_name_ruby: さかきはらいくえ
+    song_name_ruby: とおいよあけ
+    singer_name_ruby: なかにしけいそう
     song_variation:
-    - esong_code: 462B6
-      song_name: バス通学
+    - esong_code: 683A4
+      song_name: 遠い夜明け
       content_type: ''
-  - song_name: バースデー
+  - song_name: 遠い夜明け 〜art of sky〜
     song_alias:
-    esong_code: 2351A12
-    t_singer_master_id: '37180'
-    singer_name: BLACK ANGEL
+    esong_code: 236B21
+    t_singer_master_id: '10091'
+    singer_name: ILLUMINA
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすて
-    singer_name_ruby: ふらつくえんしえる
+    song_name_ruby: とおいよあけあとお
+    singer_name_ruby: いるみな
     song_variation:
-    - esong_code: 2351A12
-      song_name: バースデー
+    - esong_code: 236B21
+      song_name: 遠い夜明け 〜art of sky〜
       content_type: ''
-  - song_name: Birthday
+  - song_name: 遠いロンリネス
     song_alias:
-    esong_code: 1145A24
-    t_singer_master_id: '425'
-    singer_name: 荻野目 洋子
+    esong_code: 1091A45
+    t_singer_master_id: '211'
+    singer_name: 伊勢 正三
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: おきのめようこ
+    song_name_ruby: とおいろんりねす
+    singer_name_ruby: いせしようそう
     song_variation:
-    - esong_code: 1145A24
-      song_name: Birthday
+    - esong_code: 1091A45
+      song_name: 遠いロンリネス
       content_type: ''
-  - song_name: BIRTHDAY
+  - song_name: 十日の菊
     song_alias:
-    esong_code: 2398B19
-    t_singer_master_id: '13583'
-    singer_name: SHAKALABBITS
+    esong_code: 2289A21
+    t_singer_master_id: '174'
+    singer_name: 石川 さゆり(SAYURI)
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: しやからひつつ
+    song_name_ruby: とおかのきく
+    singer_name_ruby: いしかわさゆり
     song_variation:
-    - esong_code: 2398B19
-      song_name: BIRTHDAY
+    - esong_code: 2289A21
+      song_name: 十日の菊
       content_type: ''
-  - song_name: Birthday
+  - song_name: 十日町純情
     song_alias:
-    esong_code: 117B20
-    t_singer_master_id: '581'
-    singer_name: 辛島 美登里
+    esong_code: 2420A27
+    t_singer_master_id: '38039'
+    singer_name: 桜井 利喜子
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: からしまみとり
+    song_name_ruby: とおかまちしゆんし
+    singer_name_ruby: さくらいりきこ
     song_variation:
-    - esong_code: 117B20
-      song_name: Birthday
+    - esong_code: 2420A27
+      song_name: 十日町純情
       content_type: ''
-  - song_name: Birthday
+  - song_name: 遠き灯り
     song_alias:
-    esong_code: 837B6
-    t_singer_master_id: '4198'
-    singer_name: おかげ様ブラザーズ
+    esong_code: 3117B9
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: とおきあかり
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 3117B9
+      song_name: 遠き灯り
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 遠き灯り
+    song_alias:
+    esong_code: 1223B3
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: おかけさまふらさ
+    song_name_ruby: とおきあかり
+    singer_name_ruby: きたしまさふろう
     song_variation:
-    - esong_code: 837B6
-      song_name: Birthday
+    - esong_code: 1223B3
+      song_name: 遠き灯り
       content_type: ''
-  - song_name: バースディ
+  - song_name: 遠き風の声
     song_alias:
-    esong_code: 117A15
-    t_singer_master_id: '2651'
-    singer_name: 渡辺 美里
+    esong_code: 1877B27
+    t_singer_master_id: '147'
+    singer_name: あんべ 光俊
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: わたなへみさと
+    song_name_ruby: とおきかせのこえ
+    singer_name_ruby: あんへみつとし
     song_variation:
-    - esong_code: 117A15
-      song_name: バースディ
+    - esong_code: 1877B27
+      song_name: 遠き風の声
       content_type: ''
-  - song_name: Birthday
+  - song_name: 遠き昭和の・・・ (UGA)
     song_alias:
-    esong_code: 103A25
-    t_singer_master_id: '7547'
-    singer_name: 河村 隆一
+    esong_code: 5117B20
+    t_singer_master_id: '849'
+    singer_name: 小林 旭
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: かわむらりゆういち
+    song_name_ruby: とおきしようわの
+    singer_name_ruby: こはやしあきら
     song_variation:
-    - esong_code: 103A25
-      song_name: Birthday
+    - esong_code: 5117B20
+      song_name: 遠き昭和の・・・ (UGA)
       content_type: ''
-  - song_name: Birthday
+  - song_name: 遠き昭和の・・・
     song_alias:
-    esong_code: 472B37
-    t_singer_master_id: '7832'
-    singer_name: 仲間 由紀恵
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 未来少年コナンⅡ タイガアドベンチャー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: なかまゆきえ
-    song_variation:
-    - esong_code: 472B37
-      song_name: Birthday
-      content_type: ''
-  - song_name: Birthday
-    song_alias:
-    esong_code: 125A42
-    t_singer_master_id: '13538'
-    singer_name: 元 ちとせ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: はしめちとせ
-    song_variation:
-    - esong_code: 125A42
-      song_name: Birthday
-      content_type: ''
-  - song_name: BIRTHDAY
-    song_alias:
-    esong_code: 225A1
-    t_singer_master_id: '2355'
-    singer_name: 都 はるみ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: みやこはるみ
-    song_variation:
-    - esong_code: 225A1
-      song_name: BIRTHDAY
-      content_type: ''
-  - song_name: バースデイ
-    song_alias:
-    esong_code: 2072B13
-    t_singer_master_id: '31591'
-    singer_name: THE NOVEMBERS
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: さのへんはす
-    song_variation:
-    - esong_code: 2072B13
-      song_name: バースデイ
-      content_type: ''
-  - song_name: Birthday
-    song_alias:
-    esong_code: 64A39
-    t_singer_master_id: '946'
-    singer_name: さだ まさし
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: さたまさし
-    song_variation:
-    - esong_code: 64A39
-      song_name: Birthday
-      content_type: ''
-  - song_name: BirthDay
-    song_alias:
-    esong_code: 3136B43
-    t_singer_master_id: '49161'
-    singer_name: TOC
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: ていおし
-    song_variation:
-    - esong_code: 3136B43
-      song_name: BirthDay
-      content_type: ''
-  - song_name: Birthday
-    song_alias:
-    esong_code: 1824A23
-    t_singer_master_id: '30516'
-    singer_name: ひまり
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすてい
-    singer_name_ruby: ひまり
-    song_variation:
-    - esong_code: 1824A23
-      song_name: Birthday
-      content_type: ''
-  - song_name: Birthday Eve
-    song_alias:
-    esong_code: 2892B27
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
+    esong_code: 3533A20
+    t_singer_master_id: '849'
+    singer_name: 小林 旭
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: はすていいふ
-    singer_name_ruby: こうたくみ
+    song_name_ruby: とおきしようわの
+    singer_name_ruby: こはやしあきら
     song_variation:
-    - esong_code: 2892B27
-      song_name: Birthday Eve
+    - esong_code: 3533A20
+      song_name: 遠き昭和の・・・
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Bursty Greedy Spider
+  - song_name: 遠き昭和の・・・
     song_alias:
-    esong_code: 4501B24
-    t_singer_master_id: '44854'
-    singer_name: 鈴木 このみ
+    esong_code: 4183B33
+    t_singer_master_id: '849'
+    singer_name: 小林 旭
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 蜘蛛ですが、なにか?<番組名>
+    tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: はすていくり
-    singer_name_ruby: すすきこのみ
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: とおきしようわの
+    singer_name_ruby: こはやしあきら
     song_variation:
-    - esong_code: 4501B24
-      song_name: Bursty Greedy Spider
-      content_type: ''
-  - song_name: BIRTHDAY SYMPHONY
+    - esong_code: 4183B33
+      song_name: 遠き昭和の・・・
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 遠き昭和の・・・
     song_alias:
-    esong_code: 1150A10
-    t_singer_master_id: '656'
-    singer_name: 吉川 晃司
+    esong_code: 5239A40
+    t_singer_master_id: '221'
+    singer_name: 五木 ひろし
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: とおきしようわの
+    singer_name_ruby: いつきひろし
+    song_variation:
+    - esong_code: 5239A40
+      song_name: 遠き昭和の・・・
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 遠き日の少年
+    song_alias:
+    esong_code: 189B11
+    t_singer_master_id: '2114'
+    singer_name: 堀内 孝雄
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はすていしんふ
-    singer_name_ruby: きつかわこうし
+    song_name_ruby: とおきひのしようねん
+    singer_name_ruby: ほりうちたかお
     song_variation:
-    - esong_code: 1150A10
-      song_name: BIRTHDAY SYMPHONY
+    - esong_code: 189B11
+      song_name: 遠き日の少年
       content_type: ''
-  - song_name: BIRTHDAY SONG
+  - song_name: 遠きふるさと
     song_alias:
-    esong_code: 515A19
-    t_singer_master_id: '2607'
-    singer_name: RED WARRIORS
+    esong_code: 3321B6
+    t_singer_master_id: '1699'
+    singer_name: 成世 昌平
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: はすていそんく
-    singer_name_ruby: れつとうおりあ
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: とおきふるさと
+    singer_name_ruby: なるせしようへい
     song_variation:
-    - esong_code: 515A19
-      song_name: BIRTHDAY SONG
-      content_type: ''
-  - song_name: Birthday Song
-    song_alias:
-    esong_code: 519A15
-    t_singer_master_id: '2066'
-    singer_name: PRINCESS PRINCESS
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすていそんく
-    singer_name_ruby: ふりんせすふりん
-    song_variation:
-    - esong_code: 519A15
-      song_name: Birthday Song
-      content_type: ''
-  - song_name: Birthday Song
-    song_alias:
-    esong_code: 55A30
-    t_singer_master_id: '1937'
-    singer_name: BEGIN
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすていそんく
-    singer_name_ruby: ひきん
-    song_variation:
-    - esong_code: 55A30
-      song_name: Birthday Song
-      content_type: ''
-  - song_name: BIRTHDAY SONG
-    song_alias:
-    esong_code: 36B29
-    t_singer_master_id: '2794'
-    singer_name: JUDY AND MARY
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすていそんく
-    singer_name_ruby: しゆていあんとまり
-    song_variation:
-    - esong_code: 36B29
-      song_name: BIRTHDAY SONG
-      content_type: ''
-  - song_name: バースデイの唄
-    song_alias:
-    esong_code: 1177A45
-    t_singer_master_id: '2122'
-    singer_name: 堀江 美都子
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすていのうた
-    singer_name_ruby: ほりえみつこ
-    song_variation:
-    - esong_code: 1177A45
-      song_name: バースデイの唄
-      content_type: ''
-  - song_name: Birthday Party
-    song_alias:
-    esong_code: 93B40
-    t_singer_master_id: '8295'
-    singer_name: Gonna Be Fun
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ポンキッキーズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすていは
-    singer_name_ruby: こなひふあん
-    song_variation:
-    - esong_code: 93B40
-      song_name: Birthday Party
-      content_type: ''
-  - song_name: Birthday Party
-    song_alias:
-    esong_code: 2423A45
-    t_singer_master_id: '37293'
-    singer_name: Juliet
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はすていは
-    singer_name_ruby: しゆりえつと
-    song_variation:
-    - esong_code: 2423A45
-      song_name: Birthday Party
-      content_type: ''
+    - esong_code: 3321B6
+      song_name: 遠きふるさと
+      content_type: DAMﾌﾟﾛｵｹ

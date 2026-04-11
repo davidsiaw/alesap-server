@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
+  - song_name: 君が歌詞(うた)になる
+    song_alias:
+    esong_code: 3084B3
+    t_singer_master_id: '47233'
+    singer_name: ニコラス・エドワーズ
+    singer_alias:
+    available_date: '2013-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみかうたになる
+    singer_name_ruby: にこらすえとわす
+    song_variation:
+    - esong_code: 3084B3
+      song_name: 君が歌詞(うた)になる
+      content_type: ''
   - song_name: キミが思ってるより・・・
     song_alias:
     esong_code: 3085A18
@@ -183,7 +200,7 @@ result:
     t_singer_master_id: '44214'
     singer_name: 家入 レオ
     singer_alias:
-    available_date: '2013-07-23'
+    available_date: '2013-07-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -217,7 +234,7 @@ result:
     t_singer_master_id: '32139'
     singer_name: 細谷 佳正
     singer_alias:
-    available_date: '2013-07-23'
+    available_date: '2013-07-24'
     end_date: '2999-04-10 00:00:00'
     tie_up: 君のいる町<番組名>
     country_code: '0'
@@ -511,21 +528,4 @@ result:
     song_variation:
     - esong_code: 3076B44
       song_name: Can't Love U More
-      content_type: ''
-  - song_name: Can You Feel This Love
-    song_alias:
-    esong_code: 3069A18
-    t_singer_master_id: '6365'
-    singer_name: 安室 奈美恵
-    singer_alias:
-    available_date: '2013-07-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんゆふいるて
-    singer_name_ruby: あむろなみえ
-    song_variation:
-    - esong_code: 3069A18
-      song_name: Can You Feel This Love
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 920
-  all_max_cnt: 993
-  all_country_cnt: 920
+  max_cnt: 913
+  all_max_cnt: 986
+  all_country_cnt: 913
   song:
-  - song_name: おんな上州路
-    song_alias:
-    esong_code: 2019A24
-    t_singer_master_id: '12858'
-    singer_name: 音羽 しのぶ(しのぶ)
-    singer_alias:
-    available_date: '2008-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなしようしゆう
-    singer_name_ruby: おとわしのふ
-    song_variation:
-    - esong_code: 2019A24
-      song_name: おんな上州路
-      content_type: ''
-  - song_name: 女の恋
-    song_alias:
-    esong_code: 1477A10
-    t_singer_master_id: '10130'
-    singer_name: 松吉 幸子
-    singer_alias:
-    available_date: '2008-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのこい
-    singer_name_ruby: まつよしさちこ
-    song_variation:
-    - esong_code: 1477A10
-      song_name: 女の恋
-      content_type: ''
   - song_name: おんなの酒場
     song_alias:
     esong_code: 1996B36
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2008B17
       song_name: 神様のご褒美
+      content_type: ''
+  - song_name: 神様のパズル
+    song_alias:
+    esong_code: 1994A19
+    t_singer_master_id: '31560'
+    singer_name: ASUKA
+    singer_alias:
+    available_date: '2008-05-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かみさまのはする
+    singer_name_ruby: あすか
+    song_variation:
+    - esong_code: 1994A19
+      song_name: 神様のパズル
+      content_type: ''
+  - song_name: 神は大切なものを傷つける
+    song_alias:
+    esong_code: 2001A13
+    t_singer_master_id: '12565'
+    singer_name: 子安 武人
+    singer_alias:
+    available_date: '2008-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Weiβ Kreuz<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かみはたいせつなもの
+    singer_name_ruby: こやすたけひと
+    song_variation:
+    - esong_code: 2001A13
+      song_name: 神は大切なものを傷つける
       content_type: ''

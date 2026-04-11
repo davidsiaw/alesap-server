@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: 春雪
-    song_alias:
-    esong_code: 3211A17
-    t_singer_master_id: '20714'
-    singer_name: JUJU
-    singer_alias:
-    available_date: '2014-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるゆき
-    singer_name_ruby: しゆしゆ
-    song_variation:
-    - esong_code: 3211A17
-      song_name: 春雪
-      content_type: ''
   - song_name: ハレーションローテーション
     song_alias:
     esong_code: 3222B18
@@ -177,23 +160,6 @@ result:
     - esong_code: 3213B22
       song_name: 日陰情話
       content_type: ''
-  - song_name: ヒカリ
-    song_alias:
-    esong_code: 3212B18
-    t_singer_master_id: '28684'
-    singer_name: テゴマス
-    singer_alias:
-    available_date: '2014-03-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ひかり
-    singer_name_ruby: てこます
-    song_variation:
-    - esong_code: 3212B18
-      song_name: ヒカリ
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 光-HIKARI-
     song_alias:
     esong_code: 3212B14
@@ -211,22 +177,22 @@ result:
     - esong_code: 3212B14
       song_name: 光-HIKARI-
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 光のシグナル
+  - song_name: ヒカリ
     song_alias:
-    esong_code: 3222B10
-    t_singer_master_id: '42909'
-    singer_name: Kis-My-Ft2
+    esong_code: 3212B18
+    t_singer_master_id: '28684'
+    singer_name: テゴマス
     singer_alias:
-    available_date: '2014-03-26'
+    available_date: '2014-03-14'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラえもん(劇場版)<番組名>
+    tie_up:
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ひかりのしくなる
-    singer_name_ruby: きすまいふつとつ
+    song_name_ruby: ひかり
+    singer_name_ruby: てこます
     song_variation:
-    - esong_code: 3222B10
-      song_name: 光のシグナル
+    - esong_code: 3212B18
+      song_name: ヒカリ
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 光のシグナル
     song_alias:
@@ -245,13 +211,30 @@ result:
     - esong_code: 3208A41
       song_name: 光のシグナル
       content_type: ''
+  - song_name: 光のシグナル
+    song_alias:
+    esong_code: 3222B10
+    t_singer_master_id: '42909'
+    singer_name: Kis-My-Ft2
+    singer_alias:
+    available_date: '2014-03-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ドラえもん(劇場版)<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ひかりのしくなる
+    singer_name_ruby: きすまいふつとつ
+    song_variation:
+    - esong_code: 3222B10
+      song_name: 光のシグナル
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 光の街
     song_alias:
     esong_code: 3222B43
     t_singer_master_id: '35281'
     singer_name: back number
     singer_alias:
-    available_date: '2014-03-25'
+    available_date: '2014-03-26'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -262,23 +245,6 @@ result:
     - esong_code: 3222B43
       song_name: 光の街
       content_type: ''
-  - song_name: ヒカレ
-    song_alias:
-    esong_code: 3214A5
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2014-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ひかれ
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 3214A5
-      song_name: ヒカレ
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ヒカレ
     song_alias:
     esong_code: 3214B25
@@ -296,6 +262,23 @@ result:
     - esong_code: 3214B25
       song_name: ヒカレ
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: ヒカレ
+    song_alias:
+    esong_code: 3214A5
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2014-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ひかれ
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 3214A5
+      song_name: ヒカレ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ひぐらしの宿
     song_alias:
     esong_code: 1407A23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3213A40
       song_name: BIGBANG!
+      content_type: ''
+  - song_name: ヒットソングメドレー2013 (ドラマ編)
+    song_alias:
+    esong_code: 3221B45
+    t_singer_master_id: '5232'
+    singer_name: メドレー
+    singer_alias:
+    available_date: '2014-03-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひつとそんく2013
+    singer_name_ruby: めとれ
+    song_variation:
+    - esong_code: 3221B45
+      song_name: ヒットソングメドレー2013 (ドラマ編)
       content_type: ''

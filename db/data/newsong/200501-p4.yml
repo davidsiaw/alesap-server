@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 304
-  all_max_cnt: 323
-  all_country_cnt: 304
+  max_cnt: 302
+  all_max_cnt: 321
+  all_country_cnt: 302
   song:
-  - song_name: しゃぼん玉 (LIVE'81)
-    song_alias:
-    esong_code: 496B34
-    t_singer_master_id: '1671'
-    singer_name: 長渕 剛
-    singer_alias:
-    available_date: '2005-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやほんたま
-    singer_name_ruby: なかふちつよし
-    song_variation:
-    - esong_code: 496B34
-      song_name: しゃぼん玉 (LIVE'81)
-      content_type: ''
   - song_name: SHALLOW SLEEP (english version)
     song_alias:
     esong_code: 44B21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 314B5
       song_name: せつなさはこの胸の中に
+      content_type: ''
+  - song_name: 背中に猫を飼っちまったんだ
+    song_alias:
+    esong_code: 308B43
+    t_singer_master_id: '16321'
+    singer_name: THEイナズマ戦隊
+    singer_alias:
+    available_date: '2005-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せなかにねこをかつち
+    singer_name_ruby: さいなすませんたい
+    song_variation:
+    - esong_code: 308B43
+      song_name: 背中に猫を飼っちまったんだ
       content_type: ''

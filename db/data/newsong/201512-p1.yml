@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
+  - song_name: I'm alone
+    song_alias:
+    esong_code: 3574B32
+    t_singer_master_id: '53187'
+    singer_name: callme
+    singer_alias:
+    available_date: '2015-12-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいむあろん
+    singer_name_ruby: こるみ
+    song_variation:
+    - esong_code: 3574B32
+      song_name: I'm alone
+      content_type: ''
   - song_name: I'm Bad
     song_alias:
     esong_code: 3575B30
@@ -500,20 +517,3 @@ result:
     - esong_code: 3564A32
       song_name: 明日世界が終わるなら
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 明日はきっといい日になる
-    song_alias:
-    esong_code: 3575A8
-    t_singer_master_id: '37701'
-    singer_name: 高橋 優
-    singer_alias:
-    available_date: '2015-12-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: あしたはきつといいひ
-    singer_name_ruby: たかはしゆう
-    song_variation:
-    - esong_code: 3575A8
-      song_name: 明日はきっといい日になる
-      content_type: JOY生演奏

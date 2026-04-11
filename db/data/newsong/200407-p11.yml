@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 684
-  all_max_cnt: 725
-  all_country_cnt: 684
+  max_cnt: 683
+  all_max_cnt: 724
+  all_country_cnt: 683
   song:
-  - song_name: 大好きな気持ち
-    song_alias:
-    esong_code: 416B49
-    t_singer_master_id: '12253'
-    singer_name: 甲斐田 ゆき
-    singer_alias:
-    available_date: '2004-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テニスの王子様<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいすきなきもち
-    singer_name_ruby: かいたゆき
-    song_variation:
-    - esong_code: 416B49
-      song_name: 大好きな気持ち
-      content_type: ''
   - song_name: 大切なもの
     song_alias:
     esong_code: 893B43
@@ -485,23 +468,6 @@ result:
       content_type: ''
   - song_name: 月
     song_alias:
-    esong_code: 422B5
-    t_singer_master_id: '12589'
-    singer_name: 天野 月(天野月子)
-    singer_alias:
-    available_date: '2004-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つき
-    singer_name_ruby: あまのつき
-    song_variation:
-    - esong_code: 422B5
-      song_name: 月
-      content_type: ''
-  - song_name: 月
-    song_alias:
     esong_code: 905A3
     t_singer_master_id: '12589'
     singer_name: 天野 月(天野月子)
@@ -517,3 +483,37 @@ result:
     - esong_code: 905A3
       song_name: 月
       content_type: DAM良音
+  - song_name: 月
+    song_alias:
+    esong_code: 422B5
+    t_singer_master_id: '12589'
+    singer_name: 天野 月(天野月子)
+    singer_alias:
+    available_date: '2004-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つき
+    singer_name_ruby: あまのつき
+    song_variation:
+    - esong_code: 422B5
+      song_name: 月
+      content_type: ''
+  - song_name: 築地明石町
+    song_alias:
+    esong_code: 814A7
+    t_singer_master_id: '463'
+    singer_name: 小野 由紀子
+    singer_alias:
+    available_date: '2004-07-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきしあかしちよう
+    singer_name_ruby: おのゆきこ
+    song_variation:
+    - esong_code: 814A7
+      song_name: 築地明石町
+      content_type: ''

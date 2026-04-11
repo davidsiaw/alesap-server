@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
   - song_name: 朧月夜
     song_alias:
@@ -400,23 +400,6 @@ result:
       content_type: ''
   - song_name: 貝殻恋唄
     song_alias:
-    esong_code: 1631B20
-    t_singer_master_id: '1699'
-    singer_name: 成世 昌平
-    singer_alias:
-    available_date: '2006-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かいからこいうた
-    singer_name_ruby: なるせしようへい
-    song_variation:
-    - esong_code: 1631B20
-      song_name: 貝殻恋唄
-      content_type: DAM生音
-  - song_name: 貝殻恋唄
-    song_alias:
     esong_code: 1629A48
     t_singer_master_id: '1699'
     singer_name: 成世 昌平
@@ -432,6 +415,23 @@ result:
     - esong_code: 1629A48
       song_name: 貝殻恋唄
       content_type: ''
+  - song_name: 貝殻恋唄
+    song_alias:
+    esong_code: 1631B20
+    t_singer_master_id: '1699'
+    singer_name: 成世 昌平
+    singer_alias:
+    available_date: '2006-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: かいからこいうた
+    singer_name_ruby: なるせしようへい
+    song_variation:
+    - esong_code: 1631B20
+      song_name: 貝殻恋唄
+      content_type: DAM生音
   - song_name: 会社をやめて旅に出よう
     song_alias:
     esong_code: 1625B33

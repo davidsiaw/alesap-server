@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 433
-  all_max_cnt: 461
-  all_country_cnt: 433
+  max_cnt: 431
+  all_max_cnt: 459
+  all_country_cnt: 431
   song:
-  - song_name: 霧のバラード
-    song_alias:
-    esong_code: 768A40
-    t_singer_master_id: '2271'
-    singer_name: 美川 憲一
-    singer_alias:
-    available_date: '2002-02-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きりのはらと
-    singer_name_ruby: みかわけんいち
-    song_variation:
-    - esong_code: 768A40
-      song_name: 霧のバラード
-      content_type: ''
   - song_name: 禁じられた愛の言葉
     song_alias:
     esong_code: 767A23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 768A37
       song_name: 国道18号線
+      content_type: ''
+  - song_name: 心の氷河を越えて
+    song_alias:
+    esong_code: 761A34
+    t_singer_master_id: '13504'
+    singer_name: 塩沢 兼人
+    singer_alias:
+    available_date: '2002-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アンジェリーク<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころのひようかを
+    singer_name_ruby: しおさわかねと
+    song_variation:
+    - esong_code: 761A34
+      song_name: 心の氷河を越えて
       content_type: ''

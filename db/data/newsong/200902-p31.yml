@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: 無宿(やどなし)
-    song_alias:
-    esong_code: 2253A27
-    t_singer_master_id: '19157'
-    singer_name: 川谷 拓三
-    singer_alias:
-    available_date: '2009-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やとなし
-    singer_name_ruby: かわたにたくそう
-    song_variation:
-    - esong_code: 2253A27
-      song_name: 無宿(やどなし)
-      content_type: ''
-  - song_name: 山猫の唄
-    song_alias:
-    esong_code: 2245A8
-    t_singer_master_id: '8388'
-    singer_name: エルザ
-    singer_alias:
-    available_date: '2009-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やまねこのうた
-    singer_name_ruby: えるさ
-    song_variation:
-    - esong_code: 2245A8
-      song_name: 山猫の唄
-      content_type: ''
   - song_name: やまんでダンス
     song_alias:
     esong_code: 2034B41
@@ -111,23 +77,6 @@ result:
       content_type: ''
   - song_name: YOU ARE MY STAR
     song_alias:
-    esong_code: 2268B14
-    t_singer_master_id: '12467'
-    singer_name: AI
-    singer_alias:
-    available_date: '2009-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ゆあまいすた
-    singer_name_ruby: あい
-    song_variation:
-    - esong_code: 2268B14
-      song_name: YOU ARE MY STAR
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: YOU ARE MY STAR
-    song_alias:
     esong_code: 2203A31
     t_singer_master_id: '12467'
     singer_name: AI
@@ -143,6 +92,23 @@ result:
     - esong_code: 2203A31
       song_name: YOU ARE MY STAR
       content_type: ''
+  - song_name: YOU ARE MY STAR
+    song_alias:
+    esong_code: 2268B14
+    t_singer_master_id: '12467'
+    singer_name: AI
+    singer_alias:
+    available_date: '2009-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ゆあまいすた
+    singer_name_ruby: あい
+    song_variation:
+    - esong_code: 2268B14
+      song_name: YOU ARE MY STAR
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Your Love feat.KREVA
     song_alias:
     esong_code: 2213B8
@@ -245,23 +211,6 @@ result:
     - esong_code: 2268A40
       song_name: 雪椿
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 雪の光
-    song_alias:
-    esong_code: 2209B7
-    t_singer_master_id: '28262'
-    singer_name: 福原 美穂
-    singer_alias:
-    available_date: '2009-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ゆきのひかり
-    singer_name_ruby: ふくはらみほ
-    song_variation:
-    - esong_code: 2209B7
-      song_name: 雪の光
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: YUKIベストメドレー
     song_alias:
     esong_code: 2276B10
@@ -517,3 +466,54 @@ result:
     - esong_code: 2210A25
       song_name: 夢はひそかに (シンデレラ)
       content_type: ''
+  - song_name: YURA YURA
+    song_alias:
+    esong_code: 2252A11
+    t_singer_master_id: '23642'
+    singer_name: UVERworld
+    singer_alias:
+    available_date: '2009-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆらゆら
+    singer_name_ruby: うはわると
+    song_variation:
+    - esong_code: 2252A11
+      song_name: YURA YURA
+      content_type: ''
+  - song_name: 夜明け坂
+    song_alias:
+    esong_code: 2203A11
+    t_singer_master_id: '893'
+    singer_name: 伍代 夏子
+    singer_alias:
+    available_date: '2009-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よあけさか
+    singer_name_ruby: こたいなつこ
+    song_variation:
+    - esong_code: 2203A11
+      song_name: 夜明け坂
+      content_type: ''
+  - song_name: 夜明け坂
+    song_alias:
+    esong_code: 2209B39
+    t_singer_master_id: '893'
+    singer_name: 伍代 夏子
+    singer_alias:
+    available_date: '2009-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: よあけさか
+    singer_name_ruby: こたいなつこ
+    song_variation:
+    - esong_code: 2209B39
+      song_name: 夜明け坂
+      content_type: DAM生音

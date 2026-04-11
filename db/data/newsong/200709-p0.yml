@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
   - song_name: 相愛太鼓
     song_alias:
@@ -228,6 +228,23 @@ result:
     - esong_code: 1855B19
       song_name: idol fancy
       content_type: ''
+  - song_name: 哀の歌
+    song_alias:
+    esong_code: 1869B26
+    t_singer_master_id: '5729'
+    singer_name: 横道坊主
+    singer_alias:
+    available_date: '2007-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのうた
+    singer_name_ruby: おうとうほうす
+    song_variation:
+    - esong_code: 1869B26
+      song_name: 哀の歌
+      content_type: ''
   - song_name: 愛のうた (URBAN KISS Version)
     song_alias:
     esong_code: 1871B17
@@ -262,40 +279,6 @@ result:
     - esong_code: 1865A5
       song_name: 愛の詩
       content_type: ''
-  - song_name: 愛のうた
-    song_alias:
-    esong_code: 1859B30
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
-    singer_alias:
-    available_date: '2007-09-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのうた
-    singer_name_ruby: こうたくみ
-    song_variation:
-    - esong_code: 1859B30
-      song_name: 愛のうた
-      content_type: ''
-  - song_name: 哀の歌
-    song_alias:
-    esong_code: 1869B26
-    t_singer_master_id: '5729'
-    singer_name: 横道坊主
-    singer_alias:
-    available_date: '2007-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのうた
-    singer_name_ruby: おうとうほうす
-    song_variation:
-    - esong_code: 1869B26
-      song_name: 哀の歌
-      content_type: ''
   - song_name: アイノウタ
     song_alias:
     esong_code: 1864A3
@@ -328,6 +311,23 @@ result:
     singer_name_ruby: あんしえらあき
     song_variation:
     - esong_code: 1861B24
+      song_name: 愛のうた
+      content_type: ''
+  - song_name: 愛のうた
+    song_alias:
+    esong_code: 1859B30
+    t_singer_master_id: '12005'
+    singer_name: 倖田 來未
+    singer_alias:
+    available_date: '2007-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのうた
+    singer_name_ruby: こうたくみ
+    song_variation:
+    - esong_code: 1859B30
       song_name: 愛のうた
       content_type: ''
   - song_name: 愛のカケラ
@@ -500,20 +500,20 @@ result:
     - esong_code: 1865A3
       song_name: 碧いうさぎ (2007 Ver,)
       content_type: ''
-  - song_name: 青い傘
+  - song_name: 青い果実
     song_alias:
-    esong_code: 1869B28
-    t_singer_master_id: '386'
-    singer_name: 太田 裕美
+    esong_code: 1866B20
+    t_singer_master_id: '22769'
+    singer_name: D
     singer_alias:
-    available_date: '2007-09-16'
+    available_date: '2007-09-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: あおいかさ
-    singer_name_ruby: おおたひろみ
+    song_name_ruby: あおいかしつ
+    singer_name_ruby: てい
     song_variation:
-    - esong_code: 1869B28
-      song_name: 青い傘
+    - esong_code: 1866B20
+      song_name: 青い果実
       content_type: ''

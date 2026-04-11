@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: あたしのすべて 〜Die for you〜
-    song_alias:
-    esong_code: 1871A13
-    t_singer_master_id: '23083'
-    singer_name: savage genius
-    singer_alias:
-    available_date: '2007-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あたしのすへて
-    singer_name_ruby: さひつししにあす
-    song_variation:
-    - esong_code: 1871A13
-      song_name: あたしのすべて 〜Die for you〜
-      content_type: ''
   - song_name: 頭の中のSOS
     song_alias:
     esong_code: 1867B46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 176A41
       song_name: アンタ
+      content_type: ''
+  - song_name: アントワネットブルー
+    song_alias:
+    esong_code: 1861B38
+    t_singer_master_id: '17444'
+    singer_name: 北出 菜奈
+    singer_alias:
+    available_date: '2007-09-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: D.Gray-man<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんとわねつとふる
+    singer_name_ruby: きたてなな
+    song_variation:
+    - esong_code: 1861B38
+      song_name: アントワネットブルー
       content_type: ''

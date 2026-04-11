@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1052
-  all_max_cnt: 1126
-  all_country_cnt: 1052
+  max_cnt: 1051
+  all_max_cnt: 1125
+  all_country_cnt: 1051
   song:
-  - song_name: 春・夢綴り
-    song_alias:
-    esong_code: 1971B47
-    t_singer_master_id: '19049'
-    singer_name: Natsumi
-    singer_alias:
-    available_date: '2008-03-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるゆめつつり
-    singer_name_ruby: なつみ
-    song_variation:
-    - esong_code: 1971B47
-      song_name: 春・夢綴り
-      content_type: ''
   - song_name: 晴れたらいいね
     song_alias:
     esong_code: 1972B39
@@ -185,7 +168,7 @@ result:
     singer_alias:
     available_date: '2008-03-08'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 智一・美樹のラジオビッグバン<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: ひえすひ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1964B45
       song_name: ひとりぼっちの運命
+      content_type: ''
+  - song_name: 陽のあたる場所
+    song_alias:
+    esong_code: 1967A46
+    t_singer_master_id: '12573'
+    singer_name: SCRIPT
+    singer_alias:
+    available_date: '2008-03-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひのあたるはしよ
+    singer_name_ruby: すくりふと
+    song_variation:
+    - esong_code: 1967A46
+      song_name: 陽のあたる場所
       content_type: ''

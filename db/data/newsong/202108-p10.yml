@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 968
-  all_max_cnt: 1054
-  all_country_cnt: 968
+  max_cnt: 960
+  all_max_cnt: 1046
+  all_country_cnt: 960
   song:
-  - song_name: こだましがみ
-    song_alias:
-    esong_code: 4528B39
-    t_singer_master_id: '63498'
-    singer_name: HIMEHINA
-    singer_alias:
-    available_date: '2021-08-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こたましかみ
-    singer_name_ruby: ひめひな
-    song_variation:
-    - esong_code: 4528B39
-      song_name: こだましがみ
-      content_type: ''
   - song_name: Copacabana
     song_alias:
     esong_code: 4537A8
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4532B25
       song_name: さよならのジルバ
+      content_type: ''
+  - song_name: サルバドール
+    song_alias:
+    esong_code: 4534B44
+    t_singer_master_id: '63390'
+    singer_name: 煮ル果実
+    singer_alias:
+    available_date: '2021-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さるはとる
+    singer_name_ruby: にるかしつ
+    song_variation:
+    - esong_code: 4534B44
+      song_name: サルバドール
       content_type: ''

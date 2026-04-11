@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 385
-  all_max_cnt: 411
-  all_country_cnt: 385
+  max_cnt: 380
+  all_max_cnt: 405
+  all_country_cnt: 380
   song:
-  - song_name: Joy
-    song_alias:
-    esong_code: 634A30
-    t_singer_master_id: '15266'
-    singer_name: 光永 亮太
-    singer_alias:
-    available_date: '2003-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよい
-    singer_name_ruby: みつなかりようた
-    song_variation:
-    - esong_code: 634A30
-      song_name: Joy
-      content_type: ''
-  - song_name: 少年時代
-    song_alias:
-    esong_code: 641A32
-    t_singer_master_id: '15243'
-    singer_name: ROCKING TIME
-    singer_alias:
-    available_date: '2003-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようねんしたい
-    singer_name_ruby: ろつきんくたいむ
-    song_variation:
-    - esong_code: 641A32
-      song_name: 少年時代
-      content_type: ''
   - song_name: 蝕紅
     song_alias:
     esong_code: 639A33
@@ -202,7 +168,7 @@ result:
     singer_alias:
     available_date: '2003-09-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・シンフォニア<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: すたりへふんす
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 641A39
       song_name: 空と大地
+      content_type: ''
+  - song_name: それが、愛でしょう
+    song_alias:
+    esong_code: 635B30
+    t_singer_master_id: '10052'
+    singer_name: 下川 みくに
+    singer_alias:
+    available_date: '2003-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: フルメタル・パニック?ふもっふ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: それかあいてしよ
+    singer_name_ruby: しもかわみくに
+    song_variation:
+    - esong_code: 635B30
+      song_name: それが、愛でしょう
+      content_type: ''
+  - song_name: 大河
+    song_alias:
+    esong_code: 604B29
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2003-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいか
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 604B29
+      song_name: 大河
       content_type: ''

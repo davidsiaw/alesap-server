@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: さよならをいう気もない
-    song_alias:
-    esong_code: 2479B40
-    t_singer_master_id: '15549'
-    singer_name: あさみ ちゆき
-    singer_alias:
-    available_date: '2010-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならをいうきもな
-    singer_name_ruby: あさみちゆき
-    song_variation:
-    - esong_code: 2479B40
-      song_name: さよならをいう気もない
-      content_type: ''
   - song_name: the red road (ニトロプラス キラルPV Ver.)
     song_alias:
     esong_code: 2467B32
@@ -111,23 +94,6 @@ result:
       content_type: ''
   - song_name: S.H.E.
     song_alias:
-    esong_code: 2486B19
-    t_singer_master_id: '20714'
-    singer_name: JUJU
-    singer_alias:
-    available_date: '2010-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: し
-    singer_name_ruby: しゆしゆ
-    song_variation:
-    - esong_code: 2486B19
-      song_name: S.H.E.
-      content_type: ''
-  - song_name: S.H.E.
-    song_alias:
     esong_code: 2490B2
     t_singer_master_id: '20714'
     singer_name: JUJU
@@ -143,6 +109,23 @@ result:
     - esong_code: 2490B2
       song_name: S.H.E.
       content_type: DAM良音
+  - song_name: S.H.E.
+    song_alias:
+    esong_code: 2486B19
+    t_singer_master_id: '20714'
+    singer_name: JUJU
+    singer_alias:
+    available_date: '2010-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: し
+    singer_name_ruby: しゆしゆ
+    song_variation:
+    - esong_code: 2486B19
+      song_name: S.H.E.
+      content_type: ''
   - song_name: XIAHTIC
     song_alias:
     esong_code: 2460A3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2482B46
       song_name: Shining☆Days
+      content_type: ''
+  - song_name: SHINE
+    song_alias:
+    esong_code: 2481A39
+    t_singer_master_id: '14884'
+    singer_name: 朴 路美
+    singer_alias:
+    available_date: '2010-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BLEACH<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやいん
+    singer_name_ruby: はくろみ
+    song_variation:
+    - esong_code: 2481A39
+      song_name: SHINE
       content_type: ''

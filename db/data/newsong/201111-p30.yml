@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: 虹色クオーツ
-    song_alias:
-    esong_code: 2715A23
-    t_singer_master_id: '24550'
-    singer_name: kukui
-    singer_alias:
-    available_date: '2011-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: エンジェルプロファイル<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: にしいろくおつ
-    singer_name_ruby: くくい
-    song_variation:
-    - esong_code: 2715A23
-      song_name: 虹色クオーツ
-      content_type: ''
   - song_name: 虹の貝殻 feat.初音ミク
     song_alias:
     esong_code: 2702A47
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 2698B18
       song_name: Nobody Knows
+      content_type: ''
+  - song_name: no Reason
+    song_alias:
+    esong_code: 2698B16
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2011-11-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のりすん
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 2698B16
+      song_name: no Reason
       content_type: ''

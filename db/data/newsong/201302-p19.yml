@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
-  - song_name: スウィートタイム feat.巡音ルカ
-    song_alias:
-    esong_code: 2988B45
-    t_singer_master_id: '41204'
-    singer_name: EasyPop
-    singer_alias:
-    available_date: '2013-02-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: すういとたいむ
-    singer_name_ruby: いしほつふ
-    song_variation:
-    - esong_code: 2988B45
-      song_name: スウィートタイム feat.巡音ルカ
-      content_type: VOCALOID
   - song_name: Sky High (Japanese Ver.)
     song_alias:
     esong_code: 2991A48
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2990B25
       song_name: Smile Again
+      content_type: ''
+  - song_name: スマイル美人
+    song_alias:
+    esong_code: 2996A10
+    t_singer_master_id: '39220'
+    singer_name: アンジュルム(スマイレージ)
+    singer_alias:
+    available_date: '2013-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すまいるひしん
+    singer_name_ruby: あんしゆるむ
+    song_variation:
+    - esong_code: 2996A10
+      song_name: スマイル美人
       content_type: ''

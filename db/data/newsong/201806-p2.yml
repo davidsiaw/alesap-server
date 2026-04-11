@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1328
-  all_max_cnt: 1485
-  all_country_cnt: 1328
+  max_cnt: 1315
+  all_max_cnt: 1472
+  all_country_cnt: 1315
   song:
   - song_name: あの青い空のように
     song_alias:
@@ -315,23 +315,6 @@ result:
       content_type: ''
   - song_name: 雨に濡れて二人
     song_alias:
-    esong_code: 1591B43
-    t_singer_master_id: '61608'
-    singer_name: 市川 由紀乃&横山 剣
-    singer_alias:
-    available_date: '2018-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: あめにぬれてふたり
-    singer_name_ruby: いちかわゆきのよこやまけん
-    song_variation:
-    - esong_code: 1591B43
-      song_name: 雨に濡れて二人
-      content_type: JOY生演奏
-  - song_name: 雨に濡れて二人
-    song_alias:
     esong_code: 1346A23
     t_singer_master_id: '61608'
     singer_name: 市川 由紀乃&横山 剣
@@ -347,6 +330,23 @@ result:
     - esong_code: 1346A23
       song_name: 雨に濡れて二人
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 雨に濡れて二人
+    song_alias:
+    esong_code: 1591B43
+    t_singer_master_id: '61608'
+    singer_name: 市川 由紀乃&横山 剣
+    singer_alias:
+    available_date: '2018-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: あめにぬれてふたり
+    singer_name_ruby: いちかわゆきのよこやまけん
+    song_variation:
+    - esong_code: 1591B43
+      song_name: 雨に濡れて二人
+      content_type: JOY生演奏
   - song_name: 雨の別れ道 (ソロバージョン)
     song_alias:
     esong_code: 1344A32

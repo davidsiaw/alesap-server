@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 911
-  all_max_cnt: 1051
-  all_country_cnt: 911
+  max_cnt: 909
+  all_max_cnt: 1049
+  all_country_cnt: 909
   song:
   - song_name: あぁあぁあぁああぁあぁああぁ feat.初音ミク
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 2535B15
       song_name: 愛すべき男たち
       content_type: DAM生音
-  - song_name: 愛する人へ
-    song_alias:
-    esong_code: 2536A25
-    t_singer_master_id: '651'
-    singer_name: 北原 由貴(北原由紀)
-    singer_alias:
-    available_date: '2010-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいするひとへ
-    singer_name_ruby: きたはらゆき
-    song_variation:
-    - esong_code: 2536A25
-      song_name: 愛する人へ
-      content_type: ''
   - song_name: Ice Romancer
     song_alias:
     esong_code: 2538A29
@@ -346,6 +329,23 @@ result:
     song_variation:
     - esong_code: 2543A44
       song_name: 会津の一番星
+      content_type: ''
+  - song_name: 愛という名の別れ
+    song_alias:
+    esong_code: 2486B24
+    t_singer_master_id: '21652'
+    singer_name: 西山 ひとみ
+    singer_alias:
+    available_date: '2010-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいというなのわかれ
+    singer_name_ruby: にしやまひとみ
+    song_variation:
+    - esong_code: 2486B24
+      song_name: 愛という名の別れ
       content_type: ''
   - song_name: 愛とは 愛とは
     song_alias:

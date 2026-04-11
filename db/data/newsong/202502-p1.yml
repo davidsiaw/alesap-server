@@ -3,10 +3,112 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1009
-  all_max_cnt: 1155
-  all_country_cnt: 1009
+  max_cnt: 1123
+  all_max_cnt: 1292
+  all_country_cnt: 1123
   song:
+  - song_name: 贖いのSKY
+    song_alias:
+    esong_code: 5119B4
+    t_singer_master_id: '75844'
+    singer_name: 乙女フェスティバル
+    singer_alias:
+    available_date: '2025-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかないのすかい
+    singer_name_ruby: おとめふえすていはる
+    song_variation:
+    - esong_code: 5119B4
+      song_name: 贖いのSKY
+      content_type: ''
+  - song_name: 茜さす契り (CR戦国乙女2)
+    song_alias:
+    esong_code: 5116A29
+    t_singer_master_id: '62546'
+    singer_name: 戦国乙女
+    singer_alias:
+    available_date: '2025-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかねさすちきり
+    singer_name_ruby: せんこくおとめ
+    song_variation:
+    - esong_code: 5116A29
+      song_name: 茜さす契り (CR戦国乙女2)
+      content_type: ''
+  - song_name: 明るいお部屋で君ガルル
+    song_alias:
+    esong_code: 5111B33
+    t_singer_master_id: '71934'
+    singer_name: みつあくま
+    singer_alias:
+    available_date: '2025-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: あかるいおへやてき
+    singer_name_ruby: みつあくま
+    song_variation:
+    - esong_code: 5111B33
+      song_name: 明るいお部屋で君ガルル
+      content_type: VOCALOID
+  - song_name: AKAN
+    song_alias:
+    esong_code: 5120B49
+    t_singer_master_id: '74135'
+    singer_name: Aぇ!group
+    singer_alias:
+    available_date: '2025-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかん
+    singer_name_ruby: ええくるふ
+    song_variation:
+    - esong_code: 5120B49
+      song_name: AKAN
+      content_type: ''
+  - song_name: あきセゾン
+    song_alias:
+    esong_code: 5131A29
+    t_singer_master_id: '75984'
+    singer_name: 東池袋52
+    singer_alias:
+    available_date: '2025-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あきせそん
+    singer_name_ruby: ひかしいけふくろふいふていつ
+    song_variation:
+    - esong_code: 5131A29
+      song_name: あきセゾン
+      content_type: ''
+  - song_name: アゲイン
+    song_alias:
+    esong_code: 5114A36
+    t_singer_master_id: '62804'
+    singer_name: the shes gone
+    singer_alias:
+    available_date: '2025-02-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あけいん
+    singer_name_ruby: しすこん
+    song_variation:
+    - esong_code: 5114A36
+      song_name: アゲイン
+      content_type: ''
   - song_name: 憧れの人生
     song_alias:
     esong_code: 5124A12
@@ -24,23 +126,6 @@ result:
     - esong_code: 5124A12
       song_name: 憧れの人生
       content_type: ''
-  - song_name: あさが来る!
-    song_alias:
-    esong_code: 5128B28
-    t_singer_master_id: '70559'
-    singer_name: 三枝 明那(from にじさんじ)
-    singer_alias:
-    available_date: '2025-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あさかくる
-    singer_name_ruby: さえくさあきなにしさんし
-    song_variation:
-    - esong_code: 5128B28
-      song_name: あさが来る!
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 朝が近い夜
     song_alias:
     esong_code: 5111B7
@@ -142,6 +227,23 @@ result:
     song_variation:
     - esong_code: 5119A19
       song_name: 明日種〜アシタネ〜
+      content_type: ''
+  - song_name: 明日のノート (高等学校 混声四部合唱)
+    song_alias:
+    esong_code: 5131A16
+    t_singer_master_id: '10342'
+    singer_name: 合唱
+    singer_alias:
+    available_date: '2025-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あしたののと
+    singer_name_ruby: かつしよう
+    song_variation:
+    - esong_code: 5131A16
+      song_name: 明日のノート (高等学校 混声四部合唱)
       content_type: ''
   - song_name: Astronomy
     song_alias:
@@ -245,40 +347,23 @@ result:
     - esong_code: 5111B49
       song_name: アダルト・チルドレン
       content_type: ''
-  - song_name: あっかんべぇ
+  - song_name: Up&Down (feat.¥ellow Bucks)
     song_alias:
-    esong_code: 5128B20
-    t_singer_master_id: '58088'
-    singer_name: GADORO
+    esong_code: 5115B21
+    t_singer_master_id: '74971'
+    singer_name: Watson
     singer_alias:
-    available_date: '2025-02-23'
+    available_date: '2025-02-04'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あつかんへえ
-    singer_name_ruby: かとろ
+    content_type: DAM生音
+    song_name_ruby: あつふあんとた
+    singer_name_ruby: わとそん
     song_variation:
-    - esong_code: 5128B20
-      song_name: あっかんべぇ
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: あどけ泣く
-    song_alias:
-    esong_code: 5128B17
-    t_singer_master_id: '74056'
-    singer_name: AKASAKI
-    singer_alias:
-    available_date: '2025-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あとけなく
-    singer_name_ruby: あかさき
-    song_variation:
-    - esong_code: 5128B17
-      song_name: あどけ泣く
-      content_type: DAMｸﾘｯﾌﾟ
+    - esong_code: 5115B21
+      song_name: Up&Down (feat.¥ellow Bucks)
+      content_type: DAM生音
   - song_name: あなただけ・・・
     song_alias:
     esong_code: 5120B33
@@ -364,6 +449,23 @@ result:
     - esong_code: 5129A3
       song_name: あなたのせいにさせて
       content_type: ''
+  - song_name: 兄貴
+    song_alias:
+    esong_code: 5115B18
+    t_singer_master_id: '2466'
+    singer_name: 山川 豊
+    singer_alias:
+    available_date: '2025-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あにき
+    singer_name_ruby: やまかわゆたか
+    song_variation:
+    - esong_code: 5115B18
+      song_name: 兄貴
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: A new beginning
     song_alias:
     esong_code: 5116A34
@@ -414,106 +516,4 @@ result:
     song_variation:
     - esong_code: 5120B17
       song_name: アノナミダ
-      content_type: ''
-  - song_name: あのね、ぼくね。
-    song_alias:
-    esong_code: 5111B43
-    t_singer_master_id: '66117'
-    singer_name: 樋口 楓(from にじさんじ)
-    singer_alias:
-    available_date: '2025-02-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのねほくね
-    singer_name_ruby: ひくちかえてにしさんし
-    song_variation:
-    - esong_code: 5111B43
-      song_name: あのね、ぼくね。
-      content_type: ''
-  - song_name: あの街でもう一度
-    song_alias:
-    esong_code: 5110B17
-    t_singer_master_id: '59401'
-    singer_name: 峯 ゆかり
-    singer_alias:
-    available_date: '2025-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのまちてもういち
-    singer_name_ruby: みねゆかり
-    song_variation:
-    - esong_code: 5110B17
-      song_name: あの街でもう一度
-      content_type: ''
-  - song_name: 暴れ獅子
-    song_alias:
-    esong_code: 5124B22
-    t_singer_master_id: '22183'
-    singer_name: 鴻巣 巧一
-    singer_alias:
-    available_date: '2025-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あはれしし
-    singer_name_ruby: こうのすこういち
-    song_variation:
-    - esong_code: 5124B22
-      song_name: 暴れ獅子
-      content_type: ''
-  - song_name: アビス (feat.Such)
-    song_alias:
-    esong_code: 5124A23
-    t_singer_master_id: '68716'
-    singer_name: necchi
-    singer_alias:
-    available_date: '2025-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あひす
-    singer_name_ruby: ねつち
-    song_variation:
-    - esong_code: 5124A23
-      song_name: アビス (feat.Such)
-      content_type: ''
-  - song_name: A PIECE OF CAKE
-    song_alias:
-    esong_code: 5110B27
-    t_singer_master_id: '65691'
-    singer_name: Snow Man
-    singer_alias:
-    available_date: '2025-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あひすおふけい
-    singer_name_ruby: すのまん
-    song_variation:
-    - esong_code: 5110B27
-      song_name: A PIECE OF CAKE
-      content_type: ''
-  - song_name: 天色
-    song_alias:
-    esong_code: 5110B21
-    t_singer_master_id: '73470'
-    singer_name: 青木 陽菜
-    singer_alias:
-    available_date: '2025-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: カードファイト!! ヴァンガード(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あまいろ
-    singer_name_ruby: あおきひな
-    song_variation:
-    - esong_code: 5110B21
-      song_name: 天色
       content_type: ''

@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 907
-  all_max_cnt: 998
-  all_country_cnt: 907
+  max_cnt: 898
+  all_max_cnt: 989
+  all_country_cnt: 898
   song:
-  - song_name: おわびのスキャット
-    song_alias:
-    esong_code: 2528A34
-    t_singer_master_id: '33502'
-    singer_name: 宮川彬良&斎藤晴彦&大澄賢也&茂森あゆみ&玄田哲章
-    singer_alias:
-    available_date: '2010-04-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: クインテット<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おわひのすきやつと
-    singer_name_ruby: みやかわあきらさきとうはるひ
-    song_variation:
-    - esong_code: 2528A34
-      song_name: おわびのスキャット
-      content_type: ''
-  - song_name: 終わりの季節
-    song_alias:
-    esong_code: 1221B4
-    t_singer_master_id: '5088'
-    singer_name: 細野 晴臣
-    singer_alias:
-    available_date: '2010-04-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おわりのきせつ
-    singer_name_ruby: ほそのはるおみ
-    song_variation:
-    - esong_code: 1221B4
-      song_name: 終わりの季節
-      content_type: ''
-  - song_name: オン・ザ・ロックをちょうだい
-    song_alias:
-    esong_code: 2508B10
-    t_singer_master_id: '870'
-    singer_name: 米米CLUB
-    singer_alias:
-    available_date: '2010-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんさろつくをちよ
-    singer_name_ruby: こめこめくらふ
-    song_variation:
-    - esong_code: 2508B10
-      song_name: オン・ザ・ロックをちょうだい
-      content_type: ''
   - song_name: おんな七厘・神楽坂
     song_alias:
     esong_code: 2521B14
@@ -332,23 +281,6 @@ result:
       content_type: ''
   - song_name: 風そして花
     song_alias:
-    esong_code: 2500B48
-    t_singer_master_id: '2780'
-    singer_name: 島津 亜矢
-    singer_alias:
-    available_date: '2010-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせそしてはな
-    singer_name_ruby: しまつあや
-    song_variation:
-    - esong_code: 2500B48
-      song_name: 風そして花
-      content_type: ''
-  - song_name: 風そして花
-    song_alias:
     esong_code: 2508A21
     t_singer_master_id: '2780'
     singer_name: 島津 亜矢
@@ -364,6 +296,23 @@ result:
     - esong_code: 2508A21
       song_name: 風そして花
       content_type: DAM生音
+  - song_name: 風そして花
+    song_alias:
+    esong_code: 2500B48
+    t_singer_master_id: '2780'
+    singer_name: 島津 亜矢
+    singer_alias:
+    available_date: '2010-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせそしてはな
+    singer_name_ruby: しまつあや
+    song_variation:
+    - esong_code: 2500B48
+      song_name: 風そして花
+      content_type: ''
   - song_name: 風と共に行く
     song_alias:
     esong_code: 2525B24
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2523B36
       song_name: 哀しみ行脚日本海
+      content_type: ''
+  - song_name: 哀しみはきっと (album ver.)
+    song_alias:
+    esong_code: 2525A40
+    t_singer_master_id: '23642'
+    singer_name: UVERworld
+    singer_alias:
+    available_date: '2010-04-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしみはきつと
+    singer_name_ruby: うはわると
+    song_variation:
+    - esong_code: 2525A40
+      song_name: 哀しみはきっと (album ver.)
+      content_type: ''
+  - song_name: カーニバる?
+    song_alias:
+    esong_code: 2502B19
+    t_singer_master_id: '26377'
+    singer_name: ナオト・インティライミ
+    singer_alias:
+    available_date: '2010-04-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かにはる
+    singer_name_ruby: なおといんていらいみ
+    song_variation:
+    - esong_code: 2502B19
+      song_name: カーニバる?
+      content_type: ''
+  - song_name: CARNIVAL浮世
+    song_alias:
+    esong_code: 2527A19
+    t_singer_master_id: '33989'
+    singer_name: ダウト
+    singer_alias:
+    available_date: '2010-04-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かにはるうきよ
+    singer_name_ruby: たうと
+    song_variation:
+    - esong_code: 2527A19
+      song_name: CARNIVAL浮世
       content_type: ''

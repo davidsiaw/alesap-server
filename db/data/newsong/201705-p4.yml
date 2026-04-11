@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
   - song_name: 一緒に帰ろう
     song_alias:
@@ -143,23 +143,6 @@ result:
     - esong_code: 3807B45
       song_name: 恋しさと せつなさと 心強さと (movie ver.)
       content_type: DAM生音
-  - song_name: 愛しさは禁断の甘美いミルクホウル (with 萩尾九段 Ver.)
-    song_alias:
-    esong_code: 3814A6
-    t_singer_master_id: '42435'
-    singer_name: 四反田 マイケル
-    singer_alias:
-    available_date: '2017-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 遙かなる時空の中で6<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いとしさはひみつのあ
-    singer_name_ruby: したんたまいける
-    song_variation:
-    - esong_code: 3814A6
-      song_name: 愛しさは禁断の甘美いミルクホウル (with 萩尾九段 Ver.)
-      content_type: ''
   - song_name: 愛しさは禁断の甘美いミルクホウル (with 片霧秋兵 Ver.)
     song_alias:
     esong_code: 3814A5
@@ -194,6 +177,23 @@ result:
     - esong_code: 3814A2
       song_name: 愛しさは禁断の甘美いミルクホウル
       content_type: ''
+  - song_name: 愛しさは禁断の甘美いミルクホウル (with 萩尾九段 Ver.)
+    song_alias:
+    esong_code: 3814A6
+    t_singer_master_id: '42435'
+    singer_name: 四反田 マイケル
+    singer_alias:
+    available_date: '2017-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 遙かなる時空の中で6<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いとしさはひみつのあ
+    singer_name_ruby: したんたまいける
+    song_variation:
+    - esong_code: 3814A6
+      song_name: 愛しさは禁断の甘美いミルクホウル (with 萩尾九段 Ver.)
+      content_type: ''
   - song_name: innocent world
     song_alias:
     esong_code: 3812A8
@@ -219,7 +219,7 @@ result:
     singer_alias:
     available_date: '2017-05-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 遙かなる時空の中で6 幻燈ロンド<番組名>
+    tie_up: 遙かなる時空の中で6<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いのちのめもり
@@ -474,7 +474,7 @@ result:
     singer_alias:
     available_date: '2017-05-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: よりぬけ!銀魂さん過去回想篇<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ういかつたふあいと

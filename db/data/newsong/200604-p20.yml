@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: DEVIL IN DISGUISE
-    song_alias:
-    esong_code: 1490B3
-    t_singer_master_id: '5503'
-    singer_name: 佐藤 竹善
-    singer_alias:
-    available_date: '2006-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てひるいんてい
-    singer_name_ruby: さとうちくせん
-    song_variation:
-    - esong_code: 1490B3
-      song_name: DEVIL IN DISGUISE
-      content_type: ''
   - song_name: 天
     song_alias:
     esong_code: 1483B17
@@ -60,23 +43,6 @@ result:
       content_type: ''
   - song_name: 天使の遺言
     song_alias:
-    esong_code: 1510B7
-    t_singer_master_id: '2738'
-    singer_name: 斉藤 和義
-    singer_alias:
-    available_date: '2006-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしのゆいこん
-    singer_name_ruby: さいとうかすよし
-    song_variation:
-    - esong_code: 1510B7
-      song_name: 天使の遺言
-      content_type: ''
-  - song_name: 天使の遺言
-    song_alias:
     esong_code: 1494A45
     t_singer_master_id: '1806'
     singer_name: 早川 義夫
@@ -90,6 +56,23 @@ result:
     singer_name_ruby: はやかわよしお
     song_variation:
     - esong_code: 1494A45
+      song_name: 天使の遺言
+      content_type: ''
+  - song_name: 天使の遺言
+    song_alias:
+    esong_code: 1510B7
+    t_singer_master_id: '2738'
+    singer_name: 斉藤 和義
+    singer_alias:
+    available_date: '2006-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てんしのゆいこん
+    singer_name_ruby: さいとうかすよし
+    song_variation:
+    - esong_code: 1510B7
       song_name: 天使の遺言
       content_type: ''
   - song_name: 電ボのブンブン節
@@ -283,7 +266,7 @@ result:
     song_alias:
     esong_code: 1491B37
     t_singer_master_id: '6143'
-    singer_name: 桜井 智
+    singer_name: 櫻井 智(桜井智)
     singer_alias:
     available_date: '2006-04-01'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1493B15
       song_name: 轟けDREAM
+      content_type: ''
+  - song_name: 友
+    song_alias:
+    esong_code: 1493A24
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2006-04-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とも
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 1493A24
+      song_name: 友
       content_type: ''

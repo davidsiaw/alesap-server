@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1316
-  all_max_cnt: 1449
-  all_country_cnt: 1316
+  max_cnt: 1315
+  all_max_cnt: 1448
+  all_country_cnt: 1315
   song:
   - song_name: 黒い稲妻のイルミネーション
     song_alias:
@@ -41,23 +41,6 @@ result:
     - esong_code: 2612B30
       song_name: CROSS MIND
       content_type: ''
-  - song_name: crossroad
-    song_alias:
-    esong_code: 2624A32
-    t_singer_master_id: '8492'
-    singer_name: 浜崎 あゆみ
-    singer_alias:
-    available_date: '2010-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: くろすろと
-    singer_name_ruby: はまさきあゆみ
-    song_variation:
-    - esong_code: 2624A32
-      song_name: crossroad
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: crossroad (Orchestra version)
     song_alias:
     esong_code: 2596B31
@@ -75,6 +58,23 @@ result:
     - esong_code: 2596B31
       song_name: crossroad (Orchestra version)
       content_type: ''
+  - song_name: crossroad
+    song_alias:
+    esong_code: 2624A32
+    t_singer_master_id: '8492'
+    singer_name: 浜崎 あゆみ
+    singer_alias:
+    available_date: '2010-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: くろすろと
+    singer_name_ruby: はまさきあゆみ
+    song_variation:
+    - esong_code: 2624A32
+      song_name: crossroad
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: clock lock works feat.初音ミク
     song_alias:
     esong_code: 2621B5
@@ -196,23 +196,6 @@ result:
       content_type: ''
   - song_name: 献身
     song_alias:
-    esong_code: 2623B6
-    t_singer_master_id: '2818'
-    singer_name: 山口 かおる(青木香織)
-    singer_alias:
-    available_date: '2010-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: けんしん
-    singer_name_ruby: やまくちかおる
-    song_variation:
-    - esong_code: 2623B6
-      song_name: 献身
-      content_type: DAM生音
-  - song_name: 献身
-    song_alias:
     esong_code: 2621B22
     t_singer_master_id: '2818'
     singer_name: 山口 かおる(青木香織)
@@ -228,6 +211,23 @@ result:
     - esong_code: 2621B22
       song_name: 献身
       content_type: ''
+  - song_name: 献身
+    song_alias:
+    esong_code: 2623B6
+    t_singer_master_id: '2818'
+    singer_name: 山口 かおる(青木香織)
+    singer_alias:
+    available_date: '2010-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: けんしん
+    singer_name_ruby: やまくちかおる
+    song_variation:
+    - esong_code: 2623B6
+      song_name: 献身
+      content_type: DAM生音
   - song_name: 建闥婆城奇譚 feat.初音ミク
     song_alias:
     esong_code: 2268A22
@@ -313,23 +313,6 @@ result:
     - esong_code: 2178A46
       song_name: 恋ごよみ
       content_type: ''
-  - song_name: 恋するうさぎ feat.初音ミク
-    song_alias:
-    esong_code: 2274A38
-    t_singer_master_id: '39235'
-    singer_name: X-Plorez
-    singer_alias:
-    available_date: '2010-11-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: こいするうさき
-    singer_name_ruby: えくすふろれ
-    song_variation:
-    - esong_code: 2274A38
-      song_name: 恋するうさぎ feat.初音ミク
-      content_type: VOCALOID
   - song_name: コイスル★フローライト
     song_alias:
     esong_code: 2354B37
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2625B34
       song_name: 恋花の宿 (競作)
+      content_type: ''
+  - song_name: 恋は涙の別れ街
+    song_alias:
+    esong_code: 2625B1
+    t_singer_master_id: '10189'
+    singer_name: 長谷川 桂子
+    singer_alias:
+    available_date: '2010-11-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいはなみたのわか
+    singer_name_ruby: はせかわけいこ
+    song_variation:
+    - esong_code: 2625B1
+      song_name: 恋は涙の別れ街
       content_type: ''

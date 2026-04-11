@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: あまのじゃく
-    song_alias:
-    esong_code: 2219A8
-    t_singer_master_id: '60297'
-    singer_name: City Rose&Yoshiko
-    singer_alias:
-    available_date: '2017-12-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あまのしやく
-    singer_name_ruby: していろすあんとよしこ
-    song_variation:
-    - esong_code: 2219A8
-      song_name: あまのじゃく
-      content_type: ''
-  - song_name: ARMSグランプリ公式ソング
-    song_alias:
-    esong_code: 3934B47
-    t_singer_master_id: '60498'
-    singer_name: ARMS
-    singer_alias:
-    available_date: '2017-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ARMS<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あむすくらんふ
-    singer_name_ruby: あむす
-    song_variation:
-    - esong_code: 3934B47
-      song_name: ARMSグランプリ公式ソング
-      content_type: ''
   - song_name: 雨
     song_alias:
     esong_code: 3918A21
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2231A29
       song_name: 石ころ仁義
+      content_type: ''
+  - song_name: イースター・カーニバル
+    song_alias:
+    esong_code: 3926A47
+    t_singer_master_id: '57753'
+    singer_name: Switch
+    singer_alias:
+    available_date: '2017-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: あんさんぶるスターズ!(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いすたかには
+    singer_name_ruby: すういつち
+    song_variation:
+    - esong_code: 3926A47
+      song_name: イースター・カーニバル
+      content_type: ''
+  - song_name: 泉佐野市歌
+    song_alias:
+    esong_code: 2141B39
+    t_singer_master_id: '45744'
+    singer_name: 市歌
+    singer_alias:
+    available_date: '2017-12-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いすみさのしか
+    singer_name_ruby: しか
+    song_variation:
+    - esong_code: 2141B39
+      song_name: 泉佐野市歌
       content_type: ''

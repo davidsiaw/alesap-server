@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1052
-  all_max_cnt: 1126
-  all_country_cnt: 1052
+  max_cnt: 1051
+  all_max_cnt: 1125
+  all_country_cnt: 1051
   song:
-  - song_name: "(teenage)Disaster (new recording)"
-    song_alias:
-    esong_code: 1971B7
-    t_singer_master_id: '27724'
-    singer_name: 9mm Parabellum Bullet
-    singer_alias:
-    available_date: '2008-03-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていんえいして
-    singer_name_ruby: きゆみりはらへらむはれつと
-    song_variation:
-    - esong_code: 1971B7
-      song_name: "(teenage)Disaster (new recording)"
-      content_type: ''
   - song_name: teenage days
     song_alias:
     esong_code: 1963B10
@@ -41,6 +24,23 @@ result:
     - esong_code: 1963B10
       song_name: teenage days
       content_type: ''
+  - song_name: "(teenage)Disaster (new recording)"
+    song_alias:
+    esong_code: 1971B7
+    t_singer_master_id: '27724'
+    singer_name: 9mm Parabellum Bullet
+    singer_alias:
+    available_date: '2008-03-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていんえいして
+    singer_name_ruby: きゆみりはらへらむはれつと
+    song_variation:
+    - esong_code: 1971B7
+      song_name: "(teenage)Disaster (new recording)"
+      content_type: ''
   - song_name: TEENAGER
     song_alias:
     esong_code: 1962A43
@@ -57,23 +57,6 @@ result:
     song_variation:
     - esong_code: 1962A43
       song_name: TEENAGER
-      content_type: ''
-  - song_name: Desperation
-    song_alias:
-    esong_code: 1962B5
-    t_singer_master_id: '32470'
-    singer_name: 近藤 孝行&楠 大典
-    singer_alias:
-    available_date: '2008-03-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テニスの王子様<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: てすはれしよん
-    singer_name_ruby: こんとうたかゆきくすのきたい
-    song_variation:
-    - esong_code: 1962B5
-      song_name: Desperation
       content_type: ''
   - song_name: てっぺん
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1971A23
       song_name: トキノ旅人
+      content_type: ''
+  - song_name: 途切れない愛のメッセージ
+    song_alias:
+    esong_code: 1959B6
+    t_singer_master_id: '19061'
+    singer_name: 弥生
+    singer_alias:
+    available_date: '2008-03-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ときれないあいのめ
+    singer_name_ruby: やよい
+    song_variation:
+    - esong_code: 1959B6
+      song_name: 途切れない愛のメッセージ
       content_type: ''

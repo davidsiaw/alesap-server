@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: ただいま
-    song_alias:
-    esong_code: 2077B33
-    t_singer_master_id: '15705'
-    singer_name: 河口 恭吾
-    singer_alias:
-    available_date: '2008-09-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たたいま
-    singer_name_ruby: かわくちきようこ
-    song_variation:
-    - esong_code: 2077B33
-      song_name: ただいま
-      content_type: ''
   - song_name: タダダキアッテ
     song_alias:
     esong_code: 2079A41
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2078B12
       song_name: 月が見ている
+      content_type: ''
+  - song_name: 月にノボロウ
+    song_alias:
+    esong_code: 2101A13
+    t_singer_master_id: '31809'
+    singer_name: 暮部 拓哉
+    singer_alias:
+    available_date: '2008-09-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきにのほろう
+    singer_name_ruby: くれへたくや
+    song_variation:
+    - esong_code: 2101A13
+      song_name: 月にノボロウ
       content_type: ''

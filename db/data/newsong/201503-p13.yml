@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1628
-  all_max_cnt: 1827
-  all_country_cnt: 1628
+  max_cnt: 1617
+  all_max_cnt: 1816
+  all_country_cnt: 1617
   song:
-  - song_name: 硝子のレプリカント
-    song_alias:
-    esong_code: 254B17
-    t_singer_master_id: '5071'
-    singer_name: 早瀬 優香子
-    singer_alias:
-    available_date: '2015-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: からすのれふりか
-    singer_name_ruby: はやせゆかこ
-    song_variation:
-    - esong_code: 254B17
-      song_name: 硝子のレプリカント
-      content_type: ''
-  - song_name: からっぽカプセル
-    song_alias:
-    esong_code: 3417A19
-    t_singer_master_id: '45657'
-    singer_name: 内田 真礼
-    singer_alias:
-    available_date: '2015-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アニメで分かる心療内科<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: からつほかふせる
-    singer_name_ruby: うちたまあや
-    song_variation:
-    - esong_code: 3417A19
-      song_name: からっぽカプセル
-      content_type: ''
-  - song_name: カルカテレパシー
-    song_alias:
-    esong_code: 3403B10
-    t_singer_master_id: '38314'
-    singer_name: 植田 真梨恵
-    singer_alias:
-    available_date: '2015-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かるかてれはし
-    singer_name_ruby: うえたまりえ
-    song_variation:
-    - esong_code: 3403B10
-      song_name: カルカテレパシー
-      content_type: ''
   - song_name: Girls be Free!
     song_alias:
     esong_code: 3405A10
@@ -230,23 +179,6 @@ result:
       content_type: ''
   - song_name: 記憶
     song_alias:
-    esong_code: 3402B24
-    t_singer_master_id: '30078'
-    singer_name: 渋谷 すばる(from SUPER EIGHT)
-    singer_alias:
-    available_date: '2015-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きおく
-    singer_name_ruby: しふたにすはる
-    song_variation:
-    - esong_code: 3402B24
-      song_name: 記憶
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 記憶
-    song_alias:
     esong_code: 923A23
     t_singer_master_id: '39687'
     singer_name: 下 真治
@@ -262,6 +194,23 @@ result:
     - esong_code: 923A23
       song_name: 記憶
       content_type: ''
+  - song_name: 記憶
+    song_alias:
+    esong_code: 3402B24
+    t_singer_master_id: '30078'
+    singer_name: 渋谷 すばる(from SUPER EIGHT)
+    singer_alias:
+    available_date: '2015-03-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きおく
+    singer_name_ruby: しふたにすはる
+    song_variation:
+    - esong_code: 3402B24
+      song_name: 記憶
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 祇園の華
     song_alias:
     esong_code: 921B43
@@ -451,23 +400,6 @@ result:
       content_type: ''
   - song_name: 奇跡
     song_alias:
-    esong_code: 3408B6
-    t_singer_master_id: '12187'
-    singer_name: コブクロ
-    singer_alias:
-    available_date: '2015-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: きせき
-    singer_name_ruby: こふくろ
-    song_variation:
-    - esong_code: 3408B6
-      song_name: 奇跡
-      content_type: DAM生音
-  - song_name: 奇跡
-    song_alias:
     esong_code: 3412A6
     t_singer_master_id: '12187'
     singer_name: コブクロ
@@ -483,6 +415,23 @@ result:
     - esong_code: 3412A6
       song_name: 奇跡
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 奇跡
+    song_alias:
+    esong_code: 3408B6
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
+    singer_alias:
+    available_date: '2015-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: きせき
+    singer_name_ruby: こふくろ
+    song_variation:
+    - esong_code: 3408B6
+      song_name: 奇跡
+      content_type: DAM生音
   - song_name: 季節の中で
     song_alias:
     esong_code: 3421A20
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 938B4
       song_name: 北の歸り人
+      content_type: ''
+  - song_name: 北の孤愁
+    song_alias:
+    esong_code: 3304A45
+    t_singer_master_id: '2503'
+    singer_name: 山本 譲二
+    singer_alias:
+    available_date: '2015-03-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: きたのこしゆう
+    singer_name_ruby: やまもとしようし
+    song_variation:
+    - esong_code: 3304A45
+      song_name: 北の孤愁
+      content_type: JOY生演奏
+  - song_name: 北浜漁港
+    song_alias:
+    esong_code: 963B14
+    t_singer_master_id: '47794'
+    singer_name: さと たくみ
+    singer_alias:
+    available_date: '2015-03-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたはまきよこう
+    singer_name_ruby: さとたくみ
+    song_variation:
+    - esong_code: 963B14
+      song_name: 北浜漁港
+      content_type: ''
+  - song_name: 北岬
+    song_alias:
+    esong_code: 912B9
+    t_singer_master_id: '32398'
+    singer_name: 大沢 あすか
+    singer_alias:
+    available_date: '2015-03-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたみさき
+    singer_name_ruby: おおさわあすか
+    song_variation:
+    - esong_code: 912B9
+      song_name: 北岬
       content_type: ''

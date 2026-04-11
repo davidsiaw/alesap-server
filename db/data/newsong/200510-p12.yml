@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 809
-  all_max_cnt: 933
-  all_country_cnt: 809
+  max_cnt: 808
+  all_max_cnt: 932
+  all_country_cnt: 808
   song:
   - song_name: シャットダウン
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 1395B31
       song_name: JAM Projectベストメドレー
       content_type: ''
-  - song_name: シャララ
-    song_alias:
-    esong_code: 1123A2
-    t_singer_master_id: '1462'
-    singer_name: TUBE
-    singer_alias:
-    available_date: '2005-10-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやらら
-    singer_name_ruby: ちゆふ
-    song_variation:
-    - esong_code: 1123A2
-      song_name: シャララ
-      content_type: ''
   - song_name: Sha la la...
     song_alias:
     esong_code: 1410B45
@@ -91,6 +74,23 @@ result:
     song_variation:
     - esong_code: 1410B45
       song_name: Sha la la...
+      content_type: ''
+  - song_name: シャララ
+    song_alias:
+    esong_code: 1123A2
+    t_singer_master_id: '1462'
+    singer_name: TUBE
+    singer_alias:
+    available_date: '2005-10-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやらら
+    singer_name_ruby: ちゆふ
+    song_variation:
+    - esong_code: 1123A2
+      song_name: シャララ
       content_type: ''
   - song_name: JUMP
     song_alias:

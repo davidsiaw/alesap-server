@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: 太陽ギラギラ
-    song_alias:
-    esong_code: 1126B13
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2010-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいようきらきら
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 1126B13
-      song_name: 太陽ギラギラ
-      content_type: ''
   - song_name: 太陽のかけら
     song_alias:
     esong_code: 2568B24
@@ -279,23 +262,6 @@ result:
     - esong_code: 2561A41
       song_name: 他人ばかりの東京で
       content_type: ''
-  - song_name: たねまきマギー
-    song_alias:
-    esong_code: 2574B19
-    t_singer_master_id: '34857'
-    singer_name: さくら まや
-    singer_alias:
-    available_date: '2010-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: はしれ!わくわくアンパンマングランプリ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たねまきまき
-    singer_name_ruby: さくらまや
-    song_variation:
-    - esong_code: 2574B19
-      song_name: たねまきマギー
-      content_type: ''
   - song_name: 旅の支度
     song_alias:
     esong_code: 2562B1
@@ -517,3 +483,37 @@ result:
     - esong_code: 2568A34
       song_name: チルノのパーフェクトさんすう教室 (Short.ver)
       content_type: 東方
+  - song_name: 珍言 oh! 名言
+    song_alias:
+    esong_code: 2573B39
+    t_singer_master_id: '40359'
+    singer_name: ビッグポルノ
+    singer_alias:
+    available_date: '2010-07-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちんけんおめいけ
+    singer_name_ruby: ひつくほるの
+    song_variation:
+    - esong_code: 2573B39
+      song_name: 珍言 oh! 名言
+      content_type: ''
+  - song_name: 津軽半島
+    song_alias:
+    esong_code: 1373B20
+    t_singer_master_id: '893'
+    singer_name: 伍代 夏子
+    singer_alias:
+    available_date: '2010-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つかるはんとう
+    singer_name_ruby: こたいなつこ
+    song_variation:
+    - esong_code: 1373B20
+      song_name: 津軽半島
+      content_type: ''

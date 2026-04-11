@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
   - song_name: エボリューション・イヴ
     song_alias:
@@ -32,7 +32,7 @@ result:
     singer_alias:
     available_date: '2015-07-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 牙狼(GARO) -GOLDSTORM- 翔<番組名>
+    tie_up: 牙狼-GARO-(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えましゆしつこく
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: おさけ川
     song_alias:
-    esong_code: 412B34
-    t_singer_master_id: '1673'
-    singer_name: 長保 有紀
-    singer_alias:
-    available_date: '2015-07-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おさけかわ
-    singer_name_ruby: なかほゆき
-    song_variation:
-    - esong_code: 412B34
-      song_name: おさけ川
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: おさけ川
-    song_alias:
     esong_code: 3240A11
     t_singer_master_id: '1673'
     singer_name: 長保 有紀
@@ -500,6 +483,23 @@ result:
     - esong_code: 3240A11
       song_name: おさけ川
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: おさけ川
+    song_alias:
+    esong_code: 412B34
+    t_singer_master_id: '1673'
+    singer_name: 長保 有紀
+    singer_alias:
+    available_date: '2015-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おさけかわ
+    singer_name_ruby: なかほゆき
+    song_variation:
+    - esong_code: 412B34
+      song_name: おさけ川
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 小樽で恋して・・・
     song_alias:
     esong_code: 494B12

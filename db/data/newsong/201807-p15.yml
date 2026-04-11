@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1452
-  all_max_cnt: 1626
-  all_country_cnt: 1452
+  max_cnt: 1445
+  all_max_cnt: 1619
+  all_country_cnt: 1445
   song:
-  - song_name: クランクイン
-    song_alias:
-    esong_code: 4033A4
-    t_singer_master_id: '55094'
-    singer_name: キタコレ
-    singer_alias:
-    available_date: '2018-07-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: B-PROJECT(ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらんくいん
-    singer_name_ruby: きたこれ
-    song_variation:
-    - esong_code: 4033A4
-      song_name: クランクイン
-      content_type: ''
-  - song_name: Christmas Song
-    song_alias:
-    esong_code: 4035A44
-    t_singer_master_id: '59418'
-    singer_name: イツカノオト
-    singer_alias:
-    available_date: '2018-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くりすますそんく
-    singer_name_ruby: いつかのおと
-    song_variation:
-    - esong_code: 4035A44
-      song_name: Christmas Song
-      content_type: ''
   - song_name: GLITTER
     song_alias:
     esong_code: 4021B17
@@ -389,7 +355,7 @@ result:
     singer_alias:
     available_date: '2018-07-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL SUPER(超)<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けんかいとつはさ
@@ -474,7 +440,7 @@ result:
     singer_alias:
     available_date: '2018-07-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 鳥海浩輔・前野智昭の大人のトリセツ<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: こいしてむんらいと
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4027A9
       song_name: 恋する惑星
+      content_type: ''
+  - song_name: 恋と愛
+    song_alias:
+    esong_code: 4030B30
+    t_singer_master_id: '41096'
+    singer_name: 三代目 J Soul Brothers from EXILE TRIBE
+    singer_alias:
+    available_date: '2018-07-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: こいとあい
+    singer_name_ruby: さんたいめしえいそうるふらさす
+    song_variation:
+    - esong_code: 4030B30
+      song_name: 恋と愛
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 恋の居酒屋
+    song_alias:
+    esong_code: 370A45
+    t_singer_master_id: '23091'
+    singer_name: 江河 愛司
+    singer_alias:
+    available_date: '2018-07-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのいさかや
+    singer_name_ruby: えかわあいし
+    song_variation:
+    - esong_code: 370A45
+      song_name: 恋の居酒屋
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 249
-  all_max_cnt: 254
-  all_country_cnt: 249
+  max_cnt: 246
+  all_max_cnt: 251
+  all_country_cnt: 246
   song:
-  - song_name: 猫村さんのうた
-    song_alias:
-    esong_code: 4370B11
-    t_singer_master_id: '66430'
-    singer_name: 松重 豊&U-zhaan&坂本 龍一
-    singer_alias:
-    available_date: '2020-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ねこむらさんのうた
-    singer_name_ruby: まつしけゆたかあんとゆさ
-    song_variation:
-    - esong_code: 4370B11
-      song_name: 猫村さんのうた
-      content_type: ''
   - song_name: Never Grow Up (Acoustic Version)
     song_alias:
     esong_code: 4377A20
@@ -466,23 +449,6 @@ result:
     - esong_code: 4377A30
       song_name: Hero
       content_type: ''
-  - song_name: ヒロイン
-    song_alias:
-    esong_code: 4367B48
-    t_singer_master_id: '25245'
-    singer_name: 絢香
-    singer_alias:
-    available_date: '2020-05-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひろいん
-    singer_name_ruby: あやか
-    song_variation:
-    - esong_code: 4367B48
-      song_name: ヒロイン
-      content_type: ''
   - song_name: Fantasy
     song_alias:
     esong_code: 4366B45
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4368A30
       song_name: Faith
+      content_type: ''
+  - song_name: Phoenix
+    song_alias:
+    esong_code: 4373A13
+    t_singer_master_id: '47442'
+    singer_name: Da-iCE
+    singer_alias:
+    available_date: '2020-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふえにつくす
+    singer_name_ruby: たいす
+    song_variation:
+    - esong_code: 4373A13
+      song_name: Phoenix
+      content_type: ''
+  - song_name: FUTURE STEP
+    song_alias:
+    esong_code: 4376B39
+    t_singer_master_id: '50856'
+    singer_name: 髙橋 ミナミ(高橋未奈美)
+    singer_alias:
+    available_date: '2020-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ありふれた職業で世界最強<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふゆちやすてつふ
+    singer_name_ruby: たかはしみなみ
+    song_variation:
+    - esong_code: 4376B39
+      song_name: FUTURE STEP
       content_type: ''

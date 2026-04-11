@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 806
-  all_max_cnt: 881
-  all_country_cnt: 806
+  max_cnt: 802
+  all_max_cnt: 877
+  all_country_cnt: 802
   song:
-  - song_name: アカシア
-    song_alias:
-    esong_code: 4460B26
-    t_singer_master_id: '12276'
-    singer_name: BUMP OF CHICKEN
-    singer_alias:
-    available_date: '2021-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あかしあ
-    singer_name_ruby: はんふおふちきん
-    song_variation:
-    - esong_code: 4460B26
-      song_name: アカシア
-      content_type: DAM生音
   - song_name: アカシア feat.初音ミク
     song_alias:
     esong_code: 4462B27
@@ -41,6 +24,23 @@ result:
     - esong_code: 4462B27
       song_name: アカシア feat.初音ミク
       content_type: VOCALOID
+  - song_name: アカシア
+    song_alias:
+    esong_code: 4460B26
+    t_singer_master_id: '12276'
+    singer_name: BUMP OF CHICKEN
+    singer_alias:
+    available_date: '2021-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あかしあ
+    singer_name_ruby: はんふおふちきん
+    song_variation:
+    - esong_code: 4460B26
+      song_name: アカシア
+      content_type: DAM生音
   - song_name: アカシア (「GOTCHA!」ver.)
     song_alias:
     esong_code: 4460B19
@@ -330,23 +330,6 @@ result:
     - esong_code: 4466B48
       song_name: 明日への夢
       content_type: ''
-  - song_name: 明日を呼ぶ港 [歌ってみた利用OK]
-    song_alias:
-    esong_code: 4465A36
-    t_singer_master_id: '1774'
-    singer_name: 橋 幸夫
-    singer_alias:
-    available_date: '2021-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: 歌ってみた利用OK
-    song_name_ruby: あすをよふみなと
-    singer_name_ruby: はしゆきお
-    song_variation:
-    - esong_code: 4465A36
-      song_name: 明日を呼ぶ港 [歌ってみた利用OK]
-      content_type: 歌ってみた利用OK
   - song_name: 明日を呼ぶ港
     song_alias:
     esong_code: 1377A13
@@ -364,6 +347,23 @@ result:
     - esong_code: 1377A13
       song_name: 明日を呼ぶ港
       content_type: ''
+  - song_name: 明日を呼ぶ港 [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4465A36
+    t_singer_master_id: '1774'
+    singer_name: 橋 幸夫
+    singer_alias:
+    available_date: '2021-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: あすをよふみなと
+    singer_name_ruby: はしゆきお
+    song_variation:
+    - esong_code: 4465A36
+      song_name: 明日を呼ぶ港 [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
   - song_name: 遊んでたの、知ってるよ。
     song_alias:
     esong_code: 4467A14

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 920
-  all_max_cnt: 993
-  all_country_cnt: 920
+  max_cnt: 913
+  all_max_cnt: 986
+  all_country_cnt: 913
   song:
-  - song_name: ありえないくらい奇跡
-    song_alias:
-    esong_code: 1998A40
-    t_singer_master_id: '32161'
-    singer_name: つじ あやのとBEAT CRUSADERS
-    singer_alias:
-    available_date: '2008-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 超劇場版ケロロ軍曹3<番組名>
-    country_code: '0'
-    content_type: JOYうたいり
-    song_name_ruby: ありえないくらいきせ
-    singer_name_ruby: つしあやのとひとくる
-    song_variation:
-    - esong_code: 1998A40
-      song_name: ありえないくらい奇跡
-      content_type: JOYうたいり
   - song_name: ありがとう
     song_alias:
     esong_code: 2007B24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2003B47
       song_name: インスタントコーヒー
+      content_type: ''
+  - song_name: we wish...
+    song_alias:
+    esong_code: 2010A7
+    t_singer_master_id: '24617'
+    singer_name: 後藤 沙緒里
+    singer_alias:
+    available_date: '2008-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: GALAXY ANGEL II 〜無限回廊の鍵〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういういつしゆ
+    singer_name_ruby: ことうさおり
+    song_variation:
+    - esong_code: 2010A7
+      song_name: we wish...
       content_type: ''

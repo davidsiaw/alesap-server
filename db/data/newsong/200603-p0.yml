@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 997
-  all_max_cnt: 1157
-  all_country_cnt: 997
+  max_cnt: 993
+  all_max_cnt: 1152
+  all_country_cnt: 993
   song:
   - song_name: I will get a dream
     song_alias:
@@ -77,23 +77,6 @@ result:
       content_type: ''
   - song_name: 哀愁
     song_alias:
-    esong_code: 1463B11
-    t_singer_master_id: '97'
-    singer_name: 渥美 二郎
-    singer_alias:
-    available_date: '2006-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいしゆう
-    singer_name_ruby: あつみしろう
-    song_variation:
-    - esong_code: 1463B11
-      song_name: 哀愁
-      content_type: ''
-  - song_name: 哀愁
-    song_alias:
     esong_code: 1472B1
     t_singer_master_id: '97'
     singer_name: 渥美 二郎
@@ -109,6 +92,23 @@ result:
     - esong_code: 1472B1
       song_name: 哀愁
       content_type: DAM生音
+  - song_name: 哀愁
+    song_alias:
+    esong_code: 1463B11
+    t_singer_master_id: '97'
+    singer_name: 渥美 二郎
+    singer_alias:
+    available_date: '2006-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいしゆう
+    singer_name_ruby: あつみしろう
+    song_variation:
+    - esong_code: 1463B11
+      song_name: 哀愁
+      content_type: ''
   - song_name: 哀愁のGIジョー
     song_alias:
     esong_code: 1467A9
@@ -245,23 +245,6 @@ result:
     - esong_code: 1486A15
       song_name: 愛の花園
       content_type: ''
-  - song_name: 愛のメロディー (サウンドトラックバージョン)
-    song_alias:
-    esong_code: 1472B33
-    t_singer_master_id: '10619'
-    singer_name: KOKIA
-    singer_alias:
-    available_date: '2006-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 銀色の髪のアギト<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのめろてい
-    singer_name_ruby: こきあ
-    song_variation:
-    - esong_code: 1472B33
-      song_name: 愛のメロディー (サウンドトラックバージョン)
-      content_type: ''
   - song_name: 愛のメロディー (original ver.)
     song_alias:
     esong_code: 1415A37
@@ -278,6 +261,23 @@ result:
     song_variation:
     - esong_code: 1415A37
       song_name: 愛のメロディー (original ver.)
+      content_type: ''
+  - song_name: 愛のメロディー (サウンドトラックバージョン)
+    song_alias:
+    esong_code: 1472B33
+    t_singer_master_id: '10619'
+    singer_name: KOKIA
+    singer_alias:
+    available_date: '2006-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 銀色の髪のアギト<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのめろてい
+    singer_name_ruby: こきあ
+    song_variation:
+    - esong_code: 1472B33
+      song_name: 愛のメロディー (サウンドトラックバージョン)
       content_type: ''
   - song_name: 愛は流星
     song_alias:

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1500
-  all_max_cnt: 1660
-  all_country_cnt: 1500
+  max_cnt: 1480
+  all_max_cnt: 1639
+  all_country_cnt: 1480
   song:
-  - song_name: 家出少女と未亡人 feat.初音ミク
-    song_alias:
-    esong_code: 3112B1
-    t_singer_master_id: '48815'
-    singer_name: あんよくん&エンドケイプ
-    singer_alias:
-    available_date: '2013-09-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: いえてしようしよ
-    singer_name_ruby: あんよくんあんとえんとけい
-    song_variation:
-    - esong_code: 3112B1
-      song_name: 家出少女と未亡人 feat.初音ミク
-      content_type: VOCALOID
-  - song_name: 言えないサヨナラ
-    song_alias:
-    esong_code: 1118A38
-    t_singer_master_id: '20891'
-    singer_name: SING4
-    singer_alias:
-    available_date: '2013-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いえないさよなら
-    singer_name_ruby: しんくふお
-    song_variation:
-    - esong_code: 1118A38
-      song_name: 言えないサヨナラ
-      content_type: ''
   - song_name: 癒えぬ痕
     song_alias:
     esong_code: 3113B15
@@ -517,3 +483,37 @@ result:
     - esong_code: 3113B26
       song_name: イノセント・ドール
       content_type: 東方
+  - song_name: いのちの海峡
+    song_alias:
+    esong_code: 3091A34
+    t_singer_master_id: '389'
+    singer_name: 大月 みやこ
+    singer_alias:
+    available_date: '2013-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: いのちのかいきよう
+    singer_name_ruby: おおつきみやこ
+    song_variation:
+    - esong_code: 3091A34
+      song_name: いのちの海峡
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 生命の花
+    song_alias:
+    esong_code: 1931A10
+    t_singer_master_id: '31990'
+    singer_name: 高平 翔
+    singer_alias:
+    available_date: '2013-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのちのはな
+    singer_name_ruby: たかひらしよう
+    song_variation:
+    - esong_code: 1931A10
+      song_name: 生命の花
+      content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: 三日月海峡
-    song_alias:
-    esong_code: 2099A8
-    t_singer_master_id: '1785'
-    singer_name: 服部 浩子
-    singer_alias:
-    available_date: '2016-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: みかつきかいきよう
-    singer_name_ruby: はつとりひろこ
-    song_variation:
-    - esong_code: 2099A8
-      song_name: 三日月海峡
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 未完成キャンバス
     song_alias:
     esong_code: 3580B28
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2100A17
       song_name: 夫婦橋
+      content_type: ''
+  - song_name: 目覚めの風
+    song_alias:
+    esong_code: 3583A7
+    t_singer_master_id: '52477'
+    singer_name: 大西 沙織
+    singer_alias:
+    available_date: '2016-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ダンジョンに出会いを求めるのは間違っているだろうか<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: めさめのかせ
+    singer_name_ruby: おおにしさおり
+    song_variation:
+    - esong_code: 3583A7
+      song_name: 目覚めの風
       content_type: ''

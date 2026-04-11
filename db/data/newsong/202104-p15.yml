@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 814
-  all_max_cnt: 889
-  all_country_cnt: 814
+  max_cnt: 807
+  all_max_cnt: 882
+  all_country_cnt: 807
   song:
-  - song_name: 大邱の純情
-    song_alias:
-    esong_code: 4493B47
-    t_singer_master_id: '55500'
-    singer_name: キソン
-    singer_alias:
-    available_date: '2021-04-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てくのしゆんし
-    singer_name_ruby: きそん
-    song_variation:
-    - esong_code: 4493B47
-      song_name: 大邱の純情
-      content_type: ''
-  - song_name: Design
-    song_alias:
-    esong_code: 4494B31
-    t_singer_master_id: '65996'
-    singer_name: JO1
-    singer_alias:
-    available_date: '2021-04-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てさいん
-    singer_name_ruby: しえいおわん
-    song_variation:
-    - esong_code: 4494B31
-      song_name: Design
-      content_type: ''
-  - song_name: デッドウェイト
-    song_alias:
-    esong_code: 4493A2
-    t_singer_master_id: '63152'
-    singer_name: キタニ タツヤ
-    singer_alias:
-    available_date: '2021-04-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てつとうえいと
-    singer_name_ruby: きたにたつや
-    song_variation:
-    - esong_code: 4493A2
-      song_name: デッドウェイト
-      content_type: ''
-  - song_name: 鉄道カラオケ 「恵比寿〜渋谷」編
-    song_alias:
-    esong_code: 4500B44
-    t_singer_master_id: '56029'
-    singer_name: テイチク鉄道カラオケ
-    singer_alias:
-    available_date: '2021-04-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: てつとうからおけえ
-    singer_name_ruby: ていちくてつとうからおけ
-    song_variation:
-    - esong_code: 4500B44
-      song_name: 鉄道カラオケ 「恵比寿〜渋谷」編
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 鉄道カラオケ 「御徒町〜上野」編
     song_alias:
     esong_code: 4500B43
@@ -91,23 +23,6 @@ result:
     song_variation:
     - esong_code: 4500B43
       song_name: 鉄道カラオケ 「御徒町〜上野」編
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 鉄道カラオケ 「大崎〜品川」編
-    song_alias:
-    esong_code: 4500B41
-    t_singer_master_id: '56029'
-    singer_name: テイチク鉄道カラオケ
-    singer_alias:
-    available_date: '2021-04-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: てつとうからおけお
-    singer_name_ruby: ていちくてつとうからおけ
-    song_variation:
-    - esong_code: 4500B41
-      song_name: 鉄道カラオケ 「大崎〜品川」編
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 鉄道カラオケ 「神田〜東京」編
     song_alias:
@@ -126,9 +41,9 @@ result:
     - esong_code: 4500B47
       song_name: 鉄道カラオケ 「神田〜東京」編
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 鉄道カラオケ 「渋谷〜原宿」編
+  - song_name: 鉄道カラオケ 「品川〜高輪ゲートウェイ」編
     song_alias:
-    esong_code: 4500B45
+    esong_code: 4500B42
     t_singer_master_id: '56029'
     singer_name: テイチク鉄道カラオケ
     singer_alias:
@@ -140,8 +55,8 @@ result:
     song_name_ruby: てつとうからおけし
     singer_name_ruby: ていちくてつとうからおけ
     song_variation:
-    - esong_code: 4500B45
-      song_name: 鉄道カラオケ 「渋谷〜原宿」編
+    - esong_code: 4500B42
+      song_name: 鉄道カラオケ 「品川〜高輪ゲートウェイ」編
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 鉄道カラオケ 「新宿〜代々木」編
     song_alias:
@@ -160,9 +75,9 @@ result:
     - esong_code: 4500B40
       song_name: 鉄道カラオケ 「新宿〜代々木」編
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 鉄道カラオケ 「品川〜高輪ゲートウェイ」編
+  - song_name: 鉄道カラオケ 「渋谷〜原宿」編
     song_alias:
-    esong_code: 4500B42
+    esong_code: 4500B45
     t_singer_master_id: '56029'
     singer_name: テイチク鉄道カラオケ
     singer_alias:
@@ -174,8 +89,8 @@ result:
     song_name_ruby: てつとうからおけし
     singer_name_ruby: ていちくてつとうからおけ
     song_variation:
-    - esong_code: 4500B42
-      song_name: 鉄道カラオケ 「品川〜高輪ゲートウェイ」編
+    - esong_code: 4500B45
+      song_name: 鉄道カラオケ 「渋谷〜原宿」編
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 鉄道カラオケ 「目白〜池袋」編
     song_alias:
@@ -281,23 +196,6 @@ result:
       content_type: ''
   - song_name: 東京
     song_alias:
-    esong_code: 4492A33
-    t_singer_master_id: '57444'
-    singer_name: リーガルリリー
-    singer_alias:
-    available_date: '2021-04-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきよう
-    singer_name_ruby: りかるりり
-    song_variation:
-    - esong_code: 4492A33
-      song_name: 東京
-      content_type: ''
-  - song_name: 東京
-    song_alias:
     esong_code: 4487A35
     t_singer_master_id: '66992'
     singer_name: PEOPLE1
@@ -311,6 +209,23 @@ result:
     singer_name_ruby: ひふるわん
     song_variation:
     - esong_code: 4487A35
+      song_name: 東京
+      content_type: ''
+  - song_name: 東京
+    song_alias:
+    esong_code: 4492A33
+    t_singer_master_id: '57444'
+    singer_name: リーガルリリー
+    singer_alias:
+    available_date: '2021-04-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきよう
+    singer_name_ruby: りかるりり
+    song_variation:
+    - esong_code: 4492A33
       song_name: 東京
       content_type: ''
   - song_name: 東京しぐれ
@@ -517,3 +432,88 @@ result:
     - esong_code: 4487B41
       song_name: ドクトリーヌ
       content_type: VOCALOID
+  - song_name: トクベツなひと 〜Lesson Five〜
+    song_alias:
+    esong_code: 4487B9
+    t_singer_master_id: '51281'
+    singer_name: 水瀬 いのり
+    singer_alias:
+    available_date: '2021-04-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 五等分の花嫁<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とくへつなひとれつ
+    singer_name_ruby: みなせいのり
+    song_variation:
+    - esong_code: 4487B9
+      song_name: トクベツなひと 〜Lesson Five〜
+      content_type: ''
+  - song_name: TV版 トゲトゲ・シンデレラ [DAM本人歌唱]
+    song_alias:
+    esong_code: 4480B46
+    t_singer_master_id: '60602'
+    singer_name: さぼえちゃん&サボ子さん
+    singer_alias:
+    available_date: '2021-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みいつけた!<番組名>
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: とけとけしんて
+    singer_name_ruby: さほえちやんあんとさほこさん
+    song_variation:
+    - esong_code: 4480B46
+      song_name: TV版 トゲトゲ・シンデレラ [DAM本人歌唱]
+      content_type: DAM本人歌唱
+  - song_name: どっきゅんばっきゅん
+    song_alias:
+    esong_code: 4488A2
+    t_singer_master_id: '29402'
+    singer_name: BiS
+    singer_alias:
+    available_date: '2021-04-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とつきゆんはつき
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 4488A2
+      song_name: どっきゅんばっきゅん
+      content_type: ''
+  - song_name: 突然GIRL
+    song_alias:
+    esong_code: 4497A20
+    t_singer_master_id: '64585'
+    singer_name: 斉藤 朱夏
+    singer_alias:
+    available_date: '2021-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ラブライブ!サンシャイン!!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とつせんかる
+    singer_name_ruby: さいとうしゆか
+    song_variation:
+    - esong_code: 4497A20
+      song_name: 突然GIRL
+      content_type: ''
+  - song_name: 扉を開けたら
+    song_alias:
+    esong_code: 4493B5
+    t_singer_master_id: '67798'
+    singer_name: MUG-MO
+    singer_alias:
+    available_date: '2021-04-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: やくならマグカップも<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とひらをあけたら
+    singer_name_ruby: まくも
+    song_variation:
+    - esong_code: 4493B5
+      song_name: 扉を開けたら
+      content_type: ''

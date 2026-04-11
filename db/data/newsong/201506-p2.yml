@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1536
-  all_max_cnt: 1777
-  all_country_cnt: 1536
+  max_cnt: 1525
+  all_max_cnt: 1765
+  all_country_cnt: 1525
   song:
   - song_name: あすなろの詩
     song_alias:
@@ -128,23 +128,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: あなた
     song_alias:
-    esong_code: 3450B29
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2015-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あなた
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 3450B29
-      song_name: あなた
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: あなた
-    song_alias:
     esong_code: 709A47
     t_singer_master_id: '52631'
     singer_name: 原 正仁
@@ -160,6 +143,23 @@ result:
     - esong_code: 709A47
       song_name: あなた
       content_type: ''
+  - song_name: あなた
+    song_alias:
+    esong_code: 3450B29
+    t_singer_master_id: '25694'
+    singer_name: いきものがかり
+    singer_alias:
+    available_date: '2015-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あなた
+    singer_name_ruby: いきものかかり
+    song_variation:
+    - esong_code: 3450B29
+      song_name: あなた
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: あなたからさよならを言って
     song_alias:
     esong_code: 722A5

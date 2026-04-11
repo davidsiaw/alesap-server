@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: いちばんいっぱい
-    song_alias:
-    esong_code: 2757B47
-    t_singer_master_id: '37319'
-    singer_name: 放課後ティータイム
-    singer_alias:
-    available_date: '2012-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 映画 けいおん!<番組名>
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: いちはんいつはい
-    singer_name_ruby: ほうかこていたいむ
-    song_variation:
-    - esong_code: 2757B47
-      song_name: いちばんいっぱい
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: いちばんいっぱい
     song_alias:
     esong_code: 2757B24
@@ -111,23 +94,6 @@ result:
       content_type: DAM生音
   - song_name: いつだって僕らは
     song_alias:
-    esong_code: 2757B36
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2012-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: いつたつてほくら
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 2757B36
-      song_name: いつだって僕らは
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: いつだって僕らは
-    song_alias:
     esong_code: 2752B42
     t_singer_master_id: '25694'
     singer_name: いきものがかり
@@ -143,6 +109,23 @@ result:
     - esong_code: 2752B42
       song_name: いつだって僕らは
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: いつだって僕らは
+    song_alias:
+    esong_code: 2757B36
+    t_singer_master_id: '25694'
+    singer_name: いきものがかり
+    singer_alias:
+    available_date: '2012-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: いつたつてほくら
+    singer_name_ruby: いきものかかり
+    song_variation:
+    - esong_code: 2757B36
+      song_name: いつだって僕らは
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: いつだって僕らは
     song_alias:
     esong_code: 2739A18
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2765B16
       song_name: INSPIRE
+      content_type: ''
+  - song_name: INDEPENDENT WOMAN
+    song_alias:
+    esong_code: 2750B12
+    t_singer_master_id: '12467'
+    singer_name: AI
+    singer_alias:
+    available_date: '2012-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いんていへんて
+    singer_name_ruby: あい
+    song_variation:
+    - esong_code: 2750B12
+      song_name: INDEPENDENT WOMAN
       content_type: ''

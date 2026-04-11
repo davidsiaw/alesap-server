@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: Secret Code
-    song_alias:
-    esong_code: 1582A18
-    t_singer_master_id: '25642'
-    singer_name: 上木 彩矢
-    singer_alias:
-    available_date: '2006-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しくれつとこと
-    singer_name_ruby: かみきあや
-    song_variation:
-    - esong_code: 1582A18
-      song_name: Secret Code
-      content_type: ''
-  - song_name: Sign of summer
-    song_alias:
-    esong_code: 1589B38
-    t_singer_master_id: '24186'
-    singer_name: i-dep
-    singer_alias:
-    available_date: '2006-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しくんおふさま
-    singer_name_ruby: あいてつふ
-    song_variation:
-    - esong_code: 1589B38
-      song_name: Sign of summer
-      content_type: ''
   - song_name: シフォンブルーのカーテン
     song_alias:
     esong_code: 1622B11
@@ -60,23 +26,6 @@ result:
       content_type: ''
   - song_name: 下北半島
     song_alias:
-    esong_code: 1580A2
-    t_singer_master_id: '2183'
-    singer_name: 真木 柚布子(由布子)
-    singer_alias:
-    available_date: '2006-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しもきたはんとう
-    singer_name_ruby: まきゆうこ
-    song_variation:
-    - esong_code: 1580A2
-      song_name: 下北半島
-      content_type: ''
-  - song_name: 下北半島
-    song_alias:
     esong_code: 1581A20
     t_singer_master_id: '2183'
     singer_name: 真木 柚布子(由布子)
@@ -92,23 +41,23 @@ result:
     - esong_code: 1581A20
       song_name: 下北半島
       content_type: DAM生音
-  - song_name: 下津井・お滝・まだかな橋
+  - song_name: 下北半島
     song_alias:
-    esong_code: 1581A15
-    t_singer_master_id: '1655'
-    singer_name: 中村 美律子
+    esong_code: 1580A2
+    t_singer_master_id: '2183'
+    singer_name: 真木 柚布子(由布子)
     singer_alias:
-    available_date: '2006-08-09'
+    available_date: '2006-08-23'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: しもついおたきまた
-    singer_name_ruby: なかむらみつこ
+    content_type:
+    song_name_ruby: しもきたはんとう
+    singer_name_ruby: まきゆうこ
     song_variation:
-    - esong_code: 1581A15
-      song_name: 下津井・お滝・まだかな橋
-      content_type: DAM生音
+    - esong_code: 1580A2
+      song_name: 下北半島
+      content_type: ''
   - song_name: 下津井・お滝・まだかな橋
     song_alias:
     esong_code: 1579B48
@@ -126,6 +75,23 @@ result:
     - esong_code: 1579B48
       song_name: 下津井・お滝・まだかな橋
       content_type: ''
+  - song_name: 下津井・お滝・まだかな橋
+    song_alias:
+    esong_code: 1581A15
+    t_singer_master_id: '1655'
+    singer_name: 中村 美律子
+    singer_alias:
+    available_date: '2006-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: しもついおたきまた
+    singer_name_ruby: なかむらみつこ
+    song_variation:
+    - esong_code: 1581A15
+      song_name: 下津井・お滝・まだかな橋
+      content_type: DAM生音
   - song_name: ジャイアニズム痛 〜生涯皆殺し〜
     song_alias:
     esong_code: 1590A27
@@ -298,23 +264,6 @@ result:
       content_type: ''
   - song_name: SHAMROCK
     song_alias:
-    esong_code: 1581B43
-    t_singer_master_id: '23642'
-    singer_name: UVERworld
-    singer_alias:
-    available_date: '2006-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: しやむろつく
-    singer_name_ruby: うはわると
-    song_variation:
-    - esong_code: 1581B43
-      song_name: SHAMROCK
-      content_type: DAM良音
-  - song_name: SHAMROCK
-    song_alias:
     esong_code: 1580B13
     t_singer_master_id: '23642'
     singer_name: UVERworld
@@ -330,6 +279,23 @@ result:
     - esong_code: 1580B13
       song_name: SHAMROCK
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: SHAMROCK
+    song_alias:
+    esong_code: 1581B43
+    t_singer_master_id: '23642'
+    singer_name: UVERworld
+    singer_alias:
+    available_date: '2006-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: しやむろつく
+    singer_name_ruby: うはわると
+    song_variation:
+    - esong_code: 1581B43
+      song_name: SHAMROCK
+      content_type: DAM良音
   - song_name: 洒落こうべ
     song_alias:
     esong_code: 1607B16
@@ -517,3 +483,37 @@ result:
     - esong_code: 1514A14
       song_name: 湘南物語
       content_type: ''
+  - song_name: 少年の夢
+    song_alias:
+    esong_code: 1640B38
+    t_singer_master_id: '25415'
+    singer_name: タイナカ サチ
+    singer_alias:
+    available_date: '2006-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようねんのゆめ
+    singer_name_ruby: たいなかさち
+    song_variation:
+    - esong_code: 1640B38
+      song_name: 少年の夢
+      content_type: ''
+  - song_name: 勝利の花びら
+    song_alias:
+    esong_code: 1581B2
+    t_singer_master_id: '25924'
+    singer_name: チナッチャブル
+    singer_alias:
+    available_date: '2006-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ケロロ軍曹<番組名>
+    country_code: '0'
+    content_type: JOYうたいり
+    song_name_ruby: しようりのはなひら
+    singer_name_ruby: ちなつちやふる
+    song_variation:
+    - esong_code: 1581B2
+      song_name: 勝利の花びら
+      content_type: JOYうたいり

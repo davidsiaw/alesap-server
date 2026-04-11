@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
   - song_name: 花山哀歌
     song_alias:
@@ -304,23 +304,6 @@ result:
       content_type: ''
   - song_name: Hello&Goodbye (Japanese ver.)
     song_alias:
-    esong_code: 2935B14
-    t_singer_master_id: '45422'
-    singer_name: MYNAME
-    singer_alias:
-    available_date: '2012-11-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: はろあんとくつ
-    singer_name_ruby: まいねむ
-    song_variation:
-    - esong_code: 2935B14
-      song_name: Hello&Goodbye (Japanese ver.)
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Hello&Goodbye (Japanese ver.)
-    song_alias:
     esong_code: 2935A34
     t_singer_master_id: '45422'
     singer_name: MYNAME
@@ -336,6 +319,23 @@ result:
     - esong_code: 2935A34
       song_name: Hello&Goodbye (Japanese ver.)
       content_type: ''
+  - song_name: Hello&Goodbye (Japanese ver.)
+    song_alias:
+    esong_code: 2935B14
+    t_singer_master_id: '45422'
+    singer_name: MYNAME
+    singer_alias:
+    available_date: '2012-11-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: はろあんとくつ
+    singer_name_ruby: まいねむ
+    song_variation:
+    - esong_code: 2935B14
+      song_name: Hello&Goodbye (Japanese ver.)
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: ハロウィン音頭
     song_alias:
     esong_code: 2941B37

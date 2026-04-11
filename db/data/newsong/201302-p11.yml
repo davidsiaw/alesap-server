@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
   - song_name: 君は友達
     song_alias:
@@ -64,7 +64,7 @@ result:
     t_singer_master_id: '47261'
     singer_name: ピーベリー(ハロー!プロジェクト)
     singer_alias:
-    available_date: '2013-02-26'
+    available_date: '2013-02-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -183,7 +183,7 @@ result:
     t_singer_master_id: '10507'
     singer_name: 氷川 きよし
     singer_alias:
-    available_date: '2013-02-12'
+    available_date: '2013-02-13'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -449,23 +449,6 @@ result:
     - esong_code: 2977B36
       song_name: クマンバチ
       content_type: ''
-  - song_name: CLOUDY HEART (GIGS at BUDOKAN ver.)[DAM本人歌唱]
-    song_alias:
-    esong_code: 2985A30
-    t_singer_master_id: '2132'
-    singer_name: BOφWY
-    singer_alias:
-    available_date: '2013-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: くらうていはと
-    singer_name_ruby: ほうい
-    song_variation:
-    - esong_code: 2985A30
-      song_name: CLOUDY HEART (GIGS at BUDOKAN ver.)[DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: CLOUDY HEART (GIGS at BUDOKAN ver.)
     song_alias:
     esong_code: 2984B21
@@ -483,6 +466,23 @@ result:
     - esong_code: 2984B21
       song_name: CLOUDY HEART (GIGS at BUDOKAN ver.)
       content_type: DAMﾗｲﾌﾞ
+  - song_name: CLOUDY HEART (GIGS at BUDOKAN ver.)[DAM本人歌唱]
+    song_alias:
+    esong_code: 2985A30
+    t_singer_master_id: '2132'
+    singer_name: BOφWY
+    singer_alias:
+    available_date: '2013-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: くらうていはと
+    singer_name_ruby: ほうい
+    song_variation:
+    - esong_code: 2985A30
+      song_name: CLOUDY HEART (GIGS at BUDOKAN ver.)[DAM本人歌唱]
+      content_type: DAM本人歌唱
   - song_name: cloud feat.鏡音リン
     song_alias:
     esong_code: 2988B49

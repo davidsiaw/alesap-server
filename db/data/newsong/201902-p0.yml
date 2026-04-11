@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1550
-  all_country_cnt: 1338
+  max_cnt: 1320
+  all_max_cnt: 1532
+  all_country_cnt: 1320
   song:
   - song_name: I AM A HERO
     song_alias:
@@ -77,23 +77,6 @@ result:
       content_type: ''
   - song_name: Eye of the Storm
     song_alias:
-    esong_code: 4150B26
-    t_singer_master_id: '28360'
-    singer_name: ONE OK ROCK
-    singer_alias:
-    available_date: '2019-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいおふさすと
-    singer_name_ruby: わんおくろつく
-    song_variation:
-    - esong_code: 4150B26
-      song_name: Eye of the Storm
-      content_type: ''
-  - song_name: Eye of the Storm
-    song_alias:
     esong_code: 4142A19
     t_singer_master_id: '63332'
     singer_name: ミュージカル「美少女戦士セーラームーン」
@@ -107,6 +90,23 @@ result:
     singer_name_ruby: みゆしかるひしようしよせんしせ
     song_variation:
     - esong_code: 4142A19
+      song_name: Eye of the Storm
+      content_type: ''
+  - song_name: Eye of the Storm
+    song_alias:
+    esong_code: 4150B26
+    t_singer_master_id: '28360'
+    singer_name: ONE OK ROCK
+    singer_alias:
+    available_date: '2019-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいおふさすと
+    singer_name_ruby: わんおくろつく
+    song_variation:
+    - esong_code: 4150B26
       song_name: Eye of the Storm
       content_type: ''
   - song_name: 愛があれば
@@ -128,23 +128,6 @@ result:
       content_type: VOCALOID
   - song_name: あいことば
     song_alias:
-    esong_code: 4124A28
-    t_singer_master_id: '25245'
-    singer_name: 絢香
-    singer_alias:
-    available_date: '2019-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あいことは
-    singer_name_ruby: あやか
-    song_variation:
-    - esong_code: 4124A28
-      song_name: あいことば
-      content_type: DAM生音
-  - song_name: あいことば
-    song_alias:
     esong_code: 4143A17
     t_singer_master_id: '25245'
     singer_name: 絢香
@@ -160,6 +143,23 @@ result:
     - esong_code: 4143A17
       song_name: あいことば
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: あいことば
+    song_alias:
+    esong_code: 4124A28
+    t_singer_master_id: '25245'
+    singer_name: 絢香
+    singer_alias:
+    available_date: '2019-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あいことは
+    singer_name_ruby: あやか
+    song_variation:
+    - esong_code: 4124A28
+      song_name: あいことば
+      content_type: DAM生音
   - song_name: 愛したい奥まで
     song_alias:
     esong_code: 4140B39
@@ -296,23 +296,6 @@ result:
     - esong_code: 4139A8
       song_name: アイソレイション
       content_type: ''
-  - song_name: I don't know (オリカラ)
-    song_alias:
-    esong_code: 4142A45
-    t_singer_master_id: '2997'
-    singer_name: THE YELLOW MONKEY
-    singer_alias:
-    available_date: '2019-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あいとんとのう
-    singer_name_ruby: さいえろもんき
-    song_variation:
-    - esong_code: 4142A45
-      song_name: I don't know (オリカラ)
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: I don't know
     song_alias:
     esong_code: 4140B15
@@ -330,6 +313,23 @@ result:
     - esong_code: 4140B15
       song_name: I don't know
       content_type: ''
+  - song_name: I don't know (オリカラ)
+    song_alias:
+    esong_code: 4142A45
+    t_singer_master_id: '2997'
+    singer_name: THE YELLOW MONKEY
+    singer_alias:
+    available_date: '2019-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あいとんとのう
+    singer_name_ruby: さいえろもんき
+    song_variation:
+    - esong_code: 4142A45
+      song_name: I don't know (オリカラ)
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 愛なんてジャンク!
     song_alias:
     esong_code: 4150A25

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1527
-  all_country_cnt: 1321
+  max_cnt: 1310
+  all_max_cnt: 1516
+  all_country_cnt: 1310
   song:
-  - song_name: 風と踊る
-    song_alias:
-    esong_code: 1987B45
-    t_singer_master_id: '180'
-    singer_name: 石川 セリ
-    singer_alias:
-    available_date: '2016-05-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせとおとる
-    singer_name_ruby: いしかわせり
-    song_variation:
-    - esong_code: 1987B45
-      song_name: 風と踊る
-      content_type: ''
-  - song_name: 風のあたる場所
-    song_alias:
-    esong_code: 2086B29
-    t_singer_master_id: '1400'
-    singer_name: 谷山 浩子
-    singer_alias:
-    available_date: '2016-05-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせのあたるはし
-    singer_name_ruby: たにやまひろこ
-    song_variation:
-    - esong_code: 2086B29
-      song_name: 風のあたる場所
-      content_type: ''
   - song_name: 風の色
     song_alias:
     esong_code: 3625A15
@@ -517,3 +483,37 @@ result:
     - esong_code: 3626B40
       song_name: カラフルワールド
       content_type: ''
+  - song_name: 狩りたかった
+    song_alias:
+    esong_code: 3625A13
+    t_singer_master_id: '55944'
+    singer_name: ANM48
+    singer_alias:
+    available_date: '2016-05-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: モンスター娘のいる日常<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かりたかつた
+    singer_name_ruby: ええぬえむふおていえいと
+    song_variation:
+    - esong_code: 3625A13
+      song_name: 狩りたかった
+      content_type: ''
+  - song_name: ガールフレンド・イン・ブルー feat.鏡音リン
+    song_alias:
+    esong_code: 3351A45
+    t_singer_master_id: '43140'
+    singer_name: 烏屋茶房(カラスヤサボウ)
+    singer_alias:
+    available_date: '2016-05-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: かるふれんとい
+    singer_name_ruby: からすやさほう
+    song_variation:
+    - esong_code: 3351A45
+      song_name: ガールフレンド・イン・ブルー feat.鏡音リン
+      content_type: VOCALOID

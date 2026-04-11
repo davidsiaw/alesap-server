@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1198
-  all_max_cnt: 1367
-  all_country_cnt: 1198
+  max_cnt: 1194
+  all_max_cnt: 1363
+  all_country_cnt: 1194
   song:
-  - song_name: 雨の信濃路
-    song_alias:
-    esong_code: 3810A40
-    t_singer_master_id: '19053'
-    singer_name: 森山 愛子
-    singer_alias:
-    available_date: '2018-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あめのしなのし
-    singer_name_ruby: もりやまあいこ
-    song_variation:
-    - esong_code: 3810A40
-      song_name: 雨の信濃路
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 雨の日も風の日も
     song_alias:
     esong_code: 4039B36
@@ -128,9 +111,43 @@ result:
       content_type: ''
   - song_name: ありがとう
     song_alias:
-    esong_code: 4052B29
-    t_singer_master_id: '62193'
-    singer_name: 大山 太徳
+    esong_code: 4040B25
+    t_singer_master_id: '10230'
+    singer_name: 小野寺 陽介
+    singer_alias:
+    available_date: '2018-08-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: おのてらようすけ
+    song_variation:
+    - esong_code: 4040B25
+      song_name: ありがとう
+      content_type: ''
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 4039A26
+    t_singer_master_id: '62061'
+    singer_name: seta
+    singer_alias:
+    available_date: '2018-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: せた
+    song_variation:
+    - esong_code: 4039A26
+      song_name: ありがとう
+      content_type: ''
+  - song_name: "「ありがとう」"
+    song_alias:
+    esong_code: 4053B22
+    t_singer_master_id: '62211'
+    singer_name: まゆみゆ
     singer_alias:
     available_date: '2018-08-28'
     end_date: '2999-04-10 00:00:00'
@@ -138,10 +155,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: ありかとう
-    singer_name_ruby: おおやまたかのり
+    singer_name_ruby: まゆみゆ
     song_variation:
-    - esong_code: 4052B29
-      song_name: ありがとう
+    - esong_code: 4053B22
+      song_name: "「ありがとう」"
       content_type: ''
   - song_name: ありがとう
     song_alias:
@@ -162,43 +179,9 @@ result:
       content_type: ''
   - song_name: ありがとう
     song_alias:
-    esong_code: 4039A26
-    t_singer_master_id: '62061'
-    singer_name: seta
-    singer_alias:
-    available_date: '2018-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: せた
-    song_variation:
-    - esong_code: 4039A26
-      song_name: ありがとう
-      content_type: ''
-  - song_name: ありがとう
-    song_alias:
-    esong_code: 4040B25
-    t_singer_master_id: '10230'
-    singer_name: 小野寺 陽介
-    singer_alias:
-    available_date: '2018-08-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: おのてらようすけ
-    song_variation:
-    - esong_code: 4040B25
-      song_name: ありがとう
-      content_type: ''
-  - song_name: "「ありがとう」"
-    song_alias:
-    esong_code: 4053B22
-    t_singer_master_id: '62211'
-    singer_name: まゆみゆ
+    esong_code: 4052B29
+    t_singer_master_id: '62193'
+    singer_name: 大山 太徳
     singer_alias:
     available_date: '2018-08-28'
     end_date: '2999-04-10 00:00:00'
@@ -206,10 +189,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: ありかとう
-    singer_name_ruby: まゆみゆ
+    singer_name_ruby: おおやまたかのり
     song_variation:
-    - esong_code: 4053B22
-      song_name: "「ありがとう」"
+    - esong_code: 4052B29
+      song_name: ありがとう
       content_type: ''
   - song_name: A Little Love
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 4043A41
       song_name: 伊豆しぐれ
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: いちばん好きな場所
+    song_alias:
+    esong_code: 4048B4
+    t_singer_master_id: '22748'
+    singer_name: シド
+    singer_alias:
+    available_date: '2018-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いちはんすきなは
+    singer_name_ruby: しと
+    song_variation:
+    - esong_code: 4048B4
+      song_name: いちばん好きな場所
+      content_type: ''

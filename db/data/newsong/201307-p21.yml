@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
-  - song_name: 桟橋みれん
-    song_alias:
-    esong_code: 3087A45
-    t_singer_master_id: '46896'
-    singer_name: 大川 彩音
-    singer_alias:
-    available_date: '2013-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さんはしみれん
-    singer_name_ruby: おおかわあやね
-    song_variation:
-    - esong_code: 3087A45
-      song_name: 桟橋みれん
-      content_type: ''
   - song_name: 365の奇跡
     song_alias:
     esong_code: 3068A28
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2407B4
       song_name: 忍び川
+      content_type: ''
+  - song_name: しのぶ酒
+    song_alias:
+    esong_code: 3080B15
+    t_singer_master_id: '26414'
+    singer_name: 山本 あき
+    singer_alias:
+    available_date: '2013-07-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しのふさけ
+    singer_name_ruby: やまもとあき
+    song_variation:
+    - esong_code: 3080B15
+      song_name: しのぶ酒
       content_type: ''

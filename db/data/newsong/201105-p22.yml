@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1117
-  all_max_cnt: 1222
-  all_country_cnt: 1117
+  max_cnt: 1113
+  all_max_cnt: 1218
+  all_country_cnt: 1113
   song:
-  - song_name: トランスレディ
-    song_alias:
-    esong_code: 975B47
-    t_singer_master_id: '490'
-    singer_name: 甲斐 よしひろ
-    singer_alias:
-    available_date: '2011-05-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とらんすれてい
-    singer_name_ruby: かいよしひろ
-    song_variation:
-    - esong_code: 975B47
-      song_name: トランスレディ
-      content_type: ''
   - song_name: Dreams (土岐遠カスミ)
     song_alias:
     esong_code: 897B41
@@ -49,7 +32,7 @@ result:
     singer_alias:
     available_date: '2011-05-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ(TV版)<番組名>
+    tie_up: 探偵オペラ ミルキィホームズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とりむのうないて
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1364A22
       song_name: 名も無い花のように
+      content_type: ''
+  - song_name: 名もなき道
+    song_alias:
+    esong_code: 1644B45
+    t_singer_master_id: '35403'
+    singer_name: DaizyStripper
+    singer_alias:
+    available_date: '2011-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なもなきみち
+    singer_name_ruby: ていしすとりつは
+    song_variation:
+    - esong_code: 1644B45
+      song_name: 名もなき道
       content_type: ''

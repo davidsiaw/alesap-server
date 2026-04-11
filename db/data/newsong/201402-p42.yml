@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: MISSING
-    song_alias:
-    esong_code: 3200B41
-    t_singer_master_id: '30910'
-    singer_name: SuG
-    singer_alias:
-    available_date: '2014-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みつしんく
-    singer_name_ruby: さく
-    song_variation:
-    - esong_code: 3200B41
-      song_name: MISSING
-      content_type: ''
   - song_name: Missing You
     song_alias:
     esong_code: 3198B23
@@ -228,23 +211,6 @@ result:
     - esong_code: 3206B24
       song_name: 未来への種
       content_type: ''
-  - song_name: Miracle
-    song_alias:
-    esong_code: 3201A33
-    t_singer_master_id: '31888'
-    singer_name: 藤田 咲
-    singer_alias:
-    available_date: '2014-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 蒼き鋼のアルペジオ -アルス・ノヴァ-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: みらくる
-    singer_name_ruby: ふしたさき
-    song_variation:
-    - esong_code: 3201A33
-      song_name: Miracle
-      content_type: ''
   - song_name: MIRACLE
     song_alias:
     esong_code: 3202B13
@@ -261,6 +227,23 @@ result:
     song_variation:
     - esong_code: 3202B13
       song_name: MIRACLE
+      content_type: ''
+  - song_name: Miracle
+    song_alias:
+    esong_code: 3201A33
+    t_singer_master_id: '31888'
+    singer_name: 藤田 咲
+    singer_alias:
+    available_date: '2014-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 蒼き鋼のアルペジオ -アルス・ノヴァ-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: みらくる
+    singer_name_ruby: ふしたさき
+    song_variation:
+    - esong_code: 3201A33
+      song_name: Miracle
       content_type: ''
   - song_name: みれん酒場
     song_alias:
@@ -485,23 +468,6 @@ result:
       content_type: DAM生音
   - song_name: 夫婦鶴
     song_alias:
-    esong_code: 3197B2
-    t_singer_master_id: '38631'
-    singer_name: 菊地 まどか
-    singer_alias:
-    available_date: '2014-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: めおとつる
-    singer_name_ruby: きくちまとか
-    song_variation:
-    - esong_code: 3197B2
-      song_name: 夫婦鶴
-      content_type: DAM生音
-  - song_name: 夫婦鶴
-    song_alias:
     esong_code: 3197B30
     t_singer_master_id: '38631'
     singer_name: 菊地 まどか
@@ -517,3 +483,37 @@ result:
     - esong_code: 3197B30
       song_name: 夫婦鶴
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 夫婦鶴
+    song_alias:
+    esong_code: 3197B2
+    t_singer_master_id: '38631'
+    singer_name: 菊地 まどか
+    singer_alias:
+    available_date: '2014-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: めおとつる
+    singer_name_ruby: きくちまとか
+    song_variation:
+    - esong_code: 3197B2
+      song_name: 夫婦鶴
+      content_type: DAM生音
+  - song_name: めおと道
+    song_alias:
+    esong_code: 3029B44
+    t_singer_master_id: '533'
+    singer_name: 桂 竜士
+    singer_alias:
+    available_date: '2014-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めおとみち
+    singer_name_ruby: かつらりゆうし
+    song_variation:
+    - esong_code: 3029B44
+      song_name: めおと道
+      content_type: ''

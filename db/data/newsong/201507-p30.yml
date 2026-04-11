@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
-  - song_name: ハイテンションサラリーマン
-    song_alias:
-    esong_code: 3465A28
-    t_singer_master_id: '53824'
-    singer_name: 片桐 仁
-    singer_alias:
-    available_date: '2015-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: シャキーン!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はいてんしよんさらり
-    singer_name_ruby: かたきりしん
-    song_variation:
-    - esong_code: 3465A28
-      song_name: ハイテンションサラリーマン
-      content_type: ''
   - song_name: BYE×BYE
     song_alias:
     esong_code: 3469B18
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3468A38
       song_name: Birds Stop Twittering Tonight
+      content_type: ''
+  - song_name: ハートの交換
+    song_alias:
+    esong_code: 3460B11
+    t_singer_master_id: '53749'
+    singer_name: ヤンチャン学園音楽部
+    singer_alias:
+    available_date: '2015-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はとのこうかん
+    singer_name_ruby: やんちやんかくえんおんかくふ
+    song_variation:
+    - esong_code: 3460B11
+      song_name: ハートの交換
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1176
-  all_max_cnt: 1313
-  all_country_cnt: 1176
+  max_cnt: 1175
+  all_max_cnt: 1312
+  all_country_cnt: 1175
   song:
-  - song_name: レクイエム・オブ・レッド
-    song_alias:
-    esong_code: 3099A29
-    t_singer_master_id: '48628'
-    singer_name: 堀江 由衣&赤のクランズマン
-    singer_alias:
-    available_date: '2013-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: K<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: れくいえむおふれつ
-    singer_name_ruby: ほりえゆいあんとあかのく
-    song_variation:
-    - esong_code: 3099A29
-      song_name: レクイエム・オブ・レッド
-      content_type: ''
   - song_name: resolution
     song_alias:
     esong_code: 3085B40
@@ -370,7 +353,7 @@ result:
     t_singer_master_id: '8409'
     singer_name: モーニング娘。
     singer_alias:
-    available_date: '2013-08-27'
+    available_date: '2013-08-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -438,7 +421,7 @@ result:
     t_singer_master_id: '48604'
     singer_name: 鈴木このみ n' キバオブアキバ
     singer_alias:
-    available_date: '2013-08-27'
+    available_date: '2013-08-28'
     end_date: '2999-04-10 00:00:00'
     tie_up: 私がモテないのはどう考えてもお前らが悪い!<番組名>
     country_code: '0'
@@ -517,3 +500,20 @@ result:
     - esong_code: 3097A33
       song_name: World on Color feat.初音ミク
       content_type: VOCALOID
+  - song_name: 吾亦紅
+    song_alias:
+    esong_code: 3085B17
+    t_singer_master_id: '14143'
+    singer_name: 中田 久美
+    singer_alias:
+    available_date: '2013-08-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: われもこう
+    singer_name_ruby: なかたくみ
+    song_variation:
+    - esong_code: 3085B17
+      song_name: 吾亦紅
+      content_type: ''

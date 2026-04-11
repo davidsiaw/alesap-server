@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1359
-  all_max_cnt: 1522
-  all_country_cnt: 1359
+  max_cnt: 1356
+  all_max_cnt: 1519
+  all_country_cnt: 1356
   song:
-  - song_name: 雫の冠
-    song_alias:
-    esong_code: 3914B47
-    t_singer_master_id: '49958'
-    singer_name: Wake Up,Girls!
-    singer_alias:
-    available_date: '2017-11-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Wake Up,Girls!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しすくのかんむり
-    singer_name_ruby: うえいくあつふかるす
-    song_variation:
-    - esong_code: 3914B47
-      song_name: 雫の冠
-      content_type: ''
   - song_name: Seize the day
     song_alias:
     esong_code: 3902A28
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3904A1
       song_name: SUGA SWEET
+      content_type: ''
+  - song_name: 春雷
+    song_alias:
+    esong_code: 3902B2
+    t_singer_master_id: '44604'
+    singer_name: 米津玄師(ハチ)
+    singer_alias:
+    available_date: '2017-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆんらい
+    singer_name_ruby: よねつけんし
+    song_variation:
+    - esong_code: 3902B2
+      song_name: 春雷
       content_type: ''

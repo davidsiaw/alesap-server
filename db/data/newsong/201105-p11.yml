@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1117
-  all_max_cnt: 1222
-  all_country_cnt: 1117
+  max_cnt: 1113
+  all_max_cnt: 1218
+  all_country_cnt: 1113
   song:
   - song_name: クローバー feat.鏡音リン
     song_alias:
@@ -162,23 +162,6 @@ result:
       content_type: ''
   - song_name: CORE PRIDE
     song_alias:
-    esong_code: 1371B25
-    t_singer_master_id: '23642'
-    singer_name: UVERworld
-    singer_alias:
-    available_date: '2011-05-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 青の祓魔師<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こあふらいと
-    singer_name_ruby: うはわると
-    song_variation:
-    - esong_code: 1371B25
-      song_name: CORE PRIDE
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: CORE PRIDE
-    song_alias:
     esong_code: 1396A4
     t_singer_master_id: '23642'
     singer_name: UVERworld
@@ -194,6 +177,23 @@ result:
     - esong_code: 1396A4
       song_name: CORE PRIDE
       content_type: ''
+  - song_name: CORE PRIDE
+    song_alias:
+    esong_code: 1371B25
+    t_singer_master_id: '23642'
+    singer_name: UVERworld
+    singer_alias:
+    available_date: '2011-05-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 青の祓魔師<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: こあふらいと
+    singer_name_ruby: うはわると
+    song_variation:
+    - esong_code: 1371B25
+      song_name: CORE PRIDE
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 恋が散る
     song_alias:
     esong_code: 1394B36
@@ -330,11 +330,11 @@ result:
     - esong_code: 1036B26
       song_name: 恋のシャンソン人形
       content_type: ''
-  - song_name: コイノシルシ from Ayumi
+  - song_name: コイノシルシ from Mio
     song_alias:
-    esong_code: 919B44
-    t_singer_master_id: '37552'
-    singer_name: 竹達 彩奈
+    esong_code: 944B49
+    t_singer_master_id: '40483'
+    singer_name: 悠木 碧
     singer_alias:
     available_date: '2011-05-17'
     end_date: '2999-04-10 00:00:00'
@@ -342,10 +342,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: こいのしるし
-    singer_name_ruby: たけたつあやな
+    singer_name_ruby: ゆうきあおい
     song_variation:
-    - esong_code: 919B44
-      song_name: コイノシルシ from Ayumi
+    - esong_code: 944B49
+      song_name: コイノシルシ from Mio
       content_type: ''
   - song_name: コイノシルシ from Elsie
     song_alias:
@@ -364,23 +364,6 @@ result:
     - esong_code: 940B28
       song_name: コイノシルシ from Elsie
       content_type: ''
-  - song_name: コイノシルシ from Kanon
-    song_alias:
-    esong_code: 913A6
-    t_singer_master_id: '41695'
-    singer_name: 東山 奈央
-    singer_alias:
-    available_date: '2011-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいのしるし
-    singer_name_ruby: とうやまなお
-    song_variation:
-    - esong_code: 913A6
-      song_name: コイノシルシ from Kanon
-      content_type: ''
   - song_name: コイノシルシ from Shiori
     song_alias:
     esong_code: 935A41
@@ -398,11 +381,11 @@ result:
     - esong_code: 935A41
       song_name: コイノシルシ from Shiori
       content_type: ''
-  - song_name: コイノシルシ from Mio
+  - song_name: コイノシルシ from Ayumi
     song_alias:
-    esong_code: 944B49
-    t_singer_master_id: '40483'
-    singer_name: 悠木 碧
+    esong_code: 919B44
+    t_singer_master_id: '37552'
+    singer_name: 竹達 彩奈
     singer_alias:
     available_date: '2011-05-17'
     end_date: '2999-04-10 00:00:00'
@@ -410,10 +393,44 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: こいのしるし
-    singer_name_ruby: ゆうきあおい
+    singer_name_ruby: たけたつあやな
     song_variation:
-    - esong_code: 944B49
-      song_name: コイノシルシ from Mio
+    - esong_code: 919B44
+      song_name: コイノシルシ from Ayumi
+      content_type: ''
+  - song_name: コイノシルシ from Kanon
+    song_alias:
+    esong_code: 913A6
+    t_singer_master_id: '41695'
+    singer_name: 東山 奈央
+    singer_alias:
+    available_date: '2011-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 神のみぞ知るセカイ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのしるし
+    singer_name_ruby: とうやまなお
+    song_variation:
+    - esong_code: 913A6
+      song_name: コイノシルシ from Kanon
+      content_type: ''
+  - song_name: 恋のスーパーボール
+    song_alias:
+    esong_code: 1374A10
+    t_singer_master_id: '8782'
+    singer_name: aiko
+    singer_alias:
+    available_date: '2011-05-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのすはほ
+    singer_name_ruby: あいこ
+    song_variation:
+    - esong_code: 1374A10
+      song_name: 恋のスーパーボール
       content_type: ''
   - song_name: 恋のスーパーボール
     song_alias:
@@ -432,23 +449,6 @@ result:
     - esong_code: 1371B24
       song_name: 恋のスーパーボール
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 恋のスーパーボール
-    song_alias:
-    esong_code: 1374A10
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '2011-05-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいのすはほ
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 1374A10
-      song_name: 恋のスーパーボール
-      content_type: ''
   - song_name: 恋の調査報告書
     song_alias:
     esong_code: 989A36

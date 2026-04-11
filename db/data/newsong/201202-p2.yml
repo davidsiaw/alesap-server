@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: あなたがいてくれるから
-    song_alias:
-    esong_code: 2750A24
-    t_singer_master_id: '27852'
-    singer_name: Zero
-    singer_alias:
-    available_date: '2012-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたかいてくれる
-    singer_name_ruby: せろ
-    song_variation:
-    - esong_code: 2750A24
-      song_name: あなたがいてくれるから
-      content_type: ''
   - song_name: あなたが帰る港町
     song_alias:
     esong_code: 2762A17
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2758A40
       song_name: アメーバダンス
+      content_type: ''
+  - song_name: あや子のお国自慢だよ 〜がんばろな東北!!〜
+    song_alias:
+    esong_code: 2765A18
+    t_singer_master_id: '1994'
+    singer_name: 藤 あや子
+    singer_alias:
+    available_date: '2012-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あやこのおくにしま
+    singer_name_ruby: ふしあやこ
+    song_variation:
+    - esong_code: 2765A18
+      song_name: あや子のお国自慢だよ 〜がんばろな東北!!〜
       content_type: ''

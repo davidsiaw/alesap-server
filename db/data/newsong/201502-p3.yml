@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
   - song_name: 雨降橋
     song_alias:
@@ -298,23 +298,6 @@ result:
       content_type: ''
   - song_name: いくじなし
     song_alias:
-    esong_code: 1227B17
-    t_singer_master_id: '10086'
-    singer_name: 山崎 ていじ(山崎悌史)
-    singer_alias:
-    available_date: '2015-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: いくしなし
-    singer_name_ruby: やまさきていし
-    song_variation:
-    - esong_code: 1227B17
-      song_name: いくじなし
-      content_type: DAM生音
-  - song_name: いくじなし
-    song_alias:
     esong_code: 1227A44
     t_singer_master_id: '10086'
     singer_name: 山崎 ていじ(山崎悌史)
@@ -330,6 +313,23 @@ result:
     - esong_code: 1227A44
       song_name: いくじなし
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: いくじなし
+    song_alias:
+    esong_code: 1227B17
+    t_singer_master_id: '10086'
+    singer_name: 山崎 ていじ(山崎悌史)
+    singer_alias:
+    available_date: '2015-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: いくしなし
+    singer_name_ruby: やまさきていし
+    song_variation:
+    - esong_code: 1227B17
+      song_name: いくじなし
+      content_type: DAM生音
   - song_name: いくぞ!エアロボ
     song_alias:
     esong_code: 3393B4

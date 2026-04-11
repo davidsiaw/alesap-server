@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 872
-  all_max_cnt: 940
-  all_country_cnt: 872
+  max_cnt: 855
+  all_max_cnt: 923
+  all_country_cnt: 855
   song:
-  - song_name: 哀れに踊るは命の定め
-    song_alias:
-    esong_code: 4479B21
-    t_singer_master_id: '2870'
-    singer_name: 緒方 恵美
-    singer_alias:
-    available_date: '2021-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アクダマドライブ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あわれにおとるはい
-    singer_name_ruby: おかためくみ
-    song_variation:
-    - esong_code: 4479B21
-      song_name: 哀れに踊るは命の定め
-      content_type: ''
   - song_name: Answers
     song_alias:
     esong_code: 4483B31
@@ -43,23 +26,6 @@ result:
       content_type: ''
   - song_name: あんずの夕陽に染まる街 〜ニューバージョン〜
     song_alias:
-    esong_code: 4483B2
-    t_singer_master_id: '1655'
-    singer_name: 中村 美律子
-    singer_alias:
-    available_date: '2021-03-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あんすのゆうひにそ
-    singer_name_ruby: なかむらみつこ
-    song_variation:
-    - esong_code: 4483B2
-      song_name: あんずの夕陽に染まる街 〜ニューバージョン〜
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: あんずの夕陽に染まる街 〜ニューバージョン〜
-    song_alias:
     esong_code: 4480B49
     t_singer_master_id: '1655'
     singer_name: 中村 美律子
@@ -75,6 +41,23 @@ result:
     - esong_code: 4480B49
       song_name: あんずの夕陽に染まる街 〜ニューバージョン〜
       content_type: DAM生音
+  - song_name: あんずの夕陽に染まる街 〜ニューバージョン〜
+    song_alias:
+    esong_code: 4483B2
+    t_singer_master_id: '1655'
+    singer_name: 中村 美律子
+    singer_alias:
+    available_date: '2021-03-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あんすのゆうひにそ
+    singer_name_ruby: なかむらみつこ
+    song_variation:
+    - esong_code: 4483B2
+      song_name: あんずの夕陽に染まる街 〜ニューバージョン〜
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: アンデスの風になりたい
     song_alias:
     esong_code: 4479B11
@@ -325,7 +308,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: いつつとりつき
-    singer_name_ruby: RUNDMC
+    singer_name_ruby: らんていえむし
     song_variation:
     - esong_code: 4484A43
       song_name: It's Tricky
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4422B3
       song_name: いのちの人よ
+      content_type: ''
+  - song_name: 命道
+    song_alias:
+    esong_code: 4079A24
+    t_singer_master_id: '67608'
+    singer_name: 熱田 正行
+    singer_alias:
+    available_date: '2021-03-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのちみち
+    singer_name_ruby: あつたまさゆき
+    song_variation:
+    - esong_code: 4079A24
+      song_name: 命道
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1452
-  all_max_cnt: 1626
-  all_country_cnt: 1452
+  max_cnt: 1445
+  all_max_cnt: 1619
+  all_country_cnt: 1445
   song:
-  - song_name: 傷つくダイヤモンド
-    song_alias:
-    esong_code: 4024A45
-    t_singer_master_id: '45687'
-    singer_name: 沢田 正人
-    singer_alias:
-    available_date: '2018-07-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすつくたいやも
-    singer_name_ruby: さわたまさと
-    song_variation:
-    - esong_code: 4024A45
-      song_name: 傷つくダイヤモンド
-      content_type: ''
-  - song_name: Kizuna
-    song_alias:
-    esong_code: 4036A1
-    t_singer_master_id: '61431'
-    singer_name: 刀剣男士 formation of つはもの
-    singer_alias:
-    available_date: '2018-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 刀剣乱舞(ミュージカル)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: とうけんたんしふおめしよんおふつ
-    song_variation:
-    - esong_code: 4036A1
-      song_name: Kizuna
-      content_type: ''
   - song_name: 絆海峡
     song_alias:
     esong_code: 237B45
@@ -451,23 +417,6 @@ result:
       content_type: ''
   - song_name: 逆転ラバーズ
     song_alias:
-    esong_code: 4030B15
-    t_singer_master_id: '61928'
-    singer_name: KEN☆Tackey
-    singer_alias:
-    available_date: '2018-07-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやくてんらは
-    singer_name_ruby: けんたつき
-    song_variation:
-    - esong_code: 4030B15
-      song_name: 逆転ラバーズ
-      content_type: ''
-  - song_name: 逆転ラバーズ
-    song_alias:
     esong_code: 4024B25
     t_singer_master_id: '61928'
     singer_name: KEN☆Tackey
@@ -483,6 +432,23 @@ result:
     - esong_code: 4024B25
       song_name: 逆転ラバーズ
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 逆転ラバーズ
+    song_alias:
+    esong_code: 4030B15
+    t_singer_master_id: '61928'
+    singer_name: KEN☆Tackey
+    singer_alias:
+    available_date: '2018-07-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやくてんらは
+    singer_name_ruby: けんたつき
+    song_variation:
+    - esong_code: 4030B15
+      song_name: 逆転ラバーズ
+      content_type: ''
   - song_name: 逆光
     song_alias:
     esong_code: 4031A37
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4026B17
       song_name: Catch up
+      content_type: ''
+  - song_name: Catch You Later
+    song_alias:
+    esong_code: 4035B22
+    t_singer_master_id: '36831'
+    singer_name: the HIATUS
+    singer_alias:
+    available_date: '2018-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやつちゆれいた
+    singer_name_ruby: さはいえいたす
+    song_variation:
+    - esong_code: 4035B22
+      song_name: Catch You Later
+      content_type: ''
+  - song_name: ギャラクシー
+    song_alias:
+    esong_code: 4020B10
+    t_singer_master_id: '59603'
+    singer_name: 志麻&センラ(from 浦島坂田船)
+    singer_alias:
+    available_date: '2018-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやらくし
+    singer_name_ruby: しまあんとせんら
+    song_variation:
+    - esong_code: 4020B10
+      song_name: ギャラクシー
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
   - song_name: ALL FOR WIN feat.保志総一朗
     song_alias:
@@ -66,7 +66,7 @@ result:
     singer_alias:
     available_date: '2014-07-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双4<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おれてきせんほう
@@ -75,23 +75,6 @@ result:
     - esong_code: 3289A15
       song_name: 俺的戦法
       content_type: ''
-  - song_name: 俺でよかったのか
-    song_alias:
-    esong_code: 3286B16
-    t_singer_master_id: '2526'
-    singer_name: 湯原 昌幸
-    singer_alias:
-    available_date: '2014-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おれてよかつたのか
-    singer_name_ruby: ゆはらまさゆき
-    song_variation:
-    - esong_code: 3286B16
-      song_name: 俺でよかったのか
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 俺でよかったのか
     song_alias:
     esong_code: 3286A48
@@ -109,6 +92,23 @@ result:
     - esong_code: 3286A48
       song_name: 俺でよかったのか
       content_type: DAM生音
+  - song_name: 俺でよかったのか
+    song_alias:
+    esong_code: 3286B16
+    t_singer_master_id: '2526'
+    singer_name: 湯原 昌幸
+    singer_alias:
+    available_date: '2014-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おれてよかつたのか
+    singer_name_ruby: ゆはらまさゆき
+    song_variation:
+    - esong_code: 3286B16
+      song_name: 俺でよかったのか
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 俺とお前の並木路
     song_alias:
     esong_code: 243B32

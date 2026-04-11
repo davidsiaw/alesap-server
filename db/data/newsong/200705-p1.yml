@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 933
-  all_max_cnt: 1037
-  all_country_cnt: 933
+  max_cnt: 932
+  all_max_cnt: 1036
+  all_country_cnt: 932
   song:
   - song_name: 青ヒゲの兄弟の店
     song_alias:
@@ -372,7 +372,7 @@ result:
     singer_alias:
     available_date: '2007-05-16'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 紐育レビュウショウ 〜歌う大紐育〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あなたとならはあら
@@ -417,23 +417,6 @@ result:
       content_type: ''
   - song_name: あばよ
     song_alias:
-    esong_code: 1775A48
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2007-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あはよ
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 1775A48
-      song_name: あばよ
-      content_type: ''
-  - song_name: あばよ
-    song_alias:
     esong_code: 1779B30
     t_singer_master_id: '10507'
     singer_name: 氷川 きよし
@@ -449,6 +432,23 @@ result:
     - esong_code: 1779B30
       song_name: あばよ
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: あばよ
+    song_alias:
+    esong_code: 1775A48
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2007-05-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あはよ
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 1775A48
+      song_name: あばよ
+      content_type: ''
   - song_name: a holy terrors
     song_alias:
     esong_code: 1786A32

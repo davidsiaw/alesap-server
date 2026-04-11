@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
   - song_name: シャンゼリオン〜光りの未来
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 2193B37
       song_name: 情熱の代償 (ビデオクリップVer.)
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 少年
-    song_alias:
-    esong_code: 2253B47
-    t_singer_master_id: '2287'
-    singer_name: Mr.Children
-    singer_alias:
-    available_date: '2009-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: しようねん
-    singer_name_ruby: みすたちるとれん
-    song_variation:
-    - esong_code: 2253B47
-      song_name: 少年
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 少年 (2009)
     song_alias:
     esong_code: 2199B12
@@ -262,6 +245,23 @@ result:
     - esong_code: 2199B12
       song_name: 少年 (2009)
       content_type: ''
+  - song_name: 少年
+    song_alias:
+    esong_code: 2253B47
+    t_singer_master_id: '2287'
+    singer_name: Mr.Children
+    singer_alias:
+    available_date: '2009-01-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: しようねん
+    singer_name_ruby: みすたちるとれん
+    song_variation:
+    - esong_code: 2253B47
+      song_name: 少年
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: シリョン
     song_alias:
     esong_code: 2193A1
@@ -449,6 +449,23 @@ result:
     - esong_code: 2201A49
       song_name: 新府城
       content_type: ''
+  - song_name: SIMPLE
+    song_alias:
+    esong_code: 2182A26
+    t_singer_master_id: '14879'
+    singer_name: EELMAN
+    singer_alias:
+    available_date: '2009-01-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんふる
+    singer_name_ruby: いるまん
+    song_variation:
+    - esong_code: 2182A26
+      song_name: SIMPLE
+      content_type: ''
   - song_name: SWEET GIRL feat.DONDRIA
     song_alias:
     esong_code: 2254A20
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2195A39
       song_name: スウィートルーム
-      content_type: ''
-  - song_name: 素顔のまま
-    song_alias:
-    esong_code: 2197B45
-    t_singer_master_id: '10604'
-    singer_name: 愛内 里菜
-    singer_alias:
-    available_date: '2009-01-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すかおのまま
-    singer_name_ruby: あいうちりな
-    song_variation:
-    - esong_code: 2197B45
-      song_name: 素顔のまま
       content_type: ''

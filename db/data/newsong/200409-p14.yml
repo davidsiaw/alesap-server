@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 807
-  all_max_cnt: 867
-  all_country_cnt: 807
+  max_cnt: 806
+  all_max_cnt: 866
+  all_country_cnt: 806
   song:
   - song_name: ちびっこマンたいそう
     song_alias:
@@ -449,23 +449,6 @@ result:
     - esong_code: 480A2
       song_name: 手紙
       content_type: ''
-  - song_name: Destiny
-    song_alias:
-    esong_code: 584A1
-    t_singer_master_id: '8356'
-    singer_name: 堀江 由衣
-    singer_alias:
-    available_date: '2004-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 人造人間キカイダー The Animation<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: てすていに
-    singer_name_ruby: ほりえゆい
-    song_variation:
-    - esong_code: 584A1
-      song_name: Destiny
-      content_type: ''
   - song_name: DESTINY
     song_alias:
     esong_code: 724B49
@@ -482,6 +465,23 @@ result:
     song_variation:
     - esong_code: 724B49
       song_name: DESTINY
+      content_type: ''
+  - song_name: Destiny
+    song_alias:
+    esong_code: 584A1
+    t_singer_master_id: '8356'
+    singer_name: 堀江 由衣
+    singer_alias:
+    available_date: '2004-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 人造人間キカイダー The Animation<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: てすていに
+    singer_name_ruby: ほりえゆい
+    song_variation:
+    - esong_code: 584A1
+      song_name: Destiny
       content_type: ''
   - song_name: デスペラード
     song_alias:

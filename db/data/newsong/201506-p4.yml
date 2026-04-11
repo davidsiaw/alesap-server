@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1536
-  all_max_cnt: 1777
-  all_country_cnt: 1536
+  max_cnt: 1525
+  all_max_cnt: 1765
+  all_country_cnt: 1525
   song:
-  - song_name: イーカロス
-    song_alias:
-    esong_code: 3450A47
-    t_singer_master_id: '47169'
-    singer_name: LIPHLICH
-    singer_alias:
-    available_date: '2015-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いかろす
-    singer_name_ruby: りふりつち
-    song_variation:
-    - esong_code: 3450A47
-      song_name: イーカロス
-      content_type: ''
   - song_name: IGGY WALK
     song_alias:
     esong_code: 3449A36
@@ -104,7 +87,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: いけいけはりうつと
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3446B45
       song_name: いけいけハリウッド
@@ -125,23 +108,6 @@ result:
     song_variation:
     - esong_code: 3269A33
       song_name: 居酒屋「あやめ」
-      content_type: ''
-  - song_name: 居酒屋の女将
-    song_alias:
-    esong_code: 627B38
-    t_singer_master_id: '29852'
-    singer_name: いずはら 玲子
-    singer_alias:
-    available_date: '2015-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いさかやのおかみ
-    singer_name_ruby: いすはられいこ
-    song_variation:
-    - esong_code: 627B38
-      song_name: 居酒屋の女将
       content_type: ''
   - song_name: 居酒屋「みなと」
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3456B31
       song_name: 異邦人
+      content_type: ''
+  - song_name: 異邦人〜エトランゼ〜
+    song_alias:
+    esong_code: 3446A34
+    t_singer_master_id: '12431'
+    singer_name: 保志 総一朗
+    singer_alias:
+    available_date: '2015-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 新テニスの王子様<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いほうしんえとらん
+    singer_name_ruby: ほしそういちろう
+    song_variation:
+    - esong_code: 3446A34
+      song_name: 異邦人〜エトランゼ〜
+      content_type: ''
+  - song_name: いま あなたと 生きてる
+    song_alias:
+    esong_code: 3445B15
+    t_singer_master_id: '8599'
+    singer_name: 堂本 剛(from KinKi Kids)
+    singer_alias:
+    available_date: '2015-06-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いまあなたといきてる
+    singer_name_ruby: とうもとつよし
+    song_variation:
+    - esong_code: 3445B15
+      song_name: いま あなたと 生きてる
       content_type: ''

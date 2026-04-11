@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: L'Arc〜en〜Cielメドレー 〜2012〜
-    song_alias:
-    esong_code: 2843B21
-    t_singer_master_id: '5250'
-    singer_name: L'Arc〜en〜Ciel
-    singer_alias:
-    available_date: '2012-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らるくあんしえるめと
-    singer_name_ruby: らるくあんしえる
-    song_variation:
-    - esong_code: 2843B21
-      song_name: L'Arc〜en〜Cielメドレー 〜2012〜
-      content_type: ''
-  - song_name: 乱獲パラレル
-    song_alias:
-    esong_code: 2832B30
-    t_singer_master_id: '37436'
-    singer_name: ピコ
-    singer_alias:
-    available_date: '2012-08-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らんかくはられる
-    singer_name_ruby: ひこ
-    song_variation:
-    - esong_code: 2832B30
-      song_name: 乱獲パラレル
-      content_type: ''
   - song_name: Realization
     song_alias:
     esong_code: 2836B22
@@ -151,7 +117,7 @@ result:
     singer_alias:
     available_date: '2012-08-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: りふれつくす
@@ -228,23 +194,6 @@ result:
     - esong_code: 2832A38
       song_name: Release me
       content_type: ''
-  - song_name: LINK
-    song_alias:
-    esong_code: 2832A40
-    t_singer_master_id: '36510'
-    singer_name: YU-A
-    singer_alias:
-    available_date: '2012-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: りんく
-    singer_name_ruby: ゆあ
-    song_variation:
-    - esong_code: 2832A40
-      song_name: LINK
-      content_type: ''
   - song_name: Link [パセラオリジナル]
     song_alias:
     esong_code: 2838B19
@@ -262,6 +211,23 @@ result:
     - esong_code: 2838B19
       song_name: Link [パセラオリジナル]
       content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+  - song_name: LINK
+    song_alias:
+    esong_code: 2832A40
+    t_singer_master_id: '36510'
+    singer_name: YU-A
+    singer_alias:
+    available_date: '2012-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りんく
+    singer_name_ruby: ゆあ
+    song_variation:
+    - esong_code: 2832A40
+      song_name: LINK
+      content_type: ''
   - song_name: ルサンチマンの海に抱かれて feat.猫村いろは
     song_alias:
     esong_code: 2833B4
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2843A37
       song_name: 蝋燭
+      content_type: ''
+  - song_name: 路地裏恋灯り
+    song_alias:
+    esong_code: 2832A17
+    t_singer_master_id: '31731'
+    singer_name: 中屋 憲夫
+    singer_alias:
+    available_date: '2012-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろしうらこいあかり
+    singer_name_ruby: なかやのりお
+    song_variation:
+    - esong_code: 2832A17
+      song_name: 路地裏恋灯り
+      content_type: ''
+  - song_name: ROSE
+    song_alias:
+    esong_code: 2836B32
+    t_singer_master_id: '30958'
+    singer_name: Versailles
+    singer_alias:
+    available_date: '2012-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろす
+    singer_name_ruby: へるさいゆ
+    song_variation:
+    - esong_code: 2836B32
+      song_name: ROSE
       content_type: ''

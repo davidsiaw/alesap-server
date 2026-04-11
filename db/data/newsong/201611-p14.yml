@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1576
-  all_max_cnt: 1796
-  all_country_cnt: 1576
+  max_cnt: 1565
+  all_max_cnt: 1785
+  all_country_cnt: 1565
   song:
-  - song_name: 金曜日の天使
-    song_alias:
-    esong_code: 3710B22
-    t_singer_master_id: '44669'
-    singer_name: パスピエ
-    singer_alias:
-    available_date: '2016-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんようひのてんし
-    singer_name_ruby: はすひえ
-    song_variation:
-    - esong_code: 3710B22
-      song_name: 金曜日の天使
-      content_type: ''
-  - song_name: 九十九島
-    song_alias:
-    esong_code: 3724B18
-    t_singer_master_id: '1311'
-    singer_name: 平 浩二
-    singer_alias:
-    available_date: '2016-11-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くしゆうくしま
-    singer_name_ruby: たいらこうし
-    song_variation:
-    - esong_code: 3724B18
-      song_name: 九十九島
-      content_type: ''
   - song_name: KSGR地獄の刑feat.鏡音リン、鏡音レン
     song_alias:
     esong_code: 3721A7
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3724A22
       song_name: グローイング アップップ
+      content_type: ''
+  - song_name: Claw
+    song_alias:
+    esong_code: 3722A16
+    t_singer_master_id: '38639'
+    singer_name: "[Alexandros]"
+    singer_alias:
+    available_date: '2016-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くろう
+    singer_name_ruby: あれきさんとろす
+    song_variation:
+    - esong_code: 3722A16
+      song_name: Claw
+      content_type: ''
+  - song_name: Growin'Jewel!
+    song_alias:
+    esong_code: 3727A14
+    t_singer_master_id: '53854'
+    singer_name: SoLaMiDressing
+    singer_alias:
+    available_date: '2016-11-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: プリパラ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くろういんしゆ
+    singer_name_ruby: そらみとれつしんく
+    song_variation:
+    - esong_code: 3727A14
+      song_name: Growin'Jewel!
       content_type: ''

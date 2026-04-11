@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
-  - song_name: 甲斐の故郷(さと)
-    song_alias:
-    esong_code: 1656A49
-    t_singer_master_id: '52342'
-    singer_name: 池 ただし
-    singer_alias:
-    available_date: '2014-12-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かいのさと
-    singer_name_ruby: いけたたし
-    song_variation:
-    - esong_code: 1656A49
-      song_name: 甲斐の故郷(さと)
-      content_type: ''
   - song_name: 返せない傘を借りた
     song_alias:
     esong_code: 3365A46
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: 風の子守唄 ニューバージョン
     song_alias:
-    esong_code: 3215A10
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
-    singer_alias:
-    available_date: '2014-12-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かせのこもりうたに
-    singer_name_ruby: いつきひろし
-    song_variation:
-    - esong_code: 3215A10
-      song_name: 風の子守唄 ニューバージョン
-      content_type: DAM生音
-  - song_name: 風の子守唄 ニューバージョン
-    song_alias:
     esong_code: 3057B22
     t_singer_master_id: '221'
     singer_name: 五木 ひろし
@@ -347,6 +313,23 @@ result:
     - esong_code: 3057B22
       song_name: 風の子守唄 ニューバージョン
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 風の子守唄 ニューバージョン
+    song_alias:
+    esong_code: 3215A10
+    t_singer_master_id: '221'
+    singer_name: 五木 ひろし
+    singer_alias:
+    available_date: '2014-12-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: かせのこもりうたに
+    singer_name_ruby: いつきひろし
+    song_variation:
+    - esong_code: 3215A10
+      song_name: 風の子守唄 ニューバージョン
+      content_type: DAM生音
   - song_name: 風の下ツ道
     song_alias:
     esong_code: 2183B49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3374A10
       song_name: kappo!
+      content_type: ''
+  - song_name: 勝つまでが戦争
+    song_alias:
+    esong_code: 3364B49
+    t_singer_master_id: '51122'
+    singer_name: QOOLAND
+    singer_alias:
+    available_date: '2014-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かつまてかせんそ
+    singer_name_ruby: くらんと
+    song_variation:
+    - esong_code: 3364B49
+      song_name: 勝つまでが戦争
       content_type: ''

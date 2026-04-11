@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1224
-  all_max_cnt: 1364
-  all_country_cnt: 1224
+  max_cnt: 1216
+  all_max_cnt: 1356
+  all_country_cnt: 1216
   song:
-  - song_name: ぜんまいのきしむ音
-    song_alias:
-    esong_code: 3301B31
-    t_singer_master_id: '7250'
-    singer_name: THEATRE BROOK
-    singer_alias:
-    available_date: '2014-08-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せんまいのきしむお
-    singer_name_ruby: しあたふるつく
-    song_variation:
-    - esong_code: 3301B31
-      song_name: ぜんまいのきしむ音
-      content_type: ''
-  - song_name: 全力!Pump Up!!
-    song_alias:
-    esong_code: 3300A12
-    t_singer_master_id: '45933'
-    singer_name: アップアップガールズ(仮)
-    singer_alias:
-    available_date: '2014-08-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せんりよくはんふ
-    singer_name_ruby: あつふあつふかるす
-    song_variation:
-    - esong_code: 3300A12
-      song_name: 全力!Pump Up!!
-      content_type: ''
-  - song_name: 線路はつづくよどこまでも
-    song_alias:
-    esong_code: 3308A5
-    t_singer_master_id: '47272'
-    singer_name: 鎌田 章吾
-    singer_alias:
-    available_date: '2014-08-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 烈車戦隊トッキュウジャー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: せんろはつつくよと
-    singer_name_ruby: かまたしようこ
-    song_variation:
-    - esong_code: 3308A5
-      song_name: 線路はつづくよどこまでも
-      content_type: ''
-  - song_name: 想像を超える明日へ (Album Version)
-    song_alias:
-    esong_code: 3304A26
-    t_singer_master_id: '1607'
-    singer_name: DREAMS COME TRUE
-    singer_alias:
-    available_date: '2014-08-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そうそうをこえるあ
-    singer_name_ruby: とりむすかむとうる
-    song_variation:
-    - esong_code: 3304A26
-      song_name: 想像を超える明日へ (Album Version)
-      content_type: ''
-  - song_name: ぞうのあしおと係
-    song_alias:
-    esong_code: 3312A4
-    t_singer_master_id: '51456'
-    singer_name: 知久 寿焼
-    singer_alias:
-    available_date: '2014-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そうのあしおとか
-    singer_name_ruby: ちくとしあき
-    song_variation:
-    - esong_code: 3312A4
-      song_name: ぞうのあしおと係
-      content_type: ''
-  - song_name: そしてイニエスタ
-    song_alias:
-    esong_code: 3305B41
-    t_singer_master_id: '15467'
-    singer_name: 森山 直太朗
-    singer_alias:
-    available_date: '2014-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そしていにえすた
-    singer_name_ruby: もりやまなおたろう
-    song_variation:
-    - esong_code: 3305B41
-      song_name: そしてイニエスタ
-      content_type: ''
   - song_name: そして強くなれ
     song_alias:
     esong_code: 3300A17
@@ -400,23 +298,6 @@ result:
       content_type: ''
   - song_name: 大衆演劇旅一座
     song_alias:
-    esong_code: 2985A10
-    t_singer_master_id: '551'
-    singer_name: 金田 たつえ
-    singer_alias:
-    available_date: '2014-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: たいしゆうえんけき
-    singer_name_ruby: かねたたつえ
-    song_variation:
-    - esong_code: 2985A10
-      song_name: 大衆演劇旅一座
-      content_type: DAM生音
-  - song_name: 大衆演劇旅一座
-    song_alias:
     esong_code: 3306B32
     t_singer_master_id: '551'
     singer_name: 金田 たつえ
@@ -432,6 +313,23 @@ result:
     - esong_code: 3306B32
       song_name: 大衆演劇旅一座
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 大衆演劇旅一座
+    song_alias:
+    esong_code: 2985A10
+    t_singer_master_id: '551'
+    singer_name: 金田 たつえ
+    singer_alias:
+    available_date: '2014-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: たいしゆうえんけき
+    singer_name_ruby: かねたたつえ
+    song_variation:
+    - esong_code: 2985A10
+      song_name: 大衆演劇旅一座
+      content_type: DAM生音
   - song_name: たいせつなひと
     song_alias:
     esong_code: 3311B24
@@ -516,4 +414,106 @@ result:
     song_variation:
     - esong_code: 3301B12
       song_name: タイムマシン
+      content_type: ''
+  - song_name: ダイヤモンドブス
+    song_alias:
+    esong_code: 3302A26
+    t_singer_master_id: '43454'
+    singer_name: HAPPY BIRTHDAY
+    singer_alias:
+    available_date: '2014-08-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいやもんとふ
+    singer_name_ruby: はつひはすてい
+    song_variation:
+    - esong_code: 3302A26
+      song_name: ダイヤモンドブス
+      content_type: ''
+  - song_name: 太陽
+    song_alias:
+    esong_code: 3305B17
+    t_singer_master_id: '49663'
+    singer_name: ファンキー加藤
+    singer_alias:
+    available_date: '2014-08-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいよう
+    singer_name_ruby: ふあんきかとう
+    song_variation:
+    - esong_code: 3305B17
+      song_name: 太陽
+      content_type: ''
+  - song_name: 大漁太鼓
+    song_alias:
+    esong_code: 3303B17
+    t_singer_master_id: '30296'
+    singer_name: 鳴門 順
+    singer_alias:
+    available_date: '2014-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいりようたいこ
+    singer_name_ruby: なるとしゆん
+    song_variation:
+    - esong_code: 3303B17
+      song_name: 大漁太鼓
+      content_type: ''
+  - song_name: 誰がために
+    song_alias:
+    esong_code: 3300B24
+    t_singer_master_id: '32325'
+    singer_name: May'n
+    singer_alias:
+    available_date: '2014-08-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たかために
+    singer_name_ruby: めいん
+    song_variation:
+    - esong_code: 3300B24
+      song_name: 誰がために
+      content_type: ''
+  - song_name: 抱夏-ダキナツ-
+    song_alias:
+    esong_code: 3307A29
+    t_singer_master_id: '14556'
+    singer_name: タッキー&翼
+    singer_alias:
+    available_date: '2014-08-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たきなつ
+    singer_name_ruby: たつきあんとつはさ
+    song_variation:
+    - esong_code: 3307A29
+      song_name: 抱夏-ダキナツ-
+      content_type: ''
+  - song_name: だけど僕は
+    song_alias:
+    esong_code: 3300A25
+    t_singer_master_id: '49012'
+    singer_name: ゲスの極み乙女
+    singer_alias:
+    available_date: '2014-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たけとほくは
+    singer_name_ruby: けすのきわみおとめ
+    song_variation:
+    - esong_code: 3300A25
+      song_name: だけど僕は
       content_type: ''

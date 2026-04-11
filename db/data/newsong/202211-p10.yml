@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1411
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1405
+  all_country_cnt: 1206
   song:
-  - song_name: 君恋列車
-    song_alias:
-    esong_code: 4701A45
-    t_singer_master_id: '63464'
-    singer_name: 二見 颯一
-    singer_alias:
-    available_date: '2022-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きみこいれつしや
-    singer_name_ruby: ふたみそういち
-    song_variation:
-    - esong_code: 4701A45
-      song_name: 君恋列車
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 君恋列車
     song_alias:
     esong_code: 4705A4
@@ -34,13 +17,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: きみこいれつしや
     singer_name_ruby: ふたみそういち
     song_variation:
     - esong_code: 4705A4
       song_name: 君恋列車
-      content_type: DAM生音
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Gi Mi Di Answer
     song_alias:
     esong_code: 4716A23
@@ -517,3 +500,20 @@ result:
     - esong_code: 4701A48
       song_name: くちべにグラス
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: GOOD DAY
+    song_alias:
+    esong_code: 4707B24
+    t_singer_master_id: '55386'
+    singer_name: "(K)NoW_NAME"
+    singer_alias:
+    available_date: '2022-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: SPY×FAMILY<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつてい
+    singer_name_ruby: のうねいむ
+    song_variation:
+    - esong_code: 4707B24
+      song_name: GOOD DAY
+      content_type: ''

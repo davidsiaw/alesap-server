@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: カナシミの終わる場所
-    song_alias:
-    esong_code: 2762A30
-    t_singer_master_id: '10490'
-    singer_name: 前田 愛(声優)
-    singer_alias:
-    available_date: '2012-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ぬらりひょんの孫 〜千年魔京〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしみのおわるは
-    singer_name_ruby: まえたあい
-    song_variation:
-    - esong_code: 2762A30
-      song_name: カナシミの終わる場所
-      content_type: ''
   - song_name: 悲しみの海峡
     song_alias:
     esong_code: 2773A37
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2767B17
       song_name: キズナ〜ゴーバスターズ!
+      content_type: ''
+  - song_name: 傷絆(きずな)の女(ひと)よ
+    song_alias:
+    esong_code: 2764B38
+    t_singer_master_id: '44360'
+    singer_name: 岡 昌人
+    singer_alias:
+    available_date: '2012-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすなのひとよ
+    singer_name_ruby: おかまさと
+    song_variation:
+    - esong_code: 2764B38
+      song_name: 傷絆(きずな)の女(ひと)よ
       content_type: ''

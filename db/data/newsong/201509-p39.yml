@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
   - song_name: 真夏のサーガ
     song_alias:
@@ -179,23 +179,6 @@ result:
       content_type: ''
   - song_name: 三毳山-みかもやま-
     song_alias:
-    esong_code: 3492B11
-    t_singer_master_id: '18661'
-    singer_name: Nobby
-    singer_alias:
-    available_date: '2015-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: みかもやま
-    singer_name_ruby: のひ
-    song_variation:
-    - esong_code: 3492B11
-      song_name: 三毳山-みかもやま-
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 三毳山-みかもやま-
-    song_alias:
     esong_code: 3492A34
     t_singer_master_id: '18661'
     singer_name: Nobby
@@ -211,11 +194,28 @@ result:
     - esong_code: 3492A34
       song_name: 三毳山-みかもやま-
       content_type: JOY生演奏
+  - song_name: 三毳山-みかもやま-
+    song_alias:
+    esong_code: 3492B11
+    t_singer_master_id: '18661'
+    singer_name: Nobby
+    singer_alias:
+    available_date: '2015-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: みかもやま
+    singer_name_ruby: のひ
+    song_variation:
+    - esong_code: 3492B11
+      song_name: 三毳山-みかもやま-
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 未完成ヒーロー譚 feat.鏡音レン
     song_alias:
     esong_code: 3490B48
     t_singer_master_id: '42105'
-    singer_name: ひとしずくP×やま△
+    singer_name: ひとしずく×やま△
     singer_alias:
     available_date: '2015-09-01'
     end_date: '2999-04-10 00:00:00'
@@ -223,7 +223,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: みかんせいひろた
-    singer_name_ruby: ひとしすくひやまさんかつけ
+    singer_name_ruby: ひとしすくやまさんかつけ
     song_variation:
     - esong_code: 3490B48
       song_name: 未完成ヒーロー譚 feat.鏡音レン
@@ -253,7 +253,7 @@ result:
     singer_alias:
     available_date: '2015-09-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア The World Twinkle<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: みくろねしよんす

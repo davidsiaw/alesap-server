@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
   - song_name: ハッピーストライク
     song_alias:
@@ -128,6 +128,23 @@ result:
       content_type: ''
   - song_name: 花の東京
     song_alias:
+    esong_code: 3805B19
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2017-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: はなのとうきよう
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 3805B19
+      song_name: 花の東京
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 花の東京
+    song_alias:
     esong_code: 3804A5
     t_singer_master_id: '6510'
     singer_name: 水森 かおり
@@ -160,23 +177,6 @@ result:
     - esong_code: 3813B7
       song_name: 花の東京
       content_type: JOY生演奏
-  - song_name: 花の東京
-    song_alias:
-    esong_code: 3805B19
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2017-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: はなのとうきよう
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 3805B19
-      song_name: 花の東京
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 華は絢爛
     song_alias:
     esong_code: 3814A42
@@ -321,7 +321,7 @@ result:
     singer_alias:
     available_date: '2017-05-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 遙かなる時空の中で6 幻燈ロンド<番組名>
+    tie_up: 遙かなる時空の中で6<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はにらのときめき
@@ -417,23 +417,6 @@ result:
       content_type: ''
   - song_name: 早鞆ノ瀬戸
     song_alias:
-    esong_code: 3804A6
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2017-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はやとものせと
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 3804A6
-      song_name: 早鞆ノ瀬戸
-      content_type: ''
-  - song_name: 早鞆ノ瀬戸
-    song_alias:
     esong_code: 3813B5
     t_singer_master_id: '6510'
     singer_name: 水森 かおり
@@ -451,23 +434,6 @@ result:
       content_type: JOY生演奏
   - song_name: 早鞆ノ瀬戸
     song_alias:
-    esong_code: 3807B7
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2017-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: はやとものせと
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 3807B7
-      song_name: 早鞆ノ瀬戸
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 早鞆ノ瀬戸
-    song_alias:
     esong_code: 3805B21
     t_singer_master_id: '6510'
     singer_name: 水森 かおり
@@ -483,6 +449,40 @@ result:
     - esong_code: 3805B21
       song_name: 早鞆ノ瀬戸
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 早鞆ノ瀬戸
+    song_alias:
+    esong_code: 3804A6
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2017-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はやとものせと
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 3804A6
+      song_name: 早鞆ノ瀬戸
+      content_type: ''
+  - song_name: 早鞆ノ瀬戸
+    song_alias:
+    esong_code: 3807B7
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2017-05-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: はやとものせと
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 3807B7
+      song_name: 早鞆ノ瀬戸
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: パラサイト
     song_alias:
     esong_code: 3813B23
@@ -500,20 +500,20 @@ result:
     - esong_code: 3813B23
       song_name: パラサイト
       content_type: ''
-  - song_name: PARADISE
+  - song_name: Paradise
     song_alias:
-    esong_code: 3814B9
-    t_singer_master_id: '56766'
-    singer_name: FINAL FRASH
+    esong_code: 3817B26
+    t_singer_master_id: '43745'
+    singer_name: INFINITE
     singer_alias:
-    available_date: '2017-05-28'
+    available_date: '2017-05-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: はらたいす
-    singer_name_ruby: ふあいなるふらつしゆ
+    singer_name_ruby: いんふいにつと
     song_variation:
-    - esong_code: 3814B9
-      song_name: PARADISE
+    - esong_code: 3817B26
+      song_name: Paradise
       content_type: ''

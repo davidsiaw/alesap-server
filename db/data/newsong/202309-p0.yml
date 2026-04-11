@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1183
-  all_max_cnt: 1289
-  all_country_cnt: 1183
+  max_cnt: 1305
+  all_max_cnt: 1441
+  all_country_cnt: 1305
   song:
   - song_name: あゝ上野駅
     song_alias:
@@ -60,23 +60,6 @@ result:
       content_type: ''
   - song_name: IMP.
     song_alias:
-    esong_code: 4854A5
-    t_singer_master_id: '72327'
-    singer_name: IMP.
-    singer_alias:
-    available_date: '2023-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいえむひ
-    singer_name_ruby: あいえむひ
-    song_variation:
-    - esong_code: 4854A5
-      song_name: IMP.
-      content_type: ''
-  - song_name: IMP.
-    song_alias:
     esong_code: 4852A43
     t_singer_master_id: '72327'
     singer_name: IMP.
@@ -92,6 +75,23 @@ result:
     - esong_code: 4852A43
       song_name: IMP.
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: IMP.
+    song_alias:
+    esong_code: 4854A5
+    t_singer_master_id: '72327'
+    singer_name: IMP.
+    singer_alias:
+    available_date: '2023-09-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいえむひ
+    singer_name_ruby: あいえむひ
+    song_variation:
+    - esong_code: 4854A5
+      song_name: IMP.
+      content_type: ''
   - song_name: 相生
     song_alias:
     esong_code: 4834A38
@@ -177,6 +177,23 @@ result:
     - esong_code: 4847A49
       song_name: 愛し方を教えて
       content_type: ''
+  - song_name: あいしてる
+    song_alias:
+    esong_code: 4858A33
+    t_singer_master_id: '70468'
+    singer_name: ExWHYZ
+    singer_alias:
+    available_date: '2023-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいしてる
+    singer_name_ruby: いくすわいす
+    song_variation:
+    - esong_code: 4858A33
+      song_name: あいしてる
+      content_type: ''
   - song_name: 愛してるって言われたことがない
     song_alias:
     esong_code: 4827B36
@@ -213,6 +230,23 @@ result:
       content_type: ''
   - song_name: 哀傷歌
     song_alias:
+    esong_code: 4607A28
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2023-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいしようか
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 4607A28
+      song_name: 哀傷歌
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 哀傷歌
+    song_alias:
     esong_code: 4842B16
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -230,21 +264,21 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 哀傷歌
     song_alias:
-    esong_code: 4607A28
+    esong_code: 4842B17
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
     singer_alias:
-    available_date: '2023-09-06'
+    available_date: '2023-09-10'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: あいしようか
     singer_name_ruby: とはいちろう
     song_variation:
-    - esong_code: 4607A28
+    - esong_code: 4842B17
       song_name: 哀傷歌
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: アイスコーヒー
     song_alias:
     esong_code: 4839A46
@@ -432,6 +466,23 @@ result:
     - esong_code: 4831A29
       song_name: アイドルなんかじゃなかったら
       content_type: ''
+  - song_name: I don't wanna know -Season 2-
+    song_alias:
+    esong_code: 4851B10
+    t_singer_master_id: '26529'
+    singer_name: AK-69
+    singer_alias:
+    available_date: '2023-09-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: あいとんとわなのう
+    singer_name_ruby: えけしつくすていないん
+    song_variation:
+    - esong_code: 4851B10
+      song_name: I don't wanna know -Season 2-
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 会いにいこう [JOYサビカラ]
     song_alias:
     esong_code: 4840B42
@@ -465,55 +516,4 @@ result:
     song_variation:
     - esong_code: 4607A20
       song_name: 愛に恋とは… 〜ねをん きらめく 北新地〜
-      content_type: ''
-  - song_name: 愛の乾燥機
-    song_alias:
-    esong_code: 4842A29
-    t_singer_master_id: '68137'
-    singer_name: ヤングスキニー
-    singer_alias:
-    available_date: '2023-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのかんそうき
-    singer_name_ruby: やんくすきに
-    song_variation:
-    - esong_code: 4842A29
-      song_name: 愛の乾燥機
-      content_type: ''
-  - song_name: アイノケダモノ
-    song_alias:
-    esong_code: 4840B8
-    t_singer_master_id: '39220'
-    singer_name: アンジュルム(スマイレージ)
-    singer_alias:
-    available_date: '2023-09-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あいのけたもの
-    singer_name_ruby: あんしゆるむ
-    song_variation:
-    - esong_code: 4840B8
-      song_name: アイノケダモノ
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 愛の幻日
-    song_alias:
-    esong_code: 4833A43
-    t_singer_master_id: '71603'
-    singer_name: かよこ
-    singer_alias:
-    available_date: '2023-09-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのけんしつ
-    singer_name_ruby: かよこ
-    song_variation:
-    - esong_code: 4833A43
-      song_name: 愛の幻日
       content_type: ''

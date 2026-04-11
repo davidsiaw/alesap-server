@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: 愛を知る季節
-    song_alias:
-    esong_code: 2244A33
-    t_singer_master_id: '35897'
-    singer_name: 野川 さくら&堀江 由衣
-    singer_alias:
-    available_date: '2009-02-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: D.C.S.S.〜ダ・カーポ セカンドシーズン〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいをしるきせつ
-    singer_name_ruby: のかわさくらほりえゆい
-    song_variation:
-    - esong_code: 2244A33
-      song_name: 愛を知る季節
-      content_type: ''
   - song_name: Einsatz
     song_alias:
     esong_code: 2210B28
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2212B29
       song_name: あなたの女
+      content_type: ''
+  - song_name: 貴方の声が色褪せようとも、盟約の歌がその胸に...
+    song_alias:
+    esong_code: 2207A36
+    t_singer_master_id: '29081'
+    singer_name: 小野 大輔
+    singer_alias:
+    available_date: '2009-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 黒執事<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたのこえかいろ
+    singer_name_ruby: おのたいすけ
+    song_variation:
+    - esong_code: 2207A36
+      song_name: 貴方の声が色褪せようとも、盟約の歌がその胸に...
       content_type: ''

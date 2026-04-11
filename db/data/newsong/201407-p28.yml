@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
-  - song_name: Demolition feat.MAYU
-    song_alias:
-    esong_code: 3284B47
-    t_singer_master_id: '50458'
-    singer_name: 満身創痍
-    singer_alias:
-    available_date: '2014-07-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: てもりしよん
-    singer_name_ruby: まんしんそうい
-    song_variation:
-    - esong_code: 3284B47
-      song_name: Demolition feat.MAYU
-      content_type: VOCALOID
-  - song_name: Tell Me Why
-    song_alias:
-    esong_code: 3297B46
-    t_singer_master_id: '1359'
-    singer_name: 竹内 まりや
-    singer_alias:
-    available_date: '2014-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てるみほわい
-    singer_name_ruby: たけうちまりや
-    song_variation:
-    - esong_code: 3297B46
-      song_name: Tell Me Why
-      content_type: ''
   - song_name: テレスコープ
     song_alias:
     esong_code: 3277B40
@@ -213,23 +179,6 @@ result:
       content_type: ''
   - song_name: 峠越え
     song_alias:
-    esong_code: 3295A40
-    t_singer_master_id: '40508'
-    singer_name: 福田 こうへい
-    singer_alias:
-    available_date: '2014-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: とうけこえ
-    singer_name_ruby: ふくたこうへい
-    song_variation:
-    - esong_code: 3295A40
-      song_name: 峠越え
-      content_type: JOY生演奏
-  - song_name: 峠越え
-    song_alias:
     esong_code: 3112A25
     t_singer_master_id: '40508'
     singer_name: 福田 こうへい
@@ -245,6 +194,23 @@ result:
     - esong_code: 3112A25
       song_name: 峠越え
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 峠越え
+    song_alias:
+    esong_code: 3295A40
+    t_singer_master_id: '40508'
+    singer_name: 福田 こうへい
+    singer_alias:
+    available_date: '2014-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: とうけこえ
+    singer_name_ruby: ふくたこうへい
+    song_variation:
+    - esong_code: 3295A40
+      song_name: 峠越え
+      content_type: JOY生演奏
   - song_name: 父さん母さんありがとう
     song_alias:
     esong_code: 3278A25
@@ -279,7 +245,7 @@ result:
     - esong_code: 3281A38
       song_name: do do pi do
       content_type: ''
-  - song_name: To Be Or Not To Be! (龍真咲) [DAM本人歌唱]
+  - song_name: To Be Or Not To Be! (龍真咲)[DAM本人歌唱]
     song_alias:
     esong_code: 3286A41
     t_singer_master_id: '1349'
@@ -294,7 +260,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3286A41
-      song_name: To Be Or Not To Be! (龍真咲) [DAM本人歌唱]
+      song_name: To Be Or Not To Be! (龍真咲)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 道標 -異形の天使-
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3297A23
       song_name: トキメキ☆すちゃらかテキサス
+      content_type: ''
+  - song_name: トーキョーハイウェイ
+    song_alias:
+    esong_code: 3281A37
+    t_singer_master_id: '42876'
+    singer_name: きゃりーぱみゅぱみゅ
+    singer_alias:
+    available_date: '2014-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ときよはいうえい
+    singer_name_ruby: きやりはみゆはみゆ
+    song_variation:
+    - esong_code: 3281A37
+      song_name: トーキョーハイウェイ
+      content_type: ''
+  - song_name: 特にありません
+    song_alias:
+    esong_code: 3283B21
+    t_singer_master_id: '33302'
+    singer_name: サイプレス上野とロベルト吉野
+    singer_alias:
+    available_date: '2014-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とくにありません
+    singer_name_ruby: さいふれすうえのとろへるとよしの
+    song_variation:
+    - esong_code: 3283B21
+      song_name: 特にありません
       content_type: ''

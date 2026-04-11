@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 947
-  all_max_cnt: 1077
-  all_country_cnt: 947
+  max_cnt: 945
+  all_max_cnt: 1075
+  all_country_cnt: 945
   song:
   - song_name: しかし なにも おこらなかった!
     song_alias:
@@ -168,7 +168,7 @@ result:
     singer_alias:
     available_date: '2009-08-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 桃井はるこのはいはい、ラジオラジオ(´ー`)<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: しはつにのつて
@@ -381,23 +381,6 @@ result:
     - esong_code: 2369A23
       song_name: ジャポネーゼ
       content_type: ''
-  - song_name: Shall We Bounce?
-    song_alias:
-    esong_code: 2376A12
-    t_singer_master_id: '29435'
-    singer_name: GIPPER
-    singer_alias:
-    available_date: '2009-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやるういはうん
-    singer_name_ruby: しつは
-    song_variation:
-    - esong_code: 2376A12
-      song_name: Shall We Bounce?
-      content_type: ''
   - song_name: Jungle Gym
     song_alias:
     esong_code: 2376B25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2389A7
       song_name: 少年時代
+      content_type: ''
+  - song_name: しょげないでよBaby
+    song_alias:
+    esong_code: 2381B39
+    t_singer_master_id: '1936'
+    singer_name: B.B.クィーンズ
+    singer_alias:
+    available_date: '2009-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しよけないてよへ
+    singer_name_ruby: ひひくいん
+    song_variation:
+    - esong_code: 2381B39
+      song_name: しょげないでよBaby
       content_type: ''

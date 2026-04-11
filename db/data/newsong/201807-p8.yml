@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1452
-  all_max_cnt: 1626
-  all_country_cnt: 1452
+  max_cnt: 1445
+  all_max_cnt: 1619
+  all_country_cnt: 1445
   song:
-  - song_name: Escape
-    song_alias:
-    esong_code: 4030A38
-    t_singer_master_id: '61215'
-    singer_name: XX:me
-    singer_alias:
-    available_date: '2018-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ダーリン・イン・ザ・フランキス<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えすけふ
-    singer_name_ruby: きすみ
-    song_variation:
-    - esong_code: 4030A38
-      song_name: Escape
-      content_type: ''
   - song_name: eternal eternity
     song_alias:
     esong_code: 4032B6
@@ -502,18 +485,35 @@ result:
       content_type: ''
   - song_name: 大阪みれん花
     song_alias:
-    esong_code: 4025A23
+    esong_code: 242A45
     t_singer_master_id: '43121'
     singer_name: 男石 宜隆
     singer_alias:
-    available_date: '2018-07-17'
+    available_date: '2018-07-02'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: おおさかみれんはな
     singer_name_ruby: おいしのふたか
     song_variation:
-    - esong_code: 4025A23
+    - esong_code: 242A45
       song_name: 大阪みれん花
-      content_type: DAM生音
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 大阪みれん花
+    song_alias:
+    esong_code: 4021B11
+    t_singer_master_id: '43121'
+    singer_name: 男石 宜隆
+    singer_alias:
+    available_date: '2018-07-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おおさかみれんはな
+    singer_name_ruby: おいしのふたか
+    song_variation:
+    - esong_code: 4021B11
+      song_name: 大阪みれん花
+      content_type: JOYﾎﾞｰｶﾙ

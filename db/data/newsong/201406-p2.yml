@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1775
-  all_max_cnt: 1979
-  all_country_cnt: 1775
+  max_cnt: 1769
+  all_max_cnt: 1973
+  all_country_cnt: 1769
   song:
   - song_name: Accross the Air
     song_alias:
@@ -211,23 +211,6 @@ result:
     - esong_code: 3275A20
       song_name: アザレアの花
       content_type: ''
-  - song_name: アザーワールド
-    song_alias:
-    esong_code: 3262B16
-    t_singer_master_id: '43018'
-    singer_name: へたのよこずき/玉谷屋
-    singer_alias:
-    available_date: '2014-06-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 蓮台野夜行〜Ghostly Field Club<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: あさわると
-    singer_name_ruby: へたのよこすきたまやや
-    song_variation:
-    - esong_code: 3262B16
-      song_name: アザーワールド
-      content_type: 東方
   - song_name: Other World
     song_alias:
     esong_code: 3276A23
@@ -245,6 +228,23 @@ result:
     - esong_code: 3276A23
       song_name: Other World
       content_type: ''
+  - song_name: アザーワールド
+    song_alias:
+    esong_code: 3262B16
+    t_singer_master_id: '43018'
+    singer_name: へたのよこずき/玉谷屋
+    singer_alias:
+    available_date: '2014-06-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 蓮台野夜行〜Ghostly Field Club<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: あさわると
+    singer_name_ruby: へたのよこすきたまやや
+    song_variation:
+    - esong_code: 3262B16
+      song_name: アザーワールド
+      content_type: 東方
   - song_name: アジアン
     song_alias:
     esong_code: 3270B35
@@ -381,23 +381,6 @@ result:
     - esong_code: 3293B27
       song_name: 明日へ
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Ask.
-    song_alias:
-    esong_code: 3273A44
-    t_singer_master_id: '7041'
-    singer_name: 坂本 真綾
-    singer_alias:
-    available_date: '2014-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすく
-    singer_name_ruby: さかもとまあや
-    song_variation:
-    - esong_code: 3273A44
-      song_name: Ask.
-      content_type: ''
   - song_name: あ〜〜〜〜〜寿司食いたいお〜〜〜〜〜 feat.初音ミク
     song_alias:
     esong_code: 3268A5
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3266B3
       song_name: A-CHA
+      content_type: ''
+  - song_name: アットホーム
+    song_alias:
+    esong_code: 3263A15
+    t_singer_master_id: '25481'
+    singer_name: かりゆし58
+    singer_alias:
+    available_date: '2014-06-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あつとほむ
+    singer_name_ruby: かりゆしこしゆうはち
+    song_variation:
+    - esong_code: 3263A15
+      song_name: アットホーム
       content_type: ''

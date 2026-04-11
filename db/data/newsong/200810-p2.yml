@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1258
-  all_max_cnt: 1360
-  all_country_cnt: 1258
+  max_cnt: 1253
+  all_max_cnt: 1354
+  all_country_cnt: 1253
   song:
   - song_name: "*〜アスタリスク〜"
     song_alias:
@@ -77,23 +77,6 @@ result:
       content_type: ''
   - song_name: 新しい季節へキミと
     song_alias:
-    esong_code: 2108A14
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2008-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あたらしいきせつへき
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 2108A14
-      song_name: 新しい季節へキミと
-      content_type: ''
-  - song_name: 新しい季節へキミと
-    song_alias:
     esong_code: 2117B7
     t_singer_master_id: '6086'
     singer_name: エレファントカシマシ
@@ -109,6 +92,23 @@ result:
     - esong_code: 2117B7
       song_name: 新しい季節へキミと
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 新しい季節へキミと
+    song_alias:
+    esong_code: 2108A14
+    t_singer_master_id: '6086'
+    singer_name: エレファントカシマシ
+    singer_alias:
+    available_date: '2008-10-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あたらしいきせつへき
+    singer_name_ruby: えれふあんとかしまし
+    song_variation:
+    - esong_code: 2108A14
+      song_name: 新しい季節へキミと
+      content_type: ''
   - song_name: Adore
     song_alias:
     esong_code: 2116B16
@@ -364,23 +364,6 @@ result:
     - esong_code: 2123A49
       song_name: 危い土曜日
       content_type: ''
-  - song_name: アブラゼミ♂ (東京バージョン) feat.雄&直
-    song_alias:
-    esong_code: 2125A35
-    t_singer_master_id: '34265'
-    singer_name: エアバンド
-    singer_alias:
-    available_date: '2008-10-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あふらせみおす
-    singer_name_ruby: えあはんと
-    song_variation:
-    - esong_code: 2125A35
-      song_name: アブラゼミ♂ (東京バージョン) feat.雄&直
-      content_type: ''
   - song_name: アブラゼミ♂ (東京バージョン)
     song_alias:
     esong_code: 2122B32
@@ -398,22 +381,22 @@ result:
     - esong_code: 2122B32
       song_name: アブラゼミ♂ (東京バージョン)
       content_type: ''
-  - song_name: アブラゼミ♀ (大阪バージョン)
+  - song_name: アブラゼミ♂ (東京バージョン) feat.雄&直
     song_alias:
-    esong_code: 2122B44
-    t_singer_master_id: '34266'
-    singer_name: misono&ヒロシ
+    esong_code: 2125A35
+    t_singer_master_id: '34265'
+    singer_name: エアバンド
     singer_alias:
-    available_date: '2008-10-22'
+    available_date: '2008-10-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: あふらせみめす
-    singer_name_ruby: みそのひろし
+    song_name_ruby: あふらせみおす
+    singer_name_ruby: えあはんと
     song_variation:
-    - esong_code: 2122B44
-      song_name: アブラゼミ♀ (大阪バージョン)
+    - esong_code: 2125A35
+      song_name: アブラゼミ♂ (東京バージョン) feat.雄&直
       content_type: ''
   - song_name: アブラゼミ♀ (大阪バージョン)[ピアノ・バージョン]
     song_alias:
@@ -447,6 +430,23 @@ result:
     singer_name_ruby: まいあんとたけし
     song_variation:
     - esong_code: 2125A42
+      song_name: アブラゼミ♀ (大阪バージョン)
+      content_type: ''
+  - song_name: アブラゼミ♀ (大阪バージョン)
+    song_alias:
+    esong_code: 2122B44
+    t_singer_master_id: '34266'
+    singer_name: misono&ヒロシ
+    singer_alias:
+    available_date: '2008-10-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あふらせみめす
+    singer_name_ruby: みそのひろし
+    song_variation:
+    - esong_code: 2122B44
       song_name: アブラゼミ♀ (大阪バージョン)
       content_type: ''
   - song_name: 甘い股関節

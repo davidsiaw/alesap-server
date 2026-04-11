@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: Days.
-    song_alias:
-    esong_code: 2686A43
-    t_singer_master_id: '18146'
-    singer_name: HERO
-    singer_alias:
-    available_date: '2011-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていす
-    singer_name_ruby: ひろ
-    song_variation:
-    - esong_code: 2686A43
-      song_name: Days.
-      content_type: ''
   - song_name: December
     song_alias:
     esong_code: 2692B48
@@ -232,7 +215,7 @@ result:
     song_alias:
     esong_code: 2676B38
     t_singer_master_id: '43328'
-    singer_name: 川田 紳司×ひとしずくP×やま△
+    singer_name: 川田 紳司×ひとしずく×やま△
     singer_alias:
     available_date: '2011-10-02'
     end_date: '2999-04-10 00:00:00'
@@ -485,23 +468,6 @@ result:
       content_type: ''
   - song_name: 東京の枯葉
     song_alias:
-    esong_code: 2684B42
-    t_singer_master_id: '10253'
-    singer_name: チェウニ
-    singer_alias:
-    available_date: '2011-10-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: とうきようのかれは
-    singer_name_ruby: ちえうに
-    song_variation:
-    - esong_code: 2684B42
-      song_name: 東京の枯葉
-      content_type: DAM生音
-  - song_name: 東京の枯葉
-    song_alias:
     esong_code: 2687B39
     t_singer_master_id: '10253'
     singer_name: チェウニ
@@ -517,3 +483,37 @@ result:
     - esong_code: 2687B39
       song_name: 東京の枯葉
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: どうしてちゃんのテーマ feat.初音ミク
+    song_alias:
+    esong_code: 2694A41
+    t_singer_master_id: '38164'
+    singer_name: ピノキオピー(ピノキオP)
+    singer_alias:
+    available_date: '2011-10-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: とうしてちやんのて
+    singer_name_ruby: ひのきおひ
+    song_variation:
+    - esong_code: 2694A41
+      song_name: どうしてちゃんのテーマ feat.初音ミク
+      content_type: VOCALOID
+  - song_name: 等身大の地球
+    song_alias:
+    esong_code: 2693A15
+    t_singer_master_id: '33612'
+    singer_name: UNISON SQUARE GARDEN
+    singer_alias:
+    available_date: '2011-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうしんたいのちき
+    singer_name_ruby: ゆにそんすくえあかてん
+    song_variation:
+    - esong_code: 2693A15
+      song_name: 等身大の地球
+      content_type: ''

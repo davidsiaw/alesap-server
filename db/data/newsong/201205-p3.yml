@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1347
-  all_country_cnt: 1229
+  max_cnt: 1222
+  all_max_cnt: 1339
+  all_country_cnt: 1222
   song:
-  - song_name: UNDO (wild side ver.)
-    song_alias:
-    esong_code: 2433A46
-    t_singer_master_id: '18989'
-    singer_name: COOL JOKE
-    singer_alias:
-    available_date: '2012-05-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 鋼の錬金術師<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんとう
-    singer_name_ruby: くるしよく
-    song_variation:
-    - esong_code: 2433A46
-      song_name: UNDO (wild side ver.)
-      content_type: ''
   - song_name: "→unfinished→"
     song_alias:
     esong_code: 759A31
@@ -247,23 +230,6 @@ result:
       content_type: ''
   - song_name: 五十鈴川
     song_alias:
-    esong_code: 1226B24
-    t_singer_master_id: '15903'
-    singer_name: 竹川 美子
-    singer_alias:
-    available_date: '2012-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: いすすかわ
-    singer_name_ruby: たけかわみこ
-    song_variation:
-    - esong_code: 1226B24
-      song_name: 五十鈴川
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 五十鈴川
-    song_alias:
     esong_code: 806A10
     t_singer_master_id: '15903'
     singer_name: 竹川 美子
@@ -279,6 +245,23 @@ result:
     - esong_code: 806A10
       song_name: 五十鈴川
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 五十鈴川
+    song_alias:
+    esong_code: 1226B24
+    t_singer_master_id: '15903'
+    singer_name: 竹川 美子
+    singer_alias:
+    available_date: '2012-05-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: いすすかわ
+    singer_name_ruby: たけかわみこ
+    song_variation:
+    - esong_code: 1226B24
+      song_name: 五十鈴川
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 伊豆の恋
     song_alias:
     esong_code: 985B40
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1550A17
       song_name: いつも、いつまでも
+      content_type: ''
+  - song_name: 愛おしき死者たちよ
+    song_alias:
+    esong_code: 347A45
+    t_singer_master_id: '1671'
+    singer_name: 長渕 剛
+    singer_alias:
+    available_date: '2012-05-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いとおしきししやたち
+    singer_name_ruby: なかふちつよし
+    song_variation:
+    - esong_code: 347A45
+      song_name: 愛おしき死者たちよ
       content_type: ''

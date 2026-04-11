@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1384
-  all_max_cnt: 1544
-  all_country_cnt: 1384
+  max_cnt: 1374
+  all_max_cnt: 1534
+  all_country_cnt: 1374
   song:
-  - song_name: 思い出の竿燈まつり
-    song_alias:
-    esong_code: 3654B1
-    t_singer_master_id: '58354'
-    singer_name: 橘 妃呂子
-    singer_alias:
-    available_date: '2017-03-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいてのかんとう
-    singer_name_ruby: たちはなひろこ
-    song_variation:
-    - esong_code: 3654B1
-      song_name: 思い出の竿燈まつり
-      content_type: ''
-  - song_name: 想い出の女
-    song_alias:
-    esong_code: 3774A48
-    t_singer_master_id: '765'
-    singer_name: 黒沢 明とロス・プリモス
-    singer_alias:
-    available_date: '2017-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいてのひと
-    singer_name_ruby: くろさわあきらとろすふりも
-    song_variation:
-    - esong_code: 3774A48
-      song_name: 想い出の女
-      content_type: ''
   - song_name: 想い出の向こう側 feat.AKLO
     song_alias:
     esong_code: 3776A16
@@ -92,40 +58,6 @@ result:
     - esong_code: 3781B35
       song_name: ORIHIME
       content_type: ''
-  - song_name: ALL We NEET With LOVE
-    song_alias:
-    esong_code: 3765B49
-    t_singer_master_id: '58464'
-    singer_name: 松野家六兄弟
-    singer_alias:
-    available_date: '2017-03-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おそ松さん on STAGE<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: おるういにとう
-    singer_name_ruby: まつのけろくきようたい
-    song_variation:
-    - esong_code: 3765B49
-      song_name: ALL We NEET With LOVE
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: ALL We NEET With LOVE
-    song_alias:
-    esong_code: 3784B8
-    t_singer_master_id: '58464'
-    singer_name: 松野家六兄弟
-    singer_alias:
-    available_date: '2017-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おそ松さん on STAGE<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おるういにとう
-    singer_name_ruby: まつのけろくきようたい
-    song_variation:
-    - esong_code: 3784B8
-      song_name: ALL We NEET With LOVE
-      content_type: ''
   - song_name: Always coming back
     song_alias:
     esong_code: 3778A20
@@ -143,23 +75,6 @@ result:
     - esong_code: 3778A20
       song_name: Always coming back
       content_type: DAM生音
-  - song_name: Always coming back [DAM本人歌唱]
-    song_alias:
-    esong_code: 3778A9
-    t_singer_master_id: '28360'
-    singer_name: ONE OK ROCK
-    singer_alias:
-    available_date: '2017-03-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: おるうえいすかみ
-    singer_name_ruby: わんおくろつく
-    song_variation:
-    - esong_code: 3778A9
-      song_name: Always coming back [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: オルフェウス feat.初音ミク
     song_alias:
     esong_code: 3775A27
@@ -468,23 +383,6 @@ result:
       content_type: ''
   - song_name: 女の錦秋
     song_alias:
-    esong_code: 3774B20
-    t_singer_master_id: '356'
-    singer_name: 大石 まどか(大石円)
-    singer_alias:
-    available_date: '2017-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: おんなのきんしゆう
-    singer_name_ruby: おおいしまとか
-    song_variation:
-    - esong_code: 3774B20
-      song_name: 女の錦秋
-      content_type: JOY生演奏
-  - song_name: 女の錦秋
-    song_alias:
     esong_code: 3774B7
     t_singer_master_id: '356'
     singer_name: 大石 まどか(大石円)
@@ -500,6 +398,23 @@ result:
     - esong_code: 3774B7
       song_name: 女の錦秋
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 女の錦秋
+    song_alias:
+    esong_code: 3774B20
+    t_singer_master_id: '356'
+    singer_name: 大石 まどか(大石円)
+    singer_alias:
+    available_date: '2017-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: おんなのきんしゆう
+    singer_name_ruby: おおいしまとか
+    song_variation:
+    - esong_code: 3774B20
+      song_name: 女の錦秋
+      content_type: JOY生演奏
   - song_name: 女のけじめ
     song_alias:
     esong_code: 3797B13
@@ -517,3 +432,88 @@ result:
     - esong_code: 3797B13
       song_name: 女のけじめ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 女の九十九折り
+    song_alias:
+    esong_code: 3605B15
+    t_singer_master_id: '58359'
+    singer_name: 星 みず希
+    singer_alias:
+    available_date: '2017-03-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのつつらおり
+    singer_name_ruby: ほしみすき
+    song_variation:
+    - esong_code: 3605B15
+      song_name: 女の九十九折り
+      content_type: ''
+  - song_name: 女の日本海
+    song_alias:
+    esong_code: 3264A49
+    t_singer_master_id: '1710'
+    singer_name: 西方 裕之
+    singer_alias:
+    available_date: '2017-03-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おんなのにほんかい
+    singer_name_ruby: にしかたひろゆき
+    song_variation:
+    - esong_code: 3264A49
+      song_name: 女の日本海
+      content_type: DAM生音
+  - song_name: 女の日本海
+    song_alias:
+    esong_code: 2516B45
+    t_singer_master_id: '1710'
+    singer_name: 西方 裕之
+    singer_alias:
+    available_date: '2017-03-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: おんなのにほんかい
+    singer_name_ruby: にしかたひろゆき
+    song_variation:
+    - esong_code: 2516B45
+      song_name: 女の日本海
+      content_type: JOY生演奏
+  - song_name: 女の雪国
+    song_alias:
+    esong_code: 3775B2
+    t_singer_master_id: '12457'
+    singer_name: 小桜 舞子(小櫻舞子)
+    singer_alias:
+    available_date: '2017-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのゆきくに
+    singer_name_ruby: こさくらまいこ
+    song_variation:
+    - esong_code: 3775B2
+      song_name: 女の雪国
+      content_type: ''
+  - song_name: On my way
+    song_alias:
+    esong_code: 3771B38
+    t_singer_master_id: '12005'
+    singer_name: 倖田 來未
+    singer_alias:
+    available_date: '2017-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんまいうえい
+    singer_name_ruby: こうたくみ
+    song_variation:
+    - esong_code: 3771B38
+      song_name: On my way
+      content_type: ''

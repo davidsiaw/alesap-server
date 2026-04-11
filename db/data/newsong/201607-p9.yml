@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1509
-  all_max_cnt: 1659
-  all_country_cnt: 1509
+  max_cnt: 1504
+  all_max_cnt: 1654
+  all_country_cnt: 1504
   song:
   - song_name: 男船
     song_alias:
@@ -168,7 +168,7 @@ result:
     singer_alias:
     available_date: '2016-07-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 白猫プロジェクト<番組名>
+    tie_up: 白猫プロジェクト(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おねかいしすた
@@ -211,23 +211,6 @@ result:
     - esong_code: 3656A36
       song_name: オーバーキルサイズ・ヘル
       content_type: ''
-  - song_name: Over the rainbow
-    song_alias:
-    esong_code: 1263A1
-    t_singer_master_id: '36543'
-    singer_name: 50TA
-    singer_alias:
-    available_date: '2016-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: おはされいん
-    singer_name_ruby: ふいふていえ
-    song_variation:
-    - esong_code: 1263A1
-      song_name: Over the rainbow
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Overflows 〜言葉にできなくて〜
     song_alias:
     esong_code: 3643B24
@@ -417,23 +400,6 @@ result:
       content_type: ''
   - song_name: All Right!!!
     song_alias:
-    esong_code: 3657B9
-    t_singer_master_id: '2658'
-    singer_name: 和田 アキ子
-    singer_alias:
-    available_date: '2016-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おらい
-    singer_name_ruby: わたあきこ
-    song_variation:
-    - esong_code: 3657B9
-      song_name: All Right!!!
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: All Right!!!
-    song_alias:
     esong_code: 3647A14
     t_singer_master_id: '2658'
     singer_name: 和田 アキ子
@@ -449,6 +415,23 @@ result:
     - esong_code: 3647A14
       song_name: All Right!!!
       content_type: ''
+  - song_name: All Right!!!
+    song_alias:
+    esong_code: 3657B9
+    t_singer_master_id: '2658'
+    singer_name: 和田 アキ子
+    singer_alias:
+    available_date: '2016-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おらい
+    singer_name_ruby: わたあきこ
+    song_variation:
+    - esong_code: 3657B9
+      song_name: All Right!!!
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: オラはにんきもの
     song_alias:
     esong_code: 3657B26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3660A40
       song_name: 俺が守るよ
+      content_type: ''
+  - song_name: 俺の止まり木こころ妻
+    song_alias:
+    esong_code: 3227A46
+    t_singer_master_id: '44021'
+    singer_name: 東 よしお
+    singer_alias:
+    available_date: '2016-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれのとまりきここ
+    singer_name_ruby: ひかしよしお
+    song_variation:
+    - esong_code: 3227A46
+      song_name: 俺の止まり木こころ妻
       content_type: ''

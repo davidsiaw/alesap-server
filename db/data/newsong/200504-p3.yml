@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 721
-  all_max_cnt: 767
-  all_country_cnt: 721
+  max_cnt: 719
+  all_max_cnt: 765
+  all_country_cnt: 719
   song:
   - song_name: X
     song_alias:
@@ -83,7 +83,7 @@ result:
     singer_alias:
     available_date: '2005-04-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GIRLSブラボー -second season-<番組名>
+    tie_up: GIRLSブラボー<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えはあふた
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: 大阪 恋の歌
     song_alias:
-    esong_code: 758B6
-    t_singer_master_id: '8409'
-    singer_name: モーニング娘。
-    singer_alias:
-    available_date: '2005-04-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: おおさかこいのうた
-    singer_name_ruby: もにんくむすめ
-    song_variation:
-    - esong_code: 758B6
-      song_name: 大阪 恋の歌
-      content_type: DAM良音
-  - song_name: 大阪 恋の歌
-    song_alias:
     esong_code: 710A46
     t_singer_master_id: '8409'
     singer_name: モーニング娘。
@@ -296,6 +279,23 @@ result:
     - esong_code: 710A46
       song_name: 大阪 恋の歌
       content_type: ''
+  - song_name: 大阪 恋の歌
+    song_alias:
+    esong_code: 758B6
+    t_singer_master_id: '8409'
+    singer_name: モーニング娘。
+    singer_alias:
+    available_date: '2005-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: おおさかこいのうた
+    singer_name_ruby: もにんくむすめ
+    song_variation:
+    - esong_code: 758B6
+      song_name: 大阪 恋の歌
+      content_type: DAM良音
   - song_name: お気に召すまま
     song_alias:
     esong_code: 689B43

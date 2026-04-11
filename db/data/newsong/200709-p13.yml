@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: サバイバーズ・バンケット
-    song_alias:
-    esong_code: 1871B31
-    t_singer_master_id: '12020'
-    singer_name: ソウル・フラワー・ユニオン
-    singer_alias:
-    available_date: '2007-09-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さはいはすは
-    singer_name_ruby: そうるふらわゆにおん
-    song_variation:
-    - esong_code: 1871B31
-      song_name: サバイバーズ・バンケット
-      content_type: ''
   - song_name: 砂漠に咲いた花
     song_alias:
     esong_code: 726A9
@@ -179,23 +162,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: サヨナラ
     song_alias:
-    esong_code: 1870A35
-    t_singer_master_id: '18416'
-    singer_name: つばき
-    singer_alias:
-    available_date: '2007-09-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよなら
-    singer_name_ruby: つはき
-    song_variation:
-    - esong_code: 1870A35
-      song_name: サヨナラ
-      content_type: ''
-  - song_name: サヨナラ
-    song_alias:
     esong_code: 1875A4
     t_singer_master_id: '16246'
     singer_name: 佐藤 ひろ美(佐藤裕美)
@@ -209,6 +175,23 @@ result:
     singer_name_ruby: さとうひろみ
     song_variation:
     - esong_code: 1875A4
+      song_name: サヨナラ
+      content_type: ''
+  - song_name: サヨナラ
+    song_alias:
+    esong_code: 1870A35
+    t_singer_master_id: '18416'
+    singer_name: つばき
+    singer_alias:
+    available_date: '2007-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよなら
+    singer_name_ruby: つはき
+    song_variation:
+    - esong_code: 1870A35
       song_name: サヨナラ
       content_type: ''
   - song_name: サヨナラ1分ユメ9分
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1867A10
       song_name: 静かに愛して
+      content_type: ''
+  - song_name: 私生活
+    song_alias:
+    esong_code: 1872A34
+    t_singer_master_id: '20368'
+    singer_name: 東京事変
+    singer_alias:
+    available_date: '2007-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しせいかつ
+    singer_name_ruby: とうきようしへん
+    song_variation:
+    - esong_code: 1872A34
+      song_name: 私生活
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: ひとりよがり
-    song_alias:
-    esong_code: 1811B22
-    t_singer_master_id: '15601'
-    singer_name: 劇団四季(ミュージカル)
-    singer_alias:
-    available_date: '2007-07-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとりよかり
-    singer_name_ruby: けきたんしきみゆしかる
-    song_variation:
-    - esong_code: 1811B22
-      song_name: ひとりよがり
-      content_type: ''
   - song_name: ピノキオ
     song_alias:
     esong_code: 1813A42
@@ -321,7 +304,7 @@ result:
     singer_alias:
     available_date: '2007-07-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: あかほりさとる劇場 爆れつハンター<番組名>
+    tie_up: 爆れつハンター<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふあいふあいつ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1810B2
       song_name: ふたつの未来
+      content_type: ''
+  - song_name: 二人で
+    song_alias:
+    esong_code: 1811B23
+    t_singer_master_id: '15601'
+    singer_name: 劇団四季(ミュージカル)
+    singer_alias:
+    available_date: '2007-07-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたりて
+    singer_name_ruby: けきたんしきみゆしかる
+    song_variation:
+    - esong_code: 1811B23
+      song_name: 二人で
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1058
-  all_max_cnt: 1147
-  all_country_cnt: 1058
+  max_cnt: 1021
+  all_max_cnt: 1110
+  all_country_cnt: 1021
   song:
-  - song_name: 産声とクラブ
-    song_alias:
-    esong_code: 4625B49
-    t_singer_master_id: '69483'
-    singer_name: 麻倉 もも&たかはし 智秋&上田 麗奈&中村 温姫
-    singer_alias:
-    available_date: '2022-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドルマスター ミリオンライブ! シアターデイズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うふこえとくらふ
-    singer_name_ruby: あさくらももたかはしちあきう
-    song_variation:
-    - esong_code: 4625B49
-      song_name: 産声とクラブ
-      content_type: ''
-  - song_name: 初心LOVE [歌ってみた利用OK]
-    song_alias:
-    esong_code: 4619B31
-    t_singer_master_id: '68657'
-    singer_name: なにわ男子
-    singer_alias:
-    available_date: '2022-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: 歌ってみた利用OK
-    song_name_ruby: うふらふ
-    singer_name_ruby: なにわたんし
-    song_variation:
-    - esong_code: 4619B31
-      song_name: 初心LOVE [歌ってみた利用OK]
-      content_type: 歌ってみた利用OK
   - song_name: うまぴょい伝説 (18人ver.)
     song_alias:
     esong_code: 4616A40
@@ -62,7 +28,7 @@ result:
     song_alias:
     esong_code: 4552A11
     t_singer_master_id: '64621'
-    singer_name: 令和 和昭(鎌田和昭)
+    singer_name: 鎌田 和昭(令和和昭)
     singer_alias:
     available_date: '2022-04-27'
     end_date: '2999-04-10 00:00:00'
@@ -70,7 +36,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: うみとともに
-    singer_name_ruby: れいわかすあきかまたかすあき
+    singer_name_ruby: かまたかすあきれいわかす
     song_variation:
     - esong_code: 4552A11
       song_name: 海とともに
@@ -143,23 +109,6 @@ result:
     - esong_code: 4614A7
       song_name: うわさ
       content_type: ''
-  - song_name: 噂のホクロ
-    song_alias:
-    esong_code: 4615A49
-    t_singer_master_id: '35330'
-    singer_name: 鈴木 愛理(℃-ute)
-    singer_alias:
-    available_date: '2022-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うわさのほくろ
-    singer_name_ruby: すすきあいり
-    song_variation:
-    - esong_code: 4615A49
-      song_name: 噂のホクロ
-      content_type: ''
   - song_name: うわっツラ
     song_alias:
     esong_code: 4622A41
@@ -228,23 +177,6 @@ result:
     - esong_code: 4624B41
       song_name: 永遠の不在証明
       content_type: DAM生音
-  - song_name: aim
-    song_alias:
-    esong_code: 4620B44
-    t_singer_master_id: '15618'
-    singer_name: 栗林 みな実
-    singer_alias:
-    available_date: '2022-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えいむ
-    singer_name_ruby: くりはやしみなみ
-    song_variation:
-    - esong_code: 4620B44
-      song_name: aim
-      content_type: ''
   - song_name: AIM
     song_alias:
     esong_code: 4622B10
@@ -262,6 +194,23 @@ result:
     - esong_code: 4622B10
       song_name: AIM
       content_type: ''
+  - song_name: aim
+    song_alias:
+    esong_code: 4620B44
+    t_singer_master_id: '15618'
+    singer_name: 栗林 みな実
+    singer_alias:
+    available_date: '2022-04-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいむ
+    singer_name_ruby: くりはやしみなみ
+    song_variation:
+    - esong_code: 4620B44
+      song_name: aim
+      content_type: ''
   - song_name: 酔ひもせす
     song_alias:
     esong_code: 4617B34
@@ -278,23 +227,6 @@ result:
     song_variation:
     - esong_code: 4617B34
       song_name: 酔ひもせす
-      content_type: ''
-  - song_name: 笑顔
-    song_alias:
-    esong_code: 4615B8
-    t_singer_master_id: '35330'
-    singer_name: 鈴木 愛理(℃-ute)
-    singer_alias:
-    available_date: '2022-04-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えかお
-    singer_name_ruby: すすきあいり
-    song_variation:
-    - esong_code: 4615B8
-      song_name: 笑顔
       content_type: ''
   - song_name: エコー
     song_alias:
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 4626A32
       song_name: M&W
+      content_type: ''
+  - song_name: エモーション
+    song_alias:
+    esong_code: 4616A23
+    t_singer_master_id: '18373'
+    singer_name: 豊永 利行
+    singer_alias:
+    available_date: '2022-04-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: A3!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えもしよん
+    singer_name_ruby: とよなかとしゆき
+    song_variation:
+    - esong_code: 4616A23
+      song_name: エモーション
+      content_type: ''
+  - song_name: エルの唄 〜メリナ Full ver.〜
+    song_alias:
+    esong_code: 4619B10
+    t_singer_master_id: '48589'
+    singer_name: 村川 梨衣
+    singer_alias:
+    available_date: '2022-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アナザーエデン 時空を超える猫<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えるのうためりなふる
+    singer_name_ruby: むらかわりえ
+    song_variation:
+    - esong_code: 4619B10
+      song_name: エルの唄 〜メリナ Full ver.〜
+      content_type: ''
+  - song_name: Endroll
+    song_alias:
+    esong_code: 4621A9
+    t_singer_master_id: '61498'
+    singer_name: King&Prince
+    singer_alias:
+    available_date: '2022-04-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんとろる
+    singer_name_ruby: きんくあんとふりんす
+    song_variation:
+    - esong_code: 4621A9
+      song_name: Endroll
+      content_type: ''
+  - song_name: エンドロールに間に合うように
+    song_alias:
+    esong_code: 4622A47
+    t_singer_master_id: '47443'
+    singer_name: tricot
+    singer_alias:
+    available_date: '2022-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんとろるにまに
+    singer_name_ruby: とりこ
+    song_variation:
+    - esong_code: 4622A47
+      song_name: エンドロールに間に合うように
       content_type: ''

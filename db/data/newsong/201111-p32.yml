@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: PARTY
-    song_alias:
-    esong_code: 2715A46
-    t_singer_master_id: '7499'
-    singer_name: E.M.U
-    singer_alias:
-    available_date: '2011-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はてい
-    singer_name_ruby: えむ
-    song_variation:
-    - esong_code: 2715A46
-      song_name: PARTY
-      content_type: ''
   - song_name: パーティードレス
     song_alias:
     esong_code: 2710B32
@@ -204,7 +187,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: コープスパーティー Book of Shadows<番組名>
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: はなのさくはしよ
     singer_name_ruby: いまいあさみ
     song_variation:
@@ -224,7 +207,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: コープスパーティー Book of Shadows<番組名>
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: はなのさくはしよ
     singer_name_ruby: いまいあさみ
     song_variation:
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 2696B41
       song_name: HAMELN
+      content_type: ''
+  - song_name: 薔薇
+    song_alias:
+    esong_code: 2714A16
+    t_singer_master_id: '542'
+    singer_name: 門倉 有希
+    singer_alias:
+    available_date: '2011-11-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はら
+    singer_name_ruby: かとくらゆき
+    song_variation:
+    - esong_code: 2714A16
+      song_name: 薔薇
       content_type: ''

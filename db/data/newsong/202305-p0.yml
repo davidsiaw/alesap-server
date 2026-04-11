@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1075
-  all_max_cnt: 1178
-  all_country_cnt: 1075
+  max_cnt: 1171
+  all_max_cnt: 1291
+  all_country_cnt: 1171
   song:
   - song_name: あいあい
     song_alias:
@@ -213,23 +213,6 @@ result:
       content_type: ''
   - song_name: アイドル
     song_alias:
-    esong_code: 4778B35
-    t_singer_master_id: '65777'
-    singer_name: YOASOBI
-    singer_alias:
-    available_date: '2023-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: "【推しの子】<番組名>"
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あいとる
-    singer_name_ruby: よあそひ
-    song_variation:
-    - esong_code: 4778B35
-      song_name: アイドル
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: アイドル
-    song_alias:
     esong_code: 4781A31
     t_singer_master_id: '65777'
     singer_name: YOASOBI
@@ -245,6 +228,23 @@ result:
     - esong_code: 4781A31
       song_name: アイドル
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: アイドル
+    song_alias:
+    esong_code: 4778B35
+    t_singer_master_id: '65777'
+    singer_name: YOASOBI
+    singer_alias:
+    available_date: '2023-05-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: "【推しの子】<番組名>"
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あいとる
+    singer_name_ruby: よあそひ
+    song_variation:
+    - esong_code: 4778B35
+      song_name: アイドル
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: IDOL POWER RAINBOW
     song_alias:
     esong_code: 4791B24
@@ -261,6 +261,23 @@ result:
     song_variation:
     - esong_code: 4791B24
       song_name: IDOL POWER RAINBOW
+      content_type: ''
+  - song_name: あいのうた
+    song_alias:
+    esong_code: 4900A7
+    t_singer_master_id: '37701'
+    singer_name: 高橋 優
+    singer_alias:
+    available_date: '2023-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのうた
+    singer_name_ruby: たかはしゆう
+    song_variation:
+    - esong_code: 4900A7
+      song_name: あいのうた
       content_type: ''
   - song_name: 愛のサバイバー
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 4784A47
       song_name: 青青青
-      content_type: ''
-  - song_name: 青い春と西の空
-    song_alias:
-    esong_code: 4790A28
-    t_singer_master_id: '70461'
-    singer_name: 結束バンド
-    singer_alias:
-    available_date: '2023-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ぼっち・ざ・ろっく!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あおいはるとにしのそ
-    singer_name_ruby: けつそくはんと
-    song_variation:
-    - esong_code: 4790A28
-      song_name: 青い春と西の空
       content_type: ''

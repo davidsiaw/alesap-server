@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 952
-  all_country_cnt: 880
+  max_cnt: 871
+  all_max_cnt: 943
+  all_country_cnt: 871
   song:
-  - song_name: 推しのいる世界
-    song_alias:
-    esong_code: 4443A25
-    t_singer_master_id: '46492'
-    singer_name: the Raid.
-    singer_alias:
-    available_date: '2020-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おしのいるせかい
-    singer_name_ruby: れいと
-    song_variation:
-    - esong_code: 4443A25
-      song_name: 推しのいる世界
-      content_type: ''
-  - song_name: 押すだけDJ
-    song_alias:
-    esong_code: 4442B4
-    t_singer_master_id: '66071'
-    singer_name: ザ・リーサルウェポンズ
-    singer_alias:
-    available_date: '2020-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おすたけていし
-    singer_name_ruby: さりさるうえほんす
-    song_variation:
-    - esong_code: 4442B4
-      song_name: 押すだけDJ
-      content_type: ''
-  - song_name: 男泣き
-    song_alias:
-    esong_code: 4352B5
-    t_singer_master_id: '42510'
-    singer_name: 俊 たかはし
-    singer_alias:
-    available_date: '2020-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこなき
-    singer_name_ruby: としたかはし
-    song_variation:
-    - esong_code: 4352B5
-      song_name: 男泣き
-      content_type: ''
   - song_name: 男の海
     song_alias:
     esong_code: 4161A47
@@ -451,6 +400,23 @@ result:
       content_type: VOCALOID
   - song_name: 楓
     song_alias:
+    esong_code: 4443B27
+    t_singer_master_id: '1352'
+    singer_name: 田川 寿美
+    singer_alias:
+    available_date: '2020-11-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: かえて
+    singer_name_ruby: たかわとしみ
+    song_variation:
+    - esong_code: 4443B27
+      song_name: 楓
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 楓
+    song_alias:
     esong_code: 4172B16
     t_singer_master_id: '1352'
     singer_name: 田川 寿美
@@ -483,23 +449,6 @@ result:
     - esong_code: 4440B46
       song_name: 楓
       content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 楓
-    song_alias:
-    esong_code: 4443B27
-    t_singer_master_id: '1352'
-    singer_name: 田川 寿美
-    singer_alias:
-    available_date: '2020-11-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: かえて
-    singer_name_ruby: たかわとしみ
-    song_variation:
-    - esong_code: 4443B27
-      song_name: 楓
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 帰り道はオレンジ
     song_alias:
     esong_code: 4438B21
@@ -517,3 +466,54 @@ result:
     - esong_code: 4438B21
       song_name: 帰り道はオレンジ
       content_type: ''
+  - song_name: 帰れない夜のバラード 「名演ギター 斉藤 功」
+    song_alias:
+    esong_code: 4431B40
+    t_singer_master_id: '22234'
+    singer_name: 秋元 順子
+    singer_alias:
+    available_date: '2020-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かえれないよるのは
+    singer_name_ruby: あきもとしゆんこ
+    song_variation:
+    - esong_code: 4431B40
+      song_name: 帰れない夜のバラード 「名演ギター 斉藤 功」
+      content_type: ''
+  - song_name: 帰れないんだよ
+    song_alias:
+    esong_code: 4352B7
+    t_singer_master_id: '27774'
+    singer_name: 島 悦子
+    singer_alias:
+    available_date: '2020-11-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かえれないんたよ
+    singer_name_ruby: しまえつこ
+    song_variation:
+    - esong_code: 4352B7
+      song_name: 帰れないんだよ
+      content_type: ''
+  - song_name: 帰ろう
+    song_alias:
+    esong_code: 4438A38
+    t_singer_master_id: '65820'
+    singer_name: 藤井 風
+    singer_alias:
+    available_date: '2020-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: かえろう
+    singer_name_ruby: ふしいかせ
+    song_variation:
+    - esong_code: 4438A38
+      song_name: 帰ろう
+      content_type: JOYｸﾘｯﾌﾟ

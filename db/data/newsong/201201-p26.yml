@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
   - song_name: 花ぼうろ 〜霧氷の宿〜 「名演ギター 斉藤 功」
     song_alias:
@@ -41,23 +41,6 @@ result:
     - esong_code: 2738B14
       song_name: 花ぼうろ 〜霧氷の宿〜
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 花ぼうろ 〜霧氷の宿〜
-    song_alias:
-    esong_code: 2739B46
-    t_singer_master_id: '595'
-    singer_name: 川中 美幸
-    singer_alias:
-    available_date: '2012-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: はなほうろ
-    singer_name_ruby: かわなかみゆき
-    song_variation:
-    - esong_code: 2739B46
-      song_name: 花ぼうろ 〜霧氷の宿〜
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 花ぼうろ 〜霧氷の宿〜
     song_alias:
     esong_code: 2732B13
@@ -349,23 +332,6 @@ result:
       content_type: ''
   - song_name: 春暦
     song_alias:
-    esong_code: 2739A44
-    t_singer_master_id: '2230'
-    singer_name: 松前 ひろ子
-    singer_alias:
-    available_date: '2012-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: はるこよみ
-    singer_name_ruby: まつまえひろこ
-    song_variation:
-    - esong_code: 2739A44
-      song_name: 春暦
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 春暦
-    song_alias:
     esong_code: 2740A9
     t_singer_master_id: '2230'
     singer_name: 松前 ひろ子
@@ -381,6 +347,23 @@ result:
     - esong_code: 2740A9
       song_name: 春暦
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 春暦
+    song_alias:
+    esong_code: 2739A44
+    t_singer_master_id: '2230'
+    singer_name: 松前 ひろ子
+    singer_alias:
+    available_date: '2012-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: はるこよみ
+    singer_name_ruby: まつまえひろこ
+    song_variation:
+    - esong_code: 2739A44
+      song_name: 春暦
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: HaruHaru (Japanese Version)
     song_alias:
     esong_code: 2747B45
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2746A45
       song_name: 般若の面 -Mask of hannya- feat.鏡音リン、鏡音レン
+      content_type: VOCALOID
+  - song_name: ピアス feat.GUMI
+    song_alias:
+    esong_code: 2746A12
+    t_singer_master_id: '40528'
+    singer_name: 蝶々P
+    singer_alias:
+    available_date: '2012-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ひあす
+    singer_name_ruby: ちようちようひ
+    song_variation:
+    - esong_code: 2746A12
+      song_name: ピアス feat.GUMI
       content_type: VOCALOID

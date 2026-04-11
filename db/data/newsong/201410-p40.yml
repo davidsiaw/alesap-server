@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1499
-  all_max_cnt: 1700
-  all_country_cnt: 1499
+  max_cnt: 1492
+  all_max_cnt: 1694
+  all_country_cnt: 1492
   song:
-  - song_name: 星屑のインターリュード
-    song_alias:
-    esong_code: 3344B9
-    t_singer_master_id: '48713'
-    singer_name: fhana
-    singer_alias:
-    available_date: '2014-10-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 天体のメソッド<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしくすのいんた
-    singer_name_ruby: ふあな
-    song_variation:
-    - esong_code: 3344B9
-      song_name: 星屑のインターリュード
-      content_type: ''
-  - song_name: Positive Life
-    song_alias:
-    esong_code: 3337B39
-    t_singer_master_id: '44572'
-    singer_name: Kraster feat.Ne;on
-    singer_alias:
-    available_date: '2014-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方星蓮船 〜Undefined Fantastic Object.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: ほしていふらい
-    singer_name_ruby: くらすたふいちやりんくね
-    song_variation:
-    - esong_code: 3337B39
-      song_name: Positive Life
-      content_type: 東方
-  - song_name: ホシトハナ
-    song_alias:
-    esong_code: 3343B36
-    t_singer_master_id: '51860'
-    singer_name: 讃州中学勇者部
-    singer_alias:
-    available_date: '2014-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 結城友奈は勇者である<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしとはな
-    singer_name_ruby: さんしゆうちゆうかくゆうしやふ
-    song_variation:
-    - esong_code: 3343B36
-      song_name: ホシトハナ
-      content_type: ''
-  - song_name: 星に沈む
-    song_alias:
-    esong_code: 3343A6
-    t_singer_master_id: '51852'
-    singer_name: 群青リボン
-    singer_alias:
-    available_date: '2014-10-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方幻想郷 〜Lotus Land Story.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: ほしにしすむ
-    singer_name_ruby: くんしようりほん
-    song_variation:
-    - esong_code: 3343A6
-      song_name: 星に沈む
-      content_type: 東方
   - song_name: 星になる
     song_alias:
     esong_code: 3344A1
@@ -151,7 +83,7 @@ result:
     singer_alias:
     available_date: '2014-10-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 牙狼-GARO- 〜炎の刻印〜<番組名>
+    tie_up: 牙狼-GARO-(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ほのおのこくいんて
@@ -236,7 +168,7 @@ result:
     singer_alias:
     available_date: '2014-10-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA Judge End<番組名>
+    tie_up: 戦国BASARA(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ほらりす
@@ -315,23 +247,6 @@ result:
       content_type: ''
   - song_name: 惚れたのさ
     song_alias:
-    esong_code: 3021B11
-    t_singer_master_id: '1047'
-    singer_name: 島津 悦子
-    singer_alias:
-    available_date: '2014-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほれたのさ
-    singer_name_ruby: しまつえつこ
-    song_variation:
-    - esong_code: 3021B11
-      song_name: 惚れたのさ
-      content_type: ''
-  - song_name: 惚れたのさ
-    song_alias:
     esong_code: 3021B6
     t_singer_master_id: '1047'
     singer_name: 島津 悦子
@@ -347,6 +262,23 @@ result:
     - esong_code: 3021B6
       song_name: 惚れたのさ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 惚れたのさ
+    song_alias:
+    esong_code: 3021B11
+    t_singer_master_id: '1047'
+    singer_name: 島津 悦子
+    singer_alias:
+    available_date: '2014-10-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほれたのさ
+    singer_name_ruby: しまつえつこ
+    song_variation:
+    - esong_code: 3021B11
+      song_name: 惚れたのさ
+      content_type: ''
   - song_name: White Ash
     song_alias:
     esong_code: 3338A2
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 3340B26
       song_name: My Smile
+      content_type: ''
+  - song_name: my name is...
+    song_alias:
+    esong_code: 3345B48
+    t_singer_master_id: '40669'
+    singer_name: VALSHE
+    singer_alias:
+    available_date: '2014-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいねむいす
+    singer_name_ruby: はるしえ
+    song_variation:
+    - esong_code: 3345B48
+      song_name: my name is...
+      content_type: ''
+  - song_name: マイム
+    song_alias:
+    esong_code: 3334A30
+    t_singer_master_id: '7906'
+    singer_name: Plastic Tree
+    singer_alias:
+    available_date: '2014-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいむ
+    singer_name_ruby: ふらすていつくとうり
+    song_variation:
+    - esong_code: 3334A30
+      song_name: マイム
+      content_type: ''
+  - song_name: My Life Your Life
+    song_alias:
+    esong_code: 3333B25
+    t_singer_master_id: '1349'
+    singer_name: 宝塚歌劇団
+    singer_alias:
+    available_date: '2014-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいらいふゆあらいふ
+    singer_name_ruby: たからつかかけき
+    song_variation:
+    - esong_code: 3333B25
+      song_name: My Life Your Life
+      content_type: ''
+  - song_name: My Road
+    song_alias:
+    esong_code: 3334B43
+    t_singer_master_id: '51760'
+    singer_name: AYUMI
+    singer_alias:
+    available_date: '2014-10-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいろと
+    singer_name_ruby: あゆみ
+    song_variation:
+    - esong_code: 3334B43
+      song_name: My Road
       content_type: ''

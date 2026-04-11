@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
-  - song_name: レッツ・ラ・クッキン☆ショータイム
-    song_alias:
-    esong_code: 3811B46
-    t_singer_master_id: '29271'
-    singer_name: 宮本 佳那子
-    singer_alias:
-    available_date: '2017-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: キラキラ☆プリキュアアラモード<番組名>
-    country_code: '0'
-    content_type: JOYうたいり
-    song_name_ruby: れつつらくつきんしよ
-    singer_name_ruby: みやもとかなこ
-    song_variation:
-    - esong_code: 3811B46
-      song_name: レッツ・ラ・クッキン☆ショータイム
-      content_type: JOYうたいり
-  - song_name: Let It Sway
-    song_alias:
-    esong_code: 3806A21
-    t_singer_master_id: '58784'
-    singer_name: DYGL
-    singer_alias:
-    available_date: '2017-05-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: れつといつとすうえい
-    singer_name_ruby: ていくろ
-    song_variation:
-    - esong_code: 3806A21
-      song_name: Let It Sway
-      content_type: ''
   - song_name: Red Flash Revolution
     song_alias:
     esong_code: 3809B18
@@ -304,7 +270,7 @@ result:
     singer_alias:
     available_date: '2017-05-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 遙かなる時空の中で6 幻燈ロンド<番組名>
+    tie_up: 遙かなる時空の中で6<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: わいるとあいす
@@ -451,23 +417,6 @@ result:
       content_type: ''
   - song_name: わすれ花
     song_alias:
-    esong_code: 3804B20
-    t_singer_master_id: '813'
-    singer_name: 香西 かおり
-    singer_alias:
-    available_date: '2017-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: わすれはな
-    singer_name_ruby: こうさいかおり
-    song_variation:
-    - esong_code: 3804B20
-      song_name: わすれ花
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: わすれ花
-    song_alias:
     esong_code: 3807A39
     t_singer_master_id: '813'
     singer_name: 香西 かおり
@@ -483,23 +432,40 @@ result:
     - esong_code: 3807A39
       song_name: わすれ花
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: わすれ宿
+  - song_name: わすれ花
     song_alias:
-    esong_code: 3812A15
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
+    esong_code: 3804B20
+    t_singer_master_id: '813'
+    singer_name: 香西 かおり
     singer_alias:
-    available_date: '2017-05-22'
+    available_date: '2017-05-03'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: わすれはな
+    singer_name_ruby: こうさいかおり
+    song_variation:
+    - esong_code: 3804B20
+      song_name: わすれ花
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: わすれ宿
+    song_alias:
+    esong_code: 3805B40
+    t_singer_master_id: '221'
+    singer_name: 五木 ひろし
+    singer_alias:
+    available_date: '2017-05-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
     song_name_ruby: わすれやと
     singer_name_ruby: いつきひろし
     song_variation:
-    - esong_code: 3812A15
+    - esong_code: 3805B40
       song_name: わすれ宿
-      content_type: JOYｸﾘｯﾌﾟ
+      content_type: JOY生演奏
   - song_name: わすれ宿
     song_alias:
     esong_code: 3807A36
@@ -517,3 +483,37 @@ result:
     - esong_code: 3807A36
       song_name: わすれ宿
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: わすれ宿
+    song_alias:
+    esong_code: 3812A15
+    t_singer_master_id: '221'
+    singer_name: 五木 ひろし
+    singer_alias:
+    available_date: '2017-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: わすれやと
+    singer_name_ruby: いつきひろし
+    song_variation:
+    - esong_code: 3812A15
+      song_name: わすれ宿
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: わすれられんぼ
+    song_alias:
+    esong_code: 3814A39
+    t_singer_master_id: '55476'
+    singer_name: After the Rain(そらる×まふまふ)
+    singer_alias:
+    available_date: '2017-05-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わすれられんほ
+    singer_name_ruby: あふたされいん
+    song_variation:
+    - esong_code: 3814A39
+      song_name: わすれられんぼ
+      content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1344
-  all_max_cnt: 1519
-  all_country_cnt: 1344
+  max_cnt: 1334
+  all_max_cnt: 1509
+  all_country_cnt: 1334
   song:
+  - song_name: ウラメシヤ
+    song_alias:
+    esong_code: 3875A17
+    t_singer_master_id: '46492'
+    singer_name: the Raid.
+    singer_alias:
+    available_date: '2017-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うらめしや
+    singer_name_ruby: れいと
+    song_variation:
+    - esong_code: 3875A17
+      song_name: ウラメシヤ
+      content_type: ''
   - song_name: 麗しき世界
     song_alias:
     esong_code: 3881A46
@@ -500,20 +517,3 @@ result:
     - esong_code: 3886B21
       song_name: 大江戸ジュリアナイト feat.初音ミク with KAITO
       content_type: VOCALOID
-  - song_name: 大阪レイニーナイト
-    song_alias:
-    esong_code: 3873B44
-    t_singer_master_id: '28486'
-    singer_name: 小田 純平
-    singer_alias:
-    available_date: '2017-09-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおさかれいにない
-    singer_name_ruby: おたしゆんへい
-    song_variation:
-    - esong_code: 3873B44
-      song_name: 大阪レイニーナイト
-      content_type: ''

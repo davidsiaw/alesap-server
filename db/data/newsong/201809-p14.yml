@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
-  - song_name: 玄海ざくら
-    song_alias:
-    esong_code: 4067B27
-    t_singer_master_id: '32348'
-    singer_name: 渕上 雅代
-    singer_alias:
-    available_date: '2018-09-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けんかいさくら
-    singer_name_ruby: ふちかみまさよ
-    song_variation:
-    - esong_code: 4067B27
-      song_name: 玄海ざくら
-      content_type: ''
-  - song_name: ゲンゲ
-    song_alias:
-    esong_code: 4069A20
-    t_singer_master_id: '49012'
-    singer_name: ゲスの極み乙女
-    singer_alias:
-    available_date: '2018-09-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けんけ
-    singer_name_ruby: けすのきわみおとめ
-    song_variation:
-    - esong_code: 4069A20
-      song_name: ゲンゲ
-      content_type: ''
-  - song_name: 恋唄
-    song_alias:
-    esong_code: 4059B17
-    t_singer_master_id: '7510'
-    singer_name: 岩出 和也
-    singer_alias:
-    available_date: '2018-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいうた
-    singer_name_ruby: いわてかすや
-    song_variation:
-    - esong_code: 4059B17
-      song_name: 恋唄
-      content_type: ''
   - song_name: 恋炎上
     song_alias:
     esong_code: 4057B25
@@ -162,23 +111,6 @@ result:
       content_type: ''
   - song_name: 恋女房
     song_alias:
-    esong_code: 3948B5
-    t_singer_master_id: '1824'
-    singer_name: 原田 悠里
-    singer_alias:
-    available_date: '2018-09-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こいにようほう
-    singer_name_ruby: はらたゆり
-    song_variation:
-    - esong_code: 3948B5
-      song_name: 恋女房
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 恋女房
-    song_alias:
     esong_code: 4067B49
     t_singer_master_id: '1824'
     singer_name: 原田 悠里
@@ -194,6 +126,23 @@ result:
     - esong_code: 4067B49
       song_name: 恋女房
       content_type: ''
+  - song_name: 恋女房
+    song_alias:
+    esong_code: 3948B5
+    t_singer_master_id: '1824'
+    singer_name: 原田 悠里
+    singer_alias:
+    available_date: '2018-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: こいにようほう
+    singer_name_ruby: はらたゆり
+    song_variation:
+    - esong_code: 3948B5
+      song_name: 恋女房
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 恋は手さぐり
     song_alias:
     esong_code: 4063B8
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4065A16
       song_name: 孤独の扉
+      content_type: ''
+  - song_name: 孤独のVampire
+    song_alias:
+    esong_code: 4060B5
+    t_singer_master_id: '62271'
+    singer_name: ROCK DOWN
+    singer_alias:
+    available_date: '2018-09-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: VAZZROCK<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことくのはんは
+    singer_name_ruby: ろつくたうん
+    song_variation:
+    - esong_code: 4060B5
+      song_name: 孤独のVampire
+      content_type: ''
+  - song_name: 言葉につまる (2018ver.)
+    song_alias:
+    esong_code: 4059B11
+    t_singer_master_id: '1148'
+    singer_name: JUN SKY WALKER(S)
+    singer_alias:
+    available_date: '2018-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことはにつまるにせ
+    singer_name_ruby: しゆんすかいうおかす
+    song_variation:
+    - esong_code: 4059B11
+      song_name: 言葉につまる (2018ver.)
+      content_type: ''
+  - song_name: 粉雪フレンズ
+    song_alias:
+    esong_code: 4070A15
+    t_singer_master_id: '60330'
+    singer_name: SPRiNGS
+    singer_alias:
+    available_date: '2018-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 温泉むすめ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こなゆきふれんす
+    singer_name_ruby: すふりんくす
+    song_variation:
+    - esong_code: 4070A15
+      song_name: 粉雪フレンズ
       content_type: ''

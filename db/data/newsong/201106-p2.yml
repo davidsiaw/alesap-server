@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1312
-  all_max_cnt: 1466
-  all_country_cnt: 1312
+  max_cnt: 1301
+  all_max_cnt: 1455
+  all_country_cnt: 1301
   song:
   - song_name: アキラブ
     song_alias:
@@ -162,23 +162,6 @@ result:
       content_type: ''
   - song_name: 明日を信じて
     song_alias:
-    esong_code: 2231B47
-    t_singer_master_id: '1824'
-    singer_name: 原田 悠里
-    singer_alias:
-    available_date: '2011-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすをしんして
-    singer_name_ruby: はらたゆり
-    song_variation:
-    - esong_code: 2231B47
-      song_name: 明日を信じて
-      content_type: ''
-  - song_name: 明日を信じて
-    song_alias:
     esong_code: 491B39
     t_singer_master_id: '1824'
     singer_name: 原田 悠里
@@ -194,6 +177,23 @@ result:
     - esong_code: 491B39
       song_name: 明日を信じて
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 明日を信じて
+    song_alias:
+    esong_code: 2231B47
+    t_singer_master_id: '1824'
+    singer_name: 原田 悠里
+    singer_alias:
+    available_date: '2011-06-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あすをしんして
+    singer_name_ruby: はらたゆり
+    song_variation:
+    - esong_code: 2231B47
+      song_name: 明日を信じて
+      content_type: ''
   - song_name: あたらしいうた
     song_alias:
     esong_code: 1925A48
@@ -417,23 +417,6 @@ result:
       content_type: ''
   - song_name: あの太陽が、この世界を照らし続けるように
     song_alias:
-    esong_code: 2647B23
-    t_singer_master_id: '12187'
-    singer_name: コブクロ
-    singer_alias:
-    available_date: '2011-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: あのたいようかこの
-    singer_name_ruby: こふくろ
-    song_variation:
-    - esong_code: 2647B23
-      song_name: あの太陽が、この世界を照らし続けるように
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: あの太陽が、この世界を照らし続けるように
-    song_alias:
     esong_code: 1923B12
     t_singer_master_id: '12187'
     singer_name: コブクロ
@@ -449,23 +432,23 @@ result:
     - esong_code: 1923B12
       song_name: あの太陽が、この世界を照らし続けるように
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: あの日のうた feat.初音ミク
+  - song_name: あの太陽が、この世界を照らし続けるように
     song_alias:
-    esong_code: 2241B34
-    t_singer_master_id: '39235'
-    singer_name: X-Plorez
+    esong_code: 2647B23
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
     singer_alias:
-    available_date: '2011-06-01'
+    available_date: '2011-06-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: あのひのうた
-    singer_name_ruby: えくすふろれ
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あのたいようかこの
+    singer_name_ruby: こふくろ
     song_variation:
-    - esong_code: 2241B34
-      song_name: あの日のうた feat.初音ミク
-      content_type: VOCALOID
+    - esong_code: 2647B23
+      song_name: あの太陽が、この世界を照らし続けるように
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: あの微笑みを忘れないで [オリカラ]
     song_alias:
     esong_code: 1874A1
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 569B17
       song_name: ABYSS OF THE PSYCHE
+      content_type: ''
+  - song_name: A Whole New World God Only Knows
+    song_alias:
+    esong_code: 1351B33
+    t_singer_master_id: '41206'
+    singer_name: Oratorio The World God Only Knows
+    singer_alias:
+    available_date: '2011-06-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 神のみぞ知るセカイ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あほるにゆわる
+    singer_name_ruby: おらとりおさわるとこつとおんり
+    song_variation:
+    - esong_code: 1351B33
+      song_name: A Whole New World God Only Knows
       content_type: ''

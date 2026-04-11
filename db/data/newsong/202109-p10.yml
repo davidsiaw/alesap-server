@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 888
-  all_max_cnt: 934
-  all_country_cnt: 888
+  max_cnt: 881
+  all_max_cnt: 927
+  all_country_cnt: 881
   song:
-  - song_name: 今夜 涙じゃ帰れない
-    song_alias:
-    esong_code: 4544B36
-    t_singer_master_id: '68428'
-    singer_name: 純烈 with 横山田 ヒロシ、港町 タカシ
-    singer_alias:
-    available_date: '2021-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやなみたしや
-    singer_name_ruby: しゆんれつういすよこやまた
-    song_variation:
-    - esong_code: 4544B36
-      song_name: 今夜 涙じゃ帰れない
-      content_type: ''
   - song_name: 最高速!
     song_alias:
     esong_code: 4547B4
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4542B18
       song_name: シーグラス
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: しぐれの酒場
+    song_alias:
+    esong_code: 4542B12
+    t_singer_master_id: '14133'
+    singer_name: 池田 輝郎(池田輝男)
+    singer_alias:
+    available_date: '2021-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: しくれのさかは
+    singer_name_ruby: いけたてるお
+    song_variation:
+    - esong_code: 4542B12
+      song_name: しぐれの酒場
       content_type: DAMﾌﾟﾛｵｹ

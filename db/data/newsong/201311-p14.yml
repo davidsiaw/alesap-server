@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
+  - song_name: 君が好き
+    song_alias:
+    esong_code: 3162A17
+    t_singer_master_id: '2287'
+    singer_name: Mr.Children
+    singer_alias:
+    available_date: '2013-11-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きみかすき
+    singer_name_ruby: みすたちるとれん
+    song_variation:
+    - esong_code: 3162A17
+      song_name: 君が好き
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: キミ記念日〜生まれて来てくれてアリガトウ。〜
     song_alias:
     esong_code: 3139A38
@@ -196,23 +213,6 @@ result:
       content_type: ''
   - song_name: 君の涙は俺がふく
     song_alias:
-    esong_code: 2844B25
-    t_singer_master_id: '49223'
-    singer_name: 北沢 健
-    singer_alias:
-    available_date: '2013-11-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみのなみたはおれ
-    singer_name_ruby: きたさわけん
-    song_variation:
-    - esong_code: 2844B25
-      song_name: 君の涙は俺がふく
-      content_type: ''
-  - song_name: 君の涙は俺がふく
-    song_alias:
     esong_code: 3142A47
     t_singer_master_id: '49229'
     singer_name: 大門
@@ -226,6 +226,23 @@ result:
     singer_name_ruby: たいもん
     song_variation:
     - esong_code: 3142A47
+      song_name: 君の涙は俺がふく
+      content_type: ''
+  - song_name: 君の涙は俺がふく
+    song_alias:
+    esong_code: 2844B25
+    t_singer_master_id: '49223'
+    singer_name: 北沢 健
+    singer_alias:
+    available_date: '2013-11-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのなみたはおれ
+    singer_name_ruby: きたさわけん
+    song_variation:
+    - esong_code: 2844B25
       song_name: 君の涙は俺がふく
       content_type: ''
   - song_name: GIMME LUV
@@ -472,7 +489,7 @@ result:
     t_singer_master_id: '10162'
     singer_name: ベッキー♪♯(ベッキー)
     singer_alias:
-    available_date: '2013-11-12'
+    available_date: '2013-11-13'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -500,20 +517,3 @@ result:
     - esong_code: 3137B2
       song_name: Q
       content_type: VOCALOID
-  - song_name: 九州慕情
-    song_alias:
-    esong_code: 3145A29
-    t_singer_master_id: '414'
-    singer_name: 岡 ゆう子
-    singer_alias:
-    available_date: '2013-11-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きゆうしゆうほし
-    singer_name_ruby: おかゆうこ
-    song_variation:
-    - esong_code: 3145A29
-      song_name: 九州慕情
-      content_type: ''

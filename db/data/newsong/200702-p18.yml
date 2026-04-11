@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1199
-  all_max_cnt: 1301
-  all_country_cnt: 1199
+  max_cnt: 1196
+  all_max_cnt: 1298
+  all_country_cnt: 1196
   song:
   - song_name: sweetie
     song_alias:
@@ -381,23 +381,6 @@ result:
     - esong_code: 1736A17
       song_name: ZOOT SUITS feat.Papa-B
       content_type: ''
-  - song_name: Stop&ギミーラブ
-    song_alias:
-    esong_code: 155B11
-    t_singer_master_id: '373'
-    singer_name: 大沢 誉志幸
-    singer_alias:
-    available_date: '2007-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すとつふあんとき
-    singer_name_ruby: おおさわよしゆき
-    song_variation:
-    - esong_code: 155B11
-      song_name: Stop&ギミーラブ
-      content_type: ''
   - song_name: STRICTRY BUSINESS feat.DOBERMAN INC
     song_alias:
     esong_code: 1722B20
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1725A34
       song_name: ストロベリmelody
+      content_type: ''
+  - song_name: 砂の城
+    song_alias:
+    esong_code: 1728B42
+    t_singer_master_id: '8452'
+    singer_name: MISIA
+    singer_alias:
+    available_date: '2007-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すなのしろ
+    singer_name_ruby: みしや
+    song_variation:
+    - esong_code: 1728B42
+      song_name: 砂の城
       content_type: ''

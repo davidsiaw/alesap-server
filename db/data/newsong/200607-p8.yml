@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1033
-  all_max_cnt: 1129
-  all_country_cnt: 1033
+  max_cnt: 1024
+  all_max_cnt: 1120
+  all_country_cnt: 1024
   song:
-  - song_name: ガールフレンド
-    song_alias:
-    esong_code: 1568B23
-    t_singer_master_id: '17481'
-    singer_name: ジェット機
-    singer_alias:
-    available_date: '2006-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かるふれんと
-    singer_name_ruby: しえつとき
-    song_variation:
-    - esong_code: 1568B23
-      song_name: ガールフレンド
-      content_type: ''
   - song_name: 枯れたサイレン
     song_alias:
     esong_code: 1583A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1589A38
       song_name: 君の気配
+      content_type: ''
+  - song_name: きみのちかくへ
+    song_alias:
+    esong_code: 1574B32
+    t_singer_master_id: '26261'
+    singer_name: 白石 涼子
+    singer_alias:
+    available_date: '2006-07-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: まほらば 〜Heartful Days〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのちかくへ
+    singer_name_ruby: しらいしりようこ
+    song_variation:
+    - esong_code: 1574B32
+      song_name: きみのちかくへ
       content_type: ''

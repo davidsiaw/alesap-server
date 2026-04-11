@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1103
-  all_max_cnt: 1154
-  all_country_cnt: 1103
+  max_cnt: 1091
+  all_max_cnt: 1142
+  all_country_cnt: 1091
   song:
-  - song_name: WING
-    song_alias:
-    esong_code: 244B44
-    t_singer_master_id: '1339'
-    singer_name: 高橋 洋子
-    singer_alias:
-    available_date: '2005-06-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ああっ女神さまっ (TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういんく
-    singer_name_ruby: たかはしようこ
-    song_variation:
-    - esong_code: 244B44
-      song_name: WING
-      content_type: ''
-  - song_name: WINGS
-    song_alias:
-    esong_code: 1277A39
-    t_singer_master_id: '2596'
-    singer_name: LOOK
-    singer_alias:
-    available_date: '2005-06-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういんくす
-    singer_name_ruby: るつく
-    song_variation:
-    - esong_code: 1277A39
-      song_name: WINGS
-      content_type: ''
   - song_name: Winter comes around
     song_alias:
     esong_code: 489A17
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 762A49
       song_name: exodus
+      content_type: ''
+  - song_name: S・O・S
+    song_alias:
+    esong_code: 1271A32
+    t_singer_master_id: '1967'
+    singer_name: ピンク・レディー
+    singer_alias:
+    available_date: '2005-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: えすおえす
+    singer_name_ruby: ひんくれてい
+    song_variation:
+    - esong_code: 1271A32
+      song_name: S・O・S
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: ESCAPE GENERATION
+    song_alias:
+    esong_code: 1114A47
+    t_singer_master_id: '1867'
+    singer_name: PERSONZ
+    singer_alias:
+    available_date: '2005-06-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えすけふしえね
+    singer_name_ruby: はそんす
+    song_variation:
+    - esong_code: 1114A47
+      song_name: ESCAPE GENERATION
       content_type: ''

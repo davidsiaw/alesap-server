@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1080
-  all_max_cnt: 1211
-  all_country_cnt: 1080
+  max_cnt: 1066
+  all_max_cnt: 1197
+  all_country_cnt: 1066
   song:
   - song_name: 急がば回れ
     song_alias:
@@ -211,23 +211,6 @@ result:
     - esong_code: 4190B30
       song_name: いてもたっても
       content_type: ''
-  - song_name: いとし いとしと Say My Heart
-    song_alias:
-    esong_code: 4192B49
-    t_singer_master_id: '39220'
-    singer_name: アンジュルム(スマイレージ)
-    singer_alias:
-    available_date: '2019-05-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いとしいとしとせいま
-    singer_name_ruby: あんしゆるむ
-    song_variation:
-    - esong_code: 4192B49
-      song_name: いとし いとしと Say My Heart
-      content_type: ''
   - song_name: いトシのプッチンプリン
     song_alias:
     esong_code: 4188A15
@@ -262,23 +245,6 @@ result:
     - esong_code: 4190B29
       song_name: 祈り〜INORI〜
       content_type: ''
-  - song_name: 今
-    song_alias:
-    esong_code: 4192A43
-    t_singer_master_id: '43353'
-    singer_name: 藍井 エイル
-    singer_alias:
-    available_date: '2019-05-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いま
-    singer_name_ruby: あおいえいる
-    song_variation:
-    - esong_code: 4192A43
-      song_name: 今
-      content_type: ''
   - song_name: 現在
     song_alias:
     esong_code: 4190A25
@@ -296,6 +262,23 @@ result:
     - esong_code: 4190A25
       song_name: 現在
       content_type: ''
+  - song_name: 今
+    song_alias:
+    esong_code: 4192A43
+    t_singer_master_id: '43353'
+    singer_name: 藍井 エイル
+    singer_alias:
+    available_date: '2019-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いま
+    singer_name_ruby: あおいえいる
+    song_variation:
+    - esong_code: 4192A43
+      song_name: 今
+      content_type: ''
   - song_name: いま会いにゆきます 〜If You〜
     song_alias:
     esong_code: 4184A19
@@ -312,23 +295,6 @@ result:
     song_variation:
     - esong_code: 4184A19
       song_name: いま会いにゆきます 〜If You〜
-      content_type: ''
-  - song_name: i-mage <in/AR>
-    song_alias:
-    esong_code: 4182B49
-    t_singer_master_id: '43113'
-    singer_name: Aimer
-    singer_alias:
-    available_date: '2019-05-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いましいんえあ
-    singer_name_ruby: えめ
-    song_variation:
-    - esong_code: 4182B49
-      song_name: i-mage <in/AR>
       content_type: ''
   - song_name: いまの彼氏は医大生 (album ver.)
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4192B25
       song_name: We can go now!
+      content_type: ''
+  - song_name: We Two
+    song_alias:
+    esong_code: 4183A1
+    t_singer_master_id: '43113'
+    singer_name: Aimer
+    singer_alias:
+    available_date: '2019-05-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういとう
+    singer_name_ruby: えめ
+    song_variation:
+    - esong_code: 4183A1
+      song_name: We Two
+      content_type: ''
+  - song_name: WEAVERヒットソングメドレー
+    song_alias:
+    esong_code: 4189A24
+    t_singer_master_id: '37886'
+    singer_name: WEAVER
+    singer_alias:
+    available_date: '2019-05-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういはひつとそ
+    singer_name_ruby: ういは
+    song_variation:
+    - esong_code: 4189A24
+      song_name: WEAVERヒットソングメドレー
       content_type: ''

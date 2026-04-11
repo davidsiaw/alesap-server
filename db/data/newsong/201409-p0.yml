@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1549
-  all_max_cnt: 1789
-  all_country_cnt: 1549
+  max_cnt: 1543
+  all_max_cnt: 1783
+  all_country_cnt: 1543
   song:
   - song_name: あゝ富岡製糸
     song_alias:
@@ -145,23 +145,6 @@ result:
       content_type: ''
   - song_name: 愛鍵
     song_alias:
-    esong_code: 3321B35
-    t_singer_master_id: '22234'
-    singer_name: 秋元 順子
-    singer_alias:
-    available_date: '2014-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あいかき
-    singer_name_ruby: あきもとしゆんこ
-    song_variation:
-    - esong_code: 3321B35
-      song_name: 愛鍵
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 愛鍵
-    song_alias:
     esong_code: 3002B47
     t_singer_master_id: '22234'
     singer_name: 秋元 順子
@@ -177,6 +160,23 @@ result:
     - esong_code: 3002B47
       song_name: 愛鍵
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 愛鍵
+    song_alias:
+    esong_code: 3321B35
+    t_singer_master_id: '22234'
+    singer_name: 秋元 順子
+    singer_alias:
+    available_date: '2014-09-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あいかき
+    singer_name_ruby: あきもとしゆんこ
+    song_variation:
+    - esong_code: 3321B35
+      song_name: 愛鍵
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: I can not be a good boy
     song_alias:
     esong_code: 3316A29
@@ -332,23 +332,6 @@ result:
       content_type: ''
   - song_name: 逢いたくて金沢
     song_alias:
-    esong_code: 3326B11
-    t_singer_master_id: '44835'
-    singer_name: みやさと 奏
-    singer_alias:
-    available_date: '2014-09-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あいたくてかなさわ
-    singer_name_ruby: みやさとかな
-    song_variation:
-    - esong_code: 3326B11
-      song_name: 逢いたくて金沢
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 逢いたくて金沢
-    song_alias:
     esong_code: 3326B1
     t_singer_master_id: '44835'
     singer_name: みやさと 奏
@@ -364,7 +347,24 @@ result:
     - esong_code: 3326B1
       song_name: 逢いたくて金沢
       content_type: JOY生演奏
-  - song_name: 愛の面影 (壮一帆) [DAM本人歌唱]
+  - song_name: 逢いたくて金沢
+    song_alias:
+    esong_code: 3326B11
+    t_singer_master_id: '44835'
+    singer_name: みやさと 奏
+    singer_alias:
+    available_date: '2014-09-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいたくてかなさわ
+    singer_name_ruby: みやさとかな
+    song_variation:
+    - esong_code: 3326B11
+      song_name: 逢いたくて金沢
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 愛の面影 (壮一帆)[DAM本人歌唱]
     song_alias:
     esong_code: 3322A27
     t_singer_master_id: '1349'
@@ -379,7 +379,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3322A27
-      song_name: 愛の面影 (壮一帆) [DAM本人歌唱]
+      song_name: 愛の面影 (壮一帆)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 愛の鎖 〜Dans ces bras-La〜
     song_alias:

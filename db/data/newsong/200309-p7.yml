@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 385
-  all_max_cnt: 411
-  all_country_cnt: 385
+  max_cnt: 380
+  all_max_cnt: 405
+  all_country_cnt: 380
   song:
-  - song_name: TOKYO NIGHT パラダイス
-    song_alias:
-    esong_code: 739B23
-    t_singer_master_id: '16428'
-    singer_name: The Butter Peanuts
-    singer_alias:
-    available_date: '2003-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきようないとは
-    singer_name_ruby: さはたひなつつ
-    song_variation:
-    - esong_code: 739B23
-      song_name: TOKYO NIGHT パラダイス
-      content_type: ''
-  - song_name: どうしてそうなの？
-    song_alias:
-    esong_code: 256B39
-    t_singer_master_id: '5589'
-    singer_name: 水谷 優子
-    singer_alias:
-    available_date: '2003-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ふしぎの海のナディア<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうしてそうなの
-    singer_name_ruby: みすたにゆうこ
-    song_variation:
-    - esong_code: 256B39
-      song_name: どうしてそうなの？
-      content_type: ''
   - song_name: 2HOT feat.SPHRE of INFLUENCE
     song_alias:
     esong_code: 728A40
@@ -279,23 +245,6 @@ result:
     - esong_code: 639B31
       song_name: Night Flight 〜夜間飛行〜
       content_type: ''
-  - song_name: 泣きむし海峡
-    song_alias:
-    esong_code: 643B29
-    t_singer_master_id: '13954'
-    singer_name: 椎名 佐千子
-    singer_alias:
-    available_date: '2003-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なきむしかいきよう
-    singer_name_ruby: しいなさちこ
-    song_variation:
-    - esong_code: 643B29
-      song_name: 泣きむし海峡
-      content_type: ''
   - song_name: 夏の誘惑
     song_alias:
     esong_code: 775A6
@@ -349,23 +298,6 @@ result:
       content_type: ''
   - song_name: 波、白く
     song_alias:
-    esong_code: 789A10
-    t_singer_master_id: '14400'
-    singer_name: ACIDMAN
-    singer_alias:
-    available_date: '2003-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみしろく
-    singer_name_ruby: あしつとまん
-    song_variation:
-    - esong_code: 789A10
-      song_name: 波、白く
-      content_type: ''
-  - song_name: 波、白く
-    song_alias:
     esong_code: 638B31
     t_singer_master_id: '14400'
     singer_name: ACIDMAN
@@ -381,6 +313,23 @@ result:
     - esong_code: 638B31
       song_name: 波、白く
       content_type: DAM良音
+  - song_name: 波、白く
+    song_alias:
+    esong_code: 789A10
+    t_singer_master_id: '14400'
+    singer_name: ACIDMAN
+    singer_alias:
+    available_date: '2003-09-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみしろく
+    singer_name_ruby: あしつとまん
+    song_variation:
+    - esong_code: 789A10
+      song_name: 波、白く
+      content_type: ''
   - song_name: 涙のイタリアン・ツイスト
     song_alias:
     esong_code: 640B34
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 639A34
       song_name: NEW AGE CULTURE
+      content_type: ''
+  - song_name: 人間模様
+    song_alias:
+    esong_code: 765B36
+    t_singer_master_id: '174'
+    singer_name: 石川 さゆり(SAYURI)
+    singer_alias:
+    available_date: '2003-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にんけんもよう
+    singer_name_ruby: いしかわさゆり
+    song_variation:
+    - esong_code: 765B36
+      song_name: 人間模様
+      content_type: ''
+  - song_name: 熱
+    song_alias:
+    esong_code: 634A27
+    t_singer_master_id: '15927'
+    singer_name: マニ☆ラバ
+    singer_alias:
+    available_date: '2003-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねつ
+    singer_name_ruby: まにらは
+    song_variation:
+    - esong_code: 634A27
+      song_name: 熱
+      content_type: ''
+  - song_name: No doubt
+    song_alias:
+    esong_code: 637B40
+    t_singer_master_id: '14348'
+    singer_name: Lead
+    singer_alias:
+    available_date: '2003-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のたうと
+    singer_name_ruby: りと
+    song_variation:
+    - esong_code: 637B40
+      song_name: No doubt
       content_type: ''

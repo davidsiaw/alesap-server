@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1347
-  all_country_cnt: 1229
+  max_cnt: 1222
+  all_max_cnt: 1339
+  all_country_cnt: 1222
   song:
-  - song_name: アイラヴユー
-    song_alias:
-    esong_code: 946B21
-    t_singer_master_id: '44872'
-    singer_name: アップル斎藤と愉快なヘラクレスたち
-    singer_alias:
-    available_date: '2012-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいらふゆ
-    singer_name_ruby: あつふるさいとうとゆかいななかまたち
-    song_variation:
-    - esong_code: 946B21
-      song_name: アイラヴユー
-      content_type: ''
   - song_name: Island Princess featuring ALEXXX
     song_alias:
     esong_code: 705A38
@@ -245,7 +228,7 @@ result:
     - esong_code: 354A31
       song_name: AQUA feat.初音ミク
       content_type: VOCALOID
-  - song_name: 悪ノ召使 feat.鏡音レン
+  - song_name: 悪ノ召使 feat.鏡音レン [DAM本人歌唱]
     song_alias:
     esong_code: 830A40
     t_singer_master_id: '35262'
@@ -260,7 +243,7 @@ result:
     singer_name_ruby: もつちあくのひ
     song_variation:
     - esong_code: 830A40
-      song_name: 悪ノ召使 feat.鏡音レン
+      song_name: 悪ノ召使 feat.鏡音レン [DAM本人歌唱]
       content_type: VOCALOID
   - song_name: A crown
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 982A35
       song_name: あなたと・薩摩路
+      content_type: ''
+  - song_name: あなたとだから歩める道
+    song_alias:
+    esong_code: 380B3
+    t_singer_master_id: '37701'
+    singer_name: 高橋 優
+    singer_alias:
+    available_date: '2012-05-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたとたからあゆ
+    singer_name_ruby: たかはしゆう
+    song_variation:
+    - esong_code: 380B3
+      song_name: あなたとだから歩める道
       content_type: ''

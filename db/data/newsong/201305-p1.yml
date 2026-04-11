@@ -3,25 +3,25 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
   - song_name: I LOVE YOU
     song_alias:
-    esong_code: 3031A2
-    t_singer_master_id: '8599'
-    singer_name: 堂本 剛(from KinKi Kids)
+    esong_code: 9B2
+    t_singer_master_id: '777'
+    singer_name: 桑名 晴子(HALKO)
     singer_alias:
-    available_date: '2013-05-08'
+    available_date: '2013-05-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: あいらふゆ
-    singer_name_ruby: とうもとつよし
+    singer_name_ruby: くわなはるこ
     song_variation:
-    - esong_code: 3031A2
+    - esong_code: 9B2
       song_name: I LOVE YOU
       content_type: ''
   - song_name: I'll Be With You
@@ -219,7 +219,7 @@ result:
     singer_alias:
     available_date: '2013-05-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 スーパー歌謡ショウ 〜新西遊記〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あくとくのはなひら
@@ -295,6 +295,23 @@ result:
     song_variation:
     - esong_code: 3033A9
       song_name: 明日のために、
+      content_type: ''
+  - song_name: アースチャイルド
+    song_alias:
+    esong_code: 3030A2
+    t_singer_master_id: '39377'
+    singer_name: SEKAI NO OWARI(世界の終わり)
+    singer_alias:
+    available_date: '2013-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あすちやいると
+    singer_name_ruby: せかいのおわり
+    song_variation:
+    - esong_code: 3030A2
+      song_name: アースチャイルド
       content_type: ''
   - song_name: 熱い砂
     song_alias:
@@ -423,7 +440,7 @@ result:
     singer_alias:
     available_date: '2013-05-08'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あなたにきようもほほ
@@ -449,23 +466,6 @@ result:
     - esong_code: 3048B23
       song_name: あなたの笑顔 〜トゥトゥアロハ〜
       content_type: ''
-  - song_name: あなたのそばに
-    song_alias:
-    esong_code: 3048A21
-    t_singer_master_id: '793'
-    singer_name: 桂 銀淑
-    singer_alias:
-    available_date: '2013-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あなたのそはに
-    singer_name_ruby: けいうんすく
-    song_variation:
-    - esong_code: 3048A21
-      song_name: あなたのそばに
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: あなたのそばに・・・
     song_alias:
     esong_code: 3030A26
@@ -483,6 +483,23 @@ result:
     - esong_code: 3030A26
       song_name: あなたのそばに・・・
       content_type: ''
+  - song_name: あなたのそばに
+    song_alias:
+    esong_code: 3048A21
+    t_singer_master_id: '793'
+    singer_name: 桂 銀淑
+    singer_alias:
+    available_date: '2013-05-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あなたのそはに
+    singer_name_ruby: けいうんすく
+    song_variation:
+    - esong_code: 3048A21
+      song_name: あなたのそばに
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: あなたの花になりたい
     song_alias:
     esong_code: 3037A43
@@ -500,20 +517,3 @@ result:
     - esong_code: 3037A43
       song_name: あなたの花になりたい
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: あなたを許さない!
-    song_alias:
-    esong_code: 3052A18
-    t_singer_master_id: '14469'
-    singer_name: 車 恩心
-    singer_alias:
-    available_date: '2013-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたをゆるさない
-    singer_name_ruby: しやおんしん
-    song_variation:
-    - esong_code: 3052A18
-      song_name: あなたを許さない!
-      content_type: ''

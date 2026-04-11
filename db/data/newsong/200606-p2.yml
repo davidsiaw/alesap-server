@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1410
-  all_max_cnt: 1498
-  all_country_cnt: 1410
+  max_cnt: 1399
+  all_max_cnt: 1487
+  all_country_cnt: 1399
   song:
   - song_name: アーティスト出身別メドレー 〜大阪〜
     song_alias:
@@ -449,23 +449,6 @@ result:
     - esong_code: 1534A28
       song_name: 嵐ヶ丘
       content_type: ''
-  - song_name: ありがとう
-    song_alias:
-    esong_code: 1436A35
-    t_singer_master_id: '24990'
-    singer_name: しいの 乙吉
-    singer_alias:
-    available_date: '2006-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: しいのおときち
-    song_variation:
-    - esong_code: 1436A35
-      song_name: ありがとう
-      content_type: ''
   - song_name: a little pain
     song_alias:
     esong_code: 1531B6
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1533B17
       song_name: allegretto 〜そらときみ〜
+      content_type: ''
+  - song_name: あわんあわん音頭
+    song_alias:
+    esong_code: 175B49
+    t_singer_master_id: '567'
+    singer_name: 嘉門 達夫
+    singer_alias:
+    available_date: '2006-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あわんあわんおんと
+    singer_name_ruby: かもんたつお
+    song_variation:
+    - esong_code: 175B49
+      song_name: あわんあわん音頭
       content_type: ''

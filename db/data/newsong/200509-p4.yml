@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 754
-  all_max_cnt: 832
-  all_country_cnt: 754
+  max_cnt: 749
+  all_max_cnt: 827
+  all_country_cnt: 749
   song:
-  - song_name: オ・ネ・ガ・イRADIO
-    song_alias:
-    esong_code: 1123A7
-    t_singer_master_id: '1462'
-    singer_name: TUBE
-    singer_alias:
-    available_date: '2005-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おねかいらしお
-    singer_name_ruby: ちゆふ
-    song_variation:
-    - esong_code: 1123A7
-      song_name: オ・ネ・ガ・イRADIO
-      content_type: ''
   - song_name: Oh! Baby
     song_alias:
     esong_code: 1372A29
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1366B1
       song_name: 金沢望郷歌
+      content_type: ''
+  - song_name: 悲しみにこんにちは
+    song_alias:
+    esong_code: 1372B27
+    t_singer_master_id: '16857'
+    singer_name: 安藤 裕子
+    singer_alias:
+    available_date: '2005-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしみのこんにちは
+    singer_name_ruby: あんとうゆうこ
+    song_variation:
+    - esong_code: 1372B27
+      song_name: 悲しみにこんにちは
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 973
-  all_max_cnt: 1055
-  all_country_cnt: 973
+  max_cnt: 965
+  all_max_cnt: 1047
+  all_country_cnt: 965
   song:
-  - song_name: 池田節
-    song_alias:
-    esong_code: 2422B30
-    t_singer_master_id: '38079'
-    singer_name: 大久保 ノブオ
-    singer_alias:
-    available_date: '2009-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いけたふし
-    singer_name_ruby: おおくほのふお
-    song_variation:
-    - esong_code: 2422B30
-      song_name: 池田節
-      content_type: ''
   - song_name: イケ恋歌 feat.鏡音レン
     song_alias:
     esong_code: 2421B30
@@ -43,23 +26,6 @@ result:
       content_type: VOCALOID
   - song_name: 居酒屋かもめ流れ酒
     song_alias:
-    esong_code: 2394A46
-    t_singer_master_id: '611'
-    singer_name: 冠 二郎
-    singer_alias:
-    available_date: '2009-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いさかやかもめなか
-    singer_name_ruby: かんむりしろう
-    song_variation:
-    - esong_code: 2394A46
-      song_name: 居酒屋かもめ流れ酒
-      content_type: ''
-  - song_name: 居酒屋かもめ流れ酒
-    song_alias:
     esong_code: 2422A27
     t_singer_master_id: '611'
     singer_name: 冠 二郎
@@ -75,6 +41,23 @@ result:
     - esong_code: 2422A27
       song_name: 居酒屋かもめ流れ酒
       content_type: DAM生音
+  - song_name: 居酒屋かもめ流れ酒
+    song_alias:
+    esong_code: 2394A46
+    t_singer_master_id: '611'
+    singer_name: 冠 二郎
+    singer_alias:
+    available_date: '2009-11-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いさかやかもめなか
+    singer_name_ruby: かんむりしろう
+    song_variation:
+    - esong_code: 2394A46
+      song_name: 居酒屋かもめ流れ酒
+      content_type: ''
   - song_name: Easy Going
     song_alias:
     esong_code: 2431B21
@@ -151,21 +134,21 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: いちょう
     song_alias:
-    esong_code: 2422A14
+    esong_code: 2417A7
     t_singer_master_id: '36108'
     singer_name: 遊助
     singer_alias:
-    available_date: '2009-11-30'
+    available_date: '2009-11-04'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type:
     song_name_ruby: いちよう
     singer_name_ruby: ゆうすけ
     song_variation:
-    - esong_code: 2422A14
+    - esong_code: 2417A7
       song_name: いちょう
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: ''
   - song_name: いちょう
     song_alias:
     esong_code: 2442B49
@@ -185,21 +168,21 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: いちょう
     song_alias:
-    esong_code: 2417A7
+    esong_code: 2422A14
     t_singer_master_id: '36108'
     singer_name: 遊助
     singer_alias:
-    available_date: '2009-11-04'
+    available_date: '2009-11-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: いちよう
     singer_name_ruby: ゆうすけ
     song_variation:
-    - esong_code: 2417A7
+    - esong_code: 2422A14
       song_name: いちょう
-      content_type: ''
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: いっしょならへいきだよ
     song_alias:
     esong_code: 2036A22
@@ -523,3 +506,20 @@ result:
     - esong_code: 2428A32
       song_name: 陰陽 feat.鏡音レン
       content_type: VOCALOID
+  - song_name: With you
+    song_alias:
+    esong_code: 2421A35
+    t_singer_master_id: '10188'
+    singer_name: AAA
+    singer_alias:
+    available_date: '2009-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 犬夜叉<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういすゆ
+    singer_name_ruby: とりふるえ
+    song_variation:
+    - esong_code: 2421A35
+      song_name: With you
+      content_type: ''

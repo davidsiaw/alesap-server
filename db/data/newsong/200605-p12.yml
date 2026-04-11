@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1356
-  all_max_cnt: 1472
-  all_country_cnt: 1356
+  max_cnt: 1352
+  all_max_cnt: 1469
+  all_country_cnt: 1352
   song:
   - song_name: キロロのいちばんイイ歌あつめましたメドレー Vol.2
     song_alias:
@@ -432,23 +432,6 @@ result:
     - esong_code: 1257A7
       song_name: 悔やんでもムダ
       content_type: ''
-  - song_name: CRY
-    song_alias:
-    esong_code: 1512B36
-    t_singer_master_id: '22919'
-    singer_name: UCHUSENTAI:NOIZ(宇宙戦隊NOIZ)
-    singer_alias:
-    available_date: '2006-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: くらい
-    singer_name_ruby: うちゆうせんたいのいす
-    song_variation:
-    - esong_code: 1512B36
-      song_name: CRY
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: グラデーション
     song_alias:
     esong_code: 1511A25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1509B21
       song_name: 車にゆられて
+      content_type: ''
+  - song_name: Close To You
+    song_alias:
+    esong_code: 1535B3
+    t_singer_master_id: '1767'
+    singer_name: ハウンド・ドッグ
+    singer_alias:
+    available_date: '2006-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くろすとうゆ
+    singer_name_ruby: はうんととつく
+    song_variation:
+    - esong_code: 1535B3
+      song_name: Close To You
       content_type: ''

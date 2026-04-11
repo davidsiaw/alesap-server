@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: こもりうた
-    song_alias:
-    esong_code: 1865B12
-    t_singer_master_id: '25453'
-    singer_name: 樹海
-    singer_alias:
-    available_date: '2007-09-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こもりうた
-    singer_name_ruby: しゆかい
-    song_variation:
-    - esong_code: 1865B12
-      song_name: こもりうた
-      content_type: ''
   - song_name: 今宵の月のように
     song_alias:
     esong_code: 1864B15
@@ -349,23 +332,6 @@ result:
       content_type: ''
   - song_name: さくら(独唱)
     song_alias:
-    esong_code: 1864B29
-    t_singer_master_id: '13116'
-    singer_name: キンモクセイ
-    singer_alias:
-    available_date: '2007-09-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくらとくしよう
-    singer_name_ruby: きんもくせい
-    song_variation:
-    - esong_code: 1864B29
-      song_name: さくら(独唱)
-      content_type: ''
-  - song_name: さくら(独唱)
-    song_alias:
     esong_code: 1870B22
     t_singer_master_id: '15467'
     singer_name: 森山 直太朗
@@ -381,6 +347,23 @@ result:
     - esong_code: 1870B22
       song_name: さくら(独唱)
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: さくら(独唱)
+    song_alias:
+    esong_code: 1864B29
+    t_singer_master_id: '13116'
+    singer_name: キンモクセイ
+    singer_alias:
+    available_date: '2007-09-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらとくしよう
+    singer_name_ruby: きんもくせい
+    song_variation:
+    - esong_code: 1864B29
+      song_name: さくら(独唱)
+      content_type: ''
   - song_name: 桜慕情
     song_alias:
     esong_code: 1809A11
@@ -474,7 +457,7 @@ result:
     singer_alias:
     available_date: '2007-09-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 第6期ドラマCD Vol.3紐育編 「オーバーザ〜」<番組名>
+    tie_up: サクラ大戦(ドラマCD版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さしてい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1863A14
       song_name: THE TRAIN'S GONE…
+      content_type: ''
+  - song_name: サバイバーズ・バンケット
+    song_alias:
+    esong_code: 1871B31
+    t_singer_master_id: '12020'
+    singer_name: ソウル・フラワー・ユニオン
+    singer_alias:
+    available_date: '2007-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さはいはすは
+    singer_name_ruby: そうるふらわゆにおん
+    song_variation:
+    - esong_code: 1871B31
+      song_name: サバイバーズ・バンケット
       content_type: ''

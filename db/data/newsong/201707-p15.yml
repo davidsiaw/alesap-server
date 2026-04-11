@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1314
-  all_max_cnt: 1472
-  all_country_cnt: 1314
+  max_cnt: 1309
+  all_max_cnt: 1467
+  all_country_cnt: 1309
   song:
-  - song_name: さすらいの望郷
-    song_alias:
-    esong_code: 3166B30
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2017-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さすらいのほうきよ
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 3166B30
-      song_name: さすらいの望郷
-      content_type: ''
-  - song_name: The Chicken Song
-    song_alias:
-    esong_code: 3839A17
-    t_singer_master_id: '50711'
-    singer_name: BLUE ENCOUNT
-    singer_alias:
-    available_date: '2017-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さちきんそんく
-    singer_name_ruby: ふるえんかうんと
-    song_variation:
-    - esong_code: 3839A17
-      song_name: The Chicken Song
-      content_type: ''
   - song_name: さっぽろナイトイン
     song_alias:
     esong_code: 3824B35
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3838B28
       song_name: Thank you for loving me.
+      content_type: ''
+  - song_name: 残侠子守唄
+    song_alias:
+    esong_code: 3842B45
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2017-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんきようこもりう
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 3842B45
+      song_name: 残侠子守唄
+      content_type: ''
+  - song_name: sanctuary
+    song_alias:
+    esong_code: 3847B22
+    t_singer_master_id: '34239'
+    singer_name: Annabel(from anNina)
+    singer_alias:
+    available_date: '2017-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ニル・アドミラリの天秤 帝都幻惑綺譚<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんくちゆあり
+    singer_name_ruby: あなへるあんにな
+    song_variation:
+    - esong_code: 3847B22
+      song_name: sanctuary
       content_type: ''

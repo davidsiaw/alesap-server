@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
   - song_name: 夕霧
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 1629A24
       song_name: 雪が降る
       content_type: ''
-  - song_name: 雪国の女
-    song_alias:
-    esong_code: 1631A46
-    t_singer_master_id: '11878'
-    singer_name: 青戸 健
-    singer_alias:
-    available_date: '2006-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ゆきくにのひと
-    singer_name_ruby: あおとけん
-    song_variation:
-    - esong_code: 1631A46
-      song_name: 雪国の女
-      content_type: DAM生音
   - song_name: 雪国の女
     song_alias:
     esong_code: 1627A38
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1644A23
       song_name: 夢見大橋
+      content_type: ''
+  - song_name: ユメミテイタイ
+    song_alias:
+    esong_code: 1630B15
+    t_singer_master_id: '7891'
+    singer_name: YUKI
+    singer_alias:
+    available_date: '2006-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめみていたい
+    singer_name_ruby: ゆき
+    song_variation:
+    - esong_code: 1630B15
+      song_name: ユメミテイタイ
       content_type: ''

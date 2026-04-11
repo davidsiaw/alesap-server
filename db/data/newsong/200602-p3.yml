@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 902
-  all_max_cnt: 1197
-  all_country_cnt: 902
+  max_cnt: 897
+  all_max_cnt: 1191
+  all_country_cnt: 897
   song:
   - song_name: In the Cemetery
     song_alias:
@@ -270,7 +270,7 @@ result:
     singer_alias:
     available_date: '2006-02-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ 〜放課後のエチュード〜<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: うおりあ
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: 裏町しぐれ
     song_alias:
-    esong_code: 1458A24
-    t_singer_master_id: '7128'
-    singer_name: 三代 沙也可
-    singer_alias:
-    available_date: '2006-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: うらまちしくれ
-    singer_name_ruby: みしろさやか
-    song_variation:
-    - esong_code: 1458A24
-      song_name: 裏町しぐれ
-      content_type: DAM生音
-  - song_name: 裏町しぐれ
-    song_alias:
     esong_code: 1456B27
     t_singer_master_id: '7128'
     singer_name: 三代 沙也可
@@ -415,6 +398,23 @@ result:
     - esong_code: 1456B27
       song_name: 裏町しぐれ
       content_type: ''
+  - song_name: 裏町しぐれ
+    song_alias:
+    esong_code: 1458A24
+    t_singer_master_id: '7128'
+    singer_name: 三代 沙也可
+    singer_alias:
+    available_date: '2006-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: うらまちしくれ
+    singer_name_ruby: みしろさやか
+    song_variation:
+    - esong_code: 1458A24
+      song_name: 裏町しぐれ
+      content_type: DAM生音
   - song_name: 運命よ、今夜は女神らしく (大地真央)
     song_alias:
     esong_code: 1455A12

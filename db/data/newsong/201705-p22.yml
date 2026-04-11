@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
+  - song_name: 千鳥の詩 (永遠に・・・)
+    song_alias:
+    esong_code: 3802B29
+    t_singer_master_id: '58727'
+    singer_name: 浅野 丈史
+    singer_alias:
+    available_date: '2017-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちとりのうたえいえ
+    singer_name_ruby: あさのしようし
+    song_variation:
+    - esong_code: 3802B29
+      song_name: 千鳥の詩 (永遠に・・・)
+      content_type: ''
   - song_name: チープマンデー
     song_alias:
     esong_code: 3815B35
@@ -211,23 +228,6 @@ result:
     - esong_code: 3818B18
       song_name: 月
       content_type: ''
-  - song_name: 月が綺麗
-    song_alias:
-    esong_code: 3815A33
-    t_singer_master_id: '54204'
-    singer_name: 上北 健
-    singer_alias:
-    available_date: '2017-05-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきかきれい
-    singer_name_ruby: かみきたけん
-    song_variation:
-    - esong_code: 3815A33
-      song_name: 月が綺麗
-      content_type: ''
   - song_name: 月がきれい
     song_alias:
     esong_code: 3809A38
@@ -244,6 +244,23 @@ result:
     song_variation:
     - esong_code: 3809A38
       song_name: 月がきれい
+      content_type: ''
+  - song_name: 月が綺麗
+    song_alias:
+    esong_code: 3815A33
+    t_singer_master_id: '54204'
+    singer_name: 上北 健
+    singer_alias:
+    available_date: '2017-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきかきれい
+    singer_name_ruby: かみきたけん
+    song_variation:
+    - esong_code: 3815A33
+      song_name: 月が綺麗
       content_type: ''
   - song_name: つきとさなぎ
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3811B7
       song_name: ディスコ
-      content_type: ''
-  - song_name: day by day
-    song_alias:
-    esong_code: 3815A32
-    t_singer_master_id: '44662'
-    singer_name: 鹿乃
-    singer_alias:
-    available_date: '2017-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ソード・オラトリア<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていはいてい
-    singer_name_ruby: かの
-    song_variation:
-    - esong_code: 3815A32
-      song_name: day by day
       content_type: ''

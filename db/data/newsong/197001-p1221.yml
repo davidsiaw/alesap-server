@@ -3,506 +3,183 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 90601
-  all_max_cnt: 120139
-  all_country_cnt: 90601
+  max_cnt: 103269
+  all_max_cnt: 133030
+  all_country_cnt: 103269
   song:
-  - song_name: さよならをするために
+  - song_name: こころよ 風になれ
     song_alias:
-    esong_code: 559B45
-    t_singer_master_id: '1944'
-    singer_name: ビリー・バンバン
+    esong_code: 2058B21
+    t_singer_master_id: '33340'
+    singer_name: TASO
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころよかせになれ
+    singer_name_ruby: たそ
+    song_variation:
+    - esong_code: 2058B21
+      song_name: こころよ 風になれ
+      content_type: ''
+  - song_name: 心よ原始に戻れ
+    song_alias:
+    esong_code: 891A35
+    t_singer_master_id: '1339'
+    singer_name: 高橋 洋子
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 新世紀エヴァンゲリオン劇場版 シト新生<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころよけんしにも
+    singer_name_ruby: たかはしようこ
+    song_variation:
+    - esong_code: 891A35
+      song_name: 心よ原始に戻れ
+      content_type: ''
+  - song_name: 心酔わせて
+    song_alias:
+    esong_code: 2112B19
+    t_singer_master_id: '11802'
+    singer_name: 川口 哲也
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころよわせて
+    singer_name_ruby: かわくちてつや
+    song_variation:
+    - esong_code: 2112B19
+      song_name: 心酔わせて
+      content_type: ''
+  - song_name: 心酔わせて
+    song_alias:
+    esong_code: 518B34
+    t_singer_master_id: '12259'
+    singer_name: 田代 純子&松野 行秀
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころよわせて
+    singer_name_ruby: たしろしゆんこまつ
+    song_variation:
+    - esong_code: 518B34
+      song_name: 心酔わせて
+      content_type: ''
+  - song_name: ココロランニング
+    song_alias:
+    esong_code: 1173A44
+    t_singer_master_id: '18274'
+    singer_name: 浜崎 貴司
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころらんにんく
+    singer_name_ruby: はまさきたかし
+    song_variation:
+    - esong_code: 1173A44
+      song_name: ココロランニング
+      content_type: ''
+  - song_name: 心をあずけるまで
+    song_alias:
+    esong_code: 238B22
+    t_singer_master_id: '2024'
+    singer_name: 布施 明
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをあすけるま
+    singer_name_ruby: ふせあきら
+    song_variation:
+    - esong_code: 238B22
+      song_name: 心をあずけるまで
+      content_type: ''
+  - song_name: 心を石に
+    song_alias:
+    esong_code: 1662A10
+    t_singer_master_id: '485'
+    singer_name: 海援隊
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをいしに
+    singer_name_ruby: かいえんたい
+    song_variation:
+    - esong_code: 1662A10
+      song_name: 心を石に
+      content_type: ''
+  - song_name: 心を歌いたい
+    song_alias:
+    esong_code: 4861A29
+    t_singer_master_id: '63384'
+    singer_name: Argonavis
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: from ARGONAVIS<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをうたいたい
+    singer_name_ruby: あるこなひす
+    song_variation:
+    - esong_code: 4861A29
+      song_name: 心を歌いたい
+      content_type: ''
+  - song_name: こころをこえて
+    song_alias:
+    esong_code: 1825A16
+    t_singer_master_id: '29887'
+    singer_name: 伊吹 唯
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをこえて
+    singer_name_ruby: いふきゆい
+    song_variation:
+    - esong_code: 1825A16
+      song_name: こころをこえて
+      content_type: ''
+  - song_name: 心を込めて花束を
+    song_alias:
+    esong_code: 5192A39
+    t_singer_master_id: '944'
+    singer_name: サザンオールスターズ
     singer_alias:
     available_date: '1970-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: さよならをするために
-    singer_name_ruby: ひりはんはん
+    song_name_ruby: こころをこめてはなた
+    singer_name_ruby: ささんおるすたす
     song_variation:
-    - esong_code: 559B45
-      song_name: さよならをするために
+    - esong_code: 5192A39
+      song_name: 心を込めて花束を
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: サヨナラを告げた日が近すぎて
+  - song_name: 心を込めて花束を
     song_alias:
-    esong_code: 1175A5
-    t_singer_master_id: '14134'
-    singer_name: 北原 愛子
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならをつけたひ
-    singer_name_ruby: きたはらあいこ
-    song_variation:
-    - esong_code: 1175A5
-      song_name: サヨナラを告げた日が近すぎて
-      content_type: ''
-  - song_name: さよならを手に
-    song_alias:
-    esong_code: 192B47
-    t_singer_master_id: '5124'
-    singer_name: ムーンライダーズ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならをてに
-    singer_name_ruby: むんらいたす
-    song_variation:
-    - esong_code: 192B47
-      song_name: さよならを手に
-      content_type: ''
-  - song_name: さよならを待たせて
-    song_alias:
-    esong_code: 1144B4
-    t_singer_master_id: '977'
-    singer_name: 沢田 研二
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならをまたせて
-    singer_name_ruby: さわたけんし
-    song_variation:
-    - esong_code: 1144B4
-      song_name: さよならを待たせて
-      content_type: ''
-  - song_name: サヨナラを待ってて
-    song_alias:
-    esong_code: 1163A29
-    t_singer_master_id: '10093'
-    singer_name: 松本 英子
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならをまつてて
-    singer_name_ruby: まつもとえいこ
-    song_variation:
-    - esong_code: 1163A29
-      song_name: サヨナラを待ってて
-      content_type: ''
-  - song_name: さよならを待ってる
-    song_alias:
-    esong_code: 3416B42
-    t_singer_master_id: '1607'
-    singer_name: DREAMS COME TRUE
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さよならをまつてる
-    singer_name_ruby: とりむすかむとうる
-    song_variation:
-    - esong_code: 3416B42
-      song_name: さよならを待ってる
-      content_type: DAM生音
-  - song_name: さよならを待ってる
-    song_alias:
-    esong_code: 130A1
-    t_singer_master_id: '1607'
-    singer_name: DREAMS COME TRUE
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならをまつてる
-    singer_name_ruby: とりむすかむとうる
-    song_variation:
-    - esong_code: 130A1
-      song_name: さよならを待ってる
-      content_type: ''
-  - song_name: さよならをもう一度
-    song_alias:
-    esong_code: 130A3
-    t_singer_master_id: '1444'
-    singer_name: チェッカーズ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならをもういちと
-    singer_name_ruby: ちえつかす
-    song_variation:
-    - esong_code: 130A3
-      song_name: さよならをもう一度
-      content_type: ''
-  - song_name: さよならをもう一度
-    song_alias:
-    esong_code: 2875B5
-    t_singer_master_id: '440'
-    singer_name: 尾崎 紀世彦
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: さよならをもういちと
-    singer_name_ruby: おさききよひこ
-    song_variation:
-    - esong_code: 2875B5
-      song_name: さよならをもう一度
-      content_type: JOY生演奏
-  - song_name: さよならをもう一度
-    song_alias:
-    esong_code: 130A2
-    t_singer_master_id: '440'
-    singer_name: 尾崎 紀世彦
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならをもういちと
-    singer_name_ruby: おさききよひこ
-    song_variation:
-    - esong_code: 130A2
-      song_name: さよならをもう一度
-      content_type: ''
-  - song_name: さよならをもう一度
-    song_alias:
-    esong_code: 424A13
-    t_singer_master_id: '440'
-    singer_name: 尾崎 紀世彦
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: さよならをもういちと
-    singer_name_ruby: おさききよひこ
-    song_variation:
-    - esong_code: 424A13
-      song_name: さよならをもう一度
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: さよならをもう一度 (UGA)
-    song_alias:
-    esong_code: 5095A1
-    t_singer_master_id: '440'
-    singer_name: 尾崎 紀世彦
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならをもういちと
-    singer_name_ruby: おさききよひこ
-    song_variation:
-    - esong_code: 5095A1
-      song_name: さよならをもう一度 (UGA)
-      content_type: ''
-  - song_name: さよならを忘れないで
-    song_alias:
-    esong_code: 1092B25
-    t_singer_master_id: '242'
-    singer_name: 稲垣 潤一
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならをわすれない
-    singer_name_ruby: いなかきしゆんいち
-    song_variation:
-    - esong_code: 1092B25
-      song_name: さよならを忘れないで
-      content_type: ''
-  - song_name: sara
-    song_alias:
-    esong_code: 1557A35
-    t_singer_master_id: '52248'
-    singer_name: sumika
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さら
-    singer_name_ruby: すみか
-    song_variation:
-    - esong_code: 1557A35
-      song_name: sara
-      content_type: ''
-  - song_name: SARA!
-    song_alias:
-    esong_code: 1187A26
-    t_singer_master_id: '21725'
-    singer_name: 村田 和人
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さら
-    singer_name_ruby: むらたかすひと
-    song_variation:
-    - esong_code: 1187A26
-      song_name: SARA!
-      content_type: ''
-  - song_name: サライ
-    song_alias:
-    esong_code: 130A4
-    t_singer_master_id: '577'
-    singer_name: 加山 雄三&谷村 新司
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらい
-    singer_name_ruby: かやまゆうそうたに
-    song_variation:
-    - esong_code: 130A4
-      song_name: サライ
-      content_type: ''
-  - song_name: サライ
-    song_alias:
-    esong_code: 523B18
-    t_singer_master_id: '577'
-    singer_name: 加山 雄三&谷村 新司
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さらい
-    singer_name_ruby: かやまゆうそうたに
-    song_variation:
-    - esong_code: 523B18
-      song_name: サライ
-      content_type: DAM生音
-  - song_name: サライ
-    song_alias:
-    esong_code: 2871B48
-    t_singer_master_id: '577'
-    singer_name: 加山 雄三&谷村 新司
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: さらい
-    singer_name_ruby: かやまゆうそうたに
-    song_variation:
-    - esong_code: 2871B48
-      song_name: サライ
-      content_type: JOY生演奏
-  - song_name: サライ (ソロ・ヴァージョン)
-    song_alias:
-    esong_code: 2066B39
-    t_singer_master_id: '1396'
-    singer_name: 谷村 新司
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらいそろはし
-    singer_name_ruby: たにむらしんし
-    song_variation:
-    - esong_code: 2066B39
-      song_name: サライ (ソロ・ヴァージョン)
-      content_type: ''
-  - song_name: The Lights
-    song_alias:
-    esong_code: 3763B20
-    t_singer_master_id: '51840'
-    singer_name: FABLED NUMBER
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらいつ
-    singer_name_ruby: ふえいふるとなんは
-    song_variation:
-    - esong_code: 3763B20
-      song_name: The Lights
-      content_type: ''
-  - song_name: the light
-    song_alias:
-    esong_code: 5030B10
-    t_singer_master_id: '53592'
-    singer_name: 感覚ピエロ
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アナザーエデン..×テイルズ オブ シンフォニア&テイルズ オブ アライズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらいと
-    singer_name_ruby: かんかくひえろ
-    song_variation:
-    - esong_code: 5030B10
-      song_name: the light
-      content_type: ''
-  - song_name: the LIGHT
-    song_alias:
-    esong_code: 1107B38
-    t_singer_master_id: '12141'
-    singer_name: aya
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらいと
-    singer_name_ruby: あや
-    song_variation:
-    - esong_code: 1107B38
-      song_name: the LIGHT
-      content_type: ''
-  - song_name: The Light Is You
-    song_alias:
-    esong_code: 961B9
-    t_singer_master_id: '1100'
-    singer_name: SING LIKE TALKING
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらいといすゆ
-    singer_name_ruby: しんくらいくときんく
-    song_variation:
-    - esong_code: 961B9
-      song_name: The Light Is You
-      content_type: ''
-  - song_name: The Light Within
-    song_alias:
-    esong_code: 2274B29
-    t_singer_master_id: '58149'
-    singer_name: EcoMusic
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さらいとういすい
-    singer_name_ruby: えこみゆしつく
-    song_variation:
-    - esong_code: 2274B29
-      song_name: The Light Within
-      content_type: DAM生音
-  - song_name: The Right Combination (Japanese New Version)
-    song_alias:
-    esong_code: 67B16
-    t_singer_master_id: '2217'
-    singer_name: 松田 聖子
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらいとこんひね
-    singer_name_ruby: まつたせいこ
-    song_variation:
-    - esong_code: 67B16
-      song_name: The Right Combination (Japanese New Version)
-      content_type: ''
-  - song_name: The Lie Yeah! Ho Lie!
-    song_alias:
-    esong_code: 4088A40
-    t_singer_master_id: '62654'
-    singer_name: BACK-ZETS
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらいやほら
-    singer_name_ruby: はくせつ
-    song_variation:
-    - esong_code: 4088A40
-      song_name: The Lie Yeah! Ho Lie!
-      content_type: ''
-  - song_name: surround floor
-    song_alias:
-    esong_code: 1707A12
-    t_singer_master_id: '28793'
-    singer_name: MEXiCO SUPER
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さらうんとふろあ
-    singer_name_ruby: めきしこすは
-    song_variation:
-    - esong_code: 1707A12
-      song_name: surround floor
-      content_type: ''
-  - song_name: サラギの灯
-    song_alias:
-    esong_code: 2887A25
-    t_singer_master_id: '2855'
-    singer_name: GLAY
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: さらきのとう
-    singer_name_ruby: くれい
-    song_variation:
-    - esong_code: 2887A25
-      song_name: サラギの灯
-      content_type: JOY生演奏
-  - song_name: SARACA
-    song_alias:
-    esong_code: 2319A29
-    t_singer_master_id: '58149'
-    singer_name: EcoMusic
-    singer_alias:
-    available_date: '1970-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さらさ
-    singer_name_ruby: えこみゆしつく
-    song_variation:
-    - esong_code: 2319A29
-      song_name: SARACA
-      content_type: DAM生音
-  - song_name: サラ・ジェーン
-    song_alias:
-    esong_code: 506A16
+    esong_code: 984A14
     t_singer_master_id: '944'
     singer_name: サザンオールスターズ
     singer_alias:
@@ -511,9 +188,332 @@ result:
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: さらしえん
+    song_name_ruby: こころをこめてはなた
     singer_name_ruby: ささんおるすたす
     song_variation:
-    - esong_code: 506A16
-      song_name: サラ・ジェーン
+    - esong_code: 984A14
+      song_name: 心を込めて花束を
+      content_type: ''
+  - song_name: 心を信じて
+    song_alias:
+    esong_code: 384A14
+    t_singer_master_id: '14838'
+    singer_name: 高橋 広樹
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをしんして
+    singer_name_ruby: たかはしひろき
+    song_variation:
+    - esong_code: 384A14
+      song_name: 心を信じて
+      content_type: ''
+  - song_name: 心を全部くれるまで
+    song_alias:
+    esong_code: 152B49
+    t_singer_master_id: '2936'
+    singer_name: 古内 東子
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをせんふく
+    singer_name_ruby: ふるうちとうこ
+    song_variation:
+    - esong_code: 152B49
+      song_name: 心を全部くれるまで
+      content_type: ''
+  - song_name: 心をつないで
+    song_alias:
+    esong_code: 400B42
+    t_singer_master_id: '2867'
+    singer_name: 佐々木 望
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 幽☆遊☆白書<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをつないて
+    singer_name_ruby: ささきのそむ
+    song_variation:
+    - esong_code: 400B42
+      song_name: 心をつないで
+      content_type: ''
+  - song_name: 心を開いて
+    song_alias:
+    esong_code: 2876A10
+    t_singer_master_id: '992'
+    singer_name: ZARD
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: こころをひらいて
+    singer_name_ruby: さと
+    song_variation:
+    - esong_code: 2876A10
+      song_name: 心を開いて
+      content_type: JOY生演奏
+  - song_name: 心を開いて
+    song_alias:
+    esong_code: 943B1
+    t_singer_master_id: '992'
+    singer_name: ZARD
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをひらいて
+    singer_name_ruby: さと
+    song_variation:
+    - esong_code: 943B1
+      song_name: 心を開いて
+      content_type: ''
+  - song_name: 心を開いて
+    song_alias:
+    esong_code: 1124B43
+    t_singer_master_id: '1464'
+    singer_name: チューリップ(TULIP)
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをひらいて
+    singer_name_ruby: ちゆりつふ
+    song_variation:
+    - esong_code: 1124B43
+      song_name: 心を開いて
+      content_type: ''
+  - song_name: 心を開いて
+    song_alias:
+    esong_code: 1119B3
+    t_singer_master_id: '116'
+    singer_name: あみん
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをひらいて
+    singer_name_ruby: あみん
+    song_variation:
+    - esong_code: 1119B3
+      song_name: 心を開いて
+      content_type: ''
+  - song_name: 心を燃やすあいつ -矢的猛の歌-
+    song_alias:
+    esong_code: 799B20
+    t_singer_master_id: '19383'
+    singer_name: ぬまた こうじ
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ウルトラマン80<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころをもやすあいつ
+    singer_name_ruby: ぬまたこうし
+    song_variation:
+    - esong_code: 799B20
+      song_name: 心を燃やすあいつ -矢的猛の歌-
+      content_type: ''
+  - song_name: GOKON Queen
+    song_alias:
+    esong_code: 5319B45
+    t_singer_master_id: '12162'
+    singer_name: ケツメイシ
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ここんくいん
+    singer_name_ruby: けつめいし
+    song_variation:
+    - esong_code: 5319B45
+      song_name: GOKON Queen
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 古今東西チャーハンマン
+    song_alias:
+    esong_code: 830A11
+    t_singer_master_id: '2876'
+    singer_name: 高原 兄
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ここんとうさいちや
+    singer_name_ruby: たかはらけい
+    song_variation:
+    - esong_code: 830A11
+      song_name: 古今東西チャーハンマン
+      content_type: ''
+  - song_name: KOZA
+    song_alias:
+    esong_code: 2386B30
+    t_singer_master_id: '1937'
+    singer_name: BEGIN
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こさ
+    singer_name_ruby: ひきん
+    song_variation:
+    - esong_code: 2386B30
+      song_name: KOZA
+      content_type: ''
+  - song_name: Go the Distance
+    song_alias:
+    esong_code: 66B35
+    t_singer_master_id: '1996'
+    singer_name: 藤井 フミヤ
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ヘラクレス<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こさていすた
+    singer_name_ruby: ふしいふみや
+    song_variation:
+    - esong_code: 66B35
+      song_name: Go the Distance
+      content_type: ''
+  - song_name: 小雨のアムール
+    song_alias:
+    esong_code: 115A8
+    t_singer_master_id: '2625'
+    singer_name: ロス・プリモス
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こさめのあむる
+    singer_name_ruby: ろすふりもす
+    song_variation:
+    - esong_code: 115A8
+      song_name: 小雨のアムール
+      content_type: ''
+  - song_name: 小雨の下宿屋
+    song_alias:
+    esong_code: 783A20
+    t_singer_master_id: '2419'
+    singer_name: 森 昌子
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こさめのけしゆくや
+    singer_name_ruby: もりまさこ
+    song_variation:
+    - esong_code: 783A20
+      song_name: 小雨の下宿屋
+      content_type: ''
+  - song_name: 小雨のセレナーデ
+    song_alias:
+    esong_code: 2436A29
+    t_singer_master_id: '24709'
+    singer_name: 藤野 ゆき
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こさめのせれなて
+    singer_name_ruby: ふしのゆき
+    song_variation:
+    - esong_code: 2436A29
+      song_name: 小雨のセレナーデ
+      content_type: ''
+  - song_name: 小雨のブルース
+    song_alias:
+    esong_code: 587B35
+    t_singer_master_id: '2271'
+    singer_name: 美川 憲一
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こさめのふるす
+    singer_name_ruby: みかわけんいち
+    song_variation:
+    - esong_code: 587B35
+      song_name: 小雨のブルース
+      content_type: ''
+  - song_name: 小雨降る窓辺で・・・
+    song_alias:
+    esong_code: 2531B16
+    t_singer_master_id: '32343'
+    singer_name: 秋山 たかし
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こさめふるまとへ
+    singer_name_ruby: あきやまたかし
+    song_variation:
+    - esong_code: 2531B16
+      song_name: 小雨降る窓辺で・・・
+      content_type: ''
+  - song_name: 小雨降る径 (Album ver.)
+    song_alias:
+    esong_code: 2091A25
+    t_singer_master_id: '5480'
+    singer_name: 金子 由香利
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こさめふるみち
+    singer_name_ruby: かねこゆかり
+    song_variation:
+    - esong_code: 2091A25
+      song_name: 小雨降る径 (Album ver.)
+      content_type: ''
+  - song_name: 小雨降る径 -IL PLEUT SUR LA ROUTE-
+    song_alias:
+    esong_code: 469A19
+    t_singer_master_id: '5480'
+    singer_name: 金子 由香利
+    singer_alias:
+    available_date: '1970-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こさめふるみちいるふ
+    singer_name_ruby: かねこゆかり
+    song_variation:
+    - esong_code: 469A19
+      song_name: 小雨降る径 -IL PLEUT SUR LA ROUTE-
       content_type: ''

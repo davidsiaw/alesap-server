@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1137
-  all_max_cnt: 1232
-  all_country_cnt: 1137
+  max_cnt: 1130
+  all_max_cnt: 1225
+  all_country_cnt: 1130
   song:
-  - song_name: 悲しみのDestiny
-    song_alias:
-    esong_code: 1696B26
-    t_singer_master_id: '16038'
-    singer_name: MIQ(MIO)
-    singer_alias:
-    available_date: '2006-12-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: エリア88<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしみのていすて
-    singer_name_ruby: みく
-    song_variation:
-    - esong_code: 1696B26
-      song_name: 悲しみのDestiny
-      content_type: ''
   - song_name: カーネーション
     song_alias:
     esong_code: 1686A9
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1696B46
       song_name: 希望の勇者ゲッP-エックス
+      content_type: ''
+  - song_name: 君色カレンダー
+    song_alias:
+    esong_code: 1697A17
+    t_singer_master_id: '15375'
+    singer_name: dorlis
+    singer_alias:
+    available_date: '2006-12-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみいろかれんた
+    singer_name_ruby: とりす
+    song_variation:
+    - esong_code: 1697A17
+      song_name: 君色カレンダー
       content_type: ''

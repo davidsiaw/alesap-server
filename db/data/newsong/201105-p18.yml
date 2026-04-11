@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1117
-  all_max_cnt: 1222
-  all_country_cnt: 1117
+  max_cnt: 1113
+  all_max_cnt: 1218
+  all_country_cnt: 1113
   song:
-  - song_name: セレスタイン
-    song_alias:
-    esong_code: 879A33
-    t_singer_master_id: '5428'
-    singer_name: パーキッツ
-    singer_alias:
-    available_date: '2011-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せれすたいん
-    singer_name_ruby: はきつつ
-    song_variation:
-    - esong_code: 879A33
-      song_name: セレスタイン
-      content_type: ''
   - song_name: Celestial Blue
     song_alias:
     esong_code: 2467B3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 946A6
       song_name: 暁光の唄
+      content_type: ''
+  - song_name: 黄昏海峡
+    song_alias:
+    esong_code: 895A30
+    t_singer_master_id: '10541'
+    singer_name: おおい 大輔
+    singer_alias:
+    available_date: '2011-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たそかれかいきよう
+    singer_name_ruby: おおいたいすけ
+    song_variation:
+    - esong_code: 895A30
+      song_name: 黄昏海峡
       content_type: ''

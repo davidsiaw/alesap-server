@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1386
-  all_max_cnt: 1523
-  all_country_cnt: 1386
+  max_cnt: 1380
+  all_max_cnt: 1517
+  all_country_cnt: 1380
   song:
-  - song_name: D.N.A
-    song_alias:
-    esong_code: 3686B49
-    t_singer_master_id: '43745'
-    singer_name: INFINITE
-    singer_alias:
-    available_date: '2016-10-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていえぬえ
-    singer_name_ruby: いんふいにつと
-    song_variation:
-    - esong_code: 3686B49
-      song_name: D.N.A
-      content_type: ''
-  - song_name: Take-A-Shot! feat.PKCZ(R)
-    song_alias:
-    esong_code: 3699B11
-    t_singer_master_id: '57094'
-    singer_name: ShuuKaRen
-    singer_alias:
-    available_date: '2016-10-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていくあしよつと
-    singer_name_ruby: しゆうかれん
-    song_variation:
-    - esong_code: 3699B11
-      song_name: Take-A-Shot! feat.PKCZ(R)
-      content_type: ''
   - song_name: Take a '5' Train
     song_alias:
     esong_code: 3700A42
@@ -179,23 +145,6 @@ result:
       content_type: ''
   - song_name: 手紙
     song_alias:
-    esong_code: 3700B5
-    t_singer_master_id: '50864'
-    singer_name: MACO
-    singer_alias:
-    available_date: '2016-10-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: てかみ
-    singer_name_ruby: まこ
-    song_variation:
-    - esong_code: 3700B5
-      song_name: 手紙
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 手紙
-    song_alias:
     esong_code: 3703A45
     t_singer_master_id: '50864'
     singer_name: MACO
@@ -211,6 +160,23 @@ result:
     - esong_code: 3703A45
       song_name: 手紙
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 手紙
+    song_alias:
+    esong_code: 3700B5
+    t_singer_master_id: '50864'
+    singer_name: MACO
+    singer_alias:
+    available_date: '2016-10-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: てかみ
+    singer_name_ruby: まこ
+    song_variation:
+    - esong_code: 3700B5
+      song_name: 手紙
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Dekarion's Ark
     song_alias:
     esong_code: 3704B47
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3696B28
       song_name: 天まで登れ!
+      content_type: ''
+  - song_name: 天竜峡
+    song_alias:
+    esong_code: 3696A40
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2016-10-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: てんりゆうきよう
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 3696A40
+      song_name: 天竜峡
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 灯歌
+    song_alias:
+    esong_code: 3702B30
+    t_singer_master_id: '15252'
+    singer_name: SHACHI
+    singer_alias:
+    available_date: '2016-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうか
+    singer_name_ruby: しやち
+    song_variation:
+    - esong_code: 3702B30
+      song_name: 灯歌
       content_type: ''

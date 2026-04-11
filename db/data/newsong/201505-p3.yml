@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1230
-  all_max_cnt: 1369
-  all_country_cnt: 1230
+  max_cnt: 1222
+  all_max_cnt: 1361
+  all_country_cnt: 1222
   song:
   - song_name: アールグレイの季節
     song_alias:
@@ -66,7 +66,7 @@ result:
     singer_alias:
     available_date: '2015-05-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダー鎧武外伝 仮面ライダーバロン<番組名>
+    tie_up: 仮面ライダー鎧武<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あんはふえくてつ
@@ -330,23 +330,6 @@ result:
     - esong_code: 791A26
       song_name: 一路一生
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 一路一生
-    song_alias:
-    esong_code: 793A25
-    t_singer_master_id: '595'
-    singer_name: 川中 美幸
-    singer_alias:
-    available_date: '2015-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: いちろいつしよう
-    singer_name_ruby: かわなかみゆき
-    song_variation:
-    - esong_code: 793A25
-      song_name: 一路一生
-      content_type: DAM生音
   - song_name: いつか
     song_alias:
     esong_code: 3443B27
@@ -500,6 +483,23 @@ result:
     - esong_code: 3439B5
       song_name: 犬小屋より愛をこめて
       content_type: ''
+  - song_name: 犬吠埼 〜おれの故郷〜
+    song_alias:
+    esong_code: 792B39
+    t_singer_master_id: '805'
+    singer_name: 弦 哲也
+    singer_alias:
+    available_date: '2015-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: いぬほうさきおれの
+    singer_name_ruby: けんてつや
+    song_variation:
+    - esong_code: 792B39
+      song_name: 犬吠埼 〜おれの故郷〜
+      content_type: DAM生音
   - song_name: 犬吠埼 〜おれの故郷〜
     song_alias:
     esong_code: 791A24

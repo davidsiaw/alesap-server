@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 759
-  all_max_cnt: 802
-  all_country_cnt: 759
+  max_cnt: 760
+  all_max_cnt: 803
+  all_country_cnt: 760
   song:
+  - song_name: 花の舟
+    song_alias:
+    esong_code: 602A43
+    t_singer_master_id: '6801'
+    singer_name: 清水 まり子(MARIKO)
+    singer_alias:
+    available_date: '2005-03-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなのふね
+    singer_name_ruby: しみすまりこ
+    song_variation:
+    - esong_code: 602A43
+      song_name: 花の舟
+      content_type: ''
   - song_name: 花吹雪
     song_alias:
     esong_code: 656A14
@@ -398,23 +415,6 @@ result:
     - esong_code: 661A48
       song_name: ピカピカの太陽
       content_type: ''
-  - song_name: ヒカリ feat. TAKE(Skoop On Somebody)
-    song_alias:
-    esong_code: 675A42
-    t_singer_master_id: '16182'
-    singer_name: 椿
-    singer_alias:
-    available_date: '2005-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひかり
-    singer_name_ruby: つはき
-    song_variation:
-    - esong_code: 675A42
-      song_name: ヒカリ feat. TAKE(Skoop On Somebody)
-      content_type: ''
   - song_name: 光
     song_alias:
     esong_code: 660A47
@@ -448,6 +448,23 @@ result:
     song_variation:
     - esong_code: 623B48
       song_name: 光 (日本語詞)
+      content_type: ''
+  - song_name: ヒカリ feat. TAKE(Skoop On Somebody)
+    song_alias:
+    esong_code: 675A42
+    t_singer_master_id: '16182'
+    singer_name: 椿
+    singer_alias:
+    available_date: '2005-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひかり
+    singer_name_ruby: つはき
+    song_variation:
+    - esong_code: 675A42
+      song_name: ヒカリ feat. TAKE(Skoop On Somebody)
       content_type: ''
   - song_name: ひかりのうた
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 675B45
       song_name: Pixy false
-      content_type: ''
-  - song_name: ひこうき
-    song_alias:
-    esong_code: 685A44
-    t_singer_master_id: '5620'
-    singer_name: FISHMANS
-    singer_alias:
-    available_date: '2005-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひこうき
-    singer_name_ruby: ふいつしゆまんす
-    song_variation:
-    - esong_code: 685A44
-      song_name: ひこうき
       content_type: ''

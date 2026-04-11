@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: 舌打ち
-    song_alias:
-    esong_code: 3207A7
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '2014-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: したうち
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 3207A7
-      song_name: 舌打ち
-      content_type: ''
   - song_name: Six Feet Under
     song_alias:
     esong_code: 3180B17
@@ -283,7 +266,7 @@ result:
     song_alias:
     esong_code: 3169A24
     t_singer_master_id: '43140'
-    singer_name: カラスヤサボウ
+    singer_name: 烏屋茶房(カラスヤサボウ)
     singer_alias:
     available_date: '2014-02-04'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3202B42
       song_name: シュッシュ ゴゴー!
+      content_type: ''
+  - song_name: 出発のほかに何がある
+    song_alias:
+    esong_code: 269B45
+    t_singer_master_id: '1303'
+    singer_name: ザ・タイガース
+    singer_alias:
+    available_date: '2014-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆつはつのほかに
+    singer_name_ruby: さたいかす
+    song_variation:
+    - esong_code: 269B45
+      song_name: 出発のほかに何がある
       content_type: ''

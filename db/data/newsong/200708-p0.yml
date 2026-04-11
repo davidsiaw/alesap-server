@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1046
-  all_max_cnt: 1110
-  all_country_cnt: 1046
+  max_cnt: 1043
+  all_max_cnt: 1107
+  all_country_cnt: 1043
   song:
   - song_name: ai With you...
     song_alias:
@@ -381,23 +381,6 @@ result:
     - esong_code: 1858A33
       song_name: I wanna be loved
       content_type: ''
-  - song_name: 愛を奪って 心縛って
-    song_alias:
-    esong_code: 1857A1
-    t_singer_master_id: '276'
-    singer_name: Wink
-    singer_alias:
-    available_date: '2007-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいをうはつてここ
-    singer_name_ruby: ういんく
-    song_variation:
-    - esong_code: 1857A1
-      song_name: 愛を奪って 心縛って
-      content_type: ''
   - song_name: Iをくれ
     song_alias:
     esong_code: 1851B31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1820A4
       song_name: 暁
+      content_type: ''
+  - song_name: 赤花
+    song_alias:
+    esong_code: 1855A3
+    t_singer_master_id: '5883'
+    singer_name: ネーネーズ
+    singer_alias:
+    available_date: '2007-08-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかはな
+    singer_name_ruby: ねねす
+    song_variation:
+    - esong_code: 1855A3
+      song_name: 赤花
       content_type: ''

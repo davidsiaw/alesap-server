@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1108
-  all_max_cnt: 1216
-  all_country_cnt: 1108
+  max_cnt: 1161
+  all_max_cnt: 1290
+  all_country_cnt: 1161
   song:
+  - song_name: 暁の風 〜あゝ沼田城〜
+    song_alias:
+    esong_code: 4819A26
+    t_singer_master_id: '56351'
+    singer_name: 実川 長生
+    singer_alias:
+    available_date: '2023-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかつきのかせああ
+    singer_name_ruby: みのりかわちようせい
+    song_variation:
+    - esong_code: 4819A26
+      song_name: 暁の風 〜あゝ沼田城〜
+      content_type: ''
   - song_name: 茜
     song_alias:
     esong_code: 4819A23
@@ -143,23 +160,6 @@ result:
     - esong_code: 4816A18
       song_name: 足跡
       content_type: ''
-  - song_name: 葦風峠
-    song_alias:
-    esong_code: 4819A43
-    t_singer_master_id: '47876'
-    singer_name: 杜 このみ
-    singer_alias:
-    available_date: '2023-08-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あしかせとうけ
-    singer_name_ruby: もりこのみ
-    song_variation:
-    - esong_code: 4819A43
-      song_name: 葦風峠
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 明日散る運命なら
     song_alias:
     esong_code: 4818B15
@@ -449,23 +449,6 @@ result:
     - esong_code: 4824B43
       song_name: あなたとならば
       content_type: ''
-  - song_name: 貴方の恋人になりたい [JOYサビカラ]
-    song_alias:
-    esong_code: 4823A41
-    t_singer_master_id: '69284'
-    singer_name: チョーキューメイ
-    singer_alias:
-    available_date: '2023-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたのこいひとに
-    singer_name_ruby: ちよきゆめい
-    song_variation:
-    - esong_code: 4823A41
-      song_name: 貴方の恋人になりたい [JOYサビカラ]
-      content_type: ''
   - song_name: 貴方の恋人になりたい
     song_alias:
     esong_code: 4820B43
@@ -483,6 +466,23 @@ result:
     - esong_code: 4820B43
       song_name: 貴方の恋人になりたい
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 貴方の恋人になりたい [JOYサビカラ]
+    song_alias:
+    esong_code: 4823A41
+    t_singer_master_id: '69284'
+    singer_name: チョーキューメイ
+    singer_alias:
+    available_date: '2023-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたのこいひとに
+    singer_name_ruby: ちよきゆめい
+    song_variation:
+    - esong_code: 4823A41
+      song_name: 貴方の恋人になりたい [JOYサビカラ]
+      content_type: ''
   - song_name: あなたの傍で
     song_alias:
     esong_code: 4824A47

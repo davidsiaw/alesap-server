@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1410
-  all_max_cnt: 1498
-  all_country_cnt: 1410
+  max_cnt: 1399
+  all_max_cnt: 1487
+  all_country_cnt: 1399
   song:
-  - song_name: 帰り道
-    song_alias:
-    esong_code: 1574A22
-    t_singer_master_id: '26779'
-    singer_name: UNLIMITS
-    singer_alias:
-    available_date: '2006-06-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かえりみち
-    singer_name_ruby: あんりみつつ
-    song_variation:
-    - esong_code: 1574A22
-      song_name: 帰り道
-      content_type: ''
-  - song_name: 混沌 -chaos-
-    song_alias:
-    esong_code: 1530A31
-    t_singer_master_id: '12589'
-    singer_name: 天野 月(天野月子)
-    singer_alias:
-    available_date: '2006-06-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かおす
-    singer_name_ruby: あまのつき
-    song_variation:
-    - esong_code: 1530A31
-      song_name: 混沌 -chaos-
-      content_type: ''
   - song_name: 輝きもしない明日などいらない
     song_alias:
     esong_code: 1551B34
@@ -111,23 +77,6 @@ result:
       content_type: ''
   - song_name: 陽炎
     song_alias:
-    esong_code: 1575A13
-    t_singer_master_id: '15414'
-    singer_name: 犬神サーカス団
-    singer_alias:
-    available_date: '2006-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かけろう
-    singer_name_ruby: いぬかみさかすたん
-    song_variation:
-    - esong_code: 1575A13
-      song_name: 陽炎
-      content_type: ''
-  - song_name: 陽炎
-    song_alias:
     esong_code: 1553A30
     t_singer_master_id: '25198'
     singer_name: うたまろ
@@ -141,6 +90,23 @@ result:
     singer_name_ruby: うたまろ
     song_variation:
     - esong_code: 1553A30
+      song_name: 陽炎
+      content_type: ''
+  - song_name: 陽炎
+    song_alias:
+    esong_code: 1575A13
+    t_singer_master_id: '15414'
+    singer_name: 犬神サーカス団
+    singer_alias:
+    available_date: '2006-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かけろう
+    singer_name_ruby: いぬかみさかすたん
+    song_variation:
+    - esong_code: 1575A13
       song_name: 陽炎
       content_type: ''
   - song_name: 風詩 -KAZAUTA-
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1551B20
       song_name: かもめの街
+      content_type: ''
+  - song_name: カモン・ロッキンロード
+    song_alias:
+    esong_code: 1551B46
+    t_singer_master_id: '880'
+    singer_name: 近藤 真彦
+    singer_alias:
+    available_date: '2006-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かもんろつきんろと
+    singer_name_ruby: こんとうまさひこ
+    song_variation:
+    - esong_code: 1551B46
+      song_name: カモン・ロッキンロード
+      content_type: ''
+  - song_name: Color of tears
+    song_alias:
+    esong_code: 1531B49
+    t_singer_master_id: '16193'
+    singer_name: SweetS
+    singer_alias:
+    available_date: '2006-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: からおふていあ
+    singer_name_ruby: すいつ
+    song_variation:
+    - esong_code: 1531B49
+      song_name: Color of tears
       content_type: ''

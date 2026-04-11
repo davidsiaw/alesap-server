@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
   - song_name: 明日の夫婦酒
     song_alias:
@@ -77,6 +77,23 @@ result:
       content_type: ''
   - song_name: あたしをみつけて
     song_alias:
+    esong_code: 3214B45
+    t_singer_master_id: '47747'
+    singer_name: Salley
+    singer_alias:
+    available_date: '2014-03-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あたしをみつけて
+    singer_name_ruby: さり
+    song_variation:
+    - esong_code: 3214B45
+      song_name: あたしをみつけて
+      content_type: DAM生音
+  - song_name: あたしをみつけて
+    song_alias:
     esong_code: 3215B8
     t_singer_master_id: '47747'
     singer_name: Salley
@@ -109,23 +126,6 @@ result:
     - esong_code: 3208A47
       song_name: あたしをみつけて
       content_type: ''
-  - song_name: あたしをみつけて
-    song_alias:
-    esong_code: 3214B45
-    t_singer_master_id: '47747'
-    singer_name: Salley
-    singer_alias:
-    available_date: '2014-03-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あたしをみつけて
-    singer_name_ruby: さり
-    song_variation:
-    - esong_code: 3214B45
-      song_name: あたしをみつけて
-      content_type: DAM生音
   - song_name: UPPERCUT ANTHEM
     song_alias:
     esong_code: 3223B22

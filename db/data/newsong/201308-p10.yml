@@ -3,64 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1176
-  all_max_cnt: 1313
-  all_country_cnt: 1176
+  max_cnt: 1175
+  all_max_cnt: 1312
+  all_country_cnt: 1175
   song:
-  - song_name: キャラメルパンケーキ [オリジナルクリップ]
-    song_alias:
-    esong_code: 3094A36
-    t_singer_master_id: '48566'
-    singer_name: Brian the Sun
-    singer_alias:
-    available_date: '2013-08-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    song_name_ruby: きやらめるはんけ
-    singer_name_ruby: ふらいあんささん
-    song_variation:
-    - esong_code: 3094A36
-      song_name: キャラメルパンケーキ [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 3094A36
-      song_name: キャラメルパンケーキ [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: CANDY
-    song_alias:
-    esong_code: 3098A9
-    t_singer_master_id: '37701'
-    singer_name: 高橋 優
-    singer_alias:
-    available_date: '2013-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんてい
-    singer_name_ruby: たかはしゆう
-    song_variation:
-    - esong_code: 3098A9
-      song_name: CANDY
-      content_type: ''
-  - song_name: can't stop, won't stop
-    song_alias:
-    esong_code: 3096A12
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2013-08-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんとすとつふう
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 3096A12
-      song_name: can't stop, won't stop
-      content_type: ''
   - song_name: Gamble Jungle
     song_alias:
     esong_code: 3099B11
@@ -341,7 +287,7 @@ result:
     singer_alias:
     available_date: '2013-08-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双 武将遊戯<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: くさまくらのゆめ
@@ -405,7 +351,7 @@ result:
     song_alias:
     esong_code: 3090B40
     t_singer_master_id: '27744'
-    singer_name: 大友 ジュン
+    singer_name: 大友 ジュン(井上純一)
     singer_alias:
     available_date: '2013-08-14'
     end_date: '2999-04-10 00:00:00'
@@ -519,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3086A7
       song_name: 暗がり坂
+      content_type: ''
+  - song_name: グラスの中の恋人
+    song_alias:
+    esong_code: 2786B28
+    t_singer_master_id: '48590'
+    singer_name: 前川 清&石川 さゆり
+    singer_alias:
+    available_date: '2013-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらすのなかのこい
+    singer_name_ruby: まえかわきよしいしかわさゆり
+    song_variation:
+    - esong_code: 2786B28
+      song_name: グラスの中の恋人
+      content_type: ''
+  - song_name: グラスホッパー
+    song_alias:
+    esong_code: 3096B26
+    t_singer_master_id: '12655'
+    singer_name: 岩田 光央
+    singer_alias:
+    available_date: '2013-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらすほつは
+    singer_name_ruby: いわたみつお
+    song_variation:
+    - esong_code: 3096B26
+      song_name: グラスホッパー
+      content_type: ''
+  - song_name: GRAVITY
+    song_alias:
+    esong_code: 3096A13
+    t_singer_master_id: '48588'
+    singer_name: 早見 沙織&山崎 はるか
+    singer_alias:
+    available_date: '2013-08-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 神のみぞ知るセカイ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらひてい
+    singer_name_ruby: はやみさおりやまさきはる
+    song_variation:
+    - esong_code: 3096A13
+      song_name: GRAVITY
       content_type: ''

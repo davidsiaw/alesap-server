@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 496
-  all_max_cnt: 546
-  all_country_cnt: 496
+  max_cnt: 495
+  all_max_cnt: 545
+  all_country_cnt: 495
   song:
-  - song_name: twice
-    song_alias:
-    esong_code: 931B26
-    t_singer_master_id: '7906'
-    singer_name: Plastic Tree
-    singer_alias:
-    available_date: '2002-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とわいす
-    singer_name_ruby: ふらすていつくとうり
-    song_variation:
-    - esong_code: 931B26
-      song_name: twice
-      content_type: ''
   - song_name: TWILIGHT
     song_alias:
     esong_code: 152A46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 933B34
       song_name: Vibes Up feat.Jumbo maatch
+      content_type: ''
+  - song_name: はぐれ雲
+    song_alias:
+    esong_code: 930B30
+    t_singer_master_id: '1462'
+    singer_name: TUBE
+    singer_alias:
+    available_date: '2002-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はくれくも
+    singer_name_ruby: ちゆふ
+    song_variation:
+    - esong_code: 930B30
+      song_name: はぐれ雲
       content_type: ''

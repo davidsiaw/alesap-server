@@ -3,42 +3,25 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
   - song_name: 雪月花
     song_alias:
-    esong_code: 2938A19
-    t_singer_master_id: '17386'
-    singer_name: 湘南乃風
+    esong_code: 2941B34
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
     singer_alias:
-    available_date: '2012-11-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: せつけつか
-    singer_name_ruby: しようなんのかせ
-    song_variation:
-    - esong_code: 2938A19
-      song_name: 雪月花
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 雪月花
-    song_alias:
-    esong_code: 2938B43
-    t_singer_master_id: '17386'
-    singer_name: 湘南乃風
-    singer_alias:
-    available_date: '2012-11-28'
+    available_date: '2012-11-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: せつけつか
-    singer_name_ruby: しようなんのかせ
+    singer_name_ruby: ひかわきよし
     song_variation:
-    - esong_code: 2938B43
+    - esong_code: 2941B34
       song_name: 雪月花
       content_type: ''
   - song_name: ZETTAI
@@ -406,7 +389,7 @@ result:
     singer_alias:
     available_date: '2012-11-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ エクシリア2<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: そんくふおゆ
@@ -517,3 +500,23 @@ result:
     - esong_code: 2934B20
       song_name: Dive Into Sky High feat.初音ミク
       content_type: VOCALOID
+  - song_name: 台風 [オリジナルクリップ]
+    song_alias:
+    esong_code: 2934A19
+    t_singer_master_id: '46425'
+    singer_name: "→Pia-no-jaC←"
+    singer_alias:
+    available_date: '2012-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: パセラ限定クリップ
+    song_name_ruby: たいふう
+    singer_name_ruby: ひあのしやつく
+    song_variation:
+    - esong_code: 2934A19
+      song_name: 台風 [オリジナルクリップ]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    - esong_code: 2934A19
+      song_name: 台風 [オリジナルクリップ]
+      content_type: パセラ限定クリップ

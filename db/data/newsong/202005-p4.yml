@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 249
-  all_max_cnt: 254
-  all_country_cnt: 249
+  max_cnt: 246
+  all_max_cnt: 251
+  all_country_cnt: 246
   song:
-  - song_name: 楽しく生きよう人生は
-    song_alias:
-    esong_code: 4370B17
-    t_singer_master_id: '66433'
-    singer_name: 飯嶋 義博
-    singer_alias:
-    available_date: '2020-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たのしくいきようし
-    singer_name_ruby: いいしまよしひろ
-    song_variation:
-    - esong_code: 4370B17
-      song_name: 楽しく生きよう人生は
-      content_type: ''
   - song_name: TARA (2020 Mix)
     song_alias:
     esong_code: 4365B31
@@ -160,6 +143,23 @@ result:
     - esong_code: 4367A32
       song_name: チチンプイプイ feat.flower、初音ミク
       content_type: VOCALOID
+  - song_name: 津軽三味線ひとり旅
+    song_alias:
+    esong_code: 4367B21
+    t_singer_master_id: '64173'
+    singer_name: 彩青
+    singer_alias:
+    available_date: '2020-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つかるしやみせんひ
+    singer_name_ruby: りゆうせい
+    song_variation:
+    - esong_code: 4367B21
+      song_name: 津軽三味線ひとり旅
+      content_type: ''
   - song_name: 月明かりのMonologue
     song_alias:
     esong_code: 4368A24
@@ -398,23 +398,6 @@ result:
     - esong_code: 4376B35
       song_name: 何が悪いの・・・
       content_type: ''
-  - song_name: 名前をつけて
-    song_alias:
-    esong_code: 4365B44
-    t_singer_master_id: '61775'
-    singer_name: 大橋 ちっぽけ
-    singer_alias:
-    available_date: '2020-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なまえをつけて
-    singer_name_ruby: おおはしちつほけ
-    song_variation:
-    - esong_code: 4365B44
-      song_name: 名前をつけて
-      content_type: ''
   - song_name: ナンバアナイン
     song_alias:
     esong_code: 4366A41
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4377A24
       song_name: 猫 (THE FIRST TAKE ver.)
+      content_type: ''
+  - song_name: 猫村さんのうた
+    song_alias:
+    esong_code: 4370B11
+    t_singer_master_id: '66430'
+    singer_name: 松重 豊&U-zhaan&坂本 龍一
+    singer_alias:
+    available_date: '2020-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねこむらさんのうた
+    singer_name_ruby: まつしけゆたかあんとゆさ
+    song_variation:
+    - esong_code: 4370B11
+      song_name: 猫村さんのうた
       content_type: ''

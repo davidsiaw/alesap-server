@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1171
-  all_max_cnt: 1301
-  all_country_cnt: 1171
+  max_cnt: 1157
+  all_max_cnt: 1287
+  all_country_cnt: 1157
   song:
-  - song_name: ぎゅって
-    song_alias:
-    esong_code: 4643A9
-    t_singer_master_id: '66260'
-    singer_name: MIMI
-    singer_alias:
-    available_date: '2022-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: きゆつて
-    singer_name_ruby: みみ
-    song_variation:
-    - esong_code: 4643A9
-      song_name: ぎゅって
-      content_type: VOCALOID
-  - song_name: ギュッと!
-    song_alias:
-    esong_code: 4644A47
-    t_singer_master_id: '66410'
-    singer_name: 超ときめき・宣伝部(ときめき・宣伝部)
-    singer_alias:
-    available_date: '2022-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きゆつと
-    singer_name_ruby: ちようときめきせんてんふ
-    song_variation:
-    - esong_code: 4644A47
-      song_name: ギュッと!
-      content_type: ''
-  - song_name: Cupid in Love
-    song_alias:
-    esong_code: 4644A48
-    t_singer_master_id: '66410'
-    singer_name: 超ときめき・宣伝部(ときめき・宣伝部)
-    singer_alias:
-    available_date: '2022-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きゆひつといん
-    singer_name_ruby: ちようときめきせんてんふ
-    song_variation:
-    - esong_code: 4644A48
-      song_name: Cupid in Love
-      content_type: ''
-  - song_name: 今日から、ここから-From THE FIRST TAKE
-    song_alias:
-    esong_code: 4639B36
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2022-06-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きようからここからふ
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 4639B36
-      song_name: 今日から、ここから-From THE FIRST TAKE
-      content_type: ''
   - song_name: 共鳴 -Brave Marching Band Remix-
     song_alias:
     esong_code: 4641B33
@@ -119,7 +51,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: きらきら
     singer_name_ruby: みらくるすてしさんりおたんし
     song_variation:
@@ -139,7 +71,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: きらきら
     singer_name_ruby: みらくるすてしさんりおたんし
     song_variation:
@@ -372,23 +304,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 空席
     song_alias:
-    esong_code: 4640A24
-    t_singer_master_id: '8698'
-    singer_name: 川野 夏美
-    singer_alias:
-    available_date: '2022-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: くうせき
-    singer_name_ruby: かわのなつみ
-    song_variation:
-    - esong_code: 4640A24
-      song_name: 空席
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 空席
-    song_alias:
     esong_code: 4189A1
     t_singer_master_id: '8698'
     singer_name: 川野 夏美
@@ -404,6 +319,23 @@ result:
     - esong_code: 4189A1
       song_name: 空席
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 空席
+    song_alias:
+    esong_code: 4640A24
+    t_singer_master_id: '8698'
+    singer_name: 川野 夏美
+    singer_alias:
+    available_date: '2022-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: くうせき
+    singer_name_ruby: かわのなつみ
+    song_variation:
+    - esong_code: 4640A24
+      song_name: 空席
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 久遠の罪
     song_alias:
     esong_code: 4636A47
@@ -522,4 +454,72 @@ result:
     song_variation:
     - esong_code: 4640B44
       song_name: Good Boy Gone Bad
+      content_type: ''
+  - song_name: グッバイ宣言
+    song_alias:
+    esong_code: 4498B48
+    t_singer_master_id: '66999'
+    singer_name: Chinozo
+    singer_alias:
+    available_date: '2022-06-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: くつはいせんけ
+    singer_name_ruby: ちのそ
+    song_variation:
+    - esong_code: 4498B48
+      song_name: グッバイ宣言
+      content_type: VOCALOID
+  - song_name: Goodbye Darling
+    song_alias:
+    esong_code: 4647A22
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2022-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつはいたり
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 4647A22
+      song_name: Goodbye Darling
+      content_type: ''
+  - song_name: Cry Me A River
+    song_alias:
+    esong_code: 4647A21
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2022-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらいみありは
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 4647A21
+      song_name: Cry Me A River
+      content_type: ''
+  - song_name: CLASSIC
+    song_alias:
+    esong_code: 4642B47
+    t_singer_master_id: '69749'
+    singer_name: ステエションズ
+    singer_alias:
+    available_date: '2022-06-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらしつく
+    singer_name_ruby: すてえしよんす
+    song_variation:
+    - esong_code: 4642B47
+      song_name: CLASSIC
       content_type: ''

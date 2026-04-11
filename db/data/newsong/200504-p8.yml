@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 721
-  all_max_cnt: 767
-  all_country_cnt: 721
+  max_cnt: 719
+  all_max_cnt: 765
+  all_country_cnt: 719
   song:
-  - song_name: これでいいのか
-    song_alias:
-    esong_code: 1131A23
-    t_singer_master_id: '5165'
-    singer_name: こおろぎ'73&コロムビアゆりかご会
-    singer_alias:
-    available_date: '2005-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: まんが偉人物語<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: これていいのか
-    singer_name_ruby: こおろきななしゆうさんころむひあゆりかこ
-    song_variation:
-    - esong_code: 1131A23
-      song_name: これでいいのか
-      content_type: ''
   - song_name: 壊れたこころ
     song_alias:
     esong_code: 735A43
@@ -40,23 +23,6 @@ result:
     song_variation:
     - esong_code: 735A43
       song_name: 壊れたこころ
-      content_type: ''
-  - song_name: コンコンクシャンのうた
-    song_alias:
-    esong_code: 118A11
-    t_singer_master_id: '8169'
-    singer_name: 水谷 玲子
-    singer_alias:
-    available_date: '2005-04-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんこんくしやんのう
-    singer_name_ruby: みすたにれいこ
-    song_variation:
-    - esong_code: 118A11
-      song_name: コンコンクシャンのうた
       content_type: ''
   - song_name: コンタクトレンズ
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 748A41
       song_name: サモア島の歌
+      content_type: ''
+  - song_name: 去りゆく君へ
+    song_alias:
+    esong_code: 729B46
+    t_singer_master_id: '8770'
+    singer_name: ザ・コブラツイスターズ
+    singer_alias:
+    available_date: '2005-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さりゆくきみへ
+    singer_name_ruby: さこふらついすた
+    song_variation:
+    - esong_code: 729B46
+      song_name: 去りゆく君へ
+      content_type: ''
+  - song_name: さるかに
+    song_alias:
+    esong_code: 751B42
+    t_singer_master_id: '1731'
+    singer_name: 西六郷少年少女合唱団
+    singer_alias:
+    available_date: '2005-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さるかに
+    singer_name_ruby: にしろくこうしようねんしようしよか
+    song_variation:
+    - esong_code: 751B42
+      song_name: さるかに
       content_type: ''

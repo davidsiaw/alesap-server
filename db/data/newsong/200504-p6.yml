@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 721
-  all_max_cnt: 767
-  all_country_cnt: 721
+  max_cnt: 719
+  all_max_cnt: 765
+  all_country_cnt: 719
   song:
-  - song_name: 君をのせて
-    song_alias:
-    esong_code: 704A49
-    t_singer_master_id: '8219'
-    singer_name: 石井 竜也
-    singer_alias:
-    available_date: '2005-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみをのせて
-    singer_name_ruby: いしいたつや
-    song_variation:
-    - esong_code: 704A49
-      song_name: 君をのせて
-      content_type: ''
   - song_name: 64,928 ーキャサディ・キャサディー
     song_alias:
     esong_code: 707B44
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 735B41
       song_name: けろけろけろっぴ
+      content_type: ''
+  - song_name: ケロロ小隊公認!熱烈歓迎的えかきうた!!
+    song_alias:
+    esong_code: 692B44
+    t_singer_master_id: '22801'
+    singer_name: ケロロ・オールスターズ
+    singer_alias:
+    available_date: '2005-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ケロロ軍曹<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: けろろしようたいこう
+    singer_name_ruby: けろろおるすたす
+    song_variation:
+    - esong_code: 692B44
+      song_name: ケロロ小隊公認!熱烈歓迎的えかきうた!!
       content_type: ''

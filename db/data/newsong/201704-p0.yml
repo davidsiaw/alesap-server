@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
   - song_name: あゝ常夜燈
     song_alias:
@@ -75,23 +75,6 @@ result:
     - esong_code: 3799B36
       song_name: 愛
       content_type: ''
-  - song_name: あいうえおのうた〜ひらがな覚えうた <あかさたな行>
-    song_alias:
-    esong_code: 3798B15
-    t_singer_master_id: '58519'
-    singer_name: ぽむぽむ&いくり
-    singer_alias:
-    available_date: '2017-04-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいうえおのうたひら
-    singer_name_ruby: ほむほむあんといくり
-    song_variation:
-    - esong_code: 3798B15
-      song_name: あいうえおのうた〜ひらがな覚えうた <あかさたな行>
-      content_type: ''
   - song_name: あいうえおのうた〜ひらがな覚えうた <はまやらわ行>
     song_alias:
     esong_code: 3789A16
@@ -108,6 +91,23 @@ result:
     song_variation:
     - esong_code: 3789A16
       song_name: あいうえおのうた〜ひらがな覚えうた <はまやらわ行>
+      content_type: ''
+  - song_name: あいうえおのうた〜ひらがな覚えうた <あかさたな行>
+    song_alias:
+    esong_code: 3798B15
+    t_singer_master_id: '58519'
+    singer_name: ぽむぽむ&いくり
+    singer_alias:
+    available_date: '2017-04-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいうえおのうたひら
+    singer_name_ruby: ほむほむあんといくり
+    song_variation:
+    - esong_code: 3798B15
+      song_name: あいうえおのうた〜ひらがな覚えうた <あかさたな行>
       content_type: ''
   - song_name: アイオクリ (movie ver.)
     song_alias:
@@ -213,23 +213,6 @@ result:
       content_type: ''
   - song_name: 哀愁酒場
     song_alias:
-    esong_code: 3793A23
-    t_singer_master_id: '1352'
-    singer_name: 田川 寿美
-    singer_alias:
-    available_date: '2017-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: あいしゆうさかは
-    singer_name_ruby: たかわとしみ
-    song_variation:
-    - esong_code: 3793A23
-      song_name: 哀愁酒場
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 哀愁酒場
-    song_alias:
     esong_code: 3789B36
     t_singer_master_id: '1352'
     singer_name: 田川 寿美
@@ -245,6 +228,23 @@ result:
     - esong_code: 3789B36
       song_name: 哀愁酒場
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 哀愁酒場
+    song_alias:
+    esong_code: 3793A23
+    t_singer_master_id: '1352'
+    singer_name: 田川 寿美
+    singer_alias:
+    available_date: '2017-04-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あいしゆうさかは
+    singer_name_ruby: たかわとしみ
+    song_variation:
+    - esong_code: 3793A23
+      song_name: 哀愁酒場
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: アイスタンドアローン
     song_alias:
     esong_code: 3790A43

@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1493
-  all_max_cnt: 1746
-  all_country_cnt: 1493
+  max_cnt: 1476
+  all_max_cnt: 1729
+  all_country_cnt: 1476
   song:
-  - song_name: こじまじまん
-    song_alias:
-    esong_code: 4270A24
-    t_singer_master_id: '65081'
-    singer_name: ケロポンズ、小島 よしお
-    singer_alias:
-    available_date: '2019-10-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こしましまん
-    singer_name_ruby: けろほんすこしまよしお
-    song_variation:
-    - esong_code: 4270A24
-      song_name: こじまじまん
-      content_type: ''
-  - song_name: コジレタ
-    song_alias:
-    esong_code: 4262A24
-    t_singer_master_id: '57808'
-    singer_name: Hump Back
-    singer_alias:
-    available_date: '2019-10-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こしれた
-    singer_name_ruby: はんふはつく
-    song_variation:
-    - esong_code: 4262A24
-      song_name: コジレタ
-      content_type: ''
-  - song_name: 5cm
-    song_alias:
-    esong_code: 4273B12
-    t_singer_master_id: '60057'
-    singer_name: FOMARE
-    singer_alias:
-    available_date: '2019-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こせんち
-    singer_name_ruby: ふおまれ
-    song_variation:
-    - esong_code: 4273B12
-      song_name: 5cm
-      content_type: ''
   - song_name: 五島列島夢灯り
     song_alias:
     esong_code: 4272B6
@@ -134,7 +83,7 @@ result:
     singer_alias:
     available_date: '2019-10-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: RIDER TIME 仮面ライダー龍騎<番組名>
+    tie_up: 仮面ライダー龍騎<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こなうあらいふ
@@ -298,23 +247,6 @@ result:
       content_type: ''
   - song_name: GONG
     song_alias:
-    esong_code: 4260B37
-    t_singer_master_id: '52977'
-    singer_name: WANIMA
-    singer_alias:
-    available_date: '2019-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ONE PIECE(劇場版)<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: こんく
-    singer_name_ruby: わにま
-    song_variation:
-    - esong_code: 4260B37
-      song_name: GONG
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: GONG
-    song_alias:
     esong_code: 4273A22
     t_singer_master_id: '52977'
     singer_name: WANIMA
@@ -330,6 +262,23 @@ result:
     - esong_code: 4273A22
       song_name: GONG
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: GONG
+    song_alias:
+    esong_code: 4260B37
+    t_singer_master_id: '52977'
+    singer_name: WANIMA
+    singer_alias:
+    available_date: '2019-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ONE PIECE(劇場版)<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: こんく
+    singer_name_ruby: わにま
+    song_variation:
+    - esong_code: 4260B37
+      song_name: GONG
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: Continue
     song_alias:
     esong_code: 4271A37
@@ -366,23 +315,6 @@ result:
       content_type: ''
   - song_name: こんなに好きになっちゃっていいの?
     song_alias:
-    esong_code: 4271A49
-    t_singer_master_id: '61021'
-    singer_name: 日向坂46(けやき坂46)
-    singer_alias:
-    available_date: '2019-10-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: こんなにすきになつち
-    singer_name_ruby: ひなたさかふおていしつくす
-    song_variation:
-    - esong_code: 4271A49
-      song_name: こんなに好きになっちゃっていいの?
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: こんなに好きになっちゃっていいの?
-    song_alias:
     esong_code: 4265B16
     t_singer_master_id: '61021'
     singer_name: 日向坂46(けやき坂46)
@@ -398,6 +330,23 @@ result:
     - esong_code: 4265B16
       song_name: こんなに好きになっちゃっていいの?
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: こんなに好きになっちゃっていいの?
+    song_alias:
+    esong_code: 4271A49
+    t_singer_master_id: '61021'
+    singer_name: 日向坂46(けやき坂46)
+    singer_alias:
+    available_date: '2019-10-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: こんなにすきになつち
+    singer_name_ruby: ひなたさかふおていしつくす
+    song_variation:
+    - esong_code: 4271A49
+      song_name: こんなに好きになっちゃっていいの?
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: こんなに好きになっちゃっていいの?
     song_alias:
     esong_code: 4258B30
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4123A22
       song_name: 最後のボレロ
+      content_type: ''
+  - song_name: 最果てのL
+    song_alias:
+    esong_code: 4288A23
+    t_singer_master_id: '23665'
+    singer_name: Sound Horizon
+    singer_alias:
+    available_date: '2019-10-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいはてのえる
+    singer_name_ruby: さうんとほらいす
+    song_variation:
+    - esong_code: 4288A23
+      song_name: 最果てのL
+      content_type: ''
+  - song_name: サイレント・イヴ
+    song_alias:
+    esong_code: 4269B13
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2019-10-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいれんといふ
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 4269B13
+      song_name: サイレント・イヴ
+      content_type: ''
+  - song_name: Sign
+    song_alias:
+    esong_code: 4272B41
+    t_singer_master_id: '37349'
+    singer_name: スフィア
+    singer_alias:
+    available_date: '2019-10-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ウルトラマンタイガ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいん
+    singer_name_ruby: すふいあ
+    song_variation:
+    - esong_code: 4272B41
+      song_name: Sign
       content_type: ''

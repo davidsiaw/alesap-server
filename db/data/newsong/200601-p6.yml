@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
   - song_name: 薄気味ビリー
     song_alias:
@@ -77,23 +77,6 @@ result:
       content_type: ''
   - song_name: 歌ひとすじ
     song_alias:
-    esong_code: 1440B12
-    t_singer_master_id: '595'
-    singer_name: 川中 美幸
-    singer_alias:
-    available_date: '2006-01-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: うたひとすし
-    singer_name_ruby: かわなかみゆき
-    song_variation:
-    - esong_code: 1440B12
-      song_name: 歌ひとすじ
-      content_type: DAM生音
-  - song_name: 歌ひとすじ
-    song_alias:
     esong_code: 1411B26
     t_singer_master_id: '595'
     singer_name: 川中 美幸
@@ -109,6 +92,23 @@ result:
     - esong_code: 1411B26
       song_name: 歌ひとすじ
       content_type: ''
+  - song_name: 歌ひとすじ
+    song_alias:
+    esong_code: 1440B12
+    t_singer_master_id: '595'
+    singer_name: 川中 美幸
+    singer_alias:
+    available_date: '2006-01-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: うたひとすし
+    singer_name_ruby: かわなかみゆき
+    song_variation:
+    - esong_code: 1440B12
+      song_name: 歌ひとすじ
+      content_type: DAM生音
   - song_name: うーたんとワンワンのえかきうた
     song_alias:
     esong_code: 1426A23
@@ -296,23 +296,6 @@ result:
     - esong_code: 1430A28
       song_name: Any time,Any day
       content_type: ''
-  - song_name: Everlasting
-    song_alias:
-    esong_code: 1436B7
-    t_singer_master_id: '12544'
-    singer_name: BoA
-    singer_alias:
-    available_date: '2006-01-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えはらすていんく
-    singer_name_ruby: ほあ
-    song_variation:
-    - esong_code: 1436B7
-      song_name: Everlasting
-      content_type: ''
   - song_name: Everlasting Moonlight
     song_alias:
     esong_code: 1439A44
@@ -329,6 +312,23 @@ result:
     song_variation:
     - esong_code: 1439A44
       song_name: Everlasting Moonlight
+      content_type: ''
+  - song_name: Everlasting
+    song_alias:
+    esong_code: 1436B7
+    t_singer_master_id: '12544'
+    singer_name: BoA
+    singer_alias:
+    available_date: '2006-01-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えはらすていんく
+    singer_name_ruby: ほあ
+    song_variation:
+    - esong_code: 1436B7
+      song_name: Everlasting
       content_type: ''
   - song_name: 終章(エピローグ)
     song_alias:
@@ -410,7 +410,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: えるひすふれすり
-    singer_name_ruby: ELVISPRESLEY
+    singer_name_ruby: えるひすふれすり
     song_variation:
     - esong_code: 1431B46
       song_name: エルビス・プレスリーメドレー

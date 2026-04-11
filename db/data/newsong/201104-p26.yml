@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
-  - song_name: ナガレボシ feat.GUMI
-    song_alias:
-    esong_code: 1417B34
-    t_singer_master_id: '41761'
-    singer_name: YM
-    singer_alias:
-    available_date: '2011-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: なかれほし
-    singer_name_ruby: わいえむ
-    song_variation:
-    - esong_code: 1417B34
-      song_name: ナガレボシ feat.GUMI
-      content_type: VOCALOID
   - song_name: なきうさぎ
     song_alias:
     esong_code: 1548B2
@@ -176,23 +159,6 @@ result:
     song_variation:
     - esong_code: 1343A44
       song_name: 夏は過ぎてゆき
-      content_type: ''
-  - song_name: 夏八景
-    song_alias:
-    esong_code: 1516A13
-    t_singer_master_id: '57'
-    singer_name: 麻丘 めぐみ
-    singer_alias:
-    available_date: '2011-04-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつはつけい
-    singer_name_ruby: あさおかめくみ
-    song_variation:
-    - esong_code: 1516A13
-      song_name: 夏八景
       content_type: ''
   - song_name: 731の朝
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 1671B32
       song_name: 虹色の戦争
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 日本海ひとり旅
+    song_alias:
+    esong_code: 1535A38
+    t_singer_master_id: '33124'
+    singer_name: 梓 夕子
+    singer_alias:
+    available_date: '2011-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にほんかいひとりたひ
+    singer_name_ruby: あすさゆうこ
+    song_variation:
+    - esong_code: 1535A38
+      song_name: 日本海ひとり旅
+      content_type: ''
+  - song_name: 日本三景女の旅路
+    song_alias:
+    esong_code: 2053A11
+    t_singer_master_id: '32009'
+    singer_name: 岡 さゆり
+    singer_alias:
+    available_date: '2011-04-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にほんさんけいおんな
+    singer_name_ruby: おかさゆり
+    song_variation:
+    - esong_code: 2053A11
+      song_name: 日本三景女の旅路
+      content_type: ''

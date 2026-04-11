@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: 想い出の余白
+    song_alias:
+    esong_code: 102B45
+    t_singer_master_id: '1512'
+    singer_name: テレサ・テン
+    singer_alias:
+    available_date: '2002-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいてのよはく
+    singer_name_ruby: てれさてん
+    song_variation:
+    - esong_code: 102B45
+      song_name: 想い出の余白
+      content_type: ''
   - song_name: 思い出は遠く哀しく
     song_alias:
     esong_code: 824A32
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 827B31
       song_name: C'MON EVERYBODY (Remix) feat.INNOSENCE
-      content_type: ''
-  - song_name: 佳代
-    song_alias:
-    esong_code: 822A24
-    t_singer_master_id: '12255'
-    singer_name: GOING STEADY
-    singer_alias:
-    available_date: '2002-04-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かよ
-    singer_name_ruby: こいんくすてて
-    song_variation:
-    - esong_code: 822A24
-      song_name: 佳代
       content_type: ''

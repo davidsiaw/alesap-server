@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: やわらかい気配
-    song_alias:
-    esong_code: 3005B24
-    t_singer_master_id: '28111'
-    singer_name: 秦 基博
-    singer_alias:
-    available_date: '2013-03-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やわらかいけはい
-    singer_name_ruby: はたもとひろ
-    song_variation:
-    - esong_code: 3005B24
-      song_name: やわらかい気配
-      content_type: ''
-  - song_name: ヤングアダルト
-    song_alias:
-    esong_code: 2998B33
-    t_singer_master_id: '6909'
-    singer_name: SOPHIA
-    singer_alias:
-    available_date: '2013-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やんくあたると
-    singer_name_ruby: そふいあ
-    song_variation:
-    - esong_code: 2998B33
-      song_name: ヤングアダルト
-      content_type: ''
   - song_name: Your Song [オリジナルクリップ]
     song_alias:
     esong_code: 3009A4
@@ -51,7 +17,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: ゆあそんく
     singer_name_ruby: すへすかるすふらねつと
     song_variation:
@@ -71,7 +37,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: ゆあそんく
     singer_name_ruby: すへすかるすふらねつと
     song_variation:
@@ -138,7 +104,7 @@ result:
     t_singer_master_id: '47269'
     singer_name: 紗希&Rie fu
     singer_alias:
-    available_date: '2013-03-12'
+    available_date: '2013-03-13'
     end_date: '2999-04-10 00:00:00'
     tie_up: しろくまカフェ<番組名>
     country_code: '0'
@@ -165,6 +131,40 @@ result:
     song_variation:
     - esong_code: 2994B40
       song_name: 唯一無二のステューピッド
+      content_type: ''
+  - song_name: YUIベストメドレー Vol.4
+    song_alias:
+    esong_code: 3008A44
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2013-03-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆいへすとめとれ
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 3008A44
+      song_name: YUIベストメドレー Vol.4
+      content_type: ''
+  - song_name: YUIベストメドレー
+    song_alias:
+    esong_code: 3001A33
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2013-03-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆいへすとめとれ
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 3001A33
+      song_name: YUIベストメドレー
       content_type: ''
   - song_name: YUIベストメドレー Vol.2
     song_alias:
@@ -199,40 +199,6 @@ result:
     song_variation:
     - esong_code: 3008A43
       song_name: YUIベストメドレー Vol.3
-      content_type: ''
-  - song_name: YUIベストメドレー
-    song_alias:
-    esong_code: 3001A33
-    t_singer_master_id: '22240'
-    singer_name: YUI
-    singer_alias:
-    available_date: '2013-03-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆいへすとめとれ
-    singer_name_ruby: ゆい
-    song_variation:
-    - esong_code: 3001A33
-      song_name: YUIベストメドレー
-      content_type: ''
-  - song_name: YUIベストメドレー Vol.4
-    song_alias:
-    esong_code: 3008A44
-    t_singer_master_id: '22240'
-    singer_name: YUI
-    singer_alias:
-    available_date: '2013-03-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆいへすとめとれ
-    singer_name_ruby: ゆい
-    song_variation:
-    - esong_code: 3008A44
-      song_name: YUIベストメドレー Vol.4
       content_type: ''
   - song_name: 悠久の愛
     song_alias:
@@ -522,4 +488,38 @@ result:
     song_variation:
     - esong_code: 3004A48
       song_name: 夢 うたかたのひと
+      content_type: ''
+  - song_name: 夢からさめない
+    song_alias:
+    esong_code: 3001B43
+    t_singer_master_id: '15346'
+    singer_name: 佐野 量子
+    singer_alias:
+    available_date: '2013-03-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめからさめない
+    singer_name_ruby: さのりようこ
+    song_variation:
+    - esong_code: 3001B43
+      song_name: 夢からさめない
+      content_type: ''
+  - song_name: 夢の大地
+    song_alias:
+    esong_code: 3006B8
+    t_singer_master_id: '32084'
+    singer_name: Kalafina
+    singer_alias:
+    available_date: '2013-03-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめのたいち
+    singer_name_ruby: からふいな
+    song_variation:
+    - esong_code: 3006B8
+      song_name: 夢の大地
       content_type: ''

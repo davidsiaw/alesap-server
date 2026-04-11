@@ -64,4 +64,8 @@ Rails.application.configure do
   # Removes the complaints saying 'Cannot render console from 192.168.1.16!
   # Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255'
   config.web_console.whiny_requests = false
+  
+  # Use the lowest log level to ensure availability of diagnostic information
+  # when problems arise.
+  config.log_level = :debug
 end

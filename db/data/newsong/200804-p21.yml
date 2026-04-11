@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: Departure (全英語詞)
-    song_alias:
-    esong_code: 1982A8
-    t_singer_master_id: '32795'
-    singer_name: Olive Plus+
-    singer_alias:
-    available_date: '2008-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていはちや
-    singer_name_ruby: おりふふらす
-    song_variation:
-    - esong_code: 1982A8
-      song_name: Departure (全英語詞)
-      content_type: ''
   - song_name: DAY BLUES
     song_alias:
     esong_code: 1981B37
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1992A29
       song_name: 東京セレクション
+      content_type: ''
+  - song_name: 峠
+    song_alias:
+    esong_code: 1988B25
+    t_singer_master_id: '1710'
+    singer_name: 西方 裕之
+    singer_alias:
+    available_date: '2008-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうけ
+    singer_name_ruby: にしかたひろゆき
+    song_variation:
+    - esong_code: 1988B25
+      song_name: 峠
       content_type: ''

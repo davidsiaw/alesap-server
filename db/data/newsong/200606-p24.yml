@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1410
-  all_max_cnt: 1498
-  all_country_cnt: 1410
+  max_cnt: 1399
+  all_max_cnt: 1487
+  all_country_cnt: 1399
   song:
-  - song_name: 月見草
-    song_alias:
-    esong_code: 1575B2
-    t_singer_master_id: '141'
-    singer_name: 安全地帯
-    singer_alias:
-    available_date: '2006-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきみそう
-    singer_name_ruby: あんせんちたい
-    song_variation:
-    - esong_code: 1575B2
-      song_name: 月見草
-      content_type: ''
-  - song_name: 月夜
-    song_alias:
-    esong_code: 1527B49
-    t_singer_master_id: '2326'
-    singer_name: 南 こうせつ
-    singer_alias:
-    available_date: '2006-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきよ
-    singer_name_ruby: みなみこうせつ
-    song_variation:
-    - esong_code: 1527B49
-      song_name: 月夜
-      content_type: ''
   - song_name: つのる想い
     song_alias:
     esong_code: 1070A29
@@ -151,7 +117,7 @@ result:
     singer_alias:
     available_date: '2006-06-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GUITARFREAKS 8thMIX & drummania 7thMIX Soundtrack<番組名>
+    tie_up: GuitarFreaks&DrumMania<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: つみなからとかのし
@@ -372,7 +338,7 @@ result:
     singer_alias:
     available_date: '2006-06-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ブラックジャック21<番組名>
+    tie_up: ブラックジャック<番組名>
     country_code: '0'
     content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: ていすていにたい
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1578A12
       song_name: Delightful (C.G.D.Mix)
+      content_type: ''
+  - song_name: delayed
+    song_alias:
+    esong_code: 1549B39
+    t_singer_master_id: '22325'
+    singer_name: MONKEY MAJIK
+    singer_alias:
+    available_date: '2006-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていれいと
+    singer_name_ruby: もんきましつく
+    song_variation:
+    - esong_code: 1549B39
+      song_name: delayed
+      content_type: ''
+  - song_name: TEENAGE FRANKENSTEIN
+    song_alias:
+    esong_code: 445B39
+    t_singer_master_id: '2970'
+    singer_name: THE COLLECTORS
+    singer_alias:
+    available_date: '2006-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていんえいしふら
+    singer_name_ruby: さこれくたす
+    song_variation:
+    - esong_code: 445B39
+      song_name: TEENAGE FRANKENSTEIN
       content_type: ''

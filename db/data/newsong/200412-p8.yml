@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 792
-  all_max_cnt: 839
-  all_country_cnt: 792
+  max_cnt: 788
+  all_max_cnt: 835
+  all_country_cnt: 788
   song:
   - song_name: 恋風
     song_alias:
@@ -145,23 +145,6 @@ result:
       content_type: ''
   - song_name: 恋文
     song_alias:
-    esong_code: 968B41
-    t_singer_master_id: '7252'
-    singer_name: Every Little Thing
-    singer_alias:
-    available_date: '2004-12-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいふみ
-    singer_name_ruby: えふりりとるしんく
-    song_variation:
-    - esong_code: 968B41
-      song_name: 恋文
-      content_type: ''
-  - song_name: 恋文
-    song_alias:
     esong_code: 999B44
     t_singer_master_id: '21942'
     singer_name: 盛 和子
@@ -175,6 +158,23 @@ result:
     singer_name_ruby: もりかすこ
     song_variation:
     - esong_code: 999B44
+      song_name: 恋文
+      content_type: ''
+  - song_name: 恋文
+    song_alias:
+    esong_code: 968B41
+    t_singer_master_id: '7252'
+    singer_name: Every Little Thing
+    singer_alias:
+    available_date: '2004-12-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいふみ
+    singer_name_ruby: えふりりとるしんく
+    song_variation:
+    - esong_code: 968B41
       song_name: 恋文
       content_type: ''
   - song_name: 恋蓮花
@@ -202,7 +202,7 @@ result:
     singer_alias:
     available_date: '2004-12-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GIRLSブラボー -first season-<番組名>
+    tie_up: GIRLSブラボー<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こいんまいうえい

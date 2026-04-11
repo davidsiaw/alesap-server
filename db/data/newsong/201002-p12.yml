@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: Sign
-    song_alias:
-    esong_code: 2464A26
-    t_singer_master_id: '15296'
-    singer_name: FLOW
-    singer_alias:
-    available_date: '2010-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: NARUTO-ナルト-疾風伝<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さいん
-    singer_name_ruby: ふろう
-    song_variation:
-    - esong_code: 2464A26
-      song_name: Sign
-      content_type: DAM生音
-  - song_name: Sign
-    song_alias:
-    esong_code: 2482B34
-    t_singer_master_id: '15296'
-    singer_name: FLOW
-    singer_alias:
-    available_date: '2010-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: NARUTO-ナルト-疾風伝<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: さいん
-    singer_name_ruby: ふろう
-    song_variation:
-    - esong_code: 2482B34
-      song_name: Sign
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: サイン
-    song_alias:
-    esong_code: 2482B43
-    t_singer_master_id: '19365'
-    singer_name: BENI(安良城 紅)
-    singer_alias:
-    available_date: '2010-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: さいん
-    singer_name_ruby: へに
-    song_variation:
-    - esong_code: 2482B43
-      song_name: サイン
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: サイン
     song_alias:
     esong_code: 2473B36
@@ -75,6 +24,23 @@ result:
     - esong_code: 2473B36
       song_name: サイン
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: サイン
+    song_alias:
+    esong_code: 2482B43
+    t_singer_master_id: '19365'
+    singer_name: BENI(安良城 紅)
+    singer_alias:
+    available_date: '2010-02-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: さいん
+    singer_name_ruby: へに
+    song_variation:
+    - esong_code: 2482B43
+      song_name: サイン
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: SoundScaper feat.初音ミク
     song_alias:
     esong_code: 2479B5
@@ -111,23 +77,6 @@ result:
       content_type: ''
   - song_name: 酒場すずめ
     song_alias:
-    esong_code: 2463B45
-    t_singer_master_id: '8773'
-    singer_name: 和田 青児
-    singer_alias:
-    available_date: '2010-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: さかはすすめ
-    singer_name_ruby: わたせいし
-    song_variation:
-    - esong_code: 2463B45
-      song_name: 酒場すずめ
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 酒場すずめ
-    song_alias:
     esong_code: 2461B29
     t_singer_master_id: '8773'
     singer_name: 和田 青児
@@ -143,6 +92,23 @@ result:
     - esong_code: 2461B29
       song_name: 酒場すずめ
       content_type: ''
+  - song_name: 酒場すずめ
+    song_alias:
+    esong_code: 2463B45
+    t_singer_master_id: '8773'
+    singer_name: 和田 青児
+    singer_alias:
+    available_date: '2010-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: さかはすすめ
+    singer_name_ruby: わたせいし
+    song_variation:
+    - esong_code: 2463B45
+      song_name: 酒場すずめ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 坂道ばびゅーん
     song_alias:
     esong_code: 2479B15
@@ -193,6 +159,23 @@ result:
     song_variation:
     - esong_code: 2461B27
       song_name: 桜会
+      content_type: ''
+  - song_name: サクラサク
+    song_alias:
+    esong_code: 2460B30
+    t_singer_master_id: '26896'
+    singer_name: ET-KING
+    singer_alias:
+    available_date: '2010-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらさく
+    singer_name_ruby: いていきんく
+    song_variation:
+    - esong_code: 2460B30
+      song_name: サクラサク
       content_type: ''
   - song_name: 桜の栞
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2463B23
       song_name: さよならメモリーズ
+      content_type: ''
+  - song_name: さよならをいう気もない
+    song_alias:
+    esong_code: 2479B40
+    t_singer_master_id: '15549'
+    singer_name: あさみ ちゆき
+    singer_alias:
+    available_date: '2010-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよならをいうきもな
+    singer_name_ruby: あさみちゆき
+    song_variation:
+    - esong_code: 2479B40
+      song_name: さよならをいう気もない
       content_type: ''

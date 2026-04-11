@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
   - song_name: 人生酒場
     song_alias:
@@ -92,23 +92,6 @@ result:
     - esong_code: 3299B14
       song_name: 人生夫婦道
       content_type: ''
-  - song_name: Symphony of The Vampire 第三楽章「Royal Tercet」
-    song_alias:
-    esong_code: 3270A33
-    t_singer_master_id: '48764'
-    singer_name: KAMIJO
-    singer_alias:
-    available_date: '2014-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんふおにおふさ
-    singer_name_ruby: かみしよう
-    song_variation:
-    - esong_code: 3270A33
-      song_name: Symphony of The Vampire 第三楽章「Royal Tercet」
-      content_type: ''
   - song_name: Symphony of The Vampire 第四楽章 「Dying-Table」
     song_alias:
     esong_code: 3288B35
@@ -125,6 +108,23 @@ result:
     song_variation:
     - esong_code: 3288B35
       song_name: Symphony of The Vampire 第四楽章 「Dying-Table」
+      content_type: ''
+  - song_name: Symphony of The Vampire 第三楽章「Royal Tercet」
+    song_alias:
+    esong_code: 3270A33
+    t_singer_master_id: '48764'
+    singer_name: KAMIJO
+    singer_alias:
+    available_date: '2014-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんふおにおふさ
+    singer_name_ruby: かみしよう
+    song_variation:
+    - esong_code: 3270A33
+      song_name: Symphony of The Vampire 第三楽章「Royal Tercet」
       content_type: ''
   - song_name: 酔歌 (ソーラン節入り)(シングルバージョン)
     song_alias:
@@ -455,7 +455,7 @@ result:
     t_singer_master_id: '14400'
     singer_name: ACIDMAN
     singer_alias:
-    available_date: '2014-07-15'
+    available_date: '2014-07-16'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

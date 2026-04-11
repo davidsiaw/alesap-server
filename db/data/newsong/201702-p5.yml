@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1284
-  all_max_cnt: 1473
-  all_country_cnt: 1284
+  max_cnt: 1277
+  all_max_cnt: 1466
+  all_country_cnt: 1277
   song:
   - song_name: 海沿いの街
     song_alias:
@@ -194,23 +194,6 @@ result:
     - esong_code: 3760A26
       song_name: ex:tella
       content_type: ''
-  - song_name: エゴ
-    song_alias:
-    esong_code: 3761B23
-    t_singer_master_id: '37892'
-    singer_name: cinema staff
-    singer_alias:
-    available_date: '2017-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: えこ
-    singer_name_ruby: しねますたつふ
-    song_variation:
-    - esong_code: 3761B23
-      song_name: エゴ
-      content_type: DAM生音
   - song_name: EGO
     song_alias:
     esong_code: 3763A8
@@ -228,6 +211,23 @@ result:
     - esong_code: 3763A8
       song_name: EGO
       content_type: ''
+  - song_name: エゴ
+    song_alias:
+    esong_code: 3761B23
+    t_singer_master_id: '37892'
+    singer_name: cinema staff
+    singer_alias:
+    available_date: '2017-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: えこ
+    singer_name_ruby: しねますたつふ
+    song_variation:
+    - esong_code: 3761B23
+      song_name: エゴ
+      content_type: DAM生音
   - song_name: エコヒイキ feat.初音ミク
     song_alias:
     esong_code: 3764A24

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 759
-  all_max_cnt: 802
-  all_country_cnt: 759
+  max_cnt: 760
+  all_max_cnt: 803
+  all_country_cnt: 760
   song:
+  - song_name: 夏恋
+    song_alias:
+    esong_code: 680A16
+    t_singer_master_id: '15535'
+    singer_name: 鴨川
+    singer_alias:
+    available_date: '2005-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なつこい
+    singer_name_ruby: かもかわ
+    song_variation:
+    - esong_code: 680A16
+      song_name: 夏恋
+      content_type: ''
   - song_name: 七つ星を数えたら
     song_alias:
     esong_code: 662B44
@@ -247,23 +264,6 @@ result:
       content_type: ''
   - song_name: ネオメロドラマティック
     song_alias:
-    esong_code: 646B48
-    t_singer_master_id: '10295'
-    singer_name: ポルノグラフィティ
-    singer_alias:
-    available_date: '2005-03-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: ねおめろとらまてい
-    singer_name_ruby: ほるのくらふいてい
-    song_variation:
-    - esong_code: 646B48
-      song_name: ネオメロドラマティック
-      content_type: DAM良音
-  - song_name: ネオメロドラマティック
-    song_alias:
     esong_code: 646B49
     t_singer_master_id: '10295'
     singer_name: ポルノグラフィティ
@@ -279,6 +279,23 @@ result:
     - esong_code: 646B49
       song_name: ネオメロドラマティック
       content_type: ''
+  - song_name: ネオメロドラマティック
+    song_alias:
+    esong_code: 646B48
+    t_singer_master_id: '10295'
+    singer_name: ポルノグラフィティ
+    singer_alias:
+    available_date: '2005-03-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: ねおめろとらまてい
+    singer_name_ruby: ほるのくらふいてい
+    song_variation:
+    - esong_code: 646B48
+      song_name: ネオメロドラマティック
+      content_type: DAM良音
   - song_name: NECESSARY (ACOUSTIC:LATTE Ver.)
     song_alias:
     esong_code: 647A44
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 645A43
       song_name: PARKING
-      content_type: ''
-  - song_name: Hersee's Chocolate
-    song_alias:
-    esong_code: 678A43
-    t_singer_master_id: '3052'
-    singer_name: SPIRAL LIFE
-    singer_alias:
-    available_date: '2005-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はしすちよこれ
-    singer_name_ruby: すはいらるらいふ
-    song_variation:
-    - esong_code: 678A43
-      song_name: Hersee's Chocolate
       content_type: ''

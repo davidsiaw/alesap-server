@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
-  - song_name: かみのやま慕情
-    song_alias:
-    esong_code: 513B13
-    t_singer_master_id: '25432'
-    singer_name: 青山 ひかる
-    singer_alias:
-    available_date: '2015-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: かみのやまほしよ
-    singer_name_ruby: あおやまひかる
-    song_variation:
-    - esong_code: 513B13
-      song_name: かみのやま慕情
-      content_type: JOY生演奏
   - song_name: Coming Summer
     song_alias:
     esong_code: 3460B12
@@ -517,3 +500,20 @@ result:
     - esong_code: 3468A25
       song_name: 君色思い
       content_type: ''
+  - song_name: 君がいたから
+    song_alias:
+    esong_code: 3464B38
+    t_singer_master_id: '10098'
+    singer_name: Crystal Kay
+    singer_alias:
+    available_date: '2015-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: きみかいたから
+    singer_name_ruby: くりすたるけい
+    song_variation:
+    - esong_code: 3464B38
+      song_name: 君がいたから
+      content_type: DAM生音

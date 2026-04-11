@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
+  - song_name: ディヴィニティ
+    song_alias:
+    esong_code: 2599B39
+    t_singer_master_id: '22055'
+    singer_name: eufonius
+    singer_alias:
+    available_date: '2010-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: メイプルストーリー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていひにてい
+    singer_name_ruby: ゆふおにあす
+    song_variation:
+    - esong_code: 2599B39
+      song_name: ディヴィニティ
+      content_type: ''
   - song_name: Defended Desire
     song_alias:
     esong_code: 2591A40
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2608A18
       song_name: ど根性ガエルマーチ
-      content_type: ''
-  - song_name: 年老うふたり
-    song_alias:
-    esong_code: 2589B17
-    t_singer_master_id: '23729'
-    singer_name: lecca
-    singer_alias:
-    available_date: '2010-09-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: としおうふたり
-    singer_name_ruby: れつか
-    song_variation:
-    - esong_code: 2589B17
-      song_name: 年老うふたり
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1176
-  all_max_cnt: 1313
-  all_country_cnt: 1176
+  max_cnt: 1175
+  all_max_cnt: 1312
+  all_country_cnt: 1175
   song:
-  - song_name: おやこ坂
-    song_alias:
-    esong_code: 1807B43
-    t_singer_master_id: '30278'
-    singer_name: 松田 千春
-    singer_alias:
-    available_date: '2013-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おやこさか
-    singer_name_ruby: まつたちはる
-    song_variation:
-    - esong_code: 1807B43
-      song_name: おやこ坂
-      content_type: ''
-  - song_name: 父娘酒(おやこざけ)
-    song_alias:
-    esong_code: 3096A9
-    t_singer_master_id: '551'
-    singer_name: 金田 たつえ
-    singer_alias:
-    available_date: '2013-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おやこさけ
-    singer_name_ruby: かねたたつえ
-    song_variation:
-    - esong_code: 3096A9
-      song_name: 父娘酒(おやこざけ)
-      content_type: ''
   - song_name: おやじの海
     song_alias:
     esong_code: 2813A43
@@ -517,3 +483,37 @@ result:
     - esong_code: 3098B43
       song_name: 輝く世界の魔法 (M@STER VERSION)
       content_type: ''
+  - song_name: かがり火恋歌
+    song_alias:
+    esong_code: 3092B21
+    t_singer_master_id: '48170'
+    singer_name: 野村 未奈(三代目コロムビア・ローズ 野村未奈)
+    singer_alias:
+    available_date: '2013-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: かかりひこいうた
+    singer_name_ruby: のむらみな
+    song_variation:
+    - esong_code: 3092B21
+      song_name: かがり火恋歌
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: かくしごと
+    song_alias:
+    esong_code: 3094A24
+    t_singer_master_id: '46360'
+    singer_name: まふまふ
+    singer_alias:
+    available_date: '2013-08-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: かくしこと
+    singer_name_ruby: まふまふ
+    song_variation:
+    - esong_code: 3094A24
+      song_name: かくしごと
+      content_type: VOCALOID

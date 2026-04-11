@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: 夢からさめない
-    song_alias:
-    esong_code: 3001B43
-    t_singer_master_id: '15346'
-    singer_name: 佐野 量子
-    singer_alias:
-    available_date: '2013-03-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめからさめない
-    singer_name_ruby: さのりようこ
-    song_variation:
-    - esong_code: 3001B43
-      song_name: 夢からさめない
-      content_type: ''
-  - song_name: 夢の大地
-    song_alias:
-    esong_code: 3006B8
-    t_singer_master_id: '32084'
-    singer_name: Kalafina
-    singer_alias:
-    available_date: '2013-03-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめのたいち
-    singer_name_ruby: からふいな
-    song_variation:
-    - esong_code: 3006B8
-      song_name: 夢の大地
-      content_type: ''
   - song_name: 夢のチカラ (オリジナルバージョン)
     song_alias:
     esong_code: 3010B11
@@ -166,7 +132,7 @@ result:
     t_singer_master_id: '47465'
     singer_name: Mスリー
     singer_alias:
-    available_date: '2013-03-26'
+    available_date: '2013-03-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3006B49
       song_name: ヨワキモノタチ
+      content_type: ''
+  - song_name: Like a Tiger
+    song_alias:
+    esong_code: 2988B5
+    t_singer_master_id: '27628'
+    singer_name: KENN
+    singer_alias:
+    available_date: '2013-03-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 銀河へキックオフ!!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいくあたいか
+    singer_name_ruby: けん
+    song_variation:
+    - esong_code: 2988B5
+      song_name: Like a Tiger
+      content_type: ''
+  - song_name: ライトフライト
+    song_alias:
+    esong_code: 3001A36
+    t_singer_master_id: '33612'
+    singer_name: UNISON SQUARE GARDEN
+    singer_alias:
+    available_date: '2013-03-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいとふらいと
+    singer_name_ruby: ゆにそんすくえあかてん
+    song_variation:
+    - esong_code: 3001A36
+      song_name: ライトフライト
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1127
-  all_max_cnt: 1243
-  all_country_cnt: 1127
+  max_cnt: 1112
+  all_max_cnt: 1228
+  all_country_cnt: 1112
   song:
-  - song_name: S.O.S
-    song_alias:
-    esong_code: 3934B5
-    t_singer_master_id: '50005'
-    singer_name: 伊東 歌詞太郎
-    singer_alias:
-    available_date: '2018-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: "(18) キミト ツナガル パズル<番組名>"
-    country_code: '0'
-    content_type:
-    song_name_ruby: えすおえす
-    singer_name_ruby: いとうかしたろう
-    song_variation:
-    - esong_code: 3934B5
-      song_name: S.O.S
-      content_type: ''
   - song_name: Eternal
     song_alias:
     esong_code: 3931B5
@@ -262,7 +245,7 @@ result:
     - esong_code: 1976B32
       song_name: 俺ら江戸っ子 浅太郎
       content_type: ''
-  - song_name: 桜華に舞え (北翔海莉・紅ゆずるほか) [DAM本人歌唱]
+  - song_name: 桜華に舞え (北翔海莉・紅ゆずる ほか)[DAM本人歌唱]
     song_alias:
     esong_code: 3931A28
     t_singer_master_id: '1349'
@@ -277,7 +260,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3931A28
-      song_name: 桜華に舞え (北翔海莉・紅ゆずるほか) [DAM本人歌唱]
+      song_name: 桜華に舞え (北翔海莉・紅ゆずる ほか)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 桜花忍法帖
     song_alias:
@@ -383,23 +366,6 @@ result:
       content_type: ''
   - song_name: 男と女の子守唄
     song_alias:
-    esong_code: 2088A3
-    t_singer_master_id: '551'
-    singer_name: 金田 たつえ
-    singer_alias:
-    available_date: '2018-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとことおんなのこも
-    singer_name_ruby: かねたたつえ
-    song_variation:
-    - esong_code: 2088A3
-      song_name: 男と女の子守唄
-      content_type: ''
-  - song_name: 男と女の子守唄
-    song_alias:
     esong_code: 1936A3
     t_singer_master_id: '551'
     singer_name: 金田 たつえ
@@ -432,6 +398,23 @@ result:
     - esong_code: 1970A39
       song_name: 男と女の子守唄
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 男と女の子守唄
+    song_alias:
+    esong_code: 2088A3
+    t_singer_master_id: '551'
+    singer_name: 金田 たつえ
+    singer_alias:
+    available_date: '2018-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとことおんなのこも
+    singer_name_ruby: かねたたつえ
+    song_variation:
+    - esong_code: 2088A3
+      song_name: 男と女の子守唄
+      content_type: ''
   - song_name: 男と女の第2章
     song_alias:
     esong_code: 2029B18
@@ -468,23 +451,6 @@ result:
       content_type: ''
   - song_name: 漢の喧嘩 美しく
     song_alias:
-    esong_code: 3935B25
-    t_singer_master_id: '47981'
-    singer_name: 大西 洋平
-    singer_alias:
-    available_date: '2018-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: おとこのけんかうつく
-    singer_name_ruby: おおにしようへい
-    song_variation:
-    - esong_code: 3935B25
-      song_name: 漢の喧嘩 美しく
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 漢の喧嘩 美しく
-    song_alias:
     esong_code: 3930B24
     t_singer_master_id: '47981'
     singer_name: 大西 洋平
@@ -500,6 +466,23 @@ result:
     - esong_code: 3930B24
       song_name: 漢の喧嘩 美しく
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 漢の喧嘩 美しく
+    song_alias:
+    esong_code: 3935B25
+    t_singer_master_id: '47981'
+    singer_name: 大西 洋平
+    singer_alias:
+    available_date: '2018-01-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: おとこのけんかうつく
+    singer_name_ruby: おおにしようへい
+    song_variation:
+    - esong_code: 3935B25
+      song_name: 漢の喧嘩 美しく
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 男の酒舞台
     song_alias:
     esong_code: 1968B47
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1968B47
       song_name: 男の酒舞台
+      content_type: ''
+  - song_name: 男の絶唱 「名演ギター 斉藤 功」
+    song_alias:
+    esong_code: 2137B42
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2018-01-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのせつしよう
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 2137B42
+      song_name: 男の絶唱 「名演ギター 斉藤 功」
       content_type: ''

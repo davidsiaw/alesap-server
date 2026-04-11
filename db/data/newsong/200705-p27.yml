@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 933
-  all_max_cnt: 1037
-  all_country_cnt: 933
+  max_cnt: 932
+  all_max_cnt: 1036
+  all_country_cnt: 932
   song:
   - song_name: 未来 〜風の強い午後に生まれたソネット〜
     song_alias:
@@ -23,23 +23,6 @@ result:
     song_variation:
     - esong_code: 1767A23
       song_name: 未来 〜風の強い午後に生まれたソネット〜
-      content_type: ''
-  - song_name: 未来
-    song_alias:
-    esong_code: 1788B21
-    t_singer_master_id: '26965'
-    singer_name: JIMANG(じまんぐ)
-    singer_alias:
-    available_date: '2007-05-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みらい
-    singer_name_ruby: しまんく
-    song_variation:
-    - esong_code: 1788B21
-      song_name: 未来
       content_type: ''
   - song_name: Millennium
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1784A46
       song_name: 夕焼けの歌
+      content_type: ''
+  - song_name: 雪椿 [DAM名演ギター 斎藤 功]
+    song_alias:
+    esong_code: 1779B45
+    t_singer_master_id: '852'
+    singer_name: 小林 幸子(SACHIKO de KOBAYASHI)
+    singer_alias:
+    available_date: '2007-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆきつはき
+    singer_name_ruby: こはやしさちこ
+    song_variation:
+    - esong_code: 1779B45
+      song_name: 雪椿 [DAM名演ギター 斎藤 功]
       content_type: ''

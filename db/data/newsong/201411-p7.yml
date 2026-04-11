@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1477
-  all_max_cnt: 1665
-  all_country_cnt: 1477
+  max_cnt: 1474
+  all_max_cnt: 1662
+  all_country_cnt: 1474
   song:
-  - song_name: 艶歌船
-    song_alias:
-    esong_code: 2332A24
-    t_singer_master_id: '2103'
-    singer_name: 細川 たかし
-    singer_alias:
-    available_date: '2014-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: えんかふね
-    singer_name_ruby: ほそかわたかし
-    song_variation:
-    - esong_code: 2332A24
-      song_name: 艶歌船
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: エンジェルフィッシュ
-    song_alias:
-    esong_code: 3363A7
-    t_singer_master_id: '52126'
-    singer_name: luz
-    singer_alias:
-    available_date: '2014-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんしえるふいつし
-    singer_name_ruby: るす
-    song_variation:
-    - esong_code: 3363A7
-      song_name: エンジェルフィッシュ
-      content_type: ''
   - song_name: エンジェルフィッシュ feat.鏡音レン
     song_alias:
     esong_code: 3355B1
@@ -58,6 +24,23 @@ result:
     - esong_code: 3355B1
       song_name: エンジェルフィッシュ feat.鏡音レン
       content_type: VOCALOID
+  - song_name: エンジェルフィッシュ
+    song_alias:
+    esong_code: 3363A7
+    t_singer_master_id: '52126'
+    singer_name: luz
+    singer_alias:
+    available_date: '2014-11-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんしえるふいつし
+    singer_name_ruby: るす
+    song_variation:
+    - esong_code: 3363A7
+      song_name: エンジェルフィッシュ
+      content_type: ''
   - song_name: 艶想夜曲
     song_alias:
     esong_code: 2456A9
@@ -117,7 +100,7 @@ result:
     singer_alias:
     available_date: '2014-11-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL KAI(改)<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おいえ
@@ -517,3 +500,20 @@ result:
     - esong_code: 3352A46
       song_name: 踊る夜光蟲
       content_type: 東方
+  - song_name: オーバードライブ!
+    song_alias:
+    esong_code: 3362B42
+    t_singer_master_id: '40363'
+    singer_name: ミルキィホームズ
+    singer_alias:
+    available_date: '2014-11-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: トイズドライブ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おはとらいふ
+    singer_name_ruby: みるきいほむす
+    song_variation:
+    - esong_code: 3362B42
+      song_name: オーバードライブ!
+      content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 662
-  all_max_cnt: 737
-  all_country_cnt: 662
+  max_cnt: 659
+  all_max_cnt: 734
+  all_country_cnt: 659
   song:
-  - song_name: Superman
-    song_alias:
-    esong_code: 3A35
-    t_singer_master_id: '6869'
-    singer_name: CARNATION
-    singer_alias:
-    available_date: '2003-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すはまん
-    singer_name_ruby: かねしよん
-    song_variation:
-    - esong_code: 3A35
-      song_name: Superman
-      content_type: ''
-  - song_name: SPECIALLY
-    song_alias:
-    esong_code: 37B17
-    t_singer_master_id: '6208'
-    singer_name: FIELD OF VIEW(the FIELD OF VIEW)
-    singer_alias:
-    available_date: '2003-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すへしやり
-    singer_name_ruby: ふいるとおふひゆ
-    song_variation:
-    - esong_code: 37B17
-      song_name: SPECIALLY
-      content_type: ''
   - song_name: SMILE FOR ME
     song_alias:
     esong_code: 998B22
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 998B38
       song_name: 竹富島で会いましょう
+      content_type: ''
+  - song_name: 戦え！電人ザボーガー
+    song_alias:
+    esong_code: 284B18
+    t_singer_master_id: '1058'
+    singer_name: 子門 真人
+    singer_alias:
+    available_date: '2003-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 電人ザボーガー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たたかえてんしん
+    singer_name_ruby: しもんまさと
+    song_variation:
+    - esong_code: 284B18
+      song_name: 戦え！電人ザボーガー
+      content_type: ''
+  - song_name: 正しい兄弟愛
+    song_alias:
+    esong_code: 130B16
+    t_singer_master_id: '2867'
+    singer_name: 佐々木 望
+    singer_alias:
+    available_date: '2003-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ここはグリーンウッド<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たたしいきようた
+    singer_name_ruby: ささきのそむ
+    song_variation:
+    - esong_code: 130B16
+      song_name: 正しい兄弟愛
       content_type: ''

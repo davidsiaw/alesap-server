@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 914
-  all_max_cnt: 950
-  all_country_cnt: 914
+  max_cnt: 909
+  all_max_cnt: 945
+  all_country_cnt: 909
   song:
-  - song_name: THE Pleasure of Love
-    song_alias:
-    esong_code: 1411B44
-    t_singer_master_id: '13997'
-    singer_name: Kimeru
-    singer_alias:
-    available_date: '2005-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さふれしやお
-    singer_name_ruby: きめる
-    song_variation:
-    - esong_code: 1411B44
-      song_name: THE Pleasure of Love
-      content_type: ''
-  - song_name: The Veranda
-    song_alias:
-    esong_code: 1406A24
-    t_singer_master_id: '8680'
-    singer_name: くるり
-    singer_alias:
-    available_date: '2005-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さへらんた
-    singer_name_ruby: くるり
-    song_variation:
-    - esong_code: 1406A24
-      song_name: The Veranda
-      content_type: ''
   - song_name: サマースナイパー
     song_alias:
     esong_code: 1406A25
@@ -94,23 +60,6 @@ result:
       content_type: ''
   - song_name: さようなら ありがとう
     song_alias:
-    esong_code: 1394B4
-    t_singer_master_id: '10051'
-    singer_name: 夏川 りみ
-    singer_alias:
-    available_date: '2005-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: さようならありかと
-    singer_name_ruby: なつかわりみ
-    song_variation:
-    - esong_code: 1394B4
-      song_name: さようなら ありがとう
-      content_type: DAM良音
-  - song_name: さようなら ありがとう
-    song_alias:
     esong_code: 1394B5
     t_singer_master_id: '10051'
     singer_name: 夏川 りみ
@@ -126,6 +75,23 @@ result:
     - esong_code: 1394B5
       song_name: さようなら ありがとう
       content_type: ''
+  - song_name: さようなら ありがとう
+    song_alias:
+    esong_code: 1394B4
+    t_singer_master_id: '10051'
+    singer_name: 夏川 りみ
+    singer_alias:
+    available_date: '2005-11-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: さようならありかと
+    singer_name_ruby: なつかわりみ
+    song_variation:
+    - esong_code: 1394B4
+      song_name: さようなら ありがとう
+      content_type: DAM良音
   - song_name: さよなら (オフコース)
     song_alias:
     esong_code: 1396A27
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1405A18
       song_name: Shelly
+      content_type: ''
+  - song_name: シガー
+    song_alias:
+    esong_code: 1398A2
+    t_singer_master_id: '24438'
+    singer_name: チリヌルヲワカ
+    singer_alias:
+    available_date: '2005-11-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しか
+    singer_name_ruby: ちりぬるをわか
+    song_variation:
+    - esong_code: 1398A2
+      song_name: シガー
+      content_type: ''
+  - song_name: シシ神の森の二人 (インスト)
+    song_alias:
+    esong_code: 1413B5
+    t_singer_master_id: '24733'
+    singer_name: スタジオジブリ
+    singer_alias:
+    available_date: '2005-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: もののけ姫<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ししかみのもりのふ
+    singer_name_ruby: すたしおしふり
+    song_variation:
+    - esong_code: 1413B5
+      song_name: シシ神の森の二人 (インスト)
       content_type: ''

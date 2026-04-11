@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 577
-  all_max_cnt: 620
-  all_country_cnt: 577
+  max_cnt: 576
+  all_max_cnt: 619
+  all_country_cnt: 576
   song:
   - song_name: 夏風
     song_alias:
@@ -111,23 +111,6 @@ result:
       content_type: ''
   - song_name: 虹
     song_alias:
-    esong_code: 608B33
-    t_singer_master_id: '7456'
-    singer_name: ゴスペラーズ(The Gospellers)
-    singer_alias:
-    available_date: '2003-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にし
-    singer_name_ruby: こすへらす
-    song_variation:
-    - esong_code: 608B33
-      song_name: 虹
-      content_type: ''
-  - song_name: 虹
-    song_alias:
     esong_code: 811A8
     t_singer_master_id: '13916'
     singer_name: orange pekoe
@@ -141,6 +124,23 @@ result:
     singer_name_ruby: おれんしへこ
     song_variation:
     - esong_code: 811A8
+      song_name: 虹
+      content_type: ''
+  - song_name: 虹
+    song_alias:
+    esong_code: 608B33
+    t_singer_master_id: '7456'
+    singer_name: ゴスペラーズ(The Gospellers)
+    singer_alias:
+    available_date: '2003-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にし
+    singer_name_ruby: こすへらす
+    song_variation:
+    - esong_code: 608B33
       song_name: 虹
       content_type: ''
   - song_name: 虹

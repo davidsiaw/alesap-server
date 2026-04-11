@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 999
-  all_max_cnt: 1083
-  all_country_cnt: 999
+  max_cnt: 985
+  all_max_cnt: 1069
+  all_country_cnt: 985
   song:
-  - song_name: Only one yell
-    song_alias:
-    esong_code: 4560B3
-    t_singer_master_id: '68634'
-    singer_name: 9-tie
-    singer_alias:
-    available_date: '2021-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: SELECTION PROJECT<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんりわんえる
-    singer_name_ruby: きゆてい
-    song_variation:
-    - esong_code: 4560B3
-      song_name: Only one yell
-      content_type: ''
-  - song_name: 海馬
-    song_alias:
-    esong_code: 4569B48
-    t_singer_master_id: '21655'
-    singer_name: RADWIMPS
-    singer_alias:
-    available_date: '2021-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かいは
-    singer_name_ruby: らつとういんふす
-    song_variation:
-    - esong_code: 4569B48
-      song_name: 海馬
-      content_type: ''
-  - song_name: 乖離性イデオロギー
-    song_alias:
-    esong_code: 4569A43
-    t_singer_master_id: '44703'
-    singer_name: DIAURA
-    singer_alias:
-    available_date: '2021-11-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かいりせいいておろ
-    singer_name_ruby: ていおら
-    song_variation:
-    - esong_code: 4569A43
-      song_name: 乖離性イデオロギー
-      content_type: ''
   - song_name: 顔が良いやつは音楽をやるな
     song_alias:
     esong_code: 4567A48
@@ -111,23 +60,6 @@ result:
       content_type: ''
   - song_name: 陽炎坂
     song_alias:
-    esong_code: 4564A41
-    t_singer_master_id: '1785'
-    singer_name: 服部 浩子
-    singer_alias:
-    available_date: '2021-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: かけろうさか
-    singer_name_ruby: はつとりひろこ
-    song_variation:
-    - esong_code: 4564A41
-      song_name: 陽炎坂
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 陽炎坂
-    song_alias:
     esong_code: 4563B48
     t_singer_master_id: '1785'
     singer_name: 服部 浩子
@@ -143,6 +75,23 @@ result:
     - esong_code: 4563B48
       song_name: 陽炎坂
       content_type: DAM生音
+  - song_name: 陽炎坂
+    song_alias:
+    esong_code: 4564A41
+    t_singer_master_id: '1785'
+    singer_name: 服部 浩子
+    singer_alias:
+    available_date: '2021-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: かけろうさか
+    singer_name_ruby: はつとりひろこ
+    song_variation:
+    - esong_code: 4564A41
+      song_name: 陽炎坂
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 傘
     song_alias:
     esong_code: 4570B29
@@ -159,23 +108,6 @@ result:
     song_variation:
     - esong_code: 4570B29
       song_name: 傘
-      content_type: ''
-  - song_name: 柏木由紀なりのGO TO THE BEDS -TRUE SONG-
-    song_alias:
-    esong_code: 4573B31
-    t_singer_master_id: '66295'
-    singer_name: GO TO THE BEDS
-    singer_alias:
-    available_date: '2021-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かしわきゆきなりの
-    singer_name_ruby: ことうさへつつ
-    song_variation:
-    - esong_code: 4573B31
-      song_name: 柏木由紀なりのGO TO THE BEDS -TRUE SONG-
       content_type: ''
   - song_name: 柏木由紀なりのPARADISES -夏のバカヤロー-
     song_alias:
@@ -211,11 +143,11 @@ result:
     - esong_code: 4573B17
       song_name: 柏木由紀なりのEMPiRE -時間が足りない-
       content_type: ''
-  - song_name: 柏木由紀なりのASP -AGAiNST THE WORLD-
+  - song_name: 柏木由紀なりのGO TO THE BEDS -TRUE SONG-
     song_alias:
-    esong_code: 4573B14
-    t_singer_master_id: '68315'
-    singer_name: ASP
+    esong_code: 4573B31
+    t_singer_master_id: '66295'
+    singer_name: GO TO THE BEDS
     singer_alias:
     available_date: '2021-11-30'
     end_date: '2999-04-10 00:00:00'
@@ -223,10 +155,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: かしわきゆきなりの
-    singer_name_ruby: ええすひ
+    singer_name_ruby: ことうさへつつ
     song_variation:
-    - esong_code: 4573B14
-      song_name: 柏木由紀なりのASP -AGAiNST THE WORLD-
+    - esong_code: 4573B31
+      song_name: 柏木由紀なりのGO TO THE BEDS -TRUE SONG-
       content_type: ''
   - song_name: 柏木由紀なりのBiSH -BAD TEMPER-
     song_alias:
@@ -244,6 +176,23 @@ result:
     song_variation:
     - esong_code: 4574A20
       song_name: 柏木由紀なりのBiSH -BAD TEMPER-
+      content_type: ''
+  - song_name: 柏木由紀なりのASP -AGAiNST THE WORLD-
+    song_alias:
+    esong_code: 4573B14
+    t_singer_master_id: '68315'
+    singer_name: ASP
+    singer_alias:
+    available_date: '2021-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かしわきゆきなりの
+    singer_name_ruby: ええすひ
+    song_variation:
+    - esong_code: 4573B14
+      song_name: 柏木由紀なりのASP -AGAiNST THE WORLD-
       content_type: ''
   - song_name: 柏木由紀なりの豆柴の大群 -ずっと気になるズッキーニ-
     song_alias:
@@ -457,7 +406,7 @@ result:
     singer_alias:
     available_date: '2021-11-16'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神獄塔メアリスケルター Finale<番組名>
+    tie_up: 神獄塔メアリスケルター<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かつほうのしれん
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4561B12
       song_name: 家庭教師
+      content_type: ''
+  - song_name: Canary Yellow
+    song_alias:
+    esong_code: 4564B27
+    t_singer_master_id: '38409'
+    singer_name: 内田 彩
+    singer_alias:
+    available_date: '2021-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: やくならマグカップも 二番窯<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなりいえろ
+    singer_name_ruby: うちたあや
+    song_variation:
+    - esong_code: 4564B27
+      song_name: Canary Yellow
+      content_type: ''
+  - song_name: カノン -旧約:外典-
+    song_alias:
+    esong_code: 4569A47
+    t_singer_master_id: '39216'
+    singer_name: DOG in The パラレルワールドオーケストラ
+    singer_alias:
+    available_date: '2021-11-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かのんきゆうやくけ
+    singer_name_ruby: とつくいんさはられるわるとお
+    song_variation:
+    - esong_code: 4569A47
+      song_name: カノン -旧約:外典-
+      content_type: ''
+  - song_name: 噛みつき
+    song_alias:
+    esong_code: 4570B8
+    t_singer_master_id: '68765'
+    singer_name: AYU
+    singer_alias:
+    available_date: '2021-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かみつき
+    singer_name_ruby: あゆ
+    song_variation:
+    - esong_code: 4570B8
+      song_name: 噛みつき
       content_type: ''

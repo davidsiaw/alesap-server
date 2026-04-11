@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
   - song_name: こいこいこい
     song_alias:
@@ -162,23 +162,6 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 恋の津軽十三湖
     song_alias:
-    esong_code: 3295B3
-    t_singer_master_id: '1675'
-    singer_name: 長山 洋子(yoko)
-    singer_alias:
-    available_date: '2014-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こいのつかるしゆ
-    singer_name_ruby: なかやまようこ
-    song_variation:
-    - esong_code: 3295B3
-      song_name: 恋の津軽十三湖
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 恋の津軽十三湖
-    song_alias:
     esong_code: 3295A47
     t_singer_master_id: '1675'
     singer_name: 長山 洋子(yoko)
@@ -194,6 +177,23 @@ result:
     - esong_code: 3295A47
       song_name: 恋の津軽十三湖
       content_type: JOY生演奏
+  - song_name: 恋の津軽十三湖
+    song_alias:
+    esong_code: 3295B3
+    t_singer_master_id: '1675'
+    singer_name: 長山 洋子(yoko)
+    singer_alias:
+    available_date: '2014-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: こいのつかるしゆ
+    singer_name_ruby: なかやまようこ
+    song_variation:
+    - esong_code: 3295B3
+      song_name: 恋の津軽十三湖
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 恋の夏富士
     song_alias:
     esong_code: 3296A9
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: 恋花
     song_alias:
-    esong_code: 3281A40
-    t_singer_master_id: '44493'
-    singer_name: SILENT SIREN(Silent Siren)
-    singer_alias:
-    available_date: '2014-07-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいはな
-    singer_name_ruby: さいれんとさいれん
-    song_variation:
-    - esong_code: 3281A40
-      song_name: 恋花
-      content_type: ''
-  - song_name: 恋花
-    song_alias:
     esong_code: 3287B11
     t_singer_master_id: '38605'
     singer_name: 佐咲 紗花
@@ -294,6 +277,23 @@ result:
     singer_name_ruby: ささきさやか
     song_variation:
     - esong_code: 3287B11
+      song_name: 恋花
+      content_type: ''
+  - song_name: 恋花
+    song_alias:
+    esong_code: 3281A40
+    t_singer_master_id: '44493'
+    singer_name: SILENT SIREN(Silent Siren)
+    singer_alias:
+    available_date: '2014-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいはな
+    singer_name_ruby: さいれんとさいれん
+    song_variation:
+    - esong_code: 3281A40
       song_name: 恋花
       content_type: ''
   - song_name: 恋花火
@@ -381,23 +381,6 @@ result:
     - esong_code: 3283A2
       song_name: 恋人よ
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 恋蛍
-    song_alias:
-    esong_code: 3294B40
-    t_singer_master_id: '51173'
-    singer_name: 三原 有加里
-    singer_alias:
-    available_date: '2014-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいほたる
-    singer_name_ruby: みはらゆかり
-    song_variation:
-    - esong_code: 3294B40
-      song_name: 恋蛍
-      content_type: ''
   - song_name: 恋蛍火(こいほたる)
     song_alias:
     esong_code: 3296A10
@@ -414,6 +397,23 @@ result:
     song_variation:
     - esong_code: 3296A10
       song_name: 恋蛍火(こいほたる)
+      content_type: ''
+  - song_name: 恋蛍
+    song_alias:
+    esong_code: 3294B40
+    t_singer_master_id: '51173'
+    singer_name: 三原 有加里
+    singer_alias:
+    available_date: '2014-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいほたる
+    singer_name_ruby: みはらゆかり
+    song_variation:
+    - esong_code: 3294B40
+      song_name: 恋蛍
       content_type: ''
   - song_name: 恋雪
     song_alias:

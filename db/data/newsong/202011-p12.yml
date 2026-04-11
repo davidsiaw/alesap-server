@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 952
-  all_country_cnt: 880
+  max_cnt: 871
+  all_max_cnt: 943
+  all_country_cnt: 871
   song:
-  - song_name: 春雷 [歌ってみた利用OK]
-    song_alias:
-    esong_code: 4446B44
-    t_singer_master_id: '44604'
-    singer_name: 米津玄師(ハチ)
-    singer_alias:
-    available_date: '2020-11-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: 歌ってみた利用OK
-    song_name_ruby: しゆんらい
-    singer_name_ruby: よねつけんし
-    song_variation:
-    - esong_code: 4446B44
-      song_name: 春雷 [歌ってみた利用OK]
-      content_type: 歌ってみた利用OK
-  - song_name: 正体判明ネームレスガール
-    song_alias:
-    esong_code: 4439B43
-    t_singer_master_id: '48635'
-    singer_name: 伊藤 美来
-    singer_alias:
-    available_date: '2020-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: CHUNITHM<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようたいはんめいね
-    singer_name_ruby: いとうみく
-    song_variation:
-    - esong_code: 4439B43
-      song_name: 正体判明ネームレスガール
-      content_type: ''
-  - song_name: SHOW TIME
-    song_alias:
-    esong_code: 4442A13
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2020-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようたいむ
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 4442A13
-      song_name: SHOW TIME
-      content_type: ''
-  - song_name: 松竹梅
-    song_alias:
-    esong_code: 4440B38
-    t_singer_master_id: '48167'
-    singer_name: 水雲-MIZMO-(MIZMO)
-    singer_alias:
-    available_date: '2020-11-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: しようちくはい
-    singer_name_ruby: みすも
-    song_variation:
-    - esong_code: 4440B38
-      song_name: 松竹梅
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 松竹梅
-    song_alias:
-    esong_code: 4441B18
-    t_singer_master_id: '48167'
-    singer_name: 水雲-MIZMO-(MIZMO)
-    singer_alias:
-    available_date: '2020-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: しようちくはい
-    singer_name_ruby: みすも
-    song_variation:
-    - esong_code: 4441B18
-      song_name: 松竹梅
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 松竹梅
-    song_alias:
-    esong_code: 4444A33
-    t_singer_master_id: '48167'
-    singer_name: 水雲-MIZMO-(MIZMO)
-    singer_alias:
-    available_date: '2020-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようちくはい
-    singer_name_ruby: みすも
-    song_variation:
-    - esong_code: 4444A33
-      song_name: 松竹梅
-      content_type: ''
   - song_name: じょっぱり女
     song_alias:
     esong_code: 862B20
@@ -400,23 +298,6 @@ result:
       content_type: ''
   - song_name: 水平線
     song_alias:
-    esong_code: 4439A28
-    t_singer_master_id: '35281'
-    singer_name: back number
-    singer_alias:
-    available_date: '2020-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: すいへいせん
-    singer_name_ruby: はつくなんは
-    song_variation:
-    - esong_code: 4439A28
-      song_name: 水平線
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 水平線
-    song_alias:
     esong_code: 4441B16
     t_singer_master_id: '35281'
     singer_name: back number
@@ -432,6 +313,23 @@ result:
     - esong_code: 4441B16
       song_name: 水平線
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 水平線
+    song_alias:
+    esong_code: 4439A28
+    t_singer_master_id: '35281'
+    singer_name: back number
+    singer_alias:
+    available_date: '2020-11-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: すいへいせん
+    singer_name_ruby: はつくなんは
+    song_variation:
+    - esong_code: 4439A28
+      song_name: 水平線
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 好きになってごめんなさい (LAPIS ARCH)
     song_alias:
     esong_code: 4438B14
@@ -500,6 +398,23 @@ result:
     - esong_code: 4449B38
       song_name: Scorpion
       content_type: ''
+  - song_name: スタート!
+    song_alias:
+    esong_code: 4442B1
+    t_singer_master_id: '49188'
+    singer_name: 佐々木 李子
+    singer_alias:
+    available_date: '2020-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: デュエル・マスターズ キング<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたと
+    singer_name_ruby: ささきりこ
+    song_variation:
+    - esong_code: 4442B1
+      song_name: スタート!
+      content_type: ''
   - song_name: "'STAR'T feat.Nadeshiko"
     song_alias:
     esong_code: 4440A30
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 4440A30
       song_name: "'STAR'T feat.Nadeshiko"
+      content_type: ''
+  - song_name: STAND STRONG
+    song_alias:
+    esong_code: 4444B4
+    t_singer_master_id: '67126'
+    singer_name: LIBRO,ポチョムキン,Bose&CHOZEN LEE
+    singer_alias:
+    available_date: '2020-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたんとすとろんく
+    singer_name_ruby: りふろほちよむきんほ
+    song_variation:
+    - esong_code: 4444B4
+      song_name: STAND STRONG
+      content_type: ''
+  - song_name: ずっとあなたが好きだった
+    song_alias:
+    esong_code: 4445B8
+    t_singer_master_id: '15725'
+    singer_name: 松平 直子
+    singer_alias:
+    available_date: '2020-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すつとあなたかす
+    singer_name_ruby: まつたいらなおこ
+    song_variation:
+    - esong_code: 4445B8
+      song_name: ずっとあなたが好きだった
+      content_type: ''
+  - song_name: ずっとそばにいてね。
+    song_alias:
+    esong_code: 4439A40
+    t_singer_master_id: '14386'
+    singer_name: ソニン
+    singer_alias:
+    available_date: '2020-11-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すつとそはにいて
+    singer_name_ruby: そにん
+    song_variation:
+    - esong_code: 4439A40
+      song_name: ずっとそばにいてね。
+      content_type: ''
+  - song_name: STAYTUNE [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4446B19
+    t_singer_master_id: '53381'
+    singer_name: Suchmos
+    singer_alias:
+    available_date: '2020-11-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: すていちゆん
+    singer_name_ruby: さちもす
+    song_variation:
+    - esong_code: 4446B19
+      song_name: STAYTUNE [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
+  - song_name: SticK Out
+    song_alias:
+    esong_code: 4444A7
+    t_singer_master_id: '14302'
+    singer_name: KOTOKO
+    singer_alias:
+    available_date: '2020-11-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: キングスレイド 意志を継ぐものたち<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すていつくあうと
+    singer_name_ruby: ことこ
+    song_variation:
+    - esong_code: 4444A7
+      song_name: SticK Out
       content_type: ''

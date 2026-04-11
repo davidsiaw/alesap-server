@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 577
-  all_max_cnt: 620
-  all_country_cnt: 577
+  max_cnt: 576
+  all_max_cnt: 619
+  all_country_cnt: 576
   song:
   - song_name: Love Tree
     song_alias:
@@ -364,23 +364,6 @@ result:
     - esong_code: 746A1
       song_name: LET ME LUV U DOWN
       content_type: ''
-  - song_name: ろくでなし
-    song_alias:
-    esong_code: 833B17
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2003-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ろくてなし
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 833B17
-      song_name: ろくでなし
-      content_type: ''
   - song_name: R&Rニアラズ
     song_alias:
     esong_code: 751B3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 819B5
       song_name: 私のたまごやき
+      content_type: ''
+  - song_name: わたぼうし
+    song_alias:
+    esong_code: 836A7
+    t_singer_master_id: '10961'
+    singer_name: 杉田 あきひろ&つのだ りょうこ
+    singer_alias:
+    available_date: '2003-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: おかあさんといっしょ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: わたほうし
+    singer_name_ruby: すきたあきひろつの
+    song_variation:
+    - esong_code: 836A7
+      song_name: わたぼうし
       content_type: ''

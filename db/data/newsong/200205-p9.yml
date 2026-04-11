@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 398
-  all_max_cnt: 457
-  all_country_cnt: 398
+  max_cnt: 395
+  all_max_cnt: 455
+  all_country_cnt: 395
   song:
-  - song_name: POWER OF WORDS
-    song_alias:
-    esong_code: 846A31
-    t_singer_master_id: '10604'
-    singer_name: 愛内 里菜
-    singer_alias:
-    available_date: '2002-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はわおふわす
-    singer_name_ruby: あいうちりな
-    song_variation:
-    - esong_code: 846A31
-      song_name: POWER OF WORDS
-      content_type: ''
-  - song_name: 晩秋
-    song_alias:
-    esong_code: 840A40
-    t_singer_master_id: '12518'
-    singer_name: THE BACK HORN
-    singer_alias:
-    available_date: '2002-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はんしゆう
-    singer_name_ruby: さはつくほん
-    song_variation:
-    - esong_code: 840A40
-      song_name: 晩秋
-      content_type: ''
   - song_name: P.R.P
     song_alias:
     esong_code: 108B47
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 108B49
       song_name: BLUE
+      content_type: ''
+  - song_name: blue
+    song_alias:
+    esong_code: 837B26
+    t_singer_master_id: '13028'
+    singer_name: 175R
+    singer_alias:
+    available_date: '2002-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふる
+    singer_name_ruby: いなこらいた
+    song_variation:
+    - esong_code: 837B26
+      song_name: blue
+      content_type: ''
+  - song_name: ふるえて眠れ
+    song_alias:
+    esong_code: 844B29
+    t_singer_master_id: '7891'
+    singer_name: YUKI
+    singer_alias:
+    available_date: '2002-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるえてねむれ
+    singer_name_ruby: ゆき
+    song_variation:
+    - esong_code: 844B29
+      song_name: ふるえて眠れ
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
   - song_name: 確信がもてるもの
     song_alias:
@@ -23,23 +23,6 @@ result:
     song_variation:
     - esong_code: 3176B33
       song_name: 確信がもてるもの
-      content_type: ''
-  - song_name: 革命的ブロードウェイ主義者同盟
-    song_alias:
-    esong_code: 3168A37
-    t_singer_master_id: '45282'
-    singer_name: 上坂 すみれ
-    singer_alias:
-    available_date: '2014-01-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かくめいてきふろ
-    singer_name_ruby: うえさかすみれ
-    song_variation:
-    - esong_code: 3168A37
-      song_name: 革命的ブロードウェイ主義者同盟
       content_type: ''
   - song_name: 革命デュアリズム
     song_alias:
@@ -408,7 +391,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: かわゆしあらわる
     singer_name_ruby: あいとるようかいかわゆし
     song_variation:
@@ -428,7 +411,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: かわゆしあらわる
     singer_name_ruby: あいとるようかいかわゆし
     song_variation:
@@ -523,3 +506,20 @@ result:
     - esong_code: 3167A5
       song_name: 祇園恋しや
       content_type: ''
+  - song_name: 祇園のおんな
+    song_alias:
+    esong_code: 1548A25
+    t_singer_master_id: '595'
+    singer_name: 川中 美幸
+    singer_alias:
+    available_date: '2014-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きおんのおんな
+    singer_name_ruby: かわなかみゆき
+    song_variation:
+    - esong_code: 1548A25
+      song_name: 祇園のおんな
+      content_type: JOYﾎﾞｰｶﾙ

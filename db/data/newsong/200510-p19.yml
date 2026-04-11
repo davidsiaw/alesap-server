@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 809
-  all_max_cnt: 933
-  all_country_cnt: 809
+  max_cnt: 808
+  all_max_cnt: 932
+  all_country_cnt: 808
   song:
-  - song_name: 花彩夢彩
-    song_alias:
-    esong_code: 1337A11
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2005-10-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はないろゆめいろ
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 1337A11
-      song_name: 花彩夢彩
-      content_type: ''
   - song_name: Hanaday
     song_alias:
     esong_code: 1384B38
@@ -417,23 +400,6 @@ result:
       content_type: ''
   - song_name: BEAT
     song_alias:
-    esong_code: 1385B29
-    t_singer_master_id: '19551'
-    singer_name: 木村 カエラ
-    singer_alias:
-    available_date: '2005-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: ひと
-    singer_name_ruby: きむらかえら
-    song_variation:
-    - esong_code: 1385B29
-      song_name: BEAT
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: BEAT
-    song_alias:
     esong_code: 1382A48
     t_singer_master_id: '19551'
     singer_name: 木村 カエラ
@@ -449,6 +415,23 @@ result:
     - esong_code: 1382A48
       song_name: BEAT
       content_type: ''
+  - song_name: BEAT
+    song_alias:
+    esong_code: 1385B29
+    t_singer_master_id: '19551'
+    singer_name: 木村 カエラ
+    singer_alias:
+    available_date: '2005-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: ひと
+    singer_name_ruby: きむらかえら
+    song_variation:
+    - esong_code: 1385B29
+      song_name: BEAT
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: BETWEEN
     song_alias:
     esong_code: 1381B39
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1389B7
       song_name: 日々草
+      content_type: ''
+  - song_name: 向日葵
+    song_alias:
+    esong_code: 1395B25
+    t_singer_master_id: '20784'
+    singer_name: ユンナ
+    singer_alias:
+    available_date: '2005-10-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひまわり
+    singer_name_ruby: ゆんな
+    song_variation:
+    - esong_code: 1395B25
+      song_name: 向日葵
       content_type: ''

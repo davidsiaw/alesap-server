@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1549
-  all_max_cnt: 1789
-  all_country_cnt: 1549
+  max_cnt: 1543
+  all_max_cnt: 1783
+  all_country_cnt: 1543
   song:
-  - song_name: 鏡にみた夢
-    song_alias:
-    esong_code: 3325A24
-    t_singer_master_id: '10605'
-    singer_name: GARNET CROW
-    singer_alias:
-    available_date: '2014-09-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かかみにみたゆめ
-    singer_name_ruby: かねつとくろう
-    song_variation:
-    - esong_code: 3325A24
-      song_name: 鏡にみた夢
-      content_type: ''
-  - song_name: 鏡の向こうの醜い私 feat.初音ミク
-    song_alias:
-    esong_code: 3326A41
-    t_singer_master_id: '38201'
-    singer_name: 梨本 うい
-    singer_alias:
-    available_date: '2014-09-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: かかみのむこうのみ
-    singer_name_ruby: なしもとうい
-    song_variation:
-    - esong_code: 3326A41
-      song_name: 鏡の向こうの醜い私 feat.初音ミク
-      content_type: VOCALOID
-  - song_name: 輝け命
-    song_alias:
-    esong_code: 3327A25
-    t_singer_master_id: '51655'
-    singer_name: 星 ひかり
-    singer_alias:
-    available_date: '2014-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かかやけいのち
-    singer_name_ruby: ほしひかり
-    song_variation:
-    - esong_code: 3327A25
-      song_name: 輝け命
-      content_type: ''
   - song_name: 鍵のない部屋 feat.IA
     song_alias:
     esong_code: 3320A35
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3328A3
       song_name: ガラクタネバーランド
+      content_type: ''
+  - song_name: カラクリドール
+    song_alias:
+    esong_code: 3318A10
+    t_singer_master_id: '29949'
+    singer_name: 長谷川 明子
+    singer_alias:
+    available_date: '2014-09-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ファンタジスタドール<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: からくりとる
+    singer_name_ruby: はせかわあきこ
+    song_variation:
+    - esong_code: 3318A10
+      song_name: カラクリドール
+      content_type: ''
+  - song_name: からくりピエロ feat.初音ミク
+    song_alias:
+    esong_code: 3316B46
+    t_singer_master_id: '36463'
+    singer_name: イナメトオル(40mP)
+    singer_alias:
+    available_date: '2014-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: からくりひえろ
+    singer_name_ruby: いなめとおるよんしゆうめとる
+    song_variation:
+    - esong_code: 3316B46
+      song_name: からくりピエロ feat.初音ミク
+      content_type: VOCALOID
+  - song_name: カラフルNo.1
+    song_alias:
+    esong_code: 3315B23
+    t_singer_master_id: '51513'
+    singer_name: 本田 望結
+    singer_alias:
+    available_date: '2014-09-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: モジーズ&YOU<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: からふるなんはわ
+    singer_name_ruby: ほんたみゆ
+    song_variation:
+    - esong_code: 3315B23
+      song_name: カラフルNo.1
       content_type: ''

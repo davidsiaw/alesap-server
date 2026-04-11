@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: チョコレート☆マジック! feat.巡音ルカ
-    song_alias:
-    esong_code: 2831B22
-    t_singer_master_id: '43558'
-    singer_name: バレンタインP
-    singer_alias:
-    available_date: '2012-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ちよこれとましつ
-    singer_name_ruby: はれんたいんひ
-    song_variation:
-    - esong_code: 2831B22
-      song_name: チョコレート☆マジック! feat.巡音ルカ
-      content_type: VOCALOID
   - song_name: 直角Sunshine
     song_alias:
     esong_code: 2838A12
@@ -245,23 +228,6 @@ result:
     - esong_code: 2835B19
       song_name: Dear Chroma
       content_type: ''
-  - song_name: Dear my friend
-    song_alias:
-    esong_code: 2839A46
-    t_singer_master_id: '32115'
-    singer_name: BRIGHT
-    singer_alias:
-    available_date: '2012-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていあまいふれんと
-    singer_name_ruby: ふらいと
-    song_variation:
-    - esong_code: 2839A46
-      song_name: Dear my friend
-      content_type: ''
   - song_name: Dear My Friend
     song_alias:
     esong_code: 2840B20
@@ -279,6 +245,23 @@ result:
     - esong_code: 2840B20
       song_name: Dear My Friend
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Dear my friend
+    song_alias:
+    esong_code: 2839A46
+    t_singer_master_id: '32115'
+    singer_name: BRIGHT
+    singer_alias:
+    available_date: '2012-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていあまいふれんと
+    singer_name_ruby: ふらいと
+    song_variation:
+    - esong_code: 2839A46
+      song_name: Dear my friend
+      content_type: ''
   - song_name: Distance
     song_alias:
     esong_code: 2841B29
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2841A43
       song_name: 点描のしくみ
+      content_type: ''
+  - song_name: Two years later
+    song_alias:
+    esong_code: 2839B17
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2012-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とういやすれい
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 2839B17
+      song_name: Two years later
       content_type: ''

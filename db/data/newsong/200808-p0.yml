@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 942
-  all_max_cnt: 1036
-  all_country_cnt: 942
+  max_cnt: 935
+  all_max_cnt: 1029
+  all_country_cnt: 935
   song:
   - song_name: I am
     song_alias:
@@ -26,23 +26,6 @@ result:
       content_type: ''
   - song_name: I AM YOUR SINGER
     song_alias:
-    esong_code: 2107B18
-    t_singer_master_id: '944'
-    singer_name: サザンオールスターズ
-    singer_alias:
-    available_date: '2008-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あいあむゆあしんか
-    singer_name_ruby: ささんおるすたす
-    song_variation:
-    - esong_code: 2107B18
-      song_name: I AM YOUR SINGER
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: I AM YOUR SINGER
-    song_alias:
     esong_code: 2055A46
     t_singer_master_id: '944'
     singer_name: サザンオールスターズ
@@ -58,6 +41,23 @@ result:
     - esong_code: 2055A46
       song_name: I AM YOUR SINGER
       content_type: ''
+  - song_name: I AM YOUR SINGER
+    song_alias:
+    esong_code: 2107B18
+    t_singer_master_id: '944'
+    singer_name: サザンオールスターズ
+    singer_alias:
+    available_date: '2008-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいあむゆあしんか
+    singer_name_ruby: ささんおるすたす
+    song_variation:
+    - esong_code: 2107B18
+      song_name: I AM YOUR SINGER
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: I WiSHメドレー 〜2005〜
     song_alias:
     esong_code: 2060A48
@@ -262,23 +262,6 @@ result:
     - esong_code: 2062B18
       song_name: I don't wanna go
       content_type: ''
-  - song_name: 愛のうた
-    song_alias:
-    esong_code: 2055B17
-    t_singer_master_id: '24239'
-    singer_name: 松原 健之
-    singer_alias:
-    available_date: '2008-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのうた
-    singer_name_ruby: まつはらたけし
-    song_variation:
-    - esong_code: 2055B17
-      song_name: 愛のうた
-      content_type: ''
   - song_name: 愛の唄
     song_alias:
     esong_code: 2064B4
@@ -312,6 +295,23 @@ result:
     song_variation:
     - esong_code: 2055B49
       song_name: アイのうた
+      content_type: ''
+  - song_name: 愛のうた
+    song_alias:
+    esong_code: 2055B17
+    t_singer_master_id: '24239'
+    singer_name: 松原 健之
+    singer_alias:
+    available_date: '2008-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのうた
+    singer_name_ruby: まつはらたけし
+    song_variation:
+    - esong_code: 2055B17
+      song_name: 愛のうた
       content_type: ''
   - song_name: 愛のバカ!
     song_alias:

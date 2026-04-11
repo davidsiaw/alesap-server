@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
+  - song_name: YELLOW
+    song_alias:
+    esong_code: 3573B6
+    t_singer_master_id: '55017'
+    singer_name: Le☆S☆Ca
+    singer_alias:
+    available_date: '2015-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Tokyo 7th シスターズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いえろ
+    singer_name_ruby: れすか
+    song_variation:
+    - esong_code: 3573B6
+      song_name: YELLOW
+      content_type: ''
   - song_name: Yellow Trash Blues
     song_alias:
     esong_code: 3574B31
@@ -45,7 +62,7 @@ result:
     song_alias:
     esong_code: 3564A30
     t_singer_master_id: '42105'
-    singer_name: ひとしずくP×やま△
+    singer_name: ひとしずく×やま△
     singer_alias:
     available_date: '2015-12-14'
     end_date: '2999-04-10 00:00:00'
@@ -53,7 +70,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: いかさまかしの
-    singer_name_ruby: ひとしすくひやまさんかつけ
+    singer_name_ruby: ひとしすくやまさんかつけ
     song_variation:
     - esong_code: 3564A30
       song_name: イカサマ⇔カジノ feat.鏡音リン、鏡音レン
@@ -77,23 +94,6 @@ result:
       content_type: ''
   - song_name: 生きる程に
     song_alias:
-    esong_code: 3426A6
-    t_singer_master_id: '28486'
-    singer_name: 小田 純平
-    singer_alias:
-    available_date: '2015-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いきるほとに
-    singer_name_ruby: おたしゆんへい
-    song_variation:
-    - esong_code: 3426A6
-      song_name: 生きる程に
-      content_type: ''
-  - song_name: 生きる程に
-    song_alias:
     esong_code: 2088B39
     t_singer_master_id: '28486'
     singer_name: 小田 純平
@@ -109,6 +109,23 @@ result:
     - esong_code: 2088B39
       song_name: 生きる程に
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 生きる程に
+    song_alias:
+    esong_code: 3426A6
+    t_singer_master_id: '28486'
+    singer_name: 小田 純平
+    singer_alias:
+    available_date: '2015-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いきるほとに
+    singer_name_ruby: おたしゆんへい
+    song_variation:
+    - esong_code: 3426A6
+      song_name: 生きる程に
+      content_type: ''
   - song_name: 幾千の出会いと一つの奇跡
     song_alias:
     esong_code: 3563B14
@@ -500,20 +517,3 @@ result:
     - esong_code: 3565B43
       song_name: いのちの人
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: イブの時代っ!
-    song_alias:
-    esong_code: 3564B16
-    t_singer_master_id: '50955'
-    singer_name: 日向美ビタースイーツ♪
-    singer_alias:
-    available_date: '2015-12-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ひなビタ♪<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いふのしたいつ
-    singer_name_ruby: ひなたひひたすいつ
-    song_variation:
-    - esong_code: 3564B16
-      song_name: イブの時代っ!
-      content_type: ''

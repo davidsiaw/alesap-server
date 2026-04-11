@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1258
-  all_max_cnt: 1360
-  all_country_cnt: 1258
+  max_cnt: 1253
+  all_max_cnt: 1354
+  all_country_cnt: 1253
   song:
   - song_name: espresso
     song_alias:
@@ -74,23 +74,6 @@ result:
     song_variation:
     - esong_code: 2123B1
       song_name: エビセン
-      content_type: ''
-  - song_name: F.D.D.
-    song_alias:
-    esong_code: 2117A19
-    t_singer_master_id: '15301'
-    singer_name: いとう かなこ
-    singer_alias:
-    available_date: '2008-10-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: CHAOS;HEAD<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えふていてい
-    singer_name_ruby: いとうかなこ
-    song_variation:
-    - esong_code: 2117A19
-      song_name: F.D.D.
       content_type: ''
   - song_name: Everything
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 599B10
       song_name: 教えてせんせいさん〜なつ
+      content_type: ''
+  - song_name: 男さすらい派
+    song_alias:
+    esong_code: 2151A5
+    t_singer_master_id: '31215'
+    singer_name: 五条 哲也
+    singer_alias:
+    available_date: '2008-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこさすらいは
+    singer_name_ruby: こしようてつや
+    song_variation:
+    - esong_code: 2151A5
+      song_name: 男さすらい派
       content_type: ''

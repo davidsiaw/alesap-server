@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1327
-  all_max_cnt: 1549
-  all_country_cnt: 1327
+  max_cnt: 1314
+  all_max_cnt: 1536
+  all_country_cnt: 1314
   song:
   - song_name: ありのままの私で
     song_alias:
@@ -281,23 +281,6 @@ result:
       content_type: ''
   - song_name: 飯田線
     song_alias:
-    esong_code: 1110A41
-    t_singer_master_id: '6071'
-    singer_name: 小沢 あきこ(小沢亜貴子)
-    singer_alias:
-    available_date: '2018-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: いいたせん
-    singer_name_ruby: おさわあきこ
-    song_variation:
-    - esong_code: 1110A41
-      song_name: 飯田線
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 飯田線
-    song_alias:
     esong_code: 1117A40
     t_singer_master_id: '6071'
     singer_name: 小沢 あきこ(小沢亜貴子)
@@ -313,6 +296,23 @@ result:
     - esong_code: 1117A40
       song_name: 飯田線
       content_type: ''
+  - song_name: 飯田線
+    song_alias:
+    esong_code: 1110A41
+    t_singer_master_id: '6071'
+    singer_name: 小沢 あきこ(小沢亜貴子)
+    singer_alias:
+    available_date: '2018-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: いいたせん
+    singer_name_ruby: おさわあきこ
+    song_variation:
+    - esong_code: 1110A41
+      song_name: 飯田線
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: いいわけ上手
     song_alias:
     esong_code: 1169B27

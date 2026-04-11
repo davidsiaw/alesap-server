@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1415
-  all_max_cnt: 1522
-  all_country_cnt: 1415
+  max_cnt: 1411
+  all_max_cnt: 1518
+  all_country_cnt: 1411
   song:
   - song_name: Ain't Gonna Cut It (全英語詞)
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 1881B13
       song_name: 遠州喧嘩船
       content_type: ''
-  - song_name: Endless Dream 2007
-    song_alias:
-    esong_code: 1883A22
-    t_singer_master_id: '5578'
-    singer_name: 高見沢 俊彦(Takamiy)
-    singer_alias:
-    available_date: '2007-10-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんとれすとり
-    singer_name_ruby: たかみさわとしひこ
-    song_variation:
-    - esong_code: 1883A22
-      song_name: Endless Dream 2007
-      content_type: ''
   - song_name: Endless Dream
     song_alias:
     esong_code: 1883B20
@@ -261,6 +244,23 @@ result:
     song_variation:
     - esong_code: 1883B20
       song_name: Endless Dream
+      content_type: ''
+  - song_name: Endless Dream 2007
+    song_alias:
+    esong_code: 1883A22
+    t_singer_master_id: '5578'
+    singer_name: 高見沢 俊彦(Takamiy)
+    singer_alias:
+    available_date: '2007-10-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんとれすとり
+    singer_name_ruby: たかみさわとしひこ
+    song_variation:
+    - esong_code: 1883A22
+      song_name: Endless Dream 2007
       content_type: ''
   - song_name: EMBLEM
     song_alias:

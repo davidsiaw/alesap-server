@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1330
-  all_max_cnt: 1518
-  all_country_cnt: 1330
+  max_cnt: 1339
+  all_max_cnt: 1527
+  all_country_cnt: 1339
   song:
   - song_name: アイドルール
     song_alias:
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: A winter fairy is melting a snowman
     song_alias:
-    esong_code: 2167A40
-    t_singer_master_id: '19551'
-    singer_name: 木村 カエラ
-    singer_alias:
-    available_date: '2010-12-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あういんたふえあり
-    singer_name_ruby: きむらかえら
-    song_variation:
-    - esong_code: 2167A40
-      song_name: A winter fairy is melting a snowman
-      content_type: ''
-  - song_name: A winter fairy is melting a snowman
-    song_alias:
     esong_code: 2130B23
     t_singer_master_id: '19551'
     singer_name: 木村 カエラ
@@ -279,6 +262,23 @@ result:
     - esong_code: 2130B23
       song_name: A winter fairy is melting a snowman
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: A winter fairy is melting a snowman
+    song_alias:
+    esong_code: 2167A40
+    t_singer_master_id: '19551'
+    singer_name: 木村 カエラ
+    singer_alias:
+    available_date: '2010-12-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あういんたふえあり
+    singer_name_ruby: きむらかえら
+    song_variation:
+    - esong_code: 2167A40
+      song_name: A winter fairy is melting a snowman
+      content_type: ''
   - song_name: 蒼
     song_alias:
     esong_code: 2131A3

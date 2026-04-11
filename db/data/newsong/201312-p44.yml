@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: TV版 ヤッホ・ホー
+    song_alias:
+    esong_code: 3164B23
+    t_singer_master_id: '48874'
+    singer_name: 横山だいすけ&三谷たくみ&ムテ吉&ミーニャ&メーコブ
+    singer_alias:
+    available_date: '2013-12-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: おかあさんといっしょ<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: やつほほ
+    singer_name_ruby: よこやまたいすけみたにたく
+    song_variation:
+    - esong_code: 3164B23
+      song_name: TV版 ヤッホ・ホー
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 山口の女
+    song_alias:
+    esong_code: 3164A49
+    t_singer_master_id: '43408'
+    singer_name: 村木 かおる
+    singer_alias:
+    available_date: '2013-12-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: やまくちのひと
+    singer_name_ruby: むらきかおる
+    song_variation:
+    - esong_code: 3164A49
+      song_name: 山口の女
+      content_type: ''
   - song_name: TV版 やるきまんまんマンとウーマン
     song_alias:
     esong_code: 3163A16
@@ -230,23 +264,6 @@ result:
       content_type: ''
   - song_name: 夕子のお店
     song_alias:
-    esong_code: 3155A7
-    t_singer_master_id: '2190'
-    singer_name: 増位山 太志郎
-    singer_alias:
-    available_date: '2013-12-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ゆうこのおみせ
-    singer_name_ruby: ますいやまたいしろう
-    song_variation:
-    - esong_code: 3155A7
-      song_name: 夕子のお店
-      content_type: DAM生音
-  - song_name: 夕子のお店
-    song_alias:
     esong_code: 3155A26
     t_singer_master_id: '2190'
     singer_name: 増位山 太志郎
@@ -262,6 +279,23 @@ result:
     - esong_code: 3155A26
       song_name: 夕子のお店
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 夕子のお店
+    song_alias:
+    esong_code: 3155A7
+    t_singer_master_id: '2190'
+    singer_name: 増位山 太志郎
+    singer_alias:
+    available_date: '2013-12-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ゆうこのおみせ
+    singer_name_ruby: ますいやまたいしろう
+    song_variation:
+    - esong_code: 3155A7
+      song_name: 夕子のお店
+      content_type: DAM生音
   - song_name: ゆうこのさくら回廊
     song_alias:
     esong_code: 3163B10
@@ -483,37 +517,3 @@ result:
     - esong_code: 3002A24
       song_name: 雪割りの花
       content_type: JOY生演奏
-  - song_name: ユニバース featuring 三村奈々恵
-    song_alias:
-    esong_code: 3152B8
-    t_singer_master_id: '49416'
-    singer_name: 子龍
-    singer_alias:
-    available_date: '2013-12-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆにはす
-    singer_name_ruby: しりゆう
-    song_variation:
-    - esong_code: 3152B8
-      song_name: ユニバース featuring 三村奈々恵
-      content_type: ''
-  - song_name: 夢
-    song_alias:
-    esong_code: 3147B14
-    t_singer_master_id: '49332'
-    singer_name: Love Music Together
-    singer_alias:
-    available_date: '2013-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめ
-    singer_name_ruby: らふみゆしつくとうきやさ
-    song_variation:
-    - esong_code: 3147B14
-      song_name: 夢
-      content_type: ''

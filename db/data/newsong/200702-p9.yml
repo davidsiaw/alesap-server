@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1199
-  all_max_cnt: 1301
-  all_country_cnt: 1199
+  max_cnt: 1196
+  all_max_cnt: 1298
+  all_country_cnt: 1196
   song:
   - song_name: 金糸雀、それから・・・
     song_alias:
@@ -194,23 +194,6 @@ result:
     - esong_code: 1730A20
       song_name: ガラスの瞳
       content_type: ''
-  - song_name: カリソメ乙女 (TAMEIKESANNOH ver.)
-    song_alias:
-    esong_code: 1730B16
-    t_singer_master_id: '28855'
-    singer_name: 椎名 林檎&斎藤 ネコ
-    singer_alias:
-    available_date: '2007-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かりそめおとめてす
-    singer_name_ruby: しいなりんこさいとうねこ
-    song_variation:
-    - esong_code: 1730B16
-      song_name: カリソメ乙女 (TAMEIKESANNOH ver.)
-      content_type: ''
   - song_name: カリソメ乙女 (TAMEIKESANNOH ver.)"temporary"virgin
     song_alias:
     esong_code: 1735B40
@@ -227,6 +210,23 @@ result:
     song_variation:
     - esong_code: 1735B40
       song_name: カリソメ乙女 (TAMEIKESANNOH ver.)"temporary"virgin
+      content_type: ''
+  - song_name: カリソメ乙女 (TAMEIKESANNOH ver.)
+    song_alias:
+    esong_code: 1730B16
+    t_singer_master_id: '28855'
+    singer_name: 椎名 林檎&斎藤 ネコ
+    singer_alias:
+    available_date: '2007-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かりそめおとめてす
+    singer_name_ruby: しいなりんこさいとうねこ
+    song_variation:
+    - esong_code: 1730B16
+      song_name: カリソメ乙女 (TAMEIKESANNOH ver.)
       content_type: ''
   - song_name: 軽いノイローゼ
     song_alias:
@@ -340,13 +340,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: 森のリトル・ギャング<番組名>
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMﾗｲﾌﾞ
     song_name_ruby: きおふはと
     singer_name_ruby: ほあ
     song_variation:
     - esong_code: 1739A48
       song_name: KEY OF HEART 〜BoA the LIVE〜
-      content_type: DAM生音
+      content_type: DAMﾗｲﾌﾞ
   - song_name: 聞かせてよあまい言葉 -PARLEZ-MOID'AMOUR-
     song_alias:
     esong_code: 1740B18
@@ -485,23 +485,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 希望
     song_alias:
-    esong_code: 1731A41
-    t_singer_master_id: '20538'
-    singer_name: 100s
-    singer_alias:
-    available_date: '2007-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きほう
-    singer_name_ruby: ひやくしき
-    song_variation:
-    - esong_code: 1731A41
-      song_name: 希望
-      content_type: ''
-  - song_name: 希望
-    song_alias:
     esong_code: 1741B44
     t_singer_master_id: '29268'
     singer_name: セシリア・リー
@@ -515,5 +498,22 @@ result:
     singer_name_ruby: せしりあり
     song_variation:
     - esong_code: 1741B44
+      song_name: 希望
+      content_type: ''
+  - song_name: 希望
+    song_alias:
+    esong_code: 1731A41
+    t_singer_master_id: '20538'
+    singer_name: 100s
+    singer_alias:
+    available_date: '2007-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きほう
+    singer_name_ruby: ひやくしき
+    song_variation:
+    - esong_code: 1731A41
       song_name: 希望
       content_type: ''

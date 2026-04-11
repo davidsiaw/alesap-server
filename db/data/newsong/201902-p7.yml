@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1550
-  all_country_cnt: 1338
+  max_cnt: 1320
+  all_max_cnt: 1532
+  all_country_cnt: 1320
   song:
-  - song_name: OASIS
-    song_alias:
-    esong_code: 4139A40
-    t_singer_master_id: '37709'
-    singer_name: 岡本 信彦
-    singer_alias:
-    available_date: '2019-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おあしす
-    singer_name_ruby: おかもとのふひこ
-    song_variation:
-    - esong_code: 4139A40
-      song_name: OASIS
-      content_type: ''
   - song_name: おうちに帰ろう
     song_alias:
     esong_code: 4136A31
@@ -279,23 +262,6 @@ result:
     - esong_code: 4136A34
       song_name: 男川
       content_type: ''
-  - song_name: 男川
-    song_alias:
-    esong_code: 4143A8
-    t_singer_master_id: '40508'
-    singer_name: 福田 こうへい
-    singer_alias:
-    available_date: '2019-02-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おとこかわ
-    singer_name_ruby: ふくたこうへい
-    song_variation:
-    - esong_code: 4143A8
-      song_name: 男川
-      content_type: DAM生音
   - song_name: 男鷹
     song_alias:
     esong_code: 4138A6
@@ -517,3 +483,37 @@ result:
     - esong_code: 4146A32
       song_name: おまえひとりさ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 想いあい
+    song_alias:
+    esong_code: 4146B31
+    t_singer_master_id: '62804'
+    singer_name: the shes gone
+    singer_alias:
+    available_date: '2019-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいあい
+    singer_name_ruby: しすこん
+    song_variation:
+    - esong_code: 4146B31
+      song_name: 想いあい
+      content_type: ''
+  - song_name: 思い出してあなたを
+    song_alias:
+    esong_code: 4144B30
+    t_singer_master_id: '52390'
+    singer_name: 月野 うさぎ/セーラームーン
+    singer_alias:
+    available_date: '2019-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 美少女戦士セーラームーン(ミュージカル)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいたしてあなた
+    singer_name_ruby: つきのうさきせらむ
+    song_variation:
+    - esong_code: 4144B30
+      song_name: 思い出してあなたを
+      content_type: ''

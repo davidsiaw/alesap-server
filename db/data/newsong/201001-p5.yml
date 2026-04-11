@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 785
-  all_max_cnt: 853
-  all_country_cnt: 785
+  max_cnt: 780
+  all_max_cnt: 849
+  all_country_cnt: 780
   song:
   - song_name: Curse Of Mine
     song_alias:
@@ -177,23 +177,6 @@ result:
     - esong_code: 1432B33
       song_name: 勝手に寂しくならないで
       content_type: ''
-  - song_name: 家庭教師ヒットマン REBORN!メドレー2
-    song_alias:
-    esong_code: 2458B2
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2010-01-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 家庭教師ヒットマン REBORN!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かてきよひつとまんり
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 2458B2
-      song_name: 家庭教師ヒットマン REBORN!メドレー2
-      content_type: ''
   - song_name: 家庭教師ヒットマン REBORN!メドレー3
     song_alias:
     esong_code: 2458B3
@@ -210,6 +193,23 @@ result:
     song_variation:
     - esong_code: 2458B3
       song_name: 家庭教師ヒットマン REBORN!メドレー3
+      content_type: ''
+  - song_name: 家庭教師ヒットマン REBORN!メドレー2
+    song_alias:
+    esong_code: 2458B2
+    t_singer_master_id: '24121'
+    singer_name: アニメメドレー
+    singer_alias:
+    available_date: '2010-01-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 家庭教師ヒットマン REBORN!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かてきよひつとまんり
+    singer_name_ruby: あにめめとれ
+    song_variation:
+    - esong_code: 2458B2
+      song_name: 家庭教師ヒットマン REBORN!メドレー2
       content_type: ''
   - song_name: 悲しみ・クライマックス
     song_alias:
@@ -449,23 +449,6 @@ result:
     - esong_code: 2455B39
       song_name: Kiss (one more kiss mix)
       content_type: ''
-  - song_name: 絆
-    song_alias:
-    esong_code: 2460B49
-    t_singer_master_id: '15618'
-    singer_name: 栗林 みな実
-    singer_alias:
-    available_date: '2010-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: くりはやしみなみ
-    song_variation:
-    - esong_code: 2460B49
-      song_name: 絆
-      content_type: ''
   - song_name: きずな
     song_alias:
     esong_code: 2458A41
@@ -482,6 +465,23 @@ result:
     song_variation:
     - esong_code: 2458A41
       song_name: きずな
+      content_type: ''
+  - song_name: 絆
+    song_alias:
+    esong_code: 2460B49
+    t_singer_master_id: '15618'
+    singer_name: 栗林 みな実
+    singer_alias:
+    available_date: '2010-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: くりはやしみなみ
+    song_variation:
+    - esong_code: 2460B49
+      song_name: 絆
       content_type: ''
   - song_name: Kissme
     song_alias:
@@ -502,18 +502,18 @@ result:
       content_type: ''
   - song_name: 木曽恋い三度笠
     song_alias:
-    esong_code: 2452A36
+    esong_code: 2454A19
     t_singer_master_id: '816'
     singer_name: 香田 晋
     singer_alias:
-    available_date: '2010-01-06'
+    available_date: '2010-01-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM生音
     song_name_ruby: きそこいさんとか
     singer_name_ruby: こうたしん
     song_variation:
-    - esong_code: 2452A36
+    - esong_code: 2454A19
       song_name: 木曽恋い三度笠
-      content_type: ''
+      content_type: DAM生音

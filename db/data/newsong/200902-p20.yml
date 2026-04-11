@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: DO YA
-    song_alias:
-    esong_code: 2211B40
-    t_singer_master_id: '30522'
-    singer_name: BROWN SUGAR
-    singer_alias:
-    available_date: '2009-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とや
-    singer_name_ruby: ふらうんしゆか
-    song_variation:
-    - esong_code: 2211B40
-      song_name: DO YA
-      content_type: ''
-  - song_name: Trust in me
-    song_alias:
-    esong_code: 2251A35
-    t_singer_master_id: '27939'
-    singer_name: 榊原 ゆい
-    singer_alias:
-    available_date: '2009-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: E×E<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とらすといんみ
-    singer_name_ruby: さかきはらゆい
-    song_variation:
-    - esong_code: 2251A35
-      song_name: Trust in me
-      content_type: ''
   - song_name: DREAM
     song_alias:
     esong_code: 2210A27
@@ -468,23 +434,6 @@ result:
       content_type: ''
   - song_name: 泪のムコウ
     song_alias:
-    esong_code: 2277B36
-    t_singer_master_id: '34327'
-    singer_name: ステレオポニー
-    singer_alias:
-    available_date: '2009-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 機動戦士ガンダムOO<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: なみたのむこう
-    singer_name_ruby: すてれおほに
-    song_variation:
-    - esong_code: 2277B36
-      song_name: 泪のムコウ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 泪のムコウ
-    song_alias:
     esong_code: 2209A49
     t_singer_master_id: '34327'
     singer_name: ステレオポニー
@@ -500,6 +449,23 @@ result:
     - esong_code: 2209A49
       song_name: 泪のムコウ
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 泪のムコウ
+    song_alias:
+    esong_code: 2277B36
+    t_singer_master_id: '34327'
+    singer_name: ステレオポニー
+    singer_alias:
+    available_date: '2009-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 機動戦士ガンダムOO<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: なみたのむこう
+    singer_name_ruby: すてれおほに
+    song_variation:
+    - esong_code: 2277B36
+      song_name: 泪のムコウ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ナミダボシ feat.詩音
     song_alias:
     esong_code: 2202B40
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2202B40
       song_name: ナミダボシ feat.詩音
+      content_type: ''
+  - song_name: ナミダボシ feat.詩音
+    song_alias:
+    esong_code: 2277B39
+    t_singer_master_id: '24212'
+    singer_name: CLIFF EDGE
+    singer_alias:
+    available_date: '2009-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: なみたほし
+    singer_name_ruby: くりふえつし
+    song_variation:
+    - esong_code: 2277B39
+      song_name: ナミダボシ feat.詩音
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 涙夢 〜ティアーズ ドリーム〜
+    song_alias:
+    esong_code: 2252A18
+    t_singer_master_id: '34175'
+    singer_name: 村山 正
+    singer_alias:
+    available_date: '2009-02-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたゆめていあ
+    singer_name_ruby: むらやまたたし
+    song_variation:
+    - esong_code: 2252A18
+      song_name: 涙夢 〜ティアーズ ドリーム〜
       content_type: ''

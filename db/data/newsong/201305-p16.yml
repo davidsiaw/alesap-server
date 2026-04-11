@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: SURVIVE
+    song_alias:
+    esong_code: 3052B2
+    t_singer_master_id: '25669'
+    singer_name: NICO Touches the Walls
+    singer_alias:
+    available_date: '2013-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さはいふ
+    singer_name_ruby: にこたつちすさうおるす
+    song_variation:
+    - esong_code: 3052B2
+      song_name: SURVIVE
+      content_type: ''
+  - song_name: 砂漠のメリーゴーランド
+    song_alias:
+    esong_code: 3030A12
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2013-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さはくのめりこ
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 3030A12
+      song_name: 砂漠のメリーゴーランド
+      content_type: ''
   - song_name: THE FINAL (THE UNRAVELING Ver.)
     song_alias:
     esong_code: 3036A22
@@ -213,23 +247,6 @@ result:
       content_type: ''
   - song_name: さよならクロール
     song_alias:
-    esong_code: 3056A23
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2013-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: さよならくろる
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 3056A23
-      song_name: さよならクロール
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: さよならクロール
-    song_alias:
     esong_code: 3047A3
     t_singer_master_id: '25255'
     singer_name: AKB48
@@ -245,6 +262,23 @@ result:
     - esong_code: 3047A3
       song_name: さよならクロール
       content_type: ''
+  - song_name: さよならクロール
+    song_alias:
+    esong_code: 3056A23
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2013-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: さよならくろる
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 3056A23
+      song_name: さよならクロール
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: さよならさよならさようなら
     song_alias:
     esong_code: 3036B8
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 3038B32
       song_name: サンタがやってくる♪
-      content_type: ''
-  - song_name: サンタマリア
-    song_alias:
-    esong_code: 3051A2
-    t_singer_master_id: '44604'
-    singer_name: 米津玄師(ハチ)
-    singer_alias:
-    available_date: '2013-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さんたまりあ
-    singer_name_ruby: よねつけんし
-    song_variation:
-    - esong_code: 3051A2
-      song_name: サンタマリア
-      content_type: ''
-  - song_name: '321'
-    song_alias:
-    esong_code: 3048B15
-    t_singer_master_id: '39020'
-    singer_name: miwa
-    singer_alias:
-    available_date: '2013-05-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さんにいいち
-    singer_name_ruby: みわ
-    song_variation:
-    - esong_code: 3048B15
-      song_name: '321'
       content_type: ''

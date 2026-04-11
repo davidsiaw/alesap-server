@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: ギャグ
+    song_alias:
+    esong_code: 3030B32
+    t_singer_master_id: '41420'
+    singer_name: 星野 源
+    singer_alias:
+    available_date: '2013-05-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 聖☆おにいさん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやく
+    singer_name_ruby: ほしのけん
+    song_variation:
+    - esong_code: 3030B32
+      song_name: ギャグ
+      content_type: ''
+  - song_name: 華奢な女
+    song_alias:
+    esong_code: 3052B48
+    t_singer_master_id: '29036'
+    singer_name: 優木 みなみ
+    singer_alias:
+    available_date: '2013-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやしやなおんな
+    singer_name_ruby: ゆうきみなみ
+    song_variation:
+    - esong_code: 3052B48
+      song_name: 華奢な女
+      content_type: ''
   - song_name: Catch the moment
     song_alias:
     esong_code: 3031B11
@@ -64,7 +98,7 @@ result:
     t_singer_master_id: '41076'
     singer_name: PASSPO☆(ぱすぽ☆)
     singer_alias:
-    available_date: '2013-05-21'
+    available_date: '2013-05-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 3036A25
       song_name: GLARE
-      content_type: ''
-  - song_name: Crazy, GO-AHEAD!! feat.東方神鬼
-    song_alias:
-    esong_code: 3037B43
-    t_singer_master_id: '36337'
-    singer_name: SOUND HOLIC
-    singer_alias:
-    available_date: '2013-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方風神録 〜Mountain of Faith.〜<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: くれいしこあ
-    singer_name_ruby: さうんとほりつく
-    song_variation:
-    - esong_code: 3037B43
-      song_name: Crazy, GO-AHEAD!! feat.東方神鬼
-      content_type: 東方
-  - song_name: GLAYヒットソングメドレー
-    song_alias:
-    esong_code: 3042A43
-    t_singer_master_id: '2855'
-    singer_name: GLAY
-    singer_alias:
-    available_date: '2013-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くれいひつとそんく
-    singer_name_ruby: くれい
-    song_variation:
-    - esong_code: 3042A43
-      song_name: GLAYヒットソングメドレー
       content_type: ''

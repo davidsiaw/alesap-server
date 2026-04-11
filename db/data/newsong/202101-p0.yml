@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 806
-  all_max_cnt: 881
-  all_country_cnt: 806
+  max_cnt: 802
+  all_max_cnt: 877
+  all_country_cnt: 802
   song:
-  - song_name: 嗚呼神風特別攻撃隊 [歌ってみた利用OK]
-    song_alias:
-    esong_code: 4465B2
-    t_singer_master_id: '789'
-    singer_name: 軍歌(軍歌・戦時歌謡)
-    singer_alias:
-    available_date: '2021-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: 歌ってみた利用OK
-    song_name_ruby: ああかみかせとくへ
-    singer_name_ruby: くんか
-    song_variation:
-    - esong_code: 4465B2
-      song_name: 嗚呼神風特別攻撃隊 [歌ってみた利用OK]
-      content_type: 歌ってみた利用OK
   - song_name: 嗚呼神風特別攻撃隊
     song_alias:
     esong_code: 964A1
@@ -41,6 +24,23 @@ result:
     - esong_code: 964A1
       song_name: 嗚呼神風特別攻撃隊
       content_type: ''
+  - song_name: 嗚呼神風特別攻撃隊 [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4465B2
+    t_singer_master_id: '789'
+    singer_name: 軍歌(軍歌・戦時歌謡)
+    singer_alias:
+    available_date: '2021-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: ああかみかせとくへ
+    singer_name_ruby: くんか
+    song_variation:
+    - esong_code: 4465B2
+      song_name: 嗚呼神風特別攻撃隊 [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
   - song_name: あぁそうね
     song_alias:
     esong_code: 4466B32
@@ -204,7 +204,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: あいとあすとろのみあ
     singer_name_ruby: おおたや
     song_variation:
@@ -224,7 +224,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: あいとあすとろのみあ
     singer_name_ruby: おおたや
     song_variation:
@@ -472,23 +472,6 @@ result:
     - esong_code: 4459B8
       song_name: 青山レイニーナイト
       content_type: ''
-  - song_name: 赤い夕陽の三度笠
-    song_alias:
-    esong_code: 1377A12
-    t_singer_master_id: '1774'
-    singer_name: 橋 幸夫
-    singer_alias:
-    available_date: '2021-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかいゆうひのさんと
-    singer_name_ruby: はしゆきお
-    song_variation:
-    - esong_code: 1377A12
-      song_name: 赤い夕陽の三度笠
-      content_type: ''
   - song_name: 赤い夕陽の三度笠 [歌ってみた利用OK]
     song_alias:
     esong_code: 4465A34
@@ -506,6 +489,23 @@ result:
     - esong_code: 4465A34
       song_name: 赤い夕陽の三度笠 [歌ってみた利用OK]
       content_type: 歌ってみた利用OK
+  - song_name: 赤い夕陽の三度笠
+    song_alias:
+    esong_code: 1377A12
+    t_singer_master_id: '1774'
+    singer_name: 橋 幸夫
+    singer_alias:
+    available_date: '2021-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかいゆうひのさんと
+    singer_name_ruby: はしゆきお
+    song_variation:
+    - esong_code: 1377A12
+      song_name: 赤い夕陽の三度笠
+      content_type: ''
   - song_name: 赫い夜
     song_alias:
     esong_code: 4466A23

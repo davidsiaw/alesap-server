@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
   - song_name: あなたがいたから 〜優しい笑顔を支えたい〜
     song_alias:
@@ -92,23 +92,6 @@ result:
     - esong_code: 826B16
       song_name: アニメ雑誌の編集は3日やったらやめられない
       content_type: ''
-  - song_name: あの太陽が、この世界を照らし続けるように。
-    song_alias:
-    esong_code: 1419B24
-    t_singer_master_id: '12187'
-    singer_name: コブクロ
-    singer_alias:
-    available_date: '2011-04-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのたいようかこの
-    singer_name_ruby: こふくろ
-    song_variation:
-    - esong_code: 1419B24
-      song_name: あの太陽が、この世界を照らし続けるように。
-      content_type: ''
   - song_name: あの太陽が、この世界を照らし続けるように
     song_alias:
     esong_code: 1422A6
@@ -126,6 +109,23 @@ result:
     - esong_code: 1422A6
       song_name: あの太陽が、この世界を照らし続けるように
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: あの太陽が、この世界を照らし続けるように。
+    song_alias:
+    esong_code: 1419B24
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
+    singer_alias:
+    available_date: '2011-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あのたいようかこの
+    singer_name_ruby: こふくろ
+    song_variation:
+    - esong_code: 1419B24
+      song_name: あの太陽が、この世界を照らし続けるように。
+      content_type: ''
   - song_name: あの人の・・・・・・
     song_alias:
     esong_code: 917A6
@@ -355,7 +355,7 @@ result:
     singer_alias:
     available_date: '2011-04-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀幕ヘタリア Axis Powers Paint it,White(白くぬれ!)<番組名>
+    tie_up: ヘタリア(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あめとむち
@@ -417,23 +417,6 @@ result:
       content_type: ''
   - song_name: 雨のたずね人
     song_alias:
-    esong_code: 1666A1
-    t_singer_master_id: '1354'
-    singer_name: 多岐川 舞子
-    singer_alias:
-    available_date: '2011-04-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あめのたすねひと
-    singer_name_ruby: たきかわまいこ
-    song_variation:
-    - esong_code: 1666A1
-      song_name: 雨のたずね人
-      content_type: DAM生音
-  - song_name: 雨のたずね人
-    song_alias:
     esong_code: 1440B4
     t_singer_master_id: '1354'
     singer_name: 多岐川 舞子
@@ -449,6 +432,23 @@ result:
     - esong_code: 1440B4
       song_name: 雨のたずね人
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 雨のたずね人
+    song_alias:
+    esong_code: 1666A1
+    t_singer_master_id: '1354'
+    singer_name: 多岐川 舞子
+    singer_alias:
+    available_date: '2011-04-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あめのたすねひと
+    singer_name_ruby: たきかわまいこ
+    song_variation:
+    - esong_code: 1666A1
+      song_name: 雨のたずね人
+      content_type: DAM生音
   - song_name: 雨の日曜日
     song_alias:
     esong_code: 1457B49

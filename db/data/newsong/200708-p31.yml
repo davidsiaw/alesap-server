@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1046
-  all_max_cnt: 1110
-  all_country_cnt: 1046
+  max_cnt: 1043
+  all_max_cnt: 1107
+  all_country_cnt: 1043
   song:
-  - song_name: 憂愁平野 〜おもかげ〜
-    song_alias:
-    esong_code: 1807A29
-    t_singer_master_id: '174'
-    singer_name: 石川 さゆり(SAYURI)
-    singer_alias:
-    available_date: '2007-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆうしゆうへいや
-    singer_name_ruby: いしかわさゆり
-    song_variation:
-    - esong_code: 1807A29
-      song_name: 憂愁平野 〜おもかげ〜
-      content_type: ''
-  - song_name: 夕焼け
-    song_alias:
-    esong_code: 1850B38
-    t_singer_master_id: '4249'
-    singer_name: スピッツ
-    singer_alias:
-    available_date: '2007-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆうやけ
-    singer_name_ruby: すひつつ
-    song_variation:
-    - esong_code: 1850B38
-      song_name: 夕焼け
-      content_type: ''
-  - song_name: 夕焼け
-    song_alias:
-    esong_code: 1850A7
-    t_singer_master_id: '24713'
-    singer_name: All Japan Goith(Skaしっぺ)
-    singer_alias:
-    available_date: '2007-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆうやけ
-    singer_name_ruby: おるしやはんこいす
-    song_variation:
-    - esong_code: 1850A7
-      song_name: 夕焼け
-      content_type: ''
   - song_name: 雪国おんな宿
     song_alias:
     esong_code: 1821B39
@@ -162,23 +111,6 @@ result:
       content_type: ''
   - song_name: 夢あるかぎり
     song_alias:
-    esong_code: 1821B48
-    t_singer_master_id: '5335'
-    singer_name: 浜 博也
-    singer_alias:
-    available_date: '2007-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめあるかきり
-    singer_name_ruby: はまひろや
-    song_variation:
-    - esong_code: 1821B48
-      song_name: 夢あるかぎり
-      content_type: ''
-  - song_name: 夢あるかぎり
-    song_alias:
     esong_code: 1855B8
     t_singer_master_id: '5335'
     singer_name: 浜 博也
@@ -194,6 +126,23 @@ result:
     - esong_code: 1855B8
       song_name: 夢あるかぎり
       content_type: DAM生音
+  - song_name: 夢あるかぎり
+    song_alias:
+    esong_code: 1821B48
+    t_singer_master_id: '5335'
+    singer_name: 浜 博也
+    singer_alias:
+    available_date: '2007-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめあるかきり
+    singer_name_ruby: はまひろや
+    song_variation:
+    - esong_code: 1821B48
+      song_name: 夢あるかぎり
+      content_type: ''
   - song_name: 夢一途
     song_alias:
     esong_code: 1858B17
@@ -517,3 +466,54 @@ result:
     - esong_code: 1852B42
       song_name: 夜啼き鳥
       content_type: ''
+  - song_name: 夜の銀狐
+    song_alias:
+    esong_code: 1866A20
+    t_singer_master_id: '11757'
+    singer_name: 竹島 宏
+    singer_alias:
+    available_date: '2007-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よるのきんきつね
+    singer_name_ruby: たけしまひろし
+    song_variation:
+    - esong_code: 1866A20
+      song_name: 夜の銀狐
+      content_type: ''
+  - song_name: 夜の花
+    song_alias:
+    esong_code: 1866A5
+    t_singer_master_id: '31121'
+    singer_name: sodopp
+    singer_alias:
+    available_date: '2007-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よるのはな
+    singer_name_ruby: そとつふ
+    song_variation:
+    - esong_code: 1866A5
+      song_name: 夜の花
+      content_type: ''
+  - song_name: 喜びの歌
+    song_alias:
+    esong_code: 1855B4
+    t_singer_master_id: '25554'
+    singer_name: KAT-TUN
+    singer_alias:
+    available_date: '2007-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: よろこひのうた
+    singer_name_ruby: かとうん
+    song_variation:
+    - esong_code: 1855B4
+      song_name: 喜びの歌
+      content_type: DAM生音

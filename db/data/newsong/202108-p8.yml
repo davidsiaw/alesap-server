@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 968
-  all_max_cnt: 1054
-  all_country_cnt: 968
+  max_cnt: 960
+  all_max_cnt: 1046
+  all_country_cnt: 960
   song:
-  - song_name: Guilty
-    song_alias:
-    esong_code: 4521A29
-    t_singer_master_id: '21930'
-    singer_name: 東方神起
-    singer_alias:
-    available_date: '2021-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: きるてい
-    singer_name_ruby: とうほうしんき
-    song_variation:
-    - esong_code: 4521A29
-      song_name: Guilty
-      content_type: DAMﾗｲﾌﾞ
   - song_name: きれいなもの
     song_alias:
     esong_code: 4530B5
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4528B15
       song_name: Get Back
+      content_type: ''
+  - song_name: 月面観測
+    song_alias:
+    esong_code: 4534A10
+    t_singer_master_id: '32510'
+    singer_name: 近藤 隆
+    singer_alias:
+    available_date: '2021-08-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ツキウタ。THE ANIMATION<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: けつめんかんそく
+    singer_name_ruby: こんとうたかし
+    song_variation:
+    - esong_code: 4534A10
+      song_name: 月面観測
       content_type: ''

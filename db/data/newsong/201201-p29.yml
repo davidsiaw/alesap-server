@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
-  - song_name: 二人のパブ
-    song_alias:
-    esong_code: 1960B31
-    t_singer_master_id: '32431'
-    singer_name: 関 あや子&北ノ瀬 次郎
-    singer_alias:
-    available_date: '2012-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふたりのはふ
-    singer_name_ruby: せきあやこきたのせしろ
-    song_variation:
-    - esong_code: 1960B31
-      song_name: 二人のパブ
-      content_type: ''
   - song_name: フツウっていう幸せ
     song_alias:
     esong_code: 2744B37
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2012-01-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 ニューヨーク・紐育<番組名>
+    tie_up: サクラ大戦 (TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふらつくへつは
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2737A43
       song_name: blooms again.
+      content_type: ''
+  - song_name: Brave
+    song_alias:
+    esong_code: 2745B29
+    t_singer_master_id: '12005'
+    singer_name: 倖田 來未
+    singer_alias:
+    available_date: '2012-01-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれいふ
+    singer_name_ruby: こうたくみ
+    song_variation:
+    - esong_code: 2745B29
+      song_name: Brave
       content_type: ''

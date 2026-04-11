@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: ブレーメンの音楽隊
-    song_alias:
-    esong_code: 2568A26
-    t_singer_master_id: '40340'
-    singer_name: 世界のどうわ
-    singer_alias:
-    available_date: '2010-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれめんのおんか
-    singer_name_ruby: せかいのとうわ
-    song_variation:
-    - esong_code: 2568A26
-      song_name: ブレーメンの音楽隊
-      content_type: ''
-  - song_name: ブロッサム
-    song_alias:
-    esong_code: 2566B39
-    t_singer_master_id: '15557'
-    singer_name: SHY
-    singer_alias:
-    available_date: '2010-07-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふろつさむ
-    singer_name_ruby: しやい
-    song_variation:
-    - esong_code: 2566B39
-      song_name: ブロッサム
-      content_type: ''
   - song_name: Pages
     song_alias:
     esong_code: 2373B28
@@ -245,23 +211,6 @@ result:
     - esong_code: 2581A24
       song_name: ベテルギウスの灯
       content_type: ''
-  - song_name: HEAVEN
-    song_alias:
-    esong_code: 2574B7
-    t_singer_master_id: '20609'
-    singer_name: 加藤 ミリヤ
-    singer_alias:
-    available_date: '2010-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へふん
-    singer_name_ruby: かとうみりや
-    song_variation:
-    - esong_code: 2574B7
-      song_name: HEAVEN
-      content_type: ''
   - song_name: hEaVeN
     song_alias:
     esong_code: 2565B2
@@ -278,6 +227,23 @@ result:
     song_variation:
     - esong_code: 2565B2
       song_name: hEaVeN
+      content_type: ''
+  - song_name: HEAVEN
+    song_alias:
+    esong_code: 2574B7
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2010-07-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へふん
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 2574B7
+      song_name: HEAVEN
       content_type: ''
   - song_name: Velonica
     song_alias:
@@ -508,7 +474,7 @@ result:
     singer_alias:
     available_date: '2010-07-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ3<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ほしのかけら
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2567A20
       song_name: 星のカケラ
+      content_type: ''
+  - song_name: 螢の娘
+    song_alias:
+    esong_code: 2574B23
+    t_singer_master_id: '37744'
+    singer_name: カレン
+    singer_alias:
+    available_date: '2010-07-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほたるのむすめ
+    singer_name_ruby: かれん2
+    song_variation:
+    - esong_code: 2574B23
+      song_name: 螢の娘
+      content_type: ''
+  - song_name: HOT MUSIK feat.COMA-CHI
+    song_alias:
+    esong_code: 2569A36
+    t_singer_master_id: '22586'
+    singer_name: 三浦 大知
+    singer_alias:
+    available_date: '2010-07-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほつとみゆしつく
+    singer_name_ruby: みうらたいち
+    song_variation:
+    - esong_code: 2569A36
+      song_name: HOT MUSIK feat.COMA-CHI
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
-  - song_name: かたまり
-    song_alias:
-    esong_code: 4069A8
-    t_singer_master_id: '7891'
-    singer_name: YUKI
-    singer_alias:
-    available_date: '2018-09-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かたまり
-    singer_name_ruby: ゆき
-    song_variation:
-    - esong_code: 4069A8
-      song_name: かたまり
-      content_type: ''
   - song_name: カナリア
     song_alias:
     esong_code: 4069B44
@@ -39,23 +22,6 @@ result:
     singer_name_ruby: さはつくほん
     song_variation:
     - esong_code: 4069B44
-      song_name: カナリア
-      content_type: ''
-  - song_name: カナリア
-    song_alias:
-    esong_code: 4069A34
-    t_singer_master_id: '61856'
-    singer_name: ReoNa
-    singer_alias:
-    available_date: '2018-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ハッピーシュガーライフ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなりあ
-    singer_name_ruby: れおな
-    song_variation:
-    - esong_code: 4069A34
       song_name: カナリア
       content_type: ''
   - song_name: Coming Out of THE WORLD.
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4056B43
       song_name: 北の三丁目
+      content_type: ''
+  - song_name: 北の港で待つ女
+    song_alias:
+    esong_code: 4068A35
+    t_singer_master_id: '5335'
+    singer_name: 浜 博也
+    singer_alias:
+    available_date: '2018-09-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きたのみなとてまつ
+    singer_name_ruby: はまひろや
+    song_variation:
+    - esong_code: 4068A35
+      song_name: 北の港で待つ女
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 北の別れ唄
+    song_alias:
+    esong_code: 4063B4
+    t_singer_master_id: '44211'
+    singer_name: 中村 仁美(戸川よし乃)
+    singer_alias:
+    available_date: '2018-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたのわかれうた
+    singer_name_ruby: なかむらひとみ
+    song_variation:
+    - esong_code: 4063B4
+      song_name: 北の別れ唄
       content_type: ''

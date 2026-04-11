@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
   - song_name: S.F.
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 2602A19
       song_name: 埼玉県民謡 秩父音頭
       content_type: ''
-  - song_name: サイン
-    song_alias:
-    esong_code: 2591A36
-    t_singer_master_id: '24203'
-    singer_name: アンジェラ・アキ
-    singer_alias:
-    available_date: '2010-09-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいん
-    singer_name_ruby: あんしえらあき
-    song_variation:
-    - esong_code: 2591A36
-      song_name: サイン
-      content_type: ''
   - song_name: Sign
     song_alias:
     esong_code: 2588B44
@@ -159,6 +142,23 @@ result:
     song_variation:
     - esong_code: 2588B44
       song_name: Sign
+      content_type: ''
+  - song_name: サイン
+    song_alias:
+    esong_code: 2591A36
+    t_singer_master_id: '24203'
+    singer_name: アンジェラ・アキ
+    singer_alias:
+    available_date: '2010-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいん
+    singer_name_ruby: あんしえらあき
+    song_variation:
+    - esong_code: 2591A36
+      song_name: サイン
       content_type: ''
   - song_name: The Engaged Fortune (ラップ:bamboo)
     song_alias:

@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: 夢の浮橋
-    song_alias:
-    esong_code: 2647B43
-    t_singer_master_id: '36644'
-    singer_name: 砂 ひろし
-    singer_alias:
-    available_date: '2012-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめのうきはし
-    singer_name_ruby: すなひろし
-    song_variation:
-    - esong_code: 2647B43
-      song_name: 夢の浮橋
-      content_type: ''
-  - song_name: 夢の外へ
-    song_alias:
-    esong_code: 2811B27
-    t_singer_master_id: '41420'
-    singer_name: 星野 源
-    singer_alias:
-    available_date: '2012-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめのそとへ
-    singer_name_ruby: ほしのけん
-    song_variation:
-    - esong_code: 2811B27
-      song_name: 夢の外へ
-      content_type: ''
-  - song_name: 夢の続きへ
-    song_alias:
-    esong_code: 2811B44
-    t_singer_master_id: '31055'
-    singer_name: 青山 テルマ
-    singer_alias:
-    available_date: '2012-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめのつつきへ
-    singer_name_ruby: あおやまてるま
-    song_variation:
-    - esong_code: 2811B44
-      song_name: 夢の続きへ
-      content_type: ''
-  - song_name: 夢枕
-    song_alias:
-    esong_code: 2818A32
-    t_singer_master_id: '31283'
-    singer_name: 前川 澄代
-    singer_alias:
-    available_date: '2012-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめまくら
-    singer_name_ruby: まえかわすみよ
-    song_variation:
-    - esong_code: 2818A32
-      song_name: 夢枕
-      content_type: ''
   - song_name: 夢待蛍
     song_alias:
     esong_code: 2814A19
@@ -417,23 +349,6 @@ result:
       content_type: VOCALOID
   - song_name: よりみち酒
     song_alias:
-    esong_code: 2811B31
-    t_singer_master_id: '2231'
-    singer_name: 松村 和子
-    singer_alias:
-    available_date: '2012-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よりみちさけ
-    singer_name_ruby: まつむらかすこ
-    song_variation:
-    - esong_code: 2811B31
-      song_name: よりみち酒
-      content_type: ''
-  - song_name: よりみち酒
-    song_alias:
     esong_code: 2819B13
     t_singer_master_id: '2231'
     singer_name: 松村 和子
@@ -449,6 +364,23 @@ result:
     - esong_code: 2819B13
       song_name: よりみち酒
       content_type: DAM生音
+  - song_name: よりみち酒
+    song_alias:
+    esong_code: 2811B31
+    t_singer_master_id: '2231'
+    singer_name: 松村 和子
+    singer_alias:
+    available_date: '2012-07-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よりみちさけ
+    singer_name_ruby: まつむらかすこ
+    song_variation:
+    - esong_code: 2811B31
+      song_name: よりみち酒
+      content_type: ''
   - song_name: よりみち酒
     song_alias:
     esong_code: 2819B34
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 2818B37
       song_name: Like a super woman
+      content_type: ''
+  - song_name: LIKE THE STAR
+    song_alias:
+    esong_code: 2527A17
+    t_singer_master_id: '43709'
+    singer_name: HOTSQUALL
+    singer_alias:
+    available_date: '2012-07-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいくさすた
+    singer_name_ruby: ほつとすこる
+    song_variation:
+    - esong_code: 2527A17
+      song_name: LIKE THE STAR
+      content_type: ''
+  - song_name: Lies and Truth
+    song_alias:
+    esong_code: 2822A24
+    t_singer_master_id: '29743'
+    singer_name: GLORY HILL
+    singer_alias:
+    available_date: '2012-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいすあんととう
+    singer_name_ruby: くろりひる
+    song_variation:
+    - esong_code: 2822A24
+      song_name: Lies and Truth
+      content_type: ''
+  - song_name: LIFE IS GOOD
+    song_alias:
+    esong_code: 2820B33
+    t_singer_master_id: '37233'
+    singer_name: Hilcrhyme
+    singer_alias:
+    available_date: '2012-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいふいすくつと
+    singer_name_ruby: ひるくらいむ
+    song_variation:
+    - esong_code: 2820B33
+      song_name: LIFE IS GOOD
+      content_type: ''
+  - song_name: Life is Beautiful
+    song_alias:
+    esong_code: 2820B37
+    t_singer_master_id: '1996'
+    singer_name: 藤井 フミヤ
+    singer_alias:
+    available_date: '2012-07-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいふいすひゆ
+    singer_name_ruby: ふしいふみや
+    song_variation:
+    - esong_code: 2820B37
+      song_name: Life is Beautiful
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: 家族になろうよ [オリカラ]
-    song_alias:
-    esong_code: 2627B22
-    t_singer_master_id: '1993'
-    singer_name: 福山 雅治
-    singer_alias:
-    available_date: '2011-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: かそくになろうよ
-    singer_name_ruby: ふくやままさはる
-    song_variation:
-    - esong_code: 2627B22
-      song_name: 家族になろうよ [オリカラ]
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 語っちゃいけない恋ひとつ
     song_alias:
     esong_code: 2682A47
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2682B2
       song_name: CONVERSATION!!
+      content_type: ''
+  - song_name: ガンバレー東北
+    song_alias:
+    esong_code: 2682B15
+    t_singer_master_id: '43398'
+    singer_name: 白河シスターズ
+    singer_alias:
+    available_date: '2011-10-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんはれとうほ
+    singer_name_ruby: しらかわしすたす
+    song_variation:
+    - esong_code: 2682B15
+      song_name: ガンバレー東北
       content_type: ''

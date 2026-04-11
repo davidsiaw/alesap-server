@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
+  - song_name: あまがさのうた
+    song_alias:
+    esong_code: 3570B42
+    t_singer_master_id: '54962'
+    singer_name: 野村 真悠華
+    singer_alias:
+    available_date: '2015-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: モンスター娘のいる日常<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あまかさのうた
+    singer_name_ruby: のむらまゆか
+    song_variation:
+    - esong_code: 3570B42
+      song_name: あまがさのうた
+      content_type: ''
   - song_name: amazarashiヒットソングメドレー
     song_alias:
     esong_code: 3564B7
@@ -194,23 +211,6 @@ result:
     - esong_code: 3034A29
       song_name: アモーレ・ミオ
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: アヤナギ・ショウ・タイム
-    song_alias:
-    esong_code: 3568A17
-    t_singer_master_id: '54936'
-    singer_name: team柊
-    singer_alias:
-    available_date: '2015-12-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: スタミュ -高校星歌劇-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あやなきしようたい
-    singer_name_ruby: ちむひいらき
-    song_variation:
-    - esong_code: 3568A17
-      song_name: アヤナギ・ショウ・タイム
-      content_type: ''
   - song_name: アヤナギ・ショウ・タイム (鳳アレンジVer.)
     song_alias:
     esong_code: 3568A15
@@ -227,6 +227,23 @@ result:
     song_variation:
     - esong_code: 3568A15
       song_name: アヤナギ・ショウ・タイム (鳳アレンジVer.)
+      content_type: ''
+  - song_name: アヤナギ・ショウ・タイム
+    song_alias:
+    esong_code: 3568A17
+    t_singer_master_id: '54936'
+    singer_name: team柊
+    singer_alias:
+    available_date: '2015-12-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スタミュ -高校星歌劇-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あやなきしようたい
+    singer_name_ruby: ちむひいらき
+    song_variation:
+    - esong_code: 3568A17
+      song_name: アヤナギ・ショウ・タイム
       content_type: ''
   - song_name: Are you happy
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3565A41
       song_name: YES!
-      content_type: ''
-  - song_name: YELLOW
-    song_alias:
-    esong_code: 3573B6
-    t_singer_master_id: '55017'
-    singer_name: Le☆S☆Ca
-    singer_alias:
-    available_date: '2015-12-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Tokyo 7th シスターズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いえろ
-    singer_name_ruby: れすか
-    song_variation:
-    - esong_code: 3573B6
-      song_name: YELLOW
       content_type: ''

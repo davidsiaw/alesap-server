@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: 瞳そらさないで
-    song_alias:
-    esong_code: 3578B20
-    t_singer_master_id: '1523'
-    singer_name: DEEN
-    singer_alias:
-    available_date: '2016-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ひとみそらさないて
-    singer_name_ruby: ていん
-    song_variation:
-    - esong_code: 3578B20
-      song_name: 瞳そらさないで
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 瞳の奥の銀河(ミルキーウェイ)
     song_alias:
     esong_code: 3577B28
@@ -41,23 +24,6 @@ result:
     - esong_code: 3577B28
       song_name: 瞳の奥の銀河(ミルキーウェイ)
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 瞳の奥の銀河(ミルキーウェイ)
-    song_alias:
-    esong_code: 3579B14
-    t_singer_master_id: '43355'
-    singer_name: Flower
-    singer_alias:
-    available_date: '2016-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 金田一少年の事件簿<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ひとみのおくのみるき
-    singer_name_ruby: ふらわ
-    song_variation:
-    - esong_code: 3579B14
-      song_name: 瞳の奥の銀河(ミルキーウェイ)
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Beat Your Heart
     song_alias:
     esong_code: 3584A45
@@ -94,23 +60,6 @@ result:
       content_type: ''
   - song_name: ひとり北国
     song_alias:
-    esong_code: 3583B47
-    t_singer_master_id: '2536'
-    singer_name: 吉 幾三
-    singer_alias:
-    available_date: '2016-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとりきたくに
-    singer_name_ruby: よしいくそう
-    song_variation:
-    - esong_code: 3583B47
-      song_name: ひとり北国
-      content_type: ''
-  - song_name: ひとり北国
-    song_alias:
     esong_code: 2100B2
     t_singer_master_id: '2536'
     singer_name: 吉 幾三
@@ -126,6 +75,23 @@ result:
     - esong_code: 2100B2
       song_name: ひとり北国
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ひとり北国
+    song_alias:
+    esong_code: 3583B47
+    t_singer_master_id: '2536'
+    singer_name: 吉 幾三
+    singer_alias:
+    available_date: '2016-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとりきたくに
+    singer_name_ruby: よしいくそう
+    song_variation:
+    - esong_code: 3583B47
+      song_name: ひとり北国
+      content_type: ''
   - song_name: ひとり倉敷
     song_alias:
     esong_code: 3063A2
@@ -287,7 +253,7 @@ result:
     singer_alias:
     available_date: '2016-01-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂゜<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type: DAM生音
     song_name_ruby: ひゆていふるて
@@ -296,6 +262,23 @@ result:
     - esong_code: 3579B18
       song_name: Beautiful Days
       content_type: DAM生音
+  - song_name: Beyond the Bottom
+    song_alias:
+    esong_code: 3567B13
+    t_singer_master_id: '49958'
+    singer_name: Wake Up,Girls!
+    singer_alias:
+    available_date: '2016-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Wake Up,Girls!(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひよんとさほ
+    singer_name_ruby: うえいくあつふかるす
+    song_variation:
+    - esong_code: 3567B13
+      song_name: Beyond the Bottom
+      content_type: ''
   - song_name: beloved
     song_alias:
     esong_code: 3584A30
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3585B13
       song_name: FINAL
+      content_type: ''
+  - song_name: fuckin' so tired
+    song_alias:
+    esong_code: 3585A40
+    t_singer_master_id: '52225'
+    singer_name: 夜の本気ダンス
+    singer_alias:
+    available_date: '2016-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふあつきんそたいあ
+    singer_name_ruby: よるのほんきたんす
+    song_variation:
+    - esong_code: 3585A40
+      song_name: fuckin' so tired
       content_type: ''

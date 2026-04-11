@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 911
-  all_max_cnt: 1051
-  all_country_cnt: 911
+  max_cnt: 909
+  all_max_cnt: 1049
+  all_country_cnt: 909
   song:
+  - song_name: コスモモバイル
+    song_alias:
+    esong_code: 2536B44
+    t_singer_master_id: '35187'
+    singer_name: 青春シャンプー
+    singer_alias:
+    available_date: '2010-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こすももはいる
+    singer_name_ruby: せいしゆんしやんふ
+    song_variation:
+    - esong_code: 2536B44
+      song_name: コスモモバイル
+      content_type: ''
   - song_name: ごちゃまぜ片思い
     song_alias:
     esong_code: 2537A49
@@ -91,23 +108,6 @@ result:
     song_variation:
     - esong_code: 2549A14
       song_name: ごめんね。
-      content_type: ''
-  - song_name: ごめんね、愛してる
-    song_alias:
-    esong_code: 2541A43
-    t_singer_master_id: '33453'
-    singer_name: ゴールデンボンバー
-    singer_alias:
-    available_date: '2010-05-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こめんねあいしてる
-    singer_name_ruby: こるてんほんは
-    song_variation:
-    - esong_code: 2541A43
-      song_name: ごめんね、愛してる
       content_type: ''
   - song_name: CALLING
     song_alias:
@@ -366,23 +366,6 @@ result:
       content_type: ''
   - song_name: サクラサク
     song_alias:
-    esong_code: 2535A23
-    t_singer_master_id: '38490'
-    singer_name: 北乃 きい
-    singer_alias:
-    available_date: '2010-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: さくらさく
-    singer_name_ruby: きたのきい
-    song_variation:
-    - esong_code: 2535A23
-      song_name: サクラサク
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: サクラサク
-    song_alias:
     esong_code: 2538A33
     t_singer_master_id: '38490'
     singer_name: 北乃 きい
@@ -398,6 +381,23 @@ result:
     - esong_code: 2538A33
       song_name: サクラサク
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: サクラサク
+    song_alias:
+    esong_code: 2535A23
+    t_singer_master_id: '38490'
+    singer_name: 北乃 きい
+    singer_alias:
+    available_date: '2010-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: さくらさく
+    singer_name_ruby: きたのきい
+    song_variation:
+    - esong_code: 2535A23
+      song_name: サクラサク
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 桜の川
     song_alias:
     esong_code: 2554B21

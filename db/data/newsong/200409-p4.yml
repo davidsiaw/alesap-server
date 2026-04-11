@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 807
-  all_max_cnt: 867
-  all_country_cnt: 807
+  max_cnt: 806
+  all_max_cnt: 866
+  all_country_cnt: 806
   song:
   - song_name: A Song for XX (New Vocal&Mix)
     song_alias:
@@ -211,7 +211,7 @@ result:
     - esong_code: 554A6
       song_name: おかえり
       content_type: ''
-  - song_name: OH! GIRL (Mixture style)
+  - song_name: OH!GIRL-Mixture style-
     song_alias:
     esong_code: 575A9
     t_singer_master_id: '1928'
@@ -226,7 +226,7 @@ result:
     singer_name_ruby: ひす
     song_variation:
     - esong_code: 575A9
-      song_name: OH! GIRL (Mixture style)
+      song_name: OH!GIRL-Mixture style-
       content_type: ''
   - song_name: 贈る言葉
     song_alias:
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: 帰り道
     song_alias:
-    esong_code: 545A4
-    t_singer_master_id: '14282'
-    singer_name: 柴咲 コウ
-    singer_alias:
-    available_date: '2004-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かえりみち
-    singer_name_ruby: しはさきこう
-    song_variation:
-    - esong_code: 545A4
-      song_name: 帰り道
-      content_type: ''
-  - song_name: 帰り道
-    song_alias:
     esong_code: 621A47
     t_singer_master_id: '1671'
     singer_name: 長渕 剛
@@ -498,6 +481,23 @@ result:
     singer_name_ruby: なかふちつよし
     song_variation:
     - esong_code: 621A47
+      song_name: 帰り道
+      content_type: ''
+  - song_name: 帰り道
+    song_alias:
+    esong_code: 545A4
+    t_singer_master_id: '14282'
+    singer_name: 柴咲 コウ
+    singer_alias:
+    available_date: '2004-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かえりみち
+    singer_name_ruby: しはさきこう
+    song_variation:
+    - esong_code: 545A4
       song_name: 帰り道
       content_type: ''
   - song_name: 輝く運命はその手の中に

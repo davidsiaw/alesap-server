@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 806
-  all_max_cnt: 881
-  all_country_cnt: 806
+  max_cnt: 802
+  all_max_cnt: 877
+  all_country_cnt: 802
   song:
   - song_name: 雨・・・なみだ
     song_alias:
@@ -347,23 +347,6 @@ result:
     - esong_code: 4460B33
       song_name: 生きるをする
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 異国の丘 [歌ってみた利用OK]
-    song_alias:
-    esong_code: 4465A30
-    t_singer_master_id: '789'
-    singer_name: 軍歌(軍歌・戦時歌謡)
-    singer_alias:
-    available_date: '2021-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: 歌ってみた利用OK
-    song_name_ruby: いこくのおか
-    singer_name_ruby: くんか
-    song_variation:
-    - esong_code: 4465A30
-      song_name: 異国の丘 [歌ってみた利用OK]
-      content_type: 歌ってみた利用OK
   - song_name: 異国の丘
     song_alias:
     esong_code: 1366A13
@@ -381,6 +364,23 @@ result:
     - esong_code: 1366A13
       song_name: 異国の丘
       content_type: ''
+  - song_name: 異国の丘 [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4465A30
+    t_singer_master_id: '789'
+    singer_name: 軍歌(軍歌・戦時歌謡)
+    singer_alias:
+    available_date: '2021-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: いこくのおか
+    singer_name_ruby: くんか
+    song_variation:
+    - esong_code: 4465A30
+      song_name: 異国の丘 [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
   - song_name: 居酒屋「昭和」
     song_alias:
     esong_code: 4200B32
@@ -391,13 +391,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: いさかやしようわ
     singer_name_ruby: やしろあき
     song_variation:
     - esong_code: 4200B32
       song_name: 居酒屋「昭和」
-      content_type: DAM生音
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 居酒屋「昭和」
     song_alias:
     esong_code: 3656B8
@@ -466,23 +466,6 @@ result:
     - esong_code: 4459A5
       song_name: 悪戯
       content_type: ''
-  - song_name: いつか雲が晴れたなら
-    song_alias:
-    esong_code: 4462B25
-    t_singer_master_id: '45657'
-    singer_name: 内田 真礼
-    singer_alias:
-    available_date: '2021-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつかくもかはれた
-    singer_name_ruby: うちたまあや
-    song_variation:
-    - esong_code: 4462B25
-      song_name: いつか雲が晴れたなら
-      content_type: ''
   - song_name: いつかの青年
     song_alias:
     esong_code: 4464B24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4459B33
       song_name: 一献歌
+      content_type: ''
+  - song_name: 一緒に・・・ (Happiness 2020)
+    song_alias:
+    esong_code: 4462B40
+    t_singer_master_id: '6440'
+    singer_name: MAX
+    singer_alias:
+    available_date: '2021-01-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつしよにはひねす
+    singer_name_ruby: まつくす
+    song_variation:
+    - esong_code: 4462B40
+      song_name: 一緒に・・・ (Happiness 2020)
       content_type: ''

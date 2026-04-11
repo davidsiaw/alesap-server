@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 952
-  all_max_cnt: 1096
-  all_country_cnt: 952
+  max_cnt: 967
+  all_max_cnt: 1109
+  all_country_cnt: 967
   song:
+  - song_name: into reality
+    song_alias:
+    esong_code: 4730B10
+    t_singer_master_id: '70923'
+    singer_name: NIJISANJI ID
+    singer_alias:
+    available_date: '2023-01-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いんとうりありてい
+    singer_name_ruby: にしさんしあいてい
+    song_variation:
+    - esong_code: 4730B10
+      song_name: into reality
+      content_type: ''
   - song_name: into reality (Japanese Ver.)
     song_alias:
     esong_code: 4730B11
@@ -347,6 +364,23 @@ result:
     - esong_code: 4736B29
       song_name: えっか
       content_type: ''
+  - song_name: XL BO$$
+    song_alias:
+    esong_code: 4880B16
+    t_singer_master_id: '60217'
+    singer_name: 石谷 春貴
+    singer_alias:
+    available_date: '2023-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: XL上司。<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えつくすえるほす
+    singer_name_ruby: いしやはるき
+    song_variation:
+    - esong_code: 4880B16
+      song_name: XL BO$$
+      content_type: ''
   - song_name: 越冬
     song_alias:
     esong_code: 4741A3
@@ -483,37 +517,3 @@ result:
     - esong_code: 4728B10
       song_name: M八七 [歌ってみた利用OK]
       content_type: 歌ってみた利用OK
-  - song_name: エリザベス
-    song_alias:
-    esong_code: 4734B27
-    t_singer_master_id: '68692'
-    singer_name: シンガーズハイ
-    singer_alias:
-    available_date: '2023-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えりさへす
-    singer_name_ruby: しんかすはい
-    song_variation:
-    - esong_code: 4734B27
-      song_name: エリザベス
-      content_type: ''
-  - song_name: YeLL
-    song_alias:
-    esong_code: 4732A12
-    t_singer_master_id: '43353'
-    singer_name: 藍井 エイル
-    singer_alias:
-    available_date: '2023-01-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: える
-    singer_name_ruby: あおいえいる
-    song_variation:
-    - esong_code: 4732A12
-      song_name: YeLL
-      content_type: ''

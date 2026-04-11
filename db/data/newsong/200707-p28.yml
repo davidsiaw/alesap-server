@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
   - song_name: プロローグ 〜lalala・・・〜
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 1801B44
       song_name: プロローグ 〜lalala・・・〜
       content_type: ''
-  - song_name: Prologue
-    song_alias:
-    esong_code: 1815B38
-    t_singer_master_id: '24726'
-    singer_name: TSUKASA
-    singer_alias:
-    available_date: '2007-07-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｽｺﾞｵﾄ生音
-    song_name_ruby: ふろろく
-    singer_name_ruby: つかさ
-    song_variation:
-    - esong_code: 1815B38
-      song_name: Prologue
-      content_type: JOYｽｺﾞｵﾄ生音
   - song_name: boom boom beat
     song_alias:
     esong_code: 1805B8
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1817B48
       song_name: 僕に絶えず呼びかける
+      content_type: ''
+  - song_name: 僕の花
+    song_alias:
+    esong_code: 1818A45
+    t_singer_master_id: '30448'
+    singer_name: 五井 道子
+    singer_alias:
+    available_date: '2007-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくのはな
+    singer_name_ruby: こいみちこ
+    song_variation:
+    - esong_code: 1818A45
+      song_name: 僕の花
       content_type: ''

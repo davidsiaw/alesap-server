@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1410
-  all_max_cnt: 1498
-  all_country_cnt: 1410
+  max_cnt: 1399
+  all_max_cnt: 1487
+  all_country_cnt: 1399
   song:
-  - song_name: キャンディマン
-    song_alias:
-    esong_code: 1534A34
-    t_singer_master_id: '15100'
-    singer_name: BEAT CRUSADERS
-    singer_alias:
-    available_date: '2006-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんていまん
-    singer_name_ruby: ひとくるせいたす
-    song_variation:
-    - esong_code: 1534A34
-      song_name: キャンディマン
-      content_type: ''
-  - song_name: CaNDY LiFe
-    song_alias:
-    esong_code: 1527A41
-    t_singer_master_id: '14492'
-    singer_name: 三枝 夕夏 IN db
-    singer_alias:
-    available_date: '2006-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんていらいふ
-    singer_name_ruby: さえくさゆうかいんてしへ
-    song_variation:
-    - esong_code: 1527A41
-      song_name: CaNDY LiFe
-      content_type: ''
   - song_name: キャンドルの夜
     song_alias:
     esong_code: 1527A24
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1564A42
       song_name: GOOD NEWS
+      content_type: ''
+  - song_name: Good-bye
+    song_alias:
+    esong_code: 1552B45
+    t_singer_master_id: '2533'
+    singer_name: 横浜銀蝿(横浜銀蝿40th)
+    singer_alias:
+    available_date: '2006-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとはい
+    singer_name_ruby: よこはまきんはえ
+    song_variation:
+    - esong_code: 1552B45
+      song_name: Good-bye
+      content_type: ''
+  - song_name: Good-bye days
+    song_alias:
+    esong_code: 1533A9
+    t_singer_master_id: '26415'
+    singer_name: YUI for 雨音 薫
+    singer_alias:
+    available_date: '2006-06-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとはいて
+    singer_name_ruby: ゆいふおあまねかおる
+    song_variation:
+    - esong_code: 1533A9
+      song_name: Good-bye days
       content_type: ''

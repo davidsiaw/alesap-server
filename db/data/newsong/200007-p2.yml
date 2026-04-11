@@ -185,7 +185,7 @@ result:
     singer_alias:
     available_date: '2000-07-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 氷上・丹下のトラチョコチャット<番組名>
+    tie_up: トラブルチョコレート<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とうらふ
@@ -415,23 +415,6 @@ result:
     - esong_code: 384A27
       song_name: Hurry Up
       content_type: ''
-  - song_name: Pearl
-    song_alias:
-    esong_code: 381A31
-    t_singer_master_id: '11109'
-    singer_name: Shiro
-    singer_alias:
-    available_date: '2000-07-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はる
-    singer_name_ruby: しろ
-    song_variation:
-    - esong_code: 381A31
-      song_name: Pearl
-      content_type: ''
   - song_name: パール
     song_alias:
     esong_code: 380B28
@@ -448,6 +431,23 @@ result:
     song_variation:
     - esong_code: 380B28
       song_name: パール
+      content_type: ''
+  - song_name: Pearl
+    song_alias:
+    esong_code: 381A31
+    t_singer_master_id: '11109'
+    singer_name: Shiro
+    singer_alias:
+    available_date: '2000-07-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はる
+    singer_name_ruby: しろ
+    song_variation:
+    - esong_code: 381A31
+      song_name: Pearl
       content_type: ''
   - song_name: be alive
     song_alias:

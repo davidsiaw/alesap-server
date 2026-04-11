@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: よろこびのうた
-    song_alias:
-    esong_code: 3201B8
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2014-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よろこひのうた
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 3201B8
-      song_name: よろこびのうた
-      content_type: ''
   - song_name: 四間道路
     song_alias:
     esong_code: 3201B9
@@ -262,23 +245,6 @@ result:
     - esong_code: 3179A10
       song_name: Love
       content_type: ''
-  - song_name: Love/Affection (DAISHI DANCE REMIX)
-    song_alias:
-    esong_code: 3180A49
-    t_singer_master_id: '20609'
-    singer_name: 加藤 ミリヤ
-    singer_alias:
-    available_date: '2014-02-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふあふえくしよん
-    singer_name_ruby: かとうみりや
-    song_variation:
-    - esong_code: 3180A49
-      song_name: Love/Affection (DAISHI DANCE REMIX)
-      content_type: ''
   - song_name: Love/Affection
     song_alias:
     esong_code: 3205B48
@@ -296,6 +262,23 @@ result:
     - esong_code: 3205B48
       song_name: Love/Affection
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Love/Affection (DAISHI DANCE REMIX)
+    song_alias:
+    esong_code: 3180A49
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2014-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふあふえくしよん
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 3180A49
+      song_name: Love/Affection (DAISHI DANCE REMIX)
+      content_type: ''
   - song_name: LOVE IS ALL 〜いつまでも君と〜
     song_alias:
     esong_code: 3205A18
@@ -468,23 +451,6 @@ result:
       content_type: ''
   - song_name: 乱
     song_alias:
-    esong_code: 3169A8
-    t_singer_master_id: '2927'
-    singer_name: LUNA SEA
-    singer_alias:
-    available_date: '2014-02-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: らん
-    singer_name_ruby: るなし
-    song_variation:
-    - esong_code: 3169A8
-      song_name: 乱
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 乱
-    song_alias:
     esong_code: 3168B49
     t_singer_master_id: '2927'
     singer_name: LUNA SEA
@@ -500,6 +466,23 @@ result:
     - esong_code: 3168B49
       song_name: 乱
       content_type: DAM生音
+  - song_name: 乱
+    song_alias:
+    esong_code: 3169A8
+    t_singer_master_id: '2927'
+    singer_name: LUNA SEA
+    singer_alias:
+    available_date: '2014-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: らん
+    singer_name_ruby: るなし
+    song_variation:
+    - esong_code: 3169A8
+      song_name: 乱
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: Run away
     song_alias:
     esong_code: 3199B21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3199B21
       song_name: Run away
+      content_type: ''
+  - song_name: RUN with U
+    song_alias:
+    esong_code: 3178B34
+    t_singer_master_id: '43235'
+    singer_name: フェアリーズ(Fairies)
+    singer_alias:
+    available_date: '2014-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ジュエルペット ハッピネス<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らんういすゆ
+    singer_name_ruby: ふえありす
+    song_variation:
+    - esong_code: 3178B34
+      song_name: RUN with U
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
-  - song_name: WINK SNIPER
-    song_alias:
-    esong_code: 1941B14
-    t_singer_master_id: '26363'
-    singer_name: Base Ball Bear
-    singer_alias:
-    available_date: '2008-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういんくすないは
-    singer_name_ruby: へすほるへあ
-    song_variation:
-    - esong_code: 1941B14
-      song_name: WINK SNIPER
-      content_type: ''
   - song_name: Winter Wish
     song_alias:
     esong_code: 1941B13
@@ -74,6 +57,23 @@ result:
     song_variation:
     - esong_code: 1929B25
       song_name: WINTERLONG
+      content_type: ''
+  - song_name: way of life (Orchestra Version)
+    song_alias:
+    esong_code: 1935A27
+    t_singer_master_id: '6560'
+    singer_name: V6
+    singer_alias:
+    available_date: '2008-01-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うえいおふらいふ
+    singer_name_ruby: ふいしつくす
+    song_variation:
+    - esong_code: 1935A27
+      song_name: way of life (Orchestra Version)
       content_type: ''
   - song_name: way of life (20th Century Version)
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 1935A28
       song_name: way of life (Coming Century Version)
       content_type: ''
-  - song_name: way of life (BREAKBEATS Version)
-    song_alias:
-    esong_code: 1935A31
-    t_singer_master_id: '6560'
-    singer_name: V6
-    singer_alias:
-    available_date: '2008-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえいおふらいふ
-    singer_name_ruby: ふいしつくす
-    song_variation:
-    - esong_code: 1935A31
-      song_name: way of life (BREAKBEATS Version)
-      content_type: ''
   - song_name: way of life (Piano Version)
     song_alias:
     esong_code: 1935A30
@@ -160,13 +143,13 @@ result:
     - esong_code: 1935A30
       song_name: way of life (Piano Version)
       content_type: ''
-  - song_name: way of life (Orchestra Version)
+  - song_name: way of life (BREAKBEATS Version)
     song_alias:
-    esong_code: 1935A27
+    esong_code: 1935A31
     t_singer_master_id: '6560'
     singer_name: V6
     singer_alias:
-    available_date: '2008-01-16'
+    available_date: '2008-01-23'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -174,8 +157,8 @@ result:
     song_name_ruby: うえいおふらいふ
     singer_name_ruby: ふいしつくす
     song_variation:
-    - esong_code: 1935A27
-      song_name: way of life (Orchestra Version)
+    - esong_code: 1935A31
+      song_name: way of life (BREAKBEATS Version)
       content_type: ''
   - song_name: Wait For Me
     song_alias:
@@ -264,23 +247,6 @@ result:
       content_type: ''
   - song_name: 浮世草
     song_alias:
-    esong_code: 1938B39
-    t_singer_master_id: '5034'
-    singer_name: 市川 由紀乃
-    singer_alias:
-    available_date: '2008-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: うきよくさ
-    singer_name_ruby: いちかわゆきの
-    song_variation:
-    - esong_code: 1938B39
-      song_name: 浮世草
-      content_type: DAM生音
-  - song_name: 浮世草
-    song_alias:
     esong_code: 1927A38
     t_singer_master_id: '5034'
     singer_name: 市川 由紀乃
@@ -296,6 +262,23 @@ result:
     - esong_code: 1927A38
       song_name: 浮世草
       content_type: ''
+  - song_name: 浮世草
+    song_alias:
+    esong_code: 1938B39
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2008-01-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: うきよくさ
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 1938B39
+      song_name: 浮世草
+      content_type: DAM生音
   - song_name: 受け入れて
     song_alias:
     esong_code: 1940A49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1927B3
       song_name: 笑顔の未来へ
+      content_type: ''
+  - song_name: Exciter
+    song_alias:
+    esong_code: 1935A38
+    t_singer_master_id: '12351'
+    singer_name: BOMB FACTORY
+    singer_alias:
+    available_date: '2008-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えきさいた
+    singer_name_ruby: ほむふあくとり
+    song_variation:
+    - esong_code: 1935A38
+      song_name: Exciter
       content_type: ''

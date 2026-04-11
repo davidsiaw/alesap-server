@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: 冬のエトランジェ (THE GREAT VACATION-extra- Live ver.)
-    song_alias:
-    esong_code: 2401A9
-    t_singer_master_id: '2855'
-    singer_name: GLAY
-    singer_alias:
-    available_date: '2010-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふゆのえとらんしえ
-    singer_name_ruby: くれい
-    song_variation:
-    - esong_code: 2401A9
-      song_name: 冬のエトランジェ (THE GREAT VACATION-extra- Live ver.)
-      content_type: ''
-  - song_name: Primer Beat
-    song_alias:
-    esong_code: 2569A49
-    t_singer_master_id: '6072'
-    singer_name: the pillows
-    singer_alias:
-    available_date: '2010-07-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらいまるひと
-    singer_name_ruby: さひろうす
-    song_variation:
-    - esong_code: 2569A49
-      song_name: Primer Beat
-      content_type: ''
   - song_name: flag on the hill
     song_alias:
     esong_code: 2582A7
@@ -143,23 +109,6 @@ result:
     - esong_code: 2561B28
       song_name: BRAND NEW DAY
       content_type: ''
-  - song_name: FREE
-    song_alias:
-    esong_code: 2574B8
-    t_singer_master_id: '20609'
-    singer_name: 加藤 ミリヤ
-    singer_alias:
-    available_date: '2010-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふり
-    singer_name_ruby: かとうみりや
-    song_variation:
-    - esong_code: 2574B8
-      song_name: FREE
-      content_type: ''
   - song_name: Free
     song_alias:
     esong_code: 2391A48
@@ -176,6 +125,23 @@ result:
     song_variation:
     - esong_code: 2391A48
       song_name: Free
+      content_type: ''
+  - song_name: FREE
+    song_alias:
+    esong_code: 2574B8
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2010-07-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふり
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 2574B8
+      song_name: FREE
       content_type: ''
   - song_name: プリキュア5、フル・スロットル GO GO!
     song_alias:
@@ -372,7 +338,7 @@ result:
     singer_alias:
     available_date: '2010-07-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ3<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふるすかいふる
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2568B25
       song_name: Precious word 〜君に伝えたい〜
+      content_type: ''
+  - song_name: ブレーメンの音楽隊
+    song_alias:
+    esong_code: 2568A26
+    t_singer_master_id: '40340'
+    singer_name: 世界のどうわ
+    singer_alias:
+    available_date: '2010-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれめんのおんか
+    singer_name_ruby: せかいのとうわ
+    song_variation:
+    - esong_code: 2568A26
+      song_name: ブレーメンの音楽隊
+      content_type: ''
+  - song_name: ブロッサム
+    song_alias:
+    esong_code: 2566B39
+    t_singer_master_id: '15557'
+    singer_name: SHY
+    singer_alias:
+    available_date: '2010-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろつさむ
+    singer_name_ruby: しやい
+    song_variation:
+    - esong_code: 2566B39
+      song_name: ブロッサム
       content_type: ''

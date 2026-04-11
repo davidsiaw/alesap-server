@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
   - song_name: 三年たったらここで・・・
     song_alias:
@@ -26,23 +26,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 桟橋時雨
     song_alias:
-    esong_code: 2733A13
-    t_singer_master_id: '5034'
-    singer_name: 市川 由紀乃
-    singer_alias:
-    available_date: '2012-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: さんはししくれ
-    singer_name_ruby: いちかわゆきの
-    song_variation:
-    - esong_code: 2733A13
-      song_name: 桟橋時雨
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 桟橋時雨
-    song_alias:
     esong_code: 2747B35
     t_singer_master_id: '5034'
     singer_name: 市川 由紀乃
@@ -58,6 +41,23 @@ result:
     - esong_code: 2747B35
       song_name: 桟橋時雨
       content_type: JOY生演奏
+  - song_name: 桟橋時雨
+    song_alias:
+    esong_code: 2733A13
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2012-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: さんはししくれ
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 2733A13
+      song_name: 桟橋時雨
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 三匹の侍
     song_alias:
     esong_code: 2747A5
@@ -406,7 +406,7 @@ result:
     singer_alias:
     available_date: '2012-01-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HUNTER×HUNTER(2011)<番組名>
+    tie_up: HUNTER×HUNTER<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しやすとあうえいく

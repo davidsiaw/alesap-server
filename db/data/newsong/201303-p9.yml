@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
   - song_name: オボロヅキ
     song_alias:
@@ -151,7 +151,7 @@ result:
     singer_alias:
     available_date: '2013-03-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ 劇場版<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おらしやくうくん
@@ -285,7 +285,7 @@ result:
     t_singer_master_id: '389'
     singer_name: 大月 みやこ
     singer_alias:
-    available_date: '2013-03-26'
+    available_date: '2013-03-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -336,7 +336,7 @@ result:
     t_singer_master_id: '12457'
     singer_name: 小桜 舞子(小櫻舞子)
     singer_alias:
-    available_date: '2013-03-19'
+    available_date: '2013-03-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -415,23 +415,6 @@ result:
     - esong_code: 3000A41
       song_name: Only
       content_type: ''
-  - song_name: Only One。
-    song_alias:
-    esong_code: 2997B10
-    t_singer_master_id: '41597'
-    singer_name: ハジ→
-    singer_alias:
-    available_date: '2013-03-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんりわん
-    singer_name_ruby: はし
-    song_variation:
-    - esong_code: 2997B10
-      song_name: Only One。
-      content_type: ''
   - song_name: ONLY ONE
     song_alias:
     esong_code: 3006A9
@@ -448,6 +431,23 @@ result:
     song_variation:
     - esong_code: 3006A9
       song_name: ONLY ONE
+      content_type: ''
+  - song_name: Only One。
+    song_alias:
+    esong_code: 2997B10
+    t_singer_master_id: '41597'
+    singer_name: ハジ→
+    singer_alias:
+    available_date: '2013-03-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんりわん
+    singer_name_ruby: はし
+    song_variation:
+    - esong_code: 2997B10
+      song_name: Only One。
       content_type: ''
   - song_name: 回帰のシンクロニシティ feat.初音ミク
     song_alias:

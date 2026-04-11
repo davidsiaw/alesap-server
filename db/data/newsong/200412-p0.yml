@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 792
-  all_max_cnt: 839
-  all_country_cnt: 792
+  max_cnt: 788
+  all_max_cnt: 835
+  all_country_cnt: 788
   song:
   - song_name: ああ上野駅
     song_alias:
@@ -40,6 +40,23 @@ result:
     song_variation:
     - esong_code: 1049B16
       song_name: アイツはジョーク
+      content_type: ''
+  - song_name: 愛と欲望の日々
+    song_alias:
+    esong_code: 377B8
+    t_singer_master_id: '944'
+    singer_name: サザンオールスターズ
+    singer_alias:
+    available_date: '2004-12-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいとよくほうのひ
+    singer_name_ruby: ささんおるすたす
+    song_variation:
+    - esong_code: 377B8
+      song_name: 愛と欲望の日々
       content_type: ''
   - song_name: idol fansy <Cook Coat Mix>
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 597B3
       song_name: at the circle
-      content_type: ''
-  - song_name: アップ アップ! feat.H-Man
-    song_alias:
-    esong_code: 1200A48
-    t_singer_master_id: '15053'
-    singer_name: Home Grown
-    singer_alias:
-    available_date: '2004-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あつふあつふ
-    singer_name_ruby: ほむくろうん
-    song_variation:
-    - esong_code: 1200A48
-      song_name: アップ アップ! feat.H-Man
       content_type: ''

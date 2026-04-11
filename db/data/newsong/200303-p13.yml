@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 448
-  all_max_cnt: 493
-  all_country_cnt: 448
+  max_cnt: 446
+  all_max_cnt: 491
+  all_country_cnt: 446
   song:
-  - song_name: ヤングジェネレーション
-    song_alias:
-    esong_code: 410B22
-    t_singer_master_id: '5985'
-    singer_name: JUICE
-    singer_alias:
-    available_date: '2003-03-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やんくしえねれ
-    singer_name_ruby: しゆす
-    song_variation:
-    - esong_code: 410B22
-      song_name: ヤングジェネレーション
-      content_type: ''
-  - song_name: 雪だより
-    song_alias:
-    esong_code: 420B23
-    t_singer_master_id: '10128'
-    singer_name: カントリー・ガールズ(カントリー娘。)
-    singer_alias:
-    available_date: '2003-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆきたより
-    singer_name_ruby: かんとりかるす
-    song_variation:
-    - esong_code: 420B23
-      song_name: 雪だより
-      content_type: ''
   - song_name: You-something beautiful-
     song_alias:
     esong_code: 436A15
@@ -81,7 +47,7 @@ result:
     t_singer_master_id: '1518'
     singer_name: 天童 よしみ
     singer_alias:
-    available_date: '2003-03-05'
+    available_date: '2003-03-06'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 409B31
       song_name: Revive
+      content_type: ''
+  - song_name: Remind
+    song_alias:
+    esong_code: 398A40
+    t_singer_master_id: '12923'
+    singer_name: FLAME
+    singer_alias:
+    available_date: '2003-03-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りまいんと
+    singer_name_ruby: ふれいむ
+    song_variation:
+    - esong_code: 398A40
+      song_name: Remind
+      content_type: ''
+  - song_name: 理由
+    song_alias:
+    esong_code: 435A16
+    t_singer_master_id: '15468'
+    singer_name: 安倍 麻美
+    singer_alias:
+    available_date: '2003-03-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りゆう
+    singer_name_ruby: あへあさみ
+    song_variation:
+    - esong_code: 435A16
+      song_name: 理由
       content_type: ''

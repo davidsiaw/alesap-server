@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 911
-  all_max_cnt: 1051
-  all_country_cnt: 911
+  max_cnt: 909
+  all_max_cnt: 1049
+  all_country_cnt: 909
   song:
   - song_name: キャンディ
     song_alias:
@@ -159,6 +159,23 @@ result:
     song_variation:
     - esong_code: 2539B20
       song_name: GUILTY
+      content_type: ''
+  - song_name: 禁じられたボレロ
+    song_alias:
+    esong_code: 2526B1
+    t_singer_master_id: '26735'
+    singer_name: 斉藤 かず
+    singer_alias:
+    available_date: '2010-05-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きんしられたほれ
+    singer_name_ruby: さいとうかす
+    song_variation:
+    - esong_code: 2526B1
+      song_name: 禁じられたボレロ
       content_type: ''
   - song_name: 9月の木洩れ日
     song_alias:
@@ -500,20 +517,3 @@ result:
     - esong_code: 2535B46
       song_name: Close to you
       content_type: ''
-  - song_name: Closed blue feat.初音ミク
-    song_alias:
-    esong_code: 2527B21
-    t_singer_master_id: '36463'
-    singer_name: イナメトオル(40mP)
-    singer_alias:
-    available_date: '2010-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: くろすとふる
-    singer_name_ruby: いなめとおるよんしゆうめとる
-    song_variation:
-    - esong_code: 2527B21
-      song_name: Closed blue feat.初音ミク
-      content_type: VOCALOID

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 531
-  all_max_cnt: 644
-  all_country_cnt: 531
+  max_cnt: 533
+  all_max_cnt: 646
+  all_country_cnt: 533
   song:
+  - song_name: グレイト・エスケイプ
+    song_alias:
+    esong_code: 824A40
+    t_singer_master_id: '2111'
+    singer_name: 布袋 寅泰
+    singer_alias:
+    available_date: '2003-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くれいとえすけいふ
+    singer_name_ruby: ほていともやす
+    song_variation:
+    - esong_code: 824A40
+      song_name: グレイト・エスケイプ
+      content_type: ''
   - song_name: GRACE
     song_alias:
     esong_code: 315A44
@@ -262,23 +279,6 @@ result:
     - esong_code: 645B37
       song_name: 合コン後のファミレスにて
       content_type: ''
-  - song_name: GO!GO!7188メドレー 〜2003〜
-    song_alias:
-    esong_code: 844A14
-    t_singer_master_id: '11546'
-    singer_name: GO!GO!7188
-    singer_alias:
-    available_date: '2003-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ここなないち
-    singer_name_ruby: ここなないち
-    song_variation:
-    - esong_code: 844A14
-      song_name: GO!GO!7188メドレー 〜2003〜
-      content_type: ''
   - song_name: GO!GO!7188メドレー 〜2001〜
     song_alias:
     esong_code: 845B14
@@ -295,6 +295,23 @@ result:
     song_variation:
     - esong_code: 845B14
       song_name: GO!GO!7188メドレー 〜2001〜
+      content_type: ''
+  - song_name: GO!GO!7188メドレー 〜2003〜
+    song_alias:
+    esong_code: 844A14
+    t_singer_master_id: '11546'
+    singer_name: GO!GO!7188
+    singer_alias:
+    available_date: '2003-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ここなないち
+    singer_name_ruby: ここなないち
+    song_variation:
+    - esong_code: 844A14
+      song_name: GO!GO!7188メドレー 〜2003〜
       content_type: ''
   - song_name: GO!GO!7188メドレー 〜2000〜
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 720B23
       song_name: 壊したい
-      content_type: ''
-  - song_name: 最後の一本
-    song_alias:
-    esong_code: 694A34
-    t_singer_master_id: '2302'
-    singer_name: 美空 ひばり
-    singer_alias:
-    available_date: '2003-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいこのいつほん
-    singer_name_ruby: みそらひはり
-    song_variation:
-    - esong_code: 694A34
-      song_name: 最後の一本
       content_type: ''

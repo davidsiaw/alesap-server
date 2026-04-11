@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 392
-  all_max_cnt: 480
-  all_country_cnt: 392
+  max_cnt: 391
+  all_max_cnt: 479
+  all_country_cnt: 391
   song:
-  - song_name: マント
-    song_alias:
-    esong_code: 918A26
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '2002-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まんと
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 918A26
-      song_name: マント
-      content_type: ''
   - song_name: まんをじして
     song_alias:
     esong_code: 918A37
@@ -457,7 +440,7 @@ result:
     singer_alias:
     available_date: '2002-09-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: デジモンテイマーズ 暴走デジモン特急<番組名>
+    tie_up: デジモンテイマーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ゆうひのやくそく
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 912B39
       song_name: 夢の跡
+      content_type: ''
+  - song_name: ゆるぎない者達
+    song_alias:
+    esong_code: 918B36
+    t_singer_master_id: '2855'
+    singer_name: GLAY
+    singer_alias:
+    available_date: '2002-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆるきないものたち
+    singer_name_ruby: くれい
+    song_variation:
+    - esong_code: 918B36
+      song_name: ゆるぎない者達
       content_type: ''

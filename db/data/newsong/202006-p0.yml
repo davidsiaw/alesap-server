@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 954
-  all_max_cnt: 1029
-  all_country_cnt: 954
+  max_cnt: 946
+  all_max_cnt: 1021
+  all_country_cnt: 946
   song:
   - song_name: あぁ人生峠
     song_alias:
@@ -91,23 +91,6 @@ result:
     song_variation:
     - esong_code: 4373A40
       song_name: Ah Yeah (KR Ver.)
-      content_type: ''
-  - song_name: 愛がゆえゆえ
-    song_alias:
-    esong_code: 4388B2
-    t_singer_master_id: '66519'
-    singer_name: 大槻 ケンヂとめぐろ川たんていじむしょ
-    singer_alias:
-    available_date: '2020-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: かくしごと<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいかゆえゆえ
-    singer_name_ruby: おおつきけんしとめくろか
-    song_variation:
-    - esong_code: 4388B2
-      song_name: 愛がゆえゆえ
       content_type: ''
   - song_name: 愛彩歌
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 4386B34
       song_name: アカシックルーレット
       content_type: VOCALOID
+  - song_name: あかるいみらい
+    song_alias:
+    esong_code: 4384A29
+    t_singer_master_id: '54118'
+    singer_name: yonige
+    singer_alias:
+    available_date: '2020-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかるいみらい
+    singer_name_ruby: よにけ
+    song_variation:
+    - esong_code: 4384A29
+      song_name: あかるいみらい
+      content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
-  - song_name: 北岬
-    song_alias:
-    esong_code: 2606A31
-    t_singer_master_id: '2103'
-    singer_name: 細川 たかし
-    singer_alias:
-    available_date: '2010-10-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: きたみさき
-    singer_name_ruby: ほそかわたかし
-    song_variation:
-    - esong_code: 2606A31
-      song_name: 北岬
-      content_type: DAM生音
   - song_name: 北岬
     song_alias:
     esong_code: 2608B39
@@ -41,6 +24,23 @@ result:
     - esong_code: 2608B39
       song_name: 北岬
       content_type: ''
+  - song_name: 北岬
+    song_alias:
+    esong_code: 2606A31
+    t_singer_master_id: '2103'
+    singer_name: 細川 たかし
+    singer_alias:
+    available_date: '2010-10-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: きたみさき
+    singer_name_ruby: ほそかわたかし
+    song_variation:
+    - esong_code: 2606A31
+      song_name: 北岬
+      content_type: DAM生音
   - song_name: 北みれん
     song_alias:
     esong_code: 2617A17

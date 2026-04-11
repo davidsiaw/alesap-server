@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1586
-  all_max_cnt: 1734
-  all_country_cnt: 1586
+  max_cnt: 1581
+  all_max_cnt: 1729
+  all_country_cnt: 1581
   song:
-  - song_name: 通好みロック
-    song_alias:
-    esong_code: 2957A34
-    t_singer_master_id: '5988'
-    singer_name: 遠藤 賢司
-    singer_alias:
-    available_date: '2012-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つうこのみろつく
-    singer_name_ruby: えんとうけんし
-    song_variation:
-    - esong_code: 2957A34
-      song_name: 通好みロック
-      content_type: ''
-  - song_name: 津軽そだち
-    song_alias:
-    esong_code: 2943A24
-    t_singer_master_id: '46556'
-    singer_name: 佐々木 新一&北野 まち子
-    singer_alias:
-    available_date: '2012-12-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つかるそたち
-    singer_name_ruby: ささきしんいちきたのまちこ
-    song_variation:
-    - esong_code: 2943A24
-      song_name: 津軽そだち
-      content_type: ''
-  - song_name: 津軽そだち
-    song_alias:
-    esong_code: 2948B34
-    t_singer_master_id: '46556'
-    singer_name: 佐々木 新一&北野 まち子
-    singer_alias:
-    available_date: '2012-12-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: つかるそたち
-    singer_name_ruby: ささきしんいちきたのまちこ
-    song_variation:
-    - esong_code: 2948B34
-      song_name: 津軽そだち
-      content_type: DAM生音
   - song_name: 津軽そだち
     song_alias:
     esong_code: 2949A15
@@ -75,6 +24,23 @@ result:
     - esong_code: 2949A15
       song_name: 津軽そだち
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 津軽そだち
+    song_alias:
+    esong_code: 2943A24
+    t_singer_master_id: '46556'
+    singer_name: 佐々木 新一&北野 まち子
+    singer_alias:
+    available_date: '2012-12-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つかるそたち
+    singer_name_ruby: ささきしんいちきたのまちこ
+    song_variation:
+    - esong_code: 2943A24
+      song_name: 津軽そだち
+      content_type: ''
   - song_name: つぎ いってみよう!
     song_alias:
     esong_code: 2953B3
@@ -372,7 +338,7 @@ result:
     singer_alias:
     available_date: '2012-12-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神谷浩史・小野大輔のDearGirl 〜Stories〜<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: ていしえすか
@@ -398,23 +364,6 @@ result:
     - esong_code: 2949B38
       song_name: This Way feat.想天坊
       content_type: ''
-  - song_name: Distance...
-    song_alias:
-    esong_code: 2942B14
-    t_singer_master_id: '43527'
-    singer_name: U-KISS
-    singer_alias:
-    available_date: '2012-12-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていすたんす
-    singer_name_ruby: ゆきす
-    song_variation:
-    - esong_code: 2942B14
-      song_name: Distance...
-      content_type: ''
   - song_name: distance
     song_alias:
     esong_code: 2947B44
@@ -431,6 +380,23 @@ result:
     song_variation:
     - esong_code: 2947B44
       song_name: distance
+      content_type: ''
+  - song_name: Distance...
+    song_alias:
+    esong_code: 2942B14
+    t_singer_master_id: '43527'
+    singer_name: U-KISS
+    singer_alias:
+    available_date: '2012-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていすたんす
+    singer_name_ruby: ゆきす
+    song_variation:
+    - esong_code: 2942B14
+      song_name: Distance...
       content_type: ''
   - song_name: Teach Your Seasons
     song_alias:
@@ -457,7 +423,7 @@ result:
     singer_alias:
     available_date: '2012-12-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HUNTER×HUNTER(2011)<番組名>
+    tie_up: HUNTER×HUNTER<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ていはちや
@@ -474,7 +440,7 @@ result:
     singer_alias:
     available_date: '2012-12-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HUNTER×HUNTER(2011)<番組名>
+    tie_up: HUNTER×HUNTER<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ていはちや
@@ -517,3 +483,37 @@ result:
     - esong_code: 2949B9
       song_name: デコトラの星☆
       content_type: ''
+  - song_name: Decorate
+    song_alias:
+    esong_code: 2951B42
+    t_singer_master_id: '31887'
+    singer_name: トクマル シューゴ
+    singer_alias:
+    available_date: '2012-12-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てこれと
+    singer_name_ruby: とくまるしゆこ
+    song_variation:
+    - esong_code: 2951B42
+      song_name: Decorate
+      content_type: ''
+  - song_name: Desire
+    song_alias:
+    esong_code: 2939B27
+    t_singer_master_id: '45231'
+    singer_name: イオシス/あいかぴん
+    singer_alias:
+    available_date: '2012-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方神霊廟 〜Ten Desires.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: てさいあ
+    singer_name_ruby: いおしすあいかひん
+    song_variation:
+    - esong_code: 2939B27
+      song_name: Desire
+      content_type: 東方

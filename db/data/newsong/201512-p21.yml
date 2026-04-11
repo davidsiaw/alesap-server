@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
   - song_name: Stay just the way you are
     song_alias:
@@ -262,22 +262,22 @@ result:
     - esong_code: 3573B18
       song_name: スーパーショートタイムショータイム
       content_type: ''
-  - song_name: Superstar
+  - song_name: SPEAKER
     song_alias:
-    esong_code: 3565A35
-    t_singer_master_id: '47606'
-    singer_name: 井上 苑子
+    esong_code: 3562B41
+    t_singer_master_id: '17458'
+    singer_name: NEWS
     singer_alias:
-    available_date: '2015-12-10'
+    available_date: '2015-12-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: すはすた
-    singer_name_ruby: いのうえそのこ
+    song_name_ruby: すひか
+    singer_name_ruby: にゆす
     song_variation:
-    - esong_code: 3565A35
-      song_name: Superstar
+    - esong_code: 3562B41
+      song_name: SPEAKER
       content_type: ''
   - song_name: スピカ
     song_alias:
@@ -295,23 +295,6 @@ result:
     song_variation:
     - esong_code: 3573A9
       song_name: スピカ
-      content_type: ''
-  - song_name: SPEAKER
-    song_alias:
-    esong_code: 3562B41
-    t_singer_master_id: '17458'
-    singer_name: NEWS
-    singer_alias:
-    available_date: '2015-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すひか
-    singer_name_ruby: にゆす
-    song_variation:
-    - esong_code: 3562B41
-      song_name: SPEAKER
       content_type: ''
   - song_name: Speaking
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3573A21
       song_name: せいじゃくのこうしん
+      content_type: ''
+  - song_name: 青春時代
+    song_alias:
+    esong_code: 3570A27
+    t_singer_master_id: '16704'
+    singer_name: 吉井 和哉(YOSHII LOVINSON)
+    singer_alias:
+    available_date: '2015-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せいしゆんしたい
+    singer_name_ruby: よしいかすや
+    song_variation:
+    - esong_code: 3570A27
+      song_name: 青春時代
       content_type: ''

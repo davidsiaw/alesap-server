@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 754
-  all_max_cnt: 832
-  all_country_cnt: 754
+  max_cnt: 749
+  all_max_cnt: 827
+  all_country_cnt: 749
   song:
-  - song_name: ドライブ
-    song_alias:
-    esong_code: 1372B42
-    t_singer_master_id: '2738'
-    singer_name: 斉藤 和義
-    singer_alias:
-    available_date: '2005-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とらいふ
-    singer_name_ruby: さいとうかすよし
-    song_variation:
-    - esong_code: 1372B42
-      song_name: ドライブ
-      content_type: ''
-  - song_name: TRIPOD BABY
-    song_alias:
-    esong_code: 1362A34
-    t_singer_master_id: '24206'
-    singer_name: m-flo loves LISA
-    singer_alias:
-    available_date: '2005-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とらいほつとへい
-    singer_name_ruby: えむふろうらふすりさ
-    song_variation:
-    - esong_code: 1362A34
-      song_name: TRIPOD BABY
-      content_type: ''
   - song_name: 鳥になった少年
     song_alias:
     esong_code: 1384A12
@@ -389,7 +355,7 @@ result:
     singer_alias:
     available_date: '2005-09-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: とらいあんぐるハート3 〜Sweet Songs Forever〜<番組名>
+    tie_up: とらいあんぐるハート(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: なみたのちかい
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1375B11
       song_name: ニューヨークからの手紙
+      content_type: ''
+  - song_name: 人魚のうた (silence ver.)
+    song_alias:
+    esong_code: 1363A34
+    t_singer_master_id: '13583'
+    singer_name: SHAKALABBITS
+    singer_alias:
+    available_date: '2005-09-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にんきよのうた
+    singer_name_ruby: しやからひつつ
+    song_variation:
+    - esong_code: 1363A34
+      song_name: 人魚のうた (silence ver.)
+      content_type: ''
+  - song_name: Naked
+    song_alias:
+    esong_code: 1372A14
+    t_singer_master_id: '21879'
+    singer_name: HIGH and MIGHTY COLOR
+    singer_alias:
+    available_date: '2005-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねいきつと
+    singer_name_ruby: はいあんとまいていから
+    song_variation:
+    - esong_code: 1372A14
+      song_name: Naked
       content_type: ''

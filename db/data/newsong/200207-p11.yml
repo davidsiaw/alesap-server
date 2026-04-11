@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 577
-  all_max_cnt: 650
-  all_country_cnt: 577
+  max_cnt: 574
+  all_max_cnt: 647
+  all_country_cnt: 574
   song:
-  - song_name: TOKYO SLING
-    song_alias:
-    esong_code: 885B34
-    t_singer_master_id: '10464'
-    singer_name: Weiβ Kreuz
-    singer_alias:
-    available_date: '2002-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Weiβ Kreuz<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきようすりんく
-    singer_name_ruby: はいすくろいつ
-    song_variation:
-    - esong_code: 885B34
-      song_name: TOKYO SLING
-      content_type: ''
   - song_name: 東京タワー
     song_alias:
     esong_code: 375B34
@@ -355,7 +338,7 @@ result:
     singer_alias:
     available_date: '2002-07-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: アイドル・プロジェクト 第1期<番組名>
+    tie_up: アイドル・プロジェクト<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とんとすとつふ
@@ -449,23 +432,6 @@ result:
     - esong_code: 879A32
       song_name: 情
       content_type: ''
-  - song_name: 夏願望
-    song_alias:
-    esong_code: 886B28
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2002-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつかんほう
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 886B28
-      song_name: 夏願望
-      content_type: ''
   - song_name: 夏子
     song_alias:
     esong_code: 886B27
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 886A28
       song_name: 夏の片隅で
+      content_type: ''
+  - song_name: 夏の日の少年
+    song_alias:
+    esong_code: 875B22
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2002-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なつのひのしようねん
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 875B22
+      song_name: 夏の日の少年
+      content_type: ''
+  - song_name: なつやすみファンクラブ
+    song_alias:
+    esong_code: 131B40
+    t_singer_master_id: '8588'
+    singer_name: ポケモンキッズ
+    singer_alias:
+    available_date: '2002-07-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ポケットモンスター(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: なつやすみふあんくら
+    singer_name_ruby: ほけもんきつす
+    song_variation:
+    - esong_code: 131B40
+      song_name: なつやすみファンクラブ
       content_type: ''

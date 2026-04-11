@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1020
-  all_max_cnt: 1219
-  all_country_cnt: 1020
+  max_cnt: 1004
+  all_max_cnt: 1203
+  all_country_cnt: 1004
   song:
   - song_name: あの夏が飽和する
     song_alias:
@@ -45,7 +45,7 @@ result:
     song_alias:
     esong_code: 4125A31
     t_singer_master_id: '56946'
-    singer_name: クアイフ
+    singer_name: Qaijff
     singer_alias:
     available_date: '2019-01-15'
     end_date: '2999-04-10 00:00:00'
@@ -194,23 +194,6 @@ result:
     - esong_code: 4124A32
       song_name: ありがとう [DAM本人歌唱]
       content_type: DAM本人歌唱
-  - song_name: ありがとうは言いたくない (松村香織)
-    song_alias:
-    esong_code: 4129B40
-    t_singer_master_id: '37432'
-    singer_name: SKE48
-    singer_alias:
-    available_date: '2019-01-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとうはいいた
-    singer_name_ruby: えすけいふおていえいと
-    song_variation:
-    - esong_code: 4129B40
-      song_name: ありがとうは言いたくない (松村香織)
-      content_type: ''
   - song_name: アルデバランの情炎 [パセラオリジナル]
     song_alias:
     esong_code: 4118A44
@@ -366,23 +349,6 @@ result:
       content_type: ''
   - song_name: un-speakable
     song_alias:
-    esong_code: 4132B11
-    t_singer_master_id: '52314'
-    singer_name: ミオヤマザキ
-    singer_alias:
-    available_date: '2019-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんすひかふる
-    singer_name_ruby: みおやまさき
-    song_variation:
-    - esong_code: 4132B11
-      song_name: un-speakable
-      content_type: ''
-  - song_name: un-speakable
-    song_alias:
     esong_code: 4123B29
     t_singer_master_id: '52314'
     singer_name: ミオヤマザキ
@@ -398,6 +364,23 @@ result:
     - esong_code: 4123B29
       song_name: un-speakable
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: un-speakable
+    song_alias:
+    esong_code: 4132B11
+    t_singer_master_id: '52314'
+    singer_name: ミオヤマザキ
+    singer_alias:
+    available_date: '2019-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんすひかふる
+    singer_name_ruby: みおやまさき
+    song_variation:
+    - esong_code: 4132B11
+      song_name: un-speakable
+      content_type: ''
   - song_name: undercover
     song_alias:
     esong_code: 4130A16
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4127B17
       song_name: UNBROKEN (feat.布袋寅泰)
+      content_type: ''
+  - song_name: YES!! 鮫柄水泳部
+    song_alias:
+    esong_code: 4129B21
+    t_singer_master_id: '63145'
+    singer_name: 宮田 幸季&鈴村 健一&相楽 信頼&菅原 雅芳
+    singer_alias:
+    available_date: '2019-01-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Free! -Dive to the Future-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いえすさめつかすい
+    singer_name_ruby: みやたこうきすすむらけん
+    song_variation:
+    - esong_code: 4129B21
+      song_name: YES!! 鮫柄水泳部
       content_type: ''

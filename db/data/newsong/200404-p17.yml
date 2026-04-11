@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 592
-  all_max_cnt: 727
-  all_country_cnt: 592
+  max_cnt: 588
+  all_max_cnt: 723
+  all_country_cnt: 588
   song:
-  - song_name: 待ったなしだよ人生は
-    song_alias:
-    esong_code: 472A49
-    t_singer_master_id: '920'
-    singer_name: 坂本 冬美
-    singer_alias:
-    available_date: '2004-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まつたなしたよし
-    singer_name_ruby: さかもとふゆみ
-    song_variation:
-    - esong_code: 472A49
-      song_name: 待ったなしだよ人生は
-      content_type: ''
-  - song_name: 待っているわ
-    song_alias:
-    esong_code: 761A4
-    t_singer_master_id: '1359'
-    singer_name: 竹内 まりや
-    singer_alias:
-    available_date: '2004-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まつているわ
-    singer_name_ruby: たけうちまりや
-    song_variation:
-    - esong_code: 761A4
-      song_name: 待っているわ
-      content_type: ''
-  - song_name: MAD
-    song_alias:
-    esong_code: 427B7
-    t_singer_master_id: '18428'
-    singer_name: MAJIMAN
-    singer_alias:
-    available_date: '2004-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まつと
-    singer_name_ruby: ましまん
-    song_variation:
-    - esong_code: 427B7
-      song_name: MAD
-      content_type: ''
   - song_name: マドベーゼ
     song_alias:
     esong_code: 427A2
@@ -145,23 +94,6 @@ result:
       content_type: ''
   - song_name: 右手の旅
     song_alias:
-    esong_code: 414A1
-    t_singer_master_id: '15775'
-    singer_name: 山口 晶
-    singer_alias:
-    available_date: '2004-04-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: みきてのたひ
-    singer_name_ruby: やまくちあきら
-    song_variation:
-    - esong_code: 414A1
-      song_name: 右手の旅
-      content_type: DAM良音
-  - song_name: 右手の旅
-    song_alias:
     esong_code: 414A3
     t_singer_master_id: '15775'
     singer_name: 山口 晶
@@ -177,6 +109,23 @@ result:
     - esong_code: 414A3
       song_name: 右手の旅
       content_type: ''
+  - song_name: 右手の旅
+    song_alias:
+    esong_code: 414A1
+    t_singer_master_id: '15775'
+    singer_name: 山口 晶
+    singer_alias:
+    available_date: '2004-04-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: みきてのたひ
+    singer_name_ruby: やまくちあきら
+    song_variation:
+    - esong_code: 414A1
+      song_name: 右手の旅
+      content_type: DAM良音
   - song_name: Mrブギータンブリンマン
     song_alias:
     esong_code: 366B9
@@ -402,7 +351,7 @@ result:
     song_alias:
     esong_code: 427B6
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2004-04-30'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 289A5
       song_name: 山内公園
+      content_type: ''
+  - song_name: 勇敢なる水兵
+    song_alias:
+    esong_code: 963B18
+    t_singer_master_id: '58009'
+    singer_name: 陸軍戸山学校軍楽隊
+    singer_alias:
+    available_date: '2004-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうかんなるすいへい
+    singer_name_ruby: りくくんとやまかつこうくんかくた
+    song_variation:
+    - esong_code: 963B18
+      song_name: 勇敢なる水兵
+      content_type: ''
+  - song_name: 友情のバロム・クロス
+    song_alias:
+    esong_code: 259A28
+    t_singer_master_id: '2291'
+    singer_name: 水木 一郎&コロムビアゆりかご会
+    singer_alias:
+    available_date: '2004-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 超人バロム1<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうしようのはろ
+    singer_name_ruby: みすきいちろうころむひあ
+    song_variation:
+    - esong_code: 259A28
+      song_name: 友情のバロム・クロス
+      content_type: ''
+  - song_name: 雄踏だより
+    song_alias:
+    esong_code: 453B48
+    t_singer_master_id: '1699'
+    singer_name: 成世 昌平
+    singer_alias:
+    available_date: '2004-04-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうとうたより
+    singer_name_ruby: なるせしようへい
+    song_variation:
+    - esong_code: 453B48
+      song_name: 雄踏だより
       content_type: ''

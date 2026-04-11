@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
   - song_name: 恋は花いろ女いろ
     song_alias:
@@ -281,23 +281,6 @@ result:
       content_type: ''
   - song_name: COSMIC BOX
     song_alias:
-    esong_code: 2440B32
-    t_singer_master_id: '7891'
-    singer_name: YUKI
-    singer_alias:
-    available_date: '2009-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: こすみつくほつく
-    singer_name_ruby: ゆき
-    song_variation:
-    - esong_code: 2440B32
-      song_name: COSMIC BOX
-      content_type: DAM生音
-  - song_name: COSMIC BOX
-    song_alias:
     esong_code: 2456B25
     t_singer_master_id: '7891'
     singer_name: YUKI
@@ -313,6 +296,23 @@ result:
     - esong_code: 2456B25
       song_name: COSMIC BOX
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: COSMIC BOX
+    song_alias:
+    esong_code: 2440B32
+    t_singer_master_id: '7891'
+    singer_name: YUKI
+    singer_alias:
+    available_date: '2009-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: こすみつくほつく
+    singer_name_ruby: ゆき
+    song_variation:
+    - esong_code: 2440B32
+      song_name: COSMIC BOX
+      content_type: DAM生音
   - song_name: 秋桜
     song_alias:
     esong_code: 2445B49

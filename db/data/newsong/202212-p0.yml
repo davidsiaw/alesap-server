@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1102
-  all_max_cnt: 1255
-  all_country_cnt: 1102
+  max_cnt: 1080
+  all_max_cnt: 1232
+  all_country_cnt: 1080
   song:
   - song_name: あゝ七瀬川
     song_alias:
@@ -60,23 +60,6 @@ result:
       content_type: VOCALOID
   - song_name: 相合い傘
     song_alias:
-    esong_code: 4717B48
-    t_singer_master_id: '2230'
-    singer_name: 松前 ひろ子
-    singer_alias:
-    available_date: '2022-12-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あいあいかさ
-    singer_name_ruby: まつまえひろこ
-    song_variation:
-    - esong_code: 4717B48
-      song_name: 相合い傘
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 相合い傘
-    song_alias:
     esong_code: 4596B48
     t_singer_master_id: '2230'
     singer_name: 松前 ひろ子
@@ -92,6 +75,23 @@ result:
     - esong_code: 4596B48
       song_name: 相合い傘
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 相合い傘
+    song_alias:
+    esong_code: 4717B48
+    t_singer_master_id: '2230'
+    singer_name: 松前 ひろ子
+    singer_alias:
+    available_date: '2022-12-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あいあいかさ
+    singer_name_ruby: まつまえひろこ
+    song_variation:
+    - esong_code: 4717B48
+      song_name: 相合い傘
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: I am
     song_alias:
     esong_code: 4723A10

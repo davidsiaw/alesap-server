@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1324
-  all_max_cnt: 1489
-  all_country_cnt: 1324
+  max_cnt: 1317
+  all_max_cnt: 1482
+  all_country_cnt: 1317
   song:
-  - song_name: 最後のLove song (デュエット:ERIKO)
-    song_alias:
-    esong_code: 3548B17
-    t_singer_master_id: '15011'
-    singer_name: 加納 ひろし(嘉納ひろし)
-    singer_alias:
-    available_date: '2015-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいこのらふそん
-    singer_name_ruby: かのうひろし
-    song_variation:
-    - esong_code: 3548B17
-      song_name: 最後のLove song (デュエット:ERIKO)
-      content_type: ''
   - song_name: 最後もやっぱり君
     song_alias:
     esong_code: 3547A11
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3559B18
       song_name: さみしがりや
+      content_type: ''
+  - song_name: THE MUSIC feat.VERBAL
+    song_alias:
+    esong_code: 3527B26
+    t_singer_master_id: '2658'
+    singer_name: 和田 アキ子
+    singer_alias:
+    available_date: '2015-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さみゆしつく
+    singer_name_ruby: わたあきこ
+    song_variation:
+    - esong_code: 3527B26
+      song_name: THE MUSIC feat.VERBAL
       content_type: ''

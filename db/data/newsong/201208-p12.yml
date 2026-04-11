@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
   - song_name: 恋のモテモテ大作戦!!
     song_alias:
@@ -347,23 +347,6 @@ result:
     - esong_code: 2835A49
       song_name: cocoro
       content_type: ''
-  - song_name: 心のふるさと
-    song_alias:
-    esong_code: 2842B48
-    t_singer_master_id: '36550'
-    singer_name: 北奈 たかし
-    singer_alias:
-    available_date: '2012-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころのふるさと
-    singer_name_ruby: きたなたかし
-    song_variation:
-    - esong_code: 2842B48
-      song_name: 心のふるさと
-      content_type: ''
   - song_name: ココロの故郷
     song_alias:
     esong_code: 2831B37
@@ -380,6 +363,23 @@ result:
     song_variation:
     - esong_code: 2831B37
       song_name: ココロの故郷
+      content_type: ''
+  - song_name: 心のふるさと
+    song_alias:
+    esong_code: 2842B48
+    t_singer_master_id: '36550'
+    singer_name: 北奈 たかし
+    singer_alias:
+    available_date: '2012-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころのふるさと
+    singer_name_ruby: きたなたかし
+    song_variation:
+    - esong_code: 2842B48
+      song_name: 心のふるさと
       content_type: ''
   - song_name: 心の理由 feat.般若
     song_alias:

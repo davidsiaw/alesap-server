@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1130
-  all_country_cnt: 1031
+  max_cnt: 1019
+  all_max_cnt: 1118
+  all_country_cnt: 1019
   song:
-  - song_name: Starting Now 〜新しい私へ
-    song_alias:
-    esong_code: 4515A28
-    t_singer_master_id: '68086'
-    singer_name: 清水 美依紗
-    singer_alias:
-    available_date: '2021-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すたていんくなう
-    singer_name_ruby: しみすみいしや
-    song_variation:
-    - esong_code: 4515A28
-      song_name: Starting Now 〜新しい私へ
-      content_type: ''
-  - song_name: STAND UP TO THE VICTORY -トゥ・ザ・ヴィクトリー- (TVサイズ)
-    song_alias:
-    esong_code: 4511B7
-    t_singer_master_id: '2967'
-    singer_name: 川添 智久
-    singer_alias:
-    available_date: '2021-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 機動戦士Vガンダム<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: すたんとあつふと
-    singer_name_ruby: かわそえともひさ
-    song_variation:
-    - esong_code: 4511B7
-      song_name: STAND UP TO THE VICTORY -トゥ・ザ・ヴィクトリー- (TVサイズ)
-      content_type: ''
-  - song_name: ずっとずっとずっと
-    song_alias:
-    esong_code: 4513A43
-    t_singer_master_id: '57930'
-    singer_name: 緑黄色社会
-    singer_alias:
-    available_date: '2021-06-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すつとすつとす
-    singer_name_ruby: りよくおうしよくしやかい
-    song_variation:
-    - esong_code: 4513A43
-      song_name: ずっとずっとずっと
-      content_type: ''
-  - song_name: Stay Tuned
-    song_alias:
-    esong_code: 4512A44
-    t_singer_master_id: '51595'
-    singer_name: FAKE TYPE.
-    singer_alias:
-    available_date: '2021-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すていちゆんと
-    singer_name_ruby: ふえいくたいふ
-    song_variation:
-    - esong_code: 4512A44
-      song_name: Stay Tuned
-      content_type: ''
-  - song_name: Struggle On
-    song_alias:
-    esong_code: 4507A12
-    t_singer_master_id: '67998'
-    singer_name: 結月ゆかりMμ
-    singer_alias:
-    available_date: '2021-06-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すとらくるおん
-    singer_name_ruby: ゆつきゆかりみゆ
-    song_variation:
-    - esong_code: 4507A12
-      song_name: Struggle On
-      content_type: ''
   - song_name: ストーリーズ (feat.ひらめ)
     song_alias:
     esong_code: 4508A32
@@ -366,23 +281,6 @@ result:
       content_type: DAM生音
   - song_name: 閃光
     song_alias:
-    esong_code: 4507A45
-    t_singer_master_id: '38639'
-    singer_name: "[Alexandros]"
-    singer_alias:
-    available_date: '2021-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 機動戦士ガンダム(劇場版)<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: せんこう
-    singer_name_ruby: あれきさんとろす
-    song_variation:
-    - esong_code: 4507A45
-      song_name: 閃光
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 閃光
-    song_alias:
     esong_code: 4509A32
     t_singer_master_id: '38639'
     singer_name: "[Alexandros]"
@@ -398,6 +296,23 @@ result:
     - esong_code: 4509A32
       song_name: 閃光
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 閃光
+    song_alias:
+    esong_code: 4507A45
+    t_singer_master_id: '38639'
+    singer_name: "[Alexandros]"
+    singer_alias:
+    available_date: '2021-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 機動戦士ガンダム(劇場版)<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: せんこう
+    singer_name_ruby: あれきさんとろす
+    song_variation:
+    - esong_code: 4507A45
+      song_name: 閃光
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: SENSENFUKOKU
     song_alias:
     esong_code: 4511B44
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 4510B38
       song_name: 全部 夢のまま
+      content_type: ''
+  - song_name: 千夜アリア
+    song_alias:
+    esong_code: 4514B29
+    t_singer_master_id: '66310'
+    singer_name: 八巻 アンナ
+    singer_alias:
+    available_date: '2021-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター シャイニーカラーズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: せんやありあ
+    singer_name_ruby: やまきあんな
+    song_variation:
+    - esong_code: 4514B29
+      song_name: 千夜アリア
+      content_type: ''
+  - song_name: 相殺微量サイレンス
+    song_alias:
+    esong_code: 4516B48
+    t_singer_master_id: '15750'
+    singer_name: ROTTENGRAFFTY
+    singer_alias:
+    available_date: '2021-06-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そうさいひりようさ
+    singer_name_ruby: ろつとんくらふてい
+    song_variation:
+    - esong_code: 4516B48
+      song_name: 相殺微量サイレンス
+      content_type: ''
+  - song_name: そこにあったから
+    song_alias:
+    esong_code: 4514B14
+    t_singer_master_id: '58664'
+    singer_name: MONO NO AWARE
+    singer_alias:
+    available_date: '2021-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そこにあつたから
+    singer_name_ruby: もののあわれ
+    song_variation:
+    - esong_code: 4514B14
+      song_name: そこにあったから
+      content_type: ''
+  - song_name: そしたら
+    song_alias:
+    esong_code: 4519B28
+    t_singer_master_id: '41420'
+    singer_name: 星野 源
+    singer_alias:
+    available_date: '2021-06-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そしたら
+    singer_name_ruby: ほしのけん
+    song_variation:
+    - esong_code: 4519B28
+      song_name: そしたら
+      content_type: ''
+  - song_name: そして・・・男は
+    song_alias:
+    esong_code: 164A5
+    t_singer_master_id: '2190'
+    singer_name: 増位山 太志郎
+    singer_alias:
+    available_date: '2021-06-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そしておとこは
+    singer_name_ruby: ますいやまたいしろう
+    song_variation:
+    - esong_code: 164A5
+      song_name: そして・・・男は
       content_type: ''

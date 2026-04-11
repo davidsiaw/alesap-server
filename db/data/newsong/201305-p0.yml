@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
   - song_name: I AM THE BEST (2012ver.)
     song_alias:
@@ -43,6 +43,23 @@ result:
       content_type: ''
   - song_name: 愛詞(あいことば)
     song_alias:
+    esong_code: 3042B18
+    t_singer_master_id: '13066'
+    singer_name: 中島 美嘉
+    singer_alias:
+    available_date: '2013-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 宇宙戦艦ヤマト2199<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいことは
+    singer_name_ruby: なかしまみか
+    song_variation:
+    - esong_code: 3042B18
+      song_name: 愛詞(あいことば)
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 愛詞(あいことば)
+    song_alias:
     esong_code: 3031A37
     t_singer_master_id: '13066'
     singer_name: 中島 美嘉
@@ -75,23 +92,6 @@ result:
     - esong_code: 3041A35
       song_name: 愛言葉 with CIMBA
       content_type: ''
-  - song_name: 愛詞(あいことば)
-    song_alias:
-    esong_code: 3042B18
-    t_singer_master_id: '13066'
-    singer_name: 中島 美嘉
-    singer_alias:
-    available_date: '2013-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 宇宙戦艦ヤマト2199<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あいことは
-    singer_name_ruby: なかしまみか
-    song_variation:
-    - esong_code: 3042B18
-      song_name: 愛詞(あいことば)
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: アイサレタイノニ・・・
     song_alias:
     esong_code: 3043B4
@@ -183,7 +183,7 @@ result:
     t_singer_master_id: '542'
     singer_name: 門倉 有希
     singer_alias:
-    available_date: '2013-05-21'
+    available_date: '2013-05-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -383,23 +383,6 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 愛のせせらぎ
     song_alias:
-    esong_code: 2383B29
-    t_singer_master_id: '6239'
-    singer_name: 岩本 公水
-    singer_alias:
-    available_date: '2013-05-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのせせらき
-    singer_name_ruby: いわもとくみ
-    song_variation:
-    - esong_code: 2383B29
-      song_name: 愛のせせらぎ
-      content_type: ''
-  - song_name: 愛のせせらぎ
-    song_alias:
     esong_code: 3035A25
     t_singer_master_id: '6239'
     singer_name: 岩本 公水
@@ -415,13 +398,30 @@ result:
     - esong_code: 3035A25
       song_name: 愛のせせらぎ
       content_type: DAM生音
+  - song_name: 愛のせせらぎ
+    song_alias:
+    esong_code: 2383B29
+    t_singer_master_id: '6239'
+    singer_name: 岩本 公水
+    singer_alias:
+    available_date: '2013-05-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのせせらき
+    singer_name_ruby: いわもとくみ
+    song_variation:
+    - esong_code: 2383B29
+      song_name: 愛のせせらぎ
+      content_type: ''
   - song_name: 愛の未来 -I Saw The Light-
     song_alias:
     esong_code: 3034B29
     t_singer_master_id: '28851'
     singer_name: UNCHAIN
     singer_alias:
-    available_date: '2013-05-01'
+    available_date: '2013-05-31'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -502,18 +502,18 @@ result:
       content_type: ''
   - song_name: I LOVE YOU
     song_alias:
-    esong_code: 3031A2
-    t_singer_master_id: '8599'
-    singer_name: 堂本 剛(from KinKi Kids)
+    esong_code: 9B2
+    t_singer_master_id: '777'
+    singer_name: 桑名 晴子(HALKO)
     singer_alias:
-    available_date: '2013-05-08'
+    available_date: '2013-05-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: あいらふゆ
-    singer_name_ruby: とうもとつよし
+    singer_name_ruby: くわなはるこ
     song_variation:
-    - esong_code: 3031A2
+    - esong_code: 9B2
       song_name: I LOVE YOU
       content_type: ''

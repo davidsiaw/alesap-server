@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 776
-  all_max_cnt: 829
-  all_country_cnt: 776
+  max_cnt: 761
+  all_max_cnt: 814
+  all_country_cnt: 761
   song:
-  - song_name: 愚かな英雄
-    song_alias:
-    esong_code: 350A7
-    t_singer_master_id: '13215'
-    singer_name: 氣志團
-    singer_alias:
-    available_date: '2004-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おろかなえいゆう
-    singer_name_ruby: きしたん
-    song_variation:
-    - esong_code: 350A7
-      song_name: 愚かな英雄
-      content_type: ''
-  - song_name: ON AND ON
-    song_alias:
-    esong_code: 384A10
-    t_singer_master_id: '13497'
-    singer_name: OZROSAURUS
-    singer_alias:
-    available_date: '2004-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんあんとおん
-    singer_name_ruby: おしろさうるす
-    song_variation:
-    - esong_code: 384A10
-      song_name: ON AND ON
-      content_type: ''
-  - song_name: 雪女(おんな)舞い
-    song_alias:
-    esong_code: 408B4
-    t_singer_master_id: '18678'
-    singer_name: 宮下 和香
-    singer_alias:
-    available_date: '2004-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなまい
-    singer_name_ruby: みやしたわか
-    song_variation:
-    - esong_code: 408B4
-      song_name: 雪女(おんな)舞い
-      content_type: ''
-  - song_name: 怪獣王ターガン
-    song_alias:
-    esong_code: 793B11
-    t_singer_master_id: '5402'
-    singer_name: みすず児童合唱団
-    singer_alias:
-    available_date: '2004-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 怪獣王ターガン THE HERCULOIDS<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かいしゆうおうた
-    singer_name_ruby: みすすしとう
-    song_variation:
-    - esong_code: 793B11
-      song_name: 怪獣王ターガン
-      content_type: ''
-  - song_name: 帰らぬ人
-    song_alias:
-    esong_code: 394B1
-    t_singer_master_id: '5987'
-    singer_name: MUCC(ムック)
-    singer_alias:
-    available_date: '2004-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かえらぬひと
-    singer_name_ruby: むつく
-    song_variation:
-    - esong_code: 394B1
-      song_name: 帰らぬ人
-      content_type: ''
   - song_name: 影ふみのワルツ
     song_alias:
     esong_code: 973B28
@@ -160,23 +75,6 @@ result:
     - esong_code: 368A13
       song_name: カザハナ
       content_type: ''
-  - song_name: 風花の恋
-    song_alias:
-    esong_code: 394B9
-    t_singer_master_id: '541'
-    singer_name: 角川 博
-    singer_alias:
-    available_date: '2004-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かさはなのこい
-    singer_name_ruby: かとかわひろし
-    song_variation:
-    - esong_code: 394B9
-      song_name: 風花の恋
-      content_type: DAM生音
   - song_name: 傘をあげる
     song_alias:
     esong_code: 413A6
@@ -247,23 +145,6 @@ result:
       content_type: ''
   - song_name: 風のみち
     song_alias:
-    esong_code: 392A6
-    t_singer_master_id: '1035'
-    singer_name: 島倉 千代子
-    singer_alias:
-    available_date: '2004-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かせのみち
-    singer_name_ruby: しまくらちよこ
-    song_variation:
-    - esong_code: 392A6
-      song_name: 風のみち
-      content_type: DAM生音
-  - song_name: 風のみち
-    song_alias:
     esong_code: 216A10
     t_singer_master_id: '1035'
     singer_name: 島倉 千代子
@@ -279,6 +160,23 @@ result:
     - esong_code: 216A10
       song_name: 風のみち
       content_type: ''
+  - song_name: 風のみち
+    song_alias:
+    esong_code: 392A6
+    t_singer_master_id: '1035'
+    singer_name: 島倉 千代子
+    singer_alias:
+    available_date: '2004-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: かせのみち
+    singer_name_ruby: しまくらちよこ
+    song_variation:
+    - esong_code: 392A6
+      song_name: 風のみち
+      content_type: DAM生音
   - song_name: 風は翼に乗る 翼は風に乗る
     song_alias:
     esong_code: 31A22
@@ -389,7 +287,7 @@ result:
     singer_alias:
     available_date: '2004-03-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面天使ロゼッタ 漆黒のフレイア<番組名>
+    tie_up: 仮面天使ロゼッタ THE MASKED ANGEL<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かめんてんしろせつ
@@ -500,20 +398,122 @@ result:
     - esong_code: 366B12
       song_name: カレイドスコープ
       content_type: ''
-  - song_name: 河内の次郎長
+  - song_name: 変わらぬ 「青」
     song_alias:
-    esong_code: 399A11
-    t_singer_master_id: '2270'
-    singer_name: 三門 忠司
+    esong_code: 388B9
+    t_singer_master_id: '18584'
+    singer_name: やなわらばー
+    singer_alias:
+    available_date: '2004-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かわらぬあお
+    singer_name_ruby: やなわらは
+    song_variation:
+    - esong_code: 388B9
+      song_name: 変わらぬ 「青」
+      content_type: ''
+  - song_name: country road
+    song_alias:
+    esong_code: 418A3
+    t_singer_master_id: '7252'
+    singer_name: Every Little Thing
+    singer_alias:
+    available_date: '2004-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんとりろと
+    singer_name_ruby: えふりりとるしんく
+    song_variation:
+    - esong_code: 418A3
+      song_name: country road
+      content_type: ''
+  - song_name: 寒ひばり
+    song_alias:
+    esong_code: 606A15
+    t_singer_master_id: '5434'
+    singer_name: キム・ランヒ(金蘭姫)
     singer_alias:
     available_date: '2004-03-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かわちのしろちよう
-    singer_name_ruby: みかとちゆうし
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: かんひはり
+    singer_name_ruby: きむらんひ
     song_variation:
-    - esong_code: 399A11
-      song_name: 河内の次郎長
+    - esong_code: 606A15
+      song_name: 寒ひばり
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 紀伊水道
+    song_alias:
+    esong_code: 392A9
+    t_singer_master_id: '1047'
+    singer_name: 島津 悦子
+    singer_alias:
+    available_date: '2004-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: きいすいとう
+    singer_name_ruby: しまつえつこ
+    song_variation:
+    - esong_code: 392A9
+      song_name: 紀伊水道
       content_type: DAM生音
+  - song_name: きさらぎの川
+    song_alias:
+    esong_code: 389A8
+    t_singer_master_id: '1354'
+    singer_name: 多岐川 舞子
+    singer_alias:
+    available_date: '2004-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: きさらきのわか
+    singer_name_ruby: たきかわまいこ
+    song_variation:
+    - esong_code: 389A8
+      song_name: きさらぎの川
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 岸辺のフォトグラフ
+    song_alias:
+    esong_code: 407B7
+    t_singer_master_id: '2056'
+    singer_name: ブレッド&バター
+    singer_alias:
+    available_date: '2004-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: タッチ(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きしへのふおとく
+    singer_name_ruby: ふれつとあんと
+    song_variation:
+    - esong_code: 407B7
+      song_name: 岸辺のフォトグラフ
+      content_type: ''
+  - song_name: 傷つくこともできない
+    song_alias:
+    esong_code: 944B10
+    t_singer_master_id: '7036'
+    singer_name: 梶谷 美由紀
+    singer_alias:
+    available_date: '2004-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 爆走兄弟レッツ&ゴー!!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすつくこともて
+    singer_name_ruby: かしたにみゆき
+    song_variation:
+    - esong_code: 944B10
+      song_name: 傷つくこともできない
+      content_type: ''

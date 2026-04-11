@@ -3,129 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 916
-  all_max_cnt: 1018
-  all_country_cnt: 916
+  max_cnt: 905
+  all_max_cnt: 1007
+  all_country_cnt: 905
   song:
-  - song_name: ジョニーウォーカー
-    song_alias:
-    esong_code: 4635A45
-    t_singer_master_id: '60323'
-    singer_name: フィロソフィーのダンス
-    singer_alias:
-    available_date: '2022-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよにうおか
-    singer_name_ruby: ふいろそふいのたんす
-    song_variation:
-    - esong_code: 4635A45
-      song_name: ジョニーウォーカー
-      content_type: ''
-  - song_name: ショービズ
-    song_alias:
-    esong_code: 4635B2
-    t_singer_master_id: '42680'
-    singer_name: ももいろクローバーZ(ももいろクローバー)
-    singer_alias:
-    available_date: '2022-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよひす
-    singer_name_ruby: ももいろくろはせつと
-    song_variation:
-    - esong_code: 4635B2
-      song_name: ショービズ
-      content_type: ''
-  - song_name: 知らん。
-    song_alias:
-    esong_code: 4631A20
-    t_singer_master_id: '68336'
-    singer_name: アオワイファイ
-    singer_alias:
-    available_date: '2022-05-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: しらん
-    singer_name_ruby: あおわいふあい
-    song_variation:
-    - esong_code: 4631A20
-      song_name: 知らん。
-      content_type: VOCALOID
-  - song_name: 心気楼
-    song_alias:
-    esong_code: 4631A8
-    t_singer_master_id: '53326'
-    singer_name: SOARA
-    singer_alias:
-    available_date: '2022-05-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: TSUKIPRO SERIES<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんきろう
-    singer_name_ruby: そあら
-    song_variation:
-    - esong_code: 4631A8
-      song_name: 心気楼
-      content_type: ''
-  - song_name: じんせいいちどだろ
-    song_alias:
-    esong_code: 4627B14
-    t_singer_master_id: '69513'
-    singer_name: Ge's
-    singer_alias:
-    available_date: '2022-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんせいいちとた
-    singer_name_ruby: しいす
-    song_variation:
-    - esong_code: 4627B14
-      song_name: じんせいいちどだろ
-      content_type: ''
-  - song_name: 人生本番待ったなし
-    song_alias:
-    esong_code: 2916A48
-    t_singer_master_id: '69458'
-    singer_name: 泉 俊輔
-    singer_alias:
-    available_date: '2022-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんせいほんはん
-    singer_name_ruby: いすみしゆんすけ
-    song_variation:
-    - esong_code: 2916A48
-      song_name: 人生本番待ったなし
-      content_type: ''
-  - song_name: しんどいね。
-    song_alias:
-    esong_code: 4639B14
-    t_singer_master_id: '69700'
-    singer_name: マイキ
-    singer_alias:
-    available_date: '2022-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんといね
-    singer_name_ruby: まいき
-    song_variation:
-    - esong_code: 4639B14
-      song_name: しんどいね。
-      content_type: ''
   - song_name: 審美眼
     song_alias:
     esong_code: 4627A31
@@ -196,23 +77,6 @@ result:
       content_type: ''
   - song_name: 酔中花
     song_alias:
-    esong_code: 4332B22
-    t_singer_master_id: '920'
-    singer_name: 坂本 冬美
-    singer_alias:
-    available_date: '2022-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すいちゆうか
-    singer_name_ruby: さかもとふゆみ
-    song_variation:
-    - esong_code: 4332B22
-      song_name: 酔中花
-      content_type: ''
-  - song_name: 酔中花
-    song_alias:
     esong_code: 4561B48
     t_singer_master_id: '920'
     singer_name: 坂本 冬美
@@ -228,6 +92,23 @@ result:
     - esong_code: 4561B48
       song_name: 酔中花
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 酔中花
+    song_alias:
+    esong_code: 4332B22
+    t_singer_master_id: '920'
+    singer_name: 坂本 冬美
+    singer_alias:
+    available_date: '2022-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すいちゆうか
+    singer_name_ruby: さかもとふゆみ
+    song_variation:
+    - esong_code: 4332B22
+      song_name: 酔中花
+      content_type: ''
   - song_name: 睡魔
     song_alias:
     esong_code: 4626B16
@@ -517,3 +398,122 @@ result:
     - esong_code: 4627A16
       song_name: STAGE OF SEKAI feat.初音ミク
       content_type: VOCALOID
+  - song_name: 捨て猫みたいに
+    song_alias:
+    esong_code: 4628A21
+    t_singer_master_id: '61082'
+    singer_name: こころ 妃富美
+    singer_alias:
+    available_date: '2022-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すてねこみたいに
+    singer_name_ruby: こころひとみ
+    song_variation:
+    - esong_code: 4628A21
+      song_name: 捨て猫みたいに
+      content_type: ''
+  - song_name: Storm chaser
+    song_alias:
+    esong_code: 4629A34
+    t_singer_master_id: '21930'
+    singer_name: 東方神起
+    singer_alias:
+    available_date: '2022-05-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すとむちえいさ
+    singer_name_ruby: とうほうしんき
+    song_variation:
+    - esong_code: 4629A34
+      song_name: Storm chaser
+      content_type: ''
+  - song_name: スノーマジックファンタジー
+    song_alias:
+    esong_code: 4633B29
+    t_singer_master_id: '55163'
+    singer_name: 高橋 李依
+    singer_alias:
+    available_date: '2022-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: からかい上手の高木さん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すのましつくふあ
+    singer_name_ruby: たかはしりえ
+    song_variation:
+    - esong_code: 4633B29
+      song_name: スノーマジックファンタジー
+      content_type: ''
+  - song_name: スーパーヒーロー
+    song_alias:
+    esong_code: 4631A6
+    t_singer_master_id: '63151'
+    singer_name: しまさか
+    singer_alias:
+    available_date: '2022-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すはひろ
+    singer_name_ruby: しまさか
+    song_variation:
+    - esong_code: 4631A6
+      song_name: スーパーヒーロー
+      content_type: ''
+  - song_name: 素晴らしい世界
+    song_alias:
+    esong_code: 4633A7
+    t_singer_master_id: '15467'
+    singer_name: 森山 直太朗
+    singer_alias:
+    available_date: '2022-05-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すはらしいせかい
+    singer_name_ruby: もりやまなおたろう
+    song_variation:
+    - esong_code: 4633A7
+      song_name: 素晴らしい世界
+      content_type: ''
+  - song_name: スピってる
+    song_alias:
+    esong_code: 4635A33
+    t_singer_master_id: '69634'
+    singer_name: 北小路 ヒスイ(from にじさんじ)
+    singer_alias:
+    available_date: '2022-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すひつてる
+    singer_name_ruby: きたこうしひすいにしさんし
+    song_variation:
+    - esong_code: 4635A33
+      song_name: スピってる
+      content_type: ''
+  - song_name: Spring Letter(s)!
+    song_alias:
+    esong_code: 4633B4
+    t_singer_master_id: '69629'
+    singer_name: 雁矢よしの&水茎あやめ&金魚鉢たより
+    singer_alias:
+    available_date: '2022-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Princess Letter(s)! フロムアイドル<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すふりんくれた
+    singer_name_ruby: かりやよしのみすくきあやめきんきよはちたよ
+    song_variation:
+    - esong_code: 4633B4
+      song_name: Spring Letter(s)!
+      content_type: ''

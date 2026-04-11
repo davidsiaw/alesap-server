@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
-  - song_name: 常総ソーラン節
-    song_alias:
-    esong_code: 3079A22
-    t_singer_master_id: '6518'
-    singer_name: 川神 あい(木村悠希)
-    singer_alias:
-    available_date: '2013-07-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようそうそらん
-    singer_name_ruby: かわかみあい
-    song_variation:
-    - esong_code: 3079A22
-      song_name: 常総ソーラン節
-      content_type: ''
-  - song_name: 冗談じゃない
-    song_alias:
-    esong_code: 3088B17
-    t_singer_master_id: '48183'
-    singer_name: よかにせどん浩輔
-    singer_alias:
-    available_date: '2013-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようたんしや
-    singer_name_ruby: よかにせとんこうすけ
-    song_variation:
-    - esong_code: 3088B17
-      song_name: 冗談じゃない
-      content_type: ''
   - song_name: 情熱 〜あつき思い〜
     song_alias:
     esong_code: 3070B12
@@ -517,3 +483,37 @@ result:
     - esong_code: 3079A12
       song_name: sweet spider
       content_type: ''
+  - song_name: スイヘイリーベと僕の舟
+    song_alias:
+    esong_code: 3075A44
+    t_singer_master_id: '43950'
+    singer_name: 村人P(ラムネ)
+    singer_alias:
+    available_date: '2013-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: すいへいりへとほ
+    singer_name_ruby: むらひとひ
+    song_variation:
+    - esong_code: 3075A44
+      song_name: スイヘイリーベと僕の舟
+      content_type: VOCALOID
+  - song_name: スイヘイリーベと僕の舟
+    song_alias:
+    esong_code: 3081B32
+    t_singer_master_id: '43950'
+    singer_name: 村人P(ラムネ)
+    singer_alias:
+    available_date: '2013-07-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: すいへいりへとほ
+    singer_name_ruby: むらひとひ
+    song_variation:
+    - esong_code: 3081B32
+      song_name: スイヘイリーベと僕の舟
+      content_type: VOCALOID

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1114
-  all_max_cnt: 1275
-  all_country_cnt: 1114
+  max_cnt: 1110
+  all_max_cnt: 1271
+  all_country_cnt: 1110
   song:
-  - song_name: トゥルーエンド プレイヤー
-    song_alias:
-    esong_code: 3384B35
-    t_singer_master_id: '45514'
-    singer_name: アイドルカレッジ
-    singer_alias:
-    available_date: '2015-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 神次次元ゲイム ネプテューヌRe;Birth3 V CENTURY<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうるえんとふ
-    singer_name_ruby: あいとるかれつし
-    song_variation:
-    - esong_code: 3384B35
-      song_name: トゥルーエンド プレイヤー
-      content_type: ''
   - song_name: 遠野恋しや
     song_alias:
     esong_code: 1406B49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3388A27
       song_name: 名古屋センセーション
+      content_type: ''
+  - song_name: 梨空レインボー
+    song_alias:
+    esong_code: 3384A47
+    t_singer_master_id: '49312'
+    singer_name: ふなっしー
+    singer_alias:
+    available_date: '2015-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なしそられいんほ
+    singer_name_ruby: ふなつし
+    song_variation:
+    - esong_code: 3384A47
+      song_name: 梨空レインボー
       content_type: ''

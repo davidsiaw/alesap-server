@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: Beautiful World
-    song_alias:
-    esong_code: 2999B22
-    t_singer_master_id: '33628'
-    singer_name: FTISLAND
-    singer_alias:
-    available_date: '2013-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひゆていふるわ
-    singer_name_ruby: えふていあいらんと
-    song_variation:
-    - esong_code: 2999B22
-      song_name: Beautiful World
-      content_type: ''
   - song_name: BEAUTIFUL WORLD
     song_alias:
     esong_code: 3015A24
@@ -98,9 +81,9 @@ result:
     t_singer_master_id: '15296'
     singer_name: FLOW
     singer_alias:
-    available_date: '2013-03-19'
+    available_date: '2013-03-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボールZ 神と神<番組名>
+    tie_up: DRAGON BALL(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひろきほうのう
@@ -517,3 +500,20 @@ result:
     - esong_code: 2997A3
       song_name: Fated
       content_type: ''
+  - song_name: feather the world feat.aki
+    song_alias:
+    esong_code: 3009A37
+    t_singer_master_id: '36337'
+    singer_name: SOUND HOLIC
+    singer_alias:
+    available_date: '2013-03-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方文花帖 〜Shoot the Bullet<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: ふえささわる
+    singer_name_ruby: さうんとほりつく
+    song_variation:
+    - esong_code: 3009A37
+      song_name: feather the world feat.aki
+      content_type: 東方

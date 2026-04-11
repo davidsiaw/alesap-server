@@ -12,12 +12,40 @@ services:
       VIRTUAL_PORT: 3000
       RAILS_ENV: production
       RAILS_MASTER_KEY: ${ALESAP_MASTER_KEY}
-      ALLOWED_ORIGINS: alesap.astrobunny.net
-    container_name: rz
+      ALLOWED_ORIGINS: alesap.astrobunny.net,alesap.blankaex.reisen,192.168.1.4:4567
+      DATABASE_URL: ${ALESAP_DB_URL}
+      THING: 1
+    container_name: alesap
+    networks:
+      - alesap
+
+  alesap-db:
+    image: postgres:17
+    deploy:
+      update_config:
+        order: stop-first
+    environment:
+      POSTGRES_PASSWORD: ${ALESAP_PG_PASS}
+      POSTGRES_USER: ${ALESAP_PG_USER}
+      POSTGRES_DB: ${ALESAP_PG_DB}
+      POSTGRES_HOST_AUTH_METHOD: trust
+    container_name: alesap-db
     volumes:
-      - alesap-server:/srv/postgres
-    network_mode: bridge
-        
+      - alesap-data:/var/lib/postgresql/data
+      - postgres-config:/etc/postgresql
+    networks:
+      - alesap
+    ports:
+      - 5432
+    sysctls:
+        - net.ipv6.conf.all.disable_ipv6=1
+    command: postgres -c 'config_file=/etc/postgresql/postgresql.conf';
 volumes:
-  alesap-server:
+  alesap-data:
+    external: true
+  postgres-config:
+    external: true
+
+networks:
+  alesap:
     external: true

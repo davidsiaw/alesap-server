@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
+  - song_name: 禁断症状
+    song_alias:
+    esong_code: 1992B43
+    t_singer_master_id: '28285'
+    singer_name: LuLu
+    singer_alias:
+    available_date: '2008-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きんたんしようし
+    singer_name_ruby: るる
+    song_variation:
+    - esong_code: 1992B43
+      song_name: 禁断症状
+      content_type: ''
   - song_name: 銀杏城(熊本城を歌う)
     song_alias:
     esong_code: 1998A20
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1994A11
       song_name: glowly days
-      content_type: ''
-  - song_name: K
-    song_alias:
-    esong_code: 1987A44
-    t_singer_master_id: '25339'
-    singer_name: Metis
-    singer_alias:
-    available_date: '2008-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けい
-    singer_name_ruby: めていす
-    song_variation:
-    - esong_code: 1987A44
-      song_name: K
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: Boohoo
-    song_alias:
-    esong_code: 2899A18
-    t_singer_master_id: '38511'
-    singer_name: androp
-    singer_alias:
-    available_date: '2012-10-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふふ
-    singer_name_ruby: あんとろつふ
-    song_variation:
-    - esong_code: 2899A18
-      song_name: Boohoo
-      content_type: ''
-  - song_name: 冬いちご
-    song_alias:
-    esong_code: 2923A29
-    t_singer_master_id: '32292'
-    singer_name: 福島 一兵
-    singer_alias:
-    available_date: '2012-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふゆいちこ
-    singer_name_ruby: ふくしまいつへい
-    song_variation:
-    - esong_code: 2923A29
-      song_name: 冬いちご
-      content_type: ''
   - song_name: Fly away
     song_alias:
     esong_code: 2902B21
@@ -383,23 +349,6 @@ result:
       content_type: VOCALOID
   - song_name: BLUE
     song_alias:
-    esong_code: 2897A46
-    t_singer_master_id: '1137'
-    singer_name: Justy-Nasty
-    singer_alias:
-    available_date: '2012-10-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふる
-    singer_name_ruby: しやすていなすてい
-    song_variation:
-    - esong_code: 2897A46
-      song_name: BLUE
-      content_type: ''
-  - song_name: BLUE
-    song_alias:
     esong_code: 2908A21
     t_singer_master_id: '24203'
     singer_name: アンジェラ・アキ
@@ -413,6 +362,23 @@ result:
     singer_name_ruby: あんしえらあき
     song_variation:
     - esong_code: 2908A21
+      song_name: BLUE
+      content_type: ''
+  - song_name: BLUE
+    song_alias:
+    esong_code: 2897A46
+    t_singer_master_id: '1137'
+    singer_name: Justy-Nasty
+    singer_alias:
+    available_date: '2012-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふる
+    singer_name_ruby: しやすていなすてい
+    song_variation:
+    - esong_code: 2897A46
       song_name: BLUE
       content_type: ''
   - song_name: ふるさと酒
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2899A13
       song_name: Blue Horizon
+      content_type: ''
+  - song_name: ふれあい橋
+    song_alias:
+    esong_code: 2907B18
+    t_singer_master_id: '46063'
+    singer_name: 清水 光江
+    singer_alias:
+    available_date: '2012-10-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれあいはし
+    singer_name_ruby: しみすみつえ
+    song_variation:
+    - esong_code: 2907B18
+      song_name: ふれあい橋
+      content_type: ''
+  - song_name: Pray (アニメバージョン)
+    song_alias:
+    esong_code: 2931A12
+    t_singer_master_id: '19438'
+    singer_name: Tommy heavenly6
+    singer_alias:
+    available_date: '2012-10-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 銀魂<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれい
+    singer_name_ruby: とみへふんり
+    song_variation:
+    - esong_code: 2931A12
+      song_name: Pray (アニメバージョン)
       content_type: ''

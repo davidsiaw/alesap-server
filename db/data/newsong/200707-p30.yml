@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: MAGICAL WORLD
-    song_alias:
-    esong_code: 1818B24
-    t_singer_master_id: '11184'
-    singer_name: 鬼束 ちひろ
-    singer_alias:
-    available_date: '2007-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ましかるわると
-    singer_name_ruby: おにつかちひろ
-    song_variation:
-    - esong_code: 1818B24
-      song_name: MAGICAL WORLD
-      content_type: ''
-  - song_name: Magic☆
-    song_alias:
-    esong_code: 1805A27
-    t_singer_master_id: '30201'
-    singer_name: Tiara
-    singer_alias:
-    available_date: '2007-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ましつく
-    singer_name_ruby: ていあら
-    song_variation:
-    - esong_code: 1805A27
-      song_name: Magic☆
-      content_type: ''
   - song_name: Magic☆
     song_alias:
     esong_code: 1817A6
@@ -58,6 +24,23 @@ result:
     - esong_code: 1817A6
       song_name: Magic☆
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: Magic☆
+    song_alias:
+    esong_code: 1805A27
+    t_singer_master_id: '30201'
+    singer_name: Tiara
+    singer_alias:
+    available_date: '2007-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ましつく
+    singer_name_ruby: ていあら
+    song_variation:
+    - esong_code: 1805A27
+      song_name: Magic☆
+      content_type: ''
   - song_name: マジ夏すぎる
     song_alias:
     esong_code: 1584A14
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1821A18
       song_name: MISS YOU
+      content_type: ''
+  - song_name: ミセス・ポットの助言
+    song_alias:
+    esong_code: 1819A12
+    t_singer_master_id: '15601'
+    singer_name: 劇団四季(ミュージカル)
+    singer_alias:
+    available_date: '2007-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みせすほつとのし
+    singer_name_ruby: けきたんしきみゆしかる
+    song_variation:
+    - esong_code: 1819A12
+      song_name: ミセス・ポットの助言
       content_type: ''

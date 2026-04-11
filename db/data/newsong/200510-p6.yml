@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 809
-  all_max_cnt: 933
-  all_country_cnt: 809
+  max_cnt: 808
+  all_max_cnt: 932
+  all_country_cnt: 808
   song:
   - song_name: 風の行方
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 1389A20
       song_name: ガールッピ
       content_type: ''
-  - song_name: kaleidoscope eyes
-    song_alias:
-    esong_code: 1383A39
-    t_singer_master_id: '13583'
-    singer_name: SHAKALABBITS
-    singer_alias:
-    available_date: '2005-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かれいとすこふ
-    singer_name_ruby: しやからひつつ
-    song_variation:
-    - esong_code: 1383A39
-      song_name: kaleidoscope eyes
-      content_type: ''
   - song_name: カレイドスコープ
     song_alias:
     esong_code: 1383A38
@@ -261,6 +244,23 @@ result:
     song_variation:
     - esong_code: 1383A38
       song_name: カレイドスコープ
+      content_type: ''
+  - song_name: kaleidoscope eyes
+    song_alias:
+    esong_code: 1383A39
+    t_singer_master_id: '13583'
+    singer_name: SHAKALABBITS
+    singer_alias:
+    available_date: '2005-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かれいとすこふ
+    singer_name_ruby: しやからひつつ
+    song_variation:
+    - esong_code: 1383A39
+      song_name: kaleidoscope eyes
       content_type: ''
   - song_name: ガロン
     song_alias:

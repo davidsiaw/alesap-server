@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1344
-  all_max_cnt: 1519
-  all_country_cnt: 1344
+  max_cnt: 1334
+  all_max_cnt: 1509
+  all_country_cnt: 1334
   song:
   - song_name: 佐原雨情
     song_alias:
@@ -24,40 +24,6 @@ result:
     - esong_code: 3870B28
       song_name: 佐原雨情
       content_type: JOY生演奏
-  - song_name: 佐原雨情
-    song_alias:
-    esong_code: 3869B41
-    t_singer_master_id: '1824'
-    singer_name: 原田 悠里
-    singer_alias:
-    available_date: '2017-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: さわらうしよう
-    singer_name_ruby: はらたゆり
-    song_variation:
-    - esong_code: 3869B41
-      song_name: 佐原雨情
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 佐原雨情
-    song_alias:
-    esong_code: 3882A26
-    t_singer_master_id: '1824'
-    singer_name: 原田 悠里
-    singer_alias:
-    available_date: '2017-09-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さわらうしよう
-    singer_name_ruby: はらたゆり
-    song_variation:
-    - esong_code: 3882A26
-      song_name: 佐原雨情
-      content_type: DAM生音
   - song_name: 佐原雨情
     song_alias:
     esong_code: 3868B2
@@ -381,23 +347,6 @@ result:
     - esong_code: 3873A25
       song_name: SHIORI
       content_type: ''
-  - song_name: 四季折々に揺蕩いて
-    song_alias:
-    esong_code: 3870B4
-    t_singer_master_id: '55476'
-    singer_name: After the Rain(そらる×まふまふ)
-    singer_alias:
-    available_date: '2017-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しきおりおりにたゆた
-    singer_name_ruby: あふたされいん
-    song_variation:
-    - esong_code: 3870B4
-      song_name: 四季折々に揺蕩いて
-      content_type: ''
   - song_name: 四季折々に揺蕩いて (イラストMV Ver.)
     song_alias:
     esong_code: 3879A38
@@ -415,6 +364,23 @@ result:
     - esong_code: 3879A38
       song_name: 四季折々に揺蕩いて (イラストMV Ver.)
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 四季折々に揺蕩いて
+    song_alias:
+    esong_code: 3870B4
+    t_singer_master_id: '55476'
+    singer_name: After the Rain(そらる×まふまふ)
+    singer_alias:
+    available_date: '2017-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しきおりおりにたゆた
+    singer_name_ruby: あふたされいん
+    song_variation:
+    - esong_code: 3870B4
+      song_name: 四季折々に揺蕩いて
+      content_type: ''
   - song_name: SHIKIBU feat.阿波の踊り子
     song_alias:
     esong_code: 3869A30
@@ -517,3 +483,37 @@ result:
     - esong_code: 3883A4
       song_name: sister
       content_type: VOCALOID
+  - song_name: シーズンドライブ
+    song_alias:
+    esong_code: 3879A8
+    t_singer_master_id: '44281'
+    singer_name: 藤巻 亮太
+    singer_alias:
+    available_date: '2017-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しすんとらいふ
+    singer_name_ruby: ふしまきりようた
+    song_variation:
+    - esong_code: 3879A8
+      song_name: シーズンドライブ
+      content_type: ''
+  - song_name: 時代の加害者
+    song_alias:
+    esong_code: 3877A29
+    t_singer_master_id: '58585'
+    singer_name: 眩暈SIREN
+    singer_alias:
+    available_date: '2017-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: したいのかかい
+    singer_name_ruby: めまいさいれん
+    song_variation:
+    - esong_code: 3877A29
+      song_name: 時代の加害者
+      content_type: ''

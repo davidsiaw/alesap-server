@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1312
-  all_max_cnt: 1466
-  all_country_cnt: 1312
+  max_cnt: 1301
+  all_max_cnt: 1455
+  all_country_cnt: 1301
   song:
-  - song_name: チャンスをこの手に
-    song_alias:
-    esong_code: 403B9
-    t_singer_master_id: '10488'
-    singer_name: Project D.M.M.
-    singer_alias:
-    available_date: '2011-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ウルトラマンマックス<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちやんすをこのてに
-    singer_name_ruby: ふろしえくとて
-    song_variation:
-    - esong_code: 403B9
-      song_name: チャンスをこの手に
-      content_type: ''
-  - song_name: 忠治侠客旅
-    song_alias:
-    esong_code: 517B7
-    t_singer_master_id: '2780'
-    singer_name: 島津 亜矢
-    singer_alias:
-    available_date: '2011-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ちゆうしおとこたひ
-    singer_name_ruby: しまつあや
-    song_variation:
-    - esong_code: 517B7
-      song_name: 忠治侠客旅
-      content_type: DAM生音
-  - song_name: Choose me feat.佐咲紗花
-    song_alias:
-    esong_code: 576A20
-    t_singer_master_id: '42453'
-    singer_name: ヒャダイン
-    singer_alias:
-    available_date: '2011-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちゆすみ
-    singer_name_ruby: ひやたいん
-    song_variation:
-    - esong_code: 576A20
-      song_name: Choose me feat.佐咲紗花
-      content_type: ''
-  - song_name: チューリップ
-    song_alias:
-    esong_code: 386A4
-    t_singer_master_id: '11544'
-    singer_name: クミコ
-    singer_alias:
-    available_date: '2011-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちゆりつふ
-    singer_name_ruby: くみこ
-    song_variation:
-    - esong_code: 386A4
-      song_name: チューリップ
-      content_type: ''
-  - song_name: チョコの行方
-    song_alias:
-    esong_code: 2598B40
-    t_singer_master_id: '37432'
-    singer_name: SKE48
-    singer_alias:
-    available_date: '2011-06-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちよこのゆくえ
-    singer_name_ruby: えすけいふおていえいと
-    song_variation:
-    - esong_code: 2598B40
-      song_name: チョコの行方
-      content_type: ''
-  - song_name: 月に捧ぐ
-    song_alias:
-    esong_code: 648A31
-    t_singer_master_id: '6553'
-    singer_name: 相川 七瀬
-    singer_alias:
-    available_date: '2011-06-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきにささく
-    singer_name_ruby: あいかわななせ
-    song_variation:
-    - esong_code: 648A31
-      song_name: 月に捧ぐ
-      content_type: ''
   - song_name: 月の裏側
     song_alias:
     esong_code: 587B14
@@ -449,23 +347,6 @@ result:
     - esong_code: 2598B32
       song_name: Dissonant Melody
       content_type: ''
-  - song_name: D.P.C.W (feat.岸尾だいすけ)
-    song_alias:
-    esong_code: 225B22
-    t_singer_master_id: '40402'
-    singer_name: buzzG
-    singer_alias:
-    available_date: '2011-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていひした
-    singer_name_ruby: はすし
-    song_variation:
-    - esong_code: 225B22
-      song_name: D.P.C.W (feat.岸尾だいすけ)
-      content_type: ''
   - song_name: D.P.C.W feat.GUMI
     song_alias:
     esong_code: 232B43
@@ -483,6 +364,23 @@ result:
     - esong_code: 232B43
       song_name: D.P.C.W feat.GUMI
       content_type: VOCALOID
+  - song_name: D.P.C.W (feat.岸尾だいすけ)
+    song_alias:
+    esong_code: 225B22
+    t_singer_master_id: '40402'
+    singer_name: buzzG
+    singer_alias:
+    available_date: '2011-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていひした
+    singer_name_ruby: はすし
+    song_variation:
+    - esong_code: 225B22
+      song_name: D.P.C.W (feat.岸尾だいすけ)
+      content_type: ''
   - song_name: Deep
     song_alias:
     esong_code: 329B5
@@ -516,4 +414,106 @@ result:
     song_variation:
     - esong_code: 1045B10
       song_name: Deep-sea Fish Orchestra
+      content_type: ''
+  - song_name: デイライ協奏楽団
+    song_alias:
+    esong_code: 1998B23
+    t_singer_master_id: '33612'
+    singer_name: UNISON SQUARE GARDEN
+    singer_alias:
+    available_date: '2011-06-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていらいきようそう
+    singer_name_ruby: ゆにそんすくえあかてん
+    song_variation:
+    - esong_code: 1998B23
+      song_name: デイライ協奏楽団
+      content_type: ''
+  - song_name: 適当に透明な世界
+    song_alias:
+    esong_code: 2240A31
+    t_singer_master_id: '34208'
+    singer_name: suzumoku
+    singer_alias:
+    available_date: '2011-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てきとうにとうめいな
+    singer_name_ruby: すすもく
+    song_variation:
+    - esong_code: 2240A31
+      song_name: 適当に透明な世界
+      content_type: ''
+  - song_name: DESIRE
+    song_alias:
+    esong_code: 498B11
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2011-06-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: てさいあ
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 498B11
+      song_name: DESIRE
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: DESIRE
+    song_alias:
+    esong_code: 483A15
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2011-06-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てさいあ
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 483A15
+      song_name: DESIRE
+      content_type: ''
+  - song_name: Deja vu 〜いつか見た場所〜 feat.鏡音レン
+    song_alias:
+    esong_code: 428B12
+    t_singer_master_id: '42617'
+    singer_name: しえろP
+    singer_alias:
+    available_date: '2011-06-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: てしやひゆ
+    singer_name_ruby: しえろひ
+    song_variation:
+    - esong_code: 428B12
+      song_name: Deja vu 〜いつか見た場所〜 feat.鏡音レン
+      content_type: VOCALOID
+  - song_name: Deja vu feat.AISHA
+    song_alias:
+    esong_code: 2629A47
+    t_singer_master_id: '15985'
+    singer_name: Jazztronik
+    singer_alias:
+    available_date: '2011-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てしやふ
+    singer_name_ruby: しやすとろにつく
+    song_variation:
+    - esong_code: 2629A47
+      song_name: Deja vu feat.AISHA
       content_type: ''

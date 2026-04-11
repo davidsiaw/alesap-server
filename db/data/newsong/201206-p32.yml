@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: 独り占めドール
-    song_alias:
-    esong_code: 2805A43
-    t_singer_master_id: '43054'
-    singer_name: 幽閉サテライト/senya
-    singer_alias:
-    available_date: '2012-06-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方妖々夢 〜Perfect Cherry Blossom.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: ひとりしめとる
-    singer_name_ruby: ゆうへいさてらいとせんや
-    song_variation:
-    - esong_code: 2805A43
-      song_name: 独り占めドール
-      content_type: 東方
-  - song_name: ひとりじゃないからさ
-    song_alias:
-    esong_code: 2809B32
-    t_singer_master_id: '28495'
-    singer_name: Blue Trike
-    singer_alias:
-    available_date: '2012-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとりしやないから
-    singer_name_ruby: ふるとらいく
-    song_variation:
-    - esong_code: 2809B32
-      song_name: ひとりじゃないからさ
-      content_type: ''
   - song_name: ひとり長良川
     song_alias:
     esong_code: 2805B27
@@ -423,7 +389,7 @@ result:
     singer_alias:
     available_date: '2012-06-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: るろうに剣心 〜明治剣客浪漫譚〜 新京都編<番組名>
+    tie_up: るろうに剣心 〜明治剣客浪漫譚〜<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふいるゆ
@@ -517,3 +483,37 @@ result:
     - esong_code: 2799B5
       song_name: Fadeless Love
       content_type: ''
+  - song_name: 4 Eye,for You
+    song_alias:
+    esong_code: 2797B33
+    t_singer_master_id: '22664'
+    singer_name: Def Tech
+    singer_alias:
+    available_date: '2012-06-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふおあいふおゆ
+    singer_name_ruby: てふてつく
+    song_variation:
+    - esong_code: 2797B33
+      song_name: 4 Eye,for You
+      content_type: ''
+  - song_name: 4 Eye, for You
+    song_alias:
+    esong_code: 846A19
+    t_singer_master_id: '22664'
+    singer_name: Def Tech
+    singer_alias:
+    available_date: '2012-06-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ふおあいふおゆ
+    singer_name_ruby: てふてつく
+    song_variation:
+    - esong_code: 846A19
+      song_name: 4 Eye, for You
+      content_type: DAMｸﾘｯﾌﾟ

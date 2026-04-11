@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
-  - song_name: 大人になりたい
-    song_alias:
-    esong_code: 1167A46
-    t_singer_master_id: '2473'
-    singer_name: 山口 百恵
-    singer_alias:
-    available_date: '2006-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとなになりたい
-    singer_name_ruby: やまくちももえ
-    song_variation:
-    - esong_code: 1167A46
-      song_name: 大人になりたい
-      content_type: ''
   - song_name: おとなになんかならないで
     song_alias:
     esong_code: 1428B22
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1444A20
       song_name: オーロラの果て
+      content_type: ''
+  - song_name: 終わらない夏の夜
+    song_alias:
+    esong_code: 1429B44
+    t_singer_master_id: '16427'
+    singer_name: BAZRA
+    singer_alias:
+    available_date: '2006-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おわらないなつのよる
+    singer_name_ruby: はすら
+    song_variation:
+    - esong_code: 1429B44
+      song_name: 終わらない夏の夜
       content_type: ''

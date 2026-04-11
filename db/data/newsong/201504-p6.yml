@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1496
-  all_max_cnt: 1667
-  all_country_cnt: 1496
+  max_cnt: 1487
+  all_max_cnt: 1658
+  all_country_cnt: 1487
   song:
-  - song_name: うまくは言えないけれど
-    song_alias:
-    esong_code: 3429B28
-    t_singer_master_id: '47484'
-    singer_name: GOOD ON THE REEL
-    singer_alias:
-    available_date: '2015-04-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うまくはいえないけれ
-    singer_name_ruby: くつとおんさりる
-    song_variation:
-    - esong_code: 3429B28
-      song_name: うまくは言えないけれど
-      content_type: ''
   - song_name: WOLF (EXOPLANET#1 ver.)
     song_alias:
     esong_code: 3425B25
@@ -74,6 +57,23 @@ result:
     song_variation:
     - esong_code: 3427B1
       song_name: 運命の人
+      content_type: ''
+  - song_name: 栄光サンライズ
+    song_alias:
+    esong_code: 3417B10
+    t_singer_master_id: '46022'
+    singer_name: ベイビーレイズJAPAN
+    singer_alias:
+    available_date: '2015-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいこうさんらいす
+    singer_name_ruby: へいひれいすしやはん
+    song_variation:
+    - esong_code: 3417B10
+      song_name: 栄光サンライズ
       content_type: ''
   - song_name: 栄光の男
     song_alias:
@@ -421,23 +421,6 @@ result:
     - esong_code: 3422A24
       song_name: ever white
       content_type: ''
-  - song_name: Everlasting love
-    song_alias:
-    esong_code: 3415B2
-    t_singer_master_id: '33926'
-    singer_name: 木村 良平
-    singer_alias:
-    available_date: '2015-04-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ROOT∞REXX<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えはらすていんく
-    singer_name_ruby: きむらりようへい
-    song_variation:
-    - esong_code: 3415B2
-      song_name: Everlasting love
-      content_type: ''
   - song_name: Episode.0
     song_alias:
     esong_code: 3424B46
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3432B35
       song_name: EMOTIONAL LIFE
+      content_type: ''
+  - song_name: ELVIS (Japanese ver.)
+    song_alias:
+    esong_code: 3429A22
+    t_singer_master_id: '51690'
+    singer_name: AOA
+    singer_alias:
+    available_date: '2015-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えるひす
+    singer_name_ruby: えおえ
+    song_variation:
+    - esong_code: 3429A22
+      song_name: ELVIS (Japanese ver.)
       content_type: ''

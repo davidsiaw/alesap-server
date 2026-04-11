@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
-  - song_name: endscape
-    song_alias:
-    esong_code: 1795B33
-    t_singer_master_id: '23642'
-    singer_name: UVERworld
-    singer_alias:
-    available_date: '2007-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 地球(テラ)へ・・・<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ良音
-    song_name_ruby: えんとすけふ
-    singer_name_ruby: うはわると
-    song_variation:
-    - esong_code: 1795B33
-      song_name: endscape
-      content_type: DAMｸﾘｯﾌﾟ良音
   - song_name: endscape
     song_alias:
     esong_code: 1795A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1800B18
       song_name: 親父の帽子 (アコースティック・バージョン)
+      content_type: ''
+  - song_name: おやすみ
+    song_alias:
+    esong_code: 1797A49
+    t_singer_master_id: '7646'
+    singer_name: 松 たか子
+    singer_alias:
+    available_date: '2007-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやすみ
+    singer_name_ruby: まつたかこ
+    song_variation:
+    - esong_code: 1797A49
+      song_name: おやすみ
       content_type: ''

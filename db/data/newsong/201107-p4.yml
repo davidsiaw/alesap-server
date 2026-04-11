@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1571
-  all_max_cnt: 1703
-  all_country_cnt: 1571
+  max_cnt: 1566
+  all_max_cnt: 1698
+  all_country_cnt: 1566
   song:
-  - song_name: あんじょうやれたらえやないの
-    song_alias:
-    esong_code: 67A7
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2011-07-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんしようやれたら
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 67A7
-      song_name: あんじょうやれたらえやないの
-      content_type: ''
   - song_name: あんたの里
     song_alias:
     esong_code: 2645B32
@@ -406,7 +389,7 @@ result:
     singer_alias:
     available_date: '2011-07-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイⅡ<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いつつおるらいと
@@ -517,3 +500,20 @@ result:
     - esong_code: 2638A19
       song_name: 愛しき人生
       content_type: ''
+  - song_name: いにしえの旅人
+    song_alias:
+    esong_code: 2647B16
+    t_singer_master_id: '15011'
+    singer_name: 加納 ひろし(嘉納ひろし)
+    singer_alias:
+    available_date: '2011-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: いにしえのたひひ
+    singer_name_ruby: かのうひろし
+    song_variation:
+    - esong_code: 2647B16
+      song_name: いにしえの旅人
+      content_type: DAMﾌﾟﾛｵｹ

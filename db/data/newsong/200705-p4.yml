@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 933
-  all_max_cnt: 1037
-  all_country_cnt: 933
+  max_cnt: 932
+  all_max_cnt: 1036
+  all_country_cnt: 932
   song:
+  - song_name: ETERNAL MIND
+    song_alias:
+    esong_code: 1785B4
+    t_singer_master_id: '13620'
+    singer_name: ANTHEM
+    singer_alias:
+    available_date: '2007-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えたなるまいんと
+    singer_name_ruby: あんせむ
+    song_variation:
+    - esong_code: 1785B4
+      song_name: ETERNAL MIND
+      content_type: ''
   - song_name: Eternity
     song_alias:
     esong_code: 1151B46
@@ -236,7 +253,7 @@ result:
     singer_alias:
     available_date: '2007-05-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HIDECHAN! Radio<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: おいしいつはんせい
@@ -281,23 +298,6 @@ result:
       content_type: ''
   - song_name: 大阪のおんな
     song_alias:
-    esong_code: 1779B10
-    t_singer_master_id: '22652'
-    singer_name: 小村 美貴
-    singer_alias:
-    available_date: '2007-05-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おおさかのおんな
-    singer_name_ruby: こむらみき
-    song_variation:
-    - esong_code: 1779B10
-      song_name: 大阪のおんな
-      content_type: DAM生音
-  - song_name: 大阪のおんな
-    song_alias:
     esong_code: 1775B11
     t_singer_master_id: '22652'
     singer_name: 小村 美貴
@@ -313,6 +313,23 @@ result:
     - esong_code: 1775B11
       song_name: 大阪のおんな
       content_type: ''
+  - song_name: 大阪のおんな
+    song_alias:
+    esong_code: 1779B10
+    t_singer_master_id: '22652'
+    singer_name: 小村 美貴
+    singer_alias:
+    available_date: '2007-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おおさかのおんな
+    singer_name_ruby: こむらみき
+    song_variation:
+    - esong_code: 1779B10
+      song_name: 大阪のおんな
+      content_type: DAM生音
   - song_name: 大間崎漁歌
     song_alias:
     esong_code: 1775B22
@@ -383,23 +400,6 @@ result:
       content_type: ''
   - song_name: おしどり花道
     song_alias:
-    esong_code: 1775B17
-    t_singer_master_id: '2230'
-    singer_name: 松前 ひろ子
-    singer_alias:
-    available_date: '2007-05-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おしとりはなみち
-    singer_name_ruby: まつまえひろこ
-    song_variation:
-    - esong_code: 1775B17
-      song_name: おしどり花道
-      content_type: ''
-  - song_name: おしどり花道
-    song_alias:
     esong_code: 1779A32
     t_singer_master_id: '2230'
     singer_name: 松前 ひろ子
@@ -415,6 +415,23 @@ result:
     - esong_code: 1779A32
       song_name: おしどり花道
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: おしどり花道
+    song_alias:
+    esong_code: 1775B17
+    t_singer_master_id: '2230'
+    singer_name: 松前 ひろ子
+    singer_alias:
+    available_date: '2007-05-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おしとりはなみち
+    singer_name_ruby: まつまえひろこ
+    song_variation:
+    - esong_code: 1775B17
+      song_name: おしどり花道
+      content_type: ''
   - song_name: 小樽でもう一度
     song_alias:
     esong_code: 1775B37
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1786B45
       song_name: 男涙の雨が降る
-      content_type: ''
-  - song_name: 男なら
-    song_alias:
-    esong_code: 1786B46
-    t_singer_master_id: '1317'
-    singer_name: 高倉 健
-    singer_alias:
-    available_date: '2007-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこなら
-    singer_name_ruby: たかくらけん
-    song_variation:
-    - esong_code: 1786B46
-      song_name: 男なら
       content_type: ''

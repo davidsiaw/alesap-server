@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
   - song_name: プリティパンティ☆悪マリン feat.鏡音リン、鏡音レン
     song_alias:
@@ -179,23 +179,6 @@ result:
       content_type: ''
   - song_name: PRESENT
     song_alias:
-    esong_code: 2456B30
-    t_singer_master_id: '20714'
-    singer_name: JUJU
-    singer_alias:
-    available_date: '2009-12-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: DISNEY'S クリスマス・キャロル<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ふれせんと
-    singer_name_ruby: しゆしゆ
-    song_variation:
-    - esong_code: 2456B30
-      song_name: PRESENT
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: PRESENT
-    song_alias:
     esong_code: 2438B6
     t_singer_master_id: '20714'
     singer_name: JUJU
@@ -211,6 +194,23 @@ result:
     - esong_code: 2438B6
       song_name: PRESENT
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: PRESENT
+    song_alias:
+    esong_code: 2456B30
+    t_singer_master_id: '20714'
+    singer_name: JUJU
+    singer_alias:
+    available_date: '2009-12-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: DISNEY'S クリスマス・キャロル<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ふれせんと
+    singer_name_ruby: しゆしゆ
+    song_variation:
+    - esong_code: 2456B30
+      song_name: PRESENT
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Hurray! Hurray! Hurray!
     song_alias:
     esong_code: 2448A13
@@ -236,7 +236,7 @@ result:
     singer_alias:
     available_date: '2009-12-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL RAGING BLAST<番組名>
+    tie_up: DRAGON BALL(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふろくれつしよん
@@ -330,23 +330,6 @@ result:
     - esong_code: 2440B48
       song_name: Baby universe day
       content_type: ''
-  - song_name: BEST of SEAMOアッパーメドレー
-    song_alias:
-    esong_code: 2440A31
-    t_singer_master_id: '22681'
-    singer_name: SEAMO(シーモネーター)
-    singer_alias:
-    available_date: '2009-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: へすとおふしも
-    singer_name_ruby: しも
-    song_variation:
-    - esong_code: 2440A31
-      song_name: BEST of SEAMOアッパーメドレー
-      content_type: DAM生音
   - song_name: BEST of SEAMOバラードメドレー
     song_alias:
     esong_code: 2440A32
@@ -363,6 +346,23 @@ result:
     song_variation:
     - esong_code: 2440A32
       song_name: BEST of SEAMOバラードメドレー
+      content_type: DAM生音
+  - song_name: BEST of SEAMOアッパーメドレー
+    song_alias:
+    esong_code: 2440A31
+    t_singer_master_id: '22681'
+    singer_name: SEAMO(シーモネーター)
+    singer_alias:
+    available_date: '2009-12-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: へすとおふしも
+    singer_name_ruby: しも
+    song_variation:
+    - esong_code: 2440A31
+      song_name: BEST of SEAMOアッパーメドレー
       content_type: DAM生音
   - song_name: ペテン師が笑う頃に feat.初音ミク
     song_alias:

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
-  - song_name: AURORA
-    song_alias:
-    esong_code: 4069B34
-    t_singer_master_id: '45382'
-    singer_name: CROSS GENE
-    singer_alias:
-    available_date: '2018-09-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おろら
-    singer_name_ruby: くろすしん
-    song_variation:
-    - esong_code: 4069B34
-      song_name: AURORA
-      content_type: ''
-  - song_name: 終わらない旅
-    song_alias:
-    esong_code: 4070B2
-    t_singer_master_id: '20347'
-    singer_name: パク・ヨンハ
-    singer_alias:
-    available_date: '2018-09-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おわらないたひ
-    singer_name_ruby: はくよんは
-    song_variation:
-    - esong_code: 4070B2
-      song_name: 終わらない旅
-      content_type: ''
   - song_name: おんくり
     song_alias:
     esong_code: 4070A14
@@ -517,3 +483,37 @@ result:
     - esong_code: 3768B28
       song_name: 片時雨
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: かたまり
+    song_alias:
+    esong_code: 4069A8
+    t_singer_master_id: '7891'
+    singer_name: YUKI
+    singer_alias:
+    available_date: '2018-09-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かたまり
+    singer_name_ruby: ゆき
+    song_variation:
+    - esong_code: 4069A8
+      song_name: かたまり
+      content_type: ''
+  - song_name: カナリア
+    song_alias:
+    esong_code: 4069A34
+    t_singer_master_id: '61856'
+    singer_name: ReoNa
+    singer_alias:
+    available_date: '2018-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ハッピーシュガーライフ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなりあ
+    singer_name_ruby: れおな
+    song_variation:
+    - esong_code: 4069A34
+      song_name: カナリア
+      content_type: ''

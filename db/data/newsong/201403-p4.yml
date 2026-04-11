@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
   - song_name: RPG
     song_alias:
@@ -30,7 +30,7 @@ result:
     t_singer_master_id: '47868'
     singer_name: Juice=Juice
     singer_alias:
-    available_date: '2014-03-18'
+    available_date: '2014-03-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -281,23 +281,6 @@ result:
       content_type: VOCALOID
   - song_name: 出雲雨情
     song_alias:
-    esong_code: 1442A40
-    t_singer_master_id: '1354'
-    singer_name: 多岐川 舞子
-    singer_alias:
-    available_date: '2014-03-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: いすもうしよう
-    singer_name_ruby: たきかわまいこ
-    song_variation:
-    - esong_code: 1442A40
-      song_name: 出雲雨情
-      content_type: JOY生演奏
-  - song_name: 出雲雨情
-    song_alias:
     esong_code: 3221B40
     t_singer_master_id: '1354'
     singer_name: 多岐川 舞子
@@ -313,6 +296,23 @@ result:
     - esong_code: 3221B40
       song_name: 出雲雨情
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 出雲雨情
+    song_alias:
+    esong_code: 1442A40
+    t_singer_master_id: '1354'
+    singer_name: 多岐川 舞子
+    singer_alias:
+    available_date: '2014-03-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: いすもうしよう
+    singer_name_ruby: たきかわまいこ
+    song_variation:
+    - esong_code: 1442A40
+      song_name: 出雲雨情
+      content_type: JOY生演奏
   - song_name: 一期一会
     song_alias:
     esong_code: 3214B18

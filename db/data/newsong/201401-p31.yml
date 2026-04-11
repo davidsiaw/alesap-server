@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: Marionette
-    song_alias:
-    esong_code: 3172B27
-    t_singer_master_id: '490'
-    singer_name: 甲斐 よしひろ
-    singer_alias:
-    available_date: '2014-01-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まりおねつと
-    singer_name_ruby: かいよしひろ
-    song_variation:
-    - esong_code: 3172B27
-      song_name: Marionette
-      content_type: ''
-  - song_name: Marry me!?
-    song_alias:
-    esong_code: 3166A36
-    t_singer_master_id: '48063'
-    singer_name: Rough Clover
-    singer_alias:
-    available_date: '2014-01-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まりみ
-    singer_name_ruby: らふくろは
-    song_variation:
-    - esong_code: 3166A36
-      song_name: Marry me!?
-      content_type: ''
   - song_name: 回れトロイカ
     song_alias:
     esong_code: 3165A23
@@ -196,23 +162,6 @@ result:
       content_type: ''
   - song_name: 道
     song_alias:
-    esong_code: 3166B40
-    t_singer_master_id: '36187'
-    singer_name: EMIKO
-    singer_alias:
-    available_date: '2014-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みち
-    singer_name_ruby: えみこ
-    song_variation:
-    - esong_code: 3166B40
-      song_name: 道
-      content_type: ''
-  - song_name: 道
-    song_alias:
     esong_code: 3170A7
     t_singer_master_id: '14444'
     singer_name: 竹本 孝之
@@ -226,6 +175,23 @@ result:
     singer_name_ruby: たけもとたかゆき
     song_variation:
     - esong_code: 3170A7
+      song_name: 道
+      content_type: ''
+  - song_name: 道
+    song_alias:
+    esong_code: 3166B40
+    t_singer_master_id: '36187'
+    singer_name: EMIKO
+    singer_alias:
+    available_date: '2014-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みち
+    singer_name_ruby: えみこ
+    song_variation:
+    - esong_code: 3166B40
       song_name: 道
       content_type: ''
   - song_name: 道〜自分が自分らしくある為に〜SONG
@@ -251,7 +217,7 @@ result:
     t_singer_master_id: '6239'
     singer_name: 岩本 公水
     singer_alias:
-    available_date: '2014-01-21'
+    available_date: '2014-01-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -517,3 +483,37 @@ result:
     - esong_code: 3167B1
       song_name: MU-JO
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Moon Plant-II
+    song_alias:
+    esong_code: 3175B35
+    t_singer_master_id: '5016'
+    singer_name: P-MODEL
+    singer_alias:
+    available_date: '2014-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: むんふらんとつ
+    singer_name_ruby: ひもてる
+    song_variation:
+    - esong_code: 3175B35
+      song_name: Moon Plant-II
+      content_type: ''
+  - song_name: Moonlight secret
+    song_alias:
+    esong_code: 3172A10
+    t_singer_master_id: '14004'
+    singer_name: 田村 ゆかり
+    singer_alias:
+    available_date: '2014-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: むんらいとしくれ
+    singer_name_ruby: たむらゆかり
+    song_variation:
+    - esong_code: 3172A10
+      song_name: Moonlight secret
+      content_type: ''

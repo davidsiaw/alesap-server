@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1550
-  all_country_cnt: 1338
+  max_cnt: 1320
+  all_max_cnt: 1532
+  all_country_cnt: 1320
   song:
   - song_name: WE DO
     song_alias:
@@ -189,7 +189,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: うそつきおんな
-    singer_name_ruby: BARACUDA
+    singer_name_ruby: はらくた
     song_variation:
     - esong_code: 4136A20
       song_name: うそつきおんな
@@ -434,23 +434,6 @@ result:
       content_type: ''
   - song_name: 裏切りの花
     song_alias:
-    esong_code: 4149A3
-    t_singer_master_id: '21652'
-    singer_name: 西山 ひとみ
-    singer_alias:
-    available_date: '2019-02-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: うらきりのはな
-    singer_name_ruby: にしやまひとみ
-    song_variation:
-    - esong_code: 4149A3
-      song_name: 裏切りの花
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 裏切りの花
-    song_alias:
     esong_code: 4144B40
     t_singer_master_id: '21652'
     singer_name: 西山 ひとみ
@@ -466,6 +449,23 @@ result:
     - esong_code: 4144B40
       song_name: 裏切りの花
       content_type: ''
+  - song_name: 裏切りの花
+    song_alias:
+    esong_code: 4149A3
+    t_singer_master_id: '21652'
+    singer_name: 西山 ひとみ
+    singer_alias:
+    available_date: '2019-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: うらきりのはな
+    singer_name_ruby: にしやまひとみ
+    song_variation:
+    - esong_code: 4149A3
+      song_name: 裏切りの花
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: Uruメドレー
     song_alias:
     esong_code: 4145A41

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: 夕顔憧歌
-    song_alias:
-    esong_code: 2690A1
-    t_singer_master_id: '21484'
-    singer_name: 小菅 真美
-    singer_alias:
-    available_date: '2011-10-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ときめきメモリアル<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆうかおしようか
-    singer_name_ruby: こすけまみ
-    song_variation:
-    - esong_code: 2690A1
-      song_name: 夕顔憧歌
-      content_type: ''
-  - song_name: 勇敢なヴァニラアイスクリーム
-    song_alias:
-    esong_code: 2680B40
-    t_singer_master_id: '7891'
-    singer_name: YUKI
-    singer_alias:
-    available_date: '2011-10-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆうかんなはにらあ
-    singer_name_ruby: ゆき
-    song_variation:
-    - esong_code: 2680B40
-      song_name: 勇敢なヴァニラアイスクリーム
-      content_type: ''
   - song_name: 夕暮れの街角で
     song_alias:
     esong_code: 2694A37
@@ -160,23 +126,6 @@ result:
     - esong_code: 2681A16
       song_name: 誘惑されて棄てられて
       content_type: ''
-  - song_name: 雪華粧
-    song_alias:
-    esong_code: 2696A30
-    t_singer_master_id: '40173'
-    singer_name: 藍 晴美
-    singer_alias:
-    available_date: '2011-10-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆきけしよう
-    singer_name_ruby: あいはるみ
-    song_variation:
-    - esong_code: 2696A30
-      song_name: 雪華粧
-      content_type: ''
   - song_name: 雪化粧
     song_alias:
     esong_code: 2679A16
@@ -193,6 +142,23 @@ result:
     song_variation:
     - esong_code: 2679A16
       song_name: 雪化粧
+      content_type: ''
+  - song_name: 雪華粧
+    song_alias:
+    esong_code: 2696A30
+    t_singer_master_id: '40173'
+    singer_name: 藍 晴美
+    singer_alias:
+    available_date: '2011-10-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆきけしよう
+    singer_name_ruby: あいはるみ
+    song_variation:
+    - esong_code: 2696A30
+      song_name: 雪華粧
       content_type: ''
   - song_name: 雪だるま
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2682B26
       song_name: ゆるゆりIラブU
+      content_type: ''
+  - song_name: 揺れる
+    song_alias:
+    esong_code: 2681B26
+    t_singer_master_id: '40738'
+    singer_name: ねごと
+    singer_alias:
+    available_date: '2011-10-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆれる
+    singer_name_ruby: ねこと
+    song_variation:
+    - esong_code: 2681B26
+      song_name: 揺れる
+      content_type: ''
+  - song_name: 夜明け前
+    song_alias:
+    esong_code: 2693B19
+    t_singer_master_id: '22234'
+    singer_name: 秋元 順子
+    singer_alias:
+    available_date: '2011-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よあけまえ
+    singer_name_ruby: あきもとしゆんこ
+    song_variation:
+    - esong_code: 2693B19
+      song_name: 夜明け前
       content_type: ''

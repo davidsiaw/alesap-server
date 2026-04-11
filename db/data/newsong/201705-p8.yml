@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
-  - song_name: おんな三味線ながれ節
-    song_alias:
-    esong_code: 3803A46
-    t_singer_master_id: '50266'
-    singer_name: 竹村 こずえ
-    singer_alias:
-    available_date: '2017-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなしやみせんなか
-    singer_name_ruby: たけむらこすえ
-    song_variation:
-    - esong_code: 3803A46
-      song_name: おんな三味線ながれ節
-      content_type: ''
   - song_name: おんな三味線ながれ節
     song_alias:
     esong_code: 3805B16
@@ -41,6 +24,23 @@ result:
     - esong_code: 3805B16
       song_name: おんな三味線ながれ節
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: おんな三味線ながれ節
+    song_alias:
+    esong_code: 3803A46
+    t_singer_master_id: '50266'
+    singer_name: 竹村 こずえ
+    singer_alias:
+    available_date: '2017-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなしやみせんなか
+    singer_name_ruby: たけむらこすえ
+    song_variation:
+    - esong_code: 3803A46
+      song_name: おんな三味線ながれ節
+      content_type: ''
   - song_name: 女の合鍵
     song_alias:
     esong_code: 3816B38
@@ -111,23 +111,6 @@ result:
       content_type: ''
   - song_name: おんな夢
     song_alias:
-    esong_code: 3812B43
-    t_singer_master_id: '652'
-    singer_name: 北見 恭子
-    singer_alias:
-    available_date: '2017-05-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなゆめ
-    singer_name_ruby: きたみきようこ
-    song_variation:
-    - esong_code: 3812B43
-      song_name: おんな夢
-      content_type: ''
-  - song_name: おんな夢
-    song_alias:
     esong_code: 3813A21
     t_singer_master_id: '652'
     singer_name: 北見 恭子
@@ -143,6 +126,23 @@ result:
     - esong_code: 3813A21
       song_name: おんな夢
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: おんな夢
+    song_alias:
+    esong_code: 3812B43
+    t_singer_master_id: '652'
+    singer_name: 北見 恭子
+    singer_alias:
+    available_date: '2017-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなゆめ
+    singer_name_ruby: きたみきようこ
+    song_variation:
+    - esong_code: 3812B43
+      song_name: おんな夢
+      content_type: ''
   - song_name: オン・ユア・マーク!
     song_alias:
     esong_code: 3814B20
@@ -270,7 +270,7 @@ result:
     singer_alias:
     available_date: '2017-05-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: マギアレコード 魔法少女まどか☆マギカ外伝<番組名>
+    tie_up: マギアレコード 魔法少女まどか☆マギカ外伝(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かかわり
@@ -317,7 +317,7 @@ result:
     song_alias:
     esong_code: 3793B9
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2017-05-02'
     end_date: '2999-04-10 00:00:00'

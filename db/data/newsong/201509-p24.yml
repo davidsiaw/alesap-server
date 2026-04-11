@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
+  - song_name: タンポポ
+    song_alias:
+    esong_code: 3504A13
+    t_singer_master_id: '28788'
+    singer_name: GReeeeN
+    singer_alias:
+    available_date: '2015-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: たんほほ
+    singer_name_ruby: くりん
+    song_variation:
+    - esong_code: 3504A13
+      song_name: タンポポ
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: チェリーガーデン (桜の園)
     song_alias:
     esong_code: 3496A13
@@ -349,23 +366,6 @@ result:
       content_type: ''
   - song_name: つばめが帰る頃
     song_alias:
-    esong_code: 3492A44
-    t_singer_master_id: '7510'
-    singer_name: 岩出 和也
-    singer_alias:
-    available_date: '2015-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: つはめかかえるこ
-    singer_name_ruby: いわてかすや
-    song_variation:
-    - esong_code: 3492A44
-      song_name: つばめが帰る頃
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: つばめが帰る頃
-    song_alias:
     esong_code: 3492A31
     t_singer_master_id: '7510'
     singer_name: 岩出 和也
@@ -381,6 +381,23 @@ result:
     - esong_code: 3492A31
       song_name: つばめが帰る頃
       content_type: JOY生演奏
+  - song_name: つばめが帰る頃
+    song_alias:
+    esong_code: 3492A44
+    t_singer_master_id: '7510'
+    singer_name: 岩出 和也
+    singer_alias:
+    available_date: '2015-09-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: つはめかかえるこ
+    singer_name_ruby: いわてかすや
+    song_variation:
+    - esong_code: 3492A44
+      song_name: つばめが帰る頃
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: つよがり
     song_alias:
     esong_code: 3494A10
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3491A7
       song_name: Take Me Higher
-      content_type: ''
-  - song_name: デイゴの花
-    song_alias:
-    esong_code: 3494B6
-    t_singer_master_id: '1403'
-    singer_name: 田端 義夫
-    singer_alias:
-    available_date: '2015-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていこのはな
-    singer_name_ruby: たはたよしお
-    song_variation:
-    - esong_code: 3494B6
-      song_name: デイゴの花
       content_type: ''

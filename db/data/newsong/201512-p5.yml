@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
+  - song_name: イブの時代っ!
+    song_alias:
+    esong_code: 3564B16
+    t_singer_master_id: '50955'
+    singer_name: 日向美ビタースイーツ♪
+    singer_alias:
+    available_date: '2015-12-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ひなビタ♪<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いふのしたいつ
+    singer_name_ruby: ひなたひひたすいつ
+    song_variation:
+    - esong_code: 3564B16
+      song_name: イブの時代っ!
+      content_type: ''
   - song_name: 異邦人
     song_alias:
     esong_code: 3570A25
@@ -130,7 +147,7 @@ result:
     song_alias:
     esong_code: 3561B26
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2015-12-01'
     end_date: '2999-04-10 00:00:00'
@@ -315,23 +332,6 @@ result:
       content_type: ''
   - song_name: Wings Flap
     song_alias:
-    esong_code: 3574A46
-    t_singer_master_id: '5250'
-    singer_name: L'Arc〜en〜Ciel
-    singer_alias:
-    available_date: '2015-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ういんくすふらつふ
-    singer_name_ruby: らるくあんしえる
-    song_variation:
-    - esong_code: 3574A46
-      song_name: Wings Flap
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Wings Flap
-    song_alias:
     esong_code: 3370B36
     t_singer_master_id: '5250'
     singer_name: L'Arc〜en〜Ciel
@@ -347,6 +347,23 @@ result:
     - esong_code: 3370B36
       song_name: Wings Flap
       content_type: ''
+  - song_name: Wings Flap
+    song_alias:
+    esong_code: 3574A46
+    t_singer_master_id: '5250'
+    singer_name: L'Arc〜en〜Ciel
+    singer_alias:
+    available_date: '2015-12-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ういんくすふらつふ
+    singer_name_ruby: らるくあんしえる
+    song_variation:
+    - esong_code: 3574A46
+      song_name: Wings Flap
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Winter Song ft.MIHIRO〜マイロ〜
     song_alias:
     esong_code: 3561B35
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3566A4
       song_name: 嘘をつく唇
-      content_type: ''
-  - song_name: 泡沫
-    song_alias:
-    esong_code: 3569B20
-    t_singer_master_id: '33573'
-    singer_name: 己龍
-    singer_alias:
-    available_date: '2015-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたかた
-    singer_name_ruby: きりゆう
-    song_variation:
-    - esong_code: 3569B20
-      song_name: 泡沫
       content_type: ''

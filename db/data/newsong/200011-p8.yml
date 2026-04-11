@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 320
-  all_max_cnt: 344
-  all_country_cnt: 320
+  max_cnt: 319
+  all_max_cnt: 343
+  all_country_cnt: 319
   song:
-  - song_name: Paining rain(Teru & Kan Version)
-    song_alias:
-    esong_code: 461A24
-    t_singer_master_id: '8506'
-    singer_name: 野猿
-    singer_alias:
-    available_date: '2000-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へいにんくれいん
-    singer_name_ruby: やえん
-    song_variation:
-    - esong_code: 461A24
-      song_name: Paining rain(Teru & Kan Version)
-      content_type: ''
   - song_name: Baby I want you.
     song_alias:
     esong_code: 483A29
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 460B36
       song_name: Mysterious
+      content_type: ''
+  - song_name: 道
+    song_alias:
+    esong_code: 483A22
+    t_singer_master_id: '1639'
+    singer_name: 中西 圭三
+    singer_alias:
+    available_date: '2000-11-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みち
+    singer_name_ruby: なかにしけいそう
+    song_variation:
+    - esong_code: 483A22
+      song_name: 道
       content_type: ''

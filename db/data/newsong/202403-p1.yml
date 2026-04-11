@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1213
-  all_country_cnt: 1098
+  max_cnt: 1168
+  all_max_cnt: 1331
+  all_country_cnt: 1168
   song:
   - song_name: 愛をください
     song_alias:
@@ -364,6 +364,23 @@ result:
     - esong_code: 4952A24
       song_name: As you wish
       content_type: ''
+  - song_name: 褪せない feat.りりあ。
+    song_alias:
+    esong_code: 4948A21
+    t_singer_master_id: '70022'
+    singer_name: MIMiNARI
+    singer_alias:
+    available_date: '2024-03-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あせない
+    singer_name_ruby: みみなり
+    song_variation:
+    - esong_code: 4948A21
+      song_name: 褪せない feat.りりあ。
+      content_type: ''
   - song_name: 値千金
     song_alias:
     esong_code: 4950B6
@@ -398,6 +415,40 @@ result:
     - esong_code: 4950B18
       song_name: "「熱き星たちよ」 横浜DeNAベイスターズ球団歌"
       content_type: ''
+  - song_name: 厚化粧の女
+    song_alias:
+    esong_code: 4946B40
+    t_singer_master_id: '2410'
+    singer_name: 森 進一
+    singer_alias:
+    available_date: '2024-03-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あつけしようのおん
+    singer_name_ruby: もりしんいち
+    song_variation:
+    - esong_code: 4946B40
+      song_name: 厚化粧の女
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: Ashes
+    song_alias:
+    esong_code: 4952A1
+    t_singer_master_id: '29531'
+    singer_name: Superfly
+    singer_alias:
+    available_date: '2024-03-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: あつしゆす
+    singer_name_ruby: すはふらい
+    song_variation:
+    - esong_code: 4952A1
+      song_name: Ashes
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Adventure
     song_alias:
     esong_code: 4946A45
@@ -466,54 +517,3 @@ result:
     - esong_code: 4950A30
       song_name: 貴方の恋人になりたい [歌ってみた利用OK]
       content_type: 歌ってみた利用OK
-  - song_name: 貴方の恋人になりたい
-    song_alias:
-    esong_code: 4947B27
-    t_singer_master_id: '54394'
-    singer_name: 野田 愛実
-    singer_alias:
-    available_date: '2024-03-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたのこいひとに
-    singer_name_ruby: のたえみ
-    song_variation:
-    - esong_code: 4947B27
-      song_name: 貴方の恋人になりたい
-      content_type: ''
-  - song_name: あなたのすべてを
-    song_alias:
-    esong_code: 4954A49
-    t_singer_master_id: '1204'
-    singer_name: 菅原 洋一
-    singer_alias:
-    available_date: '2024-03-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたのすへてを
-    singer_name_ruby: すかわらよういち
-    song_variation:
-    - esong_code: 4954A49
-      song_name: あなたのすべてを
-      content_type: ''
-  - song_name: あなたへ
-    song_alias:
-    esong_code: 4946A48
-    t_singer_master_id: '50453'
-    singer_name: WEST.
-    singer_alias:
-    available_date: '2024-03-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたへ
-    singer_name_ruby: うえすと
-    song_variation:
-    - esong_code: 4946A48
-      song_name: あなたへ
-      content_type: ''

@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1132
-  all_country_cnt: 1023
+  max_cnt: 1015
+  all_max_cnt: 1124
+  all_country_cnt: 1015
   song:
+  - song_name: 赤い糸
+    song_alias:
+    esong_code: 2150A10
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
+    singer_alias:
+    available_date: '2008-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あかいいと
+    singer_name_ruby: こふくろ
+    song_variation:
+    - esong_code: 2150A10
+      song_name: 赤い糸
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 赤い糸
+    song_alias:
+    esong_code: 2179B48
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
+    singer_alias:
+    available_date: '2008-11-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あかいいと
+    singer_name_ruby: こふくろ
+    song_variation:
+    - esong_code: 2179B48
+      song_name: 赤い糸
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 赤い糸
     song_alias:
     esong_code: 2162A38
@@ -41,40 +75,6 @@ result:
     - esong_code: 2175B4
       song_name: 赤い糸 (ビデオクリップVer.)
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 赤い糸
-    song_alias:
-    esong_code: 2179B48
-    t_singer_master_id: '12187'
-    singer_name: コブクロ
-    singer_alias:
-    available_date: '2008-11-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あかいいと
-    singer_name_ruby: こふくろ
-    song_variation:
-    - esong_code: 2179B48
-      song_name: 赤い糸
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 赤い糸
-    song_alias:
-    esong_code: 2150A10
-    t_singer_master_id: '12187'
-    singer_name: コブクロ
-    singer_alias:
-    available_date: '2008-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あかいいと
-    singer_name_ruby: こふくろ
-    song_variation:
-    - esong_code: 2150A10
-      song_name: 赤い糸
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 赤いルージュ
     song_alias:
     esong_code: 2155A12
@@ -126,7 +126,7 @@ result:
     - esong_code: 1130B46
       song_name: 悪魔の黒十字軍
       content_type: ''
-  - song_name: AGGRESSIVE 〜LIVE TOUR 2008 THE FACE〜
+  - song_name: AGGRESSIVE
     song_alias:
     esong_code: 2146A31
     t_singer_master_id: '12544'
@@ -136,13 +136,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMﾗｲﾌﾞ
     song_name_ruby: あくれつしふ
     singer_name_ruby: ほあ
     song_variation:
     - esong_code: 2146A31
-      song_name: AGGRESSIVE 〜LIVE TOUR 2008 THE FACE〜
-      content_type: DAM生音
+      song_name: AGGRESSIVE
+      content_type: DAMﾗｲﾌﾞ
   - song_name: Across The Sky
     song_alias:
     esong_code: 2147B22
@@ -264,23 +264,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: あしたの空
     song_alias:
-    esong_code: 2146A3
-    t_singer_master_id: '7256'
-    singer_name: SPEED
-    singer_alias:
-    available_date: '2008-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あしたのそら
-    singer_name_ruby: すひと
-    song_variation:
-    - esong_code: 2146A3
-      song_name: あしたの空
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: あしたの空
-    song_alias:
     esong_code: 2132B19
     t_singer_master_id: '7256'
     singer_name: SPEED
@@ -296,6 +279,23 @@ result:
     - esong_code: 2132B19
       song_name: あしたの空
       content_type: ''
+  - song_name: あしたの空
+    song_alias:
+    esong_code: 2146A3
+    t_singer_master_id: '7256'
+    singer_name: SPEED
+    singer_alias:
+    available_date: '2008-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: あしたのそら
+    singer_name_ruby: すひと
+    song_variation:
+    - esong_code: 2146A3
+      song_name: あしたの空
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 明日も逢いましょう
     song_alias:
     esong_code: 2170B4
@@ -349,23 +349,6 @@ result:
       content_type: ''
   - song_name: あすなろ
     song_alias:
-    esong_code: 2184A47
-    t_singer_master_id: '23578'
-    singer_name: SunSet Swish
-    singer_alias:
-    available_date: '2008-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あすなろ
-    singer_name_ruby: さんせつとすういつしゆ
-    song_variation:
-    - esong_code: 2184A47
-      song_name: あすなろ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: あすなろ
-    song_alias:
     esong_code: 2133A13
     t_singer_master_id: '23578'
     singer_name: SunSet Swish
@@ -381,6 +364,23 @@ result:
     - esong_code: 2133A13
       song_name: あすなろ
       content_type: ''
+  - song_name: あすなろ
+    song_alias:
+    esong_code: 2184A47
+    t_singer_master_id: '23578'
+    singer_name: SunSet Swish
+    singer_alias:
+    available_date: '2008-11-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あすなろ
+    singer_name_ruby: さんせつとすういつしゆ
+    song_variation:
+    - esong_code: 2184A47
+      song_name: あすなろ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: あすなろ坂
     song_alias:
     esong_code: 2133A25

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
   - song_name: ウルトラネイビー
     song_alias:
@@ -432,23 +432,6 @@ result:
     - esong_code: 1573B19
       song_name: 演歌連れ
       content_type: ''
-  - song_name: Angel Heart
-    song_alias:
-    esong_code: 3376B17
-    t_singer_master_id: '18590'
-    singer_name: EXILE ATSUSHI
-    singer_alias:
-    available_date: '2014-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんしえるはと
-    singer_name_ruby: えくさいるあつし
-    song_variation:
-    - esong_code: 3376B17
-      song_name: Angel Heart
-      content_type: ''
   - song_name: Angel Heart [DAM本人歌唱]
     song_alias:
     esong_code: 3371A15
@@ -466,6 +449,23 @@ result:
     - esong_code: 3371A15
       song_name: Angel Heart [DAM本人歌唱]
       content_type: DAM本人歌唱
+  - song_name: Angel Heart
+    song_alias:
+    esong_code: 3376B17
+    t_singer_master_id: '18590'
+    singer_name: EXILE ATSUSHI
+    singer_alias:
+    available_date: '2014-12-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんしえるはと
+    singer_name_ruby: えくさいるあつし
+    song_variation:
+    - esong_code: 3376B17
+      song_name: Angel Heart
+      content_type: ''
   - song_name: Angel Voice 〜天使の約束〜
     song_alias:
     esong_code: 3367A10

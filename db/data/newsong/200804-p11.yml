@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
+  - song_name: K
+    song_alias:
+    esong_code: 1987A44
+    t_singer_master_id: '25339'
+    singer_name: Metis
+    singer_alias:
+    available_date: '2008-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けい
+    singer_name_ruby: めていす
+    song_variation:
+    - esong_code: 1987A44
+      song_name: K
+      content_type: ''
   - song_name: K・S・K 〜君のその手はここにある〜
     song_alias:
     esong_code: 1986A49
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1931B6
       song_name: 心にカラフル
-      content_type: ''
-  - song_name: 心の部屋
-    song_alias:
-    esong_code: 1980B28
-    t_singer_master_id: '32756'
-    singer_name: Fine
-    singer_alias:
-    available_date: '2008-04-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころのへや
-    singer_name_ruby: ふあいん
-    song_variation:
-    - esong_code: 1980B28
-      song_name: 心の部屋
       content_type: ''

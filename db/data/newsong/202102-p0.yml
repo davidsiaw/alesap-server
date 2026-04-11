@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 869
-  all_max_cnt: 950
-  all_country_cnt: 869
+  max_cnt: 856
+  all_max_cnt: 937
+  all_country_cnt: 856
   song:
   - song_name: あゝオオサカdreamin'night [歌ってみた利用OK]
     song_alias:
@@ -347,23 +347,6 @@ result:
     - esong_code: 4473B9
       song_name: I LOVE&NEED YOU
       content_type: ''
-  - song_name: アイラヴユー
-    song_alias:
-    esong_code: 4464B45
-    t_singer_master_id: '31983'
-    singer_name: SUPER BEAVER
-    singer_alias:
-    available_date: '2021-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいらふゆ
-    singer_name_ruby: すはひは
-    song_variation:
-    - esong_code: 4464B45
-      song_name: アイラヴユー
-      content_type: ''
   - song_name: I LOVE YOU
     song_alias:
     esong_code: 4477B28
@@ -380,6 +363,23 @@ result:
     song_variation:
     - esong_code: 4477B28
       song_name: I LOVE YOU
+      content_type: ''
+  - song_name: アイラヴユー
+    song_alias:
+    esong_code: 4464B45
+    t_singer_master_id: '31983'
+    singer_name: SUPER BEAVER
+    singer_alias:
+    available_date: '2021-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいらふゆ
+    singer_name_ruby: すはひは
+    song_variation:
+    - esong_code: 4464B45
+      song_name: アイラヴユー
       content_type: ''
   - song_name: 愛を着て
     song_alias:
@@ -500,20 +500,20 @@ result:
     - esong_code: 4471A2
       song_name: アカシア
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 赤ネ鳳
+  - song_name: AKIRAメナイ
     song_alias:
-    esong_code: 4468A17
-    t_singer_master_id: '44887'
-    singer_name: 梅とら
+    esong_code: 4469B24
+    t_singer_master_id: '64470'
+    singer_name: OZworld a.k.a. R'kuma
     singer_alias:
-    available_date: '2021-02-11'
+    available_date: '2021-02-02'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: あかねあけは
-    singer_name_ruby: うめとら
+    content_type:
+    song_name_ruby: あきらめない
+    singer_name_ruby: おすわるとえけえれおくま
     song_variation:
-    - esong_code: 4468A17
-      song_name: 赤ネ鳳
-      content_type: VOCALOID
+    - esong_code: 4469B24
+      song_name: AKIRAメナイ
+      content_type: ''

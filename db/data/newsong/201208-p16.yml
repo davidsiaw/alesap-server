@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: 純情主義
-    song_alias:
-    esong_code: 2839B13
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2012-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆんしようしゆ
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 2839B13
-      song_name: 純情主義
-      content_type: ''
   - song_name: JOIN US
     song_alias:
     esong_code: 2838A25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2838A10
       song_name: スキャンダラスに行こう!
+      content_type: ''
+  - song_name: 好きよ、純情反抗期。
+    song_alias:
+    esong_code: 2244B12
+    t_singer_master_id: '39220'
+    singer_name: アンジュルム(スマイレージ)
+    singer_alias:
+    available_date: '2012-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すきよしゆんしよ
+    singer_name_ruby: あんしゆるむ
+    song_variation:
+    - esong_code: 2244B12
+      song_name: 好きよ、純情反抗期。
       content_type: ''

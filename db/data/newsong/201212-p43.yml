@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1586
-  all_max_cnt: 1734
-  all_country_cnt: 1586
+  max_cnt: 1581
+  all_max_cnt: 1729
+  all_country_cnt: 1581
   song:
-  - song_name: 街
-    song_alias:
-    esong_code: 2945A37
-    t_singer_master_id: '43885'
-    singer_name: Liz Triangle
-    singer_alias:
-    available_date: '2012-12-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まち
-    singer_name_ruby: りすとらいあんくる
-    song_variation:
-    - esong_code: 2945A37
-      song_name: 街
-      content_type: ''
-  - song_name: 街角酒場
-    song_alias:
-    esong_code: 2944A36
-    t_singer_master_id: '42158'
-    singer_name: 翼 はじめ
-    singer_alias:
-    available_date: '2012-12-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まちかとさかは
-    singer_name_ruby: つはさはしめ
-    song_variation:
-    - esong_code: 2944A36
-      song_name: 街角酒場
-      content_type: ''
-  - song_name: 松山しぐれ
-    song_alias:
-    esong_code: 2961A43
-    t_singer_master_id: '1165'
-    singer_name: 城之内 早苗
-    singer_alias:
-    available_date: '2012-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: まつやましくれ
-    singer_name_ruby: しようのうちさなえ
-    song_variation:
-    - esong_code: 2961A43
-      song_name: 松山しぐれ
-      content_type: JOY生演奏
   - song_name: Material Star
     song_alias:
     esong_code: 2950B12
@@ -415,23 +364,6 @@ result:
     - esong_code: 390B11
       song_name: MIX BLOOD
       content_type: ''
-  - song_name: Missing (Orchestra version)
-    song_alias:
-    esong_code: 2953A43
-    t_singer_master_id: '8492'
-    singer_name: 浜崎 あゆみ
-    singer_alias:
-    available_date: '2012-12-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みつしんく
-    singer_name_ruby: はまさきあゆみ
-    song_variation:
-    - esong_code: 2953A43
-      song_name: Missing (Orchestra version)
-      content_type: ''
   - song_name: Missing (Dubscribe remix)
     song_alias:
     esong_code: 2950A38
@@ -449,23 +381,23 @@ result:
     - esong_code: 2950A38
       song_name: Missing (Dubscribe remix)
       content_type: ''
-  - song_name: 港のセレナーデ
+  - song_name: Missing (Orchestra version)
     song_alias:
-    esong_code: 2949A18
-    t_singer_master_id: '10253'
-    singer_name: チェウニ
+    esong_code: 2953A43
+    t_singer_master_id: '8492'
+    singer_name: 浜崎 あゆみ
     singer_alias:
-    available_date: '2012-12-18'
+    available_date: '2012-12-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: みなとのせれなて
-    singer_name_ruby: ちえうに
+    content_type:
+    song_name_ruby: みつしんく
+    singer_name_ruby: はまさきあゆみ
     song_variation:
-    - esong_code: 2949A18
-      song_name: 港のセレナーデ
-      content_type: DAMﾌﾟﾛｵｹ
+    - esong_code: 2953A43
+      song_name: Missing (Orchestra version)
+      content_type: ''
   - song_name: 港のセレナーデ
     song_alias:
     esong_code: 2948B41
@@ -483,6 +415,23 @@ result:
     - esong_code: 2948B41
       song_name: 港のセレナーデ
       content_type: DAM生音
+  - song_name: 港のセレナーデ
+    song_alias:
+    esong_code: 2949A18
+    t_singer_master_id: '10253'
+    singer_name: チェウニ
+    singer_alias:
+    available_date: '2012-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: みなとのせれなて
+    singer_name_ruby: ちえうに
+    song_variation:
+    - esong_code: 2949A18
+      song_name: 港のセレナーデ
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 港町銀河
     song_alias:
     esong_code: 2963A2
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2962B6
       song_name: 港町慕情
+      content_type: ''
+  - song_name: 身につまされて・・・
+    song_alias:
+    esong_code: 2951A23
+    t_singer_master_id: '570'
+    singer_name: 加門 亮
+    singer_alias:
+    available_date: '2012-12-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みにつまされて
+    singer_name_ruby: かもんりよう
+    song_variation:
+    - esong_code: 2951A23
+      song_name: 身につまされて・・・
+      content_type: ''
+  - song_name: ミーのカー
+    song_alias:
+    esong_code: 769A48
+    t_singer_master_id: '12077'
+    singer_name: ゆらゆら帝国
+    singer_alias:
+    available_date: '2012-12-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みのか
+    singer_name_ruby: ゆらゆらていこく
+    song_variation:
+    - esong_code: 769A48
+      song_name: ミーのカー
+      content_type: ''
+  - song_name: 美童ぬ花
+    song_alias:
+    esong_code: 2946B21
+    t_singer_master_id: '46585'
+    singer_name: 村吉 茜
+    singer_alias:
+    available_date: '2012-12-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みやらひぬはな
+    singer_name_ruby: むらよしあかね
+    song_variation:
+    - esong_code: 2946B21
+      song_name: 美童ぬ花
       content_type: ''

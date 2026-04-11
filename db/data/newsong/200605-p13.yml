@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1356
-  all_max_cnt: 1472
-  all_country_cnt: 1356
+  max_cnt: 1352
+  all_max_cnt: 1469
+  all_country_cnt: 1352
   song:
-  - song_name: Close To You
-    song_alias:
-    esong_code: 1535B3
-    t_singer_master_id: '1767'
-    singer_name: ハウンド・ドッグ
-    singer_alias:
-    available_date: '2006-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろすとうゆ
-    singer_name_ruby: はうんととつく
-    song_variation:
-    - esong_code: 1535B3
-      song_name: Close To You
-      content_type: ''
   - song_name: Cross road
     song_alias:
     esong_code: 1563B30
@@ -41,23 +24,6 @@ result:
     - esong_code: 1563B30
       song_name: Cross road
       content_type: ''
-  - song_name: CLOVER
-    song_alias:
-    esong_code: 1498B45
-    t_singer_master_id: '24487'
-    singer_name: sifow
-    singer_alias:
-    available_date: '2006-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろは
-    singer_name_ruby: しふおう
-    song_variation:
-    - esong_code: 1498B45
-      song_name: CLOVER
-      content_type: ''
   - song_name: クローバー
     song_alias:
     esong_code: 1499A23
@@ -74,6 +40,23 @@ result:
     song_variation:
     - esong_code: 1499A23
       song_name: クローバー
+      content_type: ''
+  - song_name: CLOVER
+    song_alias:
+    esong_code: 1498B45
+    t_singer_master_id: '24487'
+    singer_name: sifow
+    singer_alias:
+    available_date: '2006-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くろは
+    singer_name_ruby: しふおう
+    song_variation:
+    - esong_code: 1498B45
+      song_name: CLOVER
       content_type: ''
   - song_name: Glory of Life (English version)
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 1513A36
       song_name: 氷酒
       content_type: DAM生音
+  - song_name: 氷酒
+    song_alias:
+    esong_code: 1498B20
+    t_singer_master_id: '14046'
+    singer_name: 大黒 裕貴
+    singer_alias:
+    available_date: '2006-05-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こおりさけ
+    singer_name_ruby: おおくろゆき
+    song_variation:
+    - esong_code: 1498B20
+      song_name: 氷酒
+      content_type: ''

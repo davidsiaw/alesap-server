@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 933
-  all_max_cnt: 1037
-  all_country_cnt: 933
+  max_cnt: 932
+  all_max_cnt: 1036
+  all_country_cnt: 932
   song:
-  - song_name: 雪椿 [DAM名演ギター 斎藤 功]
-    song_alias:
-    esong_code: 1779B45
-    t_singer_master_id: '852'
-    singer_name: 小林 幸子(SACHIKO de KOBAYASHI)
-    singer_alias:
-    available_date: '2007-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆきつはき
-    singer_name_ruby: こはやしさちこ
-    song_variation:
-    - esong_code: 1779B45
-      song_name: 雪椿 [DAM名演ギター 斎藤 功]
-      content_type: ''
   - song_name: 雪の結晶(かけら)
     song_alias:
     esong_code: 1780B46
@@ -128,23 +111,6 @@ result:
       content_type: ''
   - song_name: ゆめかぜ
     song_alias:
-    esong_code: 1775B7
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
-    singer_alias:
-    available_date: '2007-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめかせ
-    singer_name_ruby: いつきひろし
-    song_variation:
-    - esong_code: 1775B7
-      song_name: ゆめかぜ
-      content_type: ''
-  - song_name: ゆめかぜ
-    song_alias:
     esong_code: 1779B3
     t_singer_master_id: '221'
     singer_name: 五木 ひろし
@@ -160,6 +126,23 @@ result:
     - esong_code: 1779B3
       song_name: ゆめかぜ
       content_type: DAM生音
+  - song_name: ゆめかぜ
+    song_alias:
+    esong_code: 1775B7
+    t_singer_master_id: '221'
+    singer_name: 五木 ひろし
+    singer_alias:
+    available_date: '2007-05-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめかせ
+    singer_name_ruby: いつきひろし
+    song_variation:
+    - esong_code: 1775B7
+      song_name: ゆめかぜ
+      content_type: ''
   - song_name: 夢で逢いましょう
     song_alias:
     esong_code: 1662B10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1776A9
       song_name: LOVER
+      content_type: ''
+  - song_name: Love&Dream
+    song_alias:
+    esong_code: 1781A3
+    t_singer_master_id: '26247'
+    singer_name: Aice5
+    singer_alias:
+    available_date: '2007-05-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふあんととり
+    singer_name_ruby: あいす
+    song_variation:
+    - esong_code: 1781A3
+      song_name: Love&Dream
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1127
-  all_max_cnt: 1243
-  all_country_cnt: 1127
+  max_cnt: 1112
+  all_max_cnt: 1228
+  all_country_cnt: 1112
   song:
-  - song_name: Into Your Eyes
-    song_alias:
-    esong_code: 3931B41
-    t_singer_master_id: '60444'
-    singer_name: 中間 淳太&藤井 流星&小瀧 望(ジャニーズWEST)
-    singer_alias:
-    available_date: '2018-01-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いんとうゆああいす
-    singer_name_ruby: なかましゆんたふしいり
-    song_variation:
-    - esong_code: 3931B41
-      song_name: Into Your Eyes
-      content_type: ''
   - song_name: WeAre-A
     song_alias:
     esong_code: 3930A4
@@ -145,6 +128,23 @@ result:
       content_type: ''
   - song_name: うたかたの女
     song_alias:
+    esong_code: 1937B10
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2018-01-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: うたかたのおんな
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 1937B10
+      song_name: うたかたの女
+      content_type: JOY生演奏
+  - song_name: うたかたの女
+    song_alias:
     esong_code: 1970A46
     t_singer_master_id: '5034'
     singer_name: 市川 由紀乃
@@ -177,23 +177,6 @@ result:
     - esong_code: 3652B9
       song_name: うたかたの女
       content_type: ''
-  - song_name: うたかたの女
-    song_alias:
-    esong_code: 1937B10
-    t_singer_master_id: '5034'
-    singer_name: 市川 由紀乃
-    singer_alias:
-    available_date: '2018-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: うたかたのおんな
-    singer_name_ruby: いちかわゆきの
-    song_variation:
-    - esong_code: 1937B10
-      song_name: うたかたの女
-      content_type: JOY生演奏
   - song_name: 宴-祝魂歌-
     song_alias:
     esong_code: 3931B16
@@ -298,6 +281,23 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 海猫挽歌
     song_alias:
+    esong_code: 2140A31
+    t_singer_master_id: '11044'
+    singer_name: 永井 裕子
+    singer_alias:
+    available_date: '2018-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: うみねこはんか
+    singer_name_ruby: なかいゆうこ
+    song_variation:
+    - esong_code: 2140A31
+      song_name: 海猫挽歌
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 海猫挽歌
+    song_alias:
     esong_code: 2140A44
     t_singer_master_id: '11044'
     singer_name: 永井 裕子
@@ -330,23 +330,6 @@ result:
     - esong_code: 2139A11
       song_name: 海猫挽歌
       content_type: JOY生演奏
-  - song_name: 海猫挽歌
-    song_alias:
-    esong_code: 2140A31
-    t_singer_master_id: '11044'
-    singer_name: 永井 裕子
-    singer_alias:
-    available_date: '2018-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: うみねこはんか
-    singer_name_ruby: なかいゆうこ
-    song_variation:
-    - esong_code: 2140A31
-      song_name: 海猫挽歌
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ウラハラ
     song_alias:
     esong_code: 3938B47
@@ -364,23 +347,6 @@ result:
     - esong_code: 3938B47
       song_name: ウラハラ
       content_type: ''
-  - song_name: OH LA LA
-    song_alias:
-    esong_code: 3931B43
-    t_singer_master_id: '50453'
-    singer_name: WEST.
-    singer_alias:
-    available_date: '2018-01-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うらら
-    singer_name_ruby: うえすと
-    song_variation:
-    - esong_code: 3931B43
-      song_name: OH LA LA
-      content_type: ''
   - song_name: urar
     song_alias:
     esong_code: 3936A28
@@ -397,6 +363,23 @@ result:
     song_variation:
     - esong_code: 3936A28
       song_name: urar
+      content_type: ''
+  - song_name: OH LA LA
+    song_alias:
+    esong_code: 3931B43
+    t_singer_master_id: '50453'
+    singer_name: WEST.
+    singer_alias:
+    available_date: '2018-01-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うらら
+    singer_name_ruby: うえすと
+    song_variation:
+    - esong_code: 3931B43
+      song_name: OH LA LA
       content_type: ''
   - song_name: うるとら☆まじかる☆りれーしょん
     song_alias:
@@ -449,7 +432,7 @@ result:
     - esong_code: 3934B25
       song_name: 永遠の夏休み
       content_type: ''
-  - song_name: エイリアンエイリアン
+  - song_name: エイリアンエイリアン [DAM本人歌唱]
     song_alias:
     esong_code: 3931A35
     t_singer_master_id: '54950'
@@ -464,7 +447,7 @@ result:
     singer_name_ruby: なゆたんせいしん
     song_variation:
     - esong_code: 3931A35
-      song_name: エイリアンエイリアン
+      song_name: エイリアンエイリアン [DAM本人歌唱]
       content_type: VOCALOID
   - song_name: えがおは君のためにある
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3934A35
       song_name: SNS24時
+      content_type: ''
+  - song_name: S.O.S
+    song_alias:
+    esong_code: 3934B5
+    t_singer_master_id: '50005'
+    singer_name: 伊東 歌詞太郎
+    singer_alias:
+    available_date: '2018-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: "(18) キミト ツナガル パズル<番組名>"
+    country_code: '0'
+    content_type:
+    song_name_ruby: えすおえす
+    singer_name_ruby: いとうかしたろう
+    song_variation:
+    - esong_code: 3934B5
+      song_name: S.O.S
       content_type: ''

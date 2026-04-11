@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1327
-  all_max_cnt: 1549
-  all_country_cnt: 1327
+  max_cnt: 1314
+  all_max_cnt: 1536
+  all_country_cnt: 1314
   song:
-  - song_name: この街
-    song_alias:
-    esong_code: 3948A33
-    t_singer_master_id: '55483'
-    singer_name: 林部 智史
-    singer_alias:
-    available_date: '2018-02-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: このまち
-    singer_name_ruby: はやしへさとし
-    song_variation:
-    - esong_code: 3948A33
-      song_name: この街
-      content_type: ''
-  - song_name: 誤爆 〜We Can't Go Back〜
-    song_alias:
-    esong_code: 3952A40
-    t_singer_master_id: '60801'
-    singer_name: 一岡伶奈&段原瑠々&川村文乃&高瀬くるみ&清野桃々姫
-    singer_alias:
-    available_date: '2018-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こはくういきやん
-    singer_name_ruby: いちおかれいなたんはらる
-    song_variation:
-    - esong_code: 3952A40
-      song_name: 誤爆 〜We Can't Go Back〜
-      content_type: ''
-  - song_name: 小判鮫の唄
-    song_alias:
-    esong_code: 2136A1
-    t_singer_master_id: '2026'
-    singer_name: 二葉 百合子
-    singer_alias:
-    available_date: '2018-02-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こはんさめのうた
-    singer_name_ruby: ふたはゆりこ
-    song_variation:
-    - esong_code: 2136A1
-      song_name: 小判鮫の唄
-      content_type: ''
   - song_name: GO MY WAY -STEP BY STEP-
     song_alias:
     esong_code: 3948B45
@@ -400,23 +349,6 @@ result:
       content_type: ''
   - song_name: サイレントムーン
     song_alias:
-    esong_code: 1108A49
-    t_singer_master_id: '431'
-    singer_name: 奥村 チヨ
-    singer_alias:
-    available_date: '2018-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: さいれんとむん
-    singer_name_ruby: おくむらちよ
-    song_variation:
-    - esong_code: 1108A49
-      song_name: サイレントムーン
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: サイレントムーン
-    song_alias:
     esong_code: 1117A44
     t_singer_master_id: '431'
     singer_name: 奥村 チヨ
@@ -432,6 +364,23 @@ result:
     - esong_code: 1117A44
       song_name: サイレントムーン
       content_type: ''
+  - song_name: サイレントムーン
+    song_alias:
+    esong_code: 1108A49
+    t_singer_master_id: '431'
+    singer_name: 奥村 チヨ
+    singer_alias:
+    available_date: '2018-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: さいれんとむん
+    singer_name_ruby: おくむらちよ
+    song_variation:
+    - esong_code: 1108A49
+      song_name: サイレントムーン
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: サイレントメロディー
     song_alias:
     esong_code: 3955A25
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3954A45
       song_name: サクラエール
+      content_type: ''
+  - song_name: さくら咲く青い春
+    song_alias:
+    esong_code: 3953A6
+    t_singer_master_id: '44493'
+    singer_name: SILENT SIREN(Silent Siren)
+    singer_alias:
+    available_date: '2018-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: リルリルフェアリル 〜魔法の鏡〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらさくあおいはる
+    singer_name_ruby: さいれんとさいれん
+    song_variation:
+    - esong_code: 3953A6
+      song_name: さくら咲く青い春
+      content_type: ''
+  - song_name: 桜のように
+    song_alias:
+    esong_code: 1191A16
+    t_singer_master_id: '42102'
+    singer_name: アローナイツ(木下あきら)
+    singer_alias:
+    available_date: '2018-02-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらのように
+    singer_name_ruby: あろないつきのしたあきら
+    song_variation:
+    - esong_code: 1191A16
+      song_name: 桜のように
+      content_type: ''
+  - song_name: Circle
+    song_alias:
+    esong_code: 3953A46
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2018-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくる
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 3953A46
+      song_name: Circle
       content_type: ''

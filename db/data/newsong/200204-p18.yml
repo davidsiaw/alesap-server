@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: 水虫の唄
+    song_alias:
+    esong_code: 817B28
+    t_singer_master_id: '1978'
+    singer_name: ザ・フォーク・クルセダーズ
+    singer_alias:
+    available_date: '2002-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすむしのうた
+    singer_name_ruby: さふおくくるせた
+    song_variation:
+    - esong_code: 817B28
+      song_name: 水虫の唄
+      content_type: ''
+  - song_name: 乱されて
+    song_alias:
+    esong_code: 104A45
+    t_singer_master_id: '1512'
+    singer_name: テレサ・テン
+    singer_alias:
+    available_date: '2002-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みたされて
+    singer_name_ruby: てれさてん
+    song_variation:
+    - esong_code: 104A45
+      song_name: 乱されて
+      content_type: ''
   - song_name: 道
     song_alias:
     esong_code: 102B41
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 817A36
       song_name: 湯島の花嫁さん
-      content_type: ''
-  - song_name: 湯の町椿
-    song_alias:
-    esong_code: 104B41
-    t_singer_master_id: '501'
-    singer_name: 神楽坂 はん子
-    singer_alias:
-    available_date: '2002-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆのまちつはき
-    singer_name_ruby: かくらさかはんこ
-    song_variation:
-    - esong_code: 104B41
-      song_name: 湯の町椿
-      content_type: ''
-  - song_name: 指切りの街
-    song_alias:
-    esong_code: 104B42
-    t_singer_master_id: '1097'
-    singer_name: 新川 二朗
-    singer_alias:
-    available_date: '2002-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆひきりのまち
-    singer_name_ruby: しんかわしろう
-    song_variation:
-    - esong_code: 104B42
-      song_name: 指切りの街
       content_type: ''

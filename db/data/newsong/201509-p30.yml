@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
+  - song_name: ののしって
+    song_alias:
+    esong_code: 3490B13
+    t_singer_master_id: '54141'
+    singer_name: スルースキルズ
+    singer_alias:
+    available_date: '2015-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ののしつて
+    singer_name_ruby: するすきるす
+    song_variation:
+    - esong_code: 3490B13
+      song_name: ののしって
+      content_type: ''
   - song_name: No No No
     song_alias:
     esong_code: 3494B18
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3495B48
       song_name: PASSION BEAT
-      content_type: ''
-  - song_name: Bad Sweet Trap
-    song_alias:
-    esong_code: 3497A40
-    t_singer_master_id: '41517'
-    singer_name: LiSA
-    singer_alias:
-    available_date: '2015-09-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はつとすいとと
-    singer_name_ruby: りさ
-    song_variation:
-    - esong_code: 3497A40
-      song_name: Bad Sweet Trap
       content_type: ''

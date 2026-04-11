@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1126
-  all_max_cnt: 1256
-  all_country_cnt: 1126
+  max_cnt: 1125
+  all_max_cnt: 1255
+  all_country_cnt: 1125
   song:
   - song_name: 人間定義
     song_alias:
@@ -26,13 +26,30 @@ result:
       content_type: ''
   - song_name: Naked arms
     song_alias:
+    esong_code: 2590A3
+    t_singer_master_id: '7067'
+    singer_name: T.M.Revolution
+    singer_alias:
+    available_date: '2010-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 戦国BASARA<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ねいきつとあむす
+    singer_name_ruby: ていえむれほりゆしよん
+    song_variation:
+    - esong_code: 2590A3
+      song_name: Naked arms
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Naked arms
+    song_alias:
     esong_code: 2579B37
     t_singer_master_id: '7067'
     singer_name: T.M.Revolution
     singer_alias:
     available_date: '2010-08-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA3<番組名>
+    tie_up: 戦国BASARA<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ねいきつとあむす
@@ -49,7 +66,7 @@ result:
     singer_alias:
     available_date: '2010-08-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA3<番組名>
+    tie_up: 戦国BASARA<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ねいきつとあむす
@@ -58,23 +75,6 @@ result:
     - esong_code: 2580A44
       song_name: Naked arms (English ver.)
       content_type: ''
-  - song_name: Naked arms
-    song_alias:
-    esong_code: 2590A3
-    t_singer_master_id: '7067'
-    singer_name: T.M.Revolution
-    singer_alias:
-    available_date: '2010-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA3<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ねいきつとあむす
-    singer_name_ruby: ていえむれほりゆしよん
-    song_variation:
-    - esong_code: 2590A3
-      song_name: Naked arms
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Nature Mind
     song_alias:
     esong_code: 2583A19
@@ -117,7 +117,7 @@ result:
     singer_alias:
     available_date: '2010-08-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ-蒼空の電撃戦 新隊長 奮闘する!-<番組名>
+    tie_up: ストライクウィッチーズ(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ねかいのともしひ
@@ -261,23 +261,6 @@ result:
     song_variation:
     - esong_code: 2576B22
       song_name: not vide ID
-      content_type: ''
-  - song_name: "「Not Found」"
-    song_alias:
-    esong_code: 2581A33
-    t_singer_master_id: '18146'
-    singer_name: HERO
-    singer_alias:
-    available_date: '2010-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のつとふあうんと
-    singer_name_ruby: ひろ
-    song_variation:
-    - esong_code: 2581A33
-      song_name: "「Not Found」"
       content_type: ''
   - song_name: 野づらの旅路
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2578B32
       song_name: 羽豆岬
+      content_type: ''
+  - song_name: PUZZLE-RIDDLE
+    song_alias:
+    esong_code: 2585B13
+    t_singer_master_id: '40522'
+    singer_name: LINA OHTA
+    singer_alias:
+    available_date: '2010-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はするりとる
+    singer_name_ruby: りなおおた
+    song_variation:
+    - esong_code: 2585B13
+      song_name: PUZZLE-RIDDLE
       content_type: ''

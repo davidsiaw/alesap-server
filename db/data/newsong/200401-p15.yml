@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 564
-  all_max_cnt: 620
-  all_country_cnt: 564
+  max_cnt: 562
+  all_max_cnt: 618
+  all_country_cnt: 562
   song:
-  - song_name: 星の旅
-    song_alias:
-    esong_code: 250B6
-    t_singer_master_id: '147'
-    singer_name: あんべ 光俊
-    singer_alias:
-    available_date: '2004-01-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしのたひ
-    singer_name_ruby: あんへみつとし
-    song_variation:
-    - esong_code: 250B6
-      song_name: 星の旅
-      content_type: ''
   - song_name: ほたる草
     song_alias:
     esong_code: 982A18
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 978B3
       song_name: "・・・みたいなアルケー。"
+      content_type: ''
+  - song_name: MISSION 1
+    song_alias:
+    esong_code: 966A33
+    t_singer_master_id: '12751'
+    singer_name: KICK THE CAN CREW
+    singer_alias:
+    available_date: '2004-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みつしよん1
+    singer_name_ruby: きつくさかんくる
+    song_variation:
+    - esong_code: 966A33
+      song_name: MISSION 1
       content_type: ''

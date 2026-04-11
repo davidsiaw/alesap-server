@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: Crystal Kayメドレー 〜2000〜
-    song_alias:
-    esong_code: 1587B35
-    t_singer_master_id: '10098'
-    singer_name: Crystal Kay
-    singer_alias:
-    available_date: '2006-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くりすたるけいめと
-    singer_name_ruby: くりすたるけい
-    song_variation:
-    - esong_code: 1587B35
-      song_name: Crystal Kayメドレー 〜2000〜
-      content_type: ''
-  - song_name: Krazy Brain fear.BLACK JAXX
-    song_alias:
-    esong_code: 1624A38
-    t_singer_master_id: '27611'
-    singer_name: KENSHIN
-    singer_alias:
-    available_date: '2006-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くれいしふれい
-    singer_name_ruby: けんしん
-    song_variation:
-    - esong_code: 1624A38
-      song_name: Krazy Brain fear.BLACK JAXX
-      content_type: ''
   - song_name: クレヨンロケット
     song_alias:
     esong_code: 1608A4
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1640A39
       song_name: 恋螢
+      content_type: ''
+  - song_name: 恋物語
+    song_alias:
+    esong_code: 1582B5
+    t_singer_master_id: '26953'
+    singer_name: 紗希
+    singer_alias:
+    available_date: '2006-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: こいものかたり
+    singer_name_ruby: さき
+    song_variation:
+    - esong_code: 1582B5
+      song_name: 恋物語
+      content_type: DAM良音
+  - song_name: 光線
+    song_alias:
+    esong_code: 1640B3
+    t_singer_master_id: '12589'
+    singer_name: 天野 月(天野月子)
+    singer_alias:
+    available_date: '2006-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こうせん
+    singer_name_ruby: あまのつき
+    song_variation:
+    - esong_code: 1640B3
+      song_name: 光線
       content_type: ''

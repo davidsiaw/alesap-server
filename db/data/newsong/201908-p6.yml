@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 977
-  all_max_cnt: 1128
-  all_country_cnt: 977
+  max_cnt: 964
+  all_max_cnt: 1115
+  all_country_cnt: 964
   song:
-  - song_name: お父サンタ
-    song_alias:
-    esong_code: 4229B5
-    t_singer_master_id: '64537'
-    singer_name: カルxピン
-    singer_alias:
-    available_date: '2019-08-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとうさんた
-    singer_name_ruby: かるひん
-    song_variation:
-    - esong_code: 4229B5
-      song_name: お父サンタ
-      content_type: ''
-  - song_name: おとめ桜
-    song_alias:
-    esong_code: 4231A39
-    t_singer_master_id: '57628'
-    singer_name: SALTIE
-    singer_alias:
-    available_date: '2019-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとめさくら
-    singer_name_ruby: そるてい
-    song_variation:
-    - esong_code: 4231A39
-      song_name: おとめ桜
-      content_type: ''
   - song_name: 乙女どもよ。
     song_alias:
     esong_code: 4230A15
@@ -332,23 +298,6 @@ result:
       content_type: ''
   - song_name: 俺でいいのか
     song_alias:
-    esong_code: 4236B30
-    t_singer_master_id: '920'
-    singer_name: 坂本 冬美
-    singer_alias:
-    available_date: '2019-08-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれていいのか
-    singer_name_ruby: さかもとふゆみ
-    song_variation:
-    - esong_code: 4236B30
-      song_name: 俺でいいのか
-      content_type: ''
-  - song_name: 俺でいいのか
-    song_alias:
     esong_code: 4240A6
     t_singer_master_id: '920'
     singer_name: 坂本 冬美
@@ -364,6 +313,23 @@ result:
     - esong_code: 4240A6
       song_name: 俺でいいのか
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 俺でいいのか
+    song_alias:
+    esong_code: 4236B30
+    t_singer_master_id: '920'
+    singer_name: 坂本 冬美
+    singer_alias:
+    available_date: '2019-08-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれていいのか
+    singer_name_ruby: さかもとふゆみ
+    song_variation:
+    - esong_code: 4236B30
+      song_name: 俺でいいのか
+      content_type: ''
   - song_name: 俺に買って
     song_alias:
     esong_code: 4235A20
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4096A44
       song_name: 女のみれん橋
+      content_type: ''
+  - song_name: 甲斐姫物語り
+    song_alias:
+    esong_code: 4241A4
+    t_singer_master_id: '64671'
+    singer_name: 小林 和歌江
+    singer_alias:
+    available_date: '2019-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かいひめものかたり
+    singer_name_ruby: こはやしわかえ
+    song_variation:
+    - esong_code: 4241A4
+      song_name: 甲斐姫物語り
+      content_type: ''
+  - song_name: 帰ってこいよ
+    song_alias:
+    esong_code: 4232A36
+    t_singer_master_id: '61367'
+    singer_name: 朝花 美穂
+    singer_alias:
+    available_date: '2019-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かえつてこいよ
+    singer_name_ruby: あさかみほ
+    song_variation:
+    - esong_code: 4232A36
+      song_name: 帰ってこいよ
       content_type: ''

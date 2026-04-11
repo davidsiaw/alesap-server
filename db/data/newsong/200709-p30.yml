@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: Misty rain
-    song_alias:
-    esong_code: 1871B45
-    t_singer_master_id: '16235'
-    singer_name: 宮本 駿一
-    singer_alias:
-    available_date: '2007-09-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすていれいん
-    singer_name_ruby: みやもとしゆんいち
-    song_variation:
-    - esong_code: 1871B45
-      song_name: Misty rain
-      content_type: ''
   - song_name: MISS YOU
     song_alias:
     esong_code: 1868A14
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1868A7
       song_name: may be tomorrow
+      content_type: ''
+  - song_name: 夫婦海峡
+    song_alias:
+    esong_code: 1859B33
+    t_singer_master_id: '12504'
+    singer_name: 鏡 五郎&真木 柚布子
+    singer_alias:
+    available_date: '2007-09-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めおとかいきよう
+    singer_name_ruby: かかみころうまき
+    song_variation:
+    - esong_code: 1859B33
+      song_name: 夫婦海峡
       content_type: ''

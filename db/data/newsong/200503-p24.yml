@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 759
-  all_max_cnt: 802
-  all_country_cnt: 759
+  max_cnt: 760
+  all_max_cnt: 803
+  all_country_cnt: 760
   song:
   - song_name: Love Letter
     song_alias:
@@ -23,6 +23,23 @@ result:
     song_variation:
     - esong_code: 597A42
       song_name: Love Letter
+      content_type: ''
+  - song_name: LOVE LETTER
+    song_alias:
+    esong_code: 607B44
+    t_singer_master_id: '21988'
+    singer_name: リュ・シウォン
+    singer_alias:
+    available_date: '2005-03-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふれた
+    singer_name_ruby: りゆしうおん
+    song_variation:
+    - esong_code: 607B44
+      song_name: LOVE LETTER
       content_type: ''
   - song_name: ラララ
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 672B45
       song_name: わじれちゃあすが
-      content_type: ''
-  - song_name: 忘れちゃうひととき
-    song_alias:
-    esong_code: 685B41
-    t_singer_master_id: '5620'
-    singer_name: FISHMANS
-    singer_alias:
-    available_date: '2005-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: わすれちやうひととき
-    singer_name_ruby: ふいつしゆまんす
-    song_variation:
-    - esong_code: 685B41
-      song_name: 忘れちゃうひととき
       content_type: ''

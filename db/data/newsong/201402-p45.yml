@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: UNIQUE
-    song_alias:
-    esong_code: 3179A8
-    t_singer_master_id: '20609'
-    singer_name: 加藤 ミリヤ
-    singer_alias:
-    available_date: '2014-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆにく
-    singer_name_ruby: かとうみりや
-    song_variation:
-    - esong_code: 3179A8
-      song_name: UNIQUE
-      content_type: ''
   - song_name: ユビキリ feat.巡音ルカ
     song_alias:
     esong_code: 3201B28
@@ -213,23 +196,6 @@ result:
       content_type: VOCALOID
   - song_name: ゆめのはじまりんりん
     song_alias:
-    esong_code: 3206A13
-    t_singer_master_id: '42876'
-    singer_name: きゃりーぱみゅぱみゅ
-    singer_alias:
-    available_date: '2014-02-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ゆめのはしまりんり
-    singer_name_ruby: きやりはみゆはみゆ
-    song_variation:
-    - esong_code: 3206A13
-      song_name: ゆめのはじまりんりん
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ゆめのはじまりんりん
-    song_alias:
     esong_code: 3205A7
     t_singer_master_id: '42876'
     singer_name: きゃりーぱみゅぱみゅ
@@ -245,6 +211,23 @@ result:
     - esong_code: 3205A7
       song_name: ゆめのはじまりんりん
       content_type: ''
+  - song_name: ゆめのはじまりんりん
+    song_alias:
+    esong_code: 3206A13
+    t_singer_master_id: '42876'
+    singer_name: きゃりーぱみゅぱみゅ
+    singer_alias:
+    available_date: '2014-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ゆめのはしまりんり
+    singer_name_ruby: きやりはみゆはみゆ
+    song_variation:
+    - esong_code: 3206A13
+      song_name: ゆめのはじまりんりん
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 夢螢
     song_alias:
     esong_code: 729A32
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3206B20
       song_name: 夜は短し踊れよ男子
+      content_type: ''
+  - song_name: よろこびのうた
+    song_alias:
+    esong_code: 3201B8
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2014-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よろこひのうた
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 3201B8
+      song_name: よろこびのうた
       content_type: ''
