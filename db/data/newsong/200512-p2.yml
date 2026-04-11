@@ -3,26 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 967
-  all_max_cnt: 1006
-  all_country_cnt: 967
+  max_cnt: 962
+  all_max_cnt: 1001
+  all_country_cnt: 962
   song:
-  - song_name: 雨あがり
+  - song_name: Amazing Grace (全英語詞)
     song_alias:
-    esong_code: 1421B23
-    t_singer_master_id: '8680'
-    singer_name: くるり
+    esong_code: 1439A10
+    t_singer_master_id: '23809'
+    singer_name: mink
     singer_alias:
-    available_date: '2005-12-10'
+    available_date: '2005-12-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: あめあかり
-    singer_name_ruby: くるり
+    song_name_ruby: あめいしんくく
+    singer_name_ruby: みんく
     song_variation:
-    - esong_code: 1421B23
-      song_name: 雨あがり
+    - esong_code: 1439A10
+      song_name: Amazing Grace (全英語詞)
       content_type: ''
   - song_name: AMAZING GRACE ('05)
     song_alias:
@@ -40,23 +40,6 @@ result:
     song_variation:
     - esong_code: 1415B18
       song_name: AMAZING GRACE ('05)
-      content_type: ''
-  - song_name: Amazing Grace (全英語詞)
-    song_alias:
-    esong_code: 1439A10
-    t_singer_master_id: '23809'
-    singer_name: mink
-    singer_alias:
-    available_date: '2005-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめいしんくく
-    singer_name_ruby: みんく
-    song_variation:
-    - esong_code: 1439A10
-      song_name: Amazing Grace (全英語詞)
       content_type: ''
   - song_name: 雨が好きだった
     song_alias:
@@ -143,23 +126,6 @@ result:
     - esong_code: 1412A4
       song_name: Arabesque 〜千夜一夜の夢〜
       content_type: ''
-  - song_name: ありがとう
-    song_alias:
-    esong_code: 1422A40
-    t_singer_master_id: '22531'
-    singer_name: 自由人
-    singer_alias:
-    available_date: '2005-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: しゆうしん
-    song_variation:
-    - esong_code: 1422A40
-      song_name: ありがとう
-      content_type: ''
   - song_name: アリガト
     song_alias:
     esong_code: 562A12
@@ -176,6 +142,23 @@ result:
     song_variation:
     - esong_code: 562A12
       song_name: アリガト
+      content_type: ''
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 1422A40
+    t_singer_master_id: '22531'
+    singer_name: 自由人
+    singer_alias:
+    available_date: '2005-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: しゆうしん
+    song_variation:
+    - esong_code: 1422A40
+      song_name: ありがとう
       content_type: ''
   - song_name: ありそでなさそなギリギリのブルース
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1417B14
       song_name: 遺失物預り所
+      content_type: ''
+  - song_name: イージンサン
+    song_alias:
+    esong_code: 1110B29
+    t_singer_master_id: '2568'
+    singer_name: LA・PPISCH
+    singer_alias:
+    available_date: '2005-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いしんさん
+    singer_name_ruby: れひつしゆ
+    song_variation:
+    - esong_code: 1110B29
+      song_name: イージンサン
       content_type: ''

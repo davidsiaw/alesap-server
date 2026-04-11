@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
-  - song_name: 月夜舟
-    song_alias:
-    esong_code: 2254A40
-    t_singer_master_id: '1267'
-    singer_name: 瀬川 瑛子
-    singer_alias:
-    available_date: '2009-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきよふね
-    singer_name_ruby: せかわえいこ
-    song_variation:
-    - esong_code: 2254A40
-      song_name: 月夜舟
-      content_type: ''
   - song_name: 月夜舟
     song_alias:
     esong_code: 2262B32
@@ -41,6 +24,23 @@ result:
     - esong_code: 2262B32
       song_name: 月夜舟
       content_type: DAM生音
+  - song_name: 月夜舟
+    song_alias:
+    esong_code: 2254A40
+    t_singer_master_id: '1267'
+    singer_name: 瀬川 瑛子
+    singer_alias:
+    available_date: '2009-03-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきよふね
+    singer_name_ruby: せかわえいこ
+    song_variation:
+    - esong_code: 2254A40
+      song_name: 月夜舟
+      content_type: ''
   - song_name: つつがなく (ニューバージョン)
     song_alias:
     esong_code: 2281B43
@@ -74,23 +74,6 @@ result:
     song_variation:
     - esong_code: 2270A13
       song_name: つながりうた もりのおく
-      content_type: ''
-  - song_name: TSUNAMIのジョニー
-    song_alias:
-    esong_code: 2263B12
-    t_singer_master_id: '33453'
-    singer_name: ゴールデンボンバー
-    singer_alias:
-    available_date: '2009-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つなみのしよに
-    singer_name_ruby: こるてんほんは
-    song_variation:
-    - esong_code: 2263B12
-      song_name: TSUNAMIのジョニー
       content_type: ''
   - song_name: 角島の海
     song_alias:
@@ -228,23 +211,6 @@ result:
     - esong_code: 2260A10
       song_name: TAKE OFF
       content_type: ''
-  - song_name: Take Your Hands (i.am.electro REMIX)
-    song_alias:
-    esong_code: 2289B1
-    t_singer_master_id: '21930'
-    singer_name: 東方神起
-    singer_alias:
-    available_date: '2009-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていくゆあはんす
-    singer_name_ruby: とうほうしんき
-    song_variation:
-    - esong_code: 2289B1
-      song_name: Take Your Hands (i.am.electro REMIX)
-      content_type: ''
   - song_name: Take Your Hands
     song_alias:
     esong_code: 2275B38
@@ -261,6 +227,23 @@ result:
     song_variation:
     - esong_code: 2275B38
       song_name: Take Your Hands
+      content_type: ''
+  - song_name: Take Your Hands (i.am.electro REMIX)
+    song_alias:
+    esong_code: 2289B1
+    t_singer_master_id: '21930'
+    singer_name: 東方神起
+    singer_alias:
+    available_date: '2009-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていくゆあはんす
+    singer_name_ruby: とうほうしんき
+    song_variation:
+    - esong_code: 2289B1
+      song_name: Take Your Hands (i.am.electro REMIX)
       content_type: ''
   - song_name: デイジー (Album Ver.)
     song_alias:
@@ -325,7 +308,7 @@ result:
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: ていすたんす
-    singer_name_ruby: とうわいす
+    singer_name_ruby: とうわいす2
     song_variation:
     - esong_code: 2254B9
       song_name: DISTANCE
@@ -483,23 +466,6 @@ result:
     - esong_code: 2264A11
       song_name: Desperado
       content_type: ''
-  - song_name: テネシー・ワルツ
-    song_alias:
-    esong_code: 1134B13
-    t_singer_master_id: '2845'
-    singer_name: 安部 恭弘
-    singer_alias:
-    available_date: '2009-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てねしわるつ
-    singer_name_ruby: あへやすひろ
-    song_variation:
-    - esong_code: 1134B13
-      song_name: テネシー・ワルツ
-      content_type: ''
   - song_name: depression
     song_alias:
     esong_code: 2264A37
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2264A37
       song_name: depression
+      content_type: ''
+  - song_name: デュエットでラララ
+    song_alias:
+    esong_code: 2265A45
+    t_singer_master_id: '8405'
+    singer_name: 飯塚 雅弓
+    singer_alias:
+    available_date: '2009-03-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てゆえつとてらら
+    singer_name_ruby: いいつかまゆみ
+    song_variation:
+    - esong_code: 2265A45
+      song_name: デュエットでラララ
+      content_type: ''
+  - song_name: Tell Me Why
+    song_alias:
+    esong_code: 2289A28
+    t_singer_master_id: '574'
+    singer_name: 加山 雄三
+    singer_alias:
+    available_date: '2009-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てるみほわい
+    singer_name_ruby: かやまゆうそう
+    song_variation:
+    - esong_code: 2289A28
+      song_name: Tell Me Why
       content_type: ''

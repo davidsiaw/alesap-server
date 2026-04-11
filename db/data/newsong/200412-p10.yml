@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 792
-  all_max_cnt: 839
-  all_country_cnt: 792
+  max_cnt: 788
+  all_max_cnt: 835
+  all_country_cnt: 788
   song:
-  - song_name: さようなら世界夫人よ
-    song_alias:
-    esong_code: 992A5
-    t_singer_master_id: '12756'
-    singer_name: 頭脳警察
-    singer_alias:
-    available_date: '2004-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さようならせかいふし
-    singer_name_ruby: すのうけいさつ
-    song_variation:
-    - esong_code: 992A5
-      song_name: さようなら世界夫人よ
-      content_type: ''
   - song_name: さよならフラストレーション
     song_alias:
     esong_code: 938B17
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 987A43
       song_name: 自問自答 <acoustic version>
+      content_type: ''
+  - song_name: Shining☆Days
+    song_alias:
+    esong_code: 977B48
+    t_singer_master_id: '15618'
+    singer_name: 栗林 みな実
+    singer_alias:
+    available_date: '2004-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 舞-HiME<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやいにんくてい
+    singer_name_ruby: くりはやしみなみ
+    song_variation:
+    - esong_code: 977B48
+      song_name: Shining☆Days
       content_type: ''

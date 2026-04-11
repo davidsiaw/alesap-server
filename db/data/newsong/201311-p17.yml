@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
+  - song_name: KOIKO
+    song_alias:
+    esong_code: 780A9
+    t_singer_master_id: '1675'
+    singer_name: 長山 洋子(yoko)
+    singer_alias:
+    available_date: '2013-11-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいこ
+    singer_name_ruby: なかやまようこ
+    song_variation:
+    - esong_code: 780A9
+      song_name: KOIKO
+      content_type: ''
   - song_name: 恋桜
     song_alias:
     esong_code: 1180A44
@@ -434,6 +451,23 @@ result:
       content_type: 東方
   - song_name: GOUNN
     song_alias:
+    esong_code: 3135B1
+    t_singer_master_id: '42680'
+    singer_name: ももいろクローバーZ(ももいろクローバー)
+    singer_alias:
+    available_date: '2013-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: こうん
+    singer_name_ruby: ももいろくろはせつと
+    song_variation:
+    - esong_code: 3135B1
+      song_name: GOUNN
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: GOUNN
+    song_alias:
     esong_code: 3133A1
     t_singer_master_id: '42680'
     singer_name: ももいろクローバーZ(ももいろクローバー)
@@ -483,37 +517,3 @@ result:
     - esong_code: 3138B44
       song_name: GOUNN
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: GOUNN
-    song_alias:
-    esong_code: 3135B1
-    t_singer_master_id: '42680'
-    singer_name: ももいろクローバーZ(ももいろクローバー)
-    singer_alias:
-    available_date: '2013-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こうん
-    singer_name_ruby: ももいろくろはせつと
-    song_variation:
-    - esong_code: 3135B1
-      song_name: GOUNN
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: コ・カ・ツ
-    song_alias:
-    esong_code: 3144B40
-    t_singer_master_id: '49300'
-    singer_name: 日笠 陽子&日高 里菜
-    singer_alias:
-    available_date: '2013-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ロウきゅーぶ!SS<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こかつ
-    singer_name_ruby: ひかさようこひたかりな
-    song_variation:
-    - esong_code: 3144B40
-      song_name: コ・カ・ツ
-      content_type: ''

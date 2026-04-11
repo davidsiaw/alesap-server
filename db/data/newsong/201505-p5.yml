@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1230
-  all_max_cnt: 1369
-  all_country_cnt: 1230
+  max_cnt: 1222
+  all_max_cnt: 1361
+  all_country_cnt: 1222
   song:
-  - song_name: うたかた、夏の終わりに隠した feat.鏡音レン
-    song_alias:
-    esong_code: 3440A5
-    t_singer_master_id: '47115'
-    singer_name: スズム
-    singer_alias:
-    available_date: '2015-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: うたかたなつのおわり
-    singer_name_ruby: すすむ
-    song_variation:
-    - esong_code: 3440A5
-      song_name: うたかた、夏の終わりに隠した feat.鏡音レン
-      content_type: VOCALOID
   - song_name: うたたね
     song_alias:
     esong_code: 3436B7
@@ -60,23 +43,6 @@ result:
       content_type: ''
   - song_name: 有頂天ビバーチェ
     song_alias:
-    esong_code: 3448A29
-    t_singer_master_id: '50185'
-    singer_name: 諏訪 彩花
-    singer_alias:
-    available_date: '2015-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ミカグラ学園組曲<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うちようてんひは
-    singer_name_ruby: すわあやか
-    song_variation:
-    - esong_code: 3448A29
-      song_name: 有頂天ビバーチェ
-      content_type: ''
-  - song_name: 有頂天ビバーチェ
-    song_alias:
     esong_code: 3446A47
     t_singer_master_id: '42795'
     singer_name: Last Note.
@@ -92,6 +58,23 @@ result:
     - esong_code: 3446A47
       song_name: 有頂天ビバーチェ
       content_type: VOCALOID
+  - song_name: 有頂天ビバーチェ
+    song_alias:
+    esong_code: 3448A29
+    t_singer_master_id: '50185'
+    singer_name: 諏訪 彩花
+    singer_alias:
+    available_date: '2015-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ミカグラ学園組曲<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うちようてんひは
+    singer_name_ruby: すわあやか
+    song_variation:
+    - esong_code: 3448A29
+      song_name: 有頂天ビバーチェ
+      content_type: ''
   - song_name: 美しい人よ
     song_alias:
     esong_code: 1151B15
@@ -334,7 +317,7 @@ result:
     song_alias:
     esong_code: 3437B38
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2015-05-19'
     end_date: '2999-04-10 00:00:00'
@@ -442,7 +425,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: えひお
     singer_name_ruby: ろたす
     song_variation:
@@ -462,7 +445,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: えひお
     singer_name_ruby: ろたす
     song_variation:
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3437B48
       song_name: 365 Anniversary
+      content_type: ''
+  - song_name: M-11
+    song_alias:
+    esong_code: 3438B45
+    t_singer_master_id: '12262'
+    singer_name: B-DASH
+    singer_alias:
+    available_date: '2015-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えむしゆういち
+    singer_name_ruby: ひたつしゆ
+    song_variation:
+    - esong_code: 3438B45
+      song_name: M-11
       content_type: ''

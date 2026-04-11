@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 891
-  all_max_cnt: 961
-  all_country_cnt: 891
+  max_cnt: 888
+  all_max_cnt: 956
+  all_country_cnt: 888
   song:
-  - song_name: 夏
-    song_alias:
-    esong_code: 1107A11
-    t_singer_master_id: '15975'
-    singer_name: Amy-N-Ryoo
-    singer_alias:
-    available_date: '2006-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつ
-    singer_name_ruby: えいみあんとりよう
-    song_variation:
-    - esong_code: 1107A11
-      song_name: 夏
-      content_type: ''
-  - song_name: 夏の風
-    song_alias:
-    esong_code: 1675A5
-    t_singer_master_id: '14556'
-    singer_name: タッキー&翼
-    singer_alias:
-    available_date: '2006-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつのかせ
-    singer_name_ruby: たつきあんとつはさ
-    song_variation:
-    - esong_code: 1675A5
-      song_name: 夏の風
-      content_type: ''
-  - song_name: 夏の日々と親父の笑顔
-    song_alias:
-    esong_code: 1661B44
-    t_singer_master_id: '13067'
-    singer_name: くず
-    singer_alias:
-    available_date: '2006-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつのひひとおやし
-    singer_name_ruby: くす
-    song_variation:
-    - esong_code: 1661B44
-      song_name: 夏の日々と親父の笑顔
-      content_type: ''
   - song_name: なでしこ舞華
     song_alias:
     esong_code: 1679A38
@@ -92,23 +41,6 @@ result:
     - esong_code: 1675B3
       song_name: NaNaNa ウィンターガール
       content_type: ''
-  - song_name: 浪花いろは節 (Winter Rock Mix)
-    song_alias:
-    esong_code: 1685A18
-    t_singer_master_id: '20364'
-    singer_name: SUPER EIGHT
-    singer_alias:
-    available_date: '2006-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なにわいろはふし
-    singer_name_ruby: すはえいとかんしやにえいと
-    song_variation:
-    - esong_code: 1685A18
-      song_name: 浪花いろは節 (Winter Rock Mix)
-      content_type: ''
   - song_name: 浪花いろは節 (Trance Mix)
     song_alias:
     esong_code: 1685A19
@@ -125,6 +57,23 @@ result:
     song_variation:
     - esong_code: 1685A19
       song_name: 浪花いろは節 (Trance Mix)
+      content_type: ''
+  - song_name: 浪花いろは節 (Winter Rock Mix)
+    song_alias:
+    esong_code: 1685A18
+    t_singer_master_id: '20364'
+    singer_name: SUPER EIGHT
+    singer_alias:
+    available_date: '2006-11-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なにわいろはふし
+    singer_name_ruby: すはえいとかんしやにえいと
+    song_variation:
+    - esong_code: 1685A18
+      song_name: 浪花いろは節 (Winter Rock Mix)
       content_type: ''
   - song_name: なみだの棧橋 [名演ギター 斉藤 功]
     song_alias:
@@ -279,7 +228,7 @@ result:
     - esong_code: 1690A9
       song_name: 23才の抵抗
       content_type: ''
-  - song_name: NEW FUTURE (HIT STUDIO 60's Live Ver.)
+  - song_name: NEW FUTURE
     song_alias:
     esong_code: 1671A37
     t_singer_master_id: '6904'
@@ -289,13 +238,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMﾗｲﾌﾞ
     song_name_ruby: にゆふゆちや
     singer_name_ruby: へにしりん
     song_variation:
     - esong_code: 1671A37
-      song_name: NEW FUTURE (HIT STUDIO 60's Live Ver.)
-      content_type: DAM生音
+      song_name: NEW FUTURE
+      content_type: DAMﾗｲﾌﾞ
   - song_name: New Frontier
     song_alias:
     esong_code: 1672B12
@@ -466,9 +415,9 @@ result:
     - esong_code: 1693B5
       song_name: Never mind
       content_type: ''
-  - song_name: Never let go (Shingo.S RMX.)
+  - song_name: Never let go (Dance Hall Mix) feat.BASS ODYSSEY
     song_alias:
-    esong_code: 1685A4
+    esong_code: 1685A5
     t_singer_master_id: '20609'
     singer_name: 加藤 ミリヤ
     singer_alias:
@@ -480,8 +429,8 @@ result:
     song_name_ruby: ねはれつとこ
     singer_name_ruby: かとうみりや
     song_variation:
-    - esong_code: 1685A4
-      song_name: Never let go (Shingo.S RMX.)
+    - esong_code: 1685A5
+      song_name: Never let go (Dance Hall Mix) feat.BASS ODYSSEY
       content_type: ''
   - song_name: Never let go (No More Mix)
     song_alias:
@@ -500,9 +449,9 @@ result:
     - esong_code: 1685A6
       song_name: Never let go (No More Mix)
       content_type: ''
-  - song_name: Never let go (Dance Hall Mix) feat.BASS ODYSSEY
+  - song_name: Never let go (Shingo.S RMX.)
     song_alias:
-    esong_code: 1685A5
+    esong_code: 1685A4
     t_singer_master_id: '20609'
     singer_name: 加藤 ミリヤ
     singer_alias:
@@ -514,6 +463,57 @@ result:
     song_name_ruby: ねはれつとこ
     singer_name_ruby: かとうみりや
     song_variation:
-    - esong_code: 1685A5
-      song_name: Never let go (Dance Hall Mix) feat.BASS ODYSSEY
+    - esong_code: 1685A4
+      song_name: Never let go (Shingo.S RMX.)
+      content_type: ''
+  - song_name: 眠っていた気持ち 眠っていたココロ
+    song_alias:
+    esong_code: 1665A31
+    t_singer_master_id: '25642'
+    singer_name: 上木 彩矢
+    singer_alias:
+    available_date: '2006-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: NIGHT HEAD GENESIS 2<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねむつていたきもちね
+    singer_name_ruby: かみきあや
+    song_variation:
+    - esong_code: 1665A31
+      song_name: 眠っていた気持ち 眠っていたココロ
+      content_type: ''
+  - song_name: 眠りの森の君
+    song_alias:
+    esong_code: 1675A32
+    t_singer_master_id: '24220'
+    singer_name: Tourbillon
+    singer_alias:
+    available_date: '2006-11-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねむりのもりのきみ
+    singer_name_ruby: とうるひよん
+    song_variation:
+    - esong_code: 1675A32
+      song_name: 眠りの森の君
+      content_type: ''
+  - song_name: Knockin' At The Door (日本語バージョン)
+    song_alias:
+    esong_code: 1685B38
+    t_singer_master_id: '28496'
+    singer_name: Friends Of Love The Earth Project
+    singer_alias:
+    available_date: '2006-11-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のつきんあつとさと
+    singer_name_ruby: ふれんすおふらふさえ
+    song_variation:
+    - esong_code: 1685B38
+      song_name: Knockin' At The Door (日本語バージョン)
       content_type: ''

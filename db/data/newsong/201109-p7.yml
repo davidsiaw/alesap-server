@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
-  - song_name: おかえりがおまもり
-    song_alias:
-    esong_code: 2667B42
-    t_singer_master_id: '920'
-    singer_name: 坂本 冬美
-    singer_alias:
-    available_date: '2011-09-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おかえりかおまもり
-    singer_name_ruby: さかもとふゆみ
-    song_variation:
-    - esong_code: 2667B42
-      song_name: おかえりがおまもり
-      content_type: DAM生音
   - song_name: おかえりなさい (album.ver)
     song_alias:
     esong_code: 2672A19
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2662B43
       song_name: 父子の誓い
+      content_type: ''
+  - song_name: 親父
+    song_alias:
+    esong_code: 2607B42
+    t_singer_master_id: '43243'
+    singer_name: 辻 千世&仁実 アキラ
+    singer_alias:
+    available_date: '2011-09-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやし
+    singer_name_ruby: つしちよひとみあきら
+    song_variation:
+    - esong_code: 2607B42
+      song_name: 親父
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 385
-  all_max_cnt: 411
-  all_country_cnt: 385
+  max_cnt: 380
+  all_max_cnt: 405
+  all_country_cnt: 380
   song:
-  - song_name: OBSCURE
-    song_alias:
-    esong_code: 639A31
-    t_singer_master_id: '8635'
-    singer_name: DIR EN GREY(Dir en grey)
-    singer_alias:
-    available_date: '2003-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おふすきゆあ
-    singer_name_ruby: ているあんくれい
-    song_variation:
-    - esong_code: 639A31
-      song_name: OBSCURE
-      content_type: ''
   - song_name: おもいで宝箱
     song_alias:
     esong_code: 643B23
@@ -483,23 +466,6 @@ result:
     - esong_code: 634A23
       song_name: 季節
       content_type: ''
-  - song_name: 北の秋桜
-    song_alias:
-    esong_code: 638A35
-    t_singer_master_id: '671'
-    singer_name: キム・ヨンジャ(金蓮子)
-    singer_alias:
-    available_date: '2003-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたのこすもす
-    singer_name_ruby: きむよんしや
-    song_variation:
-    - esong_code: 638A35
-      song_name: 北の秋桜
-      content_type: ''
   - song_name: 気まぐれ道中
     song_alias:
     esong_code: 621B32
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 621B32
       song_name: 気まぐれ道中
+      content_type: ''
+  - song_name: 君だけを守りたい
+    song_alias:
+    esong_code: 93B36
+    t_singer_master_id: '8293'
+    singer_name: 中島 フミアキ
+    singer_alias:
+    available_date: '2003-09-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ウルトラマンダイナ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみたけをまもりた
+    singer_name_ruby: なかしまふみあき
+    song_variation:
+    - esong_code: 93B36
+      song_name: 君だけを守りたい
+      content_type: ''
+  - song_name: 君に捧げるlove song
+    song_alias:
+    esong_code: 631B21
+    t_singer_master_id: '1801'
+    singer_name: 浜田 省吾
+    singer_alias:
+    available_date: '2003-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみにささけるらふ
+    singer_name_ruby: はまたしようこ
+    song_variation:
+    - esong_code: 631B21
+      song_name: 君に捧げるlove song
       content_type: ''

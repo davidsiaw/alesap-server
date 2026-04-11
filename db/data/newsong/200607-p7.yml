@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1033
-  all_max_cnt: 1129
-  all_country_cnt: 1033
+  max_cnt: 1024
+  all_max_cnt: 1120
+  all_country_cnt: 1024
   song:
-  - song_name: 傘をささない君のために
-    song_alias:
-    esong_code: 1609B34
-    t_singer_master_id: '12145'
-    singer_name: 中島 卓偉(TAKUI)
-    singer_alias:
-    available_date: '2006-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かさをささないきみの
-    singer_name_ruby: なかしまたくい
-    song_variation:
-    - esong_code: 1609B34
-      song_name: 傘をささない君のために
-      content_type: ''
   - song_name: かすかなるしるし feat.UA
     song_alias:
     esong_code: 1587A40
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 516A20
       song_name: カラッポの記念日
+      content_type: ''
+  - song_name: ガールフレンド
+    song_alias:
+    esong_code: 1568B23
+    t_singer_master_id: '17481'
+    singer_name: ジェット機
+    singer_alias:
+    available_date: '2006-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かるふれんと
+    singer_name_ruby: しえつとき
+    song_variation:
+    - esong_code: 1568B23
+      song_name: ガールフレンド
       content_type: ''

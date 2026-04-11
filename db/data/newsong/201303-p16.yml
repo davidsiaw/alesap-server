@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
   - song_name: 故郷の友
     song_alias:
@@ -347,23 +347,6 @@ result:
     - esong_code: 3005A27
       song_name: 粉雪 feat.初音ミク
       content_type: VOCALOID
-  - song_name: コネ☆セン
-    song_alias:
-    esong_code: 3000A6
-    t_singer_master_id: '39215'
-    singer_name: CONNECT
-    singer_alias:
-    available_date: '2013-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こねせん
-    singer_name_ruby: こねくと
-    song_variation:
-    - esong_code: 3000A6
-      song_name: コネ☆セン
-      content_type: ''
   - song_name: この世界で見つけたもの
     song_alias:
     esong_code: 3016B30
@@ -517,3 +500,20 @@ result:
     - esong_code: 3002A18
       song_name: Go for it feat.初音ミク
       content_type: VOCALOID
+  - song_name: 拳を握れよ
+    song_alias:
+    esong_code: 2994B36
+    t_singer_master_id: '33013'
+    singer_name: 石鹸屋
+    singer_alias:
+    available_date: '2013-03-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こふしをにきれよ
+    singer_name_ruby: せつけんや
+    song_variation:
+    - esong_code: 2994B36
+      song_name: 拳を握れよ
+      content_type: ''

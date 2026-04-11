@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 952
-  all_country_cnt: 880
+  max_cnt: 871
+  all_max_cnt: 943
+  all_country_cnt: 871
   song:
-  - song_name: あなたの水中花
-    song_alias:
-    esong_code: 4441B17
-    t_singer_master_id: '2228'
-    singer_name: 松原 のぶえ
-    singer_alias:
-    available_date: '2020-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: あなたのすいちゆうか
-    singer_name_ruby: まつはらのふえ
-    song_variation:
-    - esong_code: 4441B17
-      song_name: あなたの水中花
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: あなたは今どこで誰ですか?
     song_alias:
     esong_code: 4438B38
@@ -128,23 +111,6 @@ result:
       content_type: ''
   - song_name: 雨あがり
     song_alias:
-    esong_code: 4443B2
-    t_singer_master_id: '67119'
-    singer_name: 宮迫 博之
-    singer_alias:
-    available_date: '2020-11-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめあかり
-    singer_name_ruby: みやさこひろゆき
-    song_variation:
-    - esong_code: 4443B2
-      song_name: 雨あがり
-      content_type: ''
-  - song_name: 雨あがり
-    song_alias:
     esong_code: 4443B3
     t_singer_master_id: '67119'
     singer_name: 宮迫 博之
@@ -160,6 +126,23 @@ result:
     - esong_code: 4443B3
       song_name: 雨あがり
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 雨あがり
+    song_alias:
+    esong_code: 4443B2
+    t_singer_master_id: '67119'
+    singer_name: 宮迫 博之
+    singer_alias:
+    available_date: '2020-11-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめあかり
+    singer_name_ruby: みやさこひろゆき
+    song_variation:
+    - esong_code: 4443B2
+      song_name: 雨あがり
+      content_type: ''
   - song_name: 雨を待つ。
     song_alias:
     esong_code: 4438B18
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4443A16
       song_name: 漁火しぐれ
+      content_type: ''
+  - song_name: 異人のララバイ
+    song_alias:
+    esong_code: 4444A38
+    t_singer_master_id: '67118'
+    singer_name: ブルー
+    singer_alias:
+    available_date: '2020-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いしんのららはい
+    singer_name_ruby: ふる
+    song_variation:
+    - esong_code: 4444A38
+      song_name: 異人のララバイ
       content_type: ''

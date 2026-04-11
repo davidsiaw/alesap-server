@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 877
-  all_max_cnt: 973
-  all_country_cnt: 877
+  max_cnt: 874
+  all_max_cnt: 970
+  all_country_cnt: 874
   song:
-  - song_name: 冬の花
-    song_alias:
-    esong_code: 1749B19
-    t_singer_master_id: '635'
-    singer_name: 北岡 ひろし
-    singer_alias:
-    available_date: '2011-03-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ふゆのはな
-    singer_name_ruby: きたおかひろし
-    song_variation:
-    - esong_code: 1749B19
-      song_name: 冬の花
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: fly away t.p.s
-    song_alias:
-    esong_code: 1651B42
-    t_singer_master_id: '38605'
-    singer_name: 佐咲 紗花
-    singer_alias:
-    available_date: '2011-03-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: T.P.さくら<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらいあうえいてい
-    singer_name_ruby: ささきさやか
-    song_variation:
-    - esong_code: 1651B42
-      song_name: fly away t.p.s
-      content_type: ''
   - song_name: PRIDE 〜君がくれたもの〜
     song_alias:
     esong_code: 1779A41
@@ -457,7 +423,7 @@ result:
     singer_alias:
     available_date: '2011-03-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 学園黙示録 HIGHSCHOOL OF THE DEAD 特別編<番組名>
+    tie_up: 学園黙示録 HIGHSCHOOL OF THE DEAD<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: へすとふれんす
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1560B24
       song_name: ペルセウス
+      content_type: ''
+  - song_name: へんしん!!じゃがポテ仮面
+    song_alias:
+    esong_code: 1650B15
+    t_singer_master_id: '41915'
+    singer_name: じゃがポテ仮面
+    singer_alias:
+    available_date: '2011-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へんしんしやかほ
+    singer_name_ruby: しやかほてかめん
+    song_variation:
+    - esong_code: 1650B15
+      song_name: へんしん!!じゃがポテ仮面
+      content_type: ''
+  - song_name: ボーイ・アンド・ガール・ラヴ・ソング
+    song_alias:
+    esong_code: 1759A35
+    t_singer_master_id: '36077'
+    singer_name: 清 竜人
+    singer_alias:
+    available_date: '2011-03-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほいあんとか
+    singer_name_ruby: きよしりゆうしん
+    song_variation:
+    - esong_code: 1759A35
+      song_name: ボーイ・アンド・ガール・ラヴ・ソング
       content_type: ''

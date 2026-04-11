@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1198
-  all_max_cnt: 1367
-  all_country_cnt: 1198
+  max_cnt: 1194
+  all_max_cnt: 1363
+  all_country_cnt: 1194
   song:
-  - song_name: ときめきシンフォニー
-    song_alias:
-    esong_code: 4039A5
-    t_singer_master_id: '52702'
-    singer_name: the peggies
-    singer_alias:
-    available_date: '2018-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ときめきしんふおに
-    singer_name_ruby: さへきす
-    song_variation:
-    - esong_code: 4039A5
-      song_name: ときめきシンフォニー
-      content_type: ''
-  - song_name: 棘
-    song_alias:
-    esong_code: 4042A7
-    t_singer_master_id: '48578'
-    singer_name: コドモドラゴン
-    singer_alias:
-    available_date: '2018-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とけ
-    singer_name_ruby: こともとらこん
-    song_variation:
-    - esong_code: 4042A7
-      song_name: 棘
-      content_type: ''
   - song_name: 常夏ヴァカンス
     song_alias:
     esong_code: 4036A17
@@ -179,23 +145,6 @@ result:
       content_type: ''
   - song_name: Drive
     song_alias:
-    esong_code: 4049A46
-    t_singer_master_id: '52977'
-    singer_name: WANIMA
-    singer_alias:
-    available_date: '2018-08-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: とらいふ
-    singer_name_ruby: わにま
-    song_variation:
-    - esong_code: 4049A46
-      song_name: Drive
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Drive
-    song_alias:
     esong_code: 4043B8
     t_singer_master_id: '52977'
     singer_name: WANIMA
@@ -211,6 +160,23 @@ result:
     - esong_code: 4043B8
       song_name: Drive
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: Drive
+    song_alias:
+    esong_code: 4049A46
+    t_singer_master_id: '52977'
+    singer_name: WANIMA
+    singer_alias:
+    available_date: '2018-08-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: とらいふ
+    singer_name_ruby: わにま
+    song_variation:
+    - esong_code: 4049A46
+      song_name: Drive
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: TRUST YOU
     song_alias:
     esong_code: 4041B20
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4051B30
       song_name: 夏フェスなんて大嫌い!!なんちゃって
+      content_type: ''
+  - song_name: ナナイロード
+    song_alias:
+    esong_code: 4040A10
+    t_singer_master_id: '62075'
+    singer_name: 大空 直美&小見川 千明
+    singer_alias:
+    available_date: '2018-08-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ちおちゃんの通学路<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: なないろと
+    singer_name_ruby: おおそらなおみおみかわちあ
+    song_variation:
+    - esong_code: 4040A10
+      song_name: ナナイロード
+      content_type: ''
+  - song_name: ナナイロの糸
+    song_alias:
+    esong_code: 4057B9
+    t_singer_master_id: '56613'
+    singer_name: んだほ&ぺけたん(from Fischer's)
+    singer_alias:
+    available_date: '2018-08-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なないろのいと
+    singer_name_ruby: んたほあんとへけたん
+    song_variation:
+    - esong_code: 4057B9
+      song_name: ナナイロの糸
       content_type: ''

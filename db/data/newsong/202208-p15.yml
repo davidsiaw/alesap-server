@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1255
-  all_country_cnt: 1064
+  max_cnt: 1057
+  all_max_cnt: 1248
+  all_country_cnt: 1057
   song:
-  - song_name: 湘南バットボーイ
-    song_alias:
-    esong_code: 4677A48
-    t_singer_master_id: '1462'
-    singer_name: TUBE
-    singer_alias:
-    available_date: '2022-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようなんはつとほ
-    singer_name_ruby: ちゆふ
-    song_variation:
-    - esong_code: 4677A48
-      song_name: 湘南バットボーイ
-      content_type: ''
-  - song_name: 昭和放浪記 〜新録〜
-    song_alias:
-    esong_code: 4664B16
-    t_singer_master_id: '1195'
-    singer_name: 水前寺 清子
-    singer_alias:
-    available_date: '2022-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようわほうろうきし
-    singer_name_ruby: すいせんしきよこ
-    song_variation:
-    - esong_code: 4664B16
-      song_name: 昭和放浪記 〜新録〜
-      content_type: ''
-  - song_name: ジョージ
-    song_alias:
-    esong_code: 4285A6
-    t_singer_master_id: '10799'
-    singer_name: 瀬口 侑希
-    singer_alias:
-    available_date: '2022-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよし
-    singer_name_ruby: せくちゆうき
-    song_variation:
-    - esong_code: 4285A6
-      song_name: ジョージ
-      content_type: ''
   - song_name: Short Trip
     song_alias:
     esong_code: 4665A9
@@ -213,23 +162,6 @@ result:
       content_type: ''
   - song_name: 人生にありがとう
     song_alias:
-    esong_code: 4672A21
-    t_singer_master_id: '893'
-    singer_name: 伍代 夏子
-    singer_alias:
-    available_date: '2022-08-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: しんせいにありか
-    singer_name_ruby: こたいなつこ
-    song_variation:
-    - esong_code: 4672A21
-      song_name: 人生にありがとう
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 人生にありがとう
-    song_alias:
     esong_code: 4676B22
     t_singer_master_id: '893'
     singer_name: 伍代 夏子
@@ -245,6 +177,23 @@ result:
     - esong_code: 4676B22
       song_name: 人生にありがとう
       content_type: DAM生音
+  - song_name: 人生にありがとう
+    song_alias:
+    esong_code: 4672A21
+    t_singer_master_id: '893'
+    singer_name: 伍代 夏子
+    singer_alias:
+    available_date: '2022-08-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: しんせいにありか
+    singer_name_ruby: こたいなつこ
+    song_variation:
+    - esong_code: 4672A21
+      song_name: 人生にありがとう
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 人生 微妙でいいじゃないか
     song_alias:
     esong_code: 4677B13
@@ -508,7 +457,7 @@ result:
     singer_alias:
     available_date: '2022-08-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・シンフォニア<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: すたりへふんす
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4668A18
       song_name: Starry Heavens ver.2013
+      content_type: ''
+  - song_name: ずっと 春だったらなあ
+    song_alias:
+    esong_code: 4667A39
+    t_singer_master_id: '67212'
+    singer_name: 櫻坂46
+    singer_alias:
+    available_date: '2022-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すつとはるたつた
+    singer_name_ruby: さくらさかふおていしつくす
+    song_variation:
+    - esong_code: 4667A39
+      song_name: ずっと 春だったらなあ
+      content_type: ''
+  - song_name: STARE
+    song_alias:
+    esong_code: 4670A4
+    t_singer_master_id: '66302'
+    singer_name: PARADISES
+    singer_alias:
+    available_date: '2022-08-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すてあ
+    singer_name_ruby: はらたいせす
+    song_variation:
+    - esong_code: 4670A4
+      song_name: STARE
+      content_type: ''
+  - song_name: Steal
+    song_alias:
+    esong_code: 4667B32
+    t_singer_master_id: '68295'
+    singer_name: Knight A - 騎士A -
+    singer_alias:
+    available_date: '2022-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すている
+    singer_name_ruby: ないとえ
+    song_variation:
+    - esong_code: 4667B32
+      song_name: Steal
       content_type: ''

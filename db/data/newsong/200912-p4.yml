@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
+  - song_name: If 〜I know〜
+    song_alias:
+    esong_code: 2432A8
+    t_singer_master_id: '12895'
+    singer_name: EXILE
+    singer_alias:
+    available_date: '2009-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いふ
+    singer_name_ruby: えくさいる
+    song_variation:
+    - esong_code: 2432A8
+      song_name: If 〜I know〜
+      content_type: ''
   - song_name: EVE
     song_alias:
     esong_code: 2432B6
@@ -83,7 +100,7 @@ result:
     singer_alias:
     available_date: '2009-12-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 紐育レビュウショウ〜歌う♪大紐育♪3 ラストショウ<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いみんのうた
@@ -466,6 +483,23 @@ result:
     - esong_code: 2432B31
       song_name: 熟れた果実
       content_type: ''
+  - song_name: 浮気ならいいわ
+    song_alias:
+    esong_code: 1669A38
+    t_singer_master_id: '21664'
+    singer_name: 若原 りょう
+    singer_alias:
+    available_date: '2009-12-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うわきならいいわ
+    singer_name_ruby: わかはらりよう
+    song_variation:
+    - esong_code: 1669A38
+      song_name: 浮気ならいいわ
+      content_type: ''
   - song_name: 運命の愛
     song_alias:
     esong_code: 2432A17
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 2432A17
       song_name: 運命の愛
-      content_type: ''
-  - song_name: 永遠
-    song_alias:
-    esong_code: 2441A49
-    t_singer_master_id: '32325'
-    singer_name: May'n
-    singer_alias:
-    available_date: '2009-12-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: マクロスF 虚空歌姫 〜イツワリノウタヒメ〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えいえん
-    singer_name_ruby: めいん
-    song_variation:
-    - esong_code: 2441A49
-      song_name: 永遠
-      content_type: ''
-  - song_name: 永遠ダイアリー
-    song_alias:
-    esong_code: 2442B2
-    t_singer_master_id: '38332'
-    singer_name: 早見 沙織&丹下 桜&皆口 裕子
-    singer_alias:
-    available_date: '2009-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ラブプラス+<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えいえんたいあり
-    singer_name_ruby: はやみさおりたんけさくら
-    song_variation:
-    - esong_code: 2442B2
-      song_name: 永遠ダイアリー
       content_type: ''

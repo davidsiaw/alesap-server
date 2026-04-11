@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1258
-  all_max_cnt: 1360
-  all_country_cnt: 1258
+  max_cnt: 1253
+  all_max_cnt: 1354
+  all_country_cnt: 1253
   song:
   - song_name: WAIT FOR YOU
     song_alias:
@@ -313,23 +313,6 @@ result:
     - esong_code: 2130A32
       song_name: 噂のふたり
       content_type: ''
-  - song_name: 運命の人
-    song_alias:
-    esong_code: 2152A16
-    t_singer_master_id: '26872'
-    singer_name: 藤田 麻衣子
-    singer_alias:
-    available_date: '2008-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 蒼黒の楔 緋色の欠片3<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うんめいのひと
-    singer_name_ruby: ふしたまいこ
-    song_variation:
-    - esong_code: 2152A16
-      song_name: 運命の人
-      content_type: ''
   - song_name: 運命のヒト
     song_alias:
     esong_code: 2126B29
@@ -347,6 +330,23 @@ result:
     - esong_code: 2126B29
       song_name: 運命のヒト
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 運命の人
+    song_alias:
+    esong_code: 2152A16
+    t_singer_master_id: '26872'
+    singer_name: 藤田 麻衣子
+    singer_alias:
+    available_date: '2008-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 蒼黒の楔 緋色の欠片3<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うんめいのひと
+    singer_name_ruby: ふしたまいこ
+    song_variation:
+    - esong_code: 2152A16
+      song_name: 運命の人
+      content_type: ''
   - song_name: 永遠に
     song_alias:
     esong_code: 2154A3

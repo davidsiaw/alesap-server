@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1496
-  all_max_cnt: 1667
-  all_country_cnt: 1496
+  max_cnt: 1487
+  all_max_cnt: 1658
+  all_country_cnt: 1487
   song:
   - song_name: スーパーカルト誕生
     song_alias:
@@ -296,23 +296,6 @@ result:
     - esong_code: 3415B47
       song_name: 青春小僧が泣いている
       content_type: ''
-  - song_name: 青春タイムマシン
-    song_alias:
-    esong_code: 3419A15
-    t_singer_master_id: '37709'
-    singer_name: 岡本 信彦
-    singer_alias:
-    available_date: '2015-04-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せいしゆんたいむまし
-    singer_name_ruby: おかもとのふひこ
-    song_variation:
-    - esong_code: 3419A15
-      song_name: 青春タイムマシン
-      content_type: ''
   - song_name: 青春 HAS COME
     song_alias:
     esong_code: 3431B3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1067B27
       song_name: SEXY DOLL
+      content_type: ''
+  - song_name: "『Z』の誓い"
+    song_alias:
+    esong_code: 3428A23
+    t_singer_master_id: '42680'
+    singer_name: ももいろクローバーZ(ももいろクローバー)
+    singer_alias:
+    available_date: '2015-04-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: DRAGON BALL(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: せつとのちかい
+    singer_name_ruby: ももいろくろはせつと
+    song_variation:
+    - esong_code: 3428A23
+      song_name: "『Z』の誓い"
       content_type: ''

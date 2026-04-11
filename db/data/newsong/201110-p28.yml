@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: 夏の蝶
-    song_alias:
-    esong_code: 1362A12
-    t_singer_master_id: '356'
-    singer_name: 大石 まどか(大石円)
-    singer_alias:
-    available_date: '2011-10-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつのちよう
-    singer_name_ruby: おおいしまとか
-    song_variation:
-    - esong_code: 1362A12
-      song_name: 夏の蝶
-      content_type: ''
-  - song_name: '7'
-    song_alias:
-    esong_code: 2686B14
-    t_singer_master_id: '42778'
-    singer_name: みーちゃん
-    singer_alias:
-    available_date: '2011-10-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なな
-    singer_name_ruby: みちやん
-    song_variation:
-    - esong_code: 2686B14
-      song_name: '7'
-      content_type: ''
   - song_name: 浪速まち
     song_alias:
     esong_code: 2683B37
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2691B4
       song_name: 軒下のモンスター
+      content_type: ''
+  - song_name: ノーナイデンパ
+    song_alias:
+    esong_code: 2685B26
+    t_singer_master_id: '33657'
+    singer_name: ゴム
+    singer_alias:
+    available_date: '2011-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のないてんは
+    singer_name_ruby: こむ
+    song_variation:
+    - esong_code: 2685B26
+      song_name: ノーナイデンパ
+      content_type: ''
+  - song_name: 飲むほどに 酔うほどに
+    song_alias:
+    esong_code: 2681A15
+    t_singer_master_id: '956'
+    singer_name: 里見 浩太朗
+    singer_alias:
+    available_date: '2011-10-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のむほとにようほと
+    singer_name_ruby: さとみこうたろう
+    song_variation:
+    - esong_code: 2681A15
+      song_name: 飲むほどに 酔うほどに
       content_type: ''

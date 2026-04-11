@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
   - song_name: Can You Say My Name? feat.ShaNa
     song_alias:
@@ -111,23 +111,6 @@ result:
       content_type: 東方
   - song_name: 京都洛北路
     song_alias:
-    esong_code: 2592B27
-    t_singer_master_id: '10166'
-    singer_name: 大沢 桃子
-    singer_alias:
-    available_date: '2010-09-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きようとらくほくし
-    singer_name_ruby: おおさわももこ
-    song_variation:
-    - esong_code: 2592B27
-      song_name: 京都洛北路
-      content_type: ''
-  - song_name: 京都洛北路
-    song_alias:
     esong_code: 2603A45
     t_singer_master_id: '10166'
     singer_name: 大沢 桃子
@@ -160,6 +143,23 @@ result:
     - esong_code: 2591B41
       song_name: 京都洛北路
       content_type: DAM生音
+  - song_name: 京都洛北路
+    song_alias:
+    esong_code: 2592B27
+    t_singer_master_id: '10166'
+    singer_name: 大沢 桃子
+    singer_alias:
+    available_date: '2010-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きようとらくほくし
+    singer_name_ruby: おおさわももこ
+    song_variation:
+    - esong_code: 2592B27
+      song_name: 京都洛北路
+      content_type: ''
   - song_name: ギラギラNow!
     song_alias:
     esong_code: 2582B30
@@ -298,23 +298,6 @@ result:
       content_type: VOCALOID
   - song_name: クオリア
     song_alias:
-    esong_code: 2600A48
-    t_singer_master_id: '23642'
-    singer_name: UVERworld
-    singer_alias:
-    available_date: '2010-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 機動戦士ガンダム00-A wakening of the Trailblazer-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くおりあ
-    singer_name_ruby: うはわると
-    song_variation:
-    - esong_code: 2600A48
-      song_name: クオリア
-      content_type: ''
-  - song_name: クオリア
-    song_alias:
     esong_code: 2616B13
     t_singer_master_id: '23642'
     singer_name: UVERworld
@@ -330,6 +313,23 @@ result:
     - esong_code: 2616B13
       song_name: クオリア
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: クオリア
+    song_alias:
+    esong_code: 2600A48
+    t_singer_master_id: '23642'
+    singer_name: UVERworld
+    singer_alias:
+    available_date: '2010-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 機動戦士ガンダム00-A wakening of the Trailblazer-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: くおりあ
+    singer_name_ruby: うはわると
+    song_variation:
+    - esong_code: 2600A48
+      song_name: クオリア
+      content_type: ''
   - song_name: 九月の雨に濡れて
     song_alias:
     esong_code: 2608A47

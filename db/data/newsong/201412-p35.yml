@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
   - song_name: ハレーション
     song_alias:
@@ -262,23 +262,6 @@ result:
     - esong_code: 3371B3
       song_name: Picasso
       content_type: ''
-  - song_name: 光〜Hikari〜
-    song_alias:
-    esong_code: 3367B27
-    t_singer_master_id: '52200'
-    singer_name: Sharo
-    singer_alias:
-    available_date: '2014-12-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひかり
-    singer_name_ruby: しやろ
-    song_variation:
-    - esong_code: 3367B27
-      song_name: 光〜Hikari〜
-      content_type: ''
   - song_name: HIKARI
     song_alias:
     esong_code: 3376B18
@@ -295,6 +278,23 @@ result:
     song_variation:
     - esong_code: 3376B18
       song_name: HIKARI
+      content_type: ''
+  - song_name: 光〜Hikari〜
+    song_alias:
+    esong_code: 3367B27
+    t_singer_master_id: '52200'
+    singer_name: Sharo
+    singer_alias:
+    available_date: '2014-12-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひかり
+    singer_name_ruby: しやろ
+    song_variation:
+    - esong_code: 3367B27
+      song_name: 光〜Hikari〜
       content_type: ''
   - song_name: ヒカリ (type black)
     song_alias:

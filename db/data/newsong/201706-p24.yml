@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
-  - song_name: たった一人の子守唄
-    song_alias:
-    esong_code: 3829B15
-    t_singer_master_id: '1712'
-    singer_name: 仁支川 峰子(西川峰子)
-    singer_alias:
-    available_date: '2017-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たつたひとりのこもり
-    singer_name_ruby: にしかわみねこ
-    song_variation:
-    - esong_code: 3829B15
-      song_name: たった一人の子守唄
-      content_type: ''
-  - song_name: 脱法ロック feat.鏡音レン
-    song_alias:
-    esong_code: 3830A19
-    t_singer_master_id: '43451'
-    singer_name: Neru
-    singer_alias:
-    available_date: '2017-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: たつほうろつく
-    singer_name_ruby: ねる
-    song_variation:
-    - esong_code: 3830A19
-      song_name: 脱法ロック feat.鏡音レン
-      content_type: VOCALOID
-  - song_name: Dirty Work (Blouson Chiemi Remix)
-    song_alias:
-    esong_code: 3829B29
-    t_singer_master_id: '59099'
-    singer_name: ブルゾンちえみ&オースティン・マホーン
-    singer_alias:
-    available_date: '2017-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たていわくふ
-    singer_name_ruby: ふるそんちえみあんとおす
-    song_variation:
-    - esong_code: 3829B29
-      song_name: Dirty Work (Blouson Chiemi Remix)
-      content_type: ''
   - song_name: 種
     song_alias:
     esong_code: 3826B29
@@ -119,13 +68,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: たひたちのうた
     singer_name_ruby: みすたちるとれん
     song_variation:
     - esong_code: 3820B23
       song_name: 旅立ちの唄 (ビデオクリップバージョン)
-      content_type: ''
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 旅の手帖
     song_alias:
     esong_code: 3825B34
@@ -383,23 +332,6 @@ result:
       content_type: ''
   - song_name: CHARM
     song_alias:
-    esong_code: 3824B20
-    t_singer_master_id: '52977'
-    singer_name: WANIMA
-    singer_alias:
-    available_date: '2017-06-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: ちやむ
-    singer_name_ruby: わにま
-    song_variation:
-    - esong_code: 3824B20
-      song_name: CHARM
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: CHARM
-    song_alias:
     esong_code: 3828B29
     t_singer_master_id: '52977'
     singer_name: WANIMA
@@ -415,6 +347,23 @@ result:
     - esong_code: 3828B29
       song_name: CHARM
       content_type: DAM生音
+  - song_name: CHARM
+    song_alias:
+    esong_code: 3824B20
+    t_singer_master_id: '52977'
+    singer_name: WANIMA
+    singer_alias:
+    available_date: '2017-06-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: ちやむ
+    singer_name_ruby: わにま
+    song_variation:
+    - esong_code: 3824B20
+      song_name: CHARM
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Chant
     song_alias:
     esong_code: 3820A26
@@ -517,3 +466,54 @@ result:
     - esong_code: 3823B1
       song_name: 月影
       content_type: ''
+  - song_name: 月に綴りし・・・恋日記
+    song_alias:
+    esong_code: 3830A3
+    t_singer_master_id: '2638'
+    singer_name: 若山 かずさ
+    singer_alias:
+    available_date: '2017-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきにつつりしこい
+    singer_name_ruby: わかやまかすさ
+    song_variation:
+    - esong_code: 3830A3
+      song_name: 月に綴りし・・・恋日記
+      content_type: ''
+  - song_name: 月の光
+    song_alias:
+    esong_code: 2242B2
+    t_singer_master_id: '54532'
+    singer_name: NOBUKO
+    singer_alias:
+    available_date: '2017-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきのひかり
+    singer_name_ruby: のふこ
+    song_variation:
+    - esong_code: 2242B2
+      song_name: 月の光
+      content_type: ''
+  - song_name: ツキノワグマ feat.初音ミク
+    song_alias:
+    esong_code: 3830A40
+    t_singer_master_id: '40402'
+    singer_name: buzzG
+    singer_alias:
+    available_date: '2017-06-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: つきのわくま
+    singer_name_ruby: はすし
+    song_variation:
+    - esong_code: 3830A40
+      song_name: ツキノワグマ feat.初音ミク
+      content_type: VOCALOID

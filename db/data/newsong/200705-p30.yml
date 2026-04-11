@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 933
-  all_max_cnt: 1037
-  all_country_cnt: 933
+  max_cnt: 932
+  all_max_cnt: 1036
+  all_country_cnt: 932
   song:
-  - song_name: Rain Drop
-    song_alias:
-    esong_code: 1784B42
-    t_singer_master_id: '29934'
-    singer_name: さくら さくらこ
-    singer_alias:
-    available_date: '2007-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: れいんとろつふ
-    singer_name_ruby: さくらさくらこ
-    song_variation:
-    - esong_code: 1784B42
-      song_name: Rain Drop
-      content_type: ''
   - song_name: Rainbow
     song_alias:
     esong_code: 1787A25
@@ -406,7 +389,7 @@ result:
     singer_alias:
     available_date: '2007-05-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真救世主伝説 北斗の拳 〜ラオウ伝 激闘の章〜<番組名>
+    tie_up: 北斗の拳(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ろんりすたす
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1723A36
       song_name: 吾亦紅
+      content_type: ''
+  - song_name: われらの超神ビビューン
+    song_alias:
+    esong_code: 1785A8
+    t_singer_master_id: '2940'
+    singer_name: ささき いさお&こおろぎ'73
+    singer_alias:
+    available_date: '2007-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 超神ビビューン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: われらのちようしんひ
+    singer_name_ruby: ささきいさおこおろ
+    song_variation:
+    - esong_code: 1785A8
+      song_name: われらの超神ビビューン
       content_type: ''

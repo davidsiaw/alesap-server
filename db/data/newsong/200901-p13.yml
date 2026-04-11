@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
+  - song_name: 青春プレリュード
+    song_alias:
+    esong_code: 219A29
+    t_singer_master_id: '6791'
+    singer_name: 加茂 晴美
+    singer_alias:
+    available_date: '2009-01-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アタッカーYOU!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: せいしゆんふれりゆ
+    singer_name_ruby: かもはるみ
+    song_variation:
+    - esong_code: 219A29
+      song_name: 青春プレリュード
+      content_type: ''
   - song_name: 整備員の詩
     song_alias:
     esong_code: 2197A39
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2199B15
       song_name: touch Me!
-      content_type: ''
-  - song_name: 竜飛岬
-    song_alias:
-    esong_code: 2201A12
-    t_singer_master_id: '1035'
-    singer_name: 島倉 千代子
-    singer_alias:
-    available_date: '2009-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たつひみさき
-    singer_name_ruby: しまくらちよこ
-    song_variation:
-    - esong_code: 2201A12
-      song_name: 竜飛岬
       content_type: ''

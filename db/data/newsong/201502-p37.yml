@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
-  - song_name: Future
-    song_alias:
-    esong_code: 3392B38
-    t_singer_master_id: '45382'
-    singer_name: CROSS GENE
-    singer_alias:
-    available_date: '2015-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふゆちや
-    singer_name_ruby: くろすしん
-    song_variation:
-    - esong_code: 3392B38
-      song_name: Future
-      content_type: ''
-  - song_name: 冬の海岸通り
-    song_alias:
-    esong_code: 1196A34
-    t_singer_master_id: '52776'
-    singer_name: 夏 あこ
-    singer_alias:
-    available_date: '2015-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふゆのかいかんと
-    singer_name_ruby: なつあこ
-    song_variation:
-    - esong_code: 1196A34
-      song_name: 冬の海岸通り
-      content_type: ''
   - song_name: Fly (higher take)
     song_alias:
     esong_code: 3401A42
@@ -366,23 +332,6 @@ result:
       content_type: ''
   - song_name: ふるさと海峡
     song_alias:
-    esong_code: 1227B26
-    t_singer_master_id: '38631'
-    singer_name: 菊地 まどか
-    singer_alias:
-    available_date: '2015-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ふるさとかいきよう
-    singer_name_ruby: きくちまとか
-    song_variation:
-    - esong_code: 1227B26
-      song_name: ふるさと海峡
-      content_type: DAM生音
-  - song_name: ふるさと海峡
-    song_alias:
     esong_code: 1227B9
     t_singer_master_id: '38631'
     singer_name: 菊地 まどか
@@ -398,6 +347,23 @@ result:
     - esong_code: 1227B9
       song_name: ふるさと海峡
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: ふるさと海峡
+    song_alias:
+    esong_code: 1227B26
+    t_singer_master_id: '38631'
+    singer_name: 菊地 まどか
+    singer_alias:
+    available_date: '2015-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ふるさとかいきよう
+    singer_name_ruby: きくちまとか
+    song_variation:
+    - esong_code: 1227B26
+      song_name: ふるさと海峡
+      content_type: DAM生音
   - song_name: ふるさと津軽
     song_alias:
     esong_code: 1224B42
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3398A38
       song_name: フルーツバスケット
+      content_type: ''
+  - song_name: Blue Butterfly
+    song_alias:
+    esong_code: 3384A32
+    t_singer_master_id: '52474'
+    singer_name: VIOLET UK
+    singer_alias:
+    available_date: '2015-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるはたふらい
+    singer_name_ruby: はいおれつとゆけ
+    song_variation:
+    - esong_code: 3384A32
+      song_name: Blue Butterfly
+      content_type: ''
+  - song_name: Blooming Lily
+    song_alias:
+    esong_code: 3392A21
+    t_singer_master_id: '52477'
+    singer_name: 大西 沙織
+    singer_alias:
+    available_date: '2015-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 冴えない彼女の育てかた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるみんくりり
+    singer_name_ruby: おおにしさおり
+    song_variation:
+    - esong_code: 3392A21
+      song_name: Blooming Lily
       content_type: ''

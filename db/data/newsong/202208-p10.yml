@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1255
-  all_country_cnt: 1064
+  max_cnt: 1057
+  all_max_cnt: 1248
+  all_country_cnt: 1057
   song:
-  - song_name: 口下手
-    song_alias:
-    esong_code: 4672A25
-    t_singer_master_id: '36210'
-    singer_name: Kenjiro
-    singer_alias:
-    available_date: '2022-08-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: くちへた
-    singer_name_ruby: けんしろう
-    song_variation:
-    - esong_code: 4672A25
-      song_name: 口下手
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: グッドな音楽を
     song_alias:
     esong_code: 4673A30
@@ -298,21 +281,21 @@ result:
       content_type: ''
   - song_name: くれないの糸
     song_alias:
-    esong_code: 4659A35
+    esong_code: 4666B17
     t_singer_master_id: '2176'
     singer_name: 真木 ことみ
     singer_alias:
-    available_date: '2022-08-02'
+    available_date: '2022-08-09'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM生音
     song_name_ruby: くれないのいと
     singer_name_ruby: まきことみ
     song_variation:
-    - esong_code: 4659A35
+    - esong_code: 4666B17
       song_name: くれないの糸
-      content_type: ''
+      content_type: DAM生音
   - song_name: くれないの糸
     song_alias:
     esong_code: 3748A1
@@ -332,21 +315,21 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: くれないの糸
     song_alias:
-    esong_code: 4666B17
+    esong_code: 4659A35
     t_singer_master_id: '2176'
     singer_name: 真木 ことみ
     singer_alias:
-    available_date: '2022-08-09'
+    available_date: '2022-08-02'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type:
     song_name_ruby: くれないのいと
     singer_name_ruby: まきことみ
     song_variation:
-    - esong_code: 4666B17
+    - esong_code: 4659A35
       song_name: くれないの糸
-      content_type: DAM生音
+      content_type: ''
   - song_name: 黒い砂
     song_alias:
     esong_code: 4677A8
@@ -449,23 +432,6 @@ result:
     - esong_code: 4673B41
       song_name: Get Out Of My House
       content_type: ''
-  - song_name: 月凍詩篇 -或る羊飼いのウタ-
-    song_alias:
-    esong_code: 4663B48
-    t_singer_master_id: '45282'
-    singer_name: 上坂 すみれ
-    singer_alias:
-    available_date: '2022-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: TSUKIPRO SERIES<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: けつとうしへんある
-    singer_name_ruby: うえさかすみれ
-    song_variation:
-    - esong_code: 4663B48
-      song_name: 月凍詩篇 -或る羊飼いのウタ-
-      content_type: ''
   - song_name: 結末は次のトラフィックライト
     song_alias:
     esong_code: 4670B16
@@ -517,3 +483,37 @@ result:
     - esong_code: 4666B13
       song_name: 玄海みれん
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 小悪魔な夜 〜ニューバージョン〜
+    song_alias:
+    esong_code: 4668A10
+    t_singer_master_id: '56364'
+    singer_name: 藤野 ゆかり
+    singer_alias:
+    available_date: '2022-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こあくまなよるにゆ
+    singer_name_ruby: ふしのゆかり
+    song_variation:
+    - esong_code: 4668A10
+      song_name: 小悪魔な夜 〜ニューバージョン〜
+      content_type: ''
+  - song_name: 恋々遊々
+    song_alias:
+    esong_code: 4663B37
+    t_singer_master_id: '57987'
+    singer_name: 志麻(from 浦島坂田船)
+    singer_alias:
+    available_date: '2022-08-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいこいゆうゆう
+    singer_name_ruby: しまうらしまさかたせん
+    song_variation:
+    - esong_code: 4663B37
+      song_name: 恋々遊々
+      content_type: ''

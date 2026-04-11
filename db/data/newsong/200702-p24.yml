@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1199
-  all_max_cnt: 1301
-  all_country_cnt: 1199
+  max_cnt: 1196
+  all_max_cnt: 1298
+  all_country_cnt: 1196
   song:
-  - song_name: ときを越えて
-    song_alias:
-    esong_code: 1738B45
-    t_singer_master_id: '4689'
-    singer_name: 林原 めぐみ
-    singer_alias:
-    available_date: '2007-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ロスト・ユニバース<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ときをこえて
-    singer_name_ruby: はやしはらめくみ
-    song_variation:
-    - esong_code: 1738B45
-      song_name: ときを越えて
-      content_type: ''
   - song_name: Dokkan Beat
     song_alias:
     esong_code: 1157B10
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2007-02-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL Z 超戦士撃破 勝つのはオレだ!<番組名>
+    tie_up: DRAGON BALL(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とらこんはわ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 294B15
       song_name: ナイショDE アイ!アイ!
+      content_type: ''
+  - song_name: ナイスビート
+    song_alias:
+    esong_code: 1734B37
+    t_singer_master_id: '13116'
+    singer_name: キンモクセイ
+    singer_alias:
+    available_date: '2007-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ないすひと
+    singer_name_ruby: きんもくせい
+    song_variation:
+    - esong_code: 1734B37
+      song_name: ナイスビート
       content_type: ''

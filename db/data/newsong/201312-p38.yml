@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: ふれあい [名演ピアノ 美野 春樹]
+    song_alias:
+    esong_code: 3155A34
+    t_singer_master_id: '1654'
+    singer_name: 中村 雅俊
+    singer_alias:
+    available_date: '2013-12-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれあい
+    singer_name_ruby: なかむらまさとし
+    song_variation:
+    - esong_code: 3155A34
+      song_name: ふれあい [名演ピアノ 美野 春樹]
+      content_type: ''
+  - song_name: Break your spell
+    song_alias:
+    esong_code: 3149B46
+    t_singer_master_id: '15583'
+    singer_name: サイキックラバー
+    singer_alias:
+    available_date: '2013-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: カードファイト!! ヴァンガード(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれいくゆあすへ
+    singer_name_ruby: さいきつくらは
+    song_variation:
+    - esong_code: 3149B46
+      song_name: Break your spell
+      content_type: ''
   - song_name: Brave Heart
     song_alias:
     esong_code: 3149A28
@@ -15,7 +49,7 @@ result:
     singer_alias:
     available_date: '2013-12-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 牙狼(GARO) -GOLDSTORM- 翔<番組名>
+    tie_up: 牙狼-GARO-<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふれいふはと
@@ -364,23 +398,6 @@ result:
     - esong_code: 1123B22
       song_name: HELP ME
       content_type: ''
-  - song_name: 便所サンダルダンス (亮君・ナヲちゃん歌ありver.)
-    song_alias:
-    esong_code: 3162A28
-    t_singer_master_id: '16062'
-    singer_name: マキシマム ザ ホルモン
-    singer_alias:
-    available_date: '2013-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾚｺおと
-    song_name_ruby: へんしよさんた
-    singer_name_ruby: まきしまむさほるもん
-    song_variation:
-    - esong_code: 3162A28
-      song_name: 便所サンダルダンス (亮君・ナヲちゃん歌ありver.)
-      content_type: JOYﾚｺおと
   - song_name: 便所サンダルダンス
     song_alias:
     esong_code: 3162A27
@@ -397,6 +414,23 @@ result:
     song_variation:
     - esong_code: 3162A27
       song_name: 便所サンダルダンス
+      content_type: JOYﾚｺおと
+  - song_name: 便所サンダルダンス (亮君・ナヲちゃん歌ありver.)
+    song_alias:
+    esong_code: 3162A28
+    t_singer_master_id: '16062'
+    singer_name: マキシマム ザ ホルモン
+    singer_alias:
+    available_date: '2013-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾚｺおと
+    song_name_ruby: へんしよさんた
+    singer_name_ruby: まきしまむさほるもん
+    song_variation:
+    - esong_code: 3162A28
+      song_name: 便所サンダルダンス (亮君・ナヲちゃん歌ありver.)
       content_type: JOYﾚｺおと
   - song_name: Boys, Be Ambitious
     song_alias:
@@ -483,37 +517,3 @@ result:
     - esong_code: 3157B23
       song_name: 望郷おとこ酒
       content_type: ''
-  - song_name: 冒険者たちへ
-    song_alias:
-    esong_code: 3151A20
-    t_singer_master_id: '21628'
-    singer_name: 橋本 みゆき
-    singer_alias:
-    available_date: '2013-12-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほうけんしやたちへ
-    singer_name_ruby: はしもとみゆき
-    song_variation:
-    - esong_code: 3151A20
-      song_name: 冒険者たちへ
-      content_type: ''
-  - song_name: 鳳仙花
-    song_alias:
-    esong_code: 3159A47
-    t_singer_master_id: '47952'
-    singer_name: 都築 きせの
-    singer_alias:
-    available_date: '2013-12-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方幻想郷 〜Lotus Land Story.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: ほうせんか
-    singer_name_ruby: つつききせの
-    song_variation:
-    - esong_code: 3159A47
-      song_name: 鳳仙花
-      content_type: 東方

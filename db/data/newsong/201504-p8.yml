@@ -3,30 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1496
-  all_max_cnt: 1667
-  all_country_cnt: 1496
+  max_cnt: 1487
+  all_max_cnt: 1658
+  all_country_cnt: 1487
   song:
-  - song_name: 想いのままに (歌入り)[オリジナルクリップ]
-    song_alias:
-    esong_code: 3421B38
-    t_singer_master_id: '48979'
-    singer_name: 澤地 哲夫
-    singer_alias:
-    available_date: '2015-04-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: パセラ限定クリップ
-    song_name_ruby: おもいのままに
-    singer_name_ruby: さわしてつお
-    song_variation:
-    - esong_code: 3421B38
-      song_name: 想いのままに (歌入り)[オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 3421B38
-      song_name: 想いのままに (歌入り)[オリジナルクリップ]
-      content_type: パセラ限定クリップ
   - song_name: 想いのままに (歌入り)[オリジナルクリップ]
     song_alias:
     esong_code: 3421B38
@@ -47,23 +27,26 @@ result:
     - esong_code: 3421B38
       song_name: 想いのままに (歌入り)[オリジナルクリップ]
       content_type: パセラ限定クリップ
-  - song_name: 想いのままに
+  - song_name: 想いのままに (歌入り)[オリジナルクリップ]
     song_alias:
-    esong_code: 3421B26
+    esong_code: 3421B38
     t_singer_master_id: '48979'
     singer_name: 澤地 哲夫
     singer_alias:
-    available_date: '2015-04-03'
+    available_date: '2015-04-10'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: パセラ限定クリップ
     song_name_ruby: おもいのままに
     singer_name_ruby: さわしてつお
     song_variation:
-    - esong_code: 3421B26
-      song_name: 想いのままに
-      content_type: ''
+    - esong_code: 3421B38
+      song_name: 想いのままに (歌入り)[オリジナルクリップ]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    - esong_code: 3421B38
+      song_name: 想いのままに (歌入り)[オリジナルクリップ]
+      content_type: パセラ限定クリップ
   - song_name: 恋詠桜
     song_alias:
     esong_code: 802B37
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 850A31
       song_name: 帰り道
+      content_type: ''
+  - song_name: 隠し湯の宿
+    song_alias:
+    esong_code: 3086B32
+    t_singer_master_id: '47071'
+    singer_name: 蘭 きよこ
+    singer_alias:
+    available_date: '2015-04-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かくしゆのやと
+    singer_name_ruby: らんきよこ
+    song_variation:
+    - esong_code: 3086B32
+      song_name: 隠し湯の宿
       content_type: ''

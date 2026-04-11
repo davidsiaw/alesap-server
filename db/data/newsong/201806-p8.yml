@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1328
-  all_max_cnt: 1485
-  all_country_cnt: 1328
+  max_cnt: 1315
+  all_max_cnt: 1472
+  all_country_cnt: 1315
   song:
-  - song_name: オラシオン
-    song_alias:
-    esong_code: 4005A25
-    t_singer_master_id: '61667'
-    singer_name: FOR NEW ARRIVALs
-    singer_alias:
-    available_date: '2018-06-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おらしおん
-    singer_name_ruby: ふおにゆあらいはるす
-    song_variation:
-    - esong_code: 4005A25
-      song_name: オラシオン
-      content_type: ''
   - song_name: All Of Us
     song_alias:
     esong_code: 4008A37
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2509B20
       song_name: 風みなと
+      content_type: ''
+  - song_name: 仮想恋愛
+    song_alias:
+    esong_code: 4004B49
+    t_singer_master_id: '46856'
+    singer_name: HKT48
+    singer_alias:
+    available_date: '2018-06-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かそうれんあい
+    singer_name_ruby: えいちけていふおていえいと
+    song_variation:
+    - esong_code: 4004B49
+      song_name: 仮想恋愛
       content_type: ''

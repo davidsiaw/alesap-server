@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 759
-  all_max_cnt: 802
-  all_country_cnt: 759
+  max_cnt: 760
+  all_max_cnt: 803
+  all_country_cnt: 760
   song:
   - song_name: 鮮やかなもの (ACOUSTIC:LATTE Ver.)
     song_alias:
@@ -364,23 +364,6 @@ result:
     - esong_code: 648A45
       song_name: 雨の日曜日
       content_type: ''
-  - song_name: ありがとう feat.宮沢 和史
-    song_alias:
-    esong_code: 647A49
-    t_singer_master_id: '23497'
-    singer_name: MCU
-    singer_alias:
-    available_date: '2005-03-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: えむしゆ
-    song_variation:
-    - esong_code: 647A49
-      song_name: ありがとう feat.宮沢 和史
-      content_type: ''
   - song_name: ありがとう
     song_alias:
     esong_code: 613B47
@@ -397,6 +380,23 @@ result:
     song_variation:
     - esong_code: 613B47
       song_name: ありがとう
+      content_type: ''
+  - song_name: ありがとう feat.宮沢 和史
+    song_alias:
+    esong_code: 647A49
+    t_singer_master_id: '23497'
+    singer_name: MCU
+    singer_alias:
+    available_date: '2005-03-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: えむしゆ
+    song_variation:
+    - esong_code: 647A49
+      song_name: ありがとう feat.宮沢 和史
       content_type: ''
   - song_name: ありったけの笑顔で
     song_alias:

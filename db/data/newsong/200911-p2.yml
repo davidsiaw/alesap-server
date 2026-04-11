@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 973
-  all_max_cnt: 1055
-  all_country_cnt: 973
+  max_cnt: 965
+  all_max_cnt: 1047
+  all_country_cnt: 965
   song:
-  - song_name: あの日・・・ feat.童子-T
-    song_alias:
-    esong_code: 2417A41
-    t_singer_master_id: '12321'
-    singer_name: CHEMISTRY
-    singer_alias:
-    available_date: '2009-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのひ
-    singer_name_ruby: けみすとり
-    song_variation:
-    - esong_code: 2417A41
-      song_name: あの日・・・ feat.童子-T
-      content_type: ''
   - song_name: あの日・・・ feat.童子-T
     song_alias:
     esong_code: 2423A17
@@ -58,6 +41,23 @@ result:
     - esong_code: 2443A8
       song_name: あの日・・・ feat.童子-T
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: あの日・・・ feat.童子-T
+    song_alias:
+    esong_code: 2417A41
+    t_singer_master_id: '12321'
+    singer_name: CHEMISTRY
+    singer_alias:
+    available_date: '2009-11-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あのひ
+    singer_name_ruby: けみすとり
+    song_variation:
+    - esong_code: 2417A41
+      song_name: あの日・・・ feat.童子-T
+      content_type: ''
   - song_name: あの日の風景
     song_alias:
     esong_code: 2427B24
@@ -210,23 +210,6 @@ result:
     song_variation:
     - esong_code: 2417B16
       song_name: 彩花
-      content_type: ''
-  - song_name: Arrival of Tears
-    song_alias:
-    esong_code: 2422B13
-    t_singer_master_id: '22051'
-    singer_name: 彩音
-    singer_alias:
-    available_date: '2009-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 11eyes(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あらいはるおふて
-    singer_name_ruby: あやね
-    song_variation:
-    - esong_code: 2422B13
-      song_name: Arrival of Tears
       content_type: ''
   - song_name: "『Around40〜バラフォー〜』メドレー"
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2428B3
       song_name: 生きててイイですか?
+      content_type: ''
+  - song_name: 池田節
+    song_alias:
+    esong_code: 2422B30
+    t_singer_master_id: '38079'
+    singer_name: 大久保 ノブオ
+    singer_alias:
+    available_date: '2009-11-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いけたふし
+    singer_name_ruby: おおくほのふお
+    song_variation:
+    - esong_code: 2422B30
+      song_name: 池田節
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1016
-  all_max_cnt: 1156
-  all_country_cnt: 1016
+  max_cnt: 1008
+  all_max_cnt: 1148
+  all_country_cnt: 1008
   song:
-  - song_name: 記憶コロコロ
-    song_alias:
-    esong_code: 3751B34
-    t_singer_master_id: '45903'
-    singer_name: 久保 ユリカ
-    singer_alias:
-    available_date: '2017-01-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きおくころころ
-    singer_name_ruby: くほゆりか
-    song_variation:
-    - esong_code: 3751B34
-      song_name: 記憶コロコロ
-      content_type: ''
-  - song_name: KIZUNA
-    song_alias:
-    esong_code: 3749B20
-    t_singer_master_id: '48413'
-    singer_name: QUARTET NIGHT
-    singer_alias:
-    available_date: '2017-01-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: うたの☆プリンスさまっ♪(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: かるてつとないと
-    song_variation:
-    - esong_code: 3749B20
-      song_name: KIZUNA
-      content_type: ''
   - song_name: 絆エターナル
     song_alias:
     esong_code: 3751A13
@@ -145,23 +111,6 @@ result:
       content_type: ''
   - song_name: 北の絶唱
     song_alias:
-    esong_code: 3753B27
-    t_singer_master_id: '6239'
-    singer_name: 岩本 公水
-    singer_alias:
-    available_date: '2017-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: きたのせつしよう
-    singer_name_ruby: いわもとくみ
-    song_variation:
-    - esong_code: 3753B27
-      song_name: 北の絶唱
-      content_type: DAM生音
-  - song_name: 北の絶唱
-    song_alias:
     esong_code: 1856A37
     t_singer_master_id: '6239'
     singer_name: 岩本 公水
@@ -177,23 +126,6 @@ result:
     - esong_code: 1856A37
       song_name: 北の絶唱
       content_type: ''
-  - song_name: 北の絶唱
-    song_alias:
-    esong_code: 3745A24
-    t_singer_master_id: '6239'
-    singer_name: 岩本 公水
-    singer_alias:
-    available_date: '2017-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: きたのせつしよう
-    singer_name_ruby: いわもとくみ
-    song_variation:
-    - esong_code: 3745A24
-      song_name: 北の絶唱
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 北の絶唱
     song_alias:
     esong_code: 3749B28
@@ -228,6 +160,23 @@ result:
     - esong_code: 1806A6
       song_name: 北の絶唱
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 北の絶唱
+    song_alias:
+    esong_code: 3745A24
+    t_singer_master_id: '6239'
+    singer_name: 岩本 公水
+    singer_alias:
+    available_date: '2017-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: きたのせつしよう
+    singer_name_ruby: いわもとくみ
+    song_variation:
+    - esong_code: 3745A24
+      song_name: 北の絶唱
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 北のみなと
     song_alias:
     esong_code: 1853A21
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3750A37
       song_name: 君のSince
+      content_type: ''
+  - song_name: 君のために作った歌
+    song_alias:
+    esong_code: 3751A28
+    t_singer_master_id: '2238'
+    singer_name: 松山 千春
+    singer_alias:
+    available_date: '2017-01-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: きみのためにつくつた
+    singer_name_ruby: まつやまちはる
+    song_variation:
+    - esong_code: 3751A28
+      song_name: 君のために作った歌
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 君への手紙
+    song_alias:
+    esong_code: 3748A22
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2017-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きみへのてかみ
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 3748A22
+      song_name: 君への手紙
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 君を虜に
+    song_alias:
+    esong_code: 3752B15
+    t_singer_master_id: '57928'
+    singer_name: 馬籠 友宏
+    singer_alias:
+    available_date: '2017-01-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみをとりこに
+    singer_name_ruby: まこめともひろ
+    song_variation:
+    - esong_code: 3752B15
+      song_name: 君を虜に
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1114
-  all_max_cnt: 1275
-  all_country_cnt: 1114
+  max_cnt: 1110
+  all_max_cnt: 1271
+  all_country_cnt: 1110
   song:
   - song_name: 古希に乾杯
     song_alias:
@@ -262,23 +262,6 @@ result:
     - esong_code: 1473B26
       song_name: 独楽
       content_type: ''
-  - song_name: ゴーマイウェイ
-    song_alias:
-    esong_code: 3384A7
-    t_singer_master_id: '50185'
-    singer_name: 諏訪 彩花
-    singer_alias:
-    available_date: '2015-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 人生<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こまいうえい
-    singer_name_ruby: すわあやか
-    song_variation:
-    - esong_code: 3384A7
-      song_name: ゴーマイウェイ
-      content_type: ''
   - song_name: GO MY WAY
     song_alias:
     esong_code: 3386B26
@@ -295,6 +278,23 @@ result:
     song_variation:
     - esong_code: 3386B26
       song_name: GO MY WAY
+      content_type: ''
+  - song_name: ゴーマイウェイ
+    song_alias:
+    esong_code: 3384A7
+    t_singer_master_id: '50185'
+    singer_name: 諏訪 彩花
+    singer_alias:
+    available_date: '2015-01-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 人生<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こまいうえい
+    singer_name_ruby: すわあやか
+    song_variation:
+    - esong_code: 3384A7
+      song_name: ゴーマイウェイ
       content_type: ''
   - song_name: コメディ
     song_alias:
@@ -400,23 +400,6 @@ result:
       content_type: ''
   - song_name: 最後の恋人
     song_alias:
-    esong_code: 1488A6
-    t_singer_master_id: '12814'
-    singer_name: 池田 一男
-    singer_alias:
-    available_date: '2015-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: さいこのこいひと
-    singer_name_ruby: いけたかすお
-    song_variation:
-    - esong_code: 1488A6
-      song_name: 最後の恋人
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 最後の恋人
-    song_alias:
     esong_code: 1499B30
     t_singer_master_id: '12814'
     singer_name: 池田 一男
@@ -432,6 +415,23 @@ result:
     - esong_code: 1499B30
       song_name: 最後の恋人
       content_type: DAM生音
+  - song_name: 最後の恋人
+    song_alias:
+    esong_code: 1488A6
+    t_singer_master_id: '12814'
+    singer_name: 池田 一男
+    singer_alias:
+    available_date: '2015-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: さいこのこいひと
+    singer_name_ruby: いけたかすお
+    song_variation:
+    - esong_code: 1488A6
+      song_name: 最後の恋人
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 最初の愛の物語
     song_alias:
     esong_code: 3385B49

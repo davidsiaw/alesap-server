@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
   - song_name: Summer Madness (Apster Remix)
     song_alias:
@@ -466,23 +466,6 @@ result:
     - esong_code: 3459A21
       song_name: JET!!! (album version)
       content_type: ''
-  - song_name: シェルブールの雨傘
-    song_alias:
-    esong_code: 3168A12
-    t_singer_master_id: '189'
-    singer_name: いしだ あゆみ
-    singer_alias:
-    available_date: '2015-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえるふるのあま
-    singer_name_ruby: いしたあゆみ
-    song_variation:
-    - esong_code: 3168A12
-      song_name: シェルブールの雨傘
-      content_type: ''
   - song_name: SHen SHera SHen
     song_alias:
     esong_code: 3458A30
@@ -502,18 +485,35 @@ result:
       content_type: ''
   - song_name: 潮騒
     song_alias:
-    esong_code: 3228B5
-    t_singer_master_id: '1655'
-    singer_name: 中村 美律子
+    esong_code: 443A35
+    t_singer_master_id: '46580'
+    singer_name: 寺本 圭佑(東大寺四郎)
     singer_alias:
-    available_date: '2015-07-12'
+    available_date: '2015-07-07'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
+    content_type:
     song_name_ruby: しおさい
-    singer_name_ruby: なかむらみつこ
+    singer_name_ruby: てらもとけいすけ
     song_variation:
-    - esong_code: 3228B5
+    - esong_code: 443A35
       song_name: 潮騒
-      content_type: DAMｸﾘｯﾌﾟ生音
+      content_type: ''
+  - song_name: 潮騒
+    song_alias:
+    esong_code: 3460A25
+    t_singer_master_id: '51427'
+    singer_name: カスタマイZ
+    singer_alias:
+    available_date: '2015-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: クラゲの食堂<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しおさい
+    singer_name_ruby: かすたまいす
+    song_variation:
+    - esong_code: 3460A25
+      song_name: 潮騒
+      content_type: ''

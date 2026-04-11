@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: プリキュア〜永遠のともだち〜 (2013Version)
-    song_alias:
-    esong_code: 2997B15
-    t_singer_master_id: '47270'
-    singer_name: 工藤 真由&黒沢 ともよ&吉田 仁美
-    singer_alias:
-    available_date: '2013-03-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 劇場版プリキュアオールスターズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりきゆあえいえん
-    singer_name_ruby: くとうまゆくろさわともよよ
-    song_variation:
-    - esong_code: 2997B15
-      song_name: プリキュア〜永遠のともだち〜 (2013Version)
-      content_type: ''
   - song_name: プリキュア〜永遠のともだち〜 (2013Ver.)
     song_alias:
     esong_code: 3001B24
@@ -166,23 +149,6 @@ result:
     - esong_code: 3003A37
       song_name: ふるさと銀河
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: ふるさと銀河
-    song_alias:
-    esong_code: 3003A14
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2013-03-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ふるさときんか
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 3003A14
-      song_name: ふるさと銀河
-      content_type: DAM生音
   - song_name: ふる里神代桜
     song_alias:
     esong_code: 3011A47
@@ -522,4 +488,38 @@ result:
     song_variation:
     - esong_code: 3015A43
       song_name: 平成花火師
+      content_type: ''
+  - song_name: ベイビークリスマス 〜ぎゅっと愛をこめて〜
+    song_alias:
+    esong_code: 3009A24
+    t_singer_master_id: '45134'
+    singer_name: BLUE BIRD BEACH
+    singer_alias:
+    available_date: '2013-03-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へいひくりすま
+    singer_name_ruby: ふるはとひち
+    song_variation:
+    - esong_code: 3009A24
+      song_name: ベイビークリスマス 〜ぎゅっと愛をこめて〜
+      content_type: ''
+  - song_name: Baby Love
+    song_alias:
+    esong_code: 2999B48
+    t_singer_master_id: '43113'
+    singer_name: Aimer
+    singer_alias:
+    available_date: '2013-03-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へいひらふ
+    singer_name_ruby: えめ
+    song_variation:
+    - esong_code: 2999B48
+      song_name: Baby Love
       content_type: ''

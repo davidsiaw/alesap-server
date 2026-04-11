@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 807
-  all_max_cnt: 867
-  all_country_cnt: 807
+  max_cnt: 806
+  all_max_cnt: 866
+  all_country_cnt: 806
   song:
   - song_name: 霧の中の愛子
     song_alias:
@@ -194,23 +194,6 @@ result:
     - esong_code: 549B14
       song_name: グッド・バイ・マイ・ラブ
       content_type: ''
-  - song_name: Good Morning Kids
-    song_alias:
-    esong_code: 554B13
-    t_singer_master_id: '21114'
-    singer_name: ELLEGARDEN
-    singer_alias:
-    available_date: '2004-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くつともにんく
-    singer_name_ruby: えるれかてん
-    song_variation:
-    - esong_code: 554B13
-      song_name: Good Morning Kids
-      content_type: ''
   - song_name: グッドモーニング
     song_alias:
     esong_code: 116A38
@@ -227,6 +210,23 @@ result:
     song_variation:
     - esong_code: 116A38
       song_name: グッドモーニング
+      content_type: ''
+  - song_name: Good Morning Kids
+    song_alias:
+    esong_code: 554B13
+    t_singer_master_id: '21114'
+    singer_name: ELLEGARDEN
+    singer_alias:
+    available_date: '2004-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつともにんく
+    singer_name_ruby: えるれかてん
+    song_variation:
+    - esong_code: 554B13
+      song_name: Good Morning Kids
       content_type: ''
   - song_name: GOOD LIFE...
     song_alias:

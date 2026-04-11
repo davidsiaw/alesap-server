@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 754
-  all_max_cnt: 832
-  all_country_cnt: 754
+  max_cnt: 749
+  all_max_cnt: 827
+  all_country_cnt: 749
   song:
-  - song_name: TIMES
-    song_alias:
-    esong_code: 1380B17
-    t_singer_master_id: '8558'
-    singer_name: 鈴木 あみ
-    singer_alias:
-    available_date: '2005-09-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいむす
-    singer_name_ruby: すすきあみ
-    song_variation:
-    - esong_code: 1380B17
-      song_name: TIMES
-      content_type: ''
   - song_name: 太陽
     song_alias:
     esong_code: 1366B12
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1337A27
       song_name: Take a Chance
+      content_type: ''
+  - song_name: DISCO☆DISCO
+    song_alias:
+    esong_code: 1338B49
+    t_singer_master_id: '23840'
+    singer_name: So'Fly
+    singer_alias:
+    available_date: '2005-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていすこていすこ
+    singer_name_ruby: そふらい
+    song_variation:
+    - esong_code: 1338B49
+      song_name: DISCO☆DISCO
       content_type: ''

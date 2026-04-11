@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 304
-  all_max_cnt: 323
-  all_country_cnt: 304
+  max_cnt: 302
+  all_max_cnt: 321
+  all_country_cnt: 302
   song:
-  - song_name: 祈り
-    song_alias:
-    esong_code: 574B11
-    t_singer_master_id: '12211'
-    singer_name: 千綿 偉功(千綿ヒデノリ)
-    singer_alias:
-    available_date: '2005-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのり
-    singer_name_ruby: ちわたひてのり
-    song_variation:
-    - esong_code: 574B11
-      song_name: 祈り
-      content_type: ''
   - song_name: If You Believe In LOVE
     song_alias:
     esong_code: 587A48
@@ -449,7 +432,7 @@ result:
     - esong_code: 321A12
       song_name: 過去
       content_type: ''
-  - song_name: 風のささやき(THE WINDMILLS OF YOUR MIND)(全英語詞)
+  - song_name: 風のささやき(THE WINDMILLS OF YOUR MIND)
     song_alias:
     esong_code: 411B46
     t_singer_master_id: '1359'
@@ -464,7 +447,7 @@ result:
     singer_name_ruby: たけうちまりや
     song_variation:
     - esong_code: 411B46
-      song_name: 風のささやき(THE WINDMILLS OF YOUR MIND)(全英語詞)
+      song_name: 風のささやき(THE WINDMILLS OF YOUR MIND)
       content_type: ''
   - song_name: カーテン
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 981A1
       song_name: 悲しみに負けないで
+      content_type: ''
+  - song_name: Garnet Moon
+    song_alias:
+    esong_code: 628A30
+    t_singer_master_id: '10119'
+    singer_name: 島谷 ひとみ
+    singer_alias:
+    available_date: '2005-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: A.C.E 〜Another Century's Episode〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かねつとむん
+    singer_name_ruby: しまたにひとみ
+    song_variation:
+    - esong_code: 628A30
+      song_name: Garnet Moon
       content_type: ''

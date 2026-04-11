@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
-  - song_name: 毒林檎とシンデレラ feat.巡音ルカ
-    song_alias:
-    esong_code: 2941A11
-    t_singer_master_id: '43101'
-    singer_name: 青田新名 a.k.a ゆずひこ
-    singer_alias:
-    available_date: '2012-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: とくりんことしん
-    singer_name_ruby: あおたにいなえけえゆすひこ
-    song_variation:
-    - esong_code: 2941A11
-      song_name: 毒林檎とシンデレラ feat.巡音ルカ
-      content_type: VOCALOID
   - song_name: 土佐恋しぐれ
     song_alias:
     esong_code: 2920A32
@@ -126,6 +109,23 @@ result:
     - esong_code: 2930B20
       song_name: 突然 (オリカラ)
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 隣組
+    song_alias:
+    esong_code: 68B23
+    t_singer_master_id: '7960'
+    singer_name: 徳山 璉
+    singer_alias:
+    available_date: '2012-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: となりくみ
+    singer_name_ruby: とくやまたまき
+    song_variation:
+    - esong_code: 68B23
+      song_name: 隣組
+      content_type: ''
   - song_name: とびだせ!3D
     song_alias:
     esong_code: 2930A31
@@ -211,23 +211,6 @@ result:
     - esong_code: 1703A11
       song_name: ともだちのうた
       content_type: ''
-  - song_name: 仲間達(とも)よ
-    song_alias:
-    esong_code: 2937B48
-    t_singer_master_id: '45922'
-    singer_name: 森瀬 永&寿 ひろし
-    singer_alias:
-    available_date: '2012-11-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ともよ
-    singer_name_ruby: もりせはるかとしひろし
-    song_variation:
-    - esong_code: 2937B48
-      song_name: 仲間達(とも)よ
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 親友(とも)よ
     song_alias:
     esong_code: 2935A40
@@ -245,6 +228,23 @@ result:
     - esong_code: 2935A40
       song_name: 親友(とも)よ
       content_type: ''
+  - song_name: 仲間達(とも)よ
+    song_alias:
+    esong_code: 2937B48
+    t_singer_master_id: '45922'
+    singer_name: 森瀬 永&寿 ひろし
+    singer_alias:
+    available_date: '2012-11-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ともよ
+    singer_name_ruby: もりせはるかとしひろし
+    song_variation:
+    - esong_code: 2937B48
+      song_name: 仲間達(とも)よ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Driver's High
     song_alias:
     esong_code: 2924A43
@@ -279,23 +279,6 @@ result:
     - esong_code: 2930A44
       song_name: どりぃみんぐ☆らぶ
       content_type: ''
-  - song_name: AAAベストメドレー Vol.2
-    song_alias:
-    esong_code: 2940B8
-    t_singer_master_id: '10188'
-    singer_name: AAA
-    singer_alias:
-    available_date: '2012-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とりふるえへす
-    singer_name_ruby: とりふるえ
-    song_variation:
-    - esong_code: 2940B8
-      song_name: AAAベストメドレー Vol.2
-      content_type: ''
   - song_name: AAAベストメドレー
     song_alias:
     esong_code: 2940B7
@@ -312,6 +295,23 @@ result:
     song_variation:
     - esong_code: 2940B7
       song_name: AAAベストメドレー
+      content_type: ''
+  - song_name: AAAベストメドレー Vol.2
+    song_alias:
+    esong_code: 2940B8
+    t_singer_master_id: '10188'
+    singer_name: AAA
+    singer_alias:
+    available_date: '2012-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりふるえへす
+    singer_name_ruby: とりふるえ
+    song_variation:
+    - esong_code: 2940B8
+      song_name: AAAベストメドレー Vol.2
       content_type: ''
   - song_name: Triple Smiley
     song_alias:

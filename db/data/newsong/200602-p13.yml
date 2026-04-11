@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 902
-  all_max_cnt: 1197
-  all_country_cnt: 902
+  max_cnt: 897
+  all_max_cnt: 1191
+  all_country_cnt: 897
   song:
-  - song_name: せせらぎの詩
-    song_alias:
-    esong_code: 1462A48
-    t_singer_master_id: '25382'
-    singer_name: 大竹 マリ子
-    singer_alias:
-    available_date: '2006-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せせらきのうた
-    singer_name_ruby: おおたけまりこ
-    song_variation:
-    - esong_code: 1462A48
-      song_name: せせらぎの詩
-      content_type: ''
   - song_name: 雪葬
     song_alias:
     esong_code: 1462B12
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1462B6
       song_name: 高橋真梨子ベストメドレーVol.2
+      content_type: ''
+  - song_name: 高松夜曲
+    song_alias:
+    esong_code: 1378B1
+    t_singer_master_id: '2355'
+    singer_name: 都 はるみ
+    singer_alias:
+    available_date: '2006-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たかまつやきよく
+    singer_name_ruby: みやこはるみ
+    song_variation:
+    - esong_code: 1378B1
+      song_name: 高松夜曲
       content_type: ''

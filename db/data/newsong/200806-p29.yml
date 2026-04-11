@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
-  - song_name: 星屑の帰り道
-    song_alias:
-    esong_code: 2026A39
-    t_singer_master_id: '601'
-    singer_name: KAN
-    singer_alias:
-    available_date: '2008-06-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしくすのかえりみ
-    singer_name_ruby: かん
-    song_variation:
-    - esong_code: 2026A39
-      song_name: 星屑の帰り道
-      content_type: ''
-  - song_name: 星屑メモリース
-    song_alias:
-    esong_code: 2020A12
-    t_singer_master_id: '33230'
-    singer_name: ジュリエット
-    singer_alias:
-    available_date: '2008-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしくすめもり
-    singer_name_ruby: しゆりえつと
-    song_variation:
-    - esong_code: 2020A12
-      song_name: 星屑メモリース
-      content_type: ''
   - song_name: 星の河 (ニューバージョン)
     song_alias:
     esong_code: 2028A44
@@ -66,7 +32,7 @@ result:
     singer_alias:
     available_date: '2008-06-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・ファンタジア<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ほしをそらに
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2028B33
       song_name: ボンノウ・ラブ
+      content_type: ''
+  - song_name: Bon Voyage
+    song_alias:
+    esong_code: 2013A15
+    t_singer_master_id: '16137'
+    singer_name: mihimaru GT
+    singer_alias:
+    available_date: '2008-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほんほやしゆ
+    singer_name_ruby: みひまるしてい
+    song_variation:
+    - esong_code: 2013A15
+      song_name: Bon Voyage
+      content_type: ''
+  - song_name: 本牧メルヘン
+    song_alias:
+    esong_code: 2025B39
+    t_singer_master_id: '32154'
+    singer_name: ジェロ
+    singer_alias:
+    available_date: '2008-06-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほんもくめるへん
+    singer_name_ruby: しえろ
+    song_variation:
+    - esong_code: 2025B39
+      song_name: 本牧メルヘン
       content_type: ''

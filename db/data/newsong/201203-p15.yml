@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1318
-  all_max_cnt: 1435
-  all_country_cnt: 1318
+  max_cnt: 1313
+  all_max_cnt: 1430
+  all_country_cnt: 1313
   song:
-  - song_name: SAKURA, I love you?
-    song_alias:
-    esong_code: 2564B28
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2012-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくらあいらふゆ
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 2564B28
-      song_name: SAKURA, I love you?
-      content_type: ''
   - song_name: サクラ音頭
     song_alias:
     esong_code: 2775A40
@@ -406,7 +389,7 @@ result:
     singer_alias:
     available_date: '2012-03-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: 新幹線変形ロボ シンカリオン<番組名>
     country_code: '0'
     content_type: DAMﾗｲﾌﾞ
     song_name_ruby: さむてい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2771A43
       song_name: The Ruins of a Castle
+      content_type: ''
+  - song_name: the wonderland from LAB.
+    song_alias:
+    esong_code: 2774A4
+    t_singer_master_id: '11865'
+    singer_name: vistlip
+    singer_alias:
+    available_date: '2012-03-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さわんたらんと
+    singer_name_ruby: ひすとりつふ
+    song_variation:
+    - esong_code: 2774A4
+      song_name: the wonderland from LAB.
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
-  - song_name: BEAUTIFUL DAYS
-    song_alias:
-    esong_code: 2677B32
-    t_singer_master_id: '36641'
-    singer_name: SPYAIR
-    singer_alias:
-    available_date: '2011-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ひゆていふるて
-    singer_name_ruby: すはいえあ
-    song_variation:
-    - esong_code: 2677B32
-      song_name: BEAUTIFUL DAYS
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Human Nature
-    song_alias:
-    esong_code: 2671B20
-    t_singer_master_id: '12068'
-    singer_name: PUSHIM
-    singer_alias:
-    available_date: '2011-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひゆまんねいちや
-    singer_name_ruby: ふしん
-    song_variation:
-    - esong_code: 2671B20
-      song_name: Human Nature
-      content_type: ''
   - song_name: beloved
     song_alias:
     esong_code: 2678A9
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2675B22
       song_name: 冬枯れのヴィオラ
+      content_type: ''
+  - song_name: 冬の月
+    song_alias:
+    esong_code: 2663A5
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2011-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふゆのつき
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 2663A5
+      song_name: 冬の月
+      content_type: ''
+  - song_name: Fly Away
+    song_alias:
+    esong_code: 2671A22
+    t_singer_master_id: '37464'
+    singer_name: erica
+    singer_alias:
+    available_date: '2011-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらいあうえい
+    singer_name_ruby: えりか
+    song_variation:
+    - esong_code: 2671A22
+      song_name: Fly Away
       content_type: ''

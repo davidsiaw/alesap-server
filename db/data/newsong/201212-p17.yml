@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1586
-  all_max_cnt: 1734
-  all_country_cnt: 1586
+  max_cnt: 1581
+  all_max_cnt: 1729
+  all_country_cnt: 1581
   song:
-  - song_name: 今夜は華になる
-    song_alias:
-    esong_code: 2948A10
-    t_singer_master_id: '46600'
-    singer_name: 神野 悠斗
-    singer_alias:
-    available_date: '2012-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやははなになる
-    singer_name_ruby: かみのゆうと
-    song_variation:
-    - esong_code: 2948A10
-      song_name: 今夜は華になる
-      content_type: ''
   - song_name: 今夜はブギー・バッグ(SMOOTH RAP) feat.加藤ミリヤ&SHUN
     song_alias:
     esong_code: 2946A25
@@ -92,7 +75,7 @@ result:
     - esong_code: 2947A40
       song_name: サイクロンZ
       content_type: ''
-  - song_name: 最後のダンス (瀬奈じゅん) [DAM本人歌唱]
+  - song_name: 最後のダンス (瀬奈じゅん)[DAM本人歌唱]
     song_alias:
     esong_code: 2948B39
     t_singer_master_id: '1349'
@@ -107,7 +90,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 2948B39
-      song_name: 最後のダンス (瀬奈じゅん) [DAM本人歌唱]
+      song_name: 最後のダンス (瀬奈じゅん)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 最後の人
     song_alias:
@@ -247,21 +230,21 @@ result:
       content_type: ''
   - song_name: 酒場恋
     song_alias:
-    esong_code: 2942B36
+    esong_code: 2949A9
     t_singer_master_id: '5035'
     singer_name: 秋山 涼子
     singer_alias:
-    available_date: '2012-12-11'
+    available_date: '2012-12-25'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: さかはこい
     singer_name_ruby: あきやまりようこ
     song_variation:
-    - esong_code: 2942B36
+    - esong_code: 2949A9
       song_name: 酒場恋
-      content_type: ''
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 酒場恋
     song_alias:
     esong_code: 2944A47
@@ -281,7 +264,7 @@ result:
       content_type: ''
   - song_name: 酒場恋
     song_alias:
-    esong_code: 2949A9
+    esong_code: 2948B25
     t_singer_master_id: '5035'
     singer_name: 秋山 涼子
     singer_alias:
@@ -289,13 +272,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type: DAM生音
     song_name_ruby: さかはこい
     singer_name_ruby: あきやまりようこ
     song_variation:
-    - esong_code: 2949A9
+    - esong_code: 2948B25
       song_name: 酒場恋
-      content_type: DAMﾌﾟﾛｵｹ
+      content_type: DAM生音
   - song_name: 酒場恋
     song_alias:
     esong_code: 2947B7
@@ -315,21 +298,21 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 酒場恋
     song_alias:
-    esong_code: 2948B25
+    esong_code: 2942B36
     t_singer_master_id: '5035'
     singer_name: 秋山 涼子
     singer_alias:
-    available_date: '2012-12-25'
+    available_date: '2012-12-11'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type:
     song_name_ruby: さかはこい
     singer_name_ruby: あきやまりようこ
     song_variation:
-    - esong_code: 2948B25
+    - esong_code: 2942B36
       song_name: 酒場恋
-      content_type: DAM生音
+      content_type: ''
   - song_name: 相模の風
     song_alias:
     esong_code: 2957A26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2945B29
       song_name: SURVIVE!!
+      content_type: ''
+  - song_name: 裁き
+    song_alias:
+    esong_code: 2952A24
+    t_singer_master_id: '2271'
+    singer_name: 美川 憲一
+    singer_alias:
+    available_date: '2012-12-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さはき
+    singer_name_ruby: みかわけんいち
+    song_variation:
+    - esong_code: 2952A24
+      song_name: 裁き
       content_type: ''

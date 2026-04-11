@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 531
-  all_max_cnt: 644
-  all_country_cnt: 531
+  max_cnt: 533
+  all_max_cnt: 646
+  all_country_cnt: 533
   song:
+  - song_name: F.O
+    song_alias:
+    esong_code: 842B14
+    t_singer_master_id: '6909'
+    singer_name: SOPHIA
+    singer_alias:
+    available_date: '2003-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふお
+    singer_name_ruby: そふいあ
+    song_variation:
+    - esong_code: 842B14
+      song_name: F.O
+      content_type: ''
+  - song_name: 不思議ソング
+    song_alias:
+    esong_code: 258B25
+    t_singer_master_id: '822'
+    singer_name: こおろぎ'73
+    singer_alias:
+    available_date: '2003-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 宇宙刑事シャイダー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふしきそんく
+    singer_name_ruby: こおろきななしゆうさん
+    song_variation:
+    - esong_code: 258B25
+      song_name: 不思議ソング
+      content_type: ''
   - song_name: ふたつ星
     song_alias:
     esong_code: 837A22
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 718A30
       song_name: 僕等の世界に
-      content_type: ''
-  - song_name: 歩行者優先
-    song_alias:
-    esong_code: 824A25
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2003-10-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほこうしやゆうせん
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 824A25
-      song_name: 歩行者優先
-      content_type: ''
-  - song_name: ポコチン
-    song_alias:
-    esong_code: 718A29
-    t_singer_master_id: '15587'
-    singer_name: オナニーマシーン
-    singer_alias:
-    available_date: '2003-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほこちん
-    singer_name_ruby: おなにましん
-    song_variation:
-    - esong_code: 718A29
-      song_name: ポコチン
       content_type: ''

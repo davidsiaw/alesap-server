@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1033
-  all_max_cnt: 1129
-  all_country_cnt: 1033
+  max_cnt: 1024
+  all_max_cnt: 1120
+  all_country_cnt: 1024
   song:
   - song_name: E〜O〜!!
     song_alias:
@@ -417,23 +417,6 @@ result:
       content_type: ''
   - song_name: With your smile
     song_alias:
-    esong_code: 1565B42
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
-    singer_alias:
-    available_date: '2006-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういすゆあすまいる
-    singer_name_ruby: こうたくみ
-    song_variation:
-    - esong_code: 1565B42
-      song_name: With your smile
-      content_type: ''
-  - song_name: With your smile
-    song_alias:
     esong_code: 1565B41
     t_singer_master_id: '12005'
     singer_name: 倖田 來未
@@ -449,6 +432,23 @@ result:
     - esong_code: 1565B41
       song_name: With your smile
       content_type: DAM良音
+  - song_name: With your smile
+    song_alias:
+    esong_code: 1565B42
+    t_singer_master_id: '12005'
+    singer_name: 倖田 來未
+    singer_alias:
+    available_date: '2006-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういすゆあすまいる
+    singer_name_ruby: こうたくみ
+    song_variation:
+    - esong_code: 1565B42
+      song_name: With your smile
+      content_type: ''
   - song_name: Waiting For The Right Time
     song_alias:
     esong_code: 1570B15

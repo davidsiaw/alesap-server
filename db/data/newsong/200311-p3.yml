@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 479
-  all_max_cnt: 548
-  all_country_cnt: 479
+  max_cnt: 476
+  all_max_cnt: 545
+  all_country_cnt: 476
   song:
-  - song_name: 風に吹かれて・・・
-    song_alias:
-    esong_code: 439A13
-    t_singer_master_id: '2536'
-    singer_name: 吉 幾三
-    singer_alias:
-    available_date: '2003-11-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせにふかれて
-    singer_name_ruby: よしいくそう
-    song_variation:
-    - esong_code: 439A13
-      song_name: 風に吹かれて・・・
-      content_type: ''
   - song_name: カゼノネ
     song_alias:
     esong_code: 812A3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 919A32
       song_name: Can't be Stopped
+      content_type: ''
+  - song_name: kyun
+    song_alias:
+    esong_code: 229B29
+    t_singer_master_id: '7507'
+    singer_name: Kanae(佳苗)
+    singer_alias:
+    available_date: '2003-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: こちら葛飾区亀有公園前派出所<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きゆん
+    singer_name_ruby: かなえ
+    song_variation:
+    - esong_code: 229B29
+      song_name: kyun
       content_type: ''

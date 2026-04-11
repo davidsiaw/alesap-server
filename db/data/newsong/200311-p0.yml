@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 479
-  all_max_cnt: 548
-  all_country_cnt: 479
+  max_cnt: 476
+  all_max_cnt: 545
+  all_country_cnt: 476
   song:
   - song_name: あゝ千枚田〜ふるさと遺産
     song_alias:
@@ -381,23 +381,6 @@ result:
     - esong_code: 857A40
       song_name: あの娘と暮らせない
       content_type: ''
-  - song_name: あのとき・・・・・・
-    song_alias:
-    esong_code: 920B35
-    t_singer_master_id: '141'
-    singer_name: 安全地帯
-    singer_alias:
-    available_date: '2003-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのとき
-    singer_name_ruby: あんせんちたい
-    song_variation:
-    - esong_code: 920B35
-      song_name: あのとき・・・・・・
-      content_type: ''
   - song_name: あばんぎゃるど
     song_alias:
     esong_code: 238A20
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 667B28
       song_name: ありがとうの唄
+      content_type: ''
+  - song_name: A RICH MAN'S GIRL
+    song_alias:
+    esong_code: 921B12
+    t_singer_master_id: '1801'
+    singer_name: 浜田 省吾
+    singer_alias:
+    available_date: '2003-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありつちまんすか
+    singer_name_ruby: はまたしようこ
+    song_variation:
+    - esong_code: 921B12
+      song_name: A RICH MAN'S GIRL
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
-  - song_name: 早春
-    song_alias:
-    esong_code: 313A48
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
-    singer_alias:
-    available_date: '2006-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そうしゆん
-    singer_name_ruby: いつきひろし
-    song_variation:
-    - esong_code: 313A48
-      song_name: 早春
-      content_type: ''
   - song_name: ソウルタトゥー
     song_alias:
     esong_code: 1428A25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1426A48
       song_name: Time To Go
+      content_type: ''
+  - song_name: TIME 4 SOME ACTION
+    song_alias:
+    esong_code: 1429A36
+    t_singer_master_id: '24893'
+    singer_name: DELI
+    singer_alias:
+    available_date: '2006-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいむふおさむあく
+    singer_name_ruby: てり
+    song_variation:
+    - esong_code: 1429A36
+      song_name: TIME 4 SOME ACTION
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1485
-  all_max_cnt: 1686
-  all_country_cnt: 1485
+  max_cnt: 1462
+  all_max_cnt: 1663
+  all_country_cnt: 1462
   song:
   - song_name: 愛の花言葉
     song_alias:
@@ -398,23 +398,6 @@ result:
     - esong_code: 4350B21
       song_name: 朝花節 with 中孝介
       content_type: ''
-  - song_name: 明日テンキになあれ
-    song_alias:
-    esong_code: 4337B17
-    t_singer_master_id: '56045'
-    singer_name: Uncle Bomb
-    singer_alias:
-    available_date: '2020-03-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あしたてんきになあれ
-    singer_name_ruby: あんくるほむ
-    song_variation:
-    - esong_code: 4337B17
-      song_name: 明日テンキになあれ
-      content_type: ''
   - song_name: あしたてんきになれ
     song_alias:
     esong_code: 4346B24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4341B25
       song_name: 明日へ夢舞台
+      content_type: ''
+  - song_name: アストラ号の冒険
+    song_alias:
+    esong_code: 4336A34
+    t_singer_master_id: '30312'
+    singer_name: 早見 沙織
+    singer_alias:
+    available_date: '2020-03-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 彼方のアストラ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あすとらこうのほ
+    singer_name_ruby: はやみさおり
+    song_variation:
+    - esong_code: 4336A34
+      song_name: アストラ号の冒険
       content_type: ''

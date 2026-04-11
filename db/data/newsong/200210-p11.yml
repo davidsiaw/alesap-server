@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 496
-  all_max_cnt: 546
-  all_country_cnt: 496
+  max_cnt: 495
+  all_max_cnt: 545
+  all_country_cnt: 495
   song:
-  - song_name: はぐれ雲
-    song_alias:
-    esong_code: 930B30
-    t_singer_master_id: '1462'
-    singer_name: TUBE
-    singer_alias:
-    available_date: '2002-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はくれくも
-    singer_name_ruby: ちゆふ
-    song_variation:
-    - esong_code: 930B30
-      song_name: はぐれ雲
-      content_type: ''
   - song_name: ハ・ジ・ケ・ロ!
     song_alias:
     esong_code: 931B28
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 927A27
       song_name: ファミレス午前3時
+      content_type: ''
+  - song_name: Faraway
+    song_alias:
+    esong_code: 947B30
+    t_singer_master_id: '5160'
+    singer_name: 浦西 真理子
+    singer_alias:
+    available_date: '2002-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鎧伝サムライトルーパー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふあらうえい
+    singer_name_ruby: うらにしまりこ
+    song_variation:
+    - esong_code: 947B30
+      song_name: Faraway
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: フンタン少年団 (Japanese Ver.)
-    song_alias:
-    esong_code: 3585B34
-    t_singer_master_id: '51130'
-    singer_name: BTS
-    singer_alias:
-    available_date: '2016-01-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふんたんしようねんた
-    singer_name_ruby: ひていえす
-    song_variation:
-    - esong_code: 3585B34
-      song_name: フンタン少年団 (Japanese Ver.)
-      content_type: ''
   - song_name: Boom Boom Christmas
     song_alias:
     esong_code: 3578B48
@@ -126,23 +109,6 @@ result:
     - esong_code: 3590A25
       song_name: 平民出馬宣言 (デッドストックダイヤモンド)
       content_type: ''
-  - song_name: ベストフレンド (TVサイズ)
-    song_alias:
-    esong_code: 3579A41
-    t_singer_master_id: '33610'
-    singer_name: ソナーポケット
-    singer_alias:
-    available_date: '2016-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 虹色デイズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: へすとふれんと
-    singer_name_ruby: そなほけつと
-    song_variation:
-    - esong_code: 3579A41
-      song_name: ベストフレンド (TVサイズ)
-      content_type: ''
   - song_name: ベストフレンド
     song_alias:
     esong_code: 3583B30
@@ -159,6 +125,23 @@ result:
     song_variation:
     - esong_code: 3583B30
       song_name: ベストフレンド
+      content_type: ''
+  - song_name: ベストフレンド (TVサイズ)
+    song_alias:
+    esong_code: 3579A41
+    t_singer_master_id: '33610'
+    singer_name: ソナーポケット
+    singer_alias:
+    available_date: '2016-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 虹色デイズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: へすとふれんと
+    singer_name_ruby: そなほけつと
+    song_variation:
+    - esong_code: 3579A41
+      song_name: ベストフレンド (TVサイズ)
       content_type: ''
   - song_name: ペトリコール
     song_alias:
@@ -323,7 +306,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: ほいめんにんしや
     singer_name_ruby: ほいすあんとめん
     song_variation:
@@ -343,7 +326,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: ほいめんにんしや
     singer_name_ruby: ほいすあんとめん
     song_variation:
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3590B6
       song_name: 誇り高く有るために (Short Ver.)
+      content_type: ''
+  - song_name: 星影の里
+    song_alias:
+    esong_code: 3411B47
+    t_singer_master_id: '55083'
+    singer_name: 三丘 翔太
+    singer_alias:
+    available_date: '2016-01-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほしかけのさと
+    singer_name_ruby: みつおかしようた
+    song_variation:
+    - esong_code: 3411B47
+      song_name: 星影の里
       content_type: ''

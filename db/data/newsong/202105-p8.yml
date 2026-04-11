@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 774
-  all_max_cnt: 820
-  all_country_cnt: 774
+  max_cnt: 765
+  all_max_cnt: 811
+  all_country_cnt: 765
   song:
-  - song_name: こころさがし
-    song_alias:
-    esong_code: 4503B6
-    t_singer_master_id: '67947'
-    singer_name: fuzzy knot
-    singer_alias:
-    available_date: '2021-05-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころさかし
-    singer_name_ruby: ふあしのつと
-    song_variation:
-    - esong_code: 4503B6
-      song_name: こころさがし
-      content_type: ''
-  - song_name: 心の晴れる日に・・・
-    song_alias:
-    esong_code: 4172B38
-    t_singer_master_id: '60355'
-    singer_name: 西城 まさと
-    singer_alias:
-    available_date: '2021-05-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころのはれるひに
-    singer_name_ruby: さいしようまさと
-    song_variation:
-    - esong_code: 4172B38
-      song_name: 心の晴れる日に・・・
-      content_type: ''
-  - song_name: GHOST
-    song_alias:
-    esong_code: 4503B17
-    t_singer_master_id: '67950'
-    singer_name: 星街 すいせい
-    singer_alias:
-    available_date: '2021-05-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こすと
-    singer_name_ruby: ほしまちすいせい
-    song_variation:
-    - esong_code: 4503B17
-      song_name: GHOST
-      content_type: ''
   - song_name: ご都合主義
     song_alias:
     esong_code: 4497B19
@@ -485,23 +434,6 @@ result:
       content_type: ''
   - song_name: サムシング・ニュー
     song_alias:
-    esong_code: 4498B43
-    t_singer_master_id: '50453'
-    singer_name: WEST.
-    singer_alias:
-    available_date: '2021-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: さむしんくにゆ
-    singer_name_ruby: うえすと
-    song_variation:
-    - esong_code: 4498B43
-      song_name: サムシング・ニュー
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: サムシング・ニュー
-    song_alias:
     esong_code: 4495B32
     t_singer_master_id: '50453'
     singer_name: WEST.
@@ -517,3 +449,71 @@ result:
     - esong_code: 4495B32
       song_name: サムシング・ニュー
       content_type: ''
+  - song_name: サムシング・ニュー
+    song_alias:
+    esong_code: 4498B43
+    t_singer_master_id: '50453'
+    singer_name: WEST.
+    singer_alias:
+    available_date: '2021-05-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: さむしんくにゆ
+    singer_name_ruby: うえすと
+    song_variation:
+    - esong_code: 4498B43
+      song_name: サムシング・ニュー
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: さよなら10代
+    song_alias:
+    esong_code: 4500B11
+    t_singer_master_id: '67897'
+    singer_name: みなみ
+    singer_alias:
+    available_date: '2021-05-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよならしゆうた
+    singer_name_ruby: みなみ
+    song_variation:
+    - esong_code: 4500B11
+      song_name: さよなら10代
+      content_type: ''
+  - song_name: さよならの前に [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4507B17
+    t_singer_master_id: '10188'
+    singer_name: AAA
+    singer_alias:
+    available_date: '2021-05-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: さよならのまえに
+    singer_name_ruby: とりふるえ
+    song_variation:
+    - esong_code: 4507B17
+      song_name: さよならの前に [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
+  - song_name: SorrowChat
+    song_alias:
+    esong_code: 4502A36
+    t_singer_master_id: '66260'
+    singer_name: MIMI
+    singer_alias:
+    available_date: '2021-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: さろうちやつと
+    singer_name_ruby: みみ
+    song_variation:
+    - esong_code: 4502A36
+      song_name: SorrowChat
+      content_type: VOCALOID

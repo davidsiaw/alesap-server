@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
   - song_name: あぁ石鎚の峰
     song_alias:
@@ -179,6 +179,23 @@ result:
       content_type: ''
   - song_name: 逢いたくて金沢
     song_alias:
+    esong_code: 3286A28
+    t_singer_master_id: '44835'
+    singer_name: みやさと 奏
+    singer_alias:
+    available_date: '2014-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あいたくてかなさわ
+    singer_name_ruby: みやさとかな
+    song_variation:
+    - esong_code: 3286A28
+      song_name: 逢いたくて金沢
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 逢いたくて金沢
+    song_alias:
     esong_code: 3278A39
     t_singer_master_id: '44835'
     singer_name: みやさと 奏
@@ -211,23 +228,6 @@ result:
     - esong_code: 3286B14
       song_name: 逢いたくて金沢
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 逢いたくて金沢
-    song_alias:
-    esong_code: 3286A28
-    t_singer_master_id: '44835'
-    singer_name: みやさと 奏
-    singer_alias:
-    available_date: '2014-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あいたくてかなさわ
-    singer_name_ruby: みやさとかな
-    song_variation:
-    - esong_code: 3286A28
-      song_name: 逢いたくて金沢
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 逢いたくて信濃路
     song_alias:
     esong_code: 3288A5

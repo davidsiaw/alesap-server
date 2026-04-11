@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 952
-  all_country_cnt: 880
+  max_cnt: 871
+  all_max_cnt: 943
+  all_country_cnt: 871
   song:
-  - song_name: 恋人たちのクリスマスソング [パセラオリジナル]
-    song_alias:
-    esong_code: 4446A49
-    t_singer_master_id: '65298'
-    singer_name: 東京水族館
-    singer_alias:
-    available_date: '2020-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    song_name_ruby: こいひとたちのくり
-    singer_name_ruby: とうきようすいそくかん
-    song_variation:
-    - esong_code: 4446A49
-      song_name: 恋人たちのクリスマスソング [パセラオリジナル]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-  - song_name: 公私混同
-    song_alias:
-    esong_code: 4441A4
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2020-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: こうしこんとう
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 4441A4
-      song_name: 公私混同
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 小江戸捕物帖
-    song_alias:
-    esong_code: 4446A33
-    t_singer_master_id: '48167'
-    singer_name: 水雲-MIZMO-(MIZMO)
-    singer_alias:
-    available_date: '2020-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こえととりものちよ
-    singer_name_ruby: みすも
-    song_variation:
-    - esong_code: 4446A33
-      song_name: 小江戸捕物帖
-      content_type: ''
-  - song_name: 氷の鳥籠
-    song_alias:
-    esong_code: 4444A2
-    t_singer_master_id: '49274'
-    singer_name: 雨宮 天
-    singer_alias:
-    available_date: '2020-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: キミと僕の最後の戦場、あるいは世界が始まる聖戦<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こおりのとりかこ
-    singer_name_ruby: あまみやそら
-    song_variation:
-    - esong_code: 4444A2
-      song_name: 氷の鳥籠
-      content_type: ''
   - song_name: 虚空の円環 [パセラオリジナル]
     song_alias:
     esong_code: 4446B5
@@ -230,23 +162,6 @@ result:
       content_type: ''
   - song_name: 小手毬草
     song_alias:
-    esong_code: 4437A4
-    t_singer_master_id: '50266'
-    singer_name: 竹村 こずえ
-    singer_alias:
-    available_date: '2020-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こてまりそう
-    singer_name_ruby: たけむらこすえ
-    song_variation:
-    - esong_code: 4437A4
-      song_name: 小手毬草
-      content_type: ''
-  - song_name: 小手毬草
-    song_alias:
     esong_code: 4441A26
     t_singer_master_id: '50266'
     singer_name: 竹村 こずえ
@@ -262,6 +177,23 @@ result:
     - esong_code: 4441A26
       song_name: 小手毬草
       content_type: DAM生音
+  - song_name: 小手毬草
+    song_alias:
+    esong_code: 4437A4
+    t_singer_master_id: '50266'
+    singer_name: 竹村 こずえ
+    singer_alias:
+    available_date: '2020-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こてまりそう
+    singer_name_ruby: たけむらこすえ
+    song_variation:
+    - esong_code: 4437A4
+      song_name: 小手毬草
+      content_type: ''
   - song_name: 五島恋椿 「名演ギター 斉藤 功」
     song_alias:
     esong_code: 4431B41
@@ -306,13 +238,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: こふし
     singer_name_ruby: やまかわゆたか
     song_variation:
     - esong_code: 4441A3
       song_name: 拳
-      content_type: DAM生音
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: GO MY WAY
     song_alias:
     esong_code: 4449B13
@@ -500,20 +432,88 @@ result:
     - esong_code: 4445B2
       song_name: Silence
       content_type: ''
-  - song_name: サイン
+  - song_name: sign
     song_alias:
-    esong_code: 4443B41
-    t_singer_master_id: '67122'
-    singer_name: 大西 亜玖璃&大空 直美&五十嵐 裕美&中村 桜
+    esong_code: 4437A32
+    t_singer_master_id: '53920'
+    singer_name: lol
     singer_alias:
-    available_date: '2020-11-08'
+    available_date: '2020-11-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: まえせつ!<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: さいん
-    singer_name_ruby: おおにしあくりおおそらな
+    singer_name_ruby: えるおえる
     song_variation:
-    - esong_code: 4443B41
-      song_name: サイン
+    - esong_code: 4437A32
+      song_name: sign
+      content_type: ''
+  - song_name: サクガサク
+    song_alias:
+    esong_code: 4443B31
+    t_singer_master_id: '42637'
+    singer_name: 打首獄門同好会
+    singer_alias:
+    available_date: '2020-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくかさく
+    singer_name_ruby: うちくひこくもんとうこうかい
+    song_variation:
+    - esong_code: 4443B31
+      song_name: サクガサク
+      content_type: ''
+  - song_name: 酒しずく
+    song_alias:
+    esong_code: 4441B5
+    t_singer_master_id: '55083'
+    singer_name: 三丘 翔太
+    singer_alias:
+    available_date: '2020-11-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: さけしすく
+    singer_name_ruby: みつおかしようた
+    song_variation:
+    - esong_code: 4441B5
+      song_name: 酒しずく
+      content_type: DAM生音
+  - song_name: 酒しずく
+    song_alias:
+    esong_code: 4444A18
+    t_singer_master_id: '55083'
+    singer_name: 三丘 翔太
+    singer_alias:
+    available_date: '2020-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さけしすく
+    singer_name_ruby: みつおかしようた
+    song_variation:
+    - esong_code: 4444A18
+      song_name: 酒しずく
+      content_type: ''
+  - song_name: 叫ぶ星
+    song_alias:
+    esong_code: 4440A16
+    t_singer_master_id: '18366'
+    singer_name: ストレイテナー
+    singer_alias:
+    available_date: '2020-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さけふほし
+    singer_name_ruby: すとれいてな
+    song_variation:
+    - esong_code: 4440A16
+      song_name: 叫ぶ星
       content_type: ''

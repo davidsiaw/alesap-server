@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1316
-  all_max_cnt: 1449
-  all_country_cnt: 1316
+  max_cnt: 1315
+  all_max_cnt: 1448
+  all_country_cnt: 1315
   song:
-  - song_name: 横浜ラプソディー
-    song_alias:
-    esong_code: 2354B33
-    t_singer_master_id: '21475'
-    singer_name: 石毛 佐和
-    singer_alias:
-    available_date: '2010-11-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: DREAM C CLUB<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: よこはまらふそて
-    singer_name_ruby: いしけさわ
-    song_variation:
-    - esong_code: 2354B33
-      song_name: 横浜ラプソディー
-      content_type: ''
   - song_name: 四次元ビューティーガール
     song_alias:
     esong_code: 2614A3
@@ -517,3 +500,20 @@ result:
     - esong_code: 2612B28
       song_name: Lamento (ニトロプラス キラルPV Ver.)
       content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+  - song_name: ら・ら・桜
+    song_alias:
+    esong_code: 2178B12
+    t_singer_master_id: '28684'
+    singer_name: テゴマス
+    singer_alias:
+    available_date: '2010-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ららさくら
+    singer_name_ruby: てこます
+    song_variation:
+    - esong_code: 2178B12
+      song_name: ら・ら・桜
+      content_type: ''

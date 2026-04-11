@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
-  - song_name: 不滅の太陽
-    song_alias:
-    esong_code: 2030A1
-    t_singer_master_id: '15373'
-    singer_name: 藍坊主
-    singer_alias:
-    available_date: '2008-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふめつのたいよう
-    singer_name_ruby: あおほうす
-    song_variation:
-    - esong_code: 2030A1
-      song_name: 不滅の太陽
-      content_type: ''
-  - song_name: 冬枯れ風の盆
-    song_alias:
-    esong_code: 1822B24
-    t_singer_master_id: '30285'
-    singer_name: 侍
-    singer_alias:
-    available_date: '2008-06-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふゆかれかせのほ
-    singer_name_ruby: さむらい
-    song_variation:
-    - esong_code: 1822B24
-      song_name: 冬枯れ風の盆
-      content_type: ''
   - song_name: 冬しぐれ
     song_alias:
     esong_code: 1250A21
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2015A9
       song_name: PROGRESS
+      content_type: ''
+  - song_name: プロセス
+    song_alias:
+    esong_code: 2014A28
+    t_singer_master_id: '13498'
+    singer_name: KAORI
+    singer_alias:
+    available_date: '2008-06-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 12RIVEN -the Ψcliminal of integral-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろせす
+    singer_name_ruby: かおり
+    song_variation:
+    - esong_code: 2014A28
+      song_name: プロセス
+      content_type: ''
+  - song_name: block sign
+    song_alias:
+    esong_code: 2021B40
+    t_singer_master_id: '27671'
+    singer_name: 山田 優
+    singer_alias:
+    available_date: '2008-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろつくさいん
+    singer_name_ruby: やまたゆう
+    song_variation:
+    - esong_code: 2021B40
+      song_name: block sign
       content_type: ''

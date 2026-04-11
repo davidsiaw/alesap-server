@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
   - song_name: ココロの跡
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 1944A21
       song_name: 心のきず
       content_type: ''
-  - song_name: 心のつばさ
-    song_alias:
-    esong_code: 1936A24
-    t_singer_master_id: '954'
-    singer_name: さとう 宗幸
-    singer_alias:
-    available_date: '2008-01-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころのつはさ
-    singer_name_ruby: さとうむねゆき
-    song_variation:
-    - esong_code: 1936A24
-      song_name: 心のつばさ
-      content_type: ''
   - song_name: ココロノツバサ
     song_alias:
     esong_code: 1940B26
@@ -91,6 +74,23 @@ result:
     song_variation:
     - esong_code: 1940B26
       song_name: ココロノツバサ
+      content_type: ''
+  - song_name: 心のつばさ
+    song_alias:
+    esong_code: 1936A24
+    t_singer_master_id: '954'
+    singer_name: さとう 宗幸
+    singer_alias:
+    available_date: '2008-01-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころのつはさ
+    singer_name_ruby: さとうむねゆき
+    song_variation:
+    - esong_code: 1936A24
+      song_name: 心のつばさ
       content_type: ''
   - song_name: 心の動物園
     song_alias:

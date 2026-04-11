@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1509
-  all_max_cnt: 1659
-  all_country_cnt: 1509
+  max_cnt: 1504
+  all_max_cnt: 1654
+  all_country_cnt: 1504
   song:
-  - song_name: YOLO
-    song_alias:
-    esong_code: 3638B34
-    t_singer_master_id: '40650'
-    singer_name: 山猿(LGMonkees)
-    singer_alias:
-    available_date: '2016-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よろ
-    singer_name_ruby: やまさるえるしもんきす
-    song_variation:
-    - esong_code: 3638B34
-      song_name: YOLO
-      content_type: ''
-  - song_name: 弱虫けむし
-    song_alias:
-    esong_code: 3645B48
-    t_singer_master_id: '47386'
-    singer_name: Goodbye holiday
-    singer_alias:
-    available_date: '2016-07-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みんなのうた<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: よわむしけむし
-    singer_name_ruby: くつはいほりて
-    song_variation:
-    - esong_code: 3645B48
-      song_name: 弱虫けむし
-      content_type: ''
-  - song_name: 勇虎傳
-    song_alias:
-    esong_code: 3383A4
-    t_singer_master_id: '56431'
-    singer_name: 野見山 登
-    singer_alias:
-    available_date: '2016-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よんふはく
-    singer_name_ruby: のみやまのほる
-    song_variation:
-    - esong_code: 3383A4
-      song_name: 勇虎傳
-      content_type: ''
-  - song_name: ラー [DAM本人歌唱]
-    song_alias:
-    esong_code: 3652B38
-    t_singer_master_id: '50847'
-    singer_name: 水曜日のカンパネラ
-    singer_alias:
-    available_date: '2016-07-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: ら
-    singer_name_ruby: すいようひのかんはねら
-    song_variation:
-    - esong_code: 3652B38
-      song_name: ラー [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: ライアーダンス
     song_alias:
     esong_code: 3656B3
@@ -330,23 +262,6 @@ result:
     - esong_code: 3661A5
       song_name: ROUGH DIAMONDS
       content_type: ''
-  - song_name: Love for You
-    song_alias:
-    esong_code: 3654A34
-    t_singer_master_id: '47955'
-    singer_name: 夢みるアドレセンス
-    singer_alias:
-    available_date: '2016-07-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふふおゆ
-    singer_name_ruby: ゆめみるあとれせんす
-    song_variation:
-    - esong_code: 3654A34
-      song_name: Love for You
-      content_type: ''
   - song_name: Love Me Right 〜romantic universe〜(2015)
     song_alias:
     esong_code: 3652B25
@@ -434,23 +349,6 @@ result:
       content_type: ''
   - song_name: RUN THIS TOWN
     song_alias:
-    esong_code: 3652A19
-    t_singer_master_id: '46432'
-    singer_name: GENERATIONS from EXILE TRIBE
-    singer_alias:
-    available_date: '2016-07-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: らんていすたうん
-    singer_name_ruby: しえねれしよんすふろむえくさい
-    song_variation:
-    - esong_code: 3652A19
-      song_name: RUN THIS TOWN
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: RUN THIS TOWN
-    song_alias:
     esong_code: 3647B41
     t_singer_master_id: '46432'
     singer_name: GENERATIONS from EXILE TRIBE
@@ -466,6 +364,23 @@ result:
     - esong_code: 3647B41
       song_name: RUN THIS TOWN
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: RUN THIS TOWN
+    song_alias:
+    esong_code: 3652A19
+    t_singer_master_id: '46432'
+    singer_name: GENERATIONS from EXILE TRIBE
+    singer_alias:
+    available_date: '2016-07-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: らんていすたうん
+    singer_name_ruby: しえねれしよんすふろむえくさい
+    song_variation:
+    - esong_code: 3652A19
+      song_name: RUN THIS TOWN
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: RUN de Boo!
     song_alias:
     esong_code: 3657A24
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 3663B21
       song_name: RUNNER
+      content_type: ''
+  - song_name: Running Road
+    song_alias:
+    esong_code: 3658B16
+    t_singer_master_id: '45831'
+    singer_name: DISH//
+    singer_alias:
+    available_date: '2016-07-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らんにんくろと
+    singer_name_ruby: ていつしゆ
+    song_variation:
+    - esong_code: 3658B16
+      song_name: Running Road
+      content_type: ''
+  - song_name: Regain Brave
+    song_alias:
+    esong_code: 3659A45
+    t_singer_master_id: '51882'
+    singer_name: 高木 美佑
+    singer_alias:
+    available_date: '2016-07-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Wake Up,Girls!(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: りけいんふれいふ
+    singer_name_ruby: たかきみゆ
+    song_variation:
+    - esong_code: 3659A45
+      song_name: Regain Brave
+      content_type: ''
+  - song_name: 利尻ブルース
+    song_alias:
+    esong_code: 3646A44
+    t_singer_master_id: '53952'
+    singer_name: 文室 昭夫
+    singer_alias:
+    available_date: '2016-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りしりふるす
+    singer_name_ruby: ふんやあきお
+    song_variation:
+    - esong_code: 3646A44
+      song_name: 利尻ブルース
+      content_type: ''
+  - song_name: リーゼントブルース (男の道バージョン)
+    song_alias:
+    esong_code: 3651A33
+    t_singer_master_id: '10919'
+    singer_name: 竹内 力(RIKI)
+    singer_alias:
+    available_date: '2016-07-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りせんとふる
+    singer_name_ruby: たけうちりき
+    song_variation:
+    - esong_code: 3651A33
+      song_name: リーゼントブルース (男の道バージョン)
+      content_type: ''
+  - song_name: 理想的なスピードで
+    song_alias:
+    esong_code: 3648B18
+    t_singer_master_id: '18270'
+    singer_name: Syrup16g
+    singer_alias:
+    available_date: '2016-07-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りそうてきなすひ
+    singer_name_ruby: しろつふしゆうろくくらむ
+    song_variation:
+    - esong_code: 3648B18
+      song_name: 理想的なスピードで
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: 帰り道
-    song_alias:
-    esong_code: 272A47
-    t_singer_master_id: '132'
-    singer_name: アリス
-    singer_alias:
-    available_date: '2006-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かえりみち
-    singer_name_ruby: ありす
-    song_variation:
-    - esong_code: 272A47
-      song_name: 帰り道
-      content_type: ''
   - song_name: かおりちゃんタイム
     song_alias:
     esong_code: 1608A15
@@ -177,23 +160,6 @@ result:
     - esong_code: 1584A28
       song_name: Cursed Lily
       content_type: ''
-  - song_name: 風
-    song_alias:
-    esong_code: 1580B29
-    t_singer_master_id: '26932'
-    singer_name: 山田 健二
-    singer_alias:
-    available_date: '2006-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: かせ
-    singer_name_ruby: やまたけんし
-    song_variation:
-    - esong_code: 1580B29
-      song_name: 風
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 風
     song_alias:
     esong_code: 1583A36
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 770B17
       song_name: 悲しみはBEATに変えて 〜Rise and Shine〜
+      content_type: ''
+  - song_name: 彼女は夏のデザート
+    song_alias:
+    esong_code: 1583A14
+    t_singer_master_id: '1462'
+    singer_name: TUBE
+    singer_alias:
+    available_date: '2006-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かのしよはなつのて
+    singer_name_ruby: ちゆふ
+    song_variation:
+    - esong_code: 1583A14
+      song_name: 彼女は夏のデザート
+      content_type: ''
+  - song_name: 歌舞伎たいそう いざや カブかん!
+    song_alias:
+    esong_code: 1589A29
+    t_singer_master_id: '27066'
+    singer_name: 村治 崇光&市川 染五郎
+    singer_alias:
+    available_date: '2006-08-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かふきたいそういさ
+    singer_name_ruby: むらしたかみついちかわそめ
+    song_variation:
+    - esong_code: 1589A29
+      song_name: 歌舞伎たいそう いざや カブかん!
       content_type: ''

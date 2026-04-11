@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1046
-  all_max_cnt: 1110
-  all_country_cnt: 1046
+  max_cnt: 1043
+  all_max_cnt: 1107
+  all_country_cnt: 1043
   song:
-  - song_name: テーマ
-    song_alias:
-    esong_code: 1857B10
-    t_singer_master_id: '5091'
-    singer_name: ヤプーズ
-    singer_alias:
-    available_date: '2007-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てま
-    singer_name_ruby: やふす
-    song_variation:
-    - esong_code: 1857B10
-      song_name: テーマ
-      content_type: ''
-  - song_name: "「テーマソング(ボクらの)」 (インストア編)"
-    song_alias:
-    esong_code: 818B2
-    t_singer_master_id: '8805'
-    singer_name: '19'
-    singer_alias:
-    available_date: '2007-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てまそんく
-    singer_name_ruby: しゆく
-    song_variation:
-    - esong_code: 818B2
-      song_name: "「テーマソング(ボクらの)」 (インストア編)"
-      content_type: ''
   - song_name: デュオ・花人生
     song_alias:
     esong_code: 1856A13
@@ -109,23 +75,6 @@ result:
     - esong_code: 1858A9
       song_name: 24karats -type EX-
       content_type: ''
-  - song_name: 24karats -type S-
-    song_alias:
-    esong_code: 1858A10
-    t_singer_master_id: '30471'
-    singer_name: Sowelu&EXILE&DOBERMAN INC
-    singer_alias:
-    available_date: '2007-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうえんていふおか
-    singer_name_ruby: そえるえくさいると
-    song_variation:
-    - esong_code: 1858A10
-      song_name: 24karats -type S-
-      content_type: ''
   - song_name: 24karats -def ver.-
     song_alias:
     esong_code: 1850B46
@@ -142,6 +91,23 @@ result:
     song_variation:
     - esong_code: 1850B46
       song_name: 24karats -def ver.-
+      content_type: ''
+  - song_name: 24karats -type S-
+    song_alias:
+    esong_code: 1858A10
+    t_singer_master_id: '30471'
+    singer_name: Sowelu&EXILE&DOBERMAN INC
+    singer_alias:
+    available_date: '2007-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうえんていふおか
+    singer_name_ruby: そえるえくさいると
+    song_variation:
+    - esong_code: 1858A10
+      song_name: 24karats -type S-
       content_type: ''
   - song_name: Together
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1850A17
       song_name: Tokyo Real 〜誓い〜
+      content_type: ''
+  - song_name: 時空(とき)を超えて
+    song_alias:
+    esong_code: 1851A18
+    t_singer_master_id: '6082'
+    singer_name: TWO-MIX(Ⅱ MIX ⊿ DELTA)
+    singer_alias:
+    available_date: '2007-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: キスダム -ENGAGE planet-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ときをこえて
+    singer_name_ruby: とうみつくす
+    song_variation:
+    - esong_code: 1851A18
+      song_name: 時空(とき)を超えて
+      content_type: ''
+  - song_name: 得意科目はLOVE!
+    song_alias:
+    esong_code: 1820B17
+    t_singer_master_id: '30461'
+    singer_name: 松岡 由貴&神田 朱未
+    singer_alias:
+    available_date: '2007-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: D.C.S.S.〜ダ・カーポ セカンドシーズン〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とくいかもくはらふ
+    singer_name_ruby: まつおかゆきかんたあけみ
+    song_variation:
+    - esong_code: 1820B17
+      song_name: 得意科目はLOVE!
       content_type: ''

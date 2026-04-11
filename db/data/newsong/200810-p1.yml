@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1258
-  all_max_cnt: 1360
-  all_country_cnt: 1258
+  max_cnt: 1253
+  all_max_cnt: 1354
+  all_country_cnt: 1253
   song:
   - song_name: 愛をとりもどせ!!
     song_alias:
@@ -162,23 +162,6 @@ result:
       content_type: ''
   - song_name: 赤い糸
     song_alias:
-    esong_code: 1913B34
-    t_singer_master_id: '12187'
-    singer_name: コブクロ
-    singer_alias:
-    available_date: '2008-10-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかいいと
-    singer_name_ruby: こふくろ
-    song_variation:
-    - esong_code: 1913B34
-      song_name: 赤い糸
-      content_type: ''
-  - song_name: 赤い糸
-    song_alias:
     esong_code: 2146B3
     t_singer_master_id: '12187'
     singer_name: コブクロ
@@ -194,6 +177,23 @@ result:
     - esong_code: 2146B3
       song_name: 赤い糸
       content_type: DAM生音
+  - song_name: 赤い糸
+    song_alias:
+    esong_code: 1913B34
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
+    singer_alias:
+    available_date: '2008-10-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかいいと
+    singer_name_ruby: こふくろ
+    song_variation:
+    - esong_code: 1913B34
+      song_name: 赤い糸
+      content_type: ''
   - song_name: 赤い傘と貴女
     song_alias:
     esong_code: 2118B30

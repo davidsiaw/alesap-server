@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
-  - song_name: 闘艶結義 〜トウエンノチカイ〜
-    song_alias:
-    esong_code: 2429B40
-    t_singer_master_id: '25317'
-    singer_name: 片霧 烈火
-    singer_alias:
-    available_date: '2009-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 真・恋姫†無双<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうえんのちかい
-    singer_name_ruby: かたきりれつか
-    song_variation:
-    - esong_code: 2429B40
-      song_name: 闘艶結義 〜トウエンノチカイ〜
-      content_type: ''
   - song_name: どうかしてるよ
     song_alias:
     esong_code: 1097B35
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2009-12-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金月真美MOONLIGHT LIPS ラジオデイズに恋をして<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: とうるらふ
@@ -506,7 +489,7 @@ result:
     t_singer_master_id: '17780'
     singer_name: 坂井 一郎
     singer_alias:
-    available_date: '2009-12-01'
+    available_date: '2009-12-02'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2432A18
       song_name: 止まり木のブルース
+      content_type: ''
+  - song_name: tomoni
+    song_alias:
+    esong_code: 1108B28
+    t_singer_master_id: '10619'
+    singer_name: KOKIA
+    singer_alias:
+    available_date: '2009-12-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ともに
+    singer_name_ruby: こきあ
+    song_variation:
+    - esong_code: 1108B28
+      song_name: tomoni
       content_type: ''

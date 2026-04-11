@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: 目覚めの風
-    song_alias:
-    esong_code: 3583A7
-    t_singer_master_id: '52477'
-    singer_name: 大西 沙織
-    singer_alias:
-    available_date: '2016-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ダンジョンに出会いを求めるのは間違っているだろうか<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: めさめのかせ
-    singer_name_ruby: おおにしさおり
-    song_variation:
-    - esong_code: 3583A7
-      song_name: 目覚めの風
-      content_type: ''
   - song_name: METAL MONSTER
     song_alias:
     esong_code: 3581A2
@@ -202,7 +185,7 @@ result:
     singer_alias:
     available_date: '2016-01-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: もめんとてらへて
@@ -517,3 +500,20 @@ result:
     - esong_code: 3585A49
       song_name: 優先席
       content_type: ''
+  - song_name: 夕陽燦燦
+    song_alias:
+    esong_code: 3285B48
+    t_singer_master_id: '221'
+    singer_name: 五木 ひろし
+    singer_alias:
+    available_date: '2016-01-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ゆうひさんさん
+    singer_name_ruby: いつきひろし
+    song_variation:
+    - esong_code: 3285B48
+      song_name: 夕陽燦燦
+      content_type: JOYｸﾘｯﾌﾟ

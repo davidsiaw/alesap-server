@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
   - song_name: DESTINY 〜残響は止まない〜
     song_alias:
@@ -381,23 +381,6 @@ result:
     - esong_code: 2474A5
       song_name: 時ヲ止メテ
       content_type: ''
-  - song_name: 毒グモ女 (萌え燃え編)
-    song_alias:
-    esong_code: 2468B3
-    t_singer_master_id: '33453'
-    singer_name: ゴールデンボンバー
-    singer_alias:
-    available_date: '2010-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とくくもおんな
-    singer_name_ruby: こるてんほんは
-    song_variation:
-    - esong_code: 2468B3
-      song_name: 毒グモ女 (萌え燃え編)
-      content_type: ''
   - song_name: 特別なんていらない
     song_alias:
     esong_code: 2481B1
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2480A28
       song_name: 友達の歌
+      content_type: ''
+  - song_name: 共に見し夢を 〜「仰げば尊し」より〜
+    song_alias:
+    esong_code: 2469B21
+    t_singer_master_id: '1981'
+    singer_name: フォー・セインツ
+    singer_alias:
+    available_date: '2010-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ともにみしゆめを
+    singer_name_ruby: ふおせいんつ
+    song_variation:
+    - esong_code: 2469B21
+      song_name: 共に見し夢を 〜「仰げば尊し」より〜
       content_type: ''

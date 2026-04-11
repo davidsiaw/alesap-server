@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: J-アニソン神曲祭り (DJ和 in No.1 胸熱MIX)2
-    song_alias:
-    esong_code: 2753B23
-    t_singer_master_id: '44252'
-    singer_name: Mixed by DJ和
-    singer_alias:
-    available_date: '2012-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アニメメドレー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえいあにそんかみ
-    singer_name_ruby: みつくすとはいていしえいかす
-    song_variation:
-    - esong_code: 2753B23
-      song_name: J-アニソン神曲祭り (DJ和 in No.1 胸熱MIX)2
-      content_type: ''
-  - song_name: J-アニソン神曲祭り (DJ和 in No.1 胸熱MIX)
-    song_alias:
-    esong_code: 2753B22
-    t_singer_master_id: '44252'
-    singer_name: Mixed by DJ和
-    singer_alias:
-    available_date: '2012-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アニメメドレー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえいあにそんかみ
-    singer_name_ruby: みつくすとはいていしえいかす
-    song_variation:
-    - esong_code: 2753B22
-      song_name: J-アニソン神曲祭り (DJ和 in No.1 胸熱MIX)
-      content_type: ''
   - song_name: shade of season
     song_alias:
     esong_code: 2759A31
@@ -270,7 +236,7 @@ result:
     singer_alias:
     available_date: '2012-02-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ ザ ヒーローズ ツインブレイヴ<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: しやいん
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2750B13
       song_name: 純情U-19
+      content_type: ''
+  - song_name: 純情花吹雪
+    song_alias:
+    esong_code: 2764B47
+    t_singer_master_id: '37744'
+    singer_name: カレン
+    singer_alias:
+    available_date: '2012-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆんしようはな
+    singer_name_ruby: かれん2
+    song_variation:
+    - esong_code: 2764B47
+      song_name: 純情花吹雪
+      content_type: ''
+  - song_name: 生涯ワイルド宣言
+    song_alias:
+    esong_code: 2767A6
+    t_singer_master_id: '17451'
+    singer_name: 平田 広明
+    singer_alias:
+    available_date: '2012-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: TIGER&BUNNY<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようかいわいると
+    singer_name_ruby: ひらたひろあき
+    song_variation:
+    - esong_code: 2767A6
+      song_name: 生涯ワイルド宣言
       content_type: ''

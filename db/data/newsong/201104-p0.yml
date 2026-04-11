@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
   - song_name: あゝ奥多摩
     song_alias:
@@ -202,7 +202,7 @@ result:
     singer_alias:
     available_date: '2011-04-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀幕ヘタリア Axis Powers Paint it,White(白くぬれ!)<番組名>
+    tie_up: ヘタリア(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あいすらんとよりあ
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: I LOVE YOU
     song_alias:
-    esong_code: 1345B41
-    t_singer_master_id: '42211'
-    singer_name: 成宮 寛貴
-    singer_alias:
-    available_date: '2011-04-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいらふゆ
-    singer_name_ruby: なりみやひろき
-    song_variation:
-    - esong_code: 1345B41
-      song_name: I LOVE YOU
-      content_type: ''
-  - song_name: I LOVE YOU
-    song_alias:
     esong_code: 1409A39
     t_singer_master_id: '2238'
     singer_name: 松山 千春
@@ -498,6 +481,23 @@ result:
     singer_name_ruby: まつやまちはる
     song_variation:
     - esong_code: 1409A39
+      song_name: I LOVE YOU
+      content_type: ''
+  - song_name: I LOVE YOU
+    song_alias:
+    esong_code: 1345B41
+    t_singer_master_id: '42211'
+    singer_name: 成宮 寛貴
+    singer_alias:
+    available_date: '2011-04-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいらふゆ
+    singer_name_ruby: なりみやひろき
+    song_variation:
+    - esong_code: 1345B41
       song_name: I LOVE YOU
       content_type: ''
   - song_name: "『あ』『い』をあつめて"

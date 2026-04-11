@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
+  - song_name: 決心
+    song_alias:
+    esong_code: 3375B28
+    t_singer_master_id: '43073'
+    singer_name: 千桃生 そら
+    singer_alias:
+    available_date: '2014-12-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けつしん
+    singer_name_ruby: ちとせそら
+    song_variation:
+    - esong_code: 3375B28
+      song_name: 決心
+      content_type: ''
   - song_name: 月曜の海 feat.初音ミク
     song_alias:
     esong_code: 3363A14
@@ -75,23 +92,6 @@ result:
     - esong_code: 3369B15
       song_name: 喧嘩
       content_type: ''
-  - song_name: 限界突破
-    song_alias:
-    esong_code: 3372B34
-    t_singer_master_id: '52261'
-    singer_name: マックスむらい
-    singer_alias:
-    available_date: '2014-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けんかいとつは
-    singer_name_ruby: まつくすむらい
-    song_variation:
-    - esong_code: 3372B34
-      song_name: 限界突破
-      content_type: ''
   - song_name: 限界突破 feat.KYO虎
     song_alias:
     esong_code: 3376B46
@@ -108,6 +108,23 @@ result:
     song_variation:
     - esong_code: 3376B46
       song_name: 限界突破 feat.KYO虎
+      content_type: ''
+  - song_name: 限界突破
+    song_alias:
+    esong_code: 3372B34
+    t_singer_master_id: '52261'
+    singer_name: マックスむらい
+    singer_alias:
+    available_date: '2014-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けんかいとつは
+    singer_name_ruby: まつくすむらい
+    song_variation:
+    - esong_code: 3372B34
+      song_name: 限界突破
       content_type: ''
   - song_name: GO (Album ver.)
     song_alias:
@@ -264,7 +281,7 @@ result:
       content_type: ''
   - song_name: 恋の十字路
     song_alias:
-    esong_code: 3057B7
+    esong_code: 3154B32
     t_singer_master_id: '43722'
     singer_name: 千葉 一夫&柳澤 純子
     singer_alias:
@@ -272,13 +289,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type: DAM生音
     song_name_ruby: こいのしゆうしろ
     singer_name_ruby: ちはかすおやなきさわ
     song_variation:
-    - esong_code: 3057B7
+    - esong_code: 3154B32
       song_name: 恋の十字路
-      content_type: DAMﾌﾟﾛｵｹ
+      content_type: DAM生音
   - song_name: 恋の十字路
     song_alias:
     esong_code: 2185B30
@@ -298,6 +315,23 @@ result:
       content_type: ''
   - song_name: 恋の十字路
     song_alias:
+    esong_code: 3057B7
+    t_singer_master_id: '43722'
+    singer_name: 千葉 一夫&柳澤 純子
+    singer_alias:
+    available_date: '2014-12-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: こいのしゆうしろ
+    singer_name_ruby: ちはかすおやなきさわ
+    song_variation:
+    - esong_code: 3057B7
+      song_name: 恋の十字路
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 恋の十字路
+    song_alias:
     esong_code: 2185B29
     t_singer_master_id: '43722'
     singer_name: 千葉 一夫&柳澤 純子
@@ -313,23 +347,6 @@ result:
     - esong_code: 2185B29
       song_name: 恋の十字路
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 恋の十字路
-    song_alias:
-    esong_code: 3154B32
-    t_singer_master_id: '43722'
-    singer_name: 千葉 一夫&柳澤 純子
-    singer_alias:
-    available_date: '2014-12-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: こいのしゆうしろ
-    singer_name_ruby: ちはかすおやなきさわ
-    song_variation:
-    - esong_code: 3154B32
-      song_name: 恋の十字路
-      content_type: DAM生音
   - song_name: 恋のメガネ
     song_alias:
     esong_code: 3376B4
@@ -472,7 +489,7 @@ result:
     t_singer_master_id: '52267'
     singer_name: 東山奈央&桜咲千依&上坂すみれ&松井恵理子&渕上舞
     singer_alias:
-    available_date: '2014-12-16'
+    available_date: '2014-12-17'
     end_date: '2999-04-10 00:00:00'
     tie_up: THE IDOLM@STER シンデレラガールズ<番組名>
     country_code: '0'
@@ -482,23 +499,6 @@ result:
     song_variation:
     - esong_code: 3373A48
       song_name: ゴキゲンParty Night (川島瑞樹 他ver.)
-      content_type: ''
-  - song_name: 子 ギャル
-    song_alias:
-    esong_code: 3364B5
-    t_singer_master_id: '2735'
-    singer_name: hide
-    singer_alias:
-    available_date: '2014-12-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こきやる
-    singer_name_ruby: ひて
-    song_variation:
-    - esong_code: 3364B5
-      song_name: 子 ギャル
       content_type: ''
   - song_name: 子 ギャル
     song_alias:

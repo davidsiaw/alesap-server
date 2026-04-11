@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
   - song_name: MIDNIGHT FLYER
     song_alias:
@@ -75,23 +75,6 @@ result:
     - esong_code: 1364A24
       song_name: 港町十三番地
       content_type: ''
-  - song_name: MUSIC
-    song_alias:
-    esong_code: 3135B43
-    t_singer_master_id: '43426'
-    singer_name: Czecho No Republic
-    singer_alias:
-    available_date: '2013-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みゆしつく
-    singer_name_ruby: ちえこのりはふりつく
-    song_variation:
-    - esong_code: 3135B43
-      song_name: MUSIC
-      content_type: ''
   - song_name: MUSIC♪ (M@STER VERSION)
     song_alias:
     esong_code: 3136B47
@@ -108,6 +91,23 @@ result:
     song_variation:
     - esong_code: 3136B47
       song_name: MUSIC♪ (M@STER VERSION)
+      content_type: ''
+  - song_name: MUSIC
+    song_alias:
+    esong_code: 3135B43
+    t_singer_master_id: '43426'
+    singer_name: Czecho No Republic
+    singer_alias:
+    available_date: '2013-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みゆしつく
+    singer_name_ruby: ちえこのりはふりつく
+    song_variation:
+    - esong_code: 3135B43
+      song_name: MUSIC
       content_type: ''
   - song_name: mirror
     song_alias:
@@ -153,7 +153,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: みらくる
     singer_name_ruby: ていお
     song_variation:
@@ -173,7 +173,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: みらくる
     singer_name_ruby: ていお
     song_variation:
@@ -295,7 +295,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: 英雄*戦姫<番組名>
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: むけんせんりつ
     singer_name_ruby: いまいあさみ
     song_variation:
@@ -315,7 +315,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: 英雄*戦姫<番組名>
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: むけんせんりつ
     singer_name_ruby: いまいあさみ
     song_variation:

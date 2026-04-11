@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: 創聖のアクエリオン
-    song_alias:
-    esong_code: 2701A32
-    t_singer_master_id: '43586'
-    singer_name: Kentaro Takizawa×Julie Watai
-    singer_alias:
-    available_date: '2011-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そうせいのあくえりお
-    singer_name_ruby: けんたろうたきさわしゆりわ
-    song_variation:
-    - esong_code: 2701A32
-      song_name: 創聖のアクエリオン
-      content_type: ''
   - song_name: そうだねもう僕は隠さないよ
     song_alias:
     esong_code: 2701B5
@@ -253,7 +236,7 @@ result:
     singer_alias:
     available_date: '2011-11-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ(TV版)<番組名>
+    tie_up: 探偵オペラ ミルキィホームズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: それはといす
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2710B26
       song_name: 宝島
+      content_type: ''
+  - song_name: 宝物
+    song_alias:
+    esong_code: 2707B45
+    t_singer_master_id: '21333'
+    singer_name: 風味堂
+    singer_alias:
+    available_date: '2011-11-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たからもの
+    singer_name_ruby: ふうみとう
+    song_variation:
+    - esong_code: 2707B45
+      song_name: 宝物
       content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 759
-  all_max_cnt: 802
-  all_country_cnt: 759
+  max_cnt: 760
+  all_max_cnt: 803
+  all_country_cnt: 760
   song:
+  - song_name: やったぞジャンケンマン
+    song_alias:
+    esong_code: 673A7
+    t_singer_master_id: '22740'
+    singer_name: Cotton&折笠 愛
+    singer_alias:
+    available_date: '2005-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ジャンケンマン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: やつたそしやんけ
+    singer_name_ruby: こつとんおりかさあい
+    song_variation:
+    - esong_code: 673A7
+      song_name: やったぞジャンケンマン
+      content_type: ''
   - song_name: やっぱり大阪
     song_alias:
     esong_code: 655B48
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 646A49
       song_name: LOVE Myself
-      content_type: ''
-  - song_name: LOVE LETTER
-    song_alias:
-    esong_code: 607B44
-    t_singer_master_id: '21988'
-    singer_name: リュ・シウォン
-    singer_alias:
-    available_date: '2005-03-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふれた
-    singer_name_ruby: りゆしうおん
-    song_variation:
-    - esong_code: 607B44
-      song_name: LOVE LETTER
       content_type: ''

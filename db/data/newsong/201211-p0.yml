@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
   - song_name: あゝ帰りたい
     song_alias:
@@ -75,23 +75,6 @@ result:
     - esong_code: 717B31
       song_name: あゝ我が戦友
       content_type: ''
-  - song_name: eye
-    song_alias:
-    esong_code: 2940A43
-    t_singer_master_id: '43940'
-    singer_name: Spangle call Lilli line
-    singer_alias:
-    available_date: '2012-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あい
-    singer_name_ruby: すはんくるこるりりらいん
-    song_variation:
-    - esong_code: 2940A43
-      song_name: eye
-      content_type: ''
   - song_name: AI feat.GUMI
     song_alias:
     esong_code: 2941A16
@@ -109,6 +92,23 @@ result:
     - esong_code: 2941A16
       song_name: AI feat.GUMI
       content_type: VOCALOID
+  - song_name: eye
+    song_alias:
+    esong_code: 2940A43
+    t_singer_master_id: '43940'
+    singer_name: Spangle call Lilli line
+    singer_alias:
+    available_date: '2012-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あい
+    singer_name_ruby: すはんくるこるりりらいん
+    song_variation:
+    - esong_code: 2940A43
+      song_name: eye
+      content_type: ''
   - song_name: 合縁奇縁
     song_alias:
     esong_code: 2924B37
@@ -219,7 +219,7 @@ result:
     singer_alias:
     available_date: '2012-11-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HERO RADIO<番組名>
+    tie_up: TIGER&BUNNY<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あいすくりむ
@@ -398,6 +398,23 @@ result:
     - esong_code: 2939A41
       song_name: アイノビート (Rock ver.)
       content_type: ''
+  - song_name: アイノヨカン from Jun
+    song_alias:
+    esong_code: 2930A1
+    t_singer_master_id: '37087'
+    singer_name: 豊崎 愛生
+    singer_alias:
+    available_date: '2012-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 神のみぞ知るセカイ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのよかん
+    singer_name_ruby: とよさきあき
+    song_variation:
+    - esong_code: 2930A1
+      song_name: アイノヨカン from Jun
+      content_type: ''
   - song_name: アイノヨカン from Haqua
     song_alias:
     esong_code: 2930A4
@@ -406,7 +423,7 @@ result:
     singer_alias:
     available_date: '2012-11-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイⅡ<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あいのよかん
@@ -423,7 +440,7 @@ result:
     singer_alias:
     available_date: '2012-11-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイⅡ<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あいのよかん
@@ -431,40 +448,6 @@ result:
     song_variation:
     - esong_code: 2929B17
       song_name: アイノヨカン from Chihiro
-      content_type: ''
-  - song_name: アイノヨカン from Jun
-    song_alias:
-    esong_code: 2930A1
-    t_singer_master_id: '37087'
-    singer_name: 豊崎 愛生
-    singer_alias:
-    available_date: '2012-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイⅡ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのよかん
-    singer_name_ruby: とよさきあき
-    song_variation:
-    - esong_code: 2930A1
-      song_name: アイノヨカン from Jun
-      content_type: ''
-  - song_name: アイノヨカン from Kusunoki
-    song_alias:
-    esong_code: 2929B1
-    t_singer_master_id: '16097'
-    singer_name: 小清水 亜美
-    singer_alias:
-    available_date: '2012-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイⅡ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのよかん
-    singer_name_ruby: こしみすあみ
-    song_variation:
-    - esong_code: 2929B1
-      song_name: アイノヨカン from Kusunoki
       content_type: ''
   - song_name: アイノヨカン feat.駆け魂隊
     song_alias:
@@ -474,7 +457,7 @@ result:
     singer_alias:
     available_date: '2012-11-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイⅡ<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あいのよかん
@@ -482,6 +465,23 @@ result:
     song_variation:
     - esong_code: 2934A39
       song_name: アイノヨカン feat.駆け魂隊
+      content_type: ''
+  - song_name: アイノヨカン from Kusunoki
+    song_alias:
+    esong_code: 2929B1
+    t_singer_master_id: '16097'
+    singer_name: 小清水 亜美
+    singer_alias:
+    available_date: '2012-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 神のみぞ知るセカイ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのよかん
+    singer_name_ruby: こしみすあみ
+    song_variation:
+    - esong_code: 2929B1
+      song_name: アイノヨカン from Kusunoki
       content_type: ''
   - song_name: 愛はときめき
     song_alias:

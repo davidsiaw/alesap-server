@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1318
-  all_max_cnt: 1435
-  all_country_cnt: 1318
+  max_cnt: 1313
+  all_max_cnt: 1430
+  all_country_cnt: 1313
   song:
   - song_name: 嘘つきジングルベル
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 2769B4
       song_name: Unmei♪wa♪Endless!
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: エアポート'78
-    song_alias:
-    esong_code: 2768A18
-    t_singer_master_id: '386'
-    singer_name: 太田 裕美
-    singer_alias:
-    available_date: '2012-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えあほとせふん
-    singer_name_ruby: おおたひろみ
-    song_variation:
-    - esong_code: 2768A18
-      song_name: エアポート'78
-      content_type: ''
   - song_name: 永遠の絆
     song_alias:
     esong_code: 441A26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2768A48
       song_name: angel -天使を見つけた-
+      content_type: ''
+  - song_name: Endless Song
+    song_alias:
+    esong_code: 2773B35
+    t_singer_master_id: '35403'
+    singer_name: DaizyStripper
+    singer_alias:
+    available_date: '2012-03-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんとれすそんく
+    singer_name_ruby: ていしすとりつは
+    song_variation:
+    - esong_code: 2773B35
+      song_name: Endless Song
       content_type: ''

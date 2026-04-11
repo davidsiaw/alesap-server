@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1403
-  all_max_cnt: 1669
-  all_country_cnt: 1403
+  max_cnt: 1394
+  all_max_cnt: 1660
+  all_country_cnt: 1394
   song:
   - song_name: 雨に濡れてるいい女
     song_alias:
@@ -330,23 +330,6 @@ result:
     - esong_code: 1149B1
       song_name: あんたが命
       content_type: ''
-  - song_name: UNDER THE SKY
-    song_alias:
-    esong_code: 4083B39
-    t_singer_master_id: '26951'
-    singer_name: GRANRODEO
-    singer_alias:
-    available_date: '2018-10-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんたさすかい
-    singer_name_ruby: くらんろてお
-    song_variation:
-    - esong_code: 4083B39
-      song_name: UNDER THE SKY
-      content_type: ''
   - song_name: アンノウン・マザーグース feat.初音ミク
     song_alias:
     esong_code: 4073A10
@@ -502,18 +485,35 @@ result:
       content_type: ''
   - song_name: "「生きろ」"
     song_alias:
-    esong_code: 4078B43
+    esong_code: 4083B7
     t_singer_master_id: '17458'
     singer_name: NEWS
     singer_alias:
-    available_date: '2018-10-14'
+    available_date: '2018-10-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: いきろ
     singer_name_ruby: にゆす
     song_variation:
-    - esong_code: 4078B43
+    - esong_code: 4083B7
       song_name: "「生きろ」"
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 戦恋歌〜IKUSA KOIUTA
+    song_alias:
+    esong_code: 4072A33
+    t_singer_master_id: '2868'
+    singer_name: 横山 智佐
+    singer_alias:
+    available_date: '2018-10-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いくさこいうた
+    singer_name_ruby: よこやまちさ
+    song_variation:
+    - esong_code: 4072A33
+      song_name: 戦恋歌〜IKUSA KOIUTA
+      content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
   - song_name: D.Gray-manメドレー
     song_alias:
@@ -196,23 +196,6 @@ result:
       content_type: ''
   - song_name: 手紙
     song_alias:
-    esong_code: 1933B28
-    t_singer_master_id: '23693'
-    singer_name: 奥 華子
-    singer_alias:
-    available_date: '2008-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てかみ
-    singer_name_ruby: おくはなこ
-    song_variation:
-    - esong_code: 1933B28
-      song_name: 手紙
-      content_type: ''
-  - song_name: 手紙
-    song_alias:
     esong_code: 1936B9
     t_singer_master_id: '32077'
     singer_name: LiLi
@@ -226,6 +209,23 @@ result:
     singer_name_ruby: りり
     song_variation:
     - esong_code: 1936B9
+      song_name: 手紙
+      content_type: ''
+  - song_name: 手紙
+    song_alias:
+    esong_code: 1933B28
+    t_singer_master_id: '23693'
+    singer_name: 奥 華子
+    singer_alias:
+    available_date: '2008-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てかみ
+    singer_name_ruby: おくはなこ
+    song_variation:
+    - esong_code: 1933B28
       song_name: 手紙
       content_type: ''
   - song_name: 適齢期なレイディ

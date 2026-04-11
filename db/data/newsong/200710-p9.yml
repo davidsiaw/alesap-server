@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1415
-  all_max_cnt: 1522
-  all_country_cnt: 1415
+  max_cnt: 1411
+  all_max_cnt: 1518
+  all_country_cnt: 1411
   song:
-  - song_name: Oh!ラヴシック
-    song_alias:
-    esong_code: 1889B6
-    t_singer_master_id: '2445'
-    singer_name: 矢沢 永吉
-    singer_alias:
-    available_date: '2007-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: おらふしつく
-    singer_name_ruby: やさわえいきち
-    song_variation:
-    - esong_code: 1889B6
-      song_name: Oh!ラヴシック
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: All I want to say to you
-    song_alias:
-    esong_code: 1877B3
-    t_singer_master_id: '2185'
-    singer_name: 真心ブラザーズ
-    singer_alias:
-    available_date: '2007-10-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おるあいうおんとと
-    singer_name_ruby: まこころふらさす
-    song_variation:
-    - esong_code: 1877B3
-      song_name: All I want to say to you
-      content_type: ''
   - song_name: ALL I DO
     song_alias:
     esong_code: 1883A40
@@ -517,3 +483,37 @@ result:
     - esong_code: 1890A11
       song_name: 風は海から吹いてくる
       content_type: ''
+  - song_name: 風港
+    song_alias:
+    esong_code: 1876B40
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2007-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせみなと
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 1876B40
+      song_name: 風港
+      content_type: ''
+  - song_name: 風港
+    song_alias:
+    esong_code: 1895A2
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2007-10-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: かせみなと
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 1895A2
+      song_name: 風港
+      content_type: DAMｸﾘｯﾌﾟ生音

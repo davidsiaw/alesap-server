@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: THE PAST
-    song_alias:
-    esong_code: 2373B45
-    t_singer_master_id: '32344'
-    singer_name: VAMPS
-    singer_alias:
-    available_date: '2010-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さはすと
-    singer_name_ruby: はんふす
-    song_variation:
-    - esong_code: 2373B45
-      song_name: THE PAST
-      content_type: ''
   - song_name: SAHARA
     song_alias:
     esong_code: 2570A37
@@ -145,23 +128,6 @@ result:
       content_type: ''
   - song_name: サマーラブ!! feat.RED RICE
     song_alias:
-    esong_code: 2569A26
-    t_singer_master_id: '31055'
-    singer_name: 青山 テルマ
-    singer_alias:
-    available_date: '2010-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY視聴用
-    song_name_ruby: さまらふ
-    singer_name_ruby: あおやまてるま
-    song_variation:
-    - esong_code: 2569A26
-      song_name: サマーラブ!! feat.RED RICE
-      content_type: JOY視聴用
-  - song_name: サマーラブ!! feat.RED RICE
-    song_alias:
     esong_code: 2584A22
     t_singer_master_id: '31055'
     singer_name: 青山 テルマ
@@ -177,6 +143,23 @@ result:
     - esong_code: 2584A22
       song_name: サマーラブ!! feat.RED RICE
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: サマーラブ!! feat.RED RICE
+    song_alias:
+    esong_code: 2569A26
+    t_singer_master_id: '31055'
+    singer_name: 青山 テルマ
+    singer_alias:
+    available_date: '2010-07-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY視聴用
+    song_name_ruby: さまらふ
+    singer_name_ruby: あおやまてるま
+    song_variation:
+    - esong_code: 2569A26
+      song_name: サマーラブ!! feat.RED RICE
+      content_type: JOY視聴用
   - song_name: SAMURAI SOULS
     song_alias:
     esong_code: 2566A34
@@ -210,6 +193,23 @@ result:
     song_variation:
     - esong_code: 2425A21
       song_name: 侍ハリケーン
+      content_type: ''
+  - song_name: SOMEONE ELSE
+    song_alias:
+    esong_code: 2549A21
+    t_singer_master_id: '40014'
+    singer_name: 阿澄 佳奈&藤田 咲&喜多村 英梨
+    singer_alias:
+    available_date: '2010-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: WORKING!!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さむわんえるす
+    singer_name_ruby: あすみかなふしたさききた
+    song_variation:
+    - esong_code: 2549A21
+      song_name: SOMEONE ELSE
       content_type: ''
   - song_name: SAYONARA JAPAN
     song_alias:
@@ -255,7 +255,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: さよならのことは
     singer_name_ruby: もうし
     song_variation:
@@ -275,7 +275,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: さよならのことは
     singer_name_ruby: もうし
     song_variation:
@@ -364,7 +364,7 @@ result:
     tie_up:
     country_code: '0'
     content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: さんせつと
+    song_name_ruby: さんせつとらふいす
     singer_name_ruby: はまさきあゆみ
     song_variation:
     - esong_code: 2383A48

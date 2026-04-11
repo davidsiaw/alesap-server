@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 570
-  all_max_cnt: 598
-  all_country_cnt: 570
+  max_cnt: 569
+  all_max_cnt: 596
+  all_country_cnt: 569
   song:
-  - song_name: your birthday−kame kame everybody
-    song_alias:
-    esong_code: 582A35
-    t_singer_master_id: '7646'
-    singer_name: 松 たか子
-    singer_alias:
-    available_date: '2001-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆあはすてい
-    singer_name_ruby: まつたかこ
-    song_variation:
-    - esong_code: 582A35
-      song_name: your birthday−kame kame everybody
-      content_type: ''
   - song_name: ユア・ベイビー
     song_alias:
     esong_code: 584A24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 579A40
       song_name: リトルブレイバー
+      content_type: ''
+  - song_name: リバプールへおいで
+    song_alias:
+    esong_code: 568B32
+    t_singer_master_id: '7314'
+    singer_name: 奥井 雅美
+    singer_alias:
+    available_date: '2001-06-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 楽しいウイロータウン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: りはふるへおい
+    singer_name_ruby: おくいまさみ
+    song_variation:
+    - esong_code: 568B32
+      song_name: リバプールへおいで
       content_type: ''

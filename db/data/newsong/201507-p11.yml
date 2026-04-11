@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
-  - song_name: 君がいたから
-    song_alias:
-    esong_code: 3464B38
-    t_singer_master_id: '10098'
-    singer_name: Crystal Kay
-    singer_alias:
-    available_date: '2015-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: きみかいたから
-    singer_name_ruby: くりすたるけい
-    song_variation:
-    - esong_code: 3464B38
-      song_name: 君がいたから
-      content_type: DAM生音
   - song_name: 君が大人になってしまう前に
     song_alias:
     esong_code: 3468A45
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3465A34
       song_name: Qualia
+      content_type: ''
+  - song_name: 草津 湯けむり 恋太郎
+    song_alias:
+    esong_code: 443A36
+    t_singer_master_id: '27031'
+    singer_name: 伊達 悠太(伊達ゆうた)
+    singer_alias:
+    available_date: '2015-07-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くさつゆけむりこいた
+    singer_name_ruby: たてゆうた
+    song_variation:
+    - esong_code: 443A36
+      song_name: 草津 湯けむり 恋太郎
       content_type: ''

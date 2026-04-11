@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: この街で
-    song_alias:
-    esong_code: 3175B11
-    t_singer_master_id: '1607'
-    singer_name: DREAMS COME TRUE
-    singer_alias:
-    available_date: '2014-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: このまちて
-    singer_name_ruby: とりむすかむとうる
-    song_variation:
-    - esong_code: 3175B11
-      song_name: この街で
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: この町で恋をして
     song_alias:
     esong_code: 3169B6
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3170B11
       song_name: 桜 ふわり ふわり
+      content_type: ''
+  - song_name: さくらんぼ 恋しんぼ
+    song_alias:
+    esong_code: 1526A4
+    t_singer_master_id: '49700'
+    singer_name: 工藤 あやの
+    singer_alias:
+    available_date: '2014-01-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらんほこいしん
+    singer_name_ruby: くとうあやの
+    song_variation:
+    - esong_code: 1526A4
+      song_name: さくらんぼ 恋しんぼ
       content_type: ''

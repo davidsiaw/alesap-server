@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1344
-  all_max_cnt: 1519
-  all_country_cnt: 1344
+  max_cnt: 1334
+  all_max_cnt: 1509
+  all_country_cnt: 1334
   song:
+  - song_name: 帰って来やれ
+    song_alias:
+    esong_code: 3876A9
+    t_singer_master_id: '47761'
+    singer_name: 水城 なつみ
+    singer_alias:
+    available_date: '2017-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: かえつてきやれ
+    singer_name_ruby: みすきなつみ
+    song_variation:
+    - esong_code: 3876A9
+      song_name: 帰って来やれ
+      content_type: DAM生音
+  - song_name: 帰って来やれ
+    song_alias:
+    esong_code: 3684B2
+    t_singer_master_id: '47761'
+    singer_name: 水城 なつみ
+    singer_alias:
+    available_date: '2017-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: かえつてきやれ
+    singer_name_ruby: みすきなつみ
+    song_variation:
+    - esong_code: 3684B2
+      song_name: 帰って来やれ
+      content_type: JOY生演奏
   - song_name: 楓
     song_alias:
     esong_code: 3602A13
@@ -483,37 +517,3 @@ result:
     - esong_code: 3883B24
       song_name: Ga1ahad and Scientific Witchery
       content_type: ''
-  - song_name: からめるでいず
-    song_alias:
-    esong_code: 3876A40
-    t_singer_master_id: '37784'
-    singer_name: 福原 遥
-    singer_alias:
-    available_date: '2017-09-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: キラキラ☆プリキュアアラモード<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: からめるていす
-    singer_name_ruby: ふくはらはるか
-    song_variation:
-    - esong_code: 3876A40
-      song_name: からめるでいず
-      content_type: ''
-  - song_name: Girls
-    song_alias:
-    esong_code: 3858A15
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2017-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: レイトン ミステリージャーニー カトリーエイルと大富豪の陰謀<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: かるす
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 3858A15
-      song_name: Girls
-      content_type: DAMｸﾘｯﾌﾟ

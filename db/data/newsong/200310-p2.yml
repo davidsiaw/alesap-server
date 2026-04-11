@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 531
-  all_max_cnt: 644
-  all_country_cnt: 531
+  max_cnt: 533
+  all_max_cnt: 646
+  all_country_cnt: 533
   song:
+  - song_name: ウィークエンド feat.MIHO BROWN,Tyler
+    song_alias:
+    esong_code: 645B27
+    t_singer_master_id: '10597'
+    singer_name: ZEEBRA
+    singer_alias:
+    available_date: '2003-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういくえんと
+    singer_name_ruby: しふら
+    song_variation:
+    - esong_code: 645B27
+      song_name: ウィークエンド feat.MIHO BROWN,Tyler
+      content_type: ''
   - song_name: We Got A Power
     song_alias:
     esong_code: 842A18
@@ -40,23 +57,6 @@ result:
     song_variation:
     - esong_code: 720A38
       song_name: Walk into the light
-      content_type: ''
-  - song_name: 海と少年
-    song_alias:
-    esong_code: 698B24
-    t_singer_master_id: '141'
-    singer_name: 安全地帯
-    singer_alias:
-    available_date: '2003-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うみとしようねん
-    singer_name_ruby: あんせんちたい
-    song_variation:
-    - esong_code: 698B24
-      song_name: 海と少年
       content_type: ''
   - song_name: Asian Girl
     song_alias:
@@ -302,7 +302,7 @@ result:
     t_singer_master_id: '15229'
     singer_name: HALCALI
     singer_alias:
-    available_date: '2003-10-08'
+    available_date: '2003-10-15'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -487,7 +487,7 @@ result:
     song_alias:
     esong_code: 256A5
     t_singer_master_id: '1739'
-    singer_name: NEW JACK 拓郎
+    singer_name: NewJack 拓郎
     singer_alias:
     available_date: '2003-10-01'
     end_date: '2999-04-10 00:00:00'
@@ -495,7 +495,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: おれたちむてきさた
-    singer_name_ruby: にゆしやつく
+    singer_name_ruby: にゆしやつくたくろう
     song_variation:
     - esong_code: 256A5
       song_name: 俺たち無敵さ!! ダイレンジャー

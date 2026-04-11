@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
-  - song_name: GREEN&GOLD
-    song_alias:
-    esong_code: 1771A23
-    t_singer_master_id: '13923'
-    singer_name: MO'SOME TONEBENDER
-    singer_alias:
-    available_date: '2007-04-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くりんあんとこ
-    singer_name_ruby: もさむとんへんた
-    song_variation:
-    - esong_code: 1771A23
-      song_name: GREEN&GOLD
-      content_type: ''
   - song_name: グリーンキッズ
     song_alias:
     esong_code: 1767A48
@@ -417,23 +400,6 @@ result:
       content_type: ''
   - song_name: 恋
     song_alias:
-    esong_code: 1755A8
-    t_singer_master_id: '18554'
-    singer_name: 桜井 智&井上 喜久子
-    singer_alias:
-    available_date: '2007-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 怪盗セイント・テール<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こい
-    singer_name_ruby: さくらいともいのうえきくこ
-    song_variation:
-    - esong_code: 1755A8
-      song_name: 恋
-      content_type: ''
-  - song_name: 恋
-    song_alias:
     esong_code: 1771A41
     t_singer_master_id: '2536'
     singer_name: 吉 幾三
@@ -447,6 +413,23 @@ result:
     singer_name_ruby: よしいくそう
     song_variation:
     - esong_code: 1771A41
+      song_name: 恋
+      content_type: ''
+  - song_name: 恋
+    song_alias:
+    esong_code: 1755A8
+    t_singer_master_id: '18554'
+    singer_name: 櫻井 智&井上 喜久子
+    singer_alias:
+    available_date: '2007-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 怪盗セイント・テール<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こい
+    singer_name_ruby: さくらいともいのうえきくこ
+    song_variation:
+    - esong_code: 1755A8
       song_name: 恋
       content_type: ''
   - song_name: 恋路川
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1755B47
       song_name: 恋猫 Hosted by DJ CITY-ACE
+      content_type: ''
+  - song_name: 恋の河
+    song_alias:
+    esong_code: 1761B11
+    t_singer_master_id: '2226'
+    singer_name: 松永 ひと美(松永ひとみ)
+    singer_alias:
+    available_date: '2007-04-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのかわ
+    singer_name_ruby: まつなかひとみ
+    song_variation:
+    - esong_code: 1761B11
+      song_name: 恋の河
       content_type: ''

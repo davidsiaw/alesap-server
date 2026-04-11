@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
   - song_name: JUDY
     song_alias:
@@ -332,23 +332,6 @@ result:
       content_type: VOCALOID
   - song_name: Singing!
     song_alias:
-    esong_code: 2757B26
-    t_singer_master_id: '37319'
-    singer_name: 放課後ティータイム
-    singer_alias:
-    available_date: '2012-01-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 映画 けいおん!<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: しんきんく
-    singer_name_ruby: ほうかこていたいむ
-    song_variation:
-    - esong_code: 2757B26
-      song_name: Singing!
-      content_type: DAM生音
-  - song_name: Singing!
-    song_alias:
     esong_code: 2757B49
     t_singer_master_id: '37319'
     singer_name: 放課後ティータイム
@@ -364,6 +347,23 @@ result:
     - esong_code: 2757B49
       song_name: Singing!
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: Singing!
+    song_alias:
+    esong_code: 2757B26
+    t_singer_master_id: '37319'
+    singer_name: 放課後ティータイム
+    singer_alias:
+    available_date: '2012-01-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 映画 けいおん!<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: しんきんく
+    singer_name_ruby: ほうかこていたいむ
+    song_variation:
+    - esong_code: 2757B26
+      song_name: Singing!
+      content_type: DAM生音
   - song_name: SINGING QUEEN
     song_alias:
     esong_code: 2746A37
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: Synchrogazer
     song_alias:
-    esong_code: 2735B40
-    t_singer_master_id: '12152'
-    singer_name: 水樹 奈々
-    singer_alias:
-    available_date: '2012-01-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 戦姫絶唱シンフォギア<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんくろけいさ
-    singer_name_ruby: みすきなな
-    song_variation:
-    - esong_code: 2735B40
-      song_name: Synchrogazer
-      content_type: ''
-  - song_name: Synchrogazer
-    song_alias:
     esong_code: 2738A48
     t_singer_master_id: '12152'
     singer_name: 水樹 奈々
@@ -415,6 +398,23 @@ result:
     - esong_code: 2738A48
       song_name: Synchrogazer
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Synchrogazer
+    song_alias:
+    esong_code: 2735B40
+    t_singer_master_id: '12152'
+    singer_name: 水樹 奈々
+    singer_alias:
+    available_date: '2012-01-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 戦姫絶唱シンフォギア<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんくろけいさ
+    singer_name_ruby: みすきなな
+    song_variation:
+    - esong_code: 2735B40
+      song_name: Synchrogazer
+      content_type: ''
   - song_name: scene11
     song_alias:
     esong_code: 2738A1

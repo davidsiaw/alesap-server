@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: あじさいの花
+    song_alias:
+    esong_code: 3147A23
+    t_singer_master_id: '36904'
+    singer_name: 藤本 恭子
+    singer_alias:
+    available_date: '2013-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あしさいのはな
+    singer_name_ruby: ふしもときようこ
+    song_variation:
+    - esong_code: 3147A23
+      song_name: あじさいの花
+      content_type: ''
   - song_name: 明日は明日
     song_alias:
     esong_code: 2822B34
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3154A1
       song_name: AFTER IMAGES
-      content_type: ''
-  - song_name: アプリオリ
-    song_alias:
-    esong_code: 3156A9
-    t_singer_master_id: '12361'
-    singer_name: RIP SLYME
-    singer_alias:
-    available_date: '2013-12-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あふりおり
-    singer_name_ruby: りつふすらいむ
-    song_variation:
-    - esong_code: 3156A9
-      song_name: アプリオリ
       content_type: ''

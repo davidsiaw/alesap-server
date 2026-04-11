@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 942
-  all_max_cnt: 1036
-  all_country_cnt: 942
+  max_cnt: 935
+  all_max_cnt: 1029
+  all_country_cnt: 935
   song:
   - song_name: Sign
     song_alias:
@@ -253,7 +253,7 @@ result:
     singer_alias:
     available_date: '2008-08-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダーキバ 魔界城の王<番組名>
+    tie_up: 仮面ライダーキバ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さくるおふらいふ
@@ -398,23 +398,6 @@ result:
     - esong_code: 2055B40
       song_name: SUMMER MEMORIES
       content_type: ''
-  - song_name: 侍
-    song_alias:
-    esong_code: 2056B49
-    t_singer_master_id: '20358'
-    singer_name: HAN-KUN(湘南乃風)
-    singer_alias:
-    available_date: '2008-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さむらい
-    singer_name_ruby: はんくん
-    song_variation:
-    - esong_code: 2056B49
-      song_name: 侍
-      content_type: ''
   - song_name: サムライ
     song_alias:
     esong_code: 2060B36
@@ -431,6 +414,23 @@ result:
     song_variation:
     - esong_code: 2060B36
       song_name: サムライ
+      content_type: ''
+  - song_name: 侍
+    song_alias:
+    esong_code: 2056B49
+    t_singer_master_id: '20358'
+    singer_name: HAN-KUN(湘南乃風)
+    singer_alias:
+    available_date: '2008-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さむらい
+    singer_name_ruby: はんくん
+    song_variation:
+    - esong_code: 2056B49
+      song_name: 侍
       content_type: ''
   - song_name: さむらい追分
     song_alias:

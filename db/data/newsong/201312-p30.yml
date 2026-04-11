@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: トワイライト・アクシデント
+    song_alias:
+    esong_code: 3163A29
+    t_singer_master_id: '49560'
+    singer_name: 鎌田 英子
+    singer_alias:
+    available_date: '2013-12-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とわいらいとあくして
+    singer_name_ruby: かまたえいこ
+    song_variation:
+    - esong_code: 3163A29
+      song_name: トワイライト・アクシデント
+      content_type: ''
   - song_name: 永遠(とわ)の生命(いのち)
     song_alias:
     esong_code: 3151B30
@@ -366,6 +383,23 @@ result:
       content_type: ''
   - song_name: 浪花善哉
     song_alias:
+    esong_code: 3155A16
+    t_singer_master_id: '46556'
+    singer_name: 佐々木 新一&北野 まち子
+    singer_alias:
+    available_date: '2013-12-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: なにわせんさい
+    singer_name_ruby: ささきしんいちきたのまちこ
+    song_variation:
+    - esong_code: 3155A16
+      song_name: 浪花善哉
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 浪花善哉
+    song_alias:
     esong_code: 2822B37
     t_singer_master_id: '46556'
     singer_name: 佐々木 新一&北野 まち子
@@ -398,23 +432,23 @@ result:
     - esong_code: 3154B38
       song_name: 浪花善哉
       content_type: DAM生音
-  - song_name: 浪花善哉
+  - song_name: ナノ・セカンド
     song_alias:
-    esong_code: 3155A16
-    t_singer_master_id: '46556'
-    singer_name: 佐々木 新一&北野 まち子
+    esong_code: 3158B41
+    t_singer_master_id: '23642'
+    singer_name: UVERworld
     singer_alias:
-    available_date: '2013-12-10'
+    available_date: '2013-12-18'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: なにわせんさい
-    singer_name_ruby: ささきしんいちきたのまちこ
+    content_type:
+    song_name_ruby: なのせかんと
+    singer_name_ruby: うはわると
     song_variation:
-    - esong_code: 3155A16
-      song_name: 浪花善哉
-      content_type: DAMﾌﾟﾛｵｹ
+    - esong_code: 3158B41
+      song_name: ナノ・セカンド
+      content_type: ''
   - song_name: ナノ・セカンド
     song_alias:
     esong_code: 3158B42
@@ -432,23 +466,6 @@ result:
     - esong_code: 3158B42
       song_name: ナノ・セカンド
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ナノ・セカンド
-    song_alias:
-    esong_code: 3158B41
-    t_singer_master_id: '23642'
-    singer_name: UVERworld
-    singer_alias:
-    available_date: '2013-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なのせかんと
-    singer_name_ruby: うはわると
-    song_variation:
-    - esong_code: 3158B41
-      song_name: ナノ・セカンド
-      content_type: ''
   - song_name: 波風スライダー
     song_alias:
     esong_code: 3151A46
@@ -500,20 +517,3 @@ result:
     - esong_code: 3151B28
       song_name: 涙色の空
       content_type: ''
-  - song_name: 涙に沈む太陽
-    song_alias:
-    esong_code: 3167B20
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2013-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: なみたにしすむた
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 3167B20
-      song_name: 涙に沈む太陽
-      content_type: JOYｸﾘｯﾌﾟ

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1356
-  all_max_cnt: 1472
-  all_country_cnt: 1356
+  max_cnt: 1352
+  all_max_cnt: 1469
+  all_country_cnt: 1352
   song:
-  - song_name: 氷酒
-    song_alias:
-    esong_code: 1498B20
-    t_singer_master_id: '14046'
-    singer_name: 大黒 裕貴
-    singer_alias:
-    available_date: '2006-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こおりさけ
-    singer_name_ruby: おおくろゆき
-    song_variation:
-    - esong_code: 1498B20
-      song_name: 氷酒
-      content_type: ''
   - song_name: 氷のエンペラー
     song_alias:
     esong_code: 1563A21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1480B27
       song_name: 孤独な群衆
+      content_type: ''
+  - song_name: この涙があるから次の一歩となる
+    song_alias:
+    esong_code: 1499A24
+    t_singer_master_id: '25110'
+    singer_name: 時東 ぁみ
+    singer_alias:
+    available_date: '2006-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スクールランブル二学期<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: このなみたかある
+    singer_name_ruby: ときとうあみ
+    song_variation:
+    - esong_code: 1499A24
+      song_name: この涙があるから次の一歩となる
       content_type: ''

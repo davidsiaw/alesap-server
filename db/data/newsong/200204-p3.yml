@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: 液体
+    song_alias:
+    esong_code: 829B25
+    t_singer_master_id: '7906'
+    singer_name: Plastic Tree
+    singer_alias:
+    available_date: '2002-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えきたい
+    singer_name_ruby: ふらすていつくとうり
+    song_variation:
+    - esong_code: 829B25
+      song_name: 液体
+      content_type: ''
   - song_name: エスコート
     song_alias:
     esong_code: 102A41
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 30B36
       song_name: 思い出にしてしまえるさ
-      content_type: ''
-  - song_name: 想い出の余白
-    song_alias:
-    esong_code: 102B45
-    t_singer_master_id: '1512'
-    singer_name: テレサ・テン
-    singer_alias:
-    available_date: '2002-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいてのよはく
-    singer_name_ruby: てれさてん
-    song_variation:
-    - esong_code: 102B45
-      song_name: 想い出の余白
       content_type: ''

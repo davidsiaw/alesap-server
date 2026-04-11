@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: スマイル スマイル
-    song_alias:
-    esong_code: 2811B24
-    t_singer_master_id: '18074'
-    singer_name: 平原 綾香
-    singer_alias:
-    available_date: '2012-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すまいるすまいる
-    singer_name_ruby: ひらはらあやか
-    song_variation:
-    - esong_code: 2811B24
-      song_name: スマイル スマイル
-      content_type: ''
-  - song_name: Smile Song
-    song_alias:
-    esong_code: 2831A29
-    t_singer_master_id: '38482'
-    singer_name: Rake
-    singer_alias:
-    available_date: '2012-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すまいるそんく
-    singer_name_ruby: れいく
-    song_variation:
-    - esong_code: 2831A29
-      song_name: Smile Song
-      content_type: ''
-  - song_name: スミ子の笑顔
-    song_alias:
-    esong_code: 2830A5
-    t_singer_master_id: '45534'
-    singer_name: 會澤 あゆみ
-    singer_alias:
-    available_date: '2012-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: スミ子<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: すみこのえかお
-    singer_name_ruby: あいさわあゆみ
-    song_variation:
-    - esong_code: 2830A5
-      song_name: スミ子の笑顔
-      content_type: ''
   - song_name: Smells Like Teen Spirit
     song_alias:
     esong_code: 2812A49
@@ -213,23 +162,6 @@ result:
       content_type: ''
   - song_name: 世界はまだ君を知らない
     song_alias:
-    esong_code: 2834B32
-    t_singer_master_id: '35044'
-    singer_name: 阿部 真央
-    singer_alias:
-    available_date: '2012-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: せかいはまたきみを
-    singer_name_ruby: あへまお
-    song_variation:
-    - esong_code: 2834B32
-      song_name: 世界はまだ君を知らない
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 世界はまだ君を知らない
-    song_alias:
     esong_code: 2834A48
     t_singer_master_id: '35044'
     singer_name: 阿部 真央
@@ -245,6 +177,23 @@ result:
     - esong_code: 2834A48
       song_name: 世界はまだ君を知らない
       content_type: DAM生音
+  - song_name: 世界はまだ君を知らない
+    song_alias:
+    esong_code: 2834B32
+    t_singer_master_id: '35044'
+    singer_name: 阿部 真央
+    singer_alias:
+    available_date: '2012-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: せかいはまたきみを
+    singer_name_ruby: あへまお
+    song_variation:
+    - esong_code: 2834B32
+      song_name: 世界はまだ君を知らない
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: Second Limit
     song_alias:
     esong_code: 2811A15
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2822A36
       song_name: ソウルは心の古里
+      content_type: ''
+  - song_name: 続・竹とんぼ 〜青春(ゆめ)のしっぽ〜
+    song_alias:
+    esong_code: 2825B33
+    t_singer_master_id: '2114'
+    singer_name: 堀内 孝雄
+    singer_alias:
+    available_date: '2012-07-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: そくたけとんほゆ
+    singer_name_ruby: ほりうちたかお
+    song_variation:
+    - esong_code: 2825B33
+      song_name: 続・竹とんぼ 〜青春(ゆめ)のしっぽ〜
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: その昔
+    song_alias:
+    esong_code: 2800B28
+    t_singer_master_id: '2536'
+    singer_name: 吉 幾三
+    singer_alias:
+    available_date: '2012-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: そのむかし
+    singer_name_ruby: よしいくそう
+    song_variation:
+    - esong_code: 2800B28
+      song_name: その昔
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 空の下の相関図
+    song_alias:
+    esong_code: 2830A21
+    t_singer_master_id: '15301'
+    singer_name: いとう かなこ
+    singer_alias:
+    available_date: '2012-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Robotics;Notes<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: そらのしたのそうかん
+    singer_name_ruby: いとうかなこ
+    song_variation:
+    - esong_code: 2830A21
+      song_name: 空の下の相関図
       content_type: ''

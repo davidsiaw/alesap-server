@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: チェインリアクション
-    song_alias:
-    esong_code: 3011B3
-    t_singer_master_id: '25669'
-    singer_name: NICO Touches the Walls
-    singer_alias:
-    available_date: '2013-03-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちえいんりあくしよん
-    singer_name_ruby: にこたつちすさうおるす
-    song_variation:
-    - esong_code: 3011B3
-      song_name: チェインリアクション
-      content_type: ''
   - song_name: 地球最後の告白を
     song_alias:
     esong_code: 3001B33
@@ -134,7 +117,7 @@ result:
     singer_alias:
     available_date: '2013-03-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボールZ 神と神<番組名>
+    tie_up: DRAGON BALL(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ちやらへつちやら
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3001A13
       song_name: Tears In
+      content_type: ''
+  - song_name: Dear Smile
+    song_alias:
+    esong_code: 3006B38
+    t_singer_master_id: '29121'
+    singer_name: Ceui
+    singer_alias:
+    available_date: '2013-03-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 大図書館の羊飼い<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていあすまいる
+    singer_name_ruby: せい
+    song_variation:
+    - esong_code: 3006B38
+      song_name: Dear Smile
       content_type: ''

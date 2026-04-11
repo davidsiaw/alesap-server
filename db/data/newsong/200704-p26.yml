@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
-  - song_name: ハイウェイ・バス
-    song_alias:
-    esong_code: 1772A31
-    t_singer_master_id: '14422'
-    singer_name: 結城 和也
-    singer_alias:
-    available_date: '2007-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はいうえいはす
-    singer_name_ruby: ゆうきかすや
-    song_variation:
-    - esong_code: 1772A31
-      song_name: ハイウェイ・バス
-      content_type: ''
   - song_name: ハーイ!グラスホッパー〜グラスホッパー物語 II春編〜
     song_alias:
     esong_code: 1759B14
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 761A6
       song_name: Heart to Heart
+      content_type: ''
+  - song_name: ハート8
+    song_alias:
+    esong_code: 1758A30
+    t_singer_master_id: '7356'
+    singer_name: デーモン閣下(デーモン小暮)
+    singer_alias:
+    available_date: '2007-04-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はとはち
+    singer_name_ruby: てもんかつか
+    song_variation:
+    - esong_code: 1758A30
+      song_name: ハート8
       content_type: ''

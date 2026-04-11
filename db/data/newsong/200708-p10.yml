@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1046
-  all_max_cnt: 1110
-  all_country_cnt: 1046
+  max_cnt: 1043
+  all_max_cnt: 1107
+  all_country_cnt: 1043
   song:
-  - song_name: クリスタル・アイズ
-    song_alias:
-    esong_code: 1857A37
-    t_singer_master_id: '2867'
-    singer_name: 佐々木 望
-    singer_alias:
-    available_date: '2007-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 鎧伝サムライトルーパー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くりすたるあいす
-    singer_name_ruby: ささきのそむ
-    song_variation:
-    - esong_code: 1857A37
-      song_name: クリスタル・アイズ
-      content_type: ''
   - song_name: glitter
     song_alias:
     esong_code: 1855A34
@@ -517,3 +500,20 @@ result:
     - esong_code: 1821B27
       song_name: ここにいるぜぇ!
       content_type: JOYうたいり
+  - song_name: Kokoro
+    song_alias:
+    esong_code: 1820A17
+    t_singer_master_id: '30459'
+    singer_name: SS501
+    singer_alias:
+    available_date: '2007-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BLUE DRAGON<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころ
+    singer_name_ruby: たふるえすおこんいる
+    song_variation:
+    - esong_code: 1820A17
+      song_name: Kokoro
+      content_type: ''

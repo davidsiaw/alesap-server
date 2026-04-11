@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
   - song_name: Iron Heart
     song_alias:
@@ -353,7 +353,7 @@ result:
     t_singer_master_id: '52373'
     singer_name: トレイシー
     singer_alias:
-    available_date: '2014-12-23'
+    available_date: '2014-12-24'
     end_date: '2999-04-10 00:00:00'
     tie_up: SHIROBAKO<番組名>
     country_code: '0'
@@ -415,23 +415,6 @@ result:
     - esong_code: 3372B20
       song_name: 愛をからだに吹き込んで
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 愛をからだに吹き込んで
-    song_alias:
-    esong_code: 3370B46
-    t_singer_master_id: '29531'
-    singer_name: Superfly
-    singer_alias:
-    available_date: '2014-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あいをからたにふき
-    singer_name_ruby: すはふらい
-    song_variation:
-    - esong_code: 3370B46
-      song_name: 愛をからだに吹き込んで
-      content_type: DAM生音
   - song_name: 愛をとりもどせ!!
     song_alias:
     esong_code: 3367A5
@@ -517,3 +500,20 @@ result:
     - esong_code: 3374A42
       song_name: 蒼い海峡
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 蒼い海峡
+    song_alias:
+    esong_code: 3057B27
+    t_singer_master_id: '70'
+    singer_name: 浅田 あつこ
+    singer_alias:
+    available_date: '2014-12-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あおいかいきよう
+    singer_name_ruby: あさたあつこ
+    song_variation:
+    - esong_code: 3057B27
+      song_name: 蒼い海峡
+      content_type: DAMﾌﾟﾛｵｹ

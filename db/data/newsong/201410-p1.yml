@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1499
-  all_max_cnt: 1700
-  all_country_cnt: 1499
+  max_cnt: 1492
+  all_max_cnt: 1694
+  all_country_cnt: 1492
   song:
   - song_name: 曖昧劣情 Lover feat.flower
     song_alias:
@@ -483,30 +483,13 @@ result:
     - esong_code: 3338A19
       song_name: 明日へStand up!
       content_type: ''
-  - song_name: 明日また会えるよね (古川ver.)
-    song_alias:
-    esong_code: 3344A19
-    t_singer_master_id: '26878'
-    singer_name: 友永 朱音
-    singer_alias:
-    available_date: '2014-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 失われた未来を求めて<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あしたまたあえるよね
-    singer_name_ruby: ともなかあかね
-    song_variation:
-    - esong_code: 3344A19
-      song_name: 明日また会えるよね (古川ver.)
-      content_type: ''
   - song_name: 明日また会えるよね (佐々木ver.)
     song_alias:
     esong_code: 3343B26
     t_singer_master_id: '51859'
     singer_name: 高田 初美
     singer_alias:
-    available_date: '2014-10-21'
+    available_date: '2014-10-22'
     end_date: '2999-04-10 00:00:00'
     tie_up: 失われた未来を求めて<番組名>
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3343B26
       song_name: 明日また会えるよね (佐々木ver.)
+      content_type: ''
+  - song_name: 明日また会えるよね (古川ver.)
+    song_alias:
+    esong_code: 3344A19
+    t_singer_master_id: '26878'
+    singer_name: 友永 朱音
+    singer_alias:
+    available_date: '2014-10-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 失われた未来を求めて<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あしたまたあえるよね
+    singer_name_ruby: ともなかあかね
+    song_variation:
+    - esong_code: 3344A19
+      song_name: 明日また会えるよね (古川ver.)
       content_type: ''

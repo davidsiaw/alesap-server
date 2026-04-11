@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1199
-  all_max_cnt: 1301
-  all_country_cnt: 1199
+  max_cnt: 1196
+  all_max_cnt: 1298
+  all_country_cnt: 1196
   song:
-  - song_name: ダークウォーター 〜愛すべき戦士たち〜
-    song_alias:
-    esong_code: 1734B12
-    t_singer_master_id: '503'
-    singer_name: 影山 ヒロノブ
-    singer_alias:
-    available_date: '2007-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 未知の海へダーク・ウォーター<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たくくおた
-    singer_name_ruby: かけやまひろのふ
-    song_variation:
-    - esong_code: 1734B12
-      song_name: ダークウォーター 〜愛すべき戦士たち〜
-      content_type: ''
   - song_name: ダーシャード人の踊り
     song_alias:
     esong_code: 1734A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1735B1
       song_name: チャリンコライダー
+      content_type: ''
+  - song_name: チャンス
+    song_alias:
+    esong_code: 1730B33
+    t_singer_master_id: '6120'
+    singer_name: My Little Lover
+    singer_alias:
+    available_date: '2007-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちやんす
+    singer_name_ruby: まいりとるらは
+    song_variation:
+    - esong_code: 1730B33
+      song_name: チャンス
       content_type: ''

@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 598
-  all_max_cnt: 668
-  all_country_cnt: 598
+  max_cnt: 592
+  all_max_cnt: 662
+  all_country_cnt: 592
   song:
-  - song_name: 僕はここに立っているよ
-    song_alias:
-    esong_code: 714B38
-    t_singer_master_id: '2054'
-    singer_name: THE BLUE HEARTS
-    singer_alias:
-    available_date: '2001-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほくはここにたつて
-    singer_name_ruby: さふるはつ
-    song_variation:
-    - esong_code: 714B38
-      song_name: 僕はここに立っているよ
-      content_type: ''
-  - song_name: 惑星(ほし)のかけら
-    song_alias:
-    esong_code: 864B1
-    t_singer_master_id: '4249'
-    singer_name: スピッツ
-    singer_alias:
-    available_date: '2001-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしのかけら
-    singer_name_ruby: すひつつ
-    song_variation:
-    - esong_code: 864B1
-      song_name: 惑星(ほし)のかけら
-      content_type: ''
-  - song_name: 星ノクズ
-    song_alias:
-    esong_code: 725A22
-    t_singer_master_id: '7403'
-    singer_name: ACO
-    singer_alias:
-    available_date: '2001-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしのくす
-    singer_name_ruby: あこ
-    song_variation:
-    - esong_code: 725A22
-      song_name: 星ノクズ
-      content_type: ''
-  - song_name: 螢の河
-    song_alias:
-    esong_code: 722B22
-    t_singer_master_id: '871'
-    singer_name: 小柳 ルミ子(rumico)
-    singer_alias:
-    available_date: '2001-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほたるのかわ
-    singer_name_ruby: こやなきるみこ
-    song_variation:
-    - esong_code: 722B22
-      song_name: 螢の河
-      content_type: ''
-  - song_name: 螢の灯籠
-    song_alias:
-    esong_code: 726A29
-    t_singer_master_id: '13188'
-    singer_name: 中原 茂
-    singer_alias:
-    available_date: '2001-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 遙かなる時空の中で<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほたるのとうろう
-    singer_name_ruby: なかはらしける
-    song_variation:
-    - esong_code: 726A29
-      song_name: 螢の灯籠
-      content_type: ''
-  - song_name: 蛍の光
-    song_alias:
-    esong_code: 656A28
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2001-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほたるのひかり
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 656A28
-      song_name: 蛍の光
-      content_type: ''
   - song_name: borderless
     song_alias:
     esong_code: 725A32
@@ -177,23 +75,6 @@ result:
     - esong_code: 713A28
       song_name: What Else
       content_type: ''
-  - song_name: 盆帰り
-    song_alias:
-    esong_code: 761B12
-    t_singer_master_id: '1654'
-    singer_name: 中村 雅俊
-    singer_alias:
-    available_date: '2001-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほんかえり
-    singer_name_ruby: なかむらまさとし
-    song_variation:
-    - esong_code: 761B12
-      song_name: 盆帰り
-      content_type: ''
   - song_name: 盆がえり
     song_alias:
     esong_code: 712A38
@@ -210,6 +91,23 @@ result:
     song_variation:
     - esong_code: 712A38
       song_name: 盆がえり
+      content_type: ''
+  - song_name: 盆帰り
+    song_alias:
+    esong_code: 761B12
+    t_singer_master_id: '1654'
+    singer_name: 中村 雅俊
+    singer_alias:
+    available_date: '2001-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほんかえり
+    singer_name_ruby: なかむらまさとし
+    song_variation:
+    - esong_code: 761B12
+      song_name: 盆帰り
       content_type: ''
   - song_name: ほんのりブルー
     song_alias:
@@ -347,23 +245,6 @@ result:
     - esong_code: 726A38
       song_name: MACHINE
       content_type: ''
-  - song_name: MAXメドレー〜1998〜
-    song_alias:
-    esong_code: 88B46
-    t_singer_master_id: '6440'
-    singer_name: MAX
-    singer_alias:
-    available_date: '2001-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まつくすめとれ
-    singer_name_ruby: まつくす
-    song_variation:
-    - esong_code: 88B46
-      song_name: MAXメドレー〜1998〜
-      content_type: ''
   - song_name: MAXメドレー〜1997〜
     song_alias:
     esong_code: 88B45
@@ -380,6 +261,23 @@ result:
     song_variation:
     - esong_code: 88B45
       song_name: MAXメドレー〜1997〜
+      content_type: ''
+  - song_name: MAXメドレー〜1998〜
+    song_alias:
+    esong_code: 88B46
+    t_singer_master_id: '6440'
+    singer_name: MAX
+    singer_alias:
+    available_date: '2001-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まつくすめとれ
+    singer_name_ruby: まつくす
+    song_variation:
+    - esong_code: 88B46
+      song_name: MAXメドレー〜1998〜
       content_type: ''
   - song_name: 松田聖子ベストメドレーVol.5
     song_alias:
@@ -516,4 +414,106 @@ result:
     song_variation:
     - esong_code: 717A39
       song_name: mister popcorn
+      content_type: ''
+  - song_name: miss you
+    song_alias:
+    esong_code: 695B30
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
+    singer_alias:
+    available_date: '2001-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすゆ
+    singer_name_ruby: こふくろ
+    song_variation:
+    - esong_code: 695B30
+      song_name: miss you
+      content_type: ''
+  - song_name: 満ち汐のロマンス
+    song_alias:
+    esong_code: 666B32
+    t_singer_master_id: '12538'
+    singer_name: EGO-WRAPPIN'
+    singer_alias:
+    available_date: '2001-12-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みちしおのろまんす
+    singer_name_ruby: えこらつひん
+    song_variation:
+    - esong_code: 666B32
+      song_name: 満ち汐のロマンス
+      content_type: ''
+  - song_name: Midnight of madness
+    song_alias:
+    esong_code: 713B21
+    t_singer_master_id: '11145'
+    singer_name: JOLLY PICKLES
+    singer_alias:
+    available_date: '2001-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みつとないとおふ
+    singer_name_ruby: しよりひつくる
+    song_variation:
+    - esong_code: 713B21
+      song_name: Midnight of madness
+      content_type: ''
+  - song_name: "〜Midnight Dejavu〜色彩のブルース"
+    song_alias:
+    esong_code: 710B31
+    t_singer_master_id: '12538'
+    singer_name: EGO-WRAPPIN'
+    singer_alias:
+    available_date: '2001-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みつとないとてし
+    singer_name_ruby: えこらつひん
+    song_variation:
+    - esong_code: 710B31
+      song_name: "〜Midnight Dejavu〜色彩のブルース"
+      content_type: ''
+  - song_name: 南風知らん顔
+    song_alias:
+    esong_code: 712B27
+    t_singer_master_id: '500'
+    singer_name: かぐや姫
+    singer_alias:
+    available_date: '2001-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みなみかせしらんか
+    singer_name_ruby: かくやひめ
+    song_variation:
+    - esong_code: 712B27
+      song_name: 南風知らん顔
+      content_type: ''
+  - song_name: ミニハムずの愛の唄
+    song_alias:
+    esong_code: 716B28
+    t_singer_master_id: '13142'
+    singer_name: ミニハムず
+    singer_alias:
+    available_date: '2001-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: とっとこハム太郎(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: みにはむすのあいの
+    singer_name_ruby: みにはむす
+    song_variation:
+    - esong_code: 716B28
+      song_name: ミニハムずの愛の唄
       content_type: ''

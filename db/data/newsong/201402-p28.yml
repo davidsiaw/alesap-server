@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
   - song_name: Door
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 3207B11
       song_name: Door
       content_type: ''
-  - song_name: Door
-    song_alias:
-    esong_code: 3202A21
-    t_singer_master_id: '20714'
-    singer_name: JUJU
-    singer_alias:
-    available_date: '2014-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: とあ
-    singer_name_ruby: しゆしゆ
-    song_variation:
-    - esong_code: 3202A21
-      song_name: Door
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Door
     song_alias:
     esong_code: 3178B47
@@ -94,23 +77,6 @@ result:
       content_type: 東方
   - song_name: 東京
     song_alias:
-    esong_code: 3202B16
-    t_singer_master_id: '49730'
-    singer_name: MICHAEL
-    singer_alias:
-    available_date: '2014-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきよう
-    singer_name_ruby: みかえる
-    song_variation:
-    - esong_code: 3202B16
-      song_name: 東京
-      content_type: ''
-  - song_name: 東京
-    song_alias:
     esong_code: 3177A25
     t_singer_master_id: '45101'
     singer_name: 蜜
@@ -124,6 +90,23 @@ result:
     singer_name_ruby: みつ
     song_variation:
     - esong_code: 3177A25
+      song_name: 東京
+      content_type: ''
+  - song_name: 東京
+    song_alias:
+    esong_code: 3202B16
+    t_singer_master_id: '49730'
+    singer_name: MICHAEL
+    singer_alias:
+    available_date: '2014-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきよう
+    singer_name_ruby: みかえる
+    song_variation:
+    - esong_code: 3202B16
       song_name: 東京
       content_type: ''
   - song_name: 東京セレナーデ
@@ -153,7 +136,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: とうきようのよるか
     singer_name_ruby: うえあら
     song_variation:
@@ -173,7 +156,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: とうきようのよるか
     singer_name_ruby: うえあら
     song_variation:
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3198B40
       song_name: 時の流れに身をまかせ
+      content_type: ''
+  - song_name: DQNなりたい、40代で死にたい
+    song_alias:
+    esong_code: 3203B8
+    t_singer_master_id: '49526'
+    singer_name: キュウソネコカミ
+    singer_alias:
+    available_date: '2014-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ときゆんなりたいよ
+    singer_name_ruby: きゆうそねこかみ
+    song_variation:
+    - esong_code: 3203B8
+      song_name: DQNなりたい、40代で死にたい
       content_type: ''

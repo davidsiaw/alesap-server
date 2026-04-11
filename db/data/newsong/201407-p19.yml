@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
   - song_name: しあわせ芝居
     song_alias:
@@ -332,6 +332,23 @@ result:
       content_type: ''
   - song_name: 下町男唄
     song_alias:
+    esong_code: 3280A43
+    t_singer_master_id: '10171'
+    singer_name: 谷本 知美
+    singer_alias:
+    available_date: '2014-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: したまちおとこうた
+    singer_name_ruby: たにもとともみ
+    song_variation:
+    - esong_code: 3280A43
+      song_name: 下町男唄
+      content_type: ''
+  - song_name: 下町男唄
+    song_alias:
     esong_code: 3286A42
     t_singer_master_id: '10171'
     singer_name: 谷本 知美
@@ -364,23 +381,6 @@ result:
     - esong_code: 3286B7
       song_name: 下町男唄
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 下町男唄
-    song_alias:
-    esong_code: 3280A43
-    t_singer_master_id: '10171'
-    singer_name: 谷本 知美
-    singer_alias:
-    available_date: '2014-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: したまちおとこうた
-    singer_name_ruby: たにもとともみ
-    song_variation:
-    - esong_code: 3280A43
-      song_name: 下町男唄
-      content_type: ''
   - song_name: 七人のParty
     song_alias:
     esong_code: 2034B6

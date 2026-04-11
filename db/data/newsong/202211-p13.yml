@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1411
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1405
+  all_country_cnt: 1206
   song:
-  - song_name: この青空は忘れない
-    song_alias:
-    esong_code: 4708A25
-    t_singer_master_id: '70619'
-    singer_name: ジュニア
-    singer_alias:
-    available_date: '2022-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 忍たま乱太郎<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: このあおそらはわす
-    singer_name_ruby: しゆにあ
-    song_variation:
-    - esong_code: 4708A25
-      song_name: この青空は忘れない
-      content_type: ''
   - song_name: 小針銀座恋の街
     song_alias:
     esong_code: 4708B37
@@ -517,3 +500,20 @@ result:
     - esong_code: 4705A10
       song_name: Sunny Road
       content_type: DAMﾗｲﾌﾞ
+  - song_name: The Happiest Girl
+    song_alias:
+    esong_code: 4709A49
+    t_singer_master_id: '59381'
+    singer_name: BLACKPINK
+    singer_alias:
+    available_date: '2022-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さはひえすとか
+    singer_name_ruby: ふらつくひんく
+    song_variation:
+    - esong_code: 4709A49
+      song_name: The Happiest Girl
+      content_type: ''

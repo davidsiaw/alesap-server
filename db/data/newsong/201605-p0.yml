@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1527
-  all_country_cnt: 1321
+  max_cnt: 1310
+  all_max_cnt: 1516
+  all_country_cnt: 1310
   song:
   - song_name: あぁ・・・天建寺橋
     song_alias:
@@ -94,23 +94,6 @@ result:
       content_type: ''
   - song_name: I seek
     song_alias:
-    esong_code: 3626B6
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2016-05-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいしく
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 3626B6
-      song_name: I seek
-      content_type: ''
-  - song_name: I seek
-    song_alias:
     esong_code: 1557B37
     t_singer_master_id: '10314'
     singer_name: 嵐
@@ -126,6 +109,23 @@ result:
     - esong_code: 1557B37
       song_name: I seek
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: I seek
+    song_alias:
+    esong_code: 3626B6
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2016-05-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいしく
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 3626B6
+      song_name: I seek
+      content_type: ''
   - song_name: 愛ジャパン
     song_alias:
     esong_code: 3628A22
@@ -468,19 +468,19 @@ result:
       content_type: ''
   - song_name: 愛をありがとう
     song_alias:
-    esong_code: 1557A45
-    t_singer_master_id: '32895'
-    singer_name: 佐々木 秀実
+    esong_code: 1558A29
+    t_singer_master_id: '39959'
+    singer_name: 純烈
     singer_alias:
-    available_date: '2016-05-24'
+    available_date: '2016-05-25'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: あいをありかとう
-    singer_name_ruby: ささきひてみ
+    singer_name_ruby: しゆんれつ
     song_variation:
-    - esong_code: 1557A45
+    - esong_code: 1558A29
       song_name: 愛をありがとう
       content_type: ''
   - song_name: 愛をありがとう
@@ -489,7 +489,7 @@ result:
     t_singer_master_id: '32154'
     singer_name: ジェロ
     singer_alias:
-    available_date: '2016-05-24'
+    available_date: '2016-05-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -500,20 +500,20 @@ result:
     - esong_code: 1558A33
       song_name: 愛をありがとう
       content_type: ''
-  - song_name: 愛をありがとう
+  - song_name: 愛を叫べ
     song_alias:
-    esong_code: 1557A9
-    t_singer_master_id: '2228'
-    singer_name: 松原 のぶえ
+    esong_code: 3626A26
+    t_singer_master_id: '10314'
+    singer_name: 嵐
     singer_alias:
-    available_date: '2016-05-31'
+    available_date: '2016-05-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: あいをありかとう
-    singer_name_ruby: まつはらのふえ
+    content_type: DAM生音
+    song_name_ruby: あいをさけへ
+    singer_name_ruby: あらし
     song_variation:
-    - esong_code: 1557A9
-      song_name: 愛をありがとう
-      content_type: ''
+    - esong_code: 3626A26
+      song_name: 愛を叫べ
+      content_type: DAM生音

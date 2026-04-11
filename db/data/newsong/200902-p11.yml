@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: ゴキブリ讃歌
-    song_alias:
-    esong_code: 2199B18
-    t_singer_master_id: '25189'
-    singer_name: ザ50回転ズ
-    singer_alias:
-    available_date: '2009-02-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こきふりさんか
-    singer_name_ruby: さこしゆつかいてんす
-    song_variation:
-    - esong_code: 2199B18
-      song_name: ゴキブリ讃歌
-      content_type: ''
   - song_name: GO∞2
     song_alias:
     esong_code: 2204A35
@@ -332,23 +315,6 @@ result:
       content_type: ''
   - song_name: コロナ
     song_alias:
-    esong_code: 2210B35
-    t_singer_master_id: '23578'
-    singer_name: SunSet Swish
-    singer_alias:
-    available_date: '2009-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ころな
-    singer_name_ruby: さんせつとすういつしゆ
-    song_variation:
-    - esong_code: 2210B35
-      song_name: コロナ
-      content_type: ''
-  - song_name: コロナ
-    song_alias:
     esong_code: 2246A17
     t_singer_master_id: '23642'
     singer_name: UVERworld
@@ -362,6 +328,23 @@ result:
     singer_name_ruby: うはわると
     song_variation:
     - esong_code: 2246A17
+      song_name: コロナ
+      content_type: ''
+  - song_name: コロナ
+    song_alias:
+    esong_code: 2210B35
+    t_singer_master_id: '23578'
+    singer_name: SunSet Swish
+    singer_alias:
+    available_date: '2009-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ころな
+    singer_name_ruby: さんせつとすういつしゆ
+    song_variation:
+    - esong_code: 2210B35
       song_name: コロナ
       content_type: ''
   - song_name: CONFIDENTIAL LOVER
@@ -380,6 +363,23 @@ result:
     song_variation:
     - esong_code: 2210B6
       song_name: CONFIDENTIAL LOVER
+      content_type: ''
+  - song_name: Complete
+    song_alias:
+    esong_code: 2195B13
+    t_singer_master_id: '35192'
+    singer_name: 宏実
+    singer_alias:
+    available_date: '2009-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こんふりと
+    singer_name_ruby: ひろみ
+    song_variation:
+    - esong_code: 2195B13
+      song_name: Complete
       content_type: ''
   - song_name: 今夜はハリケーン
     song_alias:
@@ -466,22 +466,39 @@ result:
     - esong_code: 2251B9
       song_name: さくら 〜あなたに出会えてよかった〜
       content_type: ''
-  - song_name: Sakura
+  - song_name: 桜
     song_alias:
-    esong_code: 2253B40
-    t_singer_master_id: '15968'
-    singer_name: レミオロメン
+    esong_code: 2209B5
+    t_singer_master_id: '24880'
+    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
     singer_alias:
-    available_date: '2009-02-24'
+    available_date: '2009-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: さくら
+    singer_name_ruby: ふあんきもんきへいひす
+    song_variation:
+    - esong_code: 2209B5
+      song_name: 桜
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 桜
+    song_alias:
+    esong_code: 2203A2
+    t_singer_master_id: '24880'
+    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
+    singer_alias:
+    available_date: '2009-02-18'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: さくら
-    singer_name_ruby: れみおろめん
+    singer_name_ruby: ふあんきもんきへいひす
     song_variation:
-    - esong_code: 2253B40
-      song_name: Sakura
+    - esong_code: 2203A2
+      song_name: 桜
       content_type: ''
   - song_name: 桜
     song_alias:
@@ -500,20 +517,3 @@ result:
     - esong_code: 2202B38
       song_name: 桜
       content_type: ''
-  - song_name: 桜
-    song_alias:
-    esong_code: 2209B5
-    t_singer_master_id: '24880'
-    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
-    singer_alias:
-    available_date: '2009-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: さくら
-    singer_name_ruby: ふあんきもんきへいひす
-    song_variation:
-    - esong_code: 2209B5
-      song_name: 桜
-      content_type: DAMｸﾘｯﾌﾟ

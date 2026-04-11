@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1339
-  all_max_cnt: 1524
-  all_country_cnt: 1339
+  max_cnt: 1329
+  all_max_cnt: 1514
+  all_country_cnt: 1329
   song:
-  - song_name: さだめ
-    song_alias:
-    esong_code: 1034A48
-    t_singer_master_id: '14246'
-    singer_name: 亜留辺
-    singer_alias:
-    available_date: '2018-03-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さため
-    singer_name_ruby: あるへ
-    song_variation:
-    - esong_code: 1034A48
-      song_name: さだめ
-      content_type: ''
-  - song_name: 雑草
-    song_alias:
-    esong_code: 3960B15
-    t_singer_master_id: '54435'
-    singer_name: HIKAKIN&SEIKIN
-    singer_alias:
-    available_date: '2018-03-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: さつそう
-    singer_name_ruby: ひかきんあんとせいきん
-    song_variation:
-    - esong_code: 3960B15
-      song_name: 雑草
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Such a beautiful day
-    song_alias:
-    esong_code: 3956B37
-    t_singer_master_id: '35044'
-    singer_name: 阿部 真央
-    singer_alias:
-    available_date: '2018-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さつちあひゆてい
-    singer_name_ruby: あへまお
-    song_variation:
-    - esong_code: 3956B37
-      song_name: Such a beautiful day
-      content_type: ''
   - song_name: 札幌・・・ふたたび (デュエット:H.S.W)
     song_alias:
     esong_code: 3309B1
@@ -125,23 +74,6 @@ result:
     song_variation:
     - esong_code: 3959B46
       song_name: The New World
-      content_type: ''
-  - song_name: The North Wind and the Sun,
-    song_alias:
-    esong_code: 3966B43
-    t_singer_master_id: '60634'
-    singer_name: あらき,nqrse
-    singer_alias:
-    available_date: '2018-03-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さのすういんと
-    singer_name_ruby: あらきなるせ
-    song_variation:
-    - esong_code: 3966B43
-      song_name: The North Wind and the Sun,
       content_type: ''
   - song_name: the non-fiction days [DAM本人歌唱]
     song_alias:
@@ -264,38 +196,21 @@ result:
       content_type: ''
   - song_name: さよならエレジー
     song_alias:
-    esong_code: 3962A47
+    esong_code: 3968A40
     t_singer_master_id: '57991'
     singer_name: 菅田 将暉
     singer_alias:
-    available_date: '2018-03-18'
+    available_date: '2018-03-13'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
+    content_type: DAM生音
     song_name_ruby: さよならえれし
     singer_name_ruby: すたまさき
     song_variation:
-    - esong_code: 3962A47
+    - esong_code: 3968A40
       song_name: さよならエレジー
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: さよならエレジー
-    song_alias:
-    esong_code: 3967B15
-    t_singer_master_id: '57991'
-    singer_name: 菅田 将暉
-    singer_alias:
-    available_date: '2018-03-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: さよならえれし
-    singer_name_ruby: すたまさき
-    song_variation:
-    - esong_code: 3967B15
-      song_name: さよならエレジー
-      content_type: JOYｸﾘｯﾌﾟ
+      content_type: DAM生音
   - song_name: さよならエレジー
     song_alias:
     esong_code: 3737A9
@@ -315,21 +230,38 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: さよならエレジー
     song_alias:
-    esong_code: 3968A40
+    esong_code: 3967B15
     t_singer_master_id: '57991'
     singer_name: 菅田 将暉
     singer_alias:
-    available_date: '2018-03-13'
+    available_date: '2018-03-14'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: さよならえれし
     singer_name_ruby: すたまさき
     song_variation:
-    - esong_code: 3968A40
+    - esong_code: 3967B15
       song_name: さよならエレジー
-      content_type: DAM生音
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: さよならエレジー
+    song_alias:
+    esong_code: 3962A47
+    t_singer_master_id: '57991'
+    singer_name: 菅田 将暉
+    singer_alias:
+    available_date: '2018-03-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: さよならえれし
+    singer_name_ruby: すたまさき
+    song_variation:
+    - esong_code: 3962A47
+      song_name: さよならエレジー
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: さよならモード
     song_alias:
     esong_code: 1036B31
@@ -349,23 +281,6 @@ result:
       content_type: ''
   - song_name: さらせ冬の嵐
     song_alias:
-    esong_code: 1028B6
-    t_singer_master_id: '12454'
-    singer_name: 山内 惠介
-    singer_alias:
-    available_date: '2018-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: さらせふゆのあらし
-    singer_name_ruby: やまうちけいすけ
-    song_variation:
-    - esong_code: 1028B6
-      song_name: さらせ冬の嵐
-      content_type: JOY生演奏
-  - song_name: さらせ冬の嵐
-    song_alias:
     esong_code: 1029B38
     t_singer_master_id: '12454'
     singer_name: 山内 惠介
@@ -381,6 +296,23 @@ result:
     - esong_code: 1029B38
       song_name: さらせ冬の嵐
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: さらせ冬の嵐
+    song_alias:
+    esong_code: 1029B31
+    t_singer_master_id: '12454'
+    singer_name: 山内 惠介
+    singer_alias:
+    available_date: '2018-03-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さらせふゆのあらし
+    singer_name_ruby: やまうちけいすけ
+    song_variation:
+    - esong_code: 1029B31
+      song_name: さらせ冬の嵐
+      content_type: ''
   - song_name: さらせ冬の嵐
     song_alias:
     esong_code: 1029A30
@@ -400,21 +332,21 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: さらせ冬の嵐
     song_alias:
-    esong_code: 1029B31
+    esong_code: 1028B6
     t_singer_master_id: '12454'
     singer_name: 山内 惠介
     singer_alias:
-    available_date: '2018-03-23'
+    available_date: '2018-03-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOY生演奏
     song_name_ruby: さらせふゆのあらし
     singer_name_ruby: やまうちけいすけ
     song_variation:
-    - esong_code: 1029B31
+    - esong_code: 1028B6
       song_name: さらせ冬の嵐
-      content_type: ''
+      content_type: JOY生演奏
   - song_name: 3月5日。
     song_alias:
     esong_code: 3966A18
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 1029B23
       song_name: サン・トワ・マミー
+      content_type: ''
+  - song_name: 桟橋辺り
+    song_alias:
+    esong_code: 1027A46
+    t_singer_master_id: '57342'
+    singer_name: 黒木 幸子
+    singer_alias:
+    available_date: '2018-03-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんはしあたり
+    singer_name_ruby: くろきさちこ
+    song_variation:
+    - esong_code: 1027A46
+      song_name: 桟橋辺り
+      content_type: ''
+  - song_name: Sunburn
+    song_alias:
+    esong_code: 3964B47
+    t_singer_master_id: '36831'
+    singer_name: the HIATUS
+    singer_alias:
+    available_date: '2018-03-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんはん
+    singer_name_ruby: さはいえいたす
+    song_variation:
+    - esong_code: 3964B47
+      song_name: Sunburn
+      content_type: ''
+  - song_name: G.R.N.D.
+    song_alias:
+    esong_code: 3968B13
+    t_singer_master_id: '50089'
+    singer_name: GARNiDELiA
+    singer_alias:
+    available_date: '2018-03-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあるえぬて
+    singer_name_ruby: かるにてりあ
+    song_variation:
+    - esong_code: 3968B13
+      song_name: G.R.N.D.
+      content_type: ''
+  - song_name: シアワセカイ
+    song_alias:
+    esong_code: 3961A26
+    t_singer_master_id: '57056'
+    singer_name: 尾崎 裕哉
+    singer_alias:
+    available_date: '2018-03-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせかい
+    singer_name_ruby: おさきひろや
+    song_variation:
+    - esong_code: 3961A26
+      song_name: シアワセカイ
       content_type: ''

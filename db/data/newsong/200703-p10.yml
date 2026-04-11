@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
   - song_name: COSMOS
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 1741B40
       song_name: Call Me What You Like(if you like rock-n-roll)
       content_type: ''
-  - song_name: こんなに近くで・・・
-    song_alias:
-    esong_code: 1746B20
-    t_singer_master_id: '10098'
-    singer_name: Crystal Kay
-    singer_alias:
-    available_date: '2007-03-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: のだめカンタービレ<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: こんなにちかくて
-    singer_name_ruby: くりすたるけい
-    song_variation:
-    - esong_code: 1746B20
-      song_name: こんなに近くで・・・
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: こんなに近くで・・・ (KZ Future Disco Remix)
     song_alias:
     esong_code: 1747B43
@@ -262,6 +245,23 @@ result:
     - esong_code: 1747B43
       song_name: こんなに近くで・・・ (KZ Future Disco Remix)
       content_type: ''
+  - song_name: こんなに近くで・・・
+    song_alias:
+    esong_code: 1746B20
+    t_singer_master_id: '10098'
+    singer_name: Crystal Kay
+    singer_alias:
+    available_date: '2007-03-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: のだめカンタービレ<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: こんなにちかくて
+    singer_name_ruby: くりすたるけい
+    song_variation:
+    - esong_code: 1746B20
+      song_name: こんなに近くで・・・
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 今夜もラブコール
     song_alias:
     esong_code: 1481A30
@@ -389,7 +389,7 @@ result:
     singer_alias:
     available_date: '2007-03-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: スレイヤーズEX<番組名>
+    tie_up: スレイヤーズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さいこうのきやんふ

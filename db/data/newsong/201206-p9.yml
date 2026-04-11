@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: カカオ
-    song_alias:
-    esong_code: 2805A49
-    t_singer_master_id: '45194'
-    singer_name: 加藤 シゲアキ(from NEWS)
-    singer_alias:
-    available_date: '2012-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かかお
-    singer_name_ruby: かとうしけあき
-    song_variation:
-    - esong_code: 2805A49
-      song_name: カカオ
-      content_type: ''
   - song_name: 輝きの未来
     song_alias:
     esong_code: 2807B11
@@ -517,3 +500,20 @@ result:
     - esong_code: 2807B29
       song_name: カミサマネジマキ feat.GUMI
       content_type: VOCALOID
+  - song_name: 我武者羅
+    song_alias:
+    esong_code: 2804B6
+    t_singer_master_id: '21485'
+    singer_name: 小西 克幸
+    singer_alias:
+    available_date: '2012-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 戦国無双<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かむしやら
+    singer_name_ruby: こにしかつゆき
+    song_variation:
+    - esong_code: 2804B6
+      song_name: 我武者羅
+      content_type: ''

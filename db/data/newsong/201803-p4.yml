@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1339
-  all_max_cnt: 1524
-  all_country_cnt: 1339
+  max_cnt: 1329
+  all_max_cnt: 1514
+  all_country_cnt: 1329
   song:
-  - song_name: 1106 [DAM本人歌唱]
-    song_alias:
-    esong_code: 3946B48
-    t_singer_master_id: '52977'
-    singer_name: WANIMA
-    singer_alias:
-    available_date: '2018-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: いちいちせろろく
-    singer_name_ruby: わにま
-    song_variation:
-    - esong_code: 3946B48
-      song_name: 1106 [DAM本人歌唱]
-      content_type: DAM本人歌唱
-  - song_name: 一か八か
-    song_alias:
-    esong_code: 3965B1
-    t_singer_master_id: '61031'
-    singer_name: Re:versed
-    singer_alias:
-    available_date: '2018-03-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いちかはちか
-    singer_name_ruby: りはすと
-    song_variation:
-    - esong_code: 3965B1
-      song_name: 一か八か
-      content_type: ''
   - song_name: "[1959]"
     song_alias:
     esong_code: 3966A14
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1033A45
       song_name: 今でもジェラシー
+      content_type: ''
+  - song_name: イマニミテイロ
+    song_alias:
+    esong_code: 3958B33
+    t_singer_master_id: '61021'
+    singer_name: 日向坂46(けやき坂46)
+    singer_alias:
+    available_date: '2018-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いまにみていろ
+    singer_name_ruby: ひなたさかふおていしつくす
+    song_variation:
+    - esong_code: 3958B33
+      song_name: イマニミテイロ
+      content_type: ''
+  - song_name: 今はここに
+    song_alias:
+    esong_code: 3954A19
+    t_singer_master_id: '50679'
+    singer_name: 相坂 優歌
+    singer_alias:
+    available_date: '2018-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: コードギアス 反逆のルルーシュ(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いまはここに
+    singer_name_ruby: あいさかゆうか
+    song_variation:
+    - esong_code: 3954A19
+      song_name: 今はここに
       content_type: ''

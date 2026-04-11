@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1037
-  all_max_cnt: 1127
-  all_country_cnt: 1037
+  max_cnt: 1013
+  all_max_cnt: 1103
+  all_country_cnt: 1013
   song:
   - song_name: あぁ あなたと
     song_alias:
@@ -279,40 +279,6 @@ result:
     - esong_code: 4577A17
       song_name: I'm sorry
       content_type: ''
-  - song_name: I'm not complete
-    song_alias:
-    esong_code: 4577A37
-    t_singer_master_id: '57165'
-    singer_name: 内田 雄馬
-    singer_alias:
-    available_date: '2021-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいむのつとこんふ
-    singer_name_ruby: うちたゆうま
-    song_variation:
-    - esong_code: 4577A37
-      song_name: I'm not complete
-      content_type: ''
-  - song_name: I'm for you
-    song_alias:
-    esong_code: 4571A46
-    t_singer_master_id: '63073'
-    singer_name: SparQlew
-    singer_alias:
-    available_date: '2021-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいむふおゆ
-    singer_name_ruby: すはくる
-    song_variation:
-    - esong_code: 4571A46
-      song_name: I'm for you
-      content_type: ''
   - song_name: Outta Time feat.JP THE WAVY
     song_alias:
     esong_code: 4578A45
@@ -400,23 +366,6 @@ result:
       content_type: ''
   - song_name: 明け星
     song_alias:
-    esong_code: 4578A7
-    t_singer_master_id: '41517'
-    singer_name: LiSA
-    singer_alias:
-    available_date: '2021-12-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 鬼滅の刃<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あけほし
-    singer_name_ruby: りさ
-    song_variation:
-    - esong_code: 4578A7
-      song_name: 明け星
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 明け星
-    song_alias:
     esong_code: 4575A6
     t_singer_master_id: '41517'
     singer_name: LiSA
@@ -466,6 +415,23 @@ result:
     - esong_code: 4567B18
       song_name: 明け星
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 明け星
+    song_alias:
+    esong_code: 4578A7
+    t_singer_master_id: '41517'
+    singer_name: LiSA
+    singer_alias:
+    available_date: '2021-12-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鬼滅の刃<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あけほし
+    singer_name_ruby: りさ
+    song_variation:
+    - esong_code: 4578A7
+      song_name: 明け星
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 明日未来
     song_alias:
     esong_code: 4579B23
@@ -517,3 +483,37 @@ result:
     - esong_code: 4579B27
       song_name: 阿蘇の恋おんな
       content_type: ''
+  - song_name: あたしたち
+    song_alias:
+    esong_code: 4575B5
+    t_singer_master_id: '8782'
+    singer_name: aiko
+    singer_alias:
+    available_date: '2021-12-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あたしたち
+    singer_name_ruby: あいこ
+    song_variation:
+    - esong_code: 4575B5
+      song_name: あたしたち
+      content_type: DAM生音
+  - song_name: あだぽしゃ feat.初音ミク
+    song_alias:
+    esong_code: 4571B43
+    t_singer_master_id: '65932'
+    singer_name: いよわ
+    singer_alias:
+    available_date: '2021-12-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: あたほしや
+    singer_name_ruby: いよわ
+    song_variation:
+    - esong_code: 4571B43
+      song_name: あだぽしゃ feat.初音ミク
+      content_type: VOCALOID

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: 坂本橋
-    song_alias:
-    esong_code: 3012A16
-    t_singer_master_id: '42469'
-    singer_name: 溝渕 文
-    singer_alias:
-    available_date: '2013-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さかもとはし
-    singer_name_ruby: みそふちあや
-    song_variation:
-    - esong_code: 3012A16
-      song_name: 坂本橋
-      content_type: ''
   - song_name: 盛り場ほたる
     song_alias:
     esong_code: 3015A48
@@ -168,7 +151,7 @@ result:
     singer_alias:
     available_date: '2013-03-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂'延長戦<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さくらみつつき
@@ -315,6 +298,23 @@ result:
       content_type: ''
   - song_name: '30'
     song_alias:
+    esong_code: 2997A40
+    t_singer_master_id: '39061'
+    singer_name: Ms.OOJA
+    singer_alias:
+    available_date: '2013-03-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さてい
+    singer_name_ruby: みすおおしや
+    song_variation:
+    - esong_code: 2997A40
+      song_name: '30'
+      content_type: ''
+  - song_name: '30'
+    song_alias:
     esong_code: 3012A49
     t_singer_master_id: '39061'
     singer_name: Ms.OOJA
@@ -398,23 +398,6 @@ result:
     - esong_code: 3011A20
       song_name: THE NEW BEGINNING feat.詩音,TERRY
       content_type: ''
-  - song_name: The Never Ending Story
-    song_alias:
-    esong_code: 3005A18
-    t_singer_master_id: '43947'
-    singer_name: E-girls
-    singer_alias:
-    available_date: '2013-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: さねはえんて
-    singer_name_ruby: いかるす
-    song_variation:
-    - esong_code: 3005A18
-      song_name: The Never Ending Story
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: THE NEVER ENDING STORY 〜君に秘密を...
     song_alias:
     esong_code: 3003B12
@@ -432,6 +415,23 @@ result:
     - esong_code: 3003B12
       song_name: THE NEVER ENDING STORY 〜君に秘密を...
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: The Never Ending Story
+    song_alias:
+    esong_code: 3005A18
+    t_singer_master_id: '43947'
+    singer_name: E-girls
+    singer_alias:
+    available_date: '2013-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: さねはえんて
+    singer_name_ruby: いかるす
+    song_variation:
+    - esong_code: 3005A18
+      song_name: The Never Ending Story
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: survival dAnce 〜no no cry more〜
     song_alias:
     esong_code: 2997A2
@@ -483,23 +483,6 @@ result:
     - esong_code: 3012B12
       song_name: サマー・タイム・キラー
       content_type: ''
-  - song_name: さよなら
-    song_alias:
-    esong_code: 2999B2
-    t_singer_master_id: '39403'
-    singer_name: 久保田 泰隆
-    singer_alias:
-    available_date: '2013-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよなら
-    singer_name_ruby: くほたやすたか
-    song_variation:
-    - esong_code: 2999B2
-      song_name: さよなら
-      content_type: ''
   - song_name: サヨナラ
     song_alias:
     esong_code: 3008B16
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3008B16
       song_name: サヨナラ
+      content_type: ''
+  - song_name: さよなら
+    song_alias:
+    esong_code: 2999B2
+    t_singer_master_id: '39403'
+    singer_name: 久保田 泰隆
+    singer_alias:
+    available_date: '2013-03-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよなら
+    singer_name_ruby: くほたやすたか
+    song_variation:
+    - esong_code: 2999B2
+      song_name: さよなら
       content_type: ''

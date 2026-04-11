@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
-  - song_name: 春の淡雪
-    song_alias:
-    esong_code: 1756B41
-    t_singer_master_id: '29491'
-    singer_name: 大川 ゆり(古都さゆり)
-    singer_alias:
-    available_date: '2007-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるのあわゆき
-    singer_name_ruby: おおかわゆり
-    song_variation:
-    - esong_code: 1756B41
-      song_name: 春の淡雪
-      content_type: ''
   - song_name: 春の風
     song_alias:
     esong_code: 1763B14
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1754B13
       song_name: ひまわり
+      content_type: ''
+  - song_name: 秘蜜の花園
+    song_alias:
+    esong_code: 1757A2
+    t_singer_master_id: '691'
+    singer_name: 杏子
+    singer_alias:
+    available_date: '2007-03-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひみつのはなその
+    singer_name_ruby: きようこ
+    song_variation:
+    - esong_code: 1757A2
+      song_name: 秘蜜の花園
       content_type: ''

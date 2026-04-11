@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 545
-  all_max_cnt: 575
-  all_country_cnt: 545
+  max_cnt: 543
+  all_max_cnt: 573
+  all_country_cnt: 543
   song:
-  - song_name: etoile -星-
-    song_alias:
-    esong_code: 584B46
-    t_singer_master_id: '2128'
-    singer_name: 本田 美奈子.(本田美奈子)
-    singer_alias:
-    available_date: '2004-05-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 明日のナージャ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えといる
-    singer_name_ruby: ほんたみなこ
-    song_variation:
-    - esong_code: 584B46
-      song_name: etoile -星-
-      content_type: ''
   - song_name: Everlasting Snow
     song_alias:
     esong_code: 627B46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 82B22
       song_name: 俺の一大事〜ロック de ボン〜
+      content_type: ''
+  - song_name: 女なんてものに
+    song_alias:
+    esong_code: 381B41
+    t_singer_master_id: '1632'
+    singer_name: 中島 みゆき
+    singer_alias:
+    available_date: '2004-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんななんてものに
+    singer_name_ruby: なかしまみゆき
+    song_variation:
+    - esong_code: 381B41
+      song_name: 女なんてものに
       content_type: ''

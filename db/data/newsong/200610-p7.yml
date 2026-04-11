@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 623
-  all_max_cnt: 682
-  all_country_cnt: 623
+  max_cnt: 618
+  all_max_cnt: 678
+  all_country_cnt: 618
   song:
-  - song_name: 暦
-    song_alias:
-    esong_code: 1653B46
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2006-10-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こよみ
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 1653B46
-      song_name: 暦
-      content_type: ''
   - song_name: GO!リュウケンドー
     song_alias:
     esong_code: 1579B4
@@ -417,23 +400,6 @@ result:
       content_type: ''
   - song_name: the WORLD
     song_alias:
-    esong_code: 1649A1
-    t_singer_master_id: '16183'
-    singer_name: NIGHTMARE(ナイトメア)
-    singer_alias:
-    available_date: '2006-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: DEATH NOTE<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さわると
-    singer_name_ruby: ないとめあ
-    song_variation:
-    - esong_code: 1649A1
-      song_name: the WORLD
-      content_type: ''
-  - song_name: the WORLD
-    song_alias:
     esong_code: 1651B26
     t_singer_master_id: '16183'
     singer_name: NIGHTMARE(ナイトメア)
@@ -449,6 +415,23 @@ result:
     - esong_code: 1651B26
       song_name: the WORLD
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: the WORLD
+    song_alias:
+    esong_code: 1649A1
+    t_singer_master_id: '16183'
+    singer_name: NIGHTMARE(ナイトメア)
+    singer_alias:
+    available_date: '2006-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: DEATH NOTE<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さわると
+    singer_name_ruby: ないとめあ
+    song_variation:
+    - esong_code: 1649A1
+      song_name: the WORLD
+      content_type: ''
   - song_name: SUN-KANI
     song_alias:
     esong_code: 1660B35
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1646B31
       song_name: 三線の花
+      content_type: ''
+  - song_name: 残夢
+    song_alias:
+    esong_code: 1480A28
+    t_singer_master_id: '462'
+    singer_name: 小野 正利
+    singer_alias:
+    available_date: '2006-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 刃鳴散らす<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんむ
+    singer_name_ruby: おのまさとし
+    song_variation:
+    - esong_code: 1480A28
+      song_name: 残夢
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 999
-  all_max_cnt: 1121
-  all_country_cnt: 999
+  max_cnt: 992
+  all_max_cnt: 1112
+  all_country_cnt: 992
   song:
   - song_name: care
     song_alias:
@@ -151,7 +151,7 @@ result:
     singer_alias:
     available_date: '2009-04-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: とらドラジオ!<番組名>
+    tie_up: とらドラ!<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こいくらけ
@@ -159,23 +159,6 @@ result:
     song_variation:
     - esong_code: 2298A12
       song_name: 恋クラゲ
-      content_type: ''
-  - song_name: 恋焦がれて見た夢
-    song_alias:
-    esong_code: 2284B35
-    t_singer_master_id: '25245'
-    singer_name: 絢香
-    singer_alias:
-    available_date: '2009-04-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: クロスゲーム<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいこかれてみたゆ
-    singer_name_ruby: あやか
-    song_variation:
-    - esong_code: 2284B35
-      song_name: 恋焦がれて見た夢
       content_type: ''
   - song_name: 恋焦がれて見た夢
     song_alias:
@@ -194,6 +177,23 @@ result:
     - esong_code: 2308A21
       song_name: 恋焦がれて見た夢
       content_type: DAM生音
+  - song_name: 恋焦がれて見た夢
+    song_alias:
+    esong_code: 2284B35
+    t_singer_master_id: '25245'
+    singer_name: 絢香
+    singer_alias:
+    available_date: '2009-04-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: クロスゲーム<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいこかれてみたゆ
+    singer_name_ruby: あやか
+    song_variation:
+    - esong_code: 2284B35
+      song_name: 恋焦がれて見た夢
+      content_type: ''
   - song_name: KoIGoRoMo
     song_alias:
     esong_code: 2290A22

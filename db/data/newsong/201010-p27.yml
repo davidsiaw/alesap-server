@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
-  - song_name: Happy☆てぃんくる (テレビサイズ)
-    song_alias:
-    esong_code: 2602B2
-    t_singer_master_id: '40067'
-    singer_name: 増山 加弥乃&齋藤 彩夏&沢城 みゆき
-    singer_alias:
-    available_date: '2010-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ジュエルペット てぃんくる☆<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はつひていんくる
-    singer_name_ruby: ますやまかやのさいとうあやか
-    song_variation:
-    - esong_code: 2602B2
-      song_name: Happy☆てぃんくる (テレビサイズ)
-      content_type: ''
   - song_name: 初雪
     song_alias:
     esong_code: 2597A43
@@ -185,7 +168,7 @@ result:
     singer_alias:
     available_date: '2010-10-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真救世主伝説 北斗の拳 トキ伝<番組名>
+    tie_up: 北斗の拳<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はなもりのおか
@@ -330,23 +313,6 @@ result:
     - esong_code: 2620B13
       song_name: 浜酒場
       content_type: ''
-  - song_name: はまなす海岸 (夏木ゆたか歌謡劇場)
-    song_alias:
-    esong_code: 2606A23
-    t_singer_master_id: '824'
-    singer_name: 小金沢 昇司
-    singer_alias:
-    available_date: '2010-10-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: はまなすかいかん
-    singer_name_ruby: こかねさわしようし
-    song_variation:
-    - esong_code: 2606A23
-      song_name: はまなす海岸 (夏木ゆたか歌謡劇場)
-      content_type: DAM生音
   - song_name: はまなす海岸
     song_alias:
     esong_code: 2378A25
@@ -381,6 +347,23 @@ result:
     - esong_code: 2591B21
       song_name: はまなす海岸 「名演ギター 斉藤 功」
       content_type: ''
+  - song_name: はまなす海岸 (夏木ゆたか歌謡劇場)
+    song_alias:
+    esong_code: 2606A23
+    t_singer_master_id: '824'
+    singer_name: 小金沢 昇司
+    singer_alias:
+    available_date: '2010-10-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: はまなすかいかん
+    singer_name_ruby: こかねさわしようし
+    song_variation:
+    - esong_code: 2606A23
+      song_name: はまなす海岸 (夏木ゆたか歌謡劇場)
+      content_type: DAM生音
   - song_name: はやぶさ
     song_alias:
     esong_code: 2619B21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2618A33
       song_name: パルとパルる。
+      content_type: ''
+  - song_name: はろぅわーるど☆
+    song_alias:
+    esong_code: 2619B4
+    t_singer_master_id: '26583'
+    singer_name: 斎藤 桃子
+    singer_alias:
+    available_date: '2010-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: どきどき!たまタン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はろうわると
+    singer_name_ruby: さいとうももこ
+    song_variation:
+    - esong_code: 2619B4
+      song_name: はろぅわーるど☆
       content_type: ''

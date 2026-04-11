@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: GOOD LUCK MY WAY
-    song_alias:
-    esong_code: 2680A21
-    t_singer_master_id: '5250'
-    singer_name: L'Arc〜en〜Ciel
-    singer_alias:
-    available_date: '2011-10-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 鋼の錬金術師(劇場版)<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: くつとらつくまい
-    singer_name_ruby: らるくあんしえる
-    song_variation:
-    - esong_code: 2680A21
-      song_name: GOOD LUCK MY WAY
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: CRY CRY CRY
     song_alias:
     esong_code: 2690A14
@@ -77,6 +60,23 @@ result:
       content_type: ''
   - song_name: Green a.live
     song_alias:
+    esong_code: 2679A47
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2011-10-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くりんあらいふ
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 2679A47
+      song_name: Green a.live
+      content_type: ''
+  - song_name: Green a.live
+    song_alias:
     esong_code: 2684B16
     t_singer_master_id: '22240'
     singer_name: YUI
@@ -94,7 +94,7 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Green a.live
     song_alias:
-    esong_code: 2679A47
+    esong_code: 2680A20
     t_singer_master_id: '22240'
     singer_name: YUI
     singer_alias:
@@ -102,13 +102,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: くりんあらいふ
     singer_name_ruby: ゆい
     song_variation:
-    - esong_code: 2679A47
+    - esong_code: 2680A20
       song_name: Green a.live
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Green a.live
     song_alias:
     esong_code: 2680B23
@@ -143,23 +143,6 @@ result:
     - esong_code: 2688A1
       song_name: Green a.live
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: Green a.live
-    song_alias:
-    esong_code: 2680A20
-    t_singer_master_id: '22240'
-    singer_name: YUI
-    singer_alias:
-    available_date: '2011-10-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: くりんあらいふ
-    singer_name_ruby: ゆい
-    song_variation:
-    - esong_code: 2680A20
-      song_name: Green a.live
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: クルクルリン!
     song_alias:
     esong_code: 2695A3
@@ -213,23 +196,6 @@ result:
       content_type: ''
   - song_name: CRAZY FOR YOU
     song_alias:
-    esong_code: 2679A27
-    t_singer_master_id: '35025'
-    singer_name: Kylee
-    singer_alias:
-    available_date: '2011-10-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くれいしふおゆ
-    singer_name_ruby: かいり
-    song_variation:
-    - esong_code: 2679A27
-      song_name: CRAZY FOR YOU
-      content_type: ''
-  - song_name: CRAZY FOR YOU
-    song_alias:
     esong_code: 2695B35
     t_singer_master_id: '35025'
     singer_name: Kylee
@@ -245,6 +211,23 @@ result:
     - esong_code: 2695B35
       song_name: CRAZY FOR YOU
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: CRAZY FOR YOU
+    song_alias:
+    esong_code: 2679A27
+    t_singer_master_id: '35025'
+    singer_name: Kylee
+    singer_alias:
+    available_date: '2011-10-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くれいしふおゆ
+    singer_name_ruby: かいり
+    song_variation:
+    - esong_code: 2679A27
+      song_name: CRAZY FOR YOU
+      content_type: ''
   - song_name: くれないの丘
     song_alias:
     esong_code: 2695B22
@@ -517,3 +500,20 @@ result:
     - esong_code: 2681B41
       song_name: ケミカルエモーション feat.GUMI、鏡音リン
       content_type: VOCALOID
+  - song_name: 玄海おんな節
+    song_alias:
+    esong_code: 2681A13
+    t_singer_master_id: '43374'
+    singer_name: 香川 麻耶
+    singer_alias:
+    available_date: '2011-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けんかいおんなふ
+    singer_name_ruby: かかわまや
+    song_variation:
+    - esong_code: 2681A13
+      song_name: 玄海おんな節
+      content_type: ''

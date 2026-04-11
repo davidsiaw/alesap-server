@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1452
-  all_max_cnt: 1626
-  all_country_cnt: 1452
+  max_cnt: 1445
+  all_max_cnt: 1619
+  all_country_cnt: 1445
   song:
   - song_name: 噫呼 篠山城
     song_alias:
@@ -230,21 +230,21 @@ result:
       content_type: ''
   - song_name: 哀愁子守唄
     song_alias:
-    esong_code: 2142A13
+    esong_code: 4024B38
     t_singer_master_id: '8773'
     singer_name: 和田 青児
     singer_alias:
-    available_date: '2018-07-04'
+    available_date: '2018-07-15'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: あいしゆうこもりうた
     singer_name_ruby: わたせいし
     song_variation:
-    - esong_code: 2142A13
+    - esong_code: 4024B38
       song_name: 哀愁子守唄
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 哀愁子守唄
     song_alias:
     esong_code: 3830B3
@@ -264,40 +264,6 @@ result:
       content_type: JOY生演奏
   - song_name: 哀愁子守唄
     song_alias:
-    esong_code: 4035A14
-    t_singer_master_id: '8773'
-    singer_name: 和田 青児
-    singer_alias:
-    available_date: '2018-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あいしゆうこもりうた
-    singer_name_ruby: わたせいし
-    song_variation:
-    - esong_code: 4035A14
-      song_name: 哀愁子守唄
-      content_type: DAM生音
-  - song_name: 哀愁子守唄
-    song_alias:
-    esong_code: 4024B38
-    t_singer_master_id: '8773'
-    singer_name: 和田 青児
-    singer_alias:
-    available_date: '2018-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あいしゆうこもりうた
-    singer_name_ruby: わたせいし
-    song_variation:
-    - esong_code: 4024B38
-      song_name: 哀愁子守唄
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 哀愁子守唄
-    song_alias:
     esong_code: 1038A6
     t_singer_master_id: '8773'
     singer_name: 和田 青児
@@ -313,6 +279,23 @@ result:
     - esong_code: 1038A6
       song_name: 哀愁子守唄
       content_type: ''
+  - song_name: 哀愁子守唄
+    song_alias:
+    esong_code: 2142A13
+    t_singer_master_id: '8773'
+    singer_name: 和田 青児
+    singer_alias:
+    available_date: '2018-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいしゆうこもりうた
+    singer_name_ruby: わたせいし
+    song_variation:
+    - esong_code: 2142A13
+      song_name: 哀愁子守唄
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 哀愁別府
     song_alias:
     esong_code: 1030A10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4030A46
       song_name: アイノオカゲ
+      content_type: ''
+  - song_name: 愛の破片
+    song_alias:
+    esong_code: 4031A29
+    t_singer_master_id: '61964'
+    singer_name: 宮末 加代子
+    singer_alias:
+    available_date: '2018-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのかけら
+    singer_name_ruby: みやすえかよこ
+    song_variation:
+    - esong_code: 4031A29
+      song_name: 愛の破片
       content_type: ''

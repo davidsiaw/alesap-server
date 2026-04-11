@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1415
-  all_max_cnt: 1522
-  all_country_cnt: 1415
+  max_cnt: 1411
+  all_max_cnt: 1518
+  all_country_cnt: 1411
   song:
-  - song_name: 夢挽歌
-    song_alias:
-    esong_code: 1861A11
-    t_singer_master_id: '2095'
-    singer_name: 北条 美樹
-    singer_alias:
-    available_date: '2007-10-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめはんか
-    singer_name_ruby: ほうしようみき
-    song_variation:
-    - esong_code: 1861A11
-      song_name: 夢挽歌
-      content_type: ''
-  - song_name: 夢を見た魚
-    song_alias:
-    esong_code: 225A3
-    t_singer_master_id: '7037'
-    singer_name: UA(ううあ)
-    singer_alias:
-    available_date: '2007-10-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめをみたさかな
-    singer_name_ruby: うあ
-    song_variation:
-    - esong_code: 225A3
-      song_name: 夢を見た魚
-      content_type: ''
-  - song_name: U・Me
-    song_alias:
-    esong_code: 1888A5
-    t_singer_master_id: '31262'
-    singer_name: バニラビーンズ
-    singer_alias:
-    available_date: '2007-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ゆらふみ
-    singer_name_ruby: はにらひんす
-    song_variation:
-    - esong_code: 1888A5
-      song_name: U・Me
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 夜明けのブルース
     song_alias:
     esong_code: 1877A31
@@ -228,23 +177,6 @@ result:
     - esong_code: 1883B24
       song_name: YO!YO!しゃべってYO!
       content_type: ''
-  - song_name: よりみち
-    song_alias:
-    esong_code: 1892B5
-    t_singer_master_id: '11802'
-    singer_name: 川口 哲也
-    singer_alias:
-    available_date: '2007-10-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よりみち
-    singer_name_ruby: かわくちてつや
-    song_variation:
-    - esong_code: 1892B5
-      song_name: よりみち
-      content_type: ''
   - song_name: ヨリミチ
     song_alias:
     esong_code: 1892B8
@@ -261,6 +193,23 @@ result:
     song_variation:
     - esong_code: 1892B8
       song_name: ヨリミチ
+      content_type: ''
+  - song_name: よりみち
+    song_alias:
+    esong_code: 1892B5
+    t_singer_master_id: '11802'
+    singer_name: 川口 哲也
+    singer_alias:
+    available_date: '2007-10-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よりみち
+    singer_name_ruby: かわくちてつや
+    song_variation:
+    - esong_code: 1892B5
+      song_name: よりみち
       content_type: ''
   - song_name: 夜の新潟 二人づれ
     song_alias:
@@ -517,3 +466,54 @@ result:
     - esong_code: 1889A36
       song_name: la salle de bain
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: ラジオ体操の歌
+    song_alias:
+    esong_code: 1892A37
+    t_singer_master_id: '31453'
+    singer_name: 藤山 一郎&コロムビア合唱團
+    singer_alias:
+    available_date: '2007-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らしおたいそうのう
+    singer_name_ruby: ふしやまいちろうころむひあ
+    song_variation:
+    - esong_code: 1892A37
+      song_name: ラジオ体操の歌
+      content_type: ''
+  - song_name: ラスト・シーン
+    song_alias:
+    esong_code: 1889A49
+    t_singer_master_id: '2445'
+    singer_name: 矢沢 永吉
+    singer_alias:
+    available_date: '2007-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: らすとしん
+    singer_name_ruby: やさわえいきち
+    song_variation:
+    - esong_code: 1889A49
+      song_name: ラスト・シーン
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: LAST SONG
+    song_alias:
+    esong_code: 1887B20
+    t_singer_master_id: '2740'
+    singer_name: SOFT BALLET
+    singer_alias:
+    available_date: '2007-10-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らすとそんく
+    singer_name_ruby: そふとはれえ
+    song_variation:
+    - esong_code: 1887B20
+      song_name: LAST SONG
+      content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: さよならサハリン
-    song_alias:
-    esong_code: 3207B22
-    t_singer_master_id: '6362'
-    singer_name: ザ・ジェノバ
-    singer_alias:
-    available_date: '2014-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならさはりん
-    singer_name_ruby: さしえのは
-    song_variation:
-    - esong_code: 3207B22
-      song_name: さよならサハリン
-      content_type: ''
   - song_name: さよなら僕のタピオカ
     song_alias:
     esong_code: 3206B47
@@ -128,23 +111,6 @@ result:
       content_type: ''
   - song_name: The One
     song_alias:
-    esong_code: 3202B6
-    t_singer_master_id: '49994'
-    singer_name: FAKY
-    singer_alias:
-    available_date: '2014-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さわん
-    singer_name_ruby: ふえいき
-    song_variation:
-    - esong_code: 3202B6
-      song_name: The One
-      content_type: ''
-  - song_name: The One
-    song_alias:
     esong_code: 3179A7
     t_singer_master_id: '20609'
     singer_name: 加藤 ミリヤ
@@ -158,6 +124,23 @@ result:
     singer_name_ruby: かとうみりや
     song_variation:
     - esong_code: 3179A7
+      song_name: The One
+      content_type: ''
+  - song_name: The One
+    song_alias:
+    esong_code: 3202B6
+    t_singer_master_id: '49994'
+    singer_name: FAKY
+    singer_alias:
+    available_date: '2014-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さわん
+    singer_name_ruby: ふえいき
+    song_variation:
+    - esong_code: 3202B6
       song_name: The One
       content_type: ''
   - song_name: サントリーゴールド900 (ソクラテスの唄)
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3199A18
       song_name: 時代
+      content_type: ''
+  - song_name: 舌打ち
+    song_alias:
+    esong_code: 3207A7
+    t_singer_master_id: '8782'
+    singer_name: aiko
+    singer_alias:
+    available_date: '2014-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: したうち
+    singer_name_ruby: あいこ
+    song_variation:
+    - esong_code: 3207A7
+      song_name: 舌打ち
       content_type: ''

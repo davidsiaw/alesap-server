@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1176
-  all_max_cnt: 1313
-  all_country_cnt: 1176
+  max_cnt: 1175
+  all_max_cnt: 1312
+  all_country_cnt: 1175
   song:
-  - song_name: 東京ベイサイド (デュエット バージョン)
-    song_alias:
-    esong_code: 2505A30
-    t_singer_master_id: '39328'
-    singer_name: あきと&あつこ
-    singer_alias:
-    available_date: '2013-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきようへいさい
-    singer_name_ruby: あきとあんとあつこあつこ
-    song_variation:
-    - esong_code: 2505A30
-      song_name: 東京ベイサイド (デュエット バージョン)
-      content_type: ''
-  - song_name: 東京レトロ feat.初音ミク
-    song_alias:
-    esong_code: 3090A24
-    t_singer_master_id: '40271'
-    singer_name: すこっぷ
-    singer_alias:
-    available_date: '2013-08-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: とうきようれとろ
-    singer_name_ruby: すこつふ
-    song_variation:
-    - esong_code: 3090A24
-      song_name: 東京レトロ feat.初音ミク
-      content_type: VOCALOID
   - song_name: どうしたらいいの
     song_alias:
     esong_code: 3085B14
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3099B16
       song_name: ドラゴンスマイル
+      content_type: ''
+  - song_name: TRAP×TRAP feat.初音ミク
+    song_alias:
+    esong_code: 3096B45
+    t_singer_master_id: '45790'
+    singer_name: 八王子P
+    singer_alias:
+    available_date: '2013-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: とらつふとらつふ
+    singer_name_ruby: はちおうしひ
+    song_variation:
+    - esong_code: 3096B45
+      song_name: TRAP×TRAP feat.初音ミク
+      content_type: VOCALOID
+  - song_name: dreaming of love
+    song_alias:
+    esong_code: 1112A43
+    t_singer_master_id: '10605'
+    singer_name: GARNET CROW
+    singer_alias:
+    available_date: '2013-08-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりみんくおふ
+    singer_name_ruby: かねつとくろう
+    song_variation:
+    - esong_code: 1112A43
+      song_name: dreaming of love
       content_type: ''

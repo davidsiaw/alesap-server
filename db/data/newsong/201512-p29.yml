@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
-  - song_name: ナンバー7
-    song_alias:
-    esong_code: 3562B49
-    t_singer_master_id: '54881'
-    singer_name: ハウリングアンプリファー
-    singer_alias:
-    available_date: '2015-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なんはせふん
-    singer_name_ruby: はうりんくあんふりふあ
-    song_variation:
-    - esong_code: 3562B49
-      song_name: ナンバー7
-      content_type: ''
   - song_name: No.1
     song_alias:
     esong_code: 3567A8
@@ -104,7 +87,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: にきにきわんた
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3574B27
       song_name: NIGI2 WONDERLAND
@@ -517,3 +500,20 @@ result:
     - esong_code: 3562A16
       song_name: ネズミーランド
       content_type: ''
+  - song_name: ネトゲ廃人シュプレヒコール
+    song_alias:
+    esong_code: 3564A27
+    t_singer_master_id: '42722'
+    singer_name: さつき が てんこもり
+    singer_alias:
+    available_date: '2015-12-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ねとけはいしんし
+    singer_name_ruby: さつきかてんこもり
+    song_variation:
+    - esong_code: 3564A27
+      song_name: ネトゲ廃人シュプレヒコール
+      content_type: VOCALOID

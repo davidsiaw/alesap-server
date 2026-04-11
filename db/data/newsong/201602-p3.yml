@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1236
-  all_max_cnt: 1361
-  all_country_cnt: 1236
+  max_cnt: 1230
+  all_max_cnt: 1355
+  all_country_cnt: 1230
   song:
   - song_name: あるギタリストの恋
     song_alias:
@@ -145,23 +145,6 @@ result:
       content_type: ''
   - song_name: Un-science
     song_alias:
-    esong_code: 3591A7
-    t_singer_master_id: '52163'
-    singer_name: SHE'S
-    singer_alias:
-    available_date: '2016-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんさいえんす
-    singer_name_ruby: しす
-    song_variation:
-    - esong_code: 3591A7
-      song_name: Un-science
-      content_type: ''
-  - song_name: Un-science
-    song_alias:
     esong_code: 3597A27
     t_singer_master_id: '52163'
     singer_name: SHE'S
@@ -177,6 +160,23 @@ result:
     - esong_code: 3597A27
       song_name: Un-science
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Un-science
+    song_alias:
+    esong_code: 3591A7
+    t_singer_master_id: '52163'
+    singer_name: SHE'S
+    singer_alias:
+    available_date: '2016-02-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんさいえんす
+    singer_name_ruby: しす
+    song_variation:
+    - esong_code: 3591A7
+      song_name: Un-science
+      content_type: ''
   - song_name: 安息
     song_alias:
     esong_code: 3598A1
@@ -315,23 +315,6 @@ result:
       content_type: ''
   - song_name: いけないボーダーライン
     song_alias:
-    esong_code: 3590B40
-    t_singer_master_id: '55274'
-    singer_name: ワルキューレ
-    singer_alias:
-    available_date: '2016-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: マクロスΔ(デルタ)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いけないほた
-    singer_name_ruby: わるきゆれ
-    song_variation:
-    - esong_code: 3590B40
-      song_name: いけないボーダーライン
-      content_type: ''
-  - song_name: いけないボーダーライン
-    song_alias:
     esong_code: 3589B20
     t_singer_master_id: '55274'
     singer_name: ワルキューレ
@@ -345,6 +328,23 @@ result:
     singer_name_ruby: わるきゆれ
     song_variation:
     - esong_code: 3589B20
+      song_name: いけないボーダーライン
+      content_type: ''
+  - song_name: いけないボーダーライン
+    song_alias:
+    esong_code: 3590B40
+    t_singer_master_id: '55274'
+    singer_name: ワルキューレ
+    singer_alias:
+    available_date: '2016-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: マクロスΔ(デルタ)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いけないほた
+    singer_name_ruby: わるきゆれ
+    song_variation:
+    - esong_code: 3590B40
       song_name: いけないボーダーライン
       content_type: ''
   - song_name: 石垣

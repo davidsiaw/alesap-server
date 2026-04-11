@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1477
-  all_max_cnt: 1665
-  all_country_cnt: 1477
+  max_cnt: 1474
+  all_max_cnt: 1662
+  all_country_cnt: 1474
   song:
   - song_name: あの娘たずねて
     song_alias:
@@ -432,6 +432,23 @@ result:
     - esong_code: 3359A11
       song_name: 嵐の夜に
       content_type: ''
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 3299A39
+    t_singer_master_id: '50864'
+    singer_name: MACO
+    singer_alias:
+    available_date: '2014-11-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: まこ
+    song_variation:
+    - esong_code: 3299A39
+      song_name: ありがとう
+      content_type: ''
   - song_name: ありがとう〜愛の歌
     song_alias:
     esong_code: 3349B35
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3355A22
       song_name: 歩いてゆけ
-      content_type: ''
-  - song_name: RDD
-    song_alias:
-    esong_code: 3355B20
-    t_singer_master_id: '51383'
-    singer_name: KRASTERⅡ×Ne;on Otonashi
-    singer_alias:
-    available_date: '2014-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるていてい
-    singer_name_ruby: くらすたつねおんおとなし
-    song_variation:
-    - esong_code: 3355B20
-      song_name: RDD
       content_type: ''

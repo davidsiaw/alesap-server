@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
+  - song_name: トーキョーロスト
+    song_alias:
+    esong_code: 3503B14
+    t_singer_master_id: '13923'
+    singer_name: MO'SOME TONEBENDER
+    singer_alias:
+    available_date: '2015-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ときよろすと
+    singer_name_ruby: もさむとんへんた
+    song_variation:
+    - esong_code: 3503B14
+      song_name: トーキョーロスト
+      content_type: ''
   - song_name: 毒ガスと花束
     song_alias:
     esong_code: 3490B3
@@ -117,7 +134,7 @@ result:
     singer_alias:
     available_date: '2015-09-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とらいとうていくみ
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3489A24
       song_name: 長良川鵜情
-      content_type: ''
-  - song_name: 流れ雲
-    song_alias:
-    esong_code: 3500B23
-    t_singer_master_id: '32140'
-    singer_name: 大須賀 純
-    singer_alias:
-    available_date: '2015-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 新テニスの王子様<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: なかれくも
-    singer_name_ruby: おおすかしゆん
-    song_variation:
-    - esong_code: 3500B23
-      song_name: 流れ雲
       content_type: ''

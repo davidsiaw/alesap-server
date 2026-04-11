@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
   - song_name: KiRa-KiRa Sensation!
     song_alias:
@@ -398,6 +398,23 @@ result:
     - esong_code: 3282A27
       song_name: クラウドライダー feat.IA
       content_type: VOCALOID
+  - song_name: CRUSH
+    song_alias:
+    esong_code: 3281B2
+    t_singer_master_id: '40705'
+    singer_name: 2NE1
+    singer_alias:
+    available_date: '2014-07-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらつしゆ
+    singer_name_ruby: とうえにいわん
+    song_variation:
+    - esong_code: 3281B2
+      song_name: CRUSH
+      content_type: ''
   - song_name: Crush
     song_alias:
     esong_code: 3277B44
@@ -431,23 +448,6 @@ result:
     song_variation:
     - esong_code: 2206A23
       song_name: クラッシュ feat.PAPA B&RYO the SKYWALKER
-      content_type: ''
-  - song_name: CRUSH
-    song_alias:
-    esong_code: 3281B2
-    t_singer_master_id: '40705'
-    singer_name: 2NE1
-    singer_alias:
-    available_date: '2014-07-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらつしゆ
-    singer_name_ruby: とうえにいわん
-    song_variation:
-    - esong_code: 3281B2
-      song_name: CRUSH
       content_type: ''
   - song_name: クラブエアリーへようこそ
     song_alias:

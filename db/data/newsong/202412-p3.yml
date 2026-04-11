@@ -3,10 +3,78 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1109
-  all_max_cnt: 1246
-  all_country_cnt: 1109
+  max_cnt: 1231
+  all_max_cnt: 1429
+  all_country_cnt: 1231
   song:
+  - song_name: 有明の月
+    song_alias:
+    esong_code: 5081B9
+    t_singer_master_id: '12457'
+    singer_name: 小桜 舞子(小櫻舞子)
+    singer_alias:
+    available_date: '2024-12-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありあけのつき
+    singer_name_ruby: こさくらまいこ
+    song_variation:
+    - esong_code: 5081B9
+      song_name: 有明の月
+      content_type: ''
+  - song_name: 有明の月
+    song_alias:
+    esong_code: 5081B10
+    t_singer_master_id: '12457'
+    singer_name: 小桜 舞子(小櫻舞子)
+    singer_alias:
+    available_date: '2024-12-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ありあけのつき
+    singer_name_ruby: こさくらまいこ
+    song_variation:
+    - esong_code: 5081B10
+      song_name: 有明の月
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 有明の月
+    song_alias:
+    esong_code: 5085B20
+    t_singer_master_id: '12457'
+    singer_name: 小桜 舞子(小櫻舞子)
+    singer_alias:
+    available_date: '2024-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ありあけのつき
+    singer_name_ruby: こさくらまいこ
+    song_variation:
+    - esong_code: 5085B20
+      song_name: 有明の月
+      content_type: DAM生音
+  - song_name: アリとキリギリスとカマキリと×××
+    song_alias:
+    esong_code: 5075A34
+    t_singer_master_id: '66465'
+    singer_name: じょるじん
+    singer_alias:
+    available_date: '2024-12-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ありときりきりすと
+    singer_name_ruby: しよるしん
+    song_variation:
+    - esong_code: 5075A34
+      song_name: アリとキリギリスとカマキリと×××
+      content_type: VOCALOID
   - song_name: あるく
     song_alias:
     esong_code: 5075B28
@@ -91,6 +159,23 @@ result:
     song_variation:
     - esong_code: 5086A3
       song_name: Answer (English ver.)
+      content_type: ''
+  - song_name: ANSWERS (ACT2! 〜SPRING 2022〜 ALL CAST Ver.)
+    song_alias:
+    esong_code: 5089A5
+    t_singer_master_id: '69769'
+    singer_name: MANKAI STAGE 「A3!」 ACT2! -SPRING 2022- オールキャスト
+    singer_alias:
+    available_date: '2024-12-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: MANKAI STAGE『A3!』<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんさすあくとつ
+    singer_name_ruby: まんかいすてしえすりあくとつす
+    song_variation:
+    - esong_code: 5089A5
+      song_name: ANSWERS (ACT2! 〜SPRING 2022〜 ALL CAST Ver.)
       content_type: ''
   - song_name: アンダーコントロール
     song_alias:
@@ -228,23 +313,23 @@ result:
     - esong_code: 5074A43
       song_name: umbrella
       content_type: VOCALOID
-  - song_name: 許婚っきゅん
+  - song_name: いい天気
     song_alias:
-    esong_code: 5074B45
-    t_singer_master_id: '69509'
-    singer_name: ano
+    esong_code: 5088B47
+    t_singer_master_id: '1769'
+    singer_name: 萩原 健一
     singer_alias:
-    available_date: '2024-12-13'
+    available_date: '2024-12-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: らんま1/2<番組名>
+    tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: いいなすつきゆん
-    singer_name_ruby: あの
+    content_type:
+    song_name_ruby: いいてんき
+    singer_name_ruby: はきわらけんいち
     song_variation:
-    - esong_code: 5074B45
-      song_name: 許婚っきゅん
-      content_type: JOYﾎﾞｰｶﾙ
+    - esong_code: 5088B47
+      song_name: いい天気
+      content_type: ''
   - song_name: 許婚っきゅん [JOYサビカラ]
     song_alias:
     esong_code: 5084B14
@@ -262,23 +347,40 @@ result:
     - esong_code: 5084B14
       song_name: 許婚っきゅん [JOYサビカラ]
       content_type: ''
-  - song_name: eek!!
+  - song_name: 許婚っきゅん
     song_alias:
-    esong_code: 5075B48
-    t_singer_master_id: '31487'
-    singer_name: Hey!Say!JUMP
+    esong_code: 5074B45
+    t_singer_master_id: '69509'
+    singer_name: ano
     singer_alias:
-    available_date: '2024-12-10'
+    available_date: '2024-12-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: らんま1/2<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: いいなすつきゆん
+    singer_name_ruby: あの
+    song_variation:
+    - esong_code: 5074B45
+      song_name: 許婚っきゅん
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 生きる。 (feat.IO)
+    song_alias:
+    esong_code: 5076B30
+    t_singer_master_id: '74971'
+    singer_name: Watson
+    singer_alias:
+    available_date: '2024-12-03'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: いく
-    singer_name_ruby: へいせいしやんふ
+    content_type: DAM生音
+    song_name_ruby: いきる
+    singer_name_ruby: わとそん
     song_variation:
-    - esong_code: 5075B48
-      song_name: eek!!
-      content_type: JOYｸﾘｯﾌﾟ
+    - esong_code: 5076B30
+      song_name: 生きる。 (feat.IO)
+      content_type: DAM生音
   - song_name: eek!!
     song_alias:
     esong_code: 5085B4
@@ -418,108 +520,3 @@ result:
     - esong_code: 5070B10
       song_name: 一輪華 [オリジナルクリップ]
       content_type: パセラ限定クリップ
-  - song_name: 一輪華 [オリジナルクリップ]
-    song_alias:
-    esong_code: 5070B10
-    t_singer_master_id: '75368'
-    singer_name: Entertainment Live Stage SEPT
-    singer_alias:
-    available_date: '2024-12-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: パセラ限定クリップ
-    song_name_ruby: いちりんか
-    singer_name_ruby: えんたていんめんとらいふすてしせ
-    song_variation:
-    - esong_code: 5070B10
-      song_name: 一輪華 [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 5070B10
-      song_name: 一輪華 [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: いつかサヨナラ
-    song_alias:
-    esong_code: 5083B38
-    t_singer_master_id: '53594'
-    singer_name: Sakurashimeji
-    singer_alias:
-    available_date: '2024-12-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつかさよなら
-    singer_name_ruby: さくらしめし
-    song_variation:
-    - esong_code: 5083B38
-      song_name: いつかサヨナラ
-      content_type: ''
-  - song_name: いっしょにプレイパーク
-    song_alias:
-    esong_code: 5074B4
-    t_singer_master_id: '53840'
-    singer_name: ひろみち&たにぞう
-    singer_alias:
-    available_date: '2024-12-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつしよにふれいは
-    singer_name_ruby: ひろみちあんとたにそう
-    song_variation:
-    - esong_code: 5074B4
-      song_name: いっしょにプレイパーク
-      content_type: ''
-  - song_name: 一世風靡
-    song_alias:
-    esong_code: 5088A5
-    t_singer_master_id: '75566'
-    singer_name: 花譜×星街 すいせい
-    singer_alias:
-    available_date: '2024-12-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつせいふうひ
-    singer_name_ruby: かふほしまちすいせい
-    song_variation:
-    - esong_code: 5088A5
-      song_name: 一世風靡
-      content_type: ''
-  - song_name: 一旦ステイ TONIGHT
-    song_alias:
-    esong_code: 5087B27
-    t_singer_master_id: '69635'
-    singer_name: 不破 湊(from にじさんじ)
-    singer_alias:
-    available_date: '2024-12-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: いつたんすていとうな
-    singer_name_ruby: ふわみなとにしさんし
-    song_variation:
-    - esong_code: 5087B27
-      song_name: 一旦ステイ TONIGHT
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 言っとくけど、この感情は恋じゃないからっ!
-    song_alias:
-    esong_code: 5080A25
-    t_singer_master_id: '75446'
-    singer_name: 点染テンセイ少女。
-    singer_alias:
-    available_date: '2024-12-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつとくけとこのか
-    singer_name_ruby: てんせんてんせいしようしよ
-    song_variation:
-    - esong_code: 5080A25
-      song_name: 言っとくけど、この感情は恋じゃないからっ!
-      content_type: ''

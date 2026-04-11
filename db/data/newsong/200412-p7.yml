@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 792
-  all_max_cnt: 839
-  all_country_cnt: 792
+  max_cnt: 788
+  all_max_cnt: 835
+  all_country_cnt: 788
   song:
   - song_name: キン肉マン音頭
     song_alias:
@@ -185,7 +185,7 @@ result:
     singer_alias:
     available_date: '2004-12-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・リバース<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: くつとないと
@@ -347,23 +347,6 @@ result:
     - esong_code: 948A49
       song_name: CRAZY FORTUNE
       content_type: ''
-  - song_name: CRAVIN’
-    song_alias:
-    esong_code: 979A41
-    t_singer_master_id: '20714'
-    singer_name: JUJU
-    singer_alias:
-    available_date: '2004-12-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くれいひん
-    singer_name_ruby: しゆしゆ
-    song_variation:
-    - esong_code: 979A41
-      song_name: CRAVIN’
-      content_type: ''
   - song_name: CRAVIN'
     song_alias:
     esong_code: 1041B29
@@ -381,6 +364,23 @@ result:
     - esong_code: 1041B29
       song_name: CRAVIN'
       content_type: DAM良音
+  - song_name: CRAVIN’
+    song_alias:
+    esong_code: 979A41
+    t_singer_master_id: '20714'
+    singer_name: JUJU
+    singer_alias:
+    available_date: '2004-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くれいひん
+    singer_name_ruby: しゆしゆ
+    song_variation:
+    - esong_code: 979A41
+      song_name: CRAVIN’
+      content_type: ''
   - song_name: くれない桜
     song_alias:
     esong_code: 970B42

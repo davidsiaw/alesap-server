@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
   - song_name: PLACE (Instrumental)
     song_alias:
@@ -179,23 +179,6 @@ result:
       content_type: ''
   - song_name: Best Friend
     song_alias:
-    esong_code: 2490B4
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2010-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: へすとふれんと
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 2490B4
-      song_name: Best Friend
-      content_type: DAM良音
-  - song_name: Best Friend
-    song_alias:
     esong_code: 2480B28
     t_singer_master_id: '32267'
     singer_name: 西野 カナ
@@ -211,6 +194,23 @@ result:
     - esong_code: 2480B28
       song_name: Best Friend
       content_type: ''
+  - song_name: Best Friend
+    song_alias:
+    esong_code: 2490B4
+    t_singer_master_id: '32267'
+    singer_name: 西野 カナ
+    singer_alias:
+    available_date: '2010-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: へすとふれんと
+    singer_name_ruby: にしのかな
+    song_variation:
+    - esong_code: 2490B4
+      song_name: Best Friend
+      content_type: DAM良音
   - song_name: 紅一輪
     song_alias:
     esong_code: 2464A20
@@ -349,23 +349,6 @@ result:
       content_type: VOCALOID
   - song_name: 宝来船祭り
     song_alias:
-    esong_code: 2464A23
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2010-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ほうらいふなまつり
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 2464A23
-      song_name: 宝来船祭り
-      content_type: DAM生音
-  - song_name: 宝来船祭り
-    song_alias:
     esong_code: 2461B23
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -381,6 +364,23 @@ result:
     - esong_code: 2461B23
       song_name: 宝来船祭り
       content_type: ''
+  - song_name: 宝来船祭り
+    song_alias:
+    esong_code: 2464A23
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2010-02-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ほうらいふなまつり
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 2464A23
+      song_name: 宝来船祭り
+      content_type: DAM生音
   - song_name: When You Wish Upon A Star (Album ver.)
     song_alias:
     esong_code: 2469B14

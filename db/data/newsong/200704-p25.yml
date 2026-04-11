@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
-  - song_name: 泪橋
-    song_alias:
-    esong_code: 1743A39
-    t_singer_master_id: '29304'
-    singer_name: みやま 健二(美山健二)
-    singer_alias:
-    available_date: '2007-04-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみたはし
-    singer_name_ruby: みやまけんし
-    song_variation:
-    - esong_code: 1743A39
-      song_name: 泪橋
-      content_type: ''
   - song_name: nonsense
     song_alias:
     esong_code: 1754B26
@@ -117,7 +100,7 @@ result:
     singer_alias:
     available_date: '2007-04-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 君のぞらじお (ラジオ版)<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: にちしようくらつし
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1771B43
       song_name: ハイウェイの孤独
+      content_type: ''
+  - song_name: ハイウェイ・バス
+    song_alias:
+    esong_code: 1772A31
+    t_singer_master_id: '14422'
+    singer_name: 結城 和也
+    singer_alias:
+    available_date: '2007-04-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はいうえいはす
+    singer_name_ruby: ゆうきかすや
+    song_variation:
+    - esong_code: 1772A31
+      song_name: ハイウェイ・バス
       content_type: ''

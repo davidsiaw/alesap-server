@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: FRiDAY-MA-MAGiC
-    song_alias:
-    esong_code: 2695B29
-    t_singer_master_id: '39020'
-    singer_name: miwa
-    singer_alias:
-    available_date: '2011-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ふらいていままし
-    singer_name_ruby: みわ
-    song_variation:
-    - esong_code: 2695B29
-      song_name: FRiDAY-MA-MAGiC
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: FRiDAY-MA-MAGiC
-    song_alias:
-    esong_code: 2684B14
-    t_singer_master_id: '39020'
-    singer_name: miwa
-    singer_alias:
-    available_date: '2011-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ふらいていままし
-    singer_name_ruby: みわ
-    song_variation:
-    - esong_code: 2684B14
-      song_name: FRiDAY-MA-MAGiC
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: ブライドリーマー
     song_alias:
     esong_code: 2682B9
@@ -474,7 +440,7 @@ result:
     singer_alias:
     available_date: '2011-10-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ エクシリア<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: ふろくれす
@@ -517,3 +483,37 @@ result:
     - esong_code: 2683B23
       song_name: Floating Shelter feat.初音ミク
       content_type: VOCALOID
+  - song_name: promise
+    song_alias:
+    esong_code: 2692B2
+    t_singer_master_id: '41467'
+    singer_name: A.N.JELL
+    singer_alias:
+    available_date: '2011-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろみす
+    singer_name_ruby: えいえんしえる
+    song_variation:
+    - esong_code: 2692B2
+      song_name: promise
+      content_type: ''
+  - song_name: Promise 〜君を守るよ〜
+    song_alias:
+    esong_code: 2676B39
+    t_singer_master_id: '43329'
+    singer_name: 小林 沙苗×とく
+    singer_alias:
+    available_date: '2011-10-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 聖闘士星矢 THE LOST CANVAS 冥王神話<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろみすきみをまも
+    singer_name_ruby: こはやしさなえとく
+    song_variation:
+    - esong_code: 2676B39
+      song_name: Promise 〜君を守るよ〜
+      content_type: ''

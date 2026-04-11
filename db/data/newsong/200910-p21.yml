@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: 泥だらけのHERO
-    song_alias:
-    esong_code: 2415A25
-    t_singer_master_id: '26761'
-    singer_name: キマグレン
-    singer_alias:
-    available_date: '2009-10-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とろたらけのひ
-    singer_name_ruby: きまくれん
-    song_variation:
-    - esong_code: 2415A25
-      song_name: 泥だらけのHERO
-      content_type: ''
   - song_name: Droplets
     song_alias:
     esong_code: 2404A26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2414A24
       song_name: Number 2 Heaven (全英語詞)
+      content_type: ''
+  - song_name: 虹 (Album Version)
+    song_alias:
+    esong_code: 2405A19
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2009-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にし
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 2405A19
+      song_name: 虹 (Album Version)
       content_type: ''

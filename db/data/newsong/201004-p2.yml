@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 907
-  all_max_cnt: 998
-  all_country_cnt: 907
+  max_cnt: 898
+  all_max_cnt: 989
+  all_country_cnt: 898
   song:
   - song_name: あの頃からのラブレター
     song_alias:
@@ -43,23 +43,6 @@ result:
       content_type: ''
   - song_name: あの日の君を恋うる歌
     song_alias:
-    esong_code: 2507B22
-    t_singer_master_id: '360'
-    singer_name: 大川 栄策
-    singer_alias:
-    available_date: '2010-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あのひのきみをこいう
-    singer_name_ruby: おおかわえいさく
-    song_variation:
-    - esong_code: 2507B22
-      song_name: あの日の君を恋うる歌
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: あの日の君を恋うる歌
-    song_alias:
     esong_code: 2540A22
     t_singer_master_id: '360'
     singer_name: 大川 栄策
@@ -75,6 +58,23 @@ result:
     - esong_code: 2540A22
       song_name: あの日の君を恋うる歌
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: あの日の君を恋うる歌
+    song_alias:
+    esong_code: 2507B22
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2010-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あのひのきみをこいう
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 2507B22
+      song_name: あの日の君を恋うる歌
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: あの菩提樹の下へ
     song_alias:
     esong_code: 2501B27
@@ -330,23 +330,6 @@ result:
     - esong_code: 2509B6
       song_name: E・O
       content_type: ''
-  - song_name: いきものがかりメドレー3
-    song_alias:
-    esong_code: 2508A46
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2010-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いきものかかりめと
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 2508A46
-      song_name: いきものがかりメドレー3
-      content_type: ''
   - song_name: いきものがかりメドレー 〜2008 Vol.2〜
     song_alias:
     esong_code: 2528A40
@@ -363,6 +346,23 @@ result:
     song_variation:
     - esong_code: 2528A40
       song_name: いきものがかりメドレー 〜2008 Vol.2〜
+      content_type: ''
+  - song_name: いきものがかりメドレー3
+    song_alias:
+    esong_code: 2508A46
+    t_singer_master_id: '25694'
+    singer_name: いきものがかり
+    singer_alias:
+    available_date: '2010-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いきものかかりめと
+    singer_name_ruby: いきものかかり
+    song_variation:
+    - esong_code: 2508A46
+      song_name: いきものがかりメドレー3
       content_type: ''
   - song_name: 幾那由他の砂に成る
     song_alias:

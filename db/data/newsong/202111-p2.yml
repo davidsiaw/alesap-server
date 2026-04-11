@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 999
-  all_max_cnt: 1083
-  all_country_cnt: 999
+  max_cnt: 985
+  all_max_cnt: 1069
+  all_country_cnt: 985
   song:
   - song_name: 荒川峡から 「名演ギター 斉藤 功」
     song_alias:
@@ -202,7 +202,7 @@ result:
     singer_alias:
     available_date: '2021-11-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ ルミナリア<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: あんさ
@@ -381,23 +381,6 @@ result:
     - esong_code: 4561B35
       song_name: Is it Pain,Love or Death?
       content_type: ''
-  - song_name: I-T-A-Z-U-R-A
-    song_alias:
-    esong_code: 4568B35
-    t_singer_master_id: '16005'
-    singer_name: スキマスイッチ
-    singer_alias:
-    available_date: '2021-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いたすら
-    singer_name_ruby: すきますいつち
-    song_variation:
-    - esong_code: 4568B35
-      song_name: I-T-A-Z-U-R-A
-      content_type: ''
   - song_name: 113号室
     song_alias:
     esong_code: 4567A18
@@ -468,23 +451,6 @@ result:
       content_type: ''
   - song_name: 一匹狼
     song_alias:
-    esong_code: 4563B20
-    t_singer_master_id: '12446'
-    singer_name: 千葉 げん太
-    singer_alias:
-    available_date: '2021-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: いつひきおおかみ
-    singer_name_ruby: ちはけんた
-    song_variation:
-    - esong_code: 4563B20
-      song_name: 一匹狼
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 一匹狼
-    song_alias:
     esong_code: 4441A8
     t_singer_master_id: '12446'
     singer_name: 千葉 げん太
@@ -502,6 +468,23 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 一匹狼
     song_alias:
+    esong_code: 4563B20
+    t_singer_master_id: '12446'
+    singer_name: 千葉 げん太
+    singer_alias:
+    available_date: '2021-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: いつひきおおかみ
+    singer_name_ruby: ちはけんた
+    song_variation:
+    - esong_code: 4563B20
+      song_name: 一匹狼
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 一匹狼
+    song_alias:
     esong_code: 4562A32
     t_singer_master_id: '12446'
     singer_name: 千葉 げん太
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4562A32
       song_name: 一匹狼
+      content_type: ''
+  - song_name: イーティー
+    song_alias:
+    esong_code: 4569B28
+    t_singer_master_id: '23642'
+    singer_name: UVERworld
+    singer_alias:
+    available_date: '2021-11-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いてい
+    singer_name_ruby: うはわると
+    song_variation:
+    - esong_code: 4569B28
+      song_name: イーティー
       content_type: ''

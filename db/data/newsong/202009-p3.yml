@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 898
-  all_max_cnt: 987
-  all_country_cnt: 898
+  max_cnt: 892
+  all_max_cnt: 981
+  all_country_cnt: 892
   song:
+  - song_name: 伊吹おろし
+    song_alias:
+    esong_code: 4301A1
+    t_singer_master_id: '19053'
+    singer_name: 森山 愛子
+    singer_alias:
+    available_date: '2020-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: いふきおろし
+    singer_name_ruby: もりやまあいこ
+    song_variation:
+    - esong_code: 4301A1
+      song_name: 伊吹おろし
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 伊吹おろし
     song_alias:
     esong_code: 4421B35
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 4420A20
       song_name: 笑顔の花が咲くように
-      content_type: ''
-  - song_name: S
-    song_alias:
-    esong_code: 4428B6
-    t_singer_master_id: '66494'
-    singer_name: 刀剣男士 formation of 葵咲
-    singer_alias:
-    available_date: '2020-09-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 刀剣乱舞(ミュージカル)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えす
-    singer_name_ruby: とうけんたんしふおめしよんおふき
-    song_variation:
-    - esong_code: 4428B6
-      song_name: S
       content_type: ''

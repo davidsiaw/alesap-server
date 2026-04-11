@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 958
-  all_max_cnt: 1067
-  all_country_cnt: 958
+  max_cnt: 953
+  all_max_cnt: 1062
+  all_country_cnt: 953
   song:
-  - song_name: IF:この世界で
-    song_alias:
-    esong_code: 2326A16
-    t_singer_master_id: '16765'
-    singer_name: CooRie
-    singer_alias:
-    available_date: '2009-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: D.C.I.F.〜ダ・カーポ〜イノセントフィナーレ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いふこのせかいて
-    singer_name_ruby: くりえ
-    song_variation:
-    - esong_code: 2326A16
-      song_name: IF:この世界で
-      content_type: ''
   - song_name: 色褪せないあの空へ
     song_alias:
     esong_code: 2360A10
@@ -517,3 +500,20 @@ result:
     - esong_code: 2284A29
       song_name: エビデイ
       content_type: ''
+  - song_name: Everything
+    song_alias:
+    esong_code: 2354B9
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2009-07-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: えふりしんく
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 2354B9
+      song_name: Everything
+      content_type: DAM生音

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1571
-  all_max_cnt: 1703
-  all_country_cnt: 1571
+  max_cnt: 1566
+  all_max_cnt: 1698
+  all_country_cnt: 1566
   song:
-  - song_name: 吉都線
-    song_alias:
-    esong_code: 2169A18
-    t_singer_master_id: '22222'
-    singer_name: 大谷 龍一郎
-    singer_alias:
-    available_date: '2011-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きつとせん
-    singer_name_ruby: おおたにりゆういちろう
-    song_variation:
-    - esong_code: 2169A18
-      song_name: 吉都線
-      content_type: ''
-  - song_name: 昨日、今日そして明日
-    song_alias:
-    esong_code: 845A44
-    t_singer_master_id: '278'
-    singer_name: ウインズ平阪(ウインズ(WINDS))
-    singer_alias:
-    available_date: '2011-07-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きのうきようそしてあ
-    singer_name_ruby: ういんすひらさか
-    song_variation:
-    - esong_code: 845A44
-      song_name: 昨日、今日そして明日
-      content_type: ''
   - song_name: 紀の川恋しぐれ
     song_alias:
     esong_code: 356A37
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2638B17
       song_name: 君へのLOVE SONG
+      content_type: ''
+  - song_name: 木村カエラベストメドレー
+    song_alias:
+    esong_code: 2646A36
+    t_singer_master_id: '19551'
+    singer_name: 木村 カエラ
+    singer_alias:
+    available_date: '2011-07-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きむらかえらへすと
+    singer_name_ruby: きむらかえら
+    song_variation:
+    - esong_code: 2646A36
+      song_name: 木村カエラベストメドレー
+      content_type: ''
+  - song_name: キャメル
+    song_alias:
+    esong_code: 2629A14
+    t_singer_master_id: '8680'
+    singer_name: くるり
+    singer_alias:
+    available_date: '2011-07-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやめる
+    singer_name_ruby: くるり
+    song_variation:
+    - esong_code: 2629A14
+      song_name: キャメル
       content_type: ''

@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: ウィガリスター
+    song_alias:
+    esong_code: 3043A32
+    t_singer_master_id: '16137'
+    singer_name: mihimaru GT
+    singer_alias:
+    available_date: '2013-05-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういかりすた
+    singer_name_ruby: みひまるしてい
+    song_variation:
+    - esong_code: 3043A32
+      song_name: ウィガリスター
+      content_type: ''
+  - song_name: We can do it
+    song_alias:
+    esong_code: 3043A33
+    t_singer_master_id: '42365'
+    singer_name: 愛美(寺川愛美)
+    singer_alias:
+    available_date: '2013-05-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういきやんとうい
+    singer_name_ruby: あいみ
+    song_variation:
+    - esong_code: 3043A33
+      song_name: We can do it
+      content_type: ''
   - song_name: with...
     song_alias:
     esong_code: 3047A10
@@ -483,37 +517,3 @@ result:
     - esong_code: 3037B10
       song_name: S.O.S (Smile On Smile)
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: escape
-    song_alias:
-    esong_code: 3042B5
-    t_singer_master_id: '45311'
-    singer_name: 三浦 涼介
-    singer_alias:
-    available_date: '2013-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えすけふ
-    singer_name_ruby: みうらりようすけ
-    song_variation:
-    - esong_code: 3042B5
-      song_name: escape
-      content_type: ''
-  - song_name: ESP研のテーマ
-    song_alias:
-    esong_code: 3046B45
-    t_singer_master_id: '47931'
-    singer_name: ESP研究会
-    singer_alias:
-    available_date: '2013-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 琴浦さん<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えすはけんのて
-    singer_name_ruby: えすはけんきゆうかい
-    song_variation:
-    - esong_code: 3046B45
-      song_name: ESP研のテーマ
-      content_type: ''

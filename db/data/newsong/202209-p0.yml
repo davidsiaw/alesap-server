@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 986
-  all_max_cnt: 1090
-  all_country_cnt: 986
+  max_cnt: 964
+  all_max_cnt: 1067
+  all_country_cnt: 964
   song:
   - song_name: ああ…宮古丸 〜旅立ち編〜
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 4688A23
       song_name: I CAN'T STOP ME (Japanese ver.)[DAM本人歌唱]
       content_type: DAM本人歌唱
-  - song_name: アイコトバ
-    song_alias:
-    esong_code: 4686A47
-    t_singer_master_id: '16403'
-    singer_name: 皆川 純子
-    singer_alias:
-    available_date: '2022-09-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいことは
-    singer_name_ruby: みなかわしゆんこ
-    song_variation:
-    - esong_code: 4686A47
-      song_name: アイコトバ
-      content_type: ''
   - song_name: 愛言葉
     song_alias:
     esong_code: 4679A12
@@ -91,6 +74,23 @@ result:
     song_variation:
     - esong_code: 4679A12
       song_name: 愛言葉
+      content_type: ''
+  - song_name: アイコトバ
+    song_alias:
+    esong_code: 4686A47
+    t_singer_master_id: '16403'
+    singer_name: 皆川 純子
+    singer_alias:
+    available_date: '2022-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいことは
+    singer_name_ruby: みなかわしゆんこ
+    song_variation:
+    - esong_code: 4686A47
+      song_name: アイコトバ
       content_type: ''
   - song_name: 哀愁旅の宿
     song_alias:
@@ -221,7 +221,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: DIG-ROCK<番組名>
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: あいてんていてい
     singer_name_ruby: るひあれはと
     song_variation:
@@ -241,7 +241,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: DIG-ROCK<番組名>
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: あいてんていてい
     singer_name_ruby: るひあれはと
     song_variation:
@@ -336,23 +336,6 @@ result:
     - esong_code: 3766B46
       song_name: 愛・酔いしれて
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: アイラブユーにはアイラブユー
-    song_alias:
-    esong_code: 4680B14
-    t_singer_master_id: '61775'
-    singer_name: 大橋 ちっぽけ
-    singer_alias:
-    available_date: '2022-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいらふゆにはあ
-    singer_name_ruby: おおはしちつほけ
-    song_variation:
-    - esong_code: 4680B14
-      song_name: アイラブユーにはアイラブユー
-      content_type: ''
   - song_name: I Remember (Japanese ver.)
     song_alias:
     esong_code: 4684A37
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 4686A28
       song_name: 秋の終
+      content_type: ''
+  - song_name: 秋蛍
+    song_alias:
+    esong_code: 4681B30
+    t_singer_master_id: '41670'
+    singer_name: みた かずよ
+    singer_alias:
+    available_date: '2022-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あきほたる
+    singer_name_ruby: みたかすよ
+    song_variation:
+    - esong_code: 4681B30
+      song_name: 秋蛍
       content_type: ''

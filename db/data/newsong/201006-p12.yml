@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
-  - song_name: 心ひとすじ
-    song_alias:
-    esong_code: 2535B9
-    t_singer_master_id: '389'
-    singer_name: 大月 みやこ
-    singer_alias:
-    available_date: '2010-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: こころひとすし
-    singer_name_ruby: おおつきみやこ
-    song_variation:
-    - esong_code: 2535B9
-      song_name: 心ひとすじ
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 心ひとすじ
     song_alias:
     esong_code: 2568A4
@@ -41,6 +24,23 @@ result:
     - esong_code: 2568A4
       song_name: 心ひとすじ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 心ひとすじ
+    song_alias:
+    esong_code: 2535B9
+    t_singer_master_id: '389'
+    singer_name: 大月 みやこ
+    singer_alias:
+    available_date: '2010-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: こころひとすし
+    singer_name_ruby: おおつきみやこ
+    song_variation:
+    - esong_code: 2535B9
+      song_name: 心ひとすじ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: ココロモザイク
     song_alias:
     esong_code: 2552B14
@@ -194,23 +194,6 @@ result:
     - esong_code: 2555A5
       song_name: KONOMAMA
       content_type: ''
-  - song_name: このままで・・・
-    song_alias:
-    esong_code: 2559B7
-    t_singer_master_id: '40171'
-    singer_name: Yojiro
-    singer_alias:
-    available_date: '2010-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: このままて
-    singer_name_ruby: よしろ
-    song_variation:
-    - esong_code: 2559B7
-      song_name: このままで・・・
-      content_type: ''
   - song_name: このままで
     song_alias:
     esong_code: 2561B44
@@ -227,6 +210,23 @@ result:
     song_variation:
     - esong_code: 2561B44
       song_name: このままで
+      content_type: ''
+  - song_name: このままで・・・
+    song_alias:
+    esong_code: 2559B7
+    t_singer_master_id: '40171'
+    singer_name: Yojiro
+    singer_alias:
+    available_date: '2010-06-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: このままて
+    singer_name_ruby: よしろ
+    song_variation:
+    - esong_code: 2559B7
+      song_name: このままで・・・
       content_type: ''
   - song_name: ゴミ収集車の唄 〜私の四畳半ライブ
     song_alias:
@@ -262,6 +262,23 @@ result:
     - esong_code: 2569A7
       song_name: ごめんください、めんください。
       content_type: JOYうたいり
+  - song_name: ごめんなさいネ・・・ケ・セラセラ
+    song_alias:
+    esong_code: 2526A47
+    t_singer_master_id: '865'
+    singer_name: 小松 みどり
+    singer_alias:
+    available_date: '2010-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こめんなさいねけせ
+    singer_name_ruby: こまつみとり
+    song_variation:
+    - esong_code: 2526A47
+      song_name: ごめんなさいネ・・・ケ・セラセラ
+      content_type: ''
   - song_name: ごめんね、私。
     song_alias:
     esong_code: 2546B1
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2551B40
       song_name: 彩華模様
-      content_type: ''
-  - song_name: サイコーなRock You!
-    song_alias:
-    esong_code: 2552B3
-    t_singer_master_id: '2445'
-    singer_name: 矢沢 永吉
-    singer_alias:
-    available_date: '2010-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいこなろつくゆ
-    singer_name_ruby: やさわえいきち
-    song_variation:
-    - esong_code: 2552B3
-      song_name: サイコーなRock You!
       content_type: ''

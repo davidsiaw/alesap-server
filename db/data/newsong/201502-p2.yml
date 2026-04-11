@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
-  - song_name: 明日への暴走
-    song_alias:
-    esong_code: 1051A16
-    t_singer_master_id: '454'
-    singer_name: 男闘呼組
-    singer_alias:
-    available_date: '2015-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすへのほうそう
-    singer_name_ruby: おとこくみ
-    song_variation:
-    - esong_code: 1051A16
-      song_name: 明日への暴走
-      content_type: ''
   - song_name: 遊び隊士 イチジョウマン7
     song_alias:
     esong_code: 3394A20
@@ -41,6 +24,23 @@ result:
     - esong_code: 3394A20
       song_name: 遊び隊士 イチジョウマン7
       content_type: ''
+  - song_name: あたしの向こう
+    song_alias:
+    esong_code: 3370B41
+    t_singer_master_id: '8782'
+    singer_name: aiko
+    singer_alias:
+    available_date: '2015-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あたしのむこう
+    singer_name_ruby: あいこ
+    song_variation:
+    - esong_code: 3370B41
+      song_name: あたしの向こう
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: あたまと かたと ひざと つまさき
     song_alias:
     esong_code: 3397B6
@@ -217,7 +217,7 @@ result:
     t_singer_master_id: '45391'
     singer_name: chay
     singer_alias:
-    available_date: '2015-02-17'
+    available_date: '2015-02-18'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

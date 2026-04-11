@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: キミはもう、ヒトリじゃない
-    song_alias:
-    esong_code: 3171A1
-    t_singer_master_id: '41516'
-    singer_name: marina
-    singer_alias:
-    available_date: '2014-01-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 解放少女 SIN<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみはもうひとりし
-    singer_name_ruby: まりな
-    song_variation:
-    - esong_code: 3171A1
-      song_name: キミはもう、ヒトリじゃない
-      content_type: ''
   - song_name: キャンディスターにお願い
     song_alias:
     esong_code: 3171A47
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3178B32
       song_name: CLICK
+      content_type: ''
+  - song_name: クリプレ!
+    song_alias:
+    esong_code: 3166A46
+    t_singer_master_id: '47212'
+    singer_name: おはガールちゅ!ちゅ!ちゅ!
+    singer_alias:
+    available_date: '2014-01-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くりふれ
+    singer_name_ruby: おはかるちゆちゆちゆ
+    song_variation:
+    - esong_code: 3166A46
+      song_name: クリプレ!
       content_type: ''

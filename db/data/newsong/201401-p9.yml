@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
   - song_name: 祇園のおんな
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 3169A2
       song_name: 祇園のおんな
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 祇園のおんな
-    song_alias:
-    esong_code: 1548A25
-    t_singer_master_id: '595'
-    singer_name: 川中 美幸
-    singer_alias:
-    available_date: '2014-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きおんのおんな
-    singer_name_ruby: かわなかみゆき
-    song_variation:
-    - esong_code: 1548A25
-      song_name: 祇園のおんな
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 絆坂
     song_alias:
     esong_code: 3167B16
@@ -149,7 +132,7 @@ result:
     t_singer_master_id: '29852'
     singer_name: いずはら 玲子
     singer_alias:
-    available_date: '2014-01-21'
+    available_date: '2014-01-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -438,7 +421,7 @@ result:
     t_singer_master_id: '58219'
     singer_name: モーニング娘。'14
     singer_alias:
-    available_date: '2014-01-28'
+    available_date: '2014-01-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3172A45
       song_name: 君は薔薇より美しい
+      content_type: ''
+  - song_name: キミはもう、ヒトリじゃない
+    song_alias:
+    esong_code: 3171A1
+    t_singer_master_id: '41516'
+    singer_name: marina
+    singer_alias:
+    available_date: '2014-01-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 解放少女 SIN<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみはもうひとりし
+    singer_name_ruby: まりな
+    song_variation:
+    - esong_code: 3171A1
+      song_name: キミはもう、ヒトリじゃない
       content_type: ''

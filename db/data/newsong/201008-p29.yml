@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1126
-  all_max_cnt: 1256
-  all_country_cnt: 1126
+  max_cnt: 1125
+  all_max_cnt: 1255
+  all_country_cnt: 1125
   song:
-  - song_name: Blue Rainy Days
-    song_alias:
-    esong_code: 2387B4
-    t_singer_master_id: '8356'
-    singer_name: 堀江 由衣
-    singer_alias:
-    available_date: '2010-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるれいにて
-    singer_name_ruby: ほりえゆい
-    song_variation:
-    - esong_code: 2387B4
-      song_name: Blue Rainy Days
-      content_type: ''
   - song_name: Break It
     song_alias:
     esong_code: 2585A16
@@ -281,23 +264,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: Heaven's Door
     song_alias:
-    esong_code: 2580B14
-    t_singer_master_id: '19365'
-    singer_name: BENI(安良城 紅)
-    singer_alias:
-    available_date: '2010-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へふんすとあ
-    singer_name_ruby: へに
-    song_variation:
-    - esong_code: 2580B14
-      song_name: Heaven's Door
-      content_type: ''
-  - song_name: Heaven's Door
-    song_alias:
     esong_code: 2585A9
     t_singer_master_id: '19365'
     singer_name: BENI(安良城 紅)
@@ -313,6 +279,23 @@ result:
     - esong_code: 2585A9
       song_name: Heaven's Door
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Heaven's Door
+    song_alias:
+    esong_code: 2580B14
+    t_singer_master_id: '19365'
+    singer_name: BENI(安良城 紅)
+    singer_alias:
+    available_date: '2010-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へふんすとあ
+    singer_name_ruby: へに
+    song_variation:
+    - esong_code: 2580B14
+      song_name: Heaven's Door
+      content_type: ''
   - song_name: HEAVENLY BLUE SKY∞
     song_alias:
     esong_code: 2577A5
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2587B46
       song_name: 僕の手は君の為に
+      content_type: ''
+  - song_name: 僕の瞳のマーチ
+    song_alias:
+    esong_code: 2587A7
+    t_singer_master_id: '1959'
+    singer_name: PICASSO
+    singer_alias:
+    available_date: '2010-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくのひとみのま
+    singer_name_ruby: ひかそ
+    song_variation:
+    - esong_code: 2587A7
+      song_name: 僕の瞳のマーチ
       content_type: ''

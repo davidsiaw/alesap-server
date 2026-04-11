@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1427
-  all_max_cnt: 1545
-  all_country_cnt: 1427
+  max_cnt: 1410
+  all_max_cnt: 1528
+  all_country_cnt: 1410
   song:
   - song_name: 愛に。
     song_alias:
@@ -41,23 +41,6 @@ result:
     - esong_code: 3254B34
       song_name: 愛のいのち
       content_type: ''
-  - song_name: 愛の唄〜チョンマル サランヘヨ〜(バラードVersion)
-    song_alias:
-    esong_code: 392A8
-    t_singer_master_id: '18798'
-    singer_name: つんく♂
-    singer_alias:
-    available_date: '2014-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのうた
-    singer_name_ruby: つんく
-    song_variation:
-    - esong_code: 392A8
-      song_name: 愛の唄〜チョンマル サランヘヨ〜(バラードVersion)
-      content_type: ''
   - song_name: 愛のうた
     song_alias:
     esong_code: 3255A16
@@ -74,6 +57,23 @@ result:
     song_variation:
     - esong_code: 3255A16
       song_name: 愛のうた
+      content_type: ''
+  - song_name: 愛の唄〜チョンマル サランヘヨ〜(バラードVersion)
+    song_alias:
+    esong_code: 392A8
+    t_singer_master_id: '18798'
+    singer_name: つんく♂
+    singer_alias:
+    available_date: '2014-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのうた
+    singer_name_ruby: つんく
+    song_variation:
+    - esong_code: 392A8
+      song_name: 愛の唄〜チョンマル サランヘヨ〜(バラードVersion)
       content_type: ''
   - song_name: 愛の贈り物
     song_alias:
@@ -213,23 +213,6 @@ result:
       content_type: ''
   - song_name: 愛は水平線
     song_alias:
-    esong_code: 3257A1
-    t_singer_master_id: '12233'
-    singer_name: ハン・ジナ(ハン・ボクスン)
-    singer_alias:
-    available_date: '2014-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あいはすいへいせん
-    singer_name_ruby: はんしな
-    song_variation:
-    - esong_code: 3257A1
-      song_name: 愛は水平線
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 愛は水平線
-    song_alias:
     esong_code: 3249A46
     t_singer_master_id: '12233'
     singer_name: ハン・ジナ(ハン・ボクスン)
@@ -245,6 +228,23 @@ result:
     - esong_code: 3249A46
       song_name: 愛は水平線
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 愛は水平線
+    song_alias:
+    esong_code: 3257A1
+    t_singer_master_id: '12233'
+    singer_name: ハン・ジナ(ハン・ボクスン)
+    singer_alias:
+    available_date: '2014-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あいはすいへいせん
+    singer_name_ruby: はんしな
+    song_variation:
+    - esong_code: 3257A1
+      song_name: 愛は水平線
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: I'VE GOT MY SOUL
     song_alias:
     esong_code: 3253A23

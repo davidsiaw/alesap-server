@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 977
-  all_max_cnt: 1128
-  all_country_cnt: 977
+  max_cnt: 964
+  all_max_cnt: 1115
+  all_country_cnt: 964
   song:
   - song_name: 嗚呼、麗しき人生
     song_alias:
@@ -74,23 +74,6 @@ result:
     song_variation:
     - esong_code: 4239A18
       song_name: I will
-      content_type: ''
-  - song_name: AH YEAH
-    song_alias:
-    esong_code: 4231B16
-    t_singer_master_id: '51637'
-    singer_name: WINNER
-    singer_alias:
-    available_date: '2019-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいえ
-    singer_name_ruby: ういな
-    song_variation:
-    - esong_code: 4231B16
-      song_name: AH YEAH
       content_type: ''
   - song_name: アイオクリ
     song_alias:
@@ -281,23 +264,6 @@ result:
       content_type: ''
   - song_name: 愛にできることはまだあるかい
     song_alias:
-    esong_code: 4234A14
-    t_singer_master_id: '21655'
-    singer_name: RADWIMPS
-    singer_alias:
-    available_date: '2019-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 天気の子<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あいにてきることは
-    singer_name_ruby: らつとういんふす
-    song_variation:
-    - esong_code: 4234A14
-      song_name: 愛にできることはまだあるかい
-      content_type: DAM生音
-  - song_name: 愛にできることはまだあるかい
-    song_alias:
     esong_code: 4232A19
     t_singer_master_id: '21655'
     singer_name: RADWIMPS
@@ -313,6 +279,23 @@ result:
     - esong_code: 4232A19
       song_name: 愛にできることはまだあるかい
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 愛にできることはまだあるかい
+    song_alias:
+    esong_code: 4234A14
+    t_singer_master_id: '21655'
+    singer_name: RADWIMPS
+    singer_alias:
+    available_date: '2019-08-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 天気の子<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あいにてきることは
+    singer_name_ruby: らつとういんふす
+    song_variation:
+    - esong_code: 4234A14
+      song_name: 愛にできることはまだあるかい
+      content_type: DAM生音
   - song_name: 愛に流されて
     song_alias:
     esong_code: 3946B16
@@ -502,7 +485,7 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 愛よりも深く
     song_alias:
-    esong_code: 3946B19
+    esong_code: 4234B9
     t_singer_master_id: '12233'
     singer_name: ハン・ジナ(ハン・ボクスン)
     singer_alias:
@@ -510,10 +493,27 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: あいよりもふかく
     singer_name_ruby: はんしな
     song_variation:
-    - esong_code: 3946B19
+    - esong_code: 4234B9
       song_name: 愛よりも深く
-      content_type: ''
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 愛よりも深く
+    song_alias:
+    esong_code: 4232A21
+    t_singer_master_id: '12233'
+    singer_name: ハン・ジナ(ハン・ボクスン)
+    singer_alias:
+    available_date: '2019-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あいよりもふかく
+    singer_name_ruby: はんしな
+    song_variation:
+    - esong_code: 4232A21
+      song_name: 愛よりも深く
+      content_type: JOYﾎﾞｰｶﾙ

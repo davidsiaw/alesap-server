@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: Blue Moon
-    song_alias:
-    esong_code: 2826B45
-    t_singer_master_id: '45503'
-    singer_name: イオシス/夢来
-    singer_alias:
-    available_date: '2012-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方夢時空 〜Phantasmagoria of Dim.Dream.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: ふるむん
-    singer_name_ruby: いおしすゆう
-    song_variation:
-    - esong_code: 2826B45
-      song_name: Blue Moon
-      content_type: 東方
-  - song_name: ブルーロータス feat.KAITO
-    song_alias:
-    esong_code: 2700A8
-    t_singer_master_id: '45648'
-    singer_name: ぱいろP
-    singer_alias:
-    available_date: '2012-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ふるろたす
-    singer_name_ruby: はいろひ
-    song_variation:
-    - esong_code: 2700A8
-      song_name: ブルーロータス feat.KAITO
-      content_type: VOCALOID
   - song_name: BRAVE HERO
     song_alias:
     esong_code: 2841A48
@@ -338,7 +304,7 @@ result:
     singer_alias:
     available_date: '2012-08-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダーフォーゼ THE MOVIE みんなで宇宙キターッ!<番組名>
+    tie_up: 仮面ライダーフォーゼ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ほいしやす
@@ -517,3 +483,37 @@ result:
     - esong_code: 2828A1
       song_name: 他には何も
       content_type: ''
+  - song_name: 僕たちは 今 話し合うべきなんだ
+    song_alias:
+    esong_code: 2838A17
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2012-08-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくたちはいまはな
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 2838A17
+      song_name: 僕たちは 今 話し合うべきなんだ
+      content_type: ''
+  - song_name: 僕と花
+    song_alias:
+    esong_code: 2834B7
+    t_singer_master_id: '31003'
+    singer_name: サカナクション
+    singer_alias:
+    available_date: '2012-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ほくとはな
+    singer_name_ruby: さかなくしよん
+    song_variation:
+    - esong_code: 2834B7
+      song_name: 僕と花
+      content_type: DAM生音

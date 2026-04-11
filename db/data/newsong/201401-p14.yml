@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: さくらんぼ 恋しんぼ
-    song_alias:
-    esong_code: 1526A4
-    t_singer_master_id: '49700'
-    singer_name: 工藤 あやの
-    singer_alias:
-    available_date: '2014-01-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくらんほこいしん
-    singer_name_ruby: くとうあやの
-    song_variation:
-    - esong_code: 1526A4
-      song_name: さくらんぼ 恋しんぼ
-      content_type: ''
   - song_name: 石榴の実は憂鬱が何粒詰まっている? (紅組)
     song_alias:
     esong_code: 3165B24
@@ -517,3 +500,20 @@ result:
     - esong_code: 3170A34
       song_name: JETガール
       content_type: ''
+  - song_name: jelLy feat.GUMI
+    song_alias:
+    esong_code: 3176B7
+    t_singer_master_id: '49726'
+    singer_name: たーP
+    singer_alias:
+    available_date: '2014-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: しえり
+    singer_name_ruby: たひ
+    song_variation:
+    - esong_code: 3176B7
+      song_name: jelLy feat.GUMI
+      content_type: VOCALOID

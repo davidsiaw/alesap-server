@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 968
-  all_max_cnt: 1054
-  all_country_cnt: 968
+  max_cnt: 960
+  all_max_cnt: 1046
+  all_country_cnt: 960
   song:
-  - song_name: Strange Days
-    song_alias:
-    esong_code: 4533A20
-    t_singer_master_id: '56959'
-    singer_name: パノラマパナマタウン
-    singer_alias:
-    available_date: '2021-08-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すとれんしていす
-    singer_name_ruby: はのらまはなまたうん
-    song_variation:
-    - esong_code: 4533A20
-      song_name: Strange Days
-      content_type: ''
-  - song_name: Strawberry
-    song_alias:
-    esong_code: 4535B9
-    t_singer_master_id: '66412'
-    singer_name: 香椎 モイミ
-    singer_alias:
-    available_date: '2021-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: すとろへり
-    singer_name_ruby: かしいもいみ
-    song_variation:
-    - esong_code: 4535B9
-      song_name: Strawberry
-      content_type: VOCALOID
   - song_name: スナビキソウ
     song_alias:
     esong_code: 4537B41
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4471B37
       song_name: 宗右衛門町通り雨
+      content_type: ''
+  - song_name: そしてここから
+    song_alias:
+    esong_code: 4534B45
+    t_singer_master_id: '25112'
+    singer_name: 間 慎太郎
+    singer_alias:
+    available_date: '2021-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そしてここから
+    singer_name_ruby: はさましんたろう
+    song_variation:
+    - esong_code: 4534B45
+      song_name: そしてここから
+      content_type: ''
+  - song_name: ソライロ
+    song_alias:
+    esong_code: 4528B23
+    t_singer_master_id: '51281'
+    singer_name: 水瀬 いのり
+    singer_alias:
+    available_date: '2021-08-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そらいろ
+    singer_name_ruby: みなせいのり
+    song_variation:
+    - esong_code: 4528B23
+      song_name: ソライロ
       content_type: ''

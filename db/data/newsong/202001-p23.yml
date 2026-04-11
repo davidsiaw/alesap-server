@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 980
-  all_max_cnt: 1116
-  all_country_cnt: 980
+  max_cnt: 974
+  all_max_cnt: 1110
+  all_country_cnt: 974
   song:
-  - song_name: ヒットソングメドレー2019 (アニメ編)
-    song_alias:
-    esong_code: 4315B27
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2020-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アニメメドレー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひつとそんく2019
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 4315B27
-      song_name: ヒットソングメドレー2019 (アニメ編)
-      content_type: ''
-  - song_name: 一つの希望
-    song_alias:
-    esong_code: 4323A31
-    t_singer_master_id: '65834'
-    singer_name: さっし〜
-    singer_alias:
-    available_date: '2020-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとつのきほう
-    singer_name_ruby: さつし
-    song_variation:
-    - esong_code: 4323A31
-      song_name: 一つの希望
-      content_type: ''
-  - song_name: 一目惚れ
-    song_alias:
-    esong_code: 4316A19
-    t_singer_master_id: '58829'
-    singer_name: バンドハラスメント
-    singer_alias:
-    available_date: '2020-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ちはやふる3<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとめほれ
-    singer_name_ruby: はんとはらすめんと
-    song_variation:
-    - esong_code: 4316A19
-      song_name: 一目惚れ
-      content_type: ''
-  - song_name: ひとりじゃないんだから
-    song_alias:
-    esong_code: 4317A44
-    t_singer_master_id: '65778'
-    singer_name: 高校生バイト応援ソングをつくろう!バンド
-    singer_alias:
-    available_date: '2020-01-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: BanG Dream!(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとりしやないんた
-    singer_name_ruby: こうこうせいはいとおうえんそんくをつ
-    song_variation:
-    - esong_code: 4317A44
-      song_name: ひとりじゃないんだから
-      content_type: ''
-  - song_name: ひとり酔いたくて
-    song_alias:
-    esong_code: 4310A28
-    t_singer_master_id: '194'
-    singer_name: 石原 詢子
-    singer_alias:
-    available_date: '2020-01-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ひとりよいたくて
-    singer_name_ruby: いしはらしゆんこ
-    song_variation:
-    - esong_code: 4310A28
-      song_name: ひとり酔いたくて
-      content_type: DAM生音
   - song_name: people
     song_alias:
     esong_code: 4317B9
@@ -177,7 +92,7 @@ result:
     - esong_code: 4310A41
       song_name: Beautiful [DAM本人歌唱]
       content_type: DAM本人歌唱
-  - song_name: BEAUTIFUL GARDEN -百花繚乱- [DAM本人歌唱]
+  - song_name: BEAUTIFUL GARDEN-百花繚乱- [DAM本人歌唱]
     song_alias:
     esong_code: 4310A48
     t_singer_master_id: '1349'
@@ -192,7 +107,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 4310A48
-      song_name: BEAUTIFUL GARDEN -百花繚乱- [DAM本人歌唱]
+      song_name: BEAUTIFUL GARDEN-百花繚乱- [DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 秒針
     song_alias:
@@ -347,23 +262,6 @@ result:
     - esong_code: 4309A7
       song_name: Fine Line
       content_type: ''
-  - song_name: Who are you?
-    song_alias:
-    esong_code: 4317A22
-    t_singer_master_id: '52623'
-    singer_name: 松井 珠理奈(from SKE48)
-    singer_alias:
-    available_date: '2020-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふあゆ
-    singer_name_ruby: まついしゆりな
-    song_variation:
-    - esong_code: 4317A22
-      song_name: Who are you?
-      content_type: ''
   - song_name: Who Are You?
     song_alias:
     esong_code: 4314A32
@@ -380,6 +278,23 @@ result:
     song_variation:
     - esong_code: 4314A32
       song_name: Who Are You?
+      content_type: ''
+  - song_name: Who are you?
+    song_alias:
+    esong_code: 4317A22
+    t_singer_master_id: '52623'
+    singer_name: 松井 珠理奈(from SKE48)
+    singer_alias:
+    available_date: '2020-01-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふあゆ
+    singer_name_ruby: まついしゆりな
+    song_variation:
+    - esong_code: 4317A22
+      song_name: Who are you?
       content_type: ''
   - song_name: ファンファーレ
     song_alias:
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 4317A38
       song_name: Fallin'
+      content_type: ''
+  - song_name: 不可幸力
+    song_alias:
+    esong_code: 4317A43
+    t_singer_master_id: '65658'
+    singer_name: Vaundy
+    singer_alias:
+    available_date: '2020-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふかこうりよく
+    singer_name_ruby: はうんてい
+    song_variation:
+    - esong_code: 4317A43
+      song_name: 不可幸力
+      content_type: ''
+  - song_name: 梟
+    song_alias:
+    esong_code: 4317A10
+    t_singer_master_id: '62132'
+    singer_name: Sano ibuki
+    singer_alias:
+    available_date: '2020-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふくろう
+    singer_name_ruby: さのいふき
+    song_variation:
+    - esong_code: 4317A10
+      song_name: 梟
+      content_type: ''
+  - song_name: 福笑い [DAM本人歌唱]
+    song_alias:
+    esong_code: 4310A46
+    t_singer_master_id: '37701'
+    singer_name: 高橋 優
+    singer_alias:
+    available_date: '2020-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: ふくわらい
+    singer_name_ruby: たかはしゆう
+    song_variation:
+    - esong_code: 4310A46
+      song_name: 福笑い [DAM本人歌唱]
+      content_type: DAM本人歌唱
+  - song_name: 愛す
+    song_alias:
+    esong_code: 4316A34
+    t_singer_master_id: '40879'
+    singer_name: クリープハイプ
+    singer_alias:
+    available_date: '2020-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふす
+    singer_name_ruby: くりふはいふ
+    song_variation:
+    - esong_code: 4316A34
+      song_name: 愛す
+      content_type: ''
+  - song_name: 愛す (チプルソ Remix)
+    song_alias:
+    esong_code: 4316B5
+    t_singer_master_id: '40879'
+    singer_name: クリープハイプ
+    singer_alias:
+    available_date: '2020-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふすちふるそりみ
+    singer_name_ruby: くりふはいふ
+    song_variation:
+    - esong_code: 4316B5
+      song_name: 愛す (チプルソ Remix)
       content_type: ''

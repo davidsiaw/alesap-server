@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: Wake Up! My Heart!!
-    song_alias:
-    esong_code: 2810B22
-    t_singer_master_id: '34814'
-    singer_name: 羽多野 渉
-    singer_alias:
-    available_date: '2012-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: バトルスピリッツ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえいくあつふまい
-    singer_name_ruby: はたのわたる
-    song_variation:
-    - esong_code: 2810B22
-      song_name: Wake Up! My Heart!!
-      content_type: ''
   - song_name: ウェイロニ (Japanese ver.)
     song_alias:
     esong_code: 2163B45
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2806B42
       song_name: HMVヒットメドレー 〜2012年4月ランキング〜
+      content_type: ''
+  - song_name: April Mirage
+    song_alias:
+    esong_code: 2807A42
+    t_singer_master_id: '26363'
+    singer_name: Base Ball Bear
+    singer_alias:
+    available_date: '2012-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいふりるみらし
+    singer_name_ruby: へすほるへあ
+    song_variation:
+    - esong_code: 2807A42
+      song_name: April Mirage
       content_type: ''

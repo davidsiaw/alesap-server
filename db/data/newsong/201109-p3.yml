@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
   - song_name: ありがとうはそのためにある
     song_alias:
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: Yesterday
     song_alias:
-    esong_code: 2673A1
-    t_singer_master_id: '41246'
-    singer_name: starry sky
-    singer_alias:
-    available_date: '2011-09-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いえすたてい
-    singer_name_ruby: すたりいすかい
-    song_variation:
-    - esong_code: 2673A1
-      song_name: Yesterday
-      content_type: ''
-  - song_name: Yesterday
-    song_alias:
     esong_code: 2670B2
     t_singer_master_id: '33164'
     singer_name: Lil'B
@@ -277,6 +260,23 @@ result:
     singer_name_ruby: りるひ
     song_variation:
     - esong_code: 2670B2
+      song_name: Yesterday
+      content_type: ''
+  - song_name: Yesterday
+    song_alias:
+    esong_code: 2673A1
+    t_singer_master_id: '41246'
+    singer_name: starry sky
+    singer_alias:
+    available_date: '2011-09-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いえすたてい
+    singer_name_ruby: すたりいすかい
+    song_variation:
+    - esong_code: 2673A1
       song_name: Yesterday
       content_type: ''
   - song_name: 生きる
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: いつか
     song_alias:
-    esong_code: 2675A48
-    t_singer_master_id: '22748'
-    singer_name: シド
-    singer_alias:
-    available_date: '2011-09-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつか
-    singer_name_ruby: しと
-    song_variation:
-    - esong_code: 2675A48
-      song_name: いつか
-      content_type: ''
-  - song_name: いつか
-    song_alias:
     esong_code: 2675B49
     t_singer_master_id: '22748'
     singer_name: シド
@@ -500,6 +483,23 @@ result:
     - esong_code: 2675B49
       song_name: いつか
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: いつか
+    song_alias:
+    esong_code: 2675A48
+    t_singer_master_id: '22748'
+    singer_name: シド
+    singer_alias:
+    available_date: '2011-09-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつか
+    singer_name_ruby: しと
+    song_variation:
+    - esong_code: 2675A48
+      song_name: いつか
+      content_type: ''
   - song_name: いつかきっと・・・
     song_alias:
     esong_code: 2671A10

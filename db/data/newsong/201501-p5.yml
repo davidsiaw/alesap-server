@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1114
-  all_max_cnt: 1275
-  all_country_cnt: 1114
+  max_cnt: 1110
+  all_max_cnt: 1271
+  all_country_cnt: 1110
   song:
   - song_name: エアポートで待ち合わせ
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 3383B41
       song_name: ECHO feat.Gumi English
       content_type: VOCALOID
-  - song_name: Echo
-    song_alias:
-    esong_code: 3384B15
-    t_singer_master_id: '44209'
-    singer_name: MEJIBRAY
-    singer_alias:
-    available_date: '2015-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えこ
-    singer_name_ruby: めしふれい
-    song_variation:
-    - esong_code: 3384B15
-      song_name: Echo
-      content_type: ''
   - song_name: ECOH feat.GUMI
     song_alias:
     esong_code: 3382B21
@@ -160,6 +143,23 @@ result:
     - esong_code: 3382B21
       song_name: ECOH feat.GUMI
       content_type: VOCALOID
+  - song_name: Echo
+    song_alias:
+    esong_code: 3384B15
+    t_singer_master_id: '44209'
+    singer_name: MEJIBRAY
+    singer_alias:
+    available_date: '2015-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えこ
+    singer_name_ruby: めしふれい
+    song_variation:
+    - esong_code: 3384B15
+      song_name: Echo
+      content_type: ''
   - song_name: S.O.S
     song_alias:
     esong_code: 3381A22
@@ -489,7 +489,7 @@ result:
     t_singer_master_id: '25727'
     singer_name: 橘 ゆうじ
     singer_alias:
-    available_date: '2015-01-20'
+    available_date: '2015-01-21'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

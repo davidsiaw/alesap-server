@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
-  - song_name: ネトゲ廃人シュプレヒコール
-    song_alias:
-    esong_code: 3564A27
-    t_singer_master_id: '42722'
-    singer_name: さつき が てんこもり
-    singer_alias:
-    available_date: '2015-12-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ねとけはいしんし
-    singer_name_ruby: さつきかてんこもり
-    song_variation:
-    - esong_code: 3564A27
-      song_name: ネトゲ廃人シュプレヒコール
-      content_type: VOCALOID
   - song_name: Never Call Me Again
     song_alias:
     esong_code: 3567B23
@@ -155,7 +138,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: のつてけめんそれ
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3569B42
       song_name: ノッてけめんそーれ
@@ -457,7 +440,7 @@ result:
     singer_alias:
     available_date: '2015-12-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダー×仮面ライダー ゴースト&ドライブ超MOVIE大戦ジェネシス<番組名>
+    tie_up: 劇場版 仮面ライダー×仮面ライダー<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はしまりのひ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3569A44
       song_name: 走れマキバオー (歌唱:内匠靖明)
+      content_type: ''
+  - song_name: PUZZLE
+    song_alias:
+    esong_code: 3566B34
+    t_singer_master_id: '48542'
+    singer_name: KANA-BOON
+    singer_alias:
+    available_date: '2015-12-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はする
+    singer_name_ruby: かなふん
+    song_variation:
+    - esong_code: 3566B34
+      song_name: PUZZLE
       content_type: ''

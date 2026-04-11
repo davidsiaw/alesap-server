@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: 儚物語
-    song_alias:
-    esong_code: 2008B5
-    t_singer_master_id: '1668'
-    singer_name: 永井 龍雲
-    singer_alias:
-    available_date: '2014-01-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめものかたり
-    singer_name_ruby: なかいりゆううん
-    song_variation:
-    - esong_code: 2008B5
-      song_name: 儚物語
-      content_type: ''
-  - song_name: 夢を繋いで
-    song_alias:
-    esong_code: 3165B19
-    t_singer_master_id: '37886'
-    singer_name: WEAVER
-    singer_alias:
-    available_date: '2014-01-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめをつないて
-    singer_name_ruby: ういは
-    song_variation:
-    - esong_code: 3165B19
-      song_name: 夢を繋いで
-      content_type: ''
   - song_name: ユリイカ
     song_alias:
     esong_code: 3165B16
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3170B5
       song_name: Love For U
+      content_type: ''
+  - song_name: ラヴ・リターンズ feat.MAYU
+    song_alias:
+    esong_code: 3170A23
+    t_singer_master_id: '41147'
+    singer_name: TOKOTOKO(西沢さんP)
+    singer_alias:
+    available_date: '2014-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: らふりたんす
+    singer_name_ruby: とことこ
+    song_variation:
+    - esong_code: 3170A23
+      song_name: ラヴ・リターンズ feat.MAYU
+      content_type: VOCALOID
+  - song_name: LOVELESS WORLD
+    song_alias:
+    esong_code: 3171A3
+    t_singer_master_id: '41536'
+    singer_name: μ's
+    singer_alias:
+    available_date: '2014-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ラブライブ! School idol project<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふれすわると
+    singer_name_ruby: みゆす
+    song_variation:
+    - esong_code: 3171A3
+      song_name: LOVELESS WORLD
       content_type: ''

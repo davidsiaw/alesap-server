@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1284
-  all_max_cnt: 1473
-  all_country_cnt: 1284
+  max_cnt: 1277
+  all_max_cnt: 1466
+  all_country_cnt: 1277
   song:
-  - song_name: ZIG ZAG
-    song_alias:
-    esong_code: 3756B7
-    t_singer_master_id: '30910'
-    singer_name: SuG
-    singer_alias:
-    available_date: '2017-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しくさく
-    singer_name_ruby: さく
-    song_variation:
-    - esong_code: 3756B7
-      song_name: ZIG ZAG
-      content_type: ''
   - song_name: 時雨る雪と花つぼみ
     song_alias:
     esong_code: 3762B32
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: 十三夜月
     song_alias:
-    esong_code: 689A40
-    t_singer_master_id: '2271'
-    singer_name: 美川 憲一
-    singer_alias:
-    available_date: '2017-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆうさんや
-    singer_name_ruby: みかわけんいち
-    song_variation:
-    - esong_code: 689A40
-      song_name: 十三夜月
-      content_type: ''
-  - song_name: 十三夜月
-    song_alias:
     esong_code: 3758B17
     t_singer_master_id: '2271'
     singer_name: 美川 憲一
@@ -364,6 +330,23 @@ result:
     - esong_code: 3759A7
       song_name: 十三夜月
       content_type: JOY生演奏
+  - song_name: 十三夜月
+    song_alias:
+    esong_code: 689A40
+    t_singer_master_id: '2271'
+    singer_name: 美川 憲一
+    singer_alias:
+    available_date: '2017-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆうさんや
+    singer_name_ruby: みかわけんいち
+    song_variation:
+    - esong_code: 689A40
+      song_name: 十三夜月
+      content_type: ''
   - song_name: 自由蝶
     song_alias:
     esong_code: 3765A5
@@ -508,7 +491,7 @@ result:
     singer_alias:
     available_date: '2017-02-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ4<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しよいふる
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3766B17
       song_name: JOYFUL
+      content_type: ''
+  - song_name: 情熱について語るべき2、3の真実 〜田園より〜
+    song_alias:
+    esong_code: 3760A34
+    t_singer_master_id: '58046'
+    singer_name: 布袋 寅泰(Vocal:ハセガワダイスケ)
+    singer_alias:
+    available_date: '2017-02-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: クラシカロイド<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようねつについて
+    singer_name_ruby: ほていともやすほかるは
+    song_variation:
+    - esong_code: 3760A34
+      song_name: 情熱について語るべき2、3の真実 〜田園より〜
       content_type: ''

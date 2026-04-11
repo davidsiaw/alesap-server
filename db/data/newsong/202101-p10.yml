@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 806
-  all_max_cnt: 881
-  all_country_cnt: 806
+  max_cnt: 802
+  all_max_cnt: 877
+  all_country_cnt: 802
   song:
-  - song_name: 誘われてエデン
-    song_alias:
-    esong_code: 4464B19
-    t_singer_master_id: '60447'
-    singer_name: 辰巳 ゆうと
-    singer_alias:
-    available_date: '2021-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さそわれてえてん
-    singer_name_ruby: たつみゆうと
-    song_variation:
-    - esong_code: 4464B19
-      song_name: 誘われてエデン
-      content_type: ''
-  - song_name: Sad Good Night
-    song_alias:
-    esong_code: 4467A4
-    t_singer_master_id: '56959'
-    singer_name: パノラマパナマタウン
-    singer_alias:
-    available_date: '2021-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さつとくつとな
-    singer_name_ruby: はのらまはなまたうん
-    song_variation:
-    - esong_code: 4467A4
-      song_name: Sad Good Night
-      content_type: ''
   - song_name: 札幌・哀愁・恋物語
     song_alias:
     esong_code: 4466A41
@@ -517,3 +483,37 @@ result:
     - esong_code: 4458B31
       song_name: シノノメ
       content_type: VOCALOID
+  - song_name: SHIBUYA GHOST NIGHT
+    song_alias:
+    esong_code: 4463B32
+    t_singer_master_id: '62038'
+    singer_name: Fling Posse
+    singer_alias:
+    available_date: '2021-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ヒプノシスマイク -Division Rap Battle-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しふやこすとな
+    singer_name_ruby: ふりんくほつせ
+    song_variation:
+    - esong_code: 4463B32
+      song_name: SHIBUYA GHOST NIGHT
+      content_type: ''
+  - song_name: JIBUNGOTO
+    song_alias:
+    esong_code: 4461B8
+    t_singer_master_id: '46242'
+    singer_name: TEAM SHACHI(チームしゃちほこ)
+    singer_alias:
+    available_date: '2021-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しふんこと
+    singer_name_ruby: ちむしやち
+    song_variation:
+    - esong_code: 4461B8
+      song_name: JIBUNGOTO
+      content_type: ''

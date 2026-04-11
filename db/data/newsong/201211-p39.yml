@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
   - song_name: 水の帰る場所
     song_alias:
@@ -60,23 +60,6 @@ result:
       content_type: ''
   - song_name: みちのく風酒場
     song_alias:
-    esong_code: 2930B16
-    t_singer_master_id: '1449'
-    singer_name: 千葉 一夫
-    singer_alias:
-    available_date: '2012-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: みちのくかせさかは
-    singer_name_ruby: ちはかすお
-    song_variation:
-    - esong_code: 2930B16
-      song_name: みちのく風酒場
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: みちのく風酒場
-    song_alias:
     esong_code: 2937B21
     t_singer_master_id: '1449'
     singer_name: 千葉 一夫
@@ -92,6 +75,23 @@ result:
     - esong_code: 2937B21
       song_name: みちのく風酒場
       content_type: JOY生演奏
+  - song_name: みちのく風酒場
+    song_alias:
+    esong_code: 2930B16
+    t_singer_master_id: '1449'
+    singer_name: 千葉 一夫
+    singer_alias:
+    available_date: '2012-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: みちのくかせさかは
+    singer_name_ruby: ちはかすお
+    song_variation:
+    - esong_code: 2930B16
+      song_name: みちのく風酒場
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Missing
     song_alias:
     esong_code: 2920A18
@@ -194,23 +194,6 @@ result:
     - esong_code: 2924B5
       song_name: ミャオのKI・MO・CHI
       content_type: ''
-  - song_name: music♪
-    song_alias:
-    esong_code: 2931B4
-    t_singer_master_id: '30198'
-    singer_name: 九州男
-    singer_alias:
-    available_date: '2012-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: みゆしつく
-    singer_name_ruby: くすお
-    song_variation:
-    - esong_code: 2931B4
-      song_name: music♪
-      content_type: DAMﾗｲﾌﾞ
   - song_name: MUSIC
     song_alias:
     esong_code: 2930A2
@@ -228,6 +211,23 @@ result:
     - esong_code: 2930A2
       song_name: MUSIC
       content_type: ''
+  - song_name: music♪
+    song_alias:
+    esong_code: 2931B4
+    t_singer_master_id: '30198'
+    singer_name: 九州男
+    singer_alias:
+    available_date: '2012-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾗｲﾌﾞ
+    song_name_ruby: みゆしつく
+    singer_name_ruby: くすお
+    song_variation:
+    - esong_code: 2931B4
+      song_name: music♪
+      content_type: DAMﾗｲﾌﾞ
   - song_name: 未来図
     song_alias:
     esong_code: 2919A44
@@ -423,7 +423,7 @@ result:
     singer_alias:
     available_date: '2012-11-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂'延長戦<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: むんうおく

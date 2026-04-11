@@ -3,27 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1198
-  all_max_cnt: 1367
-  all_country_cnt: 1198
+  max_cnt: 1194
+  all_max_cnt: 1363
+  all_country_cnt: 1194
   song:
   - song_name: じょんがらひとり旅
     song_alias:
-    esong_code: 4051B7
+    esong_code: 3761A21
     t_singer_master_id: '54430'
     singer_name: エドアルド
     singer_alias:
-    available_date: '2018-08-31'
+    available_date: '2018-08-07'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: しよんからひとり
     singer_name_ruby: えとあると
     song_variation:
-    - esong_code: 4051B7
+    - esong_code: 3761A21
       song_name: じょんがらひとり旅
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: じょんがらひとり旅
     song_alias:
     esong_code: 4043B49
@@ -58,23 +58,6 @@ result:
     - esong_code: 4050B18
       song_name: じょんがらひとり旅
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: じょんがらひとり旅
-    song_alias:
-    esong_code: 3761A21
-    t_singer_master_id: '54430'
-    singer_name: エドアルド
-    singer_alias:
-    available_date: '2018-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよんからひとり
-    singer_name_ruby: えとあると
-    song_variation:
-    - esong_code: 3761A21
-      song_name: じょんがらひとり旅
-      content_type: ''
   - song_name: 知らない気持ち
     song_alias:
     esong_code: 4034B39
@@ -517,3 +500,20 @@ result:
     - esong_code: 4039A12
       song_name: Stars
       content_type: ''
+  - song_name: Starting Over
+    song_alias:
+    esong_code: 4043B43
+    t_singer_master_id: '2287'
+    singer_name: Mr.Children
+    singer_alias:
+    available_date: '2018-08-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: バケモノの子<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: すたていんくお
+    singer_name_ruby: みすたちるとれん
+    song_variation:
+    - esong_code: 4043B43
+      song_name: Starting Over
+      content_type: DAM生音

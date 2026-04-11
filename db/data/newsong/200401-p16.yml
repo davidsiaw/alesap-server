@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 564
-  all_max_cnt: 620
-  all_country_cnt: 564
+  max_cnt: 562
+  all_max_cnt: 618
+  all_country_cnt: 562
   song:
-  - song_name: MISSION 1
-    song_alias:
-    esong_code: 966A33
-    t_singer_master_id: '12751'
-    singer_name: KICK THE CAN CREW
-    singer_alias:
-    available_date: '2004-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みつしよん1
-    singer_name_ruby: きつくさかんくる
-    song_variation:
-    - esong_code: 966A33
-      song_name: MISSION 1
-      content_type: ''
   - song_name: MISSION 2
     song_alias:
     esong_code: 966A28
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 441B45
       song_name: 予感の雨
+      content_type: ''
+  - song_name: 夜霧よ今夜もありがとう
+    song_alias:
+    esong_code: 439B46
+    t_singer_master_id: '1658'
+    singer_name: 中森 明菜
+    singer_alias:
+    available_date: '2004-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よきりよこんやもあ
+    singer_name_ruby: なかもりあきな
+    song_variation:
+    - esong_code: 439B46
+      song_name: 夜霧よ今夜もありがとう
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
-  - song_name: 北の港で待つ女
-    song_alias:
-    esong_code: 4068A35
-    t_singer_master_id: '5335'
-    singer_name: 浜 博也
-    singer_alias:
-    available_date: '2018-09-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きたのみなとてまつ
-    singer_name_ruby: はまひろや
-    song_variation:
-    - esong_code: 4068A35
-      song_name: 北の港で待つ女
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 北の別れ唄
-    song_alias:
-    esong_code: 4063B4
-    t_singer_master_id: '44211'
-    singer_name: 中村 仁美(戸川よし乃)
-    singer_alias:
-    available_date: '2018-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたのわかれうた
-    singer_name_ruby: なかむらひとみ
-    song_variation:
-    - esong_code: 4063B4
-      song_name: 北の別れ唄
-      content_type: ''
   - song_name: ギターヒーロー
     song_alias:
     esong_code: 4063B15
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4068B14
       song_name: Can't Go Back
+      content_type: ''
+  - song_name: CAN'T STOP
+    song_alias:
+    esong_code: 4069B22
+    t_singer_master_id: '56982'
+    singer_name: GANG PARADE
+    singer_alias:
+    available_date: '2018-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやんとすとつふ
+    singer_name_ruby: きやんくはれと
+    song_variation:
+    - esong_code: 4069B22
+      song_name: CAN'T STOP
+      content_type: ''
+  - song_name: Can you see? I'm SUSHI
+    song_alias:
+    esong_code: 4062A28
+    t_singer_master_id: '57246'
+    singer_name: ピコ太郎
+    singer_alias:
+    available_date: '2018-09-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやんゆしあいむ
+    singer_name_ruby: ひこたろう
+    song_variation:
+    - esong_code: 4062A28
+      song_name: Can you see? I'm SUSHI
       content_type: ''

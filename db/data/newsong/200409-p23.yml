@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 807
-  all_max_cnt: 867
-  all_country_cnt: 807
+  max_cnt: 806
+  all_max_cnt: 866
+  all_country_cnt: 806
   song:
   - song_name: Moving
     song_alias:
@@ -381,23 +381,6 @@ result:
     - esong_code: 549A6
       song_name: やるだけやっちまえ!
       content_type: ''
-  - song_name: やるっきゃないのさ 〜コナンの勝利〜
-    song_alias:
-    esong_code: 554A1
-    t_singer_master_id: '8234'
-    singer_name: 伊織
-    singer_alias:
-    available_date: '2004-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 名探偵コナン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: やるつきやないのさ
-    singer_name_ruby: いおり
-    song_variation:
-    - esong_code: 554A1
-      song_name: やるっきゃないのさ 〜コナンの勝利〜
-      content_type: ''
   - song_name: You
     song_alias:
     esong_code: 595A8
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 557A12
       song_name: 夕立の庭
+      content_type: ''
+  - song_name: 夕闇
+    song_alias:
+    esong_code: 550A11
+    t_singer_master_id: '19460'
+    singer_name: 矢野 絢子
+    singer_alias:
+    available_date: '2004-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうやみ
+    singer_name_ruby: やのしゆんこ
+    song_variation:
+    - esong_code: 550A11
+      song_name: 夕闇
       content_type: ''

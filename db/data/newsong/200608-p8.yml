@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: 彼女は夏のデザート
-    song_alias:
-    esong_code: 1583A14
-    t_singer_master_id: '1462'
-    singer_name: TUBE
-    singer_alias:
-    available_date: '2006-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かのしよはなつのて
-    singer_name_ruby: ちゆふ
-    song_variation:
-    - esong_code: 1583A14
-      song_name: 彼女は夏のデザート
-      content_type: ''
-  - song_name: 歌舞伎たいそう いざや カブかん!
-    song_alias:
-    esong_code: 1589A29
-    t_singer_master_id: '27066'
-    singer_name: 村治 崇光&市川 染五郎
-    singer_alias:
-    available_date: '2006-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かふきたいそういさ
-    singer_name_ruby: むらしたかみついちかわそめ
-    song_variation:
-    - esong_code: 1589A29
-      song_name: 歌舞伎たいそう いざや カブかん!
-      content_type: ''
   - song_name: 歌舞伎町インザナイト
     song_alias:
     esong_code: 1586B6
@@ -100,7 +66,7 @@ result:
     singer_alias:
     available_date: '2006-08-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: TALES OF THE WORLD RADIANT MYTHOLOGY<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: かみひこき
@@ -468,23 +434,6 @@ result:
       content_type: ''
   - song_name: KEY OF HEART
     song_alias:
-    esong_code: 1580A10
-    t_singer_master_id: '12544'
-    singer_name: BoA
-    singer_alias:
-    available_date: '2006-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 森のリトル・ギャング<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きおふはと
-    singer_name_ruby: ほあ
-    song_variation:
-    - esong_code: 1580A10
-      song_name: KEY OF HEART
-      content_type: ''
-  - song_name: KEY OF HEART
-    song_alias:
     esong_code: 1580B28
     t_singer_master_id: '12544'
     singer_name: BoA
@@ -500,6 +449,23 @@ result:
     - esong_code: 1580B28
       song_name: KEY OF HEART
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: KEY OF HEART
+    song_alias:
+    esong_code: 1580A10
+    t_singer_master_id: '12544'
+    singer_name: BoA
+    singer_alias:
+    available_date: '2006-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 森のリトル・ギャング<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きおふはと
+    singer_name_ruby: ほあ
+    song_variation:
+    - esong_code: 1580A10
+      song_name: KEY OF HEART
+      content_type: ''
   - song_name: 気がむけば電話して
     song_alias:
     esong_code: 1609A49
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1609A49
       song_name: 気がむけば電話して
+      content_type: ''
+  - song_name: Kissからはじめよう
+    song_alias:
+    esong_code: 1581B34
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2006-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすからはしめよう
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 1581B34
+      song_name: Kissからはじめよう
+      content_type: ''
+  - song_name: 傷だらけでも抱きしめて
+    song_alias:
+    esong_code: 1589A33
+    t_singer_master_id: '25642'
+    singer_name: 上木 彩矢
+    singer_alias:
+    available_date: '2006-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすたらけても
+    singer_name_ruby: かみきあや
+    song_variation:
+    - esong_code: 1589A33
+      song_name: 傷だらけでも抱きしめて
       content_type: ''

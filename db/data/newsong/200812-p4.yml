@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1071
+  all_max_cnt: 1192
+  all_country_cnt: 1071
   song:
   - song_name: 情焔心神路
     song_alias:
@@ -296,6 +296,23 @@ result:
     - esong_code: 2180B21
       song_name: epilogue 〜サヨナラ
       content_type: ''
+  - song_name: F.D.D.
+    song_alias:
+    esong_code: 2117A19
+    t_singer_master_id: '15301'
+    singer_name: いとう かなこ
+    singer_alias:
+    available_date: '2008-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: CHAOS;HEAD<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えふていてい
+    singer_name_ruby: いとうかなこ
+    song_variation:
+    - esong_code: 2117A19
+      song_name: F.D.D.
+      content_type: ''
   - song_name: Everytime
     song_alias:
     esong_code: 2178B43
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2185A16
       song_name: 王道
-      content_type: ''
-  - song_name: 大阪ナイト
-    song_alias:
-    esong_code: 2172B38
-    t_singer_master_id: '25504'
-    singer_name: 長島 俊
-    singer_alias:
-    available_date: '2008-12-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおさかないと
-    singer_name_ruby: なかしましゆん
-    song_variation:
-    - esong_code: 2172B38
-      song_name: 大阪ナイト
       content_type: ''

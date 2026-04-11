@@ -7,6 +7,23 @@ result:
   all_max_cnt: 1753
   all_country_cnt: 1570
   song:
+  - song_name: 月とサヨウナラ
+    song_alias:
+    esong_code: 3055A17
+    t_singer_master_id: '39361'
+    singer_name: 東京女子流
+    singer_alias:
+    available_date: '2013-06-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきとさようなら
+    singer_name_ruby: とうきようしよしりゆう
+    song_variation:
+    - esong_code: 3055A17
+      song_name: 月とサヨウナラ
+      content_type: ''
   - song_name: 月と太陽
     song_alias:
     esong_code: 3057A29
@@ -211,23 +228,6 @@ result:
     - esong_code: 3056B12
       song_name: ツナギ蝶
       content_type: ''
-  - song_name: 翼
-    song_alias:
-    esong_code: 3054B15
-    t_singer_master_id: '43745'
-    singer_name: INFINITE
-    singer_alias:
-    available_date: '2013-06-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つはさ
-    singer_name_ruby: いんふいにつと
-    song_variation:
-    - esong_code: 3054B15
-      song_name: 翼
-      content_type: ''
   - song_name: つばさ
     song_alias:
     esong_code: 3054B11
@@ -244,6 +244,23 @@ result:
     song_variation:
     - esong_code: 3054B11
       song_name: つばさ
+      content_type: ''
+  - song_name: 翼
+    song_alias:
+    esong_code: 3054B15
+    t_singer_master_id: '43745'
+    singer_name: INFINITE
+    singer_alias:
+    available_date: '2013-06-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つはさ
+    singer_name_ruby: いんふいにつと
+    song_variation:
+    - esong_code: 3054B15
+      song_name: 翼
       content_type: ''
   - song_name: 紬-tsumugi-
     song_alias:
@@ -319,7 +336,7 @@ result:
     t_singer_master_id: '16697'
     singer_name: 川嶋 あい
     singer_alias:
-    available_date: '2013-06-25'
+    available_date: '2013-06-26'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -336,7 +353,7 @@ result:
     t_singer_master_id: '29402'
     singer_name: BiS
     singer_alias:
-    available_date: '2013-06-25'
+    available_date: '2013-06-26'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -372,7 +389,7 @@ result:
     singer_alias:
     available_date: '2013-06-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ3<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ていあもていあもは
@@ -500,20 +517,3 @@ result:
     - esong_code: 3059A46
       song_name: This Road
       content_type: ''
-  - song_name: determination
-    song_alias:
-    esong_code: 3056B8
-    t_singer_master_id: '48060'
-    singer_name: ユウノウミ/イザベル
-    singer_alias:
-    available_date: '2013-06-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方紅魔郷 〜the Embodiment of Scarlet Devil<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: ていたみねいしよ
-    singer_name_ruby: ゆうのうみいさへる
-    song_variation:
-    - esong_code: 3056B8
-      song_name: determination
-      content_type: 東方

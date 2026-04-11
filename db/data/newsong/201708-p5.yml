@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1252
-  all_max_cnt: 1433
-  all_country_cnt: 1252
+  max_cnt: 1245
+  all_max_cnt: 1426
+  all_country_cnt: 1245
   song:
-  - song_name: うた仲間、こい仲間
-    song_alias:
-    esong_code: 3862B38
-    t_singer_master_id: '59499'
-    singer_name: 池上 園美&TOJA
-    singer_alias:
-    available_date: '2017-08-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたなかまこいなかま
-    singer_name_ruby: いけかみそのみあんととし
-    song_variation:
-    - esong_code: 3862B38
-      song_name: うた仲間、こい仲間
-      content_type: ''
-  - song_name: 歌に恋して
-    song_alias:
-    esong_code: 3684A34
-    t_singer_master_id: '59542'
-    singer_name: 新井 敦子
-    singer_alias:
-    available_date: '2017-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたにこいして
-    singer_name_ruby: あらいあつこ
-    song_variation:
-    - esong_code: 3684A34
-      song_name: 歌に恋して
-      content_type: ''
   - song_name: 美しい仕打ち
     song_alias:
     esong_code: 3865B20
@@ -262,23 +228,6 @@ result:
     - esong_code: 3866B13
       song_name: 英太郎のかたらんね テーマ曲
       content_type: ''
-  - song_name: 英雄 運命の詩
-    song_alias:
-    esong_code: 3857B29
-    t_singer_master_id: '43781'
-    singer_name: EGOIST
-    singer_alias:
-    available_date: '2017-08-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Fate/Apocrypha<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えいゆううんめいのう
-    singer_name_ruby: えこいすと
-    song_variation:
-    - esong_code: 3857B29
-      song_name: 英雄 運命の詩
-      content_type: ''
   - song_name: 英雄 運命の詩 (TV size)
     song_alias:
     esong_code: 3860A25
@@ -295,6 +244,23 @@ result:
     song_variation:
     - esong_code: 3860A25
       song_name: 英雄 運命の詩 (TV size)
+      content_type: ''
+  - song_name: 英雄 運命の詩
+    song_alias:
+    esong_code: 3857B29
+    t_singer_master_id: '43781'
+    singer_name: EGOIST
+    singer_alias:
+    available_date: '2017-08-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Fate/Apocrypha<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいゆううんめいのう
+    singer_name_ruby: えこいすと
+    song_variation:
+    - esong_code: 3857B29
+      song_name: 英雄 運命の詩
       content_type: ''
   - song_name: え・い・り・あ・ん (オリカラ)
     song_alias:
@@ -500,20 +466,54 @@ result:
     - esong_code: 3859A46
       song_name: ETERNAL♭
       content_type: ''
-  - song_name: エーテル
+  - song_name: 縁坂
     song_alias:
-    esong_code: 3865A45
-    t_singer_master_id: '45040'
-    singer_name: indigo la End
+    esong_code: 3753B29
+    t_singer_master_id: '59395'
+    singer_name: 柏木 美絵
     singer_alias:
-    available_date: '2017-08-30'
+    available_date: '2017-08-06'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: えてる
-    singer_name_ruby: いんていこらえんと
+    song_name_ruby: えにしさか
+    singer_name_ruby: かしわきみえ
     song_variation:
-    - esong_code: 3865A45
-      song_name: エーテル
+    - esong_code: 3753B29
+      song_name: 縁坂
+      content_type: ''
+  - song_name: エネルギー Oh エネルギー
+    song_alias:
+    esong_code: 3863A6
+    t_singer_master_id: '7'
+    singer_name: RCサクセション
+    singer_alias:
+    available_date: '2017-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えねるきおえね
+    singer_name_ruby: あるしさくせしよん
+    song_variation:
+    - esong_code: 3863A6
+      song_name: エネルギー Oh エネルギー
+      content_type: ''
+  - song_name: EVER LOVE
+    song_alias:
+    esong_code: 3865A10
+    t_singer_master_id: '28953'
+    singer_name: 宮野 真守
+    singer_alias:
+    available_date: '2017-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えはらふ
+    singer_name_ruby: みやのまもる
+    song_variation:
+    - esong_code: 3865A10
+      song_name: EVER LOVE
       content_type: ''

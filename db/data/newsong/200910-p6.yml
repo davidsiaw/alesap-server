@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: over ONE
-    song_alias:
-    esong_code: 2410A29
-    t_singer_master_id: '14940'
-    singer_name: KASUMI
-    singer_alias:
-    available_date: '2009-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: SHADOW SKILL-影技-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おはわん
-    singer_name_ruby: かすみ
-    song_variation:
-    - esong_code: 2410A29
-      song_name: over ONE
-      content_type: ''
   - song_name: Open Happiness
     song_alias:
     esong_code: 2414A36
@@ -129,8 +112,8 @@ result:
   - song_name: おもいでの京都
     song_alias:
     esong_code: 2416A12
-    t_singer_master_id: '31718'
-    singer_name: 小川 夏生(小川夏輝)
+    t_singer_master_id: '72157'
+    singer_name: なつき ようこ(小川夏輝)
     singer_alias:
     available_date: '2009-10-27'
     end_date: '2999-04-10 00:00:00'
@@ -138,7 +121,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: おもいてのきようと
-    singer_name_ruby: おかわなつき
+    singer_name_ruby: なつきようこ
     song_variation:
     - esong_code: 2416A12
       song_name: おもいでの京都
@@ -253,7 +236,7 @@ result:
     singer_alias:
     available_date: '2009-10-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おれさまによるおれさ
@@ -414,6 +397,23 @@ result:
     song_variation:
     - esong_code: 2411A34
       song_name: 女友達
+      content_type: ''
+  - song_name: おんなの雨情(あめ)
+    song_alias:
+    esong_code: 2398B26
+    t_singer_master_id: '17792'
+    singer_name: 高倉 一朗
+    singer_alias:
+    available_date: '2009-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのあめ
+    singer_name_ruby: たかくらいちろう
+    song_variation:
+    - esong_code: 2398B26
+      song_name: おんなの雨情(あめ)
       content_type: ''
   - song_name: 女の帰郷
     song_alias:

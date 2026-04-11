@@ -3,10 +3,61 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
+  - song_name: 男の酒場
+    song_alias:
+    esong_code: 2444B3
+    t_singer_master_id: '13599'
+    singer_name: 勝 竜二
+    singer_alias:
+    available_date: '2009-12-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのさかは
+    singer_name_ruby: かつりゆうし
+    song_variation:
+    - esong_code: 2444B3
+      song_name: 男の酒場
+      content_type: ''
+  - song_name: 男の夢見酒
+    song_alias:
+    esong_code: 2419A3
+    t_singer_master_id: '31731'
+    singer_name: 中屋 憲夫
+    singer_alias:
+    available_date: '2009-12-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのゆめみさけ
+    singer_name_ruby: なかやのりお
+    song_variation:
+    - esong_code: 2419A3
+      song_name: 男の夢見酒
+      content_type: ''
+  - song_name: 乙女の順序
+    song_alias:
+    esong_code: 2436B25
+    t_singer_master_id: '38262'
+    singer_name: 白石 涼子&名塚 佳織&野中 藍&堀江 由衣
+    singer_alias:
+    available_date: '2009-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 夏のあらし! 〜春夏秋冬〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとめのしゆんし
+    singer_name_ruby: しらいしりようこなつかかお
+    song_variation:
+    - esong_code: 2436B25
+      song_name: 乙女の順序
+      content_type: ''
   - song_name: 乙女繚乱☆ばとるPARTY
     song_alias:
     esong_code: 2438A26
@@ -166,7 +217,7 @@ result:
     t_singer_master_id: '15624'
     singer_name: 童子-T
     singer_alias:
-    available_date: '2009-12-16'
+    available_date: '2009-12-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -264,23 +315,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: Orion
     song_alias:
-    esong_code: 2437A19
-    t_singer_master_id: '31075'
-    singer_name: BREAKERZ
-    singer_alias:
-    available_date: '2009-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おりおん
-    singer_name_ruby: ふれいかす
-    song_variation:
-    - esong_code: 2437A19
-      song_name: Orion
-      content_type: ''
-  - song_name: Orion
-    song_alias:
     esong_code: 2456B28
     t_singer_master_id: '33419'
     singer_name: girl next door
@@ -296,6 +330,23 @@ result:
     - esong_code: 2456B28
       song_name: Orion
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Orion
+    song_alias:
+    esong_code: 2437A19
+    t_singer_master_id: '31075'
+    singer_name: BREAKERZ
+    singer_alias:
+    available_date: '2009-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おりおん
+    singer_name_ruby: ふれいかす
+    song_variation:
+    - esong_code: 2437A19
+      song_name: Orion
+      content_type: ''
   - song_name: おりひめ子守唄
     song_alias:
     esong_code: 2443B38
@@ -466,54 +517,3 @@ result:
     - esong_code: 2035B39
       song_name: おんなの三度笠
       content_type: ''
-  - song_name: おんなの夜曲
-    song_alias:
-    esong_code: 115A23
-    t_singer_master_id: '7128'
-    singer_name: 三代 沙也可
-    singer_alias:
-    available_date: '2009-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのやきよく
-    singer_name_ruby: みしろさやか
-    song_variation:
-    - esong_code: 115A23
-      song_name: おんなの夜曲
-      content_type: ''
-  - song_name: おんな北海伝
-    song_alias:
-    esong_code: 2447A8
-    t_singer_master_id: '36192'
-    singer_name: 白河 千恵美
-    singer_alias:
-    available_date: '2009-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなほつかいてん
-    singer_name_ruby: しらかわちえみ
-    song_variation:
-    - esong_code: 2447A8
-      song_name: おんな北海伝
-      content_type: ''
-  - song_name: 海峡たずね人
-    song_alias:
-    esong_code: 2440B25
-    t_singer_master_id: '1354'
-    singer_name: 多岐川 舞子
-    singer_alias:
-    available_date: '2009-12-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かいきようたすねひ
-    singer_name_ruby: たきかわまいこ
-    song_variation:
-    - esong_code: 2440B25
-      song_name: 海峡たずね人
-      content_type: DAM生音

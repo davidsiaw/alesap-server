@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1452
-  all_max_cnt: 1626
-  all_country_cnt: 1452
+  max_cnt: 1445
+  all_max_cnt: 1619
+  all_country_cnt: 1445
   song:
   - song_name: 大阪みれん花
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 4025A23
       song_name: 大阪みれん花
       content_type: DAM生音
-  - song_name: 大阪みれん花
-    song_alias:
-    esong_code: 242A45
-    t_singer_master_id: '43121'
-    singer_name: 男石 宜隆
-    singer_alias:
-    available_date: '2018-07-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: おおさかみれんはな
-    singer_name_ruby: おいしのふたか
-    song_variation:
-    - esong_code: 242A45
-      song_name: 大阪みれん花
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 大阪ろまん 「名演ギター 斉藤 功」
     song_alias:
     esong_code: 4025B28
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: 男の日記帳
     song_alias:
-    esong_code: 4032A2
-    t_singer_master_id: '17780'
-    singer_name: 坂井 一郎
-    singer_alias:
-    available_date: '2018-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おとこのにつきちよう
-    singer_name_ruby: さかいいちろう
-    song_variation:
-    - esong_code: 4032A2
-      song_name: 男の日記帳
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 男の日記帳
-    song_alias:
     esong_code: 4024B26
     t_singer_master_id: '17780'
     singer_name: 坂井 一郎
@@ -366,21 +332,21 @@ result:
       content_type: JOY生演奏
   - song_name: 男の日記帳
     song_alias:
-    esong_code: 4035A12
+    esong_code: 4032A2
     t_singer_master_id: '17780'
     singer_name: 坂井 一郎
     singer_alias:
-    available_date: '2018-07-15'
+    available_date: '2018-07-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: おとこのにつきちよう
     singer_name_ruby: さかいいちろう
     song_variation:
-    - esong_code: 4035A12
+    - esong_code: 4032A2
       song_name: 男の日記帳
-      content_type: DAM生音
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 男のほろり酒
     song_alias:
     esong_code: 4022B7
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4032B46
       song_name: 踊り続けよう
+      content_type: ''
+  - song_name: 踊るtonight
+    song_alias:
+    esong_code: 4035A46
+    t_singer_master_id: '14822'
+    singer_name: 韻シスト
+    singer_alias:
+    available_date: '2018-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとるとうないと
+    singer_name_ruby: いんしすと
+    song_variation:
+    - esong_code: 4035A46
+      song_name: 踊るtonight
+      content_type: ''
+  - song_name: ONIGIRI
+    song_alias:
+    esong_code: 4033A32
+    t_singer_master_id: '31055'
+    singer_name: 青山 テルマ
+    singer_alias:
+    available_date: '2018-07-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おにきり
+    singer_name_ruby: あおやまてるま
+    song_variation:
+    - esong_code: 4033A32
+      song_name: ONIGIRI
       content_type: ''

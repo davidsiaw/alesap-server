@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
   - song_name: Wish It Was Snowing Out
     song_alias:
@@ -23,23 +23,6 @@ result:
     song_variation:
     - esong_code: 3829B38
       song_name: Wish It Was Snowing Out
-      content_type: ''
-  - song_name: Whippy
-    song_alias:
-    esong_code: 3831B1
-    t_singer_master_id: '44185'
-    singer_name: A.B.C-Z
-    singer_alias:
-    available_date: '2017-06-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういつひ
-    singer_name_ruby: えひしすい
-    song_variation:
-    - esong_code: 3831B1
-      song_name: Whippy
       content_type: ''
   - song_name: Winner
     song_alias:
@@ -468,6 +451,23 @@ result:
       content_type: ''
   - song_name: "【es】〜Theme of es〜"
     song_alias:
+    esong_code: 3821A30
+    t_singer_master_id: '2287'
+    singer_name: Mr.Children
+    singer_alias:
+    available_date: '2017-06-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: えすてまおふえす
+    singer_name_ruby: みすたちるとれん
+    song_variation:
+    - esong_code: 3821A30
+      song_name: "【es】〜Theme of es〜"
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: "【es】〜Theme of es〜"
+    song_alias:
     esong_code: 3824A35
     t_singer_master_id: '2287'
     singer_name: Mr.Children
@@ -483,9 +483,9 @@ result:
     - esong_code: 3824A35
       song_name: "【es】〜Theme of es〜"
       content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: "【es】〜Theme of es〜"
+  - song_name: エソラ
     song_alias:
-    esong_code: 3821A30
+    esong_code: 3821A35
     t_singer_master_id: '2287'
     singer_name: Mr.Children
     singer_alias:
@@ -494,11 +494,11 @@ result:
     tie_up:
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: えすてまおふえす
+    song_name_ruby: えそら
     singer_name_ruby: みすたちるとれん
     song_variation:
-    - esong_code: 3821A30
-      song_name: "【es】〜Theme of es〜"
+    - esong_code: 3821A35
+      song_name: エソラ
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: エソラ
     song_alias:

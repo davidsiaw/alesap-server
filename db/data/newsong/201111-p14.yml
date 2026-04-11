@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
   - song_name: Gira Gira Girls
     song_alias:
@@ -245,22 +245,39 @@ result:
     - esong_code: 2707A16
       song_name: CHRISTMAS MAGIC (Starlight Moonlight)
       content_type: ''
-  - song_name: COOLISH WALK
+  - song_name: GLITTER
     song_alias:
-    esong_code: 2707A44
-    t_singer_master_id: '40014'
-    singer_name: 阿澄 佳奈&藤田 咲&喜多村 英梨
+    esong_code: 2705A7
+    t_singer_master_id: '21904'
+    singer_name: Perfume
     singer_alias:
-    available_date: '2011-11-09'
+    available_date: '2011-11-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: WORKING'!!<番組名>
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: くりつた
+    singer_name_ruby: はふゆむ
+    song_variation:
+    - esong_code: 2705A7
+      song_name: GLITTER
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: GLITTER
+    song_alias:
+    esong_code: 2696B1
+    t_singer_master_id: '21904'
+    singer_name: Perfume
+    singer_alias:
+    available_date: '2011-11-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: くりつしゆうおく
-    singer_name_ruby: あすみかなふしたさききた
+    song_name_ruby: くりつた
+    singer_name_ruby: はふゆむ
     song_variation:
-    - esong_code: 2707A44
-      song_name: COOLISH WALK
+    - esong_code: 2696B1
+      song_name: GLITTER
       content_type: ''
   - song_name: GLITTER (Album-mix)
     song_alias:
@@ -279,40 +296,6 @@ result:
     - esong_code: 2719A43
       song_name: GLITTER (Album-mix)
       content_type: ''
-  - song_name: GLITTER
-    song_alias:
-    esong_code: 2696B1
-    t_singer_master_id: '21904'
-    singer_name: Perfume
-    singer_alias:
-    available_date: '2011-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くりつた
-    singer_name_ruby: はふゆむ
-    song_variation:
-    - esong_code: 2696B1
-      song_name: GLITTER
-      content_type: ''
-  - song_name: GLITTER
-    song_alias:
-    esong_code: 2705A7
-    t_singer_master_id: '21904'
-    singer_name: Perfume
-    singer_alias:
-    available_date: '2011-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: くりつた
-    singer_name_ruby: はふゆむ
-    song_variation:
-    - esong_code: 2705A7
-      song_name: GLITTER
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 十字架の海
     song_alias:
     esong_code: 2701A28
@@ -517,3 +500,20 @@ result:
     - esong_code: 2719B13
       song_name: 月下美人
       content_type: ''
+  - song_name: 月紅 feat.神威がくぽ
+    song_alias:
+    esong_code: 2713B27
+    t_singer_master_id: '42171'
+    singer_name: maya
+    singer_alias:
+    available_date: '2011-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: けつこう
+    singer_name_ruby: まや
+    song_variation:
+    - esong_code: 2713B27
+      song_name: 月紅 feat.神威がくぽ
+      content_type: VOCALOID

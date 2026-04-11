@@ -3,26 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
-  - song_name: melody
+  - song_name: もう一度札幌
     song_alias:
-    esong_code: 1753A18
-    t_singer_master_id: '23486'
-    singer_name: 植村 花菜
+    esong_code: 1743A32
+    t_singer_master_id: '824'
+    singer_name: 小金沢 昇司
     singer_alias:
-    available_date: '2007-03-22'
+    available_date: '2007-03-21'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: めろてい
-    singer_name_ruby: うえむらかな
+    song_name_ruby: もういちとさつほ
+    singer_name_ruby: こかねさわしようし
     song_variation:
-    - esong_code: 1753A18
-      song_name: melody
+    - esong_code: 1743A32
+      song_name: もう一度札幌
       content_type: ''
   - song_name: もう一度札幌
     song_alias:
@@ -41,23 +41,6 @@ result:
     - esong_code: 1749B5
       song_name: もう一度札幌
       content_type: DAM生音
-  - song_name: もう一度札幌
-    song_alias:
-    esong_code: 1743A32
-    t_singer_master_id: '824'
-    singer_name: 小金沢 昇司
-    singer_alias:
-    available_date: '2007-03-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: もういちとさつほ
-    singer_name_ruby: こかねさわしようし
-    song_variation:
-    - esong_code: 1743A32
-      song_name: もう一度札幌
-      content_type: ''
   - song_name: 妄想地下室
     song_alias:
     esong_code: 1765B2
@@ -77,23 +60,6 @@ result:
       content_type: ''
   - song_name: 最上川恋唄
     song_alias:
-    esong_code: 1741A46
-    t_singer_master_id: '12858'
-    singer_name: 音羽 しのぶ(しのぶ)
-    singer_alias:
-    available_date: '2007-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: もかみかわこいう
-    singer_name_ruby: おとわしのふ
-    song_variation:
-    - esong_code: 1741A46
-      song_name: 最上川恋唄
-      content_type: ''
-  - song_name: 最上川恋唄
-    song_alias:
     esong_code: 1749B3
     t_singer_master_id: '12858'
     singer_name: 音羽 しのぶ(しのぶ)
@@ -109,6 +75,23 @@ result:
     - esong_code: 1749B3
       song_name: 最上川恋唄
       content_type: DAM生音
+  - song_name: 最上川恋唄
+    song_alias:
+    esong_code: 1741A46
+    t_singer_master_id: '12858'
+    singer_name: 音羽 しのぶ(しのぶ)
+    singer_alias:
+    available_date: '2007-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: もかみかわこいう
+    singer_name_ruby: おとわしのふ
+    song_variation:
+    - esong_code: 1741A46
+      song_name: 最上川恋唄
+      content_type: ''
   - song_name: もっと
     song_alias:
     esong_code: 1744A46
@@ -160,23 +143,6 @@ result:
     - esong_code: 1748B11
       song_name: 焼肉ぶる〜す
       content_type: ''
-  - song_name: 約束
-    song_alias:
-    esong_code: 1752B30
-    t_singer_master_id: '21930'
-    singer_name: 東方神起
-    singer_alias:
-    available_date: '2007-03-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やくそく
-    singer_name_ruby: とうほうしんき
-    song_variation:
-    - esong_code: 1752B30
-      song_name: 約束
-      content_type: ''
   - song_name: "〜約束〜"
     song_alias:
     esong_code: 1752B21
@@ -209,6 +175,23 @@ result:
     singer_name_ruby: もりしんいち
     song_variation:
     - esong_code: 1225B23
+      song_name: 約束
+      content_type: ''
+  - song_name: 約束
+    song_alias:
+    esong_code: 1752B30
+    t_singer_master_id: '21930'
+    singer_name: 東方神起
+    singer_alias:
+    available_date: '2007-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: やくそく
+    singer_name_ruby: とうほうしんき
+    song_variation:
+    - esong_code: 1752B30
       song_name: 約束
       content_type: ''
   - song_name: 優しい雨
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1753B10
       song_name: ユキドケミズ
+      content_type: ''
+  - song_name: 雪の降る街
+    song_alias:
+    esong_code: 1727A11
+    t_singer_master_id: '21398'
+    singer_name: Kra
+    singer_alias:
+    available_date: '2007-03-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆきのふるまち
+    singer_name_ruby: けら
+    song_variation:
+    - esong_code: 1727A11
+      song_name: 雪の降る街
       content_type: ''

@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: サンタマリア
+    song_alias:
+    esong_code: 3051A2
+    t_singer_master_id: '44604'
+    singer_name: 米津玄師(ハチ)
+    singer_alias:
+    available_date: '2013-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんたまりあ
+    singer_name_ruby: よねつけんし
+    song_variation:
+    - esong_code: 3051A2
+      song_name: サンタマリア
+      content_type: ''
+  - song_name: '321'
+    song_alias:
+    esong_code: 3048B15
+    t_singer_master_id: '39020'
+    singer_name: miwa
+    singer_alias:
+    available_date: '2013-05-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんにいいち
+    singer_name_ruby: みわ
+    song_variation:
+    - esong_code: 3048B15
+      song_name: '321'
+      content_type: ''
   - song_name: 3年目の頭痛薬
     song_alias:
     esong_code: 3052B3
@@ -176,23 +210,6 @@ result:
     song_variation:
     - esong_code: 3039B30
       song_name: シエロ・ドライヴ10050
-      content_type: ''
-  - song_name: 塩屋
-    song_alias:
-    esong_code: 266B47
-    t_singer_master_id: '358'
-    singer_name: 大江 千里
-    singer_alias:
-    available_date: '2013-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しおや
-    singer_name_ruby: おおえせんり
-    song_variation:
-    - esong_code: 266B47
-      song_name: 塩屋
       content_type: ''
   - song_name: 4月の雨
     song_alias:
@@ -440,7 +457,7 @@ result:
     singer_alias:
     available_date: '2013-05-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DD北斗の拳<番組名>
+    tie_up: 北斗の拳<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しふととしきゆうと
@@ -448,23 +465,6 @@ result:
     song_variation:
     - esong_code: 3031A47
       song_name: シフトと時給と、ついでに愛をとりもどせ!!
-      content_type: ''
-  - song_name: Shining Smile もっともっともっと!
-    song_alias:
-    esong_code: 3052A6
-    t_singer_master_id: '41564'
-    singer_name: サムライローズ
-    singer_alias:
-    available_date: '2013-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやいにんくすまい
-    singer_name_ruby: さむらいろす
-    song_variation:
-    - esong_code: 3052A6
-      song_name: Shining Smile もっともっともっと!
       content_type: ''
   - song_name: Shining smile
     song_alias:
@@ -483,6 +483,23 @@ result:
     - esong_code: 2622B3
       song_name: Shining smile
       content_type: ''
+  - song_name: Shining Smile もっともっともっと!
+    song_alias:
+    esong_code: 3052A6
+    t_singer_master_id: '41564'
+    singer_name: サムライローズ
+    singer_alias:
+    available_date: '2013-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやいにんくすまい
+    singer_name_ruby: さむらいろす
+    song_variation:
+    - esong_code: 3052A6
+      song_name: Shining Smile もっともっともっと!
+      content_type: ''
   - song_name: SHINE
     song_alias:
     esong_code: 3038B18
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3038B18
       song_name: SHINE
-      content_type: ''
-  - song_name: しゃくなげの花
-    song_alias:
-    esong_code: 3033A2
-    t_singer_master_id: '8424'
-    singer_name: 犬山 イヌコ(inuko inuyama)
-    singer_alias:
-    available_date: '2013-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやくなけのはな
-    singer_name_ruby: いぬやまいぬこ
-    song_variation:
-    - esong_code: 3033A2
-      song_name: しゃくなげの花
       content_type: ''

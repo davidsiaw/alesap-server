@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: 涙のウェディング・ディ
-    song_alias:
-    esong_code: 291A46
-    t_singer_master_id: '707'
-    singer_name: クールス(クールス・ロカビリークラブ)
-    singer_alias:
-    available_date: '2008-04-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみたのうえてい
-    singer_name_ruby: くるす
-    song_variation:
-    - esong_code: 291A46
-      song_name: 涙のウェディング・ディ
-      content_type: ''
   - song_name: 涙の綱取物語
     song_alias:
     esong_code: 1978A9
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1990B28
       song_name: NOCTURNE BLUE
+      content_type: ''
+  - song_name: 残り風
+    song_alias:
+    esong_code: 1981B24
+    t_singer_master_id: '25694'
+    singer_name: いきものがかり
+    singer_alias:
+    available_date: '2008-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BLEACH(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: のこりかせ
+    singer_name_ruby: いきものかかり
+    song_variation:
+    - esong_code: 1981B24
+      song_name: 残り風
       content_type: ''

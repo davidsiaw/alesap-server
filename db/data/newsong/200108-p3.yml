@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 439
-  all_max_cnt: 472
-  all_country_cnt: 439
+  max_cnt: 434
+  all_max_cnt: 467
+  all_country_cnt: 434
   song:
-  - song_name: からっぽの世界
-    song_alias:
-    esong_code: 751A1
-    t_singer_master_id: '5833'
-    singer_name: ジャックス
-    singer_alias:
-    available_date: '2001-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: からつほのせかい
-    singer_name_ruby: しやつくす
-    song_variation:
-    - esong_code: 751A1
-      song_name: からっぽの世界
-      content_type: ''
-  - song_name: 華麗なる誘惑
-    song_alias:
-    esong_code: 659A36
-    t_singer_master_id: '2024'
-    singer_name: 布施 明
-    singer_alias:
-    available_date: '2001-08-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かれいなるゆうわく
-    singer_name_ruby: ふせあきら
-    song_variation:
-    - esong_code: 659A36
-      song_name: 華麗なる誘惑
-      content_type: ''
   - song_name: 変わりゆく季節の中で
     song_alias:
     esong_code: 658B30
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 654A40
       song_name: 恋はブレッキー
+      content_type: ''
+  - song_name: コオロギの唄
+    song_alias:
+    esong_code: 662A24
+    t_singer_master_id: '1671'
+    singer_name: 長渕 剛
+    singer_alias:
+    available_date: '2001-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こおろきのうた
+    singer_name_ruby: なかふちつよし
+    song_variation:
+    - esong_code: 662A24
+      song_name: コオロギの唄
+      content_type: ''
+  - song_name: 心う・ら・は・ら
+    song_alias:
+    esong_code: 661A25
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2001-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころうらはら
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 661A25
+      song_name: 心う・ら・は・ら
       content_type: ''

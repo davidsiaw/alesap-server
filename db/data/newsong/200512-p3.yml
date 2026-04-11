@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 967
-  all_max_cnt: 1006
-  all_country_cnt: 967
+  max_cnt: 962
+  all_max_cnt: 1001
+  all_country_cnt: 962
   song:
-  - song_name: イージンサン
-    song_alias:
-    esong_code: 1110B29
-    t_singer_master_id: '2568'
-    singer_name: LA・PPISCH
-    singer_alias:
-    available_date: '2005-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いしんさん
-    singer_name_ruby: れひつしゆ
-    song_variation:
-    - esong_code: 1110B29
-      song_name: イージンサン
-      content_type: ''
   - song_name: Is this feeling love? (全英語詞)
     song_alias:
     esong_code: 1424B32
@@ -75,23 +58,6 @@ result:
     - esong_code: 471B11
       song_name: いちご畑でつかまえて
       content_type: ''
-  - song_name: '1224'
-    song_alias:
-    esong_code: 1415A22
-    t_singer_master_id: '24718'
-    singer_name: U.N.O.BAND
-    singer_alias:
-    available_date: '2005-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: いちにいにいよん
-    singer_name_ruby: ゆえぬおはんと
-    song_variation:
-    - esong_code: 1415A22
-      song_name: '1224'
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 一番の願い
     song_alias:
     esong_code: 1421B22
@@ -466,7 +432,7 @@ result:
     - esong_code: 1442B7
       song_name: We Will Rock You
       content_type: ''
-  - song_name: WE CAN GO EVERYWHERE (全英語詞)
+  - song_name: WE CAN GO EVERYWHERE
     song_alias:
     esong_code: 2034A15
     t_singer_master_id: '16775'
@@ -481,7 +447,7 @@ result:
     singer_name_ruby: くつとふおなつしんく
     song_variation:
     - esong_code: 2034A15
-      song_name: WE CAN GO EVERYWHERE (全英語詞)
+      song_name: WE CAN GO EVERYWHERE
       content_type: ''
   - song_name: 初陣
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1414A29
       song_name: Without You
+      content_type: ''
+  - song_name: WINTER SONG (DANCING SNOW FLAKES VERSION)
+    song_alias:
+    esong_code: 1412A48
+    t_singer_master_id: '1607'
+    singer_name: DREAMS COME TRUE
+    singer_alias:
+    available_date: '2005-12-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういんたそんく
+    singer_name_ruby: とりむすかむとうる
+    song_variation:
+    - esong_code: 1412A48
+      song_name: WINTER SONG (DANCING SNOW FLAKES VERSION)
+      content_type: ''
+  - song_name: Weather Report
+    song_alias:
+    esong_code: 1423B32
+    t_singer_master_id: '5620'
+    singer_name: FISHMANS
+    singer_alias:
+    available_date: '2005-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うえさりほと
+    singer_name_ruby: ふいつしゆまんす
+    song_variation:
+    - esong_code: 1423B32
+      song_name: Weather Report
       content_type: ''

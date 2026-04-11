@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
+  - song_name: バカヤロー
+    song_alias:
+    esong_code: 3812B44
+    t_singer_master_id: '6297'
+    singer_name: ウルフルズ
+    singer_alias:
+    available_date: '2017-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はかやろ
+    singer_name_ruby: うるふるす
+    song_variation:
+    - esong_code: 3812B44
+      song_name: バカヤロー
+      content_type: ''
   - song_name: バキバキ
     song_alias:
     esong_code: 3809B17
@@ -143,23 +160,6 @@ result:
     - esong_code: 3811B20
       song_name: はじめてのそつぎょう
       content_type: ''
-  - song_name: はじめてのチュウ
-    song_alias:
-    esong_code: 3818A39
-    t_singer_master_id: '58974'
-    singer_name: naNami(ななみ)
-    singer_alias:
-    available_date: '2017-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はしめてのちゆう
-    singer_name_ruby: ななみ
-    song_variation:
-    - esong_code: 3818A39
-      song_name: はじめてのチュウ
-      content_type: ''
   - song_name: はじめてのチュウ (Ag弾き語りver.)
     song_alias:
     esong_code: 3815A13
@@ -176,6 +176,23 @@ result:
     song_variation:
     - esong_code: 3815A13
       song_name: はじめてのチュウ (Ag弾き語りver.)
+      content_type: ''
+  - song_name: はじめてのチュウ
+    song_alias:
+    esong_code: 3818A39
+    t_singer_master_id: '58974'
+    singer_name: naNami(ななみ)
+    singer_alias:
+    available_date: '2017-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はしめてのちゆう
+    singer_name_ruby: ななみ
+    song_variation:
+    - esong_code: 3818A39
+      song_name: はじめてのチュウ
       content_type: ''
   - song_name: birthday song
     song_alias:
@@ -211,23 +228,6 @@ result:
     - esong_code: 3811B12
       song_name: bath room
       content_type: ''
-  - song_name: 二十歳の祝い酒
-    song_alias:
-    esong_code: 3709B16
-    t_singer_master_id: '5744'
-    singer_name: 藤原 浩
-    singer_alias:
-    available_date: '2017-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: はたちのいわいさけ
-    singer_name_ruby: ふしわらひろし
-    song_variation:
-    - esong_code: 3709B16
-      song_name: 二十歳の祝い酒
-      content_type: DAM生音
   - song_name: 二十歳の祝い酒
     song_alias:
     esong_code: 3807B4
@@ -279,6 +279,23 @@ result:
     - esong_code: 3818B11
       song_name: Butterfly
       content_type: ''
+  - song_name: バタフライ・エフェクト
+    song_alias:
+    esong_code: 3808B41
+    t_singer_master_id: '54445'
+    singer_name: CLOWD
+    singer_alias:
+    available_date: '2017-05-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はたふらいえふえく
+    singer_name_ruby: くらうと
+    song_variation:
+    - esong_code: 3808B41
+      song_name: バタフライ・エフェクト
+      content_type: ''
   - song_name: バタフライエフェクト
     song_alias:
     esong_code: 3804B27
@@ -296,22 +313,22 @@ result:
     - esong_code: 3804B27
       song_name: バタフライエフェクト
       content_type: ''
-  - song_name: バタフライ・エフェクト
+  - song_name: パッ
     song_alias:
-    esong_code: 3808B41
-    t_singer_master_id: '54445'
-    singer_name: CLOWD
+    esong_code: 3801B2
+    t_singer_master_id: '32267'
+    singer_name: 西野 カナ
     singer_alias:
-    available_date: '2017-05-16'
+    available_date: '2017-05-03'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はたふらいえふえく
-    singer_name_ruby: くらうと
+    song_name_ruby: はつ
+    singer_name_ruby: にしのかな
     song_variation:
-    - esong_code: 3808B41
-      song_name: バタフライ・エフェクト
+    - esong_code: 3801B2
+      song_name: パッ
       content_type: ''
   - song_name: パッ
     song_alias:
@@ -330,23 +347,6 @@ result:
     - esong_code: 3805B18
       song_name: パッ
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: パッ
-    song_alias:
-    esong_code: 3801B2
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2017-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はつ
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 3801B2
-      song_name: パッ
-      content_type: ''
   - song_name: バツイチのいい男・いい女
     song_alias:
     esong_code: 3818B35

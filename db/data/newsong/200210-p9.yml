@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 496
-  all_max_cnt: 546
-  all_country_cnt: 496
+  max_cnt: 495
+  all_max_cnt: 545
+  all_country_cnt: 495
   song:
   - song_name: 月と星と太陽と
     song_alias:
@@ -145,7 +145,7 @@ result:
       content_type: ''
   - song_name: 手紙
     song_alias:
-    esong_code: 148B44
+    esong_code: 933B38
     t_singer_master_id: '6909'
     singer_name: SOPHIA
     singer_alias:
@@ -153,13 +153,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM良音
+    content_type:
     song_name_ruby: てかみ
     singer_name_ruby: そふいあ
     song_variation:
-    - esong_code: 148B44
+    - esong_code: 933B38
       song_name: 手紙
-      content_type: DAM良音
+      content_type: ''
   - song_name: 手紙 〜放浪遊戯〜
     song_alias:
     esong_code: 149B45
@@ -179,7 +179,7 @@ result:
       content_type: ''
   - song_name: 手紙
     song_alias:
-    esong_code: 933B38
+    esong_code: 148B44
     t_singer_master_id: '6909'
     singer_name: SOPHIA
     singer_alias:
@@ -187,13 +187,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM良音
     song_name_ruby: てかみ
     singer_name_ruby: そふいあ
     song_variation:
-    - esong_code: 933B38
+    - esong_code: 148B44
       song_name: 手紙
-      content_type: ''
+      content_type: DAM良音
   - song_name: デージー
     song_alias:
     esong_code: 926A27
@@ -213,23 +213,6 @@ result:
       content_type: ''
   - song_name: DESTINY ROSE
     song_alias:
-    esong_code: 943B33
-    t_singer_master_id: '2111'
-    singer_name: 布袋 寅泰
-    singer_alias:
-    available_date: '2002-10-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てすていにろす
-    singer_name_ruby: ほていともやす
-    song_variation:
-    - esong_code: 943B33
-      song_name: DESTINY ROSE
-      content_type: ''
-  - song_name: DESTINY ROSE
-    song_alias:
     esong_code: 149A48
     t_singer_master_id: '2111'
     singer_name: 布袋 寅泰
@@ -245,6 +228,23 @@ result:
     - esong_code: 149A48
       song_name: DESTINY ROSE
       content_type: DAM良音
+  - song_name: DESTINY ROSE
+    song_alias:
+    esong_code: 943B33
+    t_singer_master_id: '2111'
+    singer_name: 布袋 寅泰
+    singer_alias:
+    available_date: '2002-10-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てすていにろす
+    singer_name_ruby: ほていともやす
+    song_variation:
+    - esong_code: 943B33
+      song_name: DESTINY ROSE
+      content_type: ''
   - song_name: Destination Truth
     song_alias:
     esong_code: 930A28
@@ -381,23 +381,6 @@ result:
     - esong_code: 933B29
       song_name: "・・・to be HARLEM"
       content_type: ''
-  - song_name: 都会の雨
-    song_alias:
-    esong_code: 929A22
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2002-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とかいのあめ
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 929A22
-      song_name: 都会の雨
-      content_type: ''
   - song_name: 時の彼方へ
     song_alias:
     esong_code: 933B28
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 929B37
       song_name: train song
+      content_type: ''
+  - song_name: twice
+    song_alias:
+    esong_code: 931B26
+    t_singer_master_id: '7906'
+    singer_name: Plastic Tree
+    singer_alias:
+    available_date: '2002-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とわいす
+    singer_name_ruby: ふらすていつくとうり
+    song_variation:
+    - esong_code: 931B26
+      song_name: twice
       content_type: ''

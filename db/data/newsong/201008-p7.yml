@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1126
-  all_max_cnt: 1256
-  all_country_cnt: 1126
+  max_cnt: 1125
+  all_max_cnt: 1255
+  all_country_cnt: 1125
   song:
   - song_name: 女ですもの
     song_alias:
@@ -381,40 +381,6 @@ result:
     - esong_code: 2375A8
       song_name: 柿の木坂の家 「名演ギター 斉藤 功」
       content_type: ''
-  - song_name: kagero
-    song_alias:
-    esong_code: 2579A5
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2010-08-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かけろう
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 2579A5
-      song_name: kagero
-      content_type: ''
-  - song_name: KAGERO
-    song_alias:
-    esong_code: 2562B34
-    t_singer_master_id: '10038'
-    singer_name: GACKT(Gackt)
-    singer_alias:
-    available_date: '2010-08-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かけろう
-    singer_name_ruby: かくと
-    song_variation:
-    - esong_code: 2562B34
-      song_name: KAGERO
-      content_type: ''
   - song_name: 陽炎
     song_alias:
     esong_code: 2585B31
@@ -448,6 +414,40 @@ result:
     song_variation:
     - esong_code: 2576B31
       song_name: 陽炎
+      content_type: ''
+  - song_name: kagero
+    song_alias:
+    esong_code: 2579A5
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2010-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かけろう
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 2579A5
+      song_name: kagero
+      content_type: ''
+  - song_name: KAGERO
+    song_alias:
+    esong_code: 2562B34
+    t_singer_master_id: '10038'
+    singer_name: GACKT(Gackt)
+    singer_alias:
+    available_date: '2010-08-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かけろう
+    singer_name_ruby: かくと
+    song_variation:
+    - esong_code: 2562B34
+      song_name: KAGERO
       content_type: ''
   - song_name: 鹿児島の恋
     song_alias:

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1167
-  all_max_cnt: 1285
-  all_country_cnt: 1167
+  max_cnt: 1163
+  all_max_cnt: 1281
+  all_country_cnt: 1163
   song:
-  - song_name: Watch me,Every Day
-    song_alias:
-    esong_code: 1934B20
-    t_singer_master_id: '32053'
-    singer_name: 杉元 聖子
-    singer_alias:
-    available_date: '2007-12-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うおつちみえふ
-    singer_name_ruby: すきもとせいこ
-    song_variation:
-    - esong_code: 1934B20
-      song_name: Watch me,Every Day
-      content_type: ''
   - song_name: 浮世CROSSING
     song_alias:
     esong_code: 1923A48
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1917B23
       song_name: NP
+      content_type: ''
+  - song_name: Enemy
+    song_alias:
+    esong_code: 1910A32
+    t_singer_master_id: '8516'
+    singer_name: the brilliant green
+    singer_alias:
+    available_date: '2007-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えねみ
+    singer_name_ruby: さふりりあんとく
+    song_variation:
+    - esong_code: 1910A32
+      song_name: Enemy
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
-  - song_name: 手をつないだら
-    song_alias:
-    esong_code: 1797A32
-    t_singer_master_id: '21333'
-    singer_name: 風味堂
-    singer_alias:
-    available_date: '2007-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てをつないたら
-    singer_name_ruby: ふうみとう
-    song_variation:
-    - esong_code: 1797A32
-      song_name: 手をつないだら
-      content_type: ''
   - song_name: 手をつなげば
     song_alias:
     esong_code: 1799A4
@@ -383,23 +366,6 @@ result:
       content_type: ''
   - song_name: 途中駅
     song_alias:
-    esong_code: 1800A35
-    t_singer_master_id: '2526'
-    singer_name: 湯原 昌幸
-    singer_alias:
-    available_date: '2007-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: とちゆうえき
-    singer_name_ruby: ゆはらまさゆき
-    song_variation:
-    - esong_code: 1800A35
-      song_name: 途中駅
-      content_type: DAM生音
-  - song_name: 途中駅
-    song_alias:
     esong_code: 1797B17
     t_singer_master_id: '2526'
     singer_name: 湯原 昌幸
@@ -415,6 +381,23 @@ result:
     - esong_code: 1797B17
       song_name: 途中駅
       content_type: ''
+  - song_name: 途中駅
+    song_alias:
+    esong_code: 1800A35
+    t_singer_master_id: '2526'
+    singer_name: 湯原 昌幸
+    singer_alias:
+    available_date: '2007-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: とちゆうえき
+    singer_name_ruby: ゆはらまさゆき
+    song_variation:
+    - esong_code: 1800A35
+      song_name: 途中駅
+      content_type: DAM生音
   - song_name: Top Secret
     song_alias:
     esong_code: 1801A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1802A40
       song_name: DRAGGAN QUEST
+      content_type: ''
+  - song_name: DROOG IN A SLUM
+    song_alias:
+    esong_code: 1797A22
+    t_singer_master_id: '15100'
+    singer_name: BEAT CRUSADERS
+    singer_alias:
+    available_date: '2007-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とらつくいんあす
+    singer_name_ruby: ひとくるせいたす
+    song_variation:
+    - esong_code: 1797A22
+      song_name: DROOG IN A SLUM
       content_type: ''

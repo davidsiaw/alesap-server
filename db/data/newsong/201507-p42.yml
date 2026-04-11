@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
-  - song_name: 山崎美央
-    song_alias:
-    esong_code: 3463A41
-    t_singer_master_id: '52314'
-    singer_name: ミオヤマザキ
-    singer_alias:
-    available_date: '2015-07-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やまさきみお
-    singer_name_ruby: みおやまさき
-    song_variation:
-    - esong_code: 3463A41
-      song_name: 山崎美央
-      content_type: ''
-  - song_name: 山はりねずみアンデスチャッキー
-    song_alias:
-    esong_code: 3469A18
-    t_singer_master_id: '31935'
-    singer_name: くにたけ みゆき
-    singer_alias:
-    available_date: '2015-07-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: SHIROBAKO<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: やまはりねすみあん
-    singer_name_ruby: くにたけみゆき
-    song_variation:
-    - esong_code: 3469A18
-      song_name: 山はりねずみアンデスチャッキー
-      content_type: ''
-  - song_name: 山吹の花
-    song_alias:
-    esong_code: 3051A33
-    t_singer_master_id: '35029'
-    singer_name: こおり 健太
-    singer_alias:
-    available_date: '2015-07-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やまふきのはな
-    singer_name_ruby: こおりけんた
-    song_variation:
-    - esong_code: 3051A33
-      song_name: 山吹の花
-      content_type: ''
   - song_name: やんなっちゃう
     song_alias:
     esong_code: 3466B26
@@ -330,23 +279,6 @@ result:
     - esong_code: 3473B2
       song_name: 幸村の暗闇
       content_type: ''
-  - song_name: You Can Do It!! 〜夢を追いかけて〜
-    song_alias:
-    esong_code: 3462A29
-    t_singer_master_id: '42870'
-    singer_name: Gero
-    singer_alias:
-    available_date: '2015-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆきやんとういつ
-    singer_name_ruby: けろ
-    song_variation:
-    - esong_code: 3462A29
-      song_name: You Can Do It!! 〜夢を追いかけて〜
-      content_type: ''
   - song_name: You Can Do It!
     song_alias:
     esong_code: 3465A41
@@ -363,6 +295,23 @@ result:
     song_variation:
     - esong_code: 3465A41
       song_name: You Can Do It!
+      content_type: ''
+  - song_name: You Can Do It!! 〜夢を追いかけて〜
+    song_alias:
+    esong_code: 3462A29
+    t_singer_master_id: '42870'
+    singer_name: Gero
+    singer_alias:
+    available_date: '2015-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆきやんとういつ
+    singer_name_ruby: けろ
+    song_variation:
+    - esong_code: 3462A29
+      song_name: You Can Do It!! 〜夢を追いかけて〜
       content_type: ''
   - song_name: ゆずれない愛
     song_alias:
@@ -434,23 +383,6 @@ result:
       content_type: ''
   - song_name: 指輪
     song_alias:
-    esong_code: 3461B34
-    t_singer_master_id: '14047'
-    singer_name: CRAZY KEN BAND
-    singer_alias:
-    available_date: '2015-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆひわ
-    singer_name_ruby: くれいしけんはんと
-    song_variation:
-    - esong_code: 3461B34
-      song_name: 指輪
-      content_type: ''
-  - song_name: 指輪
-    song_alias:
     esong_code: 457A6
     t_singer_master_id: '21925'
     singer_name: 加川 明
@@ -466,6 +398,23 @@ result:
     - esong_code: 457A6
       song_name: 指輪
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 指輪
+    song_alias:
+    esong_code: 3461B34
+    t_singer_master_id: '14047'
+    singer_name: CRAZY KEN BAND
+    singer_alias:
+    available_date: '2015-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆひわ
+    singer_name_ruby: くれいしけんはんと
+    song_variation:
+    - esong_code: 3461B34
+      song_name: 指輪
+      content_type: ''
   - song_name: 夢があるから
     song_alias:
     esong_code: 3462B25
@@ -517,3 +466,54 @@ result:
     - esong_code: 413A40
       song_name: 夢に抱かれて
       content_type: ''
+  - song_name: 夢の叶え方
+    song_alias:
+    esong_code: 3465A27
+    t_singer_master_id: '10988'
+    singer_name: GAKU-MC
+    singer_alias:
+    available_date: '2015-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめのかなえかた
+    singer_name_ruby: かくえむし
+    song_variation:
+    - esong_code: 3465A27
+      song_name: 夢の叶え方
+      content_type: ''
+  - song_name: 夢の隣り
+    song_alias:
+    esong_code: 412B32
+    t_singer_master_id: '2168'
+    singer_name: 前川 清
+    singer_alias:
+    available_date: '2015-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ゆめのとなり
+    singer_name_ruby: まえかわきよし
+    song_variation:
+    - esong_code: 412B32
+      song_name: 夢の隣り
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 夢の隣り
+    song_alias:
+    esong_code: 413A32
+    t_singer_master_id: '2168'
+    singer_name: 前川 清
+    singer_alias:
+    available_date: '2015-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ゆめのとなり
+    singer_name_ruby: まえかわきよし
+    song_variation:
+    - esong_code: 413A32
+      song_name: 夢の隣り
+      content_type: DAM生音

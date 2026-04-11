@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
-  - song_name: NON STOP LOVE
-    song_alias:
-    esong_code: 1118B37
-    t_singer_master_id: '13880'
-    singer_name: アイタカ(アイロウ&タカ)
-    singer_alias:
-    available_date: '2013-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のんすとつふらふ
-    singer_name_ruby: あいたか
-    song_variation:
-    - esong_code: 1118B37
-      song_name: NON STOP LOVE
-      content_type: ''
   - song_name: ノンフィクションコンパス
     song_alias:
     esong_code: 3138A43
@@ -389,7 +372,7 @@ result:
     singer_alias:
     available_date: '2013-11-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイ 女神篇<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はとひとにこ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 107A40
       song_name: 花水木 〜愛は奇跡のように〜
+      content_type: ''
+  - song_name: Vanity colon
+    song_alias:
+    esong_code: 3140B5
+    t_singer_master_id: '24617'
+    singer_name: 後藤 沙緒里
+    singer_alias:
+    available_date: '2013-11-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: プリティーリズム<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はにていころん
+    singer_name_ruby: ことうさおり
+    song_variation:
+    - esong_code: 3140B5
+      song_name: Vanity colon
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 319
-  all_max_cnt: 344
-  all_country_cnt: 319
+  max_cnt: 318
+  all_max_cnt: 343
+  all_country_cnt: 318
   song:
-  - song_name: ドラマ
-    song_alias:
-    esong_code: 544A21
-    t_singer_master_id: '8713'
-    singer_name: 宇多田 ヒカル
-    singer_alias:
-    available_date: '2001-04-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とらま
-    singer_name_ruby: うたたひかる
-    song_variation:
-    - esong_code: 544A21
-      song_name: ドラマ
-      content_type: ''
   - song_name: Trick
     song_alias:
     esong_code: 549A30
@@ -128,23 +111,6 @@ result:
       content_type: ''
   - song_name: なみだ雨
     song_alias:
-    esong_code: 548A33
-    t_singer_master_id: '12408'
-    singer_name: 加山 ひろし
-    singer_alias:
-    available_date: '2001-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみたあめ
-    singer_name_ruby: かやまひろし
-    song_variation:
-    - esong_code: 548A33
-      song_name: なみだ雨
-      content_type: ''
-  - song_name: なみだ雨
-    song_alias:
     esong_code: 515B27
     t_singer_master_id: '12232'
     singer_name: 桐生 なおと
@@ -158,6 +124,23 @@ result:
     singer_name_ruby: きりゆうなおと
     song_variation:
     - esong_code: 515B27
+      song_name: なみだ雨
+      content_type: ''
+  - song_name: なみだ雨
+    song_alias:
+    esong_code: 548A33
+    t_singer_master_id: '12408'
+    singer_name: 加山 ひろし
+    singer_alias:
+    available_date: '2001-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたあめ
+    singer_name_ruby: かやまひろし
+    song_variation:
+    - esong_code: 548A33
       song_name: なみだ雨
       content_type: ''
   - song_name: なんだか最近さみしくて
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 548A38
       song_name: パラサイト（寄生虫）
+      content_type: ''
+  - song_name: BALA薔薇VARA
+    song_alias:
+    esong_code: 552A37
+    t_singer_master_id: '6767'
+    singer_name: GARGOYLE
+    singer_alias:
+    available_date: '2001-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はらはらはら
+    singer_name_ruby: かこいる
+    song_variation:
+    - esong_code: 552A37
+      song_name: BALA薔薇VARA
       content_type: ''

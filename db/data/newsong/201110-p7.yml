@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
   - song_name: Endless Story
     song_alias:
@@ -94,23 +94,6 @@ result:
       content_type: 東方
   - song_name: 大石内蔵助
     song_alias:
-    esong_code: 2694A14
-    t_singer_master_id: '495'
-    singer_name: 鏡 五郎
-    singer_alias:
-    available_date: '2011-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おおいしくらのすけ
-    singer_name_ruby: かかみころう
-    song_variation:
-    - esong_code: 2694A14
-      song_name: 大石内蔵助
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 大石内蔵助
-    song_alias:
     esong_code: 2678B11
     t_singer_master_id: '495'
     singer_name: 鏡 五郎
@@ -126,6 +109,23 @@ result:
     - esong_code: 2678B11
       song_name: 大石内蔵助
       content_type: ''
+  - song_name: 大石内蔵助
+    song_alias:
+    esong_code: 2694A14
+    t_singer_master_id: '495'
+    singer_name: 鏡 五郎
+    singer_alias:
+    available_date: '2011-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おおいしくらのすけ
+    singer_name_ruby: かかみころう
+    song_variation:
+    - esong_code: 2694A14
+      song_name: 大石内蔵助
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 大江山呑んべぇ音頭 feat.aki
     song_alias:
     esong_code: 2690A3
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: 男のひとり酒
     song_alias:
-    esong_code: 2686B38
-    t_singer_master_id: '21664'
-    singer_name: 若原 りょう
-    singer_alias:
-    available_date: '2011-10-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこのひとりさけ
-    singer_name_ruby: わかはらりよう
-    song_variation:
-    - esong_code: 2686B38
-      song_name: 男のひとり酒
-      content_type: ''
-  - song_name: 男のひとり酒
-    song_alias:
     esong_code: 2688A3
     t_singer_master_id: '21664'
     singer_name: 若原 りょう
@@ -517,3 +500,20 @@ result:
     - esong_code: 2685A14
       song_name: 男のひとり酒
       content_type: DAM生音
+  - song_name: 男のひとり酒
+    song_alias:
+    esong_code: 2686B38
+    t_singer_master_id: '21664'
+    singer_name: 若原 りょう
+    singer_alias:
+    available_date: '2011-10-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのひとりさけ
+    singer_name_ruby: わかはらりよう
+    song_variation:
+    - esong_code: 2686B38
+      song_name: 男のひとり酒
+      content_type: ''

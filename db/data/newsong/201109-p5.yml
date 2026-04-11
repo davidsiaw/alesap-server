@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1213
-  all_max_cnt: 1338
-  all_country_cnt: 1213
+  max_cnt: 1211
+  all_max_cnt: 1336
+  all_country_cnt: 1211
   song:
-  - song_name: IN MY WORLD
-    song_alias:
-    esong_code: 2685A13
-    t_singer_master_id: '39950'
-    singer_name: ROOKiEZ is PUNK'D
-    singer_alias:
-    available_date: '2011-09-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 青の祓魔師<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: いんまいわると
-    singer_name_ruby: るきすいすはんくと
-    song_variation:
-    - esong_code: 2685A13
-      song_name: IN MY WORLD
-      content_type: DAM生音
   - song_name: IN MY WORLD
     song_alias:
     esong_code: 2688A2
@@ -162,23 +145,6 @@ result:
       content_type: ''
   - song_name: 浮草の町
     song_alias:
-    esong_code: 2671A8
-    t_singer_master_id: '1354'
-    singer_name: 多岐川 舞子
-    singer_alias:
-    available_date: '2011-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: うきくさのまち
-    singer_name_ruby: たきかわまいこ
-    song_variation:
-    - esong_code: 2671A8
-      song_name: 浮草の町
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 浮草の町
-    song_alias:
     esong_code: 2668A19
     t_singer_master_id: '1354'
     singer_name: 多岐川 舞子
@@ -211,6 +177,23 @@ result:
     - esong_code: 2667B45
       song_name: 浮草の町
       content_type: DAM生音
+  - song_name: 浮草の町
+    song_alias:
+    esong_code: 2671A8
+    t_singer_master_id: '1354'
+    singer_name: 多岐川 舞子
+    singer_alias:
+    available_date: '2011-09-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: うきくさのまち
+    singer_name_ruby: たきかわまいこ
+    song_variation:
+    - esong_code: 2671A8
+      song_name: 浮草の町
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 浮雲道中
     song_alias:
     esong_code: 2663A4
@@ -485,23 +468,6 @@ result:
       content_type: ''
   - song_name: 裏町ぐらし
     song_alias:
-    esong_code: 2668A11
-    t_singer_master_id: '5041'
-    singer_name: 上杉 香緒里
-    singer_alias:
-    available_date: '2011-09-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: うらまちくらし
-    singer_name_ruby: うえすきかおり
-    song_variation:
-    - esong_code: 2668A11
-      song_name: 裏町ぐらし
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 裏町ぐらし
-    song_alias:
     esong_code: 2667B38
     t_singer_master_id: '5041'
     singer_name: 上杉 香緒里
@@ -517,3 +483,37 @@ result:
     - esong_code: 2667B38
       song_name: 裏町ぐらし
       content_type: DAM生音
+  - song_name: 裏町ぐらし
+    song_alias:
+    esong_code: 2668A11
+    t_singer_master_id: '5041'
+    singer_name: 上杉 香緒里
+    singer_alias:
+    available_date: '2011-09-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: うらまちくらし
+    singer_name_ruby: うえすきかおり
+    song_variation:
+    - esong_code: 2668A11
+      song_name: 裏町ぐらし
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: ウルトラスマイル!! feat.レイ
+    song_alias:
+    esong_code: 2666A43
+    t_singer_master_id: '41436'
+    singer_name: voyager
+    singer_alias:
+    available_date: '2011-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ウルトラマン列伝<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うるとらすまいる
+    singer_name_ruby: ほいしや
+    song_variation:
+    - esong_code: 2666A43
+      song_name: ウルトラスマイル!! feat.レイ
+      content_type: ''

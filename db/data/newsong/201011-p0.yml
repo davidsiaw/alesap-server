@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1316
-  all_max_cnt: 1449
-  all_country_cnt: 1316
+  max_cnt: 1315
+  all_max_cnt: 1448
+  all_country_cnt: 1315
   song:
   - song_name: あぁ・・・大阪
     song_alias:
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: 哀愁のシンデレラ
     song_alias:
-    esong_code: 2624B29
-    t_singer_master_id: '650'
-    singer_name: 北原 ミレイ
-    singer_alias:
-    available_date: '2010-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいしゆうのしんて
-    singer_name_ruby: きたはらみれい
-    song_variation:
-    - esong_code: 2624B29
-      song_name: 哀愁のシンデレラ
-      content_type: ''
-  - song_name: 哀愁のシンデレラ
-    song_alias:
     esong_code: 2624A38
     t_singer_master_id: '650'
     singer_name: 北原 ミレイ
@@ -296,6 +279,23 @@ result:
     - esong_code: 2624A38
       song_name: 哀愁のシンデレラ
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 哀愁のシンデレラ
+    song_alias:
+    esong_code: 2624B29
+    t_singer_master_id: '650'
+    singer_name: 北原 ミレイ
+    singer_alias:
+    available_date: '2010-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいしゆうのしんて
+    singer_name_ruby: きたはらみれい
+    song_variation:
+    - esong_code: 2624B29
+      song_name: 哀愁のシンデレラ
+      content_type: ''
   - song_name: 哀愁の湖
     song_alias:
     esong_code: 2624A29

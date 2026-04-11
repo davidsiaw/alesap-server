@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: Change My Life
-    song_alias:
-    esong_code: 2412B4
-    t_singer_master_id: '37931'
-    singer_name: TEE
-    singer_alias:
-    available_date: '2009-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちえんしまいらいふ
-    singer_name_ruby: てい
-    song_variation:
-    - esong_code: 2412B4
-      song_name: Change My Life
-      content_type: ''
   - song_name: Change your life
     song_alias:
     esong_code: 2414B32
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2414A38
       song_name: 天狼星
+      content_type: ''
+  - song_name: Do I Do, You Do
+    song_alias:
+    esong_code: 2405B16
+    t_singer_master_id: '386'
+    singer_name: 太田 裕美
+    singer_alias:
+    available_date: '2009-10-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうあいとうゆ
+    singer_name_ruby: おおたひろみ
+    song_variation:
+    - esong_code: 2405B16
+      song_name: Do I Do, You Do
       content_type: ''

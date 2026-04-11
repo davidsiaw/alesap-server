@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
+  - song_name: サクラ
+    song_alias:
+    esong_code: 3373B42
+    t_singer_master_id: '26872'
+    singer_name: 藤田 麻衣子
+    singer_alias:
+    available_date: '2014-12-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 白華の檻 〜緋色の欠片4〜 四季の詩<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくら
+    singer_name_ruby: ふしたまいこ
+    song_variation:
+    - esong_code: 3373B42
+      song_name: サクラ
+      content_type: ''
   - song_name: 桜一輪
     song_alias:
     esong_code: 1733A5
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3366B35
       song_name: Someday,Somewhere
-      content_type: ''
-  - song_name: Someday My Prince Will Come (いつか王子様が)
-    song_alias:
-    esong_code: 3369A5
-    t_singer_master_id: '20714'
-    singer_name: JUJU
-    singer_alias:
-    available_date: '2014-12-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さむていまいふり
-    singer_name_ruby: しゆしゆ
-    song_variation:
-    - esong_code: 3369A5
-      song_name: Someday My Prince Will Come (いつか王子様が)
       content_type: ''

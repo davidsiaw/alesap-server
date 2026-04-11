@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1199
-  all_max_cnt: 1301
-  all_country_cnt: 1199
+  max_cnt: 1196
+  all_max_cnt: 1298
+  all_country_cnt: 1196
   song:
-  - song_name: June
-    song_alias:
-    esong_code: 1723A17
-    t_singer_master_id: '2128'
-    singer_name: 本田 美奈子.(本田美奈子)
-    singer_alias:
-    available_date: '2007-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆん
-    singer_name_ruby: ほんたみなこ
-    song_variation:
-    - esong_code: 1723A17
-      song_name: June
-      content_type: ''
   - song_name: 純
     song_alias:
     esong_code: 1722A18
@@ -40,6 +23,23 @@ result:
     song_variation:
     - esong_code: 1722A18
       song_name: 純
+      content_type: ''
+  - song_name: June
+    song_alias:
+    esong_code: 1723A17
+    t_singer_master_id: '2128'
+    singer_name: 本田 美奈子.(本田美奈子)
+    singer_alias:
+    available_date: '2007-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆん
+    singer_name_ruby: ほんたみなこ
+    song_variation:
+    - esong_code: 1723A17
+      song_name: June
       content_type: ''
   - song_name: 春夏秋冬
     song_alias:

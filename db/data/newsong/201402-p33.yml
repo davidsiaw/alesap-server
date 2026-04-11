@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: 箱根八里
-    song_alias:
-    esong_code: 3205B39
-    t_singer_master_id: '1080'
-    singer_name: 唱歌・抒情歌
-    singer_alias:
-    available_date: '2014-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYうたいり
-    song_name_ruby: はこねはちり
-    singer_name_ruby: しようかしよしようか
-    song_variation:
-    - esong_code: 3205B39
-      song_name: 箱根八里
-      content_type: JOYうたいり
-  - song_name: Virgin Marry 〜聖母マリア〜
-    song_alias:
-    esong_code: 3206B38
-    t_singer_master_id: '50058'
-    singer_name: Fly or Die
-    singer_alias:
-    available_date: '2014-02-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はしんまりせ
-    singer_name_ruby: ふらいおあたい
-    song_variation:
-    - esong_code: 3206B38
-      song_name: Virgin Marry 〜聖母マリア〜
-      content_type: ''
   - song_name: PASTEL B☆X
     song_alias:
     esong_code: 3201A24
@@ -228,23 +194,6 @@ result:
     - esong_code: 3179B25
       song_name: HAPPY DAYS
       content_type: ''
-  - song_name: ハッピーバースデー〜シャンパンコール〜 feat.Sing-O
-    song_alias:
-    esong_code: 3197A47
-    t_singer_master_id: '45754'
-    singer_name: ROMEO
-    singer_alias:
-    available_date: '2014-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はつひはすて
-    singer_name_ruby: ろめお
-    song_variation:
-    - esong_code: 3197A47
-      song_name: ハッピーバースデー〜シャンパンコール〜 feat.Sing-O
-      content_type: ''
   - song_name: HAPPY BIRTHDAY
     song_alias:
     esong_code: 3180A40
@@ -261,6 +210,23 @@ result:
     song_variation:
     - esong_code: 3180A40
       song_name: HAPPY BIRTHDAY
+      content_type: ''
+  - song_name: ハッピーバースデー〜シャンパンコール〜 feat.Sing-O
+    song_alias:
+    esong_code: 3197A47
+    t_singer_master_id: '45754'
+    singer_name: ROMEO
+    singer_alias:
+    available_date: '2014-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつひはすて
+    singer_name_ruby: ろめお
+    song_variation:
+    - esong_code: 3197A47
+      song_name: ハッピーバースデー〜シャンパンコール〜 feat.Sing-O
       content_type: ''
   - song_name: HAPPY FACE
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3199B12
       song_name: Van!shment Th!s World
+      content_type: ''
+  - song_name: ハニー ユー
+    song_alias:
+    esong_code: 1149A44
+    t_singer_master_id: '269'
+    singer_name: 岩城 滉一
+    singer_alias:
+    available_date: '2014-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はにゆ
+    singer_name_ruby: いわきこういち
+    song_variation:
+    - esong_code: 1149A44
+      song_name: ハニー ユー
+      content_type: ''
+  - song_name: 羽ノ亡キ蝶
+    song_alias:
+    esong_code: 3206A31
+    t_singer_master_id: '50047'
+    singer_name: 真理絵&霜月 はるか
+    singer_alias:
+    available_date: '2014-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 羽ノ亡キ蝶<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はねのなきちよう
+    singer_name_ruby: まりえしもつきはるか
+    song_variation:
+    - esong_code: 3206A31
+      song_name: 羽ノ亡キ蝶
       content_type: ''

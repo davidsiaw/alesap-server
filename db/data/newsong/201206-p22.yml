@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: Dive In Your Eyes
-    song_alias:
-    esong_code: 2798B17
-    t_singer_master_id: '44251'
-    singer_name: ナノ
-    singer_alias:
-    available_date: '2012-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいふいんゆああ
-    singer_name_ruby: なの
-    song_variation:
-    - esong_code: 2798B17
-      song_name: Dive In Your Eyes
-      content_type: ''
-  - song_name: たいむいずらぶ!
-    song_alias:
-    esong_code: 2804B1
-    t_singer_master_id: '32274'
-    singer_name: 下田 麻美
-    singer_alias:
-    available_date: '2012-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: IS<インフィニット・ストラトス><番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいむいすらふ
-    singer_name_ruby: しもたあさみ
-    song_variation:
-    - esong_code: 2804B1
-      song_name: たいむいずらぶ!
-      content_type: ''
   - song_name: ダイヤモンド
     song_alias:
     esong_code: 2810A15
@@ -66,7 +32,7 @@ result:
     singer_alias:
     available_date: '2012-06-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・シンフォニア THE ANIMATION<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: たかためのせかい
@@ -162,6 +128,23 @@ result:
       content_type: ''
   - song_name: ただいま
     song_alias:
+    esong_code: 2800A14
+    t_singer_master_id: '20714'
+    singer_name: JUJU
+    singer_alias:
+    available_date: '2012-06-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: たたいま
+    singer_name_ruby: しゆしゆ
+    song_variation:
+    - esong_code: 2800A14
+      song_name: ただいま
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: ただいま
+    song_alias:
     esong_code: 2806B10
     t_singer_master_id: '20714'
     singer_name: JUJU
@@ -194,23 +177,6 @@ result:
     - esong_code: 2801B49
       song_name: ただいま
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ただいま
-    song_alias:
-    esong_code: 2800A14
-    t_singer_master_id: '20714'
-    singer_name: JUJU
-    singer_alias:
-    available_date: '2012-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: たたいま
-    singer_name_ruby: しゆしゆ
-    song_variation:
-    - esong_code: 2800A14
-      song_name: ただいま
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 戦いは終わらない
     song_alias:
     esong_code: 2209B31
@@ -372,7 +338,7 @@ result:
     singer_alias:
     available_date: '2012-06-08'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GuitarFreaksV&DrumManiaV<番組名>
+    tie_up: GuitarFreaks&DrumMania<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たらつたたんす
@@ -400,23 +366,6 @@ result:
       content_type: ''
   - song_name: たんぽぽの花
     song_alias:
-    esong_code: 2800B23
-    t_singer_master_id: '2355'
-    singer_name: 都 はるみ
-    singer_alias:
-    available_date: '2012-06-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: たんほほのはな
-    singer_name_ruby: みやこはるみ
-    song_variation:
-    - esong_code: 2800B23
-      song_name: たんぽぽの花
-      content_type: DAM生音
-  - song_name: たんぽぽの花
-    song_alias:
     esong_code: 2806B19
     t_singer_master_id: '2355'
     singer_name: 都 はるみ
@@ -432,6 +381,23 @@ result:
     - esong_code: 2806B19
       song_name: たんぽぽの花
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: たんぽぽの花
+    song_alias:
+    esong_code: 2800B23
+    t_singer_master_id: '2355'
+    singer_name: 都 はるみ
+    singer_alias:
+    available_date: '2012-06-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: たんほほのはな
+    singer_name_ruby: みやこはるみ
+    song_variation:
+    - esong_code: 2800B23
+      song_name: たんぽぽの花
+      content_type: DAM生音
   - song_name: 小さなお花
     song_alias:
     esong_code: 2798A27
@@ -504,7 +470,7 @@ result:
     song_alias:
     esong_code: 2797B13
     t_singer_master_id: '43140'
-    singer_name: カラスヤサボウ
+    singer_name: 烏屋茶房(カラスヤサボウ)
     singer_alias:
     available_date: '2012-06-06'
     end_date: '2999-04-10 00:00:00'
@@ -517,3 +483,37 @@ result:
     - esong_code: 2797B13
       song_name: チェックエンチェイス feat.鏡音リン
       content_type: VOCALOID
+  - song_name: Change my mind
+    song_alias:
+    esong_code: 2804B13
+    t_singer_master_id: '21868'
+    singer_name: 井上 麻里奈
+    singer_alias:
+    available_date: '2012-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: IS<インフィニット・ストラトス><番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちえんしまいまいん
+    singer_name_ruby: いのうえまりな
+    song_variation:
+    - esong_code: 2804B13
+      song_name: Change my mind
+      content_type: ''
+  - song_name: CHANGIN' feat.YOU THE ROCK★
+    song_alias:
+    esong_code: 416A47
+    t_singer_master_id: '12463'
+    singer_name: NONA REEVES
+    singer_alias:
+    available_date: '2012-06-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Get Backers〜奪還屋〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちえんしん
+    singer_name_ruby: のなりふす
+    song_variation:
+    - esong_code: 416A47
+      song_name: CHANGIN' feat.YOU THE ROCK★
+      content_type: ''

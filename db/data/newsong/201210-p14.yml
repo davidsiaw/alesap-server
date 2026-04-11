@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: キャデラック
-    song_alias:
-    esong_code: 2922A19
-    t_singer_master_id: '46277'
-    singer_name: ミソッカス
-    singer_alias:
-    available_date: '2012-10-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやてらつく
-    singer_name_ruby: みそつかす
-    song_variation:
-    - esong_code: 2922A19
-      song_name: キャデラック
-      content_type: ''
-  - song_name: キャデラック
-    song_alias:
-    esong_code: 2923A12
-    t_singer_master_id: '46289'
-    singer_name: 夏木 マリ with Flash Packer
-    singer_alias:
-    available_date: '2012-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやてらつく
-    singer_name_ruby: なつきまりういすふらつし
-    song_variation:
-    - esong_code: 2923A12
-      song_name: キャデラック
-      content_type: ''
   - song_name: きゃりーぱみゅぱみゅメドレー 〜2012〜
     song_alias:
     esong_code: 2909B26
@@ -355,7 +321,7 @@ result:
     singer_alias:
     available_date: '2012-10-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 スーパー歌謡ショウ 〜新西遊記〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きんさこうしんき
@@ -381,23 +347,6 @@ result:
     - esong_code: 2931B48
       song_name: 銀座の恋の物語 (バーチャルカラオケ)
       content_type: DAM生音
-  - song_name: 銀魂メドレー Vol.2
-    song_alias:
-    esong_code: 2906B23
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2012-10-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんたまめとれ
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 2906B23
-      song_name: 銀魂メドレー Vol.2
-      content_type: ''
   - song_name: 銀魂メドレー Vol.3
     song_alias:
     esong_code: 2910A10
@@ -414,6 +363,23 @@ result:
     song_variation:
     - esong_code: 2910A10
       song_name: 銀魂メドレー Vol.3
+      content_type: ''
+  - song_name: 銀魂メドレー Vol.2
+    song_alias:
+    esong_code: 2906B23
+    t_singer_master_id: '24121'
+    singer_name: アニメメドレー
+    singer_alias:
+    available_date: '2012-10-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 銀魂<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きんたまめとれ
+    singer_name_ruby: あにめめとれ
+    song_variation:
+    - esong_code: 2906B23
+      song_name: 銀魂メドレー Vol.2
       content_type: ''
   - song_name: Queen of Quiet feat.土岐麻子
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2898A6
       song_name: 癖になりそう・・・
+      content_type: ''
+  - song_name: くちぐせ
+    song_alias:
+    esong_code: 2897A34
+    t_singer_master_id: '386'
+    singer_name: 太田 裕美
+    singer_alias:
+    available_date: '2012-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くちくせ
+    singer_name_ruby: おおたひろみ
+    song_variation:
+    - esong_code: 2897A34
+      song_name: くちぐせ
+      content_type: ''
+  - song_name: くちづけ
+    song_alias:
+    esong_code: 2902A38
+    t_singer_master_id: '20714'
+    singer_name: JUJU
+    singer_alias:
+    available_date: '2012-10-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くちつけ
+    singer_name_ruby: しゆしゆ
+    song_variation:
+    - esong_code: 2902A38
+      song_name: くちづけ
       content_type: ''

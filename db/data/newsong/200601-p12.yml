@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
-  - song_name: 希望
-    song_alias:
-    esong_code: 1427B27
-    t_singer_master_id: '960'
-    singer_name: 佐野 元春
-    singer_alias:
-    available_date: '2006-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きほう
-    singer_name_ruby: さのもとはる
-    song_variation:
-    - esong_code: 1427B27
-      song_name: 希望
-      content_type: ''
   - song_name: 君がいればいい
     song_alias:
     esong_code: 1429A4
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 258B15
       song_name: 極東花嫁
+      content_type: ''
+  - song_name: キラリ
+    song_alias:
+    esong_code: 1444B43
+    t_singer_master_id: '24818'
+    singer_name: フジモト タカコ
+    singer_alias:
+    available_date: '2006-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きらり
+    singer_name_ruby: ふしもとたかこ
+    song_variation:
+    - esong_code: 1444B43
+      song_name: キラリ
       content_type: ''

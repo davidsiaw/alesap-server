@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1233
-  all_max_cnt: 1468
-  all_country_cnt: 1233
+  max_cnt: 1221
+  all_max_cnt: 1456
+  all_country_cnt: 1221
   song:
-  - song_name: 新しい友達Ⅱ
-    song_alias:
-    esong_code: 4247A12
-    t_singer_master_id: '64783'
-    singer_name: 川本真琴と峯田和伸
-    singer_alias:
-    available_date: '2019-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あたらしいともたち
-    singer_name_ruby: かわもとまこととみねたかす
-    song_variation:
-    - esong_code: 4247A12
-      song_name: 新しい友達Ⅱ
-      content_type: ''
   - song_name: あっぱれサマーっ!!
     song_alias:
     esong_code: 4257B6
@@ -415,23 +398,6 @@ result:
     - esong_code: 4246B31
       song_name: 新たなるステージへ
       content_type: ''
-  - song_name: ありえんほどフィーバー
-    song_alias:
-    esong_code: 4247B38
-    t_singer_master_id: '46260'
-    singer_name: i☆Ris
-    singer_alias:
-    available_date: '2019-09-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありえんほとふい
-    singer_name_ruby: あいりす
-    song_variation:
-    - esong_code: 4247B38
-      song_name: ありえんほどフィーバー
-      content_type: ''
   - song_name: ありがとうのうた feat.まるちゃんと仲間たち
     song_alias:
     esong_code: 4249A46
@@ -440,7 +406,7 @@ result:
     singer_alias:
     available_date: '2019-09-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ちびまる子ちゃん(第2期)<番組名>
+    tie_up: ちびまる子ちゃん<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ありかとうのうた
@@ -517,3 +483,37 @@ result:
     - esong_code: 4245A1
       song_name: ALEGRIA(アレグリア)
       content_type: ''
+  - song_name: アワ・ダンサー
+    song_alias:
+    esong_code: 4254A49
+    t_singer_master_id: '55618'
+    singer_name: 浦島坂田船
+    singer_alias:
+    available_date: '2019-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あわたんさ
+    singer_name_ruby: うらしまさかたせん
+    song_variation:
+    - esong_code: 4254A49
+      song_name: アワ・ダンサー
+      content_type: ''
+  - song_name: アンインストール (あにそんボーカルVer.)
+    song_alias:
+    esong_code: 4234A23
+    t_singer_master_id: '48393'
+    singer_name: 荒川 美穂
+    singer_alias:
+    available_date: '2019-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ぼくらの<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あんいんすとる
+    singer_name_ruby: あらかわみほ
+    song_variation:
+    - esong_code: 4234A23
+      song_name: アンインストール (あにそんボーカルVer.)
+      content_type: DAM生音

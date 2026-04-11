@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1126
-  all_max_cnt: 1256
-  all_country_cnt: 1126
+  max_cnt: 1125
+  all_max_cnt: 1255
+  all_country_cnt: 1125
   song:
-  - song_name: 本当は怖い愛とロマンス
-    song_alias:
-    esong_code: 2579B36
-    t_singer_master_id: '774'
-    singer_name: 桑田 佳祐
-    singer_alias:
-    available_date: '2010-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほんとうはこわいあい
-    singer_name_ruby: くわたけいすけ
-    song_variation:
-    - esong_code: 2579B36
-      song_name: 本当は怖い愛とロマンス
-      content_type: ''
   - song_name: My Way 〜ULala〜
     song_alias:
     esong_code: 2585A40
@@ -126,23 +109,6 @@ result:
     - esong_code: 2207A35
       song_name: 毎日がHappy New Year
       content_type: ''
-  - song_name: My Friend
-    song_alias:
-    esong_code: 2594B22
-    t_singer_master_id: '15057'
-    singer_name: 川田 まみ
-    singer_alias:
-    available_date: '2010-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 魔法少女リリカルなのはStrikerS<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: まいふれんと
-    singer_name_ruby: かわたまみ
-    song_variation:
-    - esong_code: 2594B22
-      song_name: My Friend
-      content_type: ''
   - song_name: My Friend! 〜旅に出よう〜
     song_alias:
     esong_code: 2594B9
@@ -159,6 +125,23 @@ result:
     song_variation:
     - esong_code: 2594B9
       song_name: My Friend! 〜旅に出よう〜
+      content_type: ''
+  - song_name: My Friend
+    song_alias:
+    esong_code: 2594B22
+    t_singer_master_id: '15057'
+    singer_name: 川田 まみ
+    singer_alias:
+    available_date: '2010-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 魔法少女リリカルなのはStrikerS<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいふれんと
+    singer_name_ruby: かわたまみ
+    song_variation:
+    - esong_code: 2594B22
+      song_name: My Friend
       content_type: ''
   - song_name: My miss universe
     song_alias:
@@ -466,23 +449,6 @@ result:
     - esong_code: 2584A37
       song_name: 見えない手と手
       content_type: ''
-  - song_name: 三日月
-    song_alias:
-    esong_code: 2588A21
-    t_singer_master_id: '12187'
-    singer_name: コブクロ
-    singer_alias:
-    available_date: '2010-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みかつき
-    singer_name_ruby: こふくろ
-    song_variation:
-    - esong_code: 2588A21
-      song_name: 三日月
-      content_type: ''
   - song_name: ミカヅキ
     song_alias:
     esong_code: 2587A11
@@ -500,6 +466,23 @@ result:
     - esong_code: 2587A11
       song_name: ミカヅキ
       content_type: VOCALOID
+  - song_name: 三日月
+    song_alias:
+    esong_code: 2588A21
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
+    singer_alias:
+    available_date: '2010-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みかつき
+    singer_name_ruby: こふくろ
+    song_variation:
+    - esong_code: 2588A21
+      song_name: 三日月
+      content_type: ''
   - song_name: ミス・アンダースタンド
     song_alias:
     esong_code: 2562B22
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2562B22
       song_name: ミス・アンダースタンド
+      content_type: ''
+  - song_name: ミスター
+    song_alias:
+    esong_code: 2580B19
+    t_singer_master_id: '40445'
+    singer_name: KARA
+    singer_alias:
+    available_date: '2010-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすた
+    singer_name_ruby: から
+    song_variation:
+    - esong_code: 2580B19
+      song_name: ミスター
       content_type: ''

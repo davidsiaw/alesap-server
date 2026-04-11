@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 492
-  all_max_cnt: 537
-  all_country_cnt: 492
+  max_cnt: 491
+  all_max_cnt: 536
+  all_country_cnt: 491
   song:
-  - song_name: 楽園 (祈り 希い)
-    song_alias:
-    esong_code: 167B41
-    t_singer_master_id: '1848'
-    singer_name: BUCK-TICK
-    singer_alias:
-    available_date: '2002-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らくえん
-    singer_name_ruby: はくちく
-    song_variation:
-    - esong_code: 167B41
-      song_name: 楽園 (祈り 希い)
-      content_type: ''
   - song_name: 楽園伝説
     song_alias:
     esong_code: 985A26
@@ -75,23 +58,6 @@ result:
     - esong_code: 167B42
       song_name: 螺旋 虫
       content_type: ''
-  - song_name: ラブソング
-    song_alias:
-    esong_code: 988A26
-    t_singer_master_id: '8680'
-    singer_name: くるり
-    singer_alias:
-    available_date: '2002-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふそんく
-    singer_name_ruby: くるり
-    song_variation:
-    - esong_code: 988A26
-      song_name: ラブソング
-      content_type: ''
   - song_name: LOVE SONG
     song_alias:
     esong_code: 990B22
@@ -108,6 +74,23 @@ result:
     song_variation:
     - esong_code: 990B22
       song_name: LOVE SONG
+      content_type: ''
+  - song_name: ラブソング
+    song_alias:
+    esong_code: 988A26
+    t_singer_master_id: '8680'
+    singer_name: くるり
+    singer_alias:
+    available_date: '2002-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふそんく
+    singer_name_ruby: くるり
+    song_variation:
+    - esong_code: 988A26
+      song_name: ラブソング
       content_type: ''
   - song_name: Love Me All Over
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 974B40
       song_name: Rodeo
+      content_type: ''
+  - song_name: LONELY DANCE
+    song_alias:
+    esong_code: 164A48
+    t_singer_master_id: '15045'
+    singer_name: SISTER KAYA
+    singer_alias:
+    available_date: '2002-12-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろんりたんす
+    singer_name_ruby: しすたかや
+    song_variation:
+    - esong_code: 164A48
+      song_name: LONELY DANCE
       content_type: ''

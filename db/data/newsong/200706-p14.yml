@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
-  - song_name: DOWN IN THE SYSTEM SYSTEM ERROR
-    song_alias:
-    esong_code: 1802A17
-    t_singer_master_id: '6653'
-    singer_name: THE MAD CAPSULE MARKETS
-    singer_alias:
-    available_date: '2007-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たうんいんさしす
-    singer_name_ruby: さまつとかふせ
-    song_variation:
-    - esong_code: 1802A17
-      song_name: DOWN IN THE SYSTEM SYSTEM ERROR
-      content_type: ''
   - song_name: ダウンタウン・ハート
     song_alias:
     esong_code: 1799A21
@@ -32,7 +15,7 @@ result:
     singer_alias:
     available_date: '2007-06-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦Ⅴ 〜さらば愛しき人よ〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たうんたうんはと
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1802B26
       song_name: 超ラガ WAVE feat.SILVER KING
+      content_type: ''
+  - song_name: 直線サイクリング
+    song_alias:
+    esong_code: 1794B26
+    t_singer_master_id: '2750'
+    singer_name: L⇔R
+    singer_alias:
+    available_date: '2007-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちよくせんさいくりん
+    singer_name_ruby: えるある
+    song_variation:
+    - esong_code: 1794B26
+      song_name: 直線サイクリング
       content_type: ''

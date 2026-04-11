@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
   - song_name: 堕ちた英雄
     song_alias:
@@ -332,23 +332,6 @@ result:
       content_type: ''
   - song_name: おもいで橋
     song_alias:
-    esong_code: 1759A17
-    t_singer_master_id: '2176'
-    singer_name: 真木 ことみ
-    singer_alias:
-    available_date: '2007-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいてはし
-    singer_name_ruby: まきことみ
-    song_variation:
-    - esong_code: 1759A17
-      song_name: おもいで橋
-      content_type: ''
-  - song_name: おもいで橋
-    song_alias:
     esong_code: 1760B3
     t_singer_master_id: '2176'
     singer_name: 真木 ことみ
@@ -364,6 +347,23 @@ result:
     - esong_code: 1760B3
       song_name: おもいで橋
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: おもいで橋
+    song_alias:
+    esong_code: 1759A17
+    t_singer_master_id: '2176'
+    singer_name: 真木 ことみ
+    singer_alias:
+    available_date: '2007-04-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいてはし
+    singer_name_ruby: まきことみ
+    song_variation:
+    - esong_code: 1759A17
+      song_name: おもいで橋
+      content_type: ''
   - song_name: 想い出を映して
     song_alias:
     esong_code: 1773B1

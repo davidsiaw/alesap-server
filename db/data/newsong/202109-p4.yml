@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 888
-  all_max_cnt: 934
-  all_country_cnt: 888
+  max_cnt: 881
+  all_max_cnt: 927
+  all_country_cnt: 881
   song:
-  - song_name: エッサフォッサ
-    song_alias:
-    esong_code: 4548B3
-    t_singer_master_id: '7030'
-    singer_name: PUFFY(PUFFY AMIYUMI)
-    singer_alias:
-    available_date: '2021-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えつさふおつさ
-    singer_name_ruby: はふい
-    song_variation:
-    - esong_code: 4548B3
-      song_name: エッサフォッサ
-      content_type: ''
   - song_name: エヌイー
     song_alias:
     esong_code: 4545A27
@@ -503,7 +486,7 @@ result:
   - song_name: おまえ
     song_alias:
     esong_code: 4549A48
-    t_singer_master_id: '68479'
+    t_singer_master_id: '69860'
     singer_name: 加藤 大知
     singer_alias:
     available_date: '2021-09-21'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4549A48
       song_name: おまえ
+      content_type: ''
+  - song_name: 親父
+    song_alias:
+    esong_code: 4542B49
+    t_singer_master_id: '45258'
+    singer_name: 阿修羅
+    singer_alias:
+    available_date: '2021-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやし
+    singer_name_ruby: あしゆら
+    song_variation:
+    - esong_code: 4542B49
+      song_name: 親父
       content_type: ''

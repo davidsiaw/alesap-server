@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: ただ君だけを愛してた
-    song_alias:
-    esong_code: 199B49
-    t_singer_master_id: '2713'
-    singer_name: BLOW
-    singer_alias:
-    available_date: '2006-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たたきみたけを
-    singer_name_ruby: ふろう
-    song_variation:
-    - esong_code: 199B49
-      song_name: ただ君だけを愛してた
-      content_type: ''
   - song_name: ただよいの中で
     song_alias:
     esong_code: 1167A9
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1489A4
       song_name: チョコレート
+      content_type: ''
+  - song_name: チョット ('Drunker's Trip'ver.)
+    song_alias:
+    esong_code: 1481B30
+    t_singer_master_id: '372'
+    singer_name: 大黒 摩季
+    singer_alias:
+    available_date: '2006-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちよつと
+    singer_name_ruby: おおくろまき
+    song_variation:
+    - esong_code: 1481B30
+      song_name: チョット ('Drunker's Trip'ver.)
       content_type: ''

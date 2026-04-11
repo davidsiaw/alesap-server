@@ -3,13 +3,13 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 947
-  all_max_cnt: 1077
-  all_country_cnt: 947
+  max_cnt: 945
+  all_max_cnt: 1075
+  all_country_cnt: 945
   song:
   - song_name: 馬っ鹿じゃなかろかルンバ
     song_alias:
-    esong_code: 2375A15
+    esong_code: 2284A37
     t_singer_master_id: '23650'
     singer_name: 長谷川 真吾
     singer_alias:
@@ -17,13 +17,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type:
     song_name_ruby: はつかしやなかろ
     singer_name_ruby: はせかわしんこ
     song_variation:
-    - esong_code: 2375A15
+    - esong_code: 2284A37
       song_name: 馬っ鹿じゃなかろかルンバ
-      content_type: DAM生音
+      content_type: ''
   - song_name: 20日鼠とエンドロール
     song_alias:
     esong_code: 2381B46
@@ -185,7 +185,7 @@ result:
     singer_alias:
     available_date: '2009-08-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GUITARFREAKS 9thMIX & drummania 8thMIX Soundtracks<番組名>
+    tie_up: GuitarFreaks&DrumMania<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はなのうた
@@ -338,7 +338,7 @@ result:
     singer_alias:
     available_date: '2009-08-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はふつてこ

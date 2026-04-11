@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 807
-  all_max_cnt: 867
-  all_country_cnt: 807
+  max_cnt: 806
+  all_max_cnt: 866
+  all_country_cnt: 806
   song:
   - song_name: ふたりだから
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 556A9
       song_name: PRIVACY
       content_type: ''
-  - song_name: ブラジル
-    song_alias:
-    esong_code: 555B1
-    t_singer_master_id: '6544'
-    singer_name: "↑THE HIGH-LOWS↓"
-    singer_alias:
-    available_date: '2004-09-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらしる
-    singer_name_ruby: さはいろうす
-    song_variation:
-    - esong_code: 555B1
-      song_name: ブラジル
-      content_type: ''
   - song_name: fragile
     song_alias:
     esong_code: 546B7
@@ -160,6 +143,23 @@ result:
     - esong_code: 546B7
       song_name: fragile
       content_type: JOYｽｺﾞｵﾄ生音
+  - song_name: ブラジル
+    song_alias:
+    esong_code: 555B1
+    t_singer_master_id: '6544'
+    singer_name: "↑THE HIGH-LOWS↓"
+    singer_alias:
+    available_date: '2004-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらしる
+    singer_name_ruby: さはいろうす
+    song_variation:
+    - esong_code: 555B1
+      song_name: ブラジル
+      content_type: ''
   - song_name: プラプラ
     song_alias:
     esong_code: 555B7
@@ -279,23 +279,6 @@ result:
     - esong_code: 557B2
       song_name: FREE REIN
       content_type: ''
-  - song_name: 故郷 (フィーチャリング CRY-叫-)
-    song_alias:
-    esong_code: 577B11
-    t_singer_master_id: '15864'
-    singer_name: はなわ
-    singer_alias:
-    available_date: '2004-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるさと
-    singer_name_ruby: はなわ
-    song_variation:
-    - esong_code: 577B11
-      song_name: 故郷 (フィーチャリング CRY-叫-)
-      content_type: ''
   - song_name: 故郷
     song_alias:
     esong_code: 552A5
@@ -312,6 +295,23 @@ result:
     song_variation:
     - esong_code: 552A5
       song_name: 故郷
+      content_type: ''
+  - song_name: 故郷 (フィーチャリング CRY-叫-)
+    song_alias:
+    esong_code: 577B11
+    t_singer_master_id: '15864'
+    singer_name: はなわ
+    singer_alias:
+    available_date: '2004-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるさと
+    singer_name_ruby: はなわ
+    song_variation:
+    - esong_code: 577B11
+      song_name: 故郷 (フィーチャリング CRY-叫-)
       content_type: ''
   - song_name: ブルーメロディ
     song_alias:

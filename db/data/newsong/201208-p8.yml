@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
   - song_name: 風の自転車
     song_alias:
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: カラフル
     song_alias:
-    esong_code: 2839A30
-    t_singer_master_id: '29833'
-    singer_name: 遊吟
-    singer_alias:
-    available_date: '2012-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: からふる
-    singer_name_ruby: ゆうきん
-    song_variation:
-    - esong_code: 2839A30
-      song_name: カラフル
-      content_type: ''
-  - song_name: カラフル
-    song_alias:
     esong_code: 2832A43
     t_singer_master_id: '44214'
     singer_name: 家入 レオ
@@ -294,6 +277,23 @@ result:
     singer_name_ruby: いえいりれお
     song_variation:
     - esong_code: 2832A43
+      song_name: カラフル
+      content_type: ''
+  - song_name: カラフル
+    song_alias:
+    esong_code: 2839A30
+    t_singer_master_id: '29833'
+    singer_name: 遊吟
+    singer_alias:
+    available_date: '2012-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: からふる
+    singer_name_ruby: ゆうきん
+    song_variation:
+    - esong_code: 2839A30
       song_name: カラフル
       content_type: ''
   - song_name: 彼の者の名は・・・ (Vocalized Version)

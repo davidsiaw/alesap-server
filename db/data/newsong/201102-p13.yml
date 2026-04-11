@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1174
-  all_max_cnt: 1303
-  all_country_cnt: 1174
+  max_cnt: 1169
+  all_max_cnt: 1300
+  all_country_cnt: 1169
   song:
-  - song_name: コンピューターおばあちゃん
-    song_alias:
-    esong_code: 1821A38
-    t_singer_master_id: '41756'
-    singer_name: フレネシ
-    singer_alias:
-    available_date: '2011-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんひゆたおは
-    singer_name_ruby: ふれねし
-    song_variation:
-    - esong_code: 1821A38
-      song_name: コンピューターおばあちゃん
-      content_type: ''
-  - song_name: 紺碧の双刃
-    song_alias:
-    esong_code: 1863B9
-    t_singer_master_id: '13996'
-    singer_name: 陰陽座
-    singer_alias:
-    available_date: '2011-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんへきのそうし
-    singer_name_ruby: おんみようさ
-    song_variation:
-    - esong_code: 1863B9
-      song_name: 紺碧の双刃
-      content_type: ''
   - song_name: 今夜はHearty Party
     song_alias:
     esong_code: 1855B49
@@ -366,23 +332,6 @@ result:
       content_type: ''
   - song_name: 桜の木になろう
     song_alias:
-    esong_code: 2531A3
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2011-02-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくらのきになろう
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 2531A3
-      song_name: 桜の木になろう
-      content_type: ''
-  - song_name: 桜の木になろう
-    song_alias:
     esong_code: 1747A10
     t_singer_master_id: '25255'
     singer_name: AKB48
@@ -398,6 +347,23 @@ result:
     - esong_code: 1747A10
       song_name: 桜の木になろう
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 桜の木になろう
+    song_alias:
+    esong_code: 2531A3
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2011-02-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらのきになろう
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 2531A3
+      song_name: 桜の木になろう
+      content_type: ''
   - song_name: 桜の手紙
     song_alias:
     esong_code: 1929A29
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1894A27
       song_name: さとうきび畑
+      content_type: ''
+  - song_name: 里ごよみ 「名演ギター 斉藤 功」
+    song_alias:
+    esong_code: 2059B25
+    t_singer_master_id: '939'
+    singer_name: 佐々木 新一
+    singer_alias:
+    available_date: '2011-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さとこよみ
+    singer_name_ruby: ささきしんいち
+    song_variation:
+    - esong_code: 2059B25
+      song_name: 里ごよみ 「名演ギター 斉藤 功」
+      content_type: ''
+  - song_name: Sunny Day Sunday
+    song_alias:
+    esong_code: 1841B9
+    t_singer_master_id: '32778'
+    singer_name: 若林 直美
+    singer_alias:
+    available_date: '2011-02-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: THE IDOLM@STER<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さにていさんて
+    singer_name_ruby: わかはやしなおみ
+    song_variation:
+    - esong_code: 1841B9
+      song_name: Sunny Day Sunday
       content_type: ''

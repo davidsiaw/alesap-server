@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
-  - song_name: As the toy
-    song_alias:
-    esong_code: 3798B13
-    t_singer_master_id: '53276'
-    singer_name: 斉藤 壮馬
-    singer_alias:
-    available_date: '2017-04-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: DAME×PRINCE<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすさとい
-    singer_name_ruby: さいとうそうま
-    song_variation:
-    - esong_code: 3798B13
-      song_name: As the toy
-      content_type: ''
   - song_name: A Song For You [パセラオリジナル]
     song_alias:
     esong_code: 3794B21
@@ -517,3 +500,20 @@ result:
     - esong_code: 3813A15
       song_name: 雨蛍
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: アモーレ
+    song_alias:
+    esong_code: 3784B13
+    t_singer_master_id: '33453'
+    singer_name: ゴールデンボンバー
+    singer_alias:
+    available_date: '2017-04-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あもれ
+    singer_name_ruby: こるてんほんは
+    song_variation:
+    - esong_code: 3784B13
+      song_name: アモーレ
+      content_type: ''

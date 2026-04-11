@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 952
-  all_country_cnt: 880
+  max_cnt: 871
+  all_max_cnt: 943
+  all_country_cnt: 871
   song:
-  - song_name: センス・オブ・ワンダー
-    song_alias:
-    esong_code: 4441B12
-    t_singer_master_id: '52248'
-    singer_name: sumika
-    singer_alias:
-    available_date: '2020-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: せんすおふわんた
-    singer_name_ruby: すみか
-    song_variation:
-    - esong_code: 4441B12
-      song_name: センス・オブ・ワンダー
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: センチメートル
-    song_alias:
-    esong_code: 4441A46
-    t_singer_master_id: '52702'
-    singer_name: the peggies
-    singer_alias:
-    available_date: '2020-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 彼女、お借りします<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: せんちめとる
-    singer_name_ruby: さへきす
-    song_variation:
-    - esong_code: 4441A46
-      song_name: センチメートル
-      content_type: DAM生音
-  - song_name: 仙北平野
-    song_alias:
-    esong_code: 3873B3
-    t_singer_master_id: '67088'
-    singer_name: 茂木 勝之
-    singer_alias:
-    available_date: '2020-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せんほくへいや
-    singer_name_ruby: もきかつゆき
-    song_variation:
-    - esong_code: 3873B3
-      song_name: 仙北平野
-      content_type: ''
-  - song_name: So Addicted
-    song_alias:
-    esong_code: 4442B24
-    t_singer_master_id: '65690'
-    singer_name: SixTONES
-    singer_alias:
-    available_date: '2020-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そあていくていと
-    singer_name_ruby: すとんす
-    song_variation:
-    - esong_code: 4442B24
-      song_name: So Addicted
-      content_type: ''
-  - song_name: Thawing
-    song_alias:
-    esong_code: 4445A5
-    t_singer_master_id: '58413'
-    singer_name: 冬組
-    singer_alias:
-    available_date: '2020-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: A3!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: そういんく
-    singer_name_ruby: ふゆくみ
-    song_variation:
-    - esong_code: 4445A5
-      song_name: Thawing
-      content_type: ''
-  - song_name: そして・・・女 「名演ギター 斉藤 功」
-    song_alias:
-    esong_code: 4171B8
-    t_singer_master_id: '11044'
-    singer_name: 永井 裕子
-    singer_alias:
-    available_date: '2020-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そしておんな
-    singer_name_ruby: なかいゆうこ
-    song_variation:
-    - esong_code: 4171B8
-      song_name: そして・・・女 「名演ギター 斉藤 功」
-      content_type: ''
   - song_name: sodalite
     song_alias:
     esong_code: 4447B31
@@ -134,7 +32,7 @@ result:
     singer_alias:
     available_date: '2020-11-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: CHUNITHM AIR<番組名>
+    tie_up: CHUNITHM<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: そのくんしようか
@@ -366,23 +264,6 @@ result:
       content_type: ''
   - song_name: 第六感
     song_alias:
-    esong_code: 4443B9
-    t_singer_master_id: '60990'
-    singer_name: Reol
-    singer_alias:
-    available_date: '2020-11-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: たいろつかん
-    singer_name_ruby: れをる
-    song_variation:
-    - esong_code: 4443B9
-      song_name: 第六感
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 第六感
-    song_alias:
     esong_code: 4441A21
     t_singer_master_id: '60990'
     singer_name: Reol
@@ -398,6 +279,23 @@ result:
     - esong_code: 4441A21
       song_name: 第六感
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 第六感
+    song_alias:
+    esong_code: 4443B9
+    t_singer_master_id: '60990'
+    singer_name: Reol
+    singer_alias:
+    available_date: '2020-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: たいろつかん
+    singer_name_ruby: れをる
+    song_variation:
+    - esong_code: 4443B9
+      song_name: 第六感
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 抱き寄せ 高まる 君の体温と共に
     song_alias:
     esong_code: 4441A35
@@ -415,23 +313,6 @@ result:
     - esong_code: 4441A35
       song_name: 抱き寄せ 高まる 君の体温と共に
       content_type: DAM生音
-  - song_name: 確かにそうだ
-    song_alias:
-    esong_code: 4443B7
-    t_singer_master_id: '25056'
-    singer_name: 入野 自由
-    singer_alias:
-    available_date: '2020-11-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たしかにそうた
-    singer_name_ruby: いりのみゆ
-    song_variation:
-    - esong_code: 4443B7
-      song_name: 確かにそうだ
-      content_type: ''
   - song_name: Tattoo
     song_alias:
     esong_code: 4442B20
@@ -442,13 +323,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type:
     song_name_ruby: たとう
     singer_name_ruby: しろせあんとほわいとし
     song_variation:
     - esong_code: 4442B20
       song_name: Tattoo
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: ''
   - song_name: たぶん
     song_alias:
     esong_code: 4438A39
@@ -508,7 +389,7 @@ result:
     singer_alias:
     available_date: '2020-11-16'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボールGT<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type: 歌ってみた利用OK
     song_name_ruby: たんたんこころひ
@@ -517,3 +398,122 @@ result:
     - esong_code: 4446B13
       song_name: DAN DAN 心魅かれてく [歌ってみた利用OK]
       content_type: 歌ってみた利用OK
+  - song_name: ダンディジョーの恋
+    song_alias:
+    esong_code: 4442B9
+    t_singer_master_id: '53282'
+    singer_name: 周東 寛&山田 ゆうすけ
+    singer_alias:
+    available_date: '2020-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たんていしよ
+    singer_name_ruby: しゆうとうひろしやまたゆうす
+    song_variation:
+    - esong_code: 4442B9
+      song_name: ダンディジョーの恋
+      content_type: ''
+  - song_name: タンポポ feat.ZORN
+    song_alias:
+    esong_code: 4442A46
+    t_singer_master_id: '20269'
+    singer_name: KREVA
+    singer_alias:
+    available_date: '2020-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たんほほ
+    singer_name_ruby: くれは
+    song_variation:
+    - esong_code: 4442A46
+      song_name: タンポポ feat.ZORN
+      content_type: ''
+  - song_name: cheer up!
+    song_alias:
+    esong_code: 4443B19
+    t_singer_master_id: '44493'
+    singer_name: SILENT SIREN(Silent Siren)
+    singer_alias:
+    available_date: '2020-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちああつふ
+    singer_name_ruby: さいれんとさいれん
+    song_variation:
+    - esong_code: 4443B19
+      song_name: cheer up!
+      content_type: ''
+  - song_name: Cherry Bomb!
+    song_alias:
+    esong_code: 4441A38
+    t_singer_master_id: '61613'
+    singer_name: NCT 127
+    singer_alias:
+    available_date: '2020-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾗｲﾌﾞ
+    song_name_ruby: ちえりほむ
+    singer_name_ruby: えぬしていいちになな
+    song_variation:
+    - esong_code: 4441A38
+      song_name: Cherry Bomb!
+      content_type: DAMﾗｲﾌﾞ
+  - song_name: Change Our MIRAI! (Our 7 Lights)
+    song_alias:
+    esong_code: 4439B35
+    t_singer_master_id: '58849'
+    singer_name: イロドリミドリ
+    singer_alias:
+    available_date: '2020-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: CHUNITHM<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちえんしあわみら
+    singer_name_ruby: いろとりみとり
+    song_variation:
+    - esong_code: 4439B35
+      song_name: Change Our MIRAI! (Our 7 Lights)
+      content_type: ''
+  - song_name: 契り橋ブルース
+    song_alias:
+    esong_code: 4440B30
+    t_singer_master_id: '64225'
+    singer_name: 歌広 ちえ
+    singer_alias:
+    available_date: '2020-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちきりはしふる
+    singer_name_ruby: うたひろちえ
+    song_variation:
+    - esong_code: 4440B30
+      song_name: 契り橋ブルース
+      content_type: ''
+  - song_name: Tuning Rangers
+    song_alias:
+    esong_code: 4440A4
+    t_singer_master_id: '67074'
+    singer_name: COOL&CREATE
+    singer_alias:
+    available_date: '2020-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: CHUNITHM<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちゆにんくれんし
+    singer_name_ruby: くるあんとくりえいと
+    song_variation:
+    - esong_code: 4440A4
+      song_name: Tuning Rangers
+      content_type: ''

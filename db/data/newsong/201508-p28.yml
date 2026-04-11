@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
   - song_name: FINAL EMPEROR
     song_alias:
@@ -23,6 +23,23 @@ result:
     song_variation:
     - esong_code: 3473B35
       song_name: FINAL EMPEROR
+      content_type: ''
+  - song_name: Fire
+    song_alias:
+    esong_code: 3479A25
+    t_singer_master_id: '47461'
+    singer_name: JUNHO(From 2PM)
+    singer_alias:
+    available_date: '2015-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふあいや
+    singer_name_ruby: しゆの
+    song_variation:
+    - esong_code: 3479A25
+      song_name: Fire
       content_type: ''
   - song_name: FIRE
     song_alias:
@@ -57,23 +74,6 @@ result:
     song_variation:
     - esong_code: 3471B45
       song_name: fire!
-      content_type: ''
-  - song_name: Fire
-    song_alias:
-    esong_code: 3479A25
-    t_singer_master_id: '47461'
-    singer_name: JUNHO(From 2PM)
-    singer_alias:
-    available_date: '2015-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふあいや
-    singer_name_ruby: しゆの
-    song_variation:
-    - esong_code: 3479A25
-      song_name: Fire
       content_type: ''
   - song_name: First morning
     song_alias:
@@ -213,23 +213,6 @@ result:
       content_type: ''
   - song_name: Famous Day
     song_alias:
-    esong_code: 3485A16
-    t_singer_master_id: '38639'
-    singer_name: "[Alexandros]"
-    singer_alias:
-    available_date: '2015-08-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ふえいますてい
-    singer_name_ruby: あれきさんとろす
-    song_variation:
-    - esong_code: 3485A16
-      song_name: Famous Day
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Famous Day
-    song_alias:
     esong_code: 3476A39
     t_singer_master_id: '38639'
     singer_name: "[Alexandros]"
@@ -245,23 +228,23 @@ result:
     - esong_code: 3476A39
       song_name: Famous Day
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Fame
+  - song_name: Famous Day
     song_alias:
-    esong_code: 3480A37
-    t_singer_master_id: '8598'
-    singer_name: 堂本 光一(from KinKi Kids)
+    esong_code: 3485A16
+    t_singer_master_id: '38639'
+    singer_name: "[Alexandros]"
     singer_alias:
-    available_date: '2015-08-23'
+    available_date: '2015-08-15'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ふえいむ
-    singer_name_ruby: とうもとこういち
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ふえいますてい
+    singer_name_ruby: あれきさんとろす
     song_variation:
-    - esong_code: 3480A37
-      song_name: Fame
-      content_type: DAMｸﾘｯﾌﾟ
+    - esong_code: 3485A16
+      song_name: Famous Day
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: フォエバ
     song_alias:
     esong_code: 3478A14
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3474B45
       song_name: ふたりのギター
+      content_type: ''
+  - song_name: ぶっかます
+    song_alias:
+    esong_code: 3479A14
+    t_singer_master_id: '33302'
+    singer_name: サイプレス上野とロベルト吉野
+    singer_alias:
+    available_date: '2015-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふつかます
+    singer_name_ruby: さいふれすうえのとろへるとよしの
+    song_variation:
+    - esong_code: 3479A14
+      song_name: ぶっかます
       content_type: ''

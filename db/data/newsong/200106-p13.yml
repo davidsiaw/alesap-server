@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 570
-  all_max_cnt: 598
-  all_country_cnt: 570
+  max_cnt: 569
+  all_max_cnt: 596
+  all_country_cnt: 569
   song:
   - song_name: HELLO MR.RAIN
     song_alias:
@@ -483,23 +483,6 @@ result:
     - esong_code: 578A32
       song_name: Feel it
       content_type: ''
-  - song_name: Faith
-    song_alias:
-    esong_code: 495B32
-    t_singer_master_id: '10544'
-    singer_name: e.mu
-    singer_alias:
-    available_date: '2001-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふえいす
-    singer_name_ruby: えみゆ
-    song_variation:
-    - esong_code: 495B32
-      song_name: Faith
-      content_type: ''
   - song_name: フェロモン
     song_alias:
     esong_code: 577A23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 577A23
       song_name: フェロモン
+      content_type: ''
+  - song_name: Photosynthesis
+    song_alias:
+    esong_code: 641A30
+    t_singer_master_id: '12732'
+    singer_name: CORE OF SOUL
+    singer_alias:
+    available_date: '2001-06-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふおとしんせしす
+    singer_name_ruby: こあおふそうる
+    song_variation:
+    - esong_code: 641A30
+      song_name: Photosynthesis
       content_type: ''

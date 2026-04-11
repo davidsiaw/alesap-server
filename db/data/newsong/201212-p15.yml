@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1586
-  all_max_cnt: 1734
-  all_country_cnt: 1586
+  max_cnt: 1581
+  all_max_cnt: 1729
+  all_country_cnt: 1581
   song:
-  - song_name: 恋しくて
-    song_alias:
-    esong_code: 2943A19
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
-    singer_alias:
-    available_date: '2012-12-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいしくて
-    singer_name_ruby: こうたくみ
-    song_variation:
-    - esong_code: 2943A19
-      song_name: 恋しくて
-      content_type: ''
   - song_name: 恋しずく
     song_alias:
     esong_code: 2944A9
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2945A25
       song_name: GO GO FUJI! GO SHIRAISHI!
+      content_type: ''
+  - song_name: 心からイエスタデイ
+    song_alias:
+    esong_code: 235A45
+    t_singer_master_id: '531'
+    singer_name: 葛城 ユキ
+    singer_alias:
+    available_date: '2012-12-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころからいえすたて
+    singer_name_ruby: かつらきゆき
+    song_variation:
+    - esong_code: 235A45
+      song_name: 心からイエスタデイ
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 592
-  all_max_cnt: 727
-  all_country_cnt: 592
+  max_cnt: 588
+  all_max_cnt: 723
+  all_country_cnt: 588
   song:
-  - song_name: オシャナー恋歌
-    song_alias:
-    esong_code: 374A11
-    t_singer_master_id: '549'
-    singer_name: 金沢 明子
-    singer_alias:
-    available_date: '2004-04-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おしやなこいうた
-    singer_name_ruby: かなさわあきこ
-    song_variation:
-    - esong_code: 374A11
-      song_name: オシャナー恋歌
-      content_type: ''
   - song_name: 小田和正メドレー
     song_alias:
     esong_code: 425A5
@@ -436,7 +419,7 @@ result:
     song_alias:
     esong_code: 376B6
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2004-04-28'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1B18
       song_name: 片想いダイヤル
+      content_type: ''
+  - song_name: 片思いのハミング
+    song_alias:
+    esong_code: 250A38
+    t_singer_master_id: '2906'
+    singer_name: 伊藤 つかさ
+    singer_alias:
+    available_date: '2004-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 光の伝説<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かたおもいのはみんく
+    singer_name_ruby: いとうつかさ
+    song_variation:
+    - esong_code: 250A38
+      song_name: 片思いのハミング
       content_type: ''

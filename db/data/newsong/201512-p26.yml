@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
-  - song_name: デジタリック→0(LOVE)
-    song_alias:
-    esong_code: 3574B17
-    t_singer_master_id: '28173'
-    singer_name: "℃-ute"
-    singer_alias:
-    available_date: '2015-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てしたりつくらふ
-    singer_name_ruby: きゆと
-    song_variation:
-    - esong_code: 3574B17
-      song_name: デジタリック→0(LOVE)
-      content_type: ''
   - song_name: 出鱈目
     song_alias:
     esong_code: 3567A12
@@ -364,6 +347,23 @@ result:
     - esong_code: 3577B19
       song_name: 刀剣乱舞
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 刀剣乱舞
+    song_alias:
+    esong_code: 3572A40
+    t_singer_master_id: '54996'
+    singer_name: 刀剣男士 team三条 with 加州清光
+    singer_alias:
+    available_date: '2015-12-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 刀剣乱舞(ミュージカル)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうけんらんふ
+    singer_name_ruby: とうけんたんしちむさんしようう
+    song_variation:
+    - esong_code: 3572A40
+      song_name: 刀剣乱舞
+      content_type: ''
   - song_name: 堂島あかり
     song_alias:
     esong_code: 2089A23
@@ -474,7 +474,7 @@ result:
     singer_alias:
     available_date: '2015-12-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真・三國無双7<番組名>
+    tie_up: 真・三國無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とうるはわ
@@ -502,18 +502,18 @@ result:
       content_type: ''
   - song_name: 十勝望郷歌
     song_alias:
-    esong_code: 3561A30
+    esong_code: 848A46
     t_singer_master_id: '44211'
     singer_name: 中村 仁美(戸川よし乃)
     singer_alias:
-    available_date: '2015-12-01'
+    available_date: '2015-12-13'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: とかちほうきようか
     singer_name_ruby: なかむらひとみ
     song_variation:
-    - esong_code: 3561A30
+    - esong_code: 848A46
       song_name: 十勝望郷歌
-      content_type: ''
+      content_type: DAMｸﾘｯﾌﾟ生音

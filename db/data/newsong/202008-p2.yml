@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1393
-  all_max_cnt: 1471
-  all_country_cnt: 1393
+  max_cnt: 1386
+  all_max_cnt: 1464
+  all_country_cnt: 1386
   song:
-  - song_name: あかね空 [歌ってみた利用OK]
-    song_alias:
-    esong_code: 4409B48
-    t_singer_master_id: '19053'
-    singer_name: 森山 愛子
-    singer_alias:
-    available_date: '2020-08-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: 歌ってみた利用OK
-    song_name_ruby: あかねそら
-    singer_name_ruby: もりやまあいこ
-    song_variation:
-    - esong_code: 4409B48
-      song_name: あかね空 [歌ってみた利用OK]
-      content_type: 歌ってみた利用OK
-  - song_name: 赤の同盟
-    song_alias:
-    esong_code: 4419B8
-    t_singer_master_id: '20368'
-    singer_name: 東京事変
-    singer_alias:
-    available_date: '2020-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかのとうめい
-    singer_name_ruby: とうきようしへん
-    song_variation:
-    - esong_code: 4419B8
-      song_name: 赤の同盟
-      content_type: ''
-  - song_name: 秋保の郷
-    song_alias:
-    esong_code: 4284B30
-    t_singer_master_id: '46470'
-    singer_name: 花山 湖春
-    singer_alias:
-    available_date: '2020-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あきうのさと
-    singer_name_ruby: はなやまこしゆん
-    song_variation:
-    - esong_code: 4284B30
-      song_name: 秋保の郷
-      content_type: ''
   - song_name: Aqours Pirates Desire
     song_alias:
     esong_code: 4419A5
@@ -92,23 +41,6 @@ result:
     - esong_code: 4414B45
       song_name: 悪女 [歌ってみた利用OK]
       content_type: 歌ってみた利用OK
-  - song_name: AGAIN
-    song_alias:
-    esong_code: 4403B31
-    t_singer_master_id: '63384'
-    singer_name: Argonavis
-    singer_alias:
-    available_date: '2020-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アルゴナビス from BanG Dream!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけいん
-    singer_name_ruby: あるこなひす
-    song_variation:
-    - esong_code: 4403B31
-      song_name: AGAIN
-      content_type: ''
   - song_name: 明智光秀 〜誉〜
     song_alias:
     esong_code: 4406A48
@@ -517,3 +449,71 @@ result:
     - esong_code: 4115A10
       song_name: あなたが好きよ
       content_type: ''
+  - song_name: あなたと二人づれ [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4410A18
+    t_singer_master_id: '595'
+    singer_name: 川中 美幸
+    singer_alias:
+    available_date: '2020-08-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: あなたとふたりつれ
+    singer_name_ruby: かわなかみゆき
+    song_variation:
+    - esong_code: 4410A18
+      song_name: あなたと二人づれ [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
+  - song_name: あなたに会えてよかった [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4414A2
+    t_singer_master_id: '809'
+    singer_name: 小泉 今日子
+    singer_alias:
+    available_date: '2020-08-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: あなたにあえてよかつ
+    singer_name_ruby: こいすみきようこ
+    song_variation:
+    - esong_code: 4414A2
+      song_name: あなたに会えてよかった [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
+  - song_name: あなたに逢えて良かった 〜そうです あなたは太陽...
+    song_alias:
+    esong_code: 4406A37
+    t_singer_master_id: '49733'
+    singer_name: 白木 裕子(白木ゆう子)
+    singer_alias:
+    available_date: '2020-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたにあえてよかつ
+    singer_name_ruby: しらきゆうこ
+    song_variation:
+    - esong_code: 4406A37
+      song_name: あなたに逢えて良かった 〜そうです あなたは太陽...
+      content_type: ''
+  - song_name: あー夏休み [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4413A16
+    t_singer_master_id: '1462'
+    singer_name: TUBE
+    singer_alias:
+    available_date: '2020-08-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: あなつやすみ
+    singer_name_ruby: ちゆふ
+    song_variation:
+    - esong_code: 4413A16
+      song_name: あー夏休み [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK

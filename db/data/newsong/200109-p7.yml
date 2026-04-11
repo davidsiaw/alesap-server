@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 407
-  all_max_cnt: 426
-  all_country_cnt: 407
+  max_cnt: 404
+  all_max_cnt: 423
+  all_country_cnt: 404
   song:
-  - song_name: それぞれの旅
-    song_alias:
-    esong_code: 165B7
-    t_singer_master_id: '946'
-    singer_name: さだ まさし
-    singer_alias:
-    available_date: '2001-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: それそれのたひ
-    singer_name_ruby: さたまさし
-    song_variation:
-    - esong_code: 165B7
-      song_name: それぞれの旅
-      content_type: ''
   - song_name: それぞれの旅
     song_alias:
     esong_code: 330B27
@@ -108,6 +91,23 @@ result:
     song_variation:
     - esong_code: 668B28
       song_name: たいくつ
+      content_type: ''
+  - song_name: たいせつなひと
+    song_alias:
+    esong_code: 661B33
+    t_singer_master_id: '8805'
+    singer_name: '19'
+    singer_alias:
+    available_date: '2001-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいせつなひと
+    singer_name_ruby: しゆく
+    song_variation:
+    - esong_code: 661B33
+      song_name: たいせつなひと
       content_type: ''
   - song_name: TIMEMACHINE
     song_alias:
@@ -245,23 +245,6 @@ result:
     - esong_code: 668B30
       song_name: ダンスの流行
       content_type: ''
-  - song_name: 小さな手
-    song_alias:
-    esong_code: 668B31
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2001-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちいさなて
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 668B31
-      song_name: 小さな手
-      content_type: ''
   - song_name: チークを踊ろう
     song_alias:
     esong_code: 672B31
@@ -295,23 +278,6 @@ result:
     song_variation:
     - esong_code: 668B32
       song_name: 長時間の飛行
-      content_type: ''
-  - song_name: 月が笑う
-    song_alias:
-    esong_code: 287B19
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2001-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきかわらう
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 287B19
-      song_name: 月が笑う
       content_type: ''
   - song_name: 都万(つま)の秋
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 666B22
       song_name: DOMESTIC VIOLENCE
+      content_type: ''
+  - song_name: ともだち
+    song_alias:
+    esong_code: 664A35
+    t_singer_master_id: '7030'
+    singer_name: PUFFY(PUFFY AMIYUMI)
+    singer_alias:
+    available_date: '2001-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ともたち
+    singer_name_ruby: はふい
+    song_variation:
+    - esong_code: 664A35
+      song_name: ともだち
+      content_type: ''
+  - song_name: ともだち以上
+    song_alias:
+    esong_code: 670A38
+    t_singer_master_id: '7818'
+    singer_name: 小松 未歩
+    singer_alias:
+    available_date: '2001-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ともたちいしよう
+    singer_name_ruby: こまつみほ
+    song_variation:
+    - esong_code: 670A38
+      song_name: ともだち以上
       content_type: ''

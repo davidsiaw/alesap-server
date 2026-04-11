@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 545
-  all_max_cnt: 575
-  all_country_cnt: 545
+  max_cnt: 543
+  all_max_cnt: 573
+  all_country_cnt: 543
   song:
   - song_name: 愛されたい
     song_alias:
@@ -92,23 +92,6 @@ result:
     - esong_code: 295B37
       song_name: 愛情
       content_type: JOY SHOW劇
-  - song_name: 逢いたい
-    song_alias:
-    esong_code: 100A23
-    t_singer_master_id: '2217'
-    singer_name: 松田 聖子
-    singer_alias:
-    available_date: '2004-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいたい
-    singer_name_ruby: まつたせいこ
-    song_variation:
-    - esong_code: 100A23
-      song_name: 逢いたい
-      content_type: ''
   - song_name: 愛 Check it!
     song_alias:
     esong_code: 576A43
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 306A42
       song_name: ALIVE 〜the way to there〜
+      content_type: ''
+  - song_name: ALIVE-LIFE
+    song_alias:
+    esong_code: 65B22
+    t_singer_master_id: '3079'
+    singer_name: TOKIO
+    singer_alias:
+    available_date: '2004-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あらいふらいふ
+    singer_name_ruby: ときお
+    song_variation:
+    - esong_code: 65B22
+      song_name: ALIVE-LIFE
       content_type: ''

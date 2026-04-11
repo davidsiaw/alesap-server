@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 249
-  all_max_cnt: 254
-  all_country_cnt: 249
+  max_cnt: 246
+  all_max_cnt: 251
+  all_country_cnt: 246
   song:
-  - song_name: ジュブナイルダイバー
-    song_alias:
-    esong_code: 4367A25
-    t_singer_master_id: '66413'
-    singer_name: Rain Drops(from にじさんじ)
-    singer_alias:
-    available_date: '2020-05-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆふないるた
-    singer_name_ruby: れいんとろつふすにしさんし
-    song_variation:
-    - esong_code: 4367A25
-      song_name: ジュブナイルダイバー
-      content_type: ''
   - song_name: 純烈ヒットソングメドレー
     song_alias:
     esong_code: 4372B40
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2020-05-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 白猫プロジェクト ZERO CHRONICLE<番組名>
+    tie_up: 白猫プロジェクト(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: するさたくて
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4370A40
       song_name: だってだってだって
+      content_type: ''
+  - song_name: 楽しく生きよう人生は
+    song_alias:
+    esong_code: 4370B17
+    t_singer_master_id: '66433'
+    singer_name: 飯嶋 義博
+    singer_alias:
+    available_date: '2020-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たのしくいきようし
+    singer_name_ruby: いいしまよしひろ
+    song_variation:
+    - esong_code: 4370B17
+      song_name: 楽しく生きよう人生は
       content_type: ''

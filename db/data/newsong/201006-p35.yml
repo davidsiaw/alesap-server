@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
-  - song_name: 郵便屋さんのうた
-    song_alias:
-    esong_code: 2555A19
-    t_singer_master_id: '26665'
-    singer_name: サクラメリーメン
-    singer_alias:
-    available_date: '2010-06-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆうひんやさんのう
-    singer_name_ruby: さくらめりめん
-    song_variation:
-    - esong_code: 2555A19
-      song_name: 郵便屋さんのうた
-      content_type: ''
-  - song_name: 誘惑ヴァイオレット
-    song_alias:
-    esong_code: 2549B28
-    t_singer_master_id: '34813'
-    singer_name: 姫宮みらんとチョコレートロッカーズ
-    singer_alias:
-    available_date: '2010-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 乃木坂春香の秘密 ぴゅあれっつぁ♪<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆうわくはいおれつ
-    singer_name_ruby: ひめみやみらんとちよこれと
-    song_variation:
-    - esong_code: 2549B28
-      song_name: 誘惑ヴァイオレット
-      content_type: ''
   - song_name: 雪 「名演ピアノ 美野 春樹」
     song_alias:
     esong_code: 2550B4
@@ -383,23 +349,6 @@ result:
       content_type: ''
   - song_name: 酔待ち酒場
     song_alias:
-    esong_code: 2544B28
-    t_singer_master_id: '36847'
-    singer_name: 三山 ひろし(三山ヒロシ)
-    singer_alias:
-    available_date: '2010-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よいまちさかは
-    singer_name_ruby: みやまひろし
-    song_variation:
-    - esong_code: 2544B28
-      song_name: 酔待ち酒場
-      content_type: ''
-  - song_name: 酔待ち酒場
-    song_alias:
     esong_code: 2550A14
     t_singer_master_id: '36847'
     singer_name: 三山 ひろし(三山ヒロシ)
@@ -415,6 +364,23 @@ result:
     - esong_code: 2550A14
       song_name: 酔待ち酒場
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 酔待ち酒場
+    song_alias:
+    esong_code: 2544B28
+    t_singer_master_id: '36847'
+    singer_name: 三山 ひろし(三山ヒロシ)
+    singer_alias:
+    available_date: '2010-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よいまちさかは
+    singer_name_ruby: みやまひろし
+    song_variation:
+    - esong_code: 2544B28
+      song_name: 酔待ち酒場
+      content_type: ''
   - song_name: 夜霧よ今夜も有難う
     song_alias:
     esong_code: 2555B37
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2549B19
       song_name: 夜泣酒
+      content_type: ''
+  - song_name: ヨミビトシラズ feat.神威がくぽ
+    song_alias:
+    esong_code: 2553B41
+    t_singer_master_id: '37863'
+    singer_name: "∀studio"
+    singer_alias:
+    available_date: '2010-06-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: よみひとしらす
+    singer_name_ruby: たんえすたしお
+    song_variation:
+    - esong_code: 2553B41
+      song_name: ヨミビトシラズ feat.神威がくぽ
+      content_type: VOCALOID
+  - song_name: 夜がわらっている
+    song_alias:
+    esong_code: 2559A36
+    t_singer_master_id: '1709'
+    singer_name: 西尾 夕紀
+    singer_alias:
+    available_date: '2010-06-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よるかわらつている
+    singer_name_ruby: にしおゆき
+    song_variation:
+    - esong_code: 2559A36
+      song_name: 夜がわらっている
       content_type: ''

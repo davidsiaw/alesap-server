@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
   - song_name: Mr.Misunderstand
     song_alias:
@@ -281,23 +281,6 @@ result:
       content_type: ''
   - song_name: 未来
     song_alias:
-    esong_code: 1628B32
-    t_singer_master_id: '13107'
-    singer_name: KIYOSHI(氷川きよし)
-    singer_alias:
-    available_date: '2006-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ウルトラマンメビウス&ウルトラマン兄弟<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: みらい
-    singer_name_ruby: きよし
-    song_variation:
-    - esong_code: 1628B32
-      song_name: 未来
-      content_type: ''
-  - song_name: 未来
-    song_alias:
     esong_code: 965A27
     t_singer_master_id: '10342'
     singer_name: 合唱
@@ -311,6 +294,23 @@ result:
     singer_name_ruby: かつしよう
     song_variation:
     - esong_code: 965A27
+      song_name: 未来
+      content_type: ''
+  - song_name: 未来
+    song_alias:
+    esong_code: 1644A6
+    t_singer_master_id: '14973'
+    singer_name: 太陽族
+    singer_alias:
+    available_date: '2006-09-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みらい
+    singer_name_ruby: たいようそく
+    song_variation:
+    - esong_code: 1644A6
       song_name: 未来
       content_type: ''
   - song_name: 未来
@@ -332,19 +332,19 @@ result:
       content_type: ''
   - song_name: 未来
     song_alias:
-    esong_code: 1644A6
-    t_singer_master_id: '14973'
-    singer_name: 太陽族
+    esong_code: 1628B32
+    t_singer_master_id: '13107'
+    singer_name: KIYOSHI(氷川きよし)
     singer_alias:
-    available_date: '2006-09-17'
+    available_date: '2006-09-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: ウルトラマンメビウス&ウルトラマン兄弟<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: みらい
-    singer_name_ruby: たいようそく
+    singer_name_ruby: きよし
     song_variation:
-    - esong_code: 1644A6
+    - esong_code: 1628B32
       song_name: 未来
       content_type: ''
   - song_name: みれん川

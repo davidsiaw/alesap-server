@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: 敬愛 〜夕陽の向こうに〜
-    song_alias:
-    esong_code: 2202B22
-    t_singer_master_id: '2536'
-    singer_name: 吉 幾三
-    singer_alias:
-    available_date: '2009-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けいあいゆうひのむこ
-    singer_name_ruby: よしいくそう
-    song_variation:
-    - esong_code: 2202B22
-      song_name: 敬愛 〜夕陽の向こうに〜
-      content_type: ''
   - song_name: 激動 (AwakEVE ver.)
     song_alias:
     esong_code: 2252A7
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2213B22
       song_name: 氷の世界
+      content_type: ''
+  - song_name: ゴキブリ讃歌
+    song_alias:
+    esong_code: 2199B18
+    t_singer_master_id: '25189'
+    singer_name: ザ50回転ズ
+    singer_alias:
+    available_date: '2009-02-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こきふりさんか
+    singer_name_ruby: さこしゆつかいてんす
+    song_variation:
+    - esong_code: 2199B18
+      song_name: ゴキブリ讃歌
       content_type: ''

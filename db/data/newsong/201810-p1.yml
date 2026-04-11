@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1403
-  all_max_cnt: 1669
-  all_country_cnt: 1403
+  max_cnt: 1394
+  all_max_cnt: 1660
+  all_country_cnt: 1394
   song:
   - song_name: I'm Here
     song_alias:
@@ -117,7 +117,7 @@ result:
     singer_alias:
     available_date: '2018-10-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂.<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: あいわなひ
@@ -177,23 +177,6 @@ result:
     - esong_code: 4075A41
       song_name: 青い旅人
       content_type: ''
-  - song_name: 青い春 (2017ver.)
-    song_alias:
-    esong_code: 4079B1
-    t_singer_master_id: '35281'
-    singer_name: back number
-    singer_alias:
-    available_date: '2018-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: あおいはる
-    singer_name_ruby: はつくなんは
-    song_variation:
-    - esong_code: 4079B1
-      song_name: 青い春 (2017ver.)
-      content_type: DAMﾗｲﾌﾞ
   - song_name: 碧き願い (Full size)(オリカラ)
     song_alias:
     esong_code: 4078B13
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4080A20
       song_name: ACID CASTLE
+      content_type: ''
+  - song_name: 惡詛毘惡詛罵世
+    song_alias:
+    esong_code: 4086B31
+    t_singer_master_id: '62628'
+    singer_name: 木野 日菜&小原 好美
+    singer_alias:
+    available_date: '2018-10-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: あそびあそばせ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あそひあそはせ
+    singer_name_ruby: きのひなこはらこのみ
+    song_variation:
+    - esong_code: 4086B31
+      song_name: 惡詛毘惡詛罵世
       content_type: ''

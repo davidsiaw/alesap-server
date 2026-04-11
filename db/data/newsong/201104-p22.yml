@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
-  - song_name: 高山本線 訪ね旅
-    song_alias:
-    esong_code: 1425A25
-    t_singer_master_id: '30507'
-    singer_name: 香川 浩二
-    singer_alias:
-    available_date: '2011-04-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たかやまほんせんたす
-    singer_name_ruby: かかわこうし
-    song_variation:
-    - esong_code: 1425A25
-      song_name: 高山本線 訪ね旅
-      content_type: ''
   - song_name: たからもの
     song_alias:
     esong_code: 1527A21
@@ -77,23 +60,6 @@ result:
       content_type: 東方
   - song_name: 黄昏を止めて
     song_alias:
-    esong_code: 2560A22
-    t_singer_master_id: '1560'
-    singer_name: 徳永 英明
-    singer_alias:
-    available_date: '2011-04-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たそかれをとめて
-    singer_name_ruby: とくなかひてあき
-    song_variation:
-    - esong_code: 2560A22
-      song_name: 黄昏を止めて
-      content_type: ''
-  - song_name: 黄昏を止めて
-    song_alias:
     esong_code: 2554A46
     t_singer_master_id: '1560'
     singer_name: 徳永 英明
@@ -109,6 +75,23 @@ result:
     - esong_code: 2554A46
       song_name: 黄昏を止めて
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 黄昏を止めて
+    song_alias:
+    esong_code: 2560A22
+    t_singer_master_id: '1560'
+    singer_name: 徳永 英明
+    singer_alias:
+    available_date: '2011-04-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たそかれをとめて
+    singer_name_ruby: とくなかひてあき
+    song_variation:
+    - esong_code: 2560A22
+      song_name: 黄昏を止めて
+      content_type: ''
   - song_name: DADA
     song_alias:
     esong_code: 1382B9
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1412B17
       song_name: CHANGE my LIFE
+      content_type: ''
+  - song_name: 千曲恋唄 (男性バージョン)
+    song_alias:
+    esong_code: 1464B9
+    t_singer_master_id: '32948'
+    singer_name: 三田 勉示
+    singer_alias:
+    available_date: '2011-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちくまこいうた
+    singer_name_ruby: みたかつみ
+    song_variation:
+    - esong_code: 1464B9
+      song_name: 千曲恋唄 (男性バージョン)
       content_type: ''

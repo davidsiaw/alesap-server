@@ -3,26 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
-  - song_name: Pray
+  - song_name: PRINCE
     song_alias:
-    esong_code: 2197A11
-    t_singer_master_id: '14349'
-    singer_name: Wish*
+    esong_code: 2201B41
+    t_singer_master_id: '30958'
+    singer_name: Versailles
     singer_alias:
-    available_date: '2009-01-15'
+    available_date: '2009-01-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: ふれい
-    singer_name_ruby: ういつしゆ
+    song_name_ruby: ふりんす
+    singer_name_ruby: へるさいゆ
     song_variation:
-    - esong_code: 2197A11
-      song_name: Pray
+    - esong_code: 2201B41
+      song_name: PRINCE
       content_type: ''
   - song_name: プレイ
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 2195B3
       song_name: friend
       content_type: ''
-  - song_name: PROMiSE
-    song_alias:
-    esong_code: 2194A3
-    t_singer_master_id: '33821'
-    singer_name: MiChi
-    singer_alias:
-    available_date: '2009-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ふろみす
-    singer_name_ruby: みち
-    song_variation:
-    - esong_code: 2194A3
-      song_name: PROMiSE
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: FORM of LIGHT
     song_alias:
     esong_code: 2195A25
@@ -383,23 +366,6 @@ result:
       content_type: ''
   - song_name: Velonica
     song_alias:
-    esong_code: 2186B7
-    t_singer_master_id: '24187'
-    singer_name: Aqua Timez
-    singer_alias:
-    available_date: '2009-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: BLEACH<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: へろにか
-    singer_name_ruby: あくあたいむす
-    song_variation:
-    - esong_code: 2186B7
-      song_name: Velonica
-      content_type: ''
-  - song_name: Velonica
-    song_alias:
     esong_code: 2254A5
     t_singer_master_id: '24187'
     singer_name: Aqua Timez
@@ -415,6 +381,23 @@ result:
     - esong_code: 2254A5
       song_name: Velonica
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Velonica
+    song_alias:
+    esong_code: 2186B7
+    t_singer_master_id: '24187'
+    singer_name: Aqua Timez
+    singer_alias:
+    available_date: '2009-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BLEACH<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: へろにか
+    singer_name_ruby: あくあたいむす
+    song_variation:
+    - esong_code: 2186B7
+      song_name: Velonica
+      content_type: ''
   - song_name: penguin
     song_alias:
     esong_code: 2197A24
@@ -491,7 +474,7 @@ result:
     singer_alias:
     available_date: '2009-01-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: TALES OF THE ABYSS<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: ほうけんすいせい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2193B20
       song_name: 僕たちの風景
+      content_type: ''
+  - song_name: 北斗
+    song_alias:
+    esong_code: 2191B5
+    t_singer_master_id: '1107'
+    singer_name: 神野 美伽
+    singer_alias:
+    available_date: '2009-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくと
+    singer_name_ruby: しんのみか
+    song_variation:
+    - esong_code: 2191B5
+      song_name: 北斗
       content_type: ''

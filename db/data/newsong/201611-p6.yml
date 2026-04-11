@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1576
-  all_max_cnt: 1796
-  all_country_cnt: 1576
+  max_cnt: 1565
+  all_max_cnt: 1785
+  all_country_cnt: 1565
   song:
-  - song_name: うぇるかむ・はぴきらパーク!
-    song_alias:
-    esong_code: 3718B44
-    t_singer_master_id: '57441'
-    singer_name: もふもふえん
-    singer_alias:
-    available_date: '2016-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドルマスター SideM(ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえるかむはひきら
-    singer_name_ruby: もふもふえん
-    song_variation:
-    - esong_code: 3718B44
-      song_name: うぇるかむ・はぴきらパーク!
-      content_type: ''
   - song_name: ウェルカム・フューチャー
     song_alias:
     esong_code: 3723A34
@@ -440,7 +423,7 @@ result:
     singer_alias:
     available_date: '2016-11-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 白猫プロジェクト<番組名>
+    tie_up: 白猫プロジェクト(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: うみへと
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3716A11
       song_name: うんとでろうんち
+      content_type: ''
+  - song_name: 運命のアイラブユー
+    song_alias:
+    esong_code: 3724B22
+    t_singer_master_id: '45391'
+    singer_name: chay
+    singer_alias:
+    available_date: '2016-11-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うんめいのあいらふ
+    singer_name_ruby: ちやい
+    song_variation:
+    - esong_code: 3724B22
+      song_name: 運命のアイラブユー
       content_type: ''

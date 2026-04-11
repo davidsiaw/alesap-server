@@ -3,15 +3,15 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1365
-  all_max_cnt: 1538
-  all_country_cnt: 1365
+  max_cnt: 1361
+  all_max_cnt: 1534
+  all_country_cnt: 1361
   song:
   - song_name: 愛をありがとう
     song_alias:
-    esong_code: 2105B6
-    t_singer_master_id: '39959'
-    singer_name: 純烈
+    esong_code: 2348B37
+    t_singer_master_id: '32895'
+    singer_name: 佐々木 秀実
     singer_alias:
     available_date: '2016-08-28'
     end_date: '2999-04-10 00:00:00'
@@ -19,43 +19,9 @@ result:
     country_code: '0'
     content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: あいをありかとう
-    singer_name_ruby: しゆんれつ
+    singer_name_ruby: ささきひてみ
     song_variation:
-    - esong_code: 2105B6
-      song_name: 愛をありがとう
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 愛をありがとう
-    song_alias:
-    esong_code: 2125A24
-    t_singer_master_id: '32154'
-    singer_name: ジェロ
-    singer_alias:
-    available_date: '2016-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あいをありかとう
-    singer_name_ruby: しえろ
-    song_variation:
-    - esong_code: 2125A24
-      song_name: 愛をありがとう
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 愛をありがとう
-    song_alias:
-    esong_code: 2827B13
-    t_singer_master_id: '10798'
-    singer_name: 北川 大介
-    singer_alias:
-    available_date: '2016-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あいをありかとう
-    singer_name_ruby: きたかわたいすけ
-    song_variation:
-    - esong_code: 2827B13
+    - esong_code: 2348B37
       song_name: 愛をありがとう
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: 愛をありがとう
@@ -73,6 +39,40 @@ result:
     singer_name_ruby: もりきこ
     song_variation:
     - esong_code: 3669A30
+      song_name: 愛をありがとう
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 愛をありがとう
+    song_alias:
+    esong_code: 3669A26
+    t_singer_master_id: '40384'
+    singer_name: 松平 直樹&櫻井 まり(マヒナスターズ)
+    singer_alias:
+    available_date: '2016-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: あいをありかとう
+    singer_name_ruby: まつたいらなおきさくらいまり
+    song_variation:
+    - esong_code: 3669A26
+      song_name: 愛をありがとう
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 愛をありがとう
+    song_alias:
+    esong_code: 2125A24
+    t_singer_master_id: '32154'
+    singer_name: ジェロ
+    singer_alias:
+    available_date: '2016-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: あいをありかとう
+    singer_name_ruby: しえろ
+    song_variation:
+    - esong_code: 2125A24
       song_name: 愛をありがとう
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: 逢えば星空
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: あかね雲
     song_alias:
-    esong_code: 3660B38
-    t_singer_master_id: '50266'
-    singer_name: 竹村 こずえ
-    singer_alias:
-    available_date: '2016-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかねくも
-    singer_name_ruby: たけむらこすえ
-    song_variation:
-    - esong_code: 3660B38
-      song_name: あかね雲
-      content_type: ''
-  - song_name: あかね雲
-    song_alias:
     esong_code: 3668B12
     t_singer_master_id: '50266'
     singer_name: 竹村 こずえ
@@ -296,6 +279,23 @@ result:
     - esong_code: 3668B12
       song_name: あかね雲
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: あかね雲
+    song_alias:
+    esong_code: 3660B38
+    t_singer_master_id: '50266'
+    singer_name: 竹村 こずえ
+    singer_alias:
+    available_date: '2016-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかねくも
+    singer_name_ruby: たけむらこすえ
+    song_variation:
+    - esong_code: 3660B38
+      song_name: あかね雲
+      content_type: ''
   - song_name: 明るいなかま (中山千夏 ver.)
     song_alias:
     esong_code: 3676A40

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: Shinin' Days
-    song_alias:
-    esong_code: 2825A46
-    t_singer_master_id: '29081'
-    singer_name: 小野 大輔
-    singer_alias:
-    available_date: '2012-07-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやいにんていす
-    singer_name_ruby: おのたいすけ
-    song_variation:
-    - esong_code: 2825A46
-      song_name: Shinin' Days
-      content_type: ''
   - song_name: SHY BOY
     song_alias:
     esong_code: 2833B33
@@ -451,23 +434,6 @@ result:
       content_type: VOCALOID
   - song_name: 昭和・男道
     song_alias:
-    esong_code: 2819A47
-    t_singer_master_id: '849'
-    singer_name: 小林 旭
-    singer_alias:
-    available_date: '2012-07-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: しようわおとこみち
-    singer_name_ruby: こはやしあきら
-    song_variation:
-    - esong_code: 2819A47
-      song_name: 昭和・男道
-      content_type: DAM生音
-  - song_name: 昭和・男道
-    song_alias:
     esong_code: 2819B26
     t_singer_master_id: '849'
     singer_name: 小林 旭
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2820A47
       song_name: Silverlight
+      content_type: ''
+  - song_name: 白薔薇の君
+    song_alias:
+    esong_code: 2811A37
+    t_singer_master_id: '42782'
+    singer_name: Tact
+    singer_alias:
+    available_date: '2012-07-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しろはらのきみ
+    singer_name_ruby: たくと
+    song_variation:
+    - esong_code: 2811A37
+      song_name: 白薔薇の君
+      content_type: ''
+  - song_name: 深愛
+    song_alias:
+    esong_code: 2831A22
+    t_singer_master_id: '43978'
+    singer_name: 夕聖
+    singer_alias:
+    available_date: '2012-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんあい
+    singer_name_ruby: ゆうせい
+    song_variation:
+    - esong_code: 2831A22
+      song_name: 深愛
       content_type: ''

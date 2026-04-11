@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 952
-  all_max_cnt: 1096
-  all_country_cnt: 952
+  max_cnt: 967
+  all_max_cnt: 1109
+  all_country_cnt: 967
   song:
+  - song_name: エリザベス
+    song_alias:
+    esong_code: 4734B27
+    t_singer_master_id: '68692'
+    singer_name: シンガーズハイ
+    singer_alias:
+    available_date: '2023-01-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えりさへす
+    singer_name_ruby: しんかすはい
+    song_variation:
+    - esong_code: 4734B27
+      song_name: エリザベス
+      content_type: ''
+  - song_name: YeLL
+    song_alias:
+    esong_code: 4732A12
+    t_singer_master_id: '43353'
+    singer_name: 藍井 エイル
+    singer_alias:
+    available_date: '2023-01-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: える
+    singer_name_ruby: あおいえいる
+    song_variation:
+    - esong_code: 4732A12
+      song_name: YeLL
+      content_type: ''
   - song_name: lol
     song_alias:
     esong_code: 4737A26
@@ -332,23 +366,6 @@ result:
       content_type: ''
   - song_name: 男のみれん
     song_alias:
-    esong_code: 4726A36
-    t_singer_master_id: '1449'
-    singer_name: 千葉 一夫
-    singer_alias:
-    available_date: '2023-01-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おとこのみれん
-    singer_name_ruby: ちはかすお
-    song_variation:
-    - esong_code: 4726A36
-      song_name: 男のみれん
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 男のみれん
-    song_alias:
     esong_code: 4726B1
     t_singer_master_id: '1449'
     singer_name: 千葉 一夫
@@ -364,6 +381,23 @@ result:
     - esong_code: 4726B1
       song_name: 男のみれん
       content_type: ''
+  - song_name: 男のみれん
+    song_alias:
+    esong_code: 4726A36
+    t_singer_master_id: '1449'
+    singer_name: 千葉 一夫
+    singer_alias:
+    available_date: '2023-01-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おとこのみれん
+    singer_name_ruby: ちはかすお
+    song_variation:
+    - esong_code: 4726A36
+      song_name: 男のみれん
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 男のみれん
     song_alias:
     esong_code: 4521A2
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 4725B17
       song_name: オフライン
-      content_type: ''
-  - song_name: 溺れ愛 Remix
-    song_alias:
-    esong_code: 4736B42
-    t_singer_master_id: '66639'
-    singer_name: 堂村 璃羽
-    singer_alias:
-    available_date: '2023-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おほれあいりみつく
-    singer_name_ruby: とうむらりう
-    song_variation:
-    - esong_code: 4736B42
-      song_name: 溺れ愛 Remix
-      content_type: ''
-  - song_name: 朧月
-    song_alias:
-    esong_code: 4730A15
-    t_singer_master_id: '70913'
-    singer_name: 羽生 まゐご×センラ
-    singer_alias:
-    available_date: '2023-01-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おほろつき
-    singer_name_ruby: はにゆうまいこせんら
-    song_variation:
-    - esong_code: 4730A15
-      song_name: 朧月
       content_type: ''

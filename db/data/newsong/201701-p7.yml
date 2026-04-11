@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1016
-  all_max_cnt: 1156
-  all_country_cnt: 1016
+  max_cnt: 1008
+  all_max_cnt: 1148
+  all_country_cnt: 1008
   song:
-  - song_name: 海峡越えて
-    song_alias:
-    esong_code: 3752A17
-    t_singer_master_id: '39787'
-    singer_name: 高橋 恵美子
-    singer_alias:
-    available_date: '2017-01-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かいきようこえて
-    singer_name_ruby: たかはしえみこ
-    song_variation:
-    - esong_code: 3752A17
-      song_name: 海峡越えて
-      content_type: ''
-  - song_name: Kaiju
-    song_alias:
-    esong_code: 3748A31
-    t_singer_master_id: '38639'
-    singer_name: "[Alexandros]"
-    singer_alias:
-    available_date: '2017-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: かいしゆう
-    singer_name_ruby: あれきさんとろす
-    song_variation:
-    - esong_code: 3748A31
-      song_name: Kaiju
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 帰らぬ恋人
     song_alias:
     esong_code: 3747A14
@@ -436,7 +402,7 @@ result:
     song_alias:
     esong_code: 3751A44
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2017-01-24'
     end_date: '2999-04-10 00:00:00'
@@ -468,21 +434,21 @@ result:
       content_type: ''
   - song_name: 樹
     song_alias:
-    esong_code: 1794A38
+    esong_code: 3745A21
     t_singer_master_id: '41793'
     singer_name: 蒼 彦太
     singer_alias:
-    available_date: '2017-01-11'
+    available_date: '2017-01-15'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOY生演奏
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: き
     singer_name_ruby: あおいひこた
     song_variation:
-    - esong_code: 1794A38
+    - esong_code: 3745A21
       song_name: 樹
-      content_type: JOY生演奏
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 樹
     song_alias:
     esong_code: 1806A8
@@ -502,18 +468,52 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 樹
     song_alias:
-    esong_code: 3745A21
+    esong_code: 1794A38
     t_singer_master_id: '41793'
     singer_name: 蒼 彦太
     singer_alias:
-    available_date: '2017-01-15'
+    available_date: '2017-01-11'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
+    content_type: JOY生演奏
     song_name_ruby: き
     singer_name_ruby: あおいひこた
     song_variation:
-    - esong_code: 3745A21
+    - esong_code: 1794A38
       song_name: 樹
-      content_type: DAMｸﾘｯﾌﾟ生音
+      content_type: JOY生演奏
+  - song_name: 記憶コロコロ
+    song_alias:
+    esong_code: 3751B34
+    t_singer_master_id: '45903'
+    singer_name: 久保 ユリカ
+    singer_alias:
+    available_date: '2017-01-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きおくころころ
+    singer_name_ruby: くほゆりか
+    song_variation:
+    - esong_code: 3751B34
+      song_name: 記憶コロコロ
+      content_type: ''
+  - song_name: KIZUNA
+    song_alias:
+    esong_code: 3749B20
+    t_singer_master_id: '48413'
+    singer_name: QUARTET NIGHT
+    singer_alias:
+    available_date: '2017-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: うたの☆プリンスさまっ♪(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: かるてつとないと
+    song_variation:
+    - esong_code: 3749B20
+      song_name: KIZUNA
+      content_type: ''

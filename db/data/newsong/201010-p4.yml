@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
   - song_name: 命くれない
     song_alias:
@@ -340,7 +340,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: うきよくんしよう
     singer_name_ruby: くらいふいんさへつとるむ
     song_variation:
@@ -360,7 +360,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: うきよくんしよう
     singer_name_ruby: くらいふいんさへつとるむ
     song_variation:
@@ -406,23 +406,6 @@ result:
       content_type: DAM生音
   - song_name: 宇宙飛行士への手紙
     song_alias:
-    esong_code: 2306A25
-    t_singer_master_id: '12276'
-    singer_name: BUMP OF CHICKEN
-    singer_alias:
-    available_date: '2010-10-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: うちゆうひこうしへの
-    singer_name_ruby: はんふおふちきん
-    song_variation:
-    - esong_code: 2306A25
-      song_name: 宇宙飛行士への手紙
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 宇宙飛行士への手紙
-    song_alias:
     esong_code: 2609A5
     t_singer_master_id: '12276'
     singer_name: BUMP OF CHICKEN
@@ -438,6 +421,23 @@ result:
     - esong_code: 2609A5
       song_name: 宇宙飛行士への手紙
       content_type: ''
+  - song_name: 宇宙飛行士への手紙
+    song_alias:
+    esong_code: 2306A25
+    t_singer_master_id: '12276'
+    singer_name: BUMP OF CHICKEN
+    singer_alias:
+    available_date: '2010-10-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: うちゆうひこうしへの
+    singer_name_ruby: はんふおふちきん
+    song_variation:
+    - esong_code: 2306A25
+      song_name: 宇宙飛行士への手紙
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 生まれてはみたけれど
     song_alias:
     esong_code: 2617B14

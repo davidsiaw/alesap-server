@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: 夏のかけら
-    song_alias:
-    esong_code: 2102A20
-    t_singer_master_id: '24187'
-    singer_name: Aqua Timez
-    singer_alias:
-    available_date: '2008-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつのかけら
-    singer_name_ruby: あくあたいむす
-    song_variation:
-    - esong_code: 2102A20
-      song_name: 夏のかけら
-      content_type: ''
   - song_name: 夏のリビエラ
     song_alias:
     esong_code: 2117B45
@@ -77,23 +60,6 @@ result:
       content_type: ''
   - song_name: 浪花酔虎伝
     song_alias:
-    esong_code: 2073A32
-    t_singer_master_id: '611'
-    singer_name: 冠 二郎
-    singer_alias:
-    available_date: '2008-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なにわすいこてん
-    singer_name_ruby: かんむりしろう
-    song_variation:
-    - esong_code: 2073A32
-      song_name: 浪花酔虎伝
-      content_type: ''
-  - song_name: 浪花酔虎伝
-    song_alias:
     esong_code: 2076B34
     t_singer_master_id: '611'
     singer_name: 冠 二郎
@@ -109,6 +75,23 @@ result:
     - esong_code: 2076B34
       song_name: 浪花酔虎伝
       content_type: DAM生音
+  - song_name: 浪花酔虎伝
+    song_alias:
+    esong_code: 2073A32
+    t_singer_master_id: '611'
+    singer_name: 冠 二郎
+    singer_alias:
+    available_date: '2008-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なにわすいこてん
+    singer_name_ruby: かんむりしろう
+    song_variation:
+    - esong_code: 2073A32
+      song_name: 浪花酔虎伝
+      content_type: ''
   - song_name: 浪花の月
     song_alias:
     esong_code: 2073B42
@@ -432,40 +415,6 @@ result:
     - esong_code: 2076A38
       song_name: ねえ 寂しくて
       content_type: ''
-  - song_name: 願い feat.YU-A
-    song_alias:
-    esong_code: 2119A9
-    t_singer_master_id: '15624'
-    singer_name: 童子-T
-    singer_alias:
-    available_date: '2008-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ねかい
-    singer_name_ruby: とうしてい
-    song_variation:
-    - esong_code: 2119A9
-      song_name: 願い feat.YU-A
-      content_type: ''
-  - song_name: NEXUS 4
-    song_alias:
-    esong_code: 2121A17
-    t_singer_master_id: '5250'
-    singer_name: L'Arc〜en〜Ciel
-    singer_alias:
-    available_date: '2008-09-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ねくさすふお
-    singer_name_ruby: らるくあんしえる
-    song_variation:
-    - esong_code: 2121A17
-      song_name: NEXUS 4
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: NEXUS 4
     song_alias:
     esong_code: 2076B16
@@ -483,6 +432,23 @@ result:
     - esong_code: 2076B16
       song_name: NEXUS 4
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: NEXUS 4
+    song_alias:
+    esong_code: 2121A17
+    t_singer_master_id: '5250'
+    singer_name: L'Arc〜en〜Ciel
+    singer_alias:
+    available_date: '2008-09-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ねくさすふお
+    singer_name_ruby: らるくあんしえる
+    song_variation:
+    - esong_code: 2121A17
+      song_name: NEXUS 4
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: No Surrender
     song_alias:
     esong_code: 2082A22
@@ -517,3 +483,37 @@ result:
     - esong_code: 2127A13
       song_name: ノーザンクロス
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 能登の港唄
+    song_alias:
+    esong_code: 2120A37
+    t_singer_master_id: '32381'
+    singer_name: 浜 より子
+    singer_alias:
+    available_date: '2008-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のとのみなとうた
+    singer_name_ruby: はまよりこ
+    song_variation:
+    - esong_code: 2120A37
+      song_name: 能登の港唄
+      content_type: ''
+  - song_name: No×Limit!
+    song_alias:
+    esong_code: 2058B23
+    t_singer_master_id: '33662'
+    singer_name: 亜美
+    singer_alias:
+    available_date: '2008-09-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 一騎当千<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: のりみつと
+    singer_name_ruby: あみ
+    song_variation:
+    - esong_code: 2058B23
+      song_name: No×Limit!
+      content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
   - song_name: ねむれないTonight
     song_alias:
@@ -26,23 +26,6 @@ result:
       content_type: ''
   - song_name: 眠れない街
     song_alias:
-    esong_code: 2622B19
-    t_singer_master_id: '12467'
-    singer_name: AI
-    singer_alias:
-    available_date: '2010-10-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ねむれないまち
-    singer_name_ruby: あい
-    song_variation:
-    - esong_code: 2622B19
-      song_name: 眠れない街
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 眠れない街
-    song_alias:
     esong_code: 2611A6
     t_singer_master_id: '12467'
     singer_name: AI
@@ -58,6 +41,23 @@ result:
     - esong_code: 2611A6
       song_name: 眠れない街
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 眠れない街
+    song_alias:
+    esong_code: 2622B19
+    t_singer_master_id: '12467'
+    singer_name: AI
+    singer_alias:
+    available_date: '2010-10-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ねむれないまち
+    singer_name_ruby: あい
+    song_variation:
+    - esong_code: 2622B19
+      song_name: 眠れない街
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 眠れぬ夜に
     song_alias:
     esong_code: 2602A23
@@ -262,23 +262,6 @@ result:
     - esong_code: 2148B43
       song_name: 萩八景遊覧船
       content_type: ''
-  - song_name: 白もくれん
-    song_alias:
-    esong_code: 2198A8
-    t_singer_master_id: '34694'
-    singer_name: サエラ(Ca et La)
-    singer_alias:
-    available_date: '2010-10-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はくもくれん
-    singer_name_ruby: さえら
-    song_variation:
-    - esong_code: 2198A8
-      song_name: 白もくれん
-      content_type: ''
   - song_name: 白もくれん (インディーズ・バージョン)
     song_alias:
     esong_code: 2607B13
@@ -295,6 +278,23 @@ result:
     song_variation:
     - esong_code: 2607B13
       song_name: 白もくれん (インディーズ・バージョン)
+      content_type: ''
+  - song_name: 白もくれん
+    song_alias:
+    esong_code: 2198A8
+    t_singer_master_id: '34694'
+    singer_name: サエラ(Ca et La)
+    singer_alias:
+    available_date: '2010-10-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はくもくれん
+    singer_name_ruby: さえら
+    song_variation:
+    - esong_code: 2198A8
+      song_name: 白もくれん
       content_type: ''
   - song_name: 白もくれん
     song_alias:
@@ -432,23 +432,6 @@ result:
     - esong_code: 2622A1
       song_name: Butterfly
       content_type: ''
-  - song_name: 八戸小唄
-    song_alias:
-    esong_code: 2605A22
-    t_singer_master_id: '34694'
-    singer_name: サエラ(Ca et La)
-    singer_alias:
-    available_date: '2010-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はちのへこうた
-    singer_name_ruby: さえら
-    song_variation:
-    - esong_code: 2605A22
-      song_name: 八戸小唄
-      content_type: ''
   - song_name: ハチのムサシは生きていた
     song_alias:
     esong_code: 2611A8
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2616A33
       song_name: はっぴぃ☆ほりっく
+      content_type: ''
+  - song_name: Happy☆てぃんくる (テレビサイズ)
+    song_alias:
+    esong_code: 2602B2
+    t_singer_master_id: '40067'
+    singer_name: 増山 加弥乃&齋藤 彩夏&沢城 みゆき
+    singer_alias:
+    available_date: '2010-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ジュエルペット てぃんくる☆<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつひていんくる
+    singer_name_ruby: ますやまかやのさいとうあやか
+    song_variation:
+    - esong_code: 2602B2
+      song_name: Happy☆てぃんくる (テレビサイズ)
       content_type: ''

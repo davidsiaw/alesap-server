@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 684
-  all_max_cnt: 725
-  all_country_cnt: 684
+  max_cnt: 683
+  all_max_cnt: 724
+  all_country_cnt: 683
   song:
-  - song_name: 空中分解
-    song_alias:
-    esong_code: 866A44
-    t_singer_master_id: '19609'
-    singer_name: 椿屋四重奏
-    singer_alias:
-    available_date: '2004-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くうちゆうふんかい
-    singer_name_ruby: つはきやししゆうそう
-    song_variation:
-    - esong_code: 866A44
-      song_name: 空中分解
-      content_type: ''
   - song_name: 口笛
     song_alias:
     esong_code: 865B44
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 876B43
       song_name: 告白
+      content_type: ''
+  - song_name: 孤高の花
+    song_alias:
+    esong_code: 853A44
+    t_singer_master_id: '15252'
+    singer_name: SHACHI
+    singer_alias:
+    available_date: '2004-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ここうのはな
+    singer_name_ruby: しやち
+    song_variation:
+    - esong_code: 853A44
+      song_name: 孤高の花
       content_type: ''

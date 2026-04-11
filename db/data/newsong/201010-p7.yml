@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
+  - song_name: おふろがスキー
+    song_alias:
+    esong_code: 2602A48
+    t_singer_master_id: '40745'
+    singer_name: オフロスキー&コフロスキー
+    singer_alias:
+    available_date: '2010-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みいつけた!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おふろかすき
+    singer_name_ruby: おふろすきあんとこふろすき
+    song_variation:
+    - esong_code: 2602A48
+      song_name: おふろがスキー
+      content_type: ''
   - song_name: Oh! My Girl!!
     song_alias:
     esong_code: 2597A20
@@ -91,23 +108,6 @@ result:
     song_variation:
     - esong_code: 2609B39
       song_name: おまえといるだけで・・・
-      content_type: ''
-  - song_name: おまえと突っ走る
-    song_alias:
-    esong_code: 1123A34
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2010-10-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おまえとつつはしる
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 1123A34
-      song_name: おまえと突っ走る
       content_type: ''
   - song_name: お前に幸せを
     song_alias:
@@ -253,7 +253,7 @@ result:
     singer_alias:
     available_date: '2010-10-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボールZ<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おるあろん
@@ -274,7 +274,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: おるうえいすらふ
-    singer_name_ruby: UNDERWORLD
+    singer_name_ruby: あんたわると
     song_variation:
     - esong_code: 2604B16
       song_name: Always Loved A Film
@@ -398,23 +398,6 @@ result:
     - esong_code: 2615A5
       song_name: おれはイナズマ
       content_type: ''
-  - song_name: Orange
-    song_alias:
-    esong_code: 2605B15
-    t_singer_master_id: '40474'
-    singer_name: 香理-kaori-
-    singer_alias:
-    available_date: '2010-10-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれんし
-    singer_name_ruby: かおり
-    song_variation:
-    - esong_code: 2605B15
-      song_name: Orange
-      content_type: ''
   - song_name: オレンジ
     song_alias:
     esong_code: 2619B25
@@ -431,6 +414,23 @@ result:
     song_variation:
     - esong_code: 2619B25
       song_name: オレンジ
+      content_type: ''
+  - song_name: Orange
+    song_alias:
+    esong_code: 2605B15
+    t_singer_master_id: '40474'
+    singer_name: 香理-kaori-
+    singer_alias:
+    available_date: '2010-10-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれんし
+    singer_name_ruby: かおり
+    song_variation:
+    - esong_code: 2605B15
+      song_name: Orange
       content_type: ''
   - song_name: Aurora Curtain
     song_alias:

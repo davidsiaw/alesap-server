@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1571
-  all_max_cnt: 1703
-  all_country_cnt: 1571
+  max_cnt: 1566
+  all_max_cnt: 1698
+  all_country_cnt: 1566
   song:
-  - song_name: 銀の橋
-    song_alias:
-    esong_code: 2467A8
-    t_singer_master_id: '36808'
-    singer_name: FictionJunction
-    singer_alias:
-    available_date: '2011-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんのはし
-    singer_name_ruby: ふいくしよんしやんくしよん
-    song_variation:
-    - esong_code: 2467A8
-      song_name: 銀の橋
-      content_type: ''
-  - song_name: "-空海作・詩吟入り- 霊峯高野山"
-    song_alias:
-    esong_code: 2450B20
-    t_singer_master_id: '21242'
-    singer_name: 藤本 雅則(藤本檜泉)
-    singer_alias:
-    available_date: '2011-07-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くうかいさくしきん
-    singer_name_ruby: ふしもとまさのり
-    song_variation:
-    - esong_code: 2450B20
-      song_name: "-空海作・詩吟入り- 霊峯高野山"
-      content_type: ''
   - song_name: 偶然の確率
     song_alias:
     esong_code: 2627B29
@@ -423,7 +389,7 @@ result:
     singer_alias:
     available_date: '2011-07-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真・三國無双6<番組名>
+    tie_up: 真・三國無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: くりむそんういんく
@@ -517,3 +483,37 @@ result:
     - esong_code: 2643B31
       song_name: 黒い羽根の天使 feat.KAITO
       content_type: VOCALOID
+  - song_name: 黒潮ぐらし
+    song_alias:
+    esong_code: 945A41
+    t_singer_master_id: '19617'
+    singer_name: 橋 宏三
+    singer_alias:
+    available_date: '2011-07-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くろしおくらし
+    singer_name_ruby: はしこうそう
+    song_variation:
+    - esong_code: 945A41
+      song_name: 黒潮ぐらし
+      content_type: ''
+  - song_name: 黒潮便り
+    song_alias:
+    esong_code: 2386A24
+    t_singer_master_id: '8342'
+    singer_name: 林 健二
+    singer_alias:
+    available_date: '2011-07-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くろしおたより
+    singer_name_ruby: はやしけんし
+    song_variation:
+    - esong_code: 2386A24
+      song_name: 黒潮便り
+      content_type: ''

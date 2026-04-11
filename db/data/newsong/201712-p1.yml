@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: 証
-    song_alias:
-    esong_code: 3919A31
-    t_singer_master_id: '60250'
-    singer_name: 木村 良平&濱 健人
-    singer_alias:
-    available_date: '2017-12-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 活撃 刀剣乱舞<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかし
-    singer_name_ruby: きむらりようへいはまけんと
-    song_variation:
-    - esong_code: 3919A31
-      song_name: 証
-      content_type: ''
   - song_name: 暁月夜〜あかつきづくよ〜
     song_alias:
     esong_code: 3922A10
@@ -483,23 +466,6 @@ result:
     - esong_code: 3916B42
       song_name: 新しい世界へ
       content_type: ''
-  - song_name: 当たり前なんかない
-    song_alias:
-    esong_code: 3918A39
-    t_singer_master_id: '21219'
-    singer_name: 神谷 浩史
-    singer_alias:
-    available_date: '2017-12-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あたりまえなんかない
-    singer_name_ruby: かみやひろし
-    song_variation:
-    - esong_code: 3918A39
-      song_name: 当たり前なんかない
-      content_type: ''
   - song_name: 熱きサテライト宇土
     song_alias:
     esong_code: 2222B47
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2222B47
       song_name: 熱きサテライト宇土
+      content_type: ''
+  - song_name: 熱き血汐〜与謝野晶子「みだれ髪」他詩集より
+    song_alias:
+    esong_code: 1970B9
+    t_singer_master_id: '356'
+    singer_name: 大石 まどか(大石円)
+    singer_alias:
+    available_date: '2017-12-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あつきちしおよさのあ
+    singer_name_ruby: おおいしまとか
+    song_variation:
+    - esong_code: 1970B9
+      song_name: 熱き血汐〜与謝野晶子「みだれ髪」他詩集より
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: あつさのせい
+    song_alias:
+    esong_code: 3918A30
+    t_singer_master_id: '384'
+    singer_name: 大滝 詠一
+    singer_alias:
+    available_date: '2017-12-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あつさのせい
+    singer_name_ruby: おおたきえいいち
+    song_variation:
+    - esong_code: 3918A30
+      song_name: あつさのせい
       content_type: ''

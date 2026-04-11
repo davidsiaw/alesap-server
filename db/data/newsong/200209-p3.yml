@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 392
-  all_max_cnt: 480
-  all_country_cnt: 392
+  max_cnt: 391
+  all_max_cnt: 479
+  all_country_cnt: 391
   song:
-  - song_name: 北埼玉ブルース
-    song_alias:
-    esong_code: 140B41
-    t_singer_master_id: '24237'
-    singer_name: 藤原 啓治
-    singer_alias:
-    available_date: '2002-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: クレヨンしんちゃん<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたさいたまふる
-    singer_name_ruby: ふしわらけいし
-    song_variation:
-    - esong_code: 140B41
-      song_name: 北埼玉ブルース
-      content_type: ''
   - song_name: Kick(大地を蹴る男)
     song_alias:
     esong_code: 911A35
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 877A38
       song_name: 国道二号線
+      content_type: ''
+  - song_name: 心に乙女
+    song_alias:
+    esong_code: 918A24
+    t_singer_master_id: '8782'
+    singer_name: aiko
+    singer_alias:
+    available_date: '2002-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころにおとめ
+    singer_name_ruby: あいこ
+    song_variation:
+    - esong_code: 918A24
+      song_name: 心に乙女
       content_type: ''

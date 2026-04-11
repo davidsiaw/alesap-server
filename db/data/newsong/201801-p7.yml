@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1127
-  all_max_cnt: 1243
-  all_country_cnt: 1127
+  max_cnt: 1112
+  all_max_cnt: 1228
+  all_country_cnt: 1112
   song:
-  - song_name: 女のなみだ
-    song_alias:
-    esong_code: 1931B8
-    t_singer_master_id: '541'
-    singer_name: 角川 博
-    singer_alias:
-    available_date: '2018-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: おんなのなみた
-    singer_name_ruby: かとかわひろし
-    song_variation:
-    - esong_code: 1931B8
-      song_name: 女のなみだ
-      content_type: JOY生演奏
   - song_name: 女のなみだ
     song_alias:
     esong_code: 2018A11
@@ -43,21 +26,21 @@ result:
       content_type: ''
   - song_name: 女のなみだ
     song_alias:
-    esong_code: 1970A38
+    esong_code: 1931B8
     t_singer_master_id: '541'
     singer_name: 角川 博
     singer_alias:
-    available_date: '2018-01-24'
+    available_date: '2018-01-26'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: JOY生演奏
     song_name_ruby: おんなのなみた
     singer_name_ruby: かとかわひろし
     song_variation:
-    - esong_code: 1970A38
+    - esong_code: 1931B8
       song_name: 女のなみだ
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: JOY生演奏
   - song_name: only my railgun (あにそんボーカルVer.)
     song_alias:
     esong_code: 3931A38
@@ -75,40 +58,6 @@ result:
     - esong_code: 3931A38
       song_name: only my railgun (あにそんボーカルVer.)
       content_type: DAM生音
-  - song_name: 海峡みなと
-    song_alias:
-    esong_code: 2140A35
-    t_singer_master_id: '1047'
-    singer_name: 島津 悦子
-    singer_alias:
-    available_date: '2018-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かいきようみなと
-    singer_name_ruby: しまつえつこ
-    song_variation:
-    - esong_code: 2140A35
-      song_name: 海峡みなと
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 海峡みなと
-    song_alias:
-    esong_code: 2139A14
-    t_singer_master_id: '1047'
-    singer_name: 島津 悦子
-    singer_alias:
-    available_date: '2018-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: かいきようみなと
-    singer_name_ruby: しまつえつこ
-    song_variation:
-    - esong_code: 2139A14
-      song_name: 海峡みなと
-      content_type: JOY生演奏
   - song_name: 海峡みなと
     song_alias:
     esong_code: 2138A7
@@ -143,6 +92,40 @@ result:
     - esong_code: 2140A49
       song_name: 海峡みなと
       content_type: ''
+  - song_name: 海峡みなと
+    song_alias:
+    esong_code: 2140A35
+    t_singer_master_id: '1047'
+    singer_name: 島津 悦子
+    singer_alias:
+    available_date: '2018-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かいきようみなと
+    singer_name_ruby: しまつえつこ
+    song_variation:
+    - esong_code: 2140A35
+      song_name: 海峡みなと
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 海峡みなと
+    song_alias:
+    esong_code: 2139A14
+    t_singer_master_id: '1047'
+    singer_name: 島津 悦子
+    singer_alias:
+    available_date: '2018-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: かいきようみなと
+    singer_name_ruby: しまつえつこ
+    song_variation:
+    - esong_code: 2139A14
+      song_name: 海峡みなと
+      content_type: JOY生演奏
   - song_name: 海峡わかれ雨
     song_alias:
     esong_code: 2085A14
@@ -474,7 +457,7 @@ result:
     singer_alias:
     available_date: '2018-01-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: "『銀魂』銀ノ魂篇<番組名>"
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かつてにまいそうる
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2074B37
       song_name: 門出船
+      content_type: ''
+  - song_name: かなかな2
+    song_alias:
+    esong_code: 1883A17
+    t_singer_master_id: '542'
+    singer_name: 門倉 有希
+    singer_alias:
+    available_date: '2018-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなかなかなかな
+    singer_name_ruby: かとくらゆき
+    song_variation:
+    - esong_code: 1883A17
+      song_name: かなかな2
       content_type: ''

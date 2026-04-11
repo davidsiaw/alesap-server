@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 952
-  all_max_cnt: 1096
-  all_country_cnt: 952
+  max_cnt: 967
+  all_max_cnt: 1109
+  all_country_cnt: 967
   song:
   - song_name: 叶える
     song_alias:
@@ -40,23 +40,6 @@ result:
     song_variation:
     - esong_code: 1366A29
       song_name: 金沢夢明かり
-      content_type: ''
-  - song_name: 哀しみのラストタンゴ
-    song_alias:
-    esong_code: 4733B15
-    t_singer_master_id: '39948'
-    singer_name: 知里
-    singer_alias:
-    available_date: '2023-01-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしみのらすとたん
-    singer_name_ruby: ちさと
-    song_variation:
-    - esong_code: 4733B15
-      song_name: 哀しみのラストタンゴ
       content_type: ''
   - song_name: カナタハルカ
     song_alias:
@@ -332,23 +315,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 渇いた街
     song_alias:
-    esong_code: 4726B19
-    t_singer_master_id: '44435'
-    singer_name: パク・ジュニョン
-    singer_alias:
-    available_date: '2023-01-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かわいたまち
-    singer_name_ruby: はくしゆによん
-    song_variation:
-    - esong_code: 4726B19
-      song_name: 渇いた街
-      content_type: ''
-  - song_name: 渇いた街
-    song_alias:
     esong_code: 2728B34
     t_singer_master_id: '44435'
     singer_name: パク・ジュニョン
@@ -364,6 +330,23 @@ result:
     - esong_code: 2728B34
       song_name: 渇いた街
       content_type: DAM生音
+  - song_name: 渇いた街
+    song_alias:
+    esong_code: 4726B19
+    t_singer_master_id: '44435'
+    singer_name: パク・ジュニョン
+    singer_alias:
+    available_date: '2023-01-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かわいたまち
+    singer_name_ruby: はくしゆによん
+    song_variation:
+    - esong_code: 4726B19
+      song_name: 渇いた街
+      content_type: ''
   - song_name: かんけーないから feat.shimon
     song_alias:
     esong_code: 4735A23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4729A26
       song_name: Keep Wishing feat.Kvi Baba
+      content_type: ''
+  - song_name: ギフト
+    song_alias:
+    esong_code: 4730B1
+    t_singer_master_id: '33677'
+    singer_name: オーイシマサヨシ(大石昌良)
+    singer_alias:
+    available_date: '2023-01-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: お隣の天使様にいつの間にか駄目人間にされていた件<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きふと
+    singer_name_ruby: おいしまさよし
+    song_variation:
+    - esong_code: 4730B1
+      song_name: ギフト
       content_type: ''

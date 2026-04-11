@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: Go!Go!ライダー
-    song_alias:
-    esong_code: 1515A3
-    t_singer_master_id: '24880'
-    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
-    singer_alias:
-    available_date: '2006-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: THE FROGMAN SHOW<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ここらいた
-    singer_name_ruby: ふあんきもんきへいひす
-    song_variation:
-    - esong_code: 1515A3
-      song_name: Go!Go!ライダー
-      content_type: ''
   - song_name: 心の帰る場所
     song_alias:
     esong_code: 1435A15
@@ -465,6 +448,23 @@ result:
     song_variation:
     - esong_code: 1492B42
       song_name: コロは屋根のうえ
+      content_type: ''
+  - song_name: コンコンクシャンのうた
+    song_alias:
+    esong_code: 118A11
+    t_singer_master_id: '8169'
+    singer_name: 水谷 玲子
+    singer_alias:
+    available_date: '2006-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こんこんくしやんのう
+    singer_name_ruby: みすたにれいこ
+    song_variation:
+    - esong_code: 118A11
+      song_name: コンコンクシャンのうた
       content_type: ''
   - song_name: コンセプト
     song_alias:

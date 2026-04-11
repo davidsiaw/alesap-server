@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1347
-  all_country_cnt: 1229
+  max_cnt: 1222
+  all_max_cnt: 1339
+  all_country_cnt: 1222
   song:
-  - song_name: あなたとだから歩める道
-    song_alias:
-    esong_code: 380B3
-    t_singer_master_id: '37701'
-    singer_name: 高橋 優
-    singer_alias:
-    available_date: '2012-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたとたからあゆ
-    singer_name_ruby: たかはしゆう
-    song_variation:
-    - esong_code: 380B3
-      song_name: あなたとだから歩める道
-      content_type: ''
   - song_name: あなたのそばにいたいのに
     song_alias:
     esong_code: 1639B16
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1202B27
       song_name: アンテナガール feat.アンテナガール
+      content_type: ''
+  - song_name: UNDO (wild side ver.)
+    song_alias:
+    esong_code: 2433A46
+    t_singer_master_id: '18989'
+    singer_name: COOL JOKE
+    singer_alias:
+    available_date: '2012-05-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鋼の錬金術師<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんとう
+    singer_name_ruby: くるしよく
+    song_variation:
+    - esong_code: 2433A46
+      song_name: UNDO (wild side ver.)
       content_type: ''

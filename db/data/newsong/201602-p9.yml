@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1236
-  all_max_cnt: 1361
-  all_country_cnt: 1236
+  max_cnt: 1230
+  all_max_cnt: 1355
+  all_country_cnt: 1230
   song:
-  - song_name: 仮想ディストピア
-    song_alias:
-    esong_code: 3600A46
-    t_singer_master_id: '55449'
-    singer_name: MOMOIRO CLOVER Z TEDDYLOID
-    singer_alias:
-    available_date: '2016-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かそうていすとひ
-    singer_name_ruby: ももいろくろはせつとてていろいと
-    song_variation:
-    - esong_code: 3600A46
-      song_name: 仮想ディストピア
-      content_type: ''
-  - song_name: 花鳥風月
-    song_alias:
-    esong_code: 3598B32
-    t_singer_master_id: '49663'
-    singer_name: ファンキー加藤
-    singer_alias:
-    available_date: '2016-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かちようふうけつ
-    singer_name_ruby: ふあんきかとう
-    song_variation:
-    - esong_code: 3598B32
-      song_name: 花鳥風月
-      content_type: ''
   - song_name: 喝彩!〜花鳥風月〜
     song_alias:
     esong_code: 3600A48
@@ -469,7 +435,7 @@ result:
     singer_alias:
     available_date: '2016-02-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 牙狼-GARO- 〜紅蓮ノ月〜<番組名>
+    tie_up: 牙狼-GARO-(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かれん
@@ -528,4 +494,38 @@ result:
     song_variation:
     - esong_code: 3592A21
       song_name: 乾いたのど
+      content_type: ''
+  - song_name: 変わらない強さ
+    song_alias:
+    esong_code: 3594A12
+    t_singer_master_id: '31414'
+    singer_name: 井口 裕香
+    singer_alias:
+    available_date: '2016-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ヘヴィーオブジェクト<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かわらないつよさ
+    singer_name_ruby: いくちゆか
+    song_variation:
+    - esong_code: 3594A12
+      song_name: 変わらない強さ
+      content_type: ''
+  - song_name: 関係者でてこい (tkrism remix)
+    song_alias:
+    esong_code: 3248A28
+    t_singer_master_id: '54075'
+    singer_name: 最終少女ひかさ
+    singer_alias:
+    available_date: '2016-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんけいしやててこ
+    singer_name_ruby: さいしゆうしようしよひかさ
+    song_variation:
+    - esong_code: 3248A28
+      song_name: 関係者でてこい (tkrism remix)
       content_type: ''

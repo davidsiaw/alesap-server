@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1509
-  all_max_cnt: 1659
-  all_country_cnt: 1509
+  max_cnt: 1504
+  all_max_cnt: 1654
+  all_country_cnt: 1504
   song:
-  - song_name: 俺の止まり木こころ妻
-    song_alias:
-    esong_code: 3227A46
-    t_singer_master_id: '44021'
-    singer_name: 東 よしお
-    singer_alias:
-    available_date: '2016-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれのとまりきここ
-    singer_name_ruby: ひかしよしお
-    song_variation:
-    - esong_code: 3227A46
-      song_name: 俺の止まり木こころ妻
-      content_type: ''
   - song_name: 俺を信じろ
     song_alias:
     esong_code: 3658A38
@@ -49,7 +32,7 @@ result:
     singer_alias:
     available_date: '2016-07-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 白猫プロジェクト<番組名>
+    tie_up: 白猫プロジェクト(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おわらないほうけん
@@ -457,7 +440,7 @@ result:
     singer_alias:
     available_date: '2016-07-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かかやきへのやくそ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3664A37
       song_name: 陽炎の恋
+      content_type: ''
+  - song_name: 鹿児島商業高等学校 校歌
+    song_alias:
+    esong_code: 3464B15
+    t_singer_master_id: '6336'
+    singer_name: 校歌・応援歌・寮歌
+    singer_alias:
+    available_date: '2016-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かこしましようき
+    singer_name_ruby: こうかおうえんかりようか
+    song_variation:
+    - esong_code: 3464B15
+      song_name: 鹿児島商業高等学校 校歌
       content_type: ''

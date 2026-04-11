@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: おどろよタンゴ
-    song_alias:
-    esong_code: 1608A9
-    t_singer_master_id: '10961'
-    singer_name: 杉田 あきひろ&つのだ りょうこ
-    singer_alias:
-    available_date: '2006-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おかあさんといっしょ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとろよたんこ
-    singer_name_ruby: すきたあきひろつの
-    song_variation:
-    - esong_code: 1608A9
-      song_name: おどろよタンゴ
-      content_type: ''
   - song_name: Over the Rainbow
     song_alias:
     esong_code: 1609A46
@@ -499,6 +482,23 @@ result:
     song_variation:
     - esong_code: 1582A25
       song_name: 会社をやめて旅に出よう
+      content_type: ''
+  - song_name: 帰り道
+    song_alias:
+    esong_code: 272A47
+    t_singer_master_id: '132'
+    singer_name: アリス
+    singer_alias:
+    available_date: '2006-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かえりみち
+    singer_name_ruby: ありす
+    song_variation:
+    - esong_code: 272A47
+      song_name: 帰り道
       content_type: ''
   - song_name: かえりみち
     song_alias:

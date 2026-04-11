@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1016
-  all_max_cnt: 1156
-  all_country_cnt: 1016
+  max_cnt: 1008
+  all_max_cnt: 1148
+  all_country_cnt: 1008
   song:
   - song_name: あの日の自分
     song_alias:
@@ -179,23 +179,6 @@ result:
       content_type: DAM本人歌唱
   - song_name: 雨のむこうの故郷
     song_alias:
-    esong_code: 3749A44
-    t_singer_master_id: '52806'
-    singer_name: 津吹 みゆ
-    singer_alias:
-    available_date: '2017-01-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あめのむこうのふるさ
-    singer_name_ruby: つふきみゆ
-    song_variation:
-    - esong_code: 3749A44
-      song_name: 雨のむこうの故郷
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 雨のむこうの故郷
-    song_alias:
     esong_code: 3748A37
     t_singer_master_id: '52806'
     singer_name: 津吹 みゆ
@@ -228,6 +211,23 @@ result:
     - esong_code: 2092A33
       song_name: 雨のむこうの故郷
       content_type: JOY生演奏
+  - song_name: 雨のむこうの故郷
+    song_alias:
+    esong_code: 3749A44
+    t_singer_master_id: '52806'
+    singer_name: 津吹 みゆ
+    singer_alias:
+    available_date: '2017-01-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あめのむこうのふるさ
+    singer_name_ruby: つふきみゆ
+    song_variation:
+    - esong_code: 3749A44
+      song_name: 雨のむこうの故郷
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 絢香ベストメドレー Vol.2
     song_alias:
     esong_code: 3751A37

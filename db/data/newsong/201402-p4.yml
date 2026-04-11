@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
   - song_name: ある魔法少女のテーマ feat.初音ミク
     song_alias:
@@ -332,23 +332,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: イギリス海岸
     song_alias:
-    esong_code: 3197A1
-    t_singer_master_id: '10166'
-    singer_name: 大沢 桃子
-    singer_alias:
-    available_date: '2014-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: いきりすかいかん
-    singer_name_ruby: おおさわももこ
-    song_variation:
-    - esong_code: 3197A1
-      song_name: イギリス海岸
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: イギリス海岸
-    song_alias:
     esong_code: 3197B29
     t_singer_master_id: '10166'
     singer_name: 大沢 桃子
@@ -364,6 +347,23 @@ result:
     - esong_code: 3197B29
       song_name: イギリス海岸
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: イギリス海岸
+    song_alias:
+    esong_code: 3197A1
+    t_singer_master_id: '10166'
+    singer_name: 大沢 桃子
+    singer_alias:
+    available_date: '2014-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: いきりすかいかん
+    singer_name_ruby: おおさわももこ
+    song_variation:
+    - esong_code: 3197A1
+      song_name: イギリス海岸
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Exist
     song_alias:
     esong_code: 3180A34
@@ -451,23 +451,6 @@ result:
       content_type: ''
   - song_name: 意地桜
     song_alias:
-    esong_code: 3202A13
-    t_singer_master_id: '41418'
-    singer_name: 黒田 崇矢
-    singer_alias:
-    available_date: '2014-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(スピンオフ)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いしさくら
-    singer_name_ruby: くろたたかや
-    song_variation:
-    - esong_code: 3202A13
-      song_name: 意地桜
-      content_type: ''
-  - song_name: 意地桜
-    song_alias:
     esong_code: 3216B8
     t_singer_master_id: '41418'
     singer_name: 黒田 崇矢
@@ -481,6 +464,23 @@ result:
     singer_name_ruby: くろたたかや
     song_variation:
     - esong_code: 3216B8
+      song_name: 意地桜
+      content_type: ''
+  - song_name: 意地桜
+    song_alias:
+    esong_code: 3202A13
+    t_singer_master_id: '41418'
+    singer_name: 黒田 崇矢
+    singer_alias:
+    available_date: '2014-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 龍が如く(スピンオフ)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いしさくら
+    singer_name_ruby: くろたたかや
+    song_variation:
+    - esong_code: 3202A13
       song_name: 意地桜
       content_type: ''
   - song_name: 石松しぐれ

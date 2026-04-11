@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
   - song_name: ポニーテールとシュシュ (English Ver.)
     song_alias:
@@ -355,7 +355,7 @@ result:
     singer_alias:
     available_date: '2012-11-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HUNTER×HUNTER(2011)<番組名>
+    tie_up: HUNTER×HUNTER<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ほんきはさすきよ
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: My Perfect Blue
     song_alias:
-    esong_code: 2929A8
-    t_singer_master_id: '14282'
-    singer_name: 柴咲 コウ
-    singer_alias:
-    available_date: '2012-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: まいはふえくとふ
-    singer_name_ruby: しはさきこう
-    song_variation:
-    - esong_code: 2929A8
-      song_name: My Perfect Blue
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: My Perfect Blue
-    song_alias:
     esong_code: 2938A15
     t_singer_master_id: '14282'
     singer_name: 柴咲 コウ
@@ -500,6 +483,23 @@ result:
     - esong_code: 2938A15
       song_name: My Perfect Blue
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: My Perfect Blue
+    song_alias:
+    esong_code: 2929A8
+    t_singer_master_id: '14282'
+    singer_name: 柴咲 コウ
+    singer_alias:
+    available_date: '2012-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: まいはふえくとふ
+    singer_name_ruby: しはさきこう
+    song_variation:
+    - esong_code: 2929A8
+      song_name: My Perfect Blue
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: My book
     song_alias:
     esong_code: 2923B45

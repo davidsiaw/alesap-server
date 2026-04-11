@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
   - song_name: 男の夜明け前
     song_alias:
@@ -83,7 +83,7 @@ result:
     singer_alias:
     available_date: '2010-02-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ちびまる子ちゃん(第2期)<番組名>
+    tie_up: ちびまる子ちゃん<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おとるほんほこ
@@ -245,23 +245,6 @@ result:
     - esong_code: 1792B28
       song_name: おまえに有り難う
       content_type: ''
-  - song_name: 思い出になるの?
-    song_alias:
-    esong_code: 2463B1
-    t_singer_master_id: '38630'
-    singer_name: nami
-    singer_alias:
-    available_date: '2010-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいてになるの
-    singer_name_ruby: なみ
-    song_variation:
-    - esong_code: 2463B1
-      song_name: 思い出になるの?
-      content_type: ''
   - song_name: 思い出の銀の矢たち
     song_alias:
     esong_code: 2481B30
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: ALWAYS
     song_alias:
-    esong_code: 2463B40
-    t_singer_master_id: '13066'
-    singer_name: 中島 美嘉
-    singer_alias:
-    available_date: '2010-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: おるうえいす
-    singer_name_ruby: なかしまみか
-    song_variation:
-    - esong_code: 2463B40
-      song_name: ALWAYS
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: ALWAYS
-    song_alias:
     esong_code: 2482B42
     t_singer_master_id: '13066'
     singer_name: 中島 美嘉
@@ -347,6 +313,23 @@ result:
     - esong_code: 2482B42
       song_name: ALWAYS
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ALWAYS
+    song_alias:
+    esong_code: 2463B40
+    t_singer_master_id: '13066'
+    singer_name: 中島 美嘉
+    singer_alias:
+    available_date: '2010-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: おるうえいす
+    singer_name_ruby: なかしまみか
+    song_variation:
+    - esong_code: 2463B40
+      song_name: ALWAYS
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: All The Love
     song_alias:
     esong_code: 2468A49
@@ -374,7 +357,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: おるていす
     singer_name_ruby: ふりたむらいふ
     song_variation:
@@ -394,7 +377,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: おるていす
     singer_name_ruby: ふりたむらいふ
     song_variation:
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 2463A35
       song_name: 終わりと始まり
+      content_type: ''
+  - song_name: 女が目立って なぜイケナイ
+    song_alias:
+    esong_code: 2462B41
+    t_singer_master_id: '8409'
+    singer_name: モーニング娘。
+    singer_alias:
+    available_date: '2010-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなかめたつて
+    singer_name_ruby: もにんくむすめ
+    song_variation:
+    - esong_code: 2462B41
+      song_name: 女が目立って なぜイケナイ
       content_type: ''

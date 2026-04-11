@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
-  - song_name: ポップミュージック
-    song_alias:
-    esong_code: 2978A26
-    t_singer_master_id: '44280'
-    singer_name: ハンサムケンヤ
-    singer_alias:
-    available_date: '2013-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほつふみゆし
-    singer_name_ruby: はんさむけんや
-    song_variation:
-    - esong_code: 2978A26
-      song_name: ポップミュージック
-      content_type: ''
   - song_name: HOTEL NETTAI-YA
     song_alias:
     esong_code: 2992A23
@@ -162,6 +145,23 @@ result:
       content_type: ''
   - song_name: ほろよい酒場
     song_alias:
+    esong_code: 2985A41
+    t_singer_master_id: '893'
+    singer_name: 伍代 夏子
+    singer_alias:
+    available_date: '2013-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ほろよいさかは
+    singer_name_ruby: こたいなつこ
+    song_variation:
+    - esong_code: 2985A41
+      song_name: ほろよい酒場
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: ほろよい酒場
+    song_alias:
     esong_code: 2985A20
     t_singer_master_id: '893'
     singer_name: 伍代 夏子
@@ -211,23 +211,6 @@ result:
     - esong_code: 2978B23
       song_name: ほろよい酒場
       content_type: ''
-  - song_name: ほろよい酒場
-    song_alias:
-    esong_code: 2985A41
-    t_singer_master_id: '893'
-    singer_name: 伍代 夏子
-    singer_alias:
-    available_date: '2013-02-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ほろよいさかは
-    singer_name_ruby: こたいなつこ
-    song_variation:
-    - esong_code: 2985A41
-      song_name: ほろよい酒場
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: Whiteness
     song_alias:
     esong_code: 2984B48
@@ -302,7 +285,7 @@ result:
     t_singer_master_id: '41251'
     singer_name: さくら学院
     singer_alias:
-    available_date: '2013-02-26'
+    available_date: '2013-02-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -404,7 +387,7 @@ result:
     t_singer_master_id: '42909'
     singer_name: Kis-My-Ft2
     singer_alias:
-    available_date: '2013-02-12'
+    available_date: '2013-02-13'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2988A45
       song_name: masquerade
+      content_type: ''
+  - song_name: また明日
+    song_alias:
+    esong_code: 2982A15
+    t_singer_master_id: '42583'
+    singer_name: 佐香 智久(少年T)
+    singer_alias:
+    available_date: '2013-02-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: またあした
+    singer_name_ruby: さこうともひさ
+    song_variation:
+    - esong_code: 2982A15
+      song_name: また明日
       content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
+  - song_name: 天使のウィンク
+    song_alias:
+    esong_code: 2559B43
+    t_singer_master_id: '30291'
+    singer_name: Acid Black Cherry
+    singer_alias:
+    available_date: '2010-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てんしのういんく
+    singer_name_ruby: あしつとふらつくちえり
+    song_variation:
+    - esong_code: 2559B43
+      song_name: 天使のウィンク
+      content_type: ''
   - song_name: 電車、滑り落ちる、ヘッドフォン
     song_alias:
     esong_code: 2547A17
@@ -264,6 +281,23 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: to Mother
     song_alias:
+    esong_code: 2544B32
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2010-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうまさ
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 2544B32
+      song_name: to Mother
+      content_type: ''
+  - song_name: to Mother
+    song_alias:
     esong_code: 2567B42
     t_singer_master_id: '22240'
     singer_name: YUI
@@ -296,23 +330,6 @@ result:
     - esong_code: 2550A15
       song_name: to Mother
       content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: to Mother
-    song_alias:
-    esong_code: 2544B32
-    t_singer_master_id: '22240'
-    singer_name: YUI
-    singer_alias:
-    available_date: '2010-06-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうまさ
-    singer_name_ruby: ゆい
-    song_variation:
-    - esong_code: 2544B32
-      song_name: to Mother
-      content_type: ''
   - song_name: Tomorrow
     song_alias:
     esong_code: 2550B44
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2545B41
       song_name: 利根の恋唄
-      content_type: ''
-  - song_name: 飛島育ち
-    song_alias:
-    esong_code: 2544A35
-    t_singer_master_id: '40246'
-    singer_name: 天音 さとみ(天音里望)
-    singer_alias:
-    available_date: '2010-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とひしまそたち
-    singer_name_ruby: あまねさとみ
-    song_variation:
-    - esong_code: 2544A35
-      song_name: 飛島育ち
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1072
-  all_max_cnt: 1218
-  all_country_cnt: 1072
+  max_cnt: 1061
+  all_max_cnt: 1207
+  all_country_cnt: 1061
   song:
-  - song_name: 携帯電波
-    song_alias:
-    esong_code: 2331B34
-    t_singer_master_id: '28417'
-    singer_name: 鶴
-    singer_alias:
-    available_date: '2009-06-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けいたいてんは
-    singer_name_ruby: つる
-    song_variation:
-    - esong_code: 2331B34
-      song_name: 携帯電波
-      content_type: ''
-  - song_name: 化身
-    song_alias:
-    esong_code: 2356B44
-    t_singer_master_id: '1993'
-    singer_name: 福山 雅治
-    singer_alias:
-    available_date: '2009-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: けしん
-    singer_name_ruby: ふくやままさはる
-    song_variation:
-    - esong_code: 2356B44
-      song_name: 化身
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 化身
     song_alias:
     esong_code: 2327B28
@@ -58,6 +24,23 @@ result:
     - esong_code: 2327B28
       song_name: 化身
       content_type: DAM生音
+  - song_name: 化身
+    song_alias:
+    esong_code: 2356B44
+    t_singer_master_id: '1993'
+    singer_name: 福山 雅治
+    singer_alias:
+    available_date: '2009-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: けしん
+    singer_name_ruby: ふくやままさはる
+    song_variation:
+    - esong_code: 2356B44
+      song_name: 化身
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 月光の契り
     song_alias:
     esong_code: 2321B36
@@ -134,7 +117,7 @@ result:
     singer_alias:
     available_date: '2009-06-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けるまんさんか
@@ -196,23 +179,6 @@ result:
       content_type: ''
   - song_name: 小悪魔ヘヴン
     song_alias:
-    esong_code: 2352B17
-    t_singer_master_id: '10038'
-    singer_name: GACKT(Gackt)
-    singer_alias:
-    available_date: '2009-06-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: こあくまへふん
-    singer_name_ruby: かくと
-    song_variation:
-    - esong_code: 2352B17
-      song_name: 小悪魔ヘヴン
-      content_type: DAM良音
-  - song_name: 小悪魔ヘヴン
-    song_alias:
     esong_code: 2323A2
     t_singer_master_id: '10038'
     singer_name: GACKT(Gackt)
@@ -228,6 +194,23 @@ result:
     - esong_code: 2323A2
       song_name: 小悪魔ヘヴン
       content_type: ''
+  - song_name: 小悪魔ヘヴン
+    song_alias:
+    esong_code: 2352B17
+    t_singer_master_id: '10038'
+    singer_name: GACKT(Gackt)
+    singer_alias:
+    available_date: '2009-06-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: こあくまへふん
+    singer_name_ruby: かくと
+    song_variation:
+    - esong_code: 2352B17
+      song_name: 小悪魔ヘヴン
+      content_type: DAM良音
   - song_name: 恋紅蓮
     song_alias:
     esong_code: 2331B16
@@ -247,23 +230,6 @@ result:
       content_type: ''
   - song_name: 恋焦がれて
     song_alias:
-    esong_code: 2357A9
-    t_singer_master_id: '19365'
-    singer_name: BENI(安良城 紅)
-    singer_alias:
-    available_date: '2009-06-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: こいこかれて
-    singer_name_ruby: へに
-    song_variation:
-    - esong_code: 2357A9
-      song_name: 恋焦がれて
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 恋焦がれて
-    song_alias:
     esong_code: 2330B21
     t_singer_master_id: '19365'
     singer_name: BENI(安良城 紅)
@@ -279,6 +245,23 @@ result:
     - esong_code: 2330B21
       song_name: 恋焦がれて
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 恋焦がれて
+    song_alias:
+    esong_code: 2357A9
+    t_singer_master_id: '19365'
+    singer_name: BENI(安良城 紅)
+    singer_alias:
+    available_date: '2009-06-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: こいこかれて
+    singer_name_ruby: へに
+    song_variation:
+    - esong_code: 2357A9
+      song_name: 恋焦がれて
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 恋ゴコロ
     song_alias:
     esong_code: 2334A2
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2346A48
       song_name: 幸福論
+      content_type: ''
+  - song_name: 極我執
+    song_alias:
+    esong_code: 2352A34
+    t_singer_master_id: '35242'
+    singer_name: boogieman
+    singer_alias:
+    available_date: '2009-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こくかしゆう
+    singer_name_ruby: ふきまん
+    song_variation:
+    - esong_code: 2352A34
+      song_name: 極我執
       content_type: ''

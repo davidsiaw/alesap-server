@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1230
-  all_max_cnt: 1369
-  all_country_cnt: 1230
+  max_cnt: 1222
+  all_max_cnt: 1361
+  all_country_cnt: 1222
   song:
-  - song_name: 男の旅路
-    song_alias:
-    esong_code: 796A36
-    t_singer_master_id: '53306'
-    singer_name: 瀬戸 いさお
-    singer_alias:
-    available_date: '2015-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこのたひし
-    singer_name_ruby: せといさお
-    song_variation:
-    - esong_code: 796A36
-      song_name: 男の旅路
-      content_type: ''
-  - song_name: 男はどこへ
-    song_alias:
-    esong_code: 788B36
-    t_singer_master_id: '17488'
-    singer_name: 新田 晃也
-    singer_alias:
-    available_date: '2015-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこはとこへ
-    singer_name_ruby: につたこうや
-    song_variation:
-    - esong_code: 788B36
-      song_name: 男はどこへ
-      content_type: ''
   - song_name: 大人と子どものセレナーデ
     song_alias:
     esong_code: 3440A36
@@ -434,23 +400,6 @@ result:
       content_type: ''
   - song_name: おんなの嘘
     song_alias:
-    esong_code: 3302B46
-    t_singer_master_id: '35920'
-    singer_name: 大江 裕
-    singer_alias:
-    available_date: '2015-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのうそ
-    singer_name_ruby: おおえゆたか
-    song_variation:
-    - esong_code: 3302B46
-      song_name: おんなの嘘
-      content_type: ''
-  - song_name: おんなの嘘
-    song_alias:
     esong_code: 784B37
     t_singer_master_id: '35920'
     singer_name: 大江 裕
@@ -466,6 +415,23 @@ result:
     - esong_code: 784B37
       song_name: おんなの嘘
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: おんなの嘘
+    song_alias:
+    esong_code: 3302B46
+    t_singer_master_id: '35920'
+    singer_name: 大江 裕
+    singer_alias:
+    available_date: '2015-05-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのうそ
+    singer_name_ruby: おおえゆたか
+    song_variation:
+    - esong_code: 3302B46
+      song_name: おんなの嘘
+      content_type: ''
   - song_name: 女のサンバ
     song_alias:
     esong_code: 794B28
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 785B24
       song_name: おんなの花道
+      content_type: ''
+  - song_name: おんなの春
+    song_alias:
+    esong_code: 1221B15
+    t_singer_master_id: '2103'
+    singer_name: 細川 たかし
+    singer_alias:
+    available_date: '2015-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのはる
+    singer_name_ruby: ほそかわたかし
+    song_variation:
+    - esong_code: 1221B15
+      song_name: おんなの春
+      content_type: ''
+  - song_name: 女のままで
+    song_alias:
+    esong_code: 787B39
+    t_singer_master_id: '44099'
+    singer_name: 神里 美和子
+    singer_alias:
+    available_date: '2015-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのままて
+    singer_name_ruby: かみさとみわこ
+    song_variation:
+    - esong_code: 787B39
+      song_name: 女のままで
       content_type: ''

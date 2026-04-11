@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 448
-  all_max_cnt: 493
-  all_country_cnt: 448
+  max_cnt: 446
+  all_max_cnt: 491
+  all_country_cnt: 446
   song:
   - song_name: 冬色
     song_alias:
@@ -262,23 +262,6 @@ result:
     - esong_code: 402B38
       song_name: bed
       content_type: ''
-  - song_name: 紅いろ椿
-    song_alias:
-    esong_code: 410A22
-    t_singer_master_id: '356'
-    singer_name: 大石 まどか(大石円)
-    singer_alias:
-    available_date: '2003-03-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へにいろつはき
-    singer_name_ruby: おおいしまとか
-    song_variation:
-    - esong_code: 410A22
-      song_name: 紅いろ椿
-      content_type: ''
   - song_name: POISON CHERRY
     song_alias:
     esong_code: 429A35
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 417B32
       song_name: MAX TRIBE
+      content_type: ''
+  - song_name: マッチ売りの少女
+    song_alias:
+    esong_code: 417A21
+    t_singer_master_id: '2870'
+    singer_name: 緒方 恵美
+    singer_alias:
+    available_date: '2003-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まつちうりのしようし
+    singer_name_ruby: おかためくみ
+    song_variation:
+    - esong_code: 417A21
+      song_name: マッチ売りの少女
       content_type: ''

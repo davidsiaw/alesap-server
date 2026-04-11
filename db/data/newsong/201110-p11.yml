@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: ガンバレー東北
-    song_alias:
-    esong_code: 2682B15
-    t_singer_master_id: '43398'
-    singer_name: 白河シスターズ
-    singer_alias:
-    available_date: '2011-10-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんはれとうほ
-    singer_name_ruby: しらかわしすたす
-    song_variation:
-    - esong_code: 2682B15
-      song_name: ガンバレー東北
-      content_type: ''
   - song_name: 祇園の鳥居
     song_alias:
     esong_code: 2695A23
@@ -111,23 +94,6 @@ result:
       content_type: ''
   - song_name: 絆
     song_alias:
-    esong_code: 2680A10
-    t_singer_master_id: '31689'
-    singer_name: 小泉 勉
-    singer_alias:
-    available_date: '2011-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: こいすみつとむ
-    song_variation:
-    - esong_code: 2680A10
-      song_name: 絆
-      content_type: ''
-  - song_name: 絆
-    song_alias:
     esong_code: 2686B39
     t_singer_master_id: '41930'
     singer_name: 渡部 優衣
@@ -141,6 +107,23 @@ result:
     singer_name_ruby: わたなへゆい
     song_variation:
     - esong_code: 2686B39
+      song_name: 絆
+      content_type: ''
+  - song_name: 絆
+    song_alias:
+    esong_code: 2680A10
+    t_singer_master_id: '31689'
+    singer_name: 小泉 勉
+    singer_alias:
+    available_date: '2011-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: こいすみつとむ
+    song_variation:
+    - esong_code: 2680A10
       song_name: 絆
       content_type: ''
   - song_name: 絆・漁船
@@ -517,3 +500,20 @@ result:
     - esong_code: 2695B10
       song_name: 君と羊と青
       content_type: JOY生演奏
+  - song_name: 君のかけら
+    song_alias:
+    esong_code: 2692B30
+    t_singer_master_id: '38594'
+    singer_name: 茶太@下村陽子
+    singer_alias:
+    available_date: '2011-10-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのかけら
+    singer_name_ruby: ちやたしもむらようこ
+    song_variation:
+    - esong_code: 2692B30
+      song_name: 君のかけら
+      content_type: ''

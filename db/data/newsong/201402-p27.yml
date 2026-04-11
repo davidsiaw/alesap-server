@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: 強いHEART
-    song_alias:
-    esong_code: 1070A38
-    t_singer_master_id: '977'
-    singer_name: 沢田 研二
-    singer_alias:
-    available_date: '2014-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つよいはと
-    singer_name_ruby: さわたけんし
-    song_variation:
-    - esong_code: 1070A38
-      song_name: 強いHEART
-      content_type: ''
   - song_name: つらい恋とカプチーノ
     song_alias:
     esong_code: 1149B17
@@ -60,23 +43,6 @@ result:
       content_type: JOY生演奏
   - song_name: 石蕗の花
     song_alias:
-    esong_code: 3154B48
-    t_singer_master_id: '2176'
-    singer_name: 真木 ことみ
-    singer_alias:
-    available_date: '2014-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: つわふきのはな
-    singer_name_ruby: まきことみ
-    song_variation:
-    - esong_code: 3154B48
-      song_name: 石蕗の花
-      content_type: DAM生音
-  - song_name: 石蕗の花
-    song_alias:
     esong_code: 3181B37
     t_singer_master_id: '2176'
     singer_name: 真木 ことみ
@@ -92,6 +58,23 @@ result:
     - esong_code: 3181B37
       song_name: 石蕗の花
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 石蕗の花
+    song_alias:
+    esong_code: 3154B48
+    t_singer_master_id: '2176'
+    singer_name: 真木 ことみ
+    singer_alias:
+    available_date: '2014-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: つわふきのはな
+    singer_name_ruby: まきことみ
+    song_variation:
+    - esong_code: 3154B48
+      song_name: 石蕗の花
+      content_type: DAM生音
   - song_name: Dear...
     song_alias:
     esong_code: 3198B20
@@ -330,7 +313,7 @@ result:
     - esong_code: 3206B18
       song_name: DE.SHOW!!!
       content_type: ''
-  - song_name: 出たぞ! 隠大将軍!!
+  - song_name: 出たぞ!隠大将軍!!
     song_alias:
     esong_code: 439A18
     t_singer_master_id: '503'
@@ -345,7 +328,7 @@ result:
     singer_name_ruby: かけやまひろのふ
     song_variation:
     - esong_code: 439A18
-      song_name: 出たぞ! 隠大将軍!!
+      song_name: 出たぞ!隠大将軍!!
       content_type: ''
   - song_name: Dead End Screamer
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 3169A22
       song_name: Tempest
       content_type: ''
+  - song_name: Door
+    song_alias:
+    esong_code: 3202A21
+    t_singer_master_id: '20714'
+    singer_name: JUJU
+    singer_alias:
+    available_date: '2014-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: とあ
+    singer_name_ruby: しゆしゆ
+    song_variation:
+    - esong_code: 3202A21
+      song_name: Door
+      content_type: JOYﾎﾞｰｶﾙ

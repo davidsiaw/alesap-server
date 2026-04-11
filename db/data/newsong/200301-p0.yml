@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 662
-  all_max_cnt: 737
-  all_country_cnt: 662
+  max_cnt: 659
+  all_max_cnt: 734
+  all_country_cnt: 659
   song:
   - song_name: あゝやんなっちゃった
     song_alias:
@@ -177,23 +177,6 @@ result:
     - esong_code: 108B15
       song_name: 愛にながれて
       content_type: ''
-  - song_name: 愛の歌
-    song_alias:
-    esong_code: 62B38
-    t_singer_master_id: '15166'
-    singer_name: 3B LAB.☆S(3B LAB.☆)
-    singer_alias:
-    available_date: '2003-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのうた
-    singer_name_ruby: すりひらほ
-    song_variation:
-    - esong_code: 62B38
-      song_name: 愛の歌
-      content_type: ''
   - song_name: あいのうた
     song_alias:
     esong_code: 996B36
@@ -210,6 +193,23 @@ result:
     song_variation:
     - esong_code: 996B36
       song_name: あいのうた
+      content_type: ''
+  - song_name: 愛の歌
+    song_alias:
+    esong_code: 62B38
+    t_singer_master_id: '15166'
+    singer_name: 3B LAB.☆S(3B LAB.☆)
+    singer_alias:
+    available_date: '2003-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのうた
+    singer_name_ruby: すりひらほ
+    song_variation:
+    - esong_code: 62B38
+      song_name: 愛の歌
       content_type: ''
   - song_name: 愛のかけら☆恋のかけら
     song_alias:
@@ -313,23 +313,6 @@ result:
     - esong_code: 165B28
       song_name: 曖昧ドラスチックナンバー
       content_type: ''
-  - song_name: I Love You
-    song_alias:
-    esong_code: 996A35
-    t_singer_master_id: '13018'
-    singer_name: 上原 あずみ
-    singer_alias:
-    available_date: '2003-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいらふゆ
-    singer_name_ruby: うえはらあすみ
-    song_variation:
-    - esong_code: 996A35
-      song_name: I Love You
-      content_type: ''
   - song_name: I LOVE YOU
     song_alias:
     esong_code: 916B28
@@ -346,6 +329,23 @@ result:
     song_variation:
     - esong_code: 916B28
       song_name: I LOVE YOU
+      content_type: ''
+  - song_name: I Love You
+    song_alias:
+    esong_code: 996A35
+    t_singer_master_id: '13018'
+    singer_name: 上原 あずみ
+    singer_alias:
+    available_date: '2003-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいらふゆ
+    singer_name_ruby: うえはらあすみ
+    song_variation:
+    - esong_code: 996A35
+      song_name: I Love You
       content_type: ''
   - song_name: I wanna be with you
     song_alias:

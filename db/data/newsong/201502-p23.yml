@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
-  - song_name: SLY QUEEN
-    song_alias:
-    esong_code: 3393A4
-    t_singer_master_id: '45040'
-    singer_name: indigo la End
-    singer_alias:
-    available_date: '2015-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すらいくいん
-    singer_name_ruby: いんていこらえんと
-    song_variation:
-    - esong_code: 3393A4
-      song_name: SLY QUEEN
-      content_type: ''
-  - song_name: THRASHING TROUBLE
-    song_alias:
-    esong_code: 3401B8
-    t_singer_master_id: '42995'
-    singer_name: 電気式華憐音楽集団
-    singer_alias:
-    available_date: '2015-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すらつしんくとらふ
-    singer_name_ruby: てんきしきかれんおんかくしゆうたん
-    song_variation:
-    - esong_code: 3401B8
-      song_name: THRASHING TROUBLE
-      content_type: ''
-  - song_name: SURISURI (Spellbound)
-    song_alias:
-    esong_code: 3390B5
-    t_singer_master_id: '21930'
-    singer_name: 東方神起
-    singer_alias:
-    available_date: '2015-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すりすりすへるは
-    singer_name_ruby: とうほうしんき
-    song_variation:
-    - esong_code: 3390B5
-      song_name: SURISURI (Spellbound)
-      content_type: ''
   - song_name: すろぉもぉしょん feat.初音ミク
     song_alias:
     esong_code: 3398B40
@@ -77,23 +26,6 @@ result:
       content_type: VOCALOID
   - song_name: ズンドコパラダイス
     song_alias:
-    esong_code: 3389B34
-    t_singer_master_id: '50453'
-    singer_name: WEST.
-    singer_alias:
-    available_date: '2015-02-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すんとこはらた
-    singer_name_ruby: うえすと
-    song_variation:
-    - esong_code: 3389B34
-      song_name: ズンドコパラダイス
-      content_type: ''
-  - song_name: ズンドコパラダイス
-    song_alias:
     esong_code: 3400A13
     t_singer_master_id: '50453'
     singer_name: WEST.
@@ -109,6 +41,23 @@ result:
     - esong_code: 3400A13
       song_name: ズンドコパラダイス
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ズンドコパラダイス
+    song_alias:
+    esong_code: 3389B34
+    t_singer_master_id: '50453'
+    singer_name: WEST.
+    singer_alias:
+    available_date: '2015-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すんとこはらた
+    singer_name_ruby: うえすと
+    song_variation:
+    - esong_code: 3389B34
+      song_name: ズンドコパラダイス
+      content_type: ''
   - song_name: 青春ウォーーー!!
     song_alias:
     esong_code: 3391B31
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3394A44
       song_name: SERINE feat.鏡音リン
+      content_type: VOCALOID
+  - song_name: セルリアン
+    song_alias:
+    esong_code: 3399A16
+    t_singer_master_id: '24759'
+    singer_name: BACK-ON
+    singer_alias:
+    available_date: '2015-02-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ガンダムビルド<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: せるりあん
+    singer_name_ruby: はつくおん
+    song_variation:
+    - esong_code: 3399A16
+      song_name: セルリアン
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ZERO
+    song_alias:
+    esong_code: 2207B12
+    t_singer_master_id: '1084'
+    singer_name: 少年隊
+    singer_alias:
+    available_date: '2015-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せろ
+    singer_name_ruby: しようねんたい
+    song_variation:
+    - esong_code: 2207B12
+      song_name: ZERO
+      content_type: ''
+  - song_name: 先生と少女騒動 〜第一審公判〜 feat.鏡音レン
+    song_alias:
+    esong_code: 3394A9
+    t_singer_master_id: '52651'
+    singer_name: マイナス(ワンダフル☆オポチュニティ!)
+    singer_alias:
+    available_date: '2015-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: せんせいとしようし
+    singer_name_ruby: まいなす
+    song_variation:
+    - esong_code: 3394A9
+      song_name: 先生と少女騒動 〜第一審公判〜 feat.鏡音レン
       content_type: VOCALOID

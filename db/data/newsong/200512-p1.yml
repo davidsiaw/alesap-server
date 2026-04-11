@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 967
-  all_max_cnt: 1006
-  all_country_cnt: 967
+  max_cnt: 962
+  all_max_cnt: 1001
+  all_country_cnt: 962
   song:
   - song_name: 明るい未来
     song_alias:
@@ -313,23 +313,6 @@ result:
     - esong_code: 1420B24
       song_name: あなたと生きる
       content_type: ''
-  - song_name: あなたに逢いたくて2004
-    song_alias:
-    esong_code: 1421A23
-    t_singer_master_id: '2217'
-    singer_name: 松田 聖子
-    singer_alias:
-    available_date: '2005-12-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたにあいたくてに
-    singer_name_ruby: まつたせいこ
-    song_variation:
-    - esong_code: 1421A23
-      song_name: あなたに逢いたくて2004
-      content_type: ''
   - song_name: あなたにだけ
     song_alias:
     esong_code: 1401B7
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1220A44
       song_name: 甘ったれ
+      content_type: ''
+  - song_name: 雨あがり
+    song_alias:
+    esong_code: 1421B23
+    t_singer_master_id: '8680'
+    singer_name: くるり
+    singer_alias:
+    available_date: '2005-12-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめあかり
+    singer_name_ruby: くるり
+    song_variation:
+    - esong_code: 1421B23
+      song_name: 雨あがり
       content_type: ''

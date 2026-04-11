@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: You go your way
-    song_alias:
-    esong_code: 1979A1
-    t_singer_master_id: '20609'
-    singer_name: 加藤 ミリヤ
-    singer_alias:
-    available_date: '2008-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆこゆあうえい
-    singer_name_ruby: かとうみりや
-    song_variation:
-    - esong_code: 1979A1
-      song_name: You go your way
-      content_type: ''
   - song_name: U.P. STAR
     song_alias:
     esong_code: 1991A21
@@ -342,7 +325,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: らいふいすあはいう
-    singer_name_ruby: TOMCOCHRANE
+    singer_name_ruby: とむこくらん
     song_variation:
     - esong_code: 754B13
       song_name: ライフ・イズ・ア・ハイウェイ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1978B2
       song_name: Laugh away
+      content_type: ''
+  - song_name: Love is all
+    song_alias:
+    esong_code: 1978B5
+    t_singer_master_id: '22240'
+    singer_name: YUI
+    singer_alias:
+    available_date: '2008-04-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふいすおる
+    singer_name_ruby: ゆい
+    song_variation:
+    - esong_code: 1978B5
+      song_name: Love is all
       content_type: ''

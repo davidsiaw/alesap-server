@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 545
-  all_max_cnt: 575
-  all_country_cnt: 545
+  max_cnt: 543
+  all_max_cnt: 573
+  all_country_cnt: 543
   song:
-  - song_name: Dive For You
-    song_alias:
-    esong_code: 741B44
-    t_singer_master_id: '19231'
-    singer_name: BOOM BOOM SATELLITES
-    singer_alias:
-    available_date: '2004-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: APPLESEED<番組名>
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: たいふふおゆ
-    singer_name_ruby: ふんふんさてらいつ
-    song_variation:
-    - esong_code: 741B44
-      song_name: Dive For You
-      content_type: DAM良音
-  - song_name: Dive For You
-    song_alias:
-    esong_code: 741B45
-    t_singer_master_id: '19231'
-    singer_name: BOOM BOOM SATELLITES
-    singer_alias:
-    available_date: '2004-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: APPLESEED<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいふふおゆ
-    singer_name_ruby: ふんふんさてらいつ
-    song_variation:
-    - esong_code: 741B45
-      song_name: Dive For You
-      content_type: ''
   - song_name: ダイヤモンドアイ
     song_alias:
     esong_code: 283A20
@@ -100,7 +66,7 @@ result:
     singer_alias:
     available_date: '2004-05-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: UFO大作戦 戦え!レッドタイガー<番組名>
+    tie_up: UFO大戦争 戦え!レッドタイガー<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たたかえれつとたい
@@ -485,6 +451,23 @@ result:
       content_type: ''
   - song_name: 月凪
     song_alias:
+    esong_code: 123A33
+    t_singer_master_id: '19060'
+    singer_name: 東京エスムジカ
+    singer_alias:
+    available_date: '2004-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきなき
+    singer_name_ruby: とうきようえすむしか
+    song_variation:
+    - esong_code: 123A33
+      song_name: 月凪
+      content_type: ''
+  - song_name: 月凪
+    song_alias:
     esong_code: 720B41
     t_singer_master_id: '19060'
     singer_name: 東京エスムジカ
@@ -500,20 +483,37 @@ result:
     - esong_code: 720B41
       song_name: 月凪
       content_type: DAM良音
-  - song_name: 月凪
+  - song_name: 月のヒト
     song_alias:
-    esong_code: 123A33
-    t_singer_master_id: '19060'
-    singer_name: 東京エスムジカ
+    esong_code: 248A21
+    t_singer_master_id: '15373'
+    singer_name: 藍坊主
     singer_alias:
-    available_date: '2004-05-19'
+    available_date: '2004-05-31'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: つきなき
-    singer_name_ruby: とうきようえすむしか
+    song_name_ruby: つきのひと
+    singer_name_ruby: あおほうす
     song_variation:
-    - esong_code: 123A33
-      song_name: 月凪
+    - esong_code: 248A21
+      song_name: 月のヒト
+      content_type: ''
+  - song_name: 月見奏
+    song_alias:
+    esong_code: 583A48
+    t_singer_master_id: '18032'
+    singer_name: Jackson vibe
+    singer_alias:
+    available_date: '2004-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきみそう
+    singer_name_ruby: しやくそんはいふ
+    song_variation:
+    - esong_code: 583A48
+      song_name: 月見奏
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: 日向の恋唄
-    song_alias:
-    esong_code: 2482A12
-    t_singer_master_id: '356'
-    singer_name: 大石 まどか(大石円)
-    singer_alias:
-    available_date: '2010-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひむかのこいうた
-    singer_name_ruby: おおいしまとか
-    song_variation:
-    - esong_code: 2482A12
-      song_name: 日向の恋唄
-      content_type: ''
   - song_name: 百九番目の除夜の鐘
     song_alias:
     esong_code: 2435B8
@@ -60,23 +43,6 @@ result:
       content_type: ''
   - song_name: Period
     song_alias:
-    esong_code: 2469A23
-    t_singer_master_id: '3079'
-    singer_name: TOKIO
-    singer_alias:
-    available_date: '2010-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひりおと
-    singer_name_ruby: ときお
-    song_variation:
-    - esong_code: 2469A23
-      song_name: Period
-      content_type: ''
-  - song_name: Period
-    song_alias:
     esong_code: 2496B37
     t_singer_master_id: '12321'
     singer_name: CHEMISTRY
@@ -92,6 +58,23 @@ result:
     - esong_code: 2496B37
       song_name: Period
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Period
+    song_alias:
+    esong_code: 2469A23
+    t_singer_master_id: '3079'
+    singer_name: TOKIO
+    singer_alias:
+    available_date: '2010-02-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひりおと
+    singer_name_ruby: ときお
+    song_variation:
+    - esong_code: 2469A23
+      song_name: Period
+      content_type: ''
   - song_name: Believe own way
     song_alias:
     esong_code: 2481B47
@@ -381,40 +364,6 @@ result:
     - esong_code: 2461B20
       song_name: FOREVER LOVE
       content_type: ''
-  - song_name: FOREVER LOVE (Happy Wedding Remix)
-    song_alias:
-    esong_code: 2479A13
-    t_singer_master_id: '38603'
-    singer_name: 清水 翔太×加藤 ミリヤ
-    singer_alias:
-    available_date: '2010-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふおえはらふ
-    singer_name_ruby: しみすしようたかとうみりや
-    song_variation:
-    - esong_code: 2479A13
-      song_name: FOREVER LOVE (Happy Wedding Remix)
-      content_type: ''
-  - song_name: FOREVER LOVE
-    song_alias:
-    esong_code: 2470B23
-    t_singer_master_id: '38603'
-    singer_name: 清水 翔太×加藤 ミリヤ
-    singer_alias:
-    available_date: '2010-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ふおえはらふ
-    singer_name_ruby: しみすしようたかとうみりや
-    song_variation:
-    - esong_code: 2470B23
-      song_name: FOREVER LOVE
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: FOREVER LOVE
     song_alias:
     esong_code: 2463B36
@@ -432,6 +381,40 @@ result:
     - esong_code: 2463B36
       song_name: FOREVER LOVE
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: FOREVER LOVE
+    song_alias:
+    esong_code: 2470B23
+    t_singer_master_id: '38603'
+    singer_name: 清水 翔太×加藤 ミリヤ
+    singer_alias:
+    available_date: '2010-02-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ふおえはらふ
+    singer_name_ruby: しみすしようたかとうみりや
+    song_variation:
+    - esong_code: 2470B23
+      song_name: FOREVER LOVE
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: FOREVER LOVE (Happy Wedding Remix)
+    song_alias:
+    esong_code: 2479A13
+    t_singer_master_id: '38603'
+    singer_name: 清水 翔太×加藤 ミリヤ
+    singer_alias:
+    available_date: '2010-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふおえはらふ
+    singer_name_ruby: しみすしようたかとうみりや
+    song_variation:
+    - esong_code: 2479A13
+      song_name: FOREVER LOVE (Happy Wedding Remix)
+      content_type: ''
   - song_name: フォーク並びを徹底してほしい feat.KAITO
     song_alias:
     esong_code: 2481B19
@@ -466,23 +449,6 @@ result:
     - esong_code: 2481B44
       song_name: for the future
       content_type: ''
-  - song_name: for you・・・
-    song_alias:
-    esong_code: 2480A37
-    t_singer_master_id: '1640'
-    singer_name: 中西 保志
-    singer_alias:
-    available_date: '2010-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふおゆ
-    singer_name_ruby: なかにしやすし
-    song_variation:
-    - esong_code: 2480A37
-      song_name: for you・・・
-      content_type: ''
   - song_name: For You
     song_alias:
     esong_code: 2482A1
@@ -499,6 +465,23 @@ result:
     song_variation:
     - esong_code: 2482A1
       song_name: For You
+      content_type: ''
+  - song_name: for you・・・
+    song_alias:
+    esong_code: 2480A37
+    t_singer_master_id: '1640'
+    singer_name: 中西 保志
+    singer_alias:
+    available_date: '2010-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふおゆ
+    singer_name_ruby: なかにしやすし
+    song_variation:
+    - esong_code: 2480A37
+      song_name: for you・・・
       content_type: ''
   - song_name: Fallin'
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 2463B18
       song_name: Fallin'
       content_type: ''
+  - song_name: Fall in Love
+    song_alias:
+    esong_code: 2496B32
+    t_singer_master_id: '38508'
+    singer_name: 青山 テルマ×SOL
+    singer_alias:
+    available_date: '2010-02-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ふおるいんらふ
+    singer_name_ruby: あおやまてるまそる
+    song_variation:
+    - esong_code: 2496B32
+      song_name: Fall in Love
+      content_type: JOYﾎﾞｰｶﾙ

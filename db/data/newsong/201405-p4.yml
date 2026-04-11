@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1427
-  all_max_cnt: 1545
-  all_country_cnt: 1427
+  max_cnt: 1410
+  all_max_cnt: 1528
+  all_country_cnt: 1410
   song:
-  - song_name: Alone -それでも道はつづく-
-    song_alias:
-    esong_code: 931A43
-    t_singer_master_id: '136'
-    singer_name: アルフィー(THE ALFEE)
-    singer_alias:
-    available_date: '2014-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あろんそれてもみ
-    singer_name_ruby: あるふい
-    song_variation:
-    - esong_code: 931A43
-      song_name: Alone -それでも道はつづく-
-      content_type: ''
   - song_name: Under The Sun
     song_alias:
     esong_code: 3254A44
@@ -70,7 +53,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: いいくらし
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3246B21
       song_name: いいくらし
@@ -434,23 +417,6 @@ result:
       content_type: ''
   - song_name: 一夜宿
     song_alias:
-    esong_code: 3081B13
-    t_singer_master_id: '813'
-    singer_name: 香西 かおり
-    singer_alias:
-    available_date: '2014-05-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いちややと
-    singer_name_ruby: こうさいかおり
-    song_variation:
-    - esong_code: 3081B13
-      song_name: 一夜宿
-      content_type: ''
-  - song_name: 一夜宿
-    song_alias:
     esong_code: 3253B16
     t_singer_master_id: '813'
     singer_name: 香西 かおり
@@ -466,6 +432,23 @@ result:
     - esong_code: 3253B16
       song_name: 一夜宿
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 一夜宿
+    song_alias:
+    esong_code: 3081B13
+    t_singer_master_id: '813'
+    singer_name: 香西 かおり
+    singer_alias:
+    available_date: '2014-05-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いちややと
+    singer_name_ruby: こうさいかおり
+    song_variation:
+    - esong_code: 3081B13
+      song_name: 一夜宿
+      content_type: ''
   - song_name: イチョウの樹
     song_alias:
     esong_code: 3259B47
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3243B8
       song_name: いつかの、いくつかのきみとのせかい
+      content_type: ''
+  - song_name: いつか笑える
+    song_alias:
+    esong_code: 3243A49
+    t_singer_master_id: '2447'
+    singer_name: やしき たかじん
+    singer_alias:
+    available_date: '2014-05-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつかわらえる
+    singer_name_ruby: やしきたかしん
+    song_variation:
+    - esong_code: 3243A49
+      song_name: いつか笑える
       content_type: ''

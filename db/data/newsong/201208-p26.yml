@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: Paranoid Doll feat.神威がくぽ
-    song_alias:
-    esong_code: 2836B1
-    t_singer_master_id: '37915'
-    singer_name: natsuP(SCL Project)
-    singer_alias:
-    available_date: '2012-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: はらのいとと
-    singer_name_ruby: なつひ
-    song_variation:
-    - esong_code: 2836B1
-      song_name: Paranoid Doll feat.神威がくぽ
-      content_type: VOCALOID
   - song_name: 薔薇の涙
     song_alias:
     esong_code: 2843A7
@@ -245,6 +228,23 @@ result:
     - esong_code: 2839B28
       song_name: PNFPN
       content_type: ''
+  - song_name: 光
+    song_alias:
+    esong_code: 2838B11
+    t_singer_master_id: '45644'
+    singer_name: rara
+    singer_alias:
+    available_date: '2012-08-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひかり
+    singer_name_ruby: らら
+    song_variation:
+    - esong_code: 2838B11
+      song_name: 光
+      content_type: ''
   - song_name: HIKARI
     song_alias:
     esong_code: 2831B45
@@ -278,23 +278,6 @@ result:
     song_variation:
     - esong_code: 2843A35
       song_name: 光り
-      content_type: ''
-  - song_name: 光
-    song_alias:
-    esong_code: 2838B11
-    t_singer_master_id: '45644'
-    singer_name: rara
-    singer_alias:
-    available_date: '2012-08-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひかり
-    singer_name_ruby: らら
-    song_variation:
-    - esong_code: 2838B11
-      song_name: 光
       content_type: ''
   - song_name: ヒカリへ
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2834A3
       song_name: "[Bit;]雨に接続された世界 (不良品種Edit)"
+      content_type: ''
+  - song_name: bit of life
+    song_alias:
+    esong_code: 2831B1
+    t_singer_master_id: '21701'
+    singer_name: 石川 英郎
+    singer_alias:
+    available_date: '2012-08-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 私立荒磯高等学校生徒会執行部+WILD ADAPTER<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひつとおふらいふ
+    singer_name_ruby: いしかわひてお
+    song_variation:
+    - esong_code: 2831B1
+      song_name: bit of life
       content_type: ''

@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1252
-  all_max_cnt: 1433
-  all_country_cnt: 1252
+  max_cnt: 1245
+  all_max_cnt: 1426
+  all_country_cnt: 1245
   song:
-  - song_name: Smile Again
-    song_alias:
-    esong_code: 3862A30
-    t_singer_master_id: '1894'
-    singer_name: 日野 美歌
-    singer_alias:
-    available_date: '2017-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すまいるあけいん
-    singer_name_ruby: ひのみか
-    song_variation:
-    - esong_code: 3862A30
-      song_name: Smile Again
-      content_type: ''
-  - song_name: Slight Slight
-    song_alias:
-    esong_code: 3863B5
-    t_singer_master_id: '10095'
-    singer_name: clammbon
-    singer_alias:
-    available_date: '2017-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すらいとすらいと
-    singer_name_ruby: くらむほん
-    song_variation:
-    - esong_code: 3863B5
-      song_name: Slight Slight
-      content_type: ''
-  - song_name: 3D
-    song_alias:
-    esong_code: 3855A28
-    t_singer_master_id: '52314'
-    singer_name: ミオヤマザキ
-    singer_alias:
-    available_date: '2017-08-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すりてい
-    singer_name_ruby: みおやまさき
-    song_variation:
-    - esong_code: 3855A28
-      song_name: 3D
-      content_type: ''
-  - song_name: スロー&スロー
-    song_alias:
-    esong_code: 3864A14
-    t_singer_master_id: '58547'
-    singer_name: MINT mate box
-    singer_alias:
-    available_date: '2017-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すろあんとすろ
-    singer_name_ruby: みんとめいとほつくす
-    song_variation:
-    - esong_code: 3864A14
-      song_name: スロー&スロー
-      content_type: ''
   - song_name: 寸止め娘音頭
     song_alias:
     esong_code: 3862B1
@@ -247,21 +179,21 @@ result:
       content_type: ''
   - song_name: セツナユメミシ
     song_alias:
-    esong_code: 3856A35
+    esong_code: 3858A5
     t_singer_master_id: '40878'
     singer_name: KEYTALK
     singer_alias:
-    available_date: '2017-08-04'
+    available_date: '2017-08-13'
     end_date: '2999-04-10 00:00:00'
     tie_up: 境界のRINNE<番組名>
     country_code: '0'
-    content_type:
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: せつなゆめみし
     singer_name_ruby: きとく
     song_variation:
-    - esong_code: 3856A35
+    - esong_code: 3858A5
       song_name: セツナユメミシ
-      content_type: ''
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: セツナユメミシ
     song_alias:
     esong_code: 3865B45
@@ -298,21 +230,21 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: セツナユメミシ
     song_alias:
-    esong_code: 3858A5
+    esong_code: 3856A35
     t_singer_master_id: '40878'
     singer_name: KEYTALK
     singer_alias:
-    available_date: '2017-08-13'
+    available_date: '2017-08-04'
     end_date: '2999-04-10 00:00:00'
     tie_up: 境界のRINNE<番組名>
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
+    content_type:
     song_name_ruby: せつなゆめみし
     singer_name_ruby: きとく
     song_variation:
-    - esong_code: 3858A5
+    - esong_code: 3856A35
       song_name: セツナユメミシ
-      content_type: DAMｸﾘｯﾌﾟ生音
+      content_type: ''
   - song_name: 絶望淵子の悩み
     song_alias:
     esong_code: 3866B4
@@ -425,7 +357,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: せんしんとりま
     singer_name_ruby: すらいむかるす
     song_variation:
@@ -445,7 +377,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: せんしんとりま
     singer_name_ruby: すらいむかるす
     song_variation:
@@ -475,8 +407,8 @@ result:
   - song_name: Sentimental Liars
     song_alias:
     esong_code: 3865B15
-    t_singer_master_id: '59536'
-    singer_name: 樋紫 智康&駒田 航
+    t_singer_master_id: '63268'
+    singer_name: 樋柴 智康&駒田 航
     singer_alias:
     available_date: '2017-08-25'
     end_date: '2999-04-10 00:00:00'
@@ -522,4 +454,72 @@ result:
     song_variation:
     - esong_code: 3853B24
       song_name: 奏全域
+      content_type: ''
+  - song_name: SOUZO
+    song_alias:
+    esong_code: 3854B43
+    t_singer_master_id: '6560'
+    singer_name: V6
+    singer_alias:
+    available_date: '2017-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そうそ
+    singer_name_ruby: ふいしつくす
+    song_variation:
+    - esong_code: 3854B43
+      song_name: SOUZO
+      content_type: ''
+  - song_name: 想望カルト
+    song_alias:
+    esong_code: 3863A47
+    t_singer_master_id: '57651'
+    singer_name: 怪人二十面奏
+    singer_alias:
+    available_date: '2017-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そうほうかると
+    singer_name_ruby: かいしんにしゆうめんそう
+    song_variation:
+    - esong_code: 3863A47
+      song_name: 想望カルト
+      content_type: ''
+  - song_name: 宗谷海峡
+    song_alias:
+    esong_code: 3858A16
+    t_singer_master_id: '1750'
+    singer_name: 野中 さおり(野中彩央里)
+    singer_alias:
+    available_date: '2017-08-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: そうやかいきよう
+    singer_name_ruby: のなかさおり
+    song_variation:
+    - esong_code: 3858A16
+      song_name: 宗谷海峡
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: そして旅立ち
+    song_alias:
+    esong_code: 3863A37
+    t_singer_master_id: '15510'
+    singer_name: 遠藤 実
+    singer_alias:
+    available_date: '2017-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そしてたひたち
+    singer_name_ruby: えんとうみのる
+    song_variation:
+    - esong_code: 3863A37
+      song_name: そして旅立ち
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1628
-  all_max_cnt: 1827
-  all_country_cnt: 1628
+  max_cnt: 1617
+  all_max_cnt: 1816
+  all_country_cnt: 1617
   song:
-  - song_name: 1時間
-    song_alias:
-    esong_code: 3407B8
-    t_singer_master_id: '24979'
-    singer_name: ハンバートハンバート
-    singer_alias:
-    available_date: '2015-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いちしかん
-    singer_name_ruby: はんはとはんはと
-    song_variation:
-    - esong_code: 3407B8
-      song_name: 1時間
-      content_type: ''
-  - song_name: いつか貴方と
-    song_alias:
-    esong_code: 1196A32
-    t_singer_master_id: '52778'
-    singer_name: 山口 冨美子
-    singer_alias:
-    available_date: '2015-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつかあなたと
-    singer_name_ruby: やまくちふみこ
-    song_variation:
-    - esong_code: 1196A32
-      song_name: いつか貴方と
-      content_type: ''
   - song_name: いつかきっと
     song_alias:
     esong_code: 3412A24
@@ -400,6 +366,23 @@ result:
       content_type: ''
   - song_name: いのちの春
     song_alias:
+    esong_code: 3269A17
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2015-03-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: いのちのはる
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 3269A17
+      song_name: いのちの春
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: いのちの春
+    song_alias:
     esong_code: 3271A34
     t_singer_master_id: '1518'
     singer_name: 天童 よしみ
@@ -432,23 +415,6 @@ result:
     - esong_code: 3264A5
       song_name: いのちの春
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: いのちの春
-    song_alias:
-    esong_code: 3269A17
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2015-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: いのちのはる
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 3269A17
-      song_name: いのちの春
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 命は美しい
     song_alias:
     esong_code: 3412A23
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 674A14
       song_name: いびつなワルツ
+      content_type: ''
+  - song_name: イマココカラ
+    song_alias:
+    esong_code: 3405A6
+    t_singer_master_id: '52878'
+    singer_name: プリキュアオールスターズ
+    singer_alias:
+    available_date: '2015-03-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 劇場版プリキュアオールスターズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いまここから
+    singer_name_ruby: ふりきゆあおるすたす
+    song_variation:
+    - esong_code: 3405A6
+      song_name: イマココカラ
+      content_type: ''
+  - song_name: 今でも
+    song_alias:
+    esong_code: 3404B1
+    t_singer_master_id: '42987'
+    singer_name: Kim Hyun Joong
+    singer_alias:
+    available_date: '2015-03-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いまても
+    singer_name_ruby: きむひよんしゆん
+    song_variation:
+    - esong_code: 3404B1
+      song_name: 今でも
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 655
-  all_max_cnt: 733
-  all_country_cnt: 655
+  max_cnt: 652
+  all_max_cnt: 730
+  all_country_cnt: 652
   song:
-  - song_name: スローダンシング
-    song_alias:
-    esong_code: 158A44
-    t_singer_master_id: '437'
-    singer_name: 尾崎 亜美
-    singer_alias:
-    available_date: '2002-11-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すろたんしんく
-    singer_name_ruby: おさきあみ
-    song_variation:
-    - esong_code: 158A44
-      song_name: スローダンシング
-      content_type: ''
   - song_name: Say Good Bye (赤バージョン)
     song_alias:
     esong_code: 966B32
@@ -398,23 +381,6 @@ result:
     - esong_code: 956B34
       song_name: 体温とパルス
       content_type: ''
-  - song_name: 大切な人
-    song_alias:
-    esong_code: 159B48
-    t_singer_master_id: '581'
-    singer_name: 辛島 美登里
-    singer_alias:
-    available_date: '2002-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいせつなひと
-    singer_name_ruby: からしまみとり
-    song_variation:
-    - esong_code: 159B48
-      song_name: 大切な人
-      content_type: ''
   - song_name: たいせつなひと
     song_alias:
     esong_code: 969A37
@@ -431,6 +397,23 @@ result:
     song_variation:
     - esong_code: 969A37
       song_name: たいせつなひと
+      content_type: ''
+  - song_name: 大切な人
+    song_alias:
+    esong_code: 159B48
+    t_singer_master_id: '581'
+    singer_name: 辛島 美登里
+    singer_alias:
+    available_date: '2002-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいせつなひと
+    singer_name_ruby: からしまみとり
+    song_variation:
+    - esong_code: 159B48
+      song_name: 大切な人
       content_type: ''
   - song_name: Tight Rope
     song_alias:
@@ -455,7 +438,7 @@ result:
     t_singer_master_id: '1165'
     singer_name: 城之内 早苗
     singer_alias:
-    available_date: '2002-11-27'
+    available_date: '2002-11-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 957B37
       song_name: 戦え!白き戦士〜Go!Go!Go!
+      content_type: ''
+  - song_name: 戦え!人造人間キカイダー
+    song_alias:
+    esong_code: 864A6
+    t_singer_master_id: '5166'
+    singer_name: ヒデ 夕樹
+    singer_alias:
+    available_date: '2002-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 人造人間キカイダー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たたかえしんそう
+    singer_name_ruby: ひてゆうき
+    song_variation:
+    - esong_code: 864A6
+      song_name: 戦え!人造人間キカイダー
       content_type: ''

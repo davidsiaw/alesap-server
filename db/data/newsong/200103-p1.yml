@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 286
-  all_max_cnt: 313
-  all_country_cnt: 286
+  max_cnt: 284
+  all_max_cnt: 311
+  all_country_cnt: 284
   song:
   - song_name: えんか坂
     song_alias:
@@ -245,23 +245,6 @@ result:
     - esong_code: 606B17
       song_name: 影になって
       content_type: ''
-  - song_name: かげろう
-    song_alias:
-    esong_code: 528A28
-    t_singer_master_id: '1994'
-    singer_name: 藤 あや子
-    singer_alias:
-    available_date: '2001-03-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かけろう
-    singer_name_ruby: ふしあやこ
-    song_variation:
-    - esong_code: 528A28
-      song_name: かげろう
-      content_type: ''
   - song_name: 蜉蝣 〜水仙の涙〜
     song_alias:
     esong_code: 525B39
@@ -278,6 +261,23 @@ result:
     song_variation:
     - esong_code: 525B39
       song_name: 蜉蝣 〜水仙の涙〜
+      content_type: ''
+  - song_name: かげろう
+    song_alias:
+    esong_code: 528A28
+    t_singer_master_id: '1994'
+    singer_name: 藤 あや子
+    singer_alias:
+    available_date: '2001-03-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かけろう
+    singer_name_ruby: ふしあやこ
+    song_variation:
+    - esong_code: 528A28
+      song_name: かげろう
       content_type: ''
   - song_name: 果実
     song_alias:

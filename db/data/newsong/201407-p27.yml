@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
-  - song_name: つきぬけた
-    song_alias:
-    esong_code: 2059B4
-    t_singer_master_id: '12077'
-    singer_name: ゆらゆら帝国
-    singer_alias:
-    available_date: '2014-07-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきぬけた
-    singer_name_ruby: ゆらゆらていこく
-    song_variation:
-    - esong_code: 2059B4
-      song_name: つきぬけた
-      content_type: ''
-  - song_name: 月ノ桜
-    song_alias:
-    esong_code: 3287B18
-    t_singer_master_id: '36909'
-    singer_name: 原 由実
-    singer_alias:
-    available_date: '2014-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ぷちます!! -プチプチ・アイドルマスター-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきのさくら
-    singer_name_ruby: はらゆみ
-    song_variation:
-    - esong_code: 3287B18
-      song_name: 月ノ桜
-      content_type: ''
   - song_name: 月夜に揺れて feat.珠梨
     song_alias:
     esong_code: 3280B41
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3289A23
       song_name: DESPERATE
+      content_type: ''
+  - song_name: Demolition feat.MAYU
+    song_alias:
+    esong_code: 3284B47
+    t_singer_master_id: '50458'
+    singer_name: 満身創痍
+    singer_alias:
+    available_date: '2014-07-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: てもりしよん
+    singer_name_ruby: まんしんそうい
+    song_variation:
+    - esong_code: 3284B47
+      song_name: Demolition feat.MAYU
+      content_type: VOCALOID
+  - song_name: Tell Me Why
+    song_alias:
+    esong_code: 3297B46
+    t_singer_master_id: '1359'
+    singer_name: 竹内 まりや
+    singer_alias:
+    available_date: '2014-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てるみほわい
+    singer_name_ruby: たけうちまりや
+    song_variation:
+    - esong_code: 3297B46
+      song_name: Tell Me Why
       content_type: ''

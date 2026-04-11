@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
-  - song_name: 雪んこ風唄
-    song_alias:
-    esong_code: 3798A22
-    t_singer_master_id: '55749'
-    singer_name: 羽山 みずき
-    singer_alias:
-    available_date: '2017-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: ゆきんこかせうた
-    singer_name_ruby: はやまみすき
-    song_variation:
-    - esong_code: 3798A22
-      song_name: 雪んこ風唄
-      content_type: JOY生演奏
-  - song_name: 湯島しぐれ
-    song_alias:
-    esong_code: 3797A19
-    t_singer_master_id: '676'
-    singer_name: 木村 友衛
-    singer_alias:
-    available_date: '2017-04-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆしましくれ
-    singer_name_ruby: きむらともえ
-    song_variation:
-    - esong_code: 3797A19
-      song_name: 湯島しぐれ
-      content_type: ''
-  - song_name: ゆずれない願い (歌唱:松嵜麗)
-    song_alias:
-    esong_code: 3778A15
-    t_singer_master_id: '2955'
-    singer_name: 田村 直美
-    singer_alias:
-    available_date: '2017-04-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 魔法騎士(マジックナイト)レイアース<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ゆすれないねかい
-    singer_name_ruby: たむらなおみ
-    song_variation:
-    - esong_code: 3778A15
-      song_name: ゆずれない願い (歌唱:松嵜麗)
-      content_type: DAM生音
   - song_name: Utopia
     song_alias:
     esong_code: 3794B49
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3794B39
       song_name: Round and Round
+      content_type: ''
+  - song_name: Last Desire
+    song_alias:
+    esong_code: 3788A16
+    t_singer_master_id: '40805'
+    singer_name: 黒崎 真音
+    singer_alias:
+    available_date: '2017-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Rewrite(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らすとてさいあ
+    singer_name_ruby: くろさきまおん
+    song_variation:
+    - esong_code: 3788A16
+      song_name: Last Desire
+      content_type: ''
+  - song_name: LAST DREAM
+    song_alias:
+    esong_code: 3786B14
+    t_singer_master_id: '57985'
+    singer_name: 坂本 孝夫
+    singer_alias:
+    available_date: '2017-04-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らすととりむ
+    singer_name_ruby: さかもとたかお
+    song_variation:
+    - esong_code: 3786B14
+      song_name: LAST DREAM
+      content_type: ''
+  - song_name: Lucky!
+    song_alias:
+    esong_code: 3799A15
+    t_singer_master_id: '45664'
+    singer_name: 高森 奈津美
+    singer_alias:
+    available_date: '2017-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ブレイブウィッチーズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らつき
+    singer_name_ruby: たかもりなつみ
+    song_variation:
+    - esong_code: 3799A15
+      song_name: Lucky!
       content_type: ''

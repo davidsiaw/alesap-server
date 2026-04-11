@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
   - song_name: that's it やったね
     song_alias:
@@ -417,23 +417,6 @@ result:
       content_type: JOY生演奏
   - song_name: 幸せのラストダンス
     song_alias:
-    esong_code: 2834B6
-    t_singer_master_id: '774'
-    singer_name: 桑田 佳祐
-    singer_alias:
-    available_date: '2012-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: しあわせのらすとた
-    singer_name_ruby: くわたけいすけ
-    song_variation:
-    - esong_code: 2834B6
-      song_name: 幸せのラストダンス
-      content_type: DAM生音
-  - song_name: 幸せのラストダンス
-    song_alias:
     esong_code: 2834B39
     t_singer_master_id: '774'
     singer_name: 桑田 佳祐
@@ -449,6 +432,23 @@ result:
     - esong_code: 2834B39
       song_name: 幸せのラストダンス
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 幸せのラストダンス
+    song_alias:
+    esong_code: 2834B6
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2012-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: しあわせのらすとた
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 2834B6
+      song_name: 幸せのラストダンス
+      content_type: DAM生音
   - song_name: 潮風のハーモニー
     song_alias:
     esong_code: 2843A16
@@ -508,7 +508,7 @@ result:
     singer_alias:
     available_date: '2012-08-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しさいとましつ

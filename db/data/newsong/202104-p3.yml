@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 814
-  all_max_cnt: 889
-  all_country_cnt: 814
+  max_cnt: 807
+  all_max_cnt: 882
+  all_country_cnt: 807
   song:
-  - song_name: いつまでも、ずっと...
-    song_alias:
-    esong_code: 4491A2
-    t_singer_master_id: '62986'
-    singer_name: HIMAWARIちゃんねる
-    singer_alias:
-    available_date: '2021-04-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつまてもすつと
-    singer_name_ruby: ひまわりちやんねる
-    song_variation:
-    - esong_code: 4491A2
-      song_name: いつまでも、ずっと...
-      content_type: ''
   - song_name: 糸
     song_alias:
     esong_code: 4490A9
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4487B8
       song_name: 選り好みセンス
+      content_type: ''
+  - song_name: 炎上パンチ
+    song_alias:
+    esong_code: 4495A14
+    t_singer_master_id: '48401'
+    singer_name: コレコレ
+    singer_alias:
+    available_date: '2021-04-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんしようはんち
+    singer_name_ruby: これこれ
+    song_variation:
+    - esong_code: 4495A14
+      song_name: 炎上パンチ
       content_type: ''

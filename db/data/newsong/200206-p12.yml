@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
-  - song_name: BRONZE
-    song_alias:
-    esong_code: 860A27
-    t_singer_master_id: '5879'
-    singer_name: 石原 慎一
-    singer_alias:
-    available_date: '2002-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: BRONZE<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふろんす
-    singer_name_ruby: いしはらしんいち
-    song_variation:
-    - esong_code: 860A27
-      song_name: BRONZE
-      content_type: ''
   - song_name: 豊後の一心太助
     song_alias:
     esong_code: 245B4
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 113B47
       song_name: 未確認飛行物体接近中（急接近MIX）
+      content_type: ''
+  - song_name: Misunderstanding
+    song_alias:
+    esong_code: 865B25
+    t_singer_master_id: '7845'
+    singer_name: DA PUMP
+    singer_alias:
+    available_date: '2002-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすあんたすたん
+    singer_name_ruby: たはんふ
+    song_variation:
+    - esong_code: 865B25
+      song_name: Misunderstanding
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: 大切な人
-    song_alias:
-    esong_code: 2835A3
-    t_singer_master_id: '38482'
-    singer_name: Rake
-    singer_alias:
-    available_date: '2012-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: たいせつなひと
-    singer_name_ruby: れいく
-    song_variation:
-    - esong_code: 2835A3
-      song_name: 大切な人
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 大切な人
     song_alias:
     esong_code: 2834B24
@@ -41,6 +24,23 @@ result:
     - esong_code: 2834B24
       song_name: 大切な人
       content_type: DAM生音
+  - song_name: 大切な人
+    song_alias:
+    esong_code: 2835A3
+    t_singer_master_id: '38482'
+    singer_name: Rake
+    singer_alias:
+    available_date: '2012-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: たいせつなひと
+    singer_name_ruby: れいく
+    song_variation:
+    - esong_code: 2835A3
+      song_name: 大切な人
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 太陽に向かって咲く花
     song_alias:
     esong_code: 2836B6
@@ -279,23 +279,6 @@ result:
     - esong_code: 2841B26
       song_name: Tango of tears・・・そしてサヨナラ
       content_type: ''
-  - song_name: TANPOPO
-    song_alias:
-    esong_code: 2467A41
-    t_singer_master_id: '14869'
-    singer_name: 田中 理恵
-    singer_alias:
-    available_date: '2012-08-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: とらドラ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たんほほ
-    singer_name_ruby: たなかりえ
-    song_variation:
-    - esong_code: 2467A41
-      song_name: TANPOPO
-      content_type: ''
   - song_name: たんぽぽの花
     song_alias:
     esong_code: 2833A3
@@ -517,3 +500,20 @@ result:
     - esong_code: 2832B20
       song_name: ちょこっとLOVE
       content_type: ''
+  - song_name: チョコレート☆マジック! feat.巡音ルカ
+    song_alias:
+    esong_code: 2831B22
+    t_singer_master_id: '43558'
+    singer_name: バレンタインP
+    singer_alias:
+    available_date: '2012-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ちよこれとましつ
+    singer_name_ruby: はれんたいんひ
+    song_variation:
+    - esong_code: 2831B22
+      song_name: チョコレート☆マジック! feat.巡音ルカ
+      content_type: VOCALOID

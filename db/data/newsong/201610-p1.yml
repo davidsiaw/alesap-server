@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1386
-  all_max_cnt: 1523
-  all_country_cnt: 1386
+  max_cnt: 1380
+  all_max_cnt: 1517
+  all_country_cnt: 1380
   song:
   - song_name: 赤い波止場
     song_alias:
@@ -415,23 +415,6 @@ result:
     - esong_code: 3707A49
       song_name: 亜熱帯ガール
       content_type: ''
-  - song_name: あの娘が泣いてる波止場
-    song_alias:
-    esong_code: 3705B41
-    t_singer_master_id: '55083'
-    singer_name: 三丘 翔太
-    singer_alias:
-    available_date: '2016-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのこかないてるは
-    singer_name_ruby: みつおかしようた
-    song_variation:
-    - esong_code: 3705B41
-      song_name: あの娘が泣いてる波止場
-      content_type: ''
   - song_name: あの日見た青空はきっと今日に続いている
     song_alias:
     esong_code: 3703A25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3694B24
       song_name: アマガミSSメドレー
+      content_type: ''
+  - song_name: アマテラス (M@STER VERSION)
+    song_alias:
+    esong_code: 3708A8
+    t_singer_master_id: '57305'
+    singer_name: 浅倉 杏美&たかはし 智秋&原 由実&若林 直美
+    singer_alias:
+    available_date: '2016-10-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター プラチナスターズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あまてらす
+    singer_name_ruby: あさくらあすみたかはしちあ
+    song_variation:
+    - esong_code: 3708A8
+      song_name: アマテラス (M@STER VERSION)
       content_type: ''

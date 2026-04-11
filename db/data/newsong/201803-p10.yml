@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1339
-  all_max_cnt: 1524
-  all_country_cnt: 1339
+  max_cnt: 1329
+  all_max_cnt: 1514
+  all_country_cnt: 1329
   song:
-  - song_name: 覚悟より切実な現実の前で
-    song_alias:
-    esong_code: 3967A28
-    t_singer_master_id: '61051'
-    singer_name: LeChat
-    singer_alias:
-    available_date: '2018-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かくこよりせつし
-    singer_name_ruby: るしや
-    song_variation:
-    - esong_code: 3967A28
-      song_name: 覚悟より切実な現実の前で
-      content_type: ''
   - song_name: 隠恋慕
     song_alias:
     esong_code: 3962A25
@@ -40,23 +23,6 @@ result:
     song_variation:
     - esong_code: 3962A25
       song_name: 隠恋慕
-      content_type: ''
-  - song_name: かくれんぼ
-    song_alias:
-    esong_code: 1025A45
-    t_singer_master_id: '27035'
-    singer_name: てらその 淳子
-    singer_alias:
-    available_date: '2018-03-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かくれんほ
-    singer_name_ruby: てらそのしゆんこ
-    song_variation:
-    - esong_code: 1025A45
-      song_name: かくれんぼ
       content_type: ''
   - song_name: 傘
     song_alias:
@@ -128,23 +94,6 @@ result:
       content_type: ''
   - song_name: 風の町哀詩
     song_alias:
-    esong_code: 1032A48
-    t_singer_master_id: '16128'
-    singer_name: 黒川 真一朗
-    singer_alias:
-    available_date: '2018-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かせのまちえれし
-    singer_name_ruby: くろかわしんいちろう
-    song_variation:
-    - esong_code: 1032A48
-      song_name: 風の町哀詩
-      content_type: DAM生音
-  - song_name: 風の町哀詩
-    song_alias:
     esong_code: 1035A34
     t_singer_master_id: '16128'
     singer_name: 黒川 真一朗
@@ -160,6 +109,23 @@ result:
     - esong_code: 1035A34
       song_name: 風の町哀詩
       content_type: JOY生演奏
+  - song_name: 風の町哀詩
+    song_alias:
+    esong_code: 1032A48
+    t_singer_master_id: '16128'
+    singer_name: 黒川 真一朗
+    singer_alias:
+    available_date: '2018-03-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: かせのまちえれし
+    singer_name_ruby: くろかわしんいちろう
+    song_variation:
+    - esong_code: 1032A48
+      song_name: 風の町哀詩
+      content_type: DAM生音
   - song_name: かぞくのうた
     song_alias:
     esong_code: 3967A40
@@ -202,7 +168,7 @@ result:
     singer_alias:
     available_date: '2018-03-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: "『銀魂』銀ノ魂篇<番組名>"
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type: DAM生音
     song_name_ruby: かつてにまいそうる
@@ -517,3 +483,37 @@ result:
     - esong_code: 3960A30
       song_name: 花柳彩々
       content_type: ''
+  - song_name: 河内のからくち
+    song_alias:
+    esong_code: 1035B21
+    t_singer_master_id: '70'
+    singer_name: 浅田 あつこ
+    singer_alias:
+    available_date: '2018-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: かわちのからくち
+    singer_name_ruby: あさたあつこ
+    song_variation:
+    - esong_code: 1035B21
+      song_name: 河内のからくち
+      content_type: JOY生演奏
+  - song_name: 河内のからくち
+    song_alias:
+    esong_code: 1036A36
+    t_singer_master_id: '70'
+    singer_name: 浅田 あつこ
+    singer_alias:
+    available_date: '2018-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かわちのからくち
+    singer_name_ruby: あさたあつこ
+    song_variation:
+    - esong_code: 1036A36
+      song_name: 河内のからくち
+      content_type: JOYﾎﾞｰｶﾙ

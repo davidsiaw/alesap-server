@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1734
-  all_max_cnt: 2776
-  all_country_cnt: 1734
+  max_cnt: 1730
+  all_max_cnt: 2772
+  all_country_cnt: 1730
   song:
-  - song_name: 機嫌なおしておくれよ
-    song_alias:
-    esong_code: 3122A48
-    t_singer_master_id: '48952'
-    singer_name: 奇妙 礼太郎
-    singer_alias:
-    available_date: '2013-10-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きけんなおしておく
-    singer_name_ruby: きみようれいたろう
-    song_variation:
-    - esong_code: 3122A48
-      song_name: 機嫌なおしておくれよ
-      content_type: ''
   - song_name: 如月
     song_alias:
     esong_code: 3120B11
@@ -298,23 +281,6 @@ result:
       content_type: ''
   - song_name: 北の浜唄
     song_alias:
-    esong_code: 3105A45
-    t_singer_master_id: '2183'
-    singer_name: 真木 柚布子(由布子)
-    singer_alias:
-    available_date: '2013-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: きたのはまうた
-    singer_name_ruby: まきゆうこ
-    song_variation:
-    - esong_code: 3105A45
-      song_name: 北の浜唄
-      content_type: DAM生音
-  - song_name: 北の浜唄
-    song_alias:
     esong_code: 2562A48
     t_singer_master_id: '2183'
     singer_name: 真木 柚布子(由布子)
@@ -330,6 +296,23 @@ result:
     - esong_code: 2562A48
       song_name: 北の浜唄
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 北の浜唄
+    song_alias:
+    esong_code: 3105A45
+    t_singer_master_id: '2183'
+    singer_name: 真木 柚布子(由布子)
+    singer_alias:
+    available_date: '2013-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: きたのはまうた
+    singer_name_ruby: まきゆうこ
+    song_variation:
+    - esong_code: 3105A45
+      song_name: 北の浜唄
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 北の港で
     song_alias:
     esong_code: 3130A5
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3129A34
       song_name: 君が誰かの彼女になりくさっても
+      content_type: ''
+  - song_name: きみこそみんなのアイドルだ!
+    song_alias:
+    esong_code: 201A35
+    t_singer_master_id: '22054'
+    singer_name: こおろぎ'73&杉並児童合唱団
+    singer_alias:
+    available_date: '2013-10-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ドカベン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみこそみんなのあい
+    singer_name_ruby: こおろきななしゆうさんすきなみしとう
+    song_variation:
+    - esong_code: 201A35
+      song_name: きみこそみんなのアイドルだ!
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: さよならと君、ハローと僕
-    song_alias:
-    esong_code: 2410A11
-    t_singer_master_id: '16857'
-    singer_name: 安藤 裕子
-    singer_alias:
-    available_date: '2009-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならときみはろ
-    singer_name_ruby: あんとうゆうこ
-    song_variation:
-    - esong_code: 2410A11
-      song_name: さよならと君、ハローと僕
-      content_type: ''
   - song_name: さよならベイベー
     song_alias:
     esong_code: 2406B45
@@ -262,23 +245,6 @@ result:
     - esong_code: 2415A43
       song_name: 潮騒
       content_type: ''
-  - song_name: 時間の砂
-    song_alias:
-    esong_code: 2409B36
-    t_singer_master_id: '116'
-    singer_name: あみん
-    singer_alias:
-    available_date: '2009-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しかんのすな
-    singer_name_ruby: あみん
-    song_variation:
-    - esong_code: 2409B36
-      song_name: 時間の砂
-      content_type: ''
   - song_name: 四季
     song_alias:
     esong_code: 2412A38
@@ -485,23 +451,6 @@ result:
       content_type: ''
   - song_name: 島椿
     song_alias:
-    esong_code: 2402A3
-    t_singer_master_id: '25843'
-    singer_name: 桜井 くみ子
-    singer_alias:
-    available_date: '2009-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しまつはき
-    singer_name_ruby: さくらいくみこ
-    song_variation:
-    - esong_code: 2402A3
-      song_name: 島椿
-      content_type: ''
-  - song_name: 島椿
-    song_alias:
     esong_code: 2407B16
     t_singer_master_id: '25843'
     singer_name: 桜井 くみ子
@@ -517,3 +466,54 @@ result:
     - esong_code: 2407B16
       song_name: 島椿
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 島椿
+    song_alias:
+    esong_code: 2402A3
+    t_singer_master_id: '25843'
+    singer_name: 桜井 くみ子
+    singer_alias:
+    available_date: '2009-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しまつはき
+    singer_name_ruby: さくらいくみこ
+    song_variation:
+    - esong_code: 2402A3
+      song_name: 島椿
+      content_type: ''
+  - song_name: 島の願い feat.Metis
+    song_alias:
+    esong_code: 2405A44
+    t_singer_master_id: '34332'
+    singer_name: PENGIN
+    singer_alias:
+    available_date: '2009-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しまのねかい
+    singer_name_ruby: へんきん
+    song_variation:
+    - esong_code: 2405A44
+      song_name: 島の願い feat.Metis
+      content_type: ''
+  - song_name: じゃあ またね
+    song_alias:
+    esong_code: 2405B13
+    t_singer_master_id: '12428'
+    singer_name: AsR
+    singer_alias:
+    available_date: '2009-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやあまたね
+    singer_name_ruby: ええすある
+    song_variation:
+    - esong_code: 2405B13
+      song_name: じゃあ またね
+      content_type: ''

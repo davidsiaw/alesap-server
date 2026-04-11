@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 977
-  all_max_cnt: 1128
-  all_country_cnt: 977
+  max_cnt: 964
+  all_max_cnt: 1115
+  all_country_cnt: 964
   song:
-  - song_name: AM
-    song_alias:
-    esong_code: 4239A23
-    t_singer_master_id: '54510'
-    singer_name: majiko(まじ娘)
-    singer_alias:
-    available_date: '2019-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ええむ
-    singer_name_ruby: ましこ
-    song_variation:
-    - esong_code: 4239A23
-      song_name: AM
-      content_type: ''
   - song_name: えがお・シング・あ・ソング
     song_alias:
     esong_code: 4240A14
@@ -32,7 +15,7 @@ result:
     singer_alias:
     available_date: '2019-08-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: BanG Dream!(TV版)<番組名>
+    tie_up: BanG Dream!(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えかおしんくあそ
@@ -40,23 +23,6 @@ result:
     song_variation:
     - esong_code: 4240A14
       song_name: えがお・シング・あ・ソング
-      content_type: ''
-  - song_name: 驛
-    song_alias:
-    esong_code: 4231A46
-    t_singer_master_id: '10253'
-    singer_name: チェウニ
-    singer_alias:
-    available_date: '2019-08-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えき
-    singer_name_ruby: ちえうに
-    song_variation:
-    - esong_code: 4231A46
-      song_name: 驛
       content_type: ''
   - song_name: 驛
     song_alias:
@@ -75,6 +41,23 @@ result:
     - esong_code: 4240A7
       song_name: 驛
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 驛
+    song_alias:
+    esong_code: 4231A46
+    t_singer_master_id: '10253'
+    singer_name: チェウニ
+    singer_alias:
+    available_date: '2019-08-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えき
+    singer_name_ruby: ちえうに
+    song_variation:
+    - esong_code: 4231A46
+      song_name: 驛
+      content_type: ''
   - song_name: 驛
     song_alias:
     esong_code: 4234A36
@@ -193,23 +176,6 @@ result:
     song_variation:
     - esong_code: 4232A2
       song_name: Eh Yo
-      content_type: ''
-  - song_name: ERROR
-    song_alias:
-    esong_code: 4232B22
-    t_singer_master_id: '57165'
-    singer_name: 内田 雄馬
-    singer_alias:
-    available_date: '2019-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えら
-    singer_name_ruby: うちたゆうま
-    song_variation:
-    - esong_code: 4232B22
-      song_name: ERROR
       content_type: ''
   - song_name: えらぶゆりの島空港
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 3937B38
       song_name: 小樽のひとよ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: お父サンタ
+    song_alias:
+    esong_code: 4229B5
+    t_singer_master_id: '64537'
+    singer_name: カルxピン
+    singer_alias:
+    available_date: '2019-08-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとうさんた
+    singer_name_ruby: かるひん
+    song_variation:
+    - esong_code: 4229B5
+      song_name: お父サンタ
+      content_type: ''
+  - song_name: おとめ桜
+    song_alias:
+    esong_code: 4231A39
+    t_singer_master_id: '57628'
+    singer_name: SALTIE
+    singer_alias:
+    available_date: '2019-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとめさくら
+    singer_name_ruby: そるてい
+    song_variation:
+    - esong_code: 4231A39
+      song_name: おとめ桜
+      content_type: ''

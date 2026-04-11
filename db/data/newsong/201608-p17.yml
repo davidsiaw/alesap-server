@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1365
-  all_max_cnt: 1538
-  all_country_cnt: 1365
+  max_cnt: 1361
+  all_max_cnt: 1534
+  all_country_cnt: 1361
   song:
-  - song_name: GOLDRUSH feat.Jinmenusagi,ハシシ
-    song_alias:
-    esong_code: 3670B1
-    t_singer_master_id: '51595'
-    singer_name: FAKE TYPE.
-    singer_alias:
-    available_date: '2016-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こるとらつしゆ
-    singer_name_ruby: ふえいくたいふ
-    song_variation:
-    - esong_code: 3670B1
-      song_name: GOLDRUSH feat.Jinmenusagi,ハシシ
-      content_type: ''
   - song_name: 五郎太鼓
     song_alias:
     esong_code: 3678A16
@@ -41,23 +24,6 @@ result:
     - esong_code: 3678A16
       song_name: 五郎太鼓
       content_type: ''
-  - song_name: コロ ボンダ [DAM本人歌唱]
-    song_alias:
-    esong_code: 3668B7
-    t_singer_master_id: '45239'
-    singer_name: B1A4
-    singer_alias:
-    available_date: '2016-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: ころほんた
-    singer_name_ruby: ひわんえふお
-    song_variation:
-    - esong_code: 3668B7
-      song_name: コロ ボンダ [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: コント
     song_alias:
     esong_code: 3671B24
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3662A11
       song_name: 運命-SADAME-
+      content_type: ''
+  - song_name: サチオ君
+    song_alias:
+    esong_code: 3675A46
+    t_singer_master_id: '189'
+    singer_name: いしだ あゆみ
+    singer_alias:
+    available_date: '2016-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さちおくん
+    singer_name_ruby: いしたあゆみ
+    song_variation:
+    - esong_code: 3675A46
+      song_name: サチオ君
+      content_type: ''
+  - song_name: さっさか大阪
+    song_alias:
+    esong_code: 3667A35
+    t_singer_master_id: '56757'
+    singer_name: 大阪放送児童合唱団
+    singer_alias:
+    available_date: '2016-08-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さつさかおおさか
+    singer_name_ruby: おおさかほうそうしとうかつしようた
+    song_variation:
+    - esong_code: 3667A35
+      song_name: さっさか大阪
       content_type: ''

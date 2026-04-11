@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
+  - song_name: 竜飛岬
+    song_alias:
+    esong_code: 2201A12
+    t_singer_master_id: '1035'
+    singer_name: 島倉 千代子
+    singer_alias:
+    available_date: '2009-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たつひみさき
+    singer_name_ruby: しまくらちよこ
+    song_variation:
+    - esong_code: 2201A12
+      song_name: 竜飛岬
+      content_type: ''
   - song_name: タテガミオーケストラ
     song_alias:
     esong_code: 2196A22
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2198A39
       song_name: てぃるぱにDISCO
-      content_type: ''
-  - song_name: 鉄路にさよならを 〜くりはら田園鉄道〜
-    song_alias:
-    esong_code: 2200B9
-    t_singer_master_id: '10538'
-    singer_name: SUPER BELL"Z
-    singer_alias:
-    available_date: '2009-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てつろにさよならを
-    singer_name_ruby: すはへるす
-    song_variation:
-    - esong_code: 2200B9
-      song_name: 鉄路にさよならを 〜くりはら田園鉄道〜
       content_type: ''

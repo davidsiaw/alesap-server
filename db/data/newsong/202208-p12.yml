@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1255
-  all_country_cnt: 1064
+  max_cnt: 1057
+  all_max_cnt: 1248
+  all_country_cnt: 1057
   song:
-  - song_name: GOLD TOKIO
-    song_alias:
-    esong_code: 4670A23
-    t_singer_master_id: '63529'
-    singer_name: あらき(ARAKI)
-    singer_alias:
-    available_date: '2022-08-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こるとときお
-    singer_name_ruby: あらき
-    song_variation:
-    - esong_code: 4670A23
-      song_name: GOLD TOKIO
-      content_type: ''
-  - song_name: コレカラ
-    song_alias:
-    esong_code: 4675A49
-    t_singer_master_id: '70197'
-    singer_name: Coeur a Coeur
-    singer_alias:
-    available_date: '2022-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: デュエル・マスターズ WIN<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: これから
-    singer_name_ruby: くらく
-    song_variation:
-    - esong_code: 4675A49
-      song_name: コレカラ
-      content_type: ''
   - song_name: コンタクトケース
     song_alias:
     esong_code: 4676B11
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4671B14
       song_name: さよならじゃなくて feat.A夏目&4na
+      content_type: ''
+  - song_name: さよなら だんだん また明日
+    song_alias:
+    esong_code: 4542A43
+    t_singer_master_id: '70166'
+    singer_name: 京太郎&早苗
+    singer_alias:
+    available_date: '2022-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよならたんたん
+    singer_name_ruby: きようたろうあんとさなえ
+    song_variation:
+    - esong_code: 4542A43
+      song_name: さよなら だんだん また明日
+      content_type: ''
+  - song_name: さよならロックスター
+    song_alias:
+    esong_code: 4667A46
+    t_singer_master_id: '66071'
+    singer_name: ザ・リーサルウェポンズ
+    singer_alias:
+    available_date: '2022-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよならろつくすた
+    singer_name_ruby: さりさるうえほんす
+    song_variation:
+    - esong_code: 4667A46
+      song_name: さよならロックスター
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
   - song_name: あゝ富士宮
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 3803B27
       song_name: あゝ富士宮
       content_type: ''
-  - song_name: 逢い
-    song_alias:
-    esong_code: 3818B39
-    t_singer_master_id: '53346'
-    singer_name: M!LK
-    singer_alias:
-    available_date: '2017-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あい
-    singer_name_ruby: みるく
-    song_variation:
-    - esong_code: 3818B39
-      song_name: 逢い
-      content_type: ''
   - song_name: アイ
     song_alias:
     esong_code: 3817B48
@@ -57,6 +40,23 @@ result:
     song_variation:
     - esong_code: 3817B48
       song_name: アイ
+      content_type: ''
+  - song_name: 逢い
+    song_alias:
+    esong_code: 3818B39
+    t_singer_master_id: '53346'
+    singer_name: M!LK
+    singer_alias:
+    available_date: '2017-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あい
+    singer_name_ruby: みるく
+    song_variation:
+    - esong_code: 3818B39
+      song_name: 逢い
       content_type: ''
   - song_name: 哀色の街
     song_alias:

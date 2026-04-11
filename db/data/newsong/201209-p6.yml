@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1398
-  all_max_cnt: 1888
-  all_country_cnt: 1398
+  max_cnt: 1393
+  all_max_cnt: 1884
+  all_country_cnt: 1393
   song:
-  - song_name: HMVヒットメドレー 〜2012年7月ランキング〜
-    song_alias:
-    esong_code: 2856A21
-    t_singer_master_id: '12695'
-    singer_name: HMVメドレー
-    singer_alias:
-    available_date: '2012-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えいちえむふ1207
-    singer_name_ruby: えいちえむふいめと
-    song_variation:
-    - esong_code: 2856A21
-      song_name: HMVヒットメドレー 〜2012年7月ランキング〜
-      content_type: ''
   - song_name: 笑顔
     song_alias:
     esong_code: 2878A14
@@ -227,23 +210,6 @@ result:
     song_variation:
     - esong_code: 2854A1
       song_name: "*Epilogue* 〜Love Place〜"
-      content_type: ''
-  - song_name: Everynight
-    song_alias:
-    esong_code: 2847A2
-    t_singer_master_id: '181'
-    singer_name: 石川 秀美
-    singer_alias:
-    available_date: '2012-09-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えふりいないと
-    singer_name_ruby: いしかわひてみ
-    song_variation:
-    - esong_code: 2847A2
-      song_name: Everynight
       content_type: ''
   - song_name: Everything I Wish
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 2879A3
       song_name: 奥入瀬恋歌
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: お祝いマンボ
+    song_alias:
+    esong_code: 2850B23
+    t_singer_master_id: '37185'
+    singer_name: 桂川 さくら
+    singer_alias:
+    available_date: '2012-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おいわいまんほ
+    singer_name_ruby: かつらかわさくら
+    song_variation:
+    - esong_code: 2850B23
+      song_name: お祝いマンボ
+      content_type: ''
+  - song_name: 王様ゲーム
+    song_alias:
+    esong_code: 2888B8
+    t_singer_master_id: '33226'
+    singer_name: C&K
+    singer_alias:
+    available_date: '2012-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おうさまけむ
+    singer_name_ruby: しあんとけ
+    song_variation:
+    - esong_code: 2888B8
+      song_name: 王様ゲーム
+      content_type: ''

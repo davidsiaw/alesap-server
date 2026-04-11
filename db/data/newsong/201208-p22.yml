@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: 止り木暮らし
-    song_alias:
-    esong_code: 2834B45
-    t_singer_master_id: '1673'
-    singer_name: 長保 有紀
-    singer_alias:
-    available_date: '2012-08-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: とまりきくらし
-    singer_name_ruby: なかほゆき
-    song_variation:
-    - esong_code: 2834B45
-      song_name: 止り木暮らし
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 止り木暮らし
     song_alias:
     esong_code: 2831A45
@@ -43,7 +26,7 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 止り木暮らし
     song_alias:
-    esong_code: 2828B22
+    esong_code: 2834B45
     t_singer_master_id: '1673'
     singer_name: 長保 有紀
     singer_alias:
@@ -51,13 +34,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: とまりきくらし
     singer_name_ruby: なかほゆき
     song_variation:
-    - esong_code: 2828B22
+    - esong_code: 2834B45
       song_name: 止り木暮らし
-      content_type: ''
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: トライアル
     song_alias:
     esong_code: 2840A1
@@ -230,23 +213,6 @@ result:
       content_type: ''
   - song_name: ドレミファ音痴
     song_alias:
-    esong_code: 2833B27
-    t_singer_master_id: '45521'
-    singer_name: AKB48ネクストガールズ
-    singer_alias:
-    available_date: '2012-08-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: とれみふあおんち
-    singer_name_ruby: えけひふおていえいとねくすと
-    song_variation:
-    - esong_code: 2833B27
-      song_name: ドレミファ音痴
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: ドレミファ音痴
-    song_alias:
     esong_code: 2843B26
     t_singer_master_id: '25255'
     singer_name: AKB48
@@ -262,6 +228,23 @@ result:
     - esong_code: 2843B26
       song_name: ドレミファ音痴
       content_type: ''
+  - song_name: ドレミファ音痴
+    song_alias:
+    esong_code: 2833B27
+    t_singer_master_id: '45521'
+    singer_name: AKB48ネクストガールズ
+    singer_alias:
+    available_date: '2012-08-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: とれみふあおんち
+    singer_name_ruby: えけひふおていえいとねくすと
+    song_variation:
+    - esong_code: 2833B27
+      song_name: ドレミファ音痴
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: Don't shed any tears
     song_alias:
     esong_code: 2836B47
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2832A12
       song_name: 名古屋大好き
+      content_type: ''
+  - song_name: 名古屋のお嬢さん
+    song_alias:
+    esong_code: 2832A15
+    t_singer_master_id: '39089'
+    singer_name: 丹下 正明&フーミン
+    singer_alias:
+    available_date: '2012-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なこやのおしよう
+    singer_name_ruby: たんけまさあきふみん
+    song_variation:
+    - esong_code: 2832A15
+      song_name: 名古屋のお嬢さん
       content_type: ''

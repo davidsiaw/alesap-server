@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 958
-  all_max_cnt: 1067
-  all_country_cnt: 958
+  max_cnt: 953
+  all_max_cnt: 1062
+  all_country_cnt: 953
   song:
-  - song_name: 世界筆おろし
-    song_alias:
-    esong_code: 2360B11
-    t_singer_master_id: '33118'
-    singer_name: ザ・茶番
-    singer_alias:
-    available_date: '2009-07-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せかいふておろし
-    singer_name_ruby: さちやはん
-    song_variation:
-    - esong_code: 2360B11
-      song_name: 世界筆おろし
-      content_type: ''
-  - song_name: Second Chance
-    song_alias:
-    esong_code: 2355B22
-    t_singer_master_id: '1462'
-    singer_name: TUBE
-    singer_alias:
-    available_date: '2009-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せかんとちやんす
-    singer_name_ruby: ちゆふ
-    song_variation:
-    - esong_code: 2355B22
-      song_name: Second Chance
-      content_type: ''
-  - song_name: 世間川
-    song_alias:
-    esong_code: 2359A25
-    t_singer_master_id: '551'
-    singer_name: 金田 たつえ
-    singer_alias:
-    available_date: '2009-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せけんかわ
-    singer_name_ruby: かねたたつえ
-    song_variation:
-    - esong_code: 2359A25
-      song_name: 世間川
-      content_type: ''
   - song_name: せつなさのグラデイション
     song_alias:
     esong_code: 2366A13
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2360B14
       song_name: DiAmond Dust
+      content_type: ''
+  - song_name: 高山の女
+    song_alias:
+    esong_code: 2359A19
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2009-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たかやまのひと
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 2359A19
+      song_name: 高山の女
+      content_type: ''
+  - song_name: 抱きしめて
+    song_alias:
+    esong_code: 2346B22
+    t_singer_master_id: '946'
+    singer_name: さだ まさし
+    singer_alias:
+    available_date: '2009-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たきしめて
+    singer_name_ruby: さたまさし
+    song_variation:
+    - esong_code: 2346B22
+      song_name: 抱きしめて
+      content_type: ''
+  - song_name: 黄昏サマーデイズ
+    song_alias:
+    esong_code: 2368A28
+    t_singer_master_id: '15296'
+    singer_name: FLOW
+    singer_alias:
+    available_date: '2009-07-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たそかれさまて
+    singer_name_ruby: ふろう
+    song_variation:
+    - esong_code: 2368A28
+      song_name: 黄昏サマーデイズ
       content_type: ''

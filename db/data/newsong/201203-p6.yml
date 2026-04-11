@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1318
-  all_max_cnt: 1435
-  all_country_cnt: 1318
+  max_cnt: 1313
+  all_max_cnt: 1430
+  all_country_cnt: 1313
   song:
-  - song_name: Endless Song
-    song_alias:
-    esong_code: 2773B35
-    t_singer_master_id: '35403'
-    singer_name: DaizyStripper
-    singer_alias:
-    available_date: '2012-03-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんとれすそんく
-    singer_name_ruby: ていしすとりつは
-    song_variation:
-    - esong_code: 2773B35
-      song_name: Endless Song
-      content_type: ''
   - song_name: Endless Road
     song_alias:
     esong_code: 2779A21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2368B12
       song_name: お前はこころ花
+      content_type: ''
+  - song_name: おまえは泣くな
+    song_alias:
+    esong_code: 2580A12
+    t_singer_master_id: '17780'
+    singer_name: 坂井 一郎
+    singer_alias:
+    available_date: '2012-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おまえはなくな
+    singer_name_ruby: さかいいちろう
+    song_variation:
+    - esong_code: 2580A12
+      song_name: おまえは泣くな
       content_type: ''

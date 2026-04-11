@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: 恋文
+    song_alias:
+    esong_code: 3149B32
+    t_singer_master_id: '2770'
+    singer_name: Chara
+    singer_alias:
+    available_date: '2013-12-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいふみ
+    singer_name_ruby: ちやら
+    song_variation:
+    - esong_code: 3149B32
+      song_name: 恋文
+      content_type: ''
   - song_name: 恋も喧嘩も華と咲け
     song_alias:
     esong_code: 3154A46
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3155B6
       song_name: 5/5
-      content_type: ''
-  - song_name: Go Baby!
-    song_alias:
-    esong_code: 3159B35
-    t_singer_master_id: '49519'
-    singer_name: NEKO PUNCH
-    singer_alias:
-    available_date: '2013-12-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こへいひ
-    singer_name_ruby: ねこはんち
-    song_variation:
-    - esong_code: 3159B35
-      song_name: Go Baby!
       content_type: ''

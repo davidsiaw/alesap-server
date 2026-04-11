@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: Genius
-    song_alias:
-    esong_code: 3583A19
-    t_singer_master_id: '16177'
-    singer_name: 木内 秀信
-    singer_alias:
-    available_date: '2016-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 新テニスの王子様<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しにあす
-    singer_name_ruby: きうちひてのふ
-    song_variation:
-    - esong_code: 3583A19
-      song_name: Genius
-      content_type: ''
   - song_name: SINOSIJAK
     song_alias:
     esong_code: 3586B32
@@ -41,23 +24,6 @@ result:
     - esong_code: 3586B32
       song_name: SINOSIJAK
       content_type: ''
-  - song_name: 忍び逢い
-    song_alias:
-    esong_code: 3425B3
-    t_singer_master_id: '11757'
-    singer_name: 竹島 宏
-    singer_alias:
-    available_date: '2016-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しのひあい
-    singer_name_ruby: たけしまひろし
-    song_variation:
-    - esong_code: 3425B3
-      song_name: 忍び逢い
-      content_type: ''
   - song_name: しのび哀
     song_alias:
     esong_code: 2100B36
@@ -74,6 +40,23 @@ result:
     song_variation:
     - esong_code: 2100B36
       song_name: しのび哀
+      content_type: ''
+  - song_name: 忍び逢い
+    song_alias:
+    esong_code: 3425B3
+    t_singer_master_id: '11757'
+    singer_name: 竹島 宏
+    singer_alias:
+    available_date: '2016-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しのひあい
+    singer_name_ruby: たけしまひろし
+    song_variation:
+    - esong_code: 3425B3
+      song_name: 忍び逢い
       content_type: ''
   - song_name: しのぶ坂
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3590A36
       song_name: 庶幾の唄
+      content_type: ''
+  - song_name: 女子達
+    song_alias:
+    esong_code: 3581A38
+    t_singer_master_id: '55139'
+    singer_name: NakamuraEmi
+    singer_alias:
+    available_date: '2016-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しよしたち
+    singer_name_ruby: なかむらえみ
+    song_variation:
+    - esong_code: 3581A38
+      song_name: 女子達
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
   - song_name: わたしの青空
     song_alias:
@@ -15,7 +15,7 @@ result:
     singer_alias:
     available_date: '2012-01-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 〜桜華絢爛〜<番組名>
+    tie_up: サクラ大戦 (TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: わたしのあおそら
@@ -23,6 +23,23 @@ result:
     song_variation:
     - esong_code: 614A10
       song_name: わたしの青空
+      content_type: ''
+  - song_name: 私のキ・モ・チ
+    song_alias:
+    esong_code: 2714B11
+    t_singer_master_id: '21868'
+    singer_name: 井上 麻里奈
+    singer_alias:
+    available_date: '2012-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 僕は友達が少ない<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: わたしのきもち
+    singer_name_ruby: いのうえまりな
+    song_variation:
+    - esong_code: 2714B11
+      song_name: 私のキ・モ・チ
       content_type: ''
   - song_name: 私もあなたと泣いていい?
     song_alias:

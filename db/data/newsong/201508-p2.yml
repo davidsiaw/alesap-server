@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
   - song_name: at good mountain
     song_alias:
@@ -400,23 +400,6 @@ result:
       content_type: ''
   - song_name: 雨の花
     song_alias:
-    esong_code: 3482A34
-    t_singer_master_id: '5041'
-    singer_name: 上杉 香緒里
-    singer_alias:
-    available_date: '2015-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あめのはな
-    singer_name_ruby: うえすきかおり
-    song_variation:
-    - esong_code: 3482A34
-      song_name: 雨の花
-      content_type: DAM生音
-  - song_name: 雨の花
-    song_alias:
     esong_code: 793A29
     t_singer_master_id: '5041'
     singer_name: 上杉 香緒里
@@ -432,6 +415,23 @@ result:
     - esong_code: 793A29
       song_name: 雨の花
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 雨の花
+    song_alias:
+    esong_code: 3482A34
+    t_singer_master_id: '5041'
+    singer_name: 上杉 香緒里
+    singer_alias:
+    available_date: '2015-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あめのはな
+    singer_name_ruby: うえすきかおり
+    song_variation:
+    - esong_code: 3482A34
+      song_name: 雨の花
+      content_type: DAM生音
   - song_name: 雨の和歌山
     song_alias:
     esong_code: 3477B22

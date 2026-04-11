@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1336
-  all_max_cnt: 1579
-  all_country_cnt: 1336
+  max_cnt: 1327
+  all_max_cnt: 1570
+  all_country_cnt: 1327
   song:
-  - song_name: 北の螢
-    song_alias:
-    esong_code: 3739B27
-    t_singer_master_id: '44184'
-    singer_name: 岩佐 美咲(AKB48)
-    singer_alias:
-    available_date: '2016-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたのほたる
-    singer_name_ruby: いわさみさき
-    song_variation:
-    - esong_code: 3739B27
-      song_name: 北の螢
-      content_type: ''
   - song_name: 木造の田植唄
     song_alias:
     esong_code: 3726A11
@@ -176,23 +159,6 @@ result:
     song_variation:
     - esong_code: 3741A43
       song_name: 君が待つあの丘へ
-      content_type: ''
-  - song_name: キミだけのボクでいるから (TV Size)
-    song_alias:
-    esong_code: 3732B42
-    t_singer_master_id: '10038'
-    singer_name: GACKT(Gackt)
-    singer_alias:
-    available_date: '2016-12-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: TRICKSTER -江戸川乱歩「少年探偵団」より-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみたけのほくて
-    singer_name_ruby: かくと
-    song_variation:
-    - esong_code: 3732B42
-      song_name: キミだけのボクでいるから (TV Size)
       content_type: ''
   - song_name: 君と夏と南の島
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3728B38
       song_name: ギラギラブベイベー
+      content_type: ''
+  - song_name: "☆Make Your Stage"
+    song_alias:
+    esong_code: 3731A25
+    t_singer_master_id: '43003'
+    singer_name: 谷山 紀章&柿原 徹也
+    singer_alias:
+    available_date: '2016-12-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ボーイフレンド(仮)きらめき☆ノート<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きらめいくゆあすて
+    singer_name_ruby: たにやまきしようかきはらてつ
+    song_variation:
+    - esong_code: 3731A25
+      song_name: "☆Make Your Stage"
+      content_type: ''
+  - song_name: キラメキふたつ星
+    song_alias:
+    esong_code: 3741B13
+    t_singer_master_id: '55433'
+    singer_name: 高橋 李依&堀江 由衣
+    singer_alias:
+    available_date: '2016-12-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 魔法つかいプリキュア!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きらめきふたつほし
+    singer_name_ruby: たかはしりえほりえゆい
+    song_variation:
+    - esong_code: 3741B13
+      song_name: キラメキふたつ星
       content_type: ''

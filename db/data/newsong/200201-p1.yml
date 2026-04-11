@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 347
-  all_max_cnt: 375
-  all_country_cnt: 347
+  max_cnt: 343
+  all_max_cnt: 371
+  all_country_cnt: 343
   song:
-  - song_name: ARCADIA
-    song_alias:
-    esong_code: 733A35
-    t_singer_master_id: '1265'
-    singer_name: 聖飢魔Ⅱ
-    singer_alias:
-    available_date: '2002-01-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるかていあ
-    singer_name_ruby: せいきまつ
-    song_variation:
-    - esong_code: 733A35
-      song_name: ARCADIA
-      content_type: ''
-  - song_name: アールグレイ
-    song_alias:
-    esong_code: 730B26
-    t_singer_master_id: '8701'
-    singer_name: 八反 安未果
-    singer_alias:
-    available_date: '2002-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるくれい
-    singer_name_ruby: はつたんあみか
-    song_variation:
-    - esong_code: 730B26
-      song_name: アールグレイ
-      content_type: ''
-  - song_name: UNDER THE SKY
-    song_alias:
-    esong_code: 748A30
-    t_singer_master_id: '6909'
-    singer_name: SOPHIA
-    singer_alias:
-    available_date: '2002-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんたさすかい
-    singer_name_ruby: そふいあ
-    song_variation:
-    - esong_code: 748A30
-      song_name: UNDER THE SKY
-      content_type: ''
   - song_name: あんたの気持ちのままで
     song_alias:
     esong_code: 748A37
@@ -100,7 +49,7 @@ result:
     singer_alias:
     available_date: '2002-01-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: スレイヤーズTRY<番組名>
+    tie_up: スレイヤーズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いくしつとらんに
@@ -244,23 +193,6 @@ result:
     song_variation:
     - esong_code: 751B25
       song_name: WIND IS HIGH
-      content_type: ''
-  - song_name: Wake up〜Goodbye 20th century boy
-    song_alias:
-    esong_code: 749A26
-    t_singer_master_id: '136'
-    singer_name: アルフィー(THE ALFEE)
-    singer_alias:
-    available_date: '2002-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえいくあつふく
-    singer_name_ruby: あるふい
-    song_variation:
-    - esong_code: 749A26
-      song_name: Wake up〜Goodbye 20th century boy
       content_type: ''
   - song_name: Walk on the Edge〜石田ヤマトのテーマ〜
     song_alias:
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 753B27
       song_name: おさい銭
+      content_type: ''
+  - song_name: オシャレ!
+    song_alias:
+    esong_code: 732A21
+    t_singer_master_id: '12458'
+    singer_name: 松浦 亜弥
+    singer_alias:
+    available_date: '2002-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おしやれ
+    singer_name_ruby: まつうらあや
+    song_variation:
+    - esong_code: 732A21
+      song_name: オシャレ!
+      content_type: ''
+  - song_name: 男侠(おとこぎ)
+    song_alias:
+    esong_code: 731B21
+    t_singer_master_id: '920'
+    singer_name: 坂本 冬美
+    singer_alias:
+    available_date: '2002-01-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこき
+    singer_name_ruby: さかもとふゆみ
+    song_variation:
+    - esong_code: 731B21
+      song_name: 男侠(おとこぎ)
+      content_type: ''
+  - song_name: オーナーは最高
+    song_alias:
+    esong_code: 748A21
+    t_singer_master_id: '4340'
+    singer_name: 奥田 民生
+    singer_alias:
+    available_date: '2002-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おなはさいこう
+    singer_name_ruby: おくたたみお
+    song_variation:
+    - esong_code: 748A21
+      song_name: オーナーは最高
+      content_type: ''
+  - song_name: OPEN MIND
+    song_alias:
+    esong_code: 749A38
+    t_singer_master_id: '13401'
+    singer_name: 泉 光子郎
+    singer_alias:
+    available_date: '2002-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: デジモンアドベンチャー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おふんまいんと
+    singer_name_ruby: いすみこうしろう
+    song_variation:
+    - esong_code: 749A38
+      song_name: OPEN MIND
       content_type: ''

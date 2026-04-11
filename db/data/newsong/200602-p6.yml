@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 902
-  all_max_cnt: 1197
-  all_country_cnt: 902
+  max_cnt: 897
+  all_max_cnt: 1191
+  all_country_cnt: 897
   song:
   - song_name: KAMEN feat.石井竜也
     song_alias:
@@ -245,23 +245,6 @@ result:
     - esong_code: 1462B18
       song_name: 機神咆吼ッ!デモンベイン! (機神咆吼Vocal version)
       content_type: ''
-  - song_name: KISS
-    song_alias:
-    esong_code: 1448B32
-    t_singer_master_id: '17444'
-    singer_name: 北出 菜奈
-    singer_alias:
-    available_date: '2006-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きす
-    singer_name_ruby: きたてなな
-    song_variation:
-    - esong_code: 1448B32
-      song_name: KISS
-      content_type: ''
   - song_name: キス
     song_alias:
     esong_code: 1455A1
@@ -278,6 +261,23 @@ result:
     song_variation:
     - esong_code: 1455A1
       song_name: キス
+      content_type: ''
+  - song_name: KISS
+    song_alias:
+    esong_code: 1448B32
+    t_singer_master_id: '17444'
+    singer_name: 北出 菜奈
+    singer_alias:
+    available_date: '2006-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きす
+    singer_name_ruby: きたてなな
+    song_variation:
+    - esong_code: 1448B32
+      song_name: KISS
       content_type: ''
   - song_name: 奇蹟
     song_alias:

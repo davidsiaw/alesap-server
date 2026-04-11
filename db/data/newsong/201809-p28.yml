@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
-  - song_name: ねぇ愛してみて
-    song_alias:
-    esong_code: 4062A26
-    t_singer_master_id: '55607'
-    singer_name: わーすた
-    singer_alias:
-    available_date: '2018-09-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ねえあいしてみて
-    singer_name_ruby: わすた
-    song_variation:
-    - esong_code: 4062A26
-      song_name: ねぇ愛してみて
-      content_type: ''
-  - song_name: 猫の食卓
-    song_alias:
-    esong_code: 4059B43
-    t_singer_master_id: '42082'
-    singer_name: きくお
-    singer_alias:
-    available_date: '2018-09-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ねこのしよくたく
-    singer_name_ruby: きくお
-    song_variation:
-    - esong_code: 4059B43
-      song_name: 猫の食卓
-      content_type: VOCALOID
   - song_name: Never Ending Celebration
     song_alias:
     esong_code: 4064A35
@@ -49,7 +15,7 @@ result:
     singer_alias:
     available_date: '2018-09-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真・三國無双8<番組名>
+    tie_up: 真・三國無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ねはえんていん
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4061A5
       song_name: 箱ティッシュサンバ
+      content_type: ''
+  - song_name: 箱庭鏡
+    song_alias:
+    esong_code: 4058A24
+    t_singer_master_id: '55476'
+    singer_name: After the Rain(そらる×まふまふ)
+    singer_alias:
+    available_date: '2018-09-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はこにわきよう
+    singer_name_ruby: あふたされいん
+    song_variation:
+    - esong_code: 4058A24
+      song_name: 箱庭鏡
+      content_type: ''
+  - song_name: 走って
+    song_alias:
+    esong_code: 4060A39
+    t_singer_master_id: '49591'
+    singer_name: ラックライフ
+    singer_alias:
+    available_date: '2018-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はしつて
+    singer_name_ruby: らつくらいふ
+    song_variation:
+    - esong_code: 4060A39
+      song_name: 走って
       content_type: ''

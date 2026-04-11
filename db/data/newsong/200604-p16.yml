@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: Startin'
-    song_alias:
-    esong_code: 1478B10
-    t_singer_master_id: '8492'
-    singer_name: 浜崎 あゆみ
-    singer_alias:
-    available_date: '2006-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 新鬼武者 -DAWN OF DREAMS-<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: すたていん
-    singer_name_ruby: はまさきあゆみ
-    song_variation:
-    - esong_code: 1478B10
-      song_name: Startin'
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: スタート
     song_alias:
     esong_code: 1488A33
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1482B10
       song_name: 零と宇宙
+      content_type: ''
+  - song_name: 千の花 千の空
+    song_alias:
+    esong_code: 1491A11
+    t_singer_master_id: '25835'
+    singer_name: 清田 まなみ
+    singer_alias:
+    available_date: '2006-04-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: せんのはなせんのそら
+    singer_name_ruby: きよたまなみ
+    song_variation:
+    - esong_code: 1491A11
+      song_name: 千の花 千の空
       content_type: ''

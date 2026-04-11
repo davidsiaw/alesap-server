@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1336
-  all_max_cnt: 1579
-  all_country_cnt: 1336
+  max_cnt: 1327
+  all_max_cnt: 1570
+  all_country_cnt: 1327
   song:
   - song_name: 天邪鬼の恋唄
     song_alias:
@@ -92,23 +92,6 @@ result:
     - esong_code: 3741A38
       song_name: ARRIVAL -KUROFUNE Sail Away-
       content_type: ''
-  - song_name: ALIVE!
-    song_alias:
-    esong_code: 3732B25
-    t_singer_master_id: '57264'
-    singer_name: BOYS AND MEN 研究生
-    singer_alias:
-    available_date: '2016-12-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あらいふ
-    singer_name_ruby: ほいすあんとめんけんきゆうせい
-    song_variation:
-    - esong_code: 3732B25
-      song_name: ALIVE!
-      content_type: ''
   - song_name: Alive
     song_alias:
     esong_code: 3741A8
@@ -125,6 +108,23 @@ result:
     song_variation:
     - esong_code: 3741A8
       song_name: Alive
+      content_type: ''
+  - song_name: ALIVE!
+    song_alias:
+    esong_code: 3732B25
+    t_singer_master_id: '57264'
+    singer_name: BOYS AND MEN 研究生
+    singer_alias:
+    available_date: '2016-12-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あらいふ
+    singer_name_ruby: ほいすあんとめんけんきゆうせい
+    song_variation:
+    - esong_code: 3732B25
+      song_name: ALIVE!
       content_type: ''
   - song_name: Around The World feat.CRAZYBOY,Fire Ball
     song_alias:

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 951
-  all_max_cnt: 1042
-  all_country_cnt: 951
+  max_cnt: 949
+  all_max_cnt: 1040
+  all_country_cnt: 949
   song:
-  - song_name: YUKIメドレー2
-    song_alias:
-    esong_code: 1952A19
-    t_singer_master_id: '7891'
-    singer_name: YUKI
-    singer_alias:
-    available_date: '2008-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆきめとれ2
-    singer_name_ruby: ゆき
-    song_variation:
-    - esong_code: 1952A19
-      song_name: YUKIメドレー2
-      content_type: ''
-  - song_name: ユーコ
-    song_alias:
-    esong_code: 1956A12
-    t_singer_master_id: '13423'
-    singer_name: ガガガSP
-    singer_alias:
-    available_date: '2008-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆこ
-    singer_name_ruby: かかかすへし
-    song_variation:
-    - esong_code: 1956A12
-      song_name: ユーコ
-      content_type: ''
   - song_name: ゆっくり行こう
     song_alias:
     esong_code: 1952A32
@@ -383,23 +349,6 @@ result:
       content_type: ''
   - song_name: Life
     song_alias:
-    esong_code: 1954B6
-    t_singer_master_id: '30344'
-    singer_name: Stephanie
-    singer_alias:
-    available_date: '2008-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らいふ
-    singer_name_ruby: すてふあに
-    song_variation:
-    - esong_code: 1954B6
-      song_name: Life
-      content_type: ''
-  - song_name: Life
-    song_alias:
     esong_code: 1948A5
     t_singer_master_id: '19230'
     singer_name: D-51
@@ -413,6 +362,23 @@ result:
     singer_name_ruby: ていこいち
     song_variation:
     - esong_code: 1948A5
+      song_name: Life
+      content_type: ''
+  - song_name: Life
+    song_alias:
+    esong_code: 1954B6
+    t_singer_master_id: '30344'
+    singer_name: Stephanie
+    singer_alias:
+    available_date: '2008-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいふ
+    singer_name_ruby: すてふあに
+    song_variation:
+    - esong_code: 1954B6
       song_name: Life
       content_type: ''
   - song_name: Life is once
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1957A33
       song_name: 楽園
+      content_type: ''
+  - song_name: ラジオ
+    song_alias:
+    esong_code: 1954B32
+    t_singer_master_id: '24881'
+    singer_name: 倉橋 ヨエコ
+    singer_alias:
+    available_date: '2008-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らしお
+    singer_name_ruby: くらはしよえこ
+    song_variation:
+    - esong_code: 1954B32
+      song_name: ラジオ
+      content_type: ''
+  - song_name: LAST SMILE (style GR)
+    song_alias:
+    esong_code: 1954B37
+    t_singer_master_id: '26951'
+    singer_name: GRANRODEO
+    singer_alias:
+    available_date: '2008-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 君が望む永遠 (TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らすとすまいる
+    singer_name_ruby: くらんろてお
+    song_variation:
+    - esong_code: 1954B37
+      song_name: LAST SMILE (style GR)
       content_type: ''

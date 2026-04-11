@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: ごめんねチコちゃん
+    song_alias:
+    esong_code: 825B29
+    t_singer_master_id: '2304'
+    singer_name: 三田 明
+    singer_alias:
+    available_date: '2002-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こめんねちこちやん
+    singer_name_ruby: みたあきら
+    song_variation:
+    - esong_code: 825B29
+      song_name: ごめんねチコちゃん
+      content_type: ''
   - song_name: Golden Rule〜君はまだ負けてない!〜
     song_alias:
     esong_code: 815B38
@@ -43,23 +60,6 @@ result:
       content_type: ''
   - song_name: 今夜はブギーバック/あの大きな心
     song_alias:
-    esong_code: 821B40
-    t_singer_master_id: '2704'
-    singer_name: 小沢 健二
-    singer_alias:
-    available_date: '2002-04-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやはふきは
-    singer_name_ruby: おさわけんし
-    song_variation:
-    - esong_code: 821B40
-      song_name: 今夜はブギーバック/あの大きな心
-      content_type: ''
-  - song_name: 今夜はブギーバック/あの大きな心
-    song_alias:
     esong_code: 102A43
     t_singer_master_id: '2704'
     singer_name: 小沢 健二
@@ -75,6 +75,23 @@ result:
     - esong_code: 102A43
       song_name: 今夜はブギーバック/あの大きな心
       content_type: DAM良音
+  - song_name: 今夜はブギーバック/あの大きな心
+    song_alias:
+    esong_code: 821B40
+    t_singer_master_id: '2704'
+    singer_name: 小沢 健二
+    singer_alias:
+    available_date: '2002-04-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こんやはふきは
+    singer_name_ruby: おさわけんし
+    song_variation:
+    - esong_code: 821B40
+      song_name: 今夜はブギーバック/あの大きな心
+      content_type: ''
   - song_name: Sigh
     song_alias:
     esong_code: 827A38
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 211B30
       song_name: 幸福つゞり
-      content_type: ''
-  - song_name: しあわせな き・ぶ・ん
-    song_alias:
-    esong_code: 827B21
-    t_singer_master_id: '13032'
-    singer_name: 大森 玲子
-    singer_alias:
-    available_date: '2002-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 魔法のステージファンシーララ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しあわせなきふん
-    singer_name_ruby: おおもりれいこ
-    song_variation:
-    - esong_code: 827B21
-      song_name: しあわせな き・ぶ・ん
       content_type: ''

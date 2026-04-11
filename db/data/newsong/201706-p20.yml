@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
-  - song_name: しるし
-    song_alias:
-    esong_code: 3824A45
-    t_singer_master_id: '2287'
-    singer_name: Mr.Children
-    singer_alias:
-    available_date: '2017-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: しるし
-    singer_name_ruby: みすたちるとれん
-    song_variation:
-    - esong_code: 3824A45
-      song_name: しるし
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: ジレンマとパズル
     song_alias:
     esong_code: 3820B10
@@ -70,7 +53,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: しろくろつけましよう
-    singer_name_ruby: くわはわゆうきたかたゆうき
+    singer_name_ruby: くわはらゆうきたかたゆうき
     song_variation:
     - esong_code: 3822B29
       song_name: "○●つけまSHOW?!"
@@ -91,23 +74,6 @@ result:
     song_variation:
     - esong_code: 3816B48
       song_name: 真影の炎
-      content_type: ''
-  - song_name: SSW
-    song_alias:
-    esong_code: 3835B30
-    t_singer_master_id: '54080'
-    singer_name: コレサワ
-    singer_alias:
-    available_date: '2017-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんかそんくら
-    singer_name_ruby: これさわ
-    song_variation:
-    - esong_code: 3835B30
-      song_name: SSW
       content_type: ''
   - song_name: 進化論
     song_alias:
@@ -193,23 +159,6 @@ result:
     song_variation:
     - esong_code: 3832B30
       song_name: JINGO JUNGLE (HBB Remix)
-      content_type: ''
-  - song_name: 新宿 2015
-    song_alias:
-    esong_code: 3822B15
-    t_singer_master_id: '19442'
-    singer_name: MSC(MS CRU)
-    singer_alias:
-    available_date: '2017-06-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんしゆくにせんし
-    singer_name_ruby: えむえすし
-    song_variation:
-    - esong_code: 3822B15
-      song_name: 新宿 2015
       content_type: ''
   - song_name: シンジュク・モナムール
     song_alias:
@@ -338,7 +287,7 @@ result:
     singer_alias:
     available_date: '2017-06-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ4<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: すういとれつすん
@@ -397,6 +346,23 @@ result:
     song_variation:
     - esong_code: 3831B42
       song_name: 杉良太郎メドレー
+      content_type: ''
+  - song_name: ススキノ浪漫
+    song_alias:
+    esong_code: 3786B46
+    t_singer_master_id: '48380'
+    singer_name: ニトリ アキオ
+    singer_alias:
+    available_date: '2017-06-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すすきのろまん
+    singer_name_ruby: にとりあきお
+    song_variation:
+    - esong_code: 3786B46
+      song_name: ススキノ浪漫
       content_type: ''
   - song_name: Stargarden
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3835B7
       song_name: スタートライン
+      content_type: ''
+  - song_name: STAR TRAIN
+    song_alias:
+    esong_code: 3826A23
+    t_singer_master_id: '13421'
+    singer_name: Psycho le Cemu
+    singer_alias:
+    available_date: '2017-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたとれいん
+    singer_name_ruby: さいこるしえいむ
+    song_variation:
+    - esong_code: 3826A23
+      song_name: STAR TRAIN
+      content_type: ''
+  - song_name: スタンダード
+    song_alias:
+    esong_code: 3822A44
+    t_singer_master_id: '1396'
+    singer_name: 谷村 新司
+    singer_alias:
+    available_date: '2017-06-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたんたと
+    singer_name_ruby: たにむらしんし
+    song_variation:
+    - esong_code: 3822A44
+      song_name: スタンダード
       content_type: ''

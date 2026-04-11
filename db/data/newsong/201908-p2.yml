@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 977
-  all_max_cnt: 1128
-  all_country_cnt: 977
+  max_cnt: 964
+  all_max_cnt: 1115
+  all_country_cnt: 964
   song:
-  - song_name: あなたもね
-    song_alias:
-    esong_code: 4235B47
-    t_singer_master_id: '63111'
-    singer_name: 有華
-    singer_alias:
-    available_date: '2019-08-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたもね
-    singer_name_ruby: ゆか
-    song_variation:
-    - esong_code: 4235B47
-      song_name: あなたもね
-      content_type: ''
   - song_name: Anemone
     song_alias:
     esong_code: 4239A36
@@ -162,23 +145,6 @@ result:
       content_type: ''
   - song_name: 雨とカプチーノ
     song_alias:
-    esong_code: 4233B37
-    t_singer_master_id: '59009'
-    singer_name: ヨルシカ
-    singer_alias:
-    available_date: '2019-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あめとかふちの
-    singer_name_ruby: よるしか
-    song_variation:
-    - esong_code: 4233B37
-      song_name: 雨とカプチーノ
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 雨とカプチーノ
-    song_alias:
     esong_code: 4233A32
     t_singer_master_id: '59009'
     singer_name: ヨルシカ
@@ -194,6 +160,23 @@ result:
     - esong_code: 4233A32
       song_name: 雨とカプチーノ
       content_type: ''
+  - song_name: 雨とカプチーノ
+    song_alias:
+    esong_code: 4233B37
+    t_singer_master_id: '59009'
+    singer_name: ヨルシカ
+    singer_alias:
+    available_date: '2019-08-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: あめとかふちの
+    singer_name_ruby: よるしか
+    song_variation:
+    - esong_code: 4233B37
+      song_name: 雨とカプチーノ
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 雨晴るる
     song_alias:
     esong_code: 4240A30
@@ -500,7 +483,24 @@ result:
     - esong_code: 4238A45
       song_name: 案外わるないNHK
       content_type: ''
-  - song_name: アンサー feat.初音ミク
+  - song_name: アンサー
+    song_alias:
+    esong_code: 4233A13
+    t_singer_master_id: '47215'
+    singer_name: そらる
+    singer_alias:
+    available_date: '2019-08-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんさ
+    singer_name_ruby: そらる
+    song_variation:
+    - esong_code: 4233A13
+      song_name: アンサー
+      content_type: ''
+  - song_name: アンサー
     song_alias:
     esong_code: 4239A46
     t_singer_master_id: '56309'
@@ -515,5 +515,5 @@ result:
     singer_name_ruby: はるまきこはん
     song_variation:
     - esong_code: 4239A46
-      song_name: アンサー feat.初音ミク
+      song_name: アンサー
       content_type: VOCALOID

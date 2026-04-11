@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: PARTY IT UP
-    song_alias:
-    esong_code: 3001B18
-    t_singer_master_id: '10188'
-    singer_name: AAA
-    singer_alias:
-    available_date: '2013-03-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はていいつとあつ
-    singer_name_ruby: とりふるえ
-    song_variation:
-    - esong_code: 3001B18
-      song_name: PARTY IT UP
-      content_type: ''
   - song_name: Heart Theater
     song_alias:
     esong_code: 3010A41
@@ -162,23 +145,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 花はただ咲く
     song_alias:
-    esong_code: 3003A11
-    t_singer_master_id: '47034'
-    singer_name: 坂本 冬美 with M2
-    singer_alias:
-    available_date: '2013-03-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: はなはたたさく
-    singer_name_ruby: さかもとふゆみういすえむつ
-    song_variation:
-    - esong_code: 3003A11
-      song_name: 花はただ咲く
-      content_type: DAM生音
-  - song_name: 花はただ咲く
-    song_alias:
     esong_code: 3003A34
     t_singer_master_id: '47034'
     singer_name: 坂本 冬美 with M2
@@ -194,6 +160,23 @@ result:
     - esong_code: 3003A34
       song_name: 花はただ咲く
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 花はただ咲く
+    song_alias:
+    esong_code: 3003A11
+    t_singer_master_id: '47034'
+    singer_name: 坂本 冬美 with M2
+    singer_alias:
+    available_date: '2013-03-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: はなはたたさく
+    singer_name_ruby: さかもとふゆみういすえむつ
+    song_variation:
+    - esong_code: 3003A11
+      song_name: 花はただ咲く
+      content_type: DAM生音
   - song_name: HANABI feat.今井麻美
     song_alias:
     esong_code: 3008A18
@@ -404,7 +387,7 @@ result:
     t_singer_master_id: '47272'
     singer_name: 鎌田 章吾
     singer_alias:
-    available_date: '2013-03-12'
+    available_date: '2013-03-13'
     end_date: '2999-04-10 00:00:00'
     tie_up: 獣電戦隊キョウリュウジャー<番組名>
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2994B46
       song_name: バリカタ
+      content_type: ''
+  - song_name: 遥かな愛・・・わかれても
+    song_alias:
+    esong_code: 3005B44
+    t_singer_master_id: '47364'
+    singer_name: 持田 ジュン
+    singer_alias:
+    available_date: '2013-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はるかなあいわかれて
+    singer_name_ruby: もちたしゆん
+    song_variation:
+    - esong_code: 3005B44
+      song_name: 遥かな愛・・・わかれても
       content_type: ''

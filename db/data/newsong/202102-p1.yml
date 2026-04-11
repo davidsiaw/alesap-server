@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 869
-  all_max_cnt: 950
-  all_country_cnt: 869
+  max_cnt: 856
+  all_max_cnt: 937
+  all_country_cnt: 856
   song:
-  - song_name: AKIRAメナイ
-    song_alias:
-    esong_code: 4469B24
-    t_singer_master_id: '64470'
-    singer_name: OZworld a.k.a. R'kuma
-    singer_alias:
-    available_date: '2021-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あきらめない
-    singer_name_ruby: おすわるとえけえれおくま
-    song_variation:
-    - esong_code: 4469B24
-      song_name: AKIRAメナイ
-      content_type: ''
   - song_name: あきらめながら
     song_alias:
     esong_code: 4494B10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4471A47
       song_name: 雨宿り
+      content_type: ''
+  - song_name: 雨あがり
+    song_alias:
+    esong_code: 4469B13
+    t_singer_master_id: '174'
+    singer_name: 石川 さゆり(SAYURI)
+    singer_alias:
+    available_date: '2021-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめあかり
+    singer_name_ruby: いしかわさゆり
+    song_variation:
+    - esong_code: 4469B13
+      song_name: 雨あがり
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 385
-  all_max_cnt: 411
-  all_country_cnt: 385
+  max_cnt: 380
+  all_max_cnt: 405
+  all_country_cnt: 380
   song:
-  - song_name: それが、愛でしょう
-    song_alias:
-    esong_code: 635B30
-    t_singer_master_id: '10052'
-    singer_name: 下川 みくに
-    singer_alias:
-    available_date: '2003-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: フルメタル・パニック?ふもっふ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: それかあいてしよ
-    singer_name_ruby: しもかわみくに
-    song_variation:
-    - esong_code: 635B30
-      song_name: それが、愛でしょう
-      content_type: ''
-  - song_name: 大河
-    song_alias:
-    esong_code: 604B29
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2003-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいか
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 604B29
-      song_name: 大河
-      content_type: ''
   - song_name: タイガー&ドラゴン
     song_alias:
     esong_code: 632A28
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 632B24
       song_name: 電話
+      content_type: ''
+  - song_name: TOKYO NIGHT パラダイス
+    song_alias:
+    esong_code: 739B23
+    t_singer_master_id: '16428'
+    singer_name: The Butter Peanuts
+    singer_alias:
+    available_date: '2003-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきようないとは
+    singer_name_ruby: さはたひなつつ
+    song_variation:
+    - esong_code: 739B23
+      song_name: TOKYO NIGHT パラダイス
+      content_type: ''
+  - song_name: どうしてそうなの？
+    song_alias:
+    esong_code: 256B39
+    t_singer_master_id: '5589'
+    singer_name: 水谷 優子
+    singer_alias:
+    available_date: '2003-09-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ふしぎの海のナディア<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうしてそうなの
+    singer_name_ruby: みすたにゆうこ
+    song_variation:
+    - esong_code: 256B39
+      song_name: どうしてそうなの？
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
   - song_name: アビダルマ
     song_alias:
@@ -160,7 +160,7 @@ result:
     - esong_code: 3071B24
       song_name: 雨の道頓堀
       content_type: ''
-  - song_name: 雨の夜想曲(ノクターン)
+  - song_name: 雨の夜想曲
     song_alias:
     esong_code: 3074A10
     t_singer_master_id: '10253'
@@ -175,9 +175,9 @@ result:
     singer_name_ruby: ちえうに
     song_variation:
     - esong_code: 3074A10
-      song_name: 雨の夜想曲(ノクターン)
+      song_name: 雨の夜想曲
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 雨の夜想曲(ノクターン)
+  - song_name: 雨の夜想曲
     song_alias:
     esong_code: 3073B34
     t_singer_master_id: '10253'
@@ -192,7 +192,7 @@ result:
     singer_name_ruby: ちえうに
     song_variation:
     - esong_code: 3073B34
-      song_name: 雨の夜想曲(ノクターン)
+      song_name: 雨の夜想曲
       content_type: DAM生音
   - song_name: 雨の函館
     song_alias:
@@ -200,7 +200,7 @@ result:
     t_singer_master_id: '541'
     singer_name: 角川 博
     singer_alias:
-    available_date: '2013-07-23'
+    available_date: '2013-07-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: 会わないつもりの、元気でね
     song_alias:
-    esong_code: 3073B31
-    t_singer_master_id: '33995'
-    singer_name: SCANDAL
-    singer_alias:
-    available_date: '2013-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あわないつもりのけ
-    singer_name_ruby: すきやんたる
-    song_variation:
-    - esong_code: 3073B31
-      song_name: 会わないつもりの、元気でね
-      content_type: DAM生音
-  - song_name: 会わないつもりの、元気でね
-    song_alias:
     esong_code: 3074B32
     t_singer_master_id: '33995'
     singer_name: SCANDAL
@@ -432,6 +415,23 @@ result:
     - esong_code: 3074A8
       song_name: 会わないつもりの、元気でね
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 会わないつもりの、元気でね
+    song_alias:
+    esong_code: 3073B31
+    t_singer_master_id: '33995'
+    singer_name: SCANDAL
+    singer_alias:
+    available_date: '2013-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あわないつもりのけ
+    singer_name_ruby: すきやんたる
+    song_variation:
+    - esong_code: 3073B31
+      song_name: 会わないつもりの、元気でね
+      content_type: DAM生音
   - song_name: あわら温泉数え唄
     song_alias:
     esong_code: 2350B33

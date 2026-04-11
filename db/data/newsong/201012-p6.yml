@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1330
-  all_max_cnt: 1518
-  all_country_cnt: 1330
+  max_cnt: 1339
+  all_max_cnt: 1527
+  all_country_cnt: 1339
   song:
   - song_name: EDGE LOVE
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 2305B1
       song_name: エトランゼ
       content_type: ''
-  - song_name: everlasting
-    song_alias:
-    esong_code: 2165A11
-    t_singer_master_id: '33715'
-    singer_name: fripSide
-    singer_alias:
-    available_date: '2010-12-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ああっ女神さまっ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えはらすていんく
-    singer_name_ruby: ふりつふさいと
-    song_variation:
-    - esong_code: 2165A11
-      song_name: everlasting
-      content_type: ''
   - song_name: Everlasting Love feat.房川ヒロ
     song_alias:
     esong_code: 2131A29
@@ -91,6 +74,23 @@ result:
     song_variation:
     - esong_code: 2131A29
       song_name: Everlasting Love feat.房川ヒロ
+      content_type: ''
+  - song_name: everlasting
+    song_alias:
+    esong_code: 2165A11
+    t_singer_master_id: '33715'
+    singer_name: fripSide
+    singer_alias:
+    available_date: '2010-12-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ああっ女神さまっ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えはらすていんく
+    singer_name_ruby: ふりつふさいと
+    song_variation:
+    - esong_code: 2165A11
+      song_name: everlasting
       content_type: ''
   - song_name: ABCよりDEFっス!!
     song_alias:
@@ -151,7 +151,7 @@ result:
     singer_alias:
     available_date: '2010-12-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 隠の王 WEBラジオ<番組名>
+    tie_up: 隠の王<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えふりほえあ
@@ -434,23 +434,6 @@ result:
       content_type: ''
   - song_name: オカンのしおむすび
     song_alias:
-    esong_code: 2626A31
-    t_singer_master_id: '17780'
-    singer_name: 坂井 一郎
-    singer_alias:
-    available_date: '2010-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おかんのしおむすひ
-    singer_name_ruby: さかいいちろう
-    song_variation:
-    - esong_code: 2626A31
-      song_name: オカンのしおむすび
-      content_type: ''
-  - song_name: オカンのしおむすび
-    song_alias:
     esong_code: 2163B25
     t_singer_master_id: '17780'
     singer_name: 坂井 一郎
@@ -466,6 +449,23 @@ result:
     - esong_code: 2163B25
       song_name: オカンのしおむすび
       content_type: DAM生音
+  - song_name: オカンのしおむすび
+    song_alias:
+    esong_code: 2626A31
+    t_singer_master_id: '17780'
+    singer_name: 坂井 一郎
+    singer_alias:
+    available_date: '2010-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おかんのしおむすひ
+    singer_name_ruby: さかいいちろう
+    song_variation:
+    - esong_code: 2626A31
+      song_name: オカンのしおむすび
+      content_type: ''
   - song_name: 置手紙 〜あれから二年半
     song_alias:
     esong_code: 2140B22

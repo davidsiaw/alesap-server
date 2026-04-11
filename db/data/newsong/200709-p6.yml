@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: おやすみ Good Night
-    song_alias:
-    esong_code: 1866A12
-    t_singer_master_id: '29953'
-    singer_name: スラップスティック
-    singer_alias:
-    available_date: '2007-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おやすみくつとな
-    singer_name_ruby: すらつふすていつく
-    song_variation:
-    - esong_code: 1866A12
-      song_name: おやすみ Good Night
-      content_type: ''
   - song_name: オリエンタル・ダイヤモンド
     song_alias:
     esong_code: 1860A2
@@ -304,7 +287,7 @@ result:
     singer_alias:
     available_date: '2007-09-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ひだまりラジオ<番組名>
+    tie_up: ひだまりスケッチ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おんなのこはする
@@ -406,7 +389,7 @@ result:
     singer_alias:
     available_date: '2007-09-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ちびまる子ちゃん〜わたしの好きな歌〜<番組名>
+    tie_up: ちびまる子ちゃん(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かいものふき
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1872A42
       song_name: 陽炎のくに、鉛のうた
+      content_type: ''
+  - song_name: 鹿児島の男
+    song_alias:
+    esong_code: 591B30
+    t_singer_master_id: '12623'
+    singer_name: 瀬戸内 三郎
+    singer_alias:
+    available_date: '2007-09-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かこしまのおとこ
+    singer_name_ruby: せとうちさふろう
+    song_variation:
+    - esong_code: 591B30
+      song_name: 鹿児島の男
       content_type: ''

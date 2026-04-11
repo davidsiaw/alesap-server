@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 942
-  all_max_cnt: 1036
-  all_country_cnt: 942
+  max_cnt: 935
+  all_max_cnt: 1029
+  all_country_cnt: 935
   song:
-  - song_name: MABOROSHI
-    song_alias:
-    esong_code: 2061A49
-    t_singer_master_id: '18176'
-    singer_name: SABER TIGER
-    singer_alias:
-    available_date: '2008-08-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まほろし
-    singer_name_ruby: さへるたいか
-    song_variation:
-    - esong_code: 2061A49
-      song_name: MABOROSHI
-      content_type: ''
-  - song_name: 満願夢太鼓
-    song_alias:
-    esong_code: 2051B33
-    t_singer_master_id: '27725'
-    singer_name: 澤 壱郎
-    singer_alias:
-    available_date: '2008-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まんかんゆめたいこ
-    singer_name_ruby: さわいちろう
-    song_variation:
-    - esong_code: 2051B33
-      song_name: 満願夢太鼓
-      content_type: ''
-  - song_name: 三日月とピアス
-    song_alias:
-    esong_code: 2068B13
-    t_singer_master_id: '11069'
-    singer_name: 唄人羽(うたいびと はね)
-    singer_alias:
-    available_date: '2008-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みかつきとひあす
-    singer_name_ruby: うたいひとはね
-    song_variation:
-    - esong_code: 2068B13
-      song_name: 三日月とピアス
-      content_type: ''
-  - song_name: 美沙子
-    song_alias:
-    esong_code: 2065B46
-    t_singer_master_id: '33766'
-    singer_name: 田辺 皓由
-    singer_alias:
-    available_date: '2008-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みさこ
-    singer_name_ruby: たなへひろゆき
-    song_variation:
-    - esong_code: 2065B46
-      song_name: 美沙子
-      content_type: ''
-  - song_name: 水色のドリーマー
-    song_alias:
-    esong_code: 2054B13
-    t_singer_master_id: '6934'
-    singer_name: The 東南西北
-    singer_alias:
-    available_date: '2008-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすいろのとり
-    singer_name_ruby: さとんなんしやへ
-    song_variation:
-    - esong_code: 2054B13
-      song_name: 水色のドリーマー
-      content_type: ''
-  - song_name: Mr.カーボン
-    song_alias:
-    esong_code: 2060B15
-    t_singer_master_id: '31448'
-    singer_name: イロクイ。
-    singer_alias:
-    available_date: '2008-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすたかほん
-    singer_name_ruby: いろくい
-    song_variation:
-    - esong_code: 2060B15
-      song_name: Mr.カーボン
-      content_type: ''
   - song_name: Mr.Marduk
     song_alias:
     esong_code: 2060B20
@@ -211,23 +109,40 @@ result:
     - esong_code: 2065A11
       song_name: 港恋うれば
       content_type: ''
-  - song_name: music♪
+  - song_name: MUSIC!!!
     song_alias:
-    esong_code: 2059B40
-    t_singer_master_id: '30198'
-    singer_name: 九州男
+    esong_code: 2056A12
+    t_singer_master_id: '10188'
+    singer_name: AAA
     singer_alias:
-    available_date: '2008-08-31'
+    available_date: '2008-08-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type:
+    song_name_ruby: みゆしつく
+    singer_name_ruby: とりふるえ
+    song_variation:
+    - esong_code: 2056A12
+      song_name: MUSIC!!!
+      content_type: ''
+  - song_name: music♪
+    song_alias:
+    esong_code: 2050A17
+    t_singer_master_id: '30198'
+    singer_name: 九州男
+    singer_alias:
+    available_date: '2008-08-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
     song_name_ruby: みゆしつく
     singer_name_ruby: くすお
     song_variation:
-    - esong_code: 2059B40
+    - esong_code: 2050A17
       song_name: music♪
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: ''
   - song_name: music♪
     song_alias:
     esong_code: 2107B23
@@ -247,38 +162,21 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: music♪
     song_alias:
-    esong_code: 2050A17
+    esong_code: 2059B40
     t_singer_master_id: '30198'
     singer_name: 九州男
     singer_alias:
-    available_date: '2008-08-06'
+    available_date: '2008-08-31'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: みゆしつく
     singer_name_ruby: くすお
     song_variation:
-    - esong_code: 2050A17
+    - esong_code: 2059B40
       song_name: music♪
-      content_type: ''
-  - song_name: MUSIC!!!
-    song_alias:
-    esong_code: 2056A12
-    t_singer_master_id: '10188'
-    singer_name: AAA
-    singer_alias:
-    available_date: '2008-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みゆしつく
-    singer_name_ruby: とりふるえ
-    song_variation:
-    - esong_code: 2056A12
-      song_name: MUSIC!!!
-      content_type: ''
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Mirror feat.Salyu
     song_alias:
     esong_code: 2054A12
@@ -517,3 +415,105 @@ result:
     - esong_code: 2068A19
       song_name: メス豚交響曲
       content_type: ''
+  - song_name: メタボリックOh!ハルマゲドン
+    song_alias:
+    esong_code: 2063A38
+    t_singer_master_id: '33725'
+    singer_name: 能登 麻美子&渡辺 久美子
+    singer_alias:
+    available_date: '2008-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ケロロ軍曹<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: めたほりつくおは
+    singer_name_ruby: のとまみこわたなへくみ
+    song_variation:
+    - esong_code: 2063A38
+      song_name: メタボリックOh!ハルマゲドン
+      content_type: ''
+  - song_name: メッセージ
+    song_alias:
+    esong_code: 2057A19
+    t_singer_master_id: '25442'
+    singer_name: カラーボトル
+    singer_alias:
+    available_date: '2008-08-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めつせし
+    singer_name_ruby: からほとる
+    song_variation:
+    - esong_code: 2057A19
+      song_name: メッセージ
+      content_type: ''
+  - song_name: 芽生えドライブ (Acoustic&harmonics Version)
+    song_alias:
+    esong_code: 2068B7
+    t_singer_master_id: '29288'
+    singer_name: marble
+    singer_alias:
+    available_date: '2008-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ひだまりスケッチ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: めはえとらいふ
+    singer_name_ruby: まふる
+    song_variation:
+    - esong_code: 2068B7
+      song_name: 芽生えドライブ (Acoustic&harmonics Version)
+      content_type: ''
+  - song_name: 眩暈
+    song_alias:
+    esong_code: 2061B17
+    t_singer_master_id: '22748'
+    singer_name: シド
+    singer_alias:
+    available_date: '2008-08-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めまい
+    singer_name_ruby: しと
+    song_variation:
+    - esong_code: 2061B17
+      song_name: 眩暈
+      content_type: ''
+  - song_name: Memorial Date ライムライト×TGMX
+    song_alias:
+    esong_code: 2054B36
+    t_singer_master_id: '23811'
+    singer_name: ライムライト
+    singer_alias:
+    available_date: '2008-08-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めもりあるていと
+    singer_name_ruby: らいむらいと
+    song_variation:
+    - esong_code: 2054B36
+      song_name: Memorial Date ライムライト×TGMX
+      content_type: ''
+  - song_name: メランコリー
+    song_alias:
+    esong_code: 2065A22
+    t_singer_master_id: '53199'
+    singer_name: 19-iku-(19's Sound Factory)
+    singer_alias:
+    available_date: '2008-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: めらんこり
+    singer_name_ruby: いく
+    song_variation:
+    - esong_code: 2065A22
+      song_name: メランコリー
+      content_type: VOCALOID

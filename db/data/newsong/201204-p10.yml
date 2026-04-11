@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1295
-  all_max_cnt: 1405
-  all_country_cnt: 1295
+  max_cnt: 1285
+  all_max_cnt: 1395
+  all_country_cnt: 1285
   song:
-  - song_name: 硝子ノ華 feat.VY2
-    song_alias:
-    esong_code: 2789A43
-    t_singer_master_id: '36565'
-    singer_name: マチゲリータ
-    singer_alias:
-    available_date: '2012-04-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: からすのはな
-    singer_name_ruby: まちけりた
-    song_variation:
-    - esong_code: 2789A43
-      song_name: 硝子ノ華 feat.VY2
-      content_type: VOCALOID
   - song_name: カラフルワールド
     song_alias:
     esong_code: 2781A41
@@ -94,23 +77,6 @@ result:
       content_type: ''
   - song_name: ガールズ パワー
     song_alias:
-    esong_code: 2786B8
-    t_singer_master_id: '40445'
-    singer_name: KARA
-    singer_alias:
-    available_date: '2012-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: かるすはわ
-    singer_name_ruby: から
-    song_variation:
-    - esong_code: 2786B8
-      song_name: ガールズ パワー
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: ガールズ パワー
-    song_alias:
     esong_code: 2784A38
     t_singer_master_id: '40445'
     singer_name: KARA
@@ -126,6 +92,23 @@ result:
     - esong_code: 2784A38
       song_name: ガールズ パワー
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: ガールズ パワー
+    song_alias:
+    esong_code: 2786B8
+    t_singer_master_id: '40445'
+    singer_name: KARA
+    singer_alias:
+    available_date: '2012-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: かるすはわ
+    singer_name_ruby: から
+    song_variation:
+    - esong_code: 2786B8
+      song_name: ガールズ パワー
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: カレ
     song_alias:
     esong_code: 2793A19
@@ -349,7 +332,7 @@ result:
       content_type: ''
   - song_name: 木曽の翌檜
     song_alias:
-    esong_code: 2787A19
+    esong_code: 2787A43
     t_singer_master_id: '1675'
     singer_name: 長山 洋子(yoko)
     singer_alias:
@@ -357,13 +340,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: きそのあすなろ
     singer_name_ruby: なかやまようこ
     song_variation:
-    - esong_code: 2787A19
+    - esong_code: 2787A43
       song_name: 木曽の翌檜
-      content_type: DAM生音
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 木曽の翌檜
     song_alias:
     esong_code: 2784B17
@@ -383,7 +366,7 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 木曽の翌檜
     song_alias:
-    esong_code: 2787A43
+    esong_code: 2787A19
     t_singer_master_id: '1675'
     singer_name: 長山 洋子(yoko)
     singer_alias:
@@ -391,13 +374,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type: DAM生音
     song_name_ruby: きそのあすなろ
     singer_name_ruby: なかやまようこ
     song_variation:
-    - esong_code: 2787A43
+    - esong_code: 2787A19
       song_name: 木曽の翌檜
-      content_type: DAMﾌﾟﾛｵｹ
+      content_type: DAM生音
   - song_name: 木曽の翌檜
     song_alias:
     esong_code: 2781B8
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2784A7
       song_name: きっと ずっと もっと
+      content_type: ''
+  - song_name: きっとツナガル
+    song_alias:
+    esong_code: 2781B1
+    t_singer_master_id: '11544'
+    singer_name: クミコ
+    singer_alias:
+    available_date: '2012-04-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きつとつなかる
+    singer_name_ruby: くみこ
+    song_variation:
+    - esong_code: 2781B1
+      song_name: きっとツナガル
       content_type: ''

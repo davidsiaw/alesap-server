@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1347
-  all_country_cnt: 1229
+  max_cnt: 1222
+  all_max_cnt: 1339
+  all_country_cnt: 1222
   song:
-  - song_name: かがやき
-    song_alias:
-    esong_code: 755A29
-    t_singer_master_id: '44910'
-    singer_name: circus
-    singer_alias:
-    available_date: '2012-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かかやき
-    singer_name_ruby: さかす
-    song_variation:
-    - esong_code: 755A29
-      song_name: かがやき
-      content_type: ''
   - song_name: 輝く出船
     song_alias:
     esong_code: 1229A21
@@ -111,23 +94,6 @@ result:
       content_type: ''
   - song_name: カサブランカ
     song_alias:
-    esong_code: 2796A33
-    t_singer_master_id: '570'
-    singer_name: 加門 亮
-    singer_alias:
-    available_date: '2012-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かさふらんか
-    singer_name_ruby: かもんりよう
-    song_variation:
-    - esong_code: 2796A33
-      song_name: カサブランカ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: カサブランカ
-    song_alias:
     esong_code: 847B23
     t_singer_master_id: '570'
     singer_name: 加門 亮
@@ -143,6 +109,23 @@ result:
     - esong_code: 847B23
       song_name: カサブランカ
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: カサブランカ
+    song_alias:
+    esong_code: 2796A33
+    t_singer_master_id: '570'
+    singer_name: 加門 亮
+    singer_alias:
+    available_date: '2012-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かさふらんか
+    singer_name_ruby: かもんりよう
+    song_variation:
+    - esong_code: 2796A33
+      song_name: カサブランカ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: カスケード
     song_alias:
     esong_code: 1489B19
@@ -281,23 +264,6 @@ result:
       content_type: ''
   - song_name: 片想い
     song_alias:
-    esong_code: 846A12
-    t_singer_master_id: '39020'
-    singer_name: miwa
-    singer_alias:
-    available_date: '2012-05-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: かたおもい
-    singer_name_ruby: みわ
-    song_variation:
-    - esong_code: 846A12
-      song_name: 片想い
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 片想い
-    song_alias:
     esong_code: 83A28
     t_singer_master_id: '36510'
     singer_name: YU-A
@@ -313,6 +279,23 @@ result:
     - esong_code: 83A28
       song_name: 片想い
       content_type: ''
+  - song_name: 片想い
+    song_alias:
+    esong_code: 846A12
+    t_singer_master_id: '39020'
+    singer_name: miwa
+    singer_alias:
+    available_date: '2012-05-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: かたおもい
+    singer_name_ruby: みわ
+    song_variation:
+    - esong_code: 846A12
+      song_name: 片想い
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 片恋の唄
     song_alias:
     esong_code: 2796A9
@@ -415,23 +398,6 @@ result:
     - esong_code: 294A31
       song_name: 加藤ミリヤベストメドレー Vol.2
       content_type: ''
-  - song_name: カトレア
-    song_alias:
-    esong_code: 2251B23
-    t_singer_master_id: '542'
-    singer_name: 門倉 有希
-    singer_alias:
-    available_date: '2012-05-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: かとれあ
-    singer_name_ruby: かとくらゆき
-    song_variation:
-    - esong_code: 2251B23
-      song_name: カトレア
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: カトレア feat.GUMI
     song_alias:
     esong_code: 803B11
@@ -500,20 +466,54 @@ result:
     - esong_code: 1573B14
       song_name: 哀しみの終りに
       content_type: ''
-  - song_name: かなしみ葉書
+  - song_name: カナダまるごと紹介記
     song_alias:
-    esong_code: 508A42
-    t_singer_master_id: '386'
-    singer_name: 太田 裕美
+    esong_code: 30A40
+    t_singer_master_id: '45027'
+    singer_name: 小西 克幸 with 岩村 愛子
     singer_alias:
-    available_date: '2012-05-23'
+    available_date: '2012-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ヘタリア(アニメ版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなたまることし
+    singer_name_ruby: こにしかつゆきういす
+    song_variation:
+    - esong_code: 30A40
+      song_name: カナダまるごと紹介記
+      content_type: ''
+  - song_name: Cannibalism
+    song_alias:
+    esong_code: 617A13
+    t_singer_master_id: '42379'
+    singer_name: '5150'
+    singer_alias:
+    available_date: '2012-05-16'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: かなしみはかき
-    singer_name_ruby: おおたひろみ
+    song_name_ruby: かにはりすむ
+    singer_name_ruby: こういちこうまる
     song_variation:
-    - esong_code: 508A42
-      song_name: かなしみ葉書
+    - esong_code: 617A13
+      song_name: Cannibalism
+      content_type: ''
+  - song_name: ガーベラ
+    song_alias:
+    esong_code: 345A33
+    t_singer_master_id: '1671'
+    singer_name: 長渕 剛
+    singer_alias:
+    available_date: '2012-05-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かへら
+    singer_name_ruby: なかふちつよし
+    song_variation:
+    - esong_code: 345A33
+      song_name: ガーベラ
       content_type: ''

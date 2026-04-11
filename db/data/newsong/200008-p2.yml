@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 97
-  all_max_cnt: 105
-  all_country_cnt: 97
+  max_cnt: 98
+  all_max_cnt: 106
+  all_country_cnt: 98
   song:
   - song_name: パートナー 〜霧の空港〜
     song_alias:
@@ -30,7 +30,7 @@ result:
     t_singer_master_id: '2554'
     singer_name: 米倉 ますみ
     singer_alias:
-    available_date: '2000-08-02'
+    available_date: '2000-08-06'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -92,6 +92,23 @@ result:
     - esong_code: 404B23
       song_name: パリパラ
       content_type: ''
+  - song_name: 春風のいたずら
+    song_alias:
+    esong_code: 701A18
+    t_singer_master_id: '2473'
+    singer_name: 山口 百恵
+    singer_alias:
+    available_date: '2000-08-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はるかせのいたす
+    singer_name_ruby: やまくちももえ
+    song_variation:
+    - esong_code: 701A18
+      song_name: 春風のいたずら
+      content_type: ''
   - song_name: Power Play
     song_alias:
     esong_code: 404B24
@@ -126,23 +143,6 @@ result:
     - esong_code: 405A33
       song_name: VAMPIRE
       content_type: ''
-  - song_name: BANG BANG BABY (KARAPARA MIX)
-    song_alias:
-    esong_code: 405A37
-    t_singer_master_id: '10537'
-    singer_name: "@little bit"
-    singer_alias:
-    available_date: '2000-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はんはんへいひ
-    singer_name_ruby: ありるひ
-    song_variation:
-    - esong_code: 405A37
-      song_name: BANG BANG BABY (KARAPARA MIX)
-      content_type: ''
   - song_name: BANG BANG BABY
     song_alias:
     esong_code: 405A38
@@ -159,6 +159,23 @@ result:
     song_variation:
     - esong_code: 405A38
       song_name: BANG BANG BABY
+      content_type: ''
+  - song_name: BANG BANG BABY (KARAPARA MIX)
+    song_alias:
+    esong_code: 405A37
+    t_singer_master_id: '10537'
+    singer_name: "@little bit"
+    singer_alias:
+    available_date: '2000-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はんはんへいひ
+    singer_name_ruby: ありるひ
+    song_variation:
+    - esong_code: 405A37
+      song_name: BANG BANG BABY (KARAPARA MIX)
       content_type: ''
   - song_name: be in agony
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 393A37
       song_name: reality
-      content_type: ''
-  - song_name: リズム
-    song_alias:
-    esong_code: 404A32
-    t_singer_master_id: '7669'
-    singer_name: 広末 涼子
-    singer_alias:
-    available_date: '2000-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: りすむ
-    singer_name_ruby: ひろすえりようこ
-    song_variation:
-    - esong_code: 404A32
-      song_name: リズム
       content_type: ''

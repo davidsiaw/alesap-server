@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1174
-  all_max_cnt: 1303
-  all_country_cnt: 1174
+  max_cnt: 1169
+  all_max_cnt: 1300
+  all_country_cnt: 1169
   song:
-  - song_name: 裏町の春
-    song_alias:
-    esong_code: 1900A26
-    t_singer_master_id: '31330'
-    singer_name: 京 一夫
-    singer_alias:
-    available_date: '2011-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うらまちのはる
-    singer_name_ruby: きようかすお
-    song_variation:
-    - esong_code: 1900A26
-      song_name: 裏町の春
-      content_type: ''
   - song_name: 運・鈍・根
     song_alias:
     esong_code: 1806B16
@@ -338,7 +321,7 @@ result:
     singer_alias:
     available_date: '2011-02-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双3<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えんふかもゆる
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1894A38
       song_name: 男一匹ガキ大将
+      content_type: ''
+  - song_name: 男 銀平しぐれ旅
+    song_alias:
+    esong_code: 1938A8
+    t_singer_master_id: '18405'
+    singer_name: 川崎 修二
+    singer_alias:
+    available_date: '2011-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこきんへいし
+    singer_name_ruby: かわさきしゆうし
+    song_variation:
+    - esong_code: 1938A8
+      song_name: 男 銀平しぐれ旅
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
   - song_name: Congratulations!
     song_alias:
@@ -185,7 +185,7 @@ result:
     singer_alias:
     available_date: '2011-04-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双3<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さきりのかなた
@@ -193,23 +193,6 @@ result:
     song_variation:
     - esong_code: 1656B39
       song_name: 狭霧之彼方 feat.山田真一
-      content_type: ''
-  - song_name: さくら(合唱)
-    song_alias:
-    esong_code: 1639A12
-    t_singer_master_id: '15467'
-    singer_name: 森山 直太朗
-    singer_alias:
-    available_date: '2011-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくら
-    singer_name_ruby: もりやまなおたろう
-    song_variation:
-    - esong_code: 1639A12
-      song_name: さくら(合唱)
       content_type: ''
   - song_name: 桜 〜声が聞きたくて〜
     song_alias:
@@ -227,6 +210,23 @@ result:
     song_variation:
     - esong_code: 1463A43
       song_name: 桜 〜声が聞きたくて〜
+      content_type: ''
+  - song_name: さくら(合唱)
+    song_alias:
+    esong_code: 1639A12
+    t_singer_master_id: '15467'
+    singer_name: 森山 直太朗
+    singer_alias:
+    available_date: '2011-04-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくら
+    singer_name_ruby: もりやまなおたろう
+    song_variation:
+    - esong_code: 1639A12
+      song_name: さくら(合唱)
       content_type: ''
   - song_name: 桜雨 〜さくらあめ〜
     song_alias:
@@ -247,23 +247,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 桜色
     song_alias:
-    esong_code: 1588A31
-    t_singer_master_id: '26178'
-    singer_name: 中川 翔子
-    singer_alias:
-    available_date: '2011-04-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくらいろ
-    singer_name_ruby: なかかわしようこ
-    song_variation:
-    - esong_code: 1588A31
-      song_name: 桜色
-      content_type: ''
-  - song_name: 桜色
-    song_alias:
     esong_code: 1921A39
     t_singer_master_id: '26178'
     singer_name: 中川 翔子
@@ -279,6 +262,23 @@ result:
     - esong_code: 1921A39
       song_name: 桜色
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 桜色
+    song_alias:
+    esong_code: 1588A31
+    t_singer_master_id: '26178'
+    singer_name: 中川 翔子
+    singer_alias:
+    available_date: '2011-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらいろ
+    singer_name_ruby: なかかわしようこ
+    song_variation:
+    - esong_code: 1588A31
+      song_name: 桜色
+      content_type: ''
   - song_name: サクラ色
     song_alias:
     esong_code: 1415A15

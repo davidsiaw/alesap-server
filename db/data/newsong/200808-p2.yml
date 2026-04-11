@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 942
-  all_max_cnt: 1036
-  all_country_cnt: 942
+  max_cnt: 935
+  all_max_cnt: 1029
+  all_country_cnt: 935
   song:
   - song_name: ありがとうの詩
     song_alias:
@@ -49,7 +49,7 @@ result:
     singer_alias:
     available_date: '2008-08-08'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 紐育レビュウショウ 〜歌う大紐育〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あるひあおそらをみ
@@ -483,23 +483,6 @@ result:
     - esong_code: 2062B1
       song_name: イナズマchallenger
       content_type: ''
-  - song_name: 命の酒
-    song_alias:
-    esong_code: 2066B10
-    t_singer_master_id: '15006'
-    singer_name: 佐伯 一郎
-    singer_alias:
-    available_date: '2008-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのちのさけ
-    singer_name_ruby: さえきいちろう
-    song_variation:
-    - esong_code: 2066B10
-      song_name: 命の酒
-      content_type: ''
   - song_name: 祈祷り
     song_alias:
     esong_code: 2067A13
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2067A13
       song_name: 祈祷り
+      content_type: ''
+  - song_name: If I'm not the one
+    song_alias:
+    esong_code: 2055B48
+    t_singer_master_id: '29905'
+    singer_name: 谷村 奈南
+    singer_alias:
+    available_date: '2008-08-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いふあいむのつとさ
+    singer_name_ruby: たにむらなな
+    song_variation:
+    - esong_code: 2055B48
+      song_name: If I'm not the one
       content_type: ''

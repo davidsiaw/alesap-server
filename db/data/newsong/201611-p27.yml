@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1576
-  all_max_cnt: 1796
-  all_country_cnt: 1576
+  max_cnt: 1565
+  all_max_cnt: 1785
+  all_country_cnt: 1565
   song:
-  - song_name: 蝶々結び
-    song_alias:
-    esong_code: 3711B33
-    t_singer_master_id: '43113'
-    singer_name: Aimer
-    singer_alias:
-    available_date: '2016-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ちようちよむすひ
-    singer_name_ruby: えめ
-    song_variation:
-    - esong_code: 3711B33
-      song_name: 蝶々結び
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 蝶結びアミュレット
-    song_alias:
-    esong_code: 3710B44
-    t_singer_master_id: '56909'
-    singer_name: Mia REGINA
-    singer_alias:
-    available_date: '2016-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 装神少女まとい<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちようむすひあみゆ
-    singer_name_ruby: みあれしな
-    song_variation:
-    - esong_code: 3710B44
-      song_name: 蝶結びアミュレット
-      content_type: ''
-  - song_name: ちんどん人生 浪花節
-    song_alias:
-    esong_code: 3710B19
-    t_singer_master_id: '6563'
-    singer_name: にしき こうじ
-    singer_alias:
-    available_date: '2016-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちんとんしんせい
-    singer_name_ruby: にしきこうし
-    song_variation:
-    - esong_code: 3710B19
-      song_name: ちんどん人生 浪花節
-      content_type: ''
   - song_name: 沈黙と陳列 幼少は永遠へ
     song_alias:
     esong_code: 3714A12
@@ -177,23 +126,6 @@ result:
     - esong_code: 3725B13
       song_name: 月暈
       content_type: ''
-  - song_name: 月と僕の距離
-    song_alias:
-    esong_code: 3713B6
-    t_singer_master_id: '25056'
-    singer_name: 入野 自由
-    singer_alias:
-    available_date: '2016-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきとほくのきより
-    singer_name_ruby: いりのみゆ
-    song_variation:
-    - esong_code: 3713B6
-      song_name: 月と僕の距離
-      content_type: ''
   - song_name: 月に群雲
     song_alias:
     esong_code: 3713B28
@@ -219,7 +151,7 @@ result:
     singer_alias:
     available_date: '2016-11-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 白猫プロジェクト<番組名>
+    tie_up: 白猫プロジェクト(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: つきのあなたへ
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 3726B47
       song_name: Tears in love
+      content_type: ''
+  - song_name: Dear Bride
+    song_alias:
+    esong_code: 3722B38
+    t_singer_master_id: '32267'
+    singer_name: 西野 カナ
+    singer_alias:
+    available_date: '2016-11-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ていあふらいと
+    singer_name_ruby: にしのかな
+    song_variation:
+    - esong_code: 3722B38
+      song_name: Dear Bride
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Dear Bride
+    song_alias:
+    esong_code: 3722B36
+    t_singer_master_id: '32267'
+    singer_name: 西野 カナ
+    singer_alias:
+    available_date: '2016-11-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ていあふらいと
+    singer_name_ruby: にしのかな
+    song_variation:
+    - esong_code: 3722B36
+      song_name: Dear Bride
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Dear Me
+    song_alias:
+    esong_code: 3710B23
+    t_singer_master_id: '24759'
+    singer_name: BACK-ON
+    singer_alias:
+    available_date: '2016-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていあみ
+    singer_name_ruby: はつくおん
+    song_variation:
+    - esong_code: 3710B23
+      song_name: Dear Me
+      content_type: ''
+  - song_name: テイクオフ
+    song_alias:
+    esong_code: 3710A9
+    t_singer_master_id: '12162'
+    singer_name: ケツメイシ
+    singer_alias:
+    available_date: '2016-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていくおふ
+    singer_name_ruby: けつめいし
+    song_variation:
+    - esong_code: 3710A9
+      song_name: テイクオフ
       content_type: ''

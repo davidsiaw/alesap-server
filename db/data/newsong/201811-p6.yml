@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1182
-  all_max_cnt: 1336
-  all_country_cnt: 1182
+  max_cnt: 1168
+  all_max_cnt: 1322
+  all_country_cnt: 1168
   song:
-  - song_name: over the reality
-    song_alias:
-    esong_code: 4108B7
-    t_singer_master_id: '62775'
-    singer_name: KizunaAI(キズナアイ)
-    singer_alias:
-    available_date: '2018-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おはさりあり
-    singer_name_ruby: きすなあい
-    song_variation:
-    - esong_code: 4108B7
-      song_name: over the reality
-      content_type: ''
-  - song_name: オーバーマスター (M@STER VERSION)(詩花ver.)
-    song_alias:
-    esong_code: 4102B26
-    t_singer_master_id: '55163'
-    singer_name: 高橋 李依
-    singer_alias:
-    available_date: '2018-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: THE IDOLM@STER STELLA STAGE<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おはますた
-    singer_name_ruby: たかはしりえ
-    song_variation:
-    - esong_code: 4102B26
-      song_name: オーバーマスター (M@STER VERSION)(詩花ver.)
-      content_type: ''
-  - song_name: Office Love
-    song_alias:
-    esong_code: 4102A35
-    t_singer_master_id: '50274'
-    singer_name: SOLIDEMO
-    singer_alias:
-    available_date: '2018-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おふいすらふ
-    singer_name_ruby: そりていも
-    song_variation:
-    - esong_code: 4102A35
-      song_name: Office Love
-      content_type: ''
-  - song_name: お・ぼ・え・テ・て
-    song_alias:
-    esong_code: 4104B11
-    t_singer_master_id: '48252'
-    singer_name: 芹澤 優
-    singer_alias:
-    available_date: '2018-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 魔法少女サイト<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おほえてて
-    singer_name_ruby: せりさわゆう
-    song_variation:
-    - esong_code: 4104B11
-      song_name: お・ぼ・え・テ・て
-      content_type: ''
   - song_name: 溺れる金魚
     song_alias:
     esong_code: 4097B16
@@ -296,23 +228,6 @@ result:
     - esong_code: 3807B28
       song_name: 女衆
       content_type: ''
-  - song_name: 女の酒って・・・なんだろうネ
-    song_alias:
-    esong_code: 3906B44
-    t_singer_master_id: '33586'
-    singer_name: 清水 節子
-    singer_alias:
-    available_date: '2018-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: おんなのさけつてなん
-    singer_name_ruby: しみすせつこ
-    song_variation:
-    - esong_code: 3906B44
-      song_name: 女の酒って・・・なんだろうネ
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 女のひざこぞう
     song_alias:
     esong_code: 4101A40
@@ -451,23 +366,6 @@ result:
       content_type: ''
   - song_name: 帰り道は遠回りしたくなる
     song_alias:
-    esong_code: 4091B3
-    t_singer_master_id: '44213'
-    singer_name: 乃木坂46
-    singer_alias:
-    available_date: '2018-11-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かえりみちはとおまわ
-    singer_name_ruby: のきさかふおていしつくす
-    song_variation:
-    - esong_code: 4091B3
-      song_name: 帰り道は遠回りしたくなる
-      content_type: ''
-  - song_name: 帰り道は遠回りしたくなる
-    song_alias:
     esong_code: 4103B49
     t_singer_master_id: '44213'
     singer_name: 乃木坂46
@@ -500,6 +398,23 @@ result:
     - esong_code: 4096A35
       song_name: 帰り道は遠回りしたくなる
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 帰り道は遠回りしたくなる
+    song_alias:
+    esong_code: 4091B3
+    t_singer_master_id: '44213'
+    singer_name: 乃木坂46
+    singer_alias:
+    available_date: '2018-11-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かえりみちはとおまわ
+    singer_name_ruby: のきさかふおていしつくす
+    song_variation:
+    - esong_code: 4091B3
+      song_name: 帰り道は遠回りしたくなる
+      content_type: ''
   - song_name: 帰ろう レッツゴー!
     song_alias:
     esong_code: 4102B13
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 4102B13
       song_name: 帰ろう レッツゴー!
+      content_type: ''
+  - song_name: Chaos and Creation feat.初音ミク、鏡音リン
+    song_alias:
+    esong_code: 4102B4
+    t_singer_master_id: '43493'
+    singer_name: れるりり
+    singer_alias:
+    available_date: '2018-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: かおすあんとくりえ
+    singer_name_ruby: れるりり
+    song_variation:
+    - esong_code: 4102B4
+      song_name: Chaos and Creation feat.初音ミク、鏡音リン
+      content_type: VOCALOID
+  - song_name: 餓鬼扱い
+    song_alias:
+    esong_code: 4091B28
+    t_singer_master_id: '62676'
+    singer_name: 小西 成弥
+    singer_alias:
+    available_date: '2018-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: A3!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かきあつかい
+    singer_name_ruby: こにしせいや
+    song_variation:
+    - esong_code: 4091B28
+      song_name: 餓鬼扱い
+      content_type: ''
+  - song_name: 革命前夜
+    song_alias:
+    esong_code: 4101B23
+    t_singer_master_id: '31414'
+    singer_name: 井口 裕香
+    singer_alias:
+    available_date: '2018-11-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: とある魔術の禁書目録Ⅲ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かくめいせんや
+    singer_name_ruby: いくちゆか
+    song_variation:
+    - esong_code: 4101B23
+      song_name: 革命前夜
+      content_type: ''
+  - song_name: 革命前夜
+    song_alias:
+    esong_code: 4098B7
+    t_singer_master_id: '62229'
+    singer_name: ミソシタ
+    singer_alias:
+    available_date: '2018-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かくめいせんや
+    singer_name_ruby: みそした
+    song_variation:
+    - esong_code: 4098B7
+      song_name: 革命前夜
+      content_type: ''
+  - song_name: 輝夜に願いを
+    song_alias:
+    esong_code: 4103B16
+    t_singer_master_id: '47187'
+    singer_name: 放課後プリンセス
+    singer_alias:
+    available_date: '2018-11-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かくやにねかいを
+    singer_name_ruby: ほうかこふりんせす
+    song_variation:
+    - esong_code: 4103B16
+      song_name: 輝夜に願いを
       content_type: ''

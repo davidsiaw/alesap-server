@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: 0F 〜Love Forever〜
+    song_alias:
+    esong_code: 3156B15
+    t_singer_master_id: '25072'
+    singer_name: 岸尾 だいすけ(岸尾大輔)
+    singer_alias:
+    available_date: '2013-12-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 家政婦さんっ! 〜トキメクイケメン男子寮〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: せろえふらふふお
+    singer_name_ruby: きしおたいすけ
+    song_variation:
+    - esong_code: 3156B15
+      song_name: 0F 〜Love Forever〜
+      content_type: ''
   - song_name: 0のメルヘン
     song_alias:
     esong_code: 3157A43
@@ -177,7 +194,7 @@ result:
     - esong_code: 3162B15
       song_name: 全.力.女.子!
       content_type: ''
-  - song_name: 蒼穹の彼方 (柚希礼音) [DAM本人歌唱]
+  - song_name: 蒼穹の彼方 (柚希礼音)[DAM本人歌唱]
     song_alias:
     esong_code: 3154B43
     t_singer_master_id: '1349'
@@ -192,7 +209,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3154B43
-      song_name: 蒼穹の彼方 (柚希礼音) [DAM本人歌唱]
+      song_name: 蒼穹の彼方 (柚希礼音)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 蒼穹の誓い feat.Starving Trancer
     song_alias:
@@ -383,23 +400,6 @@ result:
       content_type: ''
   - song_name: SO RIGHT
     song_alias:
-    esong_code: 3150B25
-    t_singer_master_id: '41096'
-    singer_name: 三代目 J Soul Brothers from EXILE TRIBE
-    singer_alias:
-    available_date: '2013-12-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: そらいと
-    singer_name_ruby: さんたいめしえいそうるふらさす
-    song_variation:
-    - esong_code: 3150B25
-      song_name: SO RIGHT
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: SO RIGHT
-    song_alias:
     esong_code: 3149B14
     t_singer_master_id: '41096'
     singer_name: 三代目 J Soul Brothers from EXILE TRIBE
@@ -415,6 +415,23 @@ result:
     - esong_code: 3149B14
       song_name: SO RIGHT
       content_type: ''
+  - song_name: SO RIGHT
+    song_alias:
+    esong_code: 3150B25
+    t_singer_master_id: '41096'
+    singer_name: 三代目 J Soul Brothers from EXILE TRIBE
+    singer_alias:
+    available_date: '2013-12-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: そらいと
+    singer_name_ruby: さんたいめしえいそうるふらさす
+    song_variation:
+    - esong_code: 3150B25
+      song_name: SO RIGHT
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ソラノカナタ
     song_alias:
     esong_code: 3162B23
@@ -474,7 +491,7 @@ result:
     singer_alias:
     available_date: '2013-12-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 牙狼(GARO) -GOLDSTORM- 翔<番組名>
+    tie_up: 牙狼-GARO-<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: そろんく
@@ -500,20 +517,3 @@ result:
     - esong_code: 3159B36
       song_name: そんなバカな・・・
       content_type: ''
-  - song_name: ゾンビ・ファミーユ feat.初音ミク
-    song_alias:
-    esong_code: 3153A25
-    t_singer_master_id: '48194'
-    singer_name: まちす
-    singer_alias:
-    available_date: '2013-12-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: そんひふあみゆ
-    singer_name_ruby: まちす
-    song_variation:
-    - esong_code: 3153A25
-      song_name: ゾンビ・ファミーユ feat.初音ミク
-      content_type: VOCALOID

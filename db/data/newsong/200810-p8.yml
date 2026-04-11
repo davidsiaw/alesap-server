@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1258
-  all_max_cnt: 1360
-  all_country_cnt: 1258
+  max_cnt: 1253
+  all_max_cnt: 1354
+  all_country_cnt: 1253
   song:
-  - song_name: 輝くふたり
-    song_alias:
-    esong_code: 2125B39
-    t_singer_master_id: '34299'
-    singer_name: 高住 ゆたか&花河 由香
-    singer_alias:
-    available_date: '2008-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かかやくふたり
-    singer_name_ruby: たかすみゆたかはなかわゆか
-    song_variation:
-    - esong_code: 2125B39
-      song_name: 輝くふたり
-      content_type: ''
   - song_name: 学園天国
     song_alias:
     esong_code: 2119A14
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2116A15
       song_name: Carl&James
+      content_type: ''
+  - song_name: 軽くいきますか
+    song_alias:
+    esong_code: 2123A40
+    t_singer_master_id: '33147'
+    singer_name: 宮地 佑紀生
+    singer_alias:
+    available_date: '2008-10-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かるくいきますか
+    singer_name_ruby: みやちゆきお
+    song_variation:
+    - esong_code: 2123A40
+      song_name: 軽くいきますか
       content_type: ''

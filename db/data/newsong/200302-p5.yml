@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 535
-  all_max_cnt: 597
-  all_country_cnt: 535
+  max_cnt: 533
+  all_max_cnt: 595
+  all_country_cnt: 533
   song:
   - song_name: 空中ブランコ
     song_alias:
@@ -398,23 +398,6 @@ result:
     - esong_code: 611B19
       song_name: 恋のKnow-How
       content_type: ''
-  - song_name: 恋のバッキン！
-    song_alias:
-    esong_code: 358B29
-    t_singer_master_id: '10959'
-    singer_name: オナッターズ
-    singer_alias:
-    available_date: '2003-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいのはつきん
-    singer_name_ruby: おなつたす
-    song_variation:
-    - esong_code: 358B29
-      song_name: 恋のバッキン！
-      content_type: ''
   - song_name: 恋はサイケデリック(Album Version)
     song_alias:
     esong_code: 251A38
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 146A14
       song_name: 呼吸
+      content_type: ''
+  - song_name: 告白テレフォン
+    song_alias:
+    esong_code: 399A26
+    t_singer_master_id: '341'
+    singer_name: 遠藤 響子(遠藤京子)
+    singer_alias:
+    available_date: '2003-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こくはくてれふおん
+    singer_name_ruby: えんとうきようこ
+    song_variation:
+    - esong_code: 399A26
+      song_name: 告白テレフォン
       content_type: ''

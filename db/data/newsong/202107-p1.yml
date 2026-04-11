@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 933
-  all_country_cnt: 880
+  max_cnt: 867
+  all_max_cnt: 920
+  all_country_cnt: 867
   song:
-  - song_name: 悪鬼と砂糖
-    song_alias:
-    esong_code: 4525A4
-    t_singer_master_id: '68202'
-    singer_name: IDONO KAWAZU
-    singer_alias:
-    available_date: '2021-07-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: あつきとしゆか
-    singer_name_ruby: いとのかわす
-    song_variation:
-    - esong_code: 4525A4
-      song_name: 悪鬼と砂糖
-      content_type: VOCALOID
   - song_name: At That Place and Time
     song_alias:
     esong_code: 4519A12
@@ -160,23 +143,6 @@ result:
     - esong_code: 4523B6
       song_name: アポイント・シグナル
       content_type: ''
-  - song_name: アポストロフィー
-    song_alias:
-    esong_code: 4519A37
-    t_singer_master_id: '56129'
-    singer_name: "*Luna"
-    singer_alias:
-    available_date: '2021-07-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: あほすとろふい
-    singer_name_ruby: るな
-    song_variation:
-    - esong_code: 4519A37
-      song_name: アポストロフィー
-      content_type: VOCALOID
   - song_name: 甘えちゃってSorry [歌ってみた利用OK]
     song_alias:
     esong_code: 4522A36
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4521B42
       song_name: Under the Sun
+      content_type: ''
+  - song_name: "「あんたバカァ?」のうた"
+    song_alias:
+    esong_code: 4520A32
+    t_singer_master_id: '66799'
+    singer_name: 針 スピ子
+    singer_alias:
+    available_date: '2021-07-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんたはかあのうた
+    singer_name_ruby: はりすひこ
+    song_variation:
+    - esong_code: 4520A32
+      song_name: "「あんたバカァ?」のうた"
+      content_type: ''
+  - song_name: アンダンテに恋をして!
+    song_alias:
+    esong_code: 4521B26
+    t_singer_master_id: '16272'
+    singer_name: angela(ANGELA)
+    singer_alias:
+    available_date: '2021-07-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 乙女ゲームの破滅フラグしかない悪役令嬢に転生して...<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんたんてにこいを
+    singer_name_ruby: あんしえら
+    song_variation:
+    - esong_code: 4521B26
+      song_name: アンダンテに恋をして!
       content_type: ''

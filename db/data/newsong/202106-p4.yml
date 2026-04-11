@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1130
-  all_country_cnt: 1031
+  max_cnt: 1019
+  all_max_cnt: 1118
+  all_country_cnt: 1019
   song:
-  - song_name: えにし道
-    song_alias:
-    esong_code: 3924A20
-    t_singer_master_id: '62465'
-    singer_name: 山川 倖一
-    singer_alias:
-    available_date: '2021-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えにしみち
-    singer_name_ruby: やまかわこういち
-    song_variation:
-    - esong_code: 3924A20
-      song_name: えにし道
-      content_type: ''
-  - song_name: 恵比寿
-    song_alias:
-    esong_code: 4509A26
-    t_singer_master_id: '55820'
-    singer_name: 真田 ナオキ
-    singer_alias:
-    available_date: '2021-06-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: えひす
-    singer_name_ruby: さなたなおき
-    song_variation:
-    - esong_code: 4509A26
-      song_name: 恵比寿
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: Everyday 最後の晩餐
-    song_alias:
-    esong_code: 4511A17
-    t_singer_master_id: '65682'
-    singer_name: 夕闇に誘いし漆黒の天使達
-    singer_alias:
-    available_date: '2021-06-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えふりていさいこ
-    singer_name_ruby: ゆうやみにいさないししつこくのえんし
-    song_variation:
-    - esong_code: 4511A17
-      song_name: Everyday 最後の晩餐
-      content_type: ''
   - song_name: Error
     song_alias:
     esong_code: 4514B46
@@ -298,23 +247,6 @@ result:
       content_type: ''
   - song_name: 踊
     song_alias:
-    esong_code: 4514A25
-    t_singer_master_id: '67068'
-    singer_name: Ado
-    singer_alias:
-    available_date: '2021-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おと
-    singer_name_ruby: あと
-    song_variation:
-    - esong_code: 4514A25
-      song_name: 踊
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 踊
-    song_alias:
     esong_code: 4507A46
     t_singer_master_id: '67068'
     singer_name: Ado
@@ -330,6 +262,23 @@ result:
     - esong_code: 4507A46
       song_name: 踊
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 踊
+    song_alias:
+    esong_code: 4514A25
+    t_singer_master_id: '67068'
+    singer_name: Ado
+    singer_alias:
+    available_date: '2021-06-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おと
+    singer_name_ruby: あと
+    song_variation:
+    - esong_code: 4514A25
+      song_name: 踊
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: おとぎばなし
     song_alias:
     esong_code: 4512B6
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4510B28
       song_name: 'off'
+      content_type: ''
+  - song_name: オペラ劇場・『嗚呼それが我が宿命』
+    song_alias:
+    esong_code: 4513A6
+    t_singer_master_id: '68062'
+    singer_name: 徳井 青空&松井 恵理子&Lynn&大和田 仁美
+    singer_alias:
+    available_date: '2021-06-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: うまよん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おへらけきしよ
+    singer_name_ruby: とくいそらまついえりこりん
+    song_variation:
+    - esong_code: 4513A6
+      song_name: オペラ劇場・『嗚呼それが我が宿命』
+      content_type: ''
+  - song_name: 朧
+    song_alias:
+    esong_code: 4506B43
+    t_singer_master_id: '8635'
+    singer_name: DIR EN GREY(Dir en grey)
+    singer_alias:
+    available_date: '2021-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おほろ
+    singer_name_ruby: ているあんくれい
+    song_variation:
+    - esong_code: 4506B43
+      song_name: 朧
+      content_type: ''
+  - song_name: 想い
+    song_alias:
+    esong_code: 4506B24
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2021-06-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもい
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 4506B24
+      song_name: 想い
       content_type: ''

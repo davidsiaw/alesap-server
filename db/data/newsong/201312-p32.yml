@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: のんのん日和
+    song_alias:
+    esong_code: 3153A32
+    t_singer_master_id: '49427'
+    singer_name: 小岩井 ことり&村川 梨衣&佐倉 綾音&阿澄 佳奈
+    singer_alias:
+    available_date: '2013-12-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: のんのんびより<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: のんのんひより
+    singer_name_ruby: こいわいことりむらかわりえさ
+    song_variation:
+    - esong_code: 3153A32
+      song_name: のんのん日和
+      content_type: ''
   - song_name: 背景、夏に溺れる feat.初音ミク
     song_alias:
     esong_code: 3152B41
@@ -60,21 +77,21 @@ result:
       content_type: ''
   - song_name: 博多時雨
     song_alias:
-    esong_code: 2993A3
+    esong_code: 3155A8
     t_singer_master_id: '2270'
     singer_name: 三門 忠司
     singer_alias:
-    available_date: '2013-12-10'
+    available_date: '2013-12-17'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM生音
     song_name_ruby: はかたしくれ
     singer_name_ruby: みかとちゆうし
     song_variation:
-    - esong_code: 2993A3
+    - esong_code: 3155A8
       song_name: 博多時雨
-      content_type: ''
+      content_type: DAM生音
   - song_name: 博多時雨
     song_alias:
     esong_code: 3155A27
@@ -94,21 +111,21 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 博多時雨
     song_alias:
-    esong_code: 3155A8
+    esong_code: 2993A3
     t_singer_master_id: '2270'
     singer_name: 三門 忠司
     singer_alias:
-    available_date: '2013-12-17'
+    available_date: '2013-12-10'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type:
     song_name_ruby: はかたしくれ
     singer_name_ruby: みかとちゆうし
     song_variation:
-    - esong_code: 3155A8
+    - esong_code: 2993A3
       song_name: 博多時雨
-      content_type: DAM生音
+      content_type: ''
   - song_name: バカの飲み薬 feat.初音ミク
     song_alias:
     esong_code: 3159A17
@@ -296,6 +313,23 @@ result:
     - esong_code: 958B4
       song_name: 裸の王様グルグル
       content_type: ''
+  - song_name: BUTTERFLY
+    song_alias:
+    esong_code: 3149A26
+    t_singer_master_id: '16862'
+    singer_name: DAIGO(DAIGO☆STARDUST)
+    singer_alias:
+    available_date: '2013-12-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はたふらい
+    singer_name_ruby: たいこ
+    song_variation:
+    - esong_code: 3149A26
+      song_name: BUTTERFLY
+      content_type: ''
   - song_name: ハチャメチャ・オレ!キング
     song_alias:
     esong_code: 3152B26
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 1075B14
       song_name: HATO TO MAGI
-      content_type: ''
-  - song_name: heart beat
-    song_alias:
-    esong_code: 3158A24
-    t_singer_master_id: '49493'
-    singer_name: DOOKIE FESTA
-    singer_alias:
-    available_date: '2013-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はとひと
-    singer_name_ruby: とうきふえすた
-    song_variation:
-    - esong_code: 3158A24
-      song_name: heart beat
-      content_type: ''
-  - song_name: HEART BEAT VOICE (私の音が聞こえる?)
-    song_alias:
-    esong_code: 633A15
-    t_singer_master_id: '2892'
-    singer_name: ICE
-    singer_alias:
-    available_date: '2013-12-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はとひとほい
-    singer_name_ruby: あいす
-    song_variation:
-    - esong_code: 633A15
-      song_name: HEART BEAT VOICE (私の音が聞こえる?)
       content_type: ''

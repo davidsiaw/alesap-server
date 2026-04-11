@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1344
-  all_max_cnt: 1519
-  all_country_cnt: 1344
+  max_cnt: 1334
+  all_max_cnt: 1509
+  all_country_cnt: 1334
   song:
+  - song_name: 君の笑顔
+    song_alias:
+    esong_code: 3883A34
+    t_singer_master_id: '5316'
+    singer_name: 瀬戸 つよし(瀬藤正則)
+    singer_alias:
+    available_date: '2017-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのえかお
+    singer_name_ruby: せとつよし
+    song_variation:
+    - esong_code: 3883A34
+      song_name: 君の笑顔
+      content_type: ''
   - song_name: キミの全てを見せてよ feat.初音ミク,GUMI,鏡音リン,IA
     song_alias:
     esong_code: 3876B3
@@ -77,23 +94,6 @@ result:
       content_type: ''
   - song_name: キャラバン
     song_alias:
-    esong_code: 3879A25
-    t_singer_master_id: '52553'
-    singer_name: LAMP IN TERREN
-    singer_alias:
-    available_date: '2017-09-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやらはん
-    singer_name_ruby: らんふいんてれん
-    song_variation:
-    - esong_code: 3879A25
-      song_name: キャラバン
-      content_type: ''
-  - song_name: キャラバン
-    song_alias:
     esong_code: 3883A3
     t_singer_master_id: '56174'
     singer_name: Eve
@@ -107,6 +107,23 @@ result:
     singer_name_ruby: いふ
     song_variation:
     - esong_code: 3883A3
+      song_name: キャラバン
+      content_type: ''
+  - song_name: キャラバン
+    song_alias:
+    esong_code: 3879A25
+    t_singer_master_id: '52553'
+    singer_name: LAMP IN TERREN
+    singer_alias:
+    available_date: '2017-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやらはん
+    singer_name_ruby: らんふいんてれん
+    song_variation:
+    - esong_code: 3879A25
       song_name: キャラバン
       content_type: ''
   - song_name: Carry Forward
@@ -298,21 +315,21 @@ result:
       content_type: ''
   - song_name: 京都二寧坂
     song_alias:
-    esong_code: 2240B6
+    esong_code: 2240A16
     t_singer_master_id: '1655'
     singer_name: 中村 美律子
     singer_alias:
-    available_date: '2017-09-27'
+    available_date: '2017-09-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: JOY生演奏
     song_name_ruby: きようとにねんさか
     singer_name_ruby: なかむらみつこ
     song_variation:
-    - esong_code: 2240B6
+    - esong_code: 2240A16
       song_name: 京都二寧坂
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: JOY生演奏
   - song_name: 京都二寧坂
     song_alias:
     esong_code: 3879B45
@@ -332,21 +349,21 @@ result:
       content_type: ''
   - song_name: 京都二寧坂
     song_alias:
-    esong_code: 2240A16
+    esong_code: 2240B6
     t_singer_master_id: '1655'
     singer_name: 中村 美律子
     singer_alias:
-    available_date: '2017-09-29'
+    available_date: '2017-09-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOY生演奏
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: きようとにねんさか
     singer_name_ruby: なかむらみつこ
     song_variation:
-    - esong_code: 2240A16
+    - esong_code: 2240B6
       song_name: 京都二寧坂
-      content_type: JOY生演奏
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 今日に恋色 (歌唱:伊達朱里紗)
     song_alias:
     esong_code: 3859A1
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3868B22
       song_name: キング&クイーン
-      content_type: ''
-  - song_name: 銀魂メドレー Vol.5
-    song_alias:
-    esong_code: 3883A43
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2017-09-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんたまめとれ
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 3883A43
-      song_name: 銀魂メドレー Vol.5
       content_type: ''

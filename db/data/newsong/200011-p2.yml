@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 320
-  all_max_cnt: 344
-  all_country_cnt: 320
+  max_cnt: 319
+  all_max_cnt: 343
+  all_country_cnt: 319
   song:
-  - song_name: COUNT DOWN
-    song_alias:
-    esong_code: 486B30
-    t_singer_master_id: '1877'
-    singer_name: 光GENJI
-    singer_alias:
-    available_date: '2000-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かうんとたうん
-    singer_name_ruby: ひかるけんし
-    song_variation:
-    - esong_code: 486B30
-      song_name: COUNT DOWN
-      content_type: ''
   - song_name: 輝く大地・北海道
     song_alias:
     esong_code: 466A38
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 100B39
       song_name: 虚空の迷宮
+      content_type: ''
+  - song_name: 心の距離
+    song_alias:
+    esong_code: 482B36
+    t_singer_master_id: '1639'
+    singer_name: 中西 圭三
+    singer_alias:
+    available_date: '2000-11-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころのきより
+    singer_name_ruby: なかにしけいそう
+    song_variation:
+    - esong_code: 482B36
+      song_name: 心の距離
       content_type: ''

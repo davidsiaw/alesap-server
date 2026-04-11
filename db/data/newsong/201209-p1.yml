@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1398
-  all_max_cnt: 1888
-  all_country_cnt: 1398
+  max_cnt: 1393
+  all_max_cnt: 1884
+  all_country_cnt: 1393
   song:
-  - song_name: 愛をこめて
-    song_alias:
-    esong_code: 2846A7
-    t_singer_master_id: '6560'
-    singer_name: V6
-    singer_alias:
-    available_date: '2012-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいをこめて
-    singer_name_ruby: ふいしつくす
-    song_variation:
-    - esong_code: 2846A7
-      song_name: 愛をこめて
-      content_type: ''
   - song_name: あおっぱな
     song_alias:
     esong_code: 2879A40
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2854B34
       song_name: あっという間の少女 (公演頑張った組)
+      content_type: ''
+  - song_name: アップデイトご一緒に
+    song_alias:
+    esong_code: 2888B16
+    t_singer_master_id: '45904'
+    singer_name: 佐藤 聡美&阪口 大助
+    singer_alias:
+    available_date: '2012-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 古典部の屈託<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あつふていとこ
+    singer_name_ruby: さとうさとみさかくちた
+    song_variation:
+    - esong_code: 2888B16
+      song_name: アップデイトご一緒に
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
   - song_name: 誘い
     song_alias:
@@ -347,7 +347,7 @@ result:
     - esong_code: 1443A37
       song_name: 井の頭線・あれから
       content_type: ''
-  - song_name: イノセントワールド
+  - song_name: innocent world
     song_alias:
     esong_code: 1426B18
     t_singer_master_id: '2287'
@@ -362,7 +362,7 @@ result:
     singer_name_ruby: みすたちるとれん
     song_variation:
     - esong_code: 1426B18
-      song_name: イノセントワールド
+      song_name: innocent world
       content_type: JOY SHOW劇
   - song_name: いのち返して
     song_alias:
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: いのちの限り
     song_alias:
-    esong_code: 1436A42
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2006-01-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのちのかきり
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 1436A42
-      song_name: いのちの限り
-      content_type: ''
-  - song_name: いのちの限り
-    song_alias:
     esong_code: 1440B19
     t_singer_master_id: '1518'
     singer_name: 天童 よしみ
@@ -415,6 +398,23 @@ result:
     - esong_code: 1440B19
       song_name: いのちの限り
       content_type: DAM生音
+  - song_name: いのちの限り
+    song_alias:
+    esong_code: 1436A42
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2006-01-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのちのかきり
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 1436A42
+      song_name: いのちの限り
+      content_type: ''
   - song_name: いのちのこたえ
     song_alias:
     esong_code: 1432B21

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1415
-  all_max_cnt: 1522
-  all_country_cnt: 1415
+  max_cnt: 1411
+  all_max_cnt: 1518
+  all_country_cnt: 1411
   song:
-  - song_name: We can go
-    song_alias:
-    esong_code: 1889A1
-    t_singer_master_id: '11184'
-    singer_name: 鬼束 ちひろ
-    singer_alias:
-    available_date: '2007-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ういきやんこ
-    singer_name_ruby: おにつかちひろ
-    song_variation:
-    - esong_code: 1889A1
-      song_name: We can go
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: WINNER
     song_alias:
     esong_code: 1877A24
@@ -483,6 +466,23 @@ result:
     - esong_code: 1878B33
       song_name: 栄光の架橋
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: ASIAN WINDS!(アジアの風) (彩吹真央&真飛聖)
+    song_alias:
+    esong_code: 1875B31
+    t_singer_master_id: '1349'
+    singer_name: 宝塚歌劇団
+    singer_alias:
+    available_date: '2007-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいしあんういんす
+    singer_name_ruby: たからつかかけき
+    song_variation:
+    - esong_code: 1875B31
+      song_name: ASIAN WINDS!(アジアの風) (彩吹真央&真飛聖)
+      content_type: ''
   - song_name: HMVヒットメドレー 〜2007年7月ランキング〜
     song_alias:
     esong_code: 1881B18

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1230
-  all_max_cnt: 1369
-  all_country_cnt: 1230
+  max_cnt: 1222
+  all_max_cnt: 1361
+  all_country_cnt: 1222
   song:
-  - song_name: 犬吠埼 〜おれの故郷〜
-    song_alias:
-    esong_code: 791A24
-    t_singer_master_id: '805'
-    singer_name: 弦 哲也
-    singer_alias:
-    available_date: '2015-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: いぬほうさきおれの
-    singer_name_ruby: けんてつや
-    song_variation:
-    - esong_code: 791A24
-      song_name: 犬吠埼 〜おれの故郷〜
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: Innocent Wind
     song_alias:
     esong_code: 3432B37
@@ -151,7 +134,7 @@ result:
     singer_alias:
     available_date: '2015-05-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・シンフォニア THE ANIMATION<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: いひつ
@@ -168,7 +151,7 @@ result:
     singer_alias:
     available_date: '2015-05-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 愛・天地無用!<番組名>
+    tie_up: 天地無用!<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いまここにいる
@@ -474,23 +457,6 @@ result:
       content_type: ''
   - song_name: 鶯〜うぐいす〜
     song_alias:
-    esong_code: 784B38
-    t_singer_master_id: '1047'
-    singer_name: 島津 悦子
-    singer_alias:
-    available_date: '2015-05-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: うくいす
-    singer_name_ruby: しまつえつこ
-    song_variation:
-    - esong_code: 784B38
-      song_name: 鶯〜うぐいす〜
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 鶯〜うぐいす〜
-    song_alias:
     esong_code: 3302B48
     t_singer_master_id: '1047'
     singer_name: 島津 悦子
@@ -506,6 +472,23 @@ result:
     - esong_code: 3302B48
       song_name: 鶯〜うぐいす〜
       content_type: ''
+  - song_name: 鶯〜うぐいす〜
+    song_alias:
+    esong_code: 784B38
+    t_singer_master_id: '1047'
+    singer_name: 島津 悦子
+    singer_alias:
+    available_date: '2015-05-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: うくいす
+    singer_name_ruby: しまつえつこ
+    song_variation:
+    - esong_code: 784B38
+      song_name: 鶯〜うぐいす〜
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 嘘つきピーターパン feat.初音ミク
     song_alias:
     esong_code: 3440A10
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3440A10
       song_name: 嘘つきピーターパン feat.初音ミク
+      content_type: VOCALOID
+  - song_name: うたかた、夏の終わりに隠した feat.鏡音レン
+    song_alias:
+    esong_code: 3440A5
+    t_singer_master_id: '47115'
+    singer_name: スズム
+    singer_alias:
+    available_date: '2015-05-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: うたかたなつのおわり
+    singer_name_ruby: すすむ
+    song_variation:
+    - esong_code: 3440A5
+      song_name: うたかた、夏の終わりに隠した feat.鏡音レン
       content_type: VOCALOID

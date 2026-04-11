@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 662
-  all_max_cnt: 737
-  all_country_cnt: 662
+  max_cnt: 659
+  all_max_cnt: 734
+  all_country_cnt: 659
   song:
-  - song_name: south orange
-    song_alias:
-    esong_code: 101A32
-    t_singer_master_id: '14621'
-    singer_name: MINMI
-    singer_alias:
-    available_date: '2003-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さうすおれんし
-    singer_name_ruby: みんみ
-    song_variation:
-    - esong_code: 101A32
-      song_name: south orange
-      content_type: ''
   - song_name: Sound Track
     song_alias:
     esong_code: 37B26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 85B29
       song_name: 幸福インタビュー
+      content_type: ''
+  - song_name: しあわせのうた
+    song_alias:
+    esong_code: 79B26
+    t_singer_master_id: '14603'
+    singer_name: 森 進一&森 昌子
+    singer_alias:
+    available_date: '2003-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 釣りバカ日誌<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせのうた
+    singer_name_ruby: もりしんいちもりまさこ
+    song_variation:
+    - esong_code: 79B26
+      song_name: しあわせのうた
       content_type: ''

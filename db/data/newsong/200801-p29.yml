@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
-  - song_name: 夢の途中
-    song_alias:
-    esong_code: 1929A45
-    t_singer_master_id: '18395'
-    singer_name: WaT
-    singer_alias:
-    available_date: '2008-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめのとちゆう
-    singer_name_ruby: わつと
-    song_variation:
-    - esong_code: 1929A45
-      song_name: 夢の途中
-      content_type: ''
-  - song_name: YUME日和
-    song_alias:
-    esong_code: 1941B41
-    t_singer_master_id: '10342'
-    singer_name: 合唱
-    singer_alias:
-    available_date: '2008-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめひより
-    singer_name_ruby: かつしよう
-    song_variation:
-    - esong_code: 1941B41
-      song_name: YUME日和
-      content_type: ''
-  - song_name: 夢よ はばたけ
-    song_alias:
-    esong_code: 1945B46
-    t_singer_master_id: '2643'
-    singer_name: 渡辺 要
-    singer_alias:
-    available_date: '2008-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめよははたけ
-    singer_name_ruby: わたなへかなめ
-    song_variation:
-    - esong_code: 1945B46
-      song_name: 夢よ はばたけ
-      content_type: ''
   - song_name: 夢をあきらめないで
     song_alias:
     esong_code: 1941B42
@@ -142,6 +91,23 @@ result:
     song_variation:
     - esong_code: 1929A40
       song_name: よく来たね
+      content_type: ''
+  - song_name: 横浜おまえだけ
+    song_alias:
+    esong_code: 1808A24
+    t_singer_master_id: '19545'
+    singer_name: 逢川 葵
+    singer_alias:
+    available_date: '2008-01-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よこはまおまえたけ
+    singer_name_ruby: あいかわまもる
+    song_variation:
+    - esong_code: 1808A24
+      song_name: 横浜おまえだけ
       content_type: ''
   - song_name: 夜深けの流星達
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 1929B16
       song_name: Real-Action
       content_type: JOYうたいり
+  - song_name: リッスントゥザミュージック
+    song_alias:
+    esong_code: 1940B12
+    t_singer_master_id: '6086'
+    singer_name: エレファントカシマシ
+    singer_alias:
+    available_date: '2008-01-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りつすんとうさみゆ
+    singer_name_ruby: えれふあんとかしまし
+    song_variation:
+    - esong_code: 1940B12
+      song_name: リッスントゥザミュージック
+      content_type: ''
+  - song_name: LIBERTY
+    song_alias:
+    esong_code: 1937B34
+    t_singer_master_id: '28174'
+    singer_name: The DUST'N'BONEZ
+    singer_alias:
+    available_date: '2008-01-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りはてい
+    singer_name_ruby: さたすとうんほん
+    song_variation:
+    - esong_code: 1937B34
+      song_name: LIBERTY
+      content_type: ''

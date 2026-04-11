@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: 月曜日
-    song_alias:
-    esong_code: 1491B18
-    t_singer_master_id: '22881'
-    singer_name: タカチャ
-    singer_alias:
-    available_date: '2006-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けつようひ
-    singer_name_ruby: たかちや
-    song_variation:
-    - esong_code: 1491B18
-      song_name: 月曜日
-      content_type: ''
   - song_name: game
     song_alias:
     esong_code: 1490A23
@@ -162,23 +145,6 @@ result:
       content_type: ''
   - song_name: 恋桜
     song_alias:
-    esong_code: 1488A24
-    t_singer_master_id: '414'
-    singer_name: 岡 ゆう子
-    singer_alias:
-    available_date: '2006-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: こいさくら
-    singer_name_ruby: おかゆうこ
-    song_variation:
-    - esong_code: 1488A24
-      song_name: 恋桜
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 恋桜
-    song_alias:
     esong_code: 1481B38
     t_singer_master_id: '414'
     singer_name: 岡 ゆう子
@@ -194,6 +160,23 @@ result:
     - esong_code: 1481B38
       song_name: 恋桜
       content_type: ''
+  - song_name: 恋桜
+    song_alias:
+    esong_code: 1488A24
+    t_singer_master_id: '414'
+    singer_name: 岡 ゆう子
+    singer_alias:
+    available_date: '2006-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: こいさくら
+    singer_name_ruby: おかゆうこ
+    song_variation:
+    - esong_code: 1488A24
+      song_name: 恋桜
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 恋路
     song_alias:
     esong_code: 855A7
@@ -247,23 +230,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: 恋のパフォーマンス 〜to be with you〜
     song_alias:
-    esong_code: 1482A24
-    t_singer_master_id: '13997'
-    singer_name: Kimeru
-    singer_alias:
-    available_date: '2006-04-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいのはふおまん
-    singer_name_ruby: きめる
-    song_variation:
-    - esong_code: 1482A24
-      song_name: 恋のパフォーマンス 〜to be with you〜
-      content_type: ''
-  - song_name: 恋のパフォーマンス 〜to be with you〜
-    song_alias:
     esong_code: 1488A30
     t_singer_master_id: '13997'
     singer_name: Kimeru
@@ -279,6 +245,23 @@ result:
     - esong_code: 1488A30
       song_name: 恋のパフォーマンス 〜to be with you〜
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 恋のパフォーマンス 〜to be with you〜
+    song_alias:
+    esong_code: 1482A24
+    t_singer_master_id: '13997'
+    singer_name: Kimeru
+    singer_alias:
+    available_date: '2006-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのはふおまん
+    singer_name_ruby: きめる
+    song_variation:
+    - esong_code: 1482A24
+      song_name: 恋のパフォーマンス 〜to be with you〜
+      content_type: ''
   - song_name: 恋のファンキーストリート〜バースデイ
     song_alias:
     esong_code: 1488B1
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1490A27
       song_name: ここへおいでよ
+      content_type: ''
+  - song_name: Go!Go!ライダー
+    song_alias:
+    esong_code: 1515A3
+    t_singer_master_id: '24880'
+    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
+    singer_alias:
+    available_date: '2006-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: THE FROGMAN SHOW<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ここらいた
+    singer_name_ruby: ふあんきもんきへいひす
+    song_variation:
+    - esong_code: 1515A3
+      song_name: Go!Go!ライダー
       content_type: ''

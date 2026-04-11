@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1550
-  all_country_cnt: 1338
+  max_cnt: 1320
+  all_max_cnt: 1532
+  all_country_cnt: 1320
   song:
-  - song_name: キャッチボール
-    song_alias:
-    esong_code: 4136B41
-    t_singer_master_id: '37701'
-    singer_name: 高橋 優
-    singer_alias:
-    available_date: '2019-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやつちほる
-    singer_name_ruby: たかはしゆう
-    song_variation:
-    - esong_code: 4136B41
-      song_name: キャッチボール
-      content_type: ''
-  - song_name: CATCH ME
-    song_alias:
-    esong_code: 4123B15
-    t_singer_master_id: '51025'
-    singer_name: THE ORAL CIGARETTES
-    singer_alias:
-    available_date: '2019-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: きやつちみ
-    singer_name_ruby: しおらるしかれつつ
-    song_variation:
-    - esong_code: 4123B15
-      song_name: CATCH ME
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: Can't Wait
-    song_alias:
-    esong_code: 4150B28
-    t_singer_master_id: '28360'
-    singer_name: ONE OK ROCK
-    singer_alias:
-    available_date: '2019-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんとうえいと
-    singer_name_ruby: わんおくろつく
-    song_variation:
-    - esong_code: 4150B28
-      song_name: Can't Wait
-      content_type: ''
-  - song_name: Can't Keep it Cool
-    song_alias:
-    esong_code: 4146A9
-    t_singer_master_id: '63383'
-    singer_name: 高野 洸(AKIRA TAKANO)
-    singer_alias:
-    available_date: '2019-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんときふいつ
-    singer_name_ruby: たかのあきら
-    song_variation:
-    - esong_code: 4146A9
-      song_name: Can't Keep it Cool
-      content_type: ''
-  - song_name: Can't help myself
-    song_alias:
-    esong_code: 4146B9
-    t_singer_master_id: '60057'
-    singer_name: FOMARE
-    singer_alias:
-    available_date: '2019-02-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんとへるふまい
-    singer_name_ruby: ふおまれ
-    song_variation:
-    - esong_code: 4146B9
-      song_name: Can't help myself
-      content_type: ''
   - song_name: canvas
     song_alias:
     esong_code: 4147A31
@@ -108,23 +23,6 @@ result:
     song_variation:
     - esong_code: 4147A31
       song_name: canvas
-      content_type: ''
-  - song_name: Canvas
-    song_alias:
-    esong_code: 4139B18
-    t_singer_master_id: '38511'
-    singer_name: androp
-    singer_alias:
-    available_date: '2019-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんはす
-    singer_name_ruby: あんとろつふ
-    song_variation:
-    - esong_code: 4139B18
-      song_name: Canvas
       content_type: ''
   - song_name: Q.E.D.
     song_alias:
@@ -162,23 +60,6 @@ result:
       content_type: 東方
   - song_name: 兄弟連歌
     song_alias:
-    esong_code: 4144A27
-    t_singer_master_id: '62055'
-    singer_name: 北島兄弟
-    singer_alias:
-    available_date: '2019-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きようたいれんか
-    singer_name_ruby: きたしまきようたい
-    song_variation:
-    - esong_code: 4144A27
-      song_name: 兄弟連歌
-      content_type: ''
-  - song_name: 兄弟連歌
-    song_alias:
     esong_code: 4153B36
     t_singer_master_id: '62055'
     singer_name: 北島兄弟
@@ -194,6 +75,23 @@ result:
     - esong_code: 4153B36
       song_name: 兄弟連歌
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 兄弟連歌
+    song_alias:
+    esong_code: 4144A27
+    t_singer_master_id: '62055'
+    singer_name: 北島兄弟
+    singer_alias:
+    available_date: '2019-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きようたいれんか
+    singer_name_ruby: きたしまきようたい
+    song_variation:
+    - esong_code: 4144A27
+      song_name: 兄弟連歌
+      content_type: ''
   - song_name: 共犯
     song_alias:
     esong_code: 4141A28
@@ -406,7 +304,7 @@ result:
     singer_alias:
     available_date: '2019-02-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: くつしよふまい
@@ -414,23 +312,6 @@ result:
     song_variation:
     - esong_code: 4148B36
       song_name: Good Job! My friend!
-      content_type: ''
-  - song_name: GOOD NIGHT BABY
-    song_alias:
-    esong_code: 4137A22
-    t_singer_master_id: '52236'
-    singer_name: あいみょん
-    singer_alias:
-    available_date: '2019-02-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くつとないとへ
-    singer_name_ruby: あいみよん
-    song_variation:
-    - esong_code: 4137A22
-      song_name: GOOD NIGHT BABY
       content_type: ''
   - song_name: GOOD NIGHT BABY
     song_alias:
@@ -449,6 +330,23 @@ result:
     - esong_code: 4137A3
       song_name: GOOD NIGHT BABY
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: GOOD NIGHT BABY
+    song_alias:
+    esong_code: 4137A22
+    t_singer_master_id: '52236'
+    singer_name: あいみょん
+    singer_alias:
+    available_date: '2019-02-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとないとへ
+    singer_name_ruby: あいみよん
+    song_variation:
+    - esong_code: 4137A22
+      song_name: GOOD NIGHT BABY
+      content_type: ''
   - song_name: Goodbye
     song_alias:
     esong_code: 4147B37
@@ -517,3 +415,105 @@ result:
     - esong_code: 4146B41
       song_name: CLIMAX NUMBER
       content_type: ''
+  - song_name: クライム サスペンス
+    song_alias:
+    esong_code: 4141A38
+    t_singer_master_id: '2970'
+    singer_name: THE COLLECTORS
+    singer_alias:
+    available_date: '2019-02-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらいむさすへんす
+    singer_name_ruby: さこれくたす
+    song_variation:
+    - esong_code: 4141A38
+      song_name: クライム サスペンス
+      content_type: ''
+  - song_name: ClassicaLoid〜クラシカロイドのテーマ〜 (インスト)
+    song_alias:
+    esong_code: 4142A10
+    t_singer_master_id: '2111'
+    singer_name: 布袋 寅泰
+    singer_alias:
+    available_date: '2019-02-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらしかろいとくら
+    singer_name_ruby: ほていともやす
+    song_variation:
+    - esong_code: 4142A10
+      song_name: ClassicaLoid〜クラシカロイドのテーマ〜 (インスト)
+      content_type: ''
+  - song_name: グラブジャムン
+    song_alias:
+    esong_code: 4149B38
+    t_singer_master_id: '46242'
+    singer_name: TEAM SHACHI(チームしゃちほこ)
+    singer_alias:
+    available_date: '2019-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらふしやむん
+    singer_name_ruby: ちむしやち
+    song_variation:
+    - esong_code: 4149B38
+      song_name: グラブジャムン
+      content_type: ''
+  - song_name: 暗闇
+    song_alias:
+    esong_code: 4136B33
+    t_singer_master_id: '59091'
+    singer_name: STU48
+    singer_alias:
+    available_date: '2019-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: くらやみ
+    singer_name_ruby: えすていゆふおていえいと
+    song_variation:
+    - esong_code: 4136B33
+      song_name: 暗闇
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: クリエイティブオールナイト
+    song_alias:
+    esong_code: 4147A28
+    t_singer_master_id: '53554'
+    singer_name: Awesome City Club
+    singer_alias:
+    available_date: '2019-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くりえいていふお
+    singer_name_ruby: おさむしていくらふ
+    song_variation:
+    - esong_code: 4147A28
+      song_name: クリエイティブオールナイト
+      content_type: ''
+  - song_name: GRISAILLE
+    song_alias:
+    esong_code: 4149B31
+    t_singer_master_id: '44785'
+    singer_name: SOUND HOLIC feat.Nana Takahashi(高橋菜々)
+    singer_alias:
+    available_date: '2019-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方心綺楼 〜Hopeless Masquerade.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: くりさいゆ
+    singer_name_ruby: さうんとほりつくふいちやりんくな
+    song_variation:
+    - esong_code: 4149B31
+      song_name: GRISAILLE
+      content_type: 東方

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: 譫言 -沈みゆく私の-
-    song_alias:
-    esong_code: 2902B8
-    t_singer_master_id: '37034'
-    singer_name: Ray
-    singer_alias:
-    available_date: '2012-10-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 十鬼の絆 関ヶ原奇譚<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うわことしすみゆ
-    singer_name_ruby: れい
-    song_variation:
-    - esong_code: 2902B8
-      song_name: 譫言 -沈みゆく私の-
-      content_type: ''
   - song_name: 噂だけの世紀末
     song_alias:
     esong_code: 2922B1
@@ -245,7 +228,7 @@ result:
     - esong_code: 804B25
       song_name: 笑顔のふるさと築くため 〜消防団を讃える唄〜
       content_type: ''
-  - song_name: Exciter!! (真飛聖 ほか) [DAM本人歌唱]
+  - song_name: Exciter!! (真飛聖 ほか)[DAM本人歌唱]
     song_alias:
     esong_code: 2931B25
     t_singer_master_id: '1349'
@@ -260,7 +243,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 2931B25
-      song_name: Exciter!! (真飛聖 ほか) [DAM本人歌唱]
+      song_name: Exciter!! (真飛聖 ほか)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: Executionerの恋
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2905A31
       song_name: エレキ
+      content_type: ''
+  - song_name: エレクトリックボーイ
+    song_alias:
+    esong_code: 2734A32
+    t_singer_master_id: '40445'
+    singer_name: KARA
+    singer_alias:
+    available_date: '2012-10-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えれくとりつくほ
+    singer_name_ruby: から
+    song_variation:
+    - esong_code: 2734A32
+      song_name: エレクトリックボーイ
       content_type: ''

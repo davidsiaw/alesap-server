@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1365
-  all_max_cnt: 1538
-  all_country_cnt: 1365
+  max_cnt: 1361
+  all_max_cnt: 1534
+  all_country_cnt: 1361
   song:
-  - song_name: 風ノ唄
-    song_alias:
-    esong_code: 3673A27
-    t_singer_master_id: '15296'
-    singer_name: FLOW
-    singer_alias:
-    available_date: '2016-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Tales of Zestiria the X<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせのうた
-    singer_name_ruby: ふろう
-    song_variation:
-    - esong_code: 3673A27
-      song_name: 風ノ唄
-      content_type: ''
   - song_name: 風の中のメロディー
     song_alias:
     esong_code: 3676A10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3675B10
       song_name: 飢餓々々帰郷
+      content_type: ''
+  - song_name: 起死回生
+    song_alias:
+    esong_code: 3668A23
+    t_singer_master_id: '50823'
+    singer_name: 和楽器バンド
+    singer_alias:
+    available_date: '2016-08-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きしかいせい
+    singer_name_ruby: わかつきはんと
+    song_variation:
+    - esong_code: 3668A23
+      song_name: 起死回生
       content_type: ''

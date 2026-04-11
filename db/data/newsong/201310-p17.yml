@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1734
-  all_max_cnt: 2776
-  all_country_cnt: 1734
+  max_cnt: 1730
+  all_max_cnt: 2772
+  all_country_cnt: 1730
   song:
-  - song_name: クラゲ
-    song_alias:
-    esong_code: 3116A24
-    t_singer_master_id: '20364'
-    singer_name: SUPER EIGHT
-    singer_alias:
-    available_date: '2013-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらけ
-    singer_name_ruby: すはえいとかんしやにえいと
-    song_variation:
-    - esong_code: 3116A24
-      song_name: クラゲ
-      content_type: ''
   - song_name: Glass
     song_alias:
     esong_code: 3131A8
@@ -372,7 +355,7 @@ result:
     singer_alias:
     available_date: '2013-10-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦2 〜君、死にたもうことなかれ〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けきていこくかけ
@@ -389,7 +372,7 @@ result:
     singer_alias:
     available_date: '2013-10-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦4 〜恋せよ乙女〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けきていふいなれ
@@ -485,30 +468,13 @@ result:
       content_type: ''
   - song_name: 現状ディストラクション
     song_alias:
-    esong_code: 3121A45
-    t_singer_master_id: '36641'
-    singer_name: SPYAIR
-    singer_alias:
-    available_date: '2013-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 劇場版 銀魂 完結篇 万事屋よ永遠なれ<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: けんしようてい
-    singer_name_ruby: すはいえあ
-    song_variation:
-    - esong_code: 3121A45
-      song_name: 現状ディストラクション
-      content_type: DAM生音
-  - song_name: 現状ディストラクション
-    song_alias:
     esong_code: 3121B16
     t_singer_master_id: '36641'
     singer_name: SPYAIR
     singer_alias:
     available_date: '2013-10-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 劇場版 銀魂 完結篇 万事屋よ永遠なれ<番組名>
+    tie_up: 銀魂(劇場版)<番組名>
     country_code: '0'
     content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: けんしようてい
@@ -517,3 +483,37 @@ result:
     - esong_code: 3121B16
       song_name: 現状ディストラクション
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 現状ディストラクション
+    song_alias:
+    esong_code: 3130A19
+    t_singer_master_id: '36641'
+    singer_name: SPYAIR
+    singer_alias:
+    available_date: '2013-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 銀魂(劇場版)<番組名>
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: けんしようてい
+    singer_name_ruby: すはいえあ
+    song_variation:
+    - esong_code: 3130A19
+      song_name: 現状ディストラクション
+      content_type: JOY生演奏
+  - song_name: 圏内の歌
+    song_alias:
+    esong_code: 3123A18
+    t_singer_master_id: '37334'
+    singer_name: 七尾 旅人
+    singer_alias:
+    available_date: '2013-10-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けんないのうた
+    singer_name_ruby: ななおたひと
+    song_variation:
+    - esong_code: 3123A18
+      song_name: 圏内の歌
+      content_type: ''

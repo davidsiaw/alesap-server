@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
+  - song_name: Bright&Right
+    song_alias:
+    esong_code: 2433B49
+    t_singer_master_id: '14400'
+    singer_name: ACIDMAN
+    singer_alias:
+    available_date: '2010-09-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらいとあんとら
+    singer_name_ruby: あしつとまん
+    song_variation:
+    - esong_code: 2433B49
+      song_name: Bright&Right
+      content_type: ''
   - song_name: Blind Justice 〜Torn souls,Hurt Faiths〜
     song_alias:
     esong_code: 2603A1
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2602A14
       song_name: Best mark smile
-      content_type: ''
-  - song_name: ベッドタイムストーリー feat.YUKI
-    song_alias:
-    esong_code: 2586B43
-    t_singer_master_id: '15985'
-    singer_name: Jazztronik
-    singer_alias:
-    available_date: '2010-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へつとたいむすと
-    singer_name_ruby: しやすとろにつく
-    song_variation:
-    - esong_code: 2586B43
-      song_name: ベッドタイムストーリー feat.YUKI
       content_type: ''

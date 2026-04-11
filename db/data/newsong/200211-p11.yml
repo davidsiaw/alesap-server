@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 655
-  all_max_cnt: 733
-  all_country_cnt: 655
+  max_cnt: 652
+  all_max_cnt: 730
+  all_country_cnt: 652
   song:
-  - song_name: 戦え!人造人間キカイダー
-    song_alias:
-    esong_code: 864A6
-    t_singer_master_id: '5166'
-    singer_name: ヒデ 夕樹
-    singer_alias:
-    available_date: '2002-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 人造人間キカイダー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たたかえしんそう
-    singer_name_ruby: ひてゆうき
-    song_variation:
-    - esong_code: 864A6
-      song_name: 戦え!人造人間キカイダー
-      content_type: ''
   - song_name: 戦え!ヌイグルマー
     song_alias:
     esong_code: 960A29
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 971A26
       song_name: Dear...from××× Disc-2
+      content_type: ''
+  - song_name: Dear My Friend〜make your shine way
+    song_alias:
+    esong_code: 963B34
+    t_singer_master_id: '7213'
+    singer_name: Iceman
+    singer_alias:
+    available_date: '2002-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていあまいふれんと
+    singer_name_ruby: あいすまん
+    song_variation:
+    - esong_code: 963B34
+      song_name: Dear My Friend〜make your shine way
       content_type: ''

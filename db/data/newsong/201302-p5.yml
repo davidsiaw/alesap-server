@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
   - song_name: WINNING WINDS
     song_alias:
@@ -64,7 +64,7 @@ result:
     t_singer_master_id: '25255'
     singer_name: AKB48
     singer_alias:
-    available_date: '2013-02-19'
+    available_date: '2013-02-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -162,23 +162,6 @@ result:
       content_type: ''
   - song_name: 浮雲ふたつ
     song_alias:
-    esong_code: 2967A23
-    t_singer_master_id: '1994'
-    singer_name: 藤 あや子
-    singer_alias:
-    available_date: '2013-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: うきくもふたつ
-    singer_name_ruby: ふしあやこ
-    song_variation:
-    - esong_code: 2967A23
-      song_name: 浮雲ふたつ
-      content_type: DAM生音
-  - song_name: 浮雲ふたつ
-    song_alias:
     esong_code: 2967A48
     t_singer_master_id: '1994'
     singer_name: 藤 あや子
@@ -194,6 +177,23 @@ result:
     - esong_code: 2967A48
       song_name: 浮雲ふたつ
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 浮雲ふたつ
+    song_alias:
+    esong_code: 2967A23
+    t_singer_master_id: '1994'
+    singer_name: 藤 あや子
+    singer_alias:
+    available_date: '2013-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: うきくもふたつ
+    singer_name_ruby: ふしあやこ
+    song_variation:
+    - esong_code: 2967A23
+      song_name: 浮雲ふたつ
+      content_type: DAM生音
   - song_name: 憂世情話
     song_alias:
     esong_code: 2987B1

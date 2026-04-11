@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1356
-  all_max_cnt: 1472
-  all_country_cnt: 1356
+  max_cnt: 1352
+  all_max_cnt: 1469
+  all_country_cnt: 1352
   song:
-  - song_name: 勝利の花びら
-    song_alias:
-    esong_code: 1499A17
-    t_singer_master_id: '25924'
-    singer_name: チナッチャブル
-    singer_alias:
-    available_date: '2006-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ケロロ軍曹<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようりのはなひら
-    singer_name_ruby: ちなつちやふる
-    song_variation:
-    - esong_code: 1499A17
-      song_name: 勝利の花びら
-      content_type: ''
   - song_name: 職人
     song_alias:
     esong_code: 1511A26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1528A40
       song_name: STARZ
+      content_type: ''
+  - song_name: Starting Over
+    song_alias:
+    esong_code: 1513B49
+    t_singer_master_id: '1523'
+    singer_name: DEEN
+    singer_alias:
+    available_date: '2006-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたていんくお
+    singer_name_ruby: ていん
+    song_variation:
+    - esong_code: 1513B49
+      song_name: Starting Over
       content_type: ''

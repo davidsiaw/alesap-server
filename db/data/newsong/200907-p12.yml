@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 958
-  all_max_cnt: 1067
-  all_country_cnt: 958
+  max_cnt: 953
+  all_max_cnt: 1062
+  all_country_cnt: 953
   song:
-  - song_name: 時雨月
-    song_alias:
-    esong_code: 2366B41
-    t_singer_master_id: '26401'
-    singer_name: 沢田 玲子
-    singer_alias:
-    available_date: '2009-07-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しくれつき
-    singer_name_ruby: さわたれいこ
-    song_variation:
-    - esong_code: 2366B41
-      song_name: 時雨月
-      content_type: ''
-  - song_name: ヂゴ♂ロック
-    song_alias:
-    esong_code: 2355B7
-    t_singer_master_id: '24403'
-    singer_name: ScApegoat
-    singer_alias:
-    available_date: '2009-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しころつく
-    singer_name_ruby: すけふこと
-    song_variation:
-    - esong_code: 2355B7
-      song_name: ヂゴ♂ロック
-      content_type: ''
-  - song_name: 静かな夜
-    song_alias:
-    esong_code: 2366B30
-    t_singer_master_id: '8581'
-    singer_name: 持田 香織
-    singer_alias:
-    available_date: '2009-07-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しすかなよる
-    singer_name_ruby: もちたかおり
-    song_variation:
-    - esong_code: 2366B30
-      song_name: 静かな夜
-      content_type: ''
   - song_name: 雫ひとひら
     song_alias:
     esong_code: 2360B8
@@ -66,7 +15,7 @@ result:
     singer_alias:
     available_date: '2009-07-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: とらいあんぐるハート'S Radio Stage<番組名>
+    tie_up: とらいあんぐるハート(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しすくひとひら
@@ -74,6 +23,23 @@ result:
     song_variation:
     - esong_code: 2360B8
       song_name: 雫ひとひら
+      content_type: ''
+  - song_name: season
+    song_alias:
+    esong_code: 2346A41
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2009-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しすん
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 2346A41
+      song_name: season
       content_type: ''
   - song_name: season
     song_alias:
@@ -92,23 +58,6 @@ result:
     - esong_code: 2378B22
       song_name: season
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: season
-    song_alias:
-    esong_code: 2346A41
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2009-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しすん
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 2346A41
-      song_name: season
-      content_type: ''
   - song_name: ジターバグ
     song_alias:
     esong_code: 2176B23
@@ -485,23 +434,6 @@ result:
       content_type: ''
   - song_name: 純也と真菜実
     song_alias:
-    esong_code: 2356A4
-    t_singer_master_id: '37233'
-    singer_name: Hilcrhyme
-    singer_alias:
-    available_date: '2009-07-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆんやとまなみ
-    singer_name_ruby: ひるくらいむ
-    song_variation:
-    - esong_code: 2356A4
-      song_name: 純也と真菜実
-      content_type: ''
-  - song_name: 純也と真菜実
-    song_alias:
     esong_code: 2353B33
     t_singer_master_id: '37233'
     singer_name: Hilcrhyme
@@ -517,3 +449,71 @@ result:
     - esong_code: 2353B33
       song_name: 純也と真菜実
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 純也と真菜実
+    song_alias:
+    esong_code: 2356A4
+    t_singer_master_id: '37233'
+    singer_name: Hilcrhyme
+    singer_alias:
+    available_date: '2009-07-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆんやとまなみ
+    singer_name_ruby: ひるくらいむ
+    song_variation:
+    - esong_code: 2356A4
+      song_name: 純也と真菜実
+      content_type: ''
+  - song_name: JOYFULLY
+    song_alias:
+    esong_code: 2355B48
+    t_singer_master_id: '26320'
+    singer_name: BAGDAD CAFE THE trench town
+    singer_alias:
+    available_date: '2009-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しよいふる
+    singer_name_ruby: はくたつとかふえさとれんちたう
+    song_variation:
+    - esong_code: 2355B48
+      song_name: JOYFULLY
+      content_type: ''
+  - song_name: 少年
+    song_alias:
+    esong_code: 2356A20
+    t_singer_master_id: '12152'
+    singer_name: 水樹 奈々
+    singer_alias:
+    available_date: '2009-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようねん
+    singer_name_ruby: みすきなな
+    song_variation:
+    - esong_code: 2356A20
+      song_name: 少年
+      content_type: ''
+  - song_name: 勝利せよ!ウィッチーズ
+    song_alias:
+    esong_code: 2356A19
+    t_singer_master_id: '37254'
+    singer_name: 田中 理恵&野川 さくら&園崎 未恵
+    singer_alias:
+    available_date: '2009-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ストライクウィッチーズ(アニメ版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようりせよういつち
+    singer_name_ruby: たなかりえのかわさくらそ
+    song_variation:
+    - esong_code: 2356A19
+      song_name: 勝利せよ!ウィッチーズ
+      content_type: ''

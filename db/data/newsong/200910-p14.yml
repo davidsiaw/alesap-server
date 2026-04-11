@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: 島の願い feat.Metis
-    song_alias:
-    esong_code: 2405A44
-    t_singer_master_id: '34332'
-    singer_name: PENGIN
-    singer_alias:
-    available_date: '2009-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しまのねかい
-    singer_name_ruby: へんきん
-    song_variation:
-    - esong_code: 2405A44
-      song_name: 島の願い feat.Metis
-      content_type: ''
-  - song_name: じゃあ またね
-    song_alias:
-    esong_code: 2405B13
-    t_singer_master_id: '12428'
-    singer_name: AsR
-    singer_alias:
-    available_date: '2009-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやあまたね
-    singer_name_ruby: ええすある
-    song_variation:
-    - esong_code: 2405B13
-      song_name: じゃあ またね
-      content_type: ''
   - song_name: CHANIN feat.O.S.D.&Loco-passion
     song_alias:
     esong_code: 2415B13
@@ -151,7 +117,7 @@ result:
     singer_alias:
     available_date: '2009-10-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 紐育レビュウショウ 〜歌う大紐育〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しゆくしよたちよ
@@ -247,23 +213,6 @@ result:
       content_type: ''
   - song_name: 春夏秋冬
     song_alias:
-    esong_code: 2406A44
-    t_singer_master_id: '37233'
-    singer_name: Hilcrhyme
-    singer_alias:
-    available_date: '2009-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: しゆんかしゆうとう
-    singer_name_ruby: ひるくらいむ
-    song_variation:
-    - esong_code: 2406A44
-      song_name: 春夏秋冬
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 春夏秋冬
-    song_alias:
     esong_code: 2426B19
     t_singer_master_id: '37233'
     singer_name: Hilcrhyme
@@ -279,6 +228,23 @@ result:
     - esong_code: 2426B19
       song_name: 春夏秋冬
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 春夏秋冬
+    song_alias:
+    esong_code: 2406A44
+    t_singer_master_id: '37233'
+    singer_name: Hilcrhyme
+    singer_alias:
+    available_date: '2009-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: しゆんかしゆうとう
+    singer_name_ruby: ひるくらいむ
+    song_variation:
+    - esong_code: 2406A44
+      song_name: 春夏秋冬
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 春夏秋冬 恋ごよみ
     song_alias:
     esong_code: 2416A49
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2409A9
       song_name: Sing!×3 アニソン〜Around 40's Karaoke Best Songsメドレー
+      content_type: ''
+  - song_name: Sing!×3 2〜Around 40's Karaoke Best Songsメドレー
+    song_alias:
+    esong_code: 2409A10
+    t_singer_master_id: '12687'
+    singer_name: DKオリジナルメドレー
+    singer_alias:
+    available_date: '2009-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんくしんくしん
+    singer_name_ruby: ていけおりしなるめとれ
+    song_variation:
+    - esong_code: 2409A10
+      song_name: Sing!×3 2〜Around 40's Karaoke Best Songsメドレー
+      content_type: ''
+  - song_name: 深紅の花園
+    song_alias:
+    esong_code: 2412B36
+    t_singer_master_id: '33037'
+    singer_name: Asriel
+    singer_alias:
+    available_date: '2009-10-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんくのはなその
+    singer_name_ruby: あすりえる
+    song_variation:
+    - esong_code: 2412B36
+      song_name: 深紅の花園
       content_type: ''

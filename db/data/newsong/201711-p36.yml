@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1359
-  all_max_cnt: 1522
-  all_country_cnt: 1359
+  max_cnt: 1356
+  all_max_cnt: 1519
+  all_country_cnt: 1356
   song:
-  - song_name: また明日も歌いましょう
-    song_alias:
-    esong_code: 2234A1
-    t_singer_master_id: '2658'
-    singer_name: 和田 アキ子
-    singer_alias:
-    available_date: '2017-11-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: またあしたもうたいま
-    singer_name_ruby: わたあきこ
-    song_variation:
-    - esong_code: 2234A1
-      song_name: また明日も歌いましょう
-      content_type: ''
   - song_name: 間違い探し
     song_alias:
     esong_code: 3914B19
@@ -517,3 +500,20 @@ result:
     - esong_code: 2234B39
       song_name: 水の都おおさか
       content_type: ''
+  - song_name: ミチシルベ
+    song_alias:
+    esong_code: 3907A37
+    t_singer_master_id: '45397'
+    singer_name: Rihwa
+    singer_alias:
+    available_date: '2017-11-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: みちしるへ
+    singer_name_ruby: りふあ
+    song_variation:
+    - esong_code: 3907A37
+      song_name: ミチシルベ
+      content_type: DAM生音

@@ -283,7 +283,7 @@ result:
     song_alias:
     esong_code: 597A34
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2001-07-31'
     end_date: '2999-04-10 00:00:00'
@@ -347,23 +347,6 @@ result:
     - esong_code: 592B34
       song_name: 空いっぱいの幸せ
       content_type: ''
-  - song_name: 空飛ぶくじら
-    song_alias:
-    esong_code: 593A39
-    t_singer_master_id: '384'
-    singer_name: 大滝 詠一
-    singer_alias:
-    available_date: '2001-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そらとふくしら
-    singer_name_ruby: おおたきえいいち
-    song_variation:
-    - esong_code: 593A39
-      song_name: 空飛ぶくじら
-      content_type: ''
   - song_name: 空飛ぶ鯨
     song_alias:
     esong_code: 642A35
@@ -380,6 +363,23 @@ result:
     song_variation:
     - esong_code: 642A35
       song_name: 空飛ぶ鯨
+      content_type: ''
+  - song_name: 空飛ぶくじら
+    song_alias:
+    esong_code: 593A39
+    t_singer_master_id: '384'
+    singer_name: 大滝 詠一
+    singer_alias:
+    available_date: '2001-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そらとふくしら
+    singer_name_ruby: おおたきえいいち
+    song_variation:
+    - esong_code: 593A39
+      song_name: 空飛ぶくじら
       content_type: ''
   - song_name: 空の雫
     song_alias:
@@ -508,7 +508,7 @@ result:
     singer_alias:
     available_date: '2001-07-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 魔法少女プリティサミー 恐るべし身体測定!核爆発5秒前!<番組名>
+    tie_up: 魔法少女プリティサミー(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たいやもんとのゆ

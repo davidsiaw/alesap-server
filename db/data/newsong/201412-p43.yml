@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
+  - song_name: 未来図 feat.豊崎愛生
+    song_alias:
+    esong_code: 3372A34
+    t_singer_master_id: '43384'
+    singer_name: HoneyWorks
+    singer_alias:
+    available_date: '2014-12-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 告白実行委員会<番組名>
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: みらいす
+    singer_name_ruby: はにわくす
+    song_variation:
+    - esong_code: 3372A34
+      song_name: 未来図 feat.豊崎愛生
+      content_type: VOCALOID
   - song_name: 未来へ
     song_alias:
     esong_code: 3377A17
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3369B43
       song_name: メンヘレーション
-      content_type: ''
-  - song_name: もう一歩そばで 今度こそ言って
-    song_alias:
-    esong_code: 3375B41
-    t_singer_master_id: '52096'
-    singer_name: club M
-    singer_alias:
-    available_date: '2014-12-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: もういつほそはて
-    singer_name_ruby: くらふえむ
-    song_variation:
-    - esong_code: 3375B41
-      song_name: もう一歩そばで 今度こそ言って
       content_type: ''

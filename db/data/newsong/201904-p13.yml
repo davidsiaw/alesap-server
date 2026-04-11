@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1349
-  all_max_cnt: 1532
-  all_country_cnt: 1349
+  max_cnt: 1335
+  all_max_cnt: 1518
+  all_country_cnt: 1335
   song:
-  - song_name: 結局死ぬってなんなんだ
-    song_alias:
-    esong_code: 4182B28
-    t_singer_master_id: '63123'
-    singer_name: カンザキイオリ
-    singer_alias:
-    available_date: '2019-04-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: けつきよくしぬつてな
-    singer_name_ruby: かんさきいおり
-    song_variation:
-    - esong_code: 4182B28
-      song_name: 結局死ぬってなんなんだ
-      content_type: VOCALOID
   - song_name: 結晶星
     song_alias:
     esong_code: 4173A33
@@ -41,23 +24,6 @@ result:
     - esong_code: 4173A33
       song_name: 結晶星
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 結晶星
-    song_alias:
-    esong_code: 4172B49
-    t_singer_master_id: '48542'
-    singer_name: KANA-BOON
-    singer_alias:
-    available_date: '2019-04-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: けつしようせい
-    singer_name_ruby: かなふん
-    song_variation:
-    - esong_code: 4172B49
-      song_name: 結晶星
-      content_type: DAM生音
   - song_name: GET BUSY
     song_alias:
     esong_code: 4175A5
@@ -296,23 +262,6 @@ result:
     - esong_code: 4182A48
       song_name: コイワズライ
       content_type: ''
-  - song_name: 光線チューニング
-    song_alias:
-    esong_code: 4174B4
-    t_singer_master_id: '54950'
-    singer_name: ナユタン星人
-    singer_alias:
-    available_date: '2019-04-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: CHUNITHM<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こうせんちゆにんく
-    singer_name_ruby: なゆたんせいしん
-    song_variation:
-    - esong_code: 4174B4
-      song_name: 光線チューニング
-      content_type: ''
   - song_name: 光線チューニング (なずな妄想海フェスイメージトレーニングver.)
     song_alias:
     esong_code: 4179B21
@@ -329,6 +278,23 @@ result:
     song_variation:
     - esong_code: 4179B21
       song_name: 光線チューニング (なずな妄想海フェスイメージトレーニングver.)
+      content_type: ''
+  - song_name: 光線チューニング
+    song_alias:
+    esong_code: 4174B4
+    t_singer_master_id: '54950'
+    singer_name: ナユタン星人
+    singer_alias:
+    available_date: '2019-04-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: CHUNITHM<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こうせんちゆにんく
+    singer_name_ruby: なゆたんせいしん
+    song_variation:
+    - esong_code: 4174B4
+      song_name: 光線チューニング
       content_type: ''
   - song_name: 業に燃ゆ
     song_alias:
@@ -466,23 +432,6 @@ result:
     - esong_code: 4175B40
       song_name: ここたまタウンでにっこにこ★
       content_type: ''
-  - song_name: GO!GO!ラブリズム
-    song_alias:
-    esong_code: 4173B47
-    t_singer_master_id: '25317'
-    singer_name: 片霧 烈火
-    singer_alias:
-    available_date: '2019-04-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: CHUNITHM<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ここらふり
-    singer_name_ruby: かたきりれつか
-    song_variation:
-    - esong_code: 4173B47
-      song_name: GO!GO!ラブリズム
-      content_type: ''
   - song_name: GO!GO!ラブリズム (あーりん書類審査通過記念Ver.)
     song_alias:
     esong_code: 4179B22
@@ -500,6 +449,23 @@ result:
     - esong_code: 4179B22
       song_name: GO!GO!ラブリズム (あーりん書類審査通過記念Ver.)
       content_type: ''
+  - song_name: GO!GO!ラブリズム
+    song_alias:
+    esong_code: 4173B47
+    t_singer_master_id: '25317'
+    singer_name: 片霧 烈火
+    singer_alias:
+    available_date: '2019-04-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: CHUNITHM<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ここらふり
+    singer_name_ruby: かたきりれつか
+    song_variation:
+    - esong_code: 4173B47
+      song_name: GO!GO!ラブリズム
+      content_type: ''
   - song_name: 心づくし
     song_alias:
     esong_code: 4174A33
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4174A33
       song_name: 心づくし
+      content_type: ''
+  - song_name: こころに春を
+    song_alias:
+    esong_code: 4181A15
+    t_singer_master_id: '194'
+    singer_name: 石原 詢子
+    singer_alias:
+    available_date: '2019-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころにはるを
+    singer_name_ruby: いしはらしゆんこ
+    song_variation:
+    - esong_code: 4181A15
+      song_name: こころに春を
+      content_type: ''
+  - song_name: 心の活路
+    song_alias:
+    esong_code: 4182A5
+    t_singer_master_id: '37718'
+    singer_name: 半﨑 美子
+    singer_alias:
+    available_date: '2019-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころのかつろ
+    singer_name_ruby: はんさきよしこ
+    song_variation:
+    - esong_code: 4182A5
+      song_name: 心の活路
       content_type: ''

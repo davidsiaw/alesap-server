@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1457
-  all_max_cnt: 1594
-  all_country_cnt: 1457
+  max_cnt: 1447
+  all_max_cnt: 1584
+  all_country_cnt: 1447
   song:
-  - song_name: なつのうた
-    song_alias:
-    esong_code: 3644B39
-    t_singer_master_id: '49255'
-    singer_name: go!go!vanillas
-    singer_alias:
-    available_date: '2016-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつのうた
-    singer_name_ruby: ここはにらす
-    song_variation:
-    - esong_code: 3644B39
-      song_name: なつのうた
-      content_type: ''
-  - song_name: 夏の日の忘れもの
-    song_alias:
-    esong_code: 1554A15
-    t_singer_master_id: '1429'
-    singer_name: ダ・カーポ
-    singer_alias:
-    available_date: '2016-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつのひのわすれもの
-    singer_name_ruby: たかほ
-    song_variation:
-    - esong_code: 1554A15
-      song_name: 夏の日の忘れもの
-      content_type: ''
-  - song_name: なつみの数え唄
-    song_alias:
-    esong_code: 1171B40
-    t_singer_master_id: '47761'
-    singer_name: 水城 なつみ
-    singer_alias:
-    available_date: '2016-06-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なつみのかそえうた
-    singer_name_ruby: みすきなつみ
-    song_variation:
-    - esong_code: 1171B40
-      song_name: なつみの数え唄
-      content_type: ''
-  - song_name: 七光りヒーロー
-    song_alias:
-    esong_code: 3642B14
-    t_singer_master_id: '53592'
-    singer_name: 感覚ピエロ
-    singer_alias:
-    available_date: '2016-06-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ななひかりひろ
-    singer_name_ruby: かんかくひえろ
-    song_variation:
-    - esong_code: 3642B14
-      song_name: 七光りヒーロー
-      content_type: ''
-  - song_name: 名前の無い明日
-    song_alias:
-    esong_code: 3642B38
-    t_singer_master_id: '37709'
-    singer_name: 岡本 信彦
-    singer_alias:
-    available_date: '2016-06-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ハルチカ 〜ハルタとチカは青春する〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: なまえのないあした
-    singer_name_ruby: おかもとのふひこ
-    song_variation:
-    - esong_code: 3642B38
-      song_name: 名前の無い明日
-      content_type: ''
   - song_name: 涙
     song_alias:
     esong_code: 3645A3
@@ -374,7 +289,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: にせんにしゆう
     singer_name_ruby: あせんしよんふる
     song_variation:
@@ -394,7 +309,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: にせんにしゆう
     singer_name_ruby: あせんしよんふる
     song_variation:
@@ -457,23 +372,6 @@ result:
       content_type: ''
   - song_name: NEW
     song_alias:
-    esong_code: 3636A17
-    t_singer_master_id: '10188'
-    singer_name: AAA
-    singer_alias:
-    available_date: '2016-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: にゆ
-    singer_name_ruby: とりふるえ
-    song_variation:
-    - esong_code: 3636A17
-      song_name: NEW
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: NEW
-    song_alias:
     esong_code: 3632B40
     t_singer_master_id: '10188'
     singer_name: AAA
@@ -506,6 +404,23 @@ result:
     - esong_code: 3640B12
       song_name: NEW
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: NEW
+    song_alias:
+    esong_code: 3636A17
+    t_singer_master_id: '10188'
+    singer_name: AAA
+    singer_alias:
+    available_date: '2016-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: にゆ
+    singer_name_ruby: とりふるえ
+    song_variation:
+    - esong_code: 3636A17
+      song_name: NEW
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: NEW HORIZON
     song_alias:
     esong_code: 3636A25
@@ -523,3 +438,88 @@ result:
     - esong_code: 3636A25
       song_name: NEW HORIZON
       content_type: DAMﾗｲﾌﾞ
+  - song_name: ニュームーンに恋して
+    song_alias:
+    esong_code: 3638B27
+    t_singer_master_id: '42680'
+    singer_name: ももいろクローバーZ(ももいろクローバー)
+    singer_alias:
+    available_date: '2016-06-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 美少女戦士セーラームーン Crystal<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: にゆむんにこいし
+    singer_name_ruby: ももいろくろはせつと
+    song_variation:
+    - esong_code: 3638B27
+      song_name: ニュームーンに恋して
+      content_type: ''
+  - song_name: 人間椅子 (酸欠少女さユりボカロ ver.)
+    song_alias:
+    esong_code: 3642B8
+    t_singer_master_id: '54041'
+    singer_name: さユり
+    singer_alias:
+    available_date: '2016-06-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にんけんいす
+    singer_name_ruby: さゆり
+    song_variation:
+    - esong_code: 3642B8
+      song_name: 人間椅子 (酸欠少女さユりボカロ ver.)
+      content_type: ''
+  - song_name: 人情しぐれ傘
+    song_alias:
+    esong_code: 1554B42
+    t_singer_master_id: '12446'
+    singer_name: 千葉 げん太
+    singer_alias:
+    available_date: '2016-06-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にんしようしくれ
+    singer_name_ruby: ちはけんた
+    song_variation:
+    - esong_code: 1554B42
+      song_name: 人情しぐれ傘
+      content_type: ''
+  - song_name: 濡れて歩けば
+    song_alias:
+    esong_code: 1553B43
+    t_singer_master_id: '2338'
+    singer_name: 三橋 美智也
+    singer_alias:
+    available_date: '2016-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ぬれてあるけは
+    singer_name_ruby: みはしみちや
+    song_variation:
+    - esong_code: 1553B43
+      song_name: 濡れて歩けば
+      content_type: ''
+  - song_name: ぬれて京橋
+    song_alias:
+    esong_code: 1261B37
+    t_singer_master_id: '12707'
+    singer_name: 沢井 明(沢井圭介)
+    singer_alias:
+    available_date: '2016-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ぬれてきようはし
+    singer_name_ruby: さわいあきら
+    song_variation:
+    - esong_code: 1261B37
+      song_name: ぬれて京橋
+      content_type: ''

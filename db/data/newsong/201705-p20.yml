@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
+  - song_name: Self Portrait
+    song_alias:
+    esong_code: 3819A9
+    t_singer_master_id: '53984'
+    singer_name: LILI LIMIT
+    singer_alias:
+    available_date: '2017-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せるふほとれいと
+    singer_name_ruby: りりりみつと
+    song_variation:
+    - esong_code: 3819A9
+      song_name: Self Portrait
+      content_type: ''
   - song_name: zero
     song_alias:
     esong_code: 3817A4
@@ -60,23 +77,6 @@ result:
       content_type: ''
   - song_name: 船頭さん
     song_alias:
-    esong_code: 3807A47
-    t_singer_master_id: '15903'
-    singer_name: 竹川 美子
-    singer_alias:
-    available_date: '2017-05-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: せんとうさん
-    singer_name_ruby: たけかわみこ
-    song_variation:
-    - esong_code: 3807A47
-      song_name: 船頭さん
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 船頭さん
-    song_alias:
     esong_code: 3805B37
     t_singer_master_id: '15903'
     singer_name: 竹川 美子
@@ -92,6 +92,23 @@ result:
     - esong_code: 3805B37
       song_name: 船頭さん
       content_type: JOY生演奏
+  - song_name: 船頭さん
+    song_alias:
+    esong_code: 3807A47
+    t_singer_master_id: '15903'
+    singer_name: 竹川 美子
+    singer_alias:
+    available_date: '2017-05-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: せんとうさん
+    singer_name_ruby: たけかわみこ
+    song_variation:
+    - esong_code: 3807A47
+      song_name: 船頭さん
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 洗脳
     song_alias:
     esong_code: 3804B26
@@ -355,7 +372,7 @@ result:
     singer_alias:
     available_date: '2017-05-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダーアマゾンズ Season 2<番組名>
+    tie_up: 仮面ライダーアマゾンズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たいせつとたうん
@@ -468,23 +485,6 @@ result:
       content_type: ''
   - song_name: 太陽も月も
     song_alias:
-    esong_code: 3807A45
-    t_singer_master_id: '46432'
-    singer_name: GENERATIONS from EXILE TRIBE
-    singer_alias:
-    available_date: '2017-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: たいようもつきも
-    singer_name_ruby: しえねれしよんすふろむえくさい
-    song_variation:
-    - esong_code: 3807A45
-      song_name: 太陽も月も
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 太陽も月も
-    song_alias:
     esong_code: 3812A4
     t_singer_master_id: '46432'
     singer_name: GENERATIONS from EXILE TRIBE
@@ -500,20 +500,20 @@ result:
     - esong_code: 3812A4
       song_name: 太陽も月も
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Download feat.AKLO
+  - song_name: 太陽も月も
     song_alias:
-    esong_code: 3810B48
-    t_singer_master_id: '41095'
-    singer_name: SIMON
+    esong_code: 3807A45
+    t_singer_master_id: '46432'
+    singer_name: GENERATIONS from EXILE TRIBE
     singer_alias:
-    available_date: '2017-05-16'
+    available_date: '2017-05-21'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: たうんろと
-    singer_name_ruby: さいもん
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: たいようもつきも
+    singer_name_ruby: しえねれしよんすふろむえくさい
     song_variation:
-    - esong_code: 3810B48
-      song_name: Download feat.AKLO
-      content_type: ''
+    - esong_code: 3807A45
+      song_name: 太陽も月も
+      content_type: DAMｸﾘｯﾌﾟ

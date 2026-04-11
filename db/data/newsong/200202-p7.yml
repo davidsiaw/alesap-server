@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 433
-  all_max_cnt: 461
-  all_country_cnt: 433
+  max_cnt: 431
+  all_max_cnt: 459
+  all_country_cnt: 431
   song:
-  - song_name: せつない自由
-    song_alias:
-    esong_code: 763B29
-    t_singer_master_id: '2242'
-    singer_name: MANISH
-    singer_alias:
-    available_date: '2002-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せつないしゆう
-    singer_name_ruby: まにつしゆ
-    song_variation:
-    - esong_code: 763B29
-      song_name: せつない自由
-      content_type: ''
   - song_name: 7th
     song_alias:
     esong_code: 762A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 764A24
       song_name: days of days over you
+      content_type: ''
+  - song_name: 手暗がりの下
+    song_alias:
+    esong_code: 94B43
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2002-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てくらかりのした
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 94B43
+      song_name: 手暗がりの下
       content_type: ''

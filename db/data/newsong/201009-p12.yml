@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
   - song_name: 声をなくしても (acoustic)
     song_alias:
@@ -111,23 +111,6 @@ result:
       content_type: ''
   - song_name: cosmetic
     song_alias:
-    esong_code: 2604B1
-    t_singer_master_id: '22748'
-    singer_name: シド
-    singer_alias:
-    available_date: '2010-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こすめていつく
-    singer_name_ruby: しと
-    song_variation:
-    - esong_code: 2604B1
-      song_name: cosmetic
-      content_type: ''
-  - song_name: cosmetic
-    song_alias:
     esong_code: 2622A49
     t_singer_master_id: '22748'
     singer_name: シド
@@ -143,6 +126,23 @@ result:
     - esong_code: 2622A49
       song_name: cosmetic
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: cosmetic
+    song_alias:
+    esong_code: 2604B1
+    t_singer_master_id: '22748'
+    singer_name: シド
+    singer_alias:
+    available_date: '2010-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こすめていつく
+    singer_name_ruby: しと
+    song_variation:
+    - esong_code: 2604B1
+      song_name: cosmetic
+      content_type: ''
   - song_name: 小袖の手
     song_alias:
     esong_code: 2598B2
@@ -349,23 +349,6 @@ result:
       content_type: ''
   - song_name: 小雪の酒場
     song_alias:
-    esong_code: 2592A33
-    t_singer_master_id: '611'
-    singer_name: 冠 二郎
-    singer_alias:
-    available_date: '2010-09-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こゆきのさかは
-    singer_name_ruby: かんむりしろう
-    song_variation:
-    - esong_code: 2592A33
-      song_name: 小雪の酒場
-      content_type: ''
-  - song_name: 小雪の酒場
-    song_alias:
     esong_code: 2591B40
     t_singer_master_id: '611'
     singer_name: 冠 二郎
@@ -381,6 +364,23 @@ result:
     - esong_code: 2591B40
       song_name: 小雪の酒場
       content_type: DAM生音
+  - song_name: 小雪の酒場
+    song_alias:
+    esong_code: 2592A33
+    t_singer_master_id: '611'
+    singer_name: 冠 二郎
+    singer_alias:
+    available_date: '2010-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こゆきのさかは
+    singer_name_ruby: かんむりしろう
+    song_variation:
+    - esong_code: 2592A33
+      song_name: 小雪の酒場
+      content_type: ''
   - song_name: Collage
     song_alias:
     esong_code: 2609B46

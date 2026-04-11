@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: セカンド
-    song_alias:
-    esong_code: 2843A22
-    t_singer_master_id: '36044'
-    singer_name: Dazzle Vision
-    singer_alias:
-    available_date: '2012-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せかんと
-    singer_name_ruby: たするひしよん
-    song_variation:
-    - esong_code: 2843A22
-      song_name: セカンド
-      content_type: ''
   - song_name: Sexy, Free&Single
     song_alias:
     esong_code: 2836A23
@@ -142,6 +125,23 @@ result:
     song_variation:
     - esong_code: 2832A10
       song_name: 瀬戸内母情
+      content_type: ''
+  - song_name: 瀬戸魂(せとごころ)
+    song_alias:
+    esong_code: 923A38
+    t_singer_master_id: '41658'
+    singer_name: 重安 ひろ子
+    singer_alias:
+    available_date: '2012-08-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せとこころ
+    singer_name_ruby: しけやすひろこ
+    song_variation:
+    - esong_code: 923A38
+      song_name: 瀬戸魂(せとごころ)
       content_type: ''
   - song_name: セフレ feat.GUMI
     song_alias:

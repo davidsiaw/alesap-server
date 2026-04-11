@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
   - song_name: 泣かない女
     song_alias:
@@ -32,7 +32,7 @@ result:
     singer_alias:
     available_date: '2011-08-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: TALES OF THE WORLD RADIANT MYTHOLOGY3<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: なかれほし
@@ -94,23 +94,6 @@ result:
       content_type: ''
   - song_name: 泣きむし橋
     song_alias:
-    esong_code: 2650A15
-    t_singer_master_id: '6239'
-    singer_name: 岩本 公水
-    singer_alias:
-    available_date: '2011-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: なきむしはし
-    singer_name_ruby: いわもとくみ
-    song_variation:
-    - esong_code: 2650A15
-      song_name: 泣きむし橋
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 泣きむし橋
-    song_alias:
     esong_code: 2659B21
     t_singer_master_id: '6239'
     singer_name: 岩本 公水
@@ -126,6 +109,23 @@ result:
     - esong_code: 2659B21
       song_name: 泣きむし橋
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 泣きむし橋
+    song_alias:
+    esong_code: 2650A15
+    t_singer_master_id: '6239'
+    singer_name: 岩本 公水
+    singer_alias:
+    available_date: '2011-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: なきむしはし
+    singer_name_ruby: いわもとくみ
+    song_variation:
+    - esong_code: 2650A15
+      song_name: 泣きむし橋
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 泣けばいい
     song_alias:
     esong_code: 2651A18

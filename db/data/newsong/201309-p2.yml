@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1500
-  all_max_cnt: 1660
-  all_country_cnt: 1500
+  max_cnt: 1480
+  all_max_cnt: 1639
+  all_country_cnt: 1480
   song:
   - song_name: A song for my friends
     song_alias:
@@ -364,23 +364,6 @@ result:
     - esong_code: 3110B46
       song_name: あの虹の向こうまで
       content_type: ''
-  - song_name: あの日の風景
-    song_alias:
-    esong_code: 1791A18
-    t_singer_master_id: '116'
-    singer_name: あみん
-    singer_alias:
-    available_date: '2013-09-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのひのふうけい
-    singer_name_ruby: あみん
-    song_variation:
-    - esong_code: 1791A18
-      song_name: あの日の風景
-      content_type: ''
   - song_name: あばれ龍
     song_alias:
     esong_code: 1173A39
@@ -397,23 +380,6 @@ result:
     song_variation:
     - esong_code: 1173A39
       song_name: あばれ龍
-      content_type: ''
-  - song_name: ア・ビヤント-またね- (安蘭けい ほか)
-    song_alias:
-    esong_code: 2449B12
-    t_singer_master_id: '1349'
-    singer_name: 宝塚歌劇団
-    singer_alias:
-    available_date: '2013-09-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あひやんとまたね
-    singer_name_ruby: たからつかかけき
-    song_variation:
-    - esong_code: 2449B12
-      song_name: ア・ビヤント-またね- (安蘭けい ほか)
       content_type: ''
   - song_name: アブナイ恋の捜査室
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 3111B43
       song_name: Am I Ready?
       content_type: ''
+  - song_name: 雨と夜に墜ちて
+    song_alias:
+    esong_code: 3110A16
+    t_singer_master_id: '16183'
+    singer_name: NIGHTMARE(ナイトメア)
+    singer_alias:
+    available_date: '2013-09-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめとよるにおちて
+    singer_name_ruby: ないとめあ
+    song_variation:
+    - esong_code: 3110A16
+      song_name: 雨と夜に墜ちて
+      content_type: ''
+  - song_name: あめにっき
+    song_alias:
+    esong_code: 3100B8
+    t_singer_master_id: '46928'
+    singer_name: ごりら公園
+    singer_alias:
+    available_date: '2013-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方風神録 〜Mountain of Faith.〜<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: あめにつき
+    singer_name_ruby: こりらこうえん
+    song_variation:
+    - esong_code: 3100B8
+      song_name: あめにっき
+      content_type: 東方

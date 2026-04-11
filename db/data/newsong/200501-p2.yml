@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 304
-  all_max_cnt: 323
-  all_country_cnt: 304
+  max_cnt: 302
+  all_max_cnt: 321
+  all_country_cnt: 302
   song:
-  - song_name: Garnet Moon
-    song_alias:
-    esong_code: 628A30
-    t_singer_master_id: '10119'
-    singer_name: 島谷 ひとみ
-    singer_alias:
-    available_date: '2005-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: A.C.E 〜Another Century's Episode〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かねつとむん
-    singer_name_ruby: しまたにひとみ
-    song_variation:
-    - esong_code: 628A30
-      song_name: Garnet Moon
-      content_type: ''
   - song_name: COVERS
     song_alias:
     esong_code: 588A46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 438A10
       song_name: 恋の河
+      content_type: ''
+  - song_name: 恋文
+    song_alias:
+    esong_code: 319B22
+    t_singer_master_id: '389'
+    singer_name: 大月 みやこ
+    singer_alias:
+    available_date: '2005-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいふみ
+    singer_name_ruby: おおつきみやこ
+    song_variation:
+    - esong_code: 319B22
+      song_name: 恋文
       content_type: ''

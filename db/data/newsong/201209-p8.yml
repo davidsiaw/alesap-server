@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1398
-  all_max_cnt: 1888
-  all_country_cnt: 1398
+  max_cnt: 1393
+  all_max_cnt: 1884
+  all_country_cnt: 1393
   song:
-  - song_name: おばたま
-    song_alias:
-    esong_code: 2855A18
-    t_singer_master_id: '37115'
-    singer_name: 阿蘇 千里
-    singer_alias:
-    available_date: '2012-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おはたま
-    singer_name_ruby: あそせんり
-    song_variation:
-    - esong_code: 2855A18
-      song_name: おばたま
-      content_type: ''
-  - song_name: Obscure Questions
-    song_alias:
-    esong_code: 2879A48
-    t_singer_master_id: '38164'
-    singer_name: ピノキオピー(ピノキオP)
-    singer_alias:
-    available_date: '2012-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: おふすきゆあくえす
-    singer_name_ruby: ひのきおひ
-    song_variation:
-    - esong_code: 2879A48
-      song_name: Obscure Questions
-      content_type: VOCALOID
   - song_name: オフロスキーのちゃっぽんぶし
     song_alias:
     esong_code: 2846B1
@@ -417,23 +383,6 @@ result:
       content_type: ''
   - song_name: おんな川
     song_alias:
-    esong_code: 2851A44
-    t_singer_master_id: '360'
-    singer_name: 大川 栄策
-    singer_alias:
-    available_date: '2012-09-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おんなかわ
-    singer_name_ruby: おおかわえいさく
-    song_variation:
-    - esong_code: 2851A44
-      song_name: おんな川
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: おんな川
-    song_alias:
     esong_code: 2850B28
     t_singer_master_id: '360'
     singer_name: 大川 栄策
@@ -449,6 +398,23 @@ result:
     - esong_code: 2850B28
       song_name: おんな川
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: おんな川
+    song_alias:
+    esong_code: 2851A44
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2012-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おんなかわ
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 2851A44
+      song_name: おんな川
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 女の命
     song_alias:
     esong_code: 2850A7
@@ -517,3 +483,37 @@ result:
     - esong_code: 2845B27
       song_name: 女の恋の切なさよ
       content_type: ''
+  - song_name: 女の幸福
+    song_alias:
+    esong_code: 2878A22
+    t_singer_master_id: '30167'
+    singer_name: 名取 市郎
+    singer_alias:
+    available_date: '2012-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのしあわせ
+    singer_name_ruby: なとりしろう
+    song_variation:
+    - esong_code: 2878A22
+      song_name: 女の幸福
+      content_type: ''
+  - song_name: おんなの波止場
+    song_alias:
+    esong_code: 2851A47
+    t_singer_master_id: '1107'
+    singer_name: 神野 美伽
+    singer_alias:
+    available_date: '2012-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おんなのはとは
+    singer_name_ruby: しんのみか
+    song_variation:
+    - esong_code: 2851A47
+      song_name: おんなの波止場
+      content_type: DAMﾌﾟﾛｵｹ

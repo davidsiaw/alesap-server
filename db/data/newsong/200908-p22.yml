@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 947
-  all_max_cnt: 1077
-  all_country_cnt: 947
+  max_cnt: 945
+  all_max_cnt: 1075
+  all_country_cnt: 945
   song:
-  - song_name: Hello
-    song_alias:
-    esong_code: 2368B46
-    t_singer_master_id: '1560'
-    singer_name: 徳永 英明
-    singer_alias:
-    available_date: '2009-08-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はろ
-    singer_name_ruby: とくなかひてあき
-    song_variation:
-    - esong_code: 2368B46
-      song_name: Hello
-      content_type: ''
   - song_name: HELLO,I LOVE YOU (全英語詞)
     song_alias:
     esong_code: 2373B9
@@ -423,7 +406,7 @@ result:
     singer_alias:
     available_date: '2009-08-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひのいするくにし
@@ -474,7 +457,7 @@ result:
     singer_alias:
     available_date: '2009-08-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・バーサス<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: ひゆあういんく
@@ -517,3 +500,20 @@ result:
     - esong_code: 2375B35
       song_name: Beautiful Target
       content_type: ''
+  - song_name: Beautiful World (PLANiTb Acoustica Mix)
+    song_alias:
+    esong_code: 2375A11
+    t_singer_master_id: '8713'
+    singer_name: 宇多田 ヒカル
+    singer_alias:
+    available_date: '2009-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ヱヴァンゲリヲン新劇場版:破<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ひゆていふるわ
+    singer_name_ruby: うたたひかる
+    song_variation:
+    - esong_code: 2375A11
+      song_name: Beautiful World (PLANiTb Acoustica Mix)
+      content_type: DAM生音

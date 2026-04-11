@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1336
-  all_max_cnt: 1579
-  all_country_cnt: 1336
+  max_cnt: 1327
+  all_max_cnt: 1570
+  all_country_cnt: 1327
   song:
-  - song_name: 思い出は雲に似て
-    song_alias:
-    esong_code: 3264A23
-    t_singer_master_id: '353'
-    singer_name: 近江 俊郎
-    singer_alias:
-    available_date: '2016-12-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいてはくもにに
-    singer_name_ruby: おうみとしろう
-    song_variation:
-    - esong_code: 3264A23
-      song_name: 思い出は雲に似て
-      content_type: ''
   - song_name: おもかげ (House ver.)
     song_alias:
     esong_code: 3731A15
@@ -468,21 +451,21 @@ result:
       content_type: ''
   - song_name: おんな花火師 花舞台
     song_alias:
-    esong_code: 3729A40
+    esong_code: 3733A42
     t_singer_master_id: '44647'
     singer_name: 中西 りえ
     singer_alias:
-    available_date: '2016-12-06'
+    available_date: '2016-12-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM生音
     song_name_ruby: おんなはなひしはな
     singer_name_ruby: なかにしりえ
     song_variation:
-    - esong_code: 3729A40
+    - esong_code: 3733A42
       song_name: おんな花火師 花舞台
-      content_type: ''
+      content_type: DAM生音
   - song_name: おんな花火師 花舞台
     song_alias:
     esong_code: 3730B48
@@ -500,6 +483,23 @@ result:
     - esong_code: 3730B48
       song_name: おんな花火師 花舞台
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: おんな花火師 花舞台
+    song_alias:
+    esong_code: 3729A40
+    t_singer_master_id: '44647'
+    singer_name: 中西 りえ
+    singer_alias:
+    available_date: '2016-12-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなはなひしはな
+    singer_name_ruby: なかにしりえ
+    song_variation:
+    - esong_code: 3729A40
+      song_name: おんな花火師 花舞台
+      content_type: ''
   - song_name: おんな花火師 花舞台
     song_alias:
     esong_code: 3731A33

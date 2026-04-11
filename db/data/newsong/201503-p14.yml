@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1628
-  all_max_cnt: 1827
-  all_country_cnt: 1628
+  max_cnt: 1617
+  all_max_cnt: 1816
+  all_country_cnt: 1617
   song:
-  - song_name: 北の孤愁
-    song_alias:
-    esong_code: 3304A45
-    t_singer_master_id: '2503'
-    singer_name: 山本 譲二
-    singer_alias:
-    available_date: '2015-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: きたのこしゆう
-    singer_name_ruby: やまもとしようし
-    song_variation:
-    - esong_code: 3304A45
-      song_name: 北の孤愁
-      content_type: JOY生演奏
-  - song_name: 北浜漁港
-    song_alias:
-    esong_code: 963B14
-    t_singer_master_id: '47794'
-    singer_name: さと たくみ
-    singer_alias:
-    available_date: '2015-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたはまきよこう
-    singer_name_ruby: さとたくみ
-    song_variation:
-    - esong_code: 963B14
-      song_name: 北浜漁港
-      content_type: ''
-  - song_name: 北岬
-    song_alias:
-    esong_code: 912B9
-    t_singer_master_id: '32398'
-    singer_name: 大沢 あすか
-    singer_alias:
-    available_date: '2015-03-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたみさき
-    singer_name_ruby: おおさわあすか
-    song_variation:
-    - esong_code: 912B9
-      song_name: 北岬
-      content_type: ''
   - song_name: 紀淡海峡
     song_alias:
     esong_code: 925A18
@@ -92,23 +41,6 @@ result:
     - esong_code: 3417A16
       song_name: きっかけ
       content_type: ''
-  - song_name: Kiss魂
-    song_alias:
-    esong_code: 3414A18
-    t_singer_master_id: '42909'
-    singer_name: Kis-My-Ft2
-    singer_alias:
-    available_date: '2015-03-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きつすたましい
-    singer_name_ruby: きすまいふつとつ
-    song_variation:
-    - esong_code: 3414A18
-      song_name: Kiss魂
-      content_type: ''
   - song_name: Kiss魂 (Remix)
     song_alias:
     esong_code: 3417A25
@@ -125,6 +57,23 @@ result:
     song_variation:
     - esong_code: 3417A25
       song_name: Kiss魂 (Remix)
+      content_type: ''
+  - song_name: Kiss魂
+    song_alias:
+    esong_code: 3414A18
+    t_singer_master_id: '42909'
+    singer_name: Kis-My-Ft2
+    singer_alias:
+    available_date: '2015-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きつすたましい
+    singer_name_ruby: きすまいふつとつ
+    song_variation:
+    - esong_code: 3414A18
+      song_name: Kiss魂
       content_type: ''
   - song_name: きっと
     song_alias:
@@ -162,23 +111,6 @@ result:
       content_type: ''
   - song_name: 城崎夢情
     song_alias:
-    esong_code: 3284B28
-    t_singer_master_id: '18128'
-    singer_name: 井上 由美子
-    singer_alias:
-    available_date: '2015-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きのさきむしよう
-    singer_name_ruby: いのうえゆみこ
-    song_variation:
-    - esong_code: 3284B28
-      song_name: 城崎夢情
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 城崎夢情
-    song_alias:
     esong_code: 3284B29
     t_singer_master_id: '18128'
     singer_name: 井上 由美子
@@ -194,6 +126,23 @@ result:
     - esong_code: 3284B29
       song_name: 城崎夢情
       content_type: JOY生演奏
+  - song_name: 城崎夢情
+    song_alias:
+    esong_code: 3284B28
+    t_singer_master_id: '18128'
+    singer_name: 井上 由美子
+    singer_alias:
+    available_date: '2015-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きのさきむしよう
+    singer_name_ruby: いのうえゆみこ
+    song_variation:
+    - esong_code: 3284B28
+      song_name: 城崎夢情
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 希望
     song_alias:
     esong_code: 616B6
@@ -202,7 +151,7 @@ result:
     singer_alias:
     available_date: '2015-03-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦2ドラマCD「青い鳥」<番組名>
+    tie_up: サクラ大戦(ドラマCD版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きほう
@@ -406,7 +355,7 @@ result:
     singer_alias:
     available_date: '2015-03-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 愛・天地無用!<番組名>
+    tie_up: 天地無用!<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きみとみたはなきみと
@@ -508,7 +457,7 @@ result:
     singer_alias:
     available_date: '2015-03-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 愛・天地無用!<番組名>
+    tie_up: 天地無用!<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きみのままて
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3409B31
       song_name: キミのままで!
+      content_type: ''
+  - song_name: 君はスーパーラジカル
+    song_alias:
+    esong_code: 3417B16
+    t_singer_master_id: '7891'
+    singer_name: YUKI
+    singer_alias:
+    available_date: '2015-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみはすはらし
+    singer_name_ruby: ゆき
+    song_variation:
+    - esong_code: 3417B16
+      song_name: 君はスーパーラジカル
+      content_type: ''
+  - song_name: 君はノンフィクション
+    song_alias:
+    esong_code: 3414B19
+    t_singer_master_id: '26363'
+    singer_name: Base Ball Bear
+    singer_alias:
+    available_date: '2015-03-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみはのんふいくしよ
+    singer_name_ruby: へすほるへあ
+    song_variation:
+    - esong_code: 3414B19
+      song_name: 君はノンフィクション
+      content_type: ''
+  - song_name: 君は僕と会わない方がよかったのかな
+    song_alias:
+    esong_code: 3417A46
+    t_singer_master_id: '44213'
+    singer_name: 乃木坂46
+    singer_alias:
+    available_date: '2015-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみはほくとあわな
+    singer_name_ruby: のきさかふおていしつくす
+    song_variation:
+    - esong_code: 3417A46
+      song_name: 君は僕と会わない方がよかったのかな
       content_type: ''

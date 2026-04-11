@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
-  - song_name: ニッポン アイニイクヨ
-    song_alias:
-    esong_code: 1801B27
-    t_singer_master_id: '27697'
-    singer_name: GOLF&MIKE
-    singer_alias:
-    available_date: '2007-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: につほんあいにいく
-    singer_name_ruby: こるふあんとまいく
-    song_variation:
-    - esong_code: 1801B27
-      song_name: ニッポン アイニイクヨ
-      content_type: ''
   - song_name: 日本の男
     song_alias:
     esong_code: 1793A33
@@ -517,3 +500,20 @@ result:
     - esong_code: 1799B19
       song_name: ハッピー☆彡
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: HAPPY TOGETHER
+    song_alias:
+    esong_code: 1799A30
+    t_singer_master_id: '2651'
+    singer_name: 渡辺 美里
+    singer_alias:
+    available_date: '2007-06-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつひとうきや
+    singer_name_ruby: わたなへみさと
+    song_variation:
+    - esong_code: 1799A30
+      song_name: HAPPY TOGETHER
+      content_type: ''

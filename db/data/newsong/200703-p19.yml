@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
   - song_name: どどどんまいっ
     song_alias:
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: Dream Catcher
     song_alias:
-    esong_code: 1727A14
-    t_singer_master_id: '8743'
-    singer_name: OLIVIA
-    singer_alias:
-    available_date: '2007-03-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 地獄少女<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とりむきやつちや
-    singer_name_ruby: おりひあ
-    song_variation:
-    - esong_code: 1727A14
-      song_name: Dream Catcher
-      content_type: ''
-  - song_name: Dream Catcher
-    song_alias:
     esong_code: 1751A27
     t_singer_master_id: '12895'
     singer_name: EXILE
@@ -294,6 +277,23 @@ result:
     singer_name_ruby: えくさいる
     song_variation:
     - esong_code: 1751A27
+      song_name: Dream Catcher
+      content_type: ''
+  - song_name: Dream Catcher
+    song_alias:
+    esong_code: 1727A14
+    t_singer_master_id: '8743'
+    singer_name: OLIVIA
+    singer_alias:
+    available_date: '2007-03-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 地獄少女<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりむきやつちや
+    singer_name_ruby: おりひあ
+    song_variation:
+    - esong_code: 1727A14
       song_name: Dream Catcher
       content_type: ''
   - song_name: Don't stop
@@ -415,23 +415,6 @@ result:
     - esong_code: 1752B16
       song_name: 投げキッスで撃ち落とせ!
       content_type: ''
-  - song_name: 嘆きノ森
-    song_alias:
-    esong_code: 1756B29
-    t_singer_master_id: '22051'
-    singer_name: 彩音
-    singer_alias:
-    available_date: '2007-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ひぐらしのなく頃に 祭<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: なけきのもり
-    singer_name_ruby: あやね
-    song_variation:
-    - esong_code: 1756B29
-      song_name: 嘆きノ森
-      content_type: ''
   - song_name: 夏・コイ
     song_alias:
     esong_code: 1741A33
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1749B22
       song_name: 西区のうた
+      content_type: ''
+  - song_name: 西の風
+    song_alias:
+    esong_code: 1756B5
+    t_singer_master_id: '29488'
+    singer_name: みなと てつや
+    singer_alias:
+    available_date: '2007-03-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にしのかせ
+    singer_name_ruby: みなとてつや
+    song_variation:
+    - esong_code: 1756B5
+      song_name: 西の風
       content_type: ''

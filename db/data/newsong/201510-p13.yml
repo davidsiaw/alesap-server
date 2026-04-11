@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1462
-  all_max_cnt: 1642
-  all_country_cnt: 1462
+  max_cnt: 1455
+  all_max_cnt: 1635
+  all_country_cnt: 1455
   song:
-  - song_name: GUILTY
-    song_alias:
-    esong_code: 3512A5
-    t_singer_master_id: '31154'
-    singer_name: lynch.
-    singer_alias:
-    available_date: '2015-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きるてい
-    singer_name_ruby: りんち
-    song_variation:
-    - esong_code: 3512A5
-      song_name: GUILTY
-      content_type: ''
   - song_name: Guilty
     song_alias:
     esong_code: 3512B16
@@ -211,23 +194,6 @@ result:
     - esong_code: 3512B48
       song_name: グッバイ サブウェイ
       content_type: ''
-  - song_name: 熊野古道 [DAM本人歌唱]
-    song_alias:
-    esong_code: 3498B13
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2015-10-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: くまのことう
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 3498B13
-      song_name: 熊野古道 [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: 熊野古道
     song_alias:
     esong_code: 3498B12
@@ -245,6 +211,23 @@ result:
     - esong_code: 3498B12
       song_name: 熊野古道
       content_type: DAMﾗｲﾌﾞ
+  - song_name: 熊野古道 [DAM本人歌唱]
+    song_alias:
+    esong_code: 3498B13
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2015-10-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: くまのことう
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 3498B13
+      song_name: 熊野古道 [DAM本人歌唱]
+      content_type: DAM本人歌唱
   - song_name: Cry
     song_alias:
     esong_code: 3510A5
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3513B42
       song_name: Glory Days
+      content_type: ''
+  - song_name: KEIKO KEIKO
+    song_alias:
+    esong_code: 3520B38
+    t_singer_master_id: '1837'
+    singer_name: 半田 浩二
+    singer_alias:
+    available_date: '2015-10-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けいこけいこ
+    singer_name_ruby: はんたこうし
+    song_variation:
+    - esong_code: 3520B38
+      song_name: KEIKO KEIKO
       content_type: ''

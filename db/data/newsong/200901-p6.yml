@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
+  - song_name: 北の漁場
+    song_alias:
+    esong_code: 2253B45
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2009-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: きたのりようは
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 2253B45
+      song_name: 北の漁場
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ギター弾きを見ませんか
     song_alias:
     esong_code: 2198B3
@@ -491,7 +508,7 @@ result:
     singer_alias:
     available_date: '2009-01-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 國府田マリ子のGM(Game Museum)<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: きらりひまわり
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2200A47
       song_name: きらりひまわり
-      content_type: ''
-  - song_name: 霧舟の宿
-    song_alias:
-    esong_code: 2201A2
-    t_singer_master_id: '647'
-    singer_name: 北野 都
-    singer_alias:
-    available_date: '2009-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きりふねのやと
-    singer_name_ruby: きたのみやこ
-    song_variation:
-    - esong_code: 2201A2
-      song_name: 霧舟の宿
       content_type: ''

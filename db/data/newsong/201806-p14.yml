@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1328
-  all_max_cnt: 1485
-  all_country_cnt: 1328
+  max_cnt: 1315
+  all_max_cnt: 1472
+  all_country_cnt: 1315
   song:
-  - song_name: ゴマウェイ
-    song_alias:
-    esong_code: 4004A31
-    t_singer_master_id: '56303'
-    singer_name: 島爺
-    singer_alias:
-    available_date: '2018-06-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 少年アシベ GO!GO!ゴマちゃん<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こまうえい
-    singer_name_ruby: しましい
-    song_variation:
-    - esong_code: 4004A31
-      song_name: ゴマウェイ
-      content_type: ''
   - song_name: コールサインを君に
     song_alias:
     esong_code: 4015A35
@@ -179,23 +162,6 @@ result:
       content_type: JOY生演奏
   - song_name: 最後の乾杯
     song_alias:
-    esong_code: 3733A14
-    t_singer_master_id: '2419'
-    singer_name: 森 昌子
-    singer_alias:
-    available_date: '2018-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいこのかんはい
-    singer_name_ruby: もりまさこ
-    song_variation:
-    - esong_code: 3733A14
-      song_name: 最後の乾杯
-      content_type: ''
-  - song_name: 最後の乾杯
-    song_alias:
     esong_code: 1550B36
     t_singer_master_id: '2419'
     singer_name: 森 昌子
@@ -211,6 +177,23 @@ result:
     - esong_code: 1550B36
       song_name: 最後の乾杯
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 最後の乾杯
+    song_alias:
+    esong_code: 3733A14
+    t_singer_master_id: '2419'
+    singer_name: 森 昌子
+    singer_alias:
+    available_date: '2018-06-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいこのかんはい
+    singer_name_ruby: もりまさこ
+    song_variation:
+    - esong_code: 3733A14
+      song_name: 最後の乾杯
+      content_type: ''
   - song_name: 最後のジェラシー
     song_alias:
     esong_code: 2144B18
@@ -491,7 +474,7 @@ result:
     singer_alias:
     available_date: '2018-06-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: Caligula-カリギュラ-<番組名>
+    tie_up: Caligula-カリギュラ-(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さていすていつくく
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4011B34
       song_name: Sunny Day
+      content_type: ''
+  - song_name: THE New Era
+    song_alias:
+    esong_code: 4009A43
+    t_singer_master_id: '51925'
+    singer_name: GOT7
+    singer_alias:
+    available_date: '2018-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さにゆえら
+    singer_name_ruby: かつとせふん
+    song_variation:
+    - esong_code: 4009A43
+      song_name: THE New Era
       content_type: ''

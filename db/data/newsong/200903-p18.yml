@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
   - song_name: STEPPIN' INTO YOUR WORLD
     song_alias:
@@ -143,23 +143,6 @@ result:
     - esong_code: 2269A43
       song_name: SNOW
       content_type: ''
-  - song_name: Sparkle
-    song_alias:
-    esong_code: 2256A22
-    t_singer_master_id: '8492'
-    singer_name: 浜崎 あゆみ
-    singer_alias:
-    available_date: '2009-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すはくる
-    singer_name_ruby: はまさきあゆみ
-    song_variation:
-    - esong_code: 2256A22
-      song_name: Sparkle
-      content_type: ''
   - song_name: スパークル
     song_alias:
     esong_code: 2251B6
@@ -176,6 +159,23 @@ result:
     song_variation:
     - esong_code: 2251B6
       song_name: スパークル
+      content_type: ''
+  - song_name: Sparkle
+    song_alias:
+    esong_code: 2256A22
+    t_singer_master_id: '8492'
+    singer_name: 浜崎 あゆみ
+    singer_alias:
+    available_date: '2009-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すはくる
+    singer_name_ruby: はまさきあゆみ
+    song_variation:
+    - esong_code: 2256A22
+      song_name: Sparkle
       content_type: ''
   - song_name: SUPERSTAR
     song_alias:
@@ -400,23 +400,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: SAY YOUR DREAM
     song_alias:
-    esong_code: 2259B25
-    t_singer_master_id: '2855'
-    singer_name: GLAY
-    singer_alias:
-    available_date: '2009-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: せいゆあとりむ
-    singer_name_ruby: くれい
-    song_variation:
-    - esong_code: 2259B25
-      song_name: SAY YOUR DREAM
-      content_type: DAM良音
-  - song_name: SAY YOUR DREAM
-    song_alias:
     esong_code: 2254A35
     t_singer_master_id: '2855'
     singer_name: GLAY
@@ -432,6 +415,23 @@ result:
     - esong_code: 2254A35
       song_name: SAY YOUR DREAM
       content_type: ''
+  - song_name: SAY YOUR DREAM
+    song_alias:
+    esong_code: 2259B25
+    t_singer_master_id: '2855'
+    singer_name: GLAY
+    singer_alias:
+    available_date: '2009-03-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: せいゆあとりむ
+    singer_name_ruby: くれい
+    song_variation:
+    - esong_code: 2259B25
+      song_name: SAY YOUR DREAM
+      content_type: DAM良音
   - song_name: セイレーンの囁き
     song_alias:
     esong_code: 2269B15

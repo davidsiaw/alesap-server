@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1354
-  all_max_cnt: 1525
-  all_country_cnt: 1354
+  max_cnt: 1339
+  all_max_cnt: 1510
+  all_country_cnt: 1339
   song:
-  - song_name: おれの花
-    song_alias:
-    esong_code: 4281B49
-    t_singer_master_id: '29464'
-    singer_name: 喜川 まさき(喜川真気)
-    singer_alias:
-    available_date: '2019-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれのはな
-    singer_name_ruby: よしかわまさき
-    song_variation:
-    - esong_code: 4281B49
-      song_name: おれの花
-      content_type: ''
-  - song_name: Orange
-    song_alias:
-    esong_code: 4289A29
-    t_singer_master_id: '65349'
-    singer_name: 西条 公敏
-    singer_alias:
-    available_date: '2019-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれんし
-    singer_name_ruby: さいしようきみとし
-    song_variation:
-    - esong_code: 4289A29
-      song_name: Orange
-      content_type: ''
   - song_name: Orange Sugar
     song_alias:
     esong_code: 4295B20
@@ -517,3 +483,37 @@ result:
     - esong_code: 4285A23
       song_name: "(どうよう)Twinkle,Twinkle Little Star"
       content_type: DAM生音
+  - song_name: "(うた)かずをかぞえよう!"
+    song_alias:
+    esong_code: 4285A22
+    t_singer_master_id: '65295'
+    singer_name: ポケモン Kids TV
+    singer_alias:
+    available_date: '2019-11-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ポケモンガオーレ<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: かすをかそえよう
+    singer_name_ruby: ほけもんきつすてれひ
+    song_variation:
+    - esong_code: 4285A22
+      song_name: "(うた)かずをかぞえよう!"
+      content_type: DAM生音
+  - song_name: 風が吹く
+    song_alias:
+    esong_code: 4286B5
+    t_singer_master_id: '11133'
+    singer_name: 塩崎 みどり
+    singer_alias:
+    available_date: '2019-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせかふく
+    singer_name_ruby: しおさきみとり
+    song_variation:
+    - esong_code: 4286B5
+      song_name: 風が吹く
+      content_type: ''

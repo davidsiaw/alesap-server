@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1080
-  all_max_cnt: 1211
-  all_country_cnt: 1080
+  max_cnt: 1066
+  all_max_cnt: 1197
+  all_country_cnt: 1066
   song:
-  - song_name: 黄昏のルンバ
-    song_alias:
-    esong_code: 3991A36
-    t_singer_master_id: '63947'
-    singer_name: Waka
-    singer_alias:
-    available_date: '2019-05-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たそかれのるんは
-    singer_name_ruby: わか
-    song_variation:
-    - esong_code: 3991A36
-      song_name: 黄昏のルンバ
-      content_type: ''
-  - song_name: ダダダダ天使
-    song_alias:
-    esong_code: 4184A35
-    t_singer_master_id: '59845'
-    singer_name: ナナヲ アカリ
-    singer_alias:
-    available_date: '2019-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: たたたたてん
-    singer_name_ruby: ななをあかり
-    song_variation:
-    - esong_code: 4184A35
-      song_name: ダダダダ天使
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 只見線恋歌
-    song_alias:
-    esong_code: 4183A33
-    t_singer_master_id: '22160'
-    singer_name: 奥山 えいじ(奥山英治)
-    singer_alias:
-    available_date: '2019-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: たたみせんこいうた
-    singer_name_ruby: おくやまえいし
-    song_variation:
-    - esong_code: 4183A33
-      song_name: 只見線恋歌
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 立ち入り禁止 (イラストMV Ver.)
-    song_alias:
-    esong_code: 4189A19
-    t_singer_master_id: '46360'
-    singer_name: まふまふ
-    singer_alias:
-    available_date: '2019-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: たちいりきんしいらす
-    singer_name_ruby: まふまふ
-    song_variation:
-    - esong_code: 4189A19
-      song_name: 立ち入り禁止 (イラストMV Ver.)
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: たちまち嵐
-    song_alias:
-    esong_code: 4189B12
-    t_singer_master_id: '63886'
-    singer_name: ハルレオ
-    singer_alias:
-    available_date: '2019-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たちまちあらし
-    singer_name_ruby: はるれお
-    song_variation:
-    - esong_code: 4189B12
-      song_name: たちまち嵐
-      content_type: ''
-  - song_name: だって乙女だもん
-    song_alias:
-    esong_code: 4194B24
-    t_singer_master_id: '64078'
-    singer_name: LLシスターズ
-    singer_alias:
-    available_date: '2019-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たつておとめたも
-    singer_name_ruby: えるえるしすたす
-    song_variation:
-    - esong_code: 4194B24
-      song_name: だって乙女だもん
-      content_type: ''
   - song_name: 例えば歌が日記だったなら
     song_alias:
     esong_code: 4191A43
@@ -466,23 +364,6 @@ result:
     - esong_code: 4186B46
       song_name: ちこくしてもいいじゃん
       content_type: ''
-  - song_name: 地図が無くても戻るから (TV Size)
-    song_alias:
-    esong_code: 4184B11
-    t_singer_master_id: '53543'
-    singer_name: 古川 慎
-    singer_alias:
-    available_date: '2019-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ワンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちすかなくてもも
-    singer_name_ruby: ふるかわまこと
-    song_variation:
-    - esong_code: 4184B11
-      song_name: 地図が無くても戻るから (TV Size)
-      content_type: ''
   - song_name: 地図が無くても戻るから
     song_alias:
     esong_code: 4182A12
@@ -500,6 +381,23 @@ result:
     - esong_code: 4182A12
       song_name: 地図が無くても戻るから
       content_type: ''
+  - song_name: 地図が無くても戻るから (TV Size)
+    song_alias:
+    esong_code: 4184B11
+    t_singer_master_id: '53543'
+    singer_name: 古川 慎
+    singer_alias:
+    available_date: '2019-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ワンパンマン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちすかなくてもも
+    singer_name_ruby: ふるかわまこと
+    song_variation:
+    - esong_code: 4184B11
+      song_name: 地図が無くても戻るから (TV Size)
+      content_type: ''
   - song_name: チャーハンパラパラパラダイス
     song_alias:
     esong_code: 4186A47
@@ -516,4 +414,106 @@ result:
     song_variation:
     - esong_code: 4186A47
       song_name: チャーハンパラパラパラダイス
+      content_type: ''
+  - song_name: ちょい悪デビル
+    song_alias:
+    esong_code: 4183B15
+    t_singer_master_id: '19363'
+    singer_name: W(ダブルユー)
+    singer_alias:
+    available_date: '2019-05-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちよいわるてひる
+    singer_name_ruby: たふるゆ
+    song_variation:
+    - esong_code: 4183B15
+      song_name: ちょい悪デビル
+      content_type: ''
+  - song_name: Cho Wavy De Gomenne (Remix) feat.SALU
+    song_alias:
+    esong_code: 4184A33
+    t_singer_master_id: '61218'
+    singer_name: JP THE WAVY
+    singer_alias:
+    available_date: '2019-05-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ちようえいひて
+    singer_name_ruby: しえいひさうえいひ
+    song_variation:
+    - esong_code: 4184A33
+      song_name: Cho Wavy De Gomenne (Remix) feat.SALU
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 超天フィーバー! (TVサイズ)
+    song_alias:
+    esong_code: 4196B2
+    t_singer_master_id: '44361'
+    singer_name: はやぶさ
+    singer_alias:
+    available_date: '2019-05-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: デュエル・マスターズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちようてんふいは
+    singer_name_ruby: はやふさ
+    song_variation:
+    - esong_code: 4196B2
+      song_name: 超天フィーバー! (TVサイズ)
+      content_type: ''
+  - song_name: 超変身!ミネラルフォーマーズ
+    song_alias:
+    esong_code: 4190A12
+    t_singer_master_id: '62792'
+    singer_name: 鬼龍院 翔
+    singer_alias:
+    available_date: '2019-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちようへんしんみねら
+    singer_name_ruby: きりゆういんしよう
+    song_variation:
+    - esong_code: 4190A12
+      song_name: 超変身!ミネラルフォーマーズ
+      content_type: ''
+  - song_name: Chocolate Love
+    song_alias:
+    esong_code: 4187A4
+    t_singer_master_id: '63217'
+    singer_name: eyes
+    singer_alias:
+    available_date: '2019-05-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちよこれとらふ
+    singer_name_ruby: あいす2
+    song_variation:
+    - esong_code: 4187A4
+      song_name: Chocolate Love
+      content_type: ''
+  - song_name: ちょっとだけバカ with Creepy Nuts
+    song_alias:
+    esong_code: 4194B29
+    t_singer_master_id: '12900'
+    singer_name: 餓鬼レンジャー
+    singer_alias:
+    available_date: '2019-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちよつとたけはか
+    singer_name_ruby: かきれんしや
+    song_variation:
+    - esong_code: 4194B29
+      song_name: ちょっとだけバカ with Creepy Nuts
       content_type: ''

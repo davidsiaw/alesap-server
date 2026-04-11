@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 259
-  all_max_cnt: 274
-  all_country_cnt: 259
+  max_cnt: 254
+  all_max_cnt: 269
+  all_country_cnt: 254
   song:
-  - song_name: 絆坂
-    song_alias:
-    esong_code: 513B34
-    t_singer_master_id: '5034'
-    singer_name: 市川 由紀乃
-    singer_alias:
-    available_date: '2001-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすなさか
-    singer_name_ruby: いちかわゆきの
-    song_variation:
-    - esong_code: 513B34
-      song_name: 絆坂
-      content_type: ''
-  - song_name: Givin' Me All
-    song_alias:
-    esong_code: 518B21
-    t_singer_master_id: '1100'
-    singer_name: SING LIKE TALKING
-    singer_alias:
-    available_date: '2001-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きひんみおる
-    singer_name_ruby: しんくらいくときんく
-    song_variation:
-    - esong_code: 518B21
-      song_name: Givin' Me All
-      content_type: ''
   - song_name: Gift
     song_alias:
     esong_code: 518A24
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 518A31
       song_name: この空の下のどこかに
+      content_type: ''
+  - song_name: psychoballet
+    song_alias:
+    esong_code: 520A29
+    t_singer_master_id: '10445'
+    singer_name: BAISER
+    singer_alias:
+    available_date: '2001-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいこほれつと
+    singer_name_ruby: へせ
+    song_variation:
+    - esong_code: 520A29
+      song_name: psychoballet
+      content_type: ''
+  - song_name: さかまく未来
+    song_alias:
+    esong_code: 517A25
+    t_singer_master_id: '409'
+    singer_name: 岡村 孝子
+    singer_alias:
+    available_date: '2001-02-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さかまくみらい
+    singer_name_ruby: おかむらたかこ
+    song_variation:
+    - esong_code: 517A25
+      song_name: さかまく未来
       content_type: ''

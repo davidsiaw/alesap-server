@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 598
-  all_max_cnt: 668
-  all_country_cnt: 598
+  max_cnt: 592
+  all_max_cnt: 662
+  all_country_cnt: 592
   song:
-  - song_name: この季節が変われば
-    song_alias:
-    esong_code: 712B25
-    t_singer_master_id: '500'
-    singer_name: かぐや姫
-    singer_alias:
-    available_date: '2001-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: このきせつかかわれ
-    singer_name_ruby: かくやひめ
-    song_variation:
-    - esong_code: 712B25
-      song_name: この季節が変われば
-      content_type: ''
-  - song_name: この世の定め
-    song_alias:
-    esong_code: 710B30
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2001-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: このよのさため
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 710B30
-      song_name: この世の定め
-      content_type: ''
   - song_name: ごめんねDJ
     song_alias:
     esong_code: 728B24
@@ -74,23 +40,6 @@ result:
     song_variation:
     - esong_code: 727A33
       song_name: Calling me
-      content_type: ''
-  - song_name: これがボクらの道なのか
-    song_alias:
-    esong_code: 750B11
-    t_singer_master_id: '228'
-    singer_name: 五つの赤い風船
-    singer_alias:
-    available_date: '2001-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: これかほくらのみ
-    singer_name_ruby: いつつのあかいふうせ
-    song_variation:
-    - esong_code: 750B11
-      song_name: これがボクらの道なのか
       content_type: ''
   - song_name: これから むかえにいくよ
     song_alias:
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 713A26
       song_name: Secret
+      content_type: ''
+  - song_name: Secret 〜誰かのメッセージ〜
+    song_alias:
+    esong_code: 725A24
+    t_singer_master_id: '13183'
+    singer_name: 石田 彰
+    singer_alias:
+    available_date: '2001-12-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スレイヤーズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しくれつとたれか
+    singer_name_ruby: いしたあきら
+    song_variation:
+    - esong_code: 725A24
+      song_name: Secret 〜誰かのメッセージ〜
+      content_type: ''
+  - song_name: Secret Lover's Night
+    song_alias:
+    esong_code: 714A31
+    t_singer_master_id: '6909'
+    singer_name: SOPHIA
+    singer_alias:
+    available_date: '2001-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しくれつとらは
+    singer_name_ruby: そふいあ
+    song_variation:
+    - esong_code: 714A31
+      song_name: Secret Lover's Night
+      content_type: ''
+  - song_name: 時代のかたすみで（せめて、今だけ）
+    song_alias:
+    esong_code: 712A39
+    t_singer_master_id: '466'
+    singer_name: オフコース
+    singer_alias:
+    available_date: '2001-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: したいのかたすみ
+    singer_name_ruby: おふこす
+    song_variation:
+    - esong_code: 712A39
+      song_name: 時代のかたすみで（せめて、今だけ）
       content_type: ''

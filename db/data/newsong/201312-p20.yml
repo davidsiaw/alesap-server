@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: 死ね!バレンタイン・デー
+    song_alias:
+    esong_code: 3157B13
+    t_singer_master_id: '25645'
+    singer_name: 藤岡藤巻
+    singer_alias:
+    available_date: '2013-12-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しねはれんたいんて
+    singer_name_ruby: ふしおかふしまき
+    song_variation:
+    - esong_code: 3157B13
+      song_name: 死ね!バレンタイン・デー
+      content_type: ''
   - song_name: 始発駅
     song_alias:
     esong_code: 2948A40
@@ -217,7 +234,7 @@ result:
     t_singer_master_id: '1255'
     singer_name: SMAP
     singer_alias:
-    available_date: '2013-12-17'
+    available_date: '2013-12-18'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3152B12
       song_name: 不知火情歌
-      content_type: ''
-  - song_name: 白雪姫
-    song_alias:
-    esong_code: 3149B27
-    t_singer_master_id: '43355'
-    singer_name: Flower
-    singer_alias:
-    available_date: '2013-12-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しらゆきひめ
-    singer_name_ruby: ふらわ
-    song_variation:
-    - esong_code: 3149B27
-      song_name: 白雪姫
       content_type: ''

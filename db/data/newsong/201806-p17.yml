@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1328
-  all_max_cnt: 1485
-  all_country_cnt: 1328
+  max_cnt: 1315
+  all_max_cnt: 1472
+  all_country_cnt: 1315
   song:
-  - song_name: ジャーバージャ
-    song_alias:
-    esong_code: 3991A20
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2018-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: しやはしや
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 3991A20
-      song_name: ジャーバージャ
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: シャングリラ
-    song_alias:
-    esong_code: 4004A46
-    t_singer_master_id: '40738'
-    singer_name: ねごと
-    singer_alias:
-    available_date: '2018-06-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやんくりら
-    singer_name_ruby: ねこと
-    song_variation:
-    - esong_code: 4004A46
-      song_name: シャングリラ
-      content_type: ''
   - song_name: JUMPING SUMMER
     song_alias:
     esong_code: 4010B24
@@ -434,23 +400,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: じょっぱり よされ
     song_alias:
-    esong_code: 1352B15
-    t_singer_master_id: '1675'
-    singer_name: 長山 洋子(yoko)
-    singer_alias:
-    available_date: '2018-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよつはりよされ
-    singer_name_ruby: なかやまようこ
-    song_variation:
-    - esong_code: 1352B15
-      song_name: じょっぱり よされ
-      content_type: ''
-  - song_name: じょっぱり よされ
-    song_alias:
     esong_code: 1561A44
     t_singer_master_id: '1675'
     singer_name: 長山 洋子(yoko)
@@ -466,6 +415,23 @@ result:
     - esong_code: 1561A44
       song_name: じょっぱり よされ
       content_type: JOY生演奏
+  - song_name: じょっぱり よされ
+    song_alias:
+    esong_code: 1352B15
+    t_singer_master_id: '1675'
+    singer_name: 長山 洋子(yoko)
+    singer_alias:
+    available_date: '2018-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しよつはりよされ
+    singer_name_ruby: なかやまようこ
+    song_variation:
+    - esong_code: 1352B15
+      song_name: じょっぱり よされ
+      content_type: ''
   - song_name: 私立笑顔ヶ丘中学校 校歌
     song_alias:
     esong_code: 4004A24
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4013A16
       song_name: 白薔薇が咲く
+      content_type: ''
+  - song_name: シンアイ feat.HISATOMI,翔
+    song_alias:
+    esong_code: 3991A44
+    t_singer_master_id: '53570'
+    singer_name: Fio
+    singer_alias:
+    available_date: '2018-06-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんあい
+    singer_name_ruby: ふいお
+    song_variation:
+    - esong_code: 3991A44
+      song_name: シンアイ feat.HISATOMI,翔
+      content_type: ''
+  - song_name: 深海魚のマーチ
+    song_alias:
+    esong_code: 4009A48
+    t_singer_master_id: '53555'
+    singer_name: Koochewsen(クウチュウ戦)
+    singer_alias:
+    available_date: '2018-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんかいきよのま
+    singer_name_ruby: くうちゆうせん
+    song_variation:
+    - esong_code: 4009A48
+      song_name: 深海魚のマーチ
       content_type: ''

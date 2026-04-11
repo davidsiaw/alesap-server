@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 901
-  all_max_cnt: 1000
-  all_country_cnt: 901
+  max_cnt: 894
+  all_max_cnt: 993
+  all_country_cnt: 894
   song:
-  - song_name: Shake It Up
-    song_alias:
-    esong_code: 2308A34
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
-    singer_alias:
-    available_date: '2009-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: しえいくいつとあつふ
-    singer_name_ruby: こうたくみ
-    song_variation:
-    - esong_code: 2308A34
-      song_name: Shake It Up
-      content_type: DAMﾗｲﾌﾞ
-  - song_name: JPOP Xfile
-    song_alias:
-    esong_code: 2310B36
-    t_singer_master_id: '31843'
-    singer_name: 凛として時雨
-    singer_alias:
-    available_date: '2009-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえいほつふえ
-    singer_name_ruby: りんとしてしくれ
-    song_variation:
-    - esong_code: 2310B36
-      song_name: JPOP Xfile
-      content_type: ''
-  - song_name: ジェロメドレー
-    song_alias:
-    esong_code: 2318A30
-    t_singer_master_id: '32154'
-    singer_name: ジェロ
-    singer_alias:
-    available_date: '2009-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえろめとれ
-    singer_name_ruby: しえろ
-    song_variation:
-    - esong_code: 2318A30
-      song_name: ジェロメドレー
-      content_type: ''
   - song_name: 潮騒の宿
     song_alias:
     esong_code: 2332B45
@@ -400,23 +349,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: シャ・ラ・ラ
     song_alias:
-    esong_code: 2303A25
-    t_singer_master_id: '14521'
-    singer_name: 滝沢 秀明(from タッキー&翼)
-    singer_alias:
-    available_date: '2009-05-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやらら
-    singer_name_ruby: たきさわひてあき
-    song_variation:
-    - esong_code: 2303A25
-      song_name: シャ・ラ・ラ
-      content_type: ''
-  - song_name: シャ・ラ・ラ
-    song_alias:
     esong_code: 2332B15
     t_singer_master_id: '14521'
     singer_name: 滝沢 秀明(from タッキー&翼)
@@ -432,6 +364,23 @@ result:
     - esong_code: 2332B15
       song_name: シャ・ラ・ラ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: シャ・ラ・ラ
+    song_alias:
+    esong_code: 2303A25
+    t_singer_master_id: '14521'
+    singer_name: 滝沢 秀明(from タッキー&翼)
+    singer_alias:
+    available_date: '2009-05-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやらら
+    singer_name_ruby: たきさわひてあき
+    song_variation:
+    - esong_code: 2303A25
+      song_name: シャ・ラ・ラ
+      content_type: ''
   - song_name: シャ・ラ・ラ
     song_alias:
     esong_code: 2309B22
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 122B24
       song_name: 自由になるために
+      content_type: ''
+  - song_name: 18年目の夜
+    song_alias:
+    esong_code: 2309B25
+    t_singer_master_id: '36737'
+    singer_name: 伊達 晃二
+    singer_alias:
+    available_date: '2009-05-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆうはちねんめの
+    singer_name_ruby: たてこうし
+    song_variation:
+    - esong_code: 2309B25
+      song_name: 18年目の夜
+      content_type: ''
+  - song_name: 終末の歌
+    song_alias:
+    esong_code: 2309B42
+    t_singer_master_id: '24511'
+    singer_name: DuelJewel
+    singer_alias:
+    available_date: '2009-05-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆうまつのうた
+    singer_name_ruby: てゆえるしゆえる
+    song_variation:
+    - esong_code: 2309B42
+      song_name: 終末の歌
+      content_type: ''
+  - song_name: Duralumin
+    song_alias:
+    esong_code: 2309A33
+    t_singer_master_id: '31984'
+    singer_name: 斎藤 工
+    singer_alias:
+    available_date: '2009-05-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆらるみん
+    singer_name_ruby: さいとうたくみ
+    song_variation:
+    - esong_code: 2309A33
+      song_name: Duralumin
       content_type: ''

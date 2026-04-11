@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
   - song_name: マジックの憂うつ
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 2550B1
       song_name: また君に恋してる 「名演ピアノ 美野 春樹」
       content_type: ''
-  - song_name: "「またね…。」"
-    song_alias:
-    esong_code: 2544B34
-    t_singer_master_id: '141'
-    singer_name: 安全地帯
-    singer_alias:
-    available_date: '2010-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: またね
-    singer_name_ruby: あんせんちたい
-    song_variation:
-    - esong_code: 2544B34
-      song_name: "「またね…。」"
-      content_type: ''
   - song_name: 待ち合わせ
     song_alias:
     esong_code: 2545A2
@@ -179,23 +162,6 @@ result:
       content_type: 東方
   - song_name: 街物語
     song_alias:
-    esong_code: 2544B29
-    t_singer_master_id: '2482'
-    singer_name: 山下 達郎
-    singer_alias:
-    available_date: '2010-06-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まちものかたり
-    singer_name_ruby: やましたたつろう
-    song_variation:
-    - esong_code: 2544B29
-      song_name: 街物語
-      content_type: ''
-  - song_name: 街物語
-    song_alias:
     esong_code: 2376B11
     t_singer_master_id: '2482'
     singer_name: 山下 達郎
@@ -211,6 +177,23 @@ result:
     - esong_code: 2376B11
       song_name: 街物語
       content_type: DAM生音
+  - song_name: 街物語
+    song_alias:
+    esong_code: 2544B29
+    t_singer_master_id: '2482'
+    singer_name: 山下 達郎
+    singer_alias:
+    available_date: '2010-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まちものかたり
+    singer_name_ruby: やましたたつろう
+    song_variation:
+    - esong_code: 2544B29
+      song_name: 街物語
+      content_type: ''
   - song_name: 松島紀行 「名演ギター 斉藤 功」
     song_alias:
     esong_code: 2535B22
@@ -389,7 +372,7 @@ result:
     singer_alias:
     available_date: '2010-06-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まるかいてちきゆう
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2555A27
       song_name: 水沢情話
+      content_type: ''
+  - song_name: Mr."Broken Heart"
+    song_alias:
+    esong_code: 2549B38
+    t_singer_master_id: '34810'
+    singer_name: 松下 優也
+    singer_alias:
+    available_date: '2010-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすたふろくん
+    singer_name_ruby: まつしたゆうや
+    song_variation:
+    - esong_code: 2549B38
+      song_name: Mr."Broken Heart"
       content_type: ''

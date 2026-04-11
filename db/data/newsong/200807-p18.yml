@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1179
-  all_max_cnt: 1291
-  all_country_cnt: 1179
+  max_cnt: 1177
+  all_max_cnt: 1289
+  all_country_cnt: 1177
   song:
-  - song_name: 大丈夫。
-    song_alias:
-    esong_code: 2037B1
-    t_singer_master_id: '33423'
-    singer_name: Yummy Yukking
-    singer_alias:
-    available_date: '2008-07-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいしようふ
-    singer_name_ruby: やみやつきんく
-    song_variation:
-    - esong_code: 2037B1
-      song_name: 大丈夫。
-      content_type: ''
-  - song_name: 大丈夫だよ
-    song_alias:
-    esong_code: 2044B27
-    t_singer_master_id: '24880'
-    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
-    singer_alias:
-    available_date: '2008-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: たいしようふた
-    singer_name_ruby: ふあんきもんきへいひす
-    song_variation:
-    - esong_code: 2044B27
-      song_name: 大丈夫だよ
-      content_type: DAMﾗｲﾌﾞ
   - song_name: だいじょぶ、だいじょうぶ
     song_alias:
     esong_code: 2050A37
@@ -128,23 +94,6 @@ result:
       content_type: ''
   - song_name: TIME GOES BY
     song_alias:
-    esong_code: 2032A5
-    t_singer_master_id: '32344'
-    singer_name: VAMPS
-    singer_alias:
-    available_date: '2008-07-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいむこすは
-    singer_name_ruby: はんふす
-    song_variation:
-    - esong_code: 2032A5
-      song_name: TIME GOES BY
-      content_type: ''
-  - song_name: TIME GOES BY
-    song_alias:
     esong_code: 2042A34
     t_singer_master_id: '2658'
     singer_name: 和田 アキ子
@@ -158,6 +107,23 @@ result:
     singer_name_ruby: わたあきこ
     song_variation:
     - esong_code: 2042A34
+      song_name: TIME GOES BY
+      content_type: ''
+  - song_name: TIME GOES BY
+    song_alias:
+    esong_code: 2032A5
+    t_singer_master_id: '32344'
+    singer_name: VAMPS
+    singer_alias:
+    available_date: '2008-07-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいむこすは
+    singer_name_ruby: はんふす
+    song_variation:
+    - esong_code: 2032A5
       song_name: TIME GOES BY
       content_type: ''
   - song_name: 太陽
@@ -312,23 +278,6 @@ result:
     song_variation:
     - esong_code: 2016B44
       song_name: 抱きしめて・・・
-      content_type: ''
-  - song_name: 抱きしめてシュヴァルツ
-    song_alias:
-    esong_code: 2039B38
-    t_singer_master_id: '33453'
-    singer_name: ゴールデンボンバー
-    singer_alias:
-    available_date: '2008-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たきしめてしゆは
-    singer_name_ruby: こるてんほんは
-    song_variation:
-    - esong_code: 2039B38
-      song_name: 抱きしめてシュヴァルツ
       content_type: ''
   - song_name: TAXI
     song_alias:
@@ -491,7 +440,7 @@ result:
     singer_alias:
     available_date: '2008-07-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・エターニア THE ANIMATION<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: たひたち
@@ -517,3 +466,54 @@ result:
     - esong_code: 2031B37
       song_name: 旅立ち
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 旅立ちと少年
+    song_alias:
+    esong_code: 2021B30
+    t_singer_master_id: '30292'
+    singer_name: モノブライト
+    singer_alias:
+    available_date: '2008-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たひたちとしよう
+    singer_name_ruby: ものふらいと
+    song_variation:
+    - esong_code: 2021B30
+      song_name: 旅立ちと少年
+      content_type: ''
+  - song_name: taboo tears you up
+    song_alias:
+    esong_code: 2047A27
+    t_singer_master_id: '16226'
+    singer_name: イオシス
+    singer_alias:
+    available_date: '2008-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方紅魔郷 〜the Embodiment of Scarlet Devil<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: たふていあす
+    singer_name_ruby: いおしす
+    song_variation:
+    - esong_code: 2047A27
+      song_name: taboo tears you up
+      content_type: 東方
+  - song_name: Double-Action CLIMAX form
+    song_alias:
+    esong_code: 2033B10
+    t_singer_master_id: '32883'
+    singer_name: 関俊彦&遊佐浩二&てらそままさき&鈴村健一&大塚芳忠
+    singer_alias:
+    available_date: '2008-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 仮面ライダー電王<番組名>
+    country_code: '0'
+    content_type: JOYうたいり
+    song_name_ruby: たふるあくしよん
+    singer_name_ruby: せきとしひこゆさこうし
+    song_variation:
+    - esong_code: 2033B10
+      song_name: Double-Action CLIMAX form
+      content_type: JOYうたいり

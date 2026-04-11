@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 806
-  all_max_cnt: 881
-  all_country_cnt: 806
+  max_cnt: 802
+  all_max_cnt: 877
+  all_country_cnt: 802
   song:
-  - song_name: ブレイクダウン
-    song_alias:
-    esong_code: 4466B39
-    t_singer_master_id: '27717'
-    singer_name: DOES
-    singer_alias:
-    available_date: '2021-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂 THE FINAL<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれいくたうん
-    singer_name_ruby: とす
-    song_variation:
-    - esong_code: 4466B39
-      song_name: ブレイクダウン
-      content_type: ''
-  - song_name: pray for real
-    song_alias:
-    esong_code: 4459A9
-    t_singer_master_id: '59122'
-    singer_name: IA
-    singer_alias:
-    available_date: '2021-01-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ふれいふおりある
-    singer_name_ruby: いあ
-    song_variation:
-    - esong_code: 4459A9
-      song_name: pray for real
-      content_type: VOCALOID
-  - song_name: Present
-    song_alias:
-    esong_code: 4461A32
-    t_singer_master_id: '60964'
-    singer_name: Awich
-    singer_alias:
-    available_date: '2021-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれせんと
-    singer_name_ruby: えいういつち
-    song_variation:
-    - esong_code: 4461A32
-      song_name: Present
-      content_type: ''
-  - song_name: フロストガール
-    song_alias:
-    esong_code: 4462B17
-    t_singer_master_id: '67373'
-    singer_name: イオシス/あにー(TaNaBaTa)
-    singer_alias:
-    available_date: '2021-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方紅魔郷 〜the Embodiment of Scarlet Devil<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: ふろすとかる
-    singer_name_ruby: いおしすあに
-    song_variation:
-    - esong_code: 4462B17
-      song_name: フロストガール
-      content_type: 東方
   - song_name: from the edge feat.LiSA (アニメ映像 ver.)
     song_alias:
     esong_code: 4460B16
@@ -128,23 +60,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: へでもねーよ
     song_alias:
-    esong_code: 4462A34
-    t_singer_master_id: '65820'
-    singer_name: 藤井 風
-    singer_alias:
-    available_date: '2021-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へてもねよ
-    singer_name_ruby: ふしいかせ
-    song_variation:
-    - esong_code: 4462A34
-      song_name: へでもねーよ
-      content_type: ''
-  - song_name: へでもねーよ
-    song_alias:
     esong_code: 4467B3
     t_singer_master_id: '65820'
     singer_name: 藤井 風
@@ -160,6 +75,23 @@ result:
     - esong_code: 4467B3
       song_name: へでもねーよ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: へでもねーよ
+    song_alias:
+    esong_code: 4462A34
+    t_singer_master_id: '65820'
+    singer_name: 藤井 風
+    singer_alias:
+    available_date: '2021-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へてもねよ
+    singer_name_ruby: ふしいかせ
+    song_variation:
+    - esong_code: 4462A34
+      song_name: へでもねーよ
+      content_type: ''
   - song_name: ヘルニアの神様!あいつを狙って!
     song_alias:
     esong_code: 4464A25
@@ -432,23 +364,6 @@ result:
     - esong_code: 4459A46
       song_name: 細川ガラシャ
       content_type: ''
-  - song_name: 北海の暴れん坊 [歌ってみた利用OK]
-    song_alias:
-    esong_code: 4465A46
-    t_singer_master_id: '1774'
-    singer_name: 橋 幸夫
-    singer_alias:
-    available_date: '2021-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: 歌ってみた利用OK
-    song_name_ruby: ほつかいのあはれん
-    singer_name_ruby: はしゆきお
-    song_variation:
-    - esong_code: 4465A46
-      song_name: 北海の暴れん坊 [歌ってみた利用OK]
-      content_type: 歌ってみた利用OK
   - song_name: 北海の暴れん坊
     song_alias:
     esong_code: 1377A19
@@ -466,6 +381,23 @@ result:
     - esong_code: 1377A19
       song_name: 北海の暴れん坊
       content_type: ''
+  - song_name: 北海の暴れん坊 [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4465A46
+    t_singer_master_id: '1774'
+    singer_name: 橋 幸夫
+    singer_alias:
+    available_date: '2021-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: ほつかいのあはれん
+    singer_name_ruby: はしゆきお
+    song_variation:
+    - esong_code: 4465A46
+      song_name: 北海の暴れん坊 [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
   - song_name: ポニーテールは振り向かせない
     song_alias:
     esong_code: 4467B28
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 4462B22
       song_name: Horizon Blue feat.Aikapin&Chiyoko
+      content_type: ''
+  - song_name: Holy Magic 〜大人になっても解けない魔法〜
+    song_alias:
+    esong_code: 4466A11
+    t_singer_master_id: '66668'
+    singer_name: south2
+    singer_alias:
+    available_date: '2021-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ガル学。〜聖ガールズスクエア学院〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほりましつくお
+    singer_name_ruby: さうすさうす
+    song_variation:
+    - esong_code: 4466A11
+      song_name: Holy Magic 〜大人になっても解けない魔法〜
+      content_type: ''
+  - song_name: HOLD ON
+    song_alias:
+    esong_code: 4461A28
+    t_singer_master_id: '67353'
+    singer_name: 伊崎 行雄
+    singer_alias:
+    available_date: '2021-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほるとおん
+    singer_name_ruby: いさきゆきお
+    song_variation:
+    - esong_code: 4461A28
+      song_name: HOLD ON
+      content_type: ''
+  - song_name: ほろりうた
+    song_alias:
+    esong_code: 4464B16
+    t_singer_master_id: '13437'
+    singer_name: 藤原 彩代
+    singer_alias:
+    available_date: '2021-01-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほろりうた
+    singer_name_ruby: ふしわらさよ
+    song_variation:
+    - esong_code: 4464B16
+      song_name: ほろりうた
+      content_type: ''
+  - song_name: white
+    song_alias:
+    esong_code: 4466A7
+    t_singer_master_id: '63904'
+    singer_name: 仮病
+    singer_alias:
+    available_date: '2021-01-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほわいと
+    singer_name_ruby: けひよう
+    song_variation:
+    - esong_code: 4466A7
+      song_name: white
       content_type: ''

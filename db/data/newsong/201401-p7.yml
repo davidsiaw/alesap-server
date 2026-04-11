@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
   - song_name: 俺の人生流し唄
     song_alias:
@@ -166,7 +166,7 @@ result:
     t_singer_master_id: '33726'
     singer_name: やしま ひろみ
     singer_alias:
-    available_date: '2014-01-21'
+    available_date: '2014-01-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -177,23 +177,6 @@ result:
     - esong_code: 2667A3
       song_name: おんなの法善寺
       content_type: ''
-  - song_name: 女のまこと
-    song_alias:
-    esong_code: 2894A6
-    t_singer_master_id: '893'
-    singer_name: 伍代 夏子
-    singer_alias:
-    available_date: '2014-01-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おんなのまこと
-    singer_name_ruby: こたいなつこ
-    song_variation:
-    - esong_code: 2894A6
-      song_name: 女のまこと
-      content_type: DAM生音
   - song_name: 女のまこと
     song_alias:
     esong_code: 3174A49
@@ -213,6 +196,23 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 女のまこと
     song_alias:
+    esong_code: 3021B10
+    t_singer_master_id: '893'
+    singer_name: 伍代 夏子
+    singer_alias:
+    available_date: '2014-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのまこと
+    singer_name_ruby: こたいなつこ
+    song_variation:
+    - esong_code: 3021B10
+      song_name: 女のまこと
+      content_type: ''
+  - song_name: 女のまこと
+    song_alias:
     esong_code: 2893B44
     t_singer_master_id: '893'
     singer_name: 伍代 夏子
@@ -230,21 +230,21 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 女のまこと
     song_alias:
-    esong_code: 3021B10
+    esong_code: 2894A6
     t_singer_master_id: '893'
     singer_name: 伍代 夏子
     singer_alias:
-    available_date: '2014-01-01'
+    available_date: '2014-01-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM生音
     song_name_ruby: おんなのまこと
     singer_name_ruby: こたいなつこ
     song_variation:
-    - esong_code: 3021B10
+    - esong_code: 2894A6
       song_name: 女のまこと
-      content_type: ''
+      content_type: DAM生音
   - song_name: おんなの夜明け 〜第二章〜
     song_alias:
     esong_code: 1548A23
@@ -332,23 +332,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 海峡しぐれ
     song_alias:
-    esong_code: 3169B21
-    t_singer_master_id: '1994'
-    singer_name: 藤 あや子
-    singer_alias:
-    available_date: '2014-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かいきようしくれ
-    singer_name_ruby: ふしあやこ
-    song_variation:
-    - esong_code: 3169B21
-      song_name: 海峡しぐれ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 海峡しぐれ
-    song_alias:
     esong_code: 2799B28
     t_singer_master_id: '1994'
     singer_name: 藤 あや子
@@ -364,6 +347,23 @@ result:
     - esong_code: 2799B28
       song_name: 海峡しぐれ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 海峡しぐれ
+    song_alias:
+    esong_code: 3169B21
+    t_singer_master_id: '1994'
+    singer_name: 藤 あや子
+    singer_alias:
+    available_date: '2014-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かいきようしくれ
+    singer_name_ruby: ふしあやこ
+    song_variation:
+    - esong_code: 3169B21
+      song_name: 海峡しぐれ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 海賊リズム
     song_alias:
     esong_code: 3174B42
@@ -389,7 +389,7 @@ result:
     singer_alias:
     available_date: '2014-01-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA4<番組名>
+    tie_up: 戦国BASARA<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かうんとせろ

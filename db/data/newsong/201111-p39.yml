@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: みいつけた!
-    song_alias:
-    esong_code: 2704B27
-    t_singer_master_id: '18551'
-    singer_name: トータス松本
-    singer_alias:
-    available_date: '2011-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みいつけた!<番組名>
-    country_code: '0'
-    content_type: JOYうたいり
-    song_name_ruby: みいつけた
-    singer_name_ruby: とたすまつもと
-    song_variation:
-    - esong_code: 2704B27
-      song_name: みいつけた!
-      content_type: JOYうたいり
   - song_name: 味方
     song_alias:
     esong_code: 2716A24
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: みなと夢酒場
     song_alias:
-    esong_code: 2705B16
-    t_singer_master_id: '18128'
-    singer_name: 井上 由美子
-    singer_alias:
-    available_date: '2011-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: みなとゆめさかは
-    singer_name_ruby: いのうえゆみこ
-    song_variation:
-    - esong_code: 2705B16
-      song_name: みなと夢酒場
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: みなと夢酒場
-    song_alias:
     esong_code: 2705A32
     t_singer_master_id: '18128'
     singer_name: 井上 由美子
@@ -347,6 +313,23 @@ result:
     - esong_code: 2705A32
       song_name: みなと夢酒場
       content_type: DAM生音
+  - song_name: みなと夢酒場
+    song_alias:
+    esong_code: 2705B16
+    t_singer_master_id: '18128'
+    singer_name: 井上 由美子
+    singer_alias:
+    available_date: '2011-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: みなとゆめさかは
+    singer_name_ruby: いのうえゆみこ
+    song_variation:
+    - esong_code: 2705B16
+      song_name: みなと夢酒場
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 南の花
     song_alias:
     esong_code: 2708A26
@@ -483,6 +466,23 @@ result:
     - esong_code: 2704B19
       song_name: 未来の花束
       content_type: ''
+  - song_name: ミルク
+    song_alias:
+    esong_code: 2713A49
+    t_singer_master_id: '33300'
+    singer_name: ミュージカル (エリザベート)
+    singer_alias:
+    available_date: '2011-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みるく
+    singer_name_ruby: みゆしかるえりさへと
+    song_variation:
+    - esong_code: 2713A49
+      song_name: ミルク
+      content_type: ''
   - song_name: MILK
     song_alias:
     esong_code: 561B3
@@ -500,20 +500,20 @@ result:
     - esong_code: 561B3
       song_name: MILK
       content_type: ''
-  - song_name: ミルク
+  - song_name: ミルク・ティー
     song_alias:
-    esong_code: 2713A49
-    t_singer_master_id: '33300'
-    singer_name: ミュージカル (エリザベート)
+    esong_code: 2710B41
+    t_singer_master_id: '5988'
+    singer_name: 遠藤 賢司
     singer_alias:
-    available_date: '2011-11-23'
+    available_date: '2011-11-16'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: みるく
-    singer_name_ruby: みゆしかるえりさへと
+    song_name_ruby: みるくてい
+    singer_name_ruby: えんとうけんし
     song_variation:
-    - esong_code: 2713A49
-      song_name: ミルク
+    - esong_code: 2710B41
+      song_name: ミルク・ティー
       content_type: ''

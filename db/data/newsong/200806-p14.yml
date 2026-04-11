@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
+  - song_name: 自転車で出せるだけのスピード風さえも追越した気がした
+    song_alias:
+    esong_code: 1064B19
+    t_singer_master_id: '10013'
+    singer_name: rumania montevideo
+    singer_alias:
+    available_date: '2008-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: してんしやてた
+    singer_name_ruby: るまにあもんてひ
+    song_variation:
+    - esong_code: 1064B19
+      song_name: 自転車で出せるだけのスピード風さえも追越した気がした
+      content_type: ''
   - song_name: 自転車に乗って
     song_alias:
     esong_code: 2023A15
@@ -236,7 +253,7 @@ result:
     singer_alias:
     available_date: '2008-06-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: るろうに剣心(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しゆくてきけんさん
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2030A34
       song_name: 昭和最後のワルツ
-      content_type: ''
-  - song_name: 昭和平成旅がらす
-    song_alias:
-    esong_code: 1497A41
-    t_singer_master_id: '12817'
-    singer_name: 北原 晃次(北原こうじ)
-    singer_alias:
-    available_date: '2008-06-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようわへいせいたひ
-    singer_name_ruby: きたはらこうし
-    song_variation:
-    - esong_code: 1497A41
-      song_name: 昭和平成旅がらす
       content_type: ''

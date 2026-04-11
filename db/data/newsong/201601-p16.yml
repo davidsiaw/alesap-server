@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: スーダラ節
-    song_alias:
-    esong_code: 3587A15
-    t_singer_master_id: '55224'
-    singer_name: SAKEROCK
-    singer_alias:
-    available_date: '2016-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すたらふし
-    singer_name_ruby: さけろつく
-    song_variation:
-    - esong_code: 3587A15
-      song_name: スーダラ節
-      content_type: ''
   - song_name: Stand by Dreams
     song_alias:
     esong_code: 3580A43
@@ -457,7 +440,7 @@ result:
     singer_alias:
     available_date: '2016-01-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2 THE ANIMATION<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: せつせいすたけ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2106A5
       song_name: 瀬戸情話
+      content_type: ''
+  - song_name: sepia
+    song_alias:
+    esong_code: 3582B24
+    t_singer_master_id: '48967'
+    singer_name: BACK LIFT
+    singer_alias:
+    available_date: '2016-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せひあ
+    singer_name_ruby: はつくりふと
+    song_variation:
+    - esong_code: 3582B24
+      song_name: sepia
       content_type: ''

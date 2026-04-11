@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: エターナル・サンシャイン
-    song_alias:
-    esong_code: 1640B43
-    t_singer_master_id: '25461'
-    singer_name: NIRGILIS
-    singer_alias:
-    available_date: '2006-08-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えたなるさんしやい
-    singer_name_ruby: にるきりす
-    song_variation:
-    - esong_code: 1640B43
-      song_name: エターナル・サンシャイン
-      content_type: ''
   - song_name: N.M.N 〜NO MORE NAYAMIMUYOU〜
     song_alias:
     esong_code: 1640B13
@@ -134,7 +117,7 @@ result:
     singer_alias:
     available_date: '2006-08-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 新・北斗の拳<番組名>
+    tie_up: 北斗の拳<番組名>
     country_code: '0'
     content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: おあしす
@@ -315,6 +298,23 @@ result:
       content_type: ''
   - song_name: おじぎ草
     song_alias:
+    esong_code: 1581A10
+    t_singer_master_id: '13954'
+    singer_name: 椎名 佐千子
+    singer_alias:
+    available_date: '2006-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おしきそう
+    singer_name_ruby: しいなさちこ
+    song_variation:
+    - esong_code: 1581A10
+      song_name: おじぎ草
+      content_type: DAM生音
+  - song_name: おじぎ草
+    song_alias:
     esong_code: 1580A13
     t_singer_master_id: '13954'
     singer_name: 椎名 佐千子
@@ -347,23 +347,6 @@ result:
     - esong_code: 1582B18
       song_name: おじき草
       content_type: ''
-  - song_name: おじぎ草
-    song_alias:
-    esong_code: 1581A10
-    t_singer_master_id: '13954'
-    singer_name: 椎名 佐千子
-    singer_alias:
-    available_date: '2006-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おしきそう
-    singer_name_ruby: しいなさちこ
-    song_variation:
-    - esong_code: 1581A10
-      song_name: おじぎ草
-      content_type: DAM生音
   - song_name: オジー自慢のオリオンビール
     song_alias:
     esong_code: 1581B48
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1589A22
       song_name: 踊る赤ちゃん人間
+      content_type: ''
+  - song_name: おどろよタンゴ
+    song_alias:
+    esong_code: 1608A9
+    t_singer_master_id: '10961'
+    singer_name: 杉田 あきひろ&つのだ りょうこ
+    singer_alias:
+    available_date: '2006-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: おかあさんといっしょ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとろよたんこ
+    singer_name_ruby: すきたあきひろつの
+    song_variation:
+    - esong_code: 1608A9
+      song_name: おどろよタンゴ
       content_type: ''

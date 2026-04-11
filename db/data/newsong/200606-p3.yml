@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1410
-  all_max_cnt: 1498
-  all_country_cnt: 1410
+  max_cnt: 1399
+  all_max_cnt: 1487
+  all_country_cnt: 1399
   song:
-  - song_name: あわんあわん音頭
-    song_alias:
-    esong_code: 175B49
-    t_singer_master_id: '567'
-    singer_name: 嘉門 達夫
-    singer_alias:
-    available_date: '2006-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あわんあわんおんと
-    singer_name_ruby: かもんたつお
-    song_variation:
-    - esong_code: 175B49
-      song_name: あわんあわん音頭
-      content_type: ''
   - song_name: アンジェラ
     song_alias:
     esong_code: 1509A23
@@ -262,23 +245,6 @@ result:
     - esong_code: 1563B49
       song_name: いきてゆくことが
       content_type: ''
-  - song_name: いくぞ!ばいきんまん
-    song_alias:
-    esong_code: 582B14
-    t_singer_master_id: '11081'
-    singer_name: 中尾 隆聖
-    singer_alias:
-    available_date: '2006-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: それいけ!アンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いくそはいきんま
-    singer_name_ruby: なかおりゆうせい
-    song_variation:
-    - esong_code: 582B14
-      song_name: いくぞ!ばいきんまん
-      content_type: ''
   - song_name: 居酒屋津軽
     song_alias:
     esong_code: 770A45
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1534A24
       song_name: 伊根の舟歌
+      content_type: ''
+  - song_name: イノセント(純粋)
+    song_alias:
+    esong_code: 418B42
+    t_singer_master_id: '2473'
+    singer_name: 山口 百恵
+    singer_alias:
+    available_date: '2006-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのせんと
+    singer_name_ruby: やまくちももえ
+    song_variation:
+    - esong_code: 418B42
+      song_name: イノセント(純粋)
+      content_type: ''
+  - song_name: いのちのありか (ニューバージョン)
+    song_alias:
+    esong_code: 1443A47
+    t_singer_master_id: '2355'
+    singer_name: 都 はるみ
+    singer_alias:
+    available_date: '2006-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのちのありか
+    singer_name_ruby: みやこはるみ
+    song_variation:
+    - esong_code: 1443A47
+      song_name: いのちのありか (ニューバージョン)
       content_type: ''

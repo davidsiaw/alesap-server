@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: パフ
-    song_alias:
-    esong_code: 1811B18
-    t_singer_master_id: '4997'
-    singer_name: 林 アキラ
-    singer_alias:
-    available_date: '2007-07-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おかあさんといっしょ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はふ
-    singer_name_ruby: はやしあきら
-    song_variation:
-    - esong_code: 1811B18
-      song_name: パフ
-      content_type: ''
   - song_name: Perfect tears
     song_alias:
     esong_code: 1811B34
@@ -417,23 +400,6 @@ result:
       content_type: ''
   - song_name: PEACH
     song_alias:
-    esong_code: 1797A11
-    t_singer_master_id: '16288'
-    singer_name: 大塚 愛
-    singer_alias:
-    available_date: '2007-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひち
-    singer_name_ruby: おおつかあい
-    song_variation:
-    - esong_code: 1797A11
-      song_name: PEACH
-      content_type: ''
-  - song_name: PEACH
-    song_alias:
     esong_code: 1816B44
     t_singer_master_id: '16288'
     singer_name: 大塚 愛
@@ -449,6 +415,23 @@ result:
     - esong_code: 1816B44
       song_name: PEACH
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: PEACH
+    song_alias:
+    esong_code: 1797A11
+    t_singer_master_id: '16288'
+    singer_name: 大塚 愛
+    singer_alias:
+    available_date: '2007-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひち
+    singer_name_ruby: おおつかあい
+    song_variation:
+    - esong_code: 1797A11
+      song_name: PEACH
+      content_type: ''
   - song_name: BIGG THANG 〜SUKIYAKI WESTERN〜 feat.SLOW PAIN
     song_alias:
     esong_code: 1816B1
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1808B49
       song_name: ひとりきりの空
+      content_type: ''
+  - song_name: ひとりよがり
+    song_alias:
+    esong_code: 1811B22
+    t_singer_master_id: '15601'
+    singer_name: 劇団四季(ミュージカル)
+    singer_alias:
+    available_date: '2007-07-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとりよかり
+    singer_name_ruby: けきたんしきみゆしかる
+    song_variation:
+    - esong_code: 1811B22
+      song_name: ひとりよがり
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: 男の裏町
-    song_alias:
-    esong_code: 2048A38
-    t_singer_master_id: '44'
-    singer_name: 秋岡 秀治
-    singer_alias:
-    available_date: '2017-12-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おとこのうらまち
-    singer_name_ruby: あきおかしゆうし
-    song_variation:
-    - esong_code: 2048A38
-      song_name: 男の裏町
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 男の傷あと
-    song_alias:
-    esong_code: 2233B35
-    t_singer_master_id: '533'
-    singer_name: 桂 竜士
-    singer_alias:
-    available_date: '2017-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこのきすあと
-    singer_name_ruby: かつらりゆうし
-    song_variation:
-    - esong_code: 2233B35
-      song_name: 男の傷あと
-      content_type: ''
   - song_name: 漢の喧嘩 美しく
     song_alias:
     esong_code: 3923A36
@@ -262,6 +228,23 @@ result:
     - esong_code: 3914A10
       song_name: Orbit
       content_type: ''
+  - song_name: 帯屋町ブルース (2017ver.)
+    song_alias:
+    esong_code: 3868B30
+    t_singer_master_id: '48167'
+    singer_name: 水雲-MIZMO-(MIZMO)
+    singer_alias:
+    available_date: '2017-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おひやまちふる
+    singer_name_ruby: みすも
+    song_variation:
+    - esong_code: 3868B30
+      song_name: 帯屋町ブルース (2017ver.)
+      content_type: ''
   - song_name: オペラ
     song_alias:
     esong_code: 3916B22
@@ -287,7 +270,7 @@ result:
     singer_alias:
     available_date: '2017-12-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HUNTER×HUNTER(2011)<番組名>
+    tie_up: HUNTER×HUNTER<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おまい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3923B38
       song_name: 俺とヒーロー
+      content_type: ''
+  - song_name: オレはいつか花になる
+    song_alias:
+    esong_code: 3926A36
+    t_singer_master_id: '59248'
+    singer_name: スージー・ロッソ
+    singer_alias:
+    available_date: '2017-12-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スナックワールド<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれはいつかはなにな
+    singer_name_ruby: すしろつそ
+    song_variation:
+    - esong_code: 3926A36
+      song_name: オレはいつか花になる
       content_type: ''

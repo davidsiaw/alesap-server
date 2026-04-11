@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: これが女のしあわせね
+    song_alias:
+    esong_code: 2380A20
+    t_singer_master_id: '32348'
+    singer_name: 渕上 雅代
+    singer_alias:
+    available_date: '2013-05-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: これかおんなのしあ
+    singer_name_ruby: ふちかみまさよ
+    song_variation:
+    - esong_code: 2380A20
+      song_name: これが女のしあわせね
+      content_type: ''
   - song_name: これまでのミチ、今、これからのミチ 〜540.8km〜
     song_alias:
     esong_code: 3052A13
@@ -247,21 +264,21 @@ result:
       content_type: ''
   - song_name: サクラミツツキ
     song_alias:
-    esong_code: 3035A18
+    esong_code: 3037A10
     t_singer_master_id: '36641'
     singer_name: SPYAIR
     singer_alias:
-    available_date: '2013-05-14'
+    available_date: '2013-05-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂'延長戦<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
-    content_type: DAM生音
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: さくらみつつき
     singer_name_ruby: すはいえあ
     song_variation:
-    - esong_code: 3035A18
+    - esong_code: 3037A10
       song_name: サクラミツツキ
-      content_type: DAM生音
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: サクラミツツキ
     song_alias:
     esong_code: 3035B9
@@ -270,7 +287,7 @@ result:
     singer_alias:
     available_date: '2013-05-14'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂'延長戦<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: さくらみつつき
@@ -281,21 +298,21 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: サクラミツツキ
     song_alias:
-    esong_code: 3037A10
+    esong_code: 3035A18
     t_singer_master_id: '36641'
     singer_name: SPYAIR
     singer_alias:
-    available_date: '2013-05-04'
+    available_date: '2013-05-14'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂'延長戦<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: DAM生音
     song_name_ruby: さくらみつつき
     singer_name_ruby: すはいえあ
     song_variation:
-    - esong_code: 3037A10
+    - esong_code: 3035A18
       song_name: サクラミツツキ
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: DAM生音
   - song_name: 桜モダン
     song_alias:
     esong_code: 3040B48
@@ -500,20 +517,3 @@ result:
     - esong_code: 3049B20
       song_name: さとりの結婚幻想物語 〜サード・愛〜
       content_type: 東方
-  - song_name: SURVIVE
-    song_alias:
-    esong_code: 3052B2
-    t_singer_master_id: '25669'
-    singer_name: NICO Touches the Walls
-    singer_alias:
-    available_date: '2013-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さはいふ
-    singer_name_ruby: にこたつちすさうおるす
-    song_variation:
-    - esong_code: 3052B2
-      song_name: SURVIVE
-      content_type: ''

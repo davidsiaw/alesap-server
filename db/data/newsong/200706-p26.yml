@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
-  - song_name: 山口さんちのツトム君 [NHKみんなのうた映像]
-    song_alias:
-    esong_code: 1795A28
-    t_singer_master_id: '598'
-    singer_name: 川橋 啓史
-    singer_alias:
-    available_date: '2007-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みんなのうた<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: やまくちさんちのつ
-    singer_name_ruby: かわはしけいし
-    song_variation:
-    - esong_code: 1795A28
-      song_name: 山口さんちのツトム君 [NHKみんなのうた映像]
-      content_type: ''
   - song_name: 山崎まさよしメドレー 〜2006〜
     song_alias:
     esong_code: 1798B5
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1804A31
       song_name: life goes on 〜さくら咲く季節に〜
+      content_type: ''
+  - song_name: LAYER-GREEN (ver.1.05 Gold)
+    song_alias:
+    esong_code: 1802A14
+    t_singer_master_id: '5016'
+    singer_name: P-MODEL
+    singer_alias:
+    available_date: '2007-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいやくりん
+    singer_name_ruby: ひもてる
+    song_variation:
+    - esong_code: 1802A14
+      song_name: LAYER-GREEN (ver.1.05 Gold)
       content_type: ''

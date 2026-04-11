@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1571
-  all_max_cnt: 1703
-  all_country_cnt: 1571
+  max_cnt: 1566
+  all_max_cnt: 1698
+  all_country_cnt: 1566
   song:
   - song_name: あゝ熊本城
     song_alias:
@@ -109,23 +109,6 @@ result:
     - esong_code: 2644A37
       song_name: I.M.P. feat.ANARCHY
       content_type: ''
-  - song_name: 合鍵 (Live from SID TOUR 2009 hikari)
-    song_alias:
-    esong_code: 2637B3
-    t_singer_master_id: '22748'
-    singer_name: シド
-    singer_alias:
-    available_date: '2011-07-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいかき
-    singer_name_ruby: しと
-    song_variation:
-    - esong_code: 2637B3
-      song_name: 合鍵 (Live from SID TOUR 2009 hikari)
-      content_type: ''
   - song_name: 合い鍵
     song_alias:
     esong_code: 147B12
@@ -142,6 +125,23 @@ result:
     song_variation:
     - esong_code: 147B12
       song_name: 合い鍵
+      content_type: ''
+  - song_name: 合鍵 (Live from SID TOUR 2009 hikari)
+    song_alias:
+    esong_code: 2637B3
+    t_singer_master_id: '22748'
+    singer_name: シド
+    singer_alias:
+    available_date: '2011-07-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいかき
+    singer_name_ruby: しと
+    song_variation:
+    - esong_code: 2637B3
+      song_name: 合鍵 (Live from SID TOUR 2009 hikari)
       content_type: ''
   - song_name: 愛が両手を広げてる
     song_alias:

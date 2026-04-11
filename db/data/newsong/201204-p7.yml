@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1295
-  all_max_cnt: 1405
-  all_country_cnt: 1295
+  max_cnt: 1285
+  all_max_cnt: 1395
+  all_country_cnt: 1285
   song:
   - song_name: 男の火祭り
     song_alias:
@@ -109,23 +109,6 @@ result:
     - esong_code: 2786B44
       song_name: オーマイガー!
       content_type: DAMﾗｲﾌﾞ
-  - song_name: Oh My Friend
-    song_alias:
-    esong_code: 2790B17
-    t_singer_master_id: '27889'
-    singer_name: 浪川 大輔
-    singer_alias:
-    available_date: '2012-04-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おまいふれんと
-    singer_name_ruby: なみかわたいすけ
-    song_variation:
-    - esong_code: 2790B17
-      song_name: Oh My Friend
-      content_type: ''
   - song_name: おまえは泣くな
     song_alias:
     esong_code: 2771A6
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2786B39
       song_name: オルフェ
+      content_type: ''
+  - song_name: Alright
+    song_alias:
+    esong_code: 2791B13
+    t_singer_master_id: '43112'
+    singer_name: RAINBOW
+    singer_alias:
+    available_date: '2012-04-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おるらいと
+    singer_name_ruby: れいんほ
+    song_variation:
+    - esong_code: 2791B13
+      song_name: Alright
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
   - song_name: 生きることとみつけたり
     song_alias:
@@ -160,23 +160,6 @@ result:
     - esong_code: 1816B22
       song_name: 磯原しぐれ
       content_type: ''
-  - song_name: 一期一会
-    song_alias:
-    esong_code: 1805B4
-    t_singer_master_id: '1632'
-    singer_name: 中島 みゆき
-    singer_alias:
-    available_date: '2007-07-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いちこいちえ
-    singer_name_ruby: なかしまみゆき
-    song_variation:
-    - esong_code: 1805B4
-      song_name: 一期一会
-      content_type: ''
   - song_name: いちごいちえ
     song_alias:
     esong_code: 1818B18
@@ -193,6 +176,23 @@ result:
     song_variation:
     - esong_code: 1818B18
       song_name: いちごいちえ
+      content_type: ''
+  - song_name: 一期一会
+    song_alias:
+    esong_code: 1805B4
+    t_singer_master_id: '1632'
+    singer_name: 中島 みゆき
+    singer_alias:
+    available_date: '2007-07-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いちこいちえ
+    singer_name_ruby: なかしまみゆき
+    song_variation:
+    - esong_code: 1805B4
+      song_name: 一期一会
       content_type: ''
   - song_name: 五日間・・・・・・バックレよう
     song_alias:

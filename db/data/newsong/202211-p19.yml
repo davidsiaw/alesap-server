@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1411
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1405
+  all_country_cnt: 1206
   song:
-  - song_name: 千里の酒
-    song_alias:
-    esong_code: 4704B46
-    t_singer_master_id: '44'
-    singer_name: 秋岡 秀治
-    singer_alias:
-    available_date: '2022-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: せんりのさけ
-    singer_name_ruby: あきおかしゆうし
-    song_variation:
-    - esong_code: 4704B46
-      song_name: 千里の酒
-      content_type: DAM生音
-  - song_name: 千里の酒
-    song_alias:
-    esong_code: 4596A29
-    t_singer_master_id: '44'
-    singer_name: 秋岡 秀治
-    singer_alias:
-    available_date: '2022-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: せんりのさけ
-    singer_name_ruby: あきおかしゆうし
-    song_variation:
-    - esong_code: 4596A29
-      song_name: 千里の酒
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 想歌灯
     song_alias:
     esong_code: 4703B47
@@ -466,23 +432,6 @@ result:
     - esong_code: 4709B16
       song_name: Tiny Star
       content_type: ''
-  - song_name: 大脳的なランデブー
-    song_alias:
-    esong_code: 4711A41
-    t_singer_master_id: '66723'
-    singer_name: Kanaria
-    singer_alias:
-    available_date: '2022-11-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: チェンソーマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいのうてきならん
-    singer_name_ruby: かなりあ
-    song_variation:
-    - esong_code: 4711A41
-      song_name: 大脳的なランデブー
-      content_type: ''
   - song_name: 大脳的なランデブー (TV Size)
     song_alias:
     esong_code: 4711A42
@@ -500,6 +449,23 @@ result:
     - esong_code: 4711A42
       song_name: 大脳的なランデブー (TV Size)
       content_type: ''
+  - song_name: 大脳的なランデブー
+    song_alias:
+    esong_code: 4711A41
+    t_singer_master_id: '66723'
+    singer_name: Kanaria
+    singer_alias:
+    available_date: '2022-11-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: チェンソーマン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいのうてきならん
+    singer_name_ruby: かなりあ
+    song_variation:
+    - esong_code: 4711A41
+      song_name: 大脳的なランデブー
+      content_type: ''
   - song_name: Typa Girl
     song_alias:
     esong_code: 4709B2
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4709B2
       song_name: Typa Girl
+      content_type: ''
+  - song_name: タイミング〜Timing〜 [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4705B25
+    t_singer_master_id: '8368'
+    singer_name: BLACK BISCUITS
+    singer_alias:
+    available_date: '2022-11-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: たいみんく
+    singer_name_ruby: ふらつくひすけつ
+    song_variation:
+    - esong_code: 4705B25
+      song_name: タイミング〜Timing〜 [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
+  - song_name: タイミングでしょ (feat.Awich)
+    song_alias:
+    esong_code: 4706B43
+    t_singer_master_id: '58515'
+    singer_name: STUTS
+    singer_alias:
+    available_date: '2022-11-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいみんくてしよ
+    singer_name_ruby: すたつつ
+    song_variation:
+    - esong_code: 4706B43
+      song_name: タイミングでしょ (feat.Awich)
       content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: 追憶の黒き魔剣士
+    song_alias:
+    esong_code: 3030B27
+    t_singer_master_id: '43556'
+    singer_name: Dragon Guardian
+    singer_alias:
+    available_date: '2013-05-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ついおくのくろきまけ
+    singer_name_ruby: とらこんかていあん
+    song_variation:
+    - esong_code: 3030B27
+      song_name: 追憶の黒き魔剣士
+      content_type: ''
   - song_name: 追伸
     song_alias:
     esong_code: 747A4
@@ -64,7 +81,7 @@ result:
     t_singer_master_id: '495'
     singer_name: 鏡 五郎
     singer_alias:
-    available_date: '2013-05-21'
+    available_date: '2013-05-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -204,7 +221,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: つけめんえくすたし
     singer_name_ruby: とつひんくかるすしてい
     song_variation:
@@ -224,7 +241,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: つけめんえくすたし
     singer_name_ruby: とつひんくかるすしてい
     song_variation:
@@ -244,7 +261,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: つけめんおえむて
     singer_name_ruby: とつひんくかるすしてい
     song_variation:
@@ -264,7 +281,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: つけめんおえむて
     singer_name_ruby: とつひんくかるすしてい
     song_variation:
@@ -274,46 +291,6 @@ result:
     - esong_code: 3036B43
       song_name: つけ麺☆OMD [オリジナルクリップ]
       content_type: パセラ限定クリップ
-  - song_name: つけMEN☆極MEN [オリジナルクリップ]
-    song_alias:
-    esong_code: 3036B41
-    t_singer_master_id: '47831'
-    singer_name: トッピング☆ガールズGT
-    singer_alias:
-    available_date: '2013-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    song_name_ruby: つけめんきわめん
-    singer_name_ruby: とつひんくかるすしてい
-    song_variation:
-    - esong_code: 3036B41
-      song_name: つけMEN☆極MEN [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 3036B41
-      song_name: つけMEN☆極MEN [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: つけMEN☆極MEN [オリジナルクリップ]
-    song_alias:
-    esong_code: 3036B41
-    t_singer_master_id: '47831'
-    singer_name: トッピング☆ガールズGT
-    singer_alias:
-    available_date: '2013-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: パセラ限定クリップ
-    song_name_ruby: つけめんきわめん
-    singer_name_ruby: とつひんくかるすしてい
-    song_variation:
-    - esong_code: 3036B41
-      song_name: つけMEN☆極MEN [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 3036B41
-      song_name: つけMEN☆極MEN [オリジナルクリップ]
-      content_type: パセラ限定クリップ
   - song_name: つけMEN☆極MEN (P.A.R.M.S Live Ver.)[オリジナルクリップ]
     song_alias:
     esong_code: 3036B46
@@ -354,6 +331,86 @@ result:
     - esong_code: 3036B46
       song_name: つけMEN☆極MEN (P.A.R.M.S Live Ver.)[オリジナルクリップ]
       content_type: パセラ限定クリップ
+  - song_name: つけMEN☆極MEN [オリジナルクリップ]
+    song_alias:
+    esong_code: 3036B41
+    t_singer_master_id: '47831'
+    singer_name: トッピング☆ガールズGT
+    singer_alias:
+    available_date: '2013-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    song_name_ruby: つけめんきわめん
+    singer_name_ruby: とつひんくかるすしてい
+    song_variation:
+    - esong_code: 3036B41
+      song_name: つけMEN☆極MEN [オリジナルクリップ]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    - esong_code: 3036B41
+      song_name: つけMEN☆極MEN [オリジナルクリップ]
+      content_type: パセラ限定クリップ
+  - song_name: つけMEN☆極MEN [オリジナルクリップ]
+    song_alias:
+    esong_code: 3036B41
+    t_singer_master_id: '47831'
+    singer_name: トッピング☆ガールズGT
+    singer_alias:
+    available_date: '2013-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: パセラ限定クリップ
+    song_name_ruby: つけめんきわめん
+    singer_name_ruby: とつひんくかるすしてい
+    song_variation:
+    - esong_code: 3036B41
+      song_name: つけMEN☆極MEN [オリジナルクリップ]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    - esong_code: 3036B41
+      song_name: つけMEN☆極MEN [オリジナルクリップ]
+      content_type: パセラ限定クリップ
+  - song_name: ツケメン☆に恋してる(P.A.R.M.S Live Ver.)[オリジナルクリップ]
+    song_alias:
+    esong_code: 3036B47
+    t_singer_master_id: '47832'
+    singer_name: スープ☆ガールズ
+    singer_alias:
+    available_date: '2013-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    song_name_ruby: つけめんにこいしてる
+    singer_name_ruby: すふかるす
+    song_variation:
+    - esong_code: 3036B47
+      song_name: ツケメン☆に恋してる(P.A.R.M.S Live Ver.)[オリジナルクリップ]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    - esong_code: 3036B47
+      song_name: ツケメン☆に恋してる(P.A.R.M.S Live Ver.)[オリジナルクリップ]
+      content_type: パセラ限定クリップ
+  - song_name: ツケメン☆に恋してる [オリジナルクリップ]
+    song_alias:
+    esong_code: 3036B42
+    t_singer_master_id: '47831'
+    singer_name: トッピング☆ガールズGT
+    singer_alias:
+    available_date: '2013-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    song_name_ruby: つけめんにこいしてる
+    singer_name_ruby: とつひんくかるすしてい
+    song_variation:
+    - esong_code: 3036B42
+      song_name: ツケメン☆に恋してる [オリジナルクリップ]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    - esong_code: 3036B42
+      song_name: ツケメン☆に恋してる [オリジナルクリップ]
+      content_type: パセラ限定クリップ
   - song_name: ツケメン☆に恋してる(P.A.R.M.S Live Ver.)[オリジナルクリップ]
     song_alias:
     esong_code: 3036B47
@@ -384,26 +441,6 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    song_name_ruby: つけめんにこいしてる
-    singer_name_ruby: とつひんくかるすしてい
-    song_variation:
-    - esong_code: 3036B42
-      song_name: ツケメン☆に恋してる [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 3036B42
-      song_name: ツケメン☆に恋してる [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: ツケメン☆に恋してる [オリジナルクリップ]
-    song_alias:
-    esong_code: 3036B42
-    t_singer_master_id: '47831'
-    singer_name: トッピング☆ガールズGT
-    singer_alias:
-    available_date: '2013-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
     content_type: パセラ限定クリップ
     song_name_ruby: つけめんにこいしてる
     singer_name_ruby: とつひんくかるすしてい
@@ -413,26 +450,6 @@ result:
       content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     - esong_code: 3036B42
       song_name: ツケメン☆に恋してる [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: ツケメン☆に恋してる(P.A.R.M.S Live Ver.)[オリジナルクリップ]
-    song_alias:
-    esong_code: 3036B47
-    t_singer_master_id: '47832'
-    singer_name: スープ☆ガールズ
-    singer_alias:
-    available_date: '2013-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    song_name_ruby: つけめんにこいしてる
-    singer_name_ruby: すふかるす
-    song_variation:
-    - esong_code: 3036B47
-      song_name: ツケメン☆に恋してる(P.A.R.M.S Live Ver.)[オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 3036B47
-      song_name: ツケメン☆に恋してる(P.A.R.M.S Live Ver.)[オリジナルクリップ]
       content_type: パセラ限定クリップ
   - song_name: つけ麺☆風味絶佳 [オリジナルクリップ]
     song_alias:
@@ -484,7 +501,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: つけめんらふおおつ
     singer_name_ruby: とつひんくかるすしてい
     song_variation:
@@ -504,7 +521,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: つけめんらふおおつ
     singer_name_ruby: とつひんくかるすしてい
     song_variation:
@@ -547,21 +564,4 @@ result:
     song_variation:
     - esong_code: 3043A16
       song_name: 妻恋道中
-      content_type: ''
-  - song_name: 冷たい雨
-    song_alias:
-    esong_code: 3038B16
-    t_singer_master_id: '23608'
-    singer_name: 水橋 かおり
-    singer_alias:
-    available_date: '2013-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ひだまりスケッチ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: つめたいあめ
-    singer_name_ruby: みすはしかおり
-    song_variation:
-    - esong_code: 3038B16
-      song_name: 冷たい雨
       content_type: ''

@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1132
-  all_country_cnt: 1023
+  max_cnt: 1015
+  all_max_cnt: 1124
+  all_country_cnt: 1015
   song:
-  - song_name: ひかり
-    song_alias:
-    esong_code: 2146A10
-    t_singer_master_id: '14819'
-    singer_name: 星村 麻衣(Mai Hoshimura)
-    singer_alias:
-    available_date: '2008-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ひかり
-    singer_name_ruby: ほしむらまい
-    song_variation:
-    - esong_code: 2146A10
-      song_name: ひかり
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: BECAUSE
-    song_alias:
-    esong_code: 2157A40
-    t_singer_master_id: '4689'
-    singer_name: 林原 めぐみ
-    singer_alias:
-    available_date: '2008-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひこす
-    singer_name_ruby: はやしはらめくみ
-    song_variation:
-    - esong_code: 2157A40
-      song_name: BECAUSE
-      content_type: ''
-  - song_name: 美少女戦士セーラームーンメドレー
-    song_alias:
-    esong_code: 2156B42
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2008-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 美少女戦士セーラームーン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひしようしよせん
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 2156B42
-      song_name: 美少女戦士セーラームーンメドレー
-      content_type: ''
-  - song_name: 美人物語
-    song_alias:
-    esong_code: 2162A16
-    t_singer_master_id: '4554'
-    singer_name: 太田 貴子
-    singer_alias:
-    available_date: '2008-11-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひしんものかた
-    singer_name_ruby: おおたたかこ
-    song_variation:
-    - esong_code: 2162A16
-      song_name: 美人物語
-      content_type: ''
-  - song_name: PEACE!!!
-    song_alias:
-    esong_code: 2170A16
-    t_singer_master_id: '34824'
-    singer_name: AA=
-    singer_alias:
-    available_date: '2008-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひす
-    singer_name_ruby: ええいこる
-    song_variation:
-    - esong_code: 2170A16
-      song_name: PEACE!!!
-      content_type: ''
-  - song_name: ひだまりのオルゴール
-    song_alias:
-    esong_code: 2155A38
-    t_singer_master_id: '8405'
-    singer_name: 飯塚 雅弓
-    singer_alias:
-    available_date: '2008-11-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひたまりのおるこ
-    singer_name_ruby: いいつかまゆみ
-    song_variation:
-    - esong_code: 2155A38
-      song_name: ひだまりのオルゴール
-      content_type: ''
   - song_name: BIG BANG!
     song_alias:
     esong_code: 2161B26
@@ -270,7 +168,7 @@ result:
     singer_alias:
     available_date: '2008-11-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボールGT<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type: DAMﾗｲﾌﾞ
     song_name_ruby: ひとりしやない
@@ -279,23 +177,6 @@ result:
     - esong_code: 2176B17
       song_name: ひとりじゃない
       content_type: DAMﾗｲﾌﾞ
-  - song_name: ひとりぼっち
-    song_alias:
-    esong_code: 2155B49
-    t_singer_master_id: '946'
-    singer_name: さだ まさし
-    singer_alias:
-    available_date: '2008-11-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとりほつち
-    singer_name_ruby: さたまさし
-    song_variation:
-    - esong_code: 2155B49
-      song_name: ひとりぼっち
-      content_type: ''
   - song_name: ひとりぽっち
     song_alias:
     esong_code: 2127A41
@@ -312,6 +193,23 @@ result:
     song_variation:
     - esong_code: 2127A41
       song_name: ひとりぽっち
+      content_type: ''
+  - song_name: ひとりぼっち
+    song_alias:
+    esong_code: 2155B49
+    t_singer_master_id: '946'
+    singer_name: さだ まさし
+    singer_alias:
+    available_date: '2008-11-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとりほつち
+    singer_name_ruby: さたまさし
+    song_variation:
+    - esong_code: 2155B49
+      song_name: ひとりぼっち
       content_type: ''
   - song_name: 一人ぼっちのバラード
     song_alias:
@@ -468,23 +366,6 @@ result:
       content_type: ''
   - song_name: Beautiful days
     song_alias:
-    esong_code: 2184A41
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2008-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ひゆていふるて
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 2184A41
-      song_name: Beautiful days
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Beautiful days
-    song_alias:
     esong_code: 2133A15
     t_singer_master_id: '10314'
     singer_name: 嵐
@@ -500,6 +381,23 @@ result:
     - esong_code: 2133A15
       song_name: Beautiful days
       content_type: ''
+  - song_name: Beautiful days
+    song_alias:
+    esong_code: 2184A41
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2008-11-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ひゆていふるて
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 2184A41
+      song_name: Beautiful days
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Beautiful fighter
     song_alias:
     esong_code: 2155B40
@@ -517,3 +415,105 @@ result:
     - esong_code: 2155B40
       song_name: Beautiful fighter
       content_type: ''
+  - song_name: ビューナスAの歌
+    song_alias:
+    esong_code: 1177A35
+    t_singer_master_id: '2122'
+    singer_name: 堀江 美都子
+    singer_alias:
+    available_date: '2008-11-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: グレートマジンガー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひゆなすえすの
+    singer_name_ruby: ほりえみつこ
+    song_variation:
+    - esong_code: 1177A35
+      song_name: ビューナスAの歌
+      content_type: ''
+  - song_name: P☆リズム
+    song_alias:
+    esong_code: 2159A22
+    t_singer_master_id: '34804'
+    singer_name: 森田 成一&岸尾 だいすけ
+    singer_alias:
+    available_date: '2008-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 金色のコルダ(アニメ版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひりすむ
+    singer_name_ruby: もりたまさかすきしおた
+    song_variation:
+    - esong_code: 2159A22
+      song_name: P☆リズム
+      content_type: ''
+  - song_name: Hero
+    song_alias:
+    esong_code: 2161B14
+    t_singer_master_id: '33883'
+    singer_name: Safarii
+    singer_alias:
+    available_date: '2008-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひろ
+    singer_name_ruby: さふあり
+    song_variation:
+    - esong_code: 2161B14
+      song_name: Hero
+      content_type: ''
+  - song_name: HERO
+    song_alias:
+    esong_code: 2151B18
+    t_singer_master_id: '32329'
+    singer_name: tacica
+    singer_alias:
+    available_date: '2008-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひろ
+    singer_name_ruby: たしか
+    song_variation:
+    - esong_code: 2151B18
+      song_name: HERO
+      content_type: ''
+  - song_name: BIN-KAN。VANILLA!
+    song_alias:
+    esong_code: 2161B36
+    t_singer_master_id: '33595'
+    singer_name: YGA
+    singer_alias:
+    available_date: '2008-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひんかんはにら
+    singer_name_ruby: わいしえ
+    song_variation:
+    - esong_code: 2161B36
+      song_name: BIN-KAN。VANILLA!
+      content_type: ''
+  - song_name: ピンクスパイダー feat.鏡音リン
+    song_alias:
+    esong_code: 2145B33
+    t_singer_master_id: '34004'
+    singer_name: トラボルタ
+    singer_alias:
+    available_date: '2008-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ひんくすはいた
+    singer_name_ruby: とらほるた
+    song_variation:
+    - esong_code: 2145B33
+      song_name: ピンクスパイダー feat.鏡音リン
+      content_type: VOCALOID

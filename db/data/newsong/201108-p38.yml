@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
   - song_name: PON de BEAT feat.HAN-KUN
     song_alias:
@@ -100,7 +100,7 @@ result:
     singer_alias:
     available_date: '2011-08-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイⅡ<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まいから
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: 街
     song_alias:
-    esong_code: 2650A14
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
-    singer_alias:
-    available_date: '2011-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: まち
-    singer_name_ruby: いつきひろし
-    song_variation:
-    - esong_code: 2650A14
-      song_name: 街
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 街
-    song_alias:
     esong_code: 2659B20
     t_singer_master_id: '221'
     singer_name: 五木 ひろし
@@ -415,6 +398,23 @@ result:
     - esong_code: 2659B20
       song_name: 街
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 街
+    song_alias:
+    esong_code: 2650A14
+    t_singer_master_id: '221'
+    singer_name: 五木 ひろし
+    singer_alias:
+    available_date: '2011-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: まち
+    singer_name_ruby: いつきひろし
+    song_variation:
+    - esong_code: 2650A14
+      song_name: 街
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 待ち合わせの途中
     song_alias:
     esong_code: 2649A19

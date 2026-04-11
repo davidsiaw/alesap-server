@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
   - song_name: アンインストール
     song_alias:
@@ -108,23 +108,6 @@ result:
     song_variation:
     - esong_code: 1802A22
       song_name: UNBALANCE
-      content_type: ''
-  - song_name: アンパンマンのクリスマスナイト
-    song_alias:
-    esong_code: 1804B2
-    t_singer_master_id: '4269'
-    singer_name: ドリーミング
-    singer_alias:
-    available_date: '2007-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: それいけ!アンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんはんまんのくり
-    singer_name_ruby: とりみんく
-    song_variation:
-    - esong_code: 1804B2
-      song_name: アンパンマンのクリスマスナイト
       content_type: ''
   - song_name: イェイ・イェイ・イェイ
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 1799B26
       song_name: 石見路ひとり
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: IN FATE feat.きただにひろし
+    song_alias:
+    esong_code: 1796B4
+    t_singer_master_id: '12156'
+    singer_name: JAM Project
+    singer_alias:
+    available_date: '2007-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: セイント・ビースト 〜螺旋の章〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いんふえいと
+    singer_name_ruby: しやむふろしえくと
+    song_variation:
+    - esong_code: 1796B4
+      song_name: IN FATE feat.きただにひろし
+      content_type: ''

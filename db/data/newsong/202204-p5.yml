@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1058
-  all_max_cnt: 1147
-  all_country_cnt: 1058
+  max_cnt: 1021
+  all_max_cnt: 1110
+  all_country_cnt: 1021
   song:
-  - song_name: エモーション
-    song_alias:
-    esong_code: 4616A23
-    t_singer_master_id: '18373'
-    singer_name: 豊永 利行
-    singer_alias:
-    available_date: '2022-04-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: A3!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えもしよん
-    singer_name_ruby: とよなかとしゆき
-    song_variation:
-    - esong_code: 4616A23
-      song_name: エモーション
-      content_type: ''
-  - song_name: エルの唄 〜メリナ Full ver.〜
-    song_alias:
-    esong_code: 4619B10
-    t_singer_master_id: '48589'
-    singer_name: 村川 梨衣
-    singer_alias:
-    available_date: '2022-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アナザーエデン 時空を超える猫<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えるのうためりなふる
-    singer_name_ruby: むらかわりえ
-    song_variation:
-    - esong_code: 4619B10
-      song_name: エルの唄 〜メリナ Full ver.〜
-      content_type: ''
-  - song_name: Endroll
-    song_alias:
-    esong_code: 4621A9
-    t_singer_master_id: '61498'
-    singer_name: King&Prince
-    singer_alias:
-    available_date: '2022-04-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんとろる
-    singer_name_ruby: きんくあんとふりんす
-    song_variation:
-    - esong_code: 4621A9
-      song_name: Endroll
-      content_type: ''
-  - song_name: エンドロールに間に合うように
-    song_alias:
-    esong_code: 4622A47
-    t_singer_master_id: '47443'
-    singer_name: tricot
-    singer_alias:
-    available_date: '2022-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんとろるにまに
-    singer_name_ruby: とりこ
-    song_variation:
-    - esong_code: 4622A47
-      song_name: エンドロールに間に合うように
-      content_type: ''
-  - song_name: 逢生川
-    song_alias:
-    esong_code: 4613B41
-    t_singer_master_id: '28486'
-    singer_name: 小田 純平
-    singer_alias:
-    available_date: '2022-04-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おうしようかわ
-    singer_name_ruby: おたしゆんへい
-    song_variation:
-    - esong_code: 4613B41
-      song_name: 逢生川
-      content_type: ''
   - song_name: 逢生川
     song_alias:
     esong_code: 4616B8
@@ -109,6 +24,23 @@ result:
     - esong_code: 4616B8
       song_name: 逢生川
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 逢生川
+    song_alias:
+    esong_code: 4613B41
+    t_singer_master_id: '28486'
+    singer_name: 小田 純平
+    singer_alias:
+    available_date: '2022-04-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おうしようかわ
+    singer_name_ruby: おたしゆんへい
+    song_variation:
+    - esong_code: 4613B41
+      song_name: 逢生川
+      content_type: ''
   - song_name: 大河の舞
     song_alias:
     esong_code: 4625A13
@@ -434,23 +366,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 面影みなと
     song_alias:
-    esong_code: 4431A18
-    t_singer_master_id: '13954'
-    singer_name: 椎名 佐千子
-    singer_alias:
-    available_date: '2022-04-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おもかけみなと
-    singer_name_ruby: しいなさちこ
-    song_variation:
-    - esong_code: 4431A18
-      song_name: 面影みなと
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 面影みなと
-    song_alias:
     esong_code: 4626A11
     t_singer_master_id: '13954'
     singer_name: 椎名 佐千子
@@ -466,6 +381,23 @@ result:
     - esong_code: 4626A11
       song_name: 面影みなと
       content_type: DAM生音
+  - song_name: 面影みなと
+    song_alias:
+    esong_code: 4431A18
+    t_singer_master_id: '13954'
+    singer_name: 椎名 佐千子
+    singer_alias:
+    available_date: '2022-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おもかけみなと
+    singer_name_ruby: しいなさちこ
+    song_variation:
+    - esong_code: 4431A18
+      song_name: 面影みなと
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 面影みなと
     song_alias:
     esong_code: 4431A16
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 4622B32
       song_name: 折り返し悲しみ行き
+      content_type: ''
+  - song_name: 折紙物語
+    song_alias:
+    esong_code: 4625B11
+    t_singer_master_id: '59838'
+    singer_name: 南 早紀
+    singer_alias:
+    available_date: '2022-04-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター ミリオンライブ! シアターデイズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おりかみものかた
+    singer_name_ruby: みなみさき
+    song_variation:
+    - esong_code: 4625B11
+      song_name: 折紙物語
+      content_type: ''
+  - song_name: オルゴール (ClariS×TrySail)
+    song_alias:
+    esong_code: 4620B17
+    t_singer_master_id: '69412'
+    singer_name: ClariS×TrySail
+    singer_alias:
+    available_date: '2022-04-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: マギアレコード 魔法少女まどか☆マギカ外伝(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おるこるくらりす
+    singer_name_ruby: くらりすとらいせいる
+    song_variation:
+    - esong_code: 4620B17
+      song_name: オルゴール (ClariS×TrySail)
+      content_type: ''
+  - song_name: 俺こそオンリーワン
+    song_alias:
+    esong_code: 4616B5
+    t_singer_master_id: '66654'
+    singer_name: MORISAKI WIN
+    singer_alias:
+    available_date: '2022-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 暴太郎戦隊ドンブラザーズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれこそおんりわん
+    singer_name_ruby: もりさきういん
+    song_variation:
+    - esong_code: 4616B5
+      song_name: 俺こそオンリーワン
+      content_type: ''
+  - song_name: 俺を信じろ
+    song_alias:
+    esong_code: 3538A7
+    t_singer_master_id: '1275'
+    singer_name: 瀬戸田 博
+    singer_alias:
+    available_date: '2022-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれをしんしろ
+    singer_name_ruby: せとたひろし
+    song_variation:
+    - esong_code: 3538A7
+      song_name: 俺を信じろ
       content_type: ''

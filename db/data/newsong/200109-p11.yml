@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 407
-  all_max_cnt: 426
-  all_country_cnt: 407
+  max_cnt: 404
+  all_max_cnt: 423
+  all_country_cnt: 404
   song:
-  - song_name: 放浪の唄
-    song_alias:
-    esong_code: 672B35
-    t_singer_master_id: '2542'
-    singer_name: 吉田 拓郎
-    singer_alias:
-    available_date: '2001-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほうろうのうた
-    singer_name_ruby: よしたたくろう
-    song_variation:
-    - esong_code: 672B35
-      song_name: 放浪の唄
-      content_type: ''
-  - song_name: ポカポカ日曜日
-    song_alias:
-    esong_code: 669B25
-    t_singer_master_id: '500'
-    singer_name: かぐや姫
-    singer_alias:
-    available_date: '2001-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほかほかにちよう
-    singer_name_ruby: かくやひめ
-    song_variation:
-    - esong_code: 669B25
-      song_name: ポカポカ日曜日
-      content_type: ''
-  - song_name: 北斗七星〜乙女の神話〜
-    song_alias:
-    esong_code: 666A26
-    t_singer_master_id: '195'
-    singer_name: 石原 裕次郎
-    singer_alias:
-    available_date: '2001-09-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほくとしちせい
-    singer_name_ruby: いしはらゆうしろう
-    song_variation:
-    - esong_code: 666A26
-      song_name: 北斗七星〜乙女の神話〜
-      content_type: ''
   - song_name: 僕の唄はサヨナラだけ
     song_alias:
     esong_code: 672B36
@@ -434,23 +383,6 @@ result:
       content_type: ''
   - song_name: ミニモニ。テレフォン!リンリンリン
     song_alias:
-    esong_code: 83A46
-    t_singer_master_id: '12171'
-    singer_name: ミニモニ。
-    singer_alias:
-    available_date: '2001-09-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: みにもにてれふおんり
-    singer_name_ruby: みにもに
-    song_variation:
-    - esong_code: 83A46
-      song_name: ミニモニ。テレフォン!リンリンリン
-      content_type: DAM良音
-  - song_name: ミニモニ。テレフォン!リンリンリン
-    song_alias:
     esong_code: 666B40
     t_singer_master_id: '12171'
     singer_name: ミニモニ。
@@ -466,6 +398,23 @@ result:
     - esong_code: 666B40
       song_name: ミニモニ。テレフォン!リンリンリン
       content_type: ''
+  - song_name: ミニモニ。テレフォン!リンリンリン
+    song_alias:
+    esong_code: 83A46
+    t_singer_master_id: '12171'
+    singer_name: ミニモニ。
+    singer_alias:
+    available_date: '2001-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: みにもにてれふおんり
+    singer_name_ruby: みにもに
+    song_variation:
+    - esong_code: 83A46
+      song_name: ミニモニ。テレフォン!リンリンリン
+      content_type: DAM良音
   - song_name: ミニモニ。バスガイド
     song_alias:
     esong_code: 667B27
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 663B27
       song_name: 女神になりたい 〜for a yours〜
+      content_type: ''
+  - song_name: めぐり逢いよこはま
+    song_alias:
+    esong_code: 668A30
+    t_singer_master_id: '10600'
+    singer_name: 一条 聖矢
+    singer_alias:
+    available_date: '2001-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めくりあいよこはま
+    singer_name_ruby: いちしようせいや
+    song_variation:
+    - esong_code: 668A30
+      song_name: めぐり逢いよこはま
+      content_type: ''
+  - song_name: めぐる季節
+    song_alias:
+    esong_code: 319A16
+    t_singer_master_id: '466'
+    singer_name: オフコース
+    singer_alias:
+    available_date: '2001-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めくるきせつ
+    singer_name_ruby: おふこす
+    song_variation:
+    - esong_code: 319A16
+      song_name: めぐる季節
+      content_type: ''
+  - song_name: メリー・ゴー・ラウンド・ハイウェイ
+    song_alias:
+    esong_code: 664A39
+    t_singer_master_id: '6035'
+    singer_name: 平井 堅
+    singer_alias:
+    available_date: '2001-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めりこらうんと
+    singer_name_ruby: ひらいけん
+    song_variation:
+    - esong_code: 664A39
+      song_name: メリー・ゴー・ラウンド・ハイウェイ
       content_type: ''

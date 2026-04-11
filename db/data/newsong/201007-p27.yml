@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: ひぐらしの坂
-    song_alias:
-    esong_code: 2574A1
-    t_singer_master_id: '40357'
-    singer_name: オルリコ
-    singer_alias:
-    available_date: '2010-07-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひくらしのさか
-    singer_name_ruby: おるりこ
-    song_variation:
-    - esong_code: 2574A1
-      song_name: ひぐらしの坂
-      content_type: ''
-  - song_name: ヒステリック
-    song_alias:
-    esong_code: 2374A21
-    t_singer_master_id: '13497'
-    singer_name: OZROSAURUS
-    singer_alias:
-    available_date: '2010-07-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひすてりつく
-    singer_name_ruby: おしろさうるす
-    song_variation:
-    - esong_code: 2374A21
-      song_name: ヒステリック
-      content_type: ''
   - song_name: 悲愴感
     song_alias:
     esong_code: 2568A37
@@ -66,7 +32,7 @@ result:
     singer_alias:
     available_date: '2010-07-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ひだまりラジオ×365<番組名>
+    tie_up: ひだまりスケッチ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひたまりらんな
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2569B7
       song_name: 百歌声爛 〜男性声優編〜(佐々木望)
+      content_type: ''
+  - song_name: 百鬼繚乱 千終楽 (語り:石井康嗣)
+    song_alias:
+    esong_code: 2374A14
+    t_singer_master_id: '40415'
+    singer_name: 浅川 悠&川村 万梨阿
+    singer_alias:
+    available_date: '2010-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 遙かなる時空の中で3<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひやつきりようらんせ
+    singer_name_ruby: あさかわゆうかわむらまりあ
+    song_variation:
+    - esong_code: 2374A14
+      song_name: 百鬼繚乱 千終楽 (語り:石井康嗣)
+      content_type: ''
+  - song_name: PURE HEARTS
+    song_alias:
+    esong_code: 2560B30
+    t_singer_master_id: '8075'
+    singer_name: SHAZNA
+    singer_alias:
+    available_date: '2010-07-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひゆあはつ
+    singer_name_ruby: しやすな
+    song_variation:
+    - esong_code: 2560B30
+      song_name: PURE HEARTS
       content_type: ''

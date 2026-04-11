@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 754
-  all_max_cnt: 832
-  all_country_cnt: 754
+  max_cnt: 749
+  all_max_cnt: 827
+  all_country_cnt: 749
   song:
-  - song_name: ジョーのダイヤモンド
-    song_alias:
-    esong_code: 1363A46
-    t_singer_master_id: '1078'
-    singer_name: 朱里 エイコ
-    singer_alias:
-    available_date: '2005-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよのたいやも
-    singer_name_ruby: しゆりえいこ
-    song_variation:
-    - esong_code: 1363A46
-      song_name: ジョーのダイヤモンド
-      content_type: ''
   - song_name: 知ラナイナイ空
     song_alias:
     esong_code: 1363A24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1371B36
       song_name: Spine
+      content_type: ''
+  - song_name: スーパースター(Dynamite version)
+    song_alias:
+    esong_code: 1367A48
+    t_singer_master_id: '20368'
+    singer_name: 東京事変
+    singer_alias:
+    available_date: '2005-09-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すはすた
+    singer_name_ruby: とうきようしへん
+    song_variation:
+    - esong_code: 1367A48
+      song_name: スーパースター(Dynamite version)
       content_type: ''

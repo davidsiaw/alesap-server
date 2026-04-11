@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1586
-  all_max_cnt: 1734
-  all_country_cnt: 1586
+  max_cnt: 1581
+  all_max_cnt: 1729
+  all_country_cnt: 1581
   song:
-  - song_name: 東京湾
-    song_alias:
-    esong_code: 2961B32
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2012-12-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: とうきようわん
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 2961B32
-      song_name: 東京湾
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 闘魂LOVE
-    song_alias:
-    esong_code: 2947A44
-    t_singer_master_id: '46591'
-    singer_name: INK1・2・3Girls
-    singer_alias:
-    available_date: '2012-12-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうこんらふ
-    singer_name_ruby: あいえぬけいちにさんかる
-    song_variation:
-    - esong_code: 2947A44
-      song_name: 闘魂LOVE
-      content_type: ''
   - song_name: 20112012 feat.VERBAL
     song_alias:
     esong_code: 2946B44
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2953B48
       song_name: ドラドラCrazy Love feat.グァンス
+      content_type: ''
+  - song_name: Triptych
+    song_alias:
+    esong_code: 2947A12
+    t_singer_master_id: '44491'
+    singer_name: 真理絵
+    singer_alias:
+    available_date: '2012-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Triptych<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりふていつく
+    singer_name_ruby: まりえ
+    song_variation:
+    - esong_code: 2947A12
+      song_name: Triptych
+      content_type: ''
+  - song_name: DREAMER DREAMER
+    song_alias:
+    esong_code: 2947B43
+    t_singer_master_id: '27766'
+    singer_name: moumoon
+    singer_alias:
+    available_date: '2012-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりまとり
+    singer_name_ruby: むむん
+    song_variation:
+    - esong_code: 2947B43
+      song_name: DREAMER DREAMER
       content_type: ''

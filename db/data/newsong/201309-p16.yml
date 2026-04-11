@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1500
-  all_max_cnt: 1660
-  all_country_cnt: 1500
+  max_cnt: 1480
+  all_max_cnt: 1639
+  all_country_cnt: 1480
   song:
-  - song_name: 恋人ごっこ
-    song_alias:
-    esong_code: 1932B6
-    t_singer_master_id: '32034'
-    singer_name: 青空 ほしお&水城 ヨーコ
-    singer_alias:
-    available_date: '2013-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいひとこつこ
-    singer_name_ruby: あおそらほしおみすきよこ
-    song_variation:
-    - esong_code: 1932B6
-      song_name: 恋人ごっこ
-      content_type: ''
-  - song_name: こい☆れぽ
-    song_alias:
-    esong_code: 3113B32
-    t_singer_master_id: '48843'
-    singer_name: SYNC.ART'S/桃梨&遊女&葉山 りく
-    singer_alias:
-    available_date: '2013-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方妖々夢 〜Perfect Cherry Blossom.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: こいれほ
-    singer_name_ruby: しんくあつももりあんとゆうし
-    song_variation:
-    - esong_code: 3113B32
-      song_name: こい☆れぽ
-      content_type: 東方
-  - song_name: 高気圧ガール
-    song_alias:
-    esong_code: 3104A40
-    t_singer_master_id: '41623'
-    singer_name: ダイスケ
-    singer_alias:
-    available_date: '2013-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こうきあつかる
-    singer_name_ruby: たいすけ
-    song_variation:
-    - esong_code: 3104A40
-      song_name: 高気圧ガール
-      content_type: ''
-  - song_name: 高原のお嬢さん
-    song_alias:
-    esong_code: 3105A42
-    t_singer_master_id: '2030'
-    singer_name: 舟木 一夫
-    singer_alias:
-    available_date: '2013-09-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: こうけんのおしよ
-    singer_name_ruby: ふなきかすお
-    song_variation:
-    - esong_code: 3105A42
-      song_name: 高原のお嬢さん
-      content_type: DAMﾗｲﾌﾞ
-  - song_name: 高原列車は行く
-    song_alias:
-    esong_code: 3114A40
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2013-09-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こうけんれつしやは
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 3114A40
-      song_name: 高原列車は行く
-      content_type: ''
   - song_name: 高校三年生
     song_alias:
     esong_code: 3105A43
@@ -368,7 +283,7 @@ result:
     song_alias:
     esong_code: 3108A45
     t_singer_master_id: '27744'
-    singer_name: 大友 ジュン
+    singer_name: 大友 ジュン(井上純一)
     singer_alias:
     available_date: '2013-09-19'
     end_date: '2999-04-10 00:00:00'
@@ -417,23 +332,6 @@ result:
       content_type: ''
   - song_name: 寿
     song_alias:
-    esong_code: 3100A43
-    t_singer_master_id: '8773'
-    singer_name: 和田 青児
-    singer_alias:
-    available_date: '2013-09-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ことふき
-    singer_name_ruby: わたせいし
-    song_variation:
-    - esong_code: 3100A43
-      song_name: 寿
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 寿
-    song_alias:
     esong_code: 2749A16
     t_singer_master_id: '8773'
     singer_name: 和田 青児
@@ -449,6 +347,23 @@ result:
     - esong_code: 2749A16
       song_name: 寿
       content_type: ''
+  - song_name: 寿
+    song_alias:
+    esong_code: 3100A43
+    t_singer_master_id: '8773'
+    singer_name: 和田 青児
+    singer_alias:
+    available_date: '2013-09-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ことふき
+    singer_name_ruby: わたせいし
+    song_variation:
+    - esong_code: 3100A43
+      song_name: 寿
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: こどもなんだよ
     song_alias:
     esong_code: 3109B15
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 3113B13
       song_name: この想いあなたに
+      content_type: ''
+  - song_name: この星のどこかで 〜二人の未来〜
+    song_alias:
+    esong_code: 3103B15
+    t_singer_master_id: '11113'
+    singer_name: 未来
+    singer_alias:
+    available_date: '2013-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: このほしのとこかて
+    singer_name_ruby: みく
+    song_variation:
+    - esong_code: 3103B15
+      song_name: この星のどこかで 〜二人の未来〜
+      content_type: ''
+  - song_name: GO BACK HOME
+    song_alias:
+    esong_code: 3103B25
+    t_singer_master_id: '1996'
+    singer_name: 藤井 フミヤ
+    singer_alias:
+    available_date: '2013-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こはつくほむ
+    singer_name_ruby: ふしいふみや
+    song_variation:
+    - esong_code: 3103B25
+      song_name: GO BACK HOME
+      content_type: ''
+  - song_name: こぼれ酒
+    song_alias:
+    esong_code: 3110B26
+    t_singer_master_id: '5744'
+    singer_name: 藤原 浩
+    singer_alias:
+    available_date: '2013-09-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こほれさけ
+    singer_name_ruby: ふしわらひろし
+    song_variation:
+    - esong_code: 3110B26
+      song_name: こぼれ酒
+      content_type: ''
+  - song_name: ごめんなさいっ!
+    song_alias:
+    esong_code: 3102A48
+    t_singer_master_id: '44885'
+    singer_name: カメレオ
+    singer_alias:
+    available_date: '2013-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こめんなさいつ
+    singer_name_ruby: かめれお
+    song_variation:
+    - esong_code: 3102A48
+      song_name: ごめんなさいっ!
+      content_type: ''
+  - song_name: ごめんなさい、私なんかが歌ってしまってほんとうに..
+    song_alias:
+    esong_code: 3101B15
+    t_singer_master_id: '46666'
+    singer_name: 加隈 亜衣
+    singer_alias:
+    available_date: '2013-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 犬とハサミは使いよう<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こめんなさいわたし
+    singer_name_ruby: かくまあい
+    song_variation:
+    - esong_code: 3101B15
+      song_name: ごめんなさい、私なんかが歌ってしまってほんとうに..
       content_type: ''

@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
-  - song_name: 春
-    song_alias:
-    esong_code: 3832B4
-    t_singer_master_id: '36695'
-    singer_name: 沼倉 愛美
-    singer_alias:
-    available_date: '2017-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: THE IDOLM@STER SP<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はる
-    singer_name_ruby: ぬまくらまなみ
-    song_variation:
-    - esong_code: 3832B4
-      song_name: 春
-      content_type: ''
-  - song_name: 春想い feat.初音ミク
-    song_alias:
-    esong_code: 3821A12
-    t_singer_master_id: '54158'
-    singer_name: risou
-    singer_alias:
-    available_date: '2017-06-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: はるおもい
-    singer_name_ruby: りそう
-    song_variation:
-    - esong_code: 3821A12
-      song_name: 春想い feat.初音ミク
-      content_type: VOCALOID
-  - song_name: pulse
-    song_alias:
-    esong_code: 3832A43
-    t_singer_master_id: '37892'
-    singer_name: cinema staff
-    singer_alias:
-    available_date: '2017-06-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるす
-    singer_name_ruby: しねますたつふ
-    song_variation:
-    - esong_code: 3832A43
-      song_name: pulse
-      content_type: ''
-  - song_name: 春ですよ!春ですよ!
-    song_alias:
-    esong_code: 3833A34
-    t_singer_master_id: '58719'
-    singer_name: ももくろちゃんZ
-    singer_alias:
-    available_date: '2017-06-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ぐーちょきぱーてぃー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるてすよはるて
-    singer_name_ruby: ももくろちやんせつと
-    song_variation:
-    - esong_code: 3833A34
-      song_name: 春ですよ!春ですよ!
-      content_type: ''
   - song_name: 春の落とし物
     song_alias:
     esong_code: 3836A18
@@ -160,23 +92,6 @@ result:
     - esong_code: 3826B3
       song_name: 晴れた日の教室
       content_type: ''
-  - song_name: "-BALLON-"
-    song_alias:
-    esong_code: 3823A44
-    t_singer_master_id: '54378'
-    singer_name: WEBER
-    singer_alias:
-    available_date: '2017-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はろん
-    singer_name_ruby: うえは
-    song_variation:
-    - esong_code: 3823A44
-      song_name: "-BALLON-"
-      content_type: ''
   - song_name: Power Of Dream
     song_alias:
     esong_code: 3826B46
@@ -253,7 +168,7 @@ result:
     singer_alias:
     available_date: '2017-06-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HUNTER×HUNTER(2011)<番組名>
+    tie_up: HUNTER×HUNTER<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はんたはんためと
@@ -417,23 +332,6 @@ result:
       content_type: ''
   - song_name: 光の射す方へ
     song_alias:
-    esong_code: 3824B5
-    t_singer_master_id: '2287'
-    singer_name: Mr.Children
-    singer_alias:
-    available_date: '2017-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ひかりのさすほうへ
-    singer_name_ruby: みすたちるとれん
-    song_variation:
-    - esong_code: 3824B5
-      song_name: 光の射す方へ
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 光の射す方へ
-    song_alias:
     esong_code: 3821A19
     t_singer_master_id: '2287'
     singer_name: Mr.Children
@@ -449,6 +347,23 @@ result:
     - esong_code: 3821A19
       song_name: 光の射す方へ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 光の射す方へ
+    song_alias:
+    esong_code: 3824B5
+    t_singer_master_id: '2287'
+    singer_name: Mr.Children
+    singer_alias:
+    available_date: '2017-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ひかりのさすほうへ
+    singer_name_ruby: みすたちるとれん
+    song_variation:
+    - esong_code: 3824B5
+      song_name: 光の射す方へ
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 彼岸花
     song_alias:
     esong_code: 3829B17
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 3628A8
       song_name: 日暮れ・行き暮れ
+      content_type: ''
+  - song_name: 非合理的かつ訂正不能な思い込み
+    song_alias:
+    esong_code: 3825B26
+    t_singer_master_id: '37884'
+    singer_name: アフィリア・サーガ(アフィリア・サーガ・イースト)
+    singer_alias:
+    available_date: '2017-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: CHAOS;CHILD(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひこうりてきかつて
+    singer_name_ruby: あふいりあさか
+    song_variation:
+    - esong_code: 3825B26
+      song_name: 非合理的かつ訂正不能な思い込み
+      content_type: ''
+  - song_name: Because of you
+    song_alias:
+    esong_code: 3833B14
+    t_singer_master_id: '32156'
+    singer_name: 清水 翔太
+    singer_alias:
+    available_date: '2017-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひこすおふゆ
+    singer_name_ruby: しみすしようた
+    song_variation:
+    - esong_code: 3833B14
+      song_name: Because of you
+      content_type: ''
+  - song_name: BE☆THE WIND
+    song_alias:
+    esong_code: 3842B46
+    t_singer_master_id: '59265'
+    singer_name: 祭nine.
+    singer_alias:
+    available_date: '2017-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: デュエル・マスターズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひさういんと
+    singer_name_ruby: まつりないん
+    song_variation:
+    - esong_code: 3842B46
+      song_name: BE☆THE WIND
+      content_type: ''
+  - song_name: Be The Best! Be The Blue!
+    song_alias:
+    esong_code: 3826A2
+    t_singer_master_id: '53473'
+    singer_name: OxT
+    singer_alias:
+    available_date: '2017-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ダイヤのA The LIVE<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひさへすとひ
+    singer_name_ruby: おくと
+    song_variation:
+    - esong_code: 3826A2
+      song_name: Be The Best! Be The Blue!
+      content_type: ''
+  - song_name: Be shine,shining!
+    song_alias:
+    esong_code: 3823A47
+    t_singer_master_id: '59038'
+    singer_name: CHiSPA
+    singer_alias:
+    available_date: '2017-06-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BanG Dream!(アニメ版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひしやいんしやい
+    singer_name_ruby: ちすは
+    song_variation:
+    - esong_code: 3823A47
+      song_name: Be shine,shining!
       content_type: ''

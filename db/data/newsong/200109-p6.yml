@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 407
-  all_max_cnt: 426
-  all_country_cnt: 407
+  max_cnt: 404
+  all_max_cnt: 423
+  all_country_cnt: 404
   song:
-  - song_name: 白いカーネーション
-    song_alias:
-    esong_code: 276A20
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2001-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しろいかねしよん
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 276A20
-      song_name: 白いカーネーション
-      content_type: ''
   - song_name: 白い花
     song_alias:
     esong_code: 994B1
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 663B24
       song_name: 空、星、海の夜
+      content_type: ''
+  - song_name: それぞれの旅
+    song_alias:
+    esong_code: 165B7
+    t_singer_master_id: '946'
+    singer_name: さだ まさし
+    singer_alias:
+    available_date: '2001-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: それそれのたひ
+    singer_name_ruby: さたまさし
+    song_variation:
+    - esong_code: 165B7
+      song_name: それぞれの旅
       content_type: ''

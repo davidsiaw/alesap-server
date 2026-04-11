@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 592
-  all_max_cnt: 727
-  all_country_cnt: 592
+  max_cnt: 588
+  all_max_cnt: 723
+  all_country_cnt: 588
   song:
-  - song_name: Nobody Knows
-    song_alias:
-    esong_code: 2B17
-    t_singer_master_id: '15542'
-    singer_name: ZZ
-    singer_alias:
-    available_date: '2004-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のはていのうす
-    singer_name_ruby: しし
-    song_variation:
-    - esong_code: 2B17
-      song_name: Nobody Knows
-      content_type: ''
-  - song_name: 野良犬のブルース
-    song_alias:
-    esong_code: 369A9
-    t_singer_master_id: '2542'
-    singer_name: 吉田 拓郎
-    singer_alias:
-    available_date: '2004-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のらいぬのふるす
-    singer_name_ruby: よしたたくろう
-    song_variation:
-    - esong_code: 369A9
-      song_name: 野良犬のブルース
-      content_type: ''
   - song_name: 灰色の世界Ⅰ
     song_alias:
     esong_code: 400B10
@@ -372,7 +338,7 @@ result:
     singer_alias:
     available_date: '2004-04-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: 帰ってきたウルトラマン<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はなたいようあめ
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 413A7
       song_name: 羽
+      content_type: ''
+  - song_name: パーフェクトドリーム
+    song_alias:
+    esong_code: 360B11
+    t_singer_master_id: '8723'
+    singer_name: Something ELse
+    singer_alias:
+    available_date: '2004-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はふえくととり
+    singer_name_ruby: さむしんくえるす
+    song_variation:
+    - esong_code: 360B11
+      song_name: パーフェクトドリーム
+      content_type: ''
+  - song_name: Purple Sky
+    song_alias:
+    esong_code: 187B4
+    t_singer_master_id: '12732'
+    singer_name: CORE OF SOUL
+    singer_alias:
+    available_date: '2004-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はふるすかい
+    singer_name_ruby: こあおふそうる
+    song_variation:
+    - esong_code: 187B4
+      song_name: Purple Sky
       content_type: ''

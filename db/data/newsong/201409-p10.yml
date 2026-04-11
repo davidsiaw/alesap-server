@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1549
-  all_max_cnt: 1789
-  all_country_cnt: 1549
+  max_cnt: 1543
+  all_max_cnt: 1783
+  all_country_cnt: 1543
   song:
-  - song_name: 俺でよかったのか
-    song_alias:
-    esong_code: 3002B40
-    t_singer_master_id: '2526'
-    singer_name: 湯原 昌幸
-    singer_alias:
-    available_date: '2014-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おれてよかつたのか
-    singer_name_ruby: ゆはらまさゆき
-    song_variation:
-    - esong_code: 3002B40
-      song_name: 俺でよかったのか
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 俺と月が燃えるとき
-    song_alias:
-    esong_code: 3314B32
-    t_singer_master_id: '37'
-    singer_name: 赤木 圭一郎
-    singer_alias:
-    available_date: '2014-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれとつきかもえる
-    singer_name_ruby: あかきけいいちろう
-    song_variation:
-    - esong_code: 3314B32
-      song_name: 俺と月が燃えるとき
-      content_type: ''
-  - song_name: 俺の心
-    song_alias:
-    esong_code: 3315A20
-    t_singer_master_id: '49345'
-    singer_name: 西郷 荘一郎
-    singer_alias:
-    available_date: '2014-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれのこころ
-    singer_name_ruby: さうこうそういちろう
-    song_variation:
-    - esong_code: 3315A20
-      song_name: 俺の心
-      content_type: ''
   - song_name: orange
     song_alias:
     esong_code: 3319B13
@@ -366,23 +315,6 @@ result:
       content_type: ''
   - song_name: 海峡岬
     song_alias:
-    esong_code: 2977B1
-    t_singer_master_id: '5034'
-    singer_name: 市川 由紀乃
-    singer_alias:
-    available_date: '2014-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かいきようみさき
-    singer_name_ruby: いちかわゆきの
-    song_variation:
-    - esong_code: 2977B1
-      song_name: 海峡岬
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 海峡岬
-    song_alias:
     esong_code: 3133A43
     t_singer_master_id: '5034'
     singer_name: 市川 由紀乃
@@ -398,6 +330,23 @@ result:
     - esong_code: 3133A43
       song_name: 海峡岬
       content_type: ''
+  - song_name: 海峡岬
+    song_alias:
+    esong_code: 2977B1
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2014-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かいきようみさき
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 2977B1
+      song_name: 海峡岬
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 海峡岬
     song_alias:
     esong_code: 3322A44
@@ -517,3 +466,54 @@ result:
     - esong_code: 3325A16
       song_name: 顔だらけの本 feat.結月ゆかり
       content_type: VOCALOID
+  - song_name: 鏡にみた夢
+    song_alias:
+    esong_code: 3325A24
+    t_singer_master_id: '10605'
+    singer_name: GARNET CROW
+    singer_alias:
+    available_date: '2014-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かかみにみたゆめ
+    singer_name_ruby: かねつとくろう
+    song_variation:
+    - esong_code: 3325A24
+      song_name: 鏡にみた夢
+      content_type: ''
+  - song_name: 鏡の向こうの醜い私 feat.初音ミク
+    song_alias:
+    esong_code: 3326A41
+    t_singer_master_id: '38201'
+    singer_name: 梨本 うい
+    singer_alias:
+    available_date: '2014-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: かかみのむこうのみ
+    singer_name_ruby: なしもとうい
+    song_variation:
+    - esong_code: 3326A41
+      song_name: 鏡の向こうの醜い私 feat.初音ミク
+      content_type: VOCALOID
+  - song_name: 輝け命
+    song_alias:
+    esong_code: 3327A25
+    t_singer_master_id: '51655'
+    singer_name: 星 ひかり
+    singer_alias:
+    available_date: '2014-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かかやけいのち
+    singer_name_ruby: ほしひかり
+    song_variation:
+    - esong_code: 3327A25
+      song_name: 輝け命
+      content_type: ''

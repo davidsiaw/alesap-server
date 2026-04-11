@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1386
-  all_max_cnt: 1523
-  all_country_cnt: 1386
+  max_cnt: 1380
+  all_max_cnt: 1517
+  all_country_cnt: 1380
   song:
-  - song_name: さよなら遊園地
-    song_alias:
-    esong_code: 3702B46
-    t_singer_master_id: '46054'
-    singer_name: チャラン・ポ・ランタン
-    singer_alias:
-    available_date: '2016-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならゆうえんち
-    singer_name_ruby: ちやらんほらんたん
-    song_variation:
-    - esong_code: 3702B46
-      song_name: さよなら遊園地
-      content_type: ''
-  - song_name: サヨナララスト
-    song_alias:
-    esong_code: 3702A28
-    t_singer_master_id: '56313'
-    singer_name: マオ
-    singer_alias:
-    available_date: '2016-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよなららすと
-    singer_name_ruby: まお
-    song_variation:
-    - esong_code: 3702A28
-      song_name: サヨナララスト
-      content_type: ''
   - song_name: サヨナラを繰り返して
     song_alias:
     esong_code: 3694B38
@@ -457,7 +423,7 @@ result:
     singer_alias:
     available_date: '2016-10-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 東映公認 鈴村健一・神谷浩史の仮面ラジレンジャー<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: しえいくはんす
@@ -495,7 +461,7 @@ result:
     country_code: '0'
     content_type: DAM本人歌唱
     song_name_ruby: しえり
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3700B20
       song_name: Cherie! [DAM本人歌唱]
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3709A48
       song_name: 紫苑
+      content_type: ''
+  - song_name: Secret Answer
+    song_alias:
+    esong_code: 3694A28
+    t_singer_master_id: '57109'
+    singer_name: XYZ
+    singer_alias:
+    available_date: '2016-10-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しくれつとあんさ
+    singer_name_ruby: えつくすわいすい
+    song_variation:
+    - esong_code: 3694A28
+      song_name: Secret Answer
+      content_type: ''
+  - song_name: 時雨前
+    song_alias:
+    esong_code: 3696B41
+    t_singer_master_id: '52105'
+    singer_name: downy
+    singer_alias:
+    available_date: '2016-10-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しくれまえ
+    singer_name_ruby: たうに
+    song_variation:
+    - esong_code: 3696B41
+      song_name: 時雨前
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: 窓
-    song_alias:
-    esong_code: 1489A14
-    t_singer_master_id: '2168'
-    singer_name: 前川 清
-    singer_alias:
-    available_date: '2006-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: まと
-    singer_name_ruby: まえかわきよし
-    song_variation:
-    - esong_code: 1489A14
-      song_name: 窓
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: まねきネコネコ♪
     song_alias:
     esong_code: 1488B13
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1479A28
       song_name: Music
+      content_type: ''
+  - song_name: 未来の僕らに
+    song_alias:
+    esong_code: 1479A34
+    t_singer_master_id: '18074'
+    singer_name: 平原 綾香
+    singer_alias:
+    available_date: '2006-04-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みらいのほくらに
+    singer_name_ruby: ひらはらあやか
+    song_variation:
+    - esong_code: 1479A34
+      song_name: 未来の僕らに
       content_type: ''

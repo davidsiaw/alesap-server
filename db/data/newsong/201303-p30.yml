@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: ドッグハート
-    song_alias:
-    esong_code: 2999B38
-    t_singer_master_id: '33013'
-    singer_name: 石鹸屋
-    singer_alias:
-    available_date: '2013-03-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とつくはと
-    singer_name_ruby: せつけんや
-    song_variation:
-    - esong_code: 2999B38
-      song_name: ドッグハート
-      content_type: ''
   - song_name: 鳥取戦士サキューンのテーマ (MIQ ver.)
     song_alias:
     esong_code: 3010B49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3008B49
       song_name: Now&Forever
+      content_type: ''
+  - song_name: ナガルナガル
+    song_alias:
+    esong_code: 3012B29
+    t_singer_master_id: '38535'
+    singer_name: amazarashi
+    singer_alias:
+    available_date: '2013-03-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なかるなかる
+    singer_name_ruby: あまさらし
+    song_variation:
+    - esong_code: 3012B29
+      song_name: ナガルナガル
       content_type: ''

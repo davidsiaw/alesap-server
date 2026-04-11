@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
+  - song_name: 素顔のまま
+    song_alias:
+    esong_code: 2197B45
+    t_singer_master_id: '10604'
+    singer_name: 愛内 里菜
+    singer_alias:
+    available_date: '2009-01-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すかおのまま
+    singer_name_ruby: あいうちりな
+    song_variation:
+    - esong_code: 2197B45
+      song_name: 素顔のまま
+      content_type: ''
   - song_name: SCARLET...
     song_alias:
     esong_code: 2198B11
@@ -500,20 +517,3 @@ result:
     - esong_code: 2192A34
       song_name: 青春コンプレックス feat.初音ミク
       content_type: VOCALOID
-  - song_name: 青春プレリュード
-    song_alias:
-    esong_code: 219A29
-    t_singer_master_id: '6791'
-    singer_name: 加茂 晴美
-    singer_alias:
-    available_date: '2009-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アタッカーYOU!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: せいしゆんふれりゆ
-    singer_name_ruby: かもはるみ
-    song_variation:
-    - esong_code: 219A29
-      song_name: 青春プレリュード
-      content_type: ''

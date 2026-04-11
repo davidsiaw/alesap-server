@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1132
-  all_country_cnt: 1023
+  max_cnt: 1015
+  all_max_cnt: 1124
+  all_country_cnt: 1015
   song:
-  - song_name: 存在証明
-    song_alias:
-    esong_code: 2170A6
-    t_singer_master_id: '28360'
-    singer_name: ONE OK ROCK
-    singer_alias:
-    available_date: '2008-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そんさいしようめい
-    singer_name_ruby: わんおくろつく
-    song_variation:
-    - esong_code: 2170A6
-      song_name: 存在証明
-      content_type: ''
-  - song_name: Diamond dust
-    song_alias:
-    esong_code: 2127B17
-    t_singer_master_id: '31478'
-    singer_name: Team.ねこかん[猫]
-    singer_alias:
-    available_date: '2008-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいあもんとた
-    singer_name_ruby: ちむねこかん
-    song_variation:
-    - esong_code: 2127B17
-      song_name: Diamond dust
-      content_type: ''
-  - song_name: Diamond Heart 〜LIVE TOUR 2008 THE FACE〜
-    song_alias:
-    esong_code: 2146A35
-    t_singer_master_id: '12544'
-    singer_name: BoA
-    singer_alias:
-    available_date: '2008-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: たいあもんとは
-    singer_name_ruby: ほあ
-    song_variation:
-    - esong_code: 2146A35
-      song_name: Diamond Heart 〜LIVE TOUR 2008 THE FACE〜
-      content_type: DAM生音
-  - song_name: DIAMOND FIREBALL
-    song_alias:
-    esong_code: 2159A2
-    t_singer_master_id: '34801'
-    singer_name: Hundred Percent Free
-    singer_alias:
-    available_date: '2008-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいあもんとふあ
-    singer_name_ruby: はんとれつとはせんとふり
-    song_variation:
-    - esong_code: 2159A2
-      song_name: DIAMOND FIREBALL
-      content_type: ''
   - song_name: 体温
     song_alias:
     esong_code: 2175B5
@@ -177,7 +109,7 @@ result:
     - esong_code: 2156B24
       song_name: 抱きしめた約束
       content_type: ''
-  - song_name: 抱きしめる 〜LIVE TOUR 2008 THE FACE〜
+  - song_name: 抱きしめる (2008ver)
     song_alias:
     esong_code: 2146A36
     t_singer_master_id: '12544'
@@ -187,13 +119,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMﾗｲﾌﾞ
     song_name_ruby: たきしめる
     singer_name_ruby: ほあ
     song_variation:
     - esong_code: 2146A36
-      song_name: 抱きしめる 〜LIVE TOUR 2008 THE FACE〜
-      content_type: DAM生音
+      song_name: 抱きしめる (2008ver)
+      content_type: DAMﾗｲﾌﾞ
   - song_name: 黄昏のむこう側
     song_alias:
     esong_code: 2145B48
@@ -296,23 +228,6 @@ result:
     - esong_code: 2127A26
       song_name: タンタンターン!
       content_type: ''
-  - song_name: ダンデライオン
-    song_alias:
-    esong_code: 2145B17
-    t_singer_master_id: '31075'
-    singer_name: BREAKERZ
-    singer_alias:
-    available_date: '2008-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たんてらいおん
-    singer_name_ruby: ふれいかす
-    song_variation:
-    - esong_code: 2145B17
-      song_name: ダンデライオン
-      content_type: ''
   - song_name: dandelion feat.鏡音レン
     song_alias:
     esong_code: 2145B28
@@ -330,6 +245,23 @@ result:
     - esong_code: 2145B28
       song_name: dandelion feat.鏡音レン
       content_type: VOCALOID
+  - song_name: ダンデライオン
+    song_alias:
+    esong_code: 2145B17
+    t_singer_master_id: '31075'
+    singer_name: BREAKERZ
+    singer_alias:
+    available_date: '2008-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たんてらいおん
+    singer_name_ruby: ふれいかす
+    song_variation:
+    - esong_code: 2145B17
+      song_name: ダンデライオン
+      content_type: ''
   - song_name: CHAIN
     song_alias:
     esong_code: 2152A29
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 2151B20
       song_name: 月ひとつ
+      content_type: ''
+  - song_name: 続く世界
+    song_alias:
+    esong_code: 2162A45
+    t_singer_master_id: '26178'
+    singer_name: 中川 翔子
+    singer_alias:
+    available_date: '2008-11-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 天元突破グレンラガン 紅蓮篇<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: つつくせかい
+    singer_name_ruby: なかかわしようこ
+    song_variation:
+    - esong_code: 2162A45
+      song_name: 続く世界
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 繋いだ手と手
+    song_alias:
+    esong_code: 2152B35
+    t_singer_master_id: '25926'
+    singer_name: Bahashishi
+    singer_alias:
+    available_date: '2008-11-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つないたてとて
+    singer_name_ruby: ははしし
+    song_variation:
+    - esong_code: 2152B35
+      song_name: 繋いだ手と手
+      content_type: ''
+  - song_name: TSUNAMI 「名演ピアノ 美野 春樹」
+    song_alias:
+    esong_code: 2146B16
+    t_singer_master_id: '944'
+    singer_name: サザンオールスターズ
+    singer_alias:
+    available_date: '2008-11-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つなみ
+    singer_name_ruby: ささんおるすたす
+    song_variation:
+    - esong_code: 2146B16
+      song_name: TSUNAMI 「名演ピアノ 美野 春樹」
+      content_type: ''
+  - song_name: 翼
+    song_alias:
+    esong_code: 2133A4
+    t_singer_master_id: '15968'
+    singer_name: レミオロメン
+    singer_alias:
+    available_date: '2008-11-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: メジャー 友情の一球(ウィニングショット)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: つはさ
+    singer_name_ruby: れみおろめん
+    song_variation:
+    - esong_code: 2133A4
+      song_name: 翼
       content_type: ''

@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: 七角錐の少女
-    song_alias:
-    esong_code: 1073A33
-    t_singer_master_id: '1400'
-    singer_name: 谷山 浩子
-    singer_alias:
-    available_date: '2012-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ななかくすいのしよう
-    singer_name_ruby: たにやまひろこ
-    song_variation:
-    - esong_code: 1073A33
-      song_name: 七角錐の少女
-      content_type: ''
-  - song_name: 浪速のソーラン節
-    song_alias:
-    esong_code: 2761B30
-    t_singer_master_id: '44324'
-    singer_name: 四天宝寺中
-    singer_alias:
-    available_date: '2012-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テニスの王子様<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: なにわのそらんふ
-    singer_name_ruby: してんほうしちゆう
-    song_variation:
-    - esong_code: 2761B30
-      song_name: 浪速のソーラン節
-      content_type: ''
-  - song_name: なまずでポルカ 〜ビアだるポルカ
-    song_alias:
-    esong_code: 2753B17
-    t_singer_master_id: '7098'
-    singer_name: BO GUMBOS
-    singer_alias:
-    available_date: '2012-02-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なますてほるか
-    singer_name_ruby: ほかんほす
-    song_variation:
-    - esong_code: 2753B17
-      song_name: なまずでポルカ 〜ビアだるポルカ
-      content_type: ''
-  - song_name: 涙ぐむ太陽
-    song_alias:
-    esong_code: 2762B38
-    t_singer_master_id: '38360'
-    singer_name: レディオサイエンス
-    singer_alias:
-    available_date: '2012-02-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみたくむたいよ
-    singer_name_ruby: れていおさいえんす
-    song_variation:
-    - esong_code: 2762B38
-      song_name: 涙ぐむ太陽
-      content_type: ''
   - song_name: 涙でさんさ
     song_alias:
     esong_code: 1792A3
@@ -145,23 +77,6 @@ result:
       content_type: ''
   - song_name: ナンカイレンアイ
     song_alias:
-    esong_code: 2444A35
-    t_singer_master_id: '42818'
-    singer_name: タカノン
-    singer_alias:
-    available_date: '2012-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: なんかいれんあい
-    singer_name_ruby: たかのん
-    song_variation:
-    - esong_code: 2444A35
-      song_name: ナンカイレンアイ
-      content_type: VOCALOID
-  - song_name: ナンカイレンアイ
-    song_alias:
     esong_code: 2765A38
     t_singer_master_id: '42818'
     singer_name: タカノン
@@ -175,6 +90,23 @@ result:
     singer_name_ruby: たかのん
     song_variation:
     - esong_code: 2765A38
+      song_name: ナンカイレンアイ
+      content_type: VOCALOID
+  - song_name: ナンカイレンアイ
+    song_alias:
+    esong_code: 2444A35
+    t_singer_master_id: '42818'
+    singer_name: タカノン
+    singer_alias:
+    available_date: '2012-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: なんかいれんあい
+    singer_name_ruby: たかのん
+    song_variation:
+    - esong_code: 2444A35
       song_name: ナンカイレンアイ
       content_type: VOCALOID
   - song_name: 南国の恋
@@ -281,23 +213,6 @@ result:
       content_type: ''
   - song_name: 2012Spark
     song_alias:
-    esong_code: 2750A28
-    t_singer_master_id: '10295'
-    singer_name: ポルノグラフィティ
-    singer_alias:
-    available_date: '2012-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にせろいちにす
-    singer_name_ruby: ほるのくらふいてい
-    song_variation:
-    - esong_code: 2750A28
-      song_name: 2012Spark
-      content_type: ''
-  - song_name: 2012Spark
-    song_alias:
     esong_code: 2752B26
     t_singer_master_id: '10295'
     singer_name: ポルノグラフィティ
@@ -313,6 +228,23 @@ result:
     - esong_code: 2752B26
       song_name: 2012Spark
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 2012Spark
+    song_alias:
+    esong_code: 2750A28
+    t_singer_master_id: '10295'
+    singer_name: ポルノグラフィティ
+    singer_alias:
+    available_date: '2012-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にせろいちにす
+    singer_name_ruby: ほるのくらふいてい
+    song_variation:
+    - esong_code: 2750A28
+      song_name: 2012Spark
+      content_type: ''
   - song_name: にぱにぱ音頭☆
     song_alias:
     esong_code: 2764B32
@@ -349,23 +281,6 @@ result:
       content_type: ''
   - song_name: newsong
     song_alias:
-    esong_code: 2757B17
-    t_singer_master_id: '32329'
-    singer_name: tacica
-    singer_alias:
-    available_date: '2012-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: NARUTO-ナルト-疾風伝<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: にゆそんく
-    singer_name_ruby: たしか
-    song_variation:
-    - esong_code: 2757B17
-      song_name: newsong
-      content_type: DAM生音
-  - song_name: newsong
-    song_alias:
     esong_code: 2757B43
     t_singer_master_id: '32329'
     singer_name: tacica
@@ -381,6 +296,23 @@ result:
     - esong_code: 2757B43
       song_name: newsong
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: newsong
+    song_alias:
+    esong_code: 2757B17
+    t_singer_master_id: '32329'
+    singer_name: tacica
+    singer_alias:
+    available_date: '2012-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: NARUTO-ナルト-疾風伝<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: にゆそんく
+    singer_name_ruby: たしか
+    song_variation:
+    - esong_code: 2757B17
+      song_name: newsong
+      content_type: DAM生音
   - song_name: New Day
     song_alias:
     esong_code: 2767A21
@@ -406,7 +338,7 @@ result:
     singer_alias:
     available_date: '2012-02-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ ザ ヒーローズ ツインブレイヴ<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: にゆていす
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 2764B6
       song_name: 熱血猿飛佐助
+      content_type: ''
+  - song_name: ねっちょりベイビー
+    song_alias:
+    esong_code: 2708A11
+    t_singer_master_id: '43666'
+    singer_name: 魔女っこ
+    singer_alias:
+    available_date: '2012-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねつちよりへいひ
+    singer_name_ruby: ましよつこ
+    song_variation:
+    - esong_code: 2708A11
+      song_name: ねっちょりベイビー
+      content_type: ''
+  - song_name: NEVER LOSE
+    song_alias:
+    esong_code: 2761A35
+    t_singer_master_id: '12895'
+    singer_name: EXILE
+    singer_alias:
+    available_date: '2012-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 聖戦ケルベロス<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ねはろす
+    singer_name_ruby: えくさいる
+    song_variation:
+    - esong_code: 2761A35
+      song_name: NEVER LOSE
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 眠れぬ夜
+    song_alias:
+    esong_code: 2753B28
+    t_singer_master_id: '5045'
+    singer_name: 山本 潤子
+    singer_alias:
+    available_date: '2012-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねむれぬよる
+    singer_name_ruby: やまもとしゆんこ
+    song_variation:
+    - esong_code: 2753B28
+      song_name: 眠れぬ夜
+      content_type: ''
+  - song_name: ねんねんパンダ
+    song_alias:
+    esong_code: 2749A44
+    t_singer_master_id: '2299'
+    singer_name: 水森 亜土
+    singer_alias:
+    available_date: '2012-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: パンダコパンダ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ねんねんはんた
+    singer_name_ruby: みすもりあと
+    song_variation:
+    - esong_code: 2749A44
+      song_name: ねんねんパンダ
       content_type: ''

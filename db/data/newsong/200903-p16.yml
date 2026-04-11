@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
+  - song_name: SHOUT!
+    song_alias:
+    esong_code: 2269B30
+    t_singer_master_id: '36244'
+    singer_name: 米本 千珠&TIGER-G
+    singer_alias:
+    available_date: '2009-03-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: センチメンタル・グラフティ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやうと
+    singer_name_ruby: よねもとちつたいかし
+    song_variation:
+    - esong_code: 2269B30
+      song_name: SHOUT!
+      content_type: ''
   - song_name: Shout Aloud!
     song_alias:
     esong_code: 2262A17
@@ -98,7 +115,7 @@ result:
     t_singer_master_id: '10038'
     singer_name: GACKT(Gackt)
     singer_alias:
-    available_date: '2009-03-24'
+    available_date: '2009-03-25'
     end_date: '2999-04-10 00:00:00'
     tie_up: 仮面ライダーディケイド<番組名>
     country_code: '0'
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2269A28
       song_name: 四六時夢中 シンケンジャー
-      content_type: ''
-  - song_name: Syrup
-    song_alias:
-    esong_code: 2263B40
-    t_singer_master_id: '33989'
-    singer_name: ダウト
-    singer_alias:
-    available_date: '2009-03-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しろつふ
-    singer_name_ruby: たうと
-    song_variation:
-    - esong_code: 2263B40
-      song_name: Syrup
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
-  - song_name: 千曲恋唄 (男性バージョン)
-    song_alias:
-    esong_code: 1464B9
-    t_singer_master_id: '32948'
-    singer_name: 三田 勉示
-    singer_alias:
-    available_date: '2011-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちくまこいうた
-    singer_name_ruby: みたかつみ
-    song_variation:
-    - esong_code: 1464B9
-      song_name: 千曲恋唄 (男性バージョン)
-      content_type: ''
   - song_name: ちしま海峡
     song_alias:
     esong_code: 2056B13
@@ -230,23 +213,6 @@ result:
       content_type: VOCALOID
   - song_name: 月物語
     song_alias:
-    esong_code: 1548A38
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
-    singer_alias:
-    available_date: '2011-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: つきものかたり
-    singer_name_ruby: いつきひろし
-    song_variation:
-    - esong_code: 1548A38
-      song_name: 月物語
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 月物語
-    song_alias:
     esong_code: 1588B22
     t_singer_master_id: '221'
     singer_name: 五木 ひろし
@@ -262,6 +228,23 @@ result:
     - esong_code: 1588B22
       song_name: 月物語
       content_type: ''
+  - song_name: 月物語
+    song_alias:
+    esong_code: 1548A38
+    t_singer_master_id: '221'
+    singer_name: 五木 ひろし
+    singer_alias:
+    available_date: '2011-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: つきものかたり
+    singer_name_ruby: いつきひろし
+    song_variation:
+    - esong_code: 1548A38
+      song_name: 月物語
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 月夜の悪戯の魔法
     song_alias:
     esong_code: 1505A32
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1374B17
       song_name: デイブレイク
+      content_type: ''
+  - song_name: Tales of Flame
+    song_alias:
+    esong_code: 1470B37
+    t_singer_master_id: '29766'
+    singer_name: 結城 アイラ
+    singer_alias:
+    available_date: '2011-04-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 猛獣使いと王子様<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ているすおふふれ
+    singer_name_ruby: ゆうきあいら
+    song_variation:
+    - esong_code: 1470B37
+      song_name: Tales of Flame
       content_type: ''

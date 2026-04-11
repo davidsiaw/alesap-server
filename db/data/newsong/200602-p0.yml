@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 902
-  all_max_cnt: 1197
-  all_country_cnt: 902
+  max_cnt: 897
+  all_max_cnt: 1191
+  all_country_cnt: 897
   song:
   - song_name: 愛エピローグ
     song_alias:
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: アカシアの女
     song_alias:
-    esong_code: 1441A8
-    t_singer_master_id: '10798'
-    singer_name: 北川 大介
-    singer_alias:
-    available_date: '2006-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかしあのひと
-    singer_name_ruby: きたかわたいすけ
-    song_variation:
-    - esong_code: 1441A8
-      song_name: アカシアの女
-      content_type: ''
-  - song_name: アカシアの女
-    song_alias:
     esong_code: 1457A26
     t_singer_master_id: '10798'
     singer_name: 北川 大介
@@ -415,6 +398,23 @@ result:
     - esong_code: 1457A26
       song_name: アカシアの女
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: アカシアの女
+    song_alias:
+    esong_code: 1441A8
+    t_singer_master_id: '10798'
+    singer_name: 北川 大介
+    singer_alias:
+    available_date: '2006-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかしあのひと
+    singer_name_ruby: きたかわたいすけ
+    song_variation:
+    - esong_code: 1441A8
+      song_name: アカシアの女
+      content_type: ''
   - song_name: 紅の静寂
     song_alias:
     esong_code: 1457A18

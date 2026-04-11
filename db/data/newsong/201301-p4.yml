@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1332
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1326
+  all_country_cnt: 1206
   song:
-  - song_name: IF YOU WANT featuring Kotaro Oshio
-    song_alias:
-    esong_code: 2968A29
-    t_singer_master_id: '1899'
-    singer_name: 氷室 京介
-    singer_alias:
-    available_date: '2013-01-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いふゆうおんと
-    singer_name_ruby: ひむろきようすけ
-    song_variation:
-    - esong_code: 2968A29
-      song_name: IF YOU WANT featuring Kotaro Oshio
-      content_type: ''
   - song_name: 今あなたに伝えたい
     song_alias:
     esong_code: 2981A22
@@ -400,23 +383,6 @@ result:
       content_type: ''
   - song_name: 浮雲ふたつ
     song_alias:
-    esong_code: 2970B47
-    t_singer_master_id: '1994'
-    singer_name: 藤 あや子
-    singer_alias:
-    available_date: '2013-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: うきくもふたつ
-    singer_name_ruby: ふしあやこ
-    song_variation:
-    - esong_code: 2970B47
-      song_name: 浮雲ふたつ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 浮雲ふたつ
-    song_alias:
     esong_code: 2964A26
     t_singer_master_id: '1994'
     singer_name: 藤 あや子
@@ -432,6 +398,23 @@ result:
     - esong_code: 2964A26
       song_name: 浮雲ふたつ
       content_type: ''
+  - song_name: 浮雲ふたつ
+    song_alias:
+    esong_code: 2970B47
+    t_singer_master_id: '1994'
+    singer_name: 藤 あや子
+    singer_alias:
+    available_date: '2013-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: うきくもふたつ
+    singer_name_ruby: ふしあやこ
+    song_variation:
+    - esong_code: 2970B47
+      song_name: 浮雲ふたつ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ウジ虫
     song_alias:
     esong_code: 2963B24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1088A49
       song_name: うち泉州に帰るから
+      content_type: ''
+  - song_name: うつくしい人
+    song_alias:
+    esong_code: 2977A25
+    t_singer_master_id: '27766'
+    singer_name: moumoon
+    singer_alias:
+    available_date: '2013-01-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うつくしいひと
+    singer_name_ruby: むむん
+    song_variation:
+    - esong_code: 2977A25
+      song_name: うつくしい人
       content_type: ''

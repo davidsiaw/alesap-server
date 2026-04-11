@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 911
-  all_max_cnt: 1051
-  all_country_cnt: 911
+  max_cnt: 909
+  all_max_cnt: 1049
+  all_country_cnt: 909
   song:
-  - song_name: ジェイド! 〜ジェイドのテーマ〜
-    song_alias:
-    esong_code: 2530B44
-    t_singer_master_id: '29430'
-    singer_name: 野島 健児
-    singer_alias:
-    available_date: '2010-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: キン肉マンⅡ世<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえいと
-    singer_name_ruby: のしまけんし
-    song_variation:
-    - esong_code: 2530B44
-      song_name: ジェイド! 〜ジェイドのテーマ〜
-      content_type: ''
   - song_name: J.P.〜REBORN〜
     song_alias:
     esong_code: 2529B25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2508A34
       song_name: 秋止符 「名演ピアノ 美野 春樹」
+      content_type: ''
+  - song_name: 0時前のツンデレラ
+    song_alias:
+    esong_code: 2537B22
+    t_singer_master_id: '25511'
+    singer_name: misono
+    singer_alias:
+    available_date: '2010-05-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆうにしまえの
+    singer_name_ruby: みその
+    song_variation:
+    - esong_code: 2537B22
+      song_name: 0時前のツンデレラ
       content_type: ''

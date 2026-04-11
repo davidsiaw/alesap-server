@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
   - song_name: あなたへ 〜to you〜
     song_alias:
@@ -213,23 +213,6 @@ result:
       content_type: ''
   - song_name: 雨の酒場町
     song_alias:
-    esong_code: 2463B33
-    t_singer_master_id: '10798'
-    singer_name: 北川 大介
-    singer_alias:
-    available_date: '2010-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あめのさかはまち
-    singer_name_ruby: きたかわたいすけ
-    song_variation:
-    - esong_code: 2463B33
-      song_name: 雨の酒場町
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 雨の酒場町
-    song_alias:
     esong_code: 2461B16
     t_singer_master_id: '10798'
     singer_name: 北川 大介
@@ -245,6 +228,23 @@ result:
     - esong_code: 2461B16
       song_name: 雨の酒場町
       content_type: ''
+  - song_name: 雨の酒場町
+    song_alias:
+    esong_code: 2463B33
+    t_singer_master_id: '10798'
+    singer_name: 北川 大介
+    singer_alias:
+    available_date: '2010-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あめのさかはまち
+    singer_name_ruby: きたかわたいすけ
+    song_variation:
+    - esong_code: 2463B33
+      song_name: 雨の酒場町
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 雨の城崎
     song_alias:
     esong_code: 2479A49

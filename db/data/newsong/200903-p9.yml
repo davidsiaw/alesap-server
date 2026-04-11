@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
+  - song_name: 機動戦士ガンダム00メドレー
+    song_alias:
+    esong_code: 2276A10
+    t_singer_master_id: '24121'
+    singer_name: アニメメドレー
+    singer_alias:
+    available_date: '2009-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 機動戦士ガンダムOO<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きとうせんしかん
+    singer_name_ruby: あにめめとれ
+    song_variation:
+    - esong_code: 2276A10
+      song_name: 機動戦士ガンダム00メドレー
+      content_type: ''
   - song_name: 気分次第で
     song_alias:
     esong_code: 2281A32
@@ -500,20 +517,3 @@ result:
     - esong_code: 2294A33
       song_name: きよしのズンドコ節
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: きらきら (original ver.)
-    song_alias:
-    esong_code: 2255B48
-    t_singer_master_id: '24187'
-    singer_name: Aqua Timez
-    singer_alias:
-    available_date: '2009-03-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きらきら
-    singer_name_ruby: あくあたいむす
-    song_variation:
-    - esong_code: 2255B48
-      song_name: きらきら (original ver.)
-      content_type: ''

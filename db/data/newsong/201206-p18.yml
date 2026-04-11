@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: しゃらららるんら
-    song_alias:
-    esong_code: 2810B2
-    t_singer_master_id: '40422'
-    singer_name: 五十嵐 裕美
-    singer_alias:
-    available_date: '2012-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: パパのいうことを聞きなさい!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやらららるんら
-    singer_name_ruby: いからしひろみ
-    song_variation:
-    - esong_code: 2810B2
-      song_name: しゃらららるんら
-      content_type: ''
   - song_name: Sherlock (Japanese ver.)
     song_alias:
     esong_code: 847A38
@@ -315,23 +298,6 @@ result:
       content_type: DAM生音
   - song_name: 職人
     song_alias:
-    esong_code: 2806B8
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2012-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: しよくにん
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 2806B8
-      song_name: 職人
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 職人
-    song_alias:
     esong_code: 2797B2
     t_singer_master_id: '641'
     singer_name: 北島 三郎
@@ -347,6 +313,23 @@ result:
     - esong_code: 2797B2
       song_name: 職人
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 職人
+    song_alias:
+    esong_code: 2806B8
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2012-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: しよくにん
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 2806B8
+      song_name: 職人
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 職人
     song_alias:
     esong_code: 2433B11
@@ -406,7 +389,7 @@ result:
     singer_alias:
     available_date: '2012-06-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂'<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しれんま
@@ -517,3 +500,20 @@ result:
     - esong_code: 2798A7
       song_name: 人生街道
       content_type: ''
+  - song_name: 人生かぞえ歌
+    song_alias:
+    esong_code: 2806B18
+    t_singer_master_id: '45015'
+    singer_name: 水谷 千重子
+    singer_alias:
+    available_date: '2012-06-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: しんせいかそえう
+    singer_name_ruby: みすたにちえこ
+    song_variation:
+    - esong_code: 2806B18
+      song_name: 人生かぞえ歌
+      content_type: DAMﾌﾟﾛｵｹ

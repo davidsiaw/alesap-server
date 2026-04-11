@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
   - song_name: 君が好き feat.初音ミク
     song_alias:
@@ -279,23 +279,6 @@ result:
     - esong_code: 2707A25
       song_name: CAN 〜夢の扉〜
       content_type: ''
-  - song_name: CANDY
-    song_alias:
-    esong_code: 1111A11
-    t_singer_master_id: '2979'
-    singer_name: De+LAX(De-LAX)
-    singer_alias:
-    available_date: '2011-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんてい
-    singer_name_ruby: てらつくす
-    song_variation:
-    - esong_code: 1111A11
-      song_name: CANDY
-      content_type: ''
   - song_name: Candy
     song_alias:
     esong_code: 2714B36
@@ -312,6 +295,23 @@ result:
     song_variation:
     - esong_code: 2714B36
       song_name: Candy
+      content_type: ''
+  - song_name: CANDY
+    song_alias:
+    esong_code: 1111A11
+    t_singer_master_id: '2979'
+    singer_name: De+LAX(De-LAX)
+    singer_alias:
+    available_date: '2011-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやんてい
+    singer_name_ruby: てらつくす
+    song_variation:
+    - esong_code: 1111A11
+      song_name: CANDY
       content_type: ''
   - song_name: Candy Pop
     song_alias:

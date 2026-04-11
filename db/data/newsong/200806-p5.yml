@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1229
-  all_country_cnt: 1098
+  max_cnt: 1095
+  all_max_cnt: 1225
+  all_country_cnt: 1095
   song:
   - song_name: 江島恋しや
     song_alias:
@@ -60,23 +60,6 @@ result:
       content_type: ''
   - song_name: EDEN
     song_alias:
-    esong_code: 2029A37
-    t_singer_master_id: '15560'
-    singer_name: 玉置 成実
-    singer_alias:
-    available_date: '2008-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えてん
-    singer_name_ruby: たまきなみ
-    song_variation:
-    - esong_code: 2029A37
-      song_name: EDEN
-      content_type: ''
-  - song_name: EDEN
-    song_alias:
     esong_code: 2027B6
     t_singer_master_id: '32896'
     singer_name: Aoi
@@ -90,6 +73,23 @@ result:
     singer_name_ruby: あおい
     song_variation:
     - esong_code: 2027B6
+      song_name: EDEN
+      content_type: ''
+  - song_name: EDEN
+    song_alias:
+    esong_code: 2029A37
+    t_singer_master_id: '15560'
+    singer_name: 玉置 成実
+    singer_alias:
+    available_date: '2008-06-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えてん
+    singer_name_ruby: たまきなみ
+    song_variation:
+    - esong_code: 2029A37
       song_name: EDEN
       content_type: ''
   - song_name: 流れ者(エトランゼ)

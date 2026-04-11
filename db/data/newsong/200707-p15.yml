@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
   - song_name: SHOW MUST GO ON
     song_alias:
@@ -213,23 +213,6 @@ result:
       content_type: ''
   - song_name: 蜃気楼
     song_alias:
-    esong_code: 1816A9
-    t_singer_master_id: '6842'
-    singer_name: 長沢 ゆりか
-    singer_alias:
-    available_date: '2007-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ライトニングレジェンド〜大悟の大冒険〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんきろう
-    singer_name_ruby: なかさわゆりか
-    song_variation:
-    - esong_code: 1816A9
-      song_name: 蜃気楼
-      content_type: ''
-  - song_name: 蜃気楼
-    song_alias:
     esong_code: 1811B16
     t_singer_master_id: '19648'
     singer_name: 楠 大典
@@ -243,6 +226,23 @@ result:
     singer_name_ruby: くすのきまさのり
     song_variation:
     - esong_code: 1811B16
+      song_name: 蜃気楼
+      content_type: ''
+  - song_name: 蜃気楼
+    song_alias:
+    esong_code: 1816A9
+    t_singer_master_id: '6842'
+    singer_name: 長沢 ゆりか
+    singer_alias:
+    available_date: '2007-07-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ライトニングレジェンド〜大悟の大冒険〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんきろう
+    singer_name_ruby: なかさわゆりか
+    song_variation:
+    - esong_code: 1816A9
       song_name: 蜃気楼
       content_type: ''
   - song_name: 新小岩恋唄
@@ -432,23 +432,6 @@ result:
     - esong_code: 1816A37
       song_name: Sweet One Week
       content_type: ''
-  - song_name: 過ぎゆく日々
-    song_alias:
-    esong_code: 1124A21
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2007-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すきゆくひひ
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 1124A21
-      song_name: 過ぎゆく日々
-      content_type: ''
   - song_name: スクランブル
     song_alias:
     esong_code: 1816A46
@@ -483,6 +466,23 @@ result:
     - esong_code: 1816A48
       song_name: スクールファントム
       content_type: ''
+  - song_name: SQUALL
+    song_alias:
+    esong_code: 1805A14
+    t_singer_master_id: '19648'
+    singer_name: 楠 大典
+    singer_alias:
+    available_date: '2007-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: テニスの王子様<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すこる
+    singer_name_ruby: くすのきまさのり
+    song_variation:
+    - esong_code: 1805A14
+      song_name: SQUALL
+      content_type: ''
   - song_name: Squall
     song_alias:
     esong_code: 1754A21
@@ -500,20 +500,20 @@ result:
     - esong_code: 1754A21
       song_name: Squall
       content_type: ''
-  - song_name: SQUALL
+  - song_name: Suicide View
     song_alias:
-    esong_code: 1805A14
-    t_singer_master_id: '19648'
-    singer_name: 楠 大典
+    esong_code: 1803B27
+    t_singer_master_id: '23697'
+    singer_name: キリト
     singer_alias:
     available_date: '2007-07-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テニスの王子様<番組名>
+    tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: すこる
-    singer_name_ruby: くすのきまさのり
+    song_name_ruby: すさいとひゆ
+    singer_name_ruby: きりと
     song_variation:
-    - esong_code: 1805A14
-      song_name: SQUALL
+    - esong_code: 1803B27
+      song_name: Suicide View
       content_type: ''

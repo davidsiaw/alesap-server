@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
-  - song_name: 千年逃亡
-    song_alias:
-    esong_code: 3467B8
-    t_singer_master_id: '174'
-    singer_name: 石川 さゆり(SAYURI)
-    singer_alias:
-    available_date: '2015-07-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せんねんとうほう
-    singer_name_ruby: いしかわさゆり
-    song_variation:
-    - esong_code: 3467B8
-      song_name: 千年逃亡
-      content_type: ''
   - song_name: 千波湖の夜
     song_alias:
     esong_code: 3472B11
@@ -168,7 +151,7 @@ result:
     singer_alias:
     available_date: '2015-07-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ Operation Victory Arrow<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: そうるふれんす
@@ -474,7 +457,7 @@ result:
     singer_alias:
     available_date: '2015-07-02'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PROJECT ARMS The 2nd Chapter<番組名>
+    tie_up: PROJECT ARMS<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たいむれすすりふ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3468A20
       song_name: 太陽ノック
+      content_type: ''
+  - song_name: タイランド
+    song_alias:
+    esong_code: 495A12
+    t_singer_master_id: '36403'
+    singer_name: 宮川 みゆき
+    singer_alias:
+    available_date: '2015-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいらんと
+    singer_name_ruby: みやかわみゆき
+    song_variation:
+    - esong_code: 495A12
+      song_name: タイランド
       content_type: ''

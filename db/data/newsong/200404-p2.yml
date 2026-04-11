@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 592
-  all_max_cnt: 727
-  all_country_cnt: 592
+  max_cnt: 588
+  all_max_cnt: 723
+  all_country_cnt: 588
   song:
-  - song_name: UAベストメドレー
-    song_alias:
-    esong_code: 410A7
-    t_singer_master_id: '7037'
-    singer_name: UA(ううあ)
-    singer_alias:
-    available_date: '2004-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うあへすとめと
-    singer_name_ruby: うあ
-    song_variation:
-    - esong_code: 410A7
-      song_name: UAベストメドレー
-      content_type: ''
   - song_name: Winter、again
     song_alias:
     esong_code: 403A4
@@ -485,23 +468,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: 贈る言葉
     song_alias:
-    esong_code: 378B5
-    t_singer_master_id: '14522'
-    singer_name: 上戸 彩
-    singer_alias:
-    available_date: '2004-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おくることは
-    singer_name_ruby: うえとあや
-    song_variation:
-    - esong_code: 378B5
-      song_name: 贈る言葉
-      content_type: ''
-  - song_name: 贈る言葉
-    song_alias:
     esong_code: 403A1
     t_singer_master_id: '485'
     singer_name: 海援隊
@@ -517,3 +483,37 @@ result:
     - esong_code: 403A1
       song_name: 贈る言葉
       content_type: JOY SHOW劇
+  - song_name: 贈る言葉
+    song_alias:
+    esong_code: 378B5
+    t_singer_master_id: '14522'
+    singer_name: 上戸 彩
+    singer_alias:
+    available_date: '2004-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おくることは
+    singer_name_ruby: うえとあや
+    song_variation:
+    - esong_code: 378B5
+      song_name: 贈る言葉
+      content_type: ''
+  - song_name: オシャナー恋歌
+    song_alias:
+    esong_code: 374A11
+    t_singer_master_id: '549'
+    singer_name: 金沢 明子
+    singer_alias:
+    available_date: '2004-04-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おしやなこいうた
+    singer_name_ruby: かなさわあきこ
+    song_variation:
+    - esong_code: 374A11
+      song_name: オシャナー恋歌
+      content_type: ''

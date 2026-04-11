@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 911
-  all_max_cnt: 1051
-  all_country_cnt: 911
+  max_cnt: 909
+  all_max_cnt: 1049
+  all_country_cnt: 909
   song:
-  - song_name: All or Nothing
-    song_alias:
-    esong_code: 2543A47
-    t_singer_master_id: '39931'
-    singer_name: 躍動ZINGI
-    singer_alias:
-    available_date: '2010-05-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おるおあなつしんく
-    singer_name_ruby: やくとうしんき
-    song_variation:
-    - esong_code: 2543A47
-      song_name: All or Nothing
-      content_type: ''
   - song_name: Alright! ハートキャッチプリキュア!
     song_alias:
     esong_code: 2554B2
@@ -43,23 +26,6 @@ result:
       content_type: JOYうたいり
   - song_name: オレンジ
     song_alias:
-    esong_code: 2538A37
-    t_singer_master_id: '141'
-    singer_name: 安全地帯
-    singer_alias:
-    available_date: '2010-05-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: おれんし
-    singer_name_ruby: あんせんちたい
-    song_variation:
-    - esong_code: 2538A37
-      song_name: オレンジ
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: オレンジ
-    song_alias:
     esong_code: 2529B15
     t_singer_master_id: '141'
     singer_name: 安全地帯
@@ -75,6 +41,23 @@ result:
     - esong_code: 2529B15
       song_name: オレンジ
       content_type: ''
+  - song_name: オレンジ
+    song_alias:
+    esong_code: 2538A37
+    t_singer_master_id: '141'
+    singer_name: 安全地帯
+    singer_alias:
+    available_date: '2010-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: おれんし
+    singer_name_ruby: あんせんちたい
+    song_variation:
+    - esong_code: 2538A37
+      song_name: オレンジ
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 温度 feat.初音ミク
     song_alias:
     esong_code: 2539A23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2539B35
       song_name: カボチャプリンのうた
+      content_type: ''
+  - song_name: 神様のいうとおり
+    song_alias:
+    esong_code: 2542B4
+    t_singer_master_id: '39916'
+    singer_name: いしわたり 淳治&砂原 良徳+やくしまる えつこ
+    singer_alias:
+    available_date: '2010-05-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 四畳半神話大系<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かみさまのいうとおり
+    singer_name_ruby: いしわたりしゆんしすなはら
+    song_variation:
+    - esong_code: 2542B4
+      song_name: 神様のいうとおり
       content_type: ''

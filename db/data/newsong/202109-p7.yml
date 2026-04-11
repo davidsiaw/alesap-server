@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 888
-  all_max_cnt: 934
-  all_country_cnt: 888
+  max_cnt: 881
+  all_max_cnt: 927
+  all_country_cnt: 881
   song:
   - song_name: 君に叱られた
     song_alias:
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: 銀のロザリオ
     song_alias:
-    esong_code: 4548B9
-    t_singer_master_id: '48286'
-    singer_name: チョン・テフ
-    singer_alias:
-    available_date: '2021-09-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんのろさりお
-    singer_name_ruby: ちよんてふ
-    song_variation:
-    - esong_code: 4548B9
-      song_name: 銀のロザリオ
-      content_type: ''
-  - song_name: 銀のロザリオ
-    song_alias:
     esong_code: 4547A44
     t_singer_master_id: '48286'
     singer_name: チョン・テフ
@@ -500,6 +483,23 @@ result:
     - esong_code: 4547A44
       song_name: 銀のロザリオ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 銀のロザリオ
+    song_alias:
+    esong_code: 4548B9
+    t_singer_master_id: '48286'
+    singer_name: チョン・テフ
+    singer_alias:
+    available_date: '2021-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きんのろさりお
+    singer_name_ruby: ちよんてふ
+    song_variation:
+    - esong_code: 4548B9
+      song_name: 銀のロザリオ
+      content_type: ''
   - song_name: 金目鯛の煮つけ
     song_alias:
     esong_code: 4546A27

@@ -3,10 +3,78 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: 虹を抱きしめて
+    song_alias:
+    esong_code: 3048A45
+    t_singer_master_id: '42222'
+    singer_name: 友貴 一彰
+    singer_alias:
+    available_date: '2013-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にしをたきしめて
+    singer_name_ruby: ゆうきかすあき
+    song_variation:
+    - esong_code: 3048A45
+      song_name: 虹を抱きしめて
+      content_type: ''
+  - song_name: 日産自動車九州株式会社 社歌「いま 九州から」
+    song_alias:
+    esong_code: 3033B35
+    t_singer_master_id: '47805'
+    singer_name: 日産自動車九州株式会社
+    singer_alias:
+    available_date: '2013-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: につさんしとうし
+    singer_name_ruby: につさんしとうしやきゆうしゆうかふ
+    song_variation:
+    - esong_code: 3033B35
+      song_name: 日産自動車九州株式会社 社歌「いま 九州から」
+      content_type: ''
+  - song_name: 日本の祭り唄
+    song_alias:
+    esong_code: 2696A21
+    t_singer_master_id: '42791'
+    singer_name: 門口 公将
+    singer_alias:
+    available_date: '2013-05-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にほんのまつりうた
+    singer_name_ruby: かとくちきみすけ
+    song_variation:
+    - esong_code: 2696A21
+      song_name: 日本の祭り唄
+      content_type: ''
+  - song_name: ニャーミー
+    song_alias:
+    esong_code: 3052A28
+    t_singer_master_id: '17452'
+    singer_name: 中井 和哉
+    singer_alias:
+    available_date: '2013-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: イクシオンサーガ DT<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: にやみ
+    singer_name_ruby: なかいかすや
+    song_variation:
+    - esong_code: 3052A28
+      song_name: ニャーミー
+      content_type: ''
   - song_name: ニューシネマパラダイス
     song_alias:
     esong_code: 3047B34
@@ -338,7 +406,7 @@ result:
     singer_alias:
     available_date: '2013-05-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 美少女アニメ くりぃむレモン<番組名>
+    tie_up: くりいむレモン レモンエンジェル<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: のつくはいらない
@@ -415,23 +483,6 @@ result:
     - esong_code: 3033A26
       song_name: ノーモア・ノーマル
       content_type: ''
-  - song_name: nonstop
-    song_alias:
-    esong_code: 3033B47
-    t_singer_master_id: '37709'
-    singer_name: 岡本 信彦
-    singer_alias:
-    available_date: '2013-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のんすとつふ
-    singer_name_ruby: おかもとのふひこ
-    song_variation:
-    - esong_code: 3033B47
-      song_name: nonstop
-      content_type: ''
   - song_name: 拝啓、絶望殿
     song_alias:
     esong_code: 3047B42
@@ -465,55 +516,4 @@ result:
     song_variation:
     - esong_code: 3049B24
       song_name: High school days 〜Phase of Priestess.
-      content_type: ''
-  - song_name: 背徳の蕾
-    song_alias:
-    esong_code: 3049B19
-    t_singer_master_id: '47958'
-    singer_name: イオシス/Dummy
-    singer_alias:
-    available_date: '2013-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方紅魔郷 〜the Embodiment of Scarlet Devil<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: はいとくのつほみ
-    singer_name_ruby: いおしすたみ
-    song_variation:
-    - esong_code: 3049B19
-      song_name: 背徳の蕾
-      content_type: 東方
-  - song_name: バイトファイター
-    song_alias:
-    esong_code: 3031A26
-    t_singer_master_id: '45859'
-    singer_name: バクステ外神田一丁目
-    singer_alias:
-    available_date: '2013-05-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はいとふあいた
-    singer_name_ruby: はくすてそとかんたいつちよめ
-    song_variation:
-    - esong_code: 3031A26
-      song_name: バイトファイター
-      content_type: ''
-  - song_name: High Flying
-    song_alias:
-    esong_code: 3052A19
-    t_singer_master_id: '37078'
-    singer_name: JASMINE
-    singer_alias:
-    available_date: '2013-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はいふらいんく
-    singer_name_ruby: しやすみん
-    song_variation:
-    - esong_code: 3052A19
-      song_name: High Flying
       content_type: ''

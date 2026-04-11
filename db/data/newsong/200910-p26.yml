@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: Fighter feat.SPOCK
-    song_alias:
-    esong_code: 2208A35
-    t_singer_master_id: '32807'
-    singer_name: 白石 乃梨(白石桔梗)
-    singer_alias:
-    available_date: '2009-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふあいた
-    singer_name_ruby: しらいしのり
-    song_variation:
-    - esong_code: 2208A35
-      song_name: Fighter feat.SPOCK
-      content_type: ''
   - song_name: FINAL CALL
     song_alias:
     esong_code: 2385A31
@@ -517,3 +500,20 @@ result:
     - esong_code: 2430B28
       song_name: pradera feat.初音ミク
       content_type: VOCALOID
+  - song_name: BLACK EYES SHE HAD
+    song_alias:
+    esong_code: 2401B20
+    t_singer_master_id: '2855'
+    singer_name: GLAY
+    singer_alias:
+    available_date: '2009-10-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらつくあいすし
+    singer_name_ruby: くれい
+    song_variation:
+    - esong_code: 2401B20
+      song_name: BLACK EYES SHE HAD
+      content_type: ''

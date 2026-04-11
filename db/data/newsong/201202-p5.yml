@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: INDEPENDENT WOMAN
-    song_alias:
-    esong_code: 2750B12
-    t_singer_master_id: '12467'
-    singer_name: AI
-    singer_alias:
-    available_date: '2012-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いんていへんて
-    singer_name_ruby: あい
-    song_variation:
-    - esong_code: 2750B12
-      song_name: INDEPENDENT WOMAN
-      content_type: ''
   - song_name: インビジブル faet.GUMI・鏡音リン
     song_alias:
     esong_code: 2766A45
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2033A34
       song_name: H.A.G.E
+      content_type: ''
+  - song_name: HMVヒットメドレー 〜2011年12月ランキング〜
+    song_alias:
+    esong_code: 2759B47
+    t_singer_master_id: '12695'
+    singer_name: HMVメドレー
+    singer_alias:
+    available_date: '2012-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいちえむふ1112
+    singer_name_ruby: えいちえむふいめと
+    song_variation:
+    - esong_code: 2759B47
+      song_name: HMVヒットメドレー 〜2011年12月ランキング〜
       content_type: ''

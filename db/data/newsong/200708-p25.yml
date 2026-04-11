@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1046
-  all_max_cnt: 1110
-  all_country_cnt: 1046
+  max_cnt: 1043
+  all_max_cnt: 1107
+  all_country_cnt: 1043
   song:
-  - song_name: ピンク
-    song_alias:
-    esong_code: 1853A33
-    t_singer_master_id: '14233'
-    singer_name: NANANINE
-    singer_alias:
-    available_date: '2007-08-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひんく
-    singer_name_ruby: ななないん
-    song_variation:
-    - esong_code: 1853A33
-      song_name: ピンク
-      content_type: ''
-  - song_name: Fight Music
-    song_alias:
-    esong_code: 1858B46
-    t_singer_master_id: '13139'
-    singer_name: RYO the SKYWALKER
-    singer_alias:
-    available_date: '2007-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふあいとみゆしつ
-    singer_name_ruby: りようさすかいうおか
-    song_variation:
-    - esong_code: 1858B46
-      song_name: Fight Music
-      content_type: ''
   - song_name: Family
     song_alias:
     esong_code: 1850A49
@@ -313,23 +279,6 @@ result:
     - esong_code: 1857B44
       song_name: Furious
       content_type: ''
-  - song_name: Fly away
-    song_alias:
-    esong_code: 1820B14
-    t_singer_master_id: '23029'
-    singer_name: 谷山 紀章
-    singer_alias:
-    available_date: '2007-08-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらいあうえい
-    singer_name_ruby: たにやまきしよう
-    song_variation:
-    - esong_code: 1820B14
-      song_name: Fly away
-      content_type: ''
   - song_name: Fly Away
     song_alias:
     esong_code: 1855A28
@@ -347,6 +296,23 @@ result:
     - esong_code: 1855A28
       song_name: Fly Away
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: Fly away
+    song_alias:
+    esong_code: 1820B14
+    t_singer_master_id: '23029'
+    singer_name: 谷山 紀章
+    singer_alias:
+    available_date: '2007-08-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらいあうえい
+    singer_name_ruby: たにやまきしよう
+    song_variation:
+    - esong_code: 1820B14
+      song_name: Fly away
+      content_type: ''
   - song_name: PRIDE
     song_alias:
     esong_code: 1851A2
@@ -517,3 +483,37 @@ result:
     - esong_code: 1853B47
       song_name: Brand New Day
       content_type: ''
+  - song_name: Brand-new mind
+    song_alias:
+    esong_code: 1821A7
+    t_singer_master_id: '15174'
+    singer_name: 桃井 はるこ
+    singer_alias:
+    available_date: '2007-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 瀬戸の花嫁<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらんとにゆま
+    singer_name_ruby: ももいはるこ
+    song_variation:
+    - esong_code: 1821A7
+      song_name: Brand-new mind
+      content_type: ''
+  - song_name: FREE
+    song_alias:
+    esong_code: 1855A26
+    t_singer_master_id: '13448'
+    singer_name: ERIKA
+    singer_alias:
+    available_date: '2007-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ふり
+    singer_name_ruby: えりか1
+    song_variation:
+    - esong_code: 1855A26
+      song_name: FREE
+      content_type: DAMｸﾘｯﾌﾟ

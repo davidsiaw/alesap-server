@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1314
-  all_max_cnt: 1472
-  all_country_cnt: 1314
+  max_cnt: 1309
+  all_max_cnt: 1467
+  all_country_cnt: 1309
   song:
-  - song_name: 黄昏のビギン
-    song_alias:
-    esong_code: 3850B42
-    t_singer_master_id: '12068'
-    singer_name: PUSHIM
-    singer_alias:
-    available_date: '2017-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たそかれのひき
-    singer_name_ruby: ふしん
-    song_variation:
-    - esong_code: 3850B42
-      song_name: 黄昏のビギン
-      content_type: ''
-  - song_name: 黄昏のラプソディ
-    song_alias:
-    esong_code: 3841B5
-    t_singer_master_id: '40738'
-    singer_name: ねごと
-    singer_alias:
-    available_date: '2017-07-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たそかれのらふそ
-    singer_name_ruby: ねこと
-    song_variation:
-    - esong_code: 3841B5
-      song_name: 黄昏のラプソディ
-      content_type: ''
-  - song_name: ダダダ
-    song_alias:
-    esong_code: 3849A39
-    t_singer_master_id: '59342'
-    singer_name: 伊藤 くみ子
-    singer_alias:
-    available_date: '2017-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たたた
-    singer_name_ruby: いとうくみこ
-    song_variation:
-    - esong_code: 3849A39
-      song_name: ダダダ
-      content_type: ''
-  - song_name: DASH
-    song_alias:
-    esong_code: 3847A43
-    t_singer_master_id: '31590'
-    singer_name: Pile
-    singer_alias:
-    available_date: '2017-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たつしゆ
-    singer_name_ruby: はいる
-    song_variation:
-    - esong_code: 3847A43
-      song_name: DASH
-      content_type: ''
   - song_name: タッタカもずやん
     song_alias:
     esong_code: 3837A42
@@ -111,23 +43,6 @@ result:
       content_type: ''
   - song_name: Dirty Disco
     song_alias:
-    esong_code: 3845A31
-    t_singer_master_id: '56417'
-    singer_name: THE RAMPAGE from EXILE TRIBE
-    singer_alias:
-    available_date: '2017-07-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たていていす
-    singer_name_ruby: さらんへいしふろむ
-    song_variation:
-    - esong_code: 3845A31
-      song_name: Dirty Disco
-      content_type: ''
-  - song_name: Dirty Disco
-    song_alias:
     esong_code: 3841A6
     t_singer_master_id: '56417'
     singer_name: THE RAMPAGE from EXILE TRIBE
@@ -143,6 +58,23 @@ result:
     - esong_code: 3841A6
       song_name: Dirty Disco
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: Dirty Disco
+    song_alias:
+    esong_code: 3845A31
+    t_singer_master_id: '56417'
+    singer_name: THE RAMPAGE from EXILE TRIBE
+    singer_alias:
+    available_date: '2017-07-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たていていす
+    singer_name_ruby: さらんへいしふろむ
+    song_variation:
+    - esong_code: 3845A31
+      song_name: Dirty Disco
+      content_type: ''
   - song_name: 狸小路の夜は更けて
     song_alias:
     esong_code: 3842B43
@@ -451,23 +383,6 @@ result:
       content_type: ''
   - song_name: 血、汗、涙 (Japanese ver.)
     song_alias:
-    esong_code: 3846B47
-    t_singer_master_id: '51130'
-    singer_name: BTS
-    singer_alias:
-    available_date: '2017-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ちあせなみた
-    singer_name_ruby: ひていえす
-    song_variation:
-    - esong_code: 3846B47
-      song_name: 血、汗、涙 (Japanese ver.)
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 血、汗、涙 (Japanese ver.)
-    song_alias:
     esong_code: 3843A40
     t_singer_master_id: '51130'
     singer_name: BTS
@@ -483,6 +398,23 @@ result:
     - esong_code: 3843A40
       song_name: 血、汗、涙 (Japanese ver.)
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 血、汗、涙 (Japanese ver.)
+    song_alias:
+    esong_code: 3846B47
+    t_singer_master_id: '51130'
+    singer_name: BTS
+    singer_alias:
+    available_date: '2017-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ちあせなみた
+    singer_name_ruby: ひていえす
+    song_variation:
+    - esong_code: 3846B47
+      song_name: 血、汗、涙 (Japanese ver.)
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: ちいさなひとつぶ
     song_alias:
     esong_code: 3851A13
@@ -517,3 +449,71 @@ result:
     - esong_code: 3843B38
       song_name: チェリー [DAM本人歌唱]
       content_type: DAM本人歌唱
+  - song_name: Cherry Bat
+    song_alias:
+    esong_code: 3848B28
+    t_singer_master_id: '42454'
+    singer_name: Blu-BiLLioN
+    singer_alias:
+    available_date: '2017-07-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちえりはつと
+    singer_name_ruby: ふるひりおん
+    song_variation:
+    - esong_code: 3848B28
+      song_name: Cherry Bat
+      content_type: ''
+  - song_name: 地図のない道
+    song_alias:
+    esong_code: 3715A23
+    t_singer_master_id: '635'
+    singer_name: 北岡 ひろし
+    singer_alias:
+    available_date: '2017-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちすのないみち
+    singer_name_ruby: きたおかひろし
+    song_variation:
+    - esong_code: 3715A23
+      song_name: 地図のない道
+      content_type: ''
+  - song_name: 地図のない道
+    song_alias:
+    esong_code: 3838B10
+    t_singer_master_id: '635'
+    singer_name: 北岡 ひろし
+    singer_alias:
+    available_date: '2017-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ちすのないみち
+    singer_name_ruby: きたおかひろし
+    song_variation:
+    - esong_code: 3838B10
+      song_name: 地図のない道
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 千鳥の舞
+    song_alias:
+    esong_code: 3849B8
+    t_singer_master_id: '495'
+    singer_name: 鏡 五郎
+    singer_alias:
+    available_date: '2017-07-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちとりのまい
+    singer_name_ruby: かかみころう
+    song_variation:
+    - esong_code: 3849B8
+      song_name: 千鳥の舞
+      content_type: ''

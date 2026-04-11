@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
   - song_name: 君はソレイユ
     song_alias:
@@ -109,40 +109,6 @@ result:
     - esong_code: 3565B29
       song_name: 君をのせて (My Boat For You)
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: キミを忘れないよ
-    song_alias:
-    esong_code: 3569A18
-    t_singer_master_id: '50889'
-    singer_name: 大原 櫻子
-    singer_alias:
-    available_date: '2015-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 映画ちびまる子ちゃん イタリアから来た少年<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: きみをわすれないよ
-    singer_name_ruby: おおはらさくらこ
-    song_variation:
-    - esong_code: 3569A18
-      song_name: キミを忘れないよ
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: キミを忘れないよ
-    song_alias:
-    esong_code: 3573A45
-    t_singer_master_id: '50889'
-    singer_name: 大原 櫻子
-    singer_alias:
-    available_date: '2015-12-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 映画ちびまる子ちゃん イタリアから来た少年<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: きみをわすれないよ
-    singer_name_ruby: おおはらさくらこ
-    song_variation:
-    - esong_code: 3573A45
-      song_name: キミを忘れないよ
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: キミを忘れないよ (ムービーver.)
     song_alias:
     esong_code: 3576A3
@@ -151,7 +117,7 @@ result:
     singer_alias:
     available_date: '2015-12-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 映画ちびまる子ちゃん イタリアから来た少年<番組名>
+    tie_up: ちびまる子ちゃん(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きみをわすれないよ
@@ -162,13 +128,47 @@ result:
       content_type: ''
   - song_name: キミを忘れないよ
     song_alias:
+    esong_code: 3573A45
+    t_singer_master_id: '50889'
+    singer_name: 大原 櫻子
+    singer_alias:
+    available_date: '2015-12-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ちびまる子ちゃん(劇場版)<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: きみをわすれないよ
+    singer_name_ruby: おおはらさくらこ
+    song_variation:
+    - esong_code: 3573A45
+      song_name: キミを忘れないよ
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: キミを忘れないよ
+    song_alias:
+    esong_code: 3569A18
+    t_singer_master_id: '50889'
+    singer_name: 大原 櫻子
+    singer_alias:
+    available_date: '2015-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ちびまる子ちゃん(劇場版)<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: きみをわすれないよ
+    singer_name_ruby: おおはらさくらこ
+    song_variation:
+    - esong_code: 3569A18
+      song_name: キミを忘れないよ
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: キミを忘れないよ
+    song_alias:
     esong_code: 3564A38
     t_singer_master_id: '50889'
     singer_name: 大原 櫻子
     singer_alias:
     available_date: '2015-12-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 映画ちびまる子ちゃん イタリアから来た少年<番組名>
+    tie_up: ちびまる子ちゃん(劇場版)<番組名>
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: きみをわすれないよ
@@ -487,7 +487,7 @@ result:
     song_alias:
     esong_code: 3567B6
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2015-12-08'
     end_date: '2999-04-10 00:00:00'

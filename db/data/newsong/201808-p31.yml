@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1198
-  all_max_cnt: 1367
-  all_country_cnt: 1198
+  max_cnt: 1194
+  all_max_cnt: 1363
+  all_country_cnt: 1194
   song:
-  - song_name: prima dynamis
-    song_alias:
-    esong_code: 4039B5
-    t_singer_master_id: '42995'
-    singer_name: 電気式華憐音楽集団
-    singer_alias:
-    available_date: '2018-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 悪偶-天才人形-<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりまてゆなみす
-    singer_name_ruby: てんきしきかれんおんかくしゆうたん
-    song_variation:
-    - esong_code: 4039B5
-      song_name: prima dynamis
-      content_type: ''
-  - song_name: Brilliant Wings
-    song_alias:
-    esong_code: 4051B25
-    t_singer_master_id: '60147'
-    singer_name: Stellamaris
-    singer_alias:
-    available_date: '2018-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Re:ステージ! プリズムステップ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりりあんとういん
-    singer_name_ruby: すてらまりす
-    song_variation:
-    - esong_code: 4051B25
-      song_name: Brilliant Wings
-      content_type: ''
   - song_name: blue n' red
     song_alias:
     esong_code: 4047A6
@@ -130,7 +96,7 @@ result:
     song_alias:
     esong_code: 4051B42
     t_singer_master_id: '59326'
-    singer_name: 坂口 有望
+    singer_name: サカグチ アミ(坂口有望)
     singer_alias:
     available_date: '2018-08-28'
     end_date: '2999-04-10 00:00:00'
@@ -279,23 +245,6 @@ result:
     - esong_code: 4039A41
       song_name: Player
       content_type: ''
-  - song_name: ブレス
-    song_alias:
-    esong_code: 4043B5
-    t_singer_master_id: '10295'
-    singer_name: ポルノグラフィティ
-    singer_alias:
-    available_date: '2018-08-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ポケットモンスター(劇場版)<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ふれす
-    singer_name_ruby: ほるのくらふいてい
-    song_variation:
-    - esong_code: 4043B5
-      song_name: ブレス
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 2020 NIPPON! [パセラオリジナル]
     song_alias:
     esong_code: 4042B14
@@ -364,6 +313,23 @@ result:
     - esong_code: 4044A14
       song_name: フロントメモリー
       content_type: DAM生音
+  - song_name: BOOMBAYAH (2017ver.)[DAM本人歌唱]
+    song_alias:
+    esong_code: 4044A23
+    t_singer_master_id: '59381'
+    singer_name: BLACKPINK
+    singer_alias:
+    available_date: '2018-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: ふんはや
+    singer_name_ruby: ふらつくひんく
+    song_variation:
+    - esong_code: 4044A23
+      song_name: BOOMBAYAH (2017ver.)[DAM本人歌唱]
+      content_type: DAM本人歌唱
   - song_name: VAPORIZE YOURSELF!
     song_alias:
     esong_code: 4055B2
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4049B2
       song_name: 胞子
+      content_type: ''
+  - song_name: 僕たちの花火 (feat.あさぎーにょ)
+    song_alias:
+    esong_code: 4050B26
+    t_singer_master_id: '59740'
+    singer_name: noovy
+    singer_alias:
+    available_date: '2018-08-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくたちのはなひ
+    singer_name_ruby: ぬひ
+    song_variation:
+    - esong_code: 4050B26
+      song_name: 僕たちの花火 (feat.あさぎーにょ)
+      content_type: ''
+  - song_name: 僕らの軌跡 〜WEST.列島縦断〜
+    song_alias:
+    esong_code: 4048A44
+    t_singer_master_id: '50453'
+    singer_name: WEST.
+    singer_alias:
+    available_date: '2018-08-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくらのきせきし
+    singer_name_ruby: うえすと
+    song_variation:
+    - esong_code: 4048A44
+      song_name: 僕らの軌跡 〜WEST.列島縦断〜
       content_type: ''

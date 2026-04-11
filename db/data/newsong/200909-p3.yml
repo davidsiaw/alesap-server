@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 979
-  all_max_cnt: 1090
-  all_country_cnt: 979
+  max_cnt: 968
+  all_max_cnt: 1079
+  all_country_cnt: 968
   song:
   - song_name: 甘く果てしなく
     song_alias:
@@ -75,6 +75,23 @@ result:
     - esong_code: 2384A22
       song_name: 雨上がりに見た幻
       content_type: ''
+  - song_name: Amethyst(アメジスト)
+    song_alias:
+    esong_code: 2393A10
+    t_singer_master_id: '16137'
+    singer_name: mihimaru GT
+    singer_alias:
+    available_date: '2009-09-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: サモンナイト<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめしすと
+    singer_name_ruby: みひまるしてい
+    song_variation:
+    - esong_code: 2393A10
+      song_name: Amethyst(アメジスト)
+      content_type: ''
   - song_name: アメジスト
     song_alias:
     esong_code: 2390A38
@@ -91,23 +108,6 @@ result:
     song_variation:
     - esong_code: 2390A38
       song_name: アメジスト
-      content_type: ''
-  - song_name: Amethyst(アメジスト)
-    song_alias:
-    esong_code: 2393A10
-    t_singer_master_id: '16137'
-    singer_name: mihimaru GT
-    singer_alias:
-    available_date: '2009-09-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: サモンナイトX 〜Tears Crown〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめしすと
-    singer_name_ruby: みひまるしてい
-    song_variation:
-    - esong_code: 2393A10
-      song_name: Amethyst(アメジスト)
       content_type: ''
   - song_name: Alive
     song_alias:
@@ -211,23 +211,6 @@ result:
     - esong_code: 2385A11
       song_name: Alice in the Necrosis
       content_type: ''
-  - song_name: ある愛の行方
-    song_alias:
-    esong_code: 2391A3
-    t_singer_master_id: '37215'
-    singer_name: RINO&DJ YAS
-    singer_alias:
-    available_date: '2009-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あるあいのゆくえ
-    singer_name_ruby: りのていしえやす
-    song_variation:
-    - esong_code: 2391A3
-      song_name: ある愛の行方
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: アルバム
     song_alias:
     esong_code: 2393A15
@@ -346,23 +329,6 @@ result:
     song_variation:
     - esong_code: 2384B13
       song_name: Unlimited World
-      content_type: ''
-  - song_name: アン・ロック
-    song_alias:
-    esong_code: 2385B9
-    t_singer_master_id: '16137'
-    singer_name: mihimaru GT
-    singer_alias:
-    available_date: '2009-09-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんろつく
-    singer_name_ruby: みひまるしてい
-    song_variation:
-    - esong_code: 2385B9
-      song_name: アン・ロック
       content_type: ''
   - song_name: いい男
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 2399B22
       song_name: 伊根の舟屋
       content_type: ''
+  - song_name: 命舞い
+    song_alias:
+    esong_code: 2397A1
+    t_singer_master_id: '1354'
+    singer_name: 多岐川 舞子
+    singer_alias:
+    available_date: '2009-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのちまい
+    singer_name_ruby: たきかわまいこ
+    song_variation:
+    - esong_code: 2397A1
+      song_name: 命舞い
+      content_type: ''
+  - song_name: Eve feat.初音ミク
+    song_alias:
+    esong_code: 2384B32
+    t_singer_master_id: '36779'
+    singer_name: ジミーサムP
+    singer_alias:
+    available_date: '2009-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: いふ
+    singer_name_ruby: しみさむひ
+    song_variation:
+    - esong_code: 2384B32
+      song_name: Eve feat.初音ミク
+      content_type: VOCALOID

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1098
-  all_max_cnt: 1213
-  all_country_cnt: 1098
+  max_cnt: 1168
+  all_max_cnt: 1331
+  all_country_cnt: 1168
   song:
   - song_name: あぁ 三島村
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 4535B20
       song_name: 愛してルンバ
       content_type: ''
-  - song_name: 哀愁の旅路
-    song_alias:
-    esong_code: 4482B18
-    t_singer_master_id: '7510'
-    singer_name: 岩出 和也
-    singer_alias:
-    available_date: '2024-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいしゆうのたひし
-    singer_name_ruby: いわてかすや
-    song_variation:
-    - esong_code: 4482B18
-      song_name: 哀愁の旅路
-      content_type: ''
   - song_name: ICE feat.REIKO
     song_alias:
     esong_code: 4953B13
@@ -210,6 +193,23 @@ result:
     song_variation:
     - esong_code: 4947A32
       song_name: 会津の風
+      content_type: ''
+  - song_name: アイドルでよかった。
+    song_alias:
+    esong_code: 4954B38
+    t_singer_master_id: '70303'
+    singer_name: 可憐なアイボリー
+    singer_alias:
+    available_date: '2024-03-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいとるてよかつ
+    singer_name_ruby: かれんなあいほり
+    song_variation:
+    - esong_code: 4954B38
+      song_name: アイドルでよかった。
       content_type: ''
   - song_name: アイドンケア
     song_alias:

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 320
-  all_max_cnt: 344
-  all_country_cnt: 320
+  max_cnt: 319
+  all_max_cnt: 343
+  all_country_cnt: 319
   song:
-  - song_name: 12月
-    song_alias:
-    esong_code: 483A38
-    t_singer_master_id: '7030'
-    singer_name: PUFFY(PUFFY AMIYUMI)
-    singer_alias:
-    available_date: '2000-11-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆうにかつ
-    singer_name_ruby: はふい
-    song_variation:
-    - esong_code: 483A38
-      song_name: 12月
-      content_type: ''
   - song_name: 16歳
     song_alias:
     esong_code: 467A27
@@ -143,23 +126,6 @@ result:
     - esong_code: 484B36
       song_name: Sinkable
       content_type: ''
-  - song_name: スーイスーイ
-    song_alias:
-    esong_code: 486B25
-    t_singer_master_id: '7030'
-    singer_name: PUFFY(PUFFY AMIYUMI)
-    singer_alias:
-    available_date: '2000-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すいすい
-    singer_name_ruby: はふい
-    song_variation:
-    - esong_code: 486B25
-      song_name: スーイスーイ
-      content_type: ''
   - song_name: スイスイ
     song_alias:
     esong_code: 483A39
@@ -176,6 +142,23 @@ result:
     song_variation:
     - esong_code: 483A39
       song_name: スイスイ
+      content_type: ''
+  - song_name: スーイスーイ
+    song_alias:
+    esong_code: 486B25
+    t_singer_master_id: '7030'
+    singer_name: PUFFY(PUFFY AMIYUMI)
+    singer_alias:
+    available_date: '2000-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すいすい
+    singer_name_ruby: はふい
+    song_variation:
+    - esong_code: 486B25
+      song_name: スーイスーイ
       content_type: ''
   - song_name: scratch69
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 482B39
       song_name: 体温
+      content_type: ''
+  - song_name: だいすき
+    song_alias:
+    esong_code: 467A21
+    t_singer_master_id: '8751'
+    singer_name: Hysteric Blue
+    singer_alias:
+    available_date: '2000-11-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいすき
+    singer_name_ruby: ひすてりつくふる
+    song_variation:
+    - esong_code: 467A21
+      song_name: だいすき
       content_type: ''

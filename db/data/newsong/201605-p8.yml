@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1527
-  all_country_cnt: 1321
+  max_cnt: 1310
+  all_max_cnt: 1516
+  all_country_cnt: 1310
   song:
-  - song_name: 折れたルージュ
-    song_alias:
-    esong_code: 1557B7
-    t_singer_master_id: '13055'
-    singer_name: 織田 みさ穂
-    singer_alias:
-    available_date: '2016-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれたるしゆ
-    singer_name_ruby: おたみさほ
-    song_variation:
-    - esong_code: 1557B7
-      song_name: 折れたルージュ
-      content_type: ''
-  - song_name: 俺とおまえ
-    song_alias:
-    esong_code: 2082B26
-    t_singer_master_id: '55997'
-    singer_name: 分福 タロー
-    singer_alias:
-    available_date: '2016-05-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれとおまえ
-    singer_name_ruby: ふんふくたろ
-    song_variation:
-    - esong_code: 2082B26
-      song_name: 俺とおまえ
-      content_type: ''
   - song_name: 俺の港
     song_alias:
     esong_code: 1559A16
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1557A38
       song_name: 風だより (デュエット編)
+      content_type: ''
+  - song_name: 風と踊る
+    song_alias:
+    esong_code: 1987B45
+    t_singer_master_id: '180'
+    singer_name: 石川 セリ
+    singer_alias:
+    available_date: '2016-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせとおとる
+    singer_name_ruby: いしかわせり
+    song_variation:
+    - esong_code: 1987B45
+      song_name: 風と踊る
+      content_type: ''
+  - song_name: 風のあたる場所
+    song_alias:
+    esong_code: 2086B29
+    t_singer_master_id: '1400'
+    singer_name: 谷山 浩子
+    singer_alias:
+    available_date: '2016-05-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせのあたるはし
+    singer_name_ruby: たにやまひろこ
+    song_variation:
+    - esong_code: 2086B29
+      song_name: 風のあたる場所
       content_type: ''

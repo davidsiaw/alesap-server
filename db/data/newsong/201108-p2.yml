@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
   - song_name: あっというまっ!
     song_alias:
@@ -202,7 +202,7 @@ result:
     singer_alias:
     available_date: '2011-08-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ3<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あふさんと
@@ -449,23 +449,6 @@ result:
     - esong_code: 2654B37
       song_name: アリアドネの糸
       content_type: ''
-  - song_name: ありがとう
-    song_alias:
-    esong_code: 2649A21
-    t_singer_master_id: '24328'
-    singer_name: JAMOSA
-    singer_alias:
-    available_date: '2011-08-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: しやもさ
-    song_variation:
-    - esong_code: 2649A21
-      song_name: ありがとう
-      content_type: ''
   - song_name: "「ありがとう」"
     song_alias:
     esong_code: 2289A15
@@ -482,6 +465,23 @@ result:
     song_variation:
     - esong_code: 2289A15
       song_name: "「ありがとう」"
+      content_type: ''
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 2649A21
+    t_singer_master_id: '24328'
+    singer_name: JAMOSA
+    singer_alias:
+    available_date: '2011-08-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: しやもさ
+    song_variation:
+    - esong_code: 2649A21
+      song_name: ありがとう
       content_type: ''
   - song_name: ありがとう・・・大地
     song_alias:

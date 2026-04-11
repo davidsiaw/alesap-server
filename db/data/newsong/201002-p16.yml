@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: 雪月花 (unveil Ver.)
-    song_alias:
-    esong_code: 2482A2
-    t_singer_master_id: '33037'
-    singer_name: Asriel
-    singer_alias:
-    available_date: '2010-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せつけつか
-    singer_name_ruby: あすりえる
-    song_variation:
-    - esong_code: 2482A2
-      song_name: 雪月花 (unveil Ver.)
-      content_type: ''
   - song_name: 絶体絶命
     song_alias:
     esong_code: 2480B23
@@ -499,6 +482,23 @@ result:
     song_variation:
     - esong_code: 2480A3
       song_name: たとえ明日が来なくても
+      content_type: ''
+  - song_name: たびがらす
+    song_alias:
+    esong_code: 2460B44
+    t_singer_master_id: '25641'
+    singer_name: 柏木 タカシ
+    singer_alias:
+    available_date: '2010-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たひからす
+    singer_name_ruby: かしわきたかし
+    song_variation:
+    - esong_code: 2460B44
+      song_name: たびがらす
       content_type: ''
   - song_name: 旅立ち
     song_alias:

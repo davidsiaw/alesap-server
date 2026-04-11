@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 564
-  all_max_cnt: 620
-  all_country_cnt: 564
+  max_cnt: 562
+  all_max_cnt: 618
+  all_country_cnt: 562
   song:
   - song_name: 愛あらば IT'S ALL RIGHT <GAL文字Version>
     song_alias:
@@ -109,23 +109,6 @@ result:
     - esong_code: 993A19
       song_name: 哀愁交差点
       content_type: ''
-  - song_name: 逢いたい
-    song_alias:
-    esong_code: 983A25
-    t_singer_master_id: '466'
-    singer_name: オフコース
-    singer_alias:
-    available_date: '2004-01-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいたい
-    singer_name_ruby: おふこす
-    song_variation:
-    - esong_code: 983A25
-      song_name: 逢いたい
-      content_type: ''
   - song_name: 会いたい
     song_alias:
     esong_code: 984B7
@@ -142,6 +125,23 @@ result:
     song_variation:
     - esong_code: 984B7
       song_name: 会いたい
+      content_type: ''
+  - song_name: 逢いたい
+    song_alias:
+    esong_code: 983A25
+    t_singer_master_id: '466'
+    singer_name: オフコース
+    singer_alias:
+    available_date: '2004-01-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいたい
+    singer_name_ruby: おふこす
+    song_variation:
+    - esong_code: 983A25
+      song_name: 逢いたい
       content_type: ''
   - song_name: 会いたくて
     song_alias:
@@ -185,7 +185,7 @@ result:
     singer_alias:
     available_date: '2004-01-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・エターニア THE ANIMATION<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: あいとらふゆと
@@ -287,7 +287,7 @@ result:
     singer_alias:
     available_date: '2004-01-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面の忍者 赤影 (実写版)<番組名>
+    tie_up: 仮面の忍者 赤影 (特撮)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あかかけのうた
@@ -366,23 +366,6 @@ result:
       content_type: ''
   - song_name: As Good As
     song_alias:
-    esong_code: 968B26
-    t_singer_master_id: '6365'
-    singer_name: 安室 奈美恵
-    singer_alias:
-    available_date: '2004-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: あすくつとあす
-    singer_name_ruby: あむろなみえ
-    song_variation:
-    - esong_code: 968B26
-      song_name: As Good As
-      content_type: DAM良音
-  - song_name: As Good As
-    song_alias:
     esong_code: 890B19
     t_singer_master_id: '6365'
     singer_name: 安室 奈美恵
@@ -398,6 +381,23 @@ result:
     - esong_code: 890B19
       song_name: As Good As
       content_type: ''
+  - song_name: As Good As
+    song_alias:
+    esong_code: 968B26
+    t_singer_master_id: '6365'
+    singer_name: 安室 奈美恵
+    singer_alias:
+    available_date: '2004-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: あすくつとあす
+    singer_name_ruby: あむろなみえ
+    song_variation:
+    - esong_code: 968B26
+      song_name: As Good As
+      content_type: DAM良音
   - song_name: AS FOR ONE DAY <GAL文字Version>
     song_alias:
     esong_code: 406B26

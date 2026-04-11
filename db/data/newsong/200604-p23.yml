@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: no pain no gain
-    song_alias:
-    esong_code: 1512B20
-    t_singer_master_id: '12261'
-    singer_name: 西端 さおり
-    singer_alias:
-    available_date: '2006-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のへいんのけ
-    singer_name_ruby: にしはたさおり
-    song_variation:
-    - esong_code: 1512B20
-      song_name: no pain no gain
-      content_type: ''
   - song_name: Novel 〜愛とはつまり〜
     song_alias:
     esong_code: 1481B2
@@ -415,23 +398,6 @@ result:
     - esong_code: 1514B49
       song_name: Passion
       content_type: ''
-  - song_name: Happy Birthday To You
-    song_alias:
-    esong_code: 1492B1
-    t_singer_master_id: '14309'
-    singer_name: より子(より子。)
-    singer_alias:
-    available_date: '2006-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はつひはすて
-    singer_name_ruby: よりこ
-    song_variation:
-    - esong_code: 1492B1
-      song_name: Happy Birthday To You
-      content_type: ''
   - song_name: Happy Birthday
     song_alias:
     esong_code: 1479B43
@@ -448,6 +414,23 @@ result:
     song_variation:
     - esong_code: 1479B43
       song_name: Happy Birthday
+      content_type: ''
+  - song_name: Happy Birthday To You
+    song_alias:
+    esong_code: 1492B1
+    t_singer_master_id: '14309'
+    singer_name: より子(より子。)
+    singer_alias:
+    available_date: '2006-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつひはすて
+    singer_name_ruby: よりこ
+    song_variation:
+    - esong_code: 1492B1
+      song_name: Happy Birthday To You
       content_type: ''
   - song_name: HAPPY BIVOUZC
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 219B1
       song_name: はと
+      content_type: ''
+  - song_name: HEART IS THERE
+    song_alias:
+    esong_code: 1491B40
+    t_singer_master_id: '6072'
+    singer_name: the pillows
+    singer_alias:
+    available_date: '2006-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はといすせあ
+    singer_name_ruby: さひろうす
+    song_variation:
+    - esong_code: 1491B40
+      song_name: HEART IS THERE
       content_type: ''

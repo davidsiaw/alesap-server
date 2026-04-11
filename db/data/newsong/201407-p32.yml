@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
-  - song_name: 人形と左目 feat.初音ミク
-    song_alias:
-    esong_code: 3287B46
-    t_singer_master_id: '43401'
-    singer_name: デッドボールP
-    singer_alias:
-    available_date: '2014-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: にんきようとひた
-    singer_name_ruby: てつとほるひ
-    song_variation:
-    - esong_code: 3287B46
-      song_name: 人形と左目 feat.初音ミク
-      content_type: VOCALOID
   - song_name: ニンジャマンジャパンのテーマ [オリジナルクリップ]
     song_alias:
     esong_code: 3282A14
@@ -34,7 +17,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: にんしやまんしや
     singer_name_ruby: にんしやまんしやはん
     song_variation:
@@ -54,7 +37,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: にんしやまんしや
     singer_name_ruby: にんしやまんしやはん
     song_variation:
@@ -319,23 +302,6 @@ result:
     - esong_code: 3283A8
       song_name: 濃尾恋歌
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Nostalgia
-    song_alias:
-    esong_code: 3288A27
-    t_singer_master_id: '50644'
-    singer_name: FIELD OF FOREST
-    singer_alias:
-    available_date: '2014-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のすたるしあ
-    singer_name_ruby: ふいるとおふふおれすと
-    song_variation:
-    - esong_code: 3288A27
-      song_name: Nostalgia
-      content_type: ''
   - song_name: ノスタルジア
     song_alias:
     esong_code: 3278B3
@@ -352,6 +318,23 @@ result:
     song_variation:
     - esong_code: 3278B3
       song_name: ノスタルジア
+      content_type: ''
+  - song_name: Nostalgia
+    song_alias:
+    esong_code: 3288A27
+    t_singer_master_id: '50644'
+    singer_name: FIELD OF FOREST
+    singer_alias:
+    available_date: '2014-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のすたるしあ
+    singer_name_ruby: ふいるとおふふおれすと
+    song_variation:
+    - esong_code: 3288A27
+      song_name: Nostalgia
       content_type: ''
   - song_name: のぞみ
     song_alias:
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3278B1
       song_name: NO MERCY (Original Rap Version)
+      content_type: ''
+  - song_name: 呪縛(のろい)の夜
+    song_alias:
+    esong_code: 3285A48
+    t_singer_master_id: '488'
+    singer_name: 甲斐バンド
+    singer_alias:
+    available_date: '2014-07-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のろいのよる
+    singer_name_ruby: かいはんと
+    song_variation:
+    - esong_code: 3285A48
+      song_name: 呪縛(のろい)の夜
       content_type: ''

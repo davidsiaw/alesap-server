@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1179
-  all_max_cnt: 1291
-  all_country_cnt: 1179
+  max_cnt: 1177
+  all_max_cnt: 1289
+  all_country_cnt: 1177
   song:
   - song_name: Only You☆
     song_alias:
@@ -434,23 +434,6 @@ result:
       content_type: ''
   - song_name: 鎌倉の女
     song_alias:
-    esong_code: 2042B41
-    t_singer_master_id: '1824'
-    singer_name: 原田 悠里
-    singer_alias:
-    available_date: '2008-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かまくらのおんな
-    singer_name_ruby: はらたゆり
-    song_variation:
-    - esong_code: 2042B41
-      song_name: 鎌倉の女
-      content_type: DAM生音
-  - song_name: 鎌倉の女
-    song_alias:
     esong_code: 2037A29
     t_singer_master_id: '1824'
     singer_name: 原田 悠里
@@ -466,6 +449,23 @@ result:
     - esong_code: 2037A29
       song_name: 鎌倉の女
       content_type: ''
+  - song_name: 鎌倉の女
+    song_alias:
+    esong_code: 2042B41
+    t_singer_master_id: '1824'
+    singer_name: 原田 悠里
+    singer_alias:
+    available_date: '2008-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: かまくらのおんな
+    singer_name_ruby: はらたゆり
+    song_variation:
+    - esong_code: 2042B41
+      song_name: 鎌倉の女
+      content_type: DAM生音
   - song_name: KAMABOKO-YANE
     song_alias:
     esong_code: 2041A45

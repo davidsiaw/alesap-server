@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 492
-  all_max_cnt: 537
-  all_country_cnt: 492
+  max_cnt: 491
+  all_max_cnt: 536
+  all_country_cnt: 491
   song:
-  - song_name: My Sweet Hands 〜あの手 この手〜
-    song_alias:
-    esong_code: 162B43
-    t_singer_master_id: '979'
-    singer_name: 沢田 知可子
-    singer_alias:
-    available_date: '2002-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まいすういとはんす
-    singer_name_ruby: さわたちかこ
-    song_variation:
-    - esong_code: 162B43
-      song_name: My Sweet Hands 〜あの手 この手〜
-      content_type: ''
   - song_name: My REVoLUTIoN
     song_alias:
     esong_code: 991A27
@@ -100,7 +83,7 @@ result:
     singer_alias:
     available_date: '2002-12-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: スレイヤーズEX<番組名>
+    tie_up: スレイヤーズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ましめなきつかけ
@@ -389,7 +372,7 @@ result:
     singer_alias:
     available_date: '2002-12-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: とっとこハム太郎 ハムハムハムージャ!幻のプリンセス<番組名>
+    tie_up: とっとこハム太郎(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: みにはむすのけつこ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 988A22
       song_name: MOONLIGHTのせいじゃない
+      content_type: ''
+  - song_name: Make my day
+    song_alias:
+    esong_code: 978A32
+    t_singer_master_id: '10470'
+    singer_name: 倉木 麻衣
+    singer_alias:
+    available_date: '2002-12-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めいくまいてい
+    singer_name_ruby: くらきまい
+    song_variation:
+    - esong_code: 978A32
+      song_name: Make my day
       content_type: ''

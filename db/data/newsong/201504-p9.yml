@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1496
-  all_max_cnt: 1667
-  all_country_cnt: 1496
+  max_cnt: 1487
+  all_max_cnt: 1658
+  all_country_cnt: 1487
   song:
-  - song_name: 隠し湯の宿
-    song_alias:
-    esong_code: 3086B32
-    t_singer_master_id: '47071'
-    singer_name: 蘭 きよこ
-    singer_alias:
-    available_date: '2015-04-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かくしゆのやと
-    singer_name_ruby: らんきよこ
-    song_variation:
-    - esong_code: 3086B32
-      song_name: 隠し湯の宿
-      content_type: ''
   - song_name: 覚醒
     song_alias:
     esong_code: 3422A40
@@ -185,7 +168,7 @@ result:
     singer_alias:
     available_date: '2015-04-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ Operation Victory Arrow<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かせのきすな
@@ -264,23 +247,6 @@ result:
       content_type: ''
   - song_name: かたくりの花
     song_alias:
-    esong_code: 852A27
-    t_singer_master_id: '18770'
-    singer_name: 北山 たけし
-    singer_alias:
-    available_date: '2015-04-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: かたくりのはな
-    singer_name_ruby: きたやまたけし
-    song_variation:
-    - esong_code: 852A27
-      song_name: かたくりの花
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: かたくりの花
-    song_alias:
     esong_code: 852A38
     t_singer_master_id: '18770'
     singer_name: 北山 たけし
@@ -296,6 +262,23 @@ result:
     - esong_code: 852A38
       song_name: かたくりの花
       content_type: DAM生音
+  - song_name: かたくりの花
+    song_alias:
+    esong_code: 852A27
+    t_singer_master_id: '18770'
+    singer_name: 北山 たけし
+    singer_alias:
+    available_date: '2015-04-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: かたくりのはな
+    singer_name_ruby: きたやまたけし
+    song_variation:
+    - esong_code: 852A27
+      song_name: かたくりの花
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 歌奈
     song_alias:
     esong_code: 834B29
@@ -451,23 +434,6 @@ result:
       content_type: ''
   - song_name: 鎌倉恋歌
     song_alias:
-    esong_code: 3279B1
-    t_singer_master_id: '7128'
-    singer_name: 三代 沙也可
-    singer_alias:
-    available_date: '2015-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: かまくらこいうた
-    singer_name_ruby: みしろさやか
-    song_variation:
-    - esong_code: 3279B1
-      song_name: 鎌倉恋歌
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 鎌倉恋歌
-    song_alias:
     esong_code: 852A22
     t_singer_master_id: '7128'
     singer_name: 三代 沙也可
@@ -483,6 +449,23 @@ result:
     - esong_code: 852A22
       song_name: 鎌倉恋歌
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 鎌倉恋歌
+    song_alias:
+    esong_code: 3279B1
+    t_singer_master_id: '7128'
+    singer_name: 三代 沙也可
+    singer_alias:
+    available_date: '2015-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: かまくらこいうた
+    singer_name_ruby: みしろさやか
+    song_variation:
+    - esong_code: 3279B1
+      song_name: 鎌倉恋歌
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 神様の恋人
     song_alias:
     esong_code: 861A3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3415A26
       song_name: かみのやま慕情
+      content_type: ''
+  - song_name: 我武者LIFE
+    song_alias:
+    esong_code: 3415A21
+    t_singer_master_id: '28173'
+    singer_name: "℃-ute"
+    singer_alias:
+    available_date: '2015-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かむしやらいふ
+    singer_name_ruby: きゆと
+    song_variation:
+    - esong_code: 3415A21
+      song_name: 我武者LIFE
       content_type: ''

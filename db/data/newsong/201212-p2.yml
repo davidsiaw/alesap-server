@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1586
-  all_max_cnt: 1734
-  all_country_cnt: 1586
+  max_cnt: 1581
+  all_max_cnt: 1729
+  all_country_cnt: 1581
   song:
   - song_name: ASIA
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 2951A33
       song_name: ASIA
       content_type: ''
-  - song_name: 明日世界が終わるなら (World's End Ver.)
-    song_alias:
-    esong_code: 2946A47
-    t_singer_master_id: '13066'
-    singer_name: 中島 美嘉
-    singer_alias:
-    available_date: '2012-12-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あしたせかいかおわ
-    singer_name_ruby: なかしまみか
-    song_variation:
-    - esong_code: 2946A47
-      song_name: 明日世界が終わるなら (World's End Ver.)
-      content_type: ''
   - song_name: 明日世界が終わるなら
     song_alias:
     esong_code: 2930B18
@@ -58,6 +41,23 @@ result:
     - esong_code: 2930B18
       song_name: 明日世界が終わるなら
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 明日世界が終わるなら (World's End Ver.)
+    song_alias:
+    esong_code: 2946A47
+    t_singer_master_id: '13066'
+    singer_name: 中島 美嘉
+    singer_alias:
+    available_date: '2012-12-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あしたせかいかおわ
+    singer_name_ruby: なかしまみか
+    song_variation:
+    - esong_code: 2946A47
+      song_name: 明日世界が終わるなら (World's End Ver.)
+      content_type: ''
   - song_name: 明日のヒーロー
     song_alias:
     esong_code: 2955B6
@@ -115,7 +115,7 @@ result:
     t_singer_master_id: '10342'
     singer_name: 合唱
     singer_alias:
-    available_date: '2012-12-01'
+    available_date: '2012-12-04'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

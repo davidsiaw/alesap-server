@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
-  - song_name: united rivers
-    song_alias:
-    esong_code: 114A42
-    t_singer_master_id: '12751'
-    singer_name: KICK THE CAN CREW
-    singer_alias:
-    available_date: '2002-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆないていつとりは
-    singer_name_ruby: きつくさかんくる
-    song_variation:
-    - esong_code: 114A42
-      song_name: united rivers
-      content_type: ''
   - song_name: ゆびわ
     song_alias:
     esong_code: 860B37
@@ -491,7 +474,7 @@ result:
     singer_alias:
     available_date: '2002-06-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 新・北斗の拳<番組名>
+    tie_up: 北斗の拳<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: るな
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 859A25
       song_name: Lazy
+      content_type: ''
+  - song_name: Rainy Day
+    song_alias:
+    esong_code: 863A39
+    t_singer_master_id: '12125'
+    singer_name: 森久保 祥太郎
+    singer_alias:
+    available_date: '2002-06-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: れいにてい
+    singer_name_ruby: もりくほしようたろう
+    song_variation:
+    - esong_code: 863A39
+      song_name: Rainy Day
       content_type: ''

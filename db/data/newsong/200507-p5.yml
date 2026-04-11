@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 877
-  all_max_cnt: 974
-  all_country_cnt: 877
+  max_cnt: 871
+  all_max_cnt: 968
+  all_country_cnt: 871
   song:
-  - song_name: 大利根月夜
-    song_alias:
-    esong_code: 1330A36
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2005-07-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおとねつきよ
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 1330A36
-      song_name: 大利根月夜
-      content_type: ''
-  - song_name: Oh!サマー
-    song_alias:
-    esong_code: 756A4
-    t_singer_master_id: '18190'
-    singer_name: NO PLAN
-    singer_alias:
-    available_date: '2005-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おさま
-    singer_name_ruby: のふらん
-    song_variation:
-    - esong_code: 756A4
-      song_name: Oh!サマー
-      content_type: ''
   - song_name: オシャレにkiss me
     song_alias:
     esong_code: 1332B27
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1306B29
       song_name: Alright!!
+      content_type: ''
+  - song_name: 俺達には土曜日しかない
+    song_alias:
+    esong_code: 1306A20
+    t_singer_master_id: '13215'
+    singer_name: 氣志團
+    singer_alias:
+    available_date: '2005-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: おれたちにはとよう
+    singer_name_ruby: きしたん
+    song_variation:
+    - esong_code: 1306A20
+      song_name: 俺達には土曜日しかない
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 俺なんでもいいし
+    song_alias:
+    esong_code: 1304A35
+    t_singer_master_id: '21987'
+    singer_name: マイナスターズ
+    singer_alias:
+    available_date: '2005-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれなんてもいいし
+    singer_name_ruby: まいなすたす
+    song_variation:
+    - esong_code: 1304A35
+      song_name: 俺なんでもいいし
       content_type: ''

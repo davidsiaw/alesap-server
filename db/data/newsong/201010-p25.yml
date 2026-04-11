@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
   - song_name: 涙の壁
     song_alias:
@@ -383,23 +383,6 @@ result:
       content_type: VOCALOID
   - song_name: 願い
     song_alias:
-    esong_code: 2610B46
-    t_singer_master_id: '12895'
-    singer_name: EXILE
-    singer_alias:
-    available_date: '2010-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ねかい
-    singer_name_ruby: えくさいる
-    song_variation:
-    - esong_code: 2610B46
-      song_name: 願い
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 願い
-    song_alias:
     esong_code: 2616B41
     t_singer_master_id: '20364'
     singer_name: SUPER EIGHT
@@ -415,6 +398,23 @@ result:
     - esong_code: 2616B41
       song_name: 願い
       content_type: ''
+  - song_name: 願い
+    song_alias:
+    esong_code: 2610B46
+    t_singer_master_id: '12895'
+    singer_name: EXILE
+    singer_alias:
+    available_date: '2010-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ねかい
+    singer_name_ruby: えくさいる
+    song_variation:
+    - esong_code: 2610B46
+      song_name: 願い
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 願い酒
     song_alias:
     esong_code: 2610A27

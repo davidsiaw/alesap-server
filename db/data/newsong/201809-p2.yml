@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1491
-  all_country_cnt: 1321
+  max_cnt: 1316
+  all_max_cnt: 1486
+  all_country_cnt: 1316
   song:
   - song_name: あなたに出逢えたこと
     song_alias:
@@ -143,23 +143,6 @@ result:
     - esong_code: 4056B42
       song_name: あの日のひまわり
       content_type: ''
-  - song_name: あの日のひまわり
-    song_alias:
-    esong_code: 4067A42
-    t_singer_master_id: '5744'
-    singer_name: 藤原 浩
-    singer_alias:
-    available_date: '2018-09-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あのひのひまわり
-    singer_name_ruby: ふしわらひろし
-    song_variation:
-    - esong_code: 4067A42
-      song_name: あの日のひまわり
-      content_type: DAM生音
   - song_name: あの日のひまわり
     song_alias:
     esong_code: 1111B26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4057A3
       song_name: ありがとう、お袋
+      content_type: ''
+  - song_name: ありがとう・・故郷
+    song_alias:
+    esong_code: 3772B6
+    t_singer_master_id: '435'
+    singer_name: 小倉 新二
+    singer_alias:
+    available_date: '2018-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとうふるさと
+    singer_name_ruby: おくらしんし
+    song_variation:
+    - esong_code: 3772B6
+      song_name: ありがとう・・故郷
       content_type: ''

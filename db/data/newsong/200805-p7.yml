@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 920
-  all_max_cnt: 993
-  all_country_cnt: 920
+  max_cnt: 913
+  all_max_cnt: 986
+  all_country_cnt: 913
   song:
-  - song_name: 神様のパズル
-    song_alias:
-    esong_code: 1994A19
-    t_singer_master_id: '31560'
-    singer_name: ASUKA
-    singer_alias:
-    available_date: '2008-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かみさまのはする
-    singer_name_ruby: あすか
-    song_variation:
-    - esong_code: 1994A19
-      song_name: 神様のパズル
-      content_type: ''
-  - song_name: 神は大切なものを傷つける
-    song_alias:
-    esong_code: 2001A13
-    t_singer_master_id: '12565'
-    singer_name: 子安 武人
-    singer_alias:
-    available_date: '2008-05-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Weiβ Kreuz<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かみはたいせつなもの
-    singer_name_ruby: こやすたけひと
-    song_variation:
-    - esong_code: 2001A13
-      song_name: 神は大切なものを傷つける
-      content_type: ''
   - song_name: カラクリカラフルビジョン
     song_alias:
     esong_code: 1994A15
@@ -262,23 +228,6 @@ result:
     - esong_code: 1994A8
       song_name: Kiss!Kiss!Kiss!
       content_type: ''
-  - song_name: きずな
-    song_alias:
-    esong_code: 1994A5
-    t_singer_master_id: '12458'
-    singer_name: 松浦 亜弥
-    singer_alias:
-    available_date: '2008-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: まつうらあや
-    song_variation:
-    - esong_code: 1994A5
-      song_name: きずな
-      content_type: ''
   - song_name: キズナ
     song_alias:
     esong_code: 1993B6
@@ -296,22 +245,22 @@ result:
     - esong_code: 1993B6
       song_name: キズナ
       content_type: ''
-  - song_name: 絆 -キズナ-
+  - song_name: きずな
     song_alias:
-    esong_code: 1993B35
-    t_singer_master_id: '21398'
-    singer_name: Kra
+    esong_code: 1994A5
+    t_singer_master_id: '12458'
+    singer_name: 松浦 亜弥
     singer_alias:
-    available_date: '2008-05-14'
+    available_date: '2008-05-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 遊戯王 5D's<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: きすな
-    singer_name_ruby: けら
+    singer_name_ruby: まつうらあや
     song_variation:
-    - esong_code: 1993B35
-      song_name: 絆 -キズナ-
+    - esong_code: 1994A5
+      song_name: きずな
       content_type: ''
   - song_name: KI-ZU-NA〜遥かなる者へ
     song_alias:
@@ -329,6 +278,23 @@ result:
     song_variation:
     - esong_code: 2013A9
       song_name: KI-ZU-NA〜遥かなる者へ
+      content_type: ''
+  - song_name: 絆 -キズナ-
+    song_alias:
+    esong_code: 1993B35
+    t_singer_master_id: '21398'
+    singer_name: Kra
+    singer_alias:
+    available_date: '2008-05-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 遊戯王 5D's<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: けら
+    song_variation:
+    - esong_code: 1993B35
+      song_name: 絆 -キズナ-
       content_type: ''
   - song_name: 軌跡
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2009A8
       song_name: Casting Dice
+      content_type: ''
+  - song_name: cavern
+    song_alias:
+    esong_code: 1991B41
+    t_singer_master_id: '31445'
+    singer_name: 久保田 洋司
+    singer_alias:
+    available_date: '2008-05-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやはん
+    singer_name_ruby: くほたようし
+    song_variation:
+    - esong_code: 1991B41
+      song_name: cavern
+      content_type: ''
+  - song_name: Can't Beat Air Man (全英語詞)
+    song_alias:
+    esong_code: 1991B44
+    t_singer_master_id: '31478'
+    singer_name: Team.ねこかん[猫]
+    singer_alias:
+    available_date: '2008-05-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやんとひとえあ
+    singer_name_ruby: ちむねこかん
+    song_variation:
+    - esong_code: 1991B44
+      song_name: Can't Beat Air Man (全英語詞)
       content_type: ''

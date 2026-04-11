@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1493
-  all_max_cnt: 1746
-  all_country_cnt: 1493
+  max_cnt: 1476
+  all_max_cnt: 1729
+  all_country_cnt: 1476
   song:
   - song_name: エリカ feat.GUMI
     song_alias:
@@ -117,7 +117,7 @@ result:
     singer_alias:
     available_date: '2019-10-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダー シティウォーズ<番組名>
+    tie_up: 仮面ライダー(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えんとれすしや
@@ -434,23 +434,6 @@ result:
       content_type: ''
   - song_name: 男の庵
     song_alias:
-    esong_code: 4272A17
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2019-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おとこのいおり
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 4272A17
-      song_name: 男の庵
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 男の庵
-    song_alias:
     esong_code: 4272A46
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -466,6 +449,23 @@ result:
     - esong_code: 4272A46
       song_name: 男の庵
       content_type: ''
+  - song_name: 男の庵
+    song_alias:
+    esong_code: 4272A17
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2019-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おとこのいおり
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 4272A17
+      song_name: 男の庵
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 男の峠
     song_alias:
     esong_code: 4275B12

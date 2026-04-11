@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1252
-  all_max_cnt: 1433
-  all_country_cnt: 1252
+  max_cnt: 1245
+  all_max_cnt: 1426
+  all_country_cnt: 1245
   song:
-  - song_name: Castrato
-    song_alias:
-    esong_code: 3856A34
-    t_singer_master_id: '48764'
-    singer_name: KAMIJO
-    singer_alias:
-    available_date: '2017-08-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かすとらと
-    singer_name_ruby: かみしよう
-    song_variation:
-    - esong_code: 3856A34
-      song_name: Castrato
-      content_type: ''
-  - song_name: カーストルーム
-    song_alias:
-    esong_code: 3855A15
-    t_singer_master_id: '46146'
-    singer_name: ZAQ
-    singer_alias:
-    available_date: '2017-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ようこそ実力至上主義の教室へ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かすとるむ
-    singer_name_ruby: さつく
-    song_variation:
-    - esong_code: 3855A15
-      song_name: カーストルーム
-      content_type: ''
-  - song_name: 風のステーション
-    song_alias:
-    esong_code: 3866B7
-    t_singer_master_id: '26150'
-    singer_name: 高森 有紀
-    singer_alias:
-    available_date: '2017-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせのすてしよん
-    singer_name_ruby: たかもりゆき
-    song_variation:
-    - esong_code: 3866B7
-      song_name: 風のステーション
-      content_type: ''
-  - song_name: 数える
-    song_alias:
-    esong_code: 3857A2
-    t_singer_master_id: '44878'
-    singer_name: 日食 なつこ
-    singer_alias:
-    available_date: '2017-08-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かそえる
-    singer_name_ruby: につしよくなつこ
-    song_variation:
-    - esong_code: 3857A2
-      song_name: 数える
-      content_type: ''
   - song_name: カトレア
     song_alias:
     esong_code: 3857B12
@@ -92,57 +24,6 @@ result:
     - esong_code: 3857B12
       song_name: カトレア
       content_type: ''
-  - song_name: 哀しみの終着駅
-    song_alias:
-    esong_code: 3857A45
-    t_singer_master_id: '2419'
-    singer_name: 森 昌子
-    singer_alias:
-    available_date: '2017-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしみのしゆうちや
-    singer_name_ruby: もりまさこ
-    song_variation:
-    - esong_code: 3857A45
-      song_name: 哀しみの終着駅
-      content_type: ''
-  - song_name: 哀しみの終着駅
-    song_alias:
-    esong_code: 3859A2
-    t_singer_master_id: '2419'
-    singer_name: 森 昌子
-    singer_alias:
-    available_date: '2017-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かなしみのしゆうちや
-    singer_name_ruby: もりまさこ
-    song_variation:
-    - esong_code: 3859A2
-      song_name: 哀しみの終着駅
-      content_type: DAM生音
-  - song_name: 悲しみの終着駅
-    song_alias:
-    esong_code: 3588A8
-    t_singer_master_id: '2419'
-    singer_name: 森 昌子
-    singer_alias:
-    available_date: '2017-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かなしみのしゆうちや
-    singer_name_ruby: もりまさこ
-    song_variation:
-    - esong_code: 3588A8
-      song_name: 悲しみの終着駅
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 悲しみの終着駅
     song_alias:
     esong_code: 2831A38
@@ -160,6 +41,57 @@ result:
     - esong_code: 2831A38
       song_name: 悲しみの終着駅
       content_type: JOY生演奏
+  - song_name: 哀しみの終着駅
+    song_alias:
+    esong_code: 3857A45
+    t_singer_master_id: '2419'
+    singer_name: 森 昌子
+    singer_alias:
+    available_date: '2017-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしみのしゆうちや
+    singer_name_ruby: もりまさこ
+    song_variation:
+    - esong_code: 3857A45
+      song_name: 哀しみの終着駅
+      content_type: ''
+  - song_name: 悲しみの終着駅
+    song_alias:
+    esong_code: 3588A8
+    t_singer_master_id: '2419'
+    singer_name: 森 昌子
+    singer_alias:
+    available_date: '2017-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かなしみのしゆうちや
+    singer_name_ruby: もりまさこ
+    song_variation:
+    - esong_code: 3588A8
+      song_name: 悲しみの終着駅
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 哀しみの終着駅
+    song_alias:
+    esong_code: 3859A2
+    t_singer_master_id: '2419'
+    singer_name: 森 昌子
+    singer_alias:
+    available_date: '2017-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: かなしみのしゆうちや
+    singer_name_ruby: もりまさこ
+    song_variation:
+    - esong_code: 3859A2
+      song_name: 哀しみの終着駅
+      content_type: DAM生音
   - song_name: カナリア
     song_alias:
     esong_code: 3858A32
@@ -423,7 +355,7 @@ result:
     singer_alias:
     available_date: '2017-08-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: レイトン ミステリージャーニー カトリーエイルと大富豪の陰謀<番組名>
+    tie_up: レイトンシリーズ<番組名>
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: かるす
@@ -517,3 +449,71 @@ result:
     - esong_code: 3864A40
       song_name: 感情のピクセル
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 神田川
+    song_alias:
+    esong_code: 3853B32
+    t_singer_master_id: '2429'
+    singer_name: 森山 良子
+    singer_alias:
+    available_date: '2017-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんたかわ
+    singer_name_ruby: もりやまりようこ
+    song_variation:
+    - esong_code: 3853B32
+      song_name: 神田川
+      content_type: ''
+  - song_name: カンタンカタン
+    song_alias:
+    esong_code: 3865B29
+    t_singer_master_id: '32084'
+    singer_name: Kalafina
+    singer_alias:
+    available_date: '2017-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんたんかたん
+    singer_name_ruby: からふいな
+    song_variation:
+    - esong_code: 3865B29
+      song_name: カンタンカタン
+      content_type: ''
+  - song_name: GUN BULLET XXX
+    song_alias:
+    esong_code: 3857B3
+    t_singer_master_id: '32913'
+    singer_name: 高垣 彩陽
+    singer_alias:
+    available_date: '2017-08-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 戦姫絶唱シンフォギアAXZ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんはれつときす
+    singer_name_ruby: たかかきあやひ
+    song_variation:
+    - esong_code: 3857B3
+      song_name: GUN BULLET XXX
+      content_type: ''
+  - song_name: 顔晴れ、ワッショイ!
+    song_alias:
+    esong_code: 3860A8
+    t_singer_master_id: '7035'
+    singer_name: 松本 梨香
+    singer_alias:
+    available_date: '2017-08-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんはれわつしよ
+    singer_name_ruby: まつもとりか
+    song_variation:
+    - esong_code: 3860A8
+      song_name: 顔晴れ、ワッショイ!
+      content_type: ''

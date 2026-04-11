@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1179
-  all_max_cnt: 1291
-  all_country_cnt: 1179
+  max_cnt: 1177
+  all_max_cnt: 1289
+  all_country_cnt: 1177
   song:
-  - song_name: Moon Crying
-    song_alias:
-    esong_code: 2042B5
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
-    singer_alias:
-    available_date: '2008-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: むんくらいんく
-    singer_name_ruby: こうたくみ
-    song_variation:
-    - esong_code: 2042B5
-      song_name: Moon Crying
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Make my day
     song_alias:
     esong_code: 2037A30
@@ -41,23 +24,6 @@ result:
     - esong_code: 2037A30
       song_name: Make my day
       content_type: ''
-  - song_name: Make my day
-    song_alias:
-    esong_code: 2042A46
-    t_singer_master_id: '31713'
-    singer_name: 新垣 結衣
-    singer_alias:
-    available_date: '2008-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: めいくまいてい
-    singer_name_ruby: あらかきゆい
-    song_variation:
-    - esong_code: 2042A46
-      song_name: Make my day
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 恵みの種
     song_alias:
     esong_code: 2053A6
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2038B1
       song_name: やさしさのカタチ
+      content_type: ''
+  - song_name: 夜想曲
+    song_alias:
+    esong_code: 2032A27
+    t_singer_master_id: '16183'
+    singer_name: NIGHTMARE(ナイトメア)
+    singer_alias:
+    available_date: '2008-07-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: やそうきよく
+    singer_name_ruby: ないとめあ
+    song_variation:
+    - esong_code: 2032A27
+      song_name: 夜想曲
+      content_type: ''
+  - song_name: 山手駅
+    song_alias:
+    esong_code: 1496A37
+    t_singer_master_id: '7646'
+    singer_name: 松 たか子
+    singer_alias:
+    available_date: '2008-07-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: やまてえき
+    singer_name_ruby: まつたかこ
+    song_variation:
+    - esong_code: 1496A37
+      song_name: 山手駅
       content_type: ''

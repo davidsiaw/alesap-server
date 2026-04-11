@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 754
-  all_max_cnt: 832
-  all_country_cnt: 754
+  max_cnt: 749
+  all_max_cnt: 827
+  all_country_cnt: 749
   song:
   - song_name: EXIT
     song_alias:
@@ -415,23 +415,6 @@ result:
     - esong_code: 1363A28
       song_name: WOO-TOO-TOO-
       content_type: ''
-  - song_name: 姥捨て山
-    song_alias:
-    esong_code: 1366B31
-    t_singer_master_id: '16390'
-    singer_name: 人格ラヂオ
-    singer_alias:
-    available_date: '2005-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: うはすてやま
-    singer_name_ruby: しんかくらしお
-    song_variation:
-    - esong_code: 1366B31
-      song_name: 姥捨て山
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 海に還る
     song_alias:
     esong_code: 1381A18
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1362B23
       song_name: aerial
+      content_type: ''
+  - song_name: 永遠
+    song_alias:
+    esong_code: 1365A41
+    t_singer_master_id: '16235'
+    singer_name: 宮本 駿一
+    singer_alias:
+    available_date: '2005-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいえん
+    singer_name_ruby: みやもとしゆんいち
+    song_variation:
+    - esong_code: 1365A41
+      song_name: 永遠
       content_type: ''

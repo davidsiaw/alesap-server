@@ -3,26 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: 霧の中のあなた
+  - song_name: 六本木 〜GIROPPON〜
     song_alias:
-    esong_code: 2077A49
-    t_singer_master_id: '296'
-    singer_name: 内山田 洋とクール・ファイブ
+    esong_code: 1680A3
+    t_singer_master_id: '28416'
+    singer_name: 鼠先輩
     singer_alias:
-    available_date: '2008-09-02'
+    available_date: '2008-09-03'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: きりのなかのあなた
-    singer_name_ruby: うちやまたひろしとくるふあい
+    song_name_ruby: きろつほん
+    singer_name_ruby: ねすみせんはい
     song_variation:
-    - esong_code: 2077A49
-      song_name: 霧の中のあなた
+    - esong_code: 1680A3
+      song_name: 六本木 〜GIROPPON〜
       content_type: ''
   - song_name: 銀河熱風オンセンガー
     song_alias:
@@ -281,23 +281,6 @@ result:
       content_type: ''
   - song_name: GLASS SKIN
     song_alias:
-    esong_code: 2073B21
-    t_singer_master_id: '8635'
-    singer_name: DIR EN GREY(Dir en grey)
-    singer_alias:
-    available_date: '2008-09-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらすすきん
-    singer_name_ruby: ているあんくれい
-    song_variation:
-    - esong_code: 2073B21
-      song_name: GLASS SKIN
-      content_type: ''
-  - song_name: GLASS SKIN
-    song_alias:
     esong_code: 2116B47
     t_singer_master_id: '8635'
     singer_name: DIR EN GREY(Dir en grey)
@@ -313,6 +296,23 @@ result:
     - esong_code: 2116B47
       song_name: GLASS SKIN
       content_type: DAM生音
+  - song_name: GLASS SKIN
+    song_alias:
+    esong_code: 2073B21
+    t_singer_master_id: '8635'
+    singer_name: DIR EN GREY(Dir en grey)
+    singer_alias:
+    available_date: '2008-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くらすすきん
+    singer_name_ruby: ているあんくれい
+    song_variation:
+    - esong_code: 2073B21
+      song_name: GLASS SKIN
+      content_type: ''
   - song_name: GLITTER!!
     song_alias:
     esong_code: 2071A39

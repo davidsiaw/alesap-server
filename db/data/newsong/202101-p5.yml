@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 806
-  all_max_cnt: 881
-  all_country_cnt: 806
+  max_cnt: 802
+  all_max_cnt: 877
+  all_country_cnt: 802
   song:
-  - song_name: お帰りなさい
-    song_alias:
-    esong_code: 4218B11
-    t_singer_master_id: '12457'
-    singer_name: 小桜 舞子(小櫻舞子)
-    singer_alias:
-    available_date: '2021-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おかえりなさい
-    singer_name_ruby: こさくらまいこ
-    song_variation:
-    - esong_code: 4218B11
-      song_name: お帰りなさい
-      content_type: DAM生音
   - song_name: 牡鹿半島
     song_alias:
     esong_code: 4463A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4461B37
       song_name: おんな町
+      content_type: ''
+  - song_name: オンリー
+    song_alias:
+    esong_code: 4468A45
+    t_singer_master_id: '55215'
+    singer_name: 大原 ゆい子
+    singer_alias:
+    available_date: '2021-01-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 無職転生 〜異世界行ったら本気だす〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんり
+    singer_name_ruby: おおはらゆいこ
+    song_variation:
+    - esong_code: 4468A45
+      song_name: オンリー
       content_type: ''

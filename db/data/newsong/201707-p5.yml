@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1314
-  all_max_cnt: 1472
-  all_country_cnt: 1314
+  max_cnt: 1309
+  all_max_cnt: 1467
+  all_country_cnt: 1309
   song:
-  - song_name: うちなー旅
-    song_alias:
-    esong_code: 3849A32
-    t_singer_master_id: '59341'
-    singer_name: 伊藤 弘子
-    singer_alias:
-    available_date: '2017-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うちなたひ
-    singer_name_ruby: いとうひろこ
-    song_variation:
-    - esong_code: 3849A32
-      song_name: うちなー旅
-      content_type: ''
   - song_name: ウナ・セラ・ディ東京
     song_alias:
     esong_code: 3847A12
@@ -349,6 +332,23 @@ result:
       content_type: ''
   - song_name: 江差だより
     song_alias:
+    esong_code: 3843A38
+    t_singer_master_id: '1699'
+    singer_name: 成世 昌平
+    singer_alias:
+    available_date: '2017-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: えさしたより
+    singer_name_ruby: なるせしようへい
+    song_variation:
+    - esong_code: 3843A38
+      song_name: 江差だより
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 江差だより
+    song_alias:
     esong_code: 3838B48
     t_singer_master_id: '1699'
     singer_name: 成世 昌平
@@ -364,23 +364,6 @@ result:
     - esong_code: 3838B48
       song_name: 江差だより
       content_type: JOY生演奏
-  - song_name: 江差だより
-    song_alias:
-    esong_code: 3838B14
-    t_singer_master_id: '1699'
-    singer_name: 成世 昌平
-    singer_alias:
-    available_date: '2017-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: えさしたより
-    singer_name_ruby: なるせしようへい
-    song_variation:
-    - esong_code: 3838B14
-      song_name: 江差だより
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 江差だより
     song_alias:
     esong_code: 3579A33
@@ -400,21 +383,21 @@ result:
       content_type: ''
   - song_name: 江差だより
     song_alias:
-    esong_code: 3843A38
+    esong_code: 3838B14
     t_singer_master_id: '1699'
     singer_name: 成世 昌平
     singer_alias:
-    available_date: '2017-07-30'
+    available_date: '2017-07-05'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: えさしたより
     singer_name_ruby: なるせしようへい
     song_variation:
-    - esong_code: 3843A38
+    - esong_code: 3838B14
       song_name: 江差だより
-      content_type: DAMｸﾘｯﾌﾟ生音
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 江差の女房
     song_alias:
     esong_code: 3849A33
@@ -474,7 +457,7 @@ result:
     singer_alias:
     available_date: '2017-07-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ アスタリア 光と闇の救世主<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: えたなり
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3848B21
       song_name: Edelweiss
+      content_type: ''
+  - song_name: エバーグリーン
+    song_alias:
+    esong_code: 3850A47
+    t_singer_master_id: '55577'
+    singer_name: サイダーガール
+    singer_alias:
+    available_date: '2017-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えはくりん
+    singer_name_ruby: さいたかる
+    song_variation:
+    - esong_code: 3850A47
+      song_name: エバーグリーン
       content_type: ''

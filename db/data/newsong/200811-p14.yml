@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1132
-  all_country_cnt: 1023
+  max_cnt: 1015
+  all_max_cnt: 1124
+  all_country_cnt: 1015
   song:
-  - song_name: 白い花
-    song_alias:
-    esong_code: 2170A45
-    t_singer_master_id: '21794'
-    singer_name: TRIPLANE
-    singer_alias:
-    available_date: '2008-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しろいはな
-    singer_name_ruby: とらいふれいん
-    song_variation:
-    - esong_code: 2170A45
-      song_name: 白い花
-      content_type: ''
-  - song_name: Sing a song forever
-    song_alias:
-    esong_code: 2158B18
-    t_singer_master_id: '34792'
-    singer_name: M
-    singer_alias:
-    available_date: '2008-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんくあそんくふ
-    singer_name_ruby: えむ
-    song_variation:
-    - esong_code: 2158B18
-      song_name: Sing a song forever
-      content_type: ''
-  - song_name: 信じてほしい
-    song_alias:
-    esong_code: 2151B48
-    t_singer_master_id: '1756'
-    singer_name: 野村 将希
-    singer_alias:
-    available_date: '2008-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんしてほしい
-    singer_name_ruby: のむらまさき
-    song_variation:
-    - esong_code: 2151B48
-      song_name: 信じてほしい
-      content_type: ''
-  - song_name: 人生あいや坂
-    song_alias:
-    esong_code: 2118A17
-    t_singer_master_id: '34202'
-    singer_name: 京丸 夢之介
-    singer_alias:
-    available_date: '2008-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんせいあいやさ
-    singer_name_ruby: きようまるゆめのすけ
-    song_variation:
-    - esong_code: 2118A17
-      song_name: 人生あいや坂
-      content_type: ''
   - song_name: 人生だからおもしろい
     song_alias:
     esong_code: 2154B44
@@ -228,23 +160,6 @@ result:
     - esong_code: 2157A22
       song_name: StargazeR
       content_type: VOCALOID
-  - song_name: スタジオジブリの歌メドレー vol.1
-    song_alias:
-    esong_code: 2158B44
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2008-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アニメメドレー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: すたしおしふり
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 2158B44
-      song_name: スタジオジブリの歌メドレー vol.1
-      content_type: ''
   - song_name: スタジオジブリの歌メドレー vol.2
     song_alias:
     esong_code: 2158B45
@@ -261,6 +176,23 @@ result:
     song_variation:
     - esong_code: 2158B45
       song_name: スタジオジブリの歌メドレー vol.2
+      content_type: ''
+  - song_name: スタジオジブリの歌メドレー vol.1
+    song_alias:
+    esong_code: 2158B44
+    t_singer_master_id: '24121'
+    singer_name: アニメメドレー
+    singer_alias:
+    available_date: '2008-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アニメメドレー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたしおしふり
+    singer_name_ruby: あにめめとれ
+    song_variation:
+    - esong_code: 2158B44
+      song_name: スタジオジブリの歌メドレー vol.1
       content_type: ''
   - song_name: S.T.A.R.S
     song_alias:
@@ -470,7 +402,7 @@ result:
     song_alias:
     esong_code: 2156B4
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2008-11-11'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 2153A5
       song_name: Say goodbye
+      content_type: ''
+  - song_name: 青春の光
+    song_alias:
+    esong_code: 2133A7
+    t_singer_master_id: '15968'
+    singer_name: レミオロメン
+    singer_alias:
+    available_date: '2008-11-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せいしゆんのひかり
+    singer_name_ruby: れみおろめん
+    song_variation:
+    - esong_code: 2133A7
+      song_name: 青春の光
+      content_type: ''
+  - song_name: 世界で一番奇麗な場所
+    song_alias:
+    esong_code: 2152A47
+    t_singer_master_id: '23809'
+    singer_name: mink
+    singer_alias:
+    available_date: '2008-11-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せかいていちはん
+    singer_name_ruby: みんく
+    song_variation:
+    - esong_code: 2152A47
+      song_name: 世界で一番奇麗な場所
+      content_type: ''
+  - song_name: 世界で一つしかない手袋 (Album ver.)
+    song_alias:
+    esong_code: 2155A41
+    t_singer_master_id: '5992'
+    singer_name: 岡本 真夜
+    singer_alias:
+    available_date: '2008-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せかいてひとつしか
+    singer_name_ruby: おかもとまよ
+    song_variation:
+    - esong_code: 2155A41
+      song_name: 世界で一つしかない手袋 (Album ver.)
+      content_type: ''
+  - song_name: 世界に一人のシンデレラ (Album Ver.)
+    song_alias:
+    esong_code: 2162A14
+    t_singer_master_id: '34332'
+    singer_name: PENGIN
+    singer_alias:
+    available_date: '2008-11-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せかいにひとりのしん
+    singer_name_ruby: へんきん
+    song_variation:
+    - esong_code: 2162A14
+      song_name: 世界に一人のシンデレラ (Album Ver.)
       content_type: ''

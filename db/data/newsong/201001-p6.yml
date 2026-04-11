@@ -3,27 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 785
-  all_max_cnt: 853
-  all_country_cnt: 785
+  max_cnt: 780
+  all_max_cnt: 849
+  all_country_cnt: 780
   song:
   - song_name: 木曽恋い三度笠
     song_alias:
-    esong_code: 2452A36
+    esong_code: 2454A19
     t_singer_master_id: '816'
     singer_name: 香田 晋
     singer_alias:
-    available_date: '2010-01-06'
+    available_date: '2010-01-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAM生音
     song_name_ruby: きそこいさんとか
     singer_name_ruby: こうたしん
     song_variation:
-    - esong_code: 2452A36
+    - esong_code: 2454A19
       song_name: 木曽恋い三度笠
-      content_type: ''
+      content_type: DAM生音
   - song_name: 北帰郷
     song_alias:
     esong_code: 2458B17
@@ -279,23 +279,6 @@ result:
     - esong_code: 2455B19
       song_name: 君に伝えたいこと
       content_type: ''
-  - song_name: キミに出会えてよかった
-    song_alias:
-    esong_code: 2461A41
-    t_singer_master_id: '25339'
-    singer_name: Metis
-    singer_alias:
-    available_date: '2010-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみにてあえてよか
-    singer_name_ruby: めていす
-    song_variation:
-    - esong_code: 2461A41
-      song_name: キミに出会えてよかった
-      content_type: ''
   - song_name: 君のいない場所で feat.鏡音リン、鏡音レン
     song_alias:
     esong_code: 2458A7
@@ -517,3 +500,20 @@ result:
     - esong_code: 2453B44
       song_name: キラキラ☆
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: ギラギラサマー(^ω^)ノ
+    song_alias:
+    esong_code: 2451A30
+    t_singer_master_id: '32325'
+    singer_name: May'n
+    singer_alias:
+    available_date: '2010-01-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: マクロスF 虚空歌姫 〜イツワリノウタヒメ〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きらきらさま
+    singer_name_ruby: めいん
+    song_variation:
+    - esong_code: 2451A30
+      song_name: ギラギラサマー(^ω^)ノ
+      content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: 本当の未来は
-    song_alias:
-    esong_code: 2706A45
-    t_singer_master_id: '40029'
-    singer_name: OverTheDogs
-    singer_alias:
-    available_date: '2011-11-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほんとうのみらいは
-    singer_name_ruby: おはさとつくす
-    song_variation:
-    - esong_code: 2706A45
-      song_name: 本当の未来は
-      content_type: ''
   - song_name: My Adventure
     song_alias:
     esong_code: 2714A6
@@ -523,3 +506,20 @@ result:
     - esong_code: 2719B10
       song_name: 真夜中の歯磨き
       content_type: ''
+  - song_name: みいつけた!
+    song_alias:
+    esong_code: 2704B27
+    t_singer_master_id: '18551'
+    singer_name: トータス松本
+    singer_alias:
+    available_date: '2011-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みいつけた!<番組名>
+    country_code: '0'
+    content_type: JOYうたいり
+    song_name_ruby: みいつけた
+    singer_name_ruby: とたすまつもと
+    song_variation:
+    - esong_code: 2704B27
+      song_name: みいつけた!
+      content_type: JOYうたいり

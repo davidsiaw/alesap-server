@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1130
-  all_country_cnt: 1031
+  max_cnt: 1019
+  all_max_cnt: 1118
+  all_country_cnt: 1019
   song:
-  - song_name: ガラスの鐘
-    song_alias:
-    esong_code: 4514B23
-    t_singer_master_id: '41774'
-    singer_name: MARiA
-    singer_alias:
-    available_date: '2021-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: からすのかね
-    singer_name_ruby: めいりあ
-    song_variation:
-    - esong_code: 4514B23
-      song_name: ガラスの鐘
-      content_type: ''
-  - song_name: ガラスの部屋
-    song_alias:
-    esong_code: 4447A48
-    t_singer_master_id: '189'
-    singer_name: いしだ あゆみ
-    singer_alias:
-    available_date: '2021-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: からすのへや
-    singer_name_ruby: いしたあゆみ
-    song_variation:
-    - esong_code: 4447A48
-      song_name: ガラスの部屋
-      content_type: ''
-  - song_name: QUARTET CROWN
-    song_alias:
-    esong_code: 4505A49
-    t_singer_master_id: '45543'
-    singer_name: 森久保 祥太郎&鈴木 達央&蒼井 翔太&前野 智昭
-    singer_alias:
-    available_date: '2021-06-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: うたの☆プリンスさまっ♪<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かるてつとくらうん
-    singer_name_ruby: もりくほしようたろうすすき
-    song_variation:
-    - esong_code: 4505A49
-      song_name: QUARTET CROWN
-      content_type: ''
   - song_name: KARMA
     song_alias:
     esong_code: 4506A24
@@ -517,3 +466,54 @@ result:
     - esong_code: 4499A24
       song_name: 君にBUMP [DAM本人歌唱]
       content_type: DAM本人歌唱
+  - song_name: 君のいる未来へ
+    song_alias:
+    esong_code: 4514A36
+    t_singer_master_id: '68072'
+    singer_name: 雪音
+    singer_alias:
+    available_date: '2021-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのいるみらいへ
+    singer_name_ruby: ゆきね
+    song_variation:
+    - esong_code: 4514A36
+      song_name: 君のいる未来へ
+      content_type: ''
+  - song_name: 君の映画のエンドロールに
+    song_alias:
+    esong_code: 4512B44
+    t_singer_master_id: '67123'
+    singer_name: Suiet(sui)
+    singer_alias:
+    available_date: '2021-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのえいかのえん
+    singer_name_ruby: すい
+    song_variation:
+    - esong_code: 4512B44
+      song_name: 君の映画のエンドロールに
+      content_type: ''
+  - song_name: 君の中の永遠 (TVサイズ)
+    song_alias:
+    esong_code: 4511A46
+    t_singer_master_id: '247'
+    singer_name: 井上 武英
+    singer_alias:
+    available_date: '2021-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 機動武闘伝Gガンダム<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのなかのえいえん
+    singer_name_ruby: いのうえたけひて
+    song_variation:
+    - esong_code: 4511A46
+      song_name: 君の中の永遠 (TVサイズ)
+      content_type: ''

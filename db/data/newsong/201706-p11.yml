@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
-  - song_name: ガラスのうさぎ 〜unplugged〜
-    song_alias:
-    esong_code: 3826B21
-    t_singer_master_id: '26709'
-    singer_name: 新妻 聖子
-    singer_alias:
-    available_date: '2017-06-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ガラスのうさぎ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: からすのうさきあ
-    singer_name_ruby: にいつませいこ
-    song_variation:
-    - esong_code: 3826B21
-      song_name: ガラスのうさぎ 〜unplugged〜
-      content_type: ''
   - song_name: Girl
     song_alias:
     esong_code: 3825A34
@@ -347,23 +330,6 @@ result:
     - esong_code: 3831A6
       song_name: きのくに本線
       content_type: ''
-  - song_name: GIFT
-    song_alias:
-    esong_code: 3824A38
-    t_singer_master_id: '2287'
-    singer_name: Mr.Children
-    singer_alias:
-    available_date: '2017-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: きふと
-    singer_name_ruby: みすたちるとれん
-    song_variation:
-    - esong_code: 3824A38
-      song_name: GIFT
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Gift (team鳳 Ver.)
     song_alias:
     esong_code: 3840A34
@@ -381,6 +347,23 @@ result:
     - esong_code: 3840A34
       song_name: Gift (team鳳 Ver.)
       content_type: ''
+  - song_name: GIFT
+    song_alias:
+    esong_code: 3824A38
+    t_singer_master_id: '2287'
+    singer_name: Mr.Children
+    singer_alias:
+    available_date: '2017-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: きふと
+    singer_name_ruby: みすたちるとれん
+    song_variation:
+    - esong_code: 3824A38
+      song_name: GIFT
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Gift 〜カーテンコール〜
     song_alias:
     esong_code: 3840A33
@@ -517,3 +500,20 @@ result:
     - esong_code: 3821A21
       song_name: 君が好き
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 君が好きだよ
+    song_alias:
+    esong_code: 3829A17
+    t_singer_master_id: '59092'
+    singer_name: 桜川 たつる
+    singer_alias:
+    available_date: '2017-06-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみかすきたよ
+    singer_name_ruby: さくらかわたつる
+    song_variation:
+    - esong_code: 3829A17
+      song_name: 君が好きだよ
+      content_type: ''

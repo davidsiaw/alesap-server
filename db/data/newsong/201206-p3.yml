@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: 雨は止む
-    song_alias:
-    esong_code: 2809B43
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '2012-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめはやむ
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 2809B43
-      song_name: 雨は止む
-      content_type: ''
   - song_name: Ame(B)
     song_alias:
     esong_code: 2807A16
@@ -300,7 +283,7 @@ result:
     song_alias:
     esong_code: 2803A39
     t_singer_master_id: '42105'
-    singer_name: ひとしずくP×やま△
+    singer_name: ひとしずく×やま△
     singer_alias:
     available_date: '2012-06-12'
     end_date: '2999-04-10 00:00:00'
@@ -308,7 +291,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: いかさまかしの
-    singer_name_ruby: ひとしすくひやまさんかつけ
+    singer_name_ruby: ひとしすくやまさんかつけ
     song_variation:
     - esong_code: 2803A39
       song_name: イカサマ⇔カジノ feat.鏡音リン、鏡音レン
@@ -517,3 +500,20 @@ result:
     - esong_code: 2799A34
       song_name: 伊勢佐木町ブルース
       content_type: ''
+  - song_name: 痛がり小町 feat.GUMI
+    song_alias:
+    esong_code: 2803B5
+    t_singer_master_id: '43175'
+    singer_name: ゆうゆ
+    singer_alias:
+    available_date: '2012-06-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: いたかりこまち
+    singer_name_ruby: ゆうゆ2
+    song_variation:
+    - esong_code: 2803B5
+      song_name: 痛がり小町 feat.GUMI
+      content_type: VOCALOID

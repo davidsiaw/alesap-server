@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: 成功
-    song_alias:
-    esong_code: 2203B32
-    t_singer_master_id: '20269'
-    singer_name: KREVA
-    singer_alias:
-    available_date: '2009-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せいこう
-    singer_name_ruby: くれは
-    song_variation:
-    - esong_code: 2203B32
-      song_name: 成功
-      content_type: ''
   - song_name: 青春時代
     song_alias:
     esong_code: 2245A30
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2210A35
       song_name: 存在のカケラ
+      content_type: ''
+  - song_name: 大義援オモカゲマンの歌
+    song_alias:
+    esong_code: 1168B15
+    t_singer_master_id: '2506'
+    singer_name: 山本 まさゆき
+    singer_alias:
+    available_date: '2009-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいきえんおもか
+    singer_name_ruby: やまもとまさゆき
+    song_variation:
+    - esong_code: 1168B15
+      song_name: 大義援オモカゲマンの歌
       content_type: ''

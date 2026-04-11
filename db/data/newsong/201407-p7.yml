@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
   - song_name: エピソードラブ
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 3288A45
       song_name: エピソードラブ
       content_type: ''
-  - song_name: YELL
-    song_alias:
-    esong_code: 3280A4
-    t_singer_master_id: '47746'
-    singer_name: クリス・ハート
-    singer_alias:
-    available_date: '2014-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: える
-    singer_name_ruby: くりすはと
-    song_variation:
-    - esong_code: 3280A4
-      song_name: YELL
-      content_type: ''
   - song_name: エール
     song_alias:
     esong_code: 3286B1
@@ -58,6 +41,23 @@ result:
     - esong_code: 3286B1
       song_name: エール
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: YELL
+    song_alias:
+    esong_code: 3280A4
+    t_singer_master_id: '47746'
+    singer_name: クリス・ハート
+    singer_alias:
+    available_date: '2014-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: える
+    singer_name_ruby: くりすはと
+    song_variation:
+    - esong_code: 3280A4
+      song_name: YELL
+      content_type: ''
   - song_name: ElecTrick Dance
     song_alias:
     esong_code: 3277B32
@@ -270,7 +270,7 @@ result:
     singer_alias:
     available_date: '2014-07-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双4<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おうしゆかこと

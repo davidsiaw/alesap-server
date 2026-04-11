@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
-  - song_name: バタフライ 〜あの晴れた空の向こうへ〜
-    song_alias:
-    esong_code: 2275B26
-    t_singer_master_id: '599'
-    singer_name: 川村 カオリ(川村かおり)
-    singer_alias:
-    available_date: '2009-03-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はたふらい
-    singer_name_ruby: かわむらかおり
-    song_variation:
-    - esong_code: 2275B26
-      song_name: バタフライ 〜あの晴れた空の向こうへ〜
-      content_type: ''
-  - song_name: バタフライングリップス
-    song_alias:
-    esong_code: 2270B16
-    t_singer_master_id: '30292'
-    singer_name: モノブライト
-    singer_alias:
-    available_date: '2009-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はたふらいんくり
-    singer_name_ruby: ものふらいと
-    song_variation:
-    - esong_code: 2270B16
-      song_name: バタフライングリップス
-      content_type: ''
   - song_name: 働く男
     song_alias:
     esong_code: 2252B2
@@ -517,3 +483,37 @@ result:
     - esong_code: 2289B9
       song_name: 速っ! (速うた NON STOP メガミックス)
       content_type: ''
+  - song_name: ハヤテのごとく!
+    song_alias:
+    esong_code: 2294A29
+    t_singer_master_id: '14302'
+    singer_name: KOTOKO
+    singer_alias:
+    available_date: '2009-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ハヤテのごとく!<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: はやてのことく
+    singer_name_ruby: ことこ
+    song_variation:
+    - esong_code: 2294A29
+      song_name: ハヤテのごとく!
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Hurry Xmas
+    song_alias:
+    esong_code: 2300B32
+    t_singer_master_id: '5250'
+    singer_name: L'Arc〜en〜Ciel
+    singer_alias:
+    available_date: '2009-03-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: はりくりすます
+    singer_name_ruby: らるくあんしえる
+    song_variation:
+    - esong_code: 2300B32
+      song_name: Hurry Xmas
+      content_type: JOYﾎﾞｰｶﾙ

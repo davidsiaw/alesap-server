@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
-  - song_name: ROOTS
-    song_alias:
-    esong_code: 1748B10
-    t_singer_master_id: '22551'
-    singer_name: MEGARYU
-    singer_alias:
-    available_date: '2007-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: るつ
-    singer_name_ruby: めかりゆう
-    song_variation:
-    - esong_code: 1748B10
-      song_name: ROOTS
-      content_type: ''
   - song_name: LOOKING ON THE MOON
     song_alias:
     esong_code: 1181A23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1741A49
       song_name: 忘れもの
+      content_type: ''
+  - song_name: 私の夜汽車
+    song_alias:
+    esong_code: 1367B10
+    t_singer_master_id: '12080'
+    singer_name: 網野 ひとみ
+    singer_alias:
+    available_date: '2007-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わたしのよきしや
+    singer_name_ruby: あみのひとみ
+    song_variation:
+    - esong_code: 1367B10
+      song_name: 私の夜汽車
       content_type: ''

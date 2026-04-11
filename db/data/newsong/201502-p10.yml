@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
   - song_name: 帰りたくない
     song_alias:
@@ -26,21 +26,21 @@ result:
       content_type: ''
   - song_name: 鏡川
     song_alias:
-    esong_code: 3106B25
+    esong_code: 3072B10
     t_singer_master_id: '495'
     singer_name: 鏡 五郎
     singer_alias:
-    available_date: '2015-02-04'
+    available_date: '2015-02-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: かかみかわ
     singer_name_ruby: かかみころう
     song_variation:
-    - esong_code: 3106B25
+    - esong_code: 3072B10
       song_name: 鏡川
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 鏡川
     song_alias:
     esong_code: 1227B10
@@ -60,21 +60,21 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 鏡川
     song_alias:
-    esong_code: 3072B10
+    esong_code: 3106B25
     t_singer_master_id: '495'
     singer_name: 鏡 五郎
     singer_alias:
-    available_date: '2015-02-20'
+    available_date: '2015-02-04'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: かかみかわ
     singer_name_ruby: かかみころう
     song_variation:
-    - esong_code: 3072B10
+    - esong_code: 3106B25
       song_name: 鏡川
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: 輝け [DAM本人歌唱]
     song_alias:
     esong_code: 3396A10
@@ -245,7 +245,7 @@ result:
     - esong_code: 1336B7
       song_name: 風の月太郎
       content_type: ''
-  - song_name: 風まかせ (轟悠・水夏希・白羽ゆり 他) [DAM本人歌唱]
+  - song_name: 風まかせ (轟悠・水夏希・白羽ゆり 他)[DAM本人歌唱]
     song_alias:
     esong_code: 3396A9
     t_singer_master_id: '1349'
@@ -260,7 +260,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3396A9
-      song_name: 風まかせ (轟悠・水夏希・白羽ゆり 他) [DAM本人歌唱]
+      song_name: 風まかせ (轟悠・水夏希・白羽ゆり 他)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 片想い
     song_alias:
@@ -306,7 +306,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: かていおはん
     singer_name_ruby: れいふらわ
     song_variation:
@@ -326,7 +326,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: かていおはん
     singer_name_ruby: れいふらわ
     song_variation:

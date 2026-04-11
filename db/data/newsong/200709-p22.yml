@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: 虹
-    song_alias:
-    esong_code: 1865A12
-    t_singer_master_id: '2738'
-    singer_name: 斉藤 和義
-    singer_alias:
-    available_date: '2007-09-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にし
-    singer_name_ruby: さいとうかすよし
-    song_variation:
-    - esong_code: 1865A12
-      song_name: 虹
-      content_type: ''
   - song_name: 虹結び
     song_alias:
     esong_code: 1637A44
@@ -134,7 +117,7 @@ result:
     singer_alias:
     available_date: '2007-09-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・シンフォニア THE ANIMATION<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ねかい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1862A21
       song_name: VS
+      content_type: ''
+  - song_name: ハジマリ
+    song_alias:
+    esong_code: 1870B18
+    t_singer_master_id: '6560'
+    singer_name: V6
+    singer_alias:
+    available_date: '2007-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はしまり
+    singer_name_ruby: ふいしつくす
+    song_variation:
+    - esong_code: 1870B18
+      song_name: ハジマリ
       content_type: ''

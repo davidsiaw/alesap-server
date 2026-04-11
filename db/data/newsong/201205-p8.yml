@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1347
-  all_country_cnt: 1229
+  max_cnt: 1222
+  all_max_cnt: 1339
+  all_country_cnt: 1222
   song:
-  - song_name: 想い出達の舞踏会
-    song_alias:
-    esong_code: 508B43
-    t_singer_master_id: '386'
-    singer_name: 太田 裕美
-    singer_alias:
-    available_date: '2012-05-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいてたちのふ
-    singer_name_ruby: おおたひろみ
-    song_variation:
-    - esong_code: 508B43
-      song_name: 想い出達の舞踏会
-      content_type: ''
   - song_name: 想い出旅写真
     song_alias:
     esong_code: 650B16
@@ -517,3 +500,20 @@ result:
     - esong_code: 331A31
       song_name: CHAOS RED
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: かがやき
+    song_alias:
+    esong_code: 755A29
+    t_singer_master_id: '44910'
+    singer_name: circus
+    singer_alias:
+    available_date: '2012-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かかやき
+    singer_name_ruby: さかす
+    song_variation:
+    - esong_code: 755A29
+      song_name: かがやき
+      content_type: ''

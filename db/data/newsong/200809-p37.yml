@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: Rain Dolphin
-    song_alias:
-    esong_code: 2101A1
-    t_singer_master_id: '34029'
-    singer_name: 有賀 啓雄
-    singer_alias:
-    available_date: '2008-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: れいんとるふいん
-    singer_name_ruby: ありかのふお
-    song_variation:
-    - esong_code: 2101A1
-      song_name: Rain Dolphin
-      content_type: ''
   - song_name: 雷神域の英雄
     song_alias:
     esong_code: 2075B32
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2080B14
       song_name: 渡良瀬川
+      content_type: ''
+  - song_name: 笑いとばしてGO!
+    song_alias:
+    esong_code: 2084A20
+    t_singer_master_id: '31987'
+    singer_name: INFINITY16 welcomez 導楽
+    singer_alias:
+    available_date: '2008-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わらいとはしてこ
+    singer_name_ruby: いんふいにていしつくすていんうえるかむすとう
+    song_variation:
+    - esong_code: 2084A20
+      song_name: 笑いとばしてGO!
       content_type: ''

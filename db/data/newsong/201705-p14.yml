@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
   - song_name: サイゴノサイゴ
     song_alias:
@@ -228,6 +228,23 @@ result:
     - esong_code: 3812A34
       song_name: 桜色キミ未来。
       content_type: ''
+  - song_name: サクラ 〜卒業できなかった君へ〜
+    song_alias:
+    esong_code: 3772A44
+    t_singer_master_id: '37718'
+    singer_name: 半﨑 美子
+    singer_alias:
+    available_date: '2017-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらそつきようて
+    singer_name_ruby: はんさきよしこ
+    song_variation:
+    - esong_code: 3772A44
+      song_name: サクラ 〜卒業できなかった君へ〜
+      content_type: ''
   - song_name: 酒みれん
     song_alias:
     esong_code: 3805B9
@@ -298,7 +315,7 @@ result:
       content_type: ''
   - song_name: 里の恋唄
     song_alias:
-    esong_code: 3805B10
+    esong_code: 3804B22
     t_singer_master_id: '1709'
     singer_name: 西尾 夕紀
     singer_alias:
@@ -306,13 +323,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: さとのこいうた
     singer_name_ruby: にしおゆき
     song_variation:
-    - esong_code: 3805B10
+    - esong_code: 3804B22
       song_name: 里の恋唄
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: 里の恋唄
     song_alias:
     esong_code: 3805B35
@@ -332,7 +349,7 @@ result:
       content_type: JOY生演奏
   - song_name: 里の恋唄
     song_alias:
-    esong_code: 3804B22
+    esong_code: 3805B10
     t_singer_master_id: '1709'
     singer_name: 西尾 夕紀
     singer_alias:
@@ -340,13 +357,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: さとのこいうた
     singer_name_ruby: にしおゆき
     song_variation:
-    - esong_code: 3804B22
+    - esong_code: 3805B10
       song_name: 里の恋唄
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: THE DREAM IS NOT DEAD
     song_alias:
     esong_code: 3809A35
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3809B2
       song_name: サヨナラをした僕等は2度と逢えないから
-      content_type: ''
-  - song_name: The Late Sessions Make the Road with Kj&YALLA...
-    song_alias:
-    esong_code: 3813B33
-    t_singer_master_id: '58881'
-    singer_name: JiLL
-    singer_alias:
-    available_date: '2017-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: されいとせつしよん
-    singer_name_ruby: しる
-    song_variation:
-    - esong_code: 3813B33
-      song_name: The Late Sessions Make the Road with Kj&YALLA...
       content_type: ''

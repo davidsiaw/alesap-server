@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
   - song_name: しまうまグルグル
     song_alias:
@@ -75,23 +75,6 @@ result:
     - esong_code: 1512B17
       song_name: Shiny day
       content_type: ''
-  - song_name: Shining Star (Original House Version)
-    song_alias:
-    esong_code: 1492B29
-    t_singer_master_id: '12467'
-    singer_name: AI
-    singer_alias:
-    available_date: '2006-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやいにんくすた
-    singer_name_ruby: あい
-    song_variation:
-    - esong_code: 1492B29
-      song_name: Shining Star (Original House Version)
-      content_type: ''
   - song_name: Shining Star (Original R&B Version)
     song_alias:
     esong_code: 1492B28
@@ -108,6 +91,23 @@ result:
     song_variation:
     - esong_code: 1492B28
       song_name: Shining Star (Original R&B Version)
+      content_type: ''
+  - song_name: Shining Star (Original House Version)
+    song_alias:
+    esong_code: 1492B29
+    t_singer_master_id: '12467'
+    singer_name: AI
+    singer_alias:
+    available_date: '2006-04-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやいにんくすた
+    singer_name_ruby: あい
+    song_variation:
+    - esong_code: 1492B29
+      song_name: Shining Star (Original House Version)
       content_type: ''
   - song_name: Shine on you
     song_alias:
@@ -398,23 +398,6 @@ result:
     - esong_code: 1466B38
       song_name: JOY -meets Koda Kumi-
       content_type: ''
-  - song_name: 情炎海峡
-    song_alias:
-    esong_code: 1483B30
-    t_singer_master_id: '33726'
-    singer_name: やしま ひろみ
-    singer_alias:
-    available_date: '2006-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようえんかいきよ
-    singer_name_ruby: やしまひろみ
-    song_variation:
-    - esong_code: 1483B30
-      song_name: 情炎海峡
-      content_type: ''
   - song_name: 上昇気流
     song_alias:
     esong_code: 1481A17
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1493A22
       song_name: 白壁の町
+      content_type: ''
+  - song_name: Silver and Gold dance - meets T.M. Revolution -
+    song_alias:
+    esong_code: 1466B32
+    t_singer_master_id: '1494'
+    singer_name: trf(TRF)
+    singer_alias:
+    available_date: '2006-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しるうああんと
+    singer_name_ruby: ていあるえふ
+    song_variation:
+    - esong_code: 1466B32
+      song_name: Silver and Gold dance - meets T.M. Revolution -
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 286
-  all_max_cnt: 313
-  all_country_cnt: 286
+  max_cnt: 284
+  all_max_cnt: 311
+  all_country_cnt: 284
   song:
-  - song_name: 歩の女房
-    song_alias:
-    esong_code: 526B23
-    t_singer_master_id: '10171'
-    singer_name: 谷本 知美
-    singer_alias:
-    available_date: '2001-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふのにようほう
-    singer_name_ruby: たにもとともみ
-    song_variation:
-    - esong_code: 526B23
-      song_name: 歩の女房
-      content_type: ''
-  - song_name: 吹雪の中を
-    song_alias:
-    esong_code: 308A18
-    t_singer_master_id: '2221'
-    singer_name: 松任谷 由実(荒井由実)
-    singer_alias:
-    available_date: '2001-03-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふふきのなかを
-    singer_name_ruby: まつとうやゆみあらいゆみ
-    song_variation:
-    - esong_code: 308A18
-      song_name: 吹雪の中を
-      content_type: ''
   - song_name: Fly away (English Piano Version)
     song_alias:
     esong_code: 540A39
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 541A34
       song_name: Mother
+      content_type: ''
+  - song_name: majestic flight
+    song_alias:
+    esong_code: 541B32
+    t_singer_master_id: '8267'
+    singer_name: m.o.v.e(move)
+    singer_alias:
+    available_date: '2001-03-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ましえすていつくふ
+    singer_name_ruby: むふ
+    song_variation:
+    - esong_code: 541B32
+      song_name: majestic flight
+      content_type: ''
+  - song_name: 街角のペシミスト
+    song_alias:
+    esong_code: 616A17
+    t_singer_master_id: '2221'
+    singer_name: 松任谷 由実(荒井由実)
+    singer_alias:
+    available_date: '2001-03-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まちかとのへしみ
+    singer_name_ruby: まつとうやゆみあらいゆみ
+    song_variation:
+    - esong_code: 616A17
+      song_name: 街角のペシミスト
       content_type: ''

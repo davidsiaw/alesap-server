@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1509
-  all_max_cnt: 1659
-  all_country_cnt: 1509
+  max_cnt: 1504
+  all_max_cnt: 1654
+  all_country_cnt: 1504
   song:
-  - song_name: 鹿児島商業高等学校 校歌
-    song_alias:
-    esong_code: 3464B15
-    t_singer_master_id: '6336'
-    singer_name: 校歌・応援歌・寮歌
-    singer_alias:
-    available_date: '2016-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かこしましようき
-    singer_name_ruby: こうかおうえんかりようか
-    song_variation:
-    - esong_code: 3464B15
-      song_name: 鹿児島商業高等学校 校歌
-      content_type: ''
   - song_name: 風花海峡
     song_alias:
     esong_code: 3651B21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3658B31
       song_name: 記憶について
+      content_type: ''
+  - song_name: 機械仕掛けのBye! Bye!
+    song_alias:
+    esong_code: 3663A22
+    t_singer_master_id: '43947'
+    singer_name: E-girls
+    singer_alias:
+    available_date: '2016-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きかいしかけのは
+    singer_name_ruby: いかるす
+    song_variation:
+    - esong_code: 3663A22
+      song_name: 機械仕掛けのBye! Bye!
       content_type: ''

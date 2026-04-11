@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
   - song_name: Just You and I
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 3824A12
       song_name: Just You and I
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: Just You and I
-    song_alias:
-    esong_code: 3830B17
-    t_singer_master_id: '6365'
-    singer_name: 安室 奈美恵
-    singer_alias:
-    available_date: '2017-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: しやすとゆあんと
-    singer_name_ruby: あむろなみえ
-    song_variation:
-    - esong_code: 3830B17
-      song_name: Just You and I
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: ジャーニー
     song_alias:
     esong_code: 3829A12
@@ -194,6 +177,23 @@ result:
     - esong_code: 1222B36
       song_name: ジャンパー酒場
       content_type: ''
+  - song_name: Jump
+    song_alias:
+    esong_code: 3826B15
+    t_singer_master_id: '8686'
+    singer_name: Dragon Ash
+    singer_alias:
+    available_date: '2017-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやんふ
+    singer_name_ruby: とらこんあつしゆ
+    song_variation:
+    - esong_code: 3826B15
+      song_name: Jump
+      content_type: ''
   - song_name: JUMP!!
     song_alias:
     esong_code: 3833A25
@@ -227,23 +227,6 @@ result:
     song_variation:
     - esong_code: 3820B1
       song_name: JUMP!
-      content_type: ''
-  - song_name: Jump
-    song_alias:
-    esong_code: 3826B15
-    t_singer_master_id: '8686'
-    singer_name: Dragon Ash
-    singer_alias:
-    available_date: '2017-06-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやんふ
-    singer_name_ruby: とらこんあつしゆ
-    song_variation:
-    - esong_code: 3826B15
-      song_name: Jump
       content_type: ''
   - song_name: シャンプー音頭
     song_alias:
@@ -332,23 +315,6 @@ result:
       content_type: ''
   - song_name: Shooting Star
     song_alias:
-    esong_code: 3833A5
-    t_singer_master_id: '57490'
-    singer_name: JUNNA
-    singer_alias:
-    available_date: '2017-06-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆていんくすた
-    singer_name_ruby: しゆんな
-    song_variation:
-    - esong_code: 3833A5
-      song_name: Shooting Star
-      content_type: ''
-  - song_name: Shooting Star
-    song_alias:
     esong_code: 3833A13
     t_singer_master_id: '59122'
     singer_name: IA
@@ -364,23 +330,40 @@ result:
     - esong_code: 3833A13
       song_name: Shooting Star
       content_type: VOCALOID
-  - song_name: 春夏秋冬
+  - song_name: Shooting Star
     song_alias:
-    esong_code: 3830B24
-    t_singer_master_id: '174'
-    singer_name: 石川 さゆり(SAYURI)
+    esong_code: 3833A5
+    t_singer_master_id: '57490'
+    singer_name: JUNNA
     singer_alias:
-    available_date: '2017-06-30'
+    available_date: '2017-06-21'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
+    content_type:
+    song_name_ruby: しゆていんくすた
+    singer_name_ruby: しゆんな
+    song_variation:
+    - esong_code: 3833A5
+      song_name: Shooting Star
+      content_type: ''
+  - song_name: 春夏秋冬
+    song_alias:
+    esong_code: 3821B5
+    t_singer_master_id: '174'
+    singer_name: 石川 さゆり(SAYURI)
+    singer_alias:
+    available_date: '2017-06-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
     song_name_ruby: しゆんかしゆうとう
     singer_name_ruby: いしかわさゆり
     song_variation:
-    - esong_code: 3830B24
+    - esong_code: 3821B5
       song_name: 春夏秋冬
-      content_type: JOYｸﾘｯﾌﾟ
+      content_type: ''
   - song_name: 春夏秋冬
     song_alias:
     esong_code: 3831B28
@@ -400,21 +383,21 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 春夏秋冬
     song_alias:
-    esong_code: 3821B5
+    esong_code: 3830B24
     t_singer_master_id: '174'
     singer_name: 石川 さゆり(SAYURI)
     singer_alias:
-    available_date: '2017-06-14'
+    available_date: '2017-06-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: しゆんかしゆうとう
     singer_name_ruby: いしかわさゆり
     song_variation:
-    - esong_code: 3821B5
+    - esong_code: 3830B24
       song_name: 春夏秋冬
-      content_type: ''
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: JOYFUL
     song_alias:
     esong_code: 3823B39
@@ -517,3 +500,20 @@ result:
     - esong_code: 3833A6
       song_name: 私立恵比寿中学ヒットソングメドレー
       content_type: ''
+  - song_name: しるし
+    song_alias:
+    esong_code: 3824A45
+    t_singer_master_id: '2287'
+    singer_name: Mr.Children
+    singer_alias:
+    available_date: '2017-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: しるし
+    singer_name_ruby: みすたちるとれん
+    song_variation:
+    - esong_code: 3824A45
+      song_name: しるし
+      content_type: DAMｸﾘｯﾌﾟ生音

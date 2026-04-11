@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: しあわせな き・ぶ・ん
+    song_alias:
+    esong_code: 827B21
+    t_singer_master_id: '13032'
+    singer_name: 大森 玲子
+    singer_alias:
+    available_date: '2002-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 魔法のステージファンシーララ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせなきふん
+    singer_name_ruby: おおもりれいこ
+    song_variation:
+    - esong_code: 827B21
+      song_name: しあわせな き・ぶ・ん
+      content_type: ''
   - song_name: 幸せのうた
     song_alias:
     esong_code: 832B35
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 814B35
       song_name: 深月に恋文したためて
-      content_type: ''
-  - song_name: 人生がもう始まってる
-    song_alias:
-    esong_code: 827A29
-    t_singer_master_id: '13957'
-    singer_name: 市井 紗耶香 in CUBIC-CROSS
-    singer_alias:
-    available_date: '2002-04-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんせいかもうは
-    singer_name_ruby: いちいさやかいんきゆひ
-    song_variation:
-    - esong_code: 827A29
-      song_name: 人生がもう始まってる
       content_type: ''

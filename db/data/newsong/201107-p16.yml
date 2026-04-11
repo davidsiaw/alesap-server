@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1571
-  all_max_cnt: 1703
-  all_country_cnt: 1571
+  max_cnt: 1566
+  all_max_cnt: 1698
+  all_country_cnt: 1566
   song:
-  - song_name: 恋文【第3話】
-    song_alias:
-    esong_code: 2638B34
-    t_singer_master_id: '33083'
-    singer_name: DAM the Movie
-    singer_alias:
-    available_date: '2011-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいふみ3
-    singer_name_ruby: たむさむひ
-    song_variation:
-    - esong_code: 2638B34
-      song_name: 恋文【第3話】
-      content_type: ''
-  - song_name: 恋文【第4話】
-    song_alias:
-    esong_code: 2638B35
-    t_singer_master_id: '33083'
-    singer_name: DAM the Movie
-    singer_alias:
-    available_date: '2011-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいふみ4
-    singer_name_ruby: たむさむひ
-    song_variation:
-    - esong_code: 2638B35
-      song_name: 恋文【第4話】
-      content_type: ''
   - song_name: 恋文【第5話】
     song_alias:
     esong_code: 2638B36
@@ -185,7 +151,7 @@ result:
     singer_alias:
     available_date: '2011-07-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双3 Z<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こく
@@ -230,23 +196,6 @@ result:
       content_type: ''
   - song_name: GO GO サマー!
     song_alias:
-    esong_code: 2626B1
-    t_singer_master_id: '40445'
-    singer_name: KARA
-    singer_alias:
-    available_date: '2011-07-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ここさま
-    singer_name_ruby: から
-    song_variation:
-    - esong_code: 2626B1
-      song_name: GO GO サマー!
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: GO GO サマー!
-    song_alias:
     esong_code: 2627B10
     t_singer_master_id: '40445'
     singer_name: KARA
@@ -262,6 +211,23 @@ result:
     - esong_code: 2627B10
       song_name: GO GO サマー!
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: GO GO サマー!
+    song_alias:
+    esong_code: 2626B1
+    t_singer_master_id: '40445'
+    singer_name: KARA
+    singer_alias:
+    available_date: '2011-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ここさま
+    singer_name_ruby: から
+    song_variation:
+    - esong_code: 2626B1
+      song_name: GO GO サマー!
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: GO!GO!サンシャイン
     song_alias:
     esong_code: 2633B6
@@ -315,23 +281,6 @@ result:
       content_type: ''
   - song_name: 心
     song_alias:
-    esong_code: 2638A46
-    t_singer_master_id: '42812'
-    singer_name: 高城 剣
-    singer_alias:
-    available_date: '2011-07-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころ
-    singer_name_ruby: たかしろけん
-    song_variation:
-    - esong_code: 2638A46
-      song_name: 心
-      content_type: ''
-  - song_name: 心
-    song_alias:
     esong_code: 2643B44
     t_singer_master_id: '42851'
     singer_name: 三浦 万豊
@@ -345,6 +294,23 @@ result:
     singer_name_ruby: みうらまんほう
     song_variation:
     - esong_code: 2643B44
+      song_name: 心
+      content_type: ''
+  - song_name: 心
+    song_alias:
+    esong_code: 2638A46
+    t_singer_master_id: '42812'
+    singer_name: 高城 剣
+    singer_alias:
+    available_date: '2011-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころ
+    singer_name_ruby: たかしろけん
+    song_variation:
+    - esong_code: 2638A46
       song_name: 心
       content_type: ''
   - song_name: 心からのメッセージ
@@ -508,7 +474,7 @@ result:
     singer_alias:
     available_date: '2011-07-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダーW RETURNS 仮面ライダーエターナル<番組名>
+    tie_up: 仮面ライダーW<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ことい
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2646B6
       song_name: cod-E 〜Eの暗号〜
+      content_type: ''
+  - song_name: 鼓動の秘密
+    song_alias:
+    esong_code: 2629B49
+    t_singer_master_id: '39361'
+    singer_name: 東京女子流
+    singer_alias:
+    available_date: '2011-07-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことうのひみつ
+    singer_name_ruby: とうきようしよしりゆう
+    song_variation:
+    - esong_code: 2629B49
+      song_name: 鼓動の秘密
+      content_type: ''
+  - song_name: ことぶき酒
+    song_alias:
+    esong_code: 2129A12
+    t_singer_master_id: '24820'
+    singer_name: 西嶋 三千代
+    singer_alias:
+    available_date: '2011-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことふきさけ
+    singer_name_ruby: にししまみちよ
+    song_variation:
+    - esong_code: 2129A12
+      song_name: ことぶき酒
       content_type: ''

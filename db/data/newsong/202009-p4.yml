@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 898
-  all_max_cnt: 987
-  all_country_cnt: 898
+  max_cnt: 892
+  all_max_cnt: 981
+  all_country_cnt: 892
   song:
+  - song_name: S
+    song_alias:
+    esong_code: 4428B6
+    t_singer_master_id: '66494'
+    singer_name: 刀剣男士 formation of 葵咲
+    singer_alias:
+    available_date: '2020-09-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 刀剣乱舞(ミュージカル)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えす
+    singer_name_ruby: とうけんたんしふおめしよんおふき
+    song_variation:
+    - esong_code: 4428B6
+      song_name: S
+      content_type: ''
   - song_name: SDR
     song_alias:
     esong_code: 4420B45
@@ -23,6 +40,23 @@ result:
     song_variation:
     - esong_code: 4420B45
       song_name: SDR
+      content_type: ''
+  - song_name: 越中衆
+    song_alias:
+    esong_code: 4425A49
+    t_singer_master_id: '17488'
+    singer_name: 新田 晃也
+    singer_alias:
+    available_date: '2020-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えつちゆうしゆう
+    singer_name_ruby: につたこうや
+    song_variation:
+    - esong_code: 4425A49
+      song_name: 越中衆
       content_type: ''
   - song_name: Edel Lilie
     song_alias:
@@ -108,23 +142,6 @@ result:
     song_variation:
     - esong_code: 4421A10
       song_name: EVERYTHING
-      content_type: ''
-  - song_name: Everyday Yeah!
-    song_alias:
-    esong_code: 4419A39
-    t_singer_master_id: '55013'
-    singer_name: IDOLiSH7
-    singer_alias:
-    available_date: '2020-09-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドリッシュセブン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えふりていいえ
-    singer_name_ruby: あいとりつしゆせふん
-    song_variation:
-    - esong_code: 4419A39
-      song_name: Everyday Yeah!
       content_type: ''
   - song_name: エリカの咲く岬
     song_alias:
@@ -332,21 +349,21 @@ result:
       content_type: ''
   - song_name: 大阪なさけ川
     song_alias:
-    esong_code: 4421B21
+    esong_code: 4300A12
     t_singer_master_id: '7990'
     singer_name: 北川 裕二
     singer_alias:
-    available_date: '2020-09-13'
+    available_date: '2020-09-09'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: おおさかなさけかわ
     singer_name_ruby: きたかわゆうし
     song_variation:
-    - esong_code: 4421B21
+    - esong_code: 4300A12
       song_name: 大阪なさけ川
-      content_type: DAMｸﾘｯﾌﾟ生音
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 大阪なさけ川
     song_alias:
     esong_code: 4157A38
@@ -366,21 +383,21 @@ result:
       content_type: ''
   - song_name: 大阪なさけ川
     song_alias:
-    esong_code: 4300A12
+    esong_code: 4421B21
     t_singer_master_id: '7990'
     singer_name: 北川 裕二
     singer_alias:
-    available_date: '2020-09-09'
+    available_date: '2020-09-13'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: おおさかなさけかわ
     singer_name_ruby: きたかわゆうし
     song_variation:
-    - esong_code: 4300A12
+    - esong_code: 4421B21
       song_name: 大阪なさけ川
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 大阪の女
     song_alias:
     esong_code: 4421A37
@@ -500,20 +517,3 @@ result:
     - esong_code: 4422A46
       song_name: おけさ恋歌
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: お酒を抱いて
-    song_alias:
-    esong_code: 4424B49
-    t_singer_master_id: '54823'
-    singer_name: 霧島 かおり
-    singer_alias:
-    available_date: '2020-09-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おさけをたいて
-    singer_name_ruby: きりしまかおり
-    song_variation:
-    - esong_code: 4424B49
-      song_name: お酒を抱いて
-      content_type: ''

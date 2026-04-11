@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1284
-  all_max_cnt: 1473
-  all_country_cnt: 1284
+  max_cnt: 1277
+  all_max_cnt: 1466
+  all_country_cnt: 1277
   song:
   - song_name: ERROR MESSAGE
     song_alias:
@@ -417,23 +417,6 @@ result:
       content_type: ''
   - song_name: 沖縄哀歌
     song_alias:
-    esong_code: 3758B20
-    t_singer_master_id: '551'
-    singer_name: 金田 たつえ
-    singer_alias:
-    available_date: '2017-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おきなわあいか
-    singer_name_ruby: かねたたつえ
-    song_variation:
-    - esong_code: 3758B20
-      song_name: 沖縄哀歌
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 沖縄哀歌
-    song_alias:
     esong_code: 3759A8
     t_singer_master_id: '551'
     singer_name: 金田 たつえ
@@ -449,6 +432,23 @@ result:
     - esong_code: 3759A8
       song_name: 沖縄哀歌
       content_type: JOY生演奏
+  - song_name: 沖縄哀歌
+    song_alias:
+    esong_code: 3758B20
+    t_singer_master_id: '551'
+    singer_name: 金田 たつえ
+    singer_alias:
+    available_date: '2017-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おきなわあいか
+    singer_name_ruby: かねたたつえ
+    song_variation:
+    - esong_code: 3758B20
+      song_name: 沖縄哀歌
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: おきなわ わわわ!
     song_alias:
     esong_code: 3759B15

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1237
-  all_max_cnt: 1447
-  all_country_cnt: 1237
+  max_cnt: 1218
+  all_max_cnt: 1428
+  all_country_cnt: 1218
   song:
   - song_name: UPSETTER
     song_alias:
@@ -176,23 +176,6 @@ result:
     song_variation:
     - esong_code: 4297B49
       song_name: アノニマス
-      content_type: ''
-  - song_name: あの人に会いたい
-    song_alias:
-    esong_code: 4305A46
-    t_singer_master_id: '45657'
-    singer_name: 内田 真礼
-    singer_alias:
-    available_date: '2019-12-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのひとにあいたい
-    singer_name_ruby: うちたまあや
-    song_variation:
-    - esong_code: 4305A46
-      song_name: あの人に会いたい
       content_type: ''
   - song_name: あの世行きのバスに乗ってさらば。
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4293B24
       song_name: ある日どこかで
+      content_type: ''
+  - song_name: あるわけないのその奥に
+    song_alias:
+    esong_code: 4299A33
+    t_singer_master_id: '55872'
+    singer_name: まねきケチャ
+    singer_alias:
+    available_date: '2019-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ゲゲゲの鬼太郎<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あるわけないのそのお
+    singer_name_ruby: まねきけちや
+    song_variation:
+    - esong_code: 4299A33
+      song_name: あるわけないのその奥に
       content_type: ''

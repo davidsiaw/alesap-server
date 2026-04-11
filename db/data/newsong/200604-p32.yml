@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: 野蛮な晩
-    song_alias:
-    esong_code: 1481A24
-    t_singer_master_id: '25703'
-    singer_name: IGAVOCK(T.H.C CREW)
-    singer_alias:
-    available_date: '2006-04-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やはんなはん
-    singer_name_ruby: いかほつか
-    song_variation:
-    - esong_code: 1481A24
-      song_name: 野蛮な晩
-      content_type: ''
   - song_name: 山崎まさよしベストメドレー
     song_alias:
     esong_code: 1494A19
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1479A19
       song_name: 嫁入り祝い唄
+      content_type: ''
+  - song_name: 夜の翼（Night Wing）
+    song_alias:
+    esong_code: 341A19
+    t_singer_master_id: '2482'
+    singer_name: 山下 達郎
+    singer_alias:
+    available_date: '2006-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: よるのつはさ
+    singer_name_ruby: やましたたつろう
+    song_variation:
+    - esong_code: 341A19
+      song_name: 夜の翼（Night Wing）
       content_type: ''

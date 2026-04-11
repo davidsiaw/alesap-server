@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
   - song_name: 清水翔太メドレー2
     song_alias:
@@ -134,7 +134,7 @@ result:
     singer_alias:
     available_date: '2011-08-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦物語 〜ミステリアス巴里〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しやのわる
@@ -296,23 +296,6 @@ result:
     - esong_code: 2331A10
       song_name: 獣慾
       content_type: ''
-  - song_name: SHOOT!
-    song_alias:
-    esong_code: 2664B45
-    t_singer_master_id: '43136'
-    singer_name: RO-KYU-BU!
-    singer_alias:
-    available_date: '2011-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ロウきゅーぶ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆと
-    singer_name_ruby: ろうきゆふ
-    song_variation:
-    - esong_code: 2664B45
-      song_name: SHOOT!
-      content_type: ''
   - song_name: 修羅ノ庭 feat.鏡音リン
     song_alias:
     esong_code: 2658A42
@@ -400,23 +383,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 純潔パラドックス
     song_alias:
-    esong_code: 2647A10
-    t_singer_master_id: '12152'
-    singer_name: 水樹 奈々
-    singer_alias:
-    available_date: '2011-08-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: BLOOD-C<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: しゆんけつはらと
-    singer_name_ruby: みすきなな
-    song_variation:
-    - esong_code: 2647A10
-      song_name: 純潔パラドックス
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 純潔パラドックス
-    song_alias:
     esong_code: 2647A36
     t_singer_master_id: '12152'
     singer_name: 水樹 奈々
@@ -432,6 +398,23 @@ result:
     - esong_code: 2647A36
       song_name: 純潔パラドックス
       content_type: ''
+  - song_name: 純潔パラドックス
+    song_alias:
+    esong_code: 2647A10
+    t_singer_master_id: '12152'
+    singer_name: 水樹 奈々
+    singer_alias:
+    available_date: '2011-08-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BLOOD-C<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: しゆんけつはらと
+    singer_name_ruby: みすきなな
+    song_variation:
+    - esong_code: 2647A10
+      song_name: 純潔パラドックス
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 純情PUNCH [パセラオリジナル]
     song_alias:
     esong_code: 2633B20
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2652B29
       song_name: 湘南ANTHEM
+      content_type: ''
+  - song_name: 少年の悲しい唄
+    song_alias:
+    esong_code: 2664B9
+    t_singer_master_id: '1842'
+    singer_name: バーブ佐竹
+    singer_alias:
+    available_date: '2011-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようねんのかなしい
+    singer_name_ruby: はふさたけ
+    song_variation:
+    - esong_code: 2664B9
+      song_name: 少年の悲しい唄
       content_type: ''

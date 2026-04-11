@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
   - song_name: I'm for you
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 2163B49
       song_name: 朱き翼が如く
       content_type: ''
-  - song_name: 赤坂レイニーブルー
-    song_alias:
-    esong_code: 2800B16
-    t_singer_master_id: '10083'
-    singer_name: チャン・ウンスク(チャン・スー)
-    singer_alias:
-    available_date: '2012-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あかさかれいにふ
-    singer_name_ruby: ちやんうんすく
-    song_variation:
-    - esong_code: 2800B16
-      song_name: 赤坂レイニーブルー
-      content_type: DAM生音
   - song_name: 赤坂レイニーブルー
     song_alias:
     esong_code: 2806B12
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2810A41
       song_name: あしたの陽だまり
+      content_type: ''
+  - song_name: 明日は明日の...
+    song_alias:
+    esong_code: 2804A24
+    t_singer_master_id: '1462'
+    singer_name: TUBE
+    singer_alias:
+    available_date: '2012-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あしたはあしたの
+    singer_name_ruby: ちゆふ
+    song_variation:
+    - esong_code: 2804A24
+      song_name: 明日は明日の...
       content_type: ''

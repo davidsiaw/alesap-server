@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
-  - song_name: Heartful・Candy
-    song_alias:
-    esong_code: 1939B2
-    t_singer_master_id: '14021'
-    singer_name: 徳永 愛
-    singer_alias:
-    available_date: '2008-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はとふるきやんて
-    singer_name_ruby: とくなかあい
-    song_variation:
-    - esong_code: 1939B2
-      song_name: Heartful・Candy
-      content_type: ''
   - song_name: ハートブレイク・レストラン
     song_alias:
     esong_code: 1957A9
@@ -202,7 +185,7 @@ result:
     singer_alias:
     available_date: '2008-01-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 君のぞらじお (ラジオ版)<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: はのらまみらい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1940B31
       song_name: BANZAIアタック
+      content_type: ''
+  - song_name: Handful Happiness
+    song_alias:
+    esong_code: 1957A21
+    t_singer_master_id: '32143'
+    singer_name: MYSTIC
+    singer_alias:
+    available_date: '2008-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はんとふるはひね
+    singer_name_ruby: みすていつく
+    song_variation:
+    - esong_code: 1957A21
+      song_name: Handful Happiness
       content_type: ''

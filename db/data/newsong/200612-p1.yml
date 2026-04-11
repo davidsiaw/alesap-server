@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1137
-  all_max_cnt: 1232
-  all_country_cnt: 1137
+  max_cnt: 1130
+  all_max_cnt: 1225
+  all_country_cnt: 1130
   song:
-  - song_name: アカツキの詩
-    song_alias:
-    esong_code: 1683A34
-    t_singer_master_id: '16005'
-    singer_name: スキマスイッチ
-    singer_alias:
-    available_date: '2006-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あかつきのうた
-    singer_name_ruby: すきますいつち
-    song_variation:
-    - esong_code: 1683A34
-      song_name: アカツキの詩
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: アカツキの詩
     song_alias:
     esong_code: 1681A39
@@ -41,6 +24,23 @@ result:
     - esong_code: 1681A39
       song_name: アカツキの詩
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: アカツキの詩 (Album ver.)
+    song_alias:
+    esong_code: 1675B17
+    t_singer_master_id: '16005'
+    singer_name: スキマスイッチ
+    singer_alias:
+    available_date: '2006-12-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかつきのうた
+    singer_name_ruby: すきますいつち
+    song_variation:
+    - esong_code: 1675B17
+      song_name: アカツキの詩 (Album ver.)
+      content_type: ''
   - song_name: 秋物語
     song_alias:
     esong_code: 1694A21

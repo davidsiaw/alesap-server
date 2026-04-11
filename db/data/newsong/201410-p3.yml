@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1499
-  all_max_cnt: 1700
-  all_country_cnt: 1499
+  max_cnt: 1492
+  all_max_cnt: 1694
+  all_country_cnt: 1492
   song:
   - song_name: 甘い生活
     song_alias:
@@ -128,23 +128,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 雨の港町
     song_alias:
-    esong_code: 3333A7
-    t_singer_master_id: '671'
-    singer_name: キム・ヨンジャ(金蓮子)
-    singer_alias:
-    available_date: '2014-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめのみなとまち
-    singer_name_ruby: きむよんしや
-    song_variation:
-    - esong_code: 3333A7
-      song_name: 雨の港町
-      content_type: ''
-  - song_name: 雨の港町
-    song_alias:
     esong_code: 3339A24
     t_singer_master_id: '671'
     singer_name: キム・ヨンジャ(金蓮子)
@@ -177,6 +160,23 @@ result:
     - esong_code: 3337A27
       song_name: 雨の港町
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 雨の港町
+    song_alias:
+    esong_code: 3333A7
+    t_singer_master_id: '671'
+    singer_name: キム・ヨンジャ(金蓮子)
+    singer_alias:
+    available_date: '2014-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめのみなとまち
+    singer_name_ruby: きむよんしや
+    song_variation:
+    - esong_code: 3333A7
+      song_name: 雨の港町
+      content_type: ''
   - song_name: 雨よこのまま止まないで
     song_alias:
     esong_code: 3347A6
@@ -230,23 +230,6 @@ result:
       content_type: ''
   - song_name: ALIVE 〜ひとりじゃない〜
     song_alias:
-    esong_code: 3342A11
-    t_singer_master_id: '25119'
-    singer_name: MICKY RICH
-    singer_alias:
-    available_date: '2014-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あらいふひとりし
-    singer_name_ruby: みつきりつち
-    song_variation:
-    - esong_code: 3342A11
-      song_name: ALIVE 〜ひとりじゃない〜
-      content_type: ''
-  - song_name: ALIVE 〜ひとりじゃない〜
-    song_alias:
     esong_code: 3334B12
     t_singer_master_id: '25119'
     singer_name: MICKY RICH
@@ -255,13 +238,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type:
     song_name_ruby: あらいふひとりし
     singer_name_ruby: みつきりつち
     song_variation:
     - esong_code: 3334B12
       song_name: ALIVE 〜ひとりじゃない〜
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: ''
   - song_name: AROUND THE WORLD
     song_alias:
     esong_code: 3348A44
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3341A41
       song_name: Unsheathed
+      content_type: ''
+  - song_name: UNSTOPPABLE (Rave Up Remix)
+    song_alias:
+    esong_code: 3345B40
+    t_singer_master_id: '16176'
+    singer_name: 諏訪部 順一
+    singer_alias:
+    available_date: '2014-10-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 黒子のバスケ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんすとつはふる
+    singer_name_ruby: すわへしゆんいち
+    song_variation:
+    - esong_code: 3345B40
+      song_name: UNSTOPPABLE (Rave Up Remix)
       content_type: ''

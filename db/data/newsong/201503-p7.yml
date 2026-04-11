@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1628
-  all_max_cnt: 1827
-  all_country_cnt: 1628
+  max_cnt: 1617
+  all_max_cnt: 1816
+  all_country_cnt: 1617
   song:
-  - song_name: 歌があるから
-    song_alias:
-    esong_code: 880A22
-    t_singer_master_id: '30256'
-    singer_name: 平 紀久美
-    singer_alias:
-    available_date: '2015-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたかあるから
-    singer_name_ruby: たいらきくみ
-    song_variation:
-    - esong_code: 880A22
-      song_name: 歌があるから
-      content_type: ''
-  - song_name: 歌ひとすじ
-    song_alias:
-    esong_code: 885A9
-    t_singer_master_id: '595'
-    singer_name: 川中 美幸
-    singer_alias:
-    available_date: '2015-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: うたひとすし
-    singer_name_ruby: かわなかみゆき
-    song_variation:
-    - esong_code: 885A9
-      song_name: 歌ひとすじ
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 空蝉
     song_alias:
     esong_code: 3417A27
@@ -210,23 +176,6 @@ result:
     song_variation:
     - esong_code: 3413A33
       song_name: 永遠に
-      content_type: ''
-  - song_name: 栄光サンライズ
-    song_alias:
-    esong_code: 3417B10
-    t_singer_master_id: '46022'
-    singer_name: ベイビーレイズJAPAN
-    singer_alias:
-    available_date: '2015-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えいこうさんらいす
-    singer_name_ruby: へいひれいすしやはん
-    song_variation:
-    - esong_code: 3417B10
-      song_name: 栄光サンライズ
       content_type: ''
   - song_name: 永劫真理のフェルマータ
     song_alias:
@@ -522,4 +471,55 @@ result:
     song_variation:
     - esong_code: 3409A19
       song_name: エリクサー中毒患者
+      content_type: ''
+  - song_name: YELL
+    song_alias:
+    esong_code: 3417A21
+    t_singer_master_id: '53099'
+    singer_name: ORANGE PORT
+    singer_alias:
+    available_date: '2015-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: える
+    singer_name_ruby: おれんしほと
+    song_variation:
+    - esong_code: 3417A21
+      song_name: YELL
+      content_type: ''
+  - song_name: L-エル-
+    song_alias:
+    esong_code: 3408B33
+    t_singer_master_id: '30291'
+    singer_name: Acid Black Cherry
+    singer_alias:
+    available_date: '2015-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: える
+    singer_name_ruby: あしつとふらつくちえり
+    song_variation:
+    - esong_code: 3408B33
+      song_name: L-エル-
+      content_type: ''
+  - song_name: Elderflower Cordial
+    song_alias:
+    esong_code: 3402B48
+    t_singer_master_id: '2179'
+    singer_name: 槇原 敬之
+    singer_alias:
+    available_date: '2015-03-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えるたふらわこ
+    singer_name_ruby: まきはらのりゆき
+    song_variation:
+    - esong_code: 3402B48
+      song_name: Elderflower Cordial
       content_type: ''

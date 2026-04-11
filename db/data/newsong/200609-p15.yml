@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
+  - song_name: じんじんさせて
+    song_alias:
+    esong_code: 1643A22
+    t_singer_master_id: '1967'
+    singer_name: ピンク・レディー
+    singer_alias:
+    available_date: '2006-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんしんさせて
+    singer_name_ruby: ひんくれてい
+    song_variation:
+    - esong_code: 1643A22
+      song_name: じんじんさせて
+      content_type: ''
+  - song_name: 人生遠まわり
+    song_alias:
+    esong_code: 195B49
+    t_singer_master_id: '610'
+    singer_name: 神戸 一郎
+    singer_alias:
+    available_date: '2006-09-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんせいとおまわり
+    singer_name_ruby: かんへいちろう
+    song_variation:
+    - esong_code: 195B49
+      song_name: 人生遠まわり
+      content_type: ''
   - song_name: 人生の並木路
     song_alias:
     esong_code: 1629B9
@@ -398,23 +432,6 @@ result:
     - esong_code: 1583B8
       song_name: STRAIGHT TO HELL
       content_type: ''
-  - song_name: Strange Voyage feat.COMA-CHI
-    song_alias:
-    esong_code: 1626A5
-    t_singer_master_id: '23787'
-    singer_name: DJ YAS
-    singer_alias:
-    available_date: '2006-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: すとれんしほや
-    singer_name_ruby: ていしえいやす
-    song_variation:
-    - esong_code: 1626A5
-      song_name: Strange Voyage feat.COMA-CHI
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: ストレンジャーズ・ホエン・ウイ・キッス (全英語詞)
     song_alias:
     esong_code: 1655A26
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 51A31
       song_name: SPIDER IN THE BRAIN
-      content_type: ''
-  - song_name: SUPER☆STAR
-    song_alias:
-    esong_code: 1644B5
-    t_singer_master_id: '16859'
-    singer_name: KAMUI
-    singer_alias:
-    available_date: '2006-09-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すはすた
-    singer_name_ruby: かむい
-    song_variation:
-    - esong_code: 1644B5
-      song_name: SUPER☆STAR
       content_type: ''

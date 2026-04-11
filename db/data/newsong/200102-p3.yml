@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 259
-  all_max_cnt: 274
-  all_country_cnt: 259
+  max_cnt: 254
+  all_max_cnt: 269
+  all_country_cnt: 254
   song:
-  - song_name: psychoballet
-    song_alias:
-    esong_code: 520A29
-    t_singer_master_id: '10445'
-    singer_name: BAISER
-    singer_alias:
-    available_date: '2001-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいこほれつと
-    singer_name_ruby: へせ
-    song_variation:
-    - esong_code: 520A29
-      song_name: psychoballet
-      content_type: ''
-  - song_name: さかまく未来
-    song_alias:
-    esong_code: 517A25
-    t_singer_master_id: '409'
-    singer_name: 岡村 孝子
-    singer_alias:
-    available_date: '2001-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さかまくみらい
-    singer_name_ruby: おかむらたかこ
-    song_variation:
-    - esong_code: 517A25
-      song_name: さかまく未来
-      content_type: ''
   - song_name: 桜
     song_alias:
     esong_code: 461B24
@@ -283,7 +249,7 @@ result:
     song_alias:
     esong_code: 522A31
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2001-02-28'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 624A16
       song_name: So Hurt So Long
+      content_type: ''
+  - song_name: 空にかける橋
+    song_alias:
+    esong_code: 514A40
+    t_singer_master_id: '7314'
+    singer_name: 奥井 雅美
+    singer_alias:
+    available_date: '2001-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
+    country_code: '0'
+    content_type:
+    song_name_ruby: そらにかけるはし
+    singer_name_ruby: おくいまさみ
+    song_variation:
+    - esong_code: 514A40
+      song_name: 空にかける橋
+      content_type: ''
+  - song_name: 空の向こうまで
+    song_alias:
+    esong_code: 514A31
+    t_singer_master_id: '449'
+    singer_name: 織田 裕二
+    singer_alias:
+    available_date: '2001-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そらのむこうまて
+    singer_name_ruby: おたゆうし
+    song_variation:
+    - esong_code: 514A31
+      song_name: 空の向こうまで
       content_type: ''

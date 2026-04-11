@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1316
-  all_max_cnt: 1449
-  all_country_cnt: 1316
+  max_cnt: 1315
+  all_max_cnt: 1448
+  all_country_cnt: 1315
   song:
   - song_name: 石塊のプライド
     song_alias:
@@ -347,23 +347,6 @@ result:
     - esong_code: 2166A5
       song_name: 命の炎
       content_type: ''
-  - song_name: eve
-    song_alias:
-    esong_code: 2218B13
-    t_singer_master_id: '30298'
-    singer_name: アイドリング!!!
-    singer_alias:
-    available_date: '2010-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いふ
-    singer_name_ruby: あいとりんく
-    song_variation:
-    - esong_code: 2218B13
-      song_name: eve
-      content_type: ''
   - song_name: if
     song_alias:
     esong_code: 2165B44
@@ -380,6 +363,23 @@ result:
     song_variation:
     - esong_code: 2165B44
       song_name: if
+      content_type: ''
+  - song_name: eve
+    song_alias:
+    esong_code: 2218B13
+    t_singer_master_id: '30298'
+    singer_name: アイドリング!!!
+    singer_alias:
+    available_date: '2010-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いふ
+    singer_name_ruby: あいとりんく
+    song_variation:
+    - esong_code: 2218B13
+      song_name: eve
       content_type: ''
   - song_name: if
     song_alias:
@@ -451,23 +451,6 @@ result:
       content_type: ''
   - song_name: Hymne a l'amour 〜愛のアンセム〜
     song_alias:
-    esong_code: 2186A19
-    t_singer_master_id: '8713'
-    singer_name: 宇多田 ヒカル
-    singer_alias:
-    available_date: '2010-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: いむあらむる
-    singer_name_ruby: うたたひかる
-    song_variation:
-    - esong_code: 2186A19
-      song_name: Hymne a l'amour 〜愛のアンセム〜
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Hymne a l'amour 〜愛のアンセム〜
-    song_alias:
     esong_code: 2213B21
     t_singer_master_id: '8713'
     singer_name: 宇多田 ヒカル
@@ -483,6 +466,23 @@ result:
     - esong_code: 2213B21
       song_name: Hymne a l'amour 〜愛のアンセム〜
       content_type: ''
+  - song_name: Hymne a l'amour 〜愛のアンセム〜
+    song_alias:
+    esong_code: 2186A19
+    t_singer_master_id: '8713'
+    singer_name: 宇多田 ヒカル
+    singer_alias:
+    available_date: '2010-11-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: いむあらむる
+    singer_name_ruby: うたたひかる
+    song_variation:
+    - esong_code: 2186A19
+      song_name: Hymne a l'amour 〜愛のアンセム〜
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 嫌
     song_alias:
     esong_code: 2255B17

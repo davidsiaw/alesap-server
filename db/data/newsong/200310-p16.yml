@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 531
-  all_max_cnt: 644
-  all_country_cnt: 531
+  max_cnt: 533
+  all_max_cnt: 646
+  all_country_cnt: 533
   song:
+  - song_name: 夕陽がよんでいる
+    song_alias:
+    esong_code: 329A16
+    t_singer_master_id: '2066'
+    singer_name: PRINCESS PRINCESS
+    singer_alias:
+    available_date: '2003-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうひかよんてい
+    singer_name_ruby: ふりんせすふりん
+    song_variation:
+    - esong_code: 329A16
+      song_name: 夕陽がよんでいる
+      content_type: ''
+  - song_name: ユートピアは見えてるのに
+    song_alias:
+    esong_code: 646A27
+    t_singer_master_id: '1523'
+    singer_name: DEEN
+    singer_alias:
+    available_date: '2003-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆとひあはみえて
+    singer_name_ruby: ていん
+    song_variation:
+    - esong_code: 646A27
+      song_name: ユートピアは見えてるのに
+      content_type: ''
   - song_name: UNITY
     song_alias:
     esong_code: 648B33
@@ -74,23 +108,6 @@ result:
     song_variation:
     - esong_code: 842A20
       song_name: 夢で逢えたら
-      content_type: ''
-  - song_name: 夢の都
-    song_alias:
-    esong_code: 698B30
-    t_singer_master_id: '141'
-    singer_name: 安全地帯
-    singer_alias:
-    available_date: '2003-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめのみやこ
-    singer_name_ruby: あんせんちたい
-    song_variation:
-    - esong_code: 698B30
-      song_name: 夢の都
       content_type: ''
   - song_name: 夢はLove Me More
     song_alias:
@@ -281,23 +298,6 @@ result:
       content_type: ''
   - song_name: LIFE
     song_alias:
-    esong_code: 264B44
-    t_singer_master_id: '16691'
-    singer_name: ナチュラル・ハイ
-    singer_alias:
-    available_date: '2003-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らいふ
-    singer_name_ruby: なちゆらるはい
-    song_variation:
-    - esong_code: 264B44
-      song_name: LIFE
-      content_type: ''
-  - song_name: LIFE
-    song_alias:
     esong_code: 646B25
     t_singer_master_id: '16691'
     singer_name: ナチュラル・ハイ
@@ -313,6 +313,23 @@ result:
     - esong_code: 646B25
       song_name: LIFE
       content_type: DAM良音
+  - song_name: LIFE
+    song_alias:
+    esong_code: 264B44
+    t_singer_master_id: '16691'
+    singer_name: ナチュラル・ハイ
+    singer_alias:
+    available_date: '2003-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいふ
+    singer_name_ruby: なちゆらるはい
+    song_variation:
+    - esong_code: 264B44
+      song_name: LIFE
+      content_type: ''
   - song_name: Life is one way
     song_alias:
     esong_code: 837A25
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 809A38
       song_name: 凛 〜愛する者のために〜
-      content_type: ''
-  - song_name: Legend of〜
-    song_alias:
-    esong_code: 645B38
-    t_singer_master_id: '10041'
-    singer_name: Janne Da Arc
-    singer_alias:
-    available_date: '2003-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: れしえんとおふ
-    singer_name_ruby: しやんぬたるく
-    song_variation:
-    - esong_code: 645B38
-      song_name: Legend of〜
       content_type: ''

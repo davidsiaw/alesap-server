@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: 女子達
-    song_alias:
-    esong_code: 3581A38
-    t_singer_master_id: '55139'
-    singer_name: NakamuraEmi
-    singer_alias:
-    available_date: '2016-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しよしたち
-    singer_name_ruby: なかむらえみ
-    song_variation:
-    - esong_code: 3581A38
-      song_name: 女子達
-      content_type: ''
   - song_name: ショートケーキ
     song_alias:
     esong_code: 3582B16
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3585A29
       song_name: STARS ARE STARS
+      content_type: ''
+  - song_name: スーダラ節
+    song_alias:
+    esong_code: 3587A15
+    t_singer_master_id: '55224'
+    singer_name: SAKEROCK
+    singer_alias:
+    available_date: '2016-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたらふし
+    singer_name_ruby: さけろつく
+    song_variation:
+    - esong_code: 3587A15
+      song_name: スーダラ節
       content_type: ''

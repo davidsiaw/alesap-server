@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1172
-  all_country_cnt: 1023
+  max_cnt: 990
+  all_max_cnt: 1139
+  all_country_cnt: 990
   song:
-  - song_name: 青空
-    song_alias:
-    esong_code: 4353B42
-    t_singer_master_id: '57841'
-    singer_name: ノンちゃんと七福人
-    singer_alias:
-    available_date: '2020-04-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あおそら
-    singer_name_ruby: のんちやんとしちふくしん
-    song_variation:
-    - esong_code: 4353B42
-      song_name: 青空
-      content_type: ''
-  - song_name: 青空
-    song_alias:
-    esong_code: 4352A15
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '2020-04-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あおそら
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 4352A15
-      song_name: 青空
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: アカネボシ
     song_alias:
     esong_code: 4358A1
@@ -383,23 +349,6 @@ result:
       content_type: ''
   - song_name: あなたがいることで
     song_alias:
-    esong_code: 4352A21
-    t_singer_master_id: '56204'
-    singer_name: Uru
-    singer_alias:
-    available_date: '2020-04-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あなたかいることて
-    singer_name_ruby: うる
-    song_variation:
-    - esong_code: 4352A21
-      song_name: あなたがいることで
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: あなたがいることで
-    song_alias:
     esong_code: 4357A12
     t_singer_master_id: '56204'
     singer_name: Uru
@@ -415,6 +364,23 @@ result:
     - esong_code: 4357A12
       song_name: あなたがいることで
       content_type: DAM生音
+  - song_name: あなたがいることで
+    song_alias:
+    esong_code: 4352A21
+    t_singer_master_id: '56204'
+    singer_name: Uru
+    singer_alias:
+    available_date: '2020-04-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あなたかいることて
+    singer_name_ruby: うる
+    song_variation:
+    - esong_code: 4352A21
+      song_name: あなたがいることで
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 貴方、さがして
     song_alias:
     esong_code: 4354A29
@@ -517,3 +483,37 @@ result:
     - esong_code: 4353B6
       song_name: あまりにも素敵な夜だから
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Amulet Song
+    song_alias:
+    esong_code: 4362A4
+    t_singer_master_id: '54459'
+    singer_name: PELICAN FANCLUB
+    singer_alias:
+    available_date: '2020-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あみゆれつとそんく
+    singer_name_ruby: へりかんふあんくらふ
+    song_variation:
+    - esong_code: 4362A4
+      song_name: Amulet Song
+      content_type: ''
+  - song_name: アメイジングレース
+    song_alias:
+    esong_code: 4362A21
+    t_singer_master_id: '49255'
+    singer_name: go!go!vanillas
+    singer_alias:
+    available_date: '2020-04-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめいしんくれ
+    singer_name_ruby: ここはにらす
+    song_variation:
+    - esong_code: 4362A21
+      song_name: アメイジングレース
+      content_type: ''

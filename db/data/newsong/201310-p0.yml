@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1734
-  all_max_cnt: 2776
-  all_country_cnt: 1734
+  max_cnt: 1730
+  all_max_cnt: 2772
+  all_country_cnt: 1730
   song:
   - song_name: ああ上野駅
     song_alias:
@@ -183,7 +183,7 @@ result:
     t_singer_master_id: '2448'
     singer_name: 八代 亜紀
     singer_alias:
-    available_date: '2013-10-22'
+    available_date: '2013-10-23'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -264,23 +264,6 @@ result:
       content_type: 東方
   - song_name: 愛染桜
     song_alias:
-    esong_code: 3121A29
-    t_singer_master_id: '15549'
-    singer_name: あさみ ちゆき
-    singer_alias:
-    available_date: '2013-10-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あいせんさくら
-    singer_name_ruby: あさみちゆき
-    song_variation:
-    - esong_code: 3121A29
-      song_name: 愛染桜
-      content_type: DAM生音
-  - song_name: 愛染桜
-    song_alias:
     esong_code: 3121B6
     t_singer_master_id: '15549'
     singer_name: あさみ ちゆき
@@ -296,6 +279,23 @@ result:
     - esong_code: 3121B6
       song_name: 愛染桜
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 愛染桜
+    song_alias:
+    esong_code: 3121A29
+    t_singer_master_id: '15549'
+    singer_name: あさみ ちゆき
+    singer_alias:
+    available_date: '2013-10-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あいせんさくら
+    singer_name_ruby: あさみちゆき
+    song_variation:
+    - esong_code: 3121A29
+      song_name: 愛染桜
+      content_type: DAM生音
   - song_name: 愛染桜
     song_alias:
     esong_code: 2782A7

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
-  - song_name: しのぶ酒
-    song_alias:
-    esong_code: 3080B15
-    t_singer_master_id: '26414'
-    singer_name: 山本 あき
-    singer_alias:
-    available_date: '2013-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しのふさけ
-    singer_name_ruby: やまもとあき
-    song_variation:
-    - esong_code: 3080B15
-      song_name: しのぶ酒
-      content_type: ''
   - song_name: 持病の歌 〜ぼくには夢がある 希望がある〜
     song_alias:
     esong_code: 3070B41
@@ -364,23 +347,6 @@ result:
     - esong_code: 3077B16
       song_name: JULY
       content_type: ''
-  - song_name: ジュリエット 〜君を好きな100の理由〜 (2013 ver.)
-    song_alias:
-    esong_code: 3071A18
-    t_singer_master_id: '47187'
-    singer_name: 放課後プリンセス
-    singer_alias:
-    available_date: '2013-07-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆりえつときみを
-    singer_name_ruby: ほうかこふりんせす
-    song_variation:
-    - esong_code: 3071A18
-      song_name: ジュリエット 〜君を好きな100の理由〜 (2013 ver.)
-      content_type: ''
   - song_name: JYURI-JYURI BABY
     song_alias:
     esong_code: 3072A29
@@ -455,7 +421,7 @@ result:
     t_singer_master_id: '22748'
     singer_name: シド
     singer_alias:
-    available_date: '2013-07-23'
+    available_date: '2013-07-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3078A32
       song_name: 少女のままで
+      content_type: ''
+  - song_name: 常総ソーラン節
+    song_alias:
+    esong_code: 3079A22
+    t_singer_master_id: '6518'
+    singer_name: 川神 あい(木村悠希)
+    singer_alias:
+    available_date: '2013-07-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようそうそらん
+    singer_name_ruby: かわかみあい
+    song_variation:
+    - esong_code: 3079A22
+      song_name: 常総ソーラン節
+      content_type: ''
+  - song_name: 冗談じゃない
+    song_alias:
+    esong_code: 3088B17
+    t_singer_master_id: '48183'
+    singer_name: よかにせどん浩輔
+    singer_alias:
+    available_date: '2013-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようたんしや
+    singer_name_ruby: よかにせとんこうすけ
+    song_variation:
+    - esong_code: 3088B17
+      song_name: 冗談じゃない
       content_type: ''

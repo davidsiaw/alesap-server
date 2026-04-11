@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: Go Baby!
+    song_alias:
+    esong_code: 3159B35
+    t_singer_master_id: '49519'
+    singer_name: NEKO PUNCH
+    singer_alias:
+    available_date: '2013-12-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こへいひ
+    singer_name_ruby: ねこはんち
+    song_variation:
+    - esong_code: 3159B35
+      song_name: Go Baby!
+      content_type: ''
   - song_name: Kopernik
     song_alias:
     esong_code: 3162B31
@@ -26,23 +43,6 @@ result:
       content_type: ''
   - song_name: ごめんなさいのKissing You
     song_alias:
-    esong_code: 3162A31
-    t_singer_master_id: '43947'
-    singer_name: E-girls
-    singer_alias:
-    available_date: '2013-12-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: こめんなさいのきつ
-    singer_name_ruby: いかるす
-    song_variation:
-    - esong_code: 3162A31
-      song_name: ごめんなさいのKissing You
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: ごめんなさいのKissing You
-    song_alias:
     esong_code: 3104B49
     t_singer_master_id: '43947'
     singer_name: E-girls
@@ -58,23 +58,23 @@ result:
     - esong_code: 3104B49
       song_name: ごめんなさいのKissing You
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 小雪のひとりごと
+  - song_name: ごめんなさいのKissing You
     song_alias:
-    esong_code: 2948A44
-    t_singer_master_id: '14044'
-    singer_name: 山口 ひろみ
+    esong_code: 3162A31
+    t_singer_master_id: '43947'
+    singer_name: E-girls
     singer_alias:
-    available_date: '2013-12-10'
+    available_date: '2013-12-11'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: こゆきのひとりこと
-    singer_name_ruby: やまくちひろみ
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: こめんなさいのきつ
+    singer_name_ruby: いかるす
     song_variation:
-    - esong_code: 2948A44
-      song_name: 小雪のひとりごと
-      content_type: ''
+    - esong_code: 3162A31
+      song_name: ごめんなさいのKissing You
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 小雪のひとりごと
     song_alias:
     esong_code: 3155A29
@@ -94,6 +94,23 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 小雪のひとりごと
     song_alias:
+    esong_code: 2948A44
+    t_singer_master_id: '14044'
+    singer_name: 山口 ひろみ
+    singer_alias:
+    available_date: '2013-12-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こゆきのひとりこと
+    singer_name_ruby: やまくちひろみ
+    song_variation:
+    - esong_code: 2948A44
+      song_name: 小雪のひとりごと
+      content_type: ''
+  - song_name: 小雪のひとりごと
+    song_alias:
     esong_code: 3155A10
     t_singer_master_id: '14044'
     singer_name: 山口 ひろみ
@@ -102,13 +119,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMｸﾘｯﾌﾟ生音
     song_name_ruby: こゆきのひとりこと
     singer_name_ruby: やまくちひろみ
     song_variation:
     - esong_code: 3155A10
       song_name: 小雪のひとりごと
-      content_type: DAM生音
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Calling
     song_alias:
     esong_code: 3158A44
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3156B11
       song_name: 放浪(さすらい)じょんがら
-      content_type: ''
-  - song_name: THE TIME HAS COME
-    song_alias:
-    esong_code: 3160A31
-    t_singer_master_id: '18861'
-    singer_name: GALNERYUS
-    singer_alias:
-    available_date: '2013-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さたいむはすかむ
-    singer_name_ruby: かるねりうす
-    song_variation:
-    - esong_code: 3160A31
-      song_name: THE TIME HAS COME
       content_type: ''

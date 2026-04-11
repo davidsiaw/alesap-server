@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1499
-  all_max_cnt: 1700
-  all_country_cnt: 1499
+  max_cnt: 1492
+  all_max_cnt: 1694
+  all_country_cnt: 1492
   song:
-  - song_name: 食べて、笑って、生きていく。
-    song_alias:
-    esong_code: 3343A47
-    t_singer_master_id: '49595'
-    singer_name: 赤マルダッシュ☆
-    singer_alias:
-    available_date: '2014-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たへてわらつていき
-    singer_name_ruby: あかまるたつしゆ
-    song_variation:
-    - esong_code: 3343A47
-      song_name: 食べて、笑って、生きていく。
-      content_type: ''
-  - song_name: 黙っててあげる
-    song_alias:
-    esong_code: 3337B43
-    t_singer_master_id: '51798'
-    singer_name: 芹沢 直美
-    singer_alias:
-    available_date: '2014-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たまつててあける
-    singer_name_ruby: せりさわなおみ
-    song_variation:
-    - esong_code: 3337B43
-      song_name: 黙っててあげる
-      content_type: ''
   - song_name: たりないかぼちゃ feat.初音ミク
     song_alias:
     esong_code: 3334A18
@@ -128,23 +94,6 @@ result:
       content_type: ''
   - song_name: ダン・ダン ドゥビ・ズバー!
     song_alias:
-    esong_code: 3346A49
-    t_singer_master_id: '51313'
-    singer_name: Dream5+ブリー隊長
-    singer_alias:
-    available_date: '2014-10-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 妖怪ウォッチ<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: たんたんとうひ
-    singer_name_ruby: とりむふあいふふらすふりたい
-    song_variation:
-    - esong_code: 3346A49
-      song_name: ダン・ダン ドゥビ・ズバー!
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ダン・ダン ドゥビ・ズバー!
-    song_alias:
     esong_code: 3346A48
     t_singer_master_id: '51313'
     singer_name: Dream5+ブリー隊長
@@ -160,6 +109,23 @@ result:
     - esong_code: 3346A48
       song_name: ダン・ダン ドゥビ・ズバー!
       content_type: ''
+  - song_name: ダン・ダン ドゥビ・ズバー!
+    song_alias:
+    esong_code: 3346A49
+    t_singer_master_id: '51313'
+    singer_name: Dream5+ブリー隊長
+    singer_alias:
+    available_date: '2014-10-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 妖怪ウォッチ<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: たんたんとうひ
+    singer_name_ruby: とりむふあいふふらすふりたい
+    song_variation:
+    - esong_code: 3346A49
+      song_name: ダン・ダン ドゥビ・ズバー!
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 断頭デスサイズ
     song_alias:
     esong_code: 3344B37
@@ -406,23 +372,6 @@ result:
       content_type: ''
   - song_name: 契り花
     song_alias:
-    esong_code: 3339A30
-    t_singer_master_id: '1267'
-    singer_name: 瀬川 瑛子
-    singer_alias:
-    available_date: '2014-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ちきりはな
-    singer_name_ruby: せかわえいこ
-    song_variation:
-    - esong_code: 3339A30
-      song_name: 契り花
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 契り花
-    song_alias:
     esong_code: 3339B3
     t_singer_master_id: '1267'
     singer_name: 瀬川 瑛子
@@ -438,13 +387,30 @@ result:
     - esong_code: 3339B3
       song_name: 契り花
       content_type: DAM生音
+  - song_name: 契り花
+    song_alias:
+    esong_code: 3339A30
+    t_singer_master_id: '1267'
+    singer_name: 瀬川 瑛子
+    singer_alias:
+    available_date: '2014-10-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ちきりはな
+    singer_name_ruby: せかわえいこ
+    song_variation:
+    - esong_code: 3339A30
+      song_name: 契り花
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 致命傷
     song_alias:
     esong_code: 3347B40
     t_singer_master_id: '35295'
     singer_name: 摩天楼オペラ
     singer_alias:
-    available_date: '2014-10-28'
+    available_date: '2014-10-29'
     end_date: '2999-04-10 00:00:00'
     tie_up: オレん家のフロ事情<番組名>
     country_code: '0'
@@ -523,3 +489,37 @@ result:
     - esong_code: 3337A25
       song_name: ちょいときまぐれ渡り鳥 (セリフ入り)
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ちょいときまぐれ渡り鳥
+    song_alias:
+    esong_code: 3339A34
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2014-10-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ちよいときまくれわ
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 3339A34
+      song_name: ちょいときまぐれ渡り鳥
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 調理場
+    song_alias:
+    esong_code: 3333A19
+    t_singer_master_id: '20269'
+    singer_name: KREVA
+    singer_alias:
+    available_date: '2014-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちようりは
+    singer_name_ruby: くれは
+    song_variation:
+    - esong_code: 3333A19
+      song_name: 調理場
+      content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
-  - song_name: Break The Boring
-    song_alias:
-    esong_code: 3479A39
-    t_singer_master_id: '27976'
-    singer_name: CHEHON
-    singer_alias:
-    available_date: '2015-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれいくさほ
-    singer_name_ruby: ちえほん
-    song_variation:
-    - esong_code: 3479A39
-      song_name: Break The Boring
-      content_type: ''
   - song_name: PLAYBACK
     song_alias:
     esong_code: 3480B35
@@ -279,23 +262,6 @@ result:
     - esong_code: 3481B4
       song_name: 望郷おとこ笠
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 望郷おとこ笠
-    song_alias:
-    esong_code: 3481A40
-    t_singer_master_id: '2270'
-    singer_name: 三門 忠司
-    singer_alias:
-    available_date: '2015-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ほうきようおとこか
-    singer_name_ruby: みかとちゆうし
-    song_variation:
-    - esong_code: 3481A40
-      song_name: 望郷おとこ笠
-      content_type: DAM生音
   - song_name: 望郷ほたる
     song_alias:
     esong_code: 3479A3
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3484B39
       song_name: ホワイトギフト
+      content_type: ''
+  - song_name: White Crystal
+    song_alias:
+    esong_code: 3487A26
+    t_singer_master_id: '21628'
+    singer_name: 橋本 みゆき
+    singer_alias:
+    available_date: '2015-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: メモリア<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほわいとくりすたる
+    singer_name_ruby: はしもとみゆき
+    song_variation:
+    - esong_code: 3487A26
+      song_name: White Crystal
+      content_type: ''
+  - song_name: White Feather
+    song_alias:
+    esong_code: 3476A43
+    t_singer_master_id: '33037'
+    singer_name: Asriel
+    singer_alias:
+    available_date: '2015-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほわいとふえさ
+    singer_name_ruby: あすりえる
+    song_variation:
+    - esong_code: 3476A43
+      song_name: White Feather
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1452
-  all_max_cnt: 1626
-  all_country_cnt: 1452
+  max_cnt: 1445
+  all_max_cnt: 1619
+  all_country_cnt: 1445
   song:
-  - song_name: がぶり街道
-    song_alias:
-    esong_code: 4036A35
-    t_singer_master_id: '36108'
-    singer_name: 遊助
-    singer_alias:
-    available_date: '2018-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かふりかいとう
-    singer_name_ruby: ゆうすけ
-    song_variation:
-    - esong_code: 4036A35
-      song_name: がぶり街道
-      content_type: ''
-  - song_name: 鎌倉ものがたり
-    song_alias:
-    esong_code: 4027B23
-    t_singer_master_id: '36397'
-    singer_name: 華房 景子
-    singer_alias:
-    available_date: '2018-07-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かまくらものかたり
-    singer_name_ruby: はなふさけいこ
-    song_variation:
-    - esong_code: 4027B23
-      song_name: 鎌倉ものがたり
-      content_type: ''
   - song_name: 神様も知らない
     song_alias:
     esong_code: 4024A7
@@ -111,23 +77,6 @@ result:
       content_type: ''
   - song_name: かもめ橋から
     song_alias:
-    esong_code: 4030A20
-    t_singer_master_id: '34857'
-    singer_name: さくら まや
-    singer_alias:
-    available_date: '2018-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: かもめはしから
-    singer_name_ruby: さくらまや
-    song_variation:
-    - esong_code: 4030A20
-      song_name: かもめ橋から
-      content_type: JOY生演奏
-  - song_name: かもめ橋から
-    song_alias:
     esong_code: 4031A36
     t_singer_master_id: '34857'
     singer_name: さくら まや
@@ -160,6 +109,23 @@ result:
     - esong_code: 4031B49
       song_name: かもめ橋から
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: かもめ橋から
+    song_alias:
+    esong_code: 4030A20
+    t_singer_master_id: '34857'
+    singer_name: さくら まや
+    singer_alias:
+    available_date: '2018-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: かもめはしから
+    singer_name_ruby: さくらまや
+    song_variation:
+    - esong_code: 4030A20
+      song_name: かもめ橋から
+      content_type: JOY生演奏
   - song_name: 加山雄三ヒットソングメドレー
     song_alias:
     esong_code: 4031A25
@@ -279,7 +245,7 @@ result:
     - esong_code: 4022B46
       song_name: GIRL'S GIRL
       content_type: ''
-  - song_name: カルーセル輪舞曲 (珠城りょうほか) [DAM本人歌唱]
+  - song_name: カルーセル輪舞曲 (珠城りょう ほか)[DAM本人歌唱]
     song_alias:
     esong_code: 4025A35
     t_singer_master_id: '1349'
@@ -294,7 +260,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 4025A35
-      song_name: カルーセル輪舞曲 (珠城りょうほか) [DAM本人歌唱]
+      song_name: カルーセル輪舞曲 (珠城りょう ほか)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 川根「茶っ、ちゃ」街道
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 4025A25
       song_name: キスしちゃうぞ
       content_type: DAMﾗｲﾌﾞ
+  - song_name: 傷つくダイヤモンド
+    song_alias:
+    esong_code: 4024A45
+    t_singer_master_id: '45687'
+    singer_name: 沢田 正人
+    singer_alias:
+    available_date: '2018-07-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすつくたいやも
+    singer_name_ruby: さわたまさと
+    song_variation:
+    - esong_code: 4024A45
+      song_name: 傷つくダイヤモンド
+      content_type: ''
+  - song_name: Kizuna
+    song_alias:
+    esong_code: 4036A1
+    t_singer_master_id: '61431'
+    singer_name: 刀剣男士 formation of つはもの
+    singer_alias:
+    available_date: '2018-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 刀剣乱舞(ミュージカル)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: とうけんたんしふおめしよんおふつ
+    song_variation:
+    - esong_code: 4036A1
+      song_name: Kizuna
+      content_type: ''

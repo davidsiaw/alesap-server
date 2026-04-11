@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 785
-  all_max_cnt: 853
-  all_country_cnt: 785
+  max_cnt: 780
+  all_max_cnt: 849
+  all_country_cnt: 780
   song:
   - song_name: アシタもしもキミがいない・・・ (Piano version)
     song_alias:
@@ -364,23 +364,6 @@ result:
     - esong_code: 2454B40
       song_name: アラベスク
       content_type: ''
-  - song_name: ありがとう 〜大きくカンシャ!〜
-    song_alias:
-    esong_code: 2460A2
-    t_singer_master_id: '34854'
-    singer_name: しゅごキャラエッグ!
-    singer_alias:
-    available_date: '2010-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: しゅごキャラ!!!どっきどき<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: しゆこきやらえつく
-    song_variation:
-    - esong_code: 2460A2
-      song_name: ありがとう 〜大きくカンシャ!〜
-      content_type: ''
   - song_name: ありがとう
     song_alias:
     esong_code: 2452B28
@@ -397,6 +380,23 @@ result:
     song_variation:
     - esong_code: 2452B28
       song_name: ありがとう
+      content_type: ''
+  - song_name: ありがとう 〜大きくカンシャ!〜
+    song_alias:
+    esong_code: 2460A2
+    t_singer_master_id: '34854'
+    singer_name: しゅごキャラエッグ!
+    singer_alias:
+    available_date: '2010-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: しゅごキャラ!!!どっきどき<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: しゆこきやらえつく
+    song_variation:
+    - esong_code: 2460A2
+      song_name: ありがとう 〜大きくカンシャ!〜
       content_type: ''
   - song_name: ありがとうの花
     song_alias:
@@ -432,13 +432,13 @@ result:
     - esong_code: 2450B1
       song_name: alone
       content_type: ''
-  - song_name: アワーミュージック
+  - song_name: our music (remodel light remixed by alva noto)
     song_alias:
-    esong_code: 2455A4
+    esong_code: 2455A6
     t_singer_master_id: '38480'
     singer_name: 相対性理論+渋谷 慶一郎
     singer_alias:
-    available_date: '2010-01-19'
+    available_date: '2010-01-26'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -446,8 +446,8 @@ result:
     song_name_ruby: あわみゆしつく
     singer_name_ruby: そうたいせいりろんしふやけいいちろう
     song_variation:
-    - esong_code: 2455A4
-      song_name: アワーミュージック
+    - esong_code: 2455A6
+      song_name: our music (remodel light remixed by alva noto)
       content_type: ''
   - song_name: our music (vo+pf)
     song_alias:
@@ -466,13 +466,13 @@ result:
     - esong_code: 2455A5
       song_name: our music (vo+pf)
       content_type: ''
-  - song_name: our music (remodel light remixed by alva noto)
+  - song_name: アワーミュージック
     song_alias:
-    esong_code: 2455A6
+    esong_code: 2455A4
     t_singer_master_id: '38480'
     singer_name: 相対性理論+渋谷 慶一郎
     singer_alias:
-    available_date: '2010-01-26'
+    available_date: '2010-01-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -480,8 +480,8 @@ result:
     song_name_ruby: あわみゆしつく
     singer_name_ruby: そうたいせいりろんしふやけいいちろう
     song_variation:
-    - esong_code: 2455A6
-      song_name: our music (remodel light remixed by alva noto)
+    - esong_code: 2455A4
+      song_name: アワーミュージック
       content_type: ''
   - song_name: an angel
     song_alias:

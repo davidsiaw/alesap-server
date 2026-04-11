@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 968
-  all_max_cnt: 1054
-  all_country_cnt: 968
+  max_cnt: 960
+  all_max_cnt: 1046
+  all_country_cnt: 960
   song:
-  - song_name: 鉄の処女と夢見がちなお姫さま
-    song_alias:
-    esong_code: 4535A4
-    t_singer_master_id: '66465'
-    singer_name: じょるじん
-    singer_alias:
-    available_date: '2021-08-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: てつのしよしよとゆ
-    singer_name_ruby: しよるしん
-    song_variation:
-    - esong_code: 4535A4
-      song_name: 鉄の処女と夢見がちなお姫さま
-      content_type: VOCALOID
-  - song_name: テト
-    song_alias:
-    esong_code: 4528B46
-    t_singer_master_id: '63498'
-    singer_name: HIMEHINA
-    singer_alias:
-    available_date: '2021-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てと
-    singer_name_ruby: ひめひな
-    song_variation:
-    - esong_code: 4528B46
-      song_name: テト
-      content_type: ''
   - song_name: テリトリーバトル
     song_alias:
     esong_code: 4537B22
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4538B8
       song_name: トライミライ
+      content_type: ''
+  - song_name: ドラマチック
+    song_alias:
+    esong_code: 4536B13
+    t_singer_master_id: '31487'
+    singer_name: Hey!Say!JUMP
+    singer_alias:
+    available_date: '2021-08-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とらまちつく
+    singer_name_ruby: へいせいしやんふ
+    song_variation:
+    - esong_code: 4536B13
+      song_name: ドラマチック
+      content_type: ''
+  - song_name: Trigger
+    song_alias:
+    esong_code: 4531A2
+    t_singer_master_id: '67322'
+    singer_name: 佐久間 貴生
+    singer_alias:
+    available_date: '2021-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ウルトラマントリガー NEW GENERATION TIGA<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりか
+    singer_name_ruby: さくまたかお
+    song_variation:
+    - esong_code: 4531A2
+      song_name: Trigger
       content_type: ''

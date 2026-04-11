@@ -3,61 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1571
-  all_max_cnt: 1703
-  all_country_cnt: 1571
+  max_cnt: 1566
+  all_max_cnt: 1698
+  all_country_cnt: 1566
   song:
   - song_name: 情熱のバラ
     song_alias:
-    esong_code: 2647B19
+    esong_code: 75A35
     t_singer_master_id: '671'
     singer_name: キム・ヨンジャ(金蓮子)
     singer_alias:
-    available_date: '2011-07-12'
+    available_date: '2011-07-05'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type:
     song_name_ruby: しようねつのはら
     singer_name_ruby: きむよんしや
     song_variation:
-    - esong_code: 2647B19
+    - esong_code: 75A35
       song_name: 情熱のバラ
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 情熱のバラ
-    song_alias:
-    esong_code: 2626A41
-    t_singer_master_id: '671'
-    singer_name: キム・ヨンジャ(金蓮子)
-    singer_alias:
-    available_date: '2011-07-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: しようねつのはら
-    singer_name_ruby: きむよんしや
-    song_variation:
-    - esong_code: 2626A41
-      song_name: 情熱のバラ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 情熱のバラ
-    song_alias:
-    esong_code: 2628A2
-    t_singer_master_id: '671'
-    singer_name: キム・ヨンジャ(金蓮子)
-    singer_alias:
-    available_date: '2011-07-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: しようねつのはら
-    singer_name_ruby: きむよんしや
-    song_variation:
-    - esong_code: 2628A2
-      song_name: 情熱のバラ
-      content_type: DAM生音
+      content_type: ''
   - song_name: 情熱ヒロイン
     song_alias:
     esong_code: 2631A15
@@ -517,3 +483,37 @@ result:
     - esong_code: 2638A30
       song_name: Switch On My Heart
       content_type: ''
+  - song_name: Sweet Season
+    song_alias:
+    esong_code: 2628A9
+    t_singer_master_id: '8492'
+    singer_name: 浜崎 あゆみ
+    singer_alias:
+    available_date: '2011-07-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾗｲﾌﾞ
+    song_name_ruby: すいとしすん
+    singer_name_ruby: はまさきあゆみ
+    song_variation:
+    - esong_code: 2628A9
+      song_name: Sweet Season
+      content_type: DAMﾗｲﾌﾞ
+  - song_name: Sweet Little Things [パセラオリジナル]
+    song_alias:
+    esong_code: 2635B31
+    t_singer_master_id: '42898'
+    singer_name: 小鳥遊 宗太
+    singer_alias:
+    available_date: '2011-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: WORKING!!<番組名>
+    country_code: '0'
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    song_name_ruby: すいとりとるしんく
+    singer_name_ruby: たかなしそうたはせら
+    song_variation:
+    - esong_code: 2635B31
+      song_name: Sweet Little Things [パセラオリジナル]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ

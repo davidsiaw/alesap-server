@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1527
-  all_country_cnt: 1321
+  max_cnt: 1310
+  all_max_cnt: 1516
+  all_country_cnt: 1310
   song:
-  - song_name: 越前つばき
-    song_alias:
-    esong_code: 2087B26
-    t_singer_master_id: '5744'
-    singer_name: 藤原 浩
-    singer_alias:
-    available_date: '2016-05-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: えちせんつはき
-    singer_name_ruby: ふしわらひろし
-    song_variation:
-    - esong_code: 2087B26
-      song_name: 越前つばき
-      content_type: JOY生演奏
-  - song_name: 恵傳
-    song_alias:
-    esong_code: 3628A43
-    t_singer_master_id: '44282'
-    singer_name: 前野 智昭
-    singer_alias:
-    available_date: '2016-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 剣が君 for V<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えてん
-    singer_name_ruby: まえのともあき
-    song_variation:
-    - esong_code: 3628A43
-      song_name: 恵傳
-      content_type: ''
   - song_name: エデンの園
     song_alias:
     esong_code: 1955B3
@@ -517,3 +483,37 @@ result:
     - esong_code: 1558A8
       song_name: 男と女でいたいのよ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 男と女の迷い道
+    song_alias:
+    esong_code: 1559A6
+    t_singer_master_id: '56076'
+    singer_name: 未土李&浜 ゆたか
+    singer_alias:
+    available_date: '2016-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとことおんなのまよ
+    singer_name_ruby: みとりはまゆたか
+    song_variation:
+    - esong_code: 1559A6
+      song_name: 男と女の迷い道
+      content_type: ''
+  - song_name: 男の子守唄
+    song_alias:
+    esong_code: 2084B17
+    t_singer_master_id: '41627'
+    singer_name: オール巨人
+    singer_alias:
+    available_date: '2016-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのこもりうた
+    singer_name_ruby: おるきよしん
+    song_variation:
+    - esong_code: 2084B17
+      song_name: 男の子守唄
+      content_type: ''

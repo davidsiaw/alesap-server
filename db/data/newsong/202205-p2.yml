@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 916
-  all_max_cnt: 1018
-  all_country_cnt: 916
+  max_cnt: 905
+  all_max_cnt: 1007
+  all_country_cnt: 905
   song:
-  - song_name: A little bit UP!!
-    song_alias:
-    esong_code: 4632A13
-    t_singer_master_id: '57753'
-    singer_name: Switch
-    singer_alias:
-    available_date: '2022-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: あんさんぶるスターズ!(ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありとるひつとあつ
-    singer_name_ruby: すういつち
-    song_variation:
-    - esong_code: 4632A13
-      song_name: A little bit UP!!
-      content_type: ''
   - song_name: ありふれた日々と、ありふれない君と。
     song_alias:
     esong_code: 4627A32
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4627A33
       song_name: if
+      content_type: ''
+  - song_name: IMA
+    song_alias:
+    esong_code: 4632B28
+    t_singer_master_id: '69177'
+    singer_name: Aile The Shota
+    singer_alias:
+    available_date: '2022-05-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いま
+    singer_name_ruby: あいるさしようた
+    song_variation:
+    - esong_code: 4632B28
+      song_name: IMA
       content_type: ''

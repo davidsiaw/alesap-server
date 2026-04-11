@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1167
-  all_max_cnt: 1285
-  all_country_cnt: 1167
+  max_cnt: 1163
+  all_max_cnt: 1281
+  all_country_cnt: 1163
   song:
-  - song_name: Strawberry Fantasy
-    song_alias:
-    esong_code: 1915A41
-    t_singer_master_id: '8405'
-    singer_name: 飯塚 雅弓
-    singer_alias:
-    available_date: '2007-12-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すとろへりふあん
-    singer_name_ruby: いいつかまゆみ
-    song_variation:
-    - esong_code: 1915A41
-      song_name: Strawberry Fantasy
-      content_type: ''
   - song_name: STROBO
     song_alias:
     esong_code: 1777B37
@@ -338,7 +321,7 @@ result:
     singer_alias:
     available_date: '2007-12-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: GUITARFREAKS 6thMIX & drummania 5thMIX Soundtrack<番組名>
+    tie_up: GuitarFreaks&DrumMania<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: せいろん
@@ -517,3 +500,20 @@ result:
     - esong_code: 1923B41
       song_name: セーラー服を脱がさないで
       content_type: DAM生音
+  - song_name: "-Sen-"
+    song_alias:
+    esong_code: 1926B38
+    t_singer_master_id: '6909'
+    singer_name: SOPHIA
+    singer_alias:
+    available_date: '2007-12-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せん
+    singer_name_ruby: そふいあ
+    song_variation:
+    - esong_code: 1926B38
+      song_name: "-Sen-"
+      content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1356
-  all_max_cnt: 1472
-  all_country_cnt: 1356
+  max_cnt: 1352
+  all_max_cnt: 1469
+  all_country_cnt: 1352
   song:
   - song_name: 天使(エンジェル)
     song_alias:
@@ -94,23 +94,6 @@ result:
       content_type: ''
   - song_name: 大阪やどり
     song_alias:
-    esong_code: 1513A40
-    t_singer_master_id: '1667'
-    singer_name: 永井 みゆき
-    singer_alias:
-    available_date: '2006-05-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おおさかやとり
-    singer_name_ruby: なかいみゆき
-    song_variation:
-    - esong_code: 1513A40
-      song_name: 大阪やどり
-      content_type: DAM生音
-  - song_name: 大阪やどり
-    song_alias:
     esong_code: 1499A26
     t_singer_master_id: '1667'
     singer_name: 永井 みゆき
@@ -126,6 +109,23 @@ result:
     - esong_code: 1499A26
       song_name: 大阪やどり
       content_type: ''
+  - song_name: 大阪やどり
+    song_alias:
+    esong_code: 1513A40
+    t_singer_master_id: '1667'
+    singer_name: 永井 みゆき
+    singer_alias:
+    available_date: '2006-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おおさかやとり
+    singer_name_ruby: なかいみゆき
+    song_variation:
+    - esong_code: 1513A40
+      song_name: 大阪やどり
+      content_type: DAM生音
   - song_name: おかあさん ごくろうさん
     song_alias:
     esong_code: 1515A32

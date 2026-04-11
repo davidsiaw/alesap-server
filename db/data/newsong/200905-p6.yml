@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 901
-  all_max_cnt: 1000
-  all_country_cnt: 901
+  max_cnt: 894
+  all_max_cnt: 993
+  all_country_cnt: 894
   song:
-  - song_name: おふくろの海
-    song_alias:
-    esong_code: 847A4
-    t_singer_master_id: '17447'
-    singer_name: 沢村 一樹
-    singer_alias:
-    available_date: '2009-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おふくろのうみ
-    singer_name_ruby: さわむらかすき
-    song_variation:
-    - esong_code: 847A4
-      song_name: おふくろの海
-      content_type: ''
   - song_name: Opening
     song_alias:
     esong_code: 2308B22
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2312B43
       song_name: かしの木
+      content_type: ''
+  - song_name: 風の詩
+    song_alias:
+    esong_code: 2312A24
+    t_singer_master_id: '136'
+    singer_name: アルフィー(THE ALFEE)
+    singer_alias:
+    available_date: '2009-05-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせのうた
+    singer_name_ruby: あるふい
+    song_variation:
+    - esong_code: 2312A24
+      song_name: 風の詩
       content_type: ''

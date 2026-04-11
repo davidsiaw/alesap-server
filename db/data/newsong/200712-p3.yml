@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1167
-  all_max_cnt: 1285
-  all_country_cnt: 1167
+  max_cnt: 1163
+  all_max_cnt: 1281
+  all_country_cnt: 1163
   song:
   - song_name: Angelica
     song_alias:
@@ -108,23 +108,6 @@ result:
     song_variation:
     - esong_code: 1921A32
       song_name: あんたを男にしてあげる
-      content_type: ''
-  - song_name: '192455631'
-    song_alias:
-    esong_code: 614A1
-    t_singer_master_id: '3044'
-    singer_name: 井上 喜久子
-    singer_alias:
-    available_date: '2007-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦3 〜巴里は燃えているか〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんぬふとうかとる
-    singer_name_ruby: いのうえきくこ
-    song_variation:
-    - esong_code: 614A1
-      song_name: '192455631'
       content_type: ''
   - song_name: amphibious
     song_alias:
@@ -279,7 +262,7 @@ result:
     - esong_code: 1916B39
       song_name: 漁り火浜唄
       content_type: ''
-  - song_name: EASY COME, EASY GO! (RISKY STYLE)
+  - song_name: EASY COME,EASY GO! (RISKY STYLE)
     song_alias:
     esong_code: 1926B41
     t_singer_master_id: '1928'
@@ -294,7 +277,7 @@ result:
     singer_name_ruby: ひす
     song_variation:
     - esong_code: 1926B41
-      song_name: EASY COME, EASY GO! (RISKY STYLE)
+      song_name: EASY COME,EASY GO! (RISKY STYLE)
       content_type: ''
   - song_name: 石川温泉小唄
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1922B7
       song_name: いつもどおりのまま (アンプラグド編)
+      content_type: ''
+  - song_name: 愛しい時間
+    song_alias:
+    esong_code: 1909B46
+    t_singer_master_id: '8405'
+    singer_name: 飯塚 雅弓
+    singer_alias:
+    available_date: '2007-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いとしいしかん
+    singer_name_ruby: いいつかまゆみ
+    song_variation:
+    - esong_code: 1909B46
+      song_name: 愛しい時間
       content_type: ''

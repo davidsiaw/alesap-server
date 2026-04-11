@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 677
-  all_max_cnt: 709
-  all_country_cnt: 677
+  max_cnt: 674
+  all_max_cnt: 706
+  all_country_cnt: 674
   song:
-  - song_name: 悲しみが消えるまで
-    song_alias:
-    esong_code: 959A45
-    t_singer_master_id: '21763'
-    singer_name: 松本 哲也
-    singer_alias:
-    available_date: '2004-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしみかきえるま
-    singer_name_ruby: まつもとてつや
-    song_variation:
-    - esong_code: 959A45
-      song_name: 悲しみが消えるまで
-      content_type: ''
-  - song_name: カナリア
-    song_alias:
-    esong_code: 859B29
-    t_singer_master_id: '10316'
-    singer_name: ジェーン・バーキン
-    singer_alias: Jane Birkin
-    available_date: '2004-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなりあ
-    singer_name_ruby: JANEBIRKIN
-    song_variation:
-    - esong_code: 859B29
-      song_name: カナリア
-      content_type: ''
   - song_name: Capsule
     song_alias:
     esong_code: 905A22
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 382A5
       song_name: きみまろの「やってられなぁーい!?」
+      content_type: ''
+  - song_name: 君を抱いて眠りたい
+    song_alias:
+    esong_code: 960A44
+    t_singer_master_id: '1232'
+    singer_name: 鈴木 雅之
+    singer_alias:
+    available_date: '2004-11-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: きみをたいてねむり
+    singer_name_ruby: すすきまさゆき
+    song_variation:
+    - esong_code: 960A44
+      song_name: 君を抱いて眠りたい
+      content_type: DAM良音
+  - song_name: 君を抱いて眠りたい
+    song_alias:
+    esong_code: 79B30
+    t_singer_master_id: '1232'
+    singer_name: 鈴木 雅之
+    singer_alias:
+    available_date: '2004-11-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみをたいてねむり
+    singer_name_ruby: すすきまさゆき
+    song_variation:
+    - esong_code: 79B30
+      song_name: 君を抱いて眠りたい
       content_type: ''

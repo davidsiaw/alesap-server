@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
   - song_name: 終わりで始まり
     song_alias:
@@ -77,23 +77,6 @@ result:
       content_type: DAM生音
   - song_name: 女の残り火
     song_alias:
-    esong_code: 3482A36
-    t_singer_master_id: '14044'
-    singer_name: 山口 ひろみ
-    singer_alias:
-    available_date: '2015-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おんなののこりひ
-    singer_name_ruby: やまくちひろみ
-    song_variation:
-    - esong_code: 3482A36
-      song_name: 女の残り火
-      content_type: DAM生音
-  - song_name: 女の残り火
-    song_alias:
     esong_code: 723B9
     t_singer_master_id: '14044'
     singer_name: 山口 ひろみ
@@ -109,6 +92,23 @@ result:
     - esong_code: 723B9
       song_name: 女の残り火
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 女の残り火
+    song_alias:
+    esong_code: 3482A36
+    t_singer_master_id: '14044'
+    singer_name: 山口 ひろみ
+    singer_alias:
+    available_date: '2015-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おんなののこりひ
+    singer_name_ruby: やまくちひろみ
+    song_variation:
+    - esong_code: 3482A36
+      song_name: 女の残り火
+      content_type: DAM生音
   - song_name: 女のひとり酒
     song_alias:
     esong_code: 3477A26
@@ -349,23 +349,6 @@ result:
       content_type: ''
   - song_name: 風岬
     song_alias:
-    esong_code: 3480B36
-    t_singer_master_id: '1107'
-    singer_name: 神野 美伽
-    singer_alias:
-    available_date: '2015-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: かせみさき
-    singer_name_ruby: しんのみか
-    song_variation:
-    - esong_code: 3480B36
-      song_name: 風岬
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 風岬
-    song_alias:
     esong_code: 3484A4
     t_singer_master_id: '1107'
     singer_name: 神野 美伽
@@ -381,6 +364,23 @@ result:
     - esong_code: 3484A4
       song_name: 風岬
       content_type: JOY生演奏
+  - song_name: 風岬
+    song_alias:
+    esong_code: 3480B36
+    t_singer_master_id: '1107'
+    singer_name: 神野 美伽
+    singer_alias:
+    available_date: '2015-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: かせみさき
+    singer_name_ruby: しんのみか
+    song_variation:
+    - esong_code: 3480B36
+      song_name: 風岬
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 片想い feat.山口リサ&TAKAFIN
     song_alias:
     esong_code: 3474B17

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1052
-  all_max_cnt: 1126
-  all_country_cnt: 1052
+  max_cnt: 1051
+  all_max_cnt: 1125
+  all_country_cnt: 1051
   song:
-  - song_name: 陽のあたる場所
-    song_alias:
-    esong_code: 1967A46
-    t_singer_master_id: '12573'
-    singer_name: SCRIPT
-    singer_alias:
-    available_date: '2008-03-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひのあたるはしよ
-    singer_name_ruby: すくりふと
-    song_variation:
-    - esong_code: 1967A46
-      song_name: 陽のあたる場所
-      content_type: ''
   - song_name: 陽の光さえ届かないこの場所で feat,SUGIZO
     song_alias:
     esong_code: 1961A13
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1959A22
       song_name: 風恋歌
+      content_type: ''
+  - song_name: FAIRY TALE
+    song_alias:
+    esong_code: 1967A48
+    t_singer_master_id: '2740'
+    singer_name: SOFT BALLET
+    singer_alias:
+    available_date: '2008-03-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふえありている
+    singer_name_ruby: そふとはれえ
+    song_variation:
+    - esong_code: 1967A48
+      song_name: FAIRY TALE
       content_type: ''

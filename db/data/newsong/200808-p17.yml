@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 942
-  all_max_cnt: 1036
-  all_country_cnt: 942
+  max_cnt: 935
+  all_max_cnt: 1029
+  all_country_cnt: 935
   song:
-  - song_name: 東京・大阪物語
-    song_alias:
-    esong_code: 2067A32
-    t_singer_master_id: '6549'
-    singer_name: 松平 健&真木 由布子
-    singer_alias:
-    available_date: '2008-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきようおおさかも
-    singer_name_ruby: まつたいらけんまき
-    song_variation:
-    - esong_code: 2067A32
-      song_name: 東京・大阪物語
-      content_type: ''
-  - song_name: 童子-Tメドレー
-    song_alias:
-    esong_code: 2064B49
-    t_singer_master_id: '15624'
-    singer_name: 童子-T
-    singer_alias:
-    available_date: '2008-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうしていめと
-    singer_name_ruby: とうしてい
-    song_variation:
-    - esong_code: 2064B49
-      song_name: 童子-Tメドレー
-      content_type: ''
-  - song_name: To Be Free
-    song_alias:
-    esong_code: 2062A35
-    t_singer_master_id: '26178'
-    singer_name: 中川 翔子
-    singer_alias:
-    available_date: '2008-08-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうひふり
-    singer_name_ruby: なかかわしようこ
-    song_variation:
-    - esong_code: 2062A35
-      song_name: To Be Free
-      content_type: ''
   - song_name: TWO-FACE WOMAN
     song_alias:
     esong_code: 2061B33
@@ -185,7 +134,7 @@ result:
     singer_alias:
     available_date: '2008-08-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 スーパー歌謡ショウ 〜新編八犬伝〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ときのかれに
@@ -434,23 +383,6 @@ result:
       content_type: ''
   - song_name: Dreamer
     song_alias:
-    esong_code: 2063B42
-    t_singer_master_id: '1112'
-    singer_name: ZYYG
-    singer_alias:
-    available_date: '2008-08-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とりま
-    singer_name_ruby: しく
-    song_variation:
-    - esong_code: 2063B42
-      song_name: Dreamer
-      content_type: ''
-  - song_name: Dreamer
-    song_alias:
     esong_code: 2055A25
     t_singer_master_id: '2923'
     singer_name: ZABADAK
@@ -464,6 +396,23 @@ result:
     singer_name_ruby: さはたつく
     song_variation:
     - esong_code: 2055A25
+      song_name: Dreamer
+      content_type: ''
+  - song_name: Dreamer
+    song_alias:
+    esong_code: 2063B42
+    t_singer_master_id: '1112'
+    singer_name: ZYYG
+    singer_alias:
+    available_date: '2008-08-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりま
+    singer_name_ruby: しく
+    song_variation:
+    - esong_code: 2063B42
       song_name: Dreamer
       content_type: ''
   - song_name: DreamPark 〜野球場へゆこう〜
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2065A38
       song_name: Torque
+      content_type: ''
+  - song_name: Treasure
+    song_alias:
+    esong_code: 2055B14
+    t_singer_master_id: '32060'
+    singer_name: 飛輪海
+    singer_alias:
+    available_date: '2008-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とれしや
+    singer_name_ruby: ふえいるんはい
+    song_variation:
+    - esong_code: 2055B14
+      song_name: Treasure
+      content_type: ''
+  - song_name: DROP
+    song_alias:
+    esong_code: 2064A18
+    t_singer_master_id: '23693'
+    singer_name: 奥 華子
+    singer_alias:
+    available_date: '2008-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とろつふ
+    singer_name_ruby: おくはなこ
+    song_variation:
+    - esong_code: 2064A18
+      song_name: DROP
+      content_type: ''
+  - song_name: 永久(とわ)のいましめ
+    song_alias:
+    esong_code: 1583B28
+    t_singer_master_id: '16179'
+    singer_name: 鳥海 浩輔
+    singer_alias:
+    available_date: '2008-08-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Saint Beast OVA 〜幾千の昼と夜編〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とわのいましめ
+    singer_name_ruby: とりうみこうすけ
+    song_variation:
+    - esong_code: 1583B28
+      song_name: 永久(とわ)のいましめ
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 814
-  all_max_cnt: 889
-  all_country_cnt: 814
+  max_cnt: 807
+  all_max_cnt: 882
+  all_country_cnt: 807
   song:
   - song_name: 灯
     song_alias:
@@ -193,23 +193,6 @@ result:
     song_variation:
     - esong_code: 4491B26
       song_name: あたらしい生活
-      content_type: ''
-  - song_name: 新しい太陽
-    song_alias:
-    esong_code: 4495B22
-    t_singer_master_id: '44185'
-    singer_name: A.B.C-Z
-    singer_alias:
-    available_date: '2021-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あたらしいたいよう
-    singer_name_ruby: えひしすい
-    song_variation:
-    - esong_code: 4495B22
-      song_name: 新しい太陽
       content_type: ''
   - song_name: 新しい花
     song_alias:
@@ -417,23 +400,6 @@ result:
       content_type: ''
   - song_name: 天草ひとり
     song_alias:
-    esong_code: 4487A47
-    t_singer_master_id: '1683'
-    singer_name: 夏木 綾子
-    singer_alias:
-    available_date: '2021-04-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あまくさひとり
-    singer_name_ruby: なつきあやこ
-    song_variation:
-    - esong_code: 4487A47
-      song_name: 天草ひとり
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 天草ひとり
-    song_alias:
     esong_code: 4488B22
     t_singer_master_id: '1683'
     singer_name: 夏木 綾子
@@ -466,6 +432,23 @@ result:
     - esong_code: 3879A44
       song_name: 天草ひとり
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 天草ひとり
+    song_alias:
+    esong_code: 4487A47
+    t_singer_master_id: '1683'
+    singer_name: 夏木 綾子
+    singer_alias:
+    available_date: '2021-04-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あまくさひとり
+    singer_name_ruby: なつきあやこ
+    song_variation:
+    - esong_code: 4487A47
+      song_name: 天草ひとり
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 天満月〜アマミツツキ
     song_alias:
     esong_code: 4488B10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4493B8
       song_name: 妖しく Get your heart
+      content_type: ''
+  - song_name: あゆみ 2021
+    song_alias:
+    esong_code: 4495B4
+    t_singer_master_id: '53958'
+    singer_name: 柳町 純
+    singer_alias:
+    available_date: '2021-04-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あゆみにせんにしゆ
+    singer_name_ruby: やなきまちしゆん
+    song_variation:
+    - esong_code: 4495B4
+      song_name: あゆみ 2021
       content_type: ''

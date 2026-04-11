@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
   - song_name: コーヒー・サイフォン
     song_alias:
@@ -185,7 +185,7 @@ result:
     singer_alias:
     available_date: '2017-12-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HUNTER×HUNTER(2011)<番組名>
+    tie_up: HUNTER×HUNTER<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さいくるすういんと
@@ -278,23 +278,6 @@ result:
     song_variation:
     - esong_code: 3927B13
       song_name: サイコロジック
-      content_type: ''
-  - song_name: 最最強
-    song_alias:
-    esong_code: 3914A9
-    t_singer_master_id: '37709'
-    singer_name: 岡本 信彦
-    singer_alias:
-    available_date: '2017-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいさいきよう
-    singer_name_ruby: おかもとのふひこ
-    song_variation:
-    - esong_code: 3914A9
-      song_name: 最最強
       content_type: ''
   - song_name: 最初から君は
     song_alias:
@@ -400,40 +383,6 @@ result:
       content_type: ''
   - song_name: 酒田カモメ唄
     song_alias:
-    esong_code: 3920B40
-    t_singer_master_id: '55749'
-    singer_name: 羽山 みずき
-    singer_alias:
-    available_date: '2017-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: さかたかもめうた
-    singer_name_ruby: はやまみすき
-    song_variation:
-    - esong_code: 3920B40
-      song_name: 酒田カモメ唄
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 酒田カモメ唄
-    song_alias:
-    esong_code: 2222A45
-    t_singer_master_id: '55749'
-    singer_name: 羽山 みずき
-    singer_alias:
-    available_date: '2017-12-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: さかたかもめうた
-    singer_name_ruby: はやまみすき
-    song_variation:
-    - esong_code: 2222A45
-      song_name: 酒田カモメ唄
-      content_type: JOY生演奏
-  - song_name: 酒田カモメ唄
-    song_alias:
     esong_code: 2223B42
     t_singer_master_id: '55749'
     singer_name: 羽山 みずき
@@ -466,6 +415,40 @@ result:
     - esong_code: 2230B8
       song_name: 酒田カモメ唄
       content_type: ''
+  - song_name: 酒田カモメ唄
+    song_alias:
+    esong_code: 2222A45
+    t_singer_master_id: '55749'
+    singer_name: 羽山 みずき
+    singer_alias:
+    available_date: '2017-12-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: さかたかもめうた
+    singer_name_ruby: はやまみすき
+    song_variation:
+    - esong_code: 2222A45
+      song_name: 酒田カモメ唄
+      content_type: JOY生演奏
+  - song_name: 酒田カモメ唄
+    song_alias:
+    esong_code: 3920B40
+    t_singer_master_id: '55749'
+    singer_name: 羽山 みずき
+    singer_alias:
+    available_date: '2017-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: さかたかもめうた
+    singer_name_ruby: はやまみすき
+    song_variation:
+    - esong_code: 3920B40
+      song_name: 酒田カモメ唄
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 咲かないで
     song_alias:
     esong_code: 3918B2
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3927B2
       song_name: サクラ色
+      content_type: ''
+  - song_name: 桜の約束 〜始まりの場所〜
+    song_alias:
+    esong_code: 3926A6
+    t_singer_master_id: '60322'
+    singer_name: 平川 大輔&日野 聡&福山 潤&石田 彰
+    singer_alias:
+    available_date: '2017-12-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ボーイフレンド(仮)きらめき☆ノート<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらのやくそくはし
+    singer_name_ruby: ひらかわたいすけひのさとし
+    song_variation:
+    - esong_code: 3926A6
+      song_name: 桜の約束 〜始まりの場所〜
       content_type: ''

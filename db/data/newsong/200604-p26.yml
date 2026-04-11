@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: ヒナギク月に照らされて -DaisyMoon
-    song_alias:
-    esong_code: 1490B5
-    t_singer_master_id: '960'
-    singer_name: 佐野 元春
-    singer_alias:
-    available_date: '2006-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひなきくつきにてら
-    singer_name_ruby: さのもとはる
-    song_variation:
-    - esong_code: 1490B5
-      song_name: ヒナギク月に照らされて -DaisyMoon
-      content_type: ''
-  - song_name: Venus (Eurobeat Remix)
-    song_alias:
-    esong_code: 1495A38
-    t_singer_master_id: '14556'
-    singer_name: タッキー&翼
-    singer_alias:
-    available_date: '2006-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひなす
-    singer_name_ruby: たつきあんとつはさ
-    song_variation:
-    - esong_code: 1495A38
-      song_name: Venus (Eurobeat Remix)
-      content_type: ''
   - song_name: Venus
     song_alias:
     esong_code: 1488A36
@@ -58,6 +24,23 @@ result:
     - esong_code: 1488A36
       song_name: Venus
       content_type: DAMｸﾘｯﾌﾟ良音
+  - song_name: Venus (Eurobeat Remix)
+    song_alias:
+    esong_code: 1495A38
+    t_singer_master_id: '14556'
+    singer_name: タッキー&翼
+    singer_alias:
+    available_date: '2006-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひなす
+    singer_name_ruby: たつきあんとつはさ
+    song_variation:
+    - esong_code: 1495A38
+      song_name: Venus (Eurobeat Remix)
+      content_type: ''
   - song_name: 火の酒
     song_alias:
     esong_code: 1490B25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1483A11
       song_name: for Dear...
+      content_type: ''
+  - song_name: 不思議少女ナナ
+    song_alias:
+    esong_code: 377A32
+    t_singer_master_id: '1849'
+    singer_name: 爆風スランプ
+    singer_alias:
+    available_date: '2006-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふしきしようしよ
+    singer_name_ruby: はくふうすらんふ
+    song_variation:
+    - esong_code: 377A32
+      song_name: 不思議少女ナナ
       content_type: ''

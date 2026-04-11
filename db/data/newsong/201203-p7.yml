@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1318
-  all_max_cnt: 1435
-  all_country_cnt: 1318
+  max_cnt: 1313
+  all_max_cnt: 1430
+  all_country_cnt: 1313
   song:
-  - song_name: おまえは泣くな
-    song_alias:
-    esong_code: 2580A12
-    t_singer_master_id: '17780'
-    singer_name: 坂井 一郎
-    singer_alias:
-    available_date: '2012-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おまえはなくな
-    singer_name_ruby: さかいいちろう
-    song_variation:
-    - esong_code: 2580A12
-      song_name: おまえは泣くな
-      content_type: ''
   - song_name: お待たせ Set list (team KⅡ)
     song_alias:
     esong_code: 2558A16
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: 海峡の月
     song_alias:
-    esong_code: 2772B23
-    t_singer_master_id: '8029'
-    singer_name: 北野 まち子(北乃町子)
-    singer_alias:
-    available_date: '2012-03-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かいきようのつき
-    singer_name_ruby: きたのまちこ
-    song_variation:
-    - esong_code: 2772B23
-      song_name: 海峡の月
-      content_type: DAM生音
-  - song_name: 海峡の月
-    song_alias:
     esong_code: 2772B43
     t_singer_master_id: '8029'
     singer_name: 北野 まち子(北乃町子)
@@ -347,6 +313,23 @@ result:
     - esong_code: 2772B43
       song_name: 海峡の月
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 海峡の月
+    song_alias:
+    esong_code: 2772B23
+    t_singer_master_id: '8029'
+    singer_name: 北野 まち子(北乃町子)
+    singer_alias:
+    available_date: '2012-03-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: かいきようのつき
+    singer_name_ruby: きたのまちこ
+    song_variation:
+    - esong_code: 2772B23
+      song_name: 海峡の月
+      content_type: DAM生音
   - song_name: 海峡の宿
     song_alias:
     esong_code: 2772B25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2777A4
       song_name: 風花・舞う朝
+      content_type: ''
+  - song_name: カサブランカ
+    song_alias:
+    esong_code: 2770A32
+    t_singer_master_id: '570'
+    singer_name: 加門 亮
+    singer_alias:
+    available_date: '2012-03-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かさふらんか
+    singer_name_ruby: かもんりよう
+    song_variation:
+    - esong_code: 2770A32
+      song_name: カサブランカ
       content_type: ''

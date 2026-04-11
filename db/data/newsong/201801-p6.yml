@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1127
-  all_max_cnt: 1243
-  all_country_cnt: 1127
+  max_cnt: 1112
+  all_max_cnt: 1228
+  all_country_cnt: 1112
   song:
-  - song_name: 男の絶唱 「名演ギター 斉藤 功」
-    song_alias:
-    esong_code: 2137B42
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2018-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこのせつしよう
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 2137B42
-      song_name: 男の絶唱 「名演ギター 斉藤 功」
-      content_type: ''
   - song_name: 男の流儀 「名演ギター 斉藤 功」
     song_alias:
     esong_code: 2137B25
@@ -179,6 +162,23 @@ result:
       content_type: ''
   - song_name: おぼえていますか
     song_alias:
+    esong_code: 2140B10
+    t_singer_master_id: '824'
+    singer_name: 小金沢 昇司
+    singer_alias:
+    available_date: '2018-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おほえていますか
+    singer_name_ruby: こかねさわしようし
+    song_variation:
+    - esong_code: 2140B10
+      song_name: おぼえていますか
+      content_type: ''
+  - song_name: おぼえていますか
+    song_alias:
     esong_code: 2140A38
     t_singer_master_id: '824'
     singer_name: 小金沢 昇司
@@ -211,23 +211,6 @@ result:
     - esong_code: 2139A15
       song_name: おぼえていますか
       content_type: JOY生演奏
-  - song_name: おぼえていますか
-    song_alias:
-    esong_code: 2140B10
-    t_singer_master_id: '824'
-    singer_name: 小金沢 昇司
-    singer_alias:
-    available_date: '2018-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おほえていますか
-    singer_name_ruby: こかねさわしようし
-    song_variation:
-    - esong_code: 2140B10
-      song_name: おぼえていますか
-      content_type: ''
   - song_name: 朧月夜
     song_alias:
     esong_code: 3932B39
@@ -517,3 +500,20 @@ result:
     - esong_code: 3745A41
       song_name: 女のこころ
       content_type: ''
+  - song_name: 女のなみだ
+    song_alias:
+    esong_code: 1931B8
+    t_singer_master_id: '541'
+    singer_name: 角川 博
+    singer_alias:
+    available_date: '2018-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: おんなのなみた
+    singer_name_ruby: かとかわひろし
+    song_variation:
+    - esong_code: 1931B8
+      song_name: 女のなみだ
+      content_type: JOY生演奏

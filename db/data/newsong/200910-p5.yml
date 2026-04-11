@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: ENERGY
-    song_alias:
-    esong_code: 2411A32
-    t_singer_master_id: '19084'
-    singer_name: CHERRYBLOSSOM
-    singer_alias:
-    available_date: '2009-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えねるき
-    singer_name_ruby: ちえりふろつさむ
-    song_variation:
-    - esong_code: 2411A32
-      song_name: ENERGY
-      content_type: ''
   - song_name: 1/fの感触
     song_alias:
     esong_code: 2415A4
@@ -77,6 +60,23 @@ result:
       content_type: ''
   - song_name: YELL
     song_alias:
+    esong_code: 2413B29
+    t_singer_master_id: '25694'
+    singer_name: いきものがかり
+    singer_alias:
+    available_date: '2009-10-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: える
+    singer_name_ruby: いきものかかり
+    song_variation:
+    - esong_code: 2413B29
+      song_name: YELL
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: YELL
+    song_alias:
     esong_code: 2407B10
     t_singer_master_id: '25694'
     singer_name: いきものがかり
@@ -109,23 +109,6 @@ result:
     - esong_code: 2407B15
       song_name: Yeeeeell!
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: YELL
-    song_alias:
-    esong_code: 2413B29
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2009-10-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みんなのうた<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: える
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 2413B29
-      song_name: YELL
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: LGYankeesメドレー
     song_alias:
     esong_code: 2412A48
@@ -349,23 +332,6 @@ result:
       content_type: ''
   - song_name: "-OZONE-"
     song_alias:
-    esong_code: 2356A2
-    t_singer_master_id: '11865'
-    singer_name: vistlip
-    singer_alias:
-    available_date: '2009-10-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 遊戯王 5D's<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おそん
-    singer_name_ruby: ひすとりつふ
-    song_variation:
-    - esong_code: 2356A2
-      song_name: "-OZONE-"
-      content_type: ''
-  - song_name: "-OZONE-"
-    song_alias:
     esong_code: 2407B21
     t_singer_master_id: '11865'
     singer_name: vistlip
@@ -381,6 +347,23 @@ result:
     - esong_code: 2407B21
       song_name: "-OZONE-"
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: "-OZONE-"
+    song_alias:
+    esong_code: 2356A2
+    t_singer_master_id: '11865'
+    singer_name: vistlip
+    singer_alias:
+    available_date: '2009-10-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 遊戯王 5D's<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おそん
+    singer_name_ruby: ひすとりつふ
+    song_variation:
+    - esong_code: 2356A2
+      song_name: "-OZONE-"
+      content_type: ''
   - song_name: 堕ちて候
     song_alias:
     esong_code: 2430B21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2400A17
       song_name: おはよう!!朝ご飯
+      content_type: ''
+  - song_name: over ONE
+    song_alias:
+    esong_code: 2410A29
+    t_singer_master_id: '14940'
+    singer_name: KASUMI
+    singer_alias:
+    available_date: '2009-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: SHADOW SKILL-影技-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おはわん
+    singer_name_ruby: かすみ
+    song_variation:
+    - esong_code: 2410A29
+      song_name: over ONE
       content_type: ''

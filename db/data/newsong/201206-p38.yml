@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: めぐる愛の中で 〜天国への母賛歌〜
-    song_alias:
-    esong_code: 2810B38
-    t_singer_master_id: '25339'
-    singer_name: Metis
-    singer_alias:
-    available_date: '2012-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めくるあいのなかて
-    singer_name_ruby: めていす
-    song_variation:
-    - esong_code: 2810B38
-      song_name: めぐる愛の中で 〜天国への母賛歌〜
-      content_type: ''
-  - song_name: MAJORメドレー
-    song_alias:
-    esong_code: 2799A30
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2012-06-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: MAJOR<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: めしやめとれ
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 2799A30
-      song_name: MAJORメドレー
-      content_type: ''
   - song_name: MAJORメドレー Vol.2
     song_alias:
     esong_code: 2804B38
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2810A40
       song_name: ももねこ音頭
+      content_type: ''
+  - song_name: モルモットと傭兵 feat.GUMI
+    song_alias:
+    esong_code: 2809A22
+    t_singer_master_id: '44906'
+    singer_name: くるりんご
+    singer_alias:
+    available_date: '2012-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: もるもつととようへい
+    singer_name_ruby: くるりんこ
+    song_variation:
+    - esong_code: 2809A22
+      song_name: モルモットと傭兵 feat.GUMI
+      content_type: VOCALOID
+  - song_name: MONSTER
+    song_alias:
+    esong_code: 2805B21
+    t_singer_master_id: '29285'
+    singer_name: BIGBANG
+    singer_alias:
+    available_date: '2012-06-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: もんすた
+    singer_name_ruby: ひつくはん
+    song_variation:
+    - esong_code: 2805B21
+      song_name: MONSTER
       content_type: ''

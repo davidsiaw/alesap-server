@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
-  - song_name: 寝顔を見せて
-    song_alias:
-    esong_code: 2270A25
-    t_singer_master_id: '12020'
-    singer_name: ソウル・フラワー・ユニオン
-    singer_alias:
-    available_date: '2009-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ねかおをみせて
-    singer_name_ruby: そうるふらわゆにおん
-    song_variation:
-    - esong_code: 2270A25
-      song_name: 寝顔を見せて
-      content_type: ''
-  - song_name: NEXT DOOR feat.HIGH VIBES
-    song_alias:
-    esong_code: 2263B45
-    t_singer_master_id: '36217'
-    singer_name: DJ RYUUKI&U.C.84's ALLSTARS
-    singer_alias:
-    available_date: '2009-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ねくすととあ
-    singer_name_ruby: ていしえいりゆうきあんとゆしえい
-    song_variation:
-    - esong_code: 2263B45
-      song_name: NEXT DOOR feat.HIGH VIBES
-      content_type: ''
   - song_name: NEXT LEVEL
     song_alias:
     esong_code: 2275B7
@@ -194,23 +160,6 @@ result:
     - esong_code: 2269A30
       song_name: ノスタル 〜遠い約束〜
       content_type: ''
-  - song_name: Nostalgia
-    song_alias:
-    esong_code: 2265A20
-    t_singer_master_id: '36231'
-    singer_name: Maichi×LGYankees
-    singer_alias:
-    available_date: '2009-03-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のすたるしあ
-    singer_name_ruby: まいちえるしやんきす
-    song_variation:
-    - esong_code: 2265A20
-      song_name: Nostalgia
-      content_type: ''
   - song_name: ノスタルジア
     song_alias:
     esong_code: 2256A21
@@ -227,6 +176,23 @@ result:
     song_variation:
     - esong_code: 2256A21
       song_name: ノスタルジア
+      content_type: ''
+  - song_name: Nostalgia
+    song_alias:
+    esong_code: 2265A20
+    t_singer_master_id: '36231'
+    singer_name: Maichi×LGYankees
+    singer_alias:
+    available_date: '2009-03-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のすたるしあ
+    singer_name_ruby: まいちえるしやんきす
+    song_variation:
+    - esong_code: 2265A20
+      song_name: Nostalgia
       content_type: ''
   - song_name: Nobody Knows
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2281A28
       song_name: 箱庭ノート
+      content_type: ''
+  - song_name: バタフライ 〜あの晴れた空の向こうへ〜
+    song_alias:
+    esong_code: 2275B26
+    t_singer_master_id: '599'
+    singer_name: 川村 カオリ(川村かおり)
+    singer_alias:
+    available_date: '2009-03-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はたふらい
+    singer_name_ruby: かわむらかおり
+    song_variation:
+    - esong_code: 2275B26
+      song_name: バタフライ 〜あの晴れた空の向こうへ〜
+      content_type: ''
+  - song_name: バタフライングリップス
+    song_alias:
+    esong_code: 2270B16
+    t_singer_master_id: '30292'
+    singer_name: モノブライト
+    singer_alias:
+    available_date: '2009-03-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はたふらいんくり
+    singer_name_ruby: ものふらいと
+    song_variation:
+    - esong_code: 2270B16
+      song_name: バタフライングリップス
       content_type: ''

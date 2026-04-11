@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
   - song_name: アイラブ横浜
     song_alias:
@@ -230,23 +230,6 @@ result:
       content_type: ''
   - song_name: 証
     song_alias:
-    esong_code: 2918B38
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2012-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかし
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 2918B38
-      song_name: 証
-      content_type: ''
-  - song_name: 証
-    song_alias:
     esong_code: 2339B9
     t_singer_master_id: '10314'
     singer_name: 嵐
@@ -262,6 +245,23 @@ result:
     - esong_code: 2339B9
       song_name: 証
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 証
+    song_alias:
+    esong_code: 2918B38
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2012-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかし
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 2918B38
+      song_name: 証
+      content_type: ''
   - song_name: 茜色したあの空は
     song_alias:
     esong_code: 2912B5
@@ -483,9 +483,9 @@ result:
     - esong_code: 2921B40
       song_name: 明日のラストナイト
       content_type: ''
-  - song_name: 明日(あした)へ続く道 女声三部合唱
+  - song_name: 明日(あした)へ続く道 混声四部合唱
     song_alias:
-    esong_code: 2899A23
+    esong_code: 2899A22
     t_singer_master_id: '10342'
     singer_name: 合唱
     singer_alias:
@@ -497,8 +497,8 @@ result:
     song_name_ruby: あしたへつつくみち
     singer_name_ruby: かつしよう
     song_variation:
-    - esong_code: 2899A23
-      song_name: 明日(あした)へ続く道 女声三部合唱
+    - esong_code: 2899A22
+      song_name: 明日(あした)へ続く道 混声四部合唱
       content_type: ''
   - song_name: 明日(あした)へ続く道 男声三部合唱
     song_alias:

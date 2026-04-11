@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 947
-  all_max_cnt: 1077
-  all_country_cnt: 947
+  max_cnt: 945
+  all_max_cnt: 1075
+  all_country_cnt: 945
   song:
   - song_name: ブラックバード
     song_alias:
@@ -249,7 +249,7 @@ result:
     song_alias:
     esong_code: 2369A45
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2009-08-05'
     end_date: '2999-04-10 00:00:00'
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: FRIENDSHIP
     song_alias:
-    esong_code: 2371A31
-    t_singer_master_id: '33419'
-    singer_name: girl next door
-    singer_alias:
-    available_date: '2009-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれんとしつふ
-    singer_name_ruby: かるねくすととあ
-    song_variation:
-    - esong_code: 2371A31
-      song_name: FRIENDSHIP
-      content_type: ''
-  - song_name: FRIENDSHIP
-    song_alias:
     esong_code: 2394A37
     t_singer_master_id: '33419'
     singer_name: girl next door
@@ -500,6 +483,23 @@ result:
     - esong_code: 2394A37
       song_name: FRIENDSHIP
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: FRIENDSHIP
+    song_alias:
+    esong_code: 2371A31
+    t_singer_master_id: '33419'
+    singer_name: girl next door
+    singer_alias:
+    available_date: '2009-08-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれんとしつふ
+    singer_name_ruby: かるねくすととあ
+    song_variation:
+    - esong_code: 2371A31
+      song_name: FRIENDSHIP
+      content_type: ''
   - song_name: Programming for non-fiction
     song_alias:
     esong_code: 2375A40

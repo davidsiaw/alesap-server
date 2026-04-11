@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 385
-  all_max_cnt: 411
-  all_country_cnt: 385
+  max_cnt: 380
+  all_max_cnt: 405
+  all_country_cnt: 380
   song:
   - song_name: "「いざゆけ若鷹軍団」福岡ダイエーホークス公式応援歌"
     song_alias:
@@ -91,23 +91,6 @@ result:
     song_variation:
     - esong_code: 732B37
       song_name: 命の花
-      content_type: ''
-  - song_name: 以来絶頂
-    song_alias:
-    esong_code: 737A23
-    t_singer_master_id: '16424'
-    singer_name: nobodyknows+
-    singer_alias:
-    available_date: '2003-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いらいせつちよう
-    singer_name_ruby: のはていのうす
-    song_variation:
-    - esong_code: 737A23
-      song_name: 以来絶頂
       content_type: ''
   - song_name: INCREASE BLUE
     song_alias:
@@ -427,7 +410,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: おいしいみす
-    singer_name_ruby: MARIACREUZA
+    singer_name_ruby: まりあくれうさ
     song_variation:
     - esong_code: 640A21
       song_name: おいしい水 (ポルトガル語詞)
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 643B24
       song_name: 男の花火
+      content_type: ''
+  - song_name: OBSCURE
+    song_alias:
+    esong_code: 639A31
+    t_singer_master_id: '8635'
+    singer_name: DIR EN GREY(Dir en grey)
+    singer_alias:
+    available_date: '2003-09-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おふすきゆあ
+    singer_name_ruby: ているあんくれい
+    song_variation:
+    - esong_code: 639A31
+      song_name: OBSCURE
       content_type: ''

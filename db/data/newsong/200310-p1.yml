@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 531
-  all_max_cnt: 644
-  all_country_cnt: 531
+  max_cnt: 533
+  all_max_cnt: 646
+  all_country_cnt: 533
   song:
+  - song_name: 雨のエレジー
+    song_alias:
+    esong_code: 318B46
+    t_singer_master_id: '691'
+    singer_name: 杏子
+    singer_alias:
+    available_date: '2003-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめのえれし
+    singer_name_ruby: きようこ
+    song_variation:
+    - esong_code: 318B46
+      song_name: 雨のエレジー
+      content_type: ''
   - song_name: ありがとね!
     song_alias:
     esong_code: 822A30
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 645B40
       song_name: イミテイション・ゴールド feat.倉木麻衣
-      content_type: ''
-  - song_name: ウィークエンド feat.MIHO BROWN,Tyler
-    song_alias:
-    esong_code: 645B27
-    t_singer_master_id: '10597'
-    singer_name: ZEEBRA
-    singer_alias:
-    available_date: '2003-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういくえんと
-    singer_name_ruby: しふら
-    song_variation:
-    - esong_code: 645B27
-      song_name: ウィークエンド feat.MIHO BROWN,Tyler
       content_type: ''

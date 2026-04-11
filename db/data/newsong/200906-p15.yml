@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1072
-  all_max_cnt: 1218
-  all_country_cnt: 1072
+  max_cnt: 1061
+  all_max_cnt: 1207
+  all_country_cnt: 1061
   song:
-  - song_name: 終点 〜君の腕の中〜
-    song_alias:
-    esong_code: 2323B7
-    t_singer_master_id: '25511'
-    singer_name: misono
-    singer_alias:
-    available_date: '2009-06-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆうてん
-    singer_name_ruby: みその
-    song_variation:
-    - esong_code: 2323B7
-      song_name: 終点 〜君の腕の中〜
-      content_type: ''
   - song_name: 柔道一代 徳三宝
     song_alias:
     esong_code: 1959B39
@@ -466,23 +449,6 @@ result:
     - esong_code: 2330A27
       song_name: Switch
       content_type: DAM良音
-  - song_name: Switch
-    song_alias:
-    esong_code: 2323B11
-    t_singer_master_id: '16137'
-    singer_name: mihimaru GT
-    singer_alias:
-    available_date: '2009-06-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すいつち
-    singer_name_ruby: みひまるしてい
-    song_variation:
-    - esong_code: 2323B11
-      song_name: Switch
-      content_type: ''
   - song_name: 数字と恋
     song_alias:
     esong_code: 2357A2
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2344A38
       song_name: Sky (TVP UTA'S MIX)
+      content_type: ''
+  - song_name: スカイ one
+    song_alias:
+    esong_code: 2328B21
+    t_singer_master_id: '36950'
+    singer_name: 井澤 勇貴
+    singer_alias:
+    available_date: '2009-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すかいわん
+    singer_name_ruby: いさわゆうき
+    song_variation:
+    - esong_code: 2328B21
+      song_name: スカイ one
+      content_type: ''
+  - song_name: 好きなのさ
+    song_alias:
+    esong_code: 2328B7
+    t_singer_master_id: '28728'
+    singer_name: 司 純
+    singer_alias:
+    available_date: '2009-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すきなのさ
+    singer_name_ruby: つかさしゆん
+    song_variation:
+    - esong_code: 2328B7
+      song_name: 好きなのさ
       content_type: ''

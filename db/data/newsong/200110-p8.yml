@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 350
-  all_max_cnt: 382
-  all_country_cnt: 350
+  max_cnt: 346
+  all_max_cnt: 378
+  all_country_cnt: 346
   song:
-  - song_name: 花
-    song_alias:
-    esong_code: 696B29
-    t_singer_master_id: '13040'
-    singer_name: 樹原 涼子
-    singer_alias:
-    available_date: '2001-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 俺の屍を越えてゆけ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はな
-    singer_name_ruby: きはらりようこ
-    song_variation:
-    - esong_code: 696B29
-      song_name: 花
-      content_type: ''
-  - song_name: 花いちもんめ
-    song_alias:
-    esong_code: 219B12
-    t_singer_master_id: '1671'
-    singer_name: 長渕 剛
-    singer_alias:
-    available_date: '2001-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はないちもんめ
-    singer_name_ruby: なかふちつよし
-    song_variation:
-    - esong_code: 219B12
-      song_name: 花いちもんめ
-      content_type: ''
-  - song_name: 花のように
-    song_alias:
-    esong_code: 692B37
-    t_singer_master_id: '7646'
-    singer_name: 松 たか子
-    singer_alias:
-    available_date: '2001-10-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はなのように
-    singer_name_ruby: まつたかこ
-    song_variation:
-    - esong_code: 692B37
-      song_name: 花のように
-      content_type: ''
   - song_name: 花冷え
     song_alias:
     esong_code: 691B26
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 667A35
       song_name: ひよこぶたのテーマPART2。
+      content_type: ''
+  - song_name: fantasia
+    song_alias:
+    esong_code: 85A49
+    t_singer_master_id: '6904'
+    singer_name: PENICILLIN
+    singer_alias:
+    available_date: '2001-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふあんたしあ
+    singer_name_ruby: へにしりん
+    song_variation:
+    - esong_code: 85A49
+      song_name: fantasia
+      content_type: ''
+  - song_name: フィギュア
+    song_alias:
+    esong_code: 697A21
+    t_singer_master_id: '8741'
+    singer_name: GRAPEVINE
+    singer_alias:
+    available_date: '2001-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふいきゆあ
+    singer_name_ruby: くれいふはいん
+    song_variation:
+    - esong_code: 697A21
+      song_name: フィギュア
+      content_type: ''
+  - song_name: feel
+    song_alias:
+    esong_code: 692B25
+    t_singer_master_id: '13015'
+    singer_name: 青木 麻由子
+    singer_alias:
+    available_date: '2001-10-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: FINAL FANTASY(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふいる
+    singer_name_ruby: あおきまゆこ
+    song_variation:
+    - esong_code: 692B25
+      song_name: feel
       content_type: ''

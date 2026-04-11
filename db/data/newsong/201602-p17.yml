@@ -3,32 +3,15 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1236
-  all_max_cnt: 1361
-  all_country_cnt: 1236
+  max_cnt: 1230
+  all_max_cnt: 1355
+  all_country_cnt: 1230
   song:
-  - song_name: Jackpot (Japanese Version)
-    song_alias:
-    esong_code: 3599B11
-    t_singer_master_id: '52515'
-    singer_name: Block B
-    singer_alias:
-    available_date: '2016-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやつくほつと
-    singer_name_ruby: ふろつくひ
-    song_variation:
-    - esong_code: 3599B11
-      song_name: Jackpot (Japanese Version)
-      content_type: ''
   - song_name: ジャバヲッキー・ジャバヲッカ feat.鏡音リン・レン
     song_alias:
     esong_code: 3589B15
     t_singer_master_id: '43140'
-    singer_name: カラスヤサボウ
+    singer_name: 烏屋茶房(カラスヤサボウ)
     singer_alias:
     available_date: '2016-02-13'
     end_date: '2999-04-10 00:00:00'
@@ -517,3 +500,20 @@ result:
     - esong_code: 3589B7
       song_name: 新港地区、午前五時。 feat.IA
       content_type: VOCALOID
+  - song_name: 人生運河
+    song_alias:
+    esong_code: 2829A40
+    t_singer_master_id: '52995'
+    singer_name: あすか みさこ(飛鳥みさ子)
+    singer_alias:
+    available_date: '2016-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんせいうんか
+    singer_name_ruby: あすかみさこ
+    song_variation:
+    - esong_code: 2829A40
+      song_name: 人生運河
+      content_type: ''

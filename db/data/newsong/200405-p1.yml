@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 545
-  all_max_cnt: 575
-  all_country_cnt: 545
+  max_cnt: 543
+  all_max_cnt: 573
+  all_country_cnt: 543
   song:
-  - song_name: ALIVE-LIFE
-    song_alias:
-    esong_code: 65B22
-    t_singer_master_id: '3079'
-    singer_name: TOKIO
-    singer_alias:
-    available_date: '2004-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あらいふらいふ
-    singer_name_ruby: ときお
-    song_variation:
-    - esong_code: 65B22
-      song_name: ALIVE-LIFE
-      content_type: ''
   - song_name: ありのままに
     song_alias:
     esong_code: 974A40
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 584A46
       song_name: 駅 (Album ver.)
+      content_type: ''
+  - song_name: etoile -星-
+    song_alias:
+    esong_code: 584B46
+    t_singer_master_id: '2128'
+    singer_name: 本田 美奈子.(本田美奈子)
+    singer_alias:
+    available_date: '2004-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 明日のナージャ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えといる
+    singer_name_ruby: ほんたみなこ
+    song_variation:
+    - esong_code: 584B46
+      song_name: etoile -星-
       content_type: ''

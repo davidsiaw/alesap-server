@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1489
-  all_max_cnt: 1645
-  all_country_cnt: 1489
+  max_cnt: 1488
+  all_max_cnt: 1644
+  all_country_cnt: 1488
   song:
   - song_name: Always・・・
     song_alias:
@@ -179,23 +179,6 @@ result:
       content_type: ''
   - song_name: おんな酒・・・
     song_alias:
-    esong_code: 3197A45
-    t_singer_master_id: '32388'
-    singer_name: 逢川 まさき
-    singer_alias:
-    available_date: '2015-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: おんなさけ
-    singer_name_ruby: あいかわまさき
-    song_variation:
-    - esong_code: 3197A45
-      song_name: おんな酒・・・
-      content_type: JOY生演奏
-  - song_name: おんな酒・・・
-    song_alias:
     esong_code: 3197A23
     t_singer_master_id: '32388'
     singer_name: 逢川 まさき
@@ -211,6 +194,23 @@ result:
     - esong_code: 3197A23
       song_name: おんな酒・・・
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: おんな酒・・・
+    song_alias:
+    esong_code: 3197A45
+    t_singer_master_id: '32388'
+    singer_name: 逢川 まさき
+    singer_alias:
+    available_date: '2015-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: おんなさけ
+    singer_name_ruby: あいかわまさき
+    song_variation:
+    - esong_code: 3197A45
+      song_name: おんな酒・・・
+      content_type: JOY生演奏
   - song_name: 女にスジは通らない
     song_alias:
     esong_code: 1303A4

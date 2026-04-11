@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: ハローグッバイ
-    song_alias:
-    esong_code: 3173A38
-    t_singer_master_id: '34326'
-    singer_name: 辻 詩音
-    singer_alias:
-    available_date: '2014-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はろくつはい
-    singer_name_ruby: つししおん
-    song_variation:
-    - esong_code: 3173A38
-      song_name: ハローグッバイ
-      content_type: ''
   - song_name: Helloコンチェルト
     song_alias:
     esong_code: 3168A13
@@ -77,23 +60,6 @@ result:
       content_type: DAM生音
   - song_name: 晩秋歌
     song_alias:
-    esong_code: 2893B42
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2014-01-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: はんしゆうか
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 2893B42
-      song_name: 晩秋歌
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 晩秋歌
-    song_alias:
     esong_code: 2631A29
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -109,6 +75,23 @@ result:
     - esong_code: 2631A29
       song_name: 晩秋歌
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 晩秋歌
+    song_alias:
+    esong_code: 2893B42
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2014-01-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: はんしゆうか
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 2893B42
+      song_name: 晩秋歌
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: BUMP OF CHICKENヒットソングメドレー1
     song_alias:
     esong_code: 3175A18
@@ -376,7 +359,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: ひこうきくも
-    singer_name_ruby: LINYUCHUN
+    singer_name_ruby: りんゆちゆん
     song_variation:
     - esong_code: 3171B8
       song_name: ひこうき雲
@@ -517,3 +500,20 @@ result:
     - esong_code: 3174B37
       song_name: ひと-つながる-ひと
       content_type: ''
+  - song_name: 一つの誓いよ、永遠の歌となれ feat.鏡音リン、鏡音レン
+    song_alias:
+    esong_code: 3176A27
+    t_singer_master_id: '46227'
+    singer_name: ろひ
+    singer_alias:
+    available_date: '2014-01-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ひとつのちかいよとわ
+    singer_name_ruby: ろひ
+    song_variation:
+    - esong_code: 3176A27
+      song_name: 一つの誓いよ、永遠の歌となれ feat.鏡音リン、鏡音レン
+      content_type: VOCALOID

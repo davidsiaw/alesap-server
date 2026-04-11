@@ -3,10 +3,61 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1153
-  all_country_cnt: 1023
+  max_cnt: 1127
+  all_max_cnt: 1257
+  all_country_cnt: 1127
   song:
+  - song_name: 青色の航海 〜君へ捧げる応援歌〜
+    song_alias:
+    esong_code: 4737B42
+    t_singer_master_id: '46255'
+    singer_name: 山本 雅也
+    singer_alias:
+    available_date: '2023-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あおいろのこうかいき
+    singer_name_ruby: やまもとまさや
+    song_variation:
+    - esong_code: 4737B42
+      song_name: 青色の航海 〜君へ捧げる応援歌〜
+      content_type: ''
+  - song_name: あおきいろ
+    song_alias:
+    esong_code: 4883B11
+    t_singer_master_id: '72957'
+    singer_name: ミドリーズ
+    singer_alias:
+    available_date: '2023-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あおきいろ
+    singer_name_ruby: みとりす
+    song_variation:
+    - esong_code: 4883B11
+      song_name: あおきいろ
+      content_type: ''
+  - song_name: 赤い男
+    song_alias:
+    esong_code: 4753A41
+    t_singer_master_id: '71203'
+    singer_name: REDMANs
+    singer_alias:
+    available_date: '2023-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかいおとこ
+    singer_name_ruby: れつとまんす
+    song_variation:
+    - esong_code: 4753A41
+      song_name: 赤い男
+      content_type: ''
   - song_name: アゲイン
     song_alias:
     esong_code: 4753A28
@@ -74,6 +125,23 @@ result:
     song_variation:
     - esong_code: 4754A13
       song_name: 明日への虹
+      content_type: ''
+  - song_name: アステリズム
+    song_alias:
+    esong_code: 4882B30
+    t_singer_master_id: '66251'
+    singer_name: この花は乙女
+    singer_alias:
+    available_date: '2023-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ラピスリライツ -この世界のアイドルは魔法が使える-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あすてりすむ
+    singer_name_ruby: このはなはおとめ
+    song_variation:
+    - esong_code: 4882B30
+      song_name: アステリズム
       content_type: ''
   - song_name: As You Wish
     song_alias:
@@ -159,6 +227,23 @@ result:
     song_variation:
     - esong_code: 4748A2
       song_name: あっぱれ浅草
+      content_type: ''
+  - song_name: Updraft
+    song_alias:
+    esong_code: 4881B14
+    t_singer_master_id: '70315'
+    singer_name: Impish Crow
+    singer_alias:
+    available_date: '2023-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: DIG-ROCK<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あつふとらふと
+    singer_name_ruby: いんひつしゆくろう
+    song_variation:
+    - esong_code: 4881B14
+      song_name: Updraft
       content_type: ''
   - song_name: アドベンチャー
     song_alias:
@@ -431,89 +516,4 @@ result:
     song_variation:
     - esong_code: 4750A48
       song_name: 嵐からの隠れ場所
-      content_type: ''
-  - song_name: アリア
-    song_alias:
-    esong_code: 4750A36
-    t_singer_master_id: '15036'
-    singer_name: 10-FEET
-    singer_alias:
-    available_date: '2023-02-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありあ
-    singer_name_ruby: てんふいと
-    song_variation:
-    - esong_code: 4750A36
-      song_name: アリア
-      content_type: ''
-  - song_name: アリカ
-    song_alias:
-    esong_code: 4741A33
-    t_singer_master_id: '67188'
-    singer_name: マルシィ
-    singer_alias:
-    available_date: '2023-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありか
-    singer_name_ruby: まるしい
-    song_variation:
-    - esong_code: 4741A33
-      song_name: アリカ
-      content_type: ''
-  - song_name: ありがとう 〜ひとことあなたに〜
-    song_alias:
-    esong_code: 4744A4
-    t_singer_master_id: '66668'
-    singer_name: south2
-    singer_alias:
-    available_date: '2023-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ガル学。〜聖ガールズスクエア学院〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとうひとこと
-    singer_name_ruby: さうすさうす
-    song_variation:
-    - esong_code: 4744A4
-      song_name: ありがとう 〜ひとことあなたに〜
-      content_type: ''
-  - song_name: A・RU・KU 〜愛してる人にちゃんと愛を伝えてますか?
-    song_alias:
-    esong_code: 4753A21
-    t_singer_master_id: '510'
-    singer_name: 柏原 芳恵
-    singer_alias:
-    available_date: '2023-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるくあいしてるひと
-    singer_name_ruby: かしわはらよしえ
-    song_variation:
-    - esong_code: 4753A21
-      song_name: A・RU・KU 〜愛してる人にちゃんと愛を伝えてますか?
-      content_type: ''
-  - song_name: アルジャーノン
-    song_alias:
-    esong_code: 4746A8
-    t_singer_master_id: '59009'
-    singer_name: ヨルシカ
-    singer_alias:
-    available_date: '2023-02-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるしやのん
-    singer_name_ruby: よるしか
-    song_variation:
-    - esong_code: 4746A8
-      song_name: アルジャーノン
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
   - song_name: あなたに会えてよかった
     song_alias:
@@ -381,23 +381,6 @@ result:
     - esong_code: 2608A14
       song_name: ARIGATO
       content_type: ''
-  - song_name: アリガトウ
-    song_alias:
-    esong_code: 2589A43
-    t_singer_master_id: '38159'
-    singer_name: SO-TA
-    singer_alias:
-    available_date: '2010-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: そうた
-    song_variation:
-    - esong_code: 2589A43
-      song_name: アリガトウ
-      content_type: ''
   - song_name: a.ri.ga.tou.
     song_alias:
     esong_code: 2588B47
@@ -414,6 +397,23 @@ result:
     song_variation:
     - esong_code: 2588B47
       song_name: a.ri.ga.tou.
+      content_type: ''
+  - song_name: アリガトウ
+    song_alias:
+    esong_code: 2589A43
+    t_singer_master_id: '38159'
+    singer_name: SO-TA
+    singer_alias:
+    available_date: '2010-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: そうた
+    song_variation:
+    - esong_code: 2589A43
+      song_name: アリガトウ
       content_type: ''
   - song_name: ありがとう、ごめんね
     song_alias:

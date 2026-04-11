@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 623
-  all_max_cnt: 682
-  all_country_cnt: 623
+  max_cnt: 618
+  all_max_cnt: 678
+  all_country_cnt: 618
   song:
   - song_name: Caress
     song_alias:
@@ -449,23 +449,6 @@ result:
     - esong_code: 1658B41
       song_name: 言葉一つ
       content_type: ''
-  - song_name: この先もずっと 〜Brother&Sister〜
-    song_alias:
-    esong_code: 1651B30
-    t_singer_master_id: '22551'
-    singer_name: MEGARYU
-    singer_alias:
-    available_date: '2006-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: このさきもすつと
-    singer_name_ruby: めかりゆう
-    song_variation:
-    - esong_code: 1651B30
-      song_name: この先もずっと 〜Brother&Sister〜
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: この夢の果てまで
     song_alias:
     esong_code: 1652B8
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1656B48
       song_name: ごめんよ
+      content_type: ''
+  - song_name: 暦
+    song_alias:
+    esong_code: 1653B46
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2006-10-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こよみ
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 1653B46
+      song_name: 暦
       content_type: ''

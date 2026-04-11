@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: 一つの誓いよ、永遠の歌となれ feat.鏡音リン、鏡音レン
-    song_alias:
-    esong_code: 3176A27
-    t_singer_master_id: '46227'
-    singer_name: ろひ
-    singer_alias:
-    available_date: '2014-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ひとつのちかいよとわ
-    singer_name_ruby: ろひ
-    song_variation:
-    - esong_code: 3176A27
-      song_name: 一つの誓いよ、永遠の歌となれ feat.鏡音リン、鏡音レン
-      content_type: VOCALOID
   - song_name: ひとりあやとり
     song_alias:
     esong_code: 3171B2
@@ -77,23 +60,6 @@ result:
       content_type: ''
   - song_name: ひびき
     song_alias:
-    esong_code: 3165B15
-    t_singer_master_id: '20364'
-    singer_name: SUPER EIGHT
-    singer_alias:
-    available_date: '2014-01-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひひき
-    singer_name_ruby: すはえいとかんしやにえいと
-    song_variation:
-    - esong_code: 3165B15
-      song_name: ひびき
-      content_type: ''
-  - song_name: ひびき
-    song_alias:
     esong_code: 3171A42
     t_singer_master_id: '20364'
     singer_name: SUPER EIGHT
@@ -109,6 +75,23 @@ result:
     - esong_code: 3171A42
       song_name: ひびき
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ひびき
+    song_alias:
+    esong_code: 3165B15
+    t_singer_master_id: '20364'
+    singer_name: SUPER EIGHT
+    singer_alias:
+    available_date: '2014-01-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひひき
+    singer_name_ruby: すはえいとかんしやにえいと
+    song_variation:
+    - esong_code: 3165B15
+      song_name: ひびき
+      content_type: ''
   - song_name: ヒプノランド
     song_alias:
     esong_code: 3176B4
@@ -166,7 +149,7 @@ result:
     t_singer_master_id: '33628'
     singer_name: FTISLAND
     singer_alias:
-    available_date: '2014-01-21'
+    available_date: '2014-01-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3173B3
       song_name: FAIR WIND
+      content_type: ''
+  - song_name: FAITH
+    song_alias:
+    esong_code: 3168A26
+    t_singer_master_id: '28220'
+    singer_name: Angelo
+    singer_alias:
+    available_date: '2014-01-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふえいす
+    singer_name_ruby: あんしえろ
+    song_variation:
+    - esong_code: 3168A26
+      song_name: FAITH
       content_type: ''

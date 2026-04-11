@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
-  - song_name: 白保節
-    song_alias:
-    esong_code: 1426B30
-    t_singer_master_id: '424'
-    singer_name: 沖縄曲
-    singer_alias:
-    available_date: '2006-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しらふふし
-    singer_name_ruby: おきなわきよく
-    song_variation:
-    - esong_code: 1426B30
-      song_name: 白保節
-      content_type: ''
   - song_name: 白い鴉
     song_alias:
     esong_code: 623A48
@@ -317,7 +300,7 @@ result:
     song_alias:
     esong_code: 939A43
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2006-01-01'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 953B45
       song_name: スタート
+      content_type: ''
+  - song_name: Start
+    song_alias:
+    esong_code: 1433A10
+    t_singer_master_id: '24896'
+    singer_name: bis
+    singer_alias:
+    available_date: '2006-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたと
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 1433A10
+      song_name: Start
       content_type: ''

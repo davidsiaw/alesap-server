@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: 東京テディベア feat.鏡音リン [DAMライブ生音]
-    song_alias:
-    esong_code: 3197B12
-    t_singer_master_id: '43451'
-    singer_name: Neru
-    singer_alias:
-    available_date: '2014-03-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: とうきようてていへ
-    singer_name_ruby: ねる
-    song_variation:
-    - esong_code: 3197B12
-      song_name: 東京テディベア feat.鏡音リン [DAMライブ生音]
-      content_type: VOCALOID
   - song_name: 東京ふたりの恋の街
     song_alias:
     esong_code: 3231A42
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3211B5
       song_name: 土曜日はいちばん
+      content_type: ''
+  - song_name: ドライカレー
+    song_alias:
+    esong_code: 3209A4
+    t_singer_master_id: '14146'
+    singer_name: 植田 佳奈
+    singer_alias:
+    available_date: '2014-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とらいかれ
+    singer_name_ruby: うえたかな
+    song_variation:
+    - esong_code: 3209A4
+      song_name: ドライカレー
       content_type: ''

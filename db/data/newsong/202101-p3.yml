@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 806
-  all_max_cnt: 881
-  all_country_cnt: 806
+  max_cnt: 802
+  all_max_cnt: 877
+  all_country_cnt: 802
   song:
-  - song_name: 一緒に・・・ (Happiness 2020)
-    song_alias:
-    esong_code: 4462B40
-    t_singer_master_id: '6440'
-    singer_name: MAX
-    singer_alias:
-    available_date: '2021-01-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつしよにはひねす
-    singer_name_ruby: まつくす
-    song_variation:
-    - esong_code: 4462B40
-      song_name: 一緒に・・・ (Happiness 2020)
-      content_type: ''
   - song_name: It's ALL -for you-
     song_alias:
     esong_code: 4468B8
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4466B6
       song_name: 梅の木ものがたり
+      content_type: ''
+  - song_name: うやむや
+    song_alias:
+    esong_code: 4460B49
+    t_singer_master_id: '65690'
+    singer_name: SixTONES
+    singer_alias:
+    available_date: '2021-01-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うやむや
+    singer_name_ruby: すとんす
+    song_variation:
+    - esong_code: 4460B49
+      song_name: うやむや
       content_type: ''

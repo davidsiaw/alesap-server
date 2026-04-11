@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1046
-  all_max_cnt: 1110
-  all_country_cnt: 1046
+  max_cnt: 1043
+  all_max_cnt: 1107
+  all_country_cnt: 1043
   song:
-  - song_name: 最後の夜
-    song_alias:
-    esong_code: 1820A26
-    t_singer_master_id: '24824'
-    singer_name: MUNEHIRO
-    singer_alias:
-    available_date: '2007-08-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいこのよる
-    singer_name_ruby: むねひろ
-    song_variation:
-    - esong_code: 1820A26
-      song_name: 最後の夜
-      content_type: ''
   - song_name: サイレント
     song_alias:
     esong_code: 1853B31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1852A30
       song_name: さよならを教えて -comment te dire adieu-
+      content_type: ''
+  - song_name: Salvage feat.松本 梨香&奥井 雅美
+    song_alias:
+    esong_code: 1850B22
+    t_singer_master_id: '12156'
+    singer_name: JAM Project
+    singer_alias:
+    available_date: '2007-08-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: GALAXY ANGEL II 〜無限回廊の鍵〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さるへし
+    singer_name_ruby: しやむふろしえくと
+    song_variation:
+    - esong_code: 1850B22
+      song_name: Salvage feat.松本 梨香&奥井 雅美
       content_type: ''

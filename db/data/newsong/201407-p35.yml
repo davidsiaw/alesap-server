@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
-  - song_name: 春よ来い
-    song_alias:
-    esong_code: 3290B1
-    t_singer_master_id: '2366'
-    singer_name: 宮路 オサム
-    singer_alias:
-    available_date: '2014-07-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるよこい
-    singer_name_ruby: みやしおさむ
-    song_variation:
-    - esong_code: 3290B1
-      song_name: 春よ来い
-      content_type: ''
   - song_name: 春よ来い春よ
     song_alias:
     esong_code: 3271A13
@@ -32,7 +15,7 @@ result:
     singer_alias:
     available_date: '2014-07-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦奏組<番組名>
+    tie_up: サクラ大戦 (TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はるよこいはるよ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1867A6
       song_name: ひとり酒場で
+      content_type: ''
+  - song_name: 1人ぼっちの歌
+    song_alias:
+    esong_code: 3284A36
+    t_singer_master_id: '38673'
+    singer_name: 間島 淳司
+    singer_alias:
+    available_date: '2014-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ぷちます!! -プチプチ・アイドルマスター-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとりほつちのうた
+    singer_name_ruby: ましましゆんし
+    song_variation:
+    - esong_code: 3284A36
+      song_name: 1人ぼっちの歌
       content_type: ''

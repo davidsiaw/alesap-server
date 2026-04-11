@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: SURVIVE
-    song_alias:
-    esong_code: 2800B24
-    t_singer_master_id: '16664'
-    singer_name: MIYAVI(雅-MIYAVI-)
-    singer_alias:
-    available_date: '2012-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: さはいふ
-    singer_name_ruby: みやひ
-    song_variation:
-    - esong_code: 2800B24
-      song_name: SURVIVE
-      content_type: DAMﾗｲﾌﾞ
   - song_name: サハラムシカ feat.Cherose
     song_alias:
     esong_code: 2822B28
@@ -202,7 +185,7 @@ result:
     singer_alias:
     available_date: '2012-07-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂'<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さむらいはと
@@ -270,7 +253,7 @@ result:
     singer_alias:
     available_date: '2012-07-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: 聖闘士星矢<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さよならのかわりにき
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 38B18
       song_name: シアワセのエナジー
+      content_type: ''
+  - song_name: 倖せの坂道
+    song_alias:
+    esong_code: 2812A13
+    t_singer_master_id: '30247'
+    singer_name: 松川 未樹
+    singer_alias:
+    available_date: '2012-07-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせのさかみち
+    singer_name_ruby: まつかわみき
+    song_variation:
+    - esong_code: 2812A13
+      song_name: 倖せの坂道
       content_type: ''

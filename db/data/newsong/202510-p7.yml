@@ -3,13 +3,149 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 958
-  all_max_cnt: 1080
-  all_country_cnt: 958
+  max_cnt: 1245
+  all_max_cnt: 1415
+  all_country_cnt: 1245
   song:
-  - song_name: 鹿島港
+  - song_name: おいらの祭り歌
     song_alias:
-    esong_code: 5290A36
+    esong_code: 5290A21
+    t_singer_master_id: '40508'
+    singer_name: 福田 こうへい
+    singer_alias:
+    available_date: '2025-10-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おいらのまつりうた
+    singer_name_ruby: ふくたこうへい
+    song_variation:
+    - esong_code: 5290A21
+      song_name: おいらの祭り歌
+      content_type: ''
+  - song_name: おいらの祭り歌
+    song_alias:
+    esong_code: 5290A22
+    t_singer_master_id: '40508'
+    singer_name: 福田 こうへい
+    singer_alias:
+    available_date: '2025-10-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おいらのまつりうた
+    singer_name_ruby: ふくたこうへい
+    song_variation:
+    - esong_code: 5290A22
+      song_name: おいらの祭り歌
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Owen
+    song_alias:
+    esong_code: 5302A11
+    t_singer_master_id: '45514'
+    singer_name: アイドルカレッジ
+    singer_alias:
+    available_date: '2025-10-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おうえん
+    singer_name_ruby: あいとるかれつし
+    song_variation:
+    - esong_code: 5302A11
+      song_name: Owen
+      content_type: ''
+  - song_name: 桜花爛漫
+    song_alias:
+    esong_code: 5316B41
+    t_singer_master_id: '75533'
+    singer_name: 玲瓏のHydrangea
+    singer_alias:
+    available_date: '2025-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方妖々夢 〜Perfect Cherry Blossom.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: おうからんまん
+    singer_name_ruby: れいろうのはいとらんしあ
+    song_variation:
+    - esong_code: 5316B41
+      song_name: 桜花爛漫
+      content_type: 東方
+  - song_name: 黄金の彼方
+    song_alias:
+    esong_code: 5300A47
+    t_singer_master_id: '77557'
+    singer_name: Awich×ALI
+    singer_alias:
+    available_date: '2025-10-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ゴールデンカムイ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おうこんのかなた
+    singer_name_ruby: えういつちあり
+    song_variation:
+    - esong_code: 5300A47
+      song_name: 黄金の彼方
+      content_type: ''
+  - song_name: おえおえ (feat.初音ミク)
+    song_alias:
+    esong_code: 5308A30
+    t_singer_master_id: '77338'
+    singer_name: oe
+    singer_alias:
+    available_date: '2025-10-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: おえおえ
+    singer_name_ruby: おえ
+    song_variation:
+    - esong_code: 5308A30
+      song_name: おえおえ (feat.初音ミク)
+      content_type: VOCALOID
+  - song_name: おえおえ (feat.初音ミク)
+    song_alias:
+    esong_code: 5315A11
+    t_singer_master_id: '77338'
+    singer_name: oe
+    singer_alias:
+    available_date: '2025-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: おえおえ
+    singer_name_ruby: おえ
+    song_variation:
+    - esong_code: 5315A11
+      song_name: おえおえ (feat.初音ミク)
+      content_type: VOCALOID
+  - song_name: 大いなる愛の前に全ては巡り来る
+    song_alias:
+    esong_code: 5315B14
+    t_singer_master_id: '60905'
+    singer_name: Eden
+    singer_alias:
+    available_date: '2025-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: あんさんぶるスターズ!(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おおいなるあいのまえ
+    singer_name_ruby: えてん
+    song_variation:
+    - esong_code: 5315B14
+      song_name: 大いなる愛の前に全ては巡り来る
+      content_type: ''
+  - song_name: 大利根川
+    song_alias:
+    esong_code: 5290A37
     t_singer_master_id: '69976'
     singer_name: 宮原 大
     singer_alias:
@@ -18,502 +154,366 @@ result:
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: かしまこう
+    song_name_ruby: おおとねかわ
     singer_name_ruby: みやはらひろし
     song_variation:
-    - esong_code: 5290A36
-      song_name: 鹿島港
+    - esong_code: 5290A37
+      song_name: 大利根川
       content_type: ''
-  - song_name: ガタゴト
+  - song_name: 大盛り無料なんだから大盛り頼め
     song_alias:
-    esong_code: 5288B10
-    t_singer_master_id: '71776'
-    singer_name: 弌誠
+    esong_code: 5304A7
+    t_singer_master_id: '77189'
+    singer_name: かてらざわ
     singer_alias:
-    available_date: '2025-10-10'
+    available_date: '2025-10-23'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: かたこと
-    singer_name_ruby: いつせい
+    content_type: VOCALOID
+    song_name_ruby: おおもりむりようなん
+    singer_name_ruby: かてらさわ
     song_variation:
-    - esong_code: 5288B10
-      song_name: ガタゴト
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 叶えた夢は宝物
+    - esong_code: 5304A7
+      song_name: 大盛り無料なんだから大盛り頼め
+      content_type: VOCALOID
+  - song_name: おじゃまします
     song_alias:
-    esong_code: 5308A8
-    t_singer_master_id: '77629'
-    singer_name: 藤本 章
+    esong_code: 5299B25
+    t_singer_master_id: '52236'
+    singer_name: あいみょん
     singer_alias:
-    available_date: '2025-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなえたゆめはたから
-    singer_name_ruby: ふしもとあきら
-    song_variation:
-    - esong_code: 5308A8
-      song_name: 叶えた夢は宝物
-      content_type: ''
-  - song_name: 金沢片町、夜8時
-    song_alias:
-    esong_code: 5303A44
-    t_singer_master_id: '42222'
-    singer_name: 友貴 一彰
-    singer_alias:
-    available_date: '2025-10-29'
+    available_date: '2025-10-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: かなさわかたまちよ
-    singer_name_ruby: ゆうきかすあき
+    song_name_ruby: おしやまします
+    singer_name_ruby: あいみよん
     song_variation:
-    - esong_code: 5303A44
-      song_name: 金沢片町、夜8時
+    - esong_code: 5299B25
+      song_name: おじゃまします
       content_type: ''
-  - song_name: 彼女じゃなくなるのに
+  - song_name: Odakyu Line
     song_alias:
-    esong_code: 5300B19
-    t_singer_master_id: '45070'
-    singer_name: wacci
+    esong_code: 5290B18
+    t_singer_master_id: '21655'
+    singer_name: RADWIMPS
+    singer_alias:
+    available_date: '2025-10-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おたきゆうらいん
+    singer_name_ruby: らつとういんふす
+    song_variation:
+    - esong_code: 5290B18
+      song_name: Odakyu Line
+      content_type: ''
+  - song_name: 落ちた雫の水鏡
+    song_alias:
+    esong_code: 5316B42
+    t_singer_master_id: '75533'
+    singer_name: 玲瓏のHydrangea
+    singer_alias:
+    available_date: '2025-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方獣王園〜Unfinished Dream of All Living Ghost.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: おちたしすくのみす
+    singer_name_ruby: れいろうのはいとらんしあ
+    song_variation:
+    - esong_code: 5316B42
+      song_name: 落ちた雫の水鏡
+      content_type: 東方
+  - song_name: おっかない
+    song_alias:
+    esong_code: 5300A25
+    t_singer_master_id: '52977'
+    singer_name: WANIMA
+    singer_alias:
+    available_date: '2025-10-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おつかない
+    singer_name_ruby: わにま
+    song_variation:
+    - esong_code: 5300A25
+      song_name: おっかない
+      content_type: ''
+  - song_name: OTOGI
+    song_alias:
+    esong_code: 5304A46
+    t_singer_master_id: '76007'
+    singer_name: 福本 大晴
+    singer_alias:
+    available_date: '2025-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとき
+    singer_name_ruby: ふくもとたいせい
+    song_variation:
+    - esong_code: 5304A46
+      song_name: OTOGI
+      content_type: ''
+  - song_name: 男心
+    song_alias:
+    esong_code: 5296B33
+    t_singer_master_id: '77519'
+    singer_name: 畑中 よしゆき
+    singer_alias:
+    available_date: '2025-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとここころ
+    singer_name_ruby: はたなかよしゆき
+    song_variation:
+    - esong_code: 5296B33
+      song_name: 男心
+      content_type: ''
+  - song_name: オトノケ [歌ってみた利用OK]
+    song_alias:
+    esong_code: 5298A37
+    t_singer_master_id: '56225'
+    singer_name: Creepy Nuts
+    singer_alias:
+    available_date: '2025-10-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ダンダダン<番組名>
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: おとのけ
+    singer_name_ruby: くりひなつつ
+    song_variation:
+    - esong_code: 5298A37
+      song_name: オトノケ [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK
+  - song_name: 躍りゃんせ
+    song_alias:
+    esong_code: 5300A17
+    t_singer_master_id: '45831'
+    singer_name: DISH//
+    singer_alias:
+    available_date: '2025-10-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとりやんせ
+    singer_name_ruby: ていつしゆ
+    song_variation:
+    - esong_code: 5300A17
+      song_name: 躍りゃんせ
+      content_type: ''
+  - song_name: おどるらいおん feat.上野羽有音
+    song_alias:
+    esong_code: 5300B16
+    t_singer_master_id: '58190'
+    singer_name: SIX LOUNGE
     singer_alias:
     available_date: '2025-10-16'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: かのしよしやなく
-    singer_name_ruby: わつち
+    song_name_ruby: おとるらいおん
+    singer_name_ruby: しつくすらうんし
     song_variation:
-    - esong_code: 5300B19
-      song_name: 彼女じゃなくなるのに
+    - esong_code: 5300B16
+      song_name: おどるらいおん feat.上野羽有音
       content_type: ''
-  - song_name: CURVE
+  - song_name: 女川の女
     song_alias:
-    esong_code: 5314B49
-    t_singer_master_id: '64897'
-    singer_name: さとみ
+    esong_code: 5289B35
+    t_singer_master_id: '16011'
+    singer_name: 菊地 登志彦
     singer_alias:
-    available_date: '2025-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: かふ
-    singer_name_ruby: さとみ2
-    song_variation:
-    - esong_code: 5314B49
-      song_name: CURVE
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: カーマイン
-    song_alias:
-    esong_code: 5287B10
-    t_singer_master_id: '21114'
-    singer_name: ELLEGARDEN
-    singer_alias:
-    available_date: '2025-10-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ONE PIECE<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かまいん
-    singer_name_ruby: えるれかてん
-    song_variation:
-    - esong_code: 5287B10
-      song_name: カーマイン
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: GALA
-    song_alias:
-    esong_code: 5301B36
-    t_singer_master_id: '69301'
-    singer_name: XG
-    singer_alias:
-    available_date: '2025-10-14'
+    available_date: '2025-10-05'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: から
-    singer_name_ruby: えつくすし
+    song_name_ruby: おなかわのひと
+    singer_name_ruby: きくちとしひこ
     song_variation:
-    - esong_code: 5301B36
-      song_name: GALA
+    - esong_code: 5289B35
+      song_name: 女川の女
       content_type: ''
-  - song_name: カラオケ喫茶の片隅で
+  - song_name: 十八番
     song_alias:
-    esong_code: 5299B35
-    t_singer_master_id: '77554'
-    singer_name: しいの 乙吉&叶 純子
-    singer_alias:
-    available_date: '2025-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: からおけきつさのかた
-    singer_name_ruby: しいのおときちあんとかの
-    song_variation:
-    - esong_code: 5299B35
-      song_name: カラオケ喫茶の片隅で
-      content_type: ''
-  - song_name: 硝子の線
-    song_alias:
-    esong_code: 5288B20
-    t_singer_master_id: '69950'
-    singer_name: Tele
-    singer_alias:
-    available_date: '2025-10-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: からすのせん
-    singer_name_ruby: てれ
-    song_variation:
-    - esong_code: 5288B20
-      song_name: 硝子の線
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: カラーパッション
-    song_alias:
-    esong_code: 5288A15
-    t_singer_master_id: '77456'
-    singer_name: マリーゴール(Wakeys)
-    singer_alias:
-    available_date: '2025-10-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: The Wakey Show〜ザ・ウェイキー・ショウ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: からはつしよん
-    singer_name_ruby: まりこるうえいきす
-    song_variation:
-    - esong_code: 5288A15
-      song_name: カラーパッション
-      content_type: ''
-  - song_name: 仮契約のシンデレラ [歌ってみた利用OK]
-    song_alias:
-    esong_code: 5298A31
-    t_singer_master_id: '43218'
-    singer_name: 私立恵比寿中学
-    singer_alias:
-    available_date: '2025-10-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: 歌ってみた利用OK
-    song_name_ruby: かりけいやくのしんて
-    singer_name_ruby: しりつえひすちゆうかく
-    song_variation:
-    - esong_code: 5298A31
-      song_name: 仮契約のシンデレラ [歌ってみた利用OK]
-      content_type: 歌ってみた利用OK
-  - song_name: カリスマックス
-    song_alias:
-    esong_code: 5287B12
-    t_singer_master_id: '65691'
-    singer_name: Snow Man
-    singer_alias:
-    available_date: '2025-10-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かりすまつくす
-    singer_name_ruby: すのまん
-    song_variation:
-    - esong_code: 5287B12
-      song_name: カリスマックス
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: カルチャー
-    song_alias:
-    esong_code: 5299A21
-    t_singer_master_id: '63152'
-    singer_name: キタニ タツヤ
-    singer_alias:
-    available_date: '2025-10-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かるちや
-    singer_name_ruby: きたにたつや
-    song_variation:
-    - esong_code: 5299A21
-      song_name: カルチャー
-      content_type: ''
-  - song_name: かわいいさがしてくれますか?
-    song_alias:
-    esong_code: 5304A1
-    t_singer_master_id: '74907'
-    singer_name: CUTIE STREET
-    singer_alias:
-    available_date: '2025-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かわいいさかしてく
-    singer_name_ruby: きゆていすとりと
-    song_variation:
-    - esong_code: 5304A1
-      song_name: かわいいさがしてくれますか?
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: かわいいさがしてくれますか?
-    song_alias:
-    esong_code: 5304B22
-    t_singer_master_id: '74907'
-    singer_name: CUTIE STREET
+    esong_code: 5304A36
+    t_singer_master_id: '65496'
+    singer_name: 獅子志司
     singer_alias:
     available_date: '2025-10-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: かわいいさかしてく
-    singer_name_ruby: きゆていすとりと
+    content_type: VOCALOID
+    song_name_ruby: おはこ
+    singer_name_ruby: しししし
     song_variation:
-    - esong_code: 5304B22
-      song_name: かわいいさがしてくれますか?
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: かわいいだけじゃだめですか?
+    - esong_code: 5304A36
+      song_name: 十八番
+      content_type: VOCALOID
+  - song_name: Obedience (The Animation ver)
     song_alias:
-    esong_code: 5304B29
-    t_singer_master_id: '74907'
-    singer_name: CUTIE STREET
-    singer_alias:
-    available_date: '2025-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾗｲｳﾞ視聴用
-    song_name_ruby: かわいいたけしや
-    singer_name_ruby: きゆていすとりと
-    song_variation:
-    - esong_code: 5304B29
-      song_name: かわいいだけじゃだめですか?
-      content_type: JOYﾗｲｳﾞ視聴用
-  - song_name: 可愛くなれたらいいのに feat.早見沙織
-    song_alias:
-    esong_code: 5303B38
-    t_singer_master_id: '43384'
-    singer_name: HoneyWorks
-    singer_alias:
-    available_date: '2025-10-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かわいくなれたらいい
-    singer_name_ruby: はにわくす
-    song_variation:
-    - esong_code: 5303B38
-      song_name: 可愛くなれたらいいのに feat.早見沙織
-      content_type: ''
-  - song_name: 川崎の女
-    song_alias:
-    esong_code: 5290A43
-    t_singer_master_id: '12103'
-    singer_name: 藤 健一
-    singer_alias:
-    available_date: '2025-10-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かわさきのひと
-    singer_name_ruby: ふしけんいち
-    song_variation:
-    - esong_code: 5290A43
-      song_name: 川崎の女
-      content_type: ''
-  - song_name: 変わりゆく季節の中で僕らは
-    song_alias:
-    esong_code: 5304A25
-    t_singer_master_id: '44185'
-    singer_name: A.B.C-Z
+    esong_code: 5315A48
+    t_singer_master_id: '77656'
+    singer_name: 花江夏樹&山下誠一郎&小林千晃&小林竜之&鈴木崚汰
     singer_alias:
     available_date: '2025-10-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: ディズニー ツイステッドワンダーランド<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: かわりゆくきせつのな
-    singer_name_ruby: えひしすい
+    song_name_ruby: おひていえんすし
+    singer_name_ruby: はなえなつきやましたせいい
     song_variation:
-    - esong_code: 5304A25
-      song_name: 変わりゆく季節の中で僕らは
+    - esong_code: 5315A48
+      song_name: Obedience (The Animation ver)
       content_type: ''
-  - song_name: 関係のない人
+  - song_name: 朧
     song_alias:
-    esong_code: 5300B10
-    t_singer_master_id: '65074'
-    singer_name: カネヨリマサル
-    singer_alias:
-    available_date: '2025-10-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: かんけいのないひと
-    singer_name_ruby: かねよりまさる
-    song_variation:
-    - esong_code: 5300B10
-      song_name: 関係のない人
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 元祖!バンドリちゃんのテーマ
-    song_alias:
-    esong_code: 5289B18
-    t_singer_master_id: '77467'
-    singer_name: 愛美&若山詩音&前島亜美&相羽あいな&伊藤美来...他
-    singer_alias:
-    available_date: '2025-10-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: BanG Dream!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんそはんとり
-    singer_name_ruby: あいみわかやましおんまえし
-    song_variation:
-    - esong_code: 5289B18
-      song_name: 元祖!バンドリちゃんのテーマ
-      content_type: ''
-  - song_name: がんばらないでヨ
-    song_alias:
-    esong_code: 5290A7
-    t_singer_master_id: '28646'
-    singer_name: 岡田 しのぶ
-    singer_alias:
-    available_date: '2025-10-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんはらないて
-    singer_name_ruby: おかたしのふ
-    song_variation:
-    - esong_code: 5290A7
-      song_name: がんばらないでヨ
-      content_type: ''
-  - song_name: 記憶の水槽
-    song_alias:
-    esong_code: 5300A12
-    t_singer_master_id: '77091'
-    singer_name: A型家電
-    singer_alias:
-    available_date: '2025-10-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きおくのすいそう
-    singer_name_ruby: えかたかてん
-    song_variation:
-    - esong_code: 5300A12
-      song_name: 記憶の水槽
-      content_type: ''
-  - song_name: 祇園白川宵桜
-    song_alias:
-    esong_code: 5303B28
-    t_singer_master_id: '635'
-    singer_name: 北岡 ひろし
-    singer_alias:
-    available_date: '2025-10-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きおんしらかわよい
-    singer_name_ruby: きたおかひろし
-    song_variation:
-    - esong_code: 5303B28
-      song_name: 祇園白川宵桜
-      content_type: ''
-  - song_name: キスがしたい
-    song_alias:
-    esong_code: 5296B11
-    t_singer_master_id: '68626'
-    singer_name: ねぐせ。
+    esong_code: 5296B7
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
     singer_alias:
     available_date: '2025-10-07'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: きすかしたい
-    singer_name_ruby: ねくせ
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おほろ
+    singer_name_ruby: いちかわゆきの
     song_variation:
-    - esong_code: 5296B11
-      song_name: キスがしたい
-      content_type: DAM生音
-  - song_name: 傷つくのは嫌いだから
+    - esong_code: 5296B7
+      song_name: 朧
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 思い出スクロール
     song_alias:
-    esong_code: 5299B2
-    t_singer_master_id: '64543'
-    singer_name: i-dle((G)I-DLE)
-    singer_alias:
-    available_date: '2025-10-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすつくのはきらい
-    singer_name_ruby: あいとうるしあいとうる
-    song_variation:
-    - esong_code: 5299B2
-      song_name: 傷つくのは嫌いだから
-      content_type: ''
-  - song_name: 絆道
-    song_alias:
-    esong_code: 5303A39
-    t_singer_master_id: '77596'
-    singer_name: 中山 ひさし&池上 園美
+    esong_code: 5315A39
+    t_singer_master_id: '25255'
+    singer_name: AKB48
     singer_alias:
     available_date: '2025-10-26'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: きすなみち
-    singer_name_ruby: なかやまひさしいけかみその
+    song_name_ruby: おもいてすくろる
+    singer_name_ruby: えけひふおていえいと
     song_variation:
-    - esong_code: 5303A39
-      song_name: 絆道
+    - esong_code: 5315A39
+      song_name: 思い出スクロール
       content_type: ''
-  - song_name: キズナ×リンク
+  - song_name: 思い出のままに
     song_alias:
-    esong_code: 5288A4
-    t_singer_master_id: '74672'
-    singer_name: ポッピンドリーミン
+    esong_code: 5316B17
+    t_singer_master_id: '73631'
+    singer_name: TAIL
     singer_alias:
-    available_date: '2025-10-04'
+    available_date: '2025-10-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ひみつのアイプリ<番組名>
+    tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: きすなりんく
-    singer_name_ruby: ほつひんとりみん
+    song_name_ruby: おもいてのままに
+    singer_name_ruby: ている
     song_variation:
-    - esong_code: 5288A4
-      song_name: キズナ×リンク
+    - esong_code: 5316B17
+      song_name: 思い出のままに
       content_type: ''
-  - song_name: Giver
+  - song_name: 思い出をゼロにして
     song_alias:
-    esong_code: 5315A31
-    t_singer_master_id: '60107'
-    singer_name: ASCA
+    esong_code: 5316B3
+    t_singer_master_id: '55590'
+    singer_name: NGT48
     singer_alias:
-    available_date: '2025-10-25'
+    available_date: '2025-10-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍族<番組名>
+    tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: きは
-    singer_name_ruby: あすか
+    song_name_ruby: おもいてをせろに
+    singer_name_ruby: えぬしていふおていえいと
     song_variation:
-    - esong_code: 5315A31
-      song_name: Giver
+    - esong_code: 5316B3
+      song_name: 思い出をゼロにして
       content_type: ''
+  - song_name: オランジェット
+    song_alias:
+    esong_code: 5304B4
+    t_singer_master_id: '57992'
+    singer_name: センラ(from 浦島坂田船)
+    singer_alias:
+    available_date: '2025-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おらんしえつと
+    singer_name_ruby: せんらうらしまさかたせん
+    song_variation:
+    - esong_code: 5304B4
+      song_name: オランジェット
+      content_type: ''
+  - song_name: 織姫とBABY feat.汐れいら [JOYサビカラ]
+    song_alias:
+    esong_code: 5303B4
+    t_singer_master_id: '68626'
+    singer_name: ねぐせ。
+    singer_alias:
+    available_date: '2025-10-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おりひめとへいひ
+    singer_name_ruby: ねくせ
+    song_variation:
+    - esong_code: 5303B4
+      song_name: 織姫とBABY feat.汐れいら [JOYサビカラ]
+      content_type: ''
+  - song_name: 織姫とBABY feat.汐れいら
+    song_alias:
+    esong_code: 5314B39
+    t_singer_master_id: '68626'
+    singer_name: ねぐせ。
+    singer_alias:
+    available_date: '2025-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おりひめとへいひ
+    singer_name_ruby: ねくせ
+    song_variation:
+    - esong_code: 5314B39
+      song_name: 織姫とBABY feat.汐れいら
+      content_type: DAM生音
+  - song_name: 織姫とBABY feat.汐れいら
+    song_alias:
+    esong_code: 5288B16
+    t_singer_master_id: '68626'
+    singer_name: ねぐせ。
+    singer_alias:
+    available_date: '2025-10-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: おりひめとへいひ
+    singer_name_ruby: ねくせ
+    song_variation:
+    - esong_code: 5288B16
+      song_name: 織姫とBABY feat.汐れいら
+      content_type: JOYｸﾘｯﾌﾟ

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: sofa -slow take-
+    song_alias:
+    esong_code: 102A44
+    t_singer_master_id: '11976'
+    singer_name: 藤木 直人
+    singer_alias:
+    available_date: '2002-04-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そふあ
+    singer_name_ruby: ふしきなおひと
+    song_variation:
+    - esong_code: 102A44
+      song_name: sofa -slow take-
+      content_type: ''
   - song_name: ソフィアの鐘
     song_alias:
     esong_code: 817A22
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 710A38
       song_name: 月太郎笠
-      content_type: ''
-  - song_name: 月の嫁入り舟
-    song_alias:
-    esong_code: 825A28
-    t_singer_master_id: '515'
-    singer_name: 春日 八郎
-    singer_alias:
-    available_date: '2002-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきのよめいりふね
-    singer_name_ruby: かすかはちろう
-    song_variation:
-    - esong_code: 825A28
-      song_name: 月の嫁入り舟
       content_type: ''

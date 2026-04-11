@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
+  - song_name: サイコーなRock You!
+    song_alias:
+    esong_code: 2552B3
+    t_singer_master_id: '2445'
+    singer_name: 矢沢 永吉
+    singer_alias:
+    available_date: '2010-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいこなろつくゆ
+    singer_name_ruby: やさわえいきち
+    song_variation:
+    - esong_code: 2552B3
+      song_name: サイコーなRock You!
+      content_type: ''
   - song_name: 最後の人
     song_alias:
     esong_code: 2552B16
@@ -281,23 +298,6 @@ result:
       content_type: ''
   - song_name: さすらい港町
     song_alias:
-    esong_code: 2557B41
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2010-06-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さすらいみなとまち
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 2557B41
-      song_name: さすらい港町
-      content_type: ''
-  - song_name: さすらい港町
-    song_alias:
     esong_code: 2545A4
     t_singer_master_id: '36847'
     singer_name: 三山 ひろし(三山ヒロシ)
@@ -311,6 +311,23 @@ result:
     singer_name_ruby: みやまひろし
     song_variation:
     - esong_code: 2545A4
+      song_name: さすらい港町
+      content_type: ''
+  - song_name: さすらい港町
+    song_alias:
+    esong_code: 2557B41
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2010-06-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さすらいみなとまち
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 2557B41
       song_name: さすらい港町
       content_type: ''
   - song_name: 寂しさを抱きしめて
@@ -387,7 +404,7 @@ result:
     t_singer_master_id: '31055'
     singer_name: 青山 テルマ
     singer_alias:
-    available_date: '2010-06-29'
+    available_date: '2010-06-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -397,23 +414,6 @@ result:
     song_variation:
     - esong_code: 2559B37
       song_name: サマーラブ!! feat.RED RICE
-      content_type: ''
-  - song_name: Someday
-    song_alias:
-    esong_code: 2549B16
-    t_singer_master_id: '10540'
-    singer_name: 傳田 真央
-    singer_alias:
-    available_date: '2010-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さむてい
-    singer_name_ruby: てんたまお
-    song_variation:
-    - esong_code: 2549B16
-      song_name: Someday
       content_type: ''
   - song_name: Someday
     song_alias:
@@ -432,6 +432,23 @@ result:
     - esong_code: 2379A22
       song_name: Someday
       content_type: DAMﾗｲﾌﾞ
+  - song_name: Someday
+    song_alias:
+    esong_code: 2549B16
+    t_singer_master_id: '10540'
+    singer_name: 傳田 真央
+    singer_alias:
+    available_date: '2010-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さむてい
+    singer_name_ruby: てんたまお
+    song_variation:
+    - esong_code: 2549B16
+      song_name: Someday
+      content_type: ''
   - song_name: SOMEWHERE ALONG THE WAY  [あの頃]
     song_alias:
     esong_code: 2556B7
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2554B7
       song_name: サヨナラ
-      content_type: ''
-  - song_name: サヨナラアリガトウ feat.JAY'ED,CO-KEY&HEARTBEAT
-    song_alias:
-    esong_code: 2544B37
-    t_singer_master_id: '39947'
-    singer_name: mc2
-    singer_alias:
-    available_date: '2010-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならありかとう
-    singer_name_ruby: えむしすくえあと
-    song_variation:
-    - esong_code: 2544B37
-      song_name: サヨナラアリガトウ feat.JAY'ED,CO-KEY&HEARTBEAT
       content_type: ''

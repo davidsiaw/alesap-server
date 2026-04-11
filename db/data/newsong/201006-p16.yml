@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
+  - song_name: 好きからはじめよう
+    song_alias:
+    esong_code: 2556B23
+    t_singer_master_id: '2128'
+    singer_name: 本田 美奈子.(本田美奈子)
+    singer_alias:
+    available_date: '2010-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すきからはしめよう
+    singer_name_ruby: ほんたみなこ
+    song_variation:
+    - esong_code: 2556B23
+      song_name: 好きからはじめよう
+      content_type: ''
   - song_name: Scivias
     song_alias:
     esong_code: 2558B34
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2544B38
       song_name: スマッシュ
-      content_type: ''
-  - song_name: スローなブギにしてくれ (I want you)
-    song_alias:
-    esong_code: 2559A19
-    t_singer_master_id: '12321'
-    singer_name: CHEMISTRY
-    singer_alias:
-    available_date: '2010-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すろなふきにし
-    singer_name_ruby: けみすとり
-    song_variation:
-    - esong_code: 2559A19
-      song_name: スローなブギにしてくれ (I want you)
       content_type: ''

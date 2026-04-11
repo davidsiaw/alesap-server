@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1332
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1326
+  all_country_cnt: 1206
   song:
-  - song_name: アンダーワールド・ファニーシーカー feat.Tsubaki
-    song_alias:
-    esong_code: 2971A11
-    t_singer_master_id: '44860'
-    singer_name: こなぐすり@時花
-    singer_alias:
-    available_date: '2013-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方地霊殿 〜Subterranean Animism.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: あんたわると
-    singer_name_ruby: こなくすりあつとときか
-    song_variation:
-    - esong_code: 2971A11
-      song_name: アンダーワールド・ファニーシーカー feat.Tsubaki
-      content_type: 東方
   - song_name: Anti X'mas Superstar
     song_alias:
     esong_code: 2967B32
@@ -366,6 +349,23 @@ result:
       content_type: ''
   - song_name: 命かさねて
     song_alias:
+    esong_code: 2963B41
+    t_singer_master_id: '5744'
+    singer_name: 藤原 浩
+    singer_alias:
+    available_date: '2013-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのちかさねて
+    singer_name_ruby: ふしわらひろし
+    song_variation:
+    - esong_code: 2963B41
+      song_name: 命かさねて
+      content_type: ''
+  - song_name: 命かさねて
+    song_alias:
     esong_code: 2970B48
     t_singer_master_id: '5744'
     singer_name: 藤原 浩
@@ -381,23 +381,6 @@ result:
     - esong_code: 2970B48
       song_name: 命かさねて
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 命かさねて
-    song_alias:
-    esong_code: 2963B41
-    t_singer_master_id: '5744'
-    singer_name: 藤原 浩
-    singer_alias:
-    available_date: '2013-01-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのちかさねて
-    singer_name_ruby: ふしわらひろし
-    song_variation:
-    - esong_code: 2963B41
-      song_name: 命かさねて
-      content_type: ''
   - song_name: いのちの限り
     song_alias:
     esong_code: 2976B43
@@ -468,23 +451,6 @@ result:
       content_type: VOCALOID
   - song_name: 祈り
     song_alias:
-    esong_code: 2980A7
-    t_singer_master_id: '38535'
-    singer_name: amazarashi
-    singer_alias:
-    available_date: '2013-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのり
-    singer_name_ruby: あまさらし
-    song_variation:
-    - esong_code: 2980A7
-      song_name: 祈り
-      content_type: ''
-  - song_name: 祈り
-    song_alias:
     esong_code: 2972A41
     t_singer_master_id: '44834'
     singer_name: 春奈 るな
@@ -498,6 +464,23 @@ result:
     singer_name_ruby: はるなるな
     song_variation:
     - esong_code: 2972A41
+      song_name: 祈り
+      content_type: ''
+  - song_name: 祈り
+    song_alias:
+    esong_code: 2980A7
+    t_singer_master_id: '38535'
+    singer_name: amazarashi
+    singer_alias:
+    available_date: '2013-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのり
+    singer_name_ruby: あまさらし
+    song_variation:
+    - esong_code: 2980A7
       song_name: 祈り
       content_type: ''
   - song_name: 祈れ呪うな
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2975A11
       song_name: 祈れ呪うな
+      content_type: ''
+  - song_name: IF YOU WANT featuring Kotaro Oshio
+    song_alias:
+    esong_code: 2968A29
+    t_singer_master_id: '1899'
+    singer_name: 氷室 京介
+    singer_alias:
+    available_date: '2013-01-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いふゆうおんと
+    singer_name_ruby: ひむろきようすけ
+    song_variation:
+    - esong_code: 2968A29
+      song_name: IF YOU WANT featuring Kotaro Oshio
       content_type: ''

@@ -3,32 +3,15 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
-  - song_name: 東京三日月倶楽部
-    song_alias:
-    esong_code: 3486A18
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
-    singer_alias:
-    available_date: '2015-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきようみかつき
-    singer_name_ruby: いつきひろし
-    song_variation:
-    - esong_code: 3486A18
-      song_name: 東京三日月倶楽部
-      content_type: ''
   - song_name: 道化ノ華
     song_alias:
     esong_code: 3478B26
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2015-08-11'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3476B45
       song_name: Triccawicca
+      content_type: ''
+  - song_name: Trip
+    song_alias:
+    esong_code: 3485B27
+    t_singer_master_id: '50071'
+    singer_name: ベリーグッドマン
+    singer_alias:
+    available_date: '2015-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりつふ
+    singer_name_ruby: へりくつとまん
+    song_variation:
+    - esong_code: 3485B27
+      song_name: Trip
       content_type: ''

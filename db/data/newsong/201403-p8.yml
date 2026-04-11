@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
   - song_name: 男命(おとこみち)
     song_alias:
@@ -451,23 +451,6 @@ result:
       content_type: ''
   - song_name: おんなの酒
     song_alias:
-    esong_code: 3215A47
-    t_singer_master_id: '2638'
-    singer_name: 若山 かずさ
-    singer_alias:
-    available_date: '2014-03-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おんなのさけ
-    singer_name_ruby: わかやまかすさ
-    song_variation:
-    - esong_code: 3215A47
-      song_name: おんなの酒
-      content_type: DAM生音
-  - song_name: おんなの酒
-    song_alias:
     esong_code: 3215B20
     t_singer_master_id: '2638'
     singer_name: 若山 かずさ
@@ -483,6 +466,23 @@ result:
     - esong_code: 3215B20
       song_name: おんなの酒
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: おんなの酒
+    song_alias:
+    esong_code: 3215A47
+    t_singer_master_id: '2638'
+    singer_name: 若山 かずさ
+    singer_alias:
+    available_date: '2014-03-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おんなのさけ
+    singer_name_ruby: わかやまかすさ
+    song_variation:
+    - esong_code: 3215A47
+      song_name: おんなの酒
+      content_type: DAM生音
   - song_name: 女の倖せ
     song_alias:
     esong_code: 3212B6

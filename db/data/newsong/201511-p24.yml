@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1324
-  all_max_cnt: 1489
-  all_country_cnt: 1324
+  max_cnt: 1317
+  all_max_cnt: 1482
+  all_country_cnt: 1317
   song:
-  - song_name: DESTINARE!
-    song_alias:
-    esong_code: 3555B12
-    t_singer_master_id: '53276'
-    singer_name: 斉藤 壮馬
-    singer_alias:
-    available_date: '2015-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Dance with Devils<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていすていなれ
-    singer_name_ruby: さいとうそうま
-    song_variation:
-    - esong_code: 3555B12
-      song_name: DESTINARE!
-      content_type: ''
-  - song_name: Disney Princess Medley with Emiri Miyamoto
-    song_alias:
-    esong_code: 3558A41
-    t_singer_master_id: '26911'
-    singer_name: May J.
-    singer_alias:
-    available_date: '2015-11-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていすにふり
-    singer_name_ruby: めいしえい
-    song_variation:
-    - esong_code: 3558A41
-      song_name: Disney Princess Medley with Emiri Miyamoto
-      content_type: ''
-  - song_name: ディズニープリンセス・メドレー with 宮本笑里
-    song_alias:
-    esong_code: 3548A9
-    t_singer_master_id: '26911'
-    singer_name: May J.
-    singer_alias:
-    available_date: '2015-11-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていすにふり
-    singer_name_ruby: めいしえい
-    song_variation:
-    - esong_code: 3548A9
-      song_name: ディズニープリンセス・メドレー with 宮本笑里
-      content_type: ''
   - song_name: DAY TO DAY
     song_alias:
     esong_code: 3546A34
@@ -83,7 +32,7 @@ result:
     singer_alias:
     available_date: '2015-11-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂゜<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type: JOY生演奏
     song_name_ruby: ていはいてい
@@ -281,23 +230,6 @@ result:
       content_type: ''
   - song_name: テルテル坊主
     song_alias:
-    esong_code: 3545A18
-    t_singer_master_id: '1699'
-    singer_name: 成世 昌平
-    singer_alias:
-    available_date: '2015-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: てるてるほうす
-    singer_name_ruby: なるせしようへい
-    song_variation:
-    - esong_code: 3545A18
-      song_name: テルテル坊主
-      content_type: JOY生演奏
-  - song_name: テルテル坊主
-    song_alias:
     esong_code: 3395B22
     t_singer_master_id: '1699'
     singer_name: 成世 昌平
@@ -313,6 +245,23 @@ result:
     - esong_code: 3395B22
       song_name: テルテル坊主
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: テルテル坊主
+    song_alias:
+    esong_code: 3545A18
+    t_singer_master_id: '1699'
+    singer_name: 成世 昌平
+    singer_alias:
+    available_date: '2015-11-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: てるてるほうす
+    singer_name_ruby: なるせしようへい
+    song_variation:
+    - esong_code: 3545A18
+      song_name: テルテル坊主
+      content_type: JOY生演奏
   - song_name: テレサ
     song_alias:
     esong_code: 3551B29
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3548B11
       song_name: 東京暮らし
+      content_type: ''
+  - song_name: 東京流星群
+    song_alias:
+    esong_code: 3553A32
+    t_singer_master_id: '31983'
+    singer_name: SUPER BEAVER
+    singer_alias:
+    available_date: '2015-11-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきようりゆうせい
+    singer_name_ruby: すはひは
+    song_variation:
+    - esong_code: 3553A32
+      song_name: 東京流星群
+      content_type: ''
+  - song_name: TOKYOロマン
+    song_alias:
+    esong_code: 2510B24
+    t_singer_master_id: '10033'
+    singer_name: よしかわ ちなつ(吉川千夏)
+    singer_alias:
+    available_date: '2015-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきようろまん
+    singer_name_ruby: よしかわちなつ
+    song_variation:
+    - esong_code: 2510B24
+      song_name: TOKYOロマン
+      content_type: ''
+  - song_name: 東京わかれ雨
+    song_alias:
+    esong_code: 3547B46
+    t_singer_master_id: '30009'
+    singer_name: ヨシヒデ
+    singer_alias:
+    available_date: '2015-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきようわかれあめ
+    singer_name_ruby: よしひて
+    song_variation:
+    - esong_code: 3547B46
+      song_name: 東京わかれ雨
       content_type: ''

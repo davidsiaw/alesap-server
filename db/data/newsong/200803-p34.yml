@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1052
-  all_max_cnt: 1126
-  all_country_cnt: 1052
+  max_cnt: 1051
+  all_max_cnt: 1125
+  all_country_cnt: 1051
   song:
-  - song_name: 烈風の証 Wind and blaze
-    song_alias:
-    esong_code: 1971A22
-    t_singer_master_id: '32638'
-    singer_name: 村井 良大
-    singer_alias:
-    available_date: '2008-03-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: れつふうのあかし
-    singer_name_ruby: むらいりようた
-    song_variation:
-    - esong_code: 1971A22
-      song_name: 烈風の証 Wind and blaze
-      content_type: ''
   - song_name: LOST
     song_alias:
     esong_code: 1966A22
@@ -77,23 +60,6 @@ result:
       content_type: ''
   - song_name: ROCK STEADY
     song_alias:
-    esong_code: 1963A38
-    t_singer_master_id: '6365'
-    singer_name: 安室 奈美恵
-    singer_alias:
-    available_date: '2008-03-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ろつくすててい
-    singer_name_ruby: あむろなみえ
-    song_variation:
-    - esong_code: 1963A38
-      song_name: ROCK STEADY
-      content_type: ''
-  - song_name: ROCK STEADY
-    song_alias:
     esong_code: 1961B36
     t_singer_master_id: '6365'
     singer_name: 安室 奈美恵
@@ -109,6 +75,23 @@ result:
     - esong_code: 1961B36
       song_name: ROCK STEADY
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: ROCK STEADY
+    song_alias:
+    esong_code: 1963A38
+    t_singer_master_id: '6365'
+    singer_name: 安室 奈美恵
+    singer_alias:
+    available_date: '2008-03-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろつくすててい
+    singer_name_ruby: あむろなみえ
+    song_variation:
+    - esong_code: 1963A38
+      song_name: ROCK STEADY
+      content_type: ''
   - song_name: ROCK STEADY
     song_alias:
     esong_code: 1972A33
@@ -270,7 +253,7 @@ result:
     singer_alias:
     available_date: '2008-03-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 第5期ドラマCD Vol.4「あぁ、無情。(後編)」<番組名>
+    tie_up: サクラ大戦(ドラマCD版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: わかなはしやへ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1950A29
       song_name: Oneness
+      content_type: ''
+  - song_name: One more time, One more chance
+    song_alias:
+    esong_code: 1957B4
+    t_singer_master_id: '10119'
+    singer_name: 島谷 ひとみ
+    singer_alias:
+    available_date: '2008-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わんもあたいむわんも
+    singer_name_ruby: しまたにひとみ
+    song_variation:
+    - esong_code: 1957B4
+      song_name: One more time, One more chance
       content_type: ''

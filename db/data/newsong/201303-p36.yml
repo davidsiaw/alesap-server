@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: ひとり信濃路
-    song_alias:
-    esong_code: 3001A30
-    t_singer_master_id: '47328'
-    singer_name: 三井 さと子
-    singer_alias:
-    available_date: '2013-03-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとりしなのし
-    singer_name_ruby: みついさとこ
-    song_variation:
-    - esong_code: 3001A30
-      song_name: ひとり信濃路
-      content_type: ''
   - song_name: ひとりじゃない
     song_alias:
     esong_code: 3000B48
@@ -60,23 +43,6 @@ result:
       content_type: ''
   - song_name: 炎の川
     song_alias:
-    esong_code: 3003A40
-    t_singer_master_id: '1785'
-    singer_name: 服部 浩子
-    singer_alias:
-    available_date: '2013-03-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ひのかわ
-    singer_name_ruby: はつとりひろこ
-    song_variation:
-    - esong_code: 3003A40
-      song_name: 炎の川
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 炎の川
-    song_alias:
     esong_code: 2997A36
     t_singer_master_id: '1785'
     singer_name: 服部 浩子
@@ -92,6 +58,23 @@ result:
     - esong_code: 2997A36
       song_name: 炎の川
       content_type: ''
+  - song_name: 炎の川
+    song_alias:
+    esong_code: 3003A40
+    t_singer_master_id: '1785'
+    singer_name: 服部 浩子
+    singer_alias:
+    available_date: '2013-03-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ひのかわ
+    singer_name_ruby: はつとりひろこ
+    song_variation:
+    - esong_code: 3003A40
+      song_name: 炎の川
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 炎の川
     song_alias:
     esong_code: 3002B4
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2013-03-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ 劇場版<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひひひあの
@@ -264,23 +247,6 @@ result:
       content_type: ''
   - song_name: ひまわり
     song_alias:
-    esong_code: 3002A8
-    t_singer_master_id: '44364'
-    singer_name: ちょっきんず
-    singer_alias:
-    available_date: '2013-03-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひまわり
-    singer_name_ruby: ちよつきんす
-    song_variation:
-    - esong_code: 3002A8
-      song_name: ひまわり
-      content_type: ''
-  - song_name: ひまわり
-    song_alias:
     esong_code: 3006B35
     t_singer_master_id: '45001'
     singer_name: CIVILIAN SKUNK
@@ -294,6 +260,23 @@ result:
     singer_name_ruby: しへりあんすかんく
     song_variation:
     - esong_code: 3006B35
+      song_name: ひまわり
+      content_type: ''
+  - song_name: ひまわり
+    song_alias:
+    esong_code: 3002A8
+    t_singer_master_id: '44364'
+    singer_name: ちょっきんず
+    singer_alias:
+    available_date: '2013-03-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひまわり
+    singer_name_ruby: ちよつきんす
+    song_variation:
+    - esong_code: 3002A8
       song_name: ひまわり
       content_type: ''
   - song_name: 向日葵をさがして
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3008A46
       song_name: Beautiful dreamer
+      content_type: ''
+  - song_name: Beautiful World
+    song_alias:
+    esong_code: 2999B22
+    t_singer_master_id: '33628'
+    singer_name: FTISLAND
+    singer_alias:
+    available_date: '2013-03-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひゆていふるわ
+    singer_name_ruby: えふていあいらんと
+    song_variation:
+    - esong_code: 2999B22
+      song_name: Beautiful World
       content_type: ''

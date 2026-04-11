@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
+  - song_name: 夏の記憶
+    song_alias:
+    esong_code: 2545A42
+    t_singer_master_id: '31805'
+    singer_name: 清浦 夏実
+    singer_alias:
+    available_date: '2010-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スケッチブック 〜full color'S〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: なつのきおく
+    singer_name_ruby: きようらなつみ
+    song_variation:
+    - esong_code: 2545A42
+      song_name: 夏の記憶
+      content_type: ''
   - song_name: 夏のペダル
     song_alias:
     esong_code: 2411A15
@@ -398,7 +415,7 @@ result:
     - esong_code: 2551B6
       song_name: Never Look Back
       content_type: ''
-  - song_name: Never Let This Go (全英語詞)
+  - song_name: Never Let This Go
     song_alias:
     esong_code: 2553B15
     t_singer_master_id: '28360'
@@ -413,7 +430,7 @@ result:
     singer_name_ruby: わんおくろつく
     song_variation:
     - esong_code: 2553B15
-      song_name: Never Let This Go (全英語詞)
+      song_name: Never Let This Go
       content_type: ''
   - song_name: 眠らないラブソング
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2561A17
       song_name: Highest Life
-      content_type: ''
-  - song_name: 拝啓、薔薇色な日々よ
-    song_alias:
-    esong_code: 2553A31
-    t_singer_master_id: '40077'
-    singer_name: R指定
-    singer_alias:
-    available_date: '2010-06-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はいけいはらいろな
-    singer_name_ruby: あるしてい
-    song_variation:
-    - esong_code: 2553A31
-      song_name: 拝啓、薔薇色な日々よ
       content_type: ''

@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 968
-  all_max_cnt: 1054
-  all_country_cnt: 968
+  max_cnt: 960
+  all_max_cnt: 1046
+  all_country_cnt: 960
   song:
-  - song_name: Believe again
-    song_alias:
-    esong_code: 4540B10
-    t_singer_master_id: '57170'
-    singer_name: ANDCRAZY BREAK(アンドクレイジー)
-    singer_alias:
-    available_date: '2021-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひりふあけい
-    singer_name_ruby: あんとくれいしふれいく
-    song_variation:
-    - esong_code: 4540B10
-      song_name: Believe again
-      content_type: ''
-  - song_name: BE READY
-    song_alias:
-    esong_code: 4536B12
-    t_singer_master_id: '55362'
-    singer_name: BiSH
-    singer_alias:
-    available_date: '2021-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ラグナドール 妖しき皇帝と終焉の夜叉姫<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひれてい
-    singer_name_ruby: ひつしゆ
-    song_variation:
-    - esong_code: 4536B12
-      song_name: BE READY
-      content_type: ''
-  - song_name: 悲恋花
-    song_alias:
-    esong_code: 4527B19
-    t_singer_master_id: '45716'
-    singer_name: 福島 はじめ
-    singer_alias:
-    available_date: '2021-08-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひれんはな
-    singer_name_ruby: ふくしまはしめ
-    song_variation:
-    - esong_code: 4527B19
-      song_name: 悲恋花
-      content_type: ''
-  - song_name: pinky swear
-    song_alias:
-    esong_code: 4530A10
-    t_singer_master_id: '62132'
-    singer_name: Sano ibuki
-    singer_alias:
-    available_date: '2021-08-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひんきすうえあ
-    singer_name_ruby: さのいふき
-    song_variation:
-    - esong_code: 4530A10
-      song_name: pinky swear
-      content_type: ''
   - song_name: ピンキーフック
     song_alias:
     esong_code: 4532A42
@@ -287,7 +219,7 @@ result:
     singer_alias:
     available_date: '2021-08-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア World★Stars<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふえすとてふろ
@@ -383,23 +315,6 @@ result:
       content_type: 歌ってみた利用OK
   - song_name: 不器用な男
     song_alias:
-    esong_code: 4538B31
-    t_singer_master_id: '63123'
-    singer_name: カンザキイオリ
-    singer_alias:
-    available_date: '2021-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ふきようなおとこ
-    singer_name_ruby: かんさきいおり
-    song_variation:
-    - esong_code: 4538B31
-      song_name: 不器用な男
-      content_type: VOCALOID
-  - song_name: 不器用な男
-    song_alias:
     esong_code: 4538B40
     t_singer_master_id: '63123'
     singer_name: カンザキイオリ
@@ -413,6 +328,23 @@ result:
     singer_name_ruby: かんさきいおり
     song_variation:
     - esong_code: 4538B40
+      song_name: 不器用な男
+      content_type: VOCALOID
+  - song_name: 不器用な男
+    song_alias:
+    esong_code: 4538B31
+    t_singer_master_id: '63123'
+    singer_name: カンザキイオリ
+    singer_alias:
+    available_date: '2021-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ふきようなおとこ
+    singer_name_ruby: かんさきいおり
+    song_variation:
+    - esong_code: 4538B31
       song_name: 不器用な男
       content_type: VOCALOID
   - song_name: ブーゲンビリア
@@ -466,7 +398,7 @@ result:
     - esong_code: 4528B33
       song_name: プシュケー
       content_type: VOCALOID
-  - song_name: 夫婦(ふたり)
+  - song_name: 夫婦
     song_alias:
     esong_code: 1379A23
     t_singer_master_id: '2503'
@@ -481,7 +413,7 @@ result:
     singer_name_ruby: やまもとしようし
     song_variation:
     - esong_code: 1379A23
-      song_name: 夫婦(ふたり)
+      song_name: 夫婦
       content_type: ''
   - song_name: 二人の生活
     song_alias:
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 4527B26
       song_name: FUTURE LOVERS
+      content_type: ''
+  - song_name: 冬の蝶
+    song_alias:
+    esong_code: 4531A24
+    t_singer_master_id: '57834'
+    singer_name: 中澤 卓也
+    singer_alias:
+    available_date: '2021-08-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: ふゆのちよう
+    singer_name_ruby: なかさわたくや
+    song_variation:
+    - esong_code: 4531A24
+      song_name: 冬の蝶
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: Fly Together
+    song_alias:
+    esong_code: 4534A11
+    t_singer_master_id: '27628'
+    singer_name: KENN
+    singer_alias:
+    available_date: '2021-08-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ツキウタ。THE ANIMATION<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらいとうきやさ
+    singer_name_ruby: けん
+    song_variation:
+    - esong_code: 4534A11
+      song_name: Fly Together
+      content_type: ''
+  - song_name: BLACK CARD feat.AK-69
+    song_alias:
+    esong_code: 4532B43
+    t_singer_master_id: '61187'
+    singer_name: 田中 雄士
+    singer_alias:
+    available_date: '2021-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらつくかと
+    singer_name_ruby: たなかゆうし
+    song_variation:
+    - esong_code: 4532B43
+      song_name: BLACK CARD feat.AK-69
+      content_type: ''
+  - song_name: Black★Party
+    song_alias:
+    esong_code: 4537B25
+    t_singer_master_id: '68325'
+    singer_name: TRICK&TREAT
+    singer_alias:
+    available_date: '2021-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター ミリオンライブ! シアターデイズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらつくはてい
+    singer_name_ruby: とりつくあんととりと
+    song_variation:
+    - esong_code: 4537B25
+      song_name: Black★Party
       content_type: ''

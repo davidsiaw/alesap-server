@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 319
-  all_max_cnt: 344
-  all_country_cnt: 319
+  max_cnt: 318
+  all_max_cnt: 343
+  all_country_cnt: 318
   song:
-  - song_name: BALA薔薇VARA
-    song_alias:
-    esong_code: 552A37
-    t_singer_master_id: '6767'
-    singer_name: GARGOYLE
-    singer_alias:
-    available_date: '2001-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はらはらはら
-    singer_name_ruby: かこいる
-    song_variation:
-    - esong_code: 552A37
-      song_name: BALA薔薇VARA
-      content_type: ''
   - song_name: 春色
     song_alias:
     esong_code: 552B25
@@ -130,7 +113,7 @@ result:
     song_alias:
     esong_code: 555B29
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2001-04-18'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 551A21
       song_name: bringing da noise
+      content_type: ''
+  - song_name: ふるさとの母へ
+    song_alias:
+    esong_code: 548B26
+    t_singer_master_id: '12415'
+    singer_name: 五条 夕子
+    singer_alias:
+    available_date: '2001-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるさとのははへ
+    singer_name_ruby: こしようゆうこ
+    song_variation:
+    - esong_code: 548B26
+      song_name: ふるさとの母へ
       content_type: ''

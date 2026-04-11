@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1586
-  all_max_cnt: 1734
-  all_country_cnt: 1586
+  max_cnt: 1581
+  all_max_cnt: 1729
+  all_country_cnt: 1581
   song:
   - song_name: 川
     song_alias:
@@ -147,7 +147,7 @@ result:
     song_alias:
     esong_code: 2945A7
     t_singer_master_id: '27744'
-    singer_name: 大友 ジュン
+    singer_name: 大友 ジュン(井上純一)
     singer_alias:
     available_date: '2012-12-05'
     end_date: '2999-04-10 00:00:00'
@@ -245,6 +245,23 @@ result:
     - esong_code: 2464B43
       song_name: 鬼哭啾愀
       content_type: ''
+  - song_name: キズナ
+    song_alias:
+    esong_code: 2956A11
+    t_singer_master_id: '16196'
+    singer_name: BAROQUE(baroque)
+    singer_alias:
+    available_date: '2012-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: はろつく
+    song_variation:
+    - esong_code: 2956A11
+      song_name: キズナ
+      content_type: ''
   - song_name: 絆
     song_alias:
     esong_code: 2947B32
@@ -278,23 +295,6 @@ result:
     song_variation:
     - esong_code: 2944A34
       song_name: 母娘絆(きずな)
-      content_type: ''
-  - song_name: キズナ
-    song_alias:
-    esong_code: 2956A11
-    t_singer_master_id: '16196'
-    singer_name: BAROQUE(baroque)
-    singer_alias:
-    available_date: '2012-12-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: はろつく
-    song_variation:
-    - esong_code: 2956A11
-      song_name: キズナ
       content_type: ''
   - song_name: 絆坂
     song_alias:
@@ -489,7 +489,7 @@ result:
     t_singer_master_id: '10342'
     singer_name: 合唱
     singer_alias:
-    available_date: '2012-12-01'
+    available_date: '2012-12-04'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

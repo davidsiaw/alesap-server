@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1167
-  all_max_cnt: 1285
-  all_country_cnt: 1167
+  max_cnt: 1163
+  all_max_cnt: 1281
+  all_country_cnt: 1163
   song:
-  - song_name: サウス・サンバ
-    song_alias:
-    esong_code: 1915B23
-    t_singer_master_id: '29953'
-    singer_name: スラップスティック
-    singer_alias:
-    available_date: '2007-12-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さうすさんは
-    singer_name_ruby: すらつふすていつく
-    song_variation:
-    - esong_code: 1915B23
-      song_name: サウス・サンバ
-      content_type: ''
   - song_name: THE COMMON BLUES 〜月並みなブルース〜
     song_alias:
     esong_code: 1917B13
@@ -279,23 +262,6 @@ result:
     - esong_code: 1927B13
       song_name: THE MOON
       content_type: ''
-  - song_name: sayonara
-    song_alias:
-    esong_code: 1917A13
-    t_singer_master_id: '12895'
-    singer_name: EXILE
-    singer_alias:
-    available_date: '2007-12-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよなら
-    singer_name_ruby: えくさいる
-    song_variation:
-    - esong_code: 1917A13
-      song_name: sayonara
-      content_type: ''
   - song_name: サヨナラ 〜Love is pain?〜
     song_alias:
     esong_code: 1915B37
@@ -312,6 +278,23 @@ result:
     song_variation:
     - esong_code: 1915B37
       song_name: サヨナラ 〜Love is pain?〜
+      content_type: ''
+  - song_name: sayonara
+    song_alias:
+    esong_code: 1917A13
+    t_singer_master_id: '12895'
+    singer_name: EXILE
+    singer_alias:
+    available_date: '2007-12-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよなら
+    singer_name_ruby: えくさいる
+    song_variation:
+    - esong_code: 1917A13
+      song_name: sayonara
       content_type: ''
   - song_name: さよならDecember
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1914A30
       song_name: しあわせだいふく
+      content_type: ''
+  - song_name: 幸せになるために
+    song_alias:
+    esong_code: 1917B12
+    t_singer_master_id: '31809'
+    singer_name: 暮部 拓哉
+    singer_alias:
+    available_date: '2007-12-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせになるために
+    singer_name_ruby: くれへたくや
+    song_variation:
+    - esong_code: 1917B12
+      song_name: 幸せになるために
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 774
-  all_max_cnt: 820
-  all_country_cnt: 774
+  max_cnt: 765
+  all_max_cnt: 811
+  all_country_cnt: 765
   song:
-  - song_name: アヤメ
-    song_alias:
-    esong_code: 4499B22
-    t_singer_master_id: '45487'
-    singer_name: 石崎 ひゅーい
-    singer_alias:
-    available_date: '2021-05-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あやめ
-    singer_name_ruby: いしさきひゆい
-    song_variation:
-    - esong_code: 4499B22
-      song_name: アヤメ
-      content_type: ''
-  - song_name: ありふれたうた
-    song_alias:
-    esong_code: 4498A24
-    t_singer_master_id: '33453'
-    singer_name: ゴールデンボンバー
-    singer_alias:
-    available_date: '2021-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありふれたうた
-    singer_name_ruby: こるてんほんは
-    song_variation:
-    - esong_code: 4498A24
-      song_name: ありふれたうた
-      content_type: ''
   - song_name: アルス・グリザイユ feat.初音ミク
     song_alias:
     esong_code: 4497B23
@@ -517,3 +483,37 @@ result:
     - esong_code: 4504B25
       song_name: 犬と猫とミルクにシュガー
       content_type: ''
+  - song_name: 祈り
+    song_alias:
+    esong_code: 4498B3
+    t_singer_master_id: '67869'
+    singer_name: Shinon Tomura
+    singer_alias:
+    available_date: '2021-05-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのり
+    singer_name_ruby: しのんとむら
+    song_variation:
+    - esong_code: 4498B3
+      song_name: 祈り
+      content_type: ''
+  - song_name: 今更だって僕は言うかな
+    song_alias:
+    esong_code: 4499A29
+    t_singer_master_id: '59065'
+    singer_name: Saucy Dog
+    singer_alias:
+    available_date: '2021-05-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: いまさらたつてほ
+    singer_name_ruby: さうしとつく
+    song_variation:
+    - esong_code: 4499A29
+      song_name: 今更だって僕は言うかな
+      content_type: DAM生音

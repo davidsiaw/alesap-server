@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: 涙のサイレント・ムービー
-    song_alias:
-    esong_code: 1470A45
-    t_singer_master_id: '1198'
-    singer_name: すかんち
-    singer_alias:
-    available_date: '2010-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみたのさいれんと
-    singer_name_ruby: すかんち
-    song_variation:
-    - esong_code: 1470A45
-      song_name: 涙のサイレント・ムービー
-      content_type: ''
   - song_name: 涙のわけ
     song_alias:
     esong_code: 2478B46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2463B4
       song_name: BYE NOW!
+      content_type: ''
+  - song_name: POWDER SNOW
+    song_alias:
+    esong_code: 2480A15
+    t_singer_master_id: '12152'
+    singer_name: 水樹 奈々
+    singer_alias:
+    available_date: '2010-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: WHITE ALBUM (TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はうたすのう
+    singer_name_ruby: みすきなな
+    song_variation:
+    - esong_code: 2480A15
+      song_name: POWDER SNOW
       content_type: ''

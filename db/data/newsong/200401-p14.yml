@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 564
-  all_max_cnt: 620
-  all_country_cnt: 564
+  max_cnt: 562
+  all_max_cnt: 618
+  all_country_cnt: 562
   song:
   - song_name: Private Laughter
     song_alias:
@@ -60,23 +60,6 @@ result:
       content_type: ''
   - song_name: Blast My Desire
     song_alias:
-    esong_code: 968A34
-    t_singer_master_id: '8267'
-    singer_name: m.o.v.e(move)
-    singer_alias:
-    available_date: '2004-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 頭文字D<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらすとまいてい
-    singer_name_ruby: むふ
-    song_variation:
-    - esong_code: 968A34
-      song_name: Blast My Desire
-      content_type: ''
-  - song_name: Blast My Desire
-    song_alias:
     esong_code: 979B21
     t_singer_master_id: '8267'
     singer_name: m.o.v.e(move)
@@ -92,6 +75,23 @@ result:
     - esong_code: 979B21
       song_name: Blast My Desire
       content_type: DAM良音
+  - song_name: Blast My Desire
+    song_alias:
+    esong_code: 968A34
+    t_singer_master_id: '8267'
+    singer_name: m.o.v.e(move)
+    singer_alias:
+    available_date: '2004-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 頭文字D<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらすとまいてい
+    singer_name_ruby: むふ
+    song_variation:
+    - esong_code: 968A34
+      song_name: Blast My Desire
+      content_type: ''
   - song_name: フラッシュバック
     song_alias:
     esong_code: 968A40
@@ -449,23 +449,6 @@ result:
     - esong_code: 869B20
       song_name: 僕らだけの未来
       content_type: ''
-  - song_name: 僕らはヒーロー
-    song_alias:
-    esong_code: 980A11
-    t_singer_master_id: '18189'
-    singer_name: 戸田 恵子&島本 須美&柳沢 三千代
-    singer_alias:
-    available_date: '2004-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: それいけ!アンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほくらはひろ
-    singer_name_ruby: とたけいこしまもとすみや
-    song_variation:
-    - esong_code: 980A11
-      song_name: 僕らはヒーロー
-      content_type: ''
   - song_name: 星屑のセレナーデ
     song_alias:
     esong_code: 979B26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 979B29
       song_name: 星に願いを 〜When You Wish Upon a Star〜
+      content_type: ''
+  - song_name: 星の旅
+    song_alias:
+    esong_code: 250B6
+    t_singer_master_id: '147'
+    singer_name: あんべ 光俊
+    singer_alias:
+    available_date: '2004-01-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほしのたひ
+    singer_name_ruby: あんへみつとし
+    song_variation:
+    - esong_code: 250B6
+      song_name: 星の旅
       content_type: ''

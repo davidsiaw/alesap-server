@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1485
-  all_max_cnt: 1686
-  all_country_cnt: 1485
+  max_cnt: 1462
+  all_max_cnt: 1663
+  all_country_cnt: 1462
   song:
-  - song_name: アストラ号の冒険
-    song_alias:
-    esong_code: 4336A34
-    t_singer_master_id: '30312'
-    singer_name: 早見 沙織
-    singer_alias:
-    available_date: '2020-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 彼方のアストラ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすとらこうのほ
-    singer_name_ruby: はやみさおり
-    song_variation:
-    - esong_code: 4336A34
-      song_name: アストラ号の冒険
-      content_type: ''
   - song_name: AS ONE
     song_alias:
     esong_code: 4334A19
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4343A44
       song_name: 天満月
+      content_type: ''
+  - song_name: Ami
+    song_alias:
+    esong_code: 4341A43
+    t_singer_master_id: '53056'
+    singer_name: 藤原 さくら
+    singer_alias:
+    available_date: '2020-03-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あみ
+    singer_name_ruby: ふしわらさくら
+    song_variation:
+    - esong_code: 4341A43
+      song_name: Ami
       content_type: ''

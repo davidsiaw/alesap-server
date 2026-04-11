@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1411
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1405
+  all_country_cnt: 1206
   song:
-  - song_name: アンドロイド
-    song_alias:
-    esong_code: 4708B38
-    t_singer_master_id: '30464'
-    singer_name: AJISAI
-    singer_alias:
-    available_date: '2022-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんとろいと
-    singer_name_ruby: あしさい
-    song_variation:
-    - esong_code: 4708B38
-      song_name: アンドロイド
-      content_type: ''
   - song_name: Unbound feat.nanaha
     song_alias:
     esong_code: 4706A33
@@ -517,3 +500,20 @@ result:
     - esong_code: 4711A4
       song_name: IPPUN_GP に出すはずだった曲
       content_type: VOCALOID
+  - song_name: 一歩前ノセカイ
+    song_alias:
+    esong_code: 4712B6
+    t_singer_master_id: '70098'
+    singer_name: TINGS
+    singer_alias:
+    available_date: '2022-11-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: シャインポスト<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつほまえのせかい
+    singer_name_ruby: ていんくす
+    song_variation:
+    - esong_code: 4712B6
+      song_name: 一歩前ノセカイ
+      content_type: ''

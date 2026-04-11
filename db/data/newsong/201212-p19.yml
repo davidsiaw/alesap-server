@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1586
-  all_max_cnt: 1734
-  all_country_cnt: 1586
+  max_cnt: 1581
+  all_max_cnt: 1729
+  all_country_cnt: 1581
   song:
-  - song_name: サンフランシスコ行き
-    song_alias:
-    esong_code: 2954A4
-    t_singer_master_id: '1908'
-    singer_name: 平尾 昌晃&畑中 葉子
-    singer_alias:
-    available_date: '2012-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さんふらんしすこゆき
-    singer_name_ruby: ひらおまさあきはた
-    song_variation:
-    - esong_code: 2954A4
-      song_name: サンフランシスコ行き
-      content_type: ''
   - song_name: 3分間
     song_alias:
     esong_code: 2962A37
@@ -177,23 +160,6 @@ result:
     - esong_code: 2956A14
       song_name: Jeffrey Campbellのスケートシューズで
       content_type: ''
-  - song_name: The End of the Dream
-    song_alias:
-    esong_code: 2942A45
-    t_singer_master_id: '2927'
-    singer_name: LUNA SEA
-    singer_alias:
-    available_date: '2012-12-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しえんとおふさ
-    singer_name_ruby: るなし
-    song_variation:
-    - esong_code: 2942A45
-      song_name: The End of the Dream
-      content_type: ''
   - song_name: the end of the world
     song_alias:
     esong_code: 1111A9
@@ -210,6 +176,23 @@ result:
     song_variation:
     - esong_code: 1111A9
       song_name: the end of the world
+      content_type: ''
+  - song_name: The End of the Dream
+    song_alias:
+    esong_code: 2942A45
+    t_singer_master_id: '2927'
+    singer_name: LUNA SEA
+    singer_alias:
+    available_date: '2012-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しえんとおふさ
+    singer_name_ruby: るなし
+    song_variation:
+    - esong_code: 2942A45
+      song_name: The End of the Dream
       content_type: ''
   - song_name: Gentle Seasons
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2757A8
       song_name: シナプス
+      content_type: ''
+  - song_name: 死にかけの地図
+    song_alias:
+    esong_code: 2955B30
+    t_singer_master_id: '38014'
+    singer_name: DATSUN320
+    singer_alias:
+    available_date: '2012-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しにかけのちす
+    singer_name_ruby: たつとさんさんにまる
+    song_variation:
+    - esong_code: 2955B30
+      song_name: 死にかけの地図
       content_type: ''

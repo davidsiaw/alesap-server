@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1258
-  all_max_cnt: 1360
-  all_country_cnt: 1258
+  max_cnt: 1253
+  all_max_cnt: 1354
+  all_country_cnt: 1253
   song:
-  - song_name: Keep on
-    song_alias:
-    esong_code: 2110A7
-    t_singer_master_id: '1255'
-    singer_name: SMAP
-    singer_alias:
-    available_date: '2008-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きふおん
-    singer_name_ruby: すまつふ
-    song_variation:
-    - esong_code: 2110A7
-      song_name: Keep on
-      content_type: ''
   - song_name: 気分上々↑↑
     song_alias:
     esong_code: 2126A46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2115B39
       song_name: 京の都の遊び人
+      content_type: ''
+  - song_name: 共犯者
+    song_alias:
+    esong_code: 2125B9
+    t_singer_master_id: '14038'
+    singer_name: スネオヘアー
+    singer_alias:
+    available_date: '2008-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きようはんしや
+    singer_name_ruby: すねおへあ
+    song_variation:
+    - esong_code: 2125B9
+      song_name: 共犯者
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1198
-  all_max_cnt: 1367
-  all_country_cnt: 1198
+  max_cnt: 1194
+  all_max_cnt: 1363
+  all_country_cnt: 1194
   song:
-  - song_name: 女のゆりかご
-    song_alias:
-    esong_code: 4049A14
-    t_singer_master_id: '10799'
-    singer_name: 瀬口 侑希
-    singer_alias:
-    available_date: '2018-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: おんなのゆりかこ
-    singer_name_ruby: せくちゆうき
-    song_variation:
-    - esong_code: 4049A14
-      song_name: 女のゆりかご
-      content_type: JOY生演奏
   - song_name: 女のゆりかご
     song_alias:
     esong_code: 3391A13
@@ -298,6 +281,23 @@ result:
       content_type: ''
   - song_name: 片時雨
     song_alias:
+    esong_code: 4049B6
+    t_singer_master_id: '6239'
+    singer_name: 岩本 公水
+    singer_alias:
+    available_date: '2018-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かたしくれ
+    singer_name_ruby: いわもとくみ
+    song_variation:
+    - esong_code: 4049B6
+      song_name: 片時雨
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 片時雨
+    song_alias:
     esong_code: 4049A12
     t_singer_master_id: '6239'
     singer_name: 岩本 公水
@@ -330,23 +330,6 @@ result:
     - esong_code: 4046B3
       song_name: 片時雨
       content_type: ''
-  - song_name: 片時雨
-    song_alias:
-    esong_code: 4049B6
-    t_singer_master_id: '6239'
-    singer_name: 岩本 公水
-    singer_alias:
-    available_date: '2018-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かたしくれ
-    singer_name_ruby: いわもとくみ
-    song_variation:
-    - esong_code: 4049B6
-      song_name: 片時雨
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Catastrophe
     song_alias:
     esong_code: 4057B12
@@ -517,3 +500,20 @@ result:
     - esong_code: 4043B42
       song_name: ガーネット (弾き語り)
       content_type: ''
+  - song_name: 可能性
+    song_alias:
+    esong_code: 4042B40
+    t_singer_master_id: '18242'
+    singer_name: サンボマスター
+    singer_alias:
+    available_date: '2018-08-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: かのうせい
+    singer_name_ruby: さんほますた
+    song_variation:
+    - esong_code: 4042B40
+      song_name: 可能性
+      content_type: JOYｸﾘｯﾌﾟ

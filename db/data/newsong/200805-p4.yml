@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 920
-  all_max_cnt: 993
-  all_country_cnt: 920
+  max_cnt: 913
+  all_max_cnt: 986
+  all_country_cnt: 913
   song:
-  - song_name: Eternal
-    song_alias:
-    esong_code: 2000B39
-    t_singer_master_id: '26892'
-    singer_name: LGYankees(LGY)
-    singer_alias:
-    available_date: '2008-05-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えたなる
-    singer_name_ruby: えるしやんきす
-    song_variation:
-    - esong_code: 2000B39
-      song_name: Eternal
-      content_type: ''
   - song_name: えにし華
     song_alias:
     esong_code: 2012B28
@@ -400,23 +383,6 @@ result:
       content_type: 東方
   - song_name: O2 〜オー・ツー〜
     song_alias:
-    esong_code: 1993B34
-    t_singer_master_id: '15759'
-    singer_name: ORANGE RANGE
-    singer_alias:
-    available_date: '2008-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: コードギアス 反逆のルルーシュ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おつ
-    singer_name_ruby: おれんしれんし
-    song_variation:
-    - esong_code: 1993B34
-      song_name: O2 〜オー・ツー〜
-      content_type: ''
-  - song_name: O2 〜オー・ツー〜
-    song_alias:
     esong_code: 2012A42
     t_singer_master_id: '15759'
     singer_name: ORANGE RANGE
@@ -432,6 +398,23 @@ result:
     - esong_code: 2012A42
       song_name: O2 〜オー・ツー〜
       content_type: DAM良音
+  - song_name: O2 〜オー・ツー〜
+    song_alias:
+    esong_code: 1993B34
+    t_singer_master_id: '15759'
+    singer_name: ORANGE RANGE
+    singer_alias:
+    available_date: '2008-05-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: コードギアス 反逆のルルーシュ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おつ
+    singer_name_ruby: おれんしれんし
+    song_variation:
+    - esong_code: 1993B34
+      song_name: O2 〜オー・ツー〜
+      content_type: ''
   - song_name: おっちゃんタクシー
     song_alias:
     esong_code: 2000A29
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1993B44
       song_name: 男花吹雪
+      content_type: ''
+  - song_name: 男節
+    song_alias:
+    esong_code: 1999A26
+    t_singer_master_id: '2738'
+    singer_name: 斉藤 和義
+    singer_alias:
+    available_date: '2008-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこふし
+    singer_name_ruby: さいとうかすよし
+    song_variation:
+    - esong_code: 1999A26
+      song_name: 男節
       content_type: ''

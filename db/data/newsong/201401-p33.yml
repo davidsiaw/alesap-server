@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: 優しいあなたに
-    song_alias:
-    esong_code: 2667A6
-    t_singer_master_id: '36119'
-    singer_name: 前田 千代子
-    singer_alias:
-    available_date: '2014-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やさしいあなたに
-    singer_name_ruby: まえたちよこ
-    song_variation:
-    - esong_code: 2667A6
-      song_name: 優しいあなたに
-      content_type: ''
-  - song_name: やさしい祈り 〜Guarendo della Luna
-    song_alias:
-    esong_code: 3176A13
-    t_singer_master_id: '44090'
-    singer_name: 徳井 青空
-    singer_alias:
-    available_date: '2014-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 幻影ヲ駆ケル太陽<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: やさしいいのりかれ
-    singer_name_ruby: とくいそら
-    song_variation:
-    - esong_code: 3176A13
-      song_name: やさしい祈り 〜Guarendo della Luna
-      content_type: ''
   - song_name: やすらぎ港
     song_alias:
     esong_code: 3166B38
@@ -517,3 +483,37 @@ result:
     - esong_code: 3171B19
       song_name: 夢幻 feat.GUMI
       content_type: VOCALOID
+  - song_name: 儚物語
+    song_alias:
+    esong_code: 2008B5
+    t_singer_master_id: '1668'
+    singer_name: 永井 龍雲
+    singer_alias:
+    available_date: '2014-01-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめものかたり
+    singer_name_ruby: なかいりゆううん
+    song_variation:
+    - esong_code: 2008B5
+      song_name: 儚物語
+      content_type: ''
+  - song_name: 夢を繋いで
+    song_alias:
+    esong_code: 3165B19
+    t_singer_master_id: '37886'
+    singer_name: WEAVER
+    singer_alias:
+    available_date: '2014-01-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめをつないて
+    singer_name_ruby: ういは
+    song_variation:
+    - esong_code: 3165B19
+      song_name: 夢を繋いで
+      content_type: ''

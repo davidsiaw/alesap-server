@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1307
-  all_max_cnt: 1525
-  all_country_cnt: 1307
+  max_cnt: 1293
+  all_max_cnt: 1511
+  all_country_cnt: 1293
   song:
-  - song_name: We are キスマイ!
-    song_alias:
-    esong_code: 3981B35
-    t_singer_master_id: '42909'
-    singer_name: Kis-My-Ft2
-    singer_alias:
-    available_date: '2018-04-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういあきすまい
-    singer_name_ruby: きすまいふつとつ
-    song_variation:
-    - esong_code: 3981B35
-      song_name: We are キスマイ!
-      content_type: ''
-  - song_name: WE ARE THE FUTURE
-    song_alias:
-    esong_code: 3982A7
-    t_singer_master_id: '61342'
-    singer_name: SHARE LOCK HOMES
-    singer_alias:
-    available_date: '2018-04-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういあさふゆ
-    singer_name_ruby: しえあろつくほむす
-    song_variation:
-    - esong_code: 3982A7
-      song_name: WE ARE THE FUTURE
-      content_type: ''
   - song_name: ウィーキャン!
     song_alias:
     esong_code: 3975A49
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1015B11
       song_name: 江差恋しぐれ
+      content_type: ''
+  - song_name: STU48 (徳島ver.)
+    song_alias:
+    esong_code: 3972A16
+    t_singer_master_id: '59091'
+    singer_name: STU48
+    singer_alias:
+    available_date: '2018-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えすていゆふお
+    singer_name_ruby: えすていゆふおていえいと
+    song_variation:
+    - esong_code: 3972A16
+      song_name: STU48 (徳島ver.)
+      content_type: ''
+  - song_name: STU48 (愛媛ver.)
+    song_alias:
+    esong_code: 3972A17
+    t_singer_master_id: '59091'
+    singer_name: STU48
+    singer_alias:
+    available_date: '2018-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えすていゆふお
+    singer_name_ruby: えすていゆふおていえいと
+    song_variation:
+    - esong_code: 3972A17
+      song_name: STU48 (愛媛ver.)
       content_type: ''

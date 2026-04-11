@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
   - song_name: 釧路にて
     song_alias:
@@ -43,40 +43,6 @@ result:
       content_type: ''
   - song_name: 唇にBe My Baby
     song_alias:
-    esong_code: 3569A16
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2015-12-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: くちひるにひま
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 3569A16
-      song_name: 唇にBe My Baby
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 唇にBe My Baby
-    song_alias:
-    esong_code: 3574A45
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2015-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: くちひるにひま
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 3574A45
-      song_name: 唇にBe My Baby
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 唇にBe My Baby
-    song_alias:
     esong_code: 3567A9
     t_singer_master_id: '25255'
     singer_name: AKB48
@@ -109,6 +75,40 @@ result:
     - esong_code: 3565B35
       song_name: 唇にBe My Baby
       content_type: ''
+  - song_name: 唇にBe My Baby
+    song_alias:
+    esong_code: 3574A45
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2015-12-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: くちひるにひま
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 3574A45
+      song_name: 唇にBe My Baby
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 唇にBe My Baby
+    song_alias:
+    esong_code: 3569A16
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2015-12-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: くちひるにひま
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 3569A16
+      song_name: 唇にBe My Baby
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 口笛
     song_alias:
     esong_code: 3572B12
@@ -332,23 +332,6 @@ result:
       content_type: ''
   - song_name: クリスマスソング
     song_alias:
-    esong_code: 3573B27
-    t_singer_master_id: '35281'
-    singer_name: back number
-    singer_alias:
-    available_date: '2015-12-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: くりすますそんく
-    singer_name_ruby: はつくなんは
-    song_variation:
-    - esong_code: 3573B27
-      song_name: クリスマスソング
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: クリスマスソング
-    song_alias:
     esong_code: 3569A22
     t_singer_master_id: '35281'
     singer_name: back number
@@ -364,6 +347,23 @@ result:
     - esong_code: 3569A22
       song_name: クリスマスソング
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: クリスマスソング
+    song_alias:
+    esong_code: 3573B27
+    t_singer_master_id: '35281'
+    singer_name: back number
+    singer_alias:
+    available_date: '2015-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: くりすますそんく
+    singer_name_ruby: はつくなんは
+    song_variation:
+    - esong_code: 3573B27
+      song_name: クリスマスソング
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Critical Point feat.TARO SOUL,KEN THE 390
     song_alias:
     esong_code: 3570B43
@@ -457,7 +457,7 @@ result:
     singer_alias:
     available_date: '2015-12-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 牙狼-GARO- 〜紅蓮ノ月〜<番組名>
+    tie_up: 牙狼-GARO-(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: くれんのつきかくさ

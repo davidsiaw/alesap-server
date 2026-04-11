@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
   - song_name: L・O・B・M (釘宮&長谷川 ver.)
     song_alias:
@@ -324,7 +324,7 @@ result:
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: おとこのしんせい
+    song_name_ruby: おとこのみち
     singer_name_ruby: たつのゆうせん
     song_variation:
     - esong_code: 2604B41
@@ -398,23 +398,6 @@ result:
     - esong_code: 2604A17
       song_name: 同じ空の下で
       content_type: ''
-  - song_name: over
-    song_alias:
-    esong_code: 2607A45
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2010-09-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おは
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 2607A45
-      song_name: over
-      content_type: ''
   - song_name: OVER feat.初音ミク
     song_alias:
     esong_code: 2601B20
@@ -432,6 +415,23 @@ result:
     - esong_code: 2601B20
       song_name: OVER feat.初音ミク
       content_type: VOCALOID
+  - song_name: over
+    song_alias:
+    esong_code: 2607A45
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2010-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おは
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 2607A45
+      song_name: over
+      content_type: ''
   - song_name: おはよう!!朝ご飯 (REM@STER-B)
     song_alias:
     esong_code: 2589B41

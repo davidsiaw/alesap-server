@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
-  - song_name: いにしえの旅人
-    song_alias:
-    esong_code: 2939B39
-    t_singer_master_id: '46497'
-    singer_name: 野田 ひろし
-    singer_alias:
-    available_date: '2012-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いにしえのたひひ
-    singer_name_ruby: のたひろし
-    song_variation:
-    - esong_code: 2939B39
-      song_name: いにしえの旅人
-      content_type: ''
   - song_name: INNOCENCE
     song_alias:
     esong_code: 2920A4
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 562A1
       song_name: We Love SEIGAKU
+      content_type: ''
+  - song_name: ウィンター・ガーデン
+    song_alias:
+    esong_code: 582B17
+    t_singer_master_id: '2217'
+    singer_name: 松田 聖子
+    singer_alias:
+    available_date: '2012-11-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういんたかて
+    singer_name_ruby: まつたせいこ
+    song_variation:
+    - esong_code: 582B17
+      song_name: ウィンター・ガーデン
       content_type: ''

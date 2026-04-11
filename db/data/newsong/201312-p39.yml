@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: 冒険者たちへ
+    song_alias:
+    esong_code: 3151A20
+    t_singer_master_id: '21628'
+    singer_name: 橋本 みゆき
+    singer_alias:
+    available_date: '2013-12-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほうけんしやたちへ
+    singer_name_ruby: はしもとみゆき
+    song_variation:
+    - esong_code: 3151A20
+      song_name: 冒険者たちへ
+      content_type: ''
+  - song_name: 鳳仙花
+    song_alias:
+    esong_code: 3159A47
+    t_singer_master_id: '47952'
+    singer_name: 都築 きせの
+    singer_alias:
+    available_date: '2013-12-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方幻想郷 〜Lotus Land Story.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: ほうせんか
+    singer_name_ruby: つつききせの
+    song_variation:
+    - esong_code: 3159A47
+      song_name: 鳳仙花
+      content_type: 東方
   - song_name: 鳳仙花(ポンソンファ)
     song_alias:
     esong_code: 797B9
@@ -264,6 +298,23 @@ result:
       content_type: ''
   - song_name: 保津川ふたり
     song_alias:
+    esong_code: 3155A12
+    t_singer_master_id: '23563'
+    singer_name: 葵 かを里(調子かをり)
+    singer_alias:
+    available_date: '2013-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ほつかわふたり
+    singer_name_ruby: あおいかをり
+    song_variation:
+    - esong_code: 3155A12
+      song_name: 保津川ふたり
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 保津川ふたり
+    song_alias:
     esong_code: 2948A45
     t_singer_master_id: '23563'
     singer_name: 葵 かを里(調子かをり)
@@ -296,23 +347,6 @@ result:
     - esong_code: 3154A41
       song_name: 保津川ふたり
       content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 保津川ふたり
-    song_alias:
-    esong_code: 3155A12
-    t_singer_master_id: '23563'
-    singer_name: 葵 かを里(調子かをり)
-    singer_alias:
-    available_date: '2013-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ほつかわふたり
-    singer_name_ruby: あおいかをり
-    song_variation:
-    - esong_code: 3155A12
-      song_name: 保津川ふたり
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: ほっこり酒場
     song_alias:
     esong_code: 3155B43
@@ -483,37 +517,3 @@ result:
     - esong_code: 3164B15
       song_name: TV版 ボロボロロケット
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: White Winter Love。
-    song_alias:
-    esong_code: 3162A5
-    t_singer_master_id: '41597'
-    singer_name: ハジ→
-    singer_alias:
-    available_date: '2013-12-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ほわいとういんたら
-    singer_name_ruby: はし
-    song_variation:
-    - esong_code: 3162A5
-      song_name: White Winter Love。
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: White Winter Love。
-    song_alias:
-    esong_code: 3149B44
-    t_singer_master_id: '41597'
-    singer_name: ハジ→
-    singer_alias:
-    available_date: '2013-12-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほわいとういんたら
-    singer_name_ruby: はし
-    song_variation:
-    - esong_code: 3149B44
-      song_name: White Winter Love。
-      content_type: ''

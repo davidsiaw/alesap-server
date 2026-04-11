@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 350
-  all_max_cnt: 382
-  all_country_cnt: 350
+  max_cnt: 346
+  all_max_cnt: 378
+  all_country_cnt: 346
   song:
-  - song_name: fantasia
-    song_alias:
-    esong_code: 85A49
-    t_singer_master_id: '6904'
-    singer_name: PENICILLIN
-    singer_alias:
-    available_date: '2001-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふあんたしあ
-    singer_name_ruby: へにしりん
-    song_variation:
-    - esong_code: 85A49
-      song_name: fantasia
-      content_type: ''
-  - song_name: フィギュア
-    song_alias:
-    esong_code: 697A21
-    t_singer_master_id: '8741'
-    singer_name: GRAPEVINE
-    singer_alias:
-    available_date: '2001-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふいきゆあ
-    singer_name_ruby: くれいふはいん
-    song_variation:
-    - esong_code: 697A21
-      song_name: フィギュア
-      content_type: ''
-  - song_name: feel
-    song_alias:
-    esong_code: 692B25
-    t_singer_master_id: '13015'
-    singer_name: 青木 麻由子
-    singer_alias:
-    available_date: '2001-10-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: FINAL FANTASY(ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふいる
-    singer_name_ruby: あおきまゆこ
-    song_variation:
-    - esong_code: 692B25
-      song_name: feel
-      content_type: ''
   - song_name: Fairy
     song_alias:
     esong_code: 697B23
@@ -210,23 +159,6 @@ result:
     song_variation:
     - esong_code: 695A34
       song_name: Freedom
-      content_type: ''
-  - song_name: フレンド〜いつまでも忘れない〜
-    song_alias:
-    esong_code: 695B23
-    t_singer_master_id: '12154'
-    singer_name: AiM
-    singer_alias:
-    available_date: '2001-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: デジモンアドベンチャー(劇場版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれんといつまて
-    singer_name_ruby: えいむ
-    song_variation:
-    - esong_code: 695B23
-      song_name: フレンド〜いつまでも忘れない〜
       content_type: ''
   - song_name: ブロッサム
     song_alias:
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 693B38
       song_name: MISSING WORD
+      content_type: ''
+  - song_name: みつめて
+    song_alias:
+    esong_code: 697A26
+    t_singer_master_id: '13042'
+    singer_name: 小西 寛子
+    singer_alias:
+    available_date: '2001-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みつめてナイト<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: みつめて
+    singer_name_ruby: こにしひろこ
+    song_variation:
+    - esong_code: 697A26
+      song_name: みつめて
+      content_type: ''
+  - song_name: 港町情話
+    song_alias:
+    esong_code: 677B36
+    t_singer_master_id: '1655'
+    singer_name: 中村 美律子
+    singer_alias:
+    available_date: '2001-10-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みなとまちしようわ
+    singer_name_ruby: なかむらみつこ
+    song_variation:
+    - esong_code: 677B36
+      song_name: 港町情話
+      content_type: ''
+  - song_name: みんなのうた
+    song_alias:
+    esong_code: 694A31
+    t_singer_master_id: '8805'
+    singer_name: '19'
+    singer_alias:
+    available_date: '2001-10-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みんなのうた
+    singer_name_ruby: しゆく
+    song_variation:
+    - esong_code: 694A31
+      song_name: みんなのうた
+      content_type: ''
+  - song_name: 無意識とは
+    song_alias:
+    esong_code: 694A32
+    t_singer_master_id: '8805'
+    singer_name: '19'
+    singer_alias:
+    available_date: '2001-10-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: むいしきとは
+    singer_name_ruby: しゆく
+    song_variation:
+    - esong_code: 694A32
+      song_name: 無意識とは
       content_type: ''

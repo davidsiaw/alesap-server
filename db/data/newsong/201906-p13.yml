@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1364
-  all_max_cnt: 1539
-  all_country_cnt: 1364
+  max_cnt: 1346
+  all_max_cnt: 1521
+  all_country_cnt: 1346
   song:
-  - song_name: Grow Up feat.巡音ルカ
-    song_alias:
-    esong_code: 4197B45
-    t_singer_master_id: '45790'
-    singer_name: 八王子P
-    singer_alias:
-    available_date: '2019-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: くろうあつふ
-    singer_name_ruby: はちおうしひ
-    song_variation:
-    - esong_code: 4197B45
-      song_name: Grow Up feat.巡音ルカ
-      content_type: VOCALOID
-  - song_name: GROWING
-    song_alias:
-    esong_code: 4207A41
-    t_singer_master_id: '57625'
-    singer_name: B2takes!
-    singer_alias:
-    available_date: '2019-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろういんく
-    singer_name_ruby: ひとうていくす
-    song_variation:
-    - esong_code: 4207A41
-      song_name: GROWING
-      content_type: ''
-  - song_name: クローバー
-    song_alias:
-    esong_code: 4196B44
-    t_singer_master_id: '55577'
-    singer_name: サイダーガール
-    singer_alias:
-    available_date: '2019-06-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろは
-    singer_name_ruby: さいたかる
-    song_variation:
-    - esong_code: 4196B44
-      song_name: クローバー
-      content_type: ''
-  - song_name: GLORIA
-    song_alias:
-    esong_code: 4208B10
-    t_singer_master_id: '49274'
-    singer_name: 雨宮 天
-    singer_alias:
-    available_date: '2019-06-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろりあ
-    singer_name_ruby: あまみやそら
-    song_variation:
-    - esong_code: 4208B10
-      song_name: GLORIA
-      content_type: ''
-  - song_name: クローリィの憂鬱
-    song_alias:
-    esong_code: 4206B45
-    t_singer_master_id: '63856'
-    singer_name: ぐちり
-    singer_alias:
-    available_date: '2019-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: くろりいのゆううつ
-    singer_name_ruby: くちり
-    song_variation:
-    - esong_code: 4206B45
-      song_name: クローリィの憂鬱
-      content_type: VOCALOID
-  - song_name: 軍艦島しぐれ
-    song_alias:
-    esong_code: 4008A13
-    t_singer_master_id: '64135'
-    singer_name: 森田 俊範
-    singer_alias:
-    available_date: '2019-06-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くんかんしましく
-    singer_name_ruby: もりたとしのり
-    song_variation:
-    - esong_code: 4008A13
-      song_name: 軍艦島しぐれ
-      content_type: ''
   - song_name: 群青
     song_alias:
     esong_code: 4201B5
@@ -366,23 +264,6 @@ result:
       content_type: DAM生音
   - song_name: 恋せよ乙女
     song_alias:
-    esong_code: 3921A11
-    t_singer_master_id: '2410'
-    singer_name: 森 進一
-    singer_alias:
-    available_date: '2019-06-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいせよおとめ
-    singer_name_ruby: もりしんいち
-    song_variation:
-    - esong_code: 3921A11
-      song_name: 恋せよ乙女
-      content_type: ''
-  - song_name: 恋せよ乙女
-    song_alias:
     esong_code: 4113B11
     t_singer_master_id: '2410'
     singer_name: 森 進一
@@ -398,6 +279,23 @@ result:
     - esong_code: 4113B11
       song_name: 恋せよ乙女
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 恋せよ乙女
+    song_alias:
+    esong_code: 3921A11
+    t_singer_master_id: '2410'
+    singer_name: 森 進一
+    singer_alias:
+    available_date: '2019-06-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいせよおとめ
+    singer_name_ruby: もりしんいち
+    song_variation:
+    - esong_code: 3921A11
+      song_name: 恋せよ乙女
+      content_type: ''
   - song_name: 恋せよみんな、ハイ!
     song_alias:
     esong_code: 4196B47
@@ -516,4 +414,106 @@ result:
     song_variation:
     - esong_code: 3923A4
       song_name: 恋は明日を生きる風
+      content_type: ''
+  - song_name: 恋はフィーリング
+    song_alias:
+    esong_code: 4196B40
+    t_singer_master_id: '2818'
+    singer_name: 山口 かおる(青木香織)
+    singer_alias:
+    available_date: '2019-06-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいはふいりんく
+    singer_name_ruby: やまくちかおる
+    song_variation:
+    - esong_code: 4196B40
+      song_name: 恋はフィーリング
+      content_type: ''
+  - song_name: 恋文
+    song_alias:
+    esong_code: 4198A27
+    t_singer_master_id: '54982'
+    singer_name: 穐田 和恵
+    singer_alias:
+    available_date: '2019-06-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいふみ
+    singer_name_ruby: あきたかすえ
+    song_variation:
+    - esong_code: 4198A27
+      song_name: 恋文
+      content_type: ''
+  - song_name: 愛恋(こい)ぼたる
+    song_alias:
+    esong_code: 4201A9
+    t_singer_master_id: '61346'
+    singer_name: 那智 さとみ
+    singer_alias:
+    available_date: '2019-06-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいほたる
+    singer_name_ruby: なちさとみ
+    song_variation:
+    - esong_code: 4201A9
+      song_name: 愛恋(こい)ぼたる
+      content_type: ''
+  - song_name: 恋待ち夜雨
+    song_alias:
+    esong_code: 4202B22
+    t_singer_master_id: '1165'
+    singer_name: 城之内 早苗
+    singer_alias:
+    available_date: '2019-06-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: こいまちよさめ
+    singer_name_ruby: しようのうちさなえ
+    song_variation:
+    - esong_code: 4202B22
+      song_name: 恋待ち夜雨
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 恋待ち夜雨
+    song_alias:
+    esong_code: 4197B24
+    t_singer_master_id: '1165'
+    singer_name: 城之内 早苗
+    singer_alias:
+    available_date: '2019-06-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: こいまちよさめ
+    singer_name_ruby: しようのうちさなえ
+    song_variation:
+    - esong_code: 4197B24
+      song_name: 恋待ち夜雨
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 交差点、信号、君と僕
+    song_alias:
+    esong_code: 4196A17
+    t_singer_master_id: '53346'
+    singer_name: M!LK
+    singer_alias:
+    available_date: '2019-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こうさてんしんこう
+    singer_name_ruby: みるく
+    song_variation:
+    - esong_code: 4196A17
+      song_name: 交差点、信号、君と僕
       content_type: ''

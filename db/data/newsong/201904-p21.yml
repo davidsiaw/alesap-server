@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1349
-  all_max_cnt: 1532
-  all_country_cnt: 1349
+  max_cnt: 1335
+  all_max_cnt: 1518
+  all_country_cnt: 1335
   song:
-  - song_name: そして時代は続く
-    song_alias:
-    esong_code: 4182B26
-    t_singer_master_id: '63123'
-    singer_name: カンザキイオリ
-    singer_alias:
-    available_date: '2019-04-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: そしてしたいはつ
-    singer_name_ruby: かんさきいおり
-    song_variation:
-    - esong_code: 4182B26
-      song_name: そして時代は続く
-      content_type: VOCALOID
-  - song_name: そっけない
-    song_alias:
-    esong_code: 4173A27
-    t_singer_master_id: '21655'
-    singer_name: RADWIMPS
-    singer_alias:
-    available_date: '2019-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: そつけない
-    singer_name_ruby: らつとういんふす
-    song_variation:
-    - esong_code: 4173A27
-      song_name: そっけない
-      content_type: DAM生音
-  - song_name: そっけない
-    song_alias:
-    esong_code: 4173A41
-    t_singer_master_id: '21655'
-    singer_name: RADWIMPS
-    singer_alias:
-    available_date: '2019-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: そつけない
-    singer_name_ruby: らつとういんふす
-    song_variation:
-    - esong_code: 4173A41
-      song_name: そっけない
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 卒恋
     song_alias:
     esong_code: 4174A39
@@ -117,7 +66,7 @@ result:
     singer_alias:
     available_date: '2019-04-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ 501部隊発進しますっ!<番組名>
+    tie_up: ストライクウィッチーズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: そらかよふほうへ
@@ -247,23 +196,6 @@ result:
       content_type: ''
   - song_name: 大丈夫
     song_alias:
-    esong_code: 4173B7
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2019-04-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: たいしようふ
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 4173B7
-      song_name: 大丈夫
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 大丈夫
-    song_alias:
     esong_code: 4172B2
     t_singer_master_id: '10507'
     singer_name: 氷川 きよし
@@ -295,6 +227,23 @@ result:
     song_variation:
     - esong_code: 4167B21
       song_name: だいじょうぶ
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 大丈夫
+    song_alias:
+    esong_code: 4173B7
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2019-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: たいしようふ
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 4173B7
+      song_name: 大丈夫
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 大好きになればいいんじゃない?
     song_alias:
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4181B29
       song_name: だから横須賀
+      content_type: ''
+  - song_name: 抱きしめて
+    song_alias:
+    esong_code: 3700A35
+    t_singer_master_id: '62340'
+    singer_name: 原田 康司
+    singer_alias:
+    available_date: '2019-04-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たきしめて
+    singer_name_ruby: はらたこうし
+    song_variation:
+    - esong_code: 3700A35
+      song_name: 抱きしめて
+      content_type: ''
+  - song_name: Dark Knight
+    song_alias:
+    esong_code: 4172A8
+    t_singer_master_id: '62787'
+    singer_name: ONE N' ONLY
+    singer_alias:
+    available_date: '2019-04-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たくないと
+    singer_name_ruby: わんえんおんり
+    song_variation:
+    - esong_code: 4172A8
+      song_name: Dark Knight
+      content_type: ''
+  - song_name: たずね鳥
+    song_alias:
+    esong_code: 4182A32
+    t_singer_master_id: '11510'
+    singer_name: 吉村 明紘
+    singer_alias:
+    available_date: '2019-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たすねとり
+    singer_name_ruby: よしむらあきひろ
+    song_variation:
+    - esong_code: 4182A32
+      song_name: たずね鳥
       content_type: ''

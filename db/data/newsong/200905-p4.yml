@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 901
-  all_max_cnt: 1000
-  all_country_cnt: 901
+  max_cnt: 894
+  all_max_cnt: 993
+  all_country_cnt: 894
   song:
-  - song_name: 嘘
-    song_alias:
-    esong_code: 2307B46
-    t_singer_master_id: '22748'
-    singer_name: シド
-    singer_alias:
-    available_date: '2009-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 鋼の錬金術師 (2009)<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: うそ
-    singer_name_ruby: しと
-    song_variation:
-    - esong_code: 2307B46
-      song_name: 嘘
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: USO
     song_alias:
     esong_code: 2333A12
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2333A11
       song_name: 演歌波
+      content_type: ''
+  - song_name: end of refrain 〜小さな始まり〜
+    song_alias:
+    esong_code: 2332B43
+    t_singer_master_id: '18381'
+    singer_name: 詩月 カオリ
+    singer_alias:
+    available_date: '2009-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんとおふりふれ
+    singer_name_ruby: うたつきかおり
+    song_variation:
+    - esong_code: 2332B43
+      song_name: end of refrain 〜小さな始まり〜
       content_type: ''

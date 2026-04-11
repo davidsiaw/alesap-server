@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 433
-  all_max_cnt: 461
-  all_country_cnt: 433
+  max_cnt: 431
+  all_max_cnt: 459
+  all_country_cnt: 431
   song:
   - song_name: 愛あるところへ
     song_alias:
@@ -108,23 +108,6 @@ result:
     song_variation:
     - esong_code: 768A35
       song_name: あいつと私
-      content_type: ''
-  - song_name: 愛の渚
-    song_alias:
-    esong_code: 759B37
-    t_singer_master_id: '114'
-    singer_name: 天地 真理
-    singer_alias:
-    available_date: '2002-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのなきさ
-    singer_name_ruby: あまちまり
-    song_variation:
-    - esong_code: 759B37
-      song_name: 愛の渚
       content_type: ''
   - song_name: I'LL BE YOUR ANGEL
     song_alias:
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: a Day in Our Life
     song_alias:
-    esong_code: 92B43
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2002-02-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: あていいんあわら
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 92B43
-      song_name: a Day in Our Life
-      content_type: DAM良音
-  - song_name: a Day in Our Life
-    song_alias:
     esong_code: 756B38
     t_singer_master_id: '10314'
     singer_name: 嵐
@@ -347,6 +313,23 @@ result:
     - esong_code: 756B38
       song_name: a Day in Our Life
       content_type: ''
+  - song_name: a Day in Our Life
+    song_alias:
+    esong_code: 92B43
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2002-02-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: あていいんあわら
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 92B43
+      song_name: a Day in Our Life
+      content_type: DAM良音
   - song_name: ANOTHER
     song_alias:
     esong_code: 761B24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 92B44
       song_name: alibi
+      content_type: ''
+  - song_name: アルエ
+    song_alias:
+    esong_code: 767B39
+    t_singer_master_id: '12276'
+    singer_name: BUMP OF CHICKEN
+    singer_alias:
+    available_date: '2002-02-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あるえ
+    singer_name_ruby: はんふおふちきん
+    song_variation:
+    - esong_code: 767B39
+      song_name: アルエ
       content_type: ''

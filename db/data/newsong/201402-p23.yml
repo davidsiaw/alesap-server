@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: 瀬戸内恋みなと
-    song_alias:
-    esong_code: 3205A47
-    t_singer_master_id: '41270'
-    singer_name: 高瀬 豊子
-    singer_alias:
-    available_date: '2014-02-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せとうちこいみなと
-    singer_name_ruby: たかせとよこ
-    song_variation:
-    - esong_code: 3205A47
-      song_name: 瀬戸内恋みなと
-      content_type: ''
   - song_name: 瀬戸海の漁師(おとこ)
     song_alias:
     esong_code: 3181A13
@@ -213,23 +196,6 @@ result:
       content_type: ''
   - song_name: 泉州恋しぐれ
     song_alias:
-    esong_code: 3181B36
-    t_singer_master_id: '1673'
-    singer_name: 長保 有紀
-    singer_alias:
-    available_date: '2014-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: せんしゆうこいしく
-    singer_name_ruby: なかほゆき
-    song_variation:
-    - esong_code: 3181B36
-      song_name: 泉州恋しぐれ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 泉州恋しぐれ
-    song_alias:
     esong_code: 3181B25
     t_singer_master_id: '1673'
     singer_name: 長保 有紀
@@ -262,6 +228,23 @@ result:
     - esong_code: 3154B45
       song_name: 泉州恋しぐれ
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 泉州恋しぐれ
+    song_alias:
+    esong_code: 3181B36
+    t_singer_master_id: '1673'
+    singer_name: 長保 有紀
+    singer_alias:
+    available_date: '2014-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: せんしゆうこいしく
+    singer_name_ruby: なかほゆき
+    song_variation:
+    - esong_code: 3181B36
+      song_name: 泉州恋しぐれ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 千年恋慕
     song_alias:
     esong_code: 3207A18
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3200A44
       song_name: そばにいるよ
+      content_type: ''
+  - song_name: 空色のキセキ
+    song_alias:
+    esong_code: 3182A40
+    t_singer_master_id: '40394'
+    singer_name: SUPER☆GiRLS
+    singer_alias:
+    available_date: '2014-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そらいろのきせき
+    singer_name_ruby: すはかるす
+    song_variation:
+    - esong_code: 3182A40
+      song_name: 空色のキセキ
       content_type: ''

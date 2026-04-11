@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 999
-  all_max_cnt: 1121
-  all_country_cnt: 999
+  max_cnt: 992
+  all_max_cnt: 1112
+  all_country_cnt: 992
   song:
   - song_name: KATANA staging Diggy-MO'
     song_alias:
@@ -262,23 +262,6 @@ result:
     - esong_code: 2319A23
       song_name: Come Back To Me (全英語詞)
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Come Back To Me (Quentin Harris Radio Edit)
-    song_alias:
-    esong_code: 2298B45
-    t_singer_master_id: '20579'
-    singer_name: Utada
-    singer_alias:
-    available_date: '2009-04-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かむはつくとうみ
-    singer_name_ruby: うたた
-    song_variation:
-    - esong_code: 2298B45
-      song_name: Come Back To Me (Quentin Harris Radio Edit)
-      content_type: ''
   - song_name: Come Back To Me-Seamus Haji&Paul Emanuel RadioEdit
     song_alias:
     esong_code: 2298B46
@@ -296,6 +279,23 @@ result:
     - esong_code: 2298B46
       song_name: Come Back To Me-Seamus Haji&Paul Emanuel RadioEdit
       content_type: ''
+  - song_name: Come Back To Me (Quentin Harris Radio Edit)
+    song_alias:
+    esong_code: 2298B45
+    t_singer_master_id: '20579'
+    singer_name: Utada
+    singer_alias:
+    available_date: '2009-04-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かむはつくとうみ
+    singer_name_ruby: うたた
+    song_variation:
+    - esong_code: 2298B45
+      song_name: Come Back To Me (Quentin Harris Radio Edit)
+      content_type: ''
   - song_name: カ・ラ・ク・リ
     song_alias:
     esong_code: 2207A33
@@ -304,7 +304,7 @@ result:
     singer_alias:
     available_date: '2009-04-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: とらドラジオ!<番組名>
+    tie_up: とらドラ!<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: からくり

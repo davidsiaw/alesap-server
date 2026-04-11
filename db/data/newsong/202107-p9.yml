@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 933
-  all_country_cnt: 880
+  max_cnt: 867
+  all_max_cnt: 920
+  all_country_cnt: 867
   song:
-  - song_name: 賽の賭け目
-    song_alias:
-    esong_code: 4525A6
-    t_singer_master_id: '68202'
-    singer_name: IDONO KAWAZU
-    singer_alias:
-    available_date: '2021-07-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: さいのかけめ
-    singer_name_ruby: いとのかわす
-    song_variation:
-    - esong_code: 4525A6
-      song_name: 賽の賭け目
-      content_type: VOCALOID
-  - song_name: サイハテの十壱車両
-    song_alias:
-    esong_code: 4525B11
-    t_singer_master_id: '68213'
-    singer_name: 山路 和弘
-    singer_alias:
-    available_date: '2021-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Clock over ORQUESTA<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいはてのしゆうい
-    singer_name_ruby: やましかすひろ
-    song_variation:
-    - esong_code: 4525B11
-      song_name: サイハテの十壱車両
-      content_type: ''
-  - song_name: silent [歌ってみた利用OK]
-    song_alias:
-    esong_code: 4524B17
-    t_singer_master_id: '39377'
-    singer_name: SEKAI NO OWARI(世界の終わり)
-    singer_alias:
-    available_date: '2021-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: 歌ってみた利用OK
-    song_name_ruby: さいれんと
-    singer_name_ruby: せかいのおわり
-    song_variation:
-    - esong_code: 4524B17
-      song_name: silent [歌ってみた利用OK]
-      content_type: 歌ってみた利用OK
-  - song_name: サイレントテイル
-    song_alias:
-    esong_code: 4522A4
-    t_singer_master_id: '68165'
-    singer_name: SHIKASHI
-    singer_alias:
-    available_date: '2021-07-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいれんとている
-    singer_name_ruby: しかし
-    song_variation:
-    - esong_code: 4522A4
-      song_name: サイレントテイル
-      content_type: ''
   - song_name: Silent moon
     song_alias:
     esong_code: 4523B30
@@ -91,23 +23,6 @@ result:
     song_variation:
     - esong_code: 4523B30
       song_name: Silent moon
-      content_type: ''
-  - song_name: サクサクリ
-    song_alias:
-    esong_code: 4518B19
-    t_singer_master_id: '65753'
-    singer_name: AlbaNox
-    singer_alias:
-    available_date: '2021-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくさくり
-    singer_name_ruby: あるはのくす
-    song_variation:
-    - esong_code: 4518B19
-      song_name: サクサクリ
       content_type: ''
   - song_name: サクラクライ
     song_alias:
@@ -332,23 +247,6 @@ result:
       content_type: ''
   - song_name: サンキュ!ピース feat.辰巳ゆうと
     song_alias:
-    esong_code: 4523B22
-    t_singer_master_id: '44361'
-    singer_name: はやぶさ
-    singer_alias:
-    available_date: '2021-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さんきゆひす
-    singer_name_ruby: はやふさ
-    song_variation:
-    - esong_code: 4523B22
-      song_name: サンキュ!ピース feat.辰巳ゆうと
-      content_type: ''
-  - song_name: サンキュ!ピース feat.辰巳ゆうと
-    song_alias:
     esong_code: 4524B26
     t_singer_master_id: '44361'
     singer_name: はやぶさ
@@ -364,6 +262,23 @@ result:
     - esong_code: 4524B26
       song_name: サンキュ!ピース feat.辰巳ゆうと
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: サンキュ!ピース feat.辰巳ゆうと
+    song_alias:
+    esong_code: 4523B22
+    t_singer_master_id: '44361'
+    singer_name: はやぶさ
+    singer_alias:
+    available_date: '2021-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんきゆひす
+    singer_name_ruby: はやふさ
+    song_variation:
+    - esong_code: 4523B22
+      song_name: サンキュ!ピース feat.辰巳ゆうと
+      content_type: ''
   - song_name: 三原色
     song_alias:
     esong_code: 4523B43
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 4527A26
       song_name: 3分ガール
+      content_type: ''
+  - song_name: 幸せがよく似合うひと
+    song_alias:
+    esong_code: 4526A3
+    t_singer_master_id: '61498'
+    singer_name: King&Prince
+    singer_alias:
+    available_date: '2021-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせかよくにあ
+    singer_name_ruby: きんくあんとふりんす
+    song_variation:
+    - esong_code: 4526A3
+      song_name: 幸せがよく似合うひと
+      content_type: ''
+  - song_name: 慈雨のくちづけ
+    song_alias:
+    esong_code: 4526A33
+    t_singer_master_id: '22748'
+    singer_name: シド
+    singer_alias:
+    available_date: '2021-07-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 天官賜福<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しうのくちつけ
+    singer_name_ruby: しと
+    song_variation:
+    - esong_code: 4526A33
+      song_name: 慈雨のくちづけ
+      content_type: ''
+  - song_name: JO1メドレー
+    song_alias:
+    esong_code: 4529A32
+    t_singer_master_id: '65996'
+    singer_name: JO1
+    singer_alias:
+    available_date: '2021-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しえいおわんめと
+    singer_name_ruby: しえいおわん
+    song_variation:
+    - esong_code: 4529A32
+      song_name: JO1メドレー
+      content_type: ''
+  - song_name: Shaky Shaky
+    song_alias:
+    esong_code: 4523A41
+    t_singer_master_id: '65732'
+    singer_name: GENIC
+    singer_alias:
+    available_date: '2021-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しえいきしえいき
+    singer_name_ruby: しえにつく
+    song_variation:
+    - esong_code: 4523A41
+      song_name: Shaky Shaky
+      content_type: ''
+  - song_name: Jet to the Future
+    song_alias:
+    esong_code: 4525A25
+    t_singer_master_id: '58701'
+    singer_name: 青木 瑠璃子&安野 希世乃
+    singer_alias:
+    available_date: '2021-07-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター シンデレラガールズ スターライトステージ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しえつととうさふ
+    singer_name_ruby: あおきるりこやすのきよの
+    song_variation:
+    - esong_code: 4525A25
+      song_name: Jet to the Future
       content_type: ''

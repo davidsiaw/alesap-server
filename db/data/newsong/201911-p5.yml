@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1354
-  all_max_cnt: 1525
-  all_country_cnt: 1354
+  max_cnt: 1339
+  all_max_cnt: 1510
+  all_country_cnt: 1339
   song:
-  - song_name: インストップデート
-    song_alias:
-    esong_code: 4278B21
-    t_singer_master_id: '64969'
-    singer_name: AliA
-    singer_alias:
-    available_date: '2019-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いんすとつふて
-    singer_name_ruby: ありあ
-    song_variation:
-    - esong_code: 4278B21
-      song_name: インストップデート
-      content_type: ''
   - song_name: Interstate 46
     song_alias:
     esong_code: 4295B40
@@ -323,13 +306,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: ヒプノシスマイク<番組名>
     country_code: '0'
-    content_type:
+    content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: うおうおうお
     singer_name_ruby: はすたふろすはさすまつととりかく
     song_variation:
     - esong_code: 4265B15
       song_name: WAR WAR WAR
-      content_type: ''
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 浮かべ! インスピレーション
     song_alias:
     esong_code: 4288B1
@@ -406,7 +389,7 @@ result:
     singer_alias:
     available_date: '2019-11-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: マギアレコード 魔法少女まどか☆マギカ外伝<番組名>
+    tie_up: マギアレコード 魔法少女まどか☆マギカ外伝(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: うつろい
@@ -517,3 +500,20 @@ result:
     - esong_code: 4285B45
       song_name: 永遠DAYS
       content_type: 東方
+  - song_name: 永遠鉄道
+    song_alias:
+    esong_code: 4280B23
+    t_singer_master_id: '97'
+    singer_name: 渥美 二郎
+    singer_alias:
+    available_date: '2019-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: えいえんてつとう
+    singer_name_ruby: あつみしろう
+    song_variation:
+    - esong_code: 4280B23
+      song_name: 永遠鉄道
+      content_type: JOYﾎﾞｰｶﾙ

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1347
-  all_country_cnt: 1229
+  max_cnt: 1222
+  all_max_cnt: 1339
+  all_country_cnt: 1222
   song:
-  - song_name: ウェディング ドレス
-    song_alias:
-    esong_code: 331A35
-    t_singer_master_id: '935'
-    singer_name: ささき いさお
-    singer_alias:
-    available_date: '2012-05-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえていんくと
-    singer_name_ruby: ささきいさお
-    song_variation:
-    - esong_code: 331A35
-      song_name: ウェディング ドレス
-      content_type: ''
   - song_name: 上を向いて歩こう/duet with Sayaka Kanda
     song_alias:
     esong_code: 484A9
@@ -111,23 +94,6 @@ result:
       content_type: ''
   - song_name: 歌一生
     song_alias:
-    esong_code: 2786B47
-    t_singer_master_id: '571'
-    singer_name: 佳山 明生
-    singer_alias:
-    available_date: '2012-05-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: うたいつしよう
-    singer_name_ruby: かやまあきお
-    song_variation:
-    - esong_code: 2786B47
-      song_name: 歌一生
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 歌一生
-    song_alias:
     esong_code: 10B5
     t_singer_master_id: '571'
     singer_name: 佳山 明生
@@ -143,6 +109,23 @@ result:
     - esong_code: 10B5
       song_name: 歌一生
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 歌一生
+    song_alias:
+    esong_code: 2786B47
+    t_singer_master_id: '571'
+    singer_name: 佳山 明生
+    singer_alias:
+    available_date: '2012-05-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: うたいつしよう
+    singer_name_ruby: かやまあきお
+    song_variation:
+    - esong_code: 2786B47
+      song_name: 歌一生
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 歌にはならないけれど
     song_alias:
     esong_code: 2324A43
@@ -349,38 +332,21 @@ result:
       content_type: ''
   - song_name: 裏町酒
     song_alias:
-    esong_code: 812B7
+    esong_code: 1230B15
     t_singer_master_id: '44'
     singer_name: 秋岡 秀治
     singer_alias:
-    available_date: '2012-05-22'
+    available_date: '2012-05-09'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: うらまちさけ
     singer_name_ruby: あきおかしゆうし
     song_variation:
-    - esong_code: 812B7
+    - esong_code: 1230B15
       song_name: 裏町酒
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 裏町酒
-    song_alias:
-    esong_code: 830A38
-    t_singer_master_id: '44'
-    singer_name: 秋岡 秀治
-    singer_alias:
-    available_date: '2012-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: うらまちさけ
-    singer_name_ruby: あきおかしゆうし
-    song_variation:
-    - esong_code: 830A38
-      song_name: 裏町酒
-      content_type: DAM生音
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 裏町酒
     song_alias:
     esong_code: 1588A21
@@ -400,21 +366,38 @@ result:
       content_type: ''
   - song_name: 裏町酒
     song_alias:
-    esong_code: 1230B15
+    esong_code: 830A38
     t_singer_master_id: '44'
     singer_name: 秋岡 秀治
     singer_alias:
-    available_date: '2012-05-09'
+    available_date: '2012-05-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type: DAM生音
     song_name_ruby: うらまちさけ
     singer_name_ruby: あきおかしゆうし
     song_variation:
-    - esong_code: 1230B15
+    - esong_code: 830A38
       song_name: 裏町酒
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: DAM生音
+  - song_name: 裏町酒
+    song_alias:
+    esong_code: 812B7
+    t_singer_master_id: '44'
+    singer_name: 秋岡 秀治
+    singer_alias:
+    available_date: '2012-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: うらまちさけ
+    singer_name_ruby: あきおかしゆうし
+    song_variation:
+    - esong_code: 812B7
+      song_name: 裏町酒
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: AIRBLANCA
     song_alias:
     esong_code: 507B47
@@ -517,3 +500,20 @@ result:
     - esong_code: 510B45
       song_name: 江差情歌
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: S
+    song_alias:
+    esong_code: 847B21
+    t_singer_master_id: '22748'
+    singer_name: シド
+    singer_alias:
+    available_date: '2012-05-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: えす
+    singer_name_ruby: しと
+    song_variation:
+    - esong_code: 847B21
+      song_name: S
+      content_type: DAMｸﾘｯﾌﾟ

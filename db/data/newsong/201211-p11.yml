@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
-  - song_name: 塊オンザロック 〜メインテーマ〜
-    song_alias:
-    esong_code: 564A3
-    t_singer_master_id: '20595'
-    singer_name: 田中 雅之
-    singer_alias:
-    available_date: '2012-11-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 塊魂<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かたまりおんさろつ
-    singer_name_ruby: たなかまさゆき
-    song_variation:
-    - esong_code: 564A3
-      song_name: 塊オンザロック 〜メインテーマ〜
-      content_type: ''
   - song_name: Gotcha6ka
     song_alias:
     esong_code: 2929B2
@@ -517,3 +500,20 @@ result:
     - esong_code: 2924B12
       song_name: 可愛いなんて言わせないっ!
       content_type: 東方
+  - song_name: 感謝
+    song_alias:
+    esong_code: 2924A13
+    t_singer_master_id: '46308'
+    singer_name: 原 大五郎
+    singer_alias:
+    available_date: '2012-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんしや
+    singer_name_ruby: はらたいころう
+    song_variation:
+    - esong_code: 2924A13
+      song_name: 感謝
+      content_type: ''

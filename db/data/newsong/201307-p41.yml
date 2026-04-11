@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
-  - song_name: フユラブ (Romeo Mix)
-    song_alias:
-    esong_code: 3079A38
-    t_singer_master_id: '37293'
-    singer_name: Juliet
-    singer_alias:
-    available_date: '2013-07-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふゆらふ
-    singer_name_ruby: しゆりえつと
-    song_variation:
-    - esong_code: 3079A38
-      song_name: フユラブ (Romeo Mix)
-      content_type: ''
-  - song_name: Priority
-    song_alias:
-    esong_code: 3078A5
-    t_singer_master_id: '10604'
-    singer_name: 愛内 里菜
-    singer_alias:
-    available_date: '2013-07-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらいおりてい
-    singer_name_ruby: あいうちりな
-    song_variation:
-    - esong_code: 3078A5
-      song_name: Priority
-      content_type: ''
-  - song_name: Bright Generation
-    song_alias:
-    esong_code: 3076B32
-    t_singer_master_id: '48084'
-    singer_name: 早見 沙織&東山 奈央
-    singer_alias:
-    available_date: '2013-07-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: やはり俺の青春ラブコメはまちがっている。<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらいとしえねれ
-    singer_name_ruby: はやみさおりとうやまなお
-    song_variation:
-    - esong_code: 3076B32
-      song_name: Bright Generation
-      content_type: ''
-  - song_name: Private Wars
-    song_alias:
-    esong_code: 3076B37
-    t_singer_master_id: '48337'
-    singer_name: A-RISE
-    singer_alias:
-    available_date: '2013-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ラブライブ! School idol project<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらいへとうお
-    singer_name_ruby: あらいす
-    song_variation:
-    - esong_code: 3076B37
-      song_name: Private Wars
-      content_type: ''
-  - song_name: フラタニティ!
-    song_alias:
-    esong_code: 3070B49
-    t_singer_master_id: '17330'
-    singer_name: 杉田 智和
-    singer_alias:
-    available_date: '2013-07-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アルカナ・ファミリア(ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらたにてい
-    singer_name_ruby: すきたともかす
-    song_variation:
-    - esong_code: 3070B49
-      song_name: フラタニティ!
-      content_type: ''
-  - song_name: ふらっと小樽
-    song_alias:
-    esong_code: 3088B16
-    t_singer_master_id: '48507'
-    singer_name: 由紀子&忠俊
-    singer_alias:
-    available_date: '2013-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらつとおたる
-    singer_name_ruby: ゆきこたたとし
-    song_variation:
-    - esong_code: 3088B16
-      song_name: ふらっと小樽
-      content_type: ''
   - song_name: PLATONIC featuring 奥井雅美
     song_alias:
     esong_code: 3083B33
@@ -117,7 +15,7 @@ result:
     singer_alias:
     available_date: '2013-07-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 牙狼(GARO) -GOLDSTORM- 翔<番組名>
+    tie_up: 牙狼-GARO-<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふらとにつく
@@ -228,23 +126,6 @@ result:
     - esong_code: 3081A3
       song_name: blue
       content_type: ''
-  - song_name: 故郷
-    song_alias:
-    esong_code: 3077B42
-    t_singer_master_id: '48357'
-    singer_name: 天童 よしみ&秋川 雅史
-    singer_alias:
-    available_date: '2013-07-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるさと
-    singer_name_ruby: てんとうよしみあきかわまさふ
-    song_variation:
-    - esong_code: 3077B42
-      song_name: 故郷
-      content_type: ''
   - song_name: 広島(ふるさと)
     song_alias:
     esong_code: 1980A25
@@ -261,6 +142,23 @@ result:
     song_variation:
     - esong_code: 1980A25
       song_name: 広島(ふるさと)
+      content_type: ''
+  - song_name: 故郷
+    song_alias:
+    esong_code: 3077B42
+    t_singer_master_id: '48357'
+    singer_name: 天童 よしみ&秋川 雅史
+    singer_alias:
+    available_date: '2013-07-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるさと
+    singer_name_ruby: てんとうよしみあきかわまさふ
+    song_variation:
+    - esong_code: 3077B42
+      song_name: 故郷
       content_type: ''
   - song_name: ふるさと 〜愛郷〜
     song_alias:
@@ -315,23 +213,6 @@ result:
       content_type: ''
   - song_name: ふるさとの空
     song_alias:
-    esong_code: 2120B31
-    t_singer_master_id: '48245'
-    singer_name: 瀬生 ひろ菜(一之瀬ひろな)
-    singer_alias:
-    available_date: '2013-07-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるさとのそら
-    singer_name_ruby: せおひろな
-    song_variation:
-    - esong_code: 2120B31
-      song_name: ふるさとの空
-      content_type: ''
-  - song_name: ふるさとの空
-    song_alias:
     esong_code: 3081B44
     t_singer_master_id: '1429'
     singer_name: ダ・カーポ
@@ -345,6 +226,23 @@ result:
     singer_name_ruby: たかほ
     song_variation:
     - esong_code: 3081B44
+      song_name: ふるさとの空
+      content_type: ''
+  - song_name: ふるさとの空
+    song_alias:
+    esong_code: 2120B31
+    t_singer_master_id: '48245'
+    singer_name: 瀬生 ひろ菜(一之瀬ひろな)
+    singer_alias:
+    available_date: '2013-07-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるさとのそら
+    singer_name_ruby: せおひろな
+    song_variation:
+    - esong_code: 2120B31
       song_name: ふるさとの空
       content_type: ''
   - song_name: ふるさとのはなしをしよう
@@ -516,4 +414,106 @@ result:
     song_variation:
     - esong_code: 3071B20
       song_name: フローズン・ビーチ
+      content_type: ''
+  - song_name: Brodia
+    song_alias:
+    esong_code: 3082B30
+    t_singer_master_id: '48415'
+    singer_name: CINQ ELEMENT
+    singer_alias:
+    available_date: '2013-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろていあ
+    singer_name_ruby: さんくえれめんと
+    song_variation:
+    - esong_code: 3082B30
+      song_name: Brodia
+      content_type: ''
+  - song_name: Providence -End of Story- feat.初音ミク
+    song_alias:
+    esong_code: 3078A19
+    t_singer_master_id: '47476'
+    singer_name: てぃあら
+    singer_alias:
+    available_date: '2013-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ふろひてんすえ
+    singer_name_ruby: ていあら
+    song_variation:
+    - esong_code: 3078A19
+      song_name: Providence -End of Story- feat.初音ミク
+      content_type: VOCALOID
+  - song_name: プロポーズの詩
+    song_alias:
+    esong_code: 3082B29
+    t_singer_master_id: '8281'
+    singer_name: The LOVE
+    singer_alias:
+    available_date: '2013-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろほすのう
+    singer_name_ruby: さらふ
+    song_variation:
+    - esong_code: 3082B29
+      song_name: プロポーズの詩
+      content_type: ''
+  - song_name: プロポーズのとき
+    song_alias:
+    esong_code: 3074B10
+    t_singer_master_id: '271'
+    singer_name: 岩崎 宏美
+    singer_alias:
+    available_date: '2013-07-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろほすのと
+    singer_name_ruby: いわさきひろみ
+    song_variation:
+    - esong_code: 3074B10
+      song_name: プロポーズのとき
+      content_type: ''
+  - song_name: Promise
+    song_alias:
+    esong_code: 3082B16
+    t_singer_master_id: '43468'
+    singer_name: Crossfaith
+    singer_alias:
+    available_date: '2013-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろみす
+    singer_name_ruby: くろすふえいす
+    song_variation:
+    - esong_code: 3082B16
+      song_name: Promise
+      content_type: ''
+  - song_name: PROMISE
+    song_alias:
+    esong_code: 3083B13
+    t_singer_master_id: '41024'
+    singer_name: RIDDIM HUNTER
+    singer_alias:
+    available_date: '2013-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろみす
+    singer_name_ruby: りていむはんた
+    song_variation:
+    - esong_code: 3083B13
+      song_name: PROMISE
       content_type: ''

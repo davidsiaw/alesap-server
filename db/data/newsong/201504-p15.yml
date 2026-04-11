@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1496
-  all_max_cnt: 1667
-  all_country_cnt: 1496
+  max_cnt: 1487
+  all_max_cnt: 1658
+  all_country_cnt: 1487
   song:
-  - song_name: 心の旅
-    song_alias:
-    esong_code: 3429A6
-    t_singer_master_id: '1993'
-    singer_name: 福山 雅治
-    singer_alias:
-    available_date: '2015-04-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころのたひ
-    singer_name_ruby: ふくやままさはる
-    song_variation:
-    - esong_code: 3429A6
-      song_name: 心の旅
-      content_type: ''
   - song_name: 心の旅
     song_alias:
     esong_code: 3431A22
@@ -41,6 +24,23 @@ result:
     - esong_code: 3431A22
       song_name: 心の旅
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 心の旅
+    song_alias:
+    esong_code: 3429A6
+    t_singer_master_id: '1993'
+    singer_name: 福山 雅治
+    singer_alias:
+    available_date: '2015-04-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころのたひ
+    singer_name_ruby: ふくやままさはる
+    song_variation:
+    - esong_code: 3429A6
+      song_name: 心の旅
+      content_type: ''
   - song_name: 心の時計
     song_alias:
     esong_code: 3430B12
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: 金毘羅一段
     song_alias:
-    esong_code: 877B26
-    t_singer_master_id: '1675'
-    singer_name: 長山 洋子(yoko)
-    singer_alias:
-    available_date: '2015-04-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんひらいちたん
-    singer_name_ruby: なかやまようこ
-    song_variation:
-    - esong_code: 877B26
-      song_name: 金毘羅一段
-      content_type: ''
-  - song_name: 金毘羅一段
-    song_alias:
     esong_code: 3269A42
     t_singer_master_id: '1675'
     singer_name: 長山 洋子(yoko)
@@ -500,6 +483,23 @@ result:
     - esong_code: 3269A42
       song_name: 金毘羅一段
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 金毘羅一段
+    song_alias:
+    esong_code: 877B26
+    t_singer_master_id: '1675'
+    singer_name: 長山 洋子(yoko)
+    singer_alias:
+    available_date: '2015-04-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こんひらいちたん
+    singer_name_ruby: なかやまようこ
+    song_variation:
+    - esong_code: 877B26
+      song_name: 金毘羅一段
+      content_type: ''
   - song_name: CONFLICT
     song_alias:
     esong_code: 3428A19

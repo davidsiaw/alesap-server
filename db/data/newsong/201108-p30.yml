@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
   - song_name: 八時に赤坂 (デュエットヴァージョン)
     song_alias:
@@ -211,23 +211,6 @@ result:
     - esong_code: 1120B47
       song_name: ハートに風穴
       content_type: ''
-  - song_name: HEART BREAKER
-    song_alias:
-    esong_code: 2661A45
-    t_singer_master_id: '12068'
-    singer_name: PUSHIM
-    singer_alias:
-    available_date: '2011-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はとふれいか
-    singer_name_ruby: ふしん
-    song_variation:
-    - esong_code: 2661A45
-      song_name: HEART BREAKER
-      content_type: ''
   - song_name: ハートブレイカー
     song_alias:
     esong_code: 2652A43
@@ -245,6 +228,23 @@ result:
     - esong_code: 2652A43
       song_name: ハートブレイカー
       content_type: VOCALOID
+  - song_name: HEART BREAKER
+    song_alias:
+    esong_code: 2661A45
+    t_singer_master_id: '12068'
+    singer_name: PUSHIM
+    singer_alias:
+    available_date: '2011-08-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はとふれいか
+    singer_name_ruby: ふしん
+    song_variation:
+    - esong_code: 2661A45
+      song_name: HEART BREAKER
+      content_type: ''
   - song_name: 花かざぐるま
     song_alias:
     esong_code: 2650A25

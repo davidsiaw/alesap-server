@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: 倖せの花
-    song_alias:
-    esong_code: 824B17
-    t_singer_master_id: '7128'
-    singer_name: 三代 沙也可
-    singer_alias:
-    available_date: '2012-06-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: しあわせのはな
-    singer_name_ruby: みしろさやか
-    song_variation:
-    - esong_code: 824B17
-      song_name: 倖せの花
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: しあわせ蛍 (ニューヴァージョン)
     song_alias:
     esong_code: 2805B18
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2805B1
       song_name: シャララタンバリン
+      content_type: ''
+  - song_name: しゃらららるんら
+    song_alias:
+    esong_code: 2810B2
+    t_singer_master_id: '40422'
+    singer_name: 五十嵐 裕美
+    singer_alias:
+    available_date: '2012-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: パパのいうことを聞きなさい!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやらららるんら
+    singer_name_ruby: いからしひろみ
+    song_variation:
+    - esong_code: 2810B2
+      song_name: しゃらららるんら
       content_type: ''

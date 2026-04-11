@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: 空色のキセキ
-    song_alias:
-    esong_code: 3182A40
-    t_singer_master_id: '40394'
-    singer_name: SUPER☆GiRLS
-    singer_alias:
-    available_date: '2014-02-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そらいろのきせき
-    singer_name_ruby: すはかるす
-    song_variation:
-    - esong_code: 3182A40
-      song_name: 空色のキセキ
-      content_type: ''
   - song_name: 空のある場所
     song_alias:
     esong_code: 3203A26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3180A8
       song_name: ただ風のために
+      content_type: ''
+  - song_name: タチアガレ!
+    song_alias:
+    esong_code: 3200B4
+    t_singer_master_id: '49958'
+    singer_name: Wake Up,Girls!
+    singer_alias:
+    available_date: '2014-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Wake Up,Girls!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たちあかれ
+    singer_name_ruby: うえいくあつふかるす
+    song_variation:
+    - esong_code: 3200B4
+      song_name: タチアガレ!
       content_type: ''

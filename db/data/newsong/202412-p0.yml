@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1109
-  all_max_cnt: 1246
-  all_country_cnt: 1109
+  max_cnt: 1231
+  all_max_cnt: 1429
+  all_country_cnt: 1231
   song:
   - song_name: あーーーーーーーーーー (feat.初音ミク)
     song_alias:
@@ -136,13 +136,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type:
     song_name_ruby: あいさつめたるういす
     singer_name_ruby: さりさるうえほんす
     song_variation:
     - esong_code: 5088A45
       song_name: あいさつメタル with マーク・ハドソン
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: ''
   - song_name: eye see
     song_alias:
     esong_code: 5082B31
@@ -228,6 +228,23 @@ result:
     - esong_code: 5083A6
       song_name: 哀愁埠頭
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: アイシング・ドリーム
+    song_alias:
+    esong_code: 5086A41
+    t_singer_master_id: '75537'
+    singer_name: 佐藤 実季&長縄 まりあ
+    singer_alias:
+    available_date: '2024-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Re:ステージ! プリズムステップ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいしんくとり
+    singer_name_ruby: さとうみきなかなわまりあ
+    song_variation:
+    - esong_code: 5086A41
+      song_name: アイシング・ドリーム
+      content_type: ''
   - song_name: 逢いたいあなた
     song_alias:
     esong_code: 499A25
@@ -330,23 +347,6 @@ result:
     - esong_code: 5084B9
       song_name: 愛とU [JOYサビカラ]
       content_type: ''
-  - song_name: 愛とU
-    song_alias:
-    esong_code: 5079B9
-    t_singer_master_id: '64247'
-    singer_name: Mega Shinnosuke
-    singer_alias:
-    available_date: '2024-12-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あいとゆ
-    singer_name_ruby: めかしんのすけ
-    song_variation:
-    - esong_code: 5079B9
-      song_name: 愛とU
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 愛なView
     song_alias:
     esong_code: 5081A20
@@ -364,6 +364,23 @@ result:
     - esong_code: 5081A20
       song_name: 愛なView
       content_type: ''
+  - song_name: 会いに行くのに
+    song_alias:
+    esong_code: 5085B17
+    t_singer_master_id: '52236'
+    singer_name: あいみょん
+    singer_alias:
+    available_date: '2024-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あいにいくのに
+    singer_name_ruby: あいみよん
+    song_variation:
+    - esong_code: 5085B17
+      song_name: 会いに行くのに
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 会いに行くのに 「名演ピアノ 美野 春樹」
     song_alias:
     esong_code: 5076B8
@@ -432,11 +449,11 @@ result:
     - esong_code: 5075B24
       song_name: アイのウイルス
       content_type: ''
-  - song_name: I Know You.
+  - song_name: I know You.
     song_alias:
     esong_code: 5085A27
-    t_singer_master_id: '11851'
-    singer_name: 竹内 順子
+    t_singer_master_id: '70135'
+    singer_name: 鳥海 浩輔&竹内 順子
     singer_alias:
     available_date: '2024-12-12'
     end_date: '2999-04-10 00:00:00'
@@ -444,10 +461,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: あいのうゆ
-    singer_name_ruby: たけうちしゆんこ
+    singer_name_ruby: とりうみこうすけたけうちし
     song_variation:
     - esong_code: 5085A27
-      song_name: I Know You.
+      song_name: I know You.
       content_type: ''
   - song_name: 愛の言霊 〜Spiritual Message〜 (feat.Night Tempo)
     song_alias:
@@ -500,20 +517,3 @@ result:
     - esong_code: 5075A5
       song_name: 愛の賞味期限
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 愛のバッテリー (Japanese ver.)
-    song_alias:
-    esong_code: 5083B18
-    t_singer_master_id: '75494'
-    singer_name: sis
-    singer_alias:
-    available_date: '2024-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのはつてりし
-    singer_name_ruby: しす
-    song_variation:
-    - esong_code: 5083B18
-      song_name: 愛のバッテリー (Japanese ver.)
-      content_type: ''

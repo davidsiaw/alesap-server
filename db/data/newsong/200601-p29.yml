@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
-  - song_name: どどいつ
-    song_alias:
-    esong_code: 1407B47
-    t_singer_master_id: '920'
-    singer_name: 坂本 冬美
-    singer_alias:
-    available_date: '2006-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とといつ
-    singer_name_ruby: さかもとふゆみ
-    song_variation:
-    - esong_code: 1407B47
-      song_name: どどいつ
-      content_type: ''
   - song_name: ドドンパ
     song_alias:
     esong_code: 1426B45
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1426B43
       song_name: 泣いて・・・
+      content_type: ''
+  - song_name: ナイトパブ
+    song_alias:
+    esong_code: 230A30
+    t_singer_master_id: '1817'
+    singer_name: 原 大輔
+    singer_alias:
+    available_date: '2006-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ないとはふ
+    singer_name_ruby: はらたいすけ
+    song_variation:
+    - esong_code: 230A30
+      song_name: ナイトパブ
       content_type: ''

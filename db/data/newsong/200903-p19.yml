@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
   - song_name: SET ME FREE
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 2269B20
       song_name: SET ME FREE
       content_type: ''
-  - song_name: 刹那
-    song_alias:
-    esong_code: 2255B38
-    t_singer_master_id: '28788'
-    singer_name: GReeeeN
-    singer_alias:
-    available_date: '2009-03-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せつな
-    singer_name_ruby: くりん
-    song_variation:
-    - esong_code: 2255B38
-      song_name: 刹那
-      content_type: ''
   - song_name: SETSUNA
     song_alias:
     esong_code: 2276A35
@@ -58,6 +41,23 @@ result:
     - esong_code: 2276A35
       song_name: SETSUNA
       content_type: VOCALOID
+  - song_name: 刹那
+    song_alias:
+    esong_code: 2255B38
+    t_singer_master_id: '28788'
+    singer_name: GReeeeN
+    singer_alias:
+    available_date: '2009-03-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せつな
+    singer_name_ruby: くりん
+    song_variation:
+    - esong_code: 2255B38
+      song_name: 刹那
+      content_type: ''
   - song_name: SEVENTH HEAVEN
     song_alias:
     esong_code: 2294A5
@@ -145,23 +145,6 @@ result:
       content_type: ''
   - song_name: 千の風になって
     song_alias:
-    esong_code: 2265A10
-    t_singer_master_id: '26716'
-    singer_name: 秋川 雅史
-    singer_alias:
-    available_date: '2009-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: せんのかせになつて
-    singer_name_ruby: あきかわまさふみ
-    song_variation:
-    - esong_code: 2265A10
-      song_name: 千の風になって
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 千の風になって
-    song_alias:
     esong_code: 2262A30
     t_singer_master_id: '26716'
     singer_name: 秋川 雅史
@@ -177,6 +160,23 @@ result:
     - esong_code: 2262A30
       song_name: 千の風になって
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 千の風になって
+    song_alias:
+    esong_code: 2265A10
+    t_singer_master_id: '26716'
+    singer_name: 秋川 雅史
+    singer_alias:
+    available_date: '2009-03-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: せんのかせになつて
+    singer_name_ruby: あきかわまさふみ
+    song_variation:
+    - esong_code: 2265A10
+      song_name: 千の風になって
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 全裸で書いたラブレタ〜
     song_alias:
     esong_code: 2276B9

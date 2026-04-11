@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: 君のかけら
-    song_alias:
-    esong_code: 2692B30
-    t_singer_master_id: '38594'
-    singer_name: 茶太@下村陽子
-    singer_alias:
-    available_date: '2011-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみのかけら
-    singer_name_ruby: ちやたしもむらようこ
-    song_variation:
-    - esong_code: 2692B30
-      song_name: 君のかけら
-      content_type: ''
   - song_name: 君の背中
     song_alias:
     esong_code: 2693B25
@@ -213,23 +196,6 @@ result:
       content_type: ''
   - song_name: 京都から博多まで
     song_alias:
-    esong_code: 2694A1
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2011-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きようとからはかたま
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 2694A1
-      song_name: 京都から博多まで
-      content_type: ''
-  - song_name: 京都から博多まで
-    song_alias:
     esong_code: 2694A18
     t_singer_master_id: '6510'
     singer_name: 水森 かおり
@@ -245,6 +211,23 @@ result:
     - esong_code: 2694A18
       song_name: 京都から博多まで
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 京都から博多まで
+    song_alias:
+    esong_code: 2694A1
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2011-10-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きようとからはかたま
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 2694A1
+      song_name: 京都から博多まで
+      content_type: ''
   - song_name: 今日の終わりにありがとうを数えよう
     song_alias:
     esong_code: 2684A22
@@ -517,3 +500,20 @@ result:
     - esong_code: 2686A1
       song_name: Good Bye feat.亜矢
       content_type: ''
+  - song_name: GOOD LUCK MY WAY
+    song_alias:
+    esong_code: 2680A21
+    t_singer_master_id: '5250'
+    singer_name: L'Arc〜en〜Ciel
+    singer_alias:
+    available_date: '2011-10-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鋼の錬金術師(劇場版)<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: くつとらつくまい
+    singer_name_ruby: らるくあんしえる
+    song_variation:
+    - esong_code: 2680A21
+      song_name: GOOD LUCK MY WAY
+      content_type: JOYｸﾘｯﾌﾟ

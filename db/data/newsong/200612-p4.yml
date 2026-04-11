@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1137
-  all_max_cnt: 1232
-  all_country_cnt: 1137
+  max_cnt: 1130
+  all_max_cnt: 1225
+  all_country_cnt: 1130
   song:
   - song_name: We are lonely
     song_alias:
@@ -109,6 +109,23 @@ result:
     - esong_code: 1684B49
       song_name: Walk This Way
       content_type: ''
+  - song_name: WON'T BE LONG 〜Red Cherry Version〜
+    song_alias:
+    esong_code: 1685A29
+    t_singer_master_id: '12005'
+    singer_name: 倖田 來未
+    singer_alias:
+    available_date: '2006-12-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うおんとひろんく
+    singer_name_ruby: こうたくみ
+    song_variation:
+    - esong_code: 1685A29
+      song_name: WON'T BE LONG 〜Red Cherry Version〜
+      content_type: ''
   - song_name: WON'T BE LONG
     song_alias:
     esong_code: 1681A40
@@ -142,23 +159,6 @@ result:
     song_variation:
     - esong_code: 1685A28
       song_name: WON'T BE LONG 〜Black Cherry Version〜
-      content_type: ''
-  - song_name: WON'T BE LONG 〜Red Cherry Version〜
-    song_alias:
-    esong_code: 1685A29
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
-    singer_alias:
-    available_date: '2006-12-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うおんとひろんく
-    singer_name_ruby: こうたくみ
-    song_variation:
-    - esong_code: 1685A29
-      song_name: WON'T BE LONG 〜Red Cherry Version〜
       content_type: ''
   - song_name: 浮草春秋
     song_alias:
@@ -287,7 +287,7 @@ result:
     singer_alias:
     available_date: '2006-12-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ああっ女神さまっ (TV版)<番組名>
+    tie_up: ああっ女神さまっ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: うんめいのよかん
@@ -500,20 +500,20 @@ result:
     - esong_code: 1693B28
       song_name: エピゴーネン
       content_type: ''
-  - song_name: Everything
+  - song_name: Everysing
     song_alias:
-    esong_code: 1683A21
-    t_singer_master_id: '12895'
-    singer_name: EXILE
+    esong_code: 1677A41
+    t_singer_master_id: '15759'
+    singer_name: ORANGE RANGE
     singer_alias:
-    available_date: '2006-12-30'
+    available_date: '2006-12-06'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type:
     song_name_ruby: えふりしんく
-    singer_name_ruby: えくさいる
+    singer_name_ruby: おれんしれんし
     song_variation:
-    - esong_code: 1683A21
-      song_name: Everything
-      content_type: DAMｸﾘｯﾌﾟ
+    - esong_code: 1677A41
+      song_name: Everysing
+      content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
   - song_name: Girls&Boys
     song_alias:
@@ -423,7 +423,7 @@ result:
     singer_alias:
     available_date: '2015-09-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きていかる
@@ -431,23 +431,6 @@ result:
     song_variation:
     - esong_code: 3500A22
       song_name: kitty girl
-      content_type: ''
-  - song_name: KEYTALKメドレー 〜2015〜
-    song_alias:
-    esong_code: 3500A38
-    t_singer_master_id: '40878'
-    singer_name: KEYTALK
-    singer_alias:
-    available_date: '2015-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きとくめとれ
-    singer_name_ruby: きとく
-    song_variation:
-    - esong_code: 3500A38
-      song_name: KEYTALKメドレー 〜2015〜
       content_type: ''
   - song_name: KEYTALKメドレー
     song_alias:
@@ -465,6 +448,23 @@ result:
     song_variation:
     - esong_code: 3506A13
       song_name: KEYTALKメドレー
+      content_type: ''
+  - song_name: KEYTALKメドレー 〜2015〜
+    song_alias:
+    esong_code: 3500A38
+    t_singer_master_id: '40878'
+    singer_name: KEYTALK
+    singer_alias:
+    available_date: '2015-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きとくめとれ
+    singer_name_ruby: きとく
+    song_variation:
+    - esong_code: 3500A38
+      song_name: KEYTALKメドレー 〜2015〜
       content_type: ''
   - song_name: keep on raining
     song_alias:

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1384
-  all_max_cnt: 1544
-  all_country_cnt: 1384
+  max_cnt: 1374
+  all_max_cnt: 1534
+  all_country_cnt: 1374
   song:
   - song_name: ありがとう〜ふるさと
     song_alias:
@@ -143,38 +143,21 @@ result:
     - esong_code: 3772B23
       song_name: 哀れな人々
       content_type: ''
-  - song_name: アンサー
-    song_alias:
-    esong_code: 3777B38
-    t_singer_master_id: '12276'
-    singer_name: BUMP OF CHICKEN
-    singer_alias:
-    available_date: '2017-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 3月のライオン<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あんさ
-    singer_name_ruby: はんふおふちきん
-    song_variation:
-    - esong_code: 3777B38
-      song_name: アンサー
-      content_type: DAM生音
   - song_name: Answer
     song_alias:
-    esong_code: 3769B23
-    t_singer_master_id: '49676'
-    singer_name: Jewel(J☆Dee'Z)
+    esong_code: 3776A12
+    t_singer_master_id: '55710'
+    singer_name: GOODWARP
     singer_alias:
-    available_date: '2017-03-01'
+    available_date: '2017-03-14'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: あんさ
-    singer_name_ruby: しゆえる
+    singer_name_ruby: くつとわふ
     song_variation:
-    - esong_code: 3769B23
+    - esong_code: 3776A12
       song_name: Answer
       content_type: ''
   - song_name: アンサー
@@ -196,21 +179,38 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: Answer
     song_alias:
-    esong_code: 3776A12
-    t_singer_master_id: '55710'
-    singer_name: GOODWARP
+    esong_code: 3769B23
+    t_singer_master_id: '49676'
+    singer_name: Jewel(J☆Dee'Z)
     singer_alias:
-    available_date: '2017-03-14'
+    available_date: '2017-03-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: あんさ
-    singer_name_ruby: くつとわふ
+    singer_name_ruby: しゆえる
     song_variation:
-    - esong_code: 3776A12
+    - esong_code: 3769B23
       song_name: Answer
       content_type: ''
+  - song_name: アンサー
+    song_alias:
+    esong_code: 3777B38
+    t_singer_master_id: '12276'
+    singer_name: BUMP OF CHICKEN
+    singer_alias:
+    available_date: '2017-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 3月のライオン<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あんさ
+    singer_name_ruby: はんふおふちきん
+    song_variation:
+    - esong_code: 3777B38
+      song_name: アンサー
+      content_type: DAM生音
   - song_name: アンド・アイ・ラヴ・ハー
     song_alias:
     esong_code: 3780A5

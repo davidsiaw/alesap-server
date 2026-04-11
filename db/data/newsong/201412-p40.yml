@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
   - song_name: 星降る夜のサンバ
     song_alias:
@@ -236,7 +236,7 @@ result:
     singer_alias:
     available_date: '2014-12-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA Judge End<番組名>
+    tie_up: 戦国BASARA(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ほらりす
@@ -364,23 +364,6 @@ result:
     - esong_code: 3375B44
       song_name: WHITE SNOW -ブッシュ・ド・ノエル-
       content_type: ''
-  - song_name: White tree
-    song_alias:
-    esong_code: 3364A27
-    t_singer_master_id: '22748'
-    singer_name: シド
-    singer_alias:
-    available_date: '2014-12-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほわいとつり
-    singer_name_ruby: しと
-    song_variation:
-    - esong_code: 3364A27
-      song_name: White tree
-      content_type: ''
   - song_name: White tree (Piano version)
     song_alias:
     esong_code: 3373B16
@@ -397,6 +380,23 @@ result:
     song_variation:
     - esong_code: 3373B16
       song_name: White tree (Piano version)
+      content_type: ''
+  - song_name: White tree
+    song_alias:
+    esong_code: 3364A27
+    t_singer_master_id: '22748'
+    singer_name: シド
+    singer_alias:
+    available_date: '2014-12-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほわいとつり
+    singer_name_ruby: しと
+    song_variation:
+    - esong_code: 3364A27
+      song_name: White tree
       content_type: ''
   - song_name: white flower garden
     song_alias:

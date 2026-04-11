@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 872
-  all_max_cnt: 940
-  all_country_cnt: 872
+  max_cnt: 855
+  all_max_cnt: 923
+  all_country_cnt: 855
   song:
-  - song_name: 命道
-    song_alias:
-    esong_code: 4079A24
-    t_singer_master_id: '67608'
-    singer_name: 熱田 正行
-    singer_alias:
-    available_date: '2021-03-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのちみち
-    singer_name_ruby: あつたまさゆき
-    song_variation:
-    - esong_code: 4079A24
-      song_name: 命道
-      content_type: ''
   - song_name: 居場所
     song_alias:
     esong_code: 4480A16
@@ -330,23 +313,6 @@ result:
     - esong_code: 4476B12
       song_name: 歌暦
       content_type: ''
-  - song_name: 怨むよ、レイトサマー feat.初音ミク
-    song_alias:
-    esong_code: 4478B11
-    t_singer_master_id: '67589'
-    singer_name: 卯花 ロク
-    singer_alias:
-    available_date: '2021-03-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: うらむよれいとさま
-    singer_name_ruby: うかろく
-    song_variation:
-    - esong_code: 4478B11
-      song_name: 怨むよ、レイトサマー feat.初音ミク
-      content_type: VOCALOID
   - song_name: うれしい色
     song_alias:
     esong_code: 4486A30
@@ -389,7 +355,7 @@ result:
     singer_alias:
     available_date: '2021-03-14'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダーゼロワン REAL×TIME<番組名>
+    tie_up: 仮面ライダーゼロワン<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えあいおるいまし
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4478B26
       song_name: eternal
+      content_type: ''
+  - song_name: energy
+    song_alias:
+    esong_code: 4486B12
+    t_singer_master_id: '53346'
+    singer_name: M!LK
+    singer_alias:
+    available_date: '2021-03-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えなし
+    singer_name_ruby: みるく
+    song_variation:
+    - esong_code: 4486B12
+      song_name: energy
+      content_type: ''
+  - song_name: えにし花
+    song_alias:
+    esong_code: 4402A1
+    t_singer_master_id: '52995'
+    singer_name: あすか みさこ(飛鳥みさ子)
+    singer_alias:
+    available_date: '2021-03-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えにしはな
+    singer_name_ruby: あすかみさこ
+    song_variation:
+    - esong_code: 4402A1
+      song_name: えにし花
       content_type: ''

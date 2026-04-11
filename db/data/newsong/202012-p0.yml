@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 915
-  all_max_cnt: 991
-  all_country_cnt: 915
+  max_cnt: 897
+  all_max_cnt: 973
+  all_country_cnt: 897
   song:
   - song_name: あゝよろこびの令和
     song_alias:
@@ -41,23 +41,6 @@ result:
     - esong_code: 4300A13
       song_name: 愛があれば年の差なんて
       content_type: ''
-  - song_name: 愛してよ
-    song_alias:
-    esong_code: 4453B3
-    t_singer_master_id: '61560'
-    singer_name: おかゆ
-    singer_alias:
-    available_date: '2020-12-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あいしてよ
-    singer_name_ruby: おかゆ2
-    song_variation:
-    - esong_code: 4453B3
-      song_name: 愛してよ
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: Ice Cream (with Selena Gomez)
     song_alias:
     esong_code: 4458A37
@@ -517,3 +500,20 @@ result:
     - esong_code: 4448A40
       song_name: アカシア
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: アカシア哀歌
+    song_alias:
+    esong_code: 4456B37
+    t_singer_master_id: '67303'
+    singer_name: えんどう 美え子
+    singer_alias:
+    available_date: '2020-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかしああいか
+    singer_name_ruby: えんとうみえこ
+    song_variation:
+    - esong_code: 4456B37
+      song_name: アカシア哀歌
+      content_type: ''

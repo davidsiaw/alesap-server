@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
   - song_name: X BOYFRIEND
     song_alias:
@@ -117,23 +117,6 @@ result:
       content_type: ''
   - song_name: M
     song_alias:
-    esong_code: 3013A25
-    t_singer_master_id: '31003'
-    singer_name: サカナクション
-    singer_alias:
-    available_date: '2013-03-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えむ
-    singer_name_ruby: さかなくしよん
-    song_variation:
-    - esong_code: 3013A25
-      song_name: M
-      content_type: ''
-  - song_name: M
-    song_alias:
     esong_code: 3001B30
     t_singer_master_id: '43855'
     singer_name: ROOT FIVE(√5)
@@ -147,6 +130,23 @@ result:
     singer_name_ruby: るとふあいふ
     song_variation:
     - esong_code: 3001B30
+      song_name: M
+      content_type: ''
+  - song_name: M
+    song_alias:
+    esong_code: 3013A25
+    t_singer_master_id: '31003'
+    singer_name: サカナクション
+    singer_alias:
+    available_date: '2013-03-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えむ
+    singer_name_ruby: さかなくしよん
+    song_variation:
+    - esong_code: 3013A25
       song_name: M
       content_type: ''
   - song_name: エリカの花の咲く頃に
@@ -444,7 +444,7 @@ result:
     t_singer_master_id: '774'
     singer_name: 桑田 佳祐
     singer_alias:
-    available_date: '2013-03-12'
+    available_date: '2013-03-13'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

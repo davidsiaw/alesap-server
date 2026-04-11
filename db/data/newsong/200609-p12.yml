@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
+  - song_name: 真田十勇士の歌
+    song_alias:
+    esong_code: 269A18
+    t_singer_master_id: '5143'
+    singer_name: 村田 英雄&東京放送児童合唱団
+    singer_alias:
+    available_date: '2006-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 真田十勇士<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さなたしゆうゆう
+    singer_name_ruby: むらたひておとうき
+    song_variation:
+    - esong_code: 269A18
+      song_name: 真田十勇士の歌
+      content_type: ''
   - song_name: サニードライブ
     song_alias:
     esong_code: 1643B25
@@ -298,23 +315,6 @@ result:
       content_type: ''
   - song_name: Thanks!
     song_alias:
-    esong_code: 1625B38
-    t_singer_master_id: '27640'
-    singer_name: GAM
-    singer_alias:
-    available_date: '2006-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: さんくす
-    singer_name_ruby: きやむ
-    song_variation:
-    - esong_code: 1625B38
-      song_name: Thanks!
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: Thanks!
-    song_alias:
     esong_code: 1639B8
     t_singer_master_id: '27640'
     singer_name: GAM
@@ -330,6 +330,23 @@ result:
     - esong_code: 1639B8
       song_name: Thanks!
       content_type: ''
+  - song_name: Thanks!
+    song_alias:
+    esong_code: 1625B38
+    t_singer_master_id: '27640'
+    singer_name: GAM
+    singer_alias:
+    available_date: '2006-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: さんくす
+    singer_name_ruby: きやむ
+    song_variation:
+    - esong_code: 1625B38
+      song_name: Thanks!
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: サンクチュアリ
     song_alias:
     esong_code: 1629A10
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1642B41
       song_name: 幸せなトキ
-      content_type: ''
-  - song_name: しあわせのうた 〜風とおさんぽ〜
-    song_alias:
-    esong_code: 1639B7
-    t_singer_master_id: '2929'
-    singer_name: 井上 あずみ
-    singer_alias:
-    available_date: '2006-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みんなのうた<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しあわせのうた
-    singer_name_ruby: いのうえあすみ
-    song_variation:
-    - esong_code: 1639B7
-      song_name: しあわせのうた 〜風とおさんぽ〜
       content_type: ''

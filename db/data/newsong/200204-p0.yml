@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
   - song_name: あゝ大阪城
     song_alias:
@@ -313,7 +313,7 @@ result:
     - esong_code: 832B23
       song_name: アイ〜ン体操
       content_type: ''
-  - song_name: アイ〜ン！ダンスの唄
+  - song_name: アイ〜ン!ダンスの唄
     song_alias:
     esong_code: 832B30
     t_singer_master_id: '13971'
@@ -328,7 +328,7 @@ result:
     singer_name_ruby: はかとのさまとみに
     song_variation:
     - esong_code: 832B30
-      song_name: アイ〜ン！ダンスの唄
+      song_name: アイ〜ン!ダンスの唄
       content_type: ''
   - song_name: アウトロー
     song_alias:
@@ -363,6 +363,23 @@ result:
     song_variation:
     - esong_code: 821A33
       song_name: Aokage
+      content_type: ''
+  - song_name: 青空になる
+    song_alias:
+    esong_code: 609A36
+    t_singer_master_id: '12688'
+    singer_name: 橋本 仁
+    singer_alias:
+    available_date: '2002-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 仮面ライダークウガ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あおそらになる
+    singer_name_ruby: はしもとしん
+    song_variation:
+    - esong_code: 609A36
+      song_name: 青空になる
       content_type: ''
   - song_name: 青空のおしゃべり
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 674B33
       song_name: AQUA
-      content_type: ''
-  - song_name: アゲイン
-    song_alias:
-    esong_code: 16A23
-    t_singer_master_id: '55'
-    singer_name: アグネス・チャン
-    singer_alias:
-    available_date: '2002-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけいん
-    singer_name_ruby: あくねすちやん
-    song_variation:
-    - esong_code: 16A23
-      song_name: アゲイン
       content_type: ''

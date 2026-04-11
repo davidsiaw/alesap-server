@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
+  - song_name: 愛しい人へ
+    song_alias:
+    esong_code: 3143A25
+    t_singer_master_id: '49251'
+    singer_name: 桜 香乃
+    singer_alias:
+    available_date: '2013-11-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いとしいひとへ
+    singer_name_ruby: さくらかの
+    song_variation:
+    - esong_code: 3143A25
+      song_name: 愛しい人へ
+      content_type: ''
   - song_name: 稲川くん
     song_alias:
     esong_code: 3146A9
@@ -128,23 +145,6 @@ result:
       content_type: ''
   - song_name: 命炎
     song_alias:
-    esong_code: 3139B7
-    t_singer_master_id: '5034'
-    singer_name: 市川 由紀乃
-    singer_alias:
-    available_date: '2013-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: いのちひ
-    singer_name_ruby: いちかわゆきの
-    song_variation:
-    - esong_code: 3139B7
-      song_name: 命炎
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 命炎
-    song_alias:
     esong_code: 3154B36
     t_singer_master_id: '5034'
     singer_name: 市川 由紀乃
@@ -160,6 +160,23 @@ result:
     - esong_code: 3154B36
       song_name: 命炎
       content_type: DAM生音
+  - song_name: 命炎
+    song_alias:
+    esong_code: 3139B7
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2013-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: いのちひ
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 3139B7
+      song_name: 命炎
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 祈りは剣、変わらぬは誓い
     song_alias:
     esong_code: 3142A44
@@ -423,7 +440,7 @@ result:
     singer_alias:
     available_date: '2013-11-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイ 女神篇<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ういすゆ
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3134A27
       song_name: Welcome To My Computer
-      content_type: ''
-  - song_name: WALK
-    song_alias:
-    esong_code: 3133A5
-    t_singer_master_id: '39098'
-    singer_name: OLDCODEX
-    singer_alias:
-    available_date: '2013-11-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 黒子のバスケ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うおく
-    singer_name_ruby: おるとこてつくす
-    song_variation:
-    - esong_code: 3133A5
-      song_name: WALK
       content_type: ''

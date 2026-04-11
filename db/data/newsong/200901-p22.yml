@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
-  - song_name: 北斗
-    song_alias:
-    esong_code: 2191B5
-    t_singer_master_id: '1107'
-    singer_name: 神野 美伽
-    singer_alias:
-    available_date: '2009-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほくと
-    singer_name_ruby: しんのみか
-    song_variation:
-    - esong_code: 2191B5
-      song_name: 北斗
-      content_type: ''
   - song_name: 僕とジュリエットとジェットコースター
     song_alias:
     esong_code: 2200A37
@@ -160,23 +143,6 @@ result:
     - esong_code: 2202A11
       song_name: 歩調 (Previous Remix)
       content_type: ''
-  - song_name: ホテルラブ
-    song_alias:
-    esong_code: 2194B46
-    t_singer_master_id: '33453'
-    singer_name: ゴールデンボンバー
-    singer_alias:
-    available_date: '2009-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほてるらふ
-    singer_name_ruby: こるてんほんは
-    song_variation:
-    - esong_code: 2194B46
-      song_name: ホテルラブ
-      content_type: ''
   - song_name: ボビーのニンジン等。
     song_alias:
     esong_code: 2196B2
@@ -264,23 +230,6 @@ result:
       content_type: ''
   - song_name: Bolero
     song_alias:
-    esong_code: 2187A41
-    t_singer_master_id: '21930'
-    singer_name: 東方神起
-    singer_alias:
-    available_date: '2009-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほれろ
-    singer_name_ruby: とうほうしんき
-    song_variation:
-    - esong_code: 2187A41
-      song_name: Bolero
-      content_type: ''
-  - song_name: Bolero
-    song_alias:
     esong_code: 2195A40
     t_singer_master_id: '21930'
     singer_name: 東方神起
@@ -296,6 +245,23 @@ result:
     - esong_code: 2195A40
       song_name: Bolero
       content_type: DAM良音
+  - song_name: Bolero
+    song_alias:
+    esong_code: 2187A41
+    t_singer_master_id: '21930'
+    singer_name: 東方神起
+    singer_alias:
+    available_date: '2009-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほれろ
+    singer_name_ruby: とうほうしんき
+    song_variation:
+    - esong_code: 2187A41
+      song_name: Bolero
+      content_type: ''
   - song_name: White Tiger
     song_alias:
     esong_code: 2192A30
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2196A44
       song_name: MY BABY
+      content_type: ''
+  - song_name: My Very First Love
+    song_alias:
+    esong_code: 2195A2
+    t_singer_master_id: '34187'
+    singer_name: The New Classics
+    singer_alias:
+    available_date: '2009-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいへりふあす
+    singer_name_ruby: さにゆくらしつくす
+    song_variation:
+    - esong_code: 2195A2
+      song_name: My Very First Love
+      content_type: ''
+  - song_name: マカロン☆ホリデイ
+    song_alias:
+    esong_code: 2187B12
+    t_singer_master_id: '26178'
+    singer_name: 中川 翔子
+    singer_alias:
+    available_date: '2009-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まかろんほりてい
+    singer_name_ruby: なかかわしようこ
+    song_variation:
+    - esong_code: 2187B12
+      song_name: マカロン☆ホリデイ
       content_type: ''

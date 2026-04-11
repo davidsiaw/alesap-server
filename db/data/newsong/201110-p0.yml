@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
   - song_name: ああん
     song_alias:
@@ -287,7 +287,7 @@ result:
     singer_alias:
     available_date: '2011-10-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神のみぞ知るセカイⅡ<番組名>
+    tie_up: 神のみぞ知るセカイ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あいのよかん
@@ -347,23 +347,6 @@ result:
     - esong_code: 2691A35
       song_name: I pray
       content_type: ''
-  - song_name: I HATE YOU
-    song_alias:
-    esong_code: 2684A14
-    t_singer_master_id: '16775'
-    singer_name: GOOD 4 NOTHING
-    singer_alias:
-    available_date: '2011-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいへいとゆ
-    singer_name_ruby: くつとふおなつしんく
-    song_variation:
-    - esong_code: 2684A14
-      song_name: I HATE YOU
-      content_type: ''
   - song_name: i hate u
     song_alias:
     esong_code: 2695B4
@@ -380,6 +363,23 @@ result:
     song_variation:
     - esong_code: 2695B4
       song_name: i hate u
+      content_type: ''
+  - song_name: I HATE YOU
+    song_alias:
+    esong_code: 2684A14
+    t_singer_master_id: '16775'
+    singer_name: GOOD 4 NOTHING
+    singer_alias:
+    available_date: '2011-10-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいへいとゆ
+    singer_name_ruby: くつとふおなつしんく
+    song_variation:
+    - esong_code: 2684A14
+      song_name: I HATE YOU
       content_type: ''
   - song_name: Eyeball
     song_alias:
@@ -417,23 +417,6 @@ result:
       content_type: VOCALOID
   - song_name: I My Me Mine Mine
     song_alias:
-    esong_code: 2679A46
-    t_singer_master_id: '29531'
-    singer_name: Superfly
-    singer_alias:
-    available_date: '2011-10-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいまいみまいんま
-    singer_name_ruby: すはふらい
-    song_variation:
-    - esong_code: 2679A46
-      song_name: I My Me Mine Mine
-      content_type: ''
-  - song_name: I My Me Mine Mine
-    song_alias:
     esong_code: 2683A48
     t_singer_master_id: '29531'
     singer_name: Superfly
@@ -449,6 +432,23 @@ result:
     - esong_code: 2683A48
       song_name: I My Me Mine Mine
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: I My Me Mine Mine
+    song_alias:
+    esong_code: 2679A46
+    t_singer_master_id: '29531'
+    singer_name: Superfly
+    singer_alias:
+    available_date: '2011-10-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいまいみまいんま
+    singer_name_ruby: すはふらい
+    song_variation:
+    - esong_code: 2679A46
+      song_name: I My Me Mine Mine
+      content_type: ''
   - song_name: I'm so happy (L'Acoustic version)
     song_alias:
     esong_code: 2690B9

@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
+  - song_name: 卒業写真
+    song_alias:
+    esong_code: 1653B8
+    t_singer_master_id: '1560'
+    singer_name: 徳永 英明
+    singer_alias:
+    available_date: '2006-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そつきようしやしん
+    singer_name_ruby: とくなかひてあき
+    song_variation:
+    - esong_code: 1653B8
+      song_name: 卒業写真
+      content_type: ''
+  - song_name: その目に映して
+    song_alias:
+    esong_code: 1627A35
+    t_singer_master_id: '8782'
+    singer_name: aiko
+    singer_alias:
+    available_date: '2006-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そのめにうつして
+    singer_name_ruby: あいこ
+    song_variation:
+    - esong_code: 1627A35
+      song_name: その目に映して
+      content_type: ''
   - song_name: そばにいられるなら
     song_alias:
     esong_code: 1643B38
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 1643A24
       song_name: Tobacco Smoke
-      content_type: ''
-  - song_name: 旅へでよう
-    song_alias:
-    esong_code: 1643A9
-    t_singer_master_id: '22065'
-    singer_name: RAM RIDER
-    singer_alias:
-    available_date: '2006-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たひへてよう
-    singer_name_ruby: らむらいた
-    song_variation:
-    - esong_code: 1643A9
-      song_name: 旅へでよう
-      content_type: ''
-  - song_name: 玉響のしずく (Full Vocal Ver.)
-    song_alias:
-    esong_code: 1629A29
-    t_singer_master_id: '26974'
-    singer_name: 井上 和彦&保志 総一朗&櫻井 孝宏
-    singer_alias:
-    available_date: '2006-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 遙かなる時空の中で(劇場版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たまゆらのしすく
-    singer_name_ruby: いのうえかすひこほしそうい
-    song_variation:
-    - esong_code: 1629A29
-      song_name: 玉響のしずく (Full Vocal Ver.)
       content_type: ''

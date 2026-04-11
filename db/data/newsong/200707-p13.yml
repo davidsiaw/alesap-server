@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
   - song_name: さらば恋人
     song_alias:
@@ -177,23 +177,6 @@ result:
     - esong_code: 1813B1
       song_name: 残酷な天使のテーゼ
       content_type: ''
-  - song_name: SUNSHINE
-    song_alias:
-    esong_code: 1808A49
-    t_singer_master_id: '10188'
-    singer_name: AAA
-    singer_alias:
-    available_date: '2007-07-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さんしやいん
-    singer_name_ruby: とりふるえ
-    song_variation:
-    - esong_code: 1808A49
-      song_name: SUNSHINE
-      content_type: ''
   - song_name: Sunshine (feat.VERBAL)
     song_alias:
     esong_code: 1816B23
@@ -210,6 +193,23 @@ result:
     song_variation:
     - esong_code: 1816B23
       song_name: Sunshine (feat.VERBAL)
+      content_type: ''
+  - song_name: SUNSHINE
+    song_alias:
+    esong_code: 1808A49
+    t_singer_master_id: '10188'
+    singer_name: AAA
+    singer_alias:
+    available_date: '2007-07-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんしやいん
+    singer_name_ruby: とりふるえ
+    song_variation:
+    - esong_code: 1808A49
+      song_name: SUNSHINE
       content_type: ''
   - song_name: SUNSET
     song_alias:

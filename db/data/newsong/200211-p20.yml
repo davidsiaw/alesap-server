@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 655
-  all_max_cnt: 733
-  all_country_cnt: 655
+  max_cnt: 652
+  all_max_cnt: 730
+  all_country_cnt: 652
   song:
-  - song_name: 落日
-    song_alias:
-    esong_code: 968B21
-    t_singer_master_id: '5744'
-    singer_name: 藤原 浩
-    singer_alias:
-    available_date: '2002-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らくしつ
-    singer_name_ruby: ふしわらひろし
-    song_variation:
-    - esong_code: 968B21
-      song_name: 落日
-      content_type: ''
-  - song_name: LAST WALTZ
-    song_alias:
-    esong_code: 968A24
-    t_singer_master_id: '13066'
-    singer_name: 中島 美嘉
-    singer_alias:
-    available_date: '2002-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らすとわるつ
-    singer_name_ruby: なかしまみか
-    song_variation:
-    - esong_code: 968A24
-      song_name: LAST WALTZ
-      content_type: ''
-  - song_name: Lover's Beat
-    song_alias:
-    esong_code: 956A30
-    t_singer_master_id: '5051'
-    singer_name: 光GENJI SUPER5
-    singer_alias:
-    available_date: '2002-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らはすひと
-    singer_name_ruby: ひかるけんしす
-    song_variation:
-    - esong_code: 956A30
-      song_name: Lover's Beat
-      content_type: ''
   - song_name: LOVER,KNIGHT,MAN
     song_alias:
     esong_code: 966B25
@@ -77,23 +26,6 @@ result:
       content_type: ''
   - song_name: Labyrinth
     song_alias:
-    esong_code: 960B24
-    t_singer_master_id: '1996'
-    singer_name: 藤井 フミヤ
-    singer_alias:
-    available_date: '2002-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らひりんす
-    singer_name_ruby: ふしいふみや
-    song_variation:
-    - esong_code: 960B24
-      song_name: Labyrinth
-      content_type: ''
-  - song_name: Labyrinth
-    song_alias:
     esong_code: 952A28
     t_singer_master_id: '14489'
     singer_name: ElDorado
@@ -107,6 +39,23 @@ result:
     singer_name_ruby: えるとらと
     song_variation:
     - esong_code: 952A28
+      song_name: Labyrinth
+      content_type: ''
+  - song_name: Labyrinth
+    song_alias:
+    esong_code: 960B24
+    t_singer_master_id: '1996'
+    singer_name: 藤井 フミヤ
+    singer_alias:
+    available_date: '2002-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らひりんす
+    singer_name_ruby: ふしいふみや
+    song_variation:
+    - esong_code: 960B24
       song_name: Labyrinth
       content_type: ''
   - song_name: LOVE@Hacker
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 965B33
       song_name: Legend Of My Soul〜そうさ涙じゃない〜
+      content_type: ''
+  - song_name: RESISTANCE
+    song_alias:
+    esong_code: 156A49
+    t_singer_master_id: '13066'
+    singer_name: 中島 美嘉
+    singer_alias:
+    available_date: '2002-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: れしすたんす
+    singer_name_ruby: なかしまみか
+    song_variation:
+    - esong_code: 156A49
+      song_name: RESISTANCE
+      content_type: DAM良音
+  - song_name: RESISTANCE
+    song_alias:
+    esong_code: 962A23
+    t_singer_master_id: '13066'
+    singer_name: 中島 美嘉
+    singer_alias:
+    available_date: '2002-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: れしすたんす
+    singer_name_ruby: なかしまみか
+    song_variation:
+    - esong_code: 962A23
+      song_name: RESISTANCE
+      content_type: ''
+  - song_name: Rest In Peace
+    song_alias:
+    esong_code: 960A32
+    t_singer_master_id: '10105'
+    singer_name: NiNa
+    singer_alias:
+    available_date: '2002-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ArctheLad<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: れすといんひす
+    singer_name_ruby: にな
+    song_variation:
+    - esong_code: 960A32
+      song_name: Rest In Peace
       content_type: ''

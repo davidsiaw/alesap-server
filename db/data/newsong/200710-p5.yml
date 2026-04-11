@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1415
-  all_max_cnt: 1522
-  all_country_cnt: 1415
+  max_cnt: 1411
+  all_max_cnt: 1518
+  all_country_cnt: 1411
   song:
-  - song_name: 一番素敵だった日
-    song_alias:
-    esong_code: 1880A25
-    t_singer_master_id: '10605'
-    singer_name: GARNET CROW
-    singer_alias:
-    available_date: '2007-10-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いちはんすてきた
-    singer_name_ruby: かねつとくろう
-    song_variation:
-    - esong_code: 1880A25
-      song_name: 一番素敵だった日
-      content_type: ''
   - song_name: 一番星
     song_alias:
     esong_code: 1885A9
@@ -77,23 +60,6 @@ result:
       content_type: ''
   - song_name: いつか
     song_alias:
-    esong_code: 1825A30
-    t_singer_master_id: '28953'
-    singer_name: 宮野 真守
-    singer_alias:
-    available_date: '2007-10-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつか
-    singer_name_ruby: みやのまもる
-    song_variation:
-    - esong_code: 1825A30
-      song_name: いつか
-      content_type: ''
-  - song_name: いつか
-    song_alias:
     esong_code: 1878B34
     t_singer_master_id: '8578'
     singer_name: ゆず
@@ -109,6 +75,23 @@ result:
     - esong_code: 1878B34
       song_name: いつか
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: いつか
+    song_alias:
+    esong_code: 1825A30
+    t_singer_master_id: '28953'
+    singer_name: 宮野 真守
+    singer_alias:
+    available_date: '2007-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつか
+    singer_name_ruby: みやのまもる
+    song_variation:
+    - esong_code: 1825A30
+      song_name: いつか
+      content_type: ''
   - song_name: いつか見た空
     song_alias:
     esong_code: 1883B25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1888B43
       song_name: infection
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: We can go
+    song_alias:
+    esong_code: 1889A1
+    t_singer_master_id: '11184'
+    singer_name: 鬼束 ちひろ
+    singer_alias:
+    available_date: '2007-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ういきやんこ
+    singer_name_ruby: おにつかちひろ
+    song_variation:
+    - esong_code: 1889A1
+      song_name: We can go
       content_type: JOYｸﾘｯﾌﾟ

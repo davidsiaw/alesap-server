@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: 大義援オモカゲマンの歌
-    song_alias:
-    esong_code: 1168B15
-    t_singer_master_id: '2506'
-    singer_name: 山本 まさゆき
-    singer_alias:
-    available_date: '2009-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいきえんおもか
-    singer_name_ruby: やまもとまさゆき
-    song_variation:
-    - esong_code: 1168B15
-      song_name: 大義援オモカゲマンの歌
-      content_type: ''
   - song_name: タイムカプセル
     song_alias:
     esong_code: 2251B41
@@ -381,23 +364,6 @@ result:
     - esong_code: 2245B14
       song_name: チェルシー
       content_type: ''
-  - song_name: ChaNge the WoRLd
-    song_alias:
-    esong_code: 2202B28
-    t_singer_master_id: '33821'
-    singer_name: MiChi
-    singer_alias:
-    available_date: '2009-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちえんしさわる
-    singer_name_ruby: みち
-    song_variation:
-    - esong_code: 2202B28
-      song_name: ChaNge the WoRLd
-      content_type: ''
   - song_name: チークトゥチーク
     song_alias:
     esong_code: 2246B42
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2199B22
       song_name: ちゅらさんがころんだ
+      content_type: ''
+  - song_name: TURN YOUR HEAD
+    song_alias:
+    esong_code: 2212B19
+    t_singer_master_id: '22237'
+    singer_name: RAIN(ピ)
+    singer_alias:
+    available_date: '2009-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちゆんゆあへつと
+    singer_name_ruby: れいん
+    song_variation:
+    - esong_code: 2212B19
+      song_name: TURN YOUR HEAD
+      content_type: ''
+  - song_name: 蝶が一匹
+    song_alias:
+    esong_code: 2204B3
+    t_singer_master_id: '25814'
+    singer_name: COCK ROACH
+    singer_alias:
+    available_date: '2009-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちようかいつひき
+    singer_name_ruby: こつくろち
+    song_variation:
+    - esong_code: 2204B3
+      song_name: 蝶が一匹
       content_type: ''

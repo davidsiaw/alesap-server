@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 952
-  all_max_cnt: 1096
-  all_country_cnt: 952
+  max_cnt: 967
+  all_max_cnt: 1109
+  all_country_cnt: 967
   song:
   - song_name: アンチノミー
     song_alias:
@@ -142,6 +142,23 @@ result:
     song_variation:
     - esong_code: 4520B35
       song_name: 生きていい
+      content_type: ''
+  - song_name: いきなり将軍
+    song_alias:
+    esong_code: 4880B43
+    t_singer_master_id: '30315'
+    singer_name: レキシ
+    singer_alias:
+    available_date: '2023-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いきなりしようくん
+    singer_name_ruby: れきし
+    song_variation:
+    - esong_code: 4880B43
+      song_name: いきなり将軍
       content_type: ''
   - song_name: 生きる
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 4740B23
       song_name: IN&OUT
-      content_type: ''
-  - song_name: into reality
-    song_alias:
-    esong_code: 4730B10
-    t_singer_master_id: '70923'
-    singer_name: NIJISANJI ID
-    singer_alias:
-    available_date: '2023-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いんとうりありてい
-    singer_name_ruby: にしさんしあいてい
-    song_variation:
-    - esong_code: 4730B10
-      song_name: into reality
       content_type: ''

@@ -3,13 +3,13 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1176
-  all_max_cnt: 1313
-  all_country_cnt: 1176
+  max_cnt: 1175
+  all_max_cnt: 1312
+  all_country_cnt: 1175
   song:
   - song_name: 満天の瞳(ほし)
     song_alias:
-    esong_code: 3097B43
+    esong_code: 3097A43
     t_singer_master_id: '10507'
     singer_name: 氷川 きよし
     singer_alias:
@@ -17,13 +17,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: まんてんのほし
     singer_name_ruby: ひかわきよし
     song_variation:
-    - esong_code: 3097B43
+    - esong_code: 3097A43
       song_name: 満天の瞳(ほし)
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: み
     song_alias:
     esong_code: 3097A19
@@ -485,23 +485,6 @@ result:
       content_type: ''
   - song_name: もう一度・・・子守歌
     song_alias:
-    esong_code: 3085A14
-    t_singer_master_id: '1675'
-    singer_name: 長山 洋子(yoko)
-    singer_alias:
-    available_date: '2013-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: もういちとこもりう
-    singer_name_ruby: なかやまようこ
-    song_variation:
-    - esong_code: 3085A14
-      song_name: もう一度・・・子守歌
-      content_type: ''
-  - song_name: もう一度・・・子守歌
-    song_alias:
     esong_code: 2851A10
     t_singer_master_id: '1675'
     singer_name: 長山 洋子(yoko)
@@ -517,3 +500,20 @@ result:
     - esong_code: 2851A10
       song_name: もう一度・・・子守歌
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: もう一度・・・子守歌
+    song_alias:
+    esong_code: 3085A14
+    t_singer_master_id: '1675'
+    singer_name: 長山 洋子(yoko)
+    singer_alias:
+    available_date: '2013-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: もういちとこもりう
+    singer_name_ruby: なかやまようこ
+    song_variation:
+    - esong_code: 3085A14
+      song_name: もう一度・・・子守歌
+      content_type: ''

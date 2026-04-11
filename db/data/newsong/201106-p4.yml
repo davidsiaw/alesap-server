@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1312
-  all_max_cnt: 1466
-  all_country_cnt: 1312
+  max_cnt: 1301
+  all_max_cnt: 1455
+  all_country_cnt: 1301
   song:
-  - song_name: イイカゲンのススメ
-    song_alias:
-    esong_code: 2228B46
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2011-06-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いいかけんのすすめ
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 2228B46
-      song_name: イイカゲンのススメ
-      content_type: ''
-  - song_name: いいこわるいこ
-    song_alias:
-    esong_code: 255A45
-    t_singer_master_id: '42646'
-    singer_name: kous
-    singer_alias:
-    available_date: '2011-06-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: いいこわるいこ
-    singer_name_ruby: こうす
-    song_variation:
-    - esong_code: 255A45
-      song_name: いいこわるいこ
-      content_type: VOCALOID
   - song_name: いいひと
     song_alias:
     esong_code: 279B27
@@ -109,7 +75,7 @@ result:
     - esong_code: 487B8
       song_name: 漁火情話
       content_type: ''
-  - song_name: いじけた視線を君に語るより 光りをみたい
+  - song_name: いじけた視線を君に語るより 光をみたい
     song_alias:
     esong_code: 176B41
     t_singer_master_id: '1499'
@@ -124,7 +90,7 @@ result:
     singer_name_ruby: ていほらん
     song_variation:
     - esong_code: 176B41
-      song_name: いじけた視線を君に語るより 光りをみたい
+      song_name: いじけた視線を君に語るより 光をみたい
       content_type: ''
   - song_name: いたいけな秋 feat.Bose
     song_alias:
@@ -417,23 +383,6 @@ result:
       content_type: ''
   - song_name: いとしき日々よ
     song_alias:
-    esong_code: 1873B18
-    t_singer_master_id: '6035'
-    singer_name: 平井 堅
-    singer_alias:
-    available_date: '2011-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: いとしきひひよ
-    singer_name_ruby: ひらいけん
-    song_variation:
-    - esong_code: 1873B18
-      song_name: いとしき日々よ
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: いとしき日々よ
-    song_alias:
     esong_code: 758A40
     t_singer_master_id: '6035'
     singer_name: 平井 堅
@@ -449,6 +398,23 @@ result:
     - esong_code: 758A40
       song_name: いとしき日々よ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: いとしき日々よ
+    song_alias:
+    esong_code: 1873B18
+    t_singer_master_id: '6035'
+    singer_name: 平井 堅
+    singer_alias:
+    available_date: '2011-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: いとしきひひよ
+    singer_name_ruby: ひらいけん
+    song_variation:
+    - esong_code: 1873B18
+      song_name: いとしき日々よ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: いにしえの旅人
     song_alias:
     esong_code: 588A9
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 728A14
       song_name: 生命ぎりぎり
+      content_type: ''
+  - song_name: If feat.巡音ルカ
+    song_alias:
+    esong_code: 573B17
+    t_singer_master_id: '42586'
+    singer_name: 無力P
+    singer_alias:
+    available_date: '2011-06-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: いふ
+    singer_name_ruby: むりよくひ
+    song_variation:
+    - esong_code: 573B17
+      song_name: If feat.巡音ルカ
+      content_type: VOCALOID
+  - song_name: If I Ain't Got You
+    song_alias:
+    esong_code: 241A43
+    t_singer_master_id: '36455'
+    singer_name: KG
+    singer_alias:
+    available_date: '2011-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いふあいえいんとか
+    singer_name_ruby: けし
+    song_variation:
+    - esong_code: 241A43
+      song_name: If I Ain't Got You
       content_type: ''

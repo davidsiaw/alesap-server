@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 933
-  all_max_cnt: 1037
-  all_country_cnt: 933
+  max_cnt: 932
+  all_max_cnt: 1036
+  all_country_cnt: 932
   song:
+  - song_name: Come on Let's Dance
+    song_alias:
+    esong_code: 1787A7
+    t_singer_master_id: '6716'
+    singer_name: 幕末塾
+    singer_alias:
+    available_date: '2007-05-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かもんれつつたんす
+    singer_name_ruby: はくまつしゆく
+    song_variation:
+    - esong_code: 1787A7
+      song_name: Come on Let's Dance
+      content_type: ''
   - song_name: から笑う孤島の鬼
     song_alias:
     esong_code: 1786A45
@@ -415,23 +432,6 @@ result:
     - esong_code: 1789A38
       song_name: 君が選んだひと
       content_type: ''
-  - song_name: 君住む街角 (On The Street Where You Live)
-    song_alias:
-    esong_code: 1785B41
-    t_singer_master_id: '1359'
-    singer_name: 竹内 まりや
-    singer_alias:
-    available_date: '2007-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみすむまちかと
-    singer_name_ruby: たけうちまりや
-    song_variation:
-    - esong_code: 1785B41
-      song_name: 君住む街角 (On The Street Where You Live)
-      content_type: ''
   - song_name: 君住む街角
     song_alias:
     esong_code: 1783B32
@@ -448,6 +448,23 @@ result:
     song_variation:
     - esong_code: 1783B32
       song_name: 君住む街角
+      content_type: ''
+  - song_name: 君住む街角 (On The Street Where You Live)
+    song_alias:
+    esong_code: 1785B41
+    t_singer_master_id: '1359'
+    singer_name: 竹内 まりや
+    singer_alias:
+    available_date: '2007-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみすむまちかと
+    singer_name_ruby: たけうちまりや
+    song_variation:
+    - esong_code: 1785B41
+      song_name: 君住む街角 (On The Street Where You Live)
       content_type: ''
   - song_name: キミ＋ボク＝LOVE？
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1786B30
       song_name: Kimi ni Aete
-      content_type: ''
-  - song_name: 君の全てを
-    song_alias:
-    esong_code: 1788B47
-    t_singer_master_id: '2238'
-    singer_name: 松山 千春
-    singer_alias:
-    available_date: '2007-05-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみのすへてを
-    singer_name_ruby: まつやまちはる
-    song_variation:
-    - esong_code: 1788B47
-      song_name: 君の全てを
       content_type: ''

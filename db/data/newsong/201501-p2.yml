@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1114
-  all_max_cnt: 1275
-  all_country_cnt: 1114
+  max_cnt: 1110
+  all_max_cnt: 1271
+  all_country_cnt: 1110
   song:
   - song_name: あのね Love me Do
     song_alias:
@@ -251,7 +251,7 @@ result:
     t_singer_master_id: '28707'
     singer_name: 中条 由美
     singer_alias:
-    available_date: '2015-01-20'
+    available_date: '2015-01-21'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -313,23 +313,6 @@ result:
     - esong_code: 1397A30
       song_name: ありがとう
       content_type: ''
-  - song_name: ありがとう
-    song_alias:
-    esong_code: 3379A46
-    t_singer_master_id: '50864'
-    singer_name: MACO
-    singer_alias:
-    available_date: '2015-01-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ありかとう
-    singer_name_ruby: まこ
-    song_variation:
-    - esong_code: 3379A46
-      song_name: ありがとう
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ありがとう (2015 ver.)
     song_alias:
     esong_code: 3384B13
@@ -347,6 +330,23 @@ result:
     - esong_code: 3384B13
       song_name: ありがとう (2015 ver.)
       content_type: ''
+  - song_name: ありがとう
+    song_alias:
+    esong_code: 3379A46
+    t_singer_master_id: '50864'
+    singer_name: MACO
+    singer_alias:
+    available_date: '2015-01-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ありかとう
+    singer_name_ruby: まこ
+    song_variation:
+    - esong_code: 3379A46
+      song_name: ありがとう
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ありがとう 〜Dear father and mother〜
     song_alias:
     esong_code: 3380B46
@@ -485,23 +485,6 @@ result:
       content_type: JOYうたいり
   - song_name: 生きて
     song_alias:
-    esong_code: 3379A45
-    t_singer_master_id: '24187'
-    singer_name: Aqua Timez
-    singer_alias:
-    available_date: '2015-01-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: いきて
-    singer_name_ruby: あくあたいむす
-    song_variation:
-    - esong_code: 3379A45
-      song_name: 生きて
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 生きて
-    song_alias:
     esong_code: 3383A35
     t_singer_master_id: '24187'
     singer_name: Aqua Timez
@@ -517,3 +500,20 @@ result:
     - esong_code: 3383A35
       song_name: 生きて
       content_type: DAM生音
+  - song_name: 生きて
+    song_alias:
+    esong_code: 3379A45
+    t_singer_master_id: '24187'
+    singer_name: Aqua Timez
+    singer_alias:
+    available_date: '2015-01-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: いきて
+    singer_name_ruby: あくあたいむす
+    song_variation:
+    - esong_code: 3379A45
+      song_name: 生きて
+      content_type: JOYﾎﾞｰｶﾙ

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
+  - song_name: お前しかいねぇ 遊turing RED RICE
+    song_alias:
+    esong_code: 3560B49
+    t_singer_master_id: '36108'
+    singer_name: 遊助
+    singer_alias:
+    available_date: '2015-12-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おまえしかいねえ
+    singer_name_ruby: ゆうすけ
+    song_variation:
+    - esong_code: 3560B49
+      song_name: お前しかいねぇ 遊turing RED RICE
+      content_type: ''
   - song_name: おまえに雨宿り
     song_alias:
     esong_code: 3282B8
@@ -94,23 +111,6 @@ result:
       content_type: ''
   - song_name: 父娘鳥
     song_alias:
-    esong_code: 487A43
-    t_singer_master_id: '54947'
-    singer_name: 影山 時則&山﨑 百桂
-    singer_alias:
-    available_date: '2015-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おやことり
-    singer_name_ruby: かけやまときのりやまさきも
-    song_variation:
-    - esong_code: 487A43
-      song_name: 父娘鳥
-      content_type: ''
-  - song_name: 父娘鳥
-    song_alias:
     esong_code: 2088B5
     t_singer_master_id: '54947'
     singer_name: 影山 時則&山﨑 百桂
@@ -126,6 +126,23 @@ result:
     - esong_code: 2088B5
       song_name: 父娘鳥
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 父娘鳥
+    song_alias:
+    esong_code: 487A43
+    t_singer_master_id: '54947'
+    singer_name: 影山 時則&山﨑 百桂
+    singer_alias:
+    available_date: '2015-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやことり
+    singer_name_ruby: かけやまときのりやまさきも
+    song_variation:
+    - esong_code: 487A43
+      song_name: 父娘鳥
+      content_type: ''
   - song_name: オヤジが死んだ夜
     song_alias:
     esong_code: 3573B46
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3567A39
       song_name: 加賀の宿
-      content_type: ''
-  - song_name: 加賀岬
-    song_alias:
-    esong_code: 3565A27
-    t_singer_master_id: '31414'
-    singer_name: 井口 裕香
-    singer_alias:
-    available_date: '2015-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 艦隊これくしょん〜艦これ〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かかみさき
-    singer_name_ruby: いくちゆか
-    song_variation:
-    - esong_code: 3565A27
-      song_name: 加賀岬
       content_type: ''

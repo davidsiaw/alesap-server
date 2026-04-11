@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
   - song_name: グラセフ feat.LUNV LOYAL
     song_alias:
@@ -389,7 +389,7 @@ result:
     singer_alias:
     available_date: '2017-05-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 遙かなる時空の中で6 幻燈ロンド<番組名>
+    tie_up: 遙かなる時空の中で6<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こいとしゆんしよ
@@ -449,11 +449,11 @@ result:
     - esong_code: 3803B34
       song_name: 恋遍歴
       content_type: ''
-  - song_name: 恋祭
+  - song_name: 恋祭 (with 本条政虎 Ver.)
     song_alias:
-    esong_code: 3814A8
-    t_singer_master_id: '58886'
-    singer_name: 阿部 敦&竹本 英史
+    esong_code: 3814A12
+    t_singer_master_id: '19553'
+    singer_name: 竹本 英史
     singer_alias:
     available_date: '2017-05-28'
     end_date: '2999-04-10 00:00:00'
@@ -461,10 +461,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: こいまつり
-    singer_name_ruby: あへあつしたけもとえいし
+    singer_name_ruby: たけもとえいし
     song_variation:
-    - esong_code: 3814A8
-      song_name: 恋祭
+    - esong_code: 3814A12
+      song_name: 恋祭 (with 本条政虎 Ver.)
       content_type: ''
   - song_name: 恋祭 (with コハク Ver.)
     song_alias:
@@ -483,11 +483,11 @@ result:
     - esong_code: 3814A11
       song_name: 恋祭 (with コハク Ver.)
       content_type: ''
-  - song_name: 恋祭 (with 本条政虎 Ver.)
+  - song_name: 恋祭
     song_alias:
-    esong_code: 3814A12
-    t_singer_master_id: '19553'
-    singer_name: 竹本 英史
+    esong_code: 3814A8
+    t_singer_master_id: '58886'
+    singer_name: 阿部 敦&竹本 英史
     singer_alias:
     available_date: '2017-05-28'
     end_date: '2999-04-10 00:00:00'
@@ -495,10 +495,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: こいまつり
-    singer_name_ruby: たけもとえいし
+    singer_name_ruby: あへあつしたけもとえいし
     song_variation:
-    - esong_code: 3814A12
-      song_name: 恋祭 (with 本条政虎 Ver.)
+    - esong_code: 3814A8
+      song_name: 恋祭
       content_type: ''
   - song_name: 後期衝動
     song_alias:

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 392
-  all_max_cnt: 480
-  all_country_cnt: 392
+  max_cnt: 391
+  all_max_cnt: 479
+  all_country_cnt: 391
   song:
-  - song_name: 挽歌
-    song_alias:
-    esong_code: 134B43
-    t_singer_master_id: '2381'
-    singer_name: 村下 孝蔵
-    singer_alias:
-    available_date: '2002-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はんか
-    singer_name_ruby: むらしたこうそう
-    song_variation:
-    - esong_code: 134B43
-      song_name: 挽歌
-      content_type: ''
   - song_name: 晩愁海峡
     song_alias:
     esong_code: 920A36
@@ -83,7 +66,7 @@ result:
     singer_alias:
     available_date: '2002-09-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL Z スペシャル たったひとりの最終決戦<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひかりのたひ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 143A49
       song_name: Blooming Days
+      content_type: ''
+  - song_name: PRESSURE
+    song_alias:
+    esong_code: 146B47
+    t_singer_master_id: '12157'
+    singer_name: SOBUT
+    singer_alias:
+    available_date: '2002-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれつしや
+    singer_name_ruby: そはつと
+    song_variation:
+    - esong_code: 146B47
+      song_name: PRESSURE
       content_type: ''

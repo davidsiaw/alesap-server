@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
+  - song_name: My
+    song_alias:
+    esong_code: 2586B44
+    t_singer_master_id: '13583'
+    singer_name: SHAKALABBITS
+    singer_alias:
+    available_date: '2010-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まい
+    singer_name_ruby: しやからひつつ
+    song_variation:
+    - esong_code: 2586B44
+      song_name: My
+      content_type: ''
   - song_name: マイウェイ ハイウェイ
     song_alias:
     esong_code: 2595B28
@@ -111,23 +128,6 @@ result:
       content_type: ''
   - song_name: My Love
     song_alias:
-    esong_code: 2598B43
-    t_singer_master_id: '25339'
-    singer_name: Metis
-    singer_alias:
-    available_date: '2010-09-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まいらふ
-    singer_name_ruby: めていす
-    song_variation:
-    - esong_code: 2598B43
-      song_name: My Love
-      content_type: ''
-  - song_name: My Love
-    song_alias:
     esong_code: 2598B42
     t_singer_master_id: '25339'
     singer_name: Metis
@@ -143,6 +143,23 @@ result:
     - esong_code: 2598B42
       song_name: My Love
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: My Love
+    song_alias:
+    esong_code: 2598B43
+    t_singer_master_id: '25339'
+    singer_name: Metis
+    singer_alias:
+    available_date: '2010-09-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まいらふ
+    singer_name_ruby: めていす
+    song_variation:
+    - esong_code: 2598B43
+      song_name: My Love
+      content_type: ''
   - song_name: マクロスFメドレー
     song_alias:
     esong_code: 2608A48
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2590B27
       song_name: mistress doll
-      content_type: ''
-  - song_name: MI DA RA
-    song_alias:
-    esong_code: 2592A41
-    t_singer_master_id: '43178'
-    singer_name: 葵-168-
-    singer_alias:
-    available_date: '2010-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みたら
-    singer_name_ruby: あおいわんしつくすていえいと
-    song_variation:
-    - esong_code: 2592A41
-      song_name: MI DA RA
       content_type: ''

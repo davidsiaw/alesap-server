@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: Kissからはじめよう
-    song_alias:
-    esong_code: 1581B34
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2006-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすからはしめよう
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 1581B34
-      song_name: Kissからはじめよう
-      content_type: ''
-  - song_name: 傷だらけでも抱きしめて
-    song_alias:
-    esong_code: 1589A33
-    t_singer_master_id: '25642'
-    singer_name: 上木 彩矢
-    singer_alias:
-    available_date: '2006-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすたらけても
-    singer_name_ruby: かみきあや
-    song_variation:
-    - esong_code: 1589A33
-      song_name: 傷だらけでも抱きしめて
-      content_type: ''
   - song_name: 絆
     song_alias:
     esong_code: 1581A7
@@ -92,23 +58,6 @@ result:
     - esong_code: 858A18
       song_name: KISS ME
       content_type: ''
-  - song_name: KISEKI
-    song_alias:
-    esong_code: 1573A22
-    t_singer_master_id: '7035'
-    singer_name: 松本 梨香
-    singer_alias:
-    available_date: '2006-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きせき
-    singer_name_ruby: まつもとりか
-    song_variation:
-    - esong_code: 1573A22
-      song_name: KISEKI
-      content_type: ''
   - song_name: キセキ
     song_alias:
     esong_code: 1590A7
@@ -125,6 +74,23 @@ result:
     song_variation:
     - esong_code: 1590A7
       song_name: キセキ
+      content_type: ''
+  - song_name: KISEKI
+    song_alias:
+    esong_code: 1573A22
+    t_singer_master_id: '7035'
+    singer_name: 松本 梨香
+    singer_alias:
+    available_date: '2006-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きせき
+    singer_name_ruby: まつもとりか
+    song_variation:
+    - esong_code: 1573A22
+      song_name: KISEKI
       content_type: ''
   - song_name: Kicks!! feat.MOOMIN
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1513B6
       song_name: 君の夢を聞けば
+      content_type: ''
+  - song_name: 君はボクの青空
+    song_alias:
+    esong_code: 1624B44
+    t_singer_master_id: '1677'
+    singer_name: 渚のオールスターズ
+    singer_alias:
+    available_date: '2006-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみはほくのあおそ
+    singer_name_ruby: なきさのおるすた
+    song_variation:
+    - esong_code: 1624B44
+      song_name: 君はボクの青空
+      content_type: ''
+  - song_name: 君を離さない
+    song_alias:
+    esong_code: 1579B36
+    t_singer_master_id: '870'
+    singer_name: 米米CLUB
+    singer_alias:
+    available_date: '2006-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみをはなさない
+    singer_name_ruby: こめこめくらふ
+    song_variation:
+    - esong_code: 1579B36
+      song_name: 君を離さない
       content_type: ''

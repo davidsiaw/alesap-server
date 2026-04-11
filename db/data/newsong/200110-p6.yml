@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 350
-  all_max_cnt: 382
-  all_country_cnt: 350
+  max_cnt: 346
+  all_max_cnt: 378
+  all_country_cnt: 346
   song:
-  - song_name: 知覧の母〜ホタル〜
-    song_alias:
-    esong_code: 602A35
-    t_singer_master_id: '6322'
-    singer_name: 歌川 二三子
-    singer_alias:
-    available_date: '2001-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちらんのははほたる
-    singer_name_ruby: うたかわふみこ
-    song_variation:
-    - esong_code: 602A35
-      song_name: 知覧の母〜ホタル〜
-      content_type: ''
   - song_name: 月の雫 (姿月あさと)
     song_alias:
     esong_code: 691A36
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 693B24
       song_name: travellin' man
+      content_type: ''
+  - song_name: とらわれの貧しい心で
+    song_alias:
+    esong_code: 694B22
+    t_singer_master_id: '1801'
+    singer_name: 浜田 省吾
+    singer_alias:
+    available_date: '2001-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とらわれのますしい
+    singer_name_ruby: はまたしようこ
+    song_variation:
+    - esong_code: 694B22
+      song_name: とらわれの貧しい心で
       content_type: ''

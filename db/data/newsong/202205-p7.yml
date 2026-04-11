@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 916
-  all_max_cnt: 1018
-  all_country_cnt: 916
+  max_cnt: 905
+  all_max_cnt: 1007
+  all_country_cnt: 905
   song:
-  - song_name: 気分上々↑↑
-    song_alias:
-    esong_code: 4632A29
-    t_singer_master_id: '69560'
-    singer_name: 96猫、置鮎 龍太郎、千葉 翔也、Lezel
-    singer_alias:
-    available_date: '2022-05-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: パリピ孔明<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きふんしようし
-    singer_name_ruby: くろねこおきあゆりようたろう
-    song_variation:
-    - esong_code: 4632A29
-      song_name: 気分上々↑↑
-      content_type: ''
-  - song_name: 気分上々↑↑ (TV Size)
-    song_alias:
-    esong_code: 4631A40
-    t_singer_master_id: '69560'
-    singer_name: 96猫、置鮎 龍太郎、千葉 翔也、Lezel
-    singer_alias:
-    available_date: '2022-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: パリピ孔明<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きふんしようし
-    singer_name_ruby: くろねこおきあゆりようたろう
-    song_variation:
-    - esong_code: 4631A40
-      song_name: 気分上々↑↑ (TV Size)
-      content_type: ''
   - song_name: 希望を鳴らせ
     song_alias:
     esong_code: 4628A12
@@ -517,3 +483,37 @@ result:
     - esong_code: 4629A23
       song_name: きんぴかコンプリート
       content_type: ''
+  - song_name: キンモクセイ
+    song_alias:
+    esong_code: 4634B23
+    t_singer_master_id: '65951'
+    singer_name: オレンジスパイニクラブ
+    singer_alias:
+    available_date: '2022-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: きんもくせい
+    singer_name_ruby: おれんしすはいにくらふ
+    song_variation:
+    - esong_code: 4634B23
+      song_name: キンモクセイ
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 金木犀 feat.Ado
+    song_alias:
+    esong_code: 4637A18
+    t_singer_master_id: '68361'
+    singer_name: くじら
+    singer_alias:
+    available_date: '2022-05-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: きんもくせい
+    singer_name_ruby: くしら
+    song_variation:
+    - esong_code: 4637A18
+      song_name: 金木犀 feat.Ado
+      content_type: VOCALOID

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: 風をさがして
-    song_alias:
-    esong_code: 2482B32
-    t_singer_master_id: '38351'
-    singer_name: 矢口 真里とストローハット
-    singer_alias:
-    available_date: '2010-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ONE PIECE<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: かせをさかして
-    singer_name_ruby: やくちまりとすとろはつと
-    song_variation:
-    - esong_code: 2482B32
-      song_name: 風をさがして
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 片思イノ想イカタ
-    song_alias:
-    esong_code: 2463A30
-    t_singer_master_id: '38627'
-    singer_name: JAMIL
-    singer_alias:
-    available_date: '2010-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かたおもいのおもいか
-    singer_name_ruby: しやみる
-    song_variation:
-    - esong_code: 2463A30
-      song_name: 片思イノ想イカタ
-      content_type: ''
   - song_name: 片蔭
     song_alias:
     esong_code: 2468A8
@@ -517,3 +483,37 @@ result:
     - esong_code: 2470A34
       song_name: 鬼太郎大山音頭
       content_type: ''
+  - song_name: きっとStand by you
+    song_alias:
+    esong_code: 2479B2
+    t_singer_master_id: '18397'
+    singer_name: 清水 愛
+    singer_alias:
+    available_date: '2010-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 魔法少女リリカルなのは<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きつとすたんとは
+    singer_name_ruby: しみすあい
+    song_variation:
+    - esong_code: 2479B2
+      song_name: きっとStand by you
+      content_type: ''
+  - song_name: 汽笛 feat.重音テト
+    song_alias:
+    esong_code: 2479B30
+    t_singer_master_id: '37586'
+    singer_name: 耳ロボP
+    singer_alias:
+    available_date: '2010-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: きてき
+    singer_name_ruby: みみろほひ
+    song_variation:
+    - esong_code: 2479B30
+      song_name: 汽笛 feat.重音テト
+      content_type: VOCALOID

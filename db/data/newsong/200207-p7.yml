@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 577
-  all_max_cnt: 650
-  all_country_cnt: 577
+  max_cnt: 574
+  all_max_cnt: 647
+  all_country_cnt: 574
   song:
   - song_name: 下町の上、山の手の下
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 393A19
       song_name: シュガー
       content_type: ''
-  - song_name: 19ベストメドレー
-    song_alias:
-    esong_code: 125B47
-    t_singer_master_id: '8805'
-    singer_name: '19'
-    singer_alias:
-    available_date: '2002-07-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆくへすとめ
-    singer_name_ruby: しゆく
-    song_variation:
-    - esong_code: 125B47
-      song_name: 19ベストメドレー
-      content_type: ''
   - song_name: 19ベストメドレーVol.2
     song_alias:
     esong_code: 125B48
@@ -261,6 +244,23 @@ result:
     song_variation:
     - esong_code: 125B48
       song_name: 19ベストメドレーVol.2
+      content_type: ''
+  - song_name: 19ベストメドレー
+    song_alias:
+    esong_code: 125B47
+    t_singer_master_id: '8805'
+    singer_name: '19'
+    singer_alias:
+    available_date: '2002-07-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆくへすとめ
+    singer_name_ruby: しゆく
+    song_variation:
+    - esong_code: 125B47
+      song_name: 19ベストメドレー
       content_type: ''
   - song_name: Shooting Star
     song_alias:
@@ -508,7 +508,7 @@ result:
     singer_alias:
     available_date: '2002-07-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: アイドル・プロジェクト 第1期<番組名>
+    tie_up: アイドル・プロジェクト<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しんしゆいろろまん

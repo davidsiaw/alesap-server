@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: Tell Your World
-    song_alias:
-    esong_code: 2789B4
-    t_singer_master_id: '45595'
-    singer_name: livetune feat.初音ミク
-    singer_alias:
-    available_date: '2012-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: てるゆあわると
-    singer_name_ruby: らいふちゆんふいちやりんくは
-    song_variation:
-    - esong_code: 2789B4
-      song_name: Tell Your World
-      content_type: VOCALOID
-  - song_name: テレキャスターの真実
-    song_alias:
-    esong_code: 2807B13
-    t_singer_master_id: '31843'
-    singer_name: 凛として時雨
-    singer_alias:
-    available_date: '2012-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てれきやすたのしん
-    singer_name_ruby: りんとしてしくれ
-    song_variation:
-    - esong_code: 2807B13
-      song_name: テレキャスターの真実
-      content_type: ''
   - song_name: 手をつないで
     song_alias:
     esong_code: 2804A5
@@ -219,7 +185,7 @@ result:
     singer_alias:
     available_date: '2012-06-03'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂'<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とうけんきようえい
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2804A43
       song_name: 時空を越えて
+      content_type: ''
+  - song_name: 独眼
+    song_alias:
+    esong_code: 2803B20
+    t_singer_master_id: '40524'
+    singer_name: 我羇道
+    singer_alias:
+    available_date: '2012-06-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とくかん
+    singer_name_ruby: かきとう
+    song_variation:
+    - esong_code: 2803B20
+      song_name: 独眼
+      content_type: ''
+  - song_name: 図書館にて
+    song_alias:
+    esong_code: 2803B38
+    t_singer_master_id: '946'
+    singer_name: さだ まさし
+    singer_alias:
+    available_date: '2012-06-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: としよかんにて
+    singer_name_ruby: さたまさし
+    song_variation:
+    - esong_code: 2803B38
+      song_name: 図書館にて
       content_type: ''

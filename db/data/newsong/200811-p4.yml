@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1132
-  all_country_cnt: 1023
+  max_cnt: 1015
+  all_max_cnt: 1124
+  all_country_cnt: 1015
   song:
   - song_name: WAY
     song_alias:
@@ -364,23 +364,6 @@ result:
     - esong_code: 2170A18
       song_name: ESCAPE
       content_type: ''
-  - song_name: Eternally (Drama Mix)
-    song_alias:
-    esong_code: 2158B17
-    t_singer_master_id: '8713'
-    singer_name: 宇多田 ヒカル
-    singer_alias:
-    available_date: '2008-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えたなり
-    singer_name_ruby: うたたひかる
-    song_variation:
-    - esong_code: 2158B17
-      song_name: Eternally (Drama Mix)
-      content_type: ''
   - song_name: Eternally
     song_alias:
     esong_code: 2179B44
@@ -398,6 +381,23 @@ result:
     - esong_code: 2179B44
       song_name: Eternally
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Eternally (Drama Mix)
+    song_alias:
+    esong_code: 2158B17
+    t_singer_master_id: '8713'
+    singer_name: 宇多田 ヒカル
+    singer_alias:
+    available_date: '2008-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えたなり
+    singer_name_ruby: うたたひかる
+    song_variation:
+    - esong_code: 2158B17
+      song_name: Eternally (Drama Mix)
+      content_type: ''
   - song_name: X (Live Version)
     song_alias:
     esong_code: 2161B4

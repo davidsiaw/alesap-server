@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 776
-  all_max_cnt: 829
-  all_country_cnt: 776
+  max_cnt: 761
+  all_max_cnt: 814
+  all_country_cnt: 761
   song:
   - song_name: あなたなしでは生きてゆけない
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 403B7
       song_name: 雨が上がれば夏が始まる
       content_type: ''
-  - song_name: 雨の修善寺
-    song_alias:
-    esong_code: 400A6
-    t_singer_master_id: '2363'
-    singer_name: 宮 史郎
-    singer_alias:
-    available_date: '2004-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あめのしゆせんし
-    singer_name_ruby: みやしろう
-    song_variation:
-    - esong_code: 400A6
-      song_name: 雨の修善寺
-      content_type: DAM生音
   - song_name: 雨の肖像
     song_alias:
     esong_code: 312A45
@@ -228,23 +211,6 @@ result:
     - esong_code: 393A9
       song_name: ありがとう
       content_type: ''
-  - song_name: ありがとう・・・感謝
-    song_alias:
-    esong_code: 395B10
-    t_singer_master_id: '824'
-    singer_name: 小金沢 昇司
-    singer_alias:
-    available_date: '2004-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ありかとうかんしや
-    singer_name_ruby: こかねさわしようし
-    song_variation:
-    - esong_code: 395B10
-      song_name: ありがとう・・・感謝
-      content_type: DAM生音
   - song_name: ありがとうのうた
     song_alias:
     esong_code: 365B5
@@ -517,3 +483,37 @@ result:
     - esong_code: 460B13
       song_name: 言えないグッバイ
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: イエローキャブリオーレ
+    song_alias:
+    esong_code: 403B14
+    t_singer_master_id: '11112'
+    singer_name: CHARCOAL FILTER
+    singer_alias:
+    available_date: '2004-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いえろきやふりお
+    singer_name_ruby: ちやこるふいるた
+    song_variation:
+    - esong_code: 403B14
+      song_name: イエローキャブリオーレ
+      content_type: ''
+  - song_name: I-KA-NI-MO
+    song_alias:
+    esong_code: 409A8
+    t_singer_master_id: '13139'
+    singer_name: RYO the SKYWALKER
+    singer_alias:
+    available_date: '2004-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いかにも
+    singer_name_ruby: りようさすかいうおか
+    song_variation:
+    - esong_code: 409A8
+      song_name: I-KA-NI-MO
+      content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1114
-  all_max_cnt: 1275
-  all_country_cnt: 1114
+  max_cnt: 1110
+  all_max_cnt: 1271
+  all_country_cnt: 1110
   song:
   - song_name: サンキュ.
     song_alias:
@@ -160,23 +160,6 @@ result:
     - esong_code: 3387A46
       song_name: サンバクロース
       content_type: ''
-  - song_name: 364ピースのジャーニー feat.ギャラ子
-    song_alias:
-    esong_code: 3384B10
-    t_singer_master_id: '52476'
-    singer_name: 美音
-    singer_alias:
-    available_date: '2015-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: さんひやくろくし
-    singer_name_ruby: みおん
-    song_variation:
-    - esong_code: 3384B10
-      song_name: 364ピースのジャーニー feat.ギャラ子
-      content_type: VOCALOID
   - song_name: '365'
     song_alias:
     esong_code: 3384A13
@@ -194,6 +177,23 @@ result:
     - esong_code: 3384A13
       song_name: '365'
       content_type: ''
+  - song_name: 364ピースのジャーニー feat.ギャラ子
+    song_alias:
+    esong_code: 3384B10
+    t_singer_master_id: '52476'
+    singer_name: 美音
+    singer_alias:
+    available_date: '2015-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: さんひやくろくし
+    singer_name_ruby: みおん
+    song_variation:
+    - esong_code: 3384B10
+      song_name: 364ピースのジャーニー feat.ギャラ子
+      content_type: VOCALOID
   - song_name: 幸せなら手をたたこう
     song_alias:
     esong_code: 3386B5

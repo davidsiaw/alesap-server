@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1179
-  all_max_cnt: 1291
-  all_country_cnt: 1179
+  max_cnt: 1177
+  all_max_cnt: 1289
+  all_country_cnt: 1177
   song:
-  - song_name: 待ちわびて
-    song_alias:
-    esong_code: 1897A47
-    t_singer_master_id: '48170'
-    singer_name: 野村 未奈(三代目コロムビア・ローズ 野村未奈)
-    singer_alias:
-    available_date: '2008-07-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まちわひて
-    singer_name_ruby: のむらみな
-    song_variation:
-    - esong_code: 1897A47
-      song_name: 待ちわびて
-      content_type: ''
-  - song_name: 真っ赤っ赤じゃん
-    song_alias:
-    esong_code: 2047B41
-    t_singer_master_id: '33525'
-    singer_name: KEMUMAKI
-    singer_alias:
-    available_date: '2008-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まつかつかしやん
-    singer_name_ruby: けむまき
-    song_variation:
-    - esong_code: 2047B41
-      song_name: 真っ赤っ赤じゃん
-      content_type: ''
-  - song_name: 真っ白な君のスケッチ
-    song_alias:
-    esong_code: 2038B7
-    t_singer_master_id: '33432'
-    singer_name: 雪月
-    singer_alias:
-    available_date: '2008-07-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まつしろなきみのすけ
-    singer_name_ruby: せつけつ
-    song_variation:
-    - esong_code: 2038B7
-      song_name: 真っ白な君のスケッチ
-      content_type: ''
   - song_name: 眩しくて
     song_alias:
     esong_code: 2050B42
@@ -338,7 +287,7 @@ result:
     singer_alias:
     available_date: '2008-07-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・エターニア THE ANIMATION<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: みらいからのほうき
@@ -500,6 +449,23 @@ result:
     - esong_code: 2037A26
       song_name: むらさき川
       content_type: ''
+  - song_name: むらさき川
+    song_alias:
+    esong_code: 1928B46
+    t_singer_master_id: '1905'
+    singer_name: 平岡 チカ(平岡千佳)
+    singer_alias:
+    available_date: '2008-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: むらさきかわ
+    singer_name_ruby: ひらおかちか
+    song_variation:
+    - esong_code: 1928B46
+      song_name: むらさき川
+      content_type: ''
   - song_name: ムラサキノチョウタチヨ
     song_alias:
     esong_code: 2050A25
@@ -517,3 +483,37 @@ result:
     - esong_code: 2050A25
       song_name: ムラサキノチョウタチヨ
       content_type: ''
+  - song_name: Moon Crying
+    song_alias:
+    esong_code: 2042B5
+    t_singer_master_id: '12005'
+    singer_name: 倖田 來未
+    singer_alias:
+    available_date: '2008-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: むんくらいんく
+    singer_name_ruby: こうたくみ
+    song_variation:
+    - esong_code: 2042B5
+      song_name: Moon Crying
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: Make my day
+    song_alias:
+    esong_code: 2042A46
+    t_singer_master_id: '31713'
+    singer_name: 新垣 結衣
+    singer_alias:
+    available_date: '2008-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: めいくまいてい
+    singer_name_ruby: あらかきゆい
+    song_variation:
+    - esong_code: 2042A46
+      song_name: Make my day
+      content_type: DAMｸﾘｯﾌﾟ

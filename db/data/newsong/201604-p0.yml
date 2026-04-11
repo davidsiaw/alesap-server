@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1545
-  all_max_cnt: 1718
-  all_country_cnt: 1545
+  max_cnt: 1530
+  all_max_cnt: 1703
+  all_country_cnt: 1530
   song:
   - song_name: ああ上野駅 「名演ギター 斉藤 功」
     song_alias:
@@ -227,23 +227,6 @@ result:
     song_variation:
     - esong_code: 3430A28
       song_name: 愛するあした
-      content_type: ''
-  - song_name: あいそづかし
-    song_alias:
-    esong_code: 2088A46
-    t_singer_master_id: '306'
-    singer_name: 梅沢 富美男
-    singer_alias:
-    available_date: '2016-04-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいそつかし
-    singer_name_ruby: うめさわとみお
-    song_variation:
-    - esong_code: 2088A46
-      song_name: あいそづかし
       content_type: ''
   - song_name: 愛に出会い恋は続く
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 3119A45
       song_name: アイム・ア・ビリーバー
       content_type: JOY生演奏
+  - song_name: アイ・ラヴ札幌
+    song_alias:
+    esong_code: 2088A49
+    t_singer_master_id: '144'
+    singer_name: アントニオ古賀
+    singer_alias:
+    available_date: '2016-04-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいらふさつほろ
+    singer_name_ruby: あんとにおこか
+    song_variation:
+    - esong_code: 2088A49
+      song_name: アイ・ラヴ札幌
+      content_type: ''

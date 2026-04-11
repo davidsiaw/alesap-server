@@ -3,44 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 999
-  all_max_cnt: 1121
-  all_country_cnt: 999
+  max_cnt: 992
+  all_max_cnt: 1112
+  all_country_cnt: 992
   song:
-  - song_name: Sakura
+  - song_name: SAKURA -ハルヲウタワネバダ-
     song_alias:
-    esong_code: 2301A26
-    t_singer_master_id: '15968'
-    singer_name: レミオロメン
+    esong_code: 2311B21
+    t_singer_master_id: '34254'
+    singer_name: 矢島美容室
     singer_alias:
-    available_date: '2009-04-01'
+    available_date: '2009-04-14'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: さくら
-    singer_name_ruby: れみおろめん
+    singer_name_ruby: やしまひようしつ
     song_variation:
-    - esong_code: 2301A26
-      song_name: Sakura
+    - esong_code: 2311B21
+      song_name: SAKURA -ハルヲウタワネバダ-
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Sakura
+  - song_name: 櫻
     song_alias:
-    esong_code: 2291B29
-    t_singer_master_id: '15968'
-    singer_name: レミオロメン
+    esong_code: 2292A29
+    t_singer_master_id: '14625'
+    singer_name: ACKEE&SALTFISH
     singer_alias:
-    available_date: '2009-04-07'
+    available_date: '2009-04-14'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type:
     song_name_ruby: さくら
-    singer_name_ruby: れみおろめん
+    singer_name_ruby: あきあんさふいつしゆ
     song_variation:
-    - esong_code: 2291B29
-      song_name: Sakura
-      content_type: DAM生音
+    - esong_code: 2292A29
+      song_name: 櫻
+      content_type: ''
   - song_name: 桜雨
     song_alias:
     esong_code: 2296B1
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: Summer rain
     song_alias:
-    esong_code: 2284B5
-    t_singer_master_id: '12187'
-    singer_name: コブクロ
-    singer_alias:
-    available_date: '2009-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: クロスゲーム<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さまれいん
-    singer_name_ruby: こふくろ
-    song_variation:
-    - esong_code: 2284B5
-      song_name: Summer rain
-      content_type: ''
-  - song_name: Summer rain
-    song_alias:
     esong_code: 2308A39
     t_singer_master_id: '12187'
     singer_name: コブクロ
@@ -279,6 +262,23 @@ result:
     - esong_code: 2308A39
       song_name: Summer rain
       content_type: DAM生音
+  - song_name: Summer rain
+    song_alias:
+    esong_code: 2284B5
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
+    singer_alias:
+    available_date: '2009-04-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: クロスゲーム<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さまれいん
+    singer_name_ruby: こふくろ
+    song_variation:
+    - esong_code: 2284B5
+      song_name: Summer rain
+      content_type: ''
   - song_name: Someday
     song_alias:
     esong_code: 2284B4
@@ -296,23 +296,6 @@ result:
     - esong_code: 2284B4
       song_name: Someday
       content_type: ''
-  - song_name: サヨナラ
-    song_alias:
-    esong_code: 2034B3
-    t_singer_master_id: '28417'
-    singer_name: 鶴
-    singer_alias:
-    available_date: '2009-04-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよなら
-    singer_name_ruby: つる
-    song_variation:
-    - esong_code: 2034B3
-      song_name: サヨナラ
-      content_type: ''
   - song_name: さよなら
     song_alias:
     esong_code: 2202B37
@@ -329,6 +312,23 @@ result:
     song_variation:
     - esong_code: 2202B37
       song_name: さよなら
+      content_type: ''
+  - song_name: サヨナラ
+    song_alias:
+    esong_code: 2034B3
+    t_singer_master_id: '28417'
+    singer_name: 鶴
+    singer_alias:
+    available_date: '2009-04-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよなら
+    singer_name_ruby: つる
+    song_variation:
+    - esong_code: 2034B3
+      song_name: サヨナラ
       content_type: ''
   - song_name: さよならデイジーチェイン
     song_alias:

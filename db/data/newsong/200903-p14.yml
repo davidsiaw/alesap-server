@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
+  - song_name: 桜道
+    song_alias:
+    esong_code: 2256A43
+    t_singer_master_id: '30198'
+    singer_name: 九州男
+    singer_alias:
+    available_date: '2009-03-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらみち
+    singer_name_ruby: くすお
+    song_variation:
+    - esong_code: 2256A43
+      song_name: 桜道
+      content_type: ''
   - song_name: さくら物語
     song_alias:
     esong_code: 2285A16
@@ -162,21 +179,21 @@ result:
       content_type: ''
   - song_name: THE NEXT DOOR
     song_alias:
-    esong_code: 2254A28
+    esong_code: 2294B11
     t_singer_master_id: '12895'
     singer_name: EXILE
     singer_alias:
-    available_date: '2009-03-05'
+    available_date: '2009-03-24'
     end_date: '2999-04-10 00:00:00'
     tie_up: ストリートファイター<番組名>
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: さねくすととあ
     singer_name_ruby: えくさいる
     song_variation:
-    - esong_code: 2254A28
+    - esong_code: 2294B11
       song_name: THE NEXT DOOR
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: THE NEXT DOOR
     song_alias:
     esong_code: 2281A20
@@ -196,21 +213,21 @@ result:
       content_type: DAM良音
   - song_name: THE NEXT DOOR
     song_alias:
-    esong_code: 2294B11
+    esong_code: 2254A28
     t_singer_master_id: '12895'
     singer_name: EXILE
     singer_alias:
-    available_date: '2009-03-24'
+    available_date: '2009-03-05'
     end_date: '2999-04-10 00:00:00'
     tie_up: ストリートファイター<番組名>
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: さねくすととあ
     singer_name_ruby: えくさいる
     song_variation:
-    - esong_code: 2294B11
+    - esong_code: 2254A28
       song_name: THE NEXT DOOR
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: Survivor
     song_alias:
     esong_code: 2255B37
@@ -296,9 +313,9 @@ result:
     - esong_code: 2269B36
       song_name: Summer Groovin'
       content_type: ''
-  - song_name: サマータイムブルース (Album Ver.)
+  - song_name: サマータイムブルース
     song_alias:
-    esong_code: 2275B22
+    esong_code: 127A6
     t_singer_master_id: '2651'
     singer_name: 渡辺 美里
     singer_alias:
@@ -310,8 +327,8 @@ result:
     song_name_ruby: さまたいむふる
     singer_name_ruby: わたなへみさと
     song_variation:
-    - esong_code: 2275B22
-      song_name: サマータイムブルース (Album Ver.)
+    - esong_code: 127A6
+      song_name: サマータイムブルース
       content_type: ''
   - song_name: 淋しさを抱きしめて
     song_alias:
@@ -438,7 +455,7 @@ result:
     t_singer_master_id: '15583'
     singer_name: サイキックラバー
     singer_alias:
-    available_date: '2009-03-17'
+    available_date: '2009-03-18'
     end_date: '2999-04-10 00:00:00'
     tie_up: 侍戦隊シンケンジャー<番組名>
     country_code: '0'
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2265A14
       song_name: サヨナラ
-      content_type: ''
-  - song_name: サヨナラと云わないで
-    song_alias:
-    esong_code: 2259B9
-    t_singer_master_id: '36188'
-    singer_name: 大橋 節夫
-    singer_alias:
-    available_date: '2009-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならといわないて
-    singer_name_ruby: おおはしせつお
-    song_variation:
-    - esong_code: 2259B9
-      song_name: サヨナラと云わないで
       content_type: ''

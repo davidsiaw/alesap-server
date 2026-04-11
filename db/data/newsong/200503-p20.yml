@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 759
-  all_max_cnt: 802
-  all_country_cnt: 759
+  max_cnt: 760
+  all_max_cnt: 803
+  all_country_cnt: 760
   song:
+  - song_name: ブレーメン featuring CHANNEL, K.I.N. CUEZERO
+    song_alias:
+    esong_code: 676A43
+    t_singer_master_id: '20787'
+    singer_name: マボロシ
+    singer_alias:
+    available_date: '2005-03-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふれめん
+    singer_name_ruby: まほろし
+    song_variation:
+    - esong_code: 676A43
+      song_name: ブレーメン featuring CHANNEL, K.I.N. CUEZERO
+      content_type: ''
   - song_name: flowin' 〜浮雲〜
     song_alias:
     esong_code: 655B45
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 663A32
       song_name: ホメられると伸びるタイプ
-      content_type: ''
-  - song_name: ほら急げ
-    song_alias:
-    esong_code: 594A49
-    t_singer_master_id: '6297'
-    singer_name: ウルフルズ
-    singer_alias:
-    available_date: '2005-03-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほらいそけ
-    singer_name_ruby: うるふるす
-    song_variation:
-    - esong_code: 594A49
-      song_name: ほら急げ
       content_type: ''

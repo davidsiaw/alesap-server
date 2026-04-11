@@ -7,6 +7,23 @@ result:
   all_max_cnt: 1753
   all_country_cnt: 1570
   song:
+  - song_name: determination
+    song_alias:
+    esong_code: 3056B8
+    t_singer_master_id: '48060'
+    singer_name: ユウノウミ/イザベル
+    singer_alias:
+    available_date: '2013-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方紅魔郷 〜the Embodiment of Scarlet Devil<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: ていたみねいしよ
+    singer_name_ruby: ゆうのうみいさへる
+    song_variation:
+    - esong_code: 3056B8
+      song_name: determination
+      content_type: 東方
   - song_name: Tic Toc
     song_alias:
     esong_code: 3054B16
@@ -92,23 +109,6 @@ result:
     - esong_code: 3063B44
       song_name: Ding Dong
       content_type: ''
-  - song_name: てがみ
-    song_alias:
-    esong_code: 3057A21
-    t_singer_master_id: '13882'
-    singer_name: HY
-    singer_alias:
-    available_date: '2013-06-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: てかみ
-    singer_name_ruby: えいちわい
-    song_variation:
-    - esong_code: 3057A21
-      song_name: てがみ
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 手紙
     song_alias:
     esong_code: 3057B42
@@ -126,6 +126,23 @@ result:
     - esong_code: 3057B42
       song_name: 手紙
       content_type: DAM生音
+  - song_name: てがみ
+    song_alias:
+    esong_code: 3057A21
+    t_singer_master_id: '13882'
+    singer_name: HY
+    singer_alias:
+    available_date: '2013-06-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: てかみ
+    singer_name_ruby: えいちわい
+    song_variation:
+    - esong_code: 3057A21
+      song_name: てがみ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 手紙
     song_alias:
     esong_code: 3058A10
@@ -468,23 +485,6 @@ result:
       content_type: DAM生音
   - song_name: 東京パラダイス
     song_alias:
-    esong_code: 3058A15
-    t_singer_master_id: '40197'
-    singer_name: レーモンド松屋
-    singer_alias:
-    available_date: '2013-06-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: とうきようはらた
-    singer_name_ruby: れもんとまつや
-    song_variation:
-    - esong_code: 3058A15
-      song_name: 東京パラダイス
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 東京パラダイス
-    song_alias:
     esong_code: 2840B30
     t_singer_master_id: '40197'
     singer_name: レーモンド松屋
@@ -500,20 +500,20 @@ result:
     - esong_code: 2840B30
       song_name: 東京パラダイス
       content_type: ''
-  - song_name: 東京わかれ道 〜東京の空ある限り〜
+  - song_name: 東京パラダイス
     song_alias:
-    esong_code: 1419A10
-    t_singer_master_id: '2193'
-    singer_name: 増位山 太志郎&長沢 薫
+    esong_code: 3058A15
+    t_singer_master_id: '40197'
+    singer_name: レーモンド松屋
     singer_alias:
-    available_date: '2013-06-30'
+    available_date: '2013-06-25'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: とうきようわかれみち
-    singer_name_ruby: ますいやまたいしろうなかさわ
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: とうきようはらた
+    singer_name_ruby: れもんとまつや
     song_variation:
-    - esong_code: 1419A10
-      song_name: 東京わかれ道 〜東京の空ある限り〜
-      content_type: ''
+    - esong_code: 3058A15
+      song_name: 東京パラダイス
+      content_type: DAMﾌﾟﾛｵｹ

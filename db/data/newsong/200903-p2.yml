@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
   - song_name: Apple pie
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 2188A13
       song_name: "【atmosphere】"
       content_type: ''
-  - song_name: あなた 「名演ピアノ 美野 春樹」
-    song_alias:
-    esong_code: 2262B44
-    t_singer_master_id: '829'
-    singer_name: 小坂 明子
-    singer_alias:
-    available_date: '2009-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなた
-    singer_name_ruby: こさかあきこ
-    song_variation:
-    - esong_code: 2262B44
-      song_name: あなた 「名演ピアノ 美野 春樹」
-      content_type: ''
   - song_name: あなた
     song_alias:
     esong_code: 2264A26
@@ -91,6 +74,23 @@ result:
     song_variation:
     - esong_code: 2264A26
       song_name: あなた
+      content_type: ''
+  - song_name: あなた 「名演ピアノ 美野 春樹」
+    song_alias:
+    esong_code: 2262B44
+    t_singer_master_id: '829'
+    singer_name: 小坂 明子
+    singer_alias:
+    available_date: '2009-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなた
+    singer_name_ruby: こさかあきこ
+    song_variation:
+    - esong_code: 2262B44
+      song_name: あなた 「名演ピアノ 美野 春樹」
       content_type: ''
   - song_name: あなたがここにいたら
     song_alias:
@@ -296,7 +296,7 @@ result:
     - esong_code: 2275B46
       song_name: あまいやまい feat.椎名林檎
       content_type: ''
-  - song_name: 雨音子 (全英語詞)
+  - song_name: 雨音子
     song_alias:
     esong_code: 2264B17
     t_singer_master_id: '21655'
@@ -311,7 +311,7 @@ result:
     singer_name_ruby: らつとういんふす
     song_variation:
     - esong_code: 2264B17
-      song_name: 雨音子 (全英語詞)
+      song_name: 雨音子
       content_type: ''
   - song_name: 雨
     song_alias:

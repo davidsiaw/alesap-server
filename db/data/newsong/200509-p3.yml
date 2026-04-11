@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 754
-  all_max_cnt: 832
-  all_country_cnt: 754
+  max_cnt: 749
+  all_max_cnt: 827
+  all_country_cnt: 749
   song:
-  - song_name: 永遠
-    song_alias:
-    esong_code: 1365A41
-    t_singer_master_id: '16235'
-    singer_name: 宮本 駿一
-    singer_alias:
-    available_date: '2005-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えいえん
-    singer_name_ruby: みやもとしゆんいち
-    song_variation:
-    - esong_code: 1365A41
-      song_name: 永遠
-      content_type: ''
   - song_name: Asian Night
     song_alias:
     esong_code: 1368A36
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1372B22
       song_name: オニピカハート
+      content_type: ''
+  - song_name: オ・ネ・ガ・イRADIO
+    song_alias:
+    esong_code: 1123A7
+    t_singer_master_id: '1462'
+    singer_name: TUBE
+    singer_alias:
+    available_date: '2005-09-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おねかいらしお
+    singer_name_ruby: ちゆふ
+    song_variation:
+    - esong_code: 1123A7
+      song_name: オ・ネ・ガ・イRADIO
       content_type: ''

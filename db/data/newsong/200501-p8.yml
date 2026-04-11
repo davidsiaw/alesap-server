@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 304
-  all_max_cnt: 323
-  all_country_cnt: 304
+  max_cnt: 302
+  all_max_cnt: 321
+  all_country_cnt: 302
   song:
-  - song_name: For the future
-    song_alias:
-    esong_code: 628A38
-    t_singer_master_id: '10226'
-    singer_name: Do As Infinity
-    singer_alias:
-    available_date: '2005-01-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふおさふいちや
-    singer_name_ruby: とうあすいんふいにてい
-    song_variation:
-    - esong_code: 628A38
-      song_name: For the future
-      content_type: ''
   - song_name: Fortune
     song_alias:
     esong_code: 574A41
@@ -41,23 +24,6 @@ result:
     - esong_code: 574A41
       song_name: Fortune
       content_type: DAM良音
-  - song_name: Fortune
-    song_alias:
-    esong_code: 438A12
-    t_singer_master_id: '15560'
-    singer_name: 玉置 成実
-    singer_alias:
-    available_date: '2005-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ラジアータストーリーズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふおちゆん
-    singer_name_ruby: たまきなみ
-    song_variation:
-    - esong_code: 438A12
-      song_name: Fortune
-      content_type: ''
   - song_name: ふたりの愛染橋
     song_alias:
     esong_code: 720A44
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 420A2
       song_name: みなと終着駅
+      content_type: ''
+  - song_name: 未来永劫の太陽の下で
+    song_alias:
+    esong_code: 319B32
+    t_singer_master_id: '16349'
+    singer_name: コーガニズムオーケストラ
+    singer_alias:
+    available_date: '2005-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みらいえいこうのた
+    singer_name_ruby: こかにすむおけすとら
+    song_variation:
+    - esong_code: 319B32
+      song_name: 未来永劫の太陽の下で
+      content_type: ''
+  - song_name: ミラクル・ボディに御用心！
+    song_alias:
+    esong_code: 218B48
+    t_singer_master_id: '7671'
+    singer_name: 川菜 翠&貝田 由里子
+    singer_alias:
+    available_date: '2005-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: VS騎士ラムネ&40炎<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: みらくるほていに
+    singer_name_ruby: かわなみとりかいた
+    song_variation:
+    - esong_code: 218B48
+      song_name: ミラクル・ボディに御用心！
       content_type: ''

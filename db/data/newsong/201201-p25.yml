@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
-  - song_name: HIGH AND MIGHTY ISLAND
-    song_alias:
-    esong_code: 2751A48
-    t_singer_master_id: '41321'
-    singer_name: ギルド
-    singer_alias:
-    available_date: '2012-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はいあんとまいてい
-    singer_name_ruby: きると
-    song_variation:
-    - esong_code: 2751A48
-      song_name: HIGH AND MIGHTY ISLAND
-      content_type: ''
   - song_name: 灰色の水曜日
     song_alias:
     esong_code: 2742A20
@@ -517,3 +500,20 @@ result:
     - esong_code: 2739A25
       song_name: 花ぼうろ 〜霧氷の宿〜
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 花ぼうろ 〜霧氷の宿〜
+    song_alias:
+    esong_code: 2739B46
+    t_singer_master_id: '595'
+    singer_name: 川中 美幸
+    singer_alias:
+    available_date: '2012-01-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: はなほうろ
+    singer_name_ruby: かわなかみゆき
+    song_variation:
+    - esong_code: 2739B46
+      song_name: 花ぼうろ 〜霧氷の宿〜
+      content_type: DAMﾌﾟﾛｵｹ

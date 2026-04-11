@@ -3,43 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 891
-  all_max_cnt: 987
-  all_country_cnt: 891
+  max_cnt: 848
+  all_max_cnt: 943
+  all_country_cnt: 848
   song:
-  - song_name: いつか かなう 夢
+  - song_name: IT'S A BOP
     song_alias:
-    esong_code: 4592B38
-    t_singer_master_id: '68634'
-    singer_name: 9-tie
+    esong_code: 4594B38
+    t_singer_master_id: '14858'
+    singer_name: OCTOPUS
     singer_alias:
-    available_date: '2022-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: SELECTION PROJECT<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつかかなうゆめ
-    singer_name_ruby: きゆてい
-    song_variation:
-    - esong_code: 4592B38
-      song_name: いつか かなう 夢
-      content_type: ''
-  - song_name: 一周目の冬
-    song_alias:
-    esong_code: 4600A5
-    t_singer_master_id: '63862'
-    singer_name: 安斉 かれん
-    singer_alias:
-    available_date: '2022-02-14'
+    available_date: '2022-02-09'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: いつしゆうめのふゆ
-    singer_name_ruby: あんさいかれん
+    song_name_ruby: いつつあはつふ
+    singer_name_ruby: おくとはす
     song_variation:
-    - esong_code: 4600A5
-      song_name: 一周目の冬
+    - esong_code: 4594B38
+      song_name: IT'S A BOP
       content_type: ''
   - song_name: IT'S A BOP
     song_alias:
@@ -58,23 +41,6 @@ result:
     - esong_code: 4599B29
       song_name: IT'S A BOP
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: IT'S A BOP
-    song_alias:
-    esong_code: 4594B38
-    t_singer_master_id: '14858'
-    singer_name: OCTOPUS
-    singer_alias:
-    available_date: '2022-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつつあはつふ
-    singer_name_ruby: おくとはす
-    song_variation:
-    - esong_code: 4594B38
-      song_name: IT'S A BOP
-      content_type: ''
   - song_name: いつの間にSunrise
     song_alias:
     esong_code: 4592B48
@@ -176,23 +142,6 @@ result:
     song_variation:
     - esong_code: 4599B14
       song_name: Irregular Battle
-      content_type: ''
-  - song_name: 色塗
-    song_alias:
-    esong_code: 4593B39
-    t_singer_master_id: '68402'
-    singer_name: ヒトリヨブランコ
-    singer_alias:
-    available_date: '2022-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いろぬり
-    singer_name_ruby: ひとりよふらんこ
-    song_variation:
-    - esong_code: 4593B39
-      song_name: 色塗
       content_type: ''
   - song_name: インク
     song_alias:
@@ -517,3 +466,54 @@ result:
     - esong_code: 4598B9
       song_name: EGOIST
       content_type: ''
+  - song_name: Anytime, Anywhere
+    song_alias:
+    esong_code: 4603B46
+    t_singer_master_id: '43218'
+    singer_name: 私立恵比寿中学
+    singer_alias:
+    available_date: '2022-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えにいたいむえにいう
+    singer_name_ruby: しりつえひすちゆうかく
+    song_variation:
+    - esong_code: 4603B46
+      song_name: Anytime, Anywhere
+      content_type: ''
+  - song_name: EVERBLUE
+    song_alias:
+    esong_code: 4596A32
+    t_singer_master_id: '59545'
+    singer_name: Omoinotake
+    singer_alias:
+    available_date: '2022-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ブルーピリオド<番組名>
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: えはふる
+    singer_name_ruby: おもいのたけ
+    song_variation:
+    - esong_code: 4596A32
+      song_name: EVERBLUE
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: EVERBLUE
+    song_alias:
+    esong_code: 4585B29
+    t_singer_master_id: '59545'
+    singer_name: Omoinotake
+    singer_alias:
+    available_date: '2022-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ブルーピリオド<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: えはふる
+    singer_name_ruby: おもいのたけ
+    song_variation:
+    - esong_code: 4585B29
+      song_name: EVERBLUE
+      content_type: DAM生音

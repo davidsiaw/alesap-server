@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 916
-  all_max_cnt: 1018
-  all_country_cnt: 916
+  max_cnt: 905
+  all_max_cnt: 1007
+  all_country_cnt: 905
   song:
-  - song_name: 青を掬う
-    song_alias:
-    esong_code: 4638B28
-    t_singer_master_id: '67796'
-    singer_name: あたらよ
-    singer_alias:
-    available_date: '2022-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あおをすくう
-    singer_name_ruby: あたらよ
-    song_variation:
-    - esong_code: 4638B28
-      song_name: 青を掬う
-      content_type: ''
   - song_name: 赤い糸
     song_alias:
     esong_code: 4314A40
@@ -77,23 +60,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 悪魔の子
     song_alias:
-    esong_code: 4631B32
-    t_singer_master_id: '49974'
-    singer_name: ヒグチ アイ
-    singer_alias:
-    available_date: '2022-05-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 進撃の巨人<番組名>
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: あくまのこ
-    singer_name_ruby: ひくちあい
-    song_variation:
-    - esong_code: 4631B32
-      song_name: 悪魔の子
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 悪魔の子
-    song_alias:
     esong_code: 4634B4
     t_singer_master_id: '49974'
     singer_name: ヒグチ アイ
@@ -109,6 +75,23 @@ result:
     - esong_code: 4634B4
       song_name: 悪魔の子
       content_type: DAM生音
+  - song_name: 悪魔の子
+    song_alias:
+    esong_code: 4631B32
+    t_singer_master_id: '49974'
+    singer_name: ヒグチ アイ
+    singer_alias:
+    available_date: '2022-05-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 進撃の巨人<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: あくまのこ
+    singer_name_ruby: ひくちあい
+    song_variation:
+    - esong_code: 4631B32
+      song_name: 悪魔の子
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: AGAIN
     song_alias:
     esong_code: 4632B4
@@ -230,23 +213,6 @@ result:
       content_type: ''
   - song_name: ASOBO
     song_alias:
-    esong_code: 4627B7
-    t_singer_master_id: '66678'
-    singer_name: NiziU
-    singer_alias:
-    available_date: '2022-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あそほ
-    singer_name_ruby: にしゆ
-    song_variation:
-    - esong_code: 4627B7
-      song_name: ASOBO
-      content_type: ''
-  - song_name: ASOBO
-    song_alias:
     esong_code: 4634A48
     t_singer_master_id: '66678'
     singer_name: NiziU
@@ -262,6 +228,23 @@ result:
     - esong_code: 4634A48
       song_name: ASOBO
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: ASOBO
+    song_alias:
+    esong_code: 4627B7
+    t_singer_master_id: '66678'
+    singer_name: NiziU
+    singer_alias:
+    available_date: '2022-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あそほ
+    singer_name_ruby: にしゆ
+    song_variation:
+    - esong_code: 4627B7
+      song_name: ASOBO
+      content_type: ''
   - song_name: ASOBO -English ver.-
     song_alias:
     esong_code: 4632B46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4634B47
       song_name: 雨の夜と月の光
+      content_type: ''
+  - song_name: A little bit UP!!
+    song_alias:
+    esong_code: 4632A13
+    t_singer_master_id: '57753'
+    singer_name: Switch
+    singer_alias:
+    available_date: '2022-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: あんさんぶるスターズ!(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありとるひつとあつ
+    singer_name_ruby: すういつち
+    song_variation:
+    - esong_code: 4632A13
+      song_name: A little bit UP!!
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1496
-  all_max_cnt: 1667
-  all_country_cnt: 1496
+  max_cnt: 1487
+  all_max_cnt: 1658
+  all_country_cnt: 1487
   song:
   - song_name: 朝色の紙飛行機 feat.GUMI
     song_alias:
@@ -296,6 +296,23 @@ result:
     - esong_code: 3431A38
       song_name: あの日のさよなら
       content_type: ''
+  - song_name: あの故郷
+    song_alias:
+    esong_code: 874A32
+    t_singer_master_id: '31533'
+    singer_name: 新庄 正
+    singer_alias:
+    available_date: '2015-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あのふるさと
+    singer_name_ruby: しんしようたたし
+    song_variation:
+    - esong_code: 874A32
+      song_name: あの故郷
+      content_type: ''
   - song_name: アビーロードの青い空
     song_alias:
     esong_code: 3423A6
@@ -417,23 +434,6 @@ result:
       content_type: ''
   - song_name: 雨がたり
     song_alias:
-    esong_code: 3282B11
-    t_singer_master_id: '1683'
-    singer_name: 夏木 綾子
-    singer_alias:
-    available_date: '2015-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あめかたり
-    singer_name_ruby: なつきあやこ
-    song_variation:
-    - esong_code: 3282B11
-      song_name: 雨がたり
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 雨がたり
-    song_alias:
     esong_code: 852A25
     t_singer_master_id: '1683'
     singer_name: 夏木 綾子
@@ -449,6 +449,23 @@ result:
     - esong_code: 852A25
       song_name: 雨がたり
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 雨がたり
+    song_alias:
+    esong_code: 3282B11
+    t_singer_master_id: '1683'
+    singer_name: 夏木 綾子
+    singer_alias:
+    available_date: '2015-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あめかたり
+    singer_name_ruby: なつきあやこ
+    song_variation:
+    - esong_code: 3282B11
+      song_name: 雨がたり
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 雨の鎌倉
     song_alias:
     esong_code: 833B35
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3415B43
       song_name: 雨のパンセ
-      content_type: ''
-  - song_name: 雨の港町
-    song_alias:
-    esong_code: 851A35
-    t_singer_master_id: '2419'
-    singer_name: 森 昌子
-    singer_alias:
-    available_date: '2015-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめのみなとまち
-    singer_name_ruby: もりまさこ
-    song_variation:
-    - esong_code: 851A35
-      song_name: 雨の港町
       content_type: ''

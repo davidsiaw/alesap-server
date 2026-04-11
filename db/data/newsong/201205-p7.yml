@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1347
-  all_country_cnt: 1229
+  max_cnt: 1222
+  all_max_cnt: 1339
+  all_country_cnt: 1222
   song:
-  - song_name: おしりの山はエベレスト (放送バージョン)
-    song_alias:
-    esong_code: 592A31
-    t_singer_master_id: '44714'
-    singer_name: おしりかじり虫
-    singer_alias:
-    available_date: '2012-05-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みんなのうた<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おしりのやまはえへ
-    singer_name_ruby: おしりかしりむし
-    song_variation:
-    - esong_code: 592A31
-      song_name: おしりの山はエベレスト (放送バージョン)
-      content_type: ''
   - song_name: oath sign
     song_alias:
     esong_code: 2800B29
@@ -77,23 +60,6 @@ result:
       content_type: VOCALOID
   - song_name: Oppa, Oppa
     song_alias:
-    esong_code: 920A3
-    t_singer_master_id: '44645'
-    singer_name: SUPER JUNIOR-D&E
-    singer_alias:
-    available_date: '2012-05-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: おつはおつは
-    singer_name_ruby: すはしゆにあていあんとい
-    song_variation:
-    - esong_code: 920A3
-      song_name: Oppa, Oppa
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Oppa, Oppa
-    song_alias:
     esong_code: 876A43
     t_singer_master_id: '44645'
     singer_name: SUPER JUNIOR-D&E
@@ -109,6 +75,23 @@ result:
     - esong_code: 876A43
       song_name: Oppa, Oppa
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Oppa, Oppa
+    song_alias:
+    esong_code: 920A3
+    t_singer_master_id: '44645'
+    singer_name: SUPER JUNIOR-D&E
+    singer_alias:
+    available_date: '2012-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: おつはおつは
+    singer_name_ruby: すはしゆにあていあんとい
+    song_variation:
+    - esong_code: 920A3
+      song_name: Oppa, Oppa
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 男の生き方
     song_alias:
     esong_code: 602B6
@@ -196,6 +179,40 @@ result:
       content_type: ''
   - song_name: おとこ星
     song_alias:
+    esong_code: 1573B11
+    t_singer_master_id: '8773'
+    singer_name: 和田 青児
+    singer_alias:
+    available_date: '2012-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこほし
+    singer_name_ruby: わたせいし
+    song_variation:
+    - esong_code: 1573B11
+      song_name: おとこ星
+      content_type: ''
+  - song_name: おとこ星
+    song_alias:
+    esong_code: 1226B23
+    t_singer_master_id: '8773'
+    singer_name: 和田 青児
+    singer_alias:
+    available_date: '2012-05-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おとこほし
+    singer_name_ruby: わたせいし
+    song_variation:
+    - esong_code: 1226B23
+      song_name: おとこ星
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: おとこ星
+    song_alias:
     esong_code: 805B7
     t_singer_master_id: '8773'
     singer_name: 和田 青児
@@ -228,40 +245,6 @@ result:
     - esong_code: 812B14
       song_name: おとこ星
       content_type: DAM生音
-  - song_name: おとこ星
-    song_alias:
-    esong_code: 1226B23
-    t_singer_master_id: '8773'
-    singer_name: 和田 青児
-    singer_alias:
-    available_date: '2012-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おとこほし
-    singer_name_ruby: わたせいし
-    song_variation:
-    - esong_code: 1226B23
-      song_name: おとこ星
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: おとこ星
-    song_alias:
-    esong_code: 1573B11
-    t_singer_master_id: '8773'
-    singer_name: 和田 青児
-    singer_alias:
-    available_date: '2012-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこほし
-    singer_name_ruby: わたせいし
-    song_variation:
-    - esong_code: 1573B11
-      song_name: おとこ星
-      content_type: ''
   - song_name: 男山笠
     song_alias:
     esong_code: 689A19
@@ -434,23 +417,6 @@ result:
       content_type: VOCALOID
   - song_name: OH!!!!迷惑!!!!
     song_alias:
-    esong_code: 2796A46
-    t_singer_master_id: '28788'
-    singer_name: GReeeeN
-    singer_alias:
-    available_date: '2012-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おめいわく
-    singer_name_ruby: くりん
-    song_variation:
-    - esong_code: 2796A46
-      song_name: OH!!!!迷惑!!!!
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: OH!!!!迷惑!!!!
-    song_alias:
     esong_code: 32B21
     t_singer_master_id: '28788'
     singer_name: GReeeeN
@@ -466,6 +432,23 @@ result:
     - esong_code: 32B21
       song_name: OH!!!!迷惑!!!!
       content_type: ''
+  - song_name: OH!!!!迷惑!!!!
+    song_alias:
+    esong_code: 2796A46
+    t_singer_master_id: '28788'
+    singer_name: GReeeeN
+    singer_alias:
+    available_date: '2012-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おめいわく
+    singer_name_ruby: くりん
+    song_variation:
+    - esong_code: 2796A46
+      song_name: OH!!!!迷惑!!!!
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 思い出すなら
     song_alias:
     esong_code: 411A29
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 516B44
       song_name: 想イ出カケラ
+      content_type: ''
+  - song_name: 想い出達の舞踏会
+    song_alias:
+    esong_code: 508B43
+    t_singer_master_id: '386'
+    singer_name: 太田 裕美
+    singer_alias:
+    available_date: '2012-05-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいてたちのふ
+    singer_name_ruby: おおたひろみ
+    song_variation:
+    - esong_code: 508B43
+      song_name: 想い出達の舞踏会
       content_type: ''

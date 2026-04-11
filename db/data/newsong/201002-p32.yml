@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
   - song_name: Reflection
     song_alias:
@@ -434,23 +434,6 @@ result:
       content_type: ''
   - song_name: Lost Boy
     song_alias:
-    esong_code: 2468B19
-    t_singer_master_id: '22681'
-    singer_name: SEAMO(シーモネーター)
-    singer_alias:
-    available_date: '2010-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 怪談レストラン<番組名>
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: ろすとほい
-    singer_name_ruby: しも
-    song_variation:
-    - esong_code: 2468B19
-      song_name: Lost Boy
-      content_type: DAM良音
-  - song_name: Lost Boy
-    song_alias:
     esong_code: 2468B18
     t_singer_master_id: '22681'
     singer_name: SEAMO(シーモネーター)
@@ -466,6 +449,23 @@ result:
     - esong_code: 2468B18
       song_name: Lost Boy
       content_type: ''
+  - song_name: Lost Boy
+    song_alias:
+    esong_code: 2468B19
+    t_singer_master_id: '22681'
+    singer_name: SEAMO(シーモネーター)
+    singer_alias:
+    available_date: '2010-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 怪談レストラン<番組名>
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: ろすとほい
+    singer_name_ruby: しも
+    song_variation:
+    - esong_code: 2468B19
+      song_name: Lost Boy
+      content_type: DAM良音
   - song_name: Lost Love Song
     song_alias:
     esong_code: 2469A46

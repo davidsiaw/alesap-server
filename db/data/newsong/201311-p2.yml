@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
   - song_name: 秋月の女(ひと)
     song_alias:
@@ -75,23 +75,6 @@ result:
     - esong_code: 3148B11
       song_name: UGLY DUCK'S WILL
       content_type: ''
-  - song_name: アゲアゲアゲイン feat.初音ミク (Opening Ver.)
-    song_alias:
-    esong_code: 3140B43
-    t_singer_master_id: '43386'
-    singer_name: Mitchie M
-    singer_alias:
-    available_date: '2013-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: あけあけあけい
-    singer_name_ruby: みつちえむ
-    song_variation:
-    - esong_code: 3140B43
-      song_name: アゲアゲアゲイン feat.初音ミク (Opening Ver.)
-      content_type: VOCALOID
   - song_name: アゲアゲアゲイン feat.初音ミク
     song_alias:
     esong_code: 3137B9
@@ -108,6 +91,23 @@ result:
     song_variation:
     - esong_code: 3137B9
       song_name: アゲアゲアゲイン feat.初音ミク
+      content_type: VOCALOID
+  - song_name: アゲアゲアゲイン feat.初音ミク (Opening Ver.)
+    song_alias:
+    esong_code: 3140B43
+    t_singer_master_id: '43386'
+    singer_name: Mitchie M
+    singer_alias:
+    available_date: '2013-11-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: あけあけあけい
+    singer_name_ruby: みつちえむ
+    song_variation:
+    - esong_code: 3140B43
+      song_name: アゲアゲアゲイン feat.初音ミク (Opening Ver.)
       content_type: VOCALOID
   - song_name: アゲアゲチ金フライデー 〜FRIDAY AGAIN〜
     song_alias:
@@ -210,6 +210,23 @@ result:
     song_variation:
     - esong_code: 3140A25
       song_name: 明日に着がえたら
+      content_type: ''
+  - song_name: 明日も
+    song_alias:
+    esong_code: 3145A43
+    t_singer_master_id: '49304'
+    singer_name: MUSH&Co.
+    singer_alias:
+    available_date: '2013-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あしたも
+    singer_name_ruby: まつしゆあんとこ
+    song_variation:
+    - esong_code: 3145A43
+      song_name: 明日も
       content_type: ''
   - song_name: 明日も晴れたら
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3135B49
       song_name: あとひとつ
-      content_type: ''
-  - song_name: あなた
-    song_alias:
-    esong_code: 1658B27
-    t_singer_master_id: '49277'
-    singer_name: 志衣 歩
-    singer_alias:
-    available_date: '2013-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなた
-    singer_name_ruby: しいあゆみ
-    song_variation:
-    - esong_code: 1658B27
-      song_name: あなた
       content_type: ''

@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: リンゴントウ
-    song_alias:
-    esong_code: 2529A36
-    t_singer_master_id: '34924'
-    singer_name: 横山 だいすけ&三谷 たくみ
-    singer_alias:
-    available_date: '2012-06-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おかあさんといっしょ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: りんこんとう
-    singer_name_ruby: よこやまたいすけみたにたく
-    song_variation:
-    - esong_code: 2529A36
-      song_name: リンゴントウ
-      content_type: ''
-  - song_name: lose-lose
-    song_alias:
-    esong_code: 2522A8
-    t_singer_master_id: '41572'
-    singer_name: 板野 友美(AKB48)
-    singer_alias:
-    available_date: '2012-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: るするす
-    singer_name_ruby: いたのともみ
-    song_variation:
-    - esong_code: 2522A8
-      song_name: lose-lose
-      content_type: ''
-  - song_name: ルラリラ
-    song_alias:
-    esong_code: 2807A7
-    t_singer_master_id: '20364'
-    singer_name: SUPER EIGHT
-    singer_alias:
-    available_date: '2012-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: るらりら
-    singer_name_ruby: すはえいとかんしやにえいと
-    song_variation:
-    - esong_code: 2807A7
-      song_name: ルラリラ
-      content_type: ''
   - song_name: LAZY LOVE GUILTY LOVE
     song_alias:
     esong_code: 2535A40
@@ -304,7 +253,7 @@ result:
     singer_alias:
     available_date: '2012-06-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ろまあんていか
@@ -381,23 +330,6 @@ result:
     - esong_code: 2810A14
       song_name: 若いマドロスさん
       content_type: ''
-  - song_name: 忘れない
-    song_alias:
-    esong_code: 2798A21
-    t_singer_master_id: '37225'
-    singer_name: 永坂 清志
-    singer_alias:
-    available_date: '2012-06-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: わすれない
-    singer_name_ruby: なかさかきよし
-    song_variation:
-    - esong_code: 2798A21
-      song_name: 忘れない
-      content_type: ''
   - song_name: わすれない
     song_alias:
     esong_code: 2800B18
@@ -415,6 +347,23 @@ result:
     - esong_code: 2800B18
       song_name: わすれない
       content_type: DAM生音
+  - song_name: 忘れない
+    song_alias:
+    esong_code: 2798A21
+    t_singer_master_id: '37225'
+    singer_name: 永坂 清志
+    singer_alias:
+    available_date: '2012-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わすれない
+    singer_name_ruby: なかさかきよし
+    song_variation:
+    - esong_code: 2798A21
+      song_name: 忘れない
+      content_type: ''
   - song_name: わすれない
     song_alias:
     esong_code: 2806B14
@@ -485,23 +434,6 @@ result:
       content_type: ''
   - song_name: 私たち
     song_alias:
-    esong_code: 2799B31
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2012-06-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: わたしたち
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 2799B31
-      song_name: 私たち
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 私たち
-    song_alias:
     esong_code: 2800A16
     t_singer_master_id: '32267'
     singer_name: 西野 カナ
@@ -517,3 +449,71 @@ result:
     - esong_code: 2800A16
       song_name: 私たち
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 私たち
+    song_alias:
+    esong_code: 2799B31
+    t_singer_master_id: '32267'
+    singer_name: 西野 カナ
+    singer_alias:
+    available_date: '2012-06-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: わたしたち
+    singer_name_ruby: にしのかな
+    song_variation:
+    - esong_code: 2799B31
+      song_name: 私たち
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 私の生きる意味
+    song_alias:
+    esong_code: 2798B13
+    t_singer_master_id: '31776'
+    singer_name: Daisy×Daisy
+    singer_alias:
+    available_date: '2012-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わたしのいきるいみ
+    singer_name_ruby: ていしていし
+    song_variation:
+    - esong_code: 2798B13
+      song_name: 私の生きる意味
+      content_type: ''
+  - song_name: わちゃ喜界一番
+    song_alias:
+    esong_code: 2799A14
+    t_singer_master_id: '45091'
+    singer_name: 作 まゆみ
+    singer_alias:
+    available_date: '2012-06-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わちやしまいちはん
+    singer_name_ruby: さくまゆみ
+    song_variation:
+    - esong_code: 2799A14
+      song_name: わちゃ喜界一番
+      content_type: ''
+  - song_name: 笑ってサンバ
+    song_alias:
+    esong_code: 2797B12
+    t_singer_master_id: '30065'
+    singer_name: モナオ(唐沢亮)
+    singer_alias:
+    available_date: '2012-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わらつてさんは
+    singer_name_ruby: もなお
+    song_variation:
+    - esong_code: 2797B12
+      song_name: 笑ってサンバ
+      content_type: ''

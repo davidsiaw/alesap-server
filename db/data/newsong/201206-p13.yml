@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: クラスメイト
-    song_alias:
-    esong_code: 2809B42
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '2012-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらすめいと
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 2809B42
-      song_name: クラスメイト
-      content_type: ''
   - song_name: CRYSTAL SNOW
     song_alias:
     esong_code: 2798B22
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1678B33
       song_name: 恋する乙女は
+      content_type: ''
+  - song_name: 恋する季節
+    song_alias:
+    esong_code: 2146A44
+    t_singer_master_id: '45048'
+    singer_name: てれび戦士2012
+    singer_alias:
+    available_date: '2012-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 天才てれびくん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいするきせつ
+    singer_name_ruby: てれひせんし2012
+    song_variation:
+    - esong_code: 2146A44
+      song_name: 恋する季節
       content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
+  - song_name: 42.195km
+    song_alias:
+    esong_code: 3367B32
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
+    singer_alias:
+    available_date: '2014-12-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: よんしゆうにてんい
+    singer_name_ruby: こふくろ
+    song_variation:
+    - esong_code: 3367B32
+      song_name: 42.195km
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Rise away
     song_alias:
     esong_code: 3367A11
@@ -109,23 +126,6 @@ result:
     - esong_code: 3377B19
       song_name: Rival≒Friend
       content_type: ''
-  - song_name: LIFE
-    song_alias:
-    esong_code: 3371B35
-    t_singer_master_id: '18709'
-    singer_name: 般若
-    singer_alias:
-    available_date: '2014-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らいふ
-    singer_name_ruby: はんにや
-    song_variation:
-    - esong_code: 3371B35
-      song_name: LIFE
-      content_type: ''
   - song_name: Live
     song_alias:
     esong_code: 3374B46
@@ -142,6 +142,23 @@ result:
     song_variation:
     - esong_code: 3374B46
       song_name: Live
+      content_type: ''
+  - song_name: LIFE
+    song_alias:
+    esong_code: 3371B35
+    t_singer_master_id: '18709'
+    singer_name: 般若
+    singer_alias:
+    available_date: '2014-12-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らいふ
+    singer_name_ruby: はんにや
+    song_variation:
+    - esong_code: 3371B35
+      song_name: LIFE
       content_type: ''
   - song_name: Life is Beautiful
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3363B49
       song_name: らりるれろLOVE
-      content_type: ''
-  - song_name: Run in the Rain
-    song_alias:
-    esong_code: 3363A37
-    t_singer_master_id: '2879'
-    singer_name: 遊佐 未森
-    singer_alias:
-    available_date: '2014-12-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らんいんされいん
-    singer_name_ruby: ゆさみもり
-    song_variation:
-    - esong_code: 3363A37
-      song_name: Run in the Rain
       content_type: ''

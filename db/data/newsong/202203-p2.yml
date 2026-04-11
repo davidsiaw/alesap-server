@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1121
-  all_max_cnt: 1204
-  all_country_cnt: 1121
+  max_cnt: 1082
+  all_max_cnt: 1165
+  all_country_cnt: 1082
   song:
-  - song_name: ア・スカイ・フル・オブ・スターズ
-    song_alias:
-    esong_code: 4615A24
-    t_singer_master_id: '32157'
-    singer_name: 大橋 卓弥(from スキマスイッチ)
-    singer_alias:
-    available_date: '2022-03-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: SING/シング:ネクストステージ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすかいふるおふす
-    singer_name_ruby: おおはしたくや
-    song_variation:
-    - esong_code: 4615A24
-      song_name: ア・スカイ・フル・オブ・スターズ
-      content_type: ''
-  - song_name: A Spring Breath
-    song_alias:
-    esong_code: 4606B11
-    t_singer_master_id: '33872'
-    singer_name: flumpool
-    singer_alias:
-    available_date: '2022-03-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あすふりんくふ
-    singer_name_ruby: ふらんふる
-    song_variation:
-    - esong_code: 4606B11
-      song_name: A Spring Breath
-      content_type: ''
   - song_name: As long as I love (with 稲葉浩志)
     song_alias:
     esong_code: 4606B12
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4606B35
       song_name: 甘い予感
+      content_type: ''
+  - song_name: 甘噛み
+    song_alias:
+    esong_code: 4605A38
+    t_singer_master_id: '68757'
+    singer_name: 葛葉(from にじさんじ)
+    singer_alias:
+    available_date: '2022-03-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あまかみ
+    singer_name_ruby: くすは
+    song_variation:
+    - esong_code: 4605A38
+      song_name: 甘噛み
+      content_type: ''
+  - song_name: 雨あがり 「名演ギター 斉藤 功」
+    song_alias:
+    esong_code: 4596B41
+    t_singer_master_id: '1352'
+    singer_name: 田川 寿美
+    singer_alias:
+    available_date: '2022-03-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめあかり
+    singer_name_ruby: たかわとしみ
+    song_variation:
+    - esong_code: 4596B41
+      song_name: 雨あがり 「名演ギター 斉藤 功」
       content_type: ''

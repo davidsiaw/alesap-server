@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1252
-  all_max_cnt: 1433
-  all_country_cnt: 1252
+  max_cnt: 1245
+  all_max_cnt: 1426
+  all_country_cnt: 1245
   song:
-  - song_name: クモ
-    song_alias:
-    esong_code: 3861B17
-    t_singer_master_id: '3079'
-    singer_name: TOKIO
-    singer_alias:
-    available_date: '2017-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くも
-    singer_name_ruby: ときお
-    song_variation:
-    - esong_code: 3861B17
-      song_name: クモ
-      content_type: ''
-  - song_name: 雲と幽霊
-    song_alias:
-    esong_code: 3857B13
-    t_singer_master_id: '59009'
-    singer_name: ヨルシカ
-    singer_alias:
-    available_date: '2017-08-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くもとゆうれい
-    singer_name_ruby: よるしか
-    song_variation:
-    - esong_code: 3857B13
-      song_name: 雲と幽霊
-      content_type: ''
-  - song_name: Cry For You feat.JUNK1 for 4D
-    song_alias:
-    esong_code: 3866B29
-    t_singer_master_id: '59555'
-    singer_name: 馬場 竜也
-    singer_alias:
-    available_date: '2017-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらいふおゆ
-    singer_name_ruby: ははたつや
-    song_variation:
-    - esong_code: 3866B29
-      song_name: Cry For You feat.JUNK1 for 4D
-      content_type: ''
-  - song_name: CLIMAX
-    song_alias:
-    esong_code: 3858B20
-    t_singer_master_id: '54923'
-    singer_name: iKON
-    singer_alias:
-    available_date: '2017-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: くらいまつくす
-    singer_name_ruby: あいこん
-    song_variation:
-    - esong_code: 3858B20
-      song_name: CLIMAX
-      content_type: DAMﾗｲﾌﾞ
   - song_name: Cloudy sky
     song_alias:
     esong_code: 3854B40
@@ -355,7 +287,7 @@ result:
     singer_alias:
     available_date: '2017-08-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL SUPER(超)<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けんかいとつはさ
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 3861B48
       song_name: 恋の川
+      content_type: ''
+  - song_name: 恋のスペルマ (オリカラ)
+    song_alias:
+    esong_code: 3858A21
+    t_singer_master_id: '16062'
+    singer_name: マキシマム ザ ホルモン
+    singer_alias:
+    available_date: '2017-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: こいのすへるま
+    singer_name_ruby: まきしまむさほるもん
+    song_variation:
+    - esong_code: 3858A21
+      song_name: 恋のスペルマ (オリカラ)
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 恋のスペルマ (ナヲちゃんパート歌あり)
+    song_alias:
+    esong_code: 3858A22
+    t_singer_master_id: '16062'
+    singer_name: マキシマム ザ ホルモン
+    singer_alias:
+    available_date: '2017-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: こいのすへるまなを
+    singer_name_ruby: まきしまむさほるもん
+    song_variation:
+    - esong_code: 3858A22
+      song_name: 恋のスペルマ (ナヲちゃんパート歌あり)
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 恋の花に気をつけな
+    song_alias:
+    esong_code: 3856B7
+    t_singer_master_id: '849'
+    singer_name: 小林 旭
+    singer_alias:
+    available_date: '2017-08-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのはなにきをつけ
+    singer_name_ruby: こはやしあきら
+    song_variation:
+    - esong_code: 3856B7
+      song_name: 恋の花に気をつけな
+      content_type: ''
+  - song_name: 恋のフーガ
+    song_alias:
+    esong_code: 3854A9
+    t_singer_master_id: '59388'
+    singer_name: 岩崎 宏美&岩崎 良美
+    singer_alias:
+    available_date: '2017-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのふか
+    singer_name_ruby: いわさきひろみいわさきよしみ
+    song_variation:
+    - esong_code: 3854A9
+      song_name: 恋のフーガ
       content_type: ''

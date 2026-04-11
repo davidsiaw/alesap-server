@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
-  - song_name: 君がいない世界は切なくて feat.KEN THE 390
-    song_alias:
-    esong_code: 3789B23
-    t_singer_master_id: '31065'
-    singer_name: CHIHIRO
-    singer_alias:
-    available_date: '2017-04-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみかいないせかい
-    singer_name_ruby: ちひろ
-    song_variation:
-    - esong_code: 3789B23
-      song_name: 君がいない世界は切なくて feat.KEN THE 390
-      content_type: ''
-  - song_name: 君恋し
-    song_alias:
-    esong_code: 3791A48
-    t_singer_master_id: '2338'
-    singer_name: 三橋 美智也
-    singer_alias:
-    available_date: '2017-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみこいし
-    singer_name_ruby: みはしみちや
-    song_variation:
-    - esong_code: 3791A48
-      song_name: 君恋し
-      content_type: ''
   - song_name: 君という花
     song_alias:
     esong_code: 3793B26
@@ -304,7 +270,7 @@ result:
     singer_alias:
     available_date: '2017-04-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: よりぬけ!銀魂さん過去回想篇<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きようもさくらまうあ
@@ -517,3 +483,37 @@ result:
     - esong_code: 3794B8
       song_name: くちばしにチェリー
       content_type: DAM生音
+  - song_name: くちばしにチェリー
+    song_alias:
+    esong_code: 3792B8
+    t_singer_master_id: '12538'
+    singer_name: EGO-WRAPPIN'
+    singer_alias:
+    available_date: '2017-04-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: くちはしにちえり
+    singer_name_ruby: えこらつひん
+    song_variation:
+    - esong_code: 3792B8
+      song_name: くちばしにチェリー
+      content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 愚痴ばなし
+    song_alias:
+    esong_code: 3792A24
+    t_singer_master_id: '58557'
+    singer_name: 江連 政良
+    singer_alias:
+    available_date: '2017-04-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くちはなし
+    singer_name_ruby: えつれまさよし
+    song_variation:
+    - esong_code: 3792A24
+      song_name: 愚痴ばなし
+      content_type: ''

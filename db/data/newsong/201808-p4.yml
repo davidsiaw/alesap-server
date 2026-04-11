@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1198
-  all_max_cnt: 1367
-  all_country_cnt: 1198
+  max_cnt: 1194
+  all_max_cnt: 1363
+  all_country_cnt: 1194
   song:
-  - song_name: いちばん好きな場所
-    song_alias:
-    esong_code: 4048B4
-    t_singer_master_id: '22748'
-    singer_name: シド
-    singer_alias:
-    available_date: '2018-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いちはんすきなは
-    singer_name_ruby: しと
-    song_variation:
-    - esong_code: 4048B4
-      song_name: いちばん好きな場所
-      content_type: ''
   - song_name: いつか...
     song_alias:
     esong_code: 4048B32
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4039B31
       song_name: WALK (movie ver.)
+      content_type: ''
+  - song_name: ウキウキオトッペ
+    song_alias:
+    esong_code: 4042A46
+    t_singer_master_id: '63242'
+    singer_name: 久野 美咲&オトッペ
+    singer_alias:
+    available_date: '2018-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: オトッペ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うきうきおとつへ
+    singer_name_ruby: くのみさきあんとおとつ
+    song_variation:
+    - esong_code: 4042A46
+      song_name: ウキウキオトッペ
       content_type: ''

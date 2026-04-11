@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1252
-  all_max_cnt: 1433
-  all_country_cnt: 1252
+  max_cnt: 1245
+  all_max_cnt: 1426
+  all_country_cnt: 1245
   song:
-  - song_name: Innocence Eye
-    song_alias:
-    esong_code: 3865A31
-    t_singer_master_id: '41789'
-    singer_name: 水谷 瑠奈(NanosizeMir)
-    singer_alias:
-    available_date: '2017-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Rewrite(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのせんすあい
-    singer_name_ruby: みすたにるな
-    song_variation:
-    - esong_code: 3865A31
-      song_name: Innocence Eye
-      content_type: ''
-  - song_name: 命の花よ (シアター・バージョン)
-    song_alias:
-    esong_code: 3862A12
-    t_singer_master_id: '1994'
-    singer_name: 藤 あや子
-    singer_alias:
-    available_date: '2017-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのちのはなよ
-    singer_name_ruby: ふしあやこ
-    song_variation:
-    - esong_code: 3862A12
-      song_name: 命の花よ (シアター・バージョン)
-      content_type: ''
-  - song_name: 命の花よ
-    song_alias:
-    esong_code: 2240B45
-    t_singer_master_id: '1994'
-    singer_name: 藤 あや子
-    singer_alias:
-    available_date: '2017-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: いのちのはなよ
-    singer_name_ruby: ふしあやこ
-    song_variation:
-    - esong_code: 2240B45
-      song_name: 命の花よ
-      content_type: JOY生演奏
   - song_name: 命の花よ
     song_alias:
     esong_code: 3859B49
@@ -92,6 +41,40 @@ result:
     - esong_code: 2241A1
       song_name: 命の花よ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 命の花よ
+    song_alias:
+    esong_code: 2240B45
+    t_singer_master_id: '1994'
+    singer_name: 藤 あや子
+    singer_alias:
+    available_date: '2017-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: いのちのはなよ
+    singer_name_ruby: ふしあやこ
+    song_variation:
+    - esong_code: 2240B45
+      song_name: 命の花よ
+      content_type: JOY生演奏
+  - song_name: 命の花よ (シアター・バージョン)
+    song_alias:
+    esong_code: 3862A12
+    t_singer_master_id: '1994'
+    singer_name: 藤 あや子
+    singer_alias:
+    available_date: '2017-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのちのはなよ
+    singer_name_ruby: ふしあやこ
+    song_variation:
+    - esong_code: 3862A12
+      song_name: 命の花よ (シアター・バージョン)
+      content_type: ''
   - song_name: 命の別名
     song_alias:
     esong_code: 3859B27
@@ -210,23 +193,6 @@ result:
     song_variation:
     - esong_code: 3856A2
       song_name: いらない感情
-      content_type: ''
-  - song_name: 色づく季節
-    song_alias:
-    esong_code: 3864B36
-    t_singer_master_id: '46879'
-    singer_name: Trignal
-    singer_alias:
-    available_date: '2017-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いろつくきせつ
-    singer_name_ruby: とりくなる
-    song_variation:
-    - esong_code: 3864B36
-      song_name: 色づく季節
       content_type: ''
   - song_name: irodori
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 3858B36
       song_name: 歌 世界を繋ぐ虹の架け橋 (早霧・咲妃...[DAM本人歌唱]
       content_type: DAM本人歌唱
+  - song_name: うた仲間、こい仲間
+    song_alias:
+    esong_code: 3862B38
+    t_singer_master_id: '59499'
+    singer_name: 池上 園美&TOJA
+    singer_alias:
+    available_date: '2017-08-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うたなかまこいなかま
+    singer_name_ruby: いけかみそのみあんととし
+    song_variation:
+    - esong_code: 3862B38
+      song_name: うた仲間、こい仲間
+      content_type: ''
+  - song_name: 歌に恋して
+    song_alias:
+    esong_code: 3684A34
+    t_singer_master_id: '59542'
+    singer_name: 新井 敦子
+    singer_alias:
+    available_date: '2017-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うたにこいして
+    singer_name_ruby: あらいあつこ
+    song_variation:
+    - esong_code: 3684A34
+      song_name: 歌に恋して
+      content_type: ''

@@ -3,129 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1224
-  all_max_cnt: 1364
-  all_country_cnt: 1224
+  max_cnt: 1216
+  all_max_cnt: 1356
+  all_country_cnt: 1216
   song:
-  - song_name: ときめきたいの
-    song_alias:
-    esong_code: 1072A1
-    t_singer_master_id: '809'
-    singer_name: 小泉 今日子
-    singer_alias:
-    available_date: '2014-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ときめきたいの
-    singer_name_ruby: こいすみきようこ
-    song_variation:
-    - esong_code: 1072A1
-      song_name: ときめきたいの
-      content_type: ''
-  - song_name: 徳島の夜〜ぐいぐい
-    song_alias:
-    esong_code: 3303B34
-    t_singer_master_id: '51323'
-    singer_name: とっくりん+MAI
-    singer_alias:
-    available_date: '2014-08-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とくしまのよるくい
-    singer_name_ruby: とつくりんふらすまい
-    song_variation:
-    - esong_code: 3303B34
-      song_name: 徳島の夜〜ぐいぐい
-      content_type: ''
-  - song_name: 何処へでも行く
-    song_alias:
-    esong_code: 3301A13
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '2014-08-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とこへてもいく
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 3301A13
-      song_name: 何処へでも行く
-      content_type: ''
-  - song_name: 土佐のかつお船
-    song_alias:
-    esong_code: 3297B32
-    t_singer_master_id: '495'
-    singer_name: 鏡 五郎
-    singer_alias:
-    available_date: '2014-08-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とさのかつおふね
-    singer_name_ruby: かかみころう
-    song_variation:
-    - esong_code: 3297B32
-      song_name: 土佐のかつお船
-      content_type: ''
-  - song_name: 登山電車のうた
-    song_alias:
-    esong_code: 3312A36
-    t_singer_master_id: '2290'
-    singer_name: 水木 一郎
-    singer_alias:
-    available_date: '2014-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とさんてんしやの
-    singer_name_ruby: みすきいちろう
-    song_variation:
-    - esong_code: 3312A36
-      song_name: 登山電車のうた
-      content_type: ''
-  - song_name: 突然ですが、アイドル始めました feat.GUMI&MAYU
-    song_alias:
-    esong_code: 3307B11
-    t_singer_master_id: '40697'
-    singer_name: ゆちゃP
-    singer_alias:
-    available_date: '2014-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: とつせんてすか
-    singer_name_ruby: ゆちやひ
-    song_variation:
-    - esong_code: 3307B11
-      song_name: 突然ですが、アイドル始めました feat.GUMI&MAYU
-      content_type: VOCALOID
-  - song_name: Top Of The World (THE LOWBROWS Remix)
-    song_alias:
-    esong_code: 3308A23
-    t_singer_master_id: '1255'
-    singer_name: SMAP
-    singer_alias:
-    available_date: '2014-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とつふおふさわ
-    singer_name_ruby: すまつふ
-    song_variation:
-    - esong_code: 3308A23
-      song_name: Top Of The World (THE LOWBROWS Remix)
-      content_type: ''
   - song_name: Top Of The World
     song_alias:
     esong_code: 3310B13
@@ -143,6 +24,23 @@ result:
     - esong_code: 3310B13
       song_name: Top Of The World
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Top Of The World (THE LOWBROWS Remix)
+    song_alias:
+    esong_code: 3308A23
+    t_singer_master_id: '1255'
+    singer_name: SMAP
+    singer_alias:
+    available_date: '2014-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とつふおふさわ
+    singer_name_ruby: すまつふ
+    song_variation:
+    - esong_code: 3308A23
+      song_name: Top Of The World (THE LOWBROWS Remix)
+      content_type: ''
   - song_name: 隣に座る太陽
     song_alias:
     esong_code: 3302B8
@@ -245,43 +143,6 @@ result:
     - esong_code: 3314B1
       song_name: Trigger
       content_type: ''
-  - song_name: DREAMER
-    song_alias:
-    esong_code: 3304B25
-    t_singer_master_id: '51342'
-    singer_name: 奥田 悠一朗
-    singer_alias:
-    available_date: '2014-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とりま
-    singer_name_ruby: おくたゆういちろう
-    song_variation:
-    - esong_code: 3304B25
-      song_name: DREAMER
-      content_type: ''
-  - song_name: Dreamer [オリジナルクリップ]
-    song_alias:
-    esong_code: 3301A2
-    t_singer_master_id: '50601'
-    singer_name: NINJAMAN JAPAN
-    singer_alias:
-    available_date: '2014-08-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: パセラ限定クリップ
-    song_name_ruby: とりま
-    singer_name_ruby: にんしやまんしやはん
-    song_variation:
-    - esong_code: 3301A2
-      song_name: Dreamer [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 3301A2
-      song_name: Dreamer [オリジナルクリップ]
-      content_type: パセラ限定クリップ
   - song_name: Dreamer [オリジナルクリップ]
     song_alias:
     esong_code: 3301A2
@@ -302,6 +163,43 @@ result:
     - esong_code: 3301A2
       song_name: Dreamer [オリジナルクリップ]
       content_type: パセラ限定クリップ
+  - song_name: Dreamer [オリジナルクリップ]
+    song_alias:
+    esong_code: 3301A2
+    t_singer_master_id: '50601'
+    singer_name: NINJAMAN JAPAN
+    singer_alias:
+    available_date: '2014-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: パセラ限定クリップ
+    song_name_ruby: とりま
+    singer_name_ruby: にんしやまんしやはん
+    song_variation:
+    - esong_code: 3301A2
+      song_name: Dreamer [オリジナルクリップ]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    - esong_code: 3301A2
+      song_name: Dreamer [オリジナルクリップ]
+      content_type: パセラ限定クリップ
+  - song_name: DREAMER
+    song_alias:
+    esong_code: 3304B25
+    t_singer_master_id: '51342'
+    singer_name: 奥田 悠一朗
+    singer_alias:
+    available_date: '2014-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりま
+    singer_name_ruby: おくたゆういちろう
+    song_variation:
+    - esong_code: 3304B25
+      song_name: DREAMER
+      content_type: ''
   - song_name: DREAM ARCH
     song_alias:
     esong_code: 3310B19
@@ -523,3 +421,105 @@ result:
     - esong_code: 3304A8
       song_name: 嘆きの音
       content_type: ''
+  - song_name: なさけ大阪
+    song_alias:
+    esong_code: 3311A24
+    t_singer_master_id: '19354'
+    singer_name: 韓 宇景(ハン・ウギョン)
+    singer_alias:
+    available_date: '2014-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なさけおおさか
+    singer_name_ruby: はんうきよん
+    song_variation:
+    - esong_code: 3311A24
+      song_name: なさけ大阪
+      content_type: ''
+  - song_name: 夏の催眠術 (Team M)
+    song_alias:
+    esong_code: 3309B46
+    t_singer_master_id: '42716'
+    singer_name: NMB48
+    singer_alias:
+    available_date: '2014-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なつのさいみんしゆ
+    singer_name_ruby: えぬえむひふおていえいと
+    song_variation:
+    - esong_code: 3309B46
+      song_name: 夏の催眠術 (Team M)
+      content_type: ''
+  - song_name: 夏のトカゲ
+    song_alias:
+    esong_code: 3305A38
+    t_singer_master_id: '30202'
+    singer_name: TOTALFAT
+    singer_alias:
+    available_date: '2014-08-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なつのとかけ
+    singer_name_ruby: とたるふあつと
+    song_variation:
+    - esong_code: 3305A38
+      song_name: 夏のトカゲ
+      content_type: ''
+  - song_name: 夏の日と君の声
+    song_alias:
+    esong_code: 3305A21
+    t_singer_master_id: '42960'
+    singer_name: ChouCho(ちょうちょ)
+    singer_alias:
+    available_date: '2014-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: グラスリップ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: なつのひときみのこえ
+    singer_name_ruby: ちようちよ
+    song_variation:
+    - esong_code: 3305A21
+      song_name: 夏の日と君の声
+      content_type: ''
+  - song_name: 夏のFree&Easy
+    song_alias:
+    esong_code: 3306A19
+    t_singer_master_id: '44213'
+    singer_name: 乃木坂46
+    singer_alias:
+    available_date: '2014-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: なつのふりあんと
+    singer_name_ruby: のきさかふおていしつくす
+    song_variation:
+    - esong_code: 3306A19
+      song_name: 夏のFree&Easy
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 夏のFree&Easy
+    song_alias:
+    esong_code: 3303A30
+    t_singer_master_id: '44213'
+    singer_name: 乃木坂46
+    singer_alias:
+    available_date: '2014-08-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: なつのふりあんと
+    singer_name_ruby: のきさかふおていしつくす
+    song_variation:
+    - esong_code: 3303A30
+      song_name: 夏のFree&Easy
+      content_type: JOYﾎﾞｰｶﾙ

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
-  - song_name: 風たちの午後
-    song_alias:
-    esong_code: 1167B3
-    t_singer_master_id: '2473'
-    singer_name: 山口 百恵
-    singer_alias:
-    available_date: '2006-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせたちのここ
-    singer_name_ruby: やまくちももえ
-    song_variation:
-    - esong_code: 1167B3
-      song_name: 風たちの午後
-      content_type: ''
   - song_name: 風と花と光と
     song_alias:
     esong_code: 1434A19
@@ -196,23 +179,6 @@ result:
       content_type: ''
   - song_name: 悲しき16才
     song_alias:
-    esong_code: 1167B1
-    t_singer_master_id: '2473'
-    singer_name: 山口 百恵
-    singer_alias:
-    available_date: '2006-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしきしゆうろく
-    singer_name_ruby: やまくちももえ
-    song_variation:
-    - esong_code: 1167B1
-      song_name: 悲しき16才
-      content_type: ''
-  - song_name: 悲しき16才
-    song_alias:
     esong_code: 975A20
     t_singer_master_id: '1000'
     singer_name: ザ・ピーナッツ
@@ -226,6 +192,23 @@ result:
     singer_name_ruby: さひなつつ
     song_variation:
     - esong_code: 975A20
+      song_name: 悲しき16才
+      content_type: ''
+  - song_name: 悲しき16才
+    song_alias:
+    esong_code: 1167B1
+    t_singer_master_id: '2473'
+    singer_name: 山口 百恵
+    singer_alias:
+    available_date: '2006-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしきしゆうろく
+    singer_name_ruby: やまくちももえ
+    song_variation:
+    - esong_code: 1167B1
       song_name: 悲しき16才
       content_type: ''
   - song_name: 悲しみのシミかな
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1393B39
       song_name: カランコロンのうた
+      content_type: ''
+  - song_name: カリフォルニアにあこがれて
+    song_alias:
+    esong_code: 1425B46
+    t_singer_master_id: '132'
+    singer_name: アリス
+    singer_alias:
+    available_date: '2006-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かりふおるにあにあこ
+    singer_name_ruby: ありす
+    song_variation:
+    - esong_code: 1425B46
+      song_name: カリフォルニアにあこがれて
       content_type: ''

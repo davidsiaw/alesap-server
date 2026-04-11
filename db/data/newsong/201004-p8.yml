@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 907
-  all_max_cnt: 998
-  all_country_cnt: 907
+  max_cnt: 898
+  all_max_cnt: 989
+  all_country_cnt: 898
   song:
-  - song_name: KEEP ON ROCKIN'
-    song_alias:
-    esong_code: 2510A35
-    t_singer_master_id: '36579'
-    singer_name: THE BAWDIES
-    singer_alias:
-    available_date: '2010-04-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きふおんろつきん
-    singer_name_ruby: さほうていす
-    song_variation:
-    - esong_code: 2510A35
-      song_name: KEEP ON ROCKIN'
-      content_type: ''
-  - song_name: GIFT
-    song_alias:
-    esong_code: 2526A29
-    t_singer_master_id: '33214'
-    singer_name: EMPTY SLOW
-    singer_alias:
-    available_date: '2010-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きふと
-    singer_name_ruby: えんふていすろう
-    song_variation:
-    - esong_code: 2526A29
-      song_name: GIFT
-      content_type: ''
-  - song_name: 希望という名の光
-    song_alias:
-    esong_code: 2502B25
-    t_singer_master_id: '2482'
-    singer_name: 山下 達郎
-    singer_alias:
-    available_date: '2010-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きほうというなのひ
-    singer_name_ruby: やましたたつろう
-    song_variation:
-    - esong_code: 2502B25
-      song_name: 希望という名の光
-      content_type: ''
   - song_name: 希望の夜
     song_alias:
     esong_code: 2501A28
@@ -449,22 +398,22 @@ result:
     - esong_code: 2509A18
       song_name: 金色の目
       content_type: ''
-  - song_name: 禁じられたボレロ
+  - song_name: 銀魂メドレー3
     song_alias:
-    esong_code: 2526B1
-    t_singer_master_id: '26735'
-    singer_name: 斉藤 かず
+    esong_code: 2525B37
+    t_singer_master_id: '24121'
+    singer_name: アニメメドレー
     singer_alias:
-    available_date: '2010-04-20'
+    available_date: '2010-04-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: きんしられたほれ
-    singer_name_ruby: さいとうかす
+    song_name_ruby: きんたまめとれ
+    singer_name_ruby: あにめめとれ
     song_variation:
-    - esong_code: 2526B1
-      song_name: 禁じられたボレロ
+    - esong_code: 2525B37
+      song_name: 銀魂メドレー3
       content_type: ''
   - song_name: 銀魂メドレー2
     song_alias:
@@ -483,23 +432,6 @@ result:
     - esong_code: 2525B36
       song_name: 銀魂メドレー2
       content_type: ''
-  - song_name: 銀魂メドレー3
-    song_alias:
-    esong_code: 2525B37
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2010-04-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きんたまめとれ
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 2525B37
-      song_name: 銀魂メドレー3
-      content_type: ''
   - song_name: 銀木犀
     song_alias:
     esong_code: 2525B7
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 2525B7
       song_name: 銀木犀
+      content_type: ''
+  - song_name: goo
+    song_alias:
+    esong_code: 2526B26
+    t_singer_master_id: '30292'
+    singer_name: モノブライト
+    singer_alias:
+    available_date: '2010-04-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: く
+    singer_name_ruby: ものふらいと
+    song_variation:
+    - esong_code: 2526B26
+      song_name: goo
+      content_type: ''
+  - song_name: GOODTIMEGIRL
+    song_alias:
+    esong_code: 2521B2
+    t_singer_master_id: '24623'
+    singer_name: midnightPumpkin
+    singer_alias:
+    available_date: '2010-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとたいむか
+    singer_name_ruby: みつとないとはんふきん
+    song_variation:
+    - esong_code: 2521B2
+      song_name: GOODTIMEGIRL
+      content_type: ''
+  - song_name: Good Day Good Time
+    song_alias:
+    esong_code: 2521B3
+    t_singer_master_id: '8267'
+    singer_name: m.o.v.e(move)
+    singer_alias:
+    available_date: '2010-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとていく
+    singer_name_ruby: むふ
+    song_variation:
+    - esong_code: 2521B3
+      song_name: Good Day Good Time
+      content_type: ''
+  - song_name: グッドフラストレーション
+    song_alias:
+    esong_code: 2525B26
+    t_singer_master_id: '489'
+    singer_name: KAI FIVE
+    singer_alias:
+    available_date: '2010-04-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとふらすとれ
+    singer_name_ruby: かいふあいふ
+    song_variation:
+    - esong_code: 2525B26
+      song_name: グッドフラストレーション
       content_type: ''

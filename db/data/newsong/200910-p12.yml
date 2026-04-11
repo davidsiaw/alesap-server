@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1099
-  all_max_cnt: 1216
-  all_country_cnt: 1099
+  max_cnt: 1094
+  all_max_cnt: 1211
+  all_country_cnt: 1094
   song:
-  - song_name: こんかい
-    song_alias:
-    esong_code: 2416A23
-    t_singer_master_id: '37988'
-    singer_name: The Rocking Horsemen
-    singer_alias:
-    available_date: '2009-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんかい
-    singer_name_ruby: さろつきんくすほす
-    song_variation:
-    - esong_code: 2416A23
-      song_name: こんかい
-      content_type: ''
   - song_name: 今夜はブギー・バック
     song_alias:
     esong_code: 2426B18
@@ -77,23 +60,6 @@ result:
       content_type: ''
   - song_name: 最後まで
     song_alias:
-    esong_code: 2406A27
-    t_singer_master_id: '24187'
-    singer_name: Aqua Timez
-    singer_alias:
-    available_date: '2009-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: さいこまて
-    singer_name_ruby: あくあたいむす
-    song_variation:
-    - esong_code: 2406A27
-      song_name: 最後まで
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 最後まで
-    song_alias:
     esong_code: 2430B48
     t_singer_master_id: '24187'
     singer_name: Aqua Timez
@@ -109,6 +75,23 @@ result:
     - esong_code: 2430B48
       song_name: 最後まで
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 最後まで
+    song_alias:
+    esong_code: 2406A27
+    t_singer_master_id: '24187'
+    singer_name: Aqua Timez
+    singer_alias:
+    available_date: '2009-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: さいこまて
+    singer_name_ruby: あくあたいむす
+    song_variation:
+    - esong_code: 2406A27
+      song_name: 最後まで
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: さいはて酒場
     song_alias:
     esong_code: 2403B7
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2409B6
       song_name: 侍変形!ダイカイオー
+      content_type: ''
+  - song_name: さよならと君、ハローと僕
+    song_alias:
+    esong_code: 2410A11
+    t_singer_master_id: '16857'
+    singer_name: 安藤 裕子
+    singer_alias:
+    available_date: '2009-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよならときみはろ
+    singer_name_ruby: あんとうゆうこ
+    song_variation:
+    - esong_code: 2410A11
+      song_name: さよならと君、ハローと僕
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: 根室音頭
-    song_alias:
-    esong_code: 3166B47
-    t_singer_master_id: '16011'
-    singer_name: 菊地 登志彦
-    singer_alias:
-    available_date: '2014-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ねむろおんと
-    singer_name_ruby: きくちとしひこ
-    song_variation:
-    - esong_code: 3166B47
-      song_name: 根室音頭
-      content_type: ''
   - song_name: 野バラ
     song_alias:
     esong_code: 3170B49
@@ -434,6 +417,23 @@ result:
       content_type: ''
   - song_name: 花影の女 (ニューバージョン)
     song_alias:
+    esong_code: 2813B27
+    t_singer_master_id: '1449'
+    singer_name: 千葉 一夫
+    singer_alias:
+    available_date: '2014-01-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなかけのひと
+    singer_name_ruby: ちはかすお
+    song_variation:
+    - esong_code: 2813B27
+      song_name: 花影の女 (ニューバージョン)
+      content_type: ''
+  - song_name: 花影の女 (ニューバージョン)
+    song_alias:
     esong_code: 3197B35
     t_singer_master_id: '1449'
     singer_name: 千葉 一夫
@@ -449,23 +449,6 @@ result:
     - esong_code: 3197B35
       song_name: 花影の女 (ニューバージョン)
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 花影の女 (ニューバージョン)
-    song_alias:
-    esong_code: 2813B27
-    t_singer_master_id: '1449'
-    singer_name: 千葉 一夫
-    singer_alias:
-    available_date: '2014-01-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はなかけのひと
-    singer_name_ruby: ちはかすお
-    song_variation:
-    - esong_code: 2813B27
-      song_name: 花影の女 (ニューバージョン)
-      content_type: ''
   - song_name: 花束とスーツ
     song_alias:
     esong_code: 3172B40
@@ -517,3 +500,20 @@ result:
     - esong_code: 3176A43
       song_name: 華の彩は 〜Flowering Light〜
       content_type: 東方
+  - song_name: 華の高槻
+    song_alias:
+    esong_code: 3178A26
+    t_singer_master_id: '14472'
+    singer_name: 結城 彩
+    singer_alias:
+    available_date: '2014-01-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなのたかつき
+    singer_name_ruby: ゆうきあや
+    song_variation:
+    - esong_code: 3178A26
+      song_name: 華の高槻
+      content_type: ''

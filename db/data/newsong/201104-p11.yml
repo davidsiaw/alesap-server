@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
-  - song_name: 君の知らない物語
-    song_alias:
-    esong_code: 1596A20
-    t_singer_master_id: '41949'
-    singer_name: yula.
-    singer_alias:
-    available_date: '2011-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみのしらないものか
-    singer_name_ruby: ゆら
-    song_variation:
-    - esong_code: 1596A20
-      song_name: 君の知らない物語
-      content_type: ''
   - song_name: 君の知らない物語
     song_alias:
     esong_code: 1429A32
@@ -39,6 +22,23 @@ result:
     singer_name_ruby: なかれたふろしえくと
     song_variation:
     - esong_code: 1429A32
+      song_name: 君の知らない物語
+      content_type: ''
+  - song_name: 君の知らない物語
+    song_alias:
+    esong_code: 1596A20
+    t_singer_master_id: '41949'
+    singer_name: yula.
+    singer_alias:
+    available_date: '2011-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのしらないものか
+    singer_name_ruby: ゆら
+    song_variation:
+    - esong_code: 1596A20
       song_name: 君の知らない物語
       content_type: ''
   - song_name: 君の全てを与えて
@@ -151,7 +151,7 @@ result:
     singer_alias:
     available_date: '2011-04-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双3<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きようこうのひかり
@@ -159,6 +159,23 @@ result:
     song_variation:
     - esong_code: 1661A14
       song_name: 暁更之光
+      content_type: ''
+  - song_name: キラキラkawaii! プリキュア大集合♪ 〜いのちの花〜
+    song_alias:
+    esong_code: 1548B48
+    t_singer_master_id: '42192'
+    singer_name: 工藤 真由 feat.五條 真由美&うちやえ ゆか
+    singer_alias:
+    available_date: '2011-04-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 劇場版プリキュアオールスターズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きらきらかわいいふ
+    singer_name_ruby: くとうまゆふいちやりんく
+    song_variation:
+    - esong_code: 1548B48
+      song_name: キラキラkawaii! プリキュア大集合♪ 〜いのちの花〜
       content_type: ''
   - song_name: キラキラkawaii!プリキュア大集合♪-いのちの花-
     song_alias:
@@ -177,23 +194,6 @@ result:
     - esong_code: 1457B27
       song_name: キラキラkawaii!プリキュア大集合♪-いのちの花-
       content_type: JOYうたいり
-  - song_name: キラキラkawaii! プリキュア大集合♪ 〜いのちの花〜
-    song_alias:
-    esong_code: 1548B48
-    t_singer_master_id: '42192'
-    singer_name: 工藤 真由 feat.五條 真由美&うちやえ ゆか
-    singer_alias:
-    available_date: '2011-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 劇場版プリキュアオールスターズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きらきらかわいいふ
-    singer_name_ruby: くとうまゆふいちやりんく
-    song_variation:
-    - esong_code: 1548B48
-      song_name: キラキラkawaii! プリキュア大集合♪ 〜いのちの花〜
-      content_type: ''
   - song_name: キラメクいのち
     song_alias:
     esong_code: 1605A29
@@ -451,23 +451,6 @@ result:
       content_type: ''
   - song_name: GOOD LUCKY!!!!!
     song_alias:
-    esong_code: 1671B35
-    t_singer_master_id: '41795'
-    singer_name: グッキー
-    singer_alias:
-    available_date: '2011-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: くつとらつき
-    singer_name_ruby: くつき
-    song_variation:
-    - esong_code: 1671B35
-      song_name: GOOD LUCKY!!!!!
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: GOOD LUCKY!!!!!
-    song_alias:
     esong_code: 1631B26
     t_singer_master_id: '41795'
     singer_name: グッキー
@@ -483,6 +466,23 @@ result:
     - esong_code: 1631B26
       song_name: GOOD LUCKY!!!!!
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: GOOD LUCKY!!!!!
+    song_alias:
+    esong_code: 1671B35
+    t_singer_master_id: '41795'
+    singer_name: グッキー
+    singer_alias:
+    available_date: '2011-04-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: くつとらつき
+    singer_name_ruby: くつき
+    song_variation:
+    - esong_code: 1671B35
+      song_name: GOOD LUCKY!!!!!
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 汲みとり人生
     song_alias:
     esong_code: 702A48

@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
+  - song_name: 君がいるから
+    song_alias:
+    esong_code: 2440A21
+    t_singer_master_id: '36516'
+    singer_name: THE SxPLAY(菅原紗由理)
+    singer_alias:
+    available_date: '2009-12-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: FINAL FANTASY(ゲーム版)<番組名>
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: きみかいるから
+    singer_name_ruby: さすふれいすかわら
+    song_variation:
+    - esong_code: 2440A21
+      song_name: 君がいるから
+      content_type: DAM良音
+  - song_name: 君がいるから
+    song_alias:
+    esong_code: 2432A44
+    t_singer_master_id: '36516'
+    singer_name: THE SxPLAY(菅原紗由理)
+    singer_alias:
+    available_date: '2009-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: FINAL FANTASY(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみかいるから
+    singer_name_ruby: さすふれいすかわら
+    song_variation:
+    - esong_code: 2432A44
+      song_name: 君がいるから
+      content_type: ''
   - song_name: 君が好き
     song_alias:
     esong_code: 2437A12
@@ -128,23 +162,6 @@ result:
       content_type: JOYｸﾘｯﾌﾟ
   - song_name: 君にサヨナラを
     song_alias:
-    esong_code: 2437A7
-    t_singer_master_id: '774'
-    singer_name: 桑田 佳祐
-    singer_alias:
-    available_date: '2009-12-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみにさよならを
-    singer_name_ruby: くわたけいすけ
-    song_variation:
-    - esong_code: 2437A7
-      song_name: 君にサヨナラを
-      content_type: ''
-  - song_name: 君にサヨナラを
-    song_alias:
     esong_code: 2454A18
     t_singer_master_id: '774'
     singer_name: 桑田 佳祐
@@ -160,6 +177,23 @@ result:
     - esong_code: 2454A18
       song_name: 君にサヨナラを
       content_type: DAM生音
+  - song_name: 君にサヨナラを
+    song_alias:
+    esong_code: 2437A7
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2009-12-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみにさよならを
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 2437A7
+      song_name: 君にサヨナラを
+      content_type: ''
   - song_name: 君のうた
     song_alias:
     esong_code: 2433A5
@@ -253,7 +287,7 @@ result:
     singer_alias:
     available_date: '2009-12-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL KAI(改)<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きゆあ
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 2442A38
       song_name: グッバイ・ブルース
-      content_type: ''
-  - song_name: Quville
-    song_alias:
-    esong_code: 2442A11
-    t_singer_master_id: '33872'
-    singer_name: flumpool
-    singer_alias:
-    available_date: '2009-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くひれ
-    singer_name_ruby: ふらんふる
-    song_variation:
-    - esong_code: 2442A11
-      song_name: Quville
-      content_type: ''
-  - song_name: Cry No More
-    song_alias:
-    esong_code: 2432B14
-    t_singer_master_id: '28262'
-    singer_name: 福原 美穂
-    singer_alias:
-    available_date: '2009-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらいのもあ
-    singer_name_ruby: ふくはらみほ
-    song_variation:
-    - esong_code: 2432B14
-      song_name: Cry No More
       content_type: ''

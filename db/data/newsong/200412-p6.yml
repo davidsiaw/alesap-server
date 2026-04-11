@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 792
-  all_max_cnt: 839
-  all_country_cnt: 792
+  max_cnt: 788
+  all_max_cnt: 835
+  all_country_cnt: 788
   song:
   - song_name: 奇蹟の逆転ファイター (キン肉マンのテーマ)
     song_alias:
@@ -41,23 +41,6 @@ result:
     - esong_code: 568B16
       song_name: 北酒場 (デュエット・バージョン)
       content_type: ''
-  - song_name: ギター侍のうた (家族斬りバージョン)
-    song_alias:
-    esong_code: 194B5
-    t_singer_master_id: '21307'
-    singer_name: 波田 陽区
-    singer_alias:
-    available_date: '2004-12-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたさむらいの
-    singer_name_ruby: はたようく
-    song_variation:
-    - esong_code: 194B5
-      song_name: ギター侍のうた (家族斬りバージョン)
-      content_type: ''
   - song_name: ギター侍のうた (女の子斬りバージョン)
     song_alias:
     esong_code: 184A16
@@ -74,6 +57,23 @@ result:
     song_variation:
     - esong_code: 184A16
       song_name: ギター侍のうた (女の子斬りバージョン)
+      content_type: ''
+  - song_name: ギター侍のうた (家族斬りバージョン)
+    song_alias:
+    esong_code: 194B5
+    t_singer_master_id: '21307'
+    singer_name: 波田 陽区
+    singer_alias:
+    available_date: '2004-12-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたさむらいの
+    singer_name_ruby: はたようく
+    song_variation:
+    - esong_code: 194B5
+      song_name: ギター侍のうた (家族斬りバージョン)
       content_type: ''
   - song_name: きっとサンタが
     song_alias:

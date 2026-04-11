@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1103
-  all_max_cnt: 1154
-  all_country_cnt: 1103
+  max_cnt: 1091
+  all_max_cnt: 1142
+  all_country_cnt: 1091
   song:
-  - song_name: 秋のメルヘン
-    song_alias:
-    esong_code: 1263A43
-    t_singer_master_id: '174'
-    singer_name: 石川 さゆり(SAYURI)
-    singer_alias:
-    available_date: '2005-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: あきのめるへん
-    singer_name_ruby: いしかわさゆり
-    song_variation:
-    - esong_code: 1263A43
-      song_name: 秋のメルヘン
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: AGAIN
     song_alias:
     esong_code: 1274B30
@@ -43,23 +26,6 @@ result:
       content_type: ''
   - song_name: 明けない夜が来ることはない
     song_alias:
-    esong_code: 778A46
-    t_singer_master_id: '2179'
-    singer_name: 槇原 敬之
-    singer_alias:
-    available_date: '2005-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけないよるかくる
-    singer_name_ruby: まきはらのりゆき
-    song_variation:
-    - esong_code: 778A46
-      song_name: 明けない夜が来ることはない
-      content_type: ''
-  - song_name: 明けない夜が来ることはない
-    song_alias:
     esong_code: 1264A36
     t_singer_master_id: '2179'
     singer_name: 槇原 敬之
@@ -75,6 +41,23 @@ result:
     - esong_code: 1264A36
       song_name: 明けない夜が来ることはない
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 明けない夜が来ることはない
+    song_alias:
+    esong_code: 778A46
+    t_singer_master_id: '2179'
+    singer_name: 槇原 敬之
+    singer_alias:
+    available_date: '2005-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あけないよるかくる
+    singer_name_ruby: まきはらのりゆき
+    song_variation:
+    - esong_code: 778A46
+      song_name: 明けない夜が来ることはない
+      content_type: ''
   - song_name: ageha
     song_alias:
     esong_code: 1263A44
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1303B46
       song_name: アフリカのテーマ 風の大地の子守り唄
+      content_type: ''
+  - song_name: あふりらんぽ
+    song_alias:
+    esong_code: 1258B34
+    t_singer_master_id: '23576'
+    singer_name: あふりらんぽ
+    singer_alias:
+    available_date: '2005-06-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あふりらんほ
+    singer_name_ruby: あふりらんほ
+    song_variation:
+    - esong_code: 1258B34
+      song_name: あふりらんぽ
       content_type: ''

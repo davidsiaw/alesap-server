@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: 追憶
+    song_alias:
+    esong_code: 3156B14
+    t_singer_master_id: '32084'
+    singer_name: Kalafina
+    singer_alias:
+    available_date: '2013-12-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ついおく
+    singer_name_ruby: からふいな
+    song_variation:
+    - esong_code: 3156B14
+      song_name: 追憶
+      content_type: ''
   - song_name: 追憶の破片
     song_alias:
     esong_code: 3162B4
@@ -219,7 +236,7 @@ result:
     singer_alias:
     available_date: '2013-12-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神谷浩史・小野大輔のDearGirl 〜Stories〜<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: つむきいと
@@ -247,23 +264,6 @@ result:
       content_type: ''
   - song_name: 石蕗の花
     song_alias:
-    esong_code: 3155A24
-    t_singer_master_id: '2176'
-    singer_name: 真木 ことみ
-    singer_alias:
-    available_date: '2013-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: つわふきのはな
-    singer_name_ruby: まきことみ
-    song_variation:
-    - esong_code: 3155A24
-      song_name: 石蕗の花
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 石蕗の花
-    song_alias:
     esong_code: 2948B2
     t_singer_master_id: '2176'
     singer_name: 真木 ことみ
@@ -279,6 +279,23 @@ result:
     - esong_code: 2948B2
       song_name: 石蕗の花
       content_type: ''
+  - song_name: 石蕗の花
+    song_alias:
+    esong_code: 3155A24
+    t_singer_master_id: '2176'
+    singer_name: 真木 ことみ
+    singer_alias:
+    available_date: '2013-12-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: つわふきのはな
+    singer_name_ruby: まきことみ
+    song_variation:
+    - esong_code: 3155A24
+      song_name: 石蕗の花
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: ツン☆ツン☆ツンデレーション feat.IA
     song_alias:
     esong_code: 3150B20
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3160B5
       song_name: This Is Teenage
-      content_type: ''
-  - song_name: Days Of Wonder (ルシア Ver.Ⅱ)
-    song_alias:
-    esong_code: 3156A21
-    t_singer_master_id: '46251'
-    singer_name: 黒住 憲五
-    singer_alias:
-    available_date: '2013-12-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていすおふわん
-    singer_name_ruby: くろすみけんこ
-    song_variation:
-    - esong_code: 3156A21
-      song_name: Days Of Wonder (ルシア Ver.Ⅱ)
       content_type: ''

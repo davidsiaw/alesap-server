@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: 101回目の呪い
-    song_alias:
-    esong_code: 3197B47
-    t_singer_master_id: '33453'
-    singer_name: ゴールデンボンバー
-    singer_alias:
-    available_date: '2014-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 大合奏!バンドブラザーズP<番組名>
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ひやくいつかいめのの
-    singer_name_ruby: こるてんほんは
-    song_variation:
-    - esong_code: 3197B47
-      song_name: 101回目の呪い
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Beauty Boy
-    song_alias:
-    esong_code: 3203A29
-    t_singer_master_id: '25076'
-    singer_name: 福山 潤
-    singer_alias:
-    available_date: '2014-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ストレンジ・プラス<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひゆていほ
-    singer_name_ruby: ふくやましゆん
-    song_variation:
-    - esong_code: 3203A29
-      song_name: Beauty Boy
-      content_type: ''
   - song_name: Be united
     song_alias:
     esong_code: 3201A7
@@ -60,6 +26,23 @@ result:
       content_type: ''
   - song_name: 平戸雨情
     song_alias:
+    esong_code: 3084B20
+    t_singer_master_id: '2296'
+    singer_name: 水田 竜子
+    singer_alias:
+    available_date: '2014-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひらとうしよう
+    singer_name_ruby: みすたりゆうこ
+    song_variation:
+    - esong_code: 3084B20
+      song_name: 平戸雨情
+      content_type: ''
+  - song_name: 平戸雨情
+    song_alias:
     esong_code: 3206A14
     t_singer_master_id: '2296'
     singer_name: 水田 竜子
@@ -75,23 +58,6 @@ result:
     - esong_code: 3206A14
       song_name: 平戸雨情
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 平戸雨情
-    song_alias:
-    esong_code: 3084B20
-    t_singer_master_id: '2296'
-    singer_name: 水田 竜子
-    singer_alias:
-    available_date: '2014-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひらとうしよう
-    singer_name_ruby: みすたりゆうこ
-    song_variation:
-    - esong_code: 3084B20
-      song_name: 平戸雨情
-      content_type: ''
   - song_name: BELIVE
     song_alias:
     esong_code: 3203B45
@@ -117,7 +83,7 @@ result:
     singer_alias:
     available_date: '2014-02-04'
     end_date: '2999-04-10 00:00:00'
-    tie_up: "「テイルズ・オブ」シリーズ<番組名>"
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ひりふいんゆ
@@ -332,23 +298,6 @@ result:
       content_type: ''
   - song_name: fish
     song_alias:
-    esong_code: 3204B16
-    t_singer_master_id: '35281'
-    singer_name: back number
-    singer_alias:
-    available_date: '2014-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ふいつしゆ
-    singer_name_ruby: はつくなんは
-    song_variation:
-    - esong_code: 3204B16
-      song_name: fish
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: fish
-    song_alias:
     esong_code: 3178A47
     t_singer_master_id: '35281'
     singer_name: back number
@@ -364,6 +313,23 @@ result:
     - esong_code: 3178A47
       song_name: fish
       content_type: ''
+  - song_name: fish
+    song_alias:
+    esong_code: 3204B16
+    t_singer_master_id: '35281'
+    singer_name: back number
+    singer_alias:
+    available_date: '2014-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ふいつしゆ
+    singer_name_ruby: はつくなんは
+    song_variation:
+    - esong_code: 3204B16
+      song_name: fish
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: Feel the love
     song_alias:
     esong_code: 3182B14
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3205B3
       song_name: 福智山笠
+      content_type: ''
+  - song_name: ふしぎの国のおヒメさま
+    song_alias:
+    esong_code: 3207B2
+    t_singer_master_id: '41417'
+    singer_name: 金元 寿子
+    singer_alias:
+    available_date: '2014-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 俺の彼女と幼なじみが修羅場すぎる<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふしきのくにのおひ
+    singer_name_ruby: かねもとひさこ
+    song_variation:
+    - esong_code: 3207B2
+      song_name: ふしぎの国のおヒメさま
+      content_type: ''
+  - song_name: ふたりに乾杯
+    song_alias:
+    esong_code: 563A7
+    t_singer_master_id: '8778'
+    singer_name: 中 ひろみ
+    singer_alias:
+    available_date: '2014-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふたりにかんはい
+    singer_name_ruby: なかひろみ
+    song_variation:
+    - esong_code: 563A7
+      song_name: ふたりに乾杯
       content_type: ''

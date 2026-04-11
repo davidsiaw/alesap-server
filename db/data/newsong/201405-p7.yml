@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1427
-  all_max_cnt: 1545
-  all_country_cnt: 1427
+  max_cnt: 1410
+  all_max_cnt: 1528
+  all_country_cnt: 1410
   song:
-  - song_name: AKB48メドレー 〜2014〜
-    song_alias:
-    esong_code: 3259A7
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2014-05-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えけひふお
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 3259A7
-      song_name: AKB48メドレー 〜2014〜
-      content_type: ''
   - song_name: Eternal Sky
     song_alias:
     esong_code: 3254A14
@@ -177,23 +160,6 @@ result:
     - esong_code: 3259B11
       song_name: 恵比寿物語
       content_type: ''
-  - song_name: Everybody Needs Love Generation
-    song_alias:
-    esong_code: 316A45
-    t_singer_master_id: '136'
-    singer_name: アルフィー(THE ALFEE)
-    singer_alias:
-    available_date: '2014-05-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えふりはていに
-    singer_name_ruby: あるふい
-    song_variation:
-    - esong_code: 316A45
-      song_name: Everybody Needs Love Generation
-      content_type: ''
   - song_name: EMILY
     song_alias:
     esong_code: 3251A14
@@ -321,7 +287,7 @@ result:
     singer_alias:
     available_date: '2014-05-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真・三國無双7<番組名>
+    tie_up: 真・三國無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えんとれすくろ
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3257A46
       song_name: OKAN GOMEN
+      content_type: ''
+  - song_name: 奥飛騨の女
+    song_alias:
+    esong_code: 3050A19
+    t_singer_master_id: '50814'
+    singer_name: 今井 咲希 with 黒田 征治
+    singer_alias:
+    available_date: '2014-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おくひたのひと
+    singer_name_ruby: いまいさきくろたまさはる
+    song_variation:
+    - esong_code: 3050A19
+      song_name: 奥飛騨の女
+      content_type: ''
+  - song_name: おこん悲しや
+    song_alias:
+    esong_code: 3247B15
+    t_singer_master_id: '39785'
+    singer_name: 愛 ゆう子(愛平祐子)
+    singer_alias:
+    available_date: '2014-05-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おこんかなしや
+    singer_name_ruby: あいゆうこ
+    song_variation:
+    - esong_code: 3247B15
+      song_name: おこん悲しや
       content_type: ''

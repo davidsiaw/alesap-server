@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: 女が目立って なぜイケナイ
-    song_alias:
-    esong_code: 2462B41
-    t_singer_master_id: '8409'
-    singer_name: モーニング娘。
-    singer_alias:
-    available_date: '2010-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなかめたつて
-    singer_name_ruby: もにんくむすめ
-    song_variation:
-    - esong_code: 2462B41
-      song_name: 女が目立って なぜイケナイ
-      content_type: ''
   - song_name: 女盛りは歳じゃない
     song_alias:
     esong_code: 2468A19
@@ -262,23 +245,6 @@ result:
     - esong_code: 2461B5
       song_name: 帰り道
       content_type: ''
-  - song_name: カエロッテ・カエラッタ
-    song_alias:
-    esong_code: 2462A30
-    t_singer_master_id: '28231'
-    singer_name: うーたん&クックー
-    singer_alias:
-    available_date: '2010-02-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: いないいないばあっ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かえろつてかえらつた
-    singer_name_ruby: うたんくつく
-    song_variation:
-    - esong_code: 2462A30
-      song_name: カエロッテ・カエラッタ
-      content_type: ''
   - song_name: 輝きデイズ
     song_alias:
     esong_code: 2480B31
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2481B32
       song_name: 風を起こそう!
+      content_type: ''
+  - song_name: 風をさがして
+    song_alias:
+    esong_code: 2482B32
+    t_singer_master_id: '38351'
+    singer_name: 矢口 真里とストローハット
+    singer_alias:
+    available_date: '2010-02-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ONE PIECE<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: かせをさかして
+    singer_name_ruby: やくちまりとすとろはつと
+    song_variation:
+    - esong_code: 2482B32
+      song_name: 風をさがして
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 片思イノ想イカタ
+    song_alias:
+    esong_code: 2463A30
+    t_singer_master_id: '38627'
+    singer_name: JAMIL
+    singer_alias:
+    available_date: '2010-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かたおもいのおもいか
+    singer_name_ruby: しやみる
+    song_variation:
+    - esong_code: 2463A30
+      song_name: 片思イノ想イカタ
       content_type: ''

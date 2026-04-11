@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
-  - song_name: How to make it
-    song_alias:
-    esong_code: 2446A2
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2009-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はうとうめいくいつと
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 2446A2
-      song_name: How to make it
-      content_type: ''
   - song_name: How you feel feat.JUJU
     song_alias:
     esong_code: 2445B10
@@ -279,23 +262,6 @@ result:
     - esong_code: 2444B49
       song_name: バタフライ feat.鏡音レン
       content_type: VOCALOID
-  - song_name: はつ恋
-    song_alias:
-    esong_code: 2444A11
-    t_singer_master_id: '1993'
-    singer_name: 福山 雅治
-    singer_alias:
-    available_date: '2009-12-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はつこい
-    singer_name_ruby: ふくやままさはる
-    song_variation:
-    - esong_code: 2444A11
-      song_name: はつ恋
-      content_type: ''
   - song_name: 初恋
     song_alias:
     esong_code: 2432B27
@@ -312,6 +278,23 @@ result:
     song_variation:
     - esong_code: 2432B27
       song_name: 初恋
+      content_type: ''
+  - song_name: はつ恋
+    song_alias:
+    esong_code: 2444A11
+    t_singer_master_id: '1993'
+    singer_name: 福山 雅治
+    singer_alias:
+    available_date: '2009-12-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつこい
+    singer_name_ruby: ふくやままさはる
+    song_variation:
+    - esong_code: 2444A11
+      song_name: はつ恋
       content_type: ''
   - song_name: 初恋トランポリン
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2388B4
       song_name: 花の鎖 (フルバージョン)
+      content_type: ''
+  - song_name: はなまる
+    song_alias:
+    esong_code: 2449A15
+    t_singer_master_id: '33205'
+    singer_name: 戸松 遥
+    singer_alias:
+    available_date: '2009-12-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: THE IDOLM@STER DeariyStars<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなまる
+    singer_name_ruby: とまつはるか
+    song_variation:
+    - esong_code: 2449A15
+      song_name: はなまる
       content_type: ''

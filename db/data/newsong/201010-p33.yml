@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
-  - song_name: My Friend
-    song_alias:
-    esong_code: 2611A4
-    t_singer_master_id: '12467'
-    singer_name: AI
-    singer_alias:
-    available_date: '2010-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: まいふれんと
-    singer_name_ruby: あい
-    song_variation:
-    - esong_code: 2611A4
-      song_name: My Friend
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 孫
     song_alias:
     esong_code: 2311A5
@@ -83,7 +66,7 @@ result:
     singer_alias:
     available_date: '2010-10-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: みつどもえラジオ 3ちゃんねる<番組名>
+    tie_up: みつどもえ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まさかさんらんせい
@@ -177,23 +160,6 @@ result:
     - esong_code: 2618A23
       song_name: また会う日まで さようなら 〜卒業生を送る歌〜
       content_type: ''
-  - song_name: また君に恋してる (ハングル・バージョン)
-    song_alias:
-    esong_code: 2619B12
-    t_singer_master_id: '20876'
-    singer_name: リン・ユミ
-    singer_alias:
-    available_date: '2010-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: またきみにこいしてる
-    singer_name_ruby: りんゆみ
-    song_variation:
-    - esong_code: 2619B12
-      song_name: また君に恋してる (ハングル・バージョン)
-      content_type: ''
   - song_name: また君に恋してる
     song_alias:
     esong_code: 2606B12
@@ -211,6 +177,23 @@ result:
     - esong_code: 2606B12
       song_name: また君に恋してる
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: また君に恋してる (ハングル・バージョン)
+    song_alias:
+    esong_code: 2619B12
+    t_singer_master_id: '20876'
+    singer_name: リン・ユミ
+    singer_alias:
+    available_date: '2010-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: またきみにこいしてる
+    singer_name_ruby: りんゆみ
+    song_variation:
+    - esong_code: 2619B12
+      song_name: また君に恋してる (ハングル・バージョン)
+      content_type: ''
   - song_name: また君に番号を聞けなかった
     song_alias:
     esong_code: 2618B6
@@ -517,3 +500,20 @@ result:
     - esong_code: 2608B36
       song_name: まわせ大きな地球儀
       content_type: ''
+  - song_name: 曼荼羅 feat.鏡音リン
+    song_alias:
+    esong_code: 2606B38
+    t_singer_master_id: '40695'
+    singer_name: 曼荼羅P
+    singer_alias:
+    available_date: '2010-10-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: まんたら
+    singer_name_ruby: まんたらひ
+    song_variation:
+    - esong_code: 2606B38
+      song_name: 曼荼羅 feat.鏡音リン
+      content_type: VOCALOID

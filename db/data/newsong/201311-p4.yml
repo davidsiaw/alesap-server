@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
+  - song_name: 網走漁港
+    song_alias:
+    esong_code: 3137B36
+    t_singer_master_id: '8557'
+    singer_name: 響 あゆみ(大空亜由美)
+    singer_alias:
+    available_date: '2013-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あはしりきよこう
+    singer_name_ruby: ひひきあゆみ
+    song_variation:
+    - esong_code: 3137B36
+      song_name: 網走漁港
+      content_type: ''
   - song_name: あバンギャルど
     song_alias:
     esong_code: 3140B23
@@ -115,7 +132,7 @@ result:
     t_singer_master_id: '6455'
     singer_name: 華原 朋美
     singer_alias:
-    available_date: '2013-11-12'
+    available_date: '2013-11-13'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -179,23 +196,6 @@ result:
       content_type: ''
   - song_name: 雨のち晴レルヤ
     song_alias:
-    esong_code: 3132B8
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2013-11-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめのちはれるや
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 3132B8
-      song_name: 雨のち晴レルヤ
-      content_type: ''
-  - song_name: 雨のち晴レルヤ
-    song_alias:
     esong_code: 3138A12
     t_singer_master_id: '8578'
     singer_name: ゆず
@@ -211,6 +211,23 @@ result:
     - esong_code: 3138A12
       song_name: 雨のち晴レルヤ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 雨のち晴レルヤ
+    song_alias:
+    esong_code: 3132B8
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2013-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あめのちはれるや
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 3132B8
+      song_name: 雨のち晴レルヤ
+      content_type: ''
   - song_name: 雨の函館
     song_alias:
     esong_code: 3145A3
@@ -315,23 +332,6 @@ result:
       content_type: ''
   - song_name: ありがとうの輪
     song_alias:
-    esong_code: 3145B45
-    t_singer_master_id: '25245'
-    singer_name: 絢香
-    singer_alias:
-    available_date: '2013-11-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ありかとうのわ
-    singer_name_ruby: あやか
-    song_variation:
-    - esong_code: 3145B45
-      song_name: ありがとうの輪
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ありがとうの輪
-    song_alias:
     esong_code: 3131B20
     t_singer_master_id: '25245'
     singer_name: 絢香
@@ -347,6 +347,23 @@ result:
     - esong_code: 3131B20
       song_name: ありがとうの輪
       content_type: ''
+  - song_name: ありがとうの輪
+    song_alias:
+    esong_code: 3145B45
+    t_singer_master_id: '25245'
+    singer_name: 絢香
+    singer_alias:
+    available_date: '2013-11-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ありかとうのわ
+    singer_name_ruby: あやか
+    song_variation:
+    - esong_code: 3145B45
+      song_name: ありがとうの輪
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ありがとな
     song_alias:
     esong_code: 3142B5
@@ -440,7 +457,7 @@ result:
     singer_alias:
     available_date: '2013-11-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 空の境界 未来福音<番組名>
+    tie_up: 空の境界<番組名>
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: あれるや
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3137A2
       song_name: UN-DELAYED
-      content_type: ''
-  - song_name: アンテな
-    song_alias:
-    esong_code: 3136A17
-    t_singer_master_id: '8320'
-    singer_name: フラワーカンパニーズ
-    singer_alias:
-    available_date: '2013-11-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんてな
-    singer_name_ruby: ふらわかんはにす
-    song_variation:
-    - esong_code: 3136A17
-      song_name: アンテな
       content_type: ''

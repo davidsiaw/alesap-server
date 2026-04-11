@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1052
-  all_max_cnt: 1126
-  all_country_cnt: 1052
+  max_cnt: 1051
+  all_max_cnt: 1125
+  all_country_cnt: 1051
   song:
   - song_name: A THOUSAND DREAMERS
     song_alias:
@@ -398,23 +398,6 @@ result:
     - esong_code: 1975B40
       song_name: あなたとふたり
       content_type: ''
-  - song_name: あなたの歌
-    song_alias:
-    esong_code: 1962A21
-    t_singer_master_id: '32416'
-    singer_name: iNiSiE
-    singer_alias:
-    available_date: '2008-03-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたのうた
-    singer_name_ruby: いにしえ
-    song_variation:
-    - esong_code: 1962A21
-      song_name: あなたの歌
-      content_type: ''
   - song_name: あなたのうた
     song_alias:
     esong_code: 1966A8
@@ -431,6 +414,23 @@ result:
     song_variation:
     - esong_code: 1966A8
       song_name: あなたのうた
+      content_type: ''
+  - song_name: あなたの歌
+    song_alias:
+    esong_code: 1962A21
+    t_singer_master_id: '32416'
+    singer_name: iNiSiE
+    singer_alias:
+    available_date: '2008-03-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたのうた
+    singer_name_ruby: いにしえ
+    song_variation:
+    - esong_code: 1962A21
+      song_name: あなたの歌
       content_type: ''
   - song_name: あなたひとりに片想い
     song_alias:

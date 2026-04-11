@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
   - song_name: 最後の放課後
     song_alias:
@@ -451,23 +451,6 @@ result:
       content_type: ''
   - song_name: 幸せになってね
     song_alias:
-    esong_code: 1929B1
-    t_singer_master_id: '10799'
-    singer_name: 瀬口 侑希
-    singer_alias:
-    available_date: '2008-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しあわせになつてね
-    singer_name_ruby: せくちゆうき
-    song_variation:
-    - esong_code: 1929B1
-      song_name: 幸せになってね
-      content_type: ''
-  - song_name: 幸せになってね
-    song_alias:
     esong_code: 1938B8
     t_singer_master_id: '10799'
     singer_name: 瀬口 侑希
@@ -483,6 +466,23 @@ result:
     - esong_code: 1938B8
       song_name: 幸せになってね
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 幸せになってね
+    song_alias:
+    esong_code: 1929B1
+    t_singer_master_id: '10799'
+    singer_name: 瀬口 侑希
+    singer_alias:
+    available_date: '2008-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせになつてね
+    singer_name_ruby: せくちゆうき
+    song_variation:
+    - esong_code: 1929B1
+      song_name: 幸せになってね
+      content_type: ''
   - song_name: 幸せ願う彼方から
     song_alias:
     esong_code: 1933A34

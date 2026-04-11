@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
+  - song_name: 今、咲き誇る花たちよ
+    song_alias:
+    esong_code: 3149A45
+    t_singer_master_id: '12187'
+    singer_name: コブクロ
+    singer_alias:
+    available_date: '2013-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いまさきほこるはなた
+    singer_name_ruby: こふくろ
+    song_variation:
+    - esong_code: 3149A45
+      song_name: 今、咲き誇る花たちよ
+      content_type: ''
   - song_name: 今、咲き誇る花たちよ
     song_alias:
     esong_code: 3154A48
@@ -500,20 +517,3 @@ result:
     - esong_code: 3156B43
       song_name: うしろ姿を探すうちは feat.結月ゆかり
       content_type: VOCALOID
-  - song_name: うず潮海峡
-    song_alias:
-    esong_code: 3156A43
-    t_singer_master_id: '21357'
-    singer_name: 上杉 京子
-    singer_alias:
-    available_date: '2013-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うすしおかいきよう
-    singer_name_ruby: うえすききようこ
-    song_variation:
-    - esong_code: 3156A43
-      song_name: うず潮海峡
-      content_type: ''

@@ -3,10 +3,78 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: 雪割りの花
+    song_alias:
+    esong_code: 3037A45
+    t_singer_master_id: '10798'
+    singer_name: 北川 大介
+    singer_alias:
+    available_date: '2013-05-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ゆきわりのはな
+    singer_name_ruby: きたかわたいすけ
+    song_variation:
+    - esong_code: 3037A45
+      song_name: 雪割りの花
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ゆくれベイベー
+    song_alias:
+    esong_code: 3033A28
+    t_singer_master_id: '25481'
+    singer_name: かりゆし58
+    singer_alias:
+    available_date: '2013-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆくれへいへ
+    singer_name_ruby: かりゆしこしゆうはち
+    song_variation:
+    - esong_code: 3033A28
+      song_name: ゆくれベイベー
+      content_type: ''
+  - song_name: 湯の町月夜
+    song_alias:
+    esong_code: 3048B49
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2013-05-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ゆのまちつきよ
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 3048B49
+      song_name: 湯の町月夜
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 夢追人へのSymphony
+    song_alias:
+    esong_code: 3048A10
+    t_singer_master_id: '40511'
+    singer_name: ST☆RISH
+    singer_alias:
+    available_date: '2013-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: うたの☆プリンスさまっ♪(TV版)<番組名>
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ゆめおいひとへのし
+    singer_name_ruby: すたりつしゆ
+    song_variation:
+    - esong_code: 3048A10
+      song_name: 夢追人へのSymphony
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ユメオイプラネット
     song_alias:
     esong_code: 3039B22
@@ -83,7 +151,7 @@ result:
     singer_alias:
     available_date: '2013-05-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア The Beautiful World<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ゆめたひし
@@ -213,23 +281,6 @@ result:
       content_type: ''
   - song_name: 夢やぶれて -I DREAMED A DREAM-
     song_alias:
-    esong_code: 3028B26
-    t_singer_master_id: '6455'
-    singer_name: 華原 朋美
-    singer_alias:
-    available_date: '2013-05-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ゆめやふれてあいと
-    singer_name_ruby: かはらともみ
-    song_variation:
-    - esong_code: 3028B26
-      song_name: 夢やぶれて -I DREAMED A DREAM-
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 夢やぶれて -I DREAMED A DREAM-
-    song_alias:
     esong_code: 3034B8
     t_singer_master_id: '6455'
     singer_name: 華原 朋美
@@ -245,6 +296,23 @@ result:
     - esong_code: 3034B8
       song_name: 夢やぶれて -I DREAMED A DREAM-
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 夢やぶれて -I DREAMED A DREAM-
+    song_alias:
+    esong_code: 3028B26
+    t_singer_master_id: '6455'
+    singer_name: 華原 朋美
+    singer_alias:
+    available_date: '2013-05-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ゆめやふれてあいと
+    singer_name_ruby: かはらともみ
+    song_variation:
+    - esong_code: 3028B26
+      song_name: 夢やぶれて -I DREAMED A DREAM-
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 夢破れて尚
     song_alias:
     esong_code: 2815B45
@@ -353,7 +421,7 @@ result:
     t_singer_master_id: '47982'
     singer_name: 門藤 一&八汐 亜矢子
     singer_alias:
-    available_date: '2013-05-28'
+    available_date: '2013-05-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -448,72 +516,4 @@ result:
     song_variation:
     - esong_code: 3047A40
       song_name: 夜霧に消えたあなた
-      content_type: ''
-  - song_name: 吉野川
-    song_alias:
-    esong_code: 3048A18
-    t_singer_master_id: '1449'
-    singer_name: 千葉 一夫
-    singer_alias:
-    available_date: '2013-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: よしのかわ
-    singer_name_ruby: ちはかすお
-    song_variation:
-    - esong_code: 3048A18
-      song_name: 吉野川
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 夜空に華咲くお願いサマー!
-    song_alias:
-    esong_code: 3037B45
-    t_singer_master_id: '46083'
-    singer_name: 幻想エアリー feat.KAITO,鏡音レン,神威がくぽ,氷山キヨテル
-    singer_alias:
-    available_date: '2013-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: よそらにはなさくお
-    singer_name_ruby: けんそうえありふいちやりんくか
-    song_variation:
-    - esong_code: 3037B45
-      song_name: 夜空に華咲くお願いサマー!
-      content_type: VOCALOID
-  - song_name: m9(・x・)
-    song_alias:
-    esong_code: 3033A5
-    t_singer_master_id: '44573'
-    singer_name: Croak Not Rue
-    singer_alias:
-    available_date: '2013-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方花映塚 〜Phantasmagoria of Flower View.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: よみかたなし
-    singer_name_ruby: くろくなる
-    song_variation:
-    - esong_code: 3033A5
-      song_name: m9(・x・)
-      content_type: 東方
-  - song_name: 嫁泣き岬
-    song_alias:
-    esong_code: 3042A36
-    t_singer_master_id: '5041'
-    singer_name: 上杉 香緒里
-    singer_alias:
-    available_date: '2013-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: よめなきみさき
-    singer_name_ruby: うえすきかおり
-    song_variation:
-    - esong_code: 3042A36
-      song_name: 嫁泣き岬
       content_type: ''

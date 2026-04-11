@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
   - song_name: Winter Story
     song_alias:
@@ -143,23 +143,6 @@ result:
     - esong_code: 2246A46
       song_name: 宇宙は少女のともだちさっ
       content_type: ''
-  - song_name: 運命共同体
-    song_alias:
-    esong_code: 2203B35
-    t_singer_master_id: '8686'
-    singer_name: Dragon Ash
-    singer_alias:
-    available_date: '2009-02-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うんめいきようとう
-    singer_name_ruby: とらこんあつしゆ
-    song_variation:
-    - esong_code: 2203B35
-      song_name: 運命共同体
-      content_type: ''
   - song_name: 運命共同体 (BOTS REMIX)
     song_alias:
     esong_code: 2264A6
@@ -176,6 +159,23 @@ result:
     song_variation:
     - esong_code: 2264A6
       song_name: 運命共同体 (BOTS REMIX)
+      content_type: ''
+  - song_name: 運命共同体
+    song_alias:
+    esong_code: 2203B35
+    t_singer_master_id: '8686'
+    singer_name: Dragon Ash
+    singer_alias:
+    available_date: '2009-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うんめいきようとう
+    singer_name_ruby: とらこんあつしゆ
+    song_variation:
+    - esong_code: 2203B35
+      song_name: 運命共同体
       content_type: ''
   - song_name: 運命共同体
     song_alias:
@@ -196,23 +196,6 @@ result:
       content_type: DAM良音
   - song_name: 永遠
     song_alias:
-    esong_code: 2203B9
-    t_singer_master_id: '12544'
-    singer_name: BoA
-    singer_alias:
-    available_date: '2009-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えいえん
-    singer_name_ruby: ほあ
-    song_variation:
-    - esong_code: 2203B9
-      song_name: 永遠
-      content_type: ''
-  - song_name: 永遠
-    song_alias:
     esong_code: 2243B41
     t_singer_master_id: '31862'
     singer_name: 木山 裕策
@@ -226,6 +209,23 @@ result:
     singer_name_ruby: きやまゆうさく
     song_variation:
     - esong_code: 2243B41
+      song_name: 永遠
+      content_type: ''
+  - song_name: 永遠
+    song_alias:
+    esong_code: 2203B9
+    t_singer_master_id: '12544'
+    singer_name: BoA
+    singer_alias:
+    available_date: '2009-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいえん
+    singer_name_ruby: ほあ
+    song_variation:
+    - esong_code: 2203B9
       song_name: 永遠
       content_type: ''
   - song_name: 永遠の誓い

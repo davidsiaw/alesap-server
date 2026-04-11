@@ -3,95 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1318
-  all_max_cnt: 1435
-  all_country_cnt: 1318
+  max_cnt: 1313
+  all_max_cnt: 1430
+  all_country_cnt: 1313
   song:
-  - song_name: たまらなく淋しくて
-    song_alias:
-    esong_code: 2780A35
-    t_singer_master_id: '2271'
-    singer_name: 美川 憲一
-    singer_alias:
-    available_date: '2012-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: たまらなくさひしく
-    singer_name_ruby: みかわけんいち
-    song_variation:
-    - esong_code: 2780A35
-      song_name: たまらなく淋しくて
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ダーリー!ダレルヤ!
-    song_alias:
-    esong_code: 2774A40
-    t_singer_master_id: '44543'
-    singer_name: すけっと“敗者"歌謡
-    singer_alias:
-    available_date: '2012-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: SKET DANCE<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たりたれるや
-    singer_name_ruby: すけつとはいしやかよう
-    song_variation:
-    - esong_code: 2774A40
-      song_name: ダーリー!ダレルヤ!
-      content_type: ''
-  - song_name: ダーリン
-    song_alias:
-    esong_code: 2776A49
-    t_singer_master_id: '44579'
-    singer_name: JILLS BLUE ROSES
-    singer_alias:
-    available_date: '2012-03-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たりん
-    singer_name_ruby: しるすふるろせす
-    song_variation:
-    - esong_code: 2776A49
-      song_name: ダーリン
-      content_type: ''
-  - song_name: 誰より君だけを feat.KG,MiChi
-    song_alias:
-    esong_code: 1385B13
-    t_singer_master_id: '28667'
-    singer_name: Studio Apartment
-    singer_alias:
-    available_date: '2012-03-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たれよりきみたけ
-    singer_name_ruby: すたしおあはとめんと
-    song_variation:
-    - esong_code: 1385B13
-      song_name: 誰より君だけを feat.KG,MiChi
-      content_type: ''
-  - song_name: ダンジョン ショコラティエース feat.SHIRO(花澤香菜)
-    song_alias:
-    esong_code: 2553A6
-    t_singer_master_id: '42479'
-    singer_name: DWB
-    singer_alias:
-    available_date: '2012-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: デッドマン・ワンダーランド<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たんしよんしよこ
-    singer_name_ruby: てつとまんわんたらんとはんと
-    song_variation:
-    - esong_code: 2553A6
-      song_name: ダンジョン ショコラティエース feat.SHIRO(花澤香菜)
-      content_type: ''
   - song_name: Dancing Star
     song_alias:
     esong_code: 2779A26
@@ -213,23 +128,6 @@ result:
       content_type: ''
   - song_name: CHASE
     song_alias:
-    esong_code: 2723B34
-    t_singer_master_id: '5250'
-    singer_name: L'Arc〜en〜Ciel
-    singer_alias:
-    available_date: '2012-03-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: ちえいす
-    singer_name_ruby: らるくあんしえる
-    song_variation:
-    - esong_code: 2723B34
-      song_name: CHASE
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: CHASE
-    song_alias:
     esong_code: 2780A1
     t_singer_master_id: '5250'
     singer_name: L'Arc〜en〜Ciel
@@ -245,6 +143,23 @@ result:
     - esong_code: 2780A1
       song_name: CHASE
       content_type: JOY生演奏
+  - song_name: CHASE
+    song_alias:
+    esong_code: 2723B34
+    t_singer_master_id: '5250'
+    singer_name: L'Arc〜en〜Ciel
+    singer_alias:
+    available_date: '2012-03-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ちえいす
+    singer_name_ruby: らるくあんしえる
+    song_variation:
+    - esong_code: 2723B34
+      song_name: CHASE
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: CHERRY JAM
     song_alias:
     esong_code: 2777A35
@@ -321,7 +236,7 @@ result:
     singer_alias:
     available_date: '2012-03-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ オブ ザ ワールド ダイスアドベンチャー<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ちすのありか
@@ -517,3 +432,88 @@ result:
     - esong_code: 2768B2
       song_name: 津軽恋唄
       content_type: ''
+  - song_name: 津軽リンゴ節
+    song_alias:
+    esong_code: 2773A3
+    t_singer_master_id: '30205'
+    singer_name: 花咲 ゆき美
+    singer_alias:
+    available_date: '2012-03-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: つかるりんこふ
+    singer_name_ruby: はなさきゆきみ
+    song_variation:
+    - esong_code: 2773A3
+      song_name: 津軽リンゴ節
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 津軽リンゴ節
+    song_alias:
+    esong_code: 2569A16
+    t_singer_master_id: '30205'
+    singer_name: 花咲 ゆき美
+    singer_alias:
+    available_date: '2012-03-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つかるりんこふ
+    singer_name_ruby: はなさきゆきみ
+    song_variation:
+    - esong_code: 2569A16
+      song_name: 津軽リンゴ節
+      content_type: ''
+  - song_name: 月ヶ瀬梅渓
+    song_alias:
+    esong_code: 2373B13
+    t_singer_master_id: '18603'
+    singer_name: 鳳城 朋美
+    singer_alias:
+    available_date: '2012-03-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきかせはいけい
+    singer_name_ruby: ほうしようともみ
+    song_variation:
+    - esong_code: 2373B13
+      song_name: 月ヶ瀬梅渓
+      content_type: ''
+  - song_name: 月とヴィーナス
+    song_alias:
+    esong_code: 2775A19
+    t_singer_master_id: '40061'
+    singer_name: defspiral
+    singer_alias:
+    available_date: '2012-03-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきとひなす
+    singer_name_ruby: てふすはいらる
+    song_variation:
+    - esong_code: 2775A19
+      song_name: 月とヴィーナス
+      content_type: ''
+  - song_name: 月を撃ち落とす弾丸
+    song_alias:
+    esong_code: 2775B40
+    t_singer_master_id: '44573'
+    singer_name: Croak Not Rue
+    singer_alias:
+    available_date: '2012-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方永夜抄 〜Imperishable Night<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: つきをうちおとすた
+    singer_name_ruby: くろくなる
+    song_variation:
+    - esong_code: 2775B40
+      song_name: 月を撃ち落とす弾丸
+      content_type: 東方

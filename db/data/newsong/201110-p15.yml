@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
-  - song_name: 寿 祝い唄
-    song_alias:
-    esong_code: 2683A4
-    t_singer_master_id: '15688'
-    singer_name: 村上 ひさ江
-    singer_alias:
-    available_date: '2011-10-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ことほきいわいうた
-    singer_name_ruby: むらかみひさえ
-    song_variation:
-    - esong_code: 2683A4
-      song_name: 寿 祝い唄
-      content_type: ''
   - song_name: 粉雪の街
     song_alias:
     esong_code: 2694B26
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 2685B43
       song_name: The Way part2 〜Ready N Go〜
+      content_type: ''
+  - song_name: The Way part3 〜eclipse〜
+    song_alias:
+    esong_code: 2685B42
+    t_singer_master_id: '40657'
+    singer_name: CNBLUE
+    singer_alias:
+    available_date: '2011-10-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さうえいはと3
+    singer_name_ruby: しえぬふる
+    song_variation:
+    - esong_code: 2685B42
+      song_name: The Way part3 〜eclipse〜
       content_type: ''

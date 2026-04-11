@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: カラス
-    song_alias:
-    esong_code: 1491A43
-    t_singer_master_id: '601'
-    singer_name: KAN
-    singer_alias:
-    available_date: '2006-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: からす
-    singer_name_ruby: かん
-    song_variation:
-    - esong_code: 1491A43
-      song_name: カラス
-      content_type: ''
   - song_name: ガラスのくつ
     song_alias:
     esong_code: 1479B22
@@ -202,7 +185,7 @@ result:
     singer_alias:
     available_date: '2006-04-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦Ⅴ 〜さらば愛しき人よ〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きすみすいと
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1510B8
       song_name: 君たちキウイ・パパイア・マンゴーだね。
+      content_type: ''
+  - song_name: 君と雪の日
+    song_alias:
+    esong_code: 1492A29
+    t_singer_master_id: '24374'
+    singer_name: BOWL
+    singer_alias:
+    available_date: '2006-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみとゆきのひ
+    singer_name_ruby: ほうる
+    song_variation:
+    - esong_code: 1492A29
+      song_name: 君と雪の日
       content_type: ''

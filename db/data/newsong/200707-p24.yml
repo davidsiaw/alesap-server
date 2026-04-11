@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: はじまりの午後
-    song_alias:
-    esong_code: 1803B46
-    t_singer_master_id: '13173'
-    singer_name: 高橋 直純
-    singer_alias:
-    available_date: '2007-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はしまりのここ
-    singer_name_ruby: たかはしなおすみ
-    song_variation:
-    - esong_code: 1803B46
-      song_name: はじまりの午後
-      content_type: ''
   - song_name: パジャママンのうた
     song_alias:
     esong_code: 1805A23
@@ -217,7 +200,7 @@ result:
     t_singer_master_id: '30243'
     singer_name: Micro of Def Tech
     singer_alias:
-    available_date: '2007-07-11'
+    available_date: '2007-07-18'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1813B2
       song_name: happily ever after
+      content_type: ''
+  - song_name: パフ
+    song_alias:
+    esong_code: 1811B18
+    t_singer_master_id: '4997'
+    singer_name: 林 アキラ
+    singer_alias:
+    available_date: '2007-07-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: おかあさんといっしょ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はふ
+    singer_name_ruby: はやしあきら
+    song_variation:
+    - esong_code: 1811B18
+      song_name: パフ
       content_type: ''

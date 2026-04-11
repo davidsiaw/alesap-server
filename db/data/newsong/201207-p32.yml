@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: HEAT of the moment
-    song_alias:
-    esong_code: 2812B2
-    t_singer_master_id: '32325'
-    singer_name: May'n
-    singer_alias:
-    available_date: '2012-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとおふさも
-    singer_name_ruby: めいん
-    song_variation:
-    - esong_code: 2812B2
-      song_name: HEAT of the moment
-      content_type: ''
-  - song_name: ひとときの恋
-    song_alias:
-    esong_code: 2811B9
-    t_singer_master_id: '478'
-    singer_name: 尾鷲 義人
-    singer_alias:
-    available_date: '2012-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとときのこい
-    singer_name_ruby: おわせよしと
-    song_variation:
-    - esong_code: 2811B9
-      song_name: ひとときの恋
-      content_type: ''
-  - song_name: 人世川
-    song_alias:
-    esong_code: 2826B22
-    t_singer_master_id: '2270'
-    singer_name: 三門 忠司
-    singer_alias:
-    available_date: '2012-07-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとよかわ
-    singer_name_ruby: みかとちゆうし
-    song_variation:
-    - esong_code: 2826B22
-      song_name: 人世川
-      content_type: ''
   - song_name: 人世酒
     song_alias:
     esong_code: 2815A3
@@ -338,7 +287,7 @@ result:
     singer_alias:
     available_date: '2012-07-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ちびまる子ちゃん(第2期)<番組名>
+    tie_up: ちびまる子ちゃん<番組名>
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: ひやくまんねんのしあ
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2824B5
       song_name: Fight Music
+      content_type: ''
+  - song_name: ファインダーダイバー
+    song_alias:
+    esong_code: 2824A11
+    t_singer_master_id: '33013'
+    singer_name: 石鹸屋
+    singer_alias:
+    available_date: '2012-07-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ダブルスポイラー〜東方文花帖<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: ふあいんたたい
+    singer_name_ruby: せつけんや
+    song_variation:
+    - esong_code: 2824A11
+      song_name: ファインダーダイバー
+      content_type: 東方
+  - song_name: FUNKY MONKEY BABYSメドレー 〜2011〜
+    song_alias:
+    esong_code: 2826B8
+    t_singer_master_id: '24880'
+    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
+    singer_alias:
+    available_date: '2012-07-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふあんきもんきへ
+    singer_name_ruby: ふあんきもんきへいひす
+    song_variation:
+    - esong_code: 2826B8
+      song_name: FUNKY MONKEY BABYSメドレー 〜2011〜
+      content_type: ''
+  - song_name: 恋心A B C
+    song_alias:
+    esong_code: 2821B24
+    t_singer_master_id: '33544'
+    singer_name: 阪口 大助
+    singer_alias:
+    available_date: '2012-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: VitaminX Addiction<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふあんたすていつくえ
+    singer_name_ruby: さかくちたいすけ
+    song_variation:
+    - esong_code: 2821B24
+      song_name: 恋心A B C
       content_type: ''

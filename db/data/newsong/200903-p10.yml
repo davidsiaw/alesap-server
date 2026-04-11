@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
+  - song_name: きらきら (original ver.)
+    song_alias:
+    esong_code: 2255B48
+    t_singer_master_id: '24187'
+    singer_name: Aqua Timez
+    singer_alias:
+    available_date: '2009-03-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きらきら
+    singer_name_ruby: あくあたいむす
+    song_variation:
+    - esong_code: 2255B48
+      song_name: きらきら (original ver.)
+      content_type: ''
   - song_name: キラキラkawaii! プリキュア大集合♪
     song_alias:
     esong_code: 2269A26
@@ -230,23 +247,6 @@ result:
       content_type: ''
   - song_name: 曇りのち、快晴
     song_alias:
-    esong_code: 2291B27
-    t_singer_master_id: '36076'
-    singer_name: 矢野 健太
-    singer_alias:
-    available_date: '2009-03-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: くもりのちかいせい
-    singer_name_ruby: やのけんた
-    song_variation:
-    - esong_code: 2291B27
-      song_name: 曇りのち、快晴
-      content_type: DAM生音
-  - song_name: 曇りのち、快晴
-    song_alias:
     esong_code: 2294B15
     t_singer_master_id: '36076'
     singer_name: 矢野 健太
@@ -262,6 +262,23 @@ result:
     - esong_code: 2294B15
       song_name: 曇りのち、快晴
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 曇りのち、快晴
+    song_alias:
+    esong_code: 2291B27
+    t_singer_master_id: '36076'
+    singer_name: 矢野 健太
+    singer_alias:
+    available_date: '2009-03-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: くもりのちかいせい
+    singer_name_ruby: やのけんた
+    song_variation:
+    - esong_code: 2291B27
+      song_name: 曇りのち、快晴
+      content_type: DAM生音
   - song_name: 曇りのち、快晴
     song_alias:
     esong_code: 2254A45
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2282A22
       song_name: GREEN (Acoustic Orchestra version)
-      content_type: ''
-  - song_name: GREATEST HITS"THE SOUL 2"メドレー2
-    song_alias:
-    esong_code: 2293A36
-    t_singer_master_id: '1607'
-    singer_name: DREAMS COME TRUE
-    singer_alias:
-    available_date: '2009-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くれいてすとひつつ
-    singer_name_ruby: とりむすかむとうる
-    song_variation:
-    - esong_code: 2293A36
-      song_name: GREATEST HITS"THE SOUL 2"メドレー2
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 570
-  all_max_cnt: 598
-  all_country_cnt: 570
+  max_cnt: 569
+  all_max_cnt: 596
+  all_country_cnt: 569
   song:
-  - song_name: 星空のページェント
-    song_alias:
-    esong_code: 580B37
-    t_singer_master_id: '1988'
-    singer_name: ふきのとう
-    singer_alias:
-    available_date: '2001-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしそらのへし
-    singer_name_ruby: ふきのとう
-    song_variation:
-    - esong_code: 580B37
-      song_name: 星空のページェント
-      content_type: ''
   - song_name: 星空のロマンス
     song_alias:
     esong_code: 580A33
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 582B39
       song_name: Money
+      content_type: ''
+  - song_name: MARBLE
+    song_alias:
+    esong_code: 580A36
+    t_singer_master_id: '8016'
+    singer_name: FANATIC◇CRISIS
+    singer_alias:
+    available_date: '2001-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まふる
+    singer_name_ruby: ふあなていつくくらい
+    song_variation:
+    - esong_code: 580A36
+      song_name: MARBLE
       content_type: ''

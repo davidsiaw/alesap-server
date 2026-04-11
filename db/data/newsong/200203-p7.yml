@@ -151,7 +151,7 @@ result:
     singer_alias:
     available_date: '2002-03-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦2 〜君、死にたもうことなかれ〜<番組名>
+    tie_up: サクラ大戦 (ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: せつたいうんめいの
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: So Into You
     song_alias:
-    esong_code: 97A44
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
-    singer_alias:
-    available_date: '2002-03-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: そいんとうゆ
-    singer_name_ruby: こうたくみ
-    song_variation:
-    - esong_code: 97A44
-      song_name: So Into You
-      content_type: DAM良音
-  - song_name: So Into You
-    song_alias:
     esong_code: 773B26
     t_singer_master_id: '12005'
     singer_name: 倖田 來未
@@ -279,6 +262,23 @@ result:
     - esong_code: 773B26
       song_name: So Into You
       content_type: ''
+  - song_name: So Into You
+    song_alias:
+    esong_code: 97A44
+    t_singer_master_id: '12005'
+    singer_name: 倖田 來未
+    singer_alias:
+    available_date: '2002-03-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: そいんとうゆ
+    singer_name_ruby: こうたくみ
+    song_variation:
+    - esong_code: 97A44
+      song_name: So Into You
+      content_type: DAM良音
   - song_name: SOUL of ORIGIN
     song_alias:
     esong_code: 770A27

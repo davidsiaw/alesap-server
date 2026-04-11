@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 398
-  all_max_cnt: 457
-  all_country_cnt: 398
+  max_cnt: 395
+  all_max_cnt: 455
+  all_country_cnt: 395
   song:
-  - song_name: 紙の花
-    song_alias:
-    esong_code: 406A21
-    t_singer_master_id: '8593'
-    singer_name: 佐倉 さくら
-    singer_alias:
-    available_date: '2002-05-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かみのはな
-    singer_name_ruby: さくらさくら
-    song_variation:
-    - esong_code: 406A21
-      song_name: 紙の花
-      content_type: ''
   - song_name: 渇いたkiss
     song_alias:
     esong_code: 838A30
@@ -213,23 +196,6 @@ result:
       content_type: ''
   - song_name: キヲク
     song_alias:
-    esong_code: 108A41
-    t_singer_master_id: '7252'
-    singer_name: Every Little Thing
-    singer_alias:
-    available_date: '2002-05-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: きをく
-    singer_name_ruby: えふりりとるしんく
-    song_variation:
-    - esong_code: 108A41
-      song_name: キヲク
-      content_type: DAM良音
-  - song_name: キヲク
-    song_alias:
     esong_code: 836A21
     t_singer_master_id: '7252'
     singer_name: Every Little Thing
@@ -245,6 +211,23 @@ result:
     - esong_code: 836A21
       song_name: キヲク
       content_type: ''
+  - song_name: キヲク
+    song_alias:
+    esong_code: 108A41
+    t_singer_master_id: '7252'
+    singer_name: Every Little Thing
+    singer_alias:
+    available_date: '2002-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: きをく
+    singer_name_ruby: えふりりとるしんく
+    song_variation:
+    - esong_code: 108A41
+      song_name: キヲク
+      content_type: DAM良音
   - song_name: キング
     song_alias:
     esong_code: 844A34
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 840B32
       song_name: 心のカギ
+      content_type: ''
+  - song_name: Go Steady Go!
+    song_alias:
+    esong_code: 838A27
+    t_singer_master_id: '10295'
+    singer_name: ポルノグラフィティ
+    singer_alias:
+    available_date: '2002-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こすてていこ
+    singer_name_ruby: ほるのくらふいてい
+    song_variation:
+    - esong_code: 838A27
+      song_name: Go Steady Go!
       content_type: ''

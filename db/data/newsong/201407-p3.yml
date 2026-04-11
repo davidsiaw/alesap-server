@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
   - song_name: 彩声 〜Bird can sing〜
     song_alias:
@@ -57,23 +57,6 @@ result:
     song_variation:
     - esong_code: 3285B33
       song_name: a LOVELY TONE (album ver.)
-      content_type: ''
-  - song_name: ありがとう
-    song_alias:
-    esong_code: 3299A39
-    t_singer_master_id: '50864'
-    singer_name: MACO
-    singer_alias:
-    available_date: '2014-07-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: まこ
-    song_variation:
-    - esong_code: 3299A39
-      song_name: ありがとう
       content_type: ''
   - song_name: Alice in Mrs.Garnet
     song_alias:
@@ -349,23 +332,6 @@ result:
       content_type: VOCALOID
   - song_name: いいから抱いて・・・
     song_alias:
-    esong_code: 3137A40
-    t_singer_master_id: '542'
-    singer_name: 門倉 有希
-    singer_alias:
-    available_date: '2014-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: いいからたいて
-    singer_name_ruby: かとくらゆき
-    song_variation:
-    - esong_code: 3137A40
-      song_name: いいから抱いて・・・
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: いいから抱いて・・・
-    song_alias:
     esong_code: 3286A17
     t_singer_master_id: '542'
     singer_name: 門倉 有希
@@ -398,6 +364,23 @@ result:
     - esong_code: 3286B2
       song_name: いいから抱いて・・・
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: いいから抱いて・・・
+    song_alias:
+    esong_code: 3137A40
+    t_singer_master_id: '542'
+    singer_name: 門倉 有希
+    singer_alias:
+    available_date: '2014-07-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: いいからたいて
+    singer_name_ruby: かとくらゆき
+    song_variation:
+    - esong_code: 3137A40
+      song_name: いいから抱いて・・・
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 飯坂の女
     song_alias:
     esong_code: 3287A31
@@ -517,3 +500,20 @@ result:
     - esong_code: 3293B45
       song_name: 居酒屋「津軽」
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 居酒屋ほたる
+    song_alias:
+    esong_code: 3269B20
+    t_singer_master_id: '5041'
+    singer_name: 上杉 香緒里
+    singer_alias:
+    available_date: '2014-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: いさかやほたる
+    singer_name_ruby: うえすきかおり
+    song_variation:
+    - esong_code: 3269B20
+      song_name: 居酒屋ほたる
+      content_type: DAMｸﾘｯﾌﾟ生音

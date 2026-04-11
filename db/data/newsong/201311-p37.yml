@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
-  - song_name: ひまわり
-    song_alias:
-    esong_code: 3146A35
-    t_singer_master_id: '48057'
-    singer_name: ストロベリーフライロケッツ
-    singer_alias:
-    available_date: '2013-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひまわり
-    singer_name_ruby: すとろへりふらいろけつつ
-    song_variation:
-    - esong_code: 3146A35
-      song_name: ひまわり
-      content_type: ''
   - song_name: 百万本のばらを抱き
     song_alias:
     esong_code: 2997A31
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 3142A8
       song_name: 風景詩
+      content_type: ''
+  - song_name: 夫婦の絆
+    song_alias:
+    esong_code: 1503B5
+    t_singer_master_id: '49285'
+    singer_name: 田 幸夫&宮本 のぶこ
+    singer_alias:
+    available_date: '2013-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふうふのきすな
+    singer_name_ruby: てんゆきおみやもとのふ
+    song_variation:
+    - esong_code: 1503B5
+      song_name: 夫婦の絆
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 986
-  all_max_cnt: 1090
-  all_country_cnt: 986
+  max_cnt: 964
+  all_max_cnt: 1067
+  all_country_cnt: 964
   song:
-  - song_name: 折鶴夜曲〜おりづるやきょく〜
-    song_alias:
-    esong_code: 4153B49
-    t_singer_master_id: '46580'
-    singer_name: 寺本 圭佑(東大寺四郎)
-    singer_alias:
-    available_date: '2022-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おりつるやきよく
-    singer_name_ruby: てらもとけいすけ
-    song_variation:
-    - esong_code: 4153B49
-      song_name: 折鶴夜曲〜おりづるやきょく〜
-      content_type: ''
-  - song_name: 折鶴夜曲〜おりづるやきょく〜
-    song_alias:
-    esong_code: 3766B45
-    t_singer_master_id: '46580'
-    singer_name: 寺本 圭佑(東大寺四郎)
-    singer_alias:
-    available_date: '2022-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おりつるやきよく
-    singer_name_ruby: てらもとけいすけ
-    song_variation:
-    - esong_code: 3766B45
-      song_name: 折鶴夜曲〜おりづるやきょく〜
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Always the best day
     song_alias:
     esong_code: 4684B15
@@ -417,23 +383,6 @@ result:
       content_type: ''
   - song_name: カサブランカ浪漫
     song_alias:
-    esong_code: 4676A14
-    t_singer_master_id: '1635'
-    singer_name: 中条 きよし
-    singer_alias:
-    available_date: '2022-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かさふらんかろまん
-    singer_name_ruby: なかしようきよし
-    song_variation:
-    - esong_code: 4676A14
-      song_name: カサブランカ浪漫
-      content_type: ''
-  - song_name: カサブランカ浪漫
-    song_alias:
     esong_code: 3766B48
     t_singer_master_id: '1635'
     singer_name: 中条 きよし
@@ -449,6 +398,23 @@ result:
     - esong_code: 3766B48
       song_name: カサブランカ浪漫
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: カサブランカ浪漫
+    song_alias:
+    esong_code: 4676A14
+    t_singer_master_id: '1635'
+    singer_name: 中条 きよし
+    singer_alias:
+    available_date: '2022-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かさふらんかろまん
+    singer_name_ruby: なかしようきよし
+    song_variation:
+    - esong_code: 4676A14
+      song_name: カサブランカ浪漫
+      content_type: ''
   - song_name: 風
     song_alias:
     esong_code: 4686A3
@@ -517,3 +483,37 @@ result:
     - esong_code: 4680B11
       song_name: 風のゆくえ (ウタ from ONE PIECE FILM RED)
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 家族ってなんだろう?
+    song_alias:
+    esong_code: 4675A47
+    t_singer_master_id: '70196'
+    singer_name: 春組&月岡 紬&御影 密&有栖川 誉&雪白 東
+    singer_alias:
+    available_date: '2022-09-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: MANKAI STAGE『A3!』<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かそくつてなんた
+    singer_name_ruby: はるくみつきおかつむきみか
+    song_variation:
+    - esong_code: 4675A47
+      song_name: 家族ってなんだろう?
+      content_type: ''
+  - song_name: 家族という居場所
+    song_alias:
+    esong_code: 4675A45
+    t_singer_master_id: '64443'
+    singer_name: 春組(ミュージカル)
+    singer_alias:
+    available_date: '2022-09-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: MANKAI STAGE『A3!』<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かそくといういは
+    singer_name_ruby: はるくみ
+    song_variation:
+    - esong_code: 4675A45
+      song_name: 家族という居場所
+      content_type: ''

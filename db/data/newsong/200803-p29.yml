@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1052
-  all_max_cnt: 1126
-  all_country_cnt: 1052
+  max_cnt: 1051
+  all_max_cnt: 1125
+  all_country_cnt: 1051
   song:
-  - song_name: マイフレンド
-    song_alias:
-    esong_code: 1964A26
-    t_singer_master_id: '31457'
-    singer_name: SKELT 8 BAMBINO
-    singer_alias:
-    available_date: '2008-03-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まいふれんと
-    singer_name_ruby: すけるとえいとはんひの
-    song_variation:
-    - esong_code: 1964A26
-      song_name: マイフレンド
-      content_type: ''
   - song_name: マイ★フレンド
     song_alias:
     esong_code: 1964B17
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1953B47
       song_name: Missing [名演ピアノ 美野 春樹]
+      content_type: ''
+  - song_name: Missin'U
+    song_alias:
+    esong_code: 1959B5
+    t_singer_master_id: '32401'
+    singer_name: 石田 裕子
+    singer_alias:
+    available_date: '2008-03-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みつしんゆ
+    singer_name_ruby: いしたゆうこ
+    song_variation:
+    - esong_code: 1959B5
+      song_name: Missin'U
       content_type: ''

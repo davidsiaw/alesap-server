@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 958
-  all_max_cnt: 1039
-  all_country_cnt: 958
+  max_cnt: 936
+  all_max_cnt: 1016
+  all_country_cnt: 936
   song:
-  - song_name: Wish Song
-    song_alias:
-    esong_code: 4555B11
-    t_singer_master_id: '67804'
-    singer_name: Liella!
-    singer_alias:
-    available_date: '2021-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ラブライブ!スーパースター!!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういつしゆそんく
-    singer_name_ruby: りえら
-    song_variation:
-    - esong_code: 4555B11
-      song_name: Wish Song
-      content_type: ''
-  - song_name: will-ill
-    song_alias:
-    esong_code: 4555B46
-    t_singer_master_id: '45283'
-    singer_name: TK from 凛として時雨
-    singer_alias:
-    available_date: '2021-10-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: コードギアス 反逆のルルーシュ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういるいる
-    singer_name_ruby: ていけふろむりんとしてしく
-    song_variation:
-    - esong_code: 4555B46
-      song_name: will-ill
-      content_type: ''
   - song_name: Winter Moon Winter Stars
     song_alias:
     esong_code: 4554A28
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4554B20
       song_name: EVERYDAY STARS!! (765PRO ALLSTARS ver.)
+      content_type: ''
+  - song_name: EVOLUTION
+    song_alias:
+    esong_code: 4552A30
+    t_singer_master_id: '65691'
+    singer_name: Snow Man
+    singer_alias:
+    available_date: '2021-10-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: えほりゆしよん
+    singer_name_ruby: すのまん
+    song_variation:
+    - esong_code: 4552A30
+      song_name: EVOLUTION
+      content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 'EVOLUTiON:'
+    song_alias:
+    esong_code: 4560A42
+    t_singer_master_id: '13980'
+    singer_name: 南條 愛乃
+    singer_alias:
+    available_date: '2021-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 進化の実 〜知らないうちに勝ち組人生〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えほりゆしよん
+    singer_name_ruby: なんしようよしの
+    song_variation:
+    - esong_code: 4560A42
+      song_name: 'EVOLUTiON:'
       content_type: ''

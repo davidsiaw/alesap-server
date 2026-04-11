@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
   - song_name: 悲しみの雨
     song_alias:
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: ガールズルール
     song_alias:
-    esong_code: 3072B36
-    t_singer_master_id: '44213'
-    singer_name: 乃木坂46
-    singer_alias:
-    available_date: '2013-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: かるするる
-    singer_name_ruby: のきさかふおていしつくす
-    song_variation:
-    - esong_code: 3072B36
-      song_name: ガールズルール
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: ガールズルール
-    song_alias:
     esong_code: 3067B17
     t_singer_master_id: '44213'
     singer_name: 乃木坂46
@@ -296,6 +279,23 @@ result:
     - esong_code: 3067B17
       song_name: ガールズルール
       content_type: ''
+  - song_name: ガールズルール
+    song_alias:
+    esong_code: 3072B36
+    t_singer_master_id: '44213'
+    singer_name: 乃木坂46
+    singer_alias:
+    available_date: '2013-07-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: かるするる
+    singer_name_ruby: のきさかふおていしつくす
+    song_variation:
+    - esong_code: 3072B36
+      song_name: ガールズルール
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: ガールフレンド
     song_alias:
     esong_code: 3087A30
@@ -312,6 +312,23 @@ result:
     song_variation:
     - esong_code: 3087A30
       song_name: ガールフレンド
+      content_type: ''
+  - song_name: 川越の女
+    song_alias:
+    esong_code: 1978A38
+    t_singer_master_id: '11102'
+    singer_name: 祥田 よしてる(祥田佳輝)
+    singer_alias:
+    available_date: '2013-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かわこえのひと
+    singer_name_ruby: しようたよしてる
+    song_variation:
+    - esong_code: 1978A38
+      song_name: 川越の女
       content_type: ''
   - song_name: 川越の女
     song_alias:
@@ -421,7 +438,7 @@ result:
     t_singer_master_id: '41941'
     singer_name: 井手 綾香
     singer_alias:
-    available_date: '2013-07-16'
+    available_date: '2013-07-17'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -432,23 +449,6 @@ result:
     - esong_code: 3079A11
       song_name: 消えてなくなれ、夕暮れ
       content_type: ''
-  - song_name: 消えない絵
-    song_alias:
-    esong_code: 3073B37
-    t_singer_master_id: '2185'
-    singer_name: 真心ブラザーズ
-    singer_alias:
-    available_date: '2013-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 宇宙兄弟<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: きえないえ
-    singer_name_ruby: まこころふらさす
-    song_variation:
-    - esong_code: 3073B37
-      song_name: 消えない絵
-      content_type: DAM生音
   - song_name: 消えない絵
     song_alias:
     esong_code: 3074A12
@@ -466,6 +466,23 @@ result:
     - esong_code: 3074A12
       song_name: 消えない絵
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 消えない絵
+    song_alias:
+    esong_code: 3073B37
+    t_singer_master_id: '2185'
+    singer_name: 真心ブラザーズ
+    singer_alias:
+    available_date: '2013-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 宇宙兄弟<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: きえないえ
+    singer_name_ruby: まこころふらさす
+    song_variation:
+    - esong_code: 3073B37
+      song_name: 消えない絵
+      content_type: DAM生音
   - song_name: 消えない虹
     song_alias:
     esong_code: 3072B3
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3088A12
       song_name: きかせてよ愛の子守唄
-      content_type: ''
-  - song_name: 帰郷
-    song_alias:
-    esong_code: 118A25
-    t_singer_master_id: '8292'
-    singer_name: 背味 孝太郎
-    singer_alias:
-    available_date: '2013-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ききよう
-    singer_name_ruby: せみこうたろう
-    song_variation:
-    - esong_code: 118A25
-      song_name: 帰郷
       content_type: ''

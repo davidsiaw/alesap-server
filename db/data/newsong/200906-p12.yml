@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1072
-  all_max_cnt: 1218
-  all_country_cnt: 1072
+  max_cnt: 1061
+  all_max_cnt: 1207
+  all_country_cnt: 1061
   song:
-  - song_name: 今夜、君を抱いて
-    song_alias:
-    esong_code: 2346A49
-    t_singer_master_id: '1993'
-    singer_name: 福山 雅治
-    singer_alias:
-    available_date: '2009-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんやきみをたいて
-    singer_name_ruby: ふくやままさはる
-    song_variation:
-    - esong_code: 2346A49
-      song_name: 今夜、君を抱いて
-      content_type: ''
   - song_name: 最愛
     song_alias:
     esong_code: 2346B1
@@ -41,23 +24,6 @@ result:
     - esong_code: 2346B1
       song_name: 最愛
       content_type: ''
-  - song_name: Zion
-    song_alias:
-    esong_code: 2322A17
-    t_singer_master_id: '25339'
-    singer_name: Metis
-    singer_alias:
-    available_date: '2009-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいおん
-    singer_name_ruby: めていす
-    song_variation:
-    - esong_code: 2322A17
-      song_name: Zion
-      content_type: ''
   - song_name: ZION (Zero G Remix)
     song_alias:
     esong_code: 2344A36
@@ -74,6 +40,23 @@ result:
     song_variation:
     - esong_code: 2344A36
       song_name: ZION (Zero G Remix)
+      content_type: ''
+  - song_name: Zion
+    song_alias:
+    esong_code: 2322A17
+    t_singer_master_id: '25339'
+    singer_name: Metis
+    singer_alias:
+    available_date: '2009-06-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいおん
+    singer_name_ruby: めていす
+    song_variation:
+    - esong_code: 2322A17
+      song_name: Zion
       content_type: ''
   - song_name: 再会物語
     song_alias:
@@ -162,23 +145,6 @@ result:
       content_type: ''
   - song_name: サイレン
     song_alias:
-    esong_code: 2329B7
-    t_singer_master_id: '36972'
-    singer_name: THE DILEMMA OF HEDGEHOG
-    singer_alias:
-    available_date: '2009-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいれん
-    singer_name_ruby: さしれんまおふへつ
-    song_variation:
-    - esong_code: 2329B7
-      song_name: サイレン
-      content_type: ''
-  - song_name: サイレン
-    song_alias:
     esong_code: 2346B36
     t_singer_master_id: '33872'
     singer_name: flumpool
@@ -192,6 +158,23 @@ result:
     singer_name_ruby: ふらんふる
     song_variation:
     - esong_code: 2346B36
+      song_name: サイレン
+      content_type: ''
+  - song_name: サイレン
+    song_alias:
+    esong_code: 2329B7
+    t_singer_master_id: '36972'
+    singer_name: THE DILEMMA OF HEDGEHOG
+    singer_alias:
+    available_date: '2009-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいれん
+    singer_name_ruby: さしれんまおふへつ
+    song_variation:
+    - esong_code: 2329B7
       song_name: サイレン
       content_type: ''
   - song_name: Sign feat.HAB I SCREAM
@@ -432,23 +415,6 @@ result:
     - esong_code: 2304A40
       song_name: 39GalaxyZ
       content_type: ''
-  - song_name: survivor
-    song_alias:
-    esong_code: 2346B2
-    t_singer_master_id: '1993'
-    singer_name: 福山 雅治
-    singer_alias:
-    available_date: '2009-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さはいは
-    singer_name_ruby: ふくやままさはる
-    song_variation:
-    - esong_code: 2346B2
-      song_name: survivor
-      content_type: ''
   - song_name: Survivor (Seven Seas Premium)
     song_alias:
     esong_code: 2322B14
@@ -465,6 +431,23 @@ result:
     song_variation:
     - esong_code: 2322B14
       song_name: Survivor (Seven Seas Premium)
+      content_type: ''
+  - song_name: survivor
+    song_alias:
+    esong_code: 2346B2
+    t_singer_master_id: '1993'
+    singer_name: 福山 雅治
+    singer_alias:
+    available_date: '2009-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さはいは
+    singer_name_ruby: ふくやままさはる
+    song_variation:
+    - esong_code: 2346B2
+      song_name: survivor
       content_type: ''
   - song_name: THE BIRTHDAY GIRL
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2333B37
       song_name: サブプライム哀歌
+      content_type: ''
+  - song_name: The Flare
+    song_alias:
+    esong_code: 2344A31
+    t_singer_master_id: '36831'
+    singer_name: the HIATUS
+    singer_alias:
+    available_date: '2009-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さふれあ
+    singer_name_ruby: さはいえいたす
+    song_variation:
+    - esong_code: 2344A31
+      song_name: The Flare
       content_type: ''

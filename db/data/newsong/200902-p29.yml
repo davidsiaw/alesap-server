@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: まりかぎでいいのぜ
-    song_alias:
-    esong_code: 2246B47
-    t_singer_master_id: '42487'
-    singer_name: イオシス/miko(Alternative ending)
-    singer_alias:
-    available_date: '2009-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方永夜抄 〜Imperishable Night<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: まりかきていいの
-    singer_name_ruby: いおしすみこ
-    song_variation:
-    - esong_code: 2246B47
-      song_name: まりかぎでいいのぜ
-      content_type: 東方
-  - song_name: まんまる
-    song_alias:
-    esong_code: 2245B31
-    t_singer_master_id: '20538'
-    singer_name: 100s
-    singer_alias:
-    available_date: '2009-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まんまる
-    singer_name_ruby: ひやくしき
-    song_variation:
-    - esong_code: 2245B31
-      song_name: まんまる
-      content_type: ''
   - song_name: みかえり富士
     song_alias:
     esong_code: 2202B32
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2213B14
       song_name: May'n☆Space
+      content_type: ''
+  - song_name: 夫婦絆
+    song_alias:
+    esong_code: 2244B43
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2009-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めおときすな
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 2244B43
+      song_name: 夫婦絆
+      content_type: ''
+  - song_name: 夫婦情話
+    song_alias:
+    esong_code: 823A37
+    t_singer_master_id: '13930'
+    singer_name: 木原 たけし
+    singer_alias:
+    available_date: '2009-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めおとしようわ
+    singer_name_ruby: きはらたけし
+    song_variation:
+    - esong_code: 823A37
+      song_name: 夫婦情話
       content_type: ''

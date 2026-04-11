@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 891
-  all_max_cnt: 961
-  all_country_cnt: 891
+  max_cnt: 888
+  all_max_cnt: 956
+  all_country_cnt: 888
   song:
-  - song_name: 北行路
-    song_alias:
-    esong_code: 1679A47
-    t_singer_master_id: '19519'
-    singer_name: みずき 舞
-    singer_alias:
-    available_date: '2006-11-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたこうろ
-    singer_name_ruby: みすきまい
-    song_variation:
-    - esong_code: 1679A47
-      song_name: 北行路
-      content_type: ''
-  - song_name: きっと...
-    song_alias:
-    esong_code: 1662A17
-    t_singer_master_id: '26226'
-    singer_name: KOBA
-    singer_alias:
-    available_date: '2006-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きつと
-    singer_name_ruby: こは
-    song_variation:
-    - esong_code: 1662A17
-      song_name: きっと...
-      content_type: ''
   - song_name: きっと誰かが
     song_alias:
     esong_code: 1679B11
@@ -66,7 +32,7 @@ result:
     singer_alias:
     available_date: '2006-11-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: スレイヤーズNEXT<番組名>
+    tie_up: スレイヤーズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きふありすん
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1675B10
       song_name: 鵠沼サーフ
+      content_type: ''
+  - song_name: くじらなわ
+    song_alias:
+    esong_code: 1650A22
+    t_singer_master_id: '27651'
+    singer_name: ザ・クロマニヨンズ
+    singer_alias:
+    available_date: '2006-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くしらなわ
+    singer_name_ruby: さくろまによんす
+    song_variation:
+    - esong_code: 1650A22
+      song_name: くじらなわ
+      content_type: ''
+  - song_name: 釧路の千鳥
+    song_alias:
+    esong_code: 1662B43
+    t_singer_master_id: '14454'
+    singer_name: 豊光 宏仲
+    singer_alias:
+    available_date: '2006-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くしろのちとり
+    singer_name_ruby: とよみつひろなか
+    song_variation:
+    - esong_code: 1662B43
+      song_name: 釧路の千鳥
       content_type: ''

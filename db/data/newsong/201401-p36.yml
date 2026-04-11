@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: Let It Go〜ありのままで〜 (エンドソング)
-    song_alias:
-    esong_code: 3171A6
-    t_singer_master_id: '26911'
-    singer_name: May J.
-    singer_alias:
-    available_date: '2014-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アナと雪の女王<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: れつといつとこあ
-    singer_name_ruby: めいしえい
-    song_variation:
-    - esong_code: 3171A6
-      song_name: Let It Go〜ありのままで〜 (エンドソング)
-      content_type: ''
-  - song_name: Let It Snow
-    song_alias:
-    esong_code: 3166A2
-    t_singer_master_id: '48214'
-    singer_name: 安田 レイ
-    singer_alias:
-    available_date: '2014-01-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: れつといつとすのう
-    singer_name_ruby: やすたれい
-    song_variation:
-    - esong_code: 3166A2
-      song_name: Let It Snow
-      content_type: ''
   - song_name: RED decision
     song_alias:
     esong_code: 3172B48
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3166A45
       song_name: わっしょいクリスマス
+      content_type: ''
+  - song_name: Wanna Be My Dream
+    song_alias:
+    esong_code: 3173B41
+    t_singer_master_id: '48221'
+    singer_name: A-One
+    singer_alias:
+    available_date: '2014-01-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方永夜抄 〜Imperishable Night<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: わなひまいとり
+    singer_name_ruby: えわん
+    song_variation:
+    - esong_code: 3173B41
+      song_name: Wanna Be My Dream
+      content_type: 東方
+  - song_name: WA RA BE
+    song_alias:
+    esong_code: 2418B32
+    t_singer_master_id: '15624'
+    singer_name: 童子-T
+    singer_alias:
+    available_date: '2014-01-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: わらへ
+    singer_name_ruby: とうしてい
+    song_variation:
+    - esong_code: 2418B32
+      song_name: WA RA BE
       content_type: ''

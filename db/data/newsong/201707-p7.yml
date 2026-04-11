@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1314
-  all_max_cnt: 1472
-  all_country_cnt: 1314
+  max_cnt: 1309
+  all_max_cnt: 1467
+  all_country_cnt: 1309
   song:
-  - song_name: 男の世界
-    song_alias:
-    esong_code: 3850A26
-    t_singer_master_id: '39293'
-    singer_name: 大輪 登志峰
-    singer_alias:
-    available_date: '2017-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこのせかい
-    singer_name_ruby: おおわとしみね
-    song_variation:
-    - esong_code: 3850A26
-      song_name: 男の世界
-      content_type: ''
   - song_name: 男の翼
     song_alias:
     esong_code: 3727A12
@@ -298,23 +281,6 @@ result:
       content_type: ''
   - song_name: おふくろ
     song_alias:
-    esong_code: 3840B15
-    t_singer_master_id: '15510'
-    singer_name: 遠藤 実
-    singer_alias:
-    available_date: '2017-07-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おふくろ
-    singer_name_ruby: えんとうみのる
-    song_variation:
-    - esong_code: 3840B15
-      song_name: おふくろ
-      content_type: ''
-  - song_name: おふくろ
-    song_alias:
     esong_code: 3579A32
     t_singer_master_id: '28486'
     singer_name: 小田 純平
@@ -328,6 +294,23 @@ result:
     singer_name_ruby: おたしゆんへい
     song_variation:
     - esong_code: 3579A32
+      song_name: おふくろ
+      content_type: ''
+  - song_name: おふくろ
+    song_alias:
+    esong_code: 3840B15
+    t_singer_master_id: '15510'
+    singer_name: 遠藤 実
+    singer_alias:
+    available_date: '2017-07-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おふくろ
+    singer_name_ruby: えんとうみのる
+    song_variation:
+    - esong_code: 3840B15
       song_name: おふくろ
       content_type: ''
   - song_name: おまえがここにいてほしい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3844B31
       song_name: オラシオンのテーマ 〜共に歩こう〜
+      content_type: ''
+  - song_name: 俺に聞くなよ
+    song_alias:
+    esong_code: 3834B15
+    t_singer_master_id: '19361'
+    singer_name: 田山 ひろし
+    singer_alias:
+    available_date: '2017-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれにきくなよ
+    singer_name_ruby: たやまひろし
+    song_variation:
+    - esong_code: 3834B15
+      song_name: 俺に聞くなよ
       content_type: ''

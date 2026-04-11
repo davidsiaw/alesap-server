@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
-  - song_name: 突然君が消えたって
-    song_alias:
-    esong_code: 3173A10
-    t_singer_master_id: '21988'
-    singer_name: リュ・シウォン
-    singer_alias:
-    available_date: '2014-01-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とつせんきみかき
-    singer_name_ruby: りゆしうおん
-    song_variation:
-    - esong_code: 3173A10
-      song_name: 突然君が消えたって
-      content_type: ''
   - song_name: 突然炎のように!
     song_alias:
     esong_code: 3177B1
@@ -160,23 +143,6 @@ result:
     - esong_code: 3177B49
       song_name: AAAメドレー 〜2013〜
       content_type: ''
-  - song_name: Dreamin' (LAST GIGS) [DAM本人歌唱]
-    song_alias:
-    esong_code: 3168B46
-    t_singer_master_id: '2132'
-    singer_name: BOφWY
-    singer_alias:
-    available_date: '2014-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: とりみん
-    singer_name_ruby: ほうい
-    song_variation:
-    - esong_code: 3168B46
-      song_name: Dreamin' (LAST GIGS) [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: Dreamin' (LAST GIGS)
     song_alias:
     esong_code: 3168B12
@@ -194,13 +160,30 @@ result:
     - esong_code: 3168B12
       song_name: Dreamin' (LAST GIGS)
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: Dreamin' (LAST GIGS) [DAM本人歌唱]
+    song_alias:
+    esong_code: 3168B46
+    t_singer_master_id: '2132'
+    singer_name: BOφWY
+    singer_alias:
+    available_date: '2014-01-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM本人歌唱
+    song_name_ruby: とりみん
+    singer_name_ruby: ほうい
+    song_variation:
+    - esong_code: 3168B46
+      song_name: Dreamin' (LAST GIGS) [DAM本人歌唱]
+      content_type: DAM本人歌唱
   - song_name: DREAM
     song_alias:
     esong_code: 3174B22
     t_singer_master_id: '32156'
     singer_name: 清水 翔太
     singer_alias:
-    available_date: '2014-01-28'
+    available_date: '2014-01-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -336,7 +319,7 @@ result:
     t_singer_master_id: '7990'
     singer_name: 北川 裕二
     singer_alias:
-    available_date: '2014-01-21'
+    available_date: '2014-01-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -517,3 +500,20 @@ result:
     - esong_code: 3175B14
       song_name: 懐かしのダイアナ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 夏の雨
+    song_alias:
+    esong_code: 3177B45
+    t_singer_master_id: '1523'
+    singer_name: DEEN
+    singer_alias:
+    available_date: '2014-01-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なつのあめ
+    singer_name_ruby: ていん
+    song_variation:
+    - esong_code: 3177B45
+      song_name: 夏の雨
+      content_type: ''

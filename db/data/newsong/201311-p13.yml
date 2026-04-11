@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
+  - song_name: 歓起舞
+    song_alias:
+    esong_code: 3143B49
+    t_singer_master_id: '21471'
+    singer_name: 斎藤 千和
+    singer_alias:
+    available_date: '2013-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 境界線上のホライゾンII<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんきまい
+    singer_name_ruby: さいとうちわ
+    song_variation:
+    - esong_code: 3143B49
+      song_name: 歓起舞
+      content_type: ''
   - song_name: 感情七号線
     song_alias:
     esong_code: 3135B45
@@ -32,7 +49,7 @@ result:
     singer_alias:
     available_date: '2013-11-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ 劇場版<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かんせんねんしよう
@@ -449,23 +466,6 @@ result:
     - esong_code: 3148A22
       song_name: 期末試験の帝王
       content_type: VOCALOID
-  - song_name: 君が居れば
-    song_alias:
-    esong_code: 3148B46
-    t_singer_master_id: '49366'
-    singer_name: 石川 界人&泰 勇気
-    singer_alias:
-    available_date: '2013-11-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: イナズマイレブンGO(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみかいれは
-    singer_name_ruby: いしかわかいとたいゆうき
-    song_variation:
-    - esong_code: 3148B46
-      song_name: 君が居れば
-      content_type: ''
   - song_name: 君がいれば feat.Ms.OOJA
     song_alias:
     esong_code: 3142B21
@@ -482,6 +482,23 @@ result:
     song_variation:
     - esong_code: 3142B21
       song_name: 君がいれば feat.Ms.OOJA
+      content_type: ''
+  - song_name: 君が居れば
+    song_alias:
+    esong_code: 3148B46
+    t_singer_master_id: '49366'
+    singer_name: 石川 界人&泰 勇気
+    singer_alias:
+    available_date: '2013-11-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: イナズマイレブンGO(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみかいれは
+    singer_name_ruby: いしかわかいとたいゆうき
+    song_variation:
+    - esong_code: 3148B46
+      song_name: 君が居れば
       content_type: ''
   - song_name: キミがカゼをひいたら、、 (ずっと一途だからver.)
     song_alias:
@@ -500,20 +517,3 @@ result:
     - esong_code: 3143B2
       song_name: キミがカゼをひいたら、、 (ずっと一途だからver.)
       content_type: ''
-  - song_name: 君が好き
-    song_alias:
-    esong_code: 3162A17
-    t_singer_master_id: '2287'
-    singer_name: Mr.Children
-    singer_alias:
-    available_date: '2013-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: きみかすき
-    singer_name_ruby: みすたちるとれん
-    song_variation:
-    - esong_code: 3162A17
-      song_name: 君が好き
-      content_type: JOYﾎﾞｰｶﾙ

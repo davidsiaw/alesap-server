@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
+  - song_name: しあわせのうた 〜風とおさんぽ〜
+    song_alias:
+    esong_code: 1639B7
+    t_singer_master_id: '2929'
+    singer_name: 井上 あずみ
+    singer_alias:
+    available_date: '2006-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しあわせのうた
+    singer_name_ruby: いのうえあすみ
+    song_variation:
+    - esong_code: 1639B7
+      song_name: しあわせのうた 〜風とおさんぽ〜
+      content_type: ''
   - song_name: ジェファーソン
     song_alias:
     esong_code: 1643B45
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 719B30
       song_name: じゃんじゃん酒場 〜盛り場応援歌〜
-      content_type: ''
-  - song_name: See you again
-    song_alias:
-    esong_code: 1629A11
-    t_singer_master_id: '17386'
-    singer_name: 湘南乃風
-    singer_alias:
-    available_date: '2006-09-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆあけいん
-    singer_name_ruby: しようなんのかせ
-    song_variation:
-    - esong_code: 1629A11
-      song_name: See you again
       content_type: ''

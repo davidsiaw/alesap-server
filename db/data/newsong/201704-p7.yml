@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
-  - song_name: Oh yeah!!
-    song_alias:
-    esong_code: 3794A13
-    t_singer_master_id: '57432'
-    singer_name: SNUPER
-    singer_alias:
-    available_date: '2017-04-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おいえ
-    singer_name_ruby: すぬは
-    song_variation:
-    - esong_code: 3794A13
-      song_name: Oh yeah!!
-      content_type: ''
-  - song_name: 大江ふるさと音頭
-    song_alias:
-    esong_code: 3796B47
-    t_singer_master_id: '40372'
-    singer_name: 葵 ひろ子
-    singer_alias:
-    available_date: '2017-04-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおえふるさとおんと
-    singer_name_ruby: あおいひろこ
-    song_variation:
-    - esong_code: 3796B47
-      song_name: 大江ふるさと音頭
-      content_type: ''
   - song_name: 大阪ひとり
     song_alias:
     esong_code: 3792A11
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3800B4
       song_name: 面影列車
+      content_type: ''
+  - song_name: 母娘酒
+    song_alias:
+    esong_code: 3799B45
+    t_singer_master_id: '58696'
+    singer_name: 小田島 あつみ
+    singer_alias:
+    available_date: '2017-04-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやこさけ
+    singer_name_ruby: おたしまあつみ
+    song_variation:
+    - esong_code: 3799B45
+      song_name: 母娘酒
+      content_type: ''
+  - song_name: おやすみパラレル
+    song_alias:
+    esong_code: 3798B29
+    t_singer_master_id: '54702'
+    singer_name: 花守 ゆみり
+    singer_alias:
+    available_date: '2017-04-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 魔法少女育成計画<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやすみはられる
+    singer_name_ruby: はなもりゆみり
+    song_variation:
+    - esong_code: 3798B29
+      song_name: おやすみパラレル
       content_type: ''

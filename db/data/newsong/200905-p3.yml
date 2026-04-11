@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 901
-  all_max_cnt: 1000
-  all_country_cnt: 901
+  max_cnt: 894
+  all_max_cnt: 993
+  all_country_cnt: 894
   song:
   - song_name: 偽りのメロディー
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 2310A7
       song_name: In the sky
       content_type: ''
-  - song_name: In the prime
-    song_alias:
-    esong_code: 2312A21
-    t_singer_master_id: '116'
-    singer_name: あみん
-    singer_alias:
-    available_date: '2009-05-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いんさふらいむ
-    singer_name_ruby: あみん
-    song_variation:
-    - esong_code: 2312A21
-      song_name: In the prime
-      content_type: ''
   - song_name: Internal Division
     song_alias:
     esong_code: 2312B19
@@ -304,7 +287,7 @@ result:
     singer_alias:
     available_date: '2009-05-16'
     end_date: '2999-04-10 00:00:00'
-    tie_up: TALES EXPO 2003<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: いんふろんた
@@ -499,6 +482,23 @@ result:
     song_variation:
     - esong_code: 2313A37
       song_name: Way beyond there
+      content_type: ''
+  - song_name: USO
+    song_alias:
+    esong_code: 2333A12
+    t_singer_master_id: '37016'
+    singer_name: 阿井 莉沙
+    singer_alias:
+    available_date: '2009-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うそ
+    singer_name_ruby: あいりさ
+    song_variation:
+    - esong_code: 2333A12
+      song_name: USO
       content_type: ''
   - song_name: 嘘
     song_alias:

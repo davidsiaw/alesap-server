@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
   - song_name: AFFECTIONS
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 2824A40
       song_name: 安室奈美恵ヒットソングメドレー
       content_type: ''
-  - song_name: 雨の熱海
-    song_alias:
-    esong_code: 2817B17
-    t_singer_master_id: '1047'
-    singer_name: 島津 悦子
-    singer_alias:
-    available_date: '2012-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あめのあたみ
-    singer_name_ruby: しまつえつこ
-    song_variation:
-    - esong_code: 2817B17
-      song_name: 雨の熱海
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 雨の熱海 「名演ギター 斉藤 功」
     song_alias:
     esong_code: 2800B32
@@ -160,6 +143,23 @@ result:
     - esong_code: 2800B32
       song_name: 雨の熱海 「名演ギター 斉藤 功」
       content_type: ''
+  - song_name: 雨の熱海
+    song_alias:
+    esong_code: 2817B17
+    t_singer_master_id: '1047'
+    singer_name: 島津 悦子
+    singer_alias:
+    available_date: '2012-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あめのあたみ
+    singer_name_ruby: しまつえつこ
+    song_variation:
+    - esong_code: 2817B17
+      song_name: 雨の熱海
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 雨のち晴れ
     song_alias:
     esong_code: 2824A44
@@ -502,7 +502,7 @@ result:
       content_type: ''
   - song_name: ER
     song_alias:
-    esong_code: 2823B20
+    esong_code: 2824A45
     t_singer_master_id: '45457'
     singer_name: エイトレンジャー(関ジャニ∞)
     singer_alias:
@@ -510,10 +510,10 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: いある
     singer_name_ruby: えいとれんしや
     song_variation:
-    - esong_code: 2823B20
+    - esong_code: 2824A45
       song_name: ER
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''

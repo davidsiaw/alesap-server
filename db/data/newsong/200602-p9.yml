@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 902
-  all_max_cnt: 1197
-  all_country_cnt: 902
+  max_cnt: 897
+  all_max_cnt: 1191
+  all_country_cnt: 897
   song:
   - song_name: CONTINUE
     song_alias:
@@ -57,23 +57,6 @@ result:
     song_variation:
     - esong_code: 1462B1
       song_name: コンパにカンパイ
-      content_type: ''
-  - song_name: CONFUSION
-    song_alias:
-    esong_code: 267A44
-    t_singer_master_id: '373'
-    singer_name: 大沢 誉志幸
-    singer_alias:
-    available_date: '2006-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こんふゆしよん
-    singer_name_ruby: おおさわよしゆき
-    song_variation:
-    - esong_code: 267A44
-      song_name: CONFUSION
       content_type: ''
   - song_name: 今夜はソフィストケート
     song_alias:
@@ -451,7 +434,7 @@ result:
       content_type: ''
   - song_name: Someday
     song_alias:
-    esong_code: 1448B20
+    esong_code: 1453B17
     t_singer_master_id: '12005'
     singer_name: 倖田 來未
     singer_alias:
@@ -459,13 +442,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
+    content_type:
     song_name_ruby: さむてい
     singer_name_ruby: こうたくみ
     song_variation:
-    - esong_code: 1448B20
+    - esong_code: 1453B17
       song_name: Someday
-      content_type: JOYｸﾘｯﾌﾟ
+      content_type: ''
   - song_name: Someday
     song_alias:
     esong_code: 1457B26
@@ -485,7 +468,7 @@ result:
       content_type: DAM良音
   - song_name: Someday
     song_alias:
-    esong_code: 1453B17
+    esong_code: 1448B20
     t_singer_master_id: '12005'
     singer_name: 倖田 來未
     singer_alias:
@@ -493,13 +476,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: さむてい
     singer_name_ruby: こうたくみ
     song_variation:
-    - esong_code: 1453B17
+    - esong_code: 1448B20
       song_name: Someday
-      content_type: ''
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: サムホエア (英語版)
     song_alias:
     esong_code: 1455A47
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1455A47
       song_name: サムホエア (英語版)
+      content_type: ''
+  - song_name: さめない熱
+    song_alias:
+    esong_code: 1459A41
+    t_singer_master_id: '25334'
+    singer_name: ワタナベ
+    singer_alias:
+    available_date: '2006-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 天使ノ二挺拳銃 -Angelos Armas-<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さめないねつ
+    singer_name_ruby: わたなへ
+    song_variation:
+    - esong_code: 1459A41
+      song_name: さめない熱
       content_type: ''

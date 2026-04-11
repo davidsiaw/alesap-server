@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: アマノジャク
-    song_alias:
-    esong_code: 2107A28
-    t_singer_master_id: '18652'
-    singer_name: 野中 藍
-    singer_alias:
-    available_date: '2008-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あまのしやく
-    singer_name_ruby: のなかあい
-    song_variation:
-    - esong_code: 2107A28
-      song_name: アマノジャク
-      content_type: ''
   - song_name: アマヤドリ
     song_alias:
     esong_code: 2106B30
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2080A49
       song_name: 生きてることが辛いなら (弾き語り)
+      content_type: ''
+  - song_name: EASY WALK (DJ Deckstream Remix)
+    song_alias:
+    esong_code: 2119B4
+    t_singer_master_id: '19130'
+    singer_name: HOME MADE 家族
+    singer_alias:
+    available_date: '2008-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いしうおく
+    singer_name_ruby: ほむめいとかそく
+    song_variation:
+    - esong_code: 2119B4
+      song_name: EASY WALK (DJ Deckstream Remix)
       content_type: ''

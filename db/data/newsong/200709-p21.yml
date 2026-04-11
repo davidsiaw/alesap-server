@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: 鈍行夢列車
-    song_alias:
-    esong_code: 1859A9
-    t_singer_master_id: '652'
-    singer_name: 北見 恭子
-    singer_alias:
-    available_date: '2007-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とんこうゆめれしや
-    singer_name_ruby: きたみきようこ
-    song_variation:
-    - esong_code: 1859A9
-      song_name: 鈍行夢列車
-      content_type: ''
   - song_name: どんだけファンファーレ
     song_alias:
     esong_code: 1872B22
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1860B10
       song_name: ニコニコチャンプ
+      content_type: ''
+  - song_name: 虹
+    song_alias:
+    esong_code: 1865A12
+    t_singer_master_id: '2738'
+    singer_name: 斉藤 和義
+    singer_alias:
+    available_date: '2007-09-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: にし
+    singer_name_ruby: さいとうかすよし
+    song_variation:
+    - esong_code: 1865A12
+      song_name: 虹
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1365
-  all_max_cnt: 1538
-  all_country_cnt: 1365
+  max_cnt: 1361
+  all_max_cnt: 1534
+  all_country_cnt: 1361
   song:
   - song_name: EL
     song_alias:
@@ -230,23 +230,6 @@ result:
       content_type: ''
   - song_name: 一途な女
     song_alias:
-    esong_code: 3666B48
-    t_singer_master_id: '360'
-    singer_name: 大川 栄策
-    singer_alias:
-    available_date: '2016-08-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: いちすなおんな
-    singer_name_ruby: おおかわえいさく
-    song_variation:
-    - esong_code: 3666B48
-      song_name: 一途な女
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 一途な女
-    song_alias:
     esong_code: 3664B25
     t_singer_master_id: '360'
     singer_name: 大川 栄策
@@ -262,6 +245,23 @@ result:
     - esong_code: 3664B25
       song_name: 一途な女
       content_type: ''
+  - song_name: 一途な女
+    song_alias:
+    esong_code: 3666B48
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2016-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: いちすなおんな
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 3666B48
+      song_name: 一途な女
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 銀杏
     song_alias:
     esong_code: 3677A11
@@ -408,7 +408,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: いつたれえいやあ
     singer_name_ruby: ちやひねす
     song_variation:
@@ -428,7 +428,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: いつたれえいやあ
     singer_name_ruby: ちやひねす
     song_variation:

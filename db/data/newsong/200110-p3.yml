@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 350
-  all_max_cnt: 382
-  all_country_cnt: 350
+  max_cnt: 346
+  all_max_cnt: 378
+  all_country_cnt: 346
   song:
-  - song_name: 雲レ日
-    song_alias:
-    esong_code: 694A27
-    t_singer_master_id: '8805'
-    singer_name: '19'
-    singer_alias:
-    available_date: '2001-10-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くもれひ
-    singer_name_ruby: しゆく
-    song_variation:
-    - esong_code: 694A27
-      song_name: 雲レ日
-      content_type: ''
   - song_name: crystal vine
     song_alias:
     esong_code: 693A21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 692A38
       song_name: 里がえり
+      content_type: ''
+  - song_name: サマータイム・サマータイム
+    song_alias:
+    esong_code: 679A30
+    t_singer_master_id: '1960'
+    singer_name: PIZZICATO FIVE
+    singer_alias:
+    available_date: '2001-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さまたいむさまた
+    singer_name_ruby: ひちかとふあいふ
+    song_variation:
+    - esong_code: 679A30
+      song_name: サマータイム・サマータイム
       content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
+  - song_name: 子 ギャル
+    song_alias:
+    esong_code: 3364B5
+    t_singer_master_id: '2735'
+    singer_name: hide
+    singer_alias:
+    available_date: '2014-12-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こきやる
+    singer_name_ruby: ひて
+    song_variation:
+    - esong_code: 3364B5
+      song_name: 子 ギャル
+      content_type: ''
   - song_name: 小倉情話
     song_alias:
     esong_code: 2154B36
@@ -249,7 +266,7 @@ result:
     song_alias:
     esong_code: 1689A5
     t_singer_master_id: '10498'
-    singer_name: 深美 容子
+    singer_name: 深美 容子(深美よう子)
     singer_alias:
     available_date: '2014-12-27'
     end_date: '2999-04-10 00:00:00'
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3368B44
       song_name: 孤独のあかつき (信猫版)
-      content_type: ''
-  - song_name: この際カアちゃんと別れよう
-    song_alias:
-    esong_code: 1573A36
-    t_singer_master_id: '1791'
-    singer_name: ハナ 肇とクレイジー・キャッツ
-    singer_alias:
-    available_date: '2014-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: このさいかあちやんと
-    singer_name_ruby: はなはしめとくれい
-    song_variation:
-    - esong_code: 1573A36
-      song_name: この際カアちゃんと別れよう
       content_type: ''

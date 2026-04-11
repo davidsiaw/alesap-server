@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
+  - song_name: デイゴの花
+    song_alias:
+    esong_code: 3494B6
+    t_singer_master_id: '1403'
+    singer_name: 田端 義夫
+    singer_alias:
+    available_date: '2015-09-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていこのはな
+    singer_name_ruby: たはたよしお
+    song_variation:
+    - esong_code: 3494B6
+      song_name: デイゴの花
+      content_type: ''
   - song_name: DISOBEY feat.TOC
     song_alias:
     esong_code: 3503B32
@@ -83,7 +100,7 @@ result:
     singer_alias:
     available_date: '2015-09-08'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀魂゜<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type: DAM生音
     song_name_ruby: ていはいてい
@@ -143,23 +160,6 @@ result:
     - esong_code: 3492B5
       song_name: 手紙
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: てがみ
-    song_alias:
-    esong_code: 3504A41
-    t_singer_master_id: '13882'
-    singer_name: HY
-    singer_alias:
-    available_date: '2015-09-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: てかみ
-    singer_name_ruby: えいちわい
-    song_variation:
-    - esong_code: 3504A41
-      song_name: てがみ
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 手紙
     song_alias:
     esong_code: 3498A24
@@ -177,6 +177,23 @@ result:
     - esong_code: 3498A24
       song_name: 手紙
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: てがみ
+    song_alias:
+    esong_code: 3504A41
+    t_singer_master_id: '13882'
+    singer_name: HY
+    singer_alias:
+    available_date: '2015-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: てかみ
+    singer_name_ruby: えいちわい
+    song_variation:
+    - esong_code: 3504A41
+      song_name: てがみ
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 手紙を書く癖
     song_alias:
     esong_code: 3504B39
@@ -387,7 +404,7 @@ result:
     t_singer_master_id: '1699'
     singer_name: 成世 昌平
     singer_alias:
-    available_date: '2015-09-01'
+    available_date: '2015-09-02'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3496B45
       song_name: 吐息はYES
-      content_type: ''
-  - song_name: 21世紀マン (20th anniversary ver.)
-    song_alias:
-    esong_code: 3504A33
-    t_singer_master_id: '7494'
-    singer_name: 山崎 まさよし
-    singer_alias:
-    available_date: '2015-09-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうえんていふあす
-    singer_name_ruby: やまさきまさよし
-    song_variation:
-    - esong_code: 3504A33
-      song_name: 21世紀マン (20th anniversary ver.)
       content_type: ''

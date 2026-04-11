@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
+  - song_name: 遥かな空へ
+    song_alias:
+    esong_code: 2556A37
+    t_singer_master_id: '29463'
+    singer_name: KAZCO
+    singer_alias:
+    available_date: '2010-06-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スカイガンナー<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はるかなそらへ
+    singer_name_ruby: かすこ
+    song_variation:
+    - esong_code: 2556A37
+      song_name: 遥かな空へ
+      content_type: ''
   - song_name: Hallucination
     song_alias:
     esong_code: 2549B37
@@ -330,23 +347,6 @@ result:
     - esong_code: 2551B24
       song_name: be alive・・・
       content_type: ''
-  - song_name: 光
-    song_alias:
-    esong_code: 2552A13
-    t_singer_master_id: '37233'
-    singer_name: Hilcrhyme
-    singer_alias:
-    available_date: '2010-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひかり
-    singer_name_ruby: ひるくらいむ
-    song_variation:
-    - esong_code: 2552A13
-      song_name: 光
-      content_type: ''
   - song_name: ヒカリ
     song_alias:
     esong_code: 2554A41
@@ -364,6 +364,23 @@ result:
     - esong_code: 2554A41
       song_name: ヒカリ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 光
+    song_alias:
+    esong_code: 2552A13
+    t_singer_master_id: '37233'
+    singer_name: Hilcrhyme
+    singer_alias:
+    available_date: '2010-06-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひかり
+    singer_name_ruby: ひるくらいむ
+    song_variation:
+    - esong_code: 2552A13
+      song_name: 光
+      content_type: ''
   - song_name: ひかりをあつめて
     song_alias:
     esong_code: 2545A18
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2558A2
       song_name: ヒットソングメドレー2010年 〜1-3月〜
-      content_type: ''
-  - song_name: Beat
-    song_alias:
-    esong_code: 2556B2
-    t_singer_master_id: '17331'
-    singer_name: 鈴村 健一
-    singer_alias:
-    available_date: '2010-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ユア・メモリーズオフ〜Girl's Style〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひと
-    singer_name_ruby: すすむらけんいち
-    song_variation:
-    - esong_code: 2556B2
-      song_name: Beat
       content_type: ''

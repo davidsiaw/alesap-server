@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 479
-  all_max_cnt: 548
-  all_country_cnt: 479
+  max_cnt: 476
+  all_max_cnt: 545
+  all_country_cnt: 476
   song:
-  - song_name: kyun
-    song_alias:
-    esong_code: 229B29
-    t_singer_master_id: '7507'
-    singer_name: Kanae(佳苗)
-    singer_alias:
-    available_date: '2003-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: こちら葛飾区亀有公園前派出所<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きゆん
-    singer_name_ruby: かなえ
-    song_variation:
-    - esong_code: 229B29
-      song_name: kyun
-      content_type: ''
   - song_name: 今日の雨
     song_alias:
     esong_code: 921B13
@@ -398,23 +381,6 @@ result:
     - esong_code: 921B2
       song_name: GOING STEADYメドレー 〜1999〜
       content_type: ''
-  - song_name: Going My Way
-    song_alias:
-    esong_code: 854B22
-    t_singer_master_id: '136'
-    singer_name: アルフィー(THE ALFEE)
-    singer_alias:
-    available_date: '2003-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいんくまいう
-    singer_name_ruby: あるふい
-    song_variation:
-    - esong_code: 854B22
-      song_name: Going My Way
-      content_type: ''
   - song_name: ゴー・ウエスト
     song_alias:
     esong_code: 857A24
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 857A27
       song_name: GOD BLESS xmexxxx
+      content_type: ''
+  - song_name: Go to hell <全英語詞>
+    song_alias:
+    esong_code: 957A32
+    t_singer_master_id: '13439'
+    singer_name: LIV
+    singer_alias:
+    available_date: '2003-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことうへる
+    singer_name_ruby: りふ
+    song_variation:
+    - esong_code: 957A32
+      song_name: Go to hell <全英語詞>
+      content_type: ''
+  - song_name: CODE CRUSH
+    song_alias:
+    esong_code: 230B42
+    t_singer_master_id: '10604'
+    singer_name: 愛内 里菜
+    singer_alias:
+    available_date: '2003-11-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ROCKMAN X7<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことくらつしゆ
+    singer_name_ruby: あいうちりな
+    song_variation:
+    - esong_code: 230B42
+      song_name: CODE CRUSH
       content_type: ''

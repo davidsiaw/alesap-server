@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1410
-  all_max_cnt: 1498
-  all_country_cnt: 1410
+  max_cnt: 1399
+  all_max_cnt: 1487
+  all_country_cnt: 1399
   song:
-  - song_name: DAMランキングベストメドレー 〜2005・演歌&歌謡 男〜
-    song_alias:
-    esong_code: 1552A32
-    t_singer_master_id: '12687'
-    singer_name: DKオリジナルメドレー
-    singer_alias:
-    available_date: '2006-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たむ2005えおと
-    singer_name_ruby: ていけおりしなるめとれ
-    song_variation:
-    - esong_code: 1552A32
-      song_name: DAMランキングベストメドレー 〜2005・演歌&歌謡 男〜
-      content_type: ''
-  - song_name: DAMランキングベストメドレー 〜2005・演歌&歌謡 女〜
-    song_alias:
-    esong_code: 1552A33
-    t_singer_master_id: '12687'
-    singer_name: DKオリジナルメドレー
-    singer_alias:
-    available_date: '2006-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たむ2005えおん
-    singer_name_ruby: ていけおりしなるめとれ
-    song_variation:
-    - esong_code: 1552A33
-      song_name: DAMランキングベストメドレー 〜2005・演歌&歌謡 女〜
-      content_type: ''
-  - song_name: Darlin'
-    song_alias:
-    esong_code: 1527A7
-    t_singer_master_id: '12028'
-    singer_name: ENDLESS
-    singer_alias:
-    available_date: '2006-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たりん
-    singer_name_ruby: えんとれす
-    song_variation:
-    - esong_code: 1527A7
-      song_name: Darlin'
-      content_type: ''
   - song_name: Darling You're The Best
     song_alias:
     esong_code: 964A10
@@ -211,23 +160,6 @@ result:
     - esong_code: 1552B10
       song_name: 小さな手
       content_type: ''
-  - song_name: Chain
-    song_alias:
-    esong_code: 1529A14
-    t_singer_master_id: '24759'
-    singer_name: BACK-ON
-    singer_alias:
-    available_date: '2006-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: エア・ギア<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちえいん
-    singer_name_ruby: はつくおん
-    song_variation:
-    - esong_code: 1529A14
-      song_name: Chain
-      content_type: ''
   - song_name: chain 〜あなたがいない星は私も生きられない〜
     song_alias:
     esong_code: 1527B43
@@ -244,6 +176,23 @@ result:
     song_variation:
     - esong_code: 1527B43
       song_name: chain 〜あなたがいない星は私も生きられない〜
+      content_type: ''
+  - song_name: Chain
+    song_alias:
+    esong_code: 1529A14
+    t_singer_master_id: '24759'
+    singer_name: BACK-ON
+    singer_alias:
+    available_date: '2006-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: エア・ギア<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちえいん
+    singer_name_ruby: はつくおん
+    song_variation:
+    - esong_code: 1529A14
+      song_name: Chain
       content_type: ''
   - song_name: 地下の迷路
     song_alias:
@@ -389,7 +338,7 @@ result:
     singer_alias:
     available_date: '2006-06-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボールZ<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type: JOY SHOW劇
     song_name_ruby: ちやらへつちやら
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 1552A49
       song_name: 月の光をたよりに
+      content_type: ''
+  - song_name: 月見草
+    song_alias:
+    esong_code: 1575B2
+    t_singer_master_id: '141'
+    singer_name: 安全地帯
+    singer_alias:
+    available_date: '2006-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきみそう
+    singer_name_ruby: あんせんちたい
+    song_variation:
+    - esong_code: 1575B2
+      song_name: 月見草
+      content_type: ''
+  - song_name: 月夜
+    song_alias:
+    esong_code: 1527B49
+    t_singer_master_id: '2326'
+    singer_name: 南 こうせつ
+    singer_alias:
+    available_date: '2006-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つきよ
+    singer_name_ruby: みなみこうせつ
+    song_variation:
+    - esong_code: 1527B49
+      song_name: 月夜
+      content_type: ''
+  - song_name: 対馬海峡
+    song_alias:
+    esong_code: 578B10
+    t_singer_master_id: '17808'
+    singer_name: 対馬 壱誠(対馬一誠)
+    singer_alias:
+    available_date: '2006-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: つしまかいきよう
+    singer_name_ruby: つしまいつせい
+    song_variation:
+    - esong_code: 578B10
+      song_name: 対馬海峡
       content_type: ''

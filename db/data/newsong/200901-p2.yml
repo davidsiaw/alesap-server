@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
-  - song_name: 愛しさの糧
-    song_alias:
-    esong_code: 2201B15
-    t_singer_master_id: '5140'
-    singer_name: 笠原 弘子
-    singer_alias:
-    available_date: '2009-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: るろうに剣心・星霜編<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いとしさのかて
-    singer_name_ruby: かさはらひろこ
-    song_variation:
-    - esong_code: 2201B15
-      song_name: 愛しさの糧
-      content_type: ''
   - song_name: いとしのエリー
     song_alias:
     esong_code: 2193A9
@@ -151,7 +134,7 @@ result:
     singer_alias:
     available_date: '2009-01-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 桃井はるこの 超!モモーイ<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: いまあなたかすき
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2201B5
       song_name: 裏町しぐれ
+      content_type: ''
+  - song_name: うれし涙
+    song_alias:
+    esong_code: 2199A19
+    t_singer_master_id: '911'
+    singer_name: 酒井 法子
+    singer_alias:
+    available_date: '2009-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うれしなみた
+    singer_name_ruby: さかいのりこ
+    song_variation:
+    - esong_code: 2199A19
+      song_name: うれし涙
       content_type: ''

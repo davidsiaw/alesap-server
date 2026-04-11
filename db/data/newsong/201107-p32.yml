@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1571
-  all_max_cnt: 1703
-  all_country_cnt: 1571
+  max_cnt: 1566
+  all_max_cnt: 1698
+  all_country_cnt: 1566
   song:
-  - song_name: 2100年の東京タワー
-    song_alias:
-    esong_code: 2643B32
-    t_singer_master_id: '29949'
-    singer_name: 長谷川 明子
-    singer_alias:
-    available_date: '2011-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にせんひやくねんのと
-    singer_name_ruby: はせかわあきこ
-    song_variation:
-    - esong_code: 2643B32
-      song_name: 2100年の東京タワー
-      content_type: ''
-  - song_name: 二番目の女
-    song_alias:
-    esong_code: 2630B49
-    t_singer_master_id: '33250'
-    singer_name: Lycaon
-    singer_alias:
-    available_date: '2011-07-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にはんめのおんな
-    singer_name_ruby: りかおん
-    song_variation:
-    - esong_code: 2630B49
-      song_name: 二番目の女
-      content_type: ''
-  - song_name: にふぇーでーびる故郷
-    song_alias:
-    esong_code: 2610A23
-    t_singer_master_id: '19331'
-    singer_name: 安村 かず子
-    singer_alias:
-    available_date: '2011-07-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: にふえてひる
-    singer_name_ruby: やすむらかすこ
-    song_variation:
-    - esong_code: 2610A23
-      song_name: にふぇーでーびる故郷
-      content_type: ''
-  - song_name: Nyanyanyanyanyanyanya!
-    song_alias:
-    esong_code: 2629B32
-    t_singer_master_id: '40118'
-    singer_name: daniwellP feat.初音ミク
-    singer_alias:
-    available_date: '2011-07-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: にやにやにやにやにや
-    singer_name_ruby: たにえるひふいちやりんくは
-    song_variation:
-    - esong_code: 2629B32
-      song_name: Nyanyanyanyanyanyanya!
-      content_type: VOCALOID
   - song_name: にゃんぱいあ体操
     song_alias:
     esong_code: 2646B48
@@ -102,7 +34,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: にゃんぱいあ -The Animation-<番組名>
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: にやんはいあたいそ
     singer_name_ruby: あそうにやつこにやたいん
     song_variation:
@@ -122,7 +54,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: にゃんぱいあ -The Animation-<番組名>
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: にやんはいあたいそ
     singer_name_ruby: あそうにやつこにやたいん
     song_variation:
@@ -236,23 +168,6 @@ result:
       content_type: ''
   - song_name: NAKED
     song_alias:
-    esong_code: 2642B38
-    t_singer_master_id: '6365'
-    singer_name: 安室 奈美恵
-    singer_alias:
-    available_date: '2011-07-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ねいきつと
-    singer_name_ruby: あむろなみえ
-    song_variation:
-    - esong_code: 2642B38
-      song_name: NAKED
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: NAKED
-    song_alias:
     esong_code: 2643A3
     t_singer_master_id: '6365'
     singer_name: 安室 奈美恵
@@ -268,6 +183,23 @@ result:
     - esong_code: 2643A3
       song_name: NAKED
       content_type: ''
+  - song_name: NAKED
+    song_alias:
+    esong_code: 2642B38
+    t_singer_master_id: '6365'
+    singer_name: 安室 奈美恵
+    singer_alias:
+    available_date: '2011-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ねいきつと
+    singer_name_ruby: あむろなみえ
+    song_variation:
+    - esong_code: 2642B38
+      song_name: NAKED
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Neo Eden
     song_alias:
     esong_code: 2634A4
@@ -440,23 +372,6 @@ result:
       content_type: VOCALOID
   - song_name: ねぶた
     song_alias:
-    esong_code: 2628A19
-    t_singer_master_id: '2103'
-    singer_name: 細川 たかし
-    singer_alias:
-    available_date: '2011-07-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ねふた
-    singer_name_ruby: ほそかわたかし
-    song_variation:
-    - esong_code: 2628A19
-      song_name: ねぶた
-      content_type: DAM生音
-  - song_name: ねぶた
-    song_alias:
     esong_code: 2460A46
     t_singer_master_id: '2103'
     singer_name: 細川 たかし
@@ -472,6 +387,23 @@ result:
     - esong_code: 2460A46
       song_name: ねぶた
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: ねぶた
+    song_alias:
+    esong_code: 2628A19
+    t_singer_master_id: '2103'
+    singer_name: 細川 たかし
+    singer_alias:
+    available_date: '2011-07-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: ねふた
+    singer_name_ruby: ほそかわたかし
+    song_variation:
+    - esong_code: 2628A19
+      song_name: ねぶた
+      content_type: DAM生音
   - song_name: 眠たくて
     song_alias:
     esong_code: 2648A6
@@ -522,4 +454,72 @@ result:
     song_variation:
     - esong_code: 2628B25
       song_name: Noise
+      content_type: ''
+  - song_name: 野口、久津川で爆死
+    song_alias:
+    esong_code: 2638B13
+    t_singer_master_id: '41995'
+    singer_name: モーモールルギャバン
+    singer_alias:
+    available_date: '2011-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のくちくつかわて
+    singer_name_ruby: ももるるきやはん
+    song_variation:
+    - esong_code: 2638B13
+      song_name: 野口、久津川で爆死
+      content_type: ''
+  - song_name: No cry No more
+    song_alias:
+    esong_code: 2631A33
+    t_singer_master_id: '10188'
+    singer_name: AAA
+    singer_alias:
+    available_date: '2011-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: のくらいのもあ
+    singer_name_ruby: とりふるえ
+    song_variation:
+    - esong_code: 2631A33
+      song_name: No cry No more
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: No cry No more
+    song_alias:
+    esong_code: 2632A9
+    t_singer_master_id: '10188'
+    singer_name: AAA
+    singer_alias:
+    available_date: '2011-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: のくらいのもあ
+    singer_name_ruby: とりふるえ
+    song_variation:
+    - esong_code: 2632A9
+      song_name: No cry No more
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: のこりギリギリ
+    song_alias:
+    esong_code: 2643B35
+    t_singer_master_id: '5016'
+    singer_name: P-MODEL
+    singer_alias:
+    available_date: '2011-07-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のこりきりきり
+    singer_name_ruby: ひもてる
+    song_variation:
+    - esong_code: 2643B35
+      song_name: のこりギリギリ
       content_type: ''

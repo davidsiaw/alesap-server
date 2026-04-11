@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
   - song_name: イナヅマ侍
     song_alias:
@@ -285,7 +285,7 @@ result:
     t_singer_master_id: '10435'
     singer_name: きただに ひろし
     singer_alias:
-    available_date: '2011-11-01'
+    available_date: '2011-11-03'
     end_date: '2999-04-10 00:00:00'
     tie_up: ONE PIECE<番組名>
     country_code: '0'
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: ウィンターマジック
     song_alias:
-    esong_code: 2703B45
-    t_singer_master_id: '40445'
-    singer_name: KARA
-    singer_alias:
-    available_date: '2011-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ういんたましつく
-    singer_name_ruby: から
-    song_variation:
-    - esong_code: 2703B45
-      song_name: ウィンターマジック
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: ウィンターマジック
-    song_alias:
     esong_code: 2704B44
     t_singer_master_id: '40445'
     singer_name: KARA
@@ -415,6 +398,40 @@ result:
     - esong_code: 2704B44
       song_name: ウィンターマジック
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: ウィンターマジック
+    song_alias:
+    esong_code: 2703B45
+    t_singer_master_id: '40445'
+    singer_name: KARA
+    singer_alias:
+    available_date: '2011-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: ういんたましつく
+    singer_name_ruby: から
+    song_variation:
+    - esong_code: 2703B45
+      song_name: ウィンターマジック
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Winter Rose (reversible ver.)
+    song_alias:
+    esong_code: 2719A38
+    t_singer_master_id: '21930'
+    singer_name: 東方神起
+    singer_alias:
+    available_date: '2011-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ういんたろす
+    singer_name_ruby: とうほうしんき
+    song_variation:
+    - esong_code: 2719A38
+      song_name: Winter Rose (reversible ver.)
+      content_type: ''
   - song_name: Winter Rose
     song_alias:
     esong_code: 2714B45
@@ -449,23 +466,6 @@ result:
     - esong_code: 2715B28
       song_name: Winter Rose
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Winter Rose (reversible ver.)
-    song_alias:
-    esong_code: 2719A38
-    t_singer_master_id: '21930'
-    singer_name: 東方神起
-    singer_alias:
-    available_date: '2011-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういんたろす
-    singer_name_ruby: とうほうしんき
-    song_variation:
-    - esong_code: 2719A38
-      song_name: Winter Rose (reversible ver.)
-      content_type: ''
   - song_name: WAKE UP! 〜オンナノコのチカラ〜
     song_alias:
     esong_code: 2711A1

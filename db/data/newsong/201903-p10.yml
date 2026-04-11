@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1280
-  all_max_cnt: 1466
-  all_country_cnt: 1280
+  max_cnt: 1271
+  all_max_cnt: 1457
+  all_country_cnt: 1271
   song:
-  - song_name: 北の海峡風港
-    song_alias:
-    esong_code: 3504A17
-    t_singer_master_id: '60027'
-    singer_name: 海老名 重幸
-    singer_alias:
-    available_date: '2019-03-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きたのかいきようかせ
-    singer_name_ruby: えひなしけゆき
-    song_variation:
-    - esong_code: 3504A17
-      song_name: 北の海峡風港
-      content_type: ''
   - song_name: 北のさすらい
     song_alias:
     esong_code: 4158A23
@@ -58,23 +41,6 @@ result:
     - esong_code: 4157A17
       song_name: 北のさすらい
       content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 北のさすらい
-    song_alias:
-    esong_code: 4163B34
-    t_singer_master_id: '5744'
-    singer_name: 藤原 浩
-    singer_alias:
-    available_date: '2019-03-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: きたのさすらい
-    singer_name_ruby: ふしわらひろし
-    song_variation:
-    - esong_code: 4163B34
-      song_name: 北のさすらい
-      content_type: DAM生音
   - song_name: 北の終着駅
     song_alias:
     esong_code: 4166A8
@@ -423,7 +389,7 @@ result:
     singer_alias:
     available_date: '2019-03-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: けものフレンズ2<番組名>
+    tie_up: けものフレンズ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きみはかえるはしよ
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4154B8
       song_name: Galaxy Symphony
+      content_type: ''
+  - song_name: キャラバン feat.初音ミク
+    song_alias:
+    esong_code: 4155B12
+    t_singer_master_id: '63517'
+    singer_name: syudou
+    singer_alias:
+    available_date: '2019-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: きやらはん
+    singer_name_ruby: しゆとう
+    song_variation:
+    - esong_code: 4155B12
+      song_name: キャラバン feat.初音ミク
+      content_type: VOCALOID
+  - song_name: キャンバスシューズ
+    song_alias:
+    esong_code: 4165A5
+    t_singer_master_id: '57124'
+    singer_name: Predawn
+    singer_alias:
+    available_date: '2019-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きやんはすしゆす
+    singer_name_ruby: ふりとん
+    song_variation:
+    - esong_code: 4165A5
+      song_name: キャンバスシューズ
       content_type: ''

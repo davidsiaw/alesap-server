@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 877
-  all_max_cnt: 974
-  all_country_cnt: 877
+  max_cnt: 871
+  all_max_cnt: 968
+  all_country_cnt: 871
   song:
   - song_name: 上がる
     song_alias:
@@ -160,23 +160,6 @@ result:
     - esong_code: 1332B22
       song_name: 朝日のプリズム
       content_type: ''
-  - song_name: 朝まで踊ろう
-    song_alias:
-    esong_code: 1306B3
-    t_singer_master_id: '23471'
-    singer_name: 梅沢 富美男&前川 清
-    singer_alias:
-    available_date: '2005-07-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あさまておとろう
-    singer_name_ruby: うめさわとみおまえかわきよし
-    song_variation:
-    - esong_code: 1306B3
-      song_name: 朝まで踊ろう
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: ASIAN KUNG-FU GENERATIONメドレー 〜2004〜
     song_alias:
     esong_code: 1330A21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 512B9
       song_name: あばれ三味線
+      content_type: ''
+  - song_name: アビ・ルージュの息づかいで
+    song_alias:
+    esong_code: 1332B25
+    t_singer_master_id: '272'
+    singer_name: 岩崎 良美
+    singer_alias:
+    available_date: '2005-07-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あひるしゆのい
+    singer_name_ruby: いわさきよしみ
+    song_variation:
+    - esong_code: 1332B25
+      song_name: アビ・ルージュの息づかいで
       content_type: ''

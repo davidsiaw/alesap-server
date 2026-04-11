@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1324
-  all_max_cnt: 1489
-  all_country_cnt: 1324
+  max_cnt: 1317
+  all_max_cnt: 1482
+  all_country_cnt: 1317
   song:
-  - song_name: グッバイ・ハートブレイク
-    song_alias:
-    esong_code: 3542B3
-    t_singer_master_id: '54635'
-    singer_name: シネマ
-    singer_alias:
-    available_date: '2015-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くつはいはとふ
-    singer_name_ruby: しねま
-    song_variation:
-    - esong_code: 3542B3
-      song_name: グッバイ・ハートブレイク
-      content_type: ''
   - song_name: 国生み恋歌
     song_alias:
     esong_code: 3551B39
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3551B31
       song_name: KOIKI
+      content_type: ''
+  - song_name: 恋酒場
+    song_alias:
+    esong_code: 2322B27
+    t_singer_master_id: '54553'
+    singer_name: はやかわ 美沙
+    singer_alias:
+    available_date: '2015-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいさかは
+    singer_name_ruby: はやかわみさ
+    song_variation:
+    - esong_code: 2322B27
+      song_name: 恋酒場
       content_type: ''

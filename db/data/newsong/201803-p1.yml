@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1339
-  all_max_cnt: 1524
-  all_country_cnt: 1339
+  max_cnt: 1329
+  all_max_cnt: 1514
+  all_country_cnt: 1329
   song:
   - song_name: 証
     song_alias:
@@ -193,23 +193,6 @@ result:
     song_variation:
     - esong_code: 3961B5
       song_name: 悪魔は隣のテーブルに
-      content_type: ''
-  - song_name: AGAIN AND AGAIN
-    song_alias:
-    esong_code: 3966A49
-    t_singer_master_id: '27708'
-    singer_name: 柿原 徹也
-    singer_alias:
-    available_date: '2018-03-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけいんあんとあ
-    singer_name_ruby: かきはらてつや
-    song_variation:
-    - esong_code: 3966A49
-      song_name: AGAIN AND AGAIN
       content_type: ''
   - song_name: あこがれのファニータ
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 3957A34
       song_name: あと一歩
       content_type: ''
+  - song_name: 後の祭
+    song_alias:
+    esong_code: 3966B25
+    t_singer_master_id: '59525'
+    singer_name: 蜂屋 ななし
+    singer_alias:
+    available_date: '2018-03-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: あとのまつり
+    singer_name_ruby: はちやななし
+    song_variation:
+    - esong_code: 3966B25
+      song_name: 後の祭
+      content_type: VOCALOID

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1046
-  all_max_cnt: 1110
-  all_country_cnt: 1046
+  max_cnt: 1043
+  all_max_cnt: 1107
+  all_country_cnt: 1043
   song:
-  - song_name: 赤花
-    song_alias:
-    esong_code: 1855A3
-    t_singer_master_id: '5883'
-    singer_name: ネーネーズ
-    singer_alias:
-    available_date: '2007-08-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あかはな
-    singer_name_ruby: ねねす
-    song_variation:
-    - esong_code: 1855A3
-      song_name: 赤花
-      content_type: ''
   - song_name: 秋風 〜レゲエリミックス〜 by NORISHIROCKS
     song_alias:
     esong_code: 1850A1
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1856B41
       song_name: 妖しいまでに美しいおまえ (安蘭けい 他)
+      content_type: ''
+  - song_name: ALIVE
+    song_alias:
+    esong_code: 1856B9
+    t_singer_master_id: '29127'
+    singer_name: WISE
+    singer_alias:
+    available_date: '2007-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あらいふ
+    singer_name_ruby: わいす
+    song_variation:
+    - esong_code: 1856B9
+      song_name: ALIVE
       content_type: ''

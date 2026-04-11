@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
+  - song_name: Beat
+    song_alias:
+    esong_code: 2556B2
+    t_singer_master_id: '17331'
+    singer_name: 鈴村 健一
+    singer_alias:
+    available_date: '2010-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ユア・メモリーズオフ〜Girl's Style〜<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひと
+    singer_name_ruby: すすむらけんいち
+    song_variation:
+    - esong_code: 2556B2
+      song_name: Beat
+      content_type: ''
   - song_name: 人恋酒場 (夏木ゆたか歌謡劇場)
     song_alias:
     esong_code: 2566B20
@@ -194,23 +211,6 @@ result:
     - esong_code: 2559A35
       song_name: 陽はまた昇る
       content_type: ''
-  - song_name: 向日葵
-    song_alias:
-    esong_code: 2450B32
-    t_singer_master_id: '15507'
-    singer_name: 増田 空人
-    singer_alias:
-    available_date: '2010-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひまわり
-    singer_name_ruby: ますたあきひと
-    song_variation:
-    - esong_code: 2450B32
-      song_name: 向日葵
-      content_type: ''
   - song_name: ひまわり
     song_alias:
     esong_code: 1077A39
@@ -227,6 +227,23 @@ result:
     song_variation:
     - esong_code: 1077A39
       song_name: ひまわり
+      content_type: ''
+  - song_name: 向日葵
+    song_alias:
+    esong_code: 2450B32
+    t_singer_master_id: '15507'
+    singer_name: 増田 空人
+    singer_alias:
+    available_date: '2010-06-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひまわり
+    singer_name_ruby: ますたあきひと
+    song_variation:
+    - esong_code: 2450B32
+      song_name: 向日葵
       content_type: ''
   - song_name: 1/100
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2555A26
       song_name: Funny Bunny (Rock Stock Version)
-      content_type: ''
-  - song_name: FARAWAY
-    song_alias:
-    esong_code: 2555B22
-    t_singer_master_id: '25554'
-    singer_name: KAT-TUN
-    singer_alias:
-    available_date: '2010-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふあらうえい
-    singer_name_ruby: かとうん
-    song_variation:
-    - esong_code: 2555B22
-      song_name: FARAWAY
       content_type: ''

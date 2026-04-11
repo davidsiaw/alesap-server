@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: SOUL FOOD
+    song_alias:
+    esong_code: 3047A29
+    t_singer_master_id: '14047'
+    singer_name: CRAZY KEN BAND
+    singer_alias:
+    available_date: '2013-05-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そうるふと
+    singer_name_ruby: くれいしけんはんと
+    song_variation:
+    - esong_code: 3047A29
+      song_name: SOUL FOOD
+      content_type: ''
   - song_name: 卒恋歌
     song_alias:
     esong_code: 3032B39
@@ -98,7 +115,7 @@ result:
     t_singer_master_id: '10507'
     singer_name: 氷川 きよし
     singer_alias:
-    available_date: '2013-05-28'
+    available_date: '2013-05-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -128,23 +145,6 @@ result:
       content_type: ''
   - song_name: それでも、生きてゆく
     song_alias:
-    esong_code: 3029B46
-    t_singer_master_id: '47745'
-    singer_name: EXILE ATSUSHI&辻井 伸行
-    singer_alias:
-    available_date: '2013-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: それてもいきてゆく
-    singer_name_ruby: えくさいるあつしつしいのふゆき
-    song_variation:
-    - esong_code: 3029B46
-      song_name: それでも、生きてゆく
-      content_type: ''
-  - song_name: それでも、生きてゆく
-    song_alias:
     esong_code: 3030A19
     t_singer_master_id: '47745'
     singer_name: EXILE ATSUSHI&辻井 伸行
@@ -160,6 +160,23 @@ result:
     - esong_code: 3030A19
       song_name: それでも、生きてゆく
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: それでも、生きてゆく
+    song_alias:
+    esong_code: 3029B46
+    t_singer_master_id: '47745'
+    singer_name: EXILE ATSUSHI&辻井 伸行
+    singer_alias:
+    available_date: '2013-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: それてもいきてゆく
+    singer_name_ruby: えくさいるあつしつしいのふゆき
+    song_variation:
+    - esong_code: 3029B46
+      song_name: それでも、生きてゆく
+      content_type: ''
   - song_name: ダイアモンド クレバス
     song_alias:
     esong_code: 3048A1
@@ -202,7 +219,7 @@ result:
     singer_alias:
     available_date: '2013-05-02'
     end_date: '2999-04-10 00:00:00'
-    tie_up: beatmania ⅡDX 10thStyle<番組名>
+    tie_up: beatmania ⅡDX<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たいすけ
@@ -500,20 +517,3 @@ result:
     - esong_code: 3047B7
       song_name: Dark Death Decoration
       content_type: ''
-  - song_name: たしかなこと
-    song_alias:
-    esong_code: 3048A30
-    t_singer_master_id: '444'
-    singer_name: 小田 和正
-    singer_alias:
-    available_date: '2013-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: たしかなこと
-    singer_name_ruby: おたかすまさ
-    song_variation:
-    - esong_code: 3048A30
-      song_name: たしかなこと
-      content_type: JOYﾎﾞｰｶﾙ

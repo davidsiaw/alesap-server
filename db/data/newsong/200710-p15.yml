@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1415
-  all_max_cnt: 1522
-  all_country_cnt: 1415
+  max_cnt: 1411
+  all_max_cnt: 1518
+  all_country_cnt: 1411
   song:
-  - song_name: GO!GO!
-    song_alias:
-    esong_code: 1887A22
-    t_singer_master_id: '5729'
-    singer_name: 横道坊主
-    singer_alias:
-    available_date: '2007-10-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ここ
-    singer_name_ruby: おうとうほうす
-    song_variation:
-    - esong_code: 1887A22
-      song_name: GO!GO!
-      content_type: ''
-  - song_name: ここから
-    song_alias:
-    esong_code: 1884A49
-    t_singer_master_id: '1928'
-    singer_name: B'z
-    singer_alias:
-    available_date: '2007-10-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ここから
-    singer_name_ruby: ひす
-    song_variation:
-    - esong_code: 1884A49
-      song_name: ここから
-      content_type: ''
   - song_name: ここでキスして。
     song_alias:
     esong_code: 1889A25
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1891B40
       song_name: 最高のプレシャス
+      content_type: ''
+  - song_name: 最後の嘘
+    song_alias:
+    esong_code: 1889A13
+    t_singer_master_id: '2221'
+    singer_name: 松任谷 由実(荒井由実)
+    singer_alias:
+    available_date: '2007-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: さいこのうそ
+    singer_name_ruby: まつとうやゆみあらいゆみ
+    song_variation:
+    - esong_code: 1889A13
+      song_name: 最後の嘘
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 最期の川
+    song_alias:
+    esong_code: 1876B49
+    t_singer_master_id: '12321'
+    singer_name: CHEMISTRY
+    singer_alias:
+    available_date: '2007-10-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいこのかわ
+    singer_name_ruby: けみすとり
+    song_variation:
+    - esong_code: 1876B49
+      song_name: 最期の川
       content_type: ''

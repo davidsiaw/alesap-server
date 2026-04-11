@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1114
-  all_max_cnt: 1275
-  all_country_cnt: 1114
+  max_cnt: 1110
+  all_max_cnt: 1271
+  all_country_cnt: 1110
   song:
   - song_name: 男心も迷うのさ
     song_alias:
@@ -117,7 +117,7 @@ result:
     singer_alias:
     available_date: '2015-01-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神谷浩史・小野大輔のDearGirl 〜Stories〜<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: おとこらふそてい
@@ -279,40 +279,6 @@ result:
     - esong_code: 2819A38
       song_name: おべんとうさん
       content_type: ''
-  - song_name: おまえはどこに (ニューボーカル)
-    song_alias:
-    esong_code: 3072B48
-    t_singer_master_id: '17780'
-    singer_name: 坂井 一郎
-    singer_alias:
-    available_date: '2015-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おまえはとこに
-    singer_name_ruby: さかいいちろう
-    song_variation:
-    - esong_code: 3072B48
-      song_name: おまえはどこに (ニューボーカル)
-      content_type: ''
-  - song_name: おまえはどこに
-    song_alias:
-    esong_code: 1487B47
-    t_singer_master_id: '17780'
-    singer_name: 坂井 一郎
-    singer_alias:
-    available_date: '2015-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おまえはとこに
-    singer_name_ruby: さかいいちろう
-    song_variation:
-    - esong_code: 1487B47
-      song_name: おまえはどこに
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: おまえはどこに
     song_alias:
     esong_code: 1499B14
@@ -330,6 +296,40 @@ result:
     - esong_code: 1499B14
       song_name: おまえはどこに
       content_type: DAM生音
+  - song_name: おまえはどこに
+    song_alias:
+    esong_code: 1487B47
+    t_singer_master_id: '17780'
+    singer_name: 坂井 一郎
+    singer_alias:
+    available_date: '2015-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おまえはとこに
+    singer_name_ruby: さかいいちろう
+    song_variation:
+    - esong_code: 1487B47
+      song_name: おまえはどこに
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: おまえはどこに (ニューボーカル)
+    song_alias:
+    esong_code: 3072B48
+    t_singer_master_id: '17780'
+    singer_name: 坂井 一郎
+    singer_alias:
+    available_date: '2015-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おまえはとこに
+    singer_name_ruby: さかいいちろう
+    song_variation:
+    - esong_code: 3072B48
+      song_name: おまえはどこに (ニューボーカル)
+      content_type: ''
   - song_name: OMELAS
     song_alias:
     esong_code: 3379B24
@@ -483,7 +483,7 @@ result:
     - esong_code: 3378A49
       song_name: オラシオン
       content_type: ''
-  - song_name: オ・ララ・アムール (大和悠河ほか) [DAM本人歌唱]
+  - song_name: オ・ララ・アムール (大和悠河 ほか)[DAM本人歌唱]
     song_alias:
     esong_code: 3383B4
     t_singer_master_id: '1349'
@@ -498,7 +498,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3383B4
-      song_name: オ・ララ・アムール (大和悠河ほか) [DAM本人歌唱]
+      song_name: オ・ララ・アムール (大和悠河 ほか)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: O.R.I.O.N.
     song_alias:

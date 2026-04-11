@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1324
-  all_max_cnt: 1489
-  all_country_cnt: 1324
+  max_cnt: 1317
+  all_max_cnt: 1482
+  all_country_cnt: 1317
   song:
-  - song_name: シュガーソングとビターステップ
-    song_alias:
-    esong_code: 3451A37
-    t_singer_master_id: '33612'
-    singer_name: UNISON SQUARE GARDEN
-    singer_alias:
-    available_date: '2015-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 血界戦線<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: しゆかそんくと
-    singer_name_ruby: ゆにそんすくえあかてん
-    song_variation:
-    - esong_code: 3451A37
-      song_name: シュガーソングとビターステップ
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: ジュージューシー!!
     song_alias:
     esong_code: 3553A36
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3544B49
       song_name: シンデレラ・パラドックス
+      content_type: ''
+  - song_name: 心友フォーエヴァー
+    song_alias:
+    esong_code: 3551B32
+    t_singer_master_id: '52149'
+    singer_name: あゆみくりかまき
+    singer_alias:
+    available_date: '2015-11-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんゆうふおえは
+    singer_name_ruby: あゆみくりかまき
+    song_variation:
+    - esong_code: 3551B32
+      song_name: 心友フォーエヴァー
       content_type: ''

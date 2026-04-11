@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1472
-  all_max_cnt: 1659
-  all_country_cnt: 1472
+  max_cnt: 1474
+  all_max_cnt: 1661
+  all_country_cnt: 1474
   song:
   - song_name: HEYLAS feat.GASHIMA,ISH-ONE,SHIROSE,TOC
     song_alias:
@@ -485,23 +485,6 @@ result:
       content_type: ''
   - song_name: 星のうつわ
     song_alias:
-    esong_code: 3363A49
-    t_singer_master_id: '16005'
-    singer_name: スキマスイッチ
-    singer_alias:
-    available_date: '2014-12-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: NARUTO-ナルト-(劇場版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしのうつわ
-    singer_name_ruby: すきますいつち
-    song_variation:
-    - esong_code: 3363A49
-      song_name: 星のうつわ
-      content_type: ''
-  - song_name: 星のうつわ
-    song_alias:
     esong_code: 3363B1
     t_singer_master_id: '16005'
     singer_name: スキマスイッチ
@@ -517,3 +500,20 @@ result:
     - esong_code: 3363B1
       song_name: 星のうつわ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 星のうつわ
+    song_alias:
+    esong_code: 3363A49
+    t_singer_master_id: '16005'
+    singer_name: スキマスイッチ
+    singer_alias:
+    available_date: '2014-12-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: NARUTO-ナルト-(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほしのうつわ
+    singer_name_ruby: すきますいつち
+    song_variation:
+    - esong_code: 3363A49
+      song_name: 星のうつわ
+      content_type: ''

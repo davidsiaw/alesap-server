@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1500
-  all_max_cnt: 1660
-  all_country_cnt: 1500
+  max_cnt: 1480
+  all_max_cnt: 1639
+  all_country_cnt: 1480
   song:
-  - song_name: いのちの海峡
-    song_alias:
-    esong_code: 3091A34
-    t_singer_master_id: '389'
-    singer_name: 大月 みやこ
-    singer_alias:
-    available_date: '2013-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: いのちのかいきよう
-    singer_name_ruby: おおつきみやこ
-    song_variation:
-    - esong_code: 3091A34
-      song_name: いのちの海峡
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 生命の花
-    song_alias:
-    esong_code: 1931A10
-    t_singer_master_id: '31990'
-    singer_name: 高平 翔
-    singer_alias:
-    available_date: '2013-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのちのはな
-    singer_name_ruby: たかひらしよう
-    song_variation:
-    - esong_code: 1931A10
-      song_name: 生命の花
-      content_type: ''
   - song_name: いのちのふるさと
     song_alias:
     esong_code: 2679B47
@@ -92,23 +58,6 @@ result:
     - esong_code: 3104B31
       song_name: 祈り歌 〜あなたへ〜
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 祈りのように (瀬奈じゅん・霧矢大夢・城咲あい)
-    song_alias:
-    esong_code: 3107A34
-    t_singer_master_id: '1349'
-    singer_name: 宝塚歌劇団
-    singer_alias:
-    available_date: '2013-09-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのりのように
-    singer_name_ruby: たからつかかけき
-    song_variation:
-    - esong_code: 3107A34
-      song_name: 祈りのように (瀬奈じゅん・霧矢大夢・城咲あい)
-      content_type: ''
   - song_name: IF...君さえいれば (Japanese ver.)
     song_alias:
     esong_code: 3104B6
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 1946A9
       song_name: 美しき草原我が家
+      content_type: ''
+  - song_name: うつり香
+    song_alias:
+    esong_code: 3110A11
+    t_singer_master_id: '40583'
+    singer_name: 九十九 弘美
+    singer_alias:
+    available_date: '2013-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うつりか
+    singer_name_ruby: つくもひろみ
+    song_variation:
+    - esong_code: 3110A11
+      song_name: うつり香
+      content_type: ''
+  - song_name: うどん
+    song_alias:
+    esong_code: 3102B3
+    t_singer_master_id: '42870'
+    singer_name: Gero
+    singer_alias:
+    available_date: '2013-09-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うとん
+    singer_name_ruby: けろ
+    song_variation:
+    - esong_code: 3102B3
+      song_name: うどん
+      content_type: ''
+  - song_name: 海とぅ島
+    song_alias:
+    esong_code: 1132B3
+    t_singer_master_id: '2883'
+    singer_name: りんけんバンド
+    singer_alias:
+    available_date: '2013-09-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うみとうしま
+    singer_name_ruby: りんけんはんと
+    song_variation:
+    - esong_code: 1132B3
+      song_name: 海とぅ島
       content_type: ''

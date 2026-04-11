@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
   - song_name: おまえの噂
     song_alias:
@@ -81,7 +81,7 @@ result:
     t_singer_master_id: '11878'
     singer_name: 青戸 健
     singer_alias:
-    available_date: '2009-01-13'
+    available_date: '2009-01-15'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -398,23 +398,6 @@ result:
     - esong_code: 2193B44
       song_name: 神楽坂
       content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: カゲロウ
-    song_alias:
-    esong_code: 2195A16
-    t_singer_master_id: '33995'
-    singer_name: SCANDAL
-    singer_alias:
-    available_date: '2009-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かけろう
-    singer_name_ruby: すきやんたる
-    song_variation:
-    - esong_code: 2195A16
-      song_name: カゲロウ
-      content_type: ''
   - song_name: 陽炎
     song_alias:
     esong_code: 2192A24
@@ -431,6 +414,23 @@ result:
     song_variation:
     - esong_code: 2192A24
       song_name: 陽炎
+      content_type: ''
+  - song_name: カゲロウ
+    song_alias:
+    esong_code: 2195A16
+    t_singer_master_id: '33995'
+    singer_name: SCANDAL
+    singer_alias:
+    available_date: '2009-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かけろう
+    singer_name_ruby: すきやんたる
+    song_variation:
+    - esong_code: 2195A16
+      song_name: カゲロウ
       content_type: ''
   - song_name: がしゃ髑髏
     song_alias:

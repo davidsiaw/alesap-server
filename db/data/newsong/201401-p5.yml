@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1120
-  all_max_cnt: 1390
-  all_country_cnt: 1120
+  max_cnt: 1118
+  all_max_cnt: 1388
+  all_country_cnt: 1118
   song:
   - song_name: 噂の雨がふる前に
     song_alias:
@@ -177,23 +177,6 @@ result:
     - esong_code: 3171A37
       song_name: EDGE OF HEAVEN
       content_type: ''
-  - song_name: edeN (M@STER VERSION)
-    song_alias:
-    esong_code: 3170B40
-    t_singer_master_id: '49665'
-    singer_name: 長谷川 明子&浅倉 杏美&平田 宏美&原 由実
-    singer_alias:
-    available_date: '2014-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドルマスター シャイニーフェスタ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えてん
-    singer_name_ruby: はせかわあきこあさくらあす
-    song_variation:
-    - esong_code: 3170B40
-      song_name: edeN (M@STER VERSION)
-      content_type: ''
   - song_name: エデン
     song_alias:
     esong_code: 3175B8
@@ -211,7 +194,24 @@ result:
     - esong_code: 3175B8
       song_name: エデン
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Etoile de TAKARAZUKA (柚希礼音ほか) [DAM本人歌唱]
+  - song_name: edeN (M@STER VERSION)
+    song_alias:
+    esong_code: 3170B40
+    t_singer_master_id: '49665'
+    singer_name: 長谷川 明子&浅倉 杏美&平田 宏美&原 由実
+    singer_alias:
+    available_date: '2014-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アイドルマスター シャイニーフェスタ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えてん
+    singer_name_ruby: はせかわあきこあさくらあす
+    song_variation:
+    - esong_code: 3170B40
+      song_name: edeN (M@STER VERSION)
+      content_type: ''
+  - song_name: Etoile de TAKARAZUKA (柚希礼音ほか)[DAM本人歌唱]
     song_alias:
     esong_code: 3167A32
     t_singer_master_id: '1349'
@@ -226,7 +226,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3167A32
-      song_name: Etoile de TAKARAZUKA (柚希礼音ほか) [DAM本人歌唱]
+      song_name: Etoile de TAKARAZUKA (柚希礼音ほか)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: Energy Flight
     song_alias:
@@ -389,7 +389,7 @@ result:
     singer_alias:
     available_date: '2014-01-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 東映公認 鈴村健一・神谷浩史の仮面ラジレンジャー<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: えれめんつらしれん

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: モルモットと傭兵 feat.GUMI
-    song_alias:
-    esong_code: 2809A22
-    t_singer_master_id: '44906'
-    singer_name: くるりんご
-    singer_alias:
-    available_date: '2012-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: もるもつととようへい
-    singer_name_ruby: くるりんこ
-    song_variation:
-    - esong_code: 2809A22
-      song_name: モルモットと傭兵 feat.GUMI
-      content_type: VOCALOID
   - song_name: MONSTER
     song_alias:
     esong_code: 2579B6
@@ -41,22 +24,22 @@ result:
     - esong_code: 2579B6
       song_name: MONSTER
       content_type: ''
-  - song_name: MONSTER
+  - song_name: 約束
     song_alias:
-    esong_code: 2805B21
-    t_singer_master_id: '29285'
-    singer_name: BIGBANG
+    esong_code: 2798B43
+    t_singer_master_id: '6086'
+    singer_name: エレファントカシマシ
     singer_alias:
-    available_date: '2012-06-20'
+    available_date: '2012-06-05'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: もんすた
-    singer_name_ruby: ひつくはん
+    song_name_ruby: やくそく
+    singer_name_ruby: えれふあんとかしまし
     song_variation:
-    - esong_code: 2805B21
-      song_name: MONSTER
+    - esong_code: 2798B43
+      song_name: 約束
       content_type: ''
   - song_name: 約束
     song_alias:
@@ -73,23 +56,6 @@ result:
     singer_name_ruby: もりやまあいこ
     song_variation:
     - esong_code: 2374B46
-      song_name: 約束
-      content_type: ''
-  - song_name: 約束
-    song_alias:
-    esong_code: 2798B43
-    t_singer_master_id: '6086'
-    singer_name: エレファントカシマシ
-    singer_alias:
-    available_date: '2012-06-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: やくそく
-    singer_name_ruby: えれふあんとかしまし
-    song_variation:
-    - esong_code: 2798B43
       song_name: 約束
       content_type: ''
   - song_name: 八千代ノ華
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2798A29
       song_name: 夢香のお笑いお茶々づくし
+      content_type: ''
+  - song_name: 夢喰いナイトメア feat.初音ミク
+    song_alias:
+    esong_code: 2808B40
+    t_singer_master_id: '41176'
+    singer_name: PolyphonicBranch
+    singer_alias:
+    available_date: '2012-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ゆめくいないとめあ
+    singer_name_ruby: ほりふおにつくふらんち
+    song_variation:
+    - esong_code: 2808B40
+      song_name: 夢喰いナイトメア feat.初音ミク
+      content_type: VOCALOID
+  - song_name: 夢桜
+    song_alias:
+    esong_code: 2810A5
+    t_singer_master_id: '32087'
+    singer_name: 新井 笑子
+    singer_alias:
+    available_date: '2012-06-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめさくら
+    singer_name_ruby: あらいえみこ
+    song_variation:
+    - esong_code: 2810A5
+      song_name: 夢桜
       content_type: ''

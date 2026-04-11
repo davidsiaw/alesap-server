@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: サイクリング リサイクル
-    song_alias:
-    esong_code: 1579B16
-    t_singer_master_id: '26918'
-    singer_name: きりん
-    singer_alias:
-    available_date: '2006-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ケロロ軍曹<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいくりんくりさい
-    singer_name_ruby: きりん
-    song_variation:
-    - esong_code: 1579B16
-      song_name: サイクリング リサイクル
-      content_type: ''
-  - song_name: 最高の片想い
-    song_alias:
-    esong_code: 1624B19
-    t_singer_master_id: '25415'
-    singer_name: タイナカ サチ
-    singer_alias:
-    available_date: '2006-08-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 彩雲国物語<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいこうのかたおもい
-    singer_name_ruby: たいなかさち
-    song_variation:
-    - esong_code: 1624B19
-      song_name: 最高の片想い
-      content_type: ''
   - song_name: 最後のホー
     song_alias:
     esong_code: 1582B31
@@ -83,7 +49,7 @@ result:
     singer_alias:
     available_date: '2006-08-23'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ブラックジャック21<番組名>
+    tie_up: ブラックジャック<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さいれんすういすは
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1569B24
       song_name: 淋しき我ら
+      content_type: ''
+  - song_name: さよなら
+    song_alias:
+    esong_code: 1608B39
+    t_singer_master_id: '22958'
+    singer_name: 大山 百合香
+    singer_alias:
+    available_date: '2006-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよなら
+    singer_name_ruby: おおやまゆりか
+    song_variation:
+    - esong_code: 1608B39
+      song_name: さよなら
+      content_type: ''
+  - song_name: サヨナラ
+    song_alias:
+    esong_code: 1610A22
+    t_singer_master_id: '12808'
+    singer_name: MOOMIN
+    singer_alias:
+    available_date: '2006-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよなら
+    singer_name_ruby: むみん
+    song_variation:
+    - esong_code: 1610A22
+      song_name: サヨナラ
       content_type: ''

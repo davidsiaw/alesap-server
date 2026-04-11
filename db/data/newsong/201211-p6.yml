@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
-  - song_name: ウィンター・ガーデン
-    song_alias:
-    esong_code: 582B17
-    t_singer_master_id: '2217'
-    singer_name: 松田 聖子
-    singer_alias:
-    available_date: '2012-11-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういんたかて
-    singer_name_ruby: まつたせいこ
-    song_variation:
-    - esong_code: 582B17
-      song_name: ウィンター・ガーデン
-      content_type: ''
   - song_name: Winter Lover
     song_alias:
     esong_code: 2941A41
@@ -40,23 +23,6 @@ result:
     song_variation:
     - esong_code: 2941A41
       song_name: Winter Lover
-      content_type: ''
-  - song_name: Waiting for You
-    song_alias:
-    esong_code: 2941B16
-    t_singer_master_id: '2770'
-    singer_name: Chara
-    singer_alias:
-    available_date: '2012-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえいていんくふお
-    singer_name_ruby: ちやら
-    song_variation:
-    - esong_code: 2941B16
-      song_name: Waiting for You
       content_type: ''
   - song_name: WAITING 4 U
     song_alias:
@@ -75,6 +41,23 @@ result:
     - esong_code: 2928A13
       song_name: WAITING 4 U
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: Waiting for You
+    song_alias:
+    esong_code: 2941B16
+    t_singer_master_id: '2770'
+    singer_name: Chara
+    singer_alias:
+    available_date: '2012-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うえいていんくふお
+    singer_name_ruby: ちやら
+    song_variation:
+    - esong_code: 2941B16
+      song_name: Waiting for You
+      content_type: ''
   - song_name: Wave
     song_alias:
     esong_code: 2924A3
@@ -213,23 +196,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: 歌うたいのバラッド
     song_alias:
-    esong_code: 2920A8
-    t_singer_master_id: '19365'
-    singer_name: BENI(安良城 紅)
-    singer_alias:
-    available_date: '2012-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたうたいのはらつ
-    singer_name_ruby: へに
-    song_variation:
-    - esong_code: 2920A8
-      song_name: 歌うたいのバラッド
-      content_type: ''
-  - song_name: 歌うたいのバラッド
-    song_alias:
     esong_code: 2929A7
     t_singer_master_id: '19365'
     singer_name: BENI(安良城 紅)
@@ -245,6 +211,23 @@ result:
     - esong_code: 2929A7
       song_name: 歌うたいのバラッド
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 歌うたいのバラッド
+    song_alias:
+    esong_code: 2920A8
+    t_singer_master_id: '19365'
+    singer_name: BENI(安良城 紅)
+    singer_alias:
+    available_date: '2012-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うたうたいのはらつ
+    singer_name_ruby: へに
+    song_variation:
+    - esong_code: 2920A8
+      song_name: 歌うたいのバラッド
+      content_type: ''
   - song_name: うたかたの風
     song_alias:
     esong_code: 2937B25
@@ -296,23 +279,6 @@ result:
     - esong_code: 2928B8
       song_name: 唄旅鴉 feat.初音ミク
       content_type: VOCALOID
-  - song_name: うたの☆プリンスさまっ♪マジLOVE1000%メドレー3
-    song_alias:
-    esong_code: 2935B18
-    t_singer_master_id: '24121'
-    singer_name: アニメメドレー
-    singer_alias:
-    available_date: '2012-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: うたの☆プリンスさまっ♪(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたのふりんすさま
-    singer_name_ruby: あにめめとれ
-    song_variation:
-    - esong_code: 2935B18
-      song_name: うたの☆プリンスさまっ♪マジLOVE1000%メドレー3
-      content_type: ''
   - song_name: うたの☆プリンスさまっ♪マジLOVE1000%メドレー2
     song_alias:
     esong_code: 2935B17
@@ -329,6 +295,23 @@ result:
     song_variation:
     - esong_code: 2935B17
       song_name: うたの☆プリンスさまっ♪マジLOVE1000%メドレー2
+      content_type: ''
+  - song_name: うたの☆プリンスさまっ♪マジLOVE1000%メドレー3
+    song_alias:
+    esong_code: 2935B18
+    t_singer_master_id: '24121'
+    singer_name: アニメメドレー
+    singer_alias:
+    available_date: '2012-11-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: うたの☆プリンスさまっ♪(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うたのふりんすさま
+    singer_name_ruby: あにめめとれ
+    song_variation:
+    - esong_code: 2935B18
+      song_name: うたの☆プリンスさまっ♪マジLOVE1000%メドレー3
       content_type: ''
   - song_name: 歌の町
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 2930B8
       song_name: 浦安そだち
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: ウルトラセブン21
+    song_alias:
+    esong_code: 178B47
+    t_singer_master_id: '8101'
+    singer_name: 前田 達也
+    singer_alias:
+    available_date: '2012-11-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ウルトラマンネオス<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うるとらせふんとう
+    singer_name_ruby: まえたたつや
+    song_variation:
+    - esong_code: 178B47
+      song_name: ウルトラセブン21
+      content_type: ''

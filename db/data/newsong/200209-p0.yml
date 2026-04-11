@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 392
-  all_max_cnt: 480
-  all_country_cnt: 392
+  max_cnt: 391
+  all_max_cnt: 479
+  all_country_cnt: 391
   song:
   - song_name: I&YOU&I&YOU&I
     song_alias:
@@ -245,23 +245,6 @@ result:
     - esong_code: 783A2
       song_name: アキナ
       content_type: ''
-  - song_name: AGAIN
-    song_alias:
-    esong_code: 911A29
-    t_singer_master_id: '1658'
-    singer_name: 中森 明菜
-    singer_alias:
-    available_date: '2002-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あけいん
-    singer_name_ruby: なかもりあきな
-    song_variation:
-    - esong_code: 911A29
-      song_name: AGAIN
-      content_type: ''
   - song_name: アゲイン
     song_alias:
     esong_code: 910A30
@@ -279,22 +262,22 @@ result:
     - esong_code: 910A30
       song_name: アゲイン
       content_type: ''
-  - song_name: 明日の鐘
+  - song_name: AGAIN
     song_alias:
-    esong_code: 909B24
-    t_singer_master_id: '136'
-    singer_name: アルフィー(THE ALFEE)
+    esong_code: 911A29
+    t_singer_master_id: '1658'
+    singer_name: 中森 明菜
     singer_alias:
     available_date: '2002-09-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: あしたのかね
-    singer_name_ruby: あるふい
+    song_name_ruby: あけいん
+    singer_name_ruby: なかもりあきな
     song_variation:
-    - esong_code: 909B24
-      song_name: 明日の鐘
+    - esong_code: 911A29
+      song_name: AGAIN
       content_type: ''
   - song_name: あなたの行く朝
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 139B48
       song_name: 石ころたちの青春
+      content_type: ''
+  - song_name: イージュー★ライダー
+    song_alias:
+    esong_code: 924A24
+    t_singer_master_id: '8354'
+    singer_name: PENPALS
+    singer_alias:
+    available_date: '2002-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いしゆらいた
+    singer_name_ruby: へんはるす
+    song_variation:
+    - esong_code: 924A24
+      song_name: イージュー★ライダー
       content_type: ''

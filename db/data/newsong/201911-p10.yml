@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1354
-  all_max_cnt: 1525
-  all_country_cnt: 1354
+  max_cnt: 1339
+  all_max_cnt: 1510
+  all_country_cnt: 1339
   song:
-  - song_name: "(うた)かずをかぞえよう!"
-    song_alias:
-    esong_code: 4285A22
-    t_singer_master_id: '65295'
-    singer_name: ポケモン Kids TV
-    singer_alias:
-    available_date: '2019-11-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ポケモンガオーレ<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: かすをかそえよう
-    singer_name_ruby: ほけもんきつすてれひ
-    song_variation:
-    - esong_code: 4285A22
-      song_name: "(うた)かずをかぞえよう!"
-      content_type: DAM生音
-  - song_name: 風が吹く
-    song_alias:
-    esong_code: 4286B5
-    t_singer_master_id: '11133'
-    singer_name: 塩崎 みどり
-    singer_alias:
-    available_date: '2019-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせかふく
-    singer_name_ruby: しおさきみとり
-    song_variation:
-    - esong_code: 4286B5
-      song_name: 風が吹く
-      content_type: ''
   - song_name: 風にフワリ
     song_alias:
     esong_code: 4291A12
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4281B5
       song_name: 関東ほろ酔い水滸伝
+      content_type: ''
+  - song_name: 元年バンジージャンプ
+    song_alias:
+    esong_code: 4288B16
+    t_singer_master_id: '64551'
+    singer_name: BEYOOOOONDS
+    singer_alias:
+    available_date: '2019-11-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんねんはんし
+    singer_name_ruby: ひよんす
+    song_variation:
+    - esong_code: 4288B16
+      song_name: 元年バンジージャンプ
+      content_type: ''
+  - song_name: 乾杯ニッポン
+    song_alias:
+    esong_code: 4286A3
+    t_singer_master_id: '63476'
+    singer_name: いぎなり東北産
+    singer_alias:
+    available_date: '2019-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かんはいにつほん
+    singer_name_ruby: いきなりとうほくさん
+    song_variation:
+    - esong_code: 4286A3
+      song_name: 乾杯ニッポン
       content_type: ''

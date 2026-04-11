@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 817
-  all_max_cnt: 947
-  all_country_cnt: 817
+  max_cnt: 812
+  all_max_cnt: 939
+  all_country_cnt: 812
   song:
   - song_name: おねがいshining☆star feat.初音ミク
     song_alias:
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: おんなの雪
     song_alias:
-    esong_code: 2129A2
-    t_singer_master_id: '36342'
-    singer_name: 走 裕介
-    singer_alias:
-    available_date: '2011-01-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのゆき
-    singer_name_ruby: はしりゆうすけ
-    song_variation:
-    - esong_code: 2129A2
-      song_name: おんなの雪
-      content_type: ''
-  - song_name: おんなの雪
-    song_alias:
     esong_code: 2060A16
     t_singer_master_id: '36342'
     singer_name: 走 裕介
@@ -279,6 +262,23 @@ result:
     - esong_code: 2060A16
       song_name: おんなの雪
       content_type: DAM生音
+  - song_name: おんなの雪
+    song_alias:
+    esong_code: 2129A2
+    t_singer_master_id: '36342'
+    singer_name: 走 裕介
+    singer_alias:
+    available_date: '2011-01-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなのゆき
+    singer_name_ruby: はしりゆうすけ
+    song_variation:
+    - esong_code: 2129A2
+      song_name: おんなの雪
+      content_type: ''
   - song_name: おんなひとり
     song_alias:
     esong_code: 2013B42

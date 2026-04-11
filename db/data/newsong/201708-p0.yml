@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1252
-  all_max_cnt: 1433
-  all_country_cnt: 1252
+  max_cnt: 1245
+  all_max_cnt: 1426
+  all_country_cnt: 1245
   song:
   - song_name: 阿
     song_alias:
@@ -108,23 +108,6 @@ result:
     song_variation:
     - esong_code: 3852A17
       song_name: I will be your love
-      content_type: ''
-  - song_name: 愛がモットー
-    song_alias:
-    esong_code: 3864B32
-    t_singer_master_id: '27708'
-    singer_name: 柿原 徹也
-    singer_alias:
-    available_date: '2017-08-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいかもつと
-    singer_name_ruby: かきはらてつや
-    song_variation:
-    - esong_code: 3864B32
-      song_name: 愛がモットー
       content_type: ''
   - song_name: 愛こそすべて
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3860A21
       song_name: 蒼イ林檎
+      content_type: ''
+  - song_name: 碧く
+    song_alias:
+    esong_code: 3870A26
+    t_singer_master_id: '27708'
+    singer_name: 柿原 徹也
+    singer_alias:
+    available_date: '2017-08-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あおく
+    singer_name_ruby: かきはらてつや
+    song_variation:
+    - esong_code: 3870A26
+      song_name: 碧く
       content_type: ''

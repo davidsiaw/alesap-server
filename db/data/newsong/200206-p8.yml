@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
-  - song_name: TAKE OFF(新しい旅立ち) (高嶺ふぶき)
-    song_alias:
-    esong_code: 820B18
-    t_singer_master_id: '1349'
-    singer_name: 宝塚歌劇団
-    singer_alias:
-    available_date: '2002-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていくおふ
-    singer_name_ruby: たからつかかけき
-    song_variation:
-    - esong_code: 820B18
-      song_name: TAKE OFF(新しい旅立ち) (高嶺ふぶき)
-      content_type: ''
   - song_name: THIS KICKS ASS
     song_alias:
     esong_code: 112A49
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 863A24
       song_name: DREAMING IN THE MIDNIGHT CITY
+      content_type: ''
+  - song_name: Dream City Neo Tokio
+    song_alias:
+    esong_code: 792A12
+    t_singer_master_id: '5228'
+    singer_name: HARRY
+    singer_alias:
+    available_date: '2002-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 未来警察ウラシマン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: とりむしていねお
+    singer_name_ruby: はり
+    song_variation:
+    - esong_code: 792A12
+      song_name: Dream City Neo Tokio
       content_type: ''

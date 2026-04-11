@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1258
-  all_max_cnt: 1360
-  all_country_cnt: 1258
+  max_cnt: 1253
+  all_max_cnt: 1354
+  all_country_cnt: 1253
   song:
   - song_name: 雨が降る
     song_alias:
@@ -143,23 +143,6 @@ result:
     - esong_code: 2119B47
       song_name: アラベスク
       content_type: ''
-  - song_name: ありがとう!
-    song_alias:
-    esong_code: 2115B35
-    t_singer_master_id: '21791'
-    singer_name: 大田クルー
-    singer_alias:
-    available_date: '2008-10-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありかとう
-    singer_name_ruby: おおたくる
-    song_variation:
-    - esong_code: 2115B35
-      song_name: ありがとう!
-      content_type: ''
   - song_name: ありがとう
     song_alias:
     esong_code: 2117A22
@@ -176,6 +159,23 @@ result:
     song_variation:
     - esong_code: 2117A22
       song_name: ありがとう
+      content_type: ''
+  - song_name: ありがとう!
+    song_alias:
+    esong_code: 2115B35
+    t_singer_master_id: '21791'
+    singer_name: 大田クルー
+    singer_alias:
+    available_date: '2008-10-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとう
+    singer_name_ruby: おおたくる
+    song_variation:
+    - esong_code: 2115B35
+      song_name: ありがとう!
       content_type: ''
   - song_name: ありがとう
     song_alias:

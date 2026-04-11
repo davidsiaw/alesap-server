@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1339
-  all_max_cnt: 1524
-  all_country_cnt: 1339
+  max_cnt: 1329
+  all_max_cnt: 1514
+  all_country_cnt: 1329
   song:
-  - song_name: 歌は我が命
-    song_alias:
-    esong_code: 1029B47
-    t_singer_master_id: '1107'
-    singer_name: 神野 美伽
-    singer_alias:
-    available_date: '2018-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたはわかいのち
-    singer_name_ruby: しんのみか
-    song_variation:
-    - esong_code: 1029B47
-      song_name: 歌は我が命
-      content_type: ''
-  - song_name: 宇宙に行く
-    song_alias:
-    esong_code: 3964A15
-    t_singer_master_id: '59877'
-    singer_name: PUNPEE
-    singer_alias:
-    available_date: '2018-03-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うちゆうにいく
-    singer_name_ruby: はんひ
-    song_variation:
-    - esong_code: 3964A15
-      song_name: 宇宙に行く
-      content_type: ''
   - song_name: 美しの丘
     song_alias:
     esong_code: 3961B16
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3961B22
       song_name: LMN
+      content_type: ''
+  - song_name: エレクトリックガール
+    song_alias:
+    esong_code: 3958A11
+    t_singer_master_id: '33995'
+    singer_name: SCANDAL
+    singer_alias:
+    available_date: '2018-03-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えれくとりつくか
+    singer_name_ruby: すきやんたる
+    song_variation:
+    - esong_code: 3958A11
+      song_name: エレクトリックガール
+      content_type: ''
+  - song_name: EROTICA
+    song_alias:
+    esong_code: 3968A4
+    t_singer_master_id: '17458'
+    singer_name: NEWS
+    singer_alias:
+    available_date: '2018-03-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えろていか
+    singer_name_ruby: にゆす
+    song_variation:
+    - esong_code: 3968A4
+      song_name: EROTICA
       content_type: ''

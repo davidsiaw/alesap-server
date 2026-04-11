@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1142
-  all_max_cnt: 1263
-  all_country_cnt: 1142
+  max_cnt: 1141
+  all_max_cnt: 1262
+  all_country_cnt: 1141
   song:
-  - song_name: Chuai mad noi (タイ語バージョン)
-    song_alias:
-    esong_code: 2448A2
-    t_singer_master_id: '38381'
-    singer_name: Neko Jump
-    singer_alias:
-    available_date: '2009-12-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: あにゃまる探偵キルミンずぅ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちゆあいまつのい
-    singer_name_ruby: ねこしやんふ
-    song_variation:
-    - esong_code: 2448A2
-      song_name: Chuai mad noi (タイ語バージョン)
-      content_type: ''
   - song_name: 中絶ディスペア
     song_alias:
     esong_code: 2433A3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2422A48
       song_name: This Love 「名演ピアノ 美野 春樹」
+      content_type: ''
+  - song_name: 低体温
+    song_alias:
+    esong_code: 2437B7
+    t_singer_master_id: '14282'
+    singer_name: 柴咲 コウ
+    singer_alias:
+    available_date: '2009-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていたいおん
+    singer_name_ruby: しはさきこう
+    song_variation:
+    - esong_code: 2437B7
+      song_name: 低体温
       content_type: ''

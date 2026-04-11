@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
   - song_name: カナリア
     song_alias:
@@ -92,23 +92,6 @@ result:
     - esong_code: 2605A12
       song_name: 神の悪戯
       content_type: ''
-  - song_name: Come with Me!! (澪Ver.)
-    song_alias:
-    esong_code: 2614B8
-    t_singer_master_id: '37088'
-    singer_name: 日笠 陽子
-    singer_alias:
-    available_date: '2010-10-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: けいおん!!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かむういすみ
-    singer_name_ruby: ひかさようこ
-    song_variation:
-    - esong_code: 2614B8
-      song_name: Come with Me!! (澪Ver.)
-      content_type: ''
   - song_name: Come with Me!! (唯Ver.)
     song_alias:
     esong_code: 2615A46
@@ -125,6 +108,23 @@ result:
     song_variation:
     - esong_code: 2615A46
       song_name: Come with Me!! (唯Ver.)
+      content_type: ''
+  - song_name: Come with Me!! (澪Ver.)
+    song_alias:
+    esong_code: 2614B8
+    t_singer_master_id: '37088'
+    singer_name: 日笠 陽子
+    singer_alias:
+    available_date: '2010-10-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: けいおん!!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かむういすみ
+    singer_name_ruby: ひかさようこ
+    song_variation:
+    - esong_code: 2614B8
+      song_name: Come with Me!! (澪Ver.)
       content_type: ''
   - song_name: かもめのすいへいさん
     song_alias:
@@ -406,7 +406,7 @@ result:
     singer_alias:
     available_date: '2010-10-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神谷浩史・小野大輔のDearGirl 〜Stories〜<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: きせき

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1198
-  all_max_cnt: 1367
-  all_country_cnt: 1198
+  max_cnt: 1194
+  all_max_cnt: 1363
+  all_country_cnt: 1194
   song:
-  - song_name: 可能性
-    song_alias:
-    esong_code: 4042B40
-    t_singer_master_id: '18242'
-    singer_name: サンボマスター
-    singer_alias:
-    available_date: '2018-08-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: かのうせい
-    singer_name_ruby: さんほますた
-    song_variation:
-    - esong_code: 4042B40
-      song_name: 可能性
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 株式会社FUJI 社歌 〜革新の翼〜
     song_alias:
     esong_code: 4049A27
@@ -281,6 +264,23 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 北の港で待つ女
     song_alias:
+    esong_code: 4050A28
+    t_singer_master_id: '5335'
+    singer_name: 浜 博也
+    singer_alias:
+    available_date: '2018-08-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: きたのみなとてまつ
+    singer_name_ruby: はまひろや
+    song_variation:
+    - esong_code: 4050A28
+      song_name: 北の港で待つ女
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 北の港で待つ女
+    song_alias:
     esong_code: 4044A21
     t_singer_master_id: '5335'
     singer_name: 浜 博也
@@ -313,23 +313,6 @@ result:
     - esong_code: 4039B20
       song_name: 北の港で待つ女
       content_type: ''
-  - song_name: 北の港で待つ女
-    song_alias:
-    esong_code: 4050A28
-    t_singer_master_id: '5335'
-    singer_name: 浜 博也
-    singer_alias:
-    available_date: '2018-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: きたのみなとてまつ
-    singer_name_ruby: はまひろや
-    song_variation:
-    - esong_code: 4050A28
-      song_name: 北の港で待つ女
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 北へ流れて
     song_alias:
     esong_code: 4041A41
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4046B24
       song_name: Gifts
+      content_type: ''
+  - song_name: Gifts 混声三部合唱
+    song_alias:
+    esong_code: 4049A24
+    t_singer_master_id: '10342'
+    singer_name: 合唱
+    singer_alias:
+    available_date: '2018-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きふとこんせいさん
+    singer_name_ruby: かつしよう
+    song_variation:
+    - esong_code: 4049A24
+      song_name: Gifts 混声三部合唱
       content_type: ''

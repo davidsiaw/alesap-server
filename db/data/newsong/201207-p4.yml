@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
   - song_name: 生命(いのち)の絆
     song_alias:
@@ -179,23 +179,6 @@ result:
       content_type: ''
   - song_name: 石見のおんな
     song_alias:
-    esong_code: 2819A19
-    t_singer_master_id: '11044'
-    singer_name: 永井 裕子
-    singer_alias:
-    available_date: '2012-07-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: いわみのおんな
-    singer_name_ruby: なかいゆうこ
-    song_variation:
-    - esong_code: 2819A19
-      song_name: 石見のおんな
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 石見のおんな
-    song_alias:
     esong_code: 2819B29
     t_singer_master_id: '11044'
     singer_name: 永井 裕子
@@ -211,6 +194,23 @@ result:
     - esong_code: 2819B29
       song_name: 石見のおんな
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 石見のおんな
+    song_alias:
+    esong_code: 2819A19
+    t_singer_master_id: '11044'
+    singer_name: 永井 裕子
+    singer_alias:
+    available_date: '2012-07-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: いわみのおんな
+    singer_name_ruby: なかいゆうこ
+    song_variation:
+    - esong_code: 2819A19
+      song_name: 石見のおんな
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Inside, Outside
     song_alias:
     esong_code: 2812B21

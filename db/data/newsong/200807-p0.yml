@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1179
-  all_max_cnt: 1291
-  all_country_cnt: 1179
+  max_cnt: 1177
+  all_max_cnt: 1289
+  all_country_cnt: 1177
   song:
   - song_name: ああ、アストラル
     song_alias:
@@ -194,23 +194,6 @@ result:
     - esong_code: 2037B42
       song_name: I☆You
       content_type: ''
-  - song_name: 逢いたくて
-    song_alias:
-    esong_code: 1862B5
-    t_singer_master_id: '31064'
-    singer_name: A-SIDE
-    singer_alias:
-    available_date: '2008-07-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいたくて
-    singer_name_ruby: えさいと
-    song_variation:
-    - esong_code: 1862B5
-      song_name: 逢いたくて
-      content_type: ''
   - song_name: 会いたくて SEASONII
     song_alias:
     esong_code: 2041B37
@@ -227,6 +210,23 @@ result:
     song_variation:
     - esong_code: 2041B37
       song_name: 会いたくて SEASONII
+      content_type: ''
+  - song_name: 逢いたくて
+    song_alias:
+    esong_code: 1862B5
+    t_singer_master_id: '31064'
+    singer_name: A-SIDE
+    singer_alias:
+    available_date: '2008-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいたくて
+    singer_name_ruby: えさいと
+    song_variation:
+    - esong_code: 1862B5
+      song_name: 逢いたくて
       content_type: ''
   - song_name: あいたくて・・・
     song_alias:
@@ -249,7 +249,7 @@ result:
     song_alias:
     esong_code: 2032A38
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2008-07-05'
     end_date: '2999-04-10 00:00:00'

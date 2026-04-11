@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1080
-  all_max_cnt: 1165
-  all_country_cnt: 1080
+  max_cnt: 1075
+  all_max_cnt: 1160
+  all_country_cnt: 1075
   song:
   - song_name: あゝ無情
     song_alias:
@@ -213,23 +213,6 @@ result:
       content_type: ''
   - song_name: i spy i spy (全英語詞)
     song_alias:
-    esong_code: 1918A34
-    t_singer_master_id: '31677'
-    singer_name: Superfly×JET
-    singer_alias:
-    available_date: '2007-11-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: あいすはいあいすは
-    singer_name_ruby: すはふらいしえつと
-    song_variation:
-    - esong_code: 1918A34
-      song_name: i spy i spy (全英語詞)
-      content_type: DAM良音
-  - song_name: i spy i spy (全英語詞)
-    song_alias:
     esong_code: 1907B41
     t_singer_master_id: '31677'
     singer_name: Superfly×JET
@@ -245,6 +228,23 @@ result:
     - esong_code: 1907B41
       song_name: i spy i spy (全英語詞)
       content_type: ''
+  - song_name: i spy i spy (全英語詞)
+    song_alias:
+    esong_code: 1918A34
+    t_singer_master_id: '31677'
+    singer_name: Superfly×JET
+    singer_alias:
+    available_date: '2007-11-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: あいすはいあいすは
+    singer_name_ruby: すはふらいしえつと
+    song_variation:
+    - esong_code: 1918A34
+      song_name: i spy i spy (全英語詞)
+      content_type: DAM良音
   - song_name: アイス・フィッシュ
     song_alias:
     esong_code: 1878B44
@@ -398,23 +398,6 @@ result:
     - esong_code: 1897B38
       song_name: 愛のマタドール
       content_type: ''
-  - song_name: I Believe
-    song_alias:
-    esong_code: 1903B16
-    t_singer_master_id: '12895'
-    singer_name: EXILE
-    singer_alias:
-    available_date: '2007-11-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいひりふ
-    singer_name_ruby: えくさいる
-    song_variation:
-    - esong_code: 1903B16
-      song_name: I Believe
-      content_type: ''
   - song_name: I BELIEVE feat.VADER
     song_alias:
     esong_code: 1903B33
@@ -431,6 +414,23 @@ result:
     song_variation:
     - esong_code: 1903B33
       song_name: I BELIEVE feat.VADER
+      content_type: ''
+  - song_name: I Believe
+    song_alias:
+    esong_code: 1903B16
+    t_singer_master_id: '12895'
+    singer_name: EXILE
+    singer_alias:
+    available_date: '2007-11-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいひりふ
+    singer_name_ruby: えくさいる
+    song_variation:
+    - esong_code: 1903B16
+      song_name: I Believe
       content_type: ''
   - song_name: I'll be your man
     song_alias:

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1457
-  all_max_cnt: 1594
-  all_country_cnt: 1457
+  max_cnt: 1447
+  all_max_cnt: 1584
+  all_country_cnt: 1447
   song:
-  - song_name: 化粧落とし
-    song_alias:
-    esong_code: 3641B40
-    t_singer_master_id: '48769'
-    singer_name: 吉澤 嘉代子
-    singer_alias:
-    available_date: '2016-06-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けしようおとし
-    singer_name_ruby: よしさわかよこ
-    song_variation:
-    - esong_code: 3641B40
-      song_name: 化粧落とし
-      content_type: ''
   - song_name: 月下の唄は影よりも黒く
     song_alias:
     esong_code: 3633A49
@@ -75,23 +58,6 @@ result:
     - esong_code: 3641B33
       song_name: 血戦のDies irae
       content_type: ''
-  - song_name: Get Ready
-    song_alias:
-    esong_code: 3641A28
-    t_singer_master_id: '56360'
-    singer_name: 千賀 健永(from Kis-My-Ft2)
-    singer_alias:
-    available_date: '2016-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けつとれてい
-    singer_name_ruby: せんかけんと
-    song_variation:
-    - esong_code: 3641A28
-      song_name: Get Ready
-      content_type: ''
   - song_name: GET@LADY
     song_alias:
     esong_code: 3635A11
@@ -109,6 +75,23 @@ result:
     - esong_code: 3635A11
       song_name: GET@LADY
       content_type: ''
+  - song_name: Get Ready
+    song_alias:
+    esong_code: 3641A28
+    t_singer_master_id: '56360'
+    singer_name: 千賀 健永(from Kis-My-Ft2)
+    singer_alias:
+    available_date: '2016-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けつとれてい
+    singer_name_ruby: せんかけんと
+    song_variation:
+    - esong_code: 3641A28
+      song_name: Get Ready
+      content_type: ''
   - song_name: ケモノノハナミチ
     song_alias:
     esong_code: 3642A23
@@ -121,7 +104,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: けもののはなみち
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3642A23
       song_name: ケモノノハナミチ
@@ -296,7 +279,7 @@ result:
     - esong_code: 3638A28
       song_name: 恋のはじまり
       content_type: ''
-  - song_name: 恋の曼陀羅 (芹香斗亜ほか) [DAM本人歌唱]
+  - song_name: 恋の曼陀羅 (芹香斗亜 ほか)[DAM本人歌唱]
     song_alias:
     esong_code: 1262B38
     t_singer_master_id: '1349'
@@ -311,7 +294,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 1262B38
-      song_name: 恋の曼陀羅 (芹香斗亜ほか) [DAM本人歌唱]
+      song_name: 恋の曼陀羅 (芹香斗亜 ほか)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 恋人同士
     song_alias:
@@ -468,23 +451,6 @@ result:
       content_type: ''
   - song_name: 心かさねて
     song_alias:
-    esong_code: 2085A38
-    t_singer_master_id: '5034'
-    singer_name: 市川 由紀乃
-    singer_alias:
-    available_date: '2016-06-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: こころかさねて
-    singer_name_ruby: いちかわゆきの
-    song_variation:
-    - esong_code: 2085A38
-      song_name: 心かさねて
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 心かさねて
-    song_alias:
     esong_code: 1262B28
     t_singer_master_id: '5034'
     singer_name: 市川 由紀乃
@@ -500,6 +466,23 @@ result:
     - esong_code: 1262B28
       song_name: 心かさねて
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 心かさねて
+    song_alias:
+    esong_code: 2085A38
+    t_singer_master_id: '5034'
+    singer_name: 市川 由紀乃
+    singer_alias:
+    available_date: '2016-06-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: こころかさねて
+    singer_name_ruby: いちかわゆきの
+    song_variation:
+    - esong_code: 2085A38
+      song_name: 心かさねて
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 志 Kokorozashi
     song_alias:
     esong_code: 3637A24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3637A24
       song_name: 志 Kokorozashi
+      content_type: ''
+  - song_name: こころだいすきここったま!
+    song_alias:
+    esong_code: 3640B42
+    t_singer_master_id: '56342'
+    singer_name: 本渡 楓&潘 めぐみ
+    singer_alias:
+    available_date: '2016-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: かみさまみならい ヒミツのここたま<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころたいすきここ
+    singer_name_ruby: ほんとかえてはんめくみ
+    song_variation:
+    - esong_code: 3640B42
+      song_name: こころだいすきここったま!
       content_type: ''

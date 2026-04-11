@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
-  - song_name: ラ・タタン
-    song_alias:
-    esong_code: 3473B22
-    t_singer_master_id: '53888'
-    singer_name: れをる
-    singer_alias:
-    available_date: '2015-07-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らたたん
-    singer_name_ruby: れをる
-    song_variation:
-    - esong_code: 3473B22
-      song_name: ラ・タタン
-      content_type: ''
-  - song_name: LUCKY
-    song_alias:
-    esong_code: 3471A9
-    t_singer_master_id: '32329'
-    singer_name: tacica
-    singer_alias:
-    available_date: '2015-07-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らつき
-    singer_name_ruby: たしか
-    song_variation:
-    - esong_code: 3471A9
-      song_name: LUCKY
-      content_type: ''
-  - song_name: Lucky Girl*
-    song_alias:
-    esong_code: 3461B49
-    t_singer_master_id: '46261'
-    singer_name: Yun*chi
-    singer_alias:
-    available_date: '2015-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: うーさーのその日暮らし<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: らつきかる
-    singer_name_ruby: ゆんち
-    song_variation:
-    - esong_code: 3461B49
-      song_name: Lucky Girl*
-      content_type: ''
   - song_name: LUCKY DIP
     song_alias:
     esong_code: 3464A11
@@ -77,23 +26,6 @@ result:
       content_type: ''
   - song_name: LOVER
     song_alias:
-    esong_code: 3469B14
-    t_singer_master_id: '10188'
-    singer_name: AAA
-    singer_alias:
-    available_date: '2015-07-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らは
-    singer_name_ruby: とりふるえ
-    song_variation:
-    - esong_code: 3469B14
-      song_name: LOVER
-      content_type: ''
-  - song_name: LOVER
-    song_alias:
     esong_code: 3470B46
     t_singer_master_id: '10188'
     singer_name: AAA
@@ -109,6 +41,23 @@ result:
     - esong_code: 3470B46
       song_name: LOVER
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: LOVER
+    song_alias:
+    esong_code: 3469B14
+    t_singer_master_id: '10188'
+    singer_name: AAA
+    singer_alias:
+    available_date: '2015-07-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らは
+    singer_name_ruby: とりふるえ
+    song_variation:
+    - esong_code: 3469B14
+      song_name: LOVER
+      content_type: ''
   - song_name: Luv it!!
     song_alias:
     esong_code: 3461B46
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 495A22
       song_name: 漁師妻
+      content_type: ''
+  - song_name: 領収書ください
+    song_alias:
+    esong_code: 456B36
+    t_singer_master_id: '53777'
+    singer_name: ブラボーしろう
+    singer_alias:
+    available_date: '2015-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りようしゆうしよくた
+    singer_name_ruby: ふらほしろう
+    song_variation:
+    - esong_code: 456B36
+      song_name: 領収書ください
+      content_type: ''
+  - song_name: リーリヤ -never again-
+    song_alias:
+    esong_code: 3467A25
+    t_singer_master_id: '31234'
+    singer_name: ROACH
+    singer_alias:
+    available_date: '2015-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りりやねはあけ
+    singer_name_ruby: ろち
+    song_variation:
+    - esong_code: 3467A25
+      song_name: リーリヤ -never again-
+      content_type: ''
+  - song_name: reel
+    song_alias:
+    esong_code: 3467B20
+    t_singer_master_id: '39098'
+    singer_name: OLDCODEX
+    singer_alias:
+    available_date: '2015-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りる
+    singer_name_ruby: おるとこてつくす
+    song_variation:
+    - esong_code: 3467B20
+      song_name: reel
       content_type: ''

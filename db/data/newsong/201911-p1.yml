@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1354
-  all_max_cnt: 1525
-  all_country_cnt: 1354
+  max_cnt: 1339
+  all_max_cnt: 1510
+  all_country_cnt: 1339
   song:
   - song_name: アインソフオウル with Ayasa
     song_alias:
@@ -330,23 +330,6 @@ result:
     - esong_code: 4283B32
       song_name: 浅野川恋唄
       content_type: ''
-  - song_name: 朝焼け
-    song_alias:
-    esong_code: 4287B14
-    t_singer_master_id: '25056'
-    singer_name: 入野 自由
-    singer_alias:
-    available_date: '2019-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あさやけ
-    singer_name_ruby: いりのみゆ
-    song_variation:
-    - esong_code: 4287B14
-      song_name: 朝焼け
-      content_type: ''
   - song_name: 明日の私は今日より綺麗
     song_alias:
     esong_code: 4279B5
@@ -432,7 +415,7 @@ result:
     - esong_code: 4282A5
       song_name: あすに咲く花
       content_type: ''
-  - song_name: 未来への旅路 (真風涼帆ほか)[DAM本人歌唱]
+  - song_name: 未来への旅路 (真風涼帆 ほか)[DAM本人歌唱]
     song_alias:
     esong_code: 4284B49
     t_singer_master_id: '1349'
@@ -447,7 +430,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 4284B49
-      song_name: 未来への旅路 (真風涼帆ほか)[DAM本人歌唱]
+      song_name: 未来への旅路 (真風涼帆 ほか)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: あーその歌は‥
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4289A46
       song_name: アツイ!
+      content_type: ''
+  - song_name: アッパレ! 夢パレード
+    song_alias:
+    esong_code: 4277B30
+    t_singer_master_id: '65283'
+    singer_name: BOYS AND MEN 誠
+    singer_alias:
+    available_date: '2019-11-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あつはれゆめはれ
+    singer_name_ruby: ほいすあんとめんまこと
+    song_variation:
+    - esong_code: 4277B30
+      song_name: アッパレ! 夢パレード
       content_type: ''

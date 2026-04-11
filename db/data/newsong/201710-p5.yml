@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1594
-  all_max_cnt: 2013
-  all_country_cnt: 1594
+  max_cnt: 1571
+  all_max_cnt: 1990
+  all_country_cnt: 1571
   song:
-  - song_name: 行かないで・・・
-    song_alias:
-    esong_code: 2346A29
-    t_singer_master_id: '24244'
-    singer_name: 谷 龍介
-    singer_alias:
-    available_date: '2017-10-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いかないて
-    singer_name_ruby: たにりゆうすけ
-    song_variation:
-    - esong_code: 2346A29
-      song_name: 行かないで・・・
-      content_type: ''
-  - song_name: 行かないと
-    song_alias:
-    esong_code: 3884B7
-    t_singer_master_id: '45497'
-    singer_name: 佐伯 ユウスケ
-    singer_alias:
-    available_date: '2017-10-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いかないと
-    singer_name_ruby: さえきゆうすけ
-    song_variation:
-    - esong_code: 3884B7
-      song_name: 行かないと
-      content_type: ''
   - song_name: 生きて
     song_alias:
     esong_code: 3893A43
@@ -83,7 +49,7 @@ result:
     singer_alias:
     available_date: '2017-10-08'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双(TV版)<番組名>
+    tie_up: 戦国無双(アニメ版)<番組名>
     country_code: '0'
     content_type: DAMﾗｲﾌﾞ
     song_name_ruby: いくさ
@@ -162,23 +128,6 @@ result:
       content_type: ''
   - song_name: 居酒屋 (ニューバージョン)
     song_alias:
-    esong_code: 2984A40
-    t_singer_master_id: '59946'
-    singer_name: 五木 ひろし&坂本 冬美
-    singer_alias:
-    available_date: '2017-10-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いさかやにゆは
-    singer_name_ruby: いつきひろしさかもとふゆみ
-    song_variation:
-    - esong_code: 2984A40
-      song_name: 居酒屋 (ニューバージョン)
-      content_type: ''
-  - song_name: 居酒屋 (ニューバージョン)
-    song_alias:
     esong_code: 2763B23
     t_singer_master_id: '59946'
     singer_name: 五木 ひろし&坂本 冬美
@@ -194,6 +143,23 @@ result:
     - esong_code: 2763B23
       song_name: 居酒屋 (ニューバージョン)
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 居酒屋 (ニューバージョン)
+    song_alias:
+    esong_code: 2984A40
+    t_singer_master_id: '59946'
+    singer_name: 五木 ひろし&坂本 冬美
+    singer_alias:
+    available_date: '2017-10-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いさかやにゆは
+    singer_name_ruby: いつきひろしさかもとふゆみ
+    song_variation:
+    - esong_code: 2984A40
+      song_name: 居酒屋 (ニューバージョン)
+      content_type: ''
   - song_name: いざメキシコへ
     song_alias:
     esong_code: 3897B17
@@ -264,23 +230,6 @@ result:
       content_type: ''
   - song_name: 潮来水郷
     song_alias:
-    esong_code: 2511A17
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2017-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: いたこすいこう
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 2511A17
-      song_name: 潮来水郷
-      content_type: JOY生演奏
-  - song_name: 潮来水郷
-    song_alias:
     esong_code: 2813B16
     t_singer_master_id: '6510'
     singer_name: 水森 かおり
@@ -296,6 +245,23 @@ result:
     - esong_code: 2813B16
       song_name: 潮来水郷
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 潮来水郷
+    song_alias:
+    esong_code: 2511A17
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2017-10-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: いたこすいこう
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 2511A17
+      song_name: 潮来水郷
+      content_type: JOY生演奏
   - song_name: いただきへの、はじまり
     song_alias:
     esong_code: 3886A33
@@ -517,3 +483,37 @@ result:
     - esong_code: 3876A26
       song_name: いとしのエリー 「名演ピアノ 美野 春樹」
       content_type: ''
+  - song_name: 愛しのライリー (TDQ VERSION)
+    song_alias:
+    esong_code: 3887A5
+    t_singer_master_id: '1607'
+    singer_name: DREAMS COME TRUE
+    singer_alias:
+    available_date: '2017-10-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: インサイド・ヘッド<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いとしのらいりさ
+    singer_name_ruby: とりむすかむとうる
+    song_variation:
+    - esong_code: 3887A5
+      song_name: 愛しのライリー (TDQ VERSION)
+      content_type: ''
+  - song_name: INNOCENCE
+    song_alias:
+    esong_code: 3891B33
+    t_singer_master_id: '43353'
+    singer_name: 藍井 エイル
+    singer_alias:
+    available_date: '2017-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ソードアート・オンライン<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: いのせんす
+    singer_name_ruby: あおいえいる
+    song_variation:
+    - esong_code: 3891B33
+      song_name: INNOCENCE
+      content_type: DAMｸﾘｯﾌﾟ

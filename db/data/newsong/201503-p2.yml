@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1628
-  all_max_cnt: 1827
-  all_country_cnt: 1628
+  max_cnt: 1617
+  all_max_cnt: 1816
+  all_country_cnt: 1617
   song:
   - song_name: AS TIME GOES BY
     song_alias:
@@ -196,23 +196,6 @@ result:
       content_type: ''
   - song_name: あなた
     song_alias:
-    esong_code: 892B2
-    t_singer_master_id: '16707'
-    singer_name: 白川 とき恵
-    singer_alias:
-    available_date: '2015-03-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなた
-    singer_name_ruby: しらかわときえ
-    song_variation:
-    - esong_code: 892B2
-      song_name: あなた
-      content_type: ''
-  - song_name: あなた
-    song_alias:
     esong_code: 3402B38
     t_singer_master_id: '45196'
     singer_name: 手越 祐也(from NEWS)
@@ -226,6 +209,23 @@ result:
     singer_name_ruby: てこしゆうや
     song_variation:
     - esong_code: 3402B38
+      song_name: あなた
+      content_type: ''
+  - song_name: あなた
+    song_alias:
+    esong_code: 892B2
+    t_singer_master_id: '16707'
+    singer_name: 白川 とき恵
+    singer_alias:
+    available_date: '2015-03-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなた
+    singer_name_ruby: しらかわときえ
+    song_variation:
+    - esong_code: 892B2
       song_name: あなた
       content_type: ''
   - song_name: あなたがいなくなる前に
@@ -381,23 +381,6 @@ result:
     - esong_code: 3407A13
       song_name: あの頃
       content_type: ''
-  - song_name: あの故郷
-    song_alias:
-    esong_code: 874A32
-    t_singer_master_id: '31533'
-    singer_name: 新庄 正
-    singer_alias:
-    available_date: '2015-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あのふるさと
-    singer_name_ruby: しんしようたたし
-    song_variation:
-    - esong_code: 874A32
-      song_name: あの故郷
-      content_type: ''
   - song_name: あの森で待ってる
     song_alias:
     esong_code: 3404A21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3086B4
       song_name: 奄美夜曲
+      content_type: ''
+  - song_name: アマリニモ
+    song_alias:
+    esong_code: 3409B35
+    t_singer_master_id: '1928'
+    singer_name: B'z
+    singer_alias:
+    available_date: '2015-03-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あまりにも
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 3409B35
+      song_name: アマリニモ
       content_type: ''

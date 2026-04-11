@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
-  - song_name: スマイル美人
-    song_alias:
-    esong_code: 2996A10
-    t_singer_master_id: '39220'
-    singer_name: アンジュルム(スマイレージ)
-    singer_alias:
-    available_date: '2013-02-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すまいるひしん
-    singer_name_ruby: あんしゆるむ
-    song_variation:
-    - esong_code: 2996A10
-      song_name: スマイル美人
-      content_type: ''
   - song_name: SMILE FOREVER
     song_alias:
     esong_code: 2988A1
@@ -58,11 +41,11 @@ result:
     - esong_code: 2978B2
       song_name: Small World
       content_type: ''
-  - song_name: Slide 'n' Step
+  - song_name: Slide'n'Step
     song_alias:
     esong_code: 2978B10
     t_singer_master_id: '27928'
-    singer_name: KEITA(橘慶太)
+    singer_name: 橘 慶太(KEITA)
     singer_alias:
     available_date: '2013-02-20'
     end_date: '2999-04-10 00:00:00'
@@ -70,10 +53,10 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: すらいてんすてつふ
-    singer_name_ruby: けいた
+    singer_name_ruby: たちはなけいた
     song_variation:
     - esong_code: 2978B10
-      song_name: Slide 'n' Step
+      song_name: Slide'n'Step
       content_type: ''
   - song_name: 青春GIRLZ最前線!!! [オリジナルクリップ]
     song_alias:
@@ -85,7 +68,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: せいしゆんかるす
     singer_name_ruby: らふらとる
     song_variation:
@@ -105,7 +88,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: せいしゆんかるす
     singer_name_ruby: らふらとる
     song_variation:
@@ -323,7 +306,7 @@ result:
     song_alias:
     esong_code: 2996A49
     t_singer_master_id: '42105'
-    singer_name: ひとしずくP×やま△
+    singer_name: ひとしずく×やま△
     singer_alias:
     available_date: '2013-02-26'
     end_date: '2999-04-10 00:00:00'
@@ -331,27 +314,10 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: せんねんたいむかふ
-    singer_name_ruby: ひとしすくひやまさんかつけ
+    singer_name_ruby: ひとしすくやまさんかつけ
     song_variation:
     - esong_code: 2996A49
       song_name: 1000年タイムカプセル feat.MAYU
-      content_type: VOCALOID
-  - song_name: 千本桜 feat.初音ミク (Game Ver.)
-    song_alias:
-    esong_code: 2989B21
-    t_singer_master_id: '34185'
-    singer_name: WhiteFlame
-    singer_alias:
-    available_date: '2013-02-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 初音ミク -Project DIVA-<番組名>
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: せんほんさくら
-    singer_name_ruby: ほわいとふれいむ
-    song_variation:
-    - esong_code: 2989B21
-      song_name: 千本桜 feat.初音ミク (Game Ver.)
       content_type: VOCALOID
   - song_name: 千本桜 feat.初音ミク
     song_alias:
@@ -369,6 +335,23 @@ result:
     song_variation:
     - esong_code: 2992B43
       song_name: 千本桜 feat.初音ミク
+      content_type: VOCALOID
+  - song_name: 千本桜 feat.初音ミク (Game Ver.)
+    song_alias:
+    esong_code: 2989B21
+    t_singer_master_id: '34185'
+    singer_name: WhiteFlame
+    singer_alias:
+    available_date: '2013-02-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 初音ミク -Project DIVA-<番組名>
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: せんほんさくら
+    singer_name_ruby: ほわいとふれいむ
+    song_variation:
+    - esong_code: 2989B21
+      song_name: 千本桜 feat.初音ミク (Game Ver.)
       content_type: VOCALOID
   - song_name: 全力少年
     song_alias:
@@ -427,7 +410,7 @@ result:
     t_singer_master_id: '25255'
     singer_name: AKB48
     singer_alias:
-    available_date: '2013-02-19'
+    available_date: '2013-02-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 2982A37
       song_name: その時なにが起こったの?
+      content_type: ''
+  - song_name: その魔王はまるで恋する乙女のように
+    song_alias:
+    esong_code: 2993B3
+    t_singer_master_id: '41201'
+    singer_name: 家の裏でマンボウが死んでるP
+    singer_alias:
+    available_date: '2013-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: そのまおうはまるて
+    singer_name_ruby: いえのうらてまんほうかしんてるひ
+    song_variation:
+    - esong_code: 2993B3
+      song_name: その魔王はまるで恋する乙女のように
       content_type: ''

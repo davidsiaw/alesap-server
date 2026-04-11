@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
-  - song_name: 大江裕メドレー
-    song_alias:
-    esong_code: 2923B26
-    t_singer_master_id: '35920'
-    singer_name: 大江 裕
-    singer_alias:
-    available_date: '2012-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおえゆたかめとれ
-    singer_name_ruby: おおえゆたか
-    song_variation:
-    - esong_code: 2923B26
-      song_name: 大江裕メドレー
-      content_type: ''
   - song_name: OH OH OSAKA
     song_alias:
     esong_code: 2534A12
@@ -151,7 +134,7 @@ result:
     singer_alias:
     available_date: '2012-11-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HERO RADIO<番組名>
+    tie_up: TIGER&BUNNY<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おけゆしよ
@@ -168,7 +151,7 @@ result:
     singer_alias:
     available_date: '2012-11-06'
     end_date: '2999-04-10 00:00:00'
-    tie_up: HUNTER×HUNTER(2011)<番組名>
+    tie_up: HUNTER×HUNTER<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おすしゆきようつす
@@ -247,23 +230,6 @@ result:
       content_type: ''
   - song_name: 男のうそ
     song_alias:
-    esong_code: 2919B40
-    t_singer_master_id: '36847'
-    singer_name: 三山 ひろし(三山ヒロシ)
-    singer_alias:
-    available_date: '2012-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこのうそ
-    singer_name_ruby: みやまひろし
-    song_variation:
-    - esong_code: 2919B40
-      song_name: 男のうそ
-      content_type: ''
-  - song_name: 男のうそ
-    song_alias:
     esong_code: 2930B24
     t_singer_master_id: '36847'
     singer_name: 三山 ひろし(三山ヒロシ)
@@ -296,6 +262,23 @@ result:
     - esong_code: 2932B2
       song_name: 男のうそ
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 男のうそ
+    song_alias:
+    esong_code: 2919B40
+    t_singer_master_id: '36847'
+    singer_name: 三山 ひろし(三山ヒロシ)
+    singer_alias:
+    available_date: '2012-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのうそ
+    singer_name_ruby: みやまひろし
+    song_variation:
+    - esong_code: 2919B40
+      song_name: 男のうそ
+      content_type: ''
   - song_name: 男の門出
     song_alias:
     esong_code: 2924A8
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2924B16
       song_name: おはようくん
+      content_type: ''
+  - song_name: Ophelia
+    song_alias:
+    esong_code: 2940A45
+    t_singer_master_id: '46530'
+    singer_name: Takagi Masakatsu
+    singer_alias:
+    available_date: '2012-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おふいりあ
+    singer_name_ruby: たかきまさかつ
+    song_variation:
+    - esong_code: 2940A45
+      song_name: Ophelia
       content_type: ''

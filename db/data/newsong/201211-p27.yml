@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1405
-  all_max_cnt: 1519
-  all_country_cnt: 1405
+  max_cnt: 1404
+  all_max_cnt: 1518
+  all_country_cnt: 1404
   song:
-  - song_name: 鉄火のマキちゃん
-    song_alias:
-    esong_code: 2936B35
-    t_singer_master_id: '15418'
-    singer_name: 勝生 真沙子
-    singer_alias:
-    available_date: '2012-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: それいけ!アンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: てつかのまきちやん
-    singer_name_ruby: かつきまさこ
-    song_variation:
-    - esong_code: 2936B35
-      song_name: 鉄火のマキちゃん
-      content_type: ''
   - song_name: てむてららる ちょむちょめぷ
     song_alias:
     esong_code: 2934B11
@@ -517,3 +500,20 @@ result:
     - esong_code: 2937A7
       song_name: ドキン・ドキン・ドキンちゃん-ドキンのうた-
       content_type: ''
+  - song_name: 毒林檎とシンデレラ feat.巡音ルカ
+    song_alias:
+    esong_code: 2941A11
+    t_singer_master_id: '43101'
+    singer_name: 青田新名 a.k.a ゆずひこ
+    singer_alias:
+    available_date: '2012-11-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: とくりんことしん
+    singer_name_ruby: あおたにいなえけえゆすひこ
+    song_variation:
+    - esong_code: 2941A11
+      song_name: 毒林檎とシンデレラ feat.巡音ルカ
+      content_type: VOCALOID

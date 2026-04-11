@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 439
-  all_max_cnt: 472
-  all_country_cnt: 439
+  max_cnt: 434
+  all_max_cnt: 467
+  all_country_cnt: 434
   song:
   - song_name: 新たなる旅立ち
     song_alias:
@@ -279,23 +279,6 @@ result:
     - esong_code: 652B39
       song_name: イツナロウバ
       content_type: ''
-  - song_name: 魂の扉
-    song_alias:
-    esong_code: 649A21
-    t_singer_master_id: '5410'
-    singer_name: 天野 由梨
-    singer_alias:
-    available_date: '2001-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 機動武闘伝Gガンダム<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのちのとひら
-    singer_name_ruby: あまのゆり
-    song_variation:
-    - esong_code: 649A21
-      song_name: 魂の扉
-      content_type: ''
   - song_name: イノヴェイター
     song_alias:
     esong_code: 658A21
@@ -347,7 +330,7 @@ result:
     - esong_code: 650A25
       song_name: Wings
       content_type: ''
-  - song_name: ウインド＆レイニーデイ
+  - song_name: ウインド&レイニーデイ
     song_alias:
     esong_code: 242A20
     t_singer_master_id: '2436'
@@ -362,7 +345,7 @@ result:
     singer_name_ruby: もんたあんとふら
     song_variation:
     - esong_code: 242A20
-      song_name: ウインド＆レイニーデイ
+      song_name: ウインド&レイニーデイ
       content_type: ''
   - song_name: Walk on
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 297B39
       song_name: ウルトラマンナイス
+      content_type: ''
+  - song_name: 運命共同体
+    song_alias:
+    esong_code: 662A29
+    t_singer_master_id: '12361'
+    singer_name: RIP SLYME
+    singer_alias:
+    available_date: '2001-08-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うんめいきようとう
+    singer_name_ruby: りつふすらいむ
+    song_variation:
+    - esong_code: 662A29
+      song_name: 運命共同体
       content_type: ''

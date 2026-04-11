@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1344
-  all_max_cnt: 1519
-  all_country_cnt: 1344
+  max_cnt: 1334
+  all_max_cnt: 1509
+  all_country_cnt: 1334
   song:
+  - song_name: 銀魂メドレー Vol.5
+    song_alias:
+    esong_code: 3883A43
+    t_singer_master_id: '24121'
+    singer_name: アニメメドレー
+    singer_alias:
+    available_date: '2017-09-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 銀魂<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きんたまめとれ
+    singer_name_ruby: あにめめとれ
+    song_variation:
+    - esong_code: 3883A43
+      song_name: 銀魂メドレー Vol.5
+      content_type: ''
   - song_name: 禁断少女
     song_alias:
     esong_code: 3868A41
@@ -194,23 +211,6 @@ result:
     - esong_code: 3884A1
       song_name: クビナワ feat.ぼくのりりっくのぼうよみ&ササノマリイ
       content_type: ''
-  - song_name: クモ
-    song_alias:
-    esong_code: 3875B17
-    t_singer_master_id: '3079'
-    singer_name: TOKIO
-    singer_alias:
-    available_date: '2017-09-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: くも
-    singer_name_ruby: ときお
-    song_variation:
-    - esong_code: 3875B17
-      song_name: クモ
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: Cloudy sky
     song_alias:
     esong_code: 3875A37
@@ -398,23 +398,6 @@ result:
     - esong_code: 3881A37
       song_name: Que sera,sera
       content_type: ''
-  - song_name: 月光、街を焼く
-    song_alias:
-    esong_code: 3872A27
-    t_singer_master_id: '38535'
-    singer_name: amazarashi
-    singer_alias:
-    available_date: '2017-09-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けつこうまちをやく
-    singer_name_ruby: あまさらし
-    song_variation:
-    - esong_code: 3872A27
-      song_name: 月光、街を焼く
-      content_type: ''
   - song_name: Get you! (サシニング娘。)
     song_alias:
     esong_code: 3877B23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3881A48
       song_name: ゲームシック
+      content_type: ''
+  - song_name: 健康節
+    song_alias:
+    esong_code: 3880A11
+    t_singer_master_id: '54983'
+    singer_name: 浅野 祥
+    singer_alias:
+    available_date: '2017-09-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: けんこうふし
+    singer_name_ruby: あさのしよう
+    song_variation:
+    - esong_code: 3880A11
+      song_name: 健康節
       content_type: ''

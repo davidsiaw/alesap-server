@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: 世界に一つだけの花 (Album Ver.)
-    song_alias:
-    esong_code: 1608A39
-    t_singer_master_id: '2179'
-    singer_name: 槇原 敬之
-    singer_alias:
-    available_date: '2006-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せかいにひとつたけ
-    singer_name_ruby: まきはらのりゆき
-    song_variation:
-    - esong_code: 1608A39
-      song_name: 世界に一つだけの花 (Album Ver.)
-      content_type: ''
-  - song_name: 夕照(せきしょう)の女(ひと)
-    song_alias:
-    esong_code: 533A17
-    t_singer_master_id: '551'
-    singer_name: 金田 たつえ
-    singer_alias:
-    available_date: '2006-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せきしようのひと
-    singer_name_ruby: かねたたつえ
-    song_variation:
-    - esong_code: 533A17
-      song_name: 夕照(せきしょう)の女(ひと)
-      content_type: ''
-  - song_name: 鶺鴒〜seki-ray〜
-    song_alias:
-    esong_code: 1580B17
-    t_singer_master_id: '10038'
-    singer_name: GACKT(Gackt)
-    singer_alias:
-    available_date: '2006-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: せきれい
-    singer_name_ruby: かくと
-    song_variation:
-    - esong_code: 1580B17
-      song_name: 鶺鴒〜seki-ray〜
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 雪月花
     song_alias:
     esong_code: 1609B7
@@ -170,13 +119,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type:
     song_name_ruby: そうらんおんと
     singer_name_ruby: やまたけんし
     song_variation:
     - esong_code: 1580B30
       song_name: そうらん音頭
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: ''
   - song_name: 族中法度
     song_alias:
     esong_code: 1587A5
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 1582A4
       song_name: タイムカプセル
+      content_type: ''
+  - song_name: Time goes by
+    song_alias:
+    esong_code: 1640B37
+    t_singer_master_id: '14492'
+    singer_name: 三枝 夕夏 IN db
+    singer_alias:
+    available_date: '2006-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいむこすは
+    singer_name_ruby: さえくさゆうかいんてしへ
+    song_variation:
+    - esong_code: 1640B37
+      song_name: Time goes by
+      content_type: ''
+  - song_name: DIAMOND
+    song_alias:
+    esong_code: 1640A5
+    t_singer_master_id: '2533'
+    singer_name: 横浜銀蝿(横浜銀蝿40th)
+    singer_alias:
+    available_date: '2006-08-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいやもんと
+    singer_name_ruby: よこはまきんはえ
+    song_variation:
+    - esong_code: 1640A5
+      song_name: DIAMOND
+      content_type: ''
+  - song_name: 太陽
+    song_alias:
+    esong_code: 1583A42
+    t_singer_master_id: '12262'
+    singer_name: B-DASH
+    singer_alias:
+    available_date: '2006-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいよう
+    singer_name_ruby: ひたつしゆ
+    song_variation:
+    - esong_code: 1583A42
+      song_name: 太陽
       content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
+  - song_name: 酒がたり
+    song_alias:
+    esong_code: 123B7
+    t_singer_master_id: '1723'
+    singer_name: 西村 亜希子
+    singer_alias:
+    available_date: '2013-11-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さけかたり
+    singer_name_ruby: にしむらあきこ
+    song_variation:
+    - esong_code: 123B7
+      song_name: 酒がたり
+      content_type: ''
   - song_name: 酒よおまえは
     song_alias:
     esong_code: 3145B37
@@ -98,7 +115,7 @@ result:
     t_singer_master_id: '36579'
     singer_name: THE BAWDIES
     singer_alias:
-    available_date: '2013-11-19'
+    available_date: '2013-11-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -264,23 +281,6 @@ result:
       content_type: ''
   - song_name: SUMMER NUDE '13
     song_alias:
-    esong_code: 3139B3
-    t_singer_master_id: '24503'
-    singer_name: 山下 智久(Tomohisa Yamashita)
-    singer_alias:
-    available_date: '2013-11-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さまぬとさて
-    singer_name_ruby: やましたともひさ
-    song_variation:
-    - esong_code: 3139B3
-      song_name: SUMMER NUDE '13
-      content_type: DAM生音
-  - song_name: SUMMER NUDE '13
-    song_alias:
     esong_code: 3145A6
     t_singer_master_id: '24503'
     singer_name: 山下 智久(Tomohisa Yamashita)
@@ -404,7 +404,7 @@ result:
     t_singer_master_id: '49081'
     singer_name: 堀田家 BAND
     singer_alias:
-    available_date: '2013-11-05'
+    available_date: '2013-11-06'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -431,6 +431,23 @@ result:
     song_variation:
     - esong_code: 3149A13
       song_name: さよなら札幌
+      content_type: ''
+  - song_name: サヨナラの準備は、もうできていた
+    song_alias:
+    esong_code: 3143B45
+    t_singer_master_id: '49266'
+    singer_name: CRUDE PLAY
+    singer_alias:
+    available_date: '2013-11-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよならのしゆんひ
+    singer_name_ruby: くりゆとふれい
+    song_variation:
+    - esong_code: 3143B45
+      song_name: サヨナラの準備は、もうできていた
       content_type: ''
   - song_name: さよならは涙に
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3140A29
       song_name: THE REQUIEM
-      content_type: ''
-  - song_name: されど、神のみぞ知る
-    song_alias:
-    esong_code: 3136B34
-    t_singer_master_id: '46493'
-    singer_name: チームカミウタ
-    singer_alias:
-    available_date: '2013-11-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: されとかみのみそ
-    singer_name_ruby: ちむかみうた
-    song_variation:
-    - esong_code: 3136B34
-      song_name: されど、神のみぞ知る
       content_type: ''

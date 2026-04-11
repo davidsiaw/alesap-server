@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 792
-  all_max_cnt: 839
-  all_country_cnt: 792
+  max_cnt: 788
+  all_max_cnt: 835
+  all_country_cnt: 788
   song:
+  - song_name: UNDER THE SEA (THE LITTLE MERMAID)
+    song_alias:
+    esong_code: 977A41
+    t_singer_master_id: '19608'
+    singer_name: DOPING PANDA
+    singer_alias:
+    available_date: '2004-12-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんたさしい
+    singer_name_ruby: とひんくはんた
+    song_variation:
+    - esong_code: 977A41
+      song_name: UNDER THE SEA (THE LITTLE MERMAID)
+      content_type: ''
   - song_name: Untie
     song_alias:
     esong_code: 752B6
@@ -41,23 +58,6 @@ result:
     - esong_code: 976A11
       song_name: アンパンマンのマーチ
       content_type: JOYうたいり
-  - song_name: UMBRELLA
-    song_alias:
-    esong_code: 999B48
-    t_singer_master_id: '2445'
-    singer_name: 矢沢 永吉
-    singer_alias:
-    available_date: '2004-12-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんふれら
-    singer_name_ruby: やさわえいきち
-    song_variation:
-    - esong_code: 999B48
-      song_name: UMBRELLA
-      content_type: ''
   - song_name: あんぶれら
     song_alias:
     esong_code: 141B6
@@ -74,6 +74,23 @@ result:
     song_variation:
     - esong_code: 141B6
       song_name: あんぶれら
+      content_type: ''
+  - song_name: UMBRELLA
+    song_alias:
+    esong_code: 999B48
+    t_singer_master_id: '2445'
+    singer_name: 矢沢 永吉
+    singer_alias:
+    available_date: '2004-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんふれら
+    singer_name_ruby: やさわえいきち
+    song_variation:
+    - esong_code: 999B48
+      song_name: UMBRELLA
       content_type: ''
   - song_name: いい年頃になたんやー
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 981A41
       song_name: INSECURE〜遠い記憶〜
-      content_type: ''
-  - song_name: independent (D-Naton Remix)
-    song_alias:
-    esong_code: 204A5
-    t_singer_master_id: '8492'
-    singer_name: 浜崎 あゆみ
-    singer_alias:
-    available_date: '2004-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いんていへんて
-    singer_name_ruby: はまさきあゆみ
-    song_variation:
-    - esong_code: 204A5
-      song_name: independent (D-Naton Remix)
       content_type: ''

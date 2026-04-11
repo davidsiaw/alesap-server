@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
   - song_name: あゝ女たちよ
     song_alias:
@@ -143,23 +143,6 @@ result:
     - esong_code: 2582B23
       song_name: 愛したいんだ
       content_type: ''
-  - song_name: 愛してナイト!
-    song_alias:
-    esong_code: 2589B35
-    t_singer_master_id: '13215'
-    singer_name: 氣志團
-    singer_alias:
-    available_date: '2010-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいしてないと
-    singer_name_ruby: きしたん
-    song_variation:
-    - esong_code: 2589B35
-      song_name: 愛してナイト!
-      content_type: ''
   - song_name: 愛してKNIGHT 〜天上天下唯我独尊〜
     song_alias:
     esong_code: 2589A23
@@ -176,6 +159,23 @@ result:
     song_variation:
     - esong_code: 2589A23
       song_name: 愛してKNIGHT 〜天上天下唯我独尊〜
+      content_type: ''
+  - song_name: 愛してナイト!
+    song_alias:
+    esong_code: 2589B35
+    t_singer_master_id: '13215'
+    singer_name: 氣志團
+    singer_alias:
+    available_date: '2010-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいしてないと
+    singer_name_ruby: きしたん
+    song_variation:
+    - esong_code: 2589B35
+      song_name: 愛してナイト!
       content_type: ''
   - song_name: 哀愁運河
     song_alias:
@@ -264,23 +264,6 @@ result:
       content_type: ''
   - song_name: 会いたかった
     song_alias:
-    esong_code: 2622B21
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2010-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: あいたかつた
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 2622B21
-      song_name: 会いたかった
-      content_type: JOY生演奏
-  - song_name: 会いたかった
-    song_alias:
     esong_code: 2599A13
     t_singer_master_id: '25255'
     singer_name: AKB48
@@ -296,6 +279,23 @@ result:
     - esong_code: 2599A13
       song_name: 会いたかった
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 会いたかった
+    song_alias:
+    esong_code: 2622B21
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2010-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: あいたかつた
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 2622B21
+      song_name: 会いたかった
+      content_type: JOY生演奏
   - song_name: 愛っていったいナンデスカ?
     song_alias:
     esong_code: 2604B25
@@ -500,20 +500,20 @@ result:
     - esong_code: 2602A26
       song_name: I ・×××(アイ・ラヴ) 混声三部合唱
       content_type: ''
-  - song_name: Iｘｘｘ
+  - song_name: I ・×××(アイ・ラヴ) 混声三部合唱
     song_alias:
-    esong_code: 2607A27
-    t_singer_master_id: '16288'
-    singer_name: 大塚 愛
+    esong_code: 2622B20
+    t_singer_master_id: '10342'
+    singer_name: 合唱
     singer_alias:
-    available_date: '2010-09-06'
+    available_date: '2010-09-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: あいらふ
-    singer_name_ruby: おおつかあい
+    singer_name_ruby: かつしよう
     song_variation:
-    - esong_code: 2607A27
-      song_name: Iｘｘｘ
+    - esong_code: 2622B20
+      song_name: I ・×××(アイ・ラヴ) 混声三部合唱
       content_type: JOYﾎﾞｰｶﾙ

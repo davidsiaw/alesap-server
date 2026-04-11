@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1071
+  all_max_cnt: 1192
+  all_country_cnt: 1071
   song:
+  - song_name: 悲しき雨音
+    song_alias:
+    esong_code: 2184B47
+    t_singer_master_id: '7374'
+    singer_name: 鈴木 ヤスシ(鈴木やすし)
+    singer_alias:
+    available_date: '2008-12-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしきあまおと
+    singer_name_ruby: すすきやすし
+    song_variation:
+    - esong_code: 2184B47
+      song_name: 悲しき雨音
+      content_type: ''
   - song_name: 悲しきインディアン 〜Running Bear
     song_alias:
     esong_code: 2185A11
@@ -279,23 +296,6 @@ result:
     - esong_code: 2177B6
       song_name: Girl Is Mine feat.CRYSTAL BOY
       content_type: ''
-  - song_name: カレーライスのうた
-    song_alias:
-    esong_code: 2176A20
-    t_singer_master_id: '34940'
-    singer_name: 柳沢 三千代&中尾 隆聖&鶴 ひろみ
-    singer_alias:
-    available_date: '2008-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: それいけ!アンパンマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かれらいすのうた
-    singer_name_ruby: やなきさわみちよなかおりゆうせ
-    song_variation:
-    - esong_code: 2176A20
-      song_name: カレーライスのうた
-      content_type: ''
   - song_name: カレンダーガール
     song_alias:
     esong_code: 2184B43
@@ -398,23 +398,6 @@ result:
     - esong_code: 2177B7
       song_name: Kiss Kiss Kiss feat.AZU&yukako
       content_type: ''
-  - song_name: 絆
-    song_alias:
-    esong_code: 2181B37
-    t_singer_master_id: '14836'
-    singer_name: 近藤 孝行
-    singer_alias:
-    available_date: '2008-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テニスの王子様<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: こんとうたかゆき
-    song_variation:
-    - esong_code: 2181B37
-      song_name: 絆
-      content_type: ''
   - song_name: キズナ
     song_alias:
     esong_code: 2147B18
@@ -432,23 +415,6 @@ result:
     - esong_code: 2147B18
       song_name: キズナ
       content_type: ''
-  - song_name: 木曽川しぐれ
-    song_alias:
-    esong_code: 2176A42
-    t_singer_master_id: '595'
-    singer_name: 川中 美幸
-    singer_alias:
-    available_date: '2008-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: きそかわしくれ
-    singer_name_ruby: かわなかみゆき
-    song_variation:
-    - esong_code: 2176A42
-      song_name: 木曽川しぐれ
-      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 木曽川しぐれ 「名演ギター 斉藤 功」
     song_alias:
     esong_code: 2176B34
@@ -466,6 +432,23 @@ result:
     - esong_code: 2176B34
       song_name: 木曽川しぐれ 「名演ギター 斉藤 功」
       content_type: DAM生音
+  - song_name: 木曽川しぐれ
+    song_alias:
+    esong_code: 2176A42
+    t_singer_master_id: '595'
+    singer_name: 川中 美幸
+    singer_alias:
+    available_date: '2008-12-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: きそかわしくれ
+    singer_name_ruby: かわなかみゆき
+    song_variation:
+    - esong_code: 2176A42
+      song_name: 木曽川しぐれ
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 北化粧
     song_alias:
     esong_code: 2173A1
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2177B8
       song_name: Kick it out
+      content_type: ''
+  - song_name: 鬼帝の剣
+    song_alias:
+    esong_code: 2132B31
+    t_singer_master_id: '8177'
+    singer_name: ALI PROJECT
+    singer_alias:
+    available_date: '2008-12-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鉄のラインバレル<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きていのつるき
+    singer_name_ruby: ありふろしえくと
+    song_variation:
+    - esong_code: 2132B31
+      song_name: 鬼帝の剣
       content_type: ''

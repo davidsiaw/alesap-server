@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: 僕たちは 今 話し合うべきなんだ
-    song_alias:
-    esong_code: 2838A17
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2012-08-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほくたちはいまはな
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 2838A17
-      song_name: 僕たちは 今 話し合うべきなんだ
-      content_type: ''
-  - song_name: 僕と花
-    song_alias:
-    esong_code: 2834B7
-    t_singer_master_id: '31003'
-    singer_name: サカナクション
-    singer_alias:
-    available_date: '2012-08-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ほくとはな
-    singer_name_ruby: さかなくしよん
-    song_variation:
-    - esong_code: 2834B7
-      song_name: 僕と花
-      content_type: DAM生音
   - song_name: 僕と花
     song_alias:
     esong_code: 2834B40
@@ -355,7 +321,7 @@ result:
     singer_alias:
     available_date: '2012-08-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ほやしゆ
@@ -517,3 +483,37 @@ result:
     - esong_code: 2831B46
       song_name: 前に!
       content_type: ''
+  - song_name: MASARU
+    song_alias:
+    esong_code: 2841A15
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2012-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: まさる
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 2841A15
+      song_name: MASARU
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: まじかる図書委員! パチュリーちゃん feat.ココ
+    song_alias:
+    esong_code: 2695B9
+    t_singer_master_id: '38202'
+    singer_name: ふぉれすとぴれお
+    singer_alias:
+    available_date: '2012-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方紅魔郷 〜the Embodiment of Scarlet Devil<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: ましかるとしよいい
+    singer_name_ruby: ふおれすとひれお
+    song_variation:
+    - esong_code: 2695B9
+      song_name: まじかる図書委員! パチュリーちゃん feat.ココ
+      content_type: 東方

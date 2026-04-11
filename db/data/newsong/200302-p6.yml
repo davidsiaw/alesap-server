@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 535
-  all_max_cnt: 597
-  all_country_cnt: 535
+  max_cnt: 533
+  all_max_cnt: 595
+  all_country_cnt: 533
   song:
-  - song_name: 告白テレフォン
-    song_alias:
-    esong_code: 399A26
-    t_singer_master_id: '341'
-    singer_name: 遠藤 響子(遠藤京子)
-    singer_alias:
-    available_date: '2003-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こくはくてれふおん
-    singer_name_ruby: えんとうきようこ
-    song_variation:
-    - esong_code: 399A26
-      song_name: 告白テレフォン
-      content_type: ''
   - song_name: GO!GO!レスキュー
     song_alias:
     esong_code: 276A32
@@ -500,20 +483,37 @@ result:
     - esong_code: 222A20
       song_name: 3番線
       content_type: ''
-  - song_name: J
+  - song_name: Shades Of Love
     song_alias:
-    esong_code: 96B29
-    t_singer_master_id: '542'
-    singer_name: 門倉 有希
+    esong_code: 776B21
+    t_singer_master_id: '13601'
+    singer_name: Triangle beloe canal street(トライベッカ)
     singer_alias:
-    available_date: '2003-02-12'
+    available_date: '2003-02-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: しえい
-    singer_name_ruby: かとくらゆき
+    song_name_ruby: しえいすおふらふ
+    singer_name_ruby: とらいへつか
     song_variation:
-    - esong_code: 96B29
-      song_name: J
+    - esong_code: 776B21
+      song_name: Shades Of Love
+      content_type: ''
+  - song_name: ジェットイカロス 無敵ロボ!
+    song_alias:
+    esong_code: 240A19
+    t_singer_master_id: '503'
+    singer_name: 影山 ヒロノブ
+    singer_alias:
+    available_date: '2003-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鳥人戦隊ジェットマン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しえつといかろすむ
+    singer_name_ruby: かけやまひろのふ
+    song_variation:
+    - esong_code: 240A19
+      song_name: ジェットイカロス 無敵ロボ!
       content_type: ''

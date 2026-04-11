@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: 口笛天国
+    song_alias:
+    esong_code: 816B29
+    t_singer_master_id: '480'
+    singer_name: ザ・カーナビーツ
+    singer_alias:
+    available_date: '2002-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くちふえてんこく
+    singer_name_ruby: さかなひつ
+    song_variation:
+    - esong_code: 816B29
+      song_name: 口笛天国
+      content_type: ''
   - song_name: Good-bye 〜旅さきで〜
     song_alias:
     esong_code: 816A24
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 815B23
       song_name: このまま featuring 椎名純平
-      content_type: ''
-  - song_name: ごめんねチコちゃん
-    song_alias:
-    esong_code: 825B29
-    t_singer_master_id: '2304'
-    singer_name: 三田 明
-    singer_alias:
-    available_date: '2002-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こめんねちこちやん
-    singer_name_ruby: みたあきら
-    song_variation:
-    - esong_code: 825B29
-      song_name: ごめんねチコちゃん
       content_type: ''

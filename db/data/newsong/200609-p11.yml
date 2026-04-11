@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
+  - song_name: 鼓動
+    song_alias:
+    esong_code: 1570A10
+    t_singer_master_id: '26745'
+    singer_name: 川澄 綾子&真堂 圭
+    singer_alias:
+    available_date: '2006-09-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 夢使い<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことう
+    singer_name_ruby: かわすみあやこしんとうけい
+    song_variation:
+    - esong_code: 1570A10
+      song_name: 鼓動
+      content_type: ''
   - song_name: 後藤真希ベストメドレー
     song_alias:
     esong_code: 1644B37
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1654A11
       song_name: Saturday [with New Cool Collective]
-      content_type: ''
-  - song_name: 真田十勇士の歌
-    song_alias:
-    esong_code: 269A18
-    t_singer_master_id: '5143'
-    singer_name: 村田 英雄&東京放送児童合唱団
-    singer_alias:
-    available_date: '2006-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 真田十勇士<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さなたしゆうゆう
-    singer_name_ruby: むらたひておとうき
-    song_variation:
-    - esong_code: 269A18
-      song_name: 真田十勇士の歌
       content_type: ''

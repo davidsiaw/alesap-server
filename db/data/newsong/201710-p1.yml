@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1594
-  all_max_cnt: 2013
-  all_country_cnt: 1594
+  max_cnt: 1571
+  all_max_cnt: 1990
+  all_country_cnt: 1571
   song:
   - song_name: 哀なんて青春。
     song_alias:
@@ -24,7 +24,7 @@ result:
     - esong_code: 3894A31
       song_name: 哀なんて青春。
       content_type: ''
-  - song_name: I NEED U (Japanese Ver.) [DAM本人歌唱]
+  - song_name: I NEED U (Japanese Ver.)[DAM本人歌唱]
     song_alias:
     esong_code: 3893A10
     t_singer_master_id: '51130'
@@ -39,7 +39,7 @@ result:
     singer_name_ruby: ひていえす
     song_variation:
     - esong_code: 3893A10
-      song_name: I NEED U (Japanese Ver.) [DAM本人歌唱]
+      song_name: I NEED U (Japanese Ver.)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 愛に背かれて (ニューバージョン)
     song_alias:
@@ -296,23 +296,6 @@ result:
     - esong_code: 3885B32
       song_name: アイヲ
       content_type: ''
-  - song_name: Awaked
-    song_alias:
-    esong_code: 3887B48
-    t_singer_master_id: '27889'
-    singer_name: 浪川 大輔
-    singer_alias:
-    available_date: '2017-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あうえいくと
-    singer_name_ruby: なみかわたいすけ
-    song_variation:
-    - esong_code: 3887B48
-      song_name: Awaked
-      content_type: ''
   - song_name: OUTRO
     song_alias:
     esong_code: 3898A31
@@ -383,23 +366,6 @@ result:
       content_type: ''
   - song_name: 赤いグラス (バーチャルカラオケver.)
     song_alias:
-    esong_code: 2347B5
-    t_singer_master_id: '59975'
-    singer_name: バーチャルカラオケ(男性Ver.)
-    singer_alias:
-    available_date: '2017-10-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あかいくらす
-    singer_name_ruby: はちやるからおけたんせいはし
-    song_variation:
-    - esong_code: 2347B5
-      song_name: 赤いグラス (バーチャルカラオケver.)
-      content_type: DAM生音
-  - song_name: 赤いグラス (バーチャルカラオケver.)
-    song_alias:
     esong_code: 2347B25
     t_singer_master_id: '59974'
     singer_name: バーチャルカラオケ
@@ -413,6 +379,23 @@ result:
     singer_name_ruby: はちやるからおけ
     song_variation:
     - esong_code: 2347B25
+      song_name: 赤いグラス (バーチャルカラオケver.)
+      content_type: DAM生音
+  - song_name: 赤いグラス (バーチャルカラオケver.)
+    song_alias:
+    esong_code: 2347B5
+    t_singer_master_id: '59975'
+    singer_name: バーチャルカラオケ(男性Ver.)
+    singer_alias:
+    available_date: '2017-10-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あかいくらす
+    singer_name_ruby: はちやるからおけたんせいはし
+    song_variation:
+    - esong_code: 2347B5
       song_name: 赤いグラス (バーチャルカラオケver.)
       content_type: DAM生音
   - song_name: 赫色-akairo-
@@ -485,23 +468,6 @@ result:
       content_type: ''
   - song_name: アカシアの街で
     song_alias:
-    esong_code: 3892B33
-    t_singer_master_id: '18770'
-    singer_name: 北山 たけし
-    singer_alias:
-    available_date: '2017-10-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あかしあのまちて
-    singer_name_ruby: きたやまたけし
-    song_variation:
-    - esong_code: 3892B33
-      song_name: アカシアの街で
-      content_type: DAM生音
-  - song_name: アカシアの街で
-    song_alias:
     esong_code: 3896B20
     t_singer_master_id: '18770'
     singer_name: 北山 たけし
@@ -517,3 +483,37 @@ result:
     - esong_code: 3896B20
       song_name: アカシアの街で
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 赤ずきんちゃん無用心
+    song_alias:
+    esong_code: 3891B19
+    t_singer_master_id: '59703'
+    singer_name: 妖ベックス連合軍
+    singer_alias:
+    available_date: '2017-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スナックワールド<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかすきんちやんふ
+    singer_name_ruby: ようへつくすれんこうくん
+    song_variation:
+    - esong_code: 3891B19
+      song_name: 赤ずきんちゃん無用心
+      content_type: ''
+  - song_name: 赤だけが足りない
+    song_alias:
+    esong_code: 3891B17
+    t_singer_master_id: '55874'
+    singer_name: Iris
+    singer_alias:
+    available_date: '2017-10-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: コードギアス 反逆のルルーシュ(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかたけかたりな
+    singer_name_ruby: あいりす
+    song_variation:
+    - esong_code: 3891B17
+      song_name: 赤だけが足りない
+      content_type: ''

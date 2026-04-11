@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: Suicide View
-    song_alias:
-    esong_code: 1803B27
-    t_singer_master_id: '23697'
-    singer_name: キリト
-    singer_alias:
-    available_date: '2007-07-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すさいとひゆ
-    singer_name_ruby: きりと
-    song_variation:
-    - esong_code: 1803B27
-      song_name: Suicide View
-      content_type: ''
   - song_name: 朱雀の空
     song_alias:
     esong_code: 1804A29
@@ -364,23 +347,6 @@ result:
     - esong_code: 1152B31
       song_name: スマイル スマイル
       content_type: ''
-  - song_name: 3-Call&1-Mail
-    song_alias:
-    esong_code: 1067A31
-    t_singer_master_id: '372'
-    singer_name: 大黒 摩季
-    singer_alias:
-    available_date: '2007-07-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すりこるあんと
-    singer_name_ruby: おおくろまき
-    song_variation:
-    - esong_code: 1067A31
-      song_name: 3-Call&1-Mail
-      content_type: ''
   - song_name: Slowmusic
     song_alias:
     esong_code: 1815B14
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1811B8
       song_name: 世界一おとなしい納税者 feat.宇多丸
+      content_type: ''
+  - song_name: 世界一音頭
+    song_alias:
+    esong_code: 1814A45
+    t_singer_master_id: '15576'
+    singer_name: 山本 謙司(山本けんじ)
+    singer_alias:
+    available_date: '2007-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せかいいちおんと
+    singer_name_ruby: やまもとけんし
+    song_variation:
+    - esong_code: 1814A45
+      song_name: 世界一音頭
+      content_type: ''
+  - song_name: 世界一の男と呼ばれるために
+    song_alias:
+    esong_code: 820B45
+    t_singer_master_id: '19495'
+    singer_name: 中井 和哉&山口 勝平&平田 広明
+    singer_alias:
+    available_date: '2007-07-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ONE PIECE<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: せかいいちのおとこと
+    singer_name_ruby: なかいかすややまくちか
+    song_variation:
+    - esong_code: 820B45
+      song_name: 世界一の男と呼ばれるために
       content_type: ''

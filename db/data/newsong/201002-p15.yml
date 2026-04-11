@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
-  - song_name: 人生みちづれ
-    song_alias:
-    esong_code: 2463B21
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2010-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんせいみちつれ
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 2463B21
-      song_name: 人生みちづれ
-      content_type: ''
   - song_name: SWEET&BITTER
     song_alias:
     esong_code: 2479A40
@@ -253,7 +236,7 @@ result:
     singer_alias:
     available_date: '2010-02-02'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダー×仮面ライダーW&ディケイド MOVIE大作戦2010<番組名>
+    tie_up: 劇場版 仮面ライダー×仮面ライダー<番組名>
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: すていさらいとあ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2470A18
       song_name: 世界は今日も僕らをのせてまわる
+      content_type: ''
+  - song_name: 雪月花 (unveil Ver.)
+    song_alias:
+    esong_code: 2482A2
+    t_singer_master_id: '33037'
+    singer_name: Asriel
+    singer_alias:
+    available_date: '2010-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せつけつか
+    singer_name_ruby: あすりえる
+    song_variation:
+    - esong_code: 2482A2
+      song_name: 雪月花 (unveil Ver.)
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1130
-  all_country_cnt: 1031
+  max_cnt: 1019
+  all_max_cnt: 1118
+  all_country_cnt: 1019
   song:
-  - song_name: 荒川峡から
-    song_alias:
-    esong_code: 4512A32
-    t_singer_master_id: '1667'
-    singer_name: 永井 みゆき
-    singer_alias:
-    available_date: '2021-06-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あらかわきようから
-    singer_name_ruby: なかいみゆき
-    song_variation:
-    - esong_code: 4512A32
-      song_name: 荒川峡から
-      content_type: ''
   - song_name: ALICE feat.Smrtdeath
     song_alias:
     esong_code: 4517A4
@@ -523,3 +506,20 @@ result:
     - esong_code: 4513A2
       song_name: イメージの詩
       content_type: ''
+  - song_name: イヤイヤヘヴン feat.初音ミク
+    song_alias:
+    esong_code: 4514A47
+    t_singer_master_id: '67790'
+    singer_name: メドミア
+    singer_alias:
+    available_date: '2021-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: いやいやへふん
+    singer_name_ruby: めとみあ
+    song_variation:
+    - esong_code: 4514A47
+      song_name: イヤイヤヘヴン feat.初音ミク
+      content_type: VOCALOID

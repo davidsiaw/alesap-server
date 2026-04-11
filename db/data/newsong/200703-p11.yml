@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 969
-  all_max_cnt: 1052
-  all_country_cnt: 969
+  max_cnt: 968
+  all_max_cnt: 1051
+  all_country_cnt: 968
   song:
   - song_name: 桜
     song_alias:
@@ -41,23 +41,6 @@ result:
     - esong_code: 1741A30
       song_name: SAKURA (acoustic version)
       content_type: ''
-  - song_name: サクラ色 (ビデオクリップVer,)
-    song_alias:
-    esong_code: 1749A48
-    t_singer_master_id: '24203'
-    singer_name: アンジェラ・アキ
-    singer_alias:
-    available_date: '2007-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: さくらいろ
-    singer_name_ruby: あんしえらあき
-    song_variation:
-    - esong_code: 1749A48
-      song_name: サクラ色 (ビデオクリップVer,)
-      content_type: DAM生音
   - song_name: サクラ色
     song_alias:
     esong_code: 1743B22
@@ -75,6 +58,23 @@ result:
     - esong_code: 1743B22
       song_name: サクラ色
       content_type: ''
+  - song_name: サクラ色 (ビデオクリップVer,)
+    song_alias:
+    esong_code: 1749A48
+    t_singer_master_id: '24203'
+    singer_name: アンジェラ・アキ
+    singer_alias:
+    available_date: '2007-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: さくらいろ
+    singer_name_ruby: あんしえらあき
+    song_variation:
+    - esong_code: 1749A48
+      song_name: サクラ色 (ビデオクリップVer,)
+      content_type: DAM生音
   - song_name: 桜・・・・・・・・かぞえ唄
     song_alias:
     esong_code: 1752A4
@@ -117,7 +117,7 @@ result:
     singer_alias:
     available_date: '2007-03-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦歌謡ショウ<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さくらさいた
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: さよなら
     song_alias:
-    esong_code: 1765B22
-    t_singer_master_id: '444'
-    singer_name: 小田 和正
-    singer_alias:
-    available_date: '2007-03-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよなら
-    singer_name_ruby: おたかすまさ
-    song_variation:
-    - esong_code: 1765B22
-      song_name: さよなら
-      content_type: ''
-  - song_name: さよなら
-    song_alias:
     esong_code: 1731B25
     t_singer_master_id: '1232'
     singer_name: 鈴木 雅之
@@ -413,6 +396,23 @@ result:
     singer_name_ruby: すすきまさゆき
     song_variation:
     - esong_code: 1731B25
+      song_name: さよなら
+      content_type: ''
+  - song_name: さよなら
+    song_alias:
+    esong_code: 1765B22
+    t_singer_master_id: '444'
+    singer_name: 小田 和正
+    singer_alias:
+    available_date: '2007-03-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよなら
+    singer_name_ruby: おたかすまさ
+    song_variation:
+    - esong_code: 1765B22
       song_name: さよなら
       content_type: ''
   - song_name: さよならが生まれた場所

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1307
-  all_max_cnt: 1525
-  all_country_cnt: 1307
+  max_cnt: 1293
+  all_max_cnt: 1511
+  all_country_cnt: 1293
   song:
   - song_name: あなた おまかせ
     song_alias:
@@ -262,23 +262,6 @@ result:
     - esong_code: 3982A9
       song_name: アヒルボート
       content_type: ''
-  - song_name: Applause
-    song_alias:
-    esong_code: 3979B23
-    t_singer_master_id: '45657'
-    singer_name: 内田 真礼
-    singer_alias:
-    available_date: '2018-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あふろす
-    singer_name_ruby: うちたまあや
-    song_variation:
-    - esong_code: 3979B23
-      song_name: Applause
-      content_type: ''
   - song_name: 甘い仮面
     song_alias:
     esong_code: 1019A6
@@ -332,23 +315,6 @@ result:
       content_type: ''
   - song_name: 天草情歌
     song_alias:
-    esong_code: 1022A24
-    t_singer_master_id: '22944'
-    singer_name: 天草 二郎
-    singer_alias:
-    available_date: '2018-04-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あまくさしようか
-    singer_name_ruby: あまくさしろう
-    song_variation:
-    - esong_code: 1022A24
-      song_name: 天草情歌
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 天草情歌
-    song_alias:
     esong_code: 1026A14
     t_singer_master_id: '22944'
     singer_name: 天草 二郎
@@ -364,6 +330,23 @@ result:
     - esong_code: 1026A14
       song_name: 天草情歌
       content_type: ''
+  - song_name: 天草情歌
+    song_alias:
+    esong_code: 1022A24
+    t_singer_master_id: '22944'
+    singer_name: 天草 二郎
+    singer_alias:
+    available_date: '2018-04-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あまくさしようか
+    singer_name_ruby: あまくさしろう
+    song_variation:
+    - esong_code: 1022A24
+      song_name: 天草情歌
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 天草情歌
     song_alias:
     esong_code: 1022B48
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3971A7
       song_name: ALIVE feat.SWAY
+      content_type: ''
+  - song_name: ありがとう妻よ
+    song_alias:
+    esong_code: 1021A30
+    t_singer_master_id: '61167'
+    singer_name: DO DREAM
+    singer_alias:
+    available_date: '2018-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ありかとうつまよ
+    singer_name_ruby: とうとりむ
+    song_variation:
+    - esong_code: 1021A30
+      song_name: ありがとう妻よ
       content_type: ''

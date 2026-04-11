@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1192
-  all_max_cnt: 1281
-  all_country_cnt: 1192
+  max_cnt: 1186
+  all_max_cnt: 1275
+  all_country_cnt: 1186
   song:
-  - song_name: 恋物語
-    song_alias:
-    esong_code: 1582B5
-    t_singer_master_id: '26953'
-    singer_name: 紗希
-    singer_alias:
-    available_date: '2006-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: こいものかたり
-    singer_name_ruby: さき
-    song_variation:
-    - esong_code: 1582B5
-      song_name: 恋物語
-      content_type: DAM良音
-  - song_name: 光線
-    song_alias:
-    esong_code: 1640B3
-    t_singer_master_id: '12589'
-    singer_name: 天野 月(天野月子)
-    singer_alias:
-    available_date: '2006-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こうせん
-    singer_name_ruby: あまのつき
-    song_variation:
-    - esong_code: 1640B3
-      song_name: 光線
-      content_type: ''
   - song_name: 紅白歌合戦メドレー 〜1965〜
     song_alias:
     esong_code: 1586A11
@@ -466,23 +432,6 @@ result:
     - esong_code: 1583A1
       song_name: 今夜はブギー・バック (smooth rap)
       content_type: ''
-  - song_name: 再会
-    song_alias:
-    esong_code: 1579B3
-    t_singer_master_id: '360'
-    singer_name: 大川 栄策
-    singer_alias:
-    available_date: '2006-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいかい
-    singer_name_ruby: おおかわえいさく
-    song_variation:
-    - esong_code: 1579B3
-      song_name: 再会
-      content_type: ''
   - song_name: 再会〜Story〜
     song_alias:
     esong_code: 1580B16
@@ -502,6 +451,23 @@ result:
       content_type: DAMｸﾘｯﾌﾟ良音
   - song_name: 再会
     song_alias:
+    esong_code: 1579B3
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2006-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいかい
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 1579B3
+      song_name: 再会
+      content_type: ''
+  - song_name: 再会
+    song_alias:
     esong_code: 1581A4
     t_singer_master_id: '360'
     singer_name: 大川 栄策
@@ -517,3 +483,37 @@ result:
     - esong_code: 1581A4
       song_name: 再会
       content_type: DAM生音
+  - song_name: サイクリング リサイクル
+    song_alias:
+    esong_code: 1579B16
+    t_singer_master_id: '26918'
+    singer_name: きりん
+    singer_alias:
+    available_date: '2006-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ケロロ軍曹<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいくりんくりさい
+    singer_name_ruby: きりん
+    song_variation:
+    - esong_code: 1579B16
+      song_name: サイクリング リサイクル
+      content_type: ''
+  - song_name: 最高の片想い
+    song_alias:
+    esong_code: 1624B19
+    t_singer_master_id: '25415'
+    singer_name: タイナカ サチ
+    singer_alias:
+    available_date: '2006-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 彩雲国物語<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: さいこうのかたおもい
+    singer_name_ruby: たいなかさち
+    song_variation:
+    - esong_code: 1624B19
+      song_name: 最高の片想い
+      content_type: ''

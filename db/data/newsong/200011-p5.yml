@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 320
-  all_max_cnt: 344
-  all_country_cnt: 320
+  max_cnt: 319
+  all_max_cnt: 343
+  all_country_cnt: 319
   song:
-  - song_name: だいすき
-    song_alias:
-    esong_code: 467A21
-    t_singer_master_id: '8751'
-    singer_name: Hysteric Blue
-    singer_alias:
-    available_date: '2000-11-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいすき
-    singer_name_ruby: ひすてりつくふる
-    song_variation:
-    - esong_code: 467A21
-      song_name: だいすき
-      content_type: ''
   - song_name: TIME
     song_alias:
     esong_code: 460B40
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 459B35
       song_name: どんなにうまい嘘だって
+      content_type: ''
+  - song_name: NIGHT FLIGHT
+    song_alias:
+    esong_code: 482B40
+    t_singer_master_id: '1639'
+    singer_name: 中西 圭三
+    singer_alias:
+    available_date: '2000-11-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ないとふらいと
+    singer_name_ruby: なかにしけいそう
+    song_variation:
+    - esong_code: 482B40
+      song_name: NIGHT FLIGHT
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 947
-  all_max_cnt: 1077
-  all_country_cnt: 947
+  max_cnt: 945
+  all_max_cnt: 1075
+  all_country_cnt: 945
   song:
   - song_name: 雨を連れゆく feat.鏡音レン
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 2373A10
       song_name: 妖の華 feat.癒月
       content_type: 東方
-  - song_name: "『Around40〜サマフォー〜』メドレー"
-    song_alias:
-    esong_code: 2381A40
-    t_singer_master_id: '5232'
-    singer_name: メドレー
-    singer_alias:
-    available_date: '2009-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あらうんとふおて
-    singer_name_ruby: めとれ
-    song_variation:
-    - esong_code: 2381A40
-      song_name: "『Around40〜サマフォー〜』メドレー"
-      content_type: ''
   - song_name: "『Around40〜アラフォー〜』メドレー"
     song_alias:
     esong_code: 2381A39
@@ -91,6 +74,23 @@ result:
     song_variation:
     - esong_code: 2381A39
       song_name: "『Around40〜アラフォー〜』メドレー"
+      content_type: ''
+  - song_name: "『Around40〜サマフォー〜』メドレー"
+    song_alias:
+    esong_code: 2381A40
+    t_singer_master_id: '5232'
+    singer_name: メドレー
+    singer_alias:
+    available_date: '2009-08-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あらうんとふおて
+    singer_name_ruby: めとれ
+    song_variation:
+    - esong_code: 2381A40
+      song_name: "『Around40〜サマフォー〜』メドレー"
       content_type: ''
   - song_name: アリガトウ
     song_alias:
@@ -236,7 +236,7 @@ result:
     singer_alias:
     available_date: '2009-08-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA(TV版)<番組名>
+    tie_up: 戦国BASARA(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あんらへる
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: イチブトゼンブ
     song_alias:
-    esong_code: 2391A13
-    t_singer_master_id: '1928'
-    singer_name: B'z
-    singer_alias:
-    available_date: '2009-08-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: いちふとせんふ
-    singer_name_ruby: ひす
-    song_variation:
-    - esong_code: 2391A13
-      song_name: イチブトゼンブ
-      content_type: DAM生音
-  - song_name: イチブトゼンブ
-    song_alias:
     esong_code: 2399A23
     t_singer_master_id: '1928'
     singer_name: B'z
@@ -415,6 +398,23 @@ result:
     - esong_code: 2399A23
       song_name: イチブトゼンブ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: イチブトゼンブ
+    song_alias:
+    esong_code: 2391A13
+    t_singer_master_id: '1928'
+    singer_name: B'z
+    singer_alias:
+    available_date: '2009-08-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: いちふとせんふ
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 2391A13
+      song_name: イチブトゼンブ
+      content_type: DAM生音
   - song_name: いつか時を止めて
     song_alias:
     esong_code: 2382A31

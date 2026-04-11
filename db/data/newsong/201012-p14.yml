@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1330
-  all_max_cnt: 1518
-  all_country_cnt: 1330
+  max_cnt: 1339
+  all_max_cnt: 1527
+  all_country_cnt: 1339
   song:
   - song_name: 恋芙蓉
     song_alias:
@@ -177,22 +177,22 @@ result:
     - esong_code: 2158A28
       song_name: 告っchao!
       content_type: ''
-  - song_name: GO-GO たまごっち! (めめっち.まきこ.くちぱっち)
+  - song_name: GO-GO たまごっち! (ラブリン.メロディっち.くろまめっち)
     song_alias:
-    esong_code: 2165A15
-    t_singer_master_id: '41298'
-    singer_name: 柚木 涼香&岡村 明美&矢口 アサミ
+    esong_code: 2168B22
+    t_singer_master_id: '41233'
+    singer_name: 真堂 圭&三瓶 由布子&加藤 奈々絵
     singer_alias:
-    available_date: '2010-12-10'
+    available_date: '2010-12-04'
     end_date: '2999-04-10 00:00:00'
     tie_up: たまごっち!(TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ここたまこ
-    singer_name_ruby: ゆすきりようかおかむらあけ
+    singer_name_ruby: しんとうけいさんへいゆうこ
     song_variation:
-    - esong_code: 2165A15
-      song_name: GO-GO たまごっち! (めめっち.まきこ.くちぱっち)
+    - esong_code: 2168B22
+      song_name: GO-GO たまごっち! (ラブリン.メロディっち.くろまめっち)
       content_type: ''
   - song_name: GO-GOたまごっち!(ちゃまめっち.ハピハピっち.まめっち)
     song_alias:
@@ -211,22 +211,22 @@ result:
     - esong_code: 2165A16
       song_name: GO-GOたまごっち!(ちゃまめっち.ハピハピっち.まめっち)
       content_type: ''
-  - song_name: GO-GO たまごっち! (ラブリン.メロディっち.くろまめっち)
+  - song_name: GO-GO たまごっち! (めめっち.まきこ.くちぱっち)
     song_alias:
-    esong_code: 2168B22
-    t_singer_master_id: '41233'
-    singer_name: 真堂 圭&三瓶 由布子&加藤 奈々絵
+    esong_code: 2165A15
+    t_singer_master_id: '41298'
+    singer_name: 柚木 涼香&岡村 明美&矢口 アサミ
     singer_alias:
-    available_date: '2010-12-04'
+    available_date: '2010-12-10'
     end_date: '2999-04-10 00:00:00'
     tie_up: たまごっち!(TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ここたまこ
-    singer_name_ruby: しんとうけいさんへいゆうこ
+    singer_name_ruby: ゆすきりようかおかむらあけ
     song_variation:
-    - esong_code: 2168B22
-      song_name: GO-GO たまごっち! (ラブリン.メロディっち.くろまめっち)
+    - esong_code: 2165A15
+      song_name: GO-GO たまごっち! (めめっち.まきこ.くちぱっち)
       content_type: ''
   - song_name: 心color -a song for the wonderful year-
     song_alias:
@@ -312,6 +312,23 @@ result:
     song_variation:
     - esong_code: 2137A25
       song_name: 心の扉
+      content_type: ''
+  - song_name: 心のファンファーレ
+    song_alias:
+    esong_code: 2166A25
+    t_singer_master_id: '5442'
+    singer_name: 奥井 亜紀
+    singer_alias:
+    available_date: '2010-12-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ポケットモンスター ベストウイッシュ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころのふあんふあ
+    singer_name_ruby: おくいあき
+    song_variation:
+    - esong_code: 2166A25
+      song_name: 心のファンファーレ
       content_type: ''
   - song_name: 心は恋雨
     song_alias:
@@ -500,20 +517,3 @@ result:
     - esong_code: 2157B32
       song_name: 言葉にできない
       content_type: ''
-  - song_name: この想い伝えたくて
-    song_alias:
-    esong_code: 2044B10
-    t_singer_master_id: '41503'
-    singer_name: 鼻毛P
-    singer_alias:
-    available_date: '2010-12-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: このおもいつたえたく
-    singer_name_ruby: はなけひ
-    song_variation:
-    - esong_code: 2044B10
-      song_name: この想い伝えたくて
-      content_type: VOCALOID

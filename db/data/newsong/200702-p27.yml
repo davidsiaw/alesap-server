@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1199
-  all_max_cnt: 1301
-  all_country_cnt: 1199
+  max_cnt: 1196
+  all_max_cnt: 1298
+  all_country_cnt: 1196
   song:
-  - song_name: 破戒
-    song_alias:
-    esong_code: 1735A4
-    t_singer_master_id: '14862'
-    singer_name: Kagrra,(Kagrra)
-    singer_alias:
-    available_date: '2007-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はかい
-    singer_name_ruby: かくら
-    song_variation:
-    - esong_code: 1735A4
-      song_name: 破戒
-      content_type: ''
   - song_name: park
     song_alias:
     esong_code: 1729B21
@@ -298,23 +281,6 @@ result:
       content_type: ''
   - song_name: 波止場うた
     song_alias:
-    esong_code: 1723B1
-    t_singer_master_id: '5041'
-    singer_name: 上杉 香緒里
-    singer_alias:
-    available_date: '2007-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はとはうた
-    singer_name_ruby: うえすきかおり
-    song_variation:
-    - esong_code: 1723B1
-      song_name: 波止場うた
-      content_type: ''
-  - song_name: 波止場うた
-    song_alias:
     esong_code: 1729B30
     t_singer_master_id: '5041'
     singer_name: 上杉 香緒里
@@ -330,6 +296,23 @@ result:
     - esong_code: 1729B30
       song_name: 波止場うた
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 波止場うた
+    song_alias:
+    esong_code: 1723B1
+    t_singer_master_id: '5041'
+    singer_name: 上杉 香緒里
+    singer_alias:
+    available_date: '2007-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はとはうた
+    singer_name_ruby: うえすきかおり
+    song_variation:
+    - esong_code: 1723B1
+      song_name: 波止場うた
+      content_type: ''
   - song_name: HEART☆BEAT
     song_alias:
     esong_code: 1725A28
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1734B32
       song_name: Bunny♀&Monkey♂
+      content_type: ''
+  - song_name: Vanity Fair
+    song_alias:
+    esong_code: 1738B37
+    t_singer_master_id: '12573'
+    singer_name: SCRIPT
+    singer_alias:
+    available_date: '2007-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はにていふえあ
+    singer_name_ruby: すくりふと
+    song_variation:
+    - esong_code: 1738B37
+      song_name: Vanity Fair
       content_type: ''

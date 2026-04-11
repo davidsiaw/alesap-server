@@ -3,26 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: エピローグ
+  - song_name: EVOLUTION
     song_alias:
-    esong_code: 2569B14
-    t_singer_master_id: '14134'
-    singer_name: 北原 愛子
+    esong_code: 2572B20
+    t_singer_master_id: '6205'
+    singer_name: LEMON ANGEL
     singer_alias:
-    available_date: '2010-07-16'
+    available_date: '2010-07-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: LEMON ANGEL PROJECT<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: えひろく
-    singer_name_ruby: きたはらあいこ
+    song_name_ruby: えほりゆしよん
+    singer_name_ruby: れもんえんしえる
     song_variation:
-    - esong_code: 2569B14
-      song_name: エピローグ
+    - esong_code: 2572B20
+      song_name: EVOLUTION
       content_type: ''
   - song_name: evolution 〜for beloved one〜
     song_alias:
@@ -40,23 +40,6 @@ result:
     song_variation:
     - esong_code: 2560A14
       song_name: evolution 〜for beloved one〜
-      content_type: ''
-  - song_name: EVOLUTION
-    song_alias:
-    esong_code: 2572B20
-    t_singer_master_id: '6205'
-    singer_name: LEMON ANGEL
-    singer_alias:
-    available_date: '2010-07-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: LEMON ANGEL PROJECT<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えほりゆしよん
-    singer_name_ruby: れもんえんしえる
-    song_variation:
-    - esong_code: 2572B20
-      song_name: EVOLUTION
       content_type: ''
   - song_name: エメラルド
     song_alias:
@@ -83,7 +66,7 @@ result:
     singer_alias:
     available_date: '2010-07-09'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA弐<番組名>
+    tie_up: 戦国BASARA(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えるとらと
@@ -517,3 +500,20 @@ result:
     - esong_code: 2570A5
       song_name: 男歌
       content_type: ''
+  - song_name: 男と女のラブゲーム
+    song_alias:
+    esong_code: 2590A31
+    t_singer_master_id: '4282'
+    singer_name: ヒロシ&ミユキ
+    singer_alias:
+    available_date: '2010-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: おとことおんなのらふ
+    singer_name_ruby: ひろしあんとみゆき
+    song_variation:
+    - esong_code: 2590A31
+      song_name: 男と女のラブゲーム
+      content_type: JOY生演奏

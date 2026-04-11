@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1252
-  all_max_cnt: 1433
-  all_country_cnt: 1252
+  max_cnt: 1245
+  all_max_cnt: 1426
+  all_country_cnt: 1245
   song:
-  - song_name: 碧く
-    song_alias:
-    esong_code: 3870A26
-    t_singer_master_id: '27708'
-    singer_name: 柿原 徹也
-    singer_alias:
-    available_date: '2017-08-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あおく
-    singer_name_ruby: かきはらてつや
-    song_variation:
-    - esong_code: 3870A26
-      song_name: 碧く
-      content_type: ''
   - song_name: 蒼の月
     song_alias:
     esong_code: 3855B13
@@ -77,21 +60,21 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 赤い涙
     song_alias:
-    esong_code: 3853B28
+    esong_code: 3851B42
     t_singer_master_id: '671'
     singer_name: キム・ヨンジャ(金蓮子)
     singer_alias:
-    available_date: '2017-08-02'
+    available_date: '2017-08-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: あかいなみた
     singer_name_ruby: きむよんしや
     song_variation:
-    - esong_code: 3853B28
+    - esong_code: 3851B42
       song_name: 赤い涙
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: 赤い涙
     song_alias:
     esong_code: 3854A10
@@ -111,21 +94,21 @@ result:
       content_type: JOY生演奏
   - song_name: 赤い涙
     song_alias:
-    esong_code: 3851B42
+    esong_code: 3853B28
     t_singer_master_id: '671'
     singer_name: キム・ヨンジャ(金蓮子)
     singer_alias:
-    available_date: '2017-08-01'
+    available_date: '2017-08-02'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: あかいなみた
     singer_name_ruby: きむよんしや
     song_variation:
-    - esong_code: 3851B42
+    - esong_code: 3853B28
       song_name: 赤い涙
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 紅い花
     song_alias:
     esong_code: 3855B44
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3852A46
       song_name: あなたがいるなら
+      content_type: ''
+  - song_name: あなただけを
+    song_alias:
+    esong_code: 3852B30
+    t_singer_master_id: '1937'
+    singer_name: BEGIN
+    singer_alias:
+    available_date: '2017-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたたけを
+    singer_name_ruby: ひきん
+    song_variation:
+    - esong_code: 3852B30
+      song_name: あなただけを
       content_type: ''

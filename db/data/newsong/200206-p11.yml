@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
-  - song_name: FUN-KEY-WORD
-    song_alias:
-    esong_code: 113A47
-    t_singer_master_id: '2816'
-    singer_name: スチャダラパー
-    singer_alias:
-    available_date: '2002-06-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふあんきわと
-    singer_name_ruby: すちやたらは
-    song_variation:
-    - esong_code: 113A47
-      song_name: FUN-KEY-WORD
-      content_type: ''
   - song_name: ファンタジェンの英雄
     song_alias:
     esong_code: 862A24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 865A32
       song_name: propose
+      content_type: ''
+  - song_name: BRONZE
+    song_alias:
+    esong_code: 860A27
+    t_singer_master_id: '5879'
+    singer_name: 石原 慎一
+    singer_alias:
+    available_date: '2002-06-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BRONZE<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふろんす
+    singer_name_ruby: いしはらしんいち
+    song_variation:
+    - esong_code: 860A27
+      song_name: BRONZE
       content_type: ''

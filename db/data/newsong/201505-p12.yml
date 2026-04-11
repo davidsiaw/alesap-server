@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1230
-  all_max_cnt: 1369
-  all_country_cnt: 1230
+  max_cnt: 1222
+  all_max_cnt: 1361
+  all_country_cnt: 1222
   song:
-  - song_name: 熊野古道にて 〜癒しの道にて蘇り〜
-    song_alias:
-    esong_code: 3154B12
-    t_singer_master_id: '32666'
-    singer_name: 田辺 大蔵
-    singer_alias:
-    available_date: '2015-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くまのことうにてい
-    singer_name_ruby: たなへたいそう
-    song_variation:
-    - esong_code: 3154B12
-      song_name: 熊野古道にて 〜癒しの道にて蘇り〜
-      content_type: ''
-  - song_name: 組曲オバタリアンのテーマ
-    song_alias:
-    esong_code: 1253B45
-    t_singer_master_id: '2185'
-    singer_name: 真心ブラザーズ
-    singer_alias:
-    available_date: '2015-05-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: オバタリアン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くみきよくおはたり
-    singer_name_ruby: まこころふらさす
-    song_variation:
-    - esong_code: 1253B45
-      song_name: 組曲オバタリアンのテーマ
-      content_type: ''
-  - song_name: CLIMAX
-    song_alias:
-    esong_code: 3437A28
-    t_singer_master_id: '53350'
-    singer_name: TEAM B
-    singer_alias:
-    available_date: '2015-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
-    song_name_ruby: くらいまつくす
-    singer_name_ruby: ちむひ
-    song_variation:
-    - esong_code: 3437A28
-      song_name: CLIMAX
-      content_type: DAMﾗｲﾌﾞ
   - song_name: CRIME OF LOVE
     song_alias:
     esong_code: 3440B5
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3436A47
       song_name: 恋の音色ライン
+      content_type: ''
+  - song_name: 恋の花
+    song_alias:
+    esong_code: 789A33
+    t_singer_master_id: '10799'
+    singer_name: 瀬口 侑希
+    singer_alias:
+    available_date: '2015-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのはな
+    singer_name_ruby: せくちゆうき
+    song_variation:
+    - esong_code: 789A33
+      song_name: 恋の花
+      content_type: ''
+  - song_name: 恋遥か
+    song_alias:
+    esong_code: 760A17
+    t_singer_master_id: '17488'
+    singer_name: 新田 晃也
+    singer_alias:
+    available_date: '2015-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいはるか
+    singer_name_ruby: につたこうや
+    song_variation:
+    - esong_code: 760A17
+      song_name: 恋遥か
+      content_type: ''
+  - song_name: GOIN'!!! (CINDERELLA PROJECT ver.)
+    song_alias:
+    esong_code: 3438B8
+    t_singer_master_id: '52677'
+    singer_name: CINDERELLA PROJECT
+    singer_alias:
+    available_date: '2015-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: THE IDOLM@STER シンデレラガールズ(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいん
+    singer_name_ruby: しんてれらふろしえくと
+    song_variation:
+    - esong_code: 3438B8
+      song_name: GOIN'!!! (CINDERELLA PROJECT ver.)
       content_type: ''

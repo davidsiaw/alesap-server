@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 888
-  all_max_cnt: 934
-  all_country_cnt: 888
+  max_cnt: 881
+  all_max_cnt: 927
+  all_country_cnt: 881
   song:
   - song_name: 金木犀 feat.Ado
     song_alias:
@@ -245,23 +245,6 @@ result:
     - esong_code: 4545A28
       song_name: クロマト
       content_type: ''
-  - song_name: QUIET DANCE
-    song_alias:
-    esong_code: 4545B23
-    t_singer_master_id: '63384'
-    singer_name: Argonavis
-    singer_alias:
-    available_date: '2021-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: from ARGONAVIS<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くわいえつとたんす
-    singer_name_ruby: あるこなひす
-    song_variation:
-    - esong_code: 4545B23
-      song_name: QUIET DANCE
-      content_type: ''
   - song_name: 群青讃歌
     song_alias:
     esong_code: 4553A6
@@ -287,7 +270,7 @@ result:
     singer_alias:
     available_date: '2021-09-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: マギアレコード 魔法少女まどか☆マギカ外伝<番組名>
+    tie_up: マギアレコード 魔法少女まどか☆マギカ外伝(TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: けあれす
@@ -517,3 +500,20 @@ result:
     - esong_code: 3766B44
       song_name: 恋はボサノバ
       content_type: ''
+  - song_name: 恋人ごっこ [歌ってみた利用OK]
+    song_alias:
+    esong_code: 4545A48
+    t_singer_master_id: '53207'
+    singer_name: マカロニえんぴつ
+    singer_alias:
+    available_date: '2021-09-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: 歌ってみた利用OK
+    song_name_ruby: こいひとこつこ
+    singer_name_ruby: まかろにえんひつ
+    song_variation:
+    - esong_code: 4545A48
+      song_name: 恋人ごっこ [歌ってみた利用OK]
+      content_type: 歌ってみた利用OK

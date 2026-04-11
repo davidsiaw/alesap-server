@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1280
-  all_max_cnt: 1466
-  all_country_cnt: 1280
+  max_cnt: 1271
+  all_max_cnt: 1457
+  all_country_cnt: 1271
   song:
   - song_name: オドルヨル [DAM本人歌唱]
     song_alias:
@@ -313,23 +313,6 @@ result:
     - esong_code: 3875B16
       song_name: 父娘傘
       content_type: ''
-  - song_name: おやすみ
-    song_alias:
-    esong_code: 4148A48
-    t_singer_master_id: '61887'
-    singer_name: 杏沙子
-    singer_alias:
-    available_date: '2019-03-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おやすみ
-    singer_name_ruby: あさこ
-    song_variation:
-    - esong_code: 4148A48
-      song_name: おやすみ
-      content_type: ''
   - song_name: 親不孝
     song_alias:
     esong_code: 4154B47
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4154A37
       song_name: オレンジ
+      content_type: ''
+  - song_name: Aurora
+    song_alias:
+    esong_code: 4167B39
+    t_singer_master_id: '12276'
+    singer_name: BUMP OF CHICKEN
+    singer_alias:
+    available_date: '2019-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おろら
+    singer_name_ruby: はんふおふちきん
+    song_variation:
+    - esong_code: 4167B39
+      song_name: Aurora
       content_type: ''

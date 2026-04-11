@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 545
-  all_max_cnt: 575
-  all_country_cnt: 545
+  max_cnt: 543
+  all_max_cnt: 573
+  all_country_cnt: 543
   song:
-  - song_name: 記憶 (Cloverfield Version)
-    song_alias:
-    esong_code: 259A42
-    t_singer_master_id: '1996'
-    singer_name: 藤井 フミヤ
-    singer_alias:
-    available_date: '2004-05-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きおく
-    singer_name_ruby: ふしいふみや
-    song_variation:
-    - esong_code: 259A42
-      song_name: 記憶 (Cloverfield Version)
-      content_type: ''
   - song_name: 記憶
     song_alias:
     esong_code: 264A30
@@ -151,7 +134,7 @@ result:
     singer_alias:
     available_date: '2004-05-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 〜轟華絢爛〜<番組名>
+    tie_up: サクラ大戦 (TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きねまこうしんきよく
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 378A4
       song_name: 禁断のテレパシー
+      content_type: ''
+  - song_name: Good Morning Sue
+    song_alias:
+    esong_code: 475A49
+    t_singer_master_id: '10098'
+    singer_name: Crystal Kay
+    singer_alias:
+    available_date: '2004-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつともにんく
+    singer_name_ruby: くりすたるけい
+    song_variation:
+    - esong_code: 475A49
+      song_name: Good Morning Sue
       content_type: ''

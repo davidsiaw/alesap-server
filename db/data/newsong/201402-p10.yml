@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: On my way
-    song_alias:
-    esong_code: 3181A31
-    t_singer_master_id: '15296'
-    singer_name: FLOW
-    singer_alias:
-    available_date: '2014-02-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんまいうえい
-    singer_name_ruby: ふろう
-    song_variation:
-    - esong_code: 3181A31
-      song_name: On my way
-      content_type: ''
   - song_name: Only One
     song_alias:
     esong_code: 3199A46
@@ -149,7 +132,7 @@ result:
     t_singer_master_id: '18128'
     singer_name: 井上 由美子
     singer_alias:
-    available_date: '2014-02-04'
+    available_date: '2014-02-05'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -202,7 +185,7 @@ result:
     singer_alias:
     available_date: '2014-02-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA4<番組名>
+    tie_up: 戦国BASARA<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かうんとせろ
@@ -296,6 +279,23 @@ result:
     - esong_code: 3202B22
       song_name: 覚醒エタニティ
       content_type: ''
+  - song_name: 革命的ブロードウェイ主義者同盟
+    song_alias:
+    esong_code: 3168A37
+    t_singer_master_id: '45282'
+    singer_name: 上坂 すみれ
+    singer_alias:
+    available_date: '2014-02-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かくめいてきふろ
+    singer_name_ruby: うえさかすみれ
+    song_variation:
+    - esong_code: 3168A37
+      song_name: 革命的ブロードウェイ主義者同盟
+      content_type: ''
   - song_name: 革命ですね?神様!
     song_alias:
     esong_code: 3180B21
@@ -332,23 +332,6 @@ result:
       content_type: VOCALOID
   - song_name: かくれんぼ
     song_alias:
-    esong_code: 3207B10
-    t_singer_master_id: '50063'
-    singer_name: 上高地 龍二
-    singer_alias:
-    available_date: '2014-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かくれんほ
-    singer_name_ruby: かみこうちりゆうし
-    song_variation:
-    - esong_code: 3207B10
-      song_name: かくれんぼ
-      content_type: ''
-  - song_name: かくれんぼ
-    song_alias:
     esong_code: 3182B42
     t_singer_master_id: '44397'
     singer_name: hiro'
@@ -364,6 +347,23 @@ result:
     - esong_code: 3182B42
       song_name: かくれんぼ
       content_type: VOCALOID
+  - song_name: かくれんぼ
+    song_alias:
+    esong_code: 3207B10
+    t_singer_master_id: '50063'
+    singer_name: 上高地 龍二
+    singer_alias:
+    available_date: '2014-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かくれんほ
+    singer_name_ruby: かみこうちりゆうし
+    song_variation:
+    - esong_code: 3207B10
+      song_name: かくれんぼ
+      content_type: ''
   - song_name: かぐわしく生きる命
     song_alias:
     esong_code: 3206A18
@@ -491,7 +491,7 @@ result:
     singer_alias:
     available_date: '2014-02-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ 劇場版<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: かせのすとらいか

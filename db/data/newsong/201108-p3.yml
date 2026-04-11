@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
   - song_name: 在るはずもないセカイ
     song_alias:
@@ -58,6 +58,23 @@ result:
     - esong_code: 2652B24
       song_name: 淡色ノ夢
       content_type: ''
+  - song_name: Answer (TV Animation ver.)
+    song_alias:
+    esong_code: 2656B27
+    t_singer_master_id: '34334'
+    singer_name: ノースリーブス(AKB48)
+    singer_alias:
+    available_date: '2011-08-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: べるぜバブ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんさ
+    singer_name_ruby: のすりふす
+    song_variation:
+    - esong_code: 2656B27
+      song_name: Answer (TV Animation ver.)
+      content_type: ''
   - song_name: Answer
     song_alias:
     esong_code: 2653B32
@@ -75,22 +92,22 @@ result:
     - esong_code: 2653B32
       song_name: Answer
       content_type: ''
-  - song_name: Answer (TV Animation ver.)
+  - song_name: Answer And Answers
     song_alias:
-    esong_code: 2656B27
-    t_singer_master_id: '34334'
-    singer_name: ノースリーブス(AKB48)
+    esong_code: 2659B5
+    t_singer_master_id: '43075'
+    singer_name: りせは
     singer_alias:
-    available_date: '2011-08-17'
+    available_date: '2011-08-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: べるぜバブ<番組名>
+    tie_up: カタストロフの夢<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: あんさ
-    singer_name_ruby: のすりふす
+    song_name_ruby: あんさあんとあん
+    singer_name_ruby: りせは
     song_variation:
-    - esong_code: 2656B27
-      song_name: Answer (TV Animation ver.)
+    - esong_code: 2659B5
+      song_name: Answer And Answers
       content_type: ''
   - song_name: Answer And Answers
     song_alias:
@@ -109,23 +126,6 @@ result:
     - esong_code: 2659B13
       song_name: Answer And Answers
       content_type: JOYﾚｺおと
-  - song_name: Answer And Answers
-    song_alias:
-    esong_code: 2659B5
-    t_singer_master_id: '43075'
-    singer_name: りせは
-    singer_alias:
-    available_date: '2011-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: カタストロフの夢<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんさあんとあん
-    singer_name_ruby: りせは
-    song_variation:
-    - esong_code: 2659B5
-      song_name: Answer And Answers
-      content_type: ''
   - song_name: あんじょうやれたらえやないの
     song_alias:
     esong_code: 2661B45
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: アンドロメダ
     song_alias:
-    esong_code: 2659A23
-    t_singer_master_id: '42583'
-    singer_name: 佐香 智久(少年T)
-    singer_alias:
-    available_date: '2011-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: カタストロフの夢<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんとろめた
-    singer_name_ruby: さこうともひさ
-    song_variation:
-    - esong_code: 2659A23
-      song_name: アンドロメダ
-      content_type: ''
-  - song_name: アンドロメダ
-    song_alias:
     esong_code: 2659B12
     t_singer_master_id: '42583'
     singer_name: 佐香 智久(少年T)
@@ -279,6 +262,23 @@ result:
     - esong_code: 2659B12
       song_name: アンドロメダ
       content_type: JOYﾚｺおと
+  - song_name: アンドロメダ
+    song_alias:
+    esong_code: 2659A23
+    t_singer_master_id: '42583'
+    singer_name: 佐香 智久(少年T)
+    singer_alias:
+    available_date: '2011-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: カタストロフの夢<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんとろめた
+    singer_name_ruby: さこうともひさ
+    song_variation:
+    - esong_code: 2659A23
+      song_name: アンドロメダ
+      content_type: ''
   - song_name: "∞ -unlimited- feat.めらみぽっぷ"
     song_alias:
     esong_code: 2656A44

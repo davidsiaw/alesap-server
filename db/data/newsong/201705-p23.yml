@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1279
-  all_max_cnt: 1520
-  all_country_cnt: 1279
+  max_cnt: 1277
+  all_max_cnt: 1518
+  all_country_cnt: 1277
   song:
+  - song_name: day by day
+    song_alias:
+    esong_code: 3815A32
+    t_singer_master_id: '44662'
+    singer_name: 鹿乃
+    singer_alias:
+    available_date: '2017-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ソード・オラトリア<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていはいてい
+    singer_name_ruby: かの
+    song_variation:
+    - esong_code: 3815A32
+      song_name: day by day
+      content_type: ''
   - song_name: DIFFERENT
     song_alias:
     esong_code: 3817B29
@@ -364,23 +381,6 @@ result:
     - esong_code: 3816A19
       song_name: TODAY
       content_type: ''
-  - song_name: TONIGHT
-    song_alias:
-    esong_code: 3817B30
-    t_singer_master_id: '51637'
-    singer_name: WINNER
-    singer_alias:
-    available_date: '2017-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうないと
-    singer_name_ruby: ういな
-    song_variation:
-    - esong_code: 3817B30
-      song_name: TONIGHT
-      content_type: ''
   - song_name: Tonight
     song_alias:
     esong_code: 3811A3
@@ -397,6 +397,23 @@ result:
     song_variation:
     - esong_code: 3811A3
       song_name: Tonight
+      content_type: ''
+  - song_name: TONIGHT
+    song_alias:
+    esong_code: 3817B30
+    t_singer_master_id: '51637'
+    singer_name: WINNER
+    singer_alias:
+    available_date: '2017-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうないと
+    singer_name_ruby: ういな
+    song_variation:
+    - esong_code: 3817B30
+      song_name: TONIGHT
       content_type: ''
   - song_name: 問うなれば
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3818A25
       song_name: どおするのTANGO
-      content_type: ''
-  - song_name: ドキドキがいっぱい!
-    song_alias:
-    esong_code: 3814B6
-    t_singer_master_id: '57772'
-    singer_name: 原田 彩楓
-    singer_alias:
-    available_date: '2017-05-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: うらら迷路帖<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ときときかいつ
-    singer_name_ruby: はらたさやか
-    song_variation:
-    - esong_code: 3814B6
-      song_name: ドキドキがいっぱい!
       content_type: ''

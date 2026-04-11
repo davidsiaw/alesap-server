@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1132
-  all_country_cnt: 1023
+  max_cnt: 1015
+  all_max_cnt: 1124
+  all_country_cnt: 1015
   song:
   - song_name: IT'S SO GREAT 〜ザ・ヒット・パレードTM〜
     song_alias:
@@ -109,7 +109,7 @@ result:
     - esong_code: 2156B9
       song_name: 凍て鶴
       content_type: ''
-  - song_name: 愛しい人よ Good Night・・・ (Album ver.)
+  - song_name: 愛しい人よGood Night... (Album ver.)
     song_alias:
     esong_code: 2162A22
     t_singer_master_id: '1928'
@@ -124,7 +124,7 @@ result:
     singer_name_ruby: ひす
     song_variation:
     - esong_code: 2162A22
-      song_name: 愛しい人よ Good Night・・・ (Album ver.)
+      song_name: 愛しい人よGood Night... (Album ver.)
       content_type: ''
   - song_name: 愛しさの交差点
     song_alias:
@@ -483,23 +483,6 @@ result:
     - esong_code: 2146B18
       song_name: WINTER SONG 「名演ピアノ 美野 春樹」
       content_type: DAM生音
-  - song_name: Winter Love 〜LIVE TOUR 2008 THE FACE〜
-    song_alias:
-    esong_code: 2146A32
-    t_singer_master_id: '12544'
-    singer_name: BoA
-    singer_alias:
-    available_date: '2008-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ういんたらふ
-    singer_name_ruby: ほあ
-    song_variation:
-    - esong_code: 2146A32
-      song_name: Winter Love 〜LIVE TOUR 2008 THE FACE〜
-      content_type: DAM生音
   - song_name: Winter Love 「名演ピアノ 美野 春樹」
     song_alias:
     esong_code: 2146B19
@@ -517,3 +500,20 @@ result:
     - esong_code: 2146B19
       song_name: Winter Love 「名演ピアノ 美野 春樹」
       content_type: DAM生音
+  - song_name: Winter Love (2008ver)
+    song_alias:
+    esong_code: 2146A32
+    t_singer_master_id: '12544'
+    singer_name: BoA
+    singer_alias:
+    available_date: '2008-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾗｲﾌﾞ
+    song_name_ruby: ういんたらふ
+    singer_name_ruby: ほあ
+    song_variation:
+    - esong_code: 2146A32
+      song_name: Winter Love (2008ver)
+      content_type: DAMﾗｲﾌﾞ

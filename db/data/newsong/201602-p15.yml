@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1236
-  all_max_cnt: 1361
-  all_country_cnt: 1236
+  max_cnt: 1230
+  all_max_cnt: 1355
+  all_country_cnt: 1230
   song:
-  - song_name: サイレントサーカス
-    song_alias:
-    esong_code: 3580B25
-    t_singer_master_id: '21398'
-    singer_name: Kra
-    singer_alias:
-    available_date: '2016-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さいれんとさかす
-    singer_name_ruby: けら
-    song_variation:
-    - esong_code: 3580B25
-      song_name: サイレントサーカス
-      content_type: ''
-  - song_name: 坂道はパール色
-    song_alias:
-    esong_code: 3592A8
-    t_singer_master_id: '11952'
-    singer_name: 須藤 薫
-    singer_alias:
-    available_date: '2016-02-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さかみちははるい
-    singer_name_ruby: すとうかおる
-    song_variation:
-    - esong_code: 3592A8
-      song_name: 坂道はパール色
-      content_type: ''
   - song_name: さくら、さくら
     song_alias:
     esong_code: 3598B19
@@ -364,6 +330,23 @@ result:
     - esong_code: 3592B16
       song_name: SOMEWHERE
       content_type: ''
+  - song_name: 侍唄(さむらいソング)
+    song_alias:
+    esong_code: 3593A43
+    t_singer_master_id: '20364'
+    singer_name: SUPER EIGHT
+    singer_alias:
+    available_date: '2016-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: さむらいそんく
+    singer_name_ruby: すはえいとかんしやにえいと
+    song_variation:
+    - esong_code: 3593A43
+      song_name: 侍唄(さむらいソング)
+      content_type: DAM生音
   - song_name: さよならアイデンティティー
     song_alias:
     esong_code: 3592B34
@@ -449,6 +432,23 @@ result:
     - esong_code: 3590A11
       song_name: The World's On Fire
       content_type: ''
+  - song_name: SUN
+    song_alias:
+    esong_code: 3589B24
+    t_singer_master_id: '41420'
+    singer_name: 星野 源
+    singer_alias:
+    available_date: '2016-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: さん
+    singer_name_ruby: ほしのけん
+    song_variation:
+    - esong_code: 3589B24
+      song_name: SUN
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: さん!
     song_alias:
     esong_code: 3598A22
@@ -483,23 +483,6 @@ result:
     - esong_code: 3594B25
       song_name: 18/6
       content_type: ''
-  - song_name: SUN
-    song_alias:
-    esong_code: 3589B24
-    t_singer_master_id: '41420'
-    singer_name: 星野 源
-    singer_alias:
-    available_date: '2016-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: さん
-    singer_name_ruby: ほしのけん
-    song_variation:
-    - esong_code: 3589B24
-      song_name: SUN
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 残桜抄
     song_alias:
     esong_code: 66A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 66A31
       song_name: 残桜抄
+      content_type: ''
+  - song_name: Thank you for coming
+    song_alias:
+    esong_code: 3591B19
+    t_singer_master_id: '54445'
+    singer_name: CLOWD
+    singer_alias:
+    available_date: '2016-02-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんきゆふおかみ
+    singer_name_ruby: くらうと
+    song_variation:
+    - esong_code: 3591B19
+      song_name: Thank you for coming
       content_type: ''

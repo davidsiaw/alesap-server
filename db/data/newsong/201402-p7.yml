@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: うたうたいのうた
-    song_alias:
-    esong_code: 3183A12
-    t_singer_master_id: '49799'
-    singer_name: ハッポ☆スチロールズ
-    singer_alias:
-    available_date: '2014-02-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うたうたいのうた
-    singer_name_ruby: はつほすちろるす
-    song_variation:
-    - esong_code: 3183A12
-      song_name: うたうたいのうた
-      content_type: ''
   - song_name: 詩よ、この愛
     song_alias:
     esong_code: 120A45
@@ -304,7 +287,7 @@ result:
     singer_alias:
     available_date: '2014-02-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ 劇場版<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えかおのらんてふ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1054B21
       song_name: A.B.C.D.
+      content_type: ''
+  - song_name: ebb and flow
+    song_alias:
+    esong_code: 3199A29
+    t_singer_master_id: '37034'
+    singer_name: Ray
+    singer_alias:
+    available_date: '2014-02-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 凪のあすから<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えふあんとふろう
+    singer_name_ruby: れい
+    song_variation:
+    - esong_code: 3199A29
+      song_name: ebb and flow
       content_type: ''

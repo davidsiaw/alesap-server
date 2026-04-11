@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
-  - song_name: Brave
-    song_alias:
-    esong_code: 2745B29
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
-    singer_alias:
-    available_date: '2012-01-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれいふ
-    singer_name_ruby: こうたくみ
-    song_variation:
-    - esong_code: 2745B29
-      song_name: Brave
-      content_type: ''
   - song_name: Flame
     song_alias:
     esong_code: 2737B42
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 384B13
       song_name: ぼくらのスタージンガー
+      content_type: ''
+  - song_name: ボクラノヒカリ
+    song_alias:
+    esong_code: 2742A5
+    t_singer_master_id: '42550'
+    singer_name: TH・IA
+    singer_alias:
+    available_date: '2012-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくらのひかり
+    singer_name_ruby: ていあ
+    song_variation:
+    - esong_code: 2742A5
+      song_name: ボクラノヒカリ
       content_type: ''

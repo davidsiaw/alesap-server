@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: 中川翔子ベストメドレー
-    song_alias:
-    esong_code: 2901A48
-    t_singer_master_id: '26178'
-    singer_name: 中川 翔子
-    singer_alias:
-    available_date: '2012-10-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なかかわしようこへ
-    singer_name_ruby: なかかわしようこ
-    song_variation:
-    - esong_code: 2901A48
-      song_name: 中川翔子ベストメドレー
-      content_type: ''
-  - song_name: 泣かさんといて
-    song_alias:
-    esong_code: 2923A35
-    t_singer_master_id: '15077'
-    singer_name: 水木 良
-    singer_alias:
-    available_date: '2012-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なかさんといて
-    singer_name_ruby: みすきりよう
-    song_variation:
-    - esong_code: 2923A35
-      song_name: 泣かさんといて
-      content_type: ''
   - song_name: 中洲の雨
     song_alias:
     esong_code: 2922A18
@@ -270,23 +236,6 @@ result:
       content_type: パセラ限定クリップ
   - song_name: 夏の終わり、恋の始まり feat.GUMI
     song_alias:
-    esong_code: 2917B45
-    t_singer_master_id: '40271'
-    singer_name: すこっぷ
-    singer_alias:
-    available_date: '2012-10-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: なつのおわりこいのは
-    singer_name_ruby: すこつふ
-    song_variation:
-    - esong_code: 2917B45
-      song_name: 夏の終わり、恋の始まり feat.GUMI
-      content_type: VOCALOID
-  - song_name: 夏の終わり、恋の始まり feat.GUMI
-    song_alias:
     esong_code: 2897A15
     t_singer_master_id: '40271'
     singer_name: すこっぷ
@@ -300,6 +249,23 @@ result:
     singer_name_ruby: すこつふ
     song_variation:
     - esong_code: 2897A15
+      song_name: 夏の終わり、恋の始まり feat.GUMI
+      content_type: VOCALOID
+  - song_name: 夏の終わり、恋の始まり feat.GUMI
+    song_alias:
+    esong_code: 2917B45
+    t_singer_master_id: '40271'
+    singer_name: すこっぷ
+    singer_alias:
+    available_date: '2012-10-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: なつのおわりこいのは
+    singer_name_ruby: すこつふ
+    song_variation:
+    - esong_code: 2917B45
       song_name: 夏の終わり、恋の始まり feat.GUMI
       content_type: VOCALOID
   - song_name: 夏の帰り道で
@@ -523,3 +489,37 @@ result:
     - esong_code: 2917B19
       song_name: 涙の雨が降る
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 涙のかわりに
+    song_alias:
+    esong_code: 2912B47
+    t_singer_master_id: '46155'
+    singer_name: 佐野 惠津子
+    singer_alias:
+    available_date: '2012-10-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたのかわりに
+    singer_name_ruby: さのえつこ
+    song_variation:
+    - esong_code: 2912B47
+      song_name: 涙のかわりに
+      content_type: ''
+  - song_name: ナミダノキセキ
+    song_alias:
+    esong_code: 2901A6
+    t_singer_master_id: '40425'
+    singer_name: clear
+    singer_alias:
+    available_date: '2012-10-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Musketeer<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたのきせき
+    singer_name_ruby: くりあ
+    song_variation:
+    - esong_code: 2901A6
+      song_name: ナミダノキセキ
+      content_type: ''

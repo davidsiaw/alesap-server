@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: にじ・そら・ほし・せかい
-    song_alias:
-    esong_code: 3220B11
-    t_singer_master_id: '34924'
-    singer_name: 横山 だいすけ&三谷 たくみ
-    singer_alias:
-    available_date: '2014-03-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おかあさんといっしょ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: にしそらほしせかい
-    singer_name_ruby: よこやまたいすけみたにたく
-    song_variation:
-    - esong_code: 3220B11
-      song_name: にじ・そら・ほし・せかい
-      content_type: ''
   - song_name: Nishiyanagase Blues
     song_alias:
     esong_code: 3222A20
@@ -517,3 +500,20 @@ result:
     - esong_code: 3213B47
       song_name: 博多時雨
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 白馬の王子様
+    song_alias:
+    esong_code: 3216A4
+    t_singer_master_id: '38118'
+    singer_name: 近藤 夏子
+    singer_alias:
+    available_date: '2014-03-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はくはのおうしさ
+    singer_name_ruby: こんとうなつこ
+    song_variation:
+    - esong_code: 3216A4
+      song_name: 白馬の王子様
+      content_type: ''

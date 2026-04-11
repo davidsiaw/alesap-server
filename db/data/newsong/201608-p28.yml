@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1365
-  all_max_cnt: 1538
-  all_country_cnt: 1365
+  max_cnt: 1361
+  all_max_cnt: 1534
+  all_country_cnt: 1361
   song:
-  - song_name: DREAM GO ROUND
-    song_alias:
-    esong_code: 3671B17
-    t_singer_master_id: '29356'
-    singer_name: 寺島 拓篤
-    singer_alias:
-    available_date: '2016-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とりむこらう
-    singer_name_ruby: てらしまたくま
-    song_variation:
-    - esong_code: 3671B17
-      song_name: DREAM GO ROUND
-      content_type: ''
-  - song_name: DREAM STAGE
-    song_alias:
-    esong_code: 3673B44
-    t_singer_master_id: '42909'
-    singer_name: Kis-My-Ft2
-    singer_alias:
-    available_date: '2016-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とりむすてし
-    singer_name_ruby: きすまいふつとつ
-    song_variation:
-    - esong_code: 3673B44
-      song_name: DREAM STAGE
-      content_type: ''
   - song_name: ドリームパレード (ふれんど〜るver.)
     song_alias:
     esong_code: 3667B1
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3678B24
       song_name: 70億分の2
+      content_type: ''
+  - song_name: 何気ない時間
+    song_alias:
+    esong_code: 3672A6
+    t_singer_master_id: '48163'
+    singer_name: 小岩井 ことり
+    singer_alias:
+    available_date: '2016-08-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 田中くんはいつもけだるげ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: なにけないしかん
+    singer_name_ruby: こいわいことり
+    song_variation:
+    - esong_code: 3672A6
+      song_name: 何気ない時間
+      content_type: ''
+  - song_name: 浪花の男
+    song_alias:
+    esong_code: 3673A19
+    t_singer_master_id: '33173'
+    singer_name: 松島 進一郎
+    singer_alias:
+    available_date: '2016-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なにわのおとこ
+    singer_name_ruby: まつしましんいちろう
+    song_variation:
+    - esong_code: 3673A19
+      song_name: 浪花の男
       content_type: ''

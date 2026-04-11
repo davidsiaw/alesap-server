@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1349
-  all_max_cnt: 1532
-  all_country_cnt: 1349
+  max_cnt: 1335
+  all_max_cnt: 1518
+  all_country_cnt: 1335
   song:
-  - song_name: お酒がほしい
-    song_alias:
-    esong_code: 4167A6
-    t_singer_master_id: '14957'
-    singer_name: 高瀬 一郎
-    singer_alias:
-    available_date: '2019-04-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おさけかほしい
-    singer_name_ruby: たかせいちろう
-    song_variation:
-    - esong_code: 4167A6
-      song_name: お酒がほしい
-      content_type: ''
-  - song_name: お蝶夫人
-    song_alias:
-    esong_code: 3974B39
-    t_singer_master_id: '2026'
-    singer_name: 二葉 百合子
-    singer_alias:
-    available_date: '2019-04-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おちようふしん
-    singer_name_ruby: ふたはゆりこ
-    song_variation:
-    - esong_code: 3974B39
-      song_name: お蝶夫人
-      content_type: ''
-  - song_name: 男が独りで死ぬときは
-    song_alias:
-    esong_code: 4167B1
-    t_singer_master_id: '2326'
-    singer_name: 南 こうせつ
-    singer_alias:
-    available_date: '2019-04-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこかひとりて
-    singer_name_ruby: みなみこうせつ
-    song_variation:
-    - esong_code: 4167B1
-      song_name: 男が独りで死ぬときは
-      content_type: ''
   - song_name: 男がひとり飲む酒は
     song_alias:
     esong_code: 4175B25
@@ -128,23 +77,6 @@ result:
       content_type: ''
   - song_name: おとこの純情
     song_alias:
-    esong_code: 4175A44
-    t_singer_master_id: '60447'
-    singer_name: 辰巳 ゆうと
-    singer_alias:
-    available_date: '2019-04-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おとこのしゆんし
-    singer_name_ruby: たつみゆうと
-    song_variation:
-    - esong_code: 4175A44
-      song_name: おとこの純情
-      content_type: DAM生音
-  - song_name: おとこの純情
-    song_alias:
     esong_code: 4172A47
     t_singer_master_id: '60447'
     singer_name: 辰巳 ゆうと
@@ -160,6 +92,23 @@ result:
     - esong_code: 4172A47
       song_name: おとこの純情
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: おとこの純情
+    song_alias:
+    esong_code: 4175A44
+    t_singer_master_id: '60447'
+    singer_name: 辰巳 ゆうと
+    singer_alias:
+    available_date: '2019-04-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: おとこのしゆんし
+    singer_name_ruby: たつみゆうと
+    song_variation:
+    - esong_code: 4175A44
+      song_name: おとこの純情
+      content_type: DAM生音
   - song_name: 男の日本海
     song_alias:
     esong_code: 4168A20
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4174A44
       song_name: おやすみ
+      content_type: ''
+  - song_name: Oriental Wind〜for orchestra〜 (インスト)
+    song_alias:
+    esong_code: 4167A33
+    t_singer_master_id: '1882'
+    singer_name: 久石 譲
+    singer_alias:
+    available_date: '2019-04-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おりえんたるういんと
+    singer_name_ruby: ひさいししよう
+    song_variation:
+    - esong_code: 4167A33
+      song_name: Oriental Wind〜for orchestra〜 (インスト)
+      content_type: ''
+  - song_name: オリオン座
+    song_alias:
+    esong_code: 4176B37
+    t_singer_master_id: '58341'
+    singer_name: 伊与木 一彦
+    singer_alias:
+    available_date: '2019-04-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おりおんさ
+    singer_name_ruby: いよきかすひこ
+    song_variation:
+    - esong_code: 4176B37
+      song_name: オリオン座
+      content_type: ''
+  - song_name: オールスマイル to the Night
+    song_alias:
+    esong_code: 4181B37
+    t_singer_master_id: '58972'
+    singer_name: TOSHIKO
+    singer_alias:
+    available_date: '2019-04-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おるすまいるとうさ
+    singer_name_ruby: としこ
+    song_variation:
+    - esong_code: 4181B37
+      song_name: オールスマイル to the Night
       content_type: ''

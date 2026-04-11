@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1075
+  all_max_cnt: 1196
+  all_country_cnt: 1075
   song:
-  - song_name: My Life
-    song_alias:
-    esong_code: 1864A2
-    t_singer_master_id: '25191'
-    singer_name: 中 孝介
-    singer_alias:
-    available_date: '2007-09-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まいらいふ
-    singer_name_ruby: あたりこうすけ
-    song_variation:
-    - esong_code: 1864A2
-      song_name: My Life
-      content_type: ''
   - song_name: My life
     song_alias:
     esong_code: 1872A46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1874B34
       song_name: MISIAメドレー2
+      content_type: ''
+  - song_name: Misty rain
+    song_alias:
+    esong_code: 1871B45
+    t_singer_master_id: '16235'
+    singer_name: 宮本 駿一
+    singer_alias:
+    available_date: '2007-09-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすていれいん
+    singer_name_ruby: みやもとしゆんいち
+    song_variation:
+    - esong_code: 1871B45
+      song_name: Misty rain
       content_type: ''

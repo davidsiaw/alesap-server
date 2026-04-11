@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
-  - song_name: 夕凪
-    song_alias:
-    esong_code: 1817B45
-    t_singer_master_id: '18420'
-    singer_name: 竹井 詩織里
-    singer_alias:
-    available_date: '2007-07-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆうなき
-    singer_name_ruby: たけいしおり
-    song_variation:
-    - esong_code: 1817B45
-      song_name: 夕凪
-      content_type: ''
   - song_name: 誘惑
     song_alias:
     esong_code: 1816B48
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1815B36
       song_name: LOVERS HIGH
+      content_type: ''
+  - song_name: LOVERS法
+    song_alias:
+    esong_code: 1813A13
+    t_singer_master_id: '11146'
+    singer_name: SUPER BUTTER DOG
+    singer_alias:
+    available_date: '2007-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らはすほう
+    singer_name_ruby: すははたとつく
+    song_variation:
+    - esong_code: 1813A13
+      song_name: LOVERS法
       content_type: ''

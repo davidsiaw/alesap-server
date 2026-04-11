@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1477
-  all_max_cnt: 1665
-  all_country_cnt: 1477
+  max_cnt: 1474
+  all_max_cnt: 1662
+  all_country_cnt: 1474
   song:
-  - song_name: 北の母子船
-    song_alias:
-    esong_code: 2540A14
-    t_singer_master_id: '650'
-    singer_name: 北原 ミレイ
-    singer_alias:
-    available_date: '2014-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: きたのおやこふね
-    singer_name_ruby: きたはらみれい
-    song_variation:
-    - esong_code: 2540A14
-      song_name: 北の母子船
-      content_type: JOY生演奏
   - song_name: 北の母子船
     song_alias:
     esong_code: 2521B16
@@ -162,23 +145,6 @@ result:
       content_type: ''
   - song_name: 城崎夢情
     song_alias:
-    esong_code: 3357A6
-    t_singer_master_id: '18128'
-    singer_name: 井上 由美子
-    singer_alias:
-    available_date: '2014-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: きのさきむしよう
-    singer_name_ruby: いのうえゆみこ
-    song_variation:
-    - esong_code: 3357A6
-      song_name: 城崎夢情
-      content_type: DAM生音
-  - song_name: 城崎夢情
-    song_alias:
     esong_code: 3357A45
     t_singer_master_id: '18128'
     singer_name: 井上 由美子
@@ -200,7 +166,7 @@ result:
     t_singer_master_id: '18128'
     singer_name: 井上 由美子
     singer_alias:
-    available_date: '2014-11-04'
+    available_date: '2014-11-05'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -211,6 +177,23 @@ result:
     - esong_code: 3348A49
       song_name: 城崎夢情
       content_type: ''
+  - song_name: 城崎夢情
+    song_alias:
+    esong_code: 3357A6
+    t_singer_master_id: '18128'
+    singer_name: 井上 由美子
+    singer_alias:
+    available_date: '2014-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: きのさきむしよう
+    singer_name_ruby: いのうえゆみこ
+    song_variation:
+    - esong_code: 3357A6
+      song_name: 城崎夢情
+      content_type: DAM生音
   - song_name: 希望的リフレイン
     song_alias:
     esong_code: 3360B5
@@ -438,7 +421,7 @@ result:
     t_singer_master_id: '16200'
     singer_name: アンダーグラフ
     singer_alias:
-    available_date: '2014-11-04'
+    available_date: '2014-11-05'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3356A6
       song_name: 君の部屋
+      content_type: ''
+  - song_name: 君の待つ世界
+    song_alias:
+    esong_code: 3360B27
+    t_singer_master_id: '52070'
+    singer_name: LAGOON
+    singer_alias:
+    available_date: '2014-11-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: まじっく快斗1412<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのまつせかい
+    singer_name_ruby: らくん
+    song_variation:
+    - esong_code: 3360B27
+      song_name: 君の待つ世界
       content_type: ''

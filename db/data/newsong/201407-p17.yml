@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1527
-  all_max_cnt: 1808
-  all_country_cnt: 1527
+  max_cnt: 1522
+  all_max_cnt: 1803
+  all_country_cnt: 1522
   song:
   - song_name: Call 4 U
     song_alias:
@@ -264,21 +264,21 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 酒場うぐいす
     song_alias:
-    esong_code: 3278A21
+    esong_code: 3278A22
     t_singer_master_id: '51004'
     singer_name: 成世 昌平&長保 有紀
     singer_alias:
-    available_date: '2014-07-01'
+    available_date: '2014-07-02'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: さかはうくいす
     singer_name_ruby: なるせしようへいなかほゆ
     song_variation:
-    - esong_code: 3278A21
+    - esong_code: 3278A22
       song_name: 酒場うぐいす
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 酒場うぐいす
     song_alias:
     esong_code: 2966B20
@@ -298,21 +298,21 @@ result:
       content_type: DAM生音
   - song_name: 酒場うぐいす
     song_alias:
-    esong_code: 3278A22
+    esong_code: 3278A21
     t_singer_master_id: '51004'
     singer_name: 成世 昌平&長保 有紀
     singer_alias:
-    available_date: '2014-07-02'
+    available_date: '2014-07-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: さかはうくいす
     singer_name_ruby: なるせしようへいなかほゆ
     song_variation:
-    - esong_code: 3278A22
+    - esong_code: 3278A21
       song_name: 酒場うぐいす
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: 酒場の神様
     song_alias:
     esong_code: 3282B27
@@ -485,23 +485,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: The Power
     song_alias:
-    esong_code: 3296B3
-    t_singer_master_id: '28173'
-    singer_name: "℃-ute"
-    singer_alias:
-    available_date: '2014-07-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: さはわ
-    singer_name_ruby: きゆと
-    song_variation:
-    - esong_code: 3296B3
-      song_name: The Power
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: The Power
-    song_alias:
     esong_code: 3285A15
     t_singer_master_id: '28173'
     singer_name: "℃-ute"
@@ -517,3 +500,20 @@ result:
     - esong_code: 3285A15
       song_name: The Power
       content_type: ''
+  - song_name: The Power
+    song_alias:
+    esong_code: 3296B3
+    t_singer_master_id: '28173'
+    singer_name: "℃-ute"
+    singer_alias:
+    available_date: '2014-07-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: さはわ
+    singer_name_ruby: きゆと
+    song_variation:
+    - esong_code: 3296B3
+      song_name: The Power
+      content_type: JOYｸﾘｯﾌﾟ

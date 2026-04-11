@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1033
-  all_max_cnt: 1129
-  all_country_cnt: 1033
+  max_cnt: 1024
+  all_max_cnt: 1120
+  all_country_cnt: 1024
   song:
-  - song_name: お前だけI Love You
-    song_alias:
-    esong_code: 272B42
-    t_singer_master_id: '4615'
-    singer_name: 嶋 大輔
-    singer_alias:
-    available_date: '2006-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おまえたけあいらふ
-    singer_name_ruby: しまたいすけ
-    song_variation:
-    - esong_code: 272B42
-      song_name: お前だけI Love You
-      content_type: ''
   - song_name: お前の涙を俺にくれ
     song_alias:
     esong_code: 1569B1
@@ -315,23 +298,6 @@ result:
       content_type: ''
   - song_name: 帰らぬ夢
     song_alias:
-    esong_code: 1566A25
-    t_singer_master_id: '1267'
-    singer_name: 瀬川 瑛子
-    singer_alias:
-    available_date: '2006-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かえらぬゆめ
-    singer_name_ruby: せかわえいこ
-    song_variation:
-    - esong_code: 1566A25
-      song_name: 帰らぬ夢
-      content_type: ''
-  - song_name: 帰らぬ夢
-    song_alias:
     esong_code: 1564B47
     t_singer_master_id: '1267'
     singer_name: 瀬川 瑛子
@@ -347,6 +313,23 @@ result:
     - esong_code: 1564B47
       song_name: 帰らぬ夢
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 帰らぬ夢
+    song_alias:
+    esong_code: 1566A25
+    t_singer_master_id: '1267'
+    singer_name: 瀬川 瑛子
+    singer_alias:
+    available_date: '2006-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かえらぬゆめ
+    singer_name_ruby: せかわえいこ
+    song_variation:
+    - esong_code: 1566A25
+      song_name: 帰らぬ夢
+      content_type: ''
   - song_name: 鍵、イリュージョン
     song_alias:
     esong_code: 1568B15
@@ -485,6 +468,23 @@ result:
       content_type: ''
   - song_name: 風花岬
     song_alias:
+    esong_code: 1569A47
+    t_singer_master_id: '70'
+    singer_name: 浅田 あつこ
+    singer_alias:
+    available_date: '2006-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かさはなみさき
+    singer_name_ruby: あさたあつこ
+    song_variation:
+    - esong_code: 1569A47
+      song_name: 風花岬
+      content_type: ''
+  - song_name: 風花岬
+    song_alias:
     esong_code: 1565A22
     t_singer_master_id: '70'
     singer_name: 浅田 あつこ
@@ -500,20 +500,20 @@ result:
     - esong_code: 1565A22
       song_name: 風花岬
       content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 風花岬
+  - song_name: 傘をささない君のために
     song_alias:
-    esong_code: 1569A47
-    t_singer_master_id: '70'
-    singer_name: 浅田 あつこ
+    esong_code: 1609B34
+    t_singer_master_id: '12145'
+    singer_name: 中島 卓偉(TAKUI)
     singer_alias:
-    available_date: '2006-07-05'
+    available_date: '2006-07-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: かさはなみさき
-    singer_name_ruby: あさたあつこ
+    song_name_ruby: かさをささないきみの
+    singer_name_ruby: なかしまたくい
     song_variation:
-    - esong_code: 1569A47
-      song_name: 風花岬
+    - esong_code: 1609B34
+      song_name: 傘をささない君のために
       content_type: ''

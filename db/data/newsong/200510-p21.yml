@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 809
-  all_max_cnt: 933
-  all_country_cnt: 809
+  max_cnt: 808
+  all_max_cnt: 932
+  all_country_cnt: 808
   song:
-  - song_name: Pride
-    song_alias:
-    esong_code: 1367B36
-    t_singer_master_id: '14356'
-    singer_name: day after tomorrow
-    singer_alias:
-    available_date: '2005-10-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらいと
-    singer_name_ruby: ていあふたとうもろう
-    song_variation:
-    - esong_code: 1367B36
-      song_name: Pride
-      content_type: ''
   - song_name: BROTHER ON A WATER
     song_alias:
     esong_code: 1383A29
@@ -517,3 +500,20 @@ result:
     - esong_code: 1396A45
       song_name: voice
       content_type: ''
+  - song_name: ほうき星
+    song_alias:
+    esong_code: 1385B44
+    t_singer_master_id: '20784'
+    singer_name: ユンナ
+    singer_alias:
+    available_date: '2005-10-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BLEACH<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: ほうきほし
+    singer_name_ruby: ゆんな
+    song_variation:
+    - esong_code: 1385B44
+      song_name: ほうき星
+      content_type: DAMｸﾘｯﾌﾟ

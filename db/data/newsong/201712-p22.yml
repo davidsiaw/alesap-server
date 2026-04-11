@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: CHO DAI
-    song_alias:
-    esong_code: 3922A25
-    t_singer_master_id: '58216'
-    singer_name: モーニング娘。'17
-    singer_alias:
-    available_date: '2017-12-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちよたい
-    singer_name_ruby: もにんくむすめわんせふん
-    song_variation:
-    - esong_code: 3922A25
-      song_name: CHO DAI
-      content_type: ''
-  - song_name: ちんとんしゃん
-    song_alias:
-    esong_code: 3923B41
-    t_singer_master_id: '49375'
-    singer_name: 舞祭組
-    singer_alias:
-    available_date: '2017-12-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちんとんしやん
-    singer_name_ruby: ふさいく
-    song_variation:
-    - esong_code: 3923B41
-      song_name: ちんとんしゃん
-      content_type: ''
   - song_name: 追憶
     song_alias:
     esong_code: 2222B42
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3927B19
       song_name: Tinkerbell
+      content_type: ''
+  - song_name: Despacito
+    song_alias:
+    esong_code: 3924B39
+    t_singer_master_id: '37931'
+    singer_name: TEE
+    singer_alias:
+    available_date: '2017-12-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: てすはしと
+    singer_name_ruby: てい
+    song_variation:
+    - esong_code: 3924B39
+      song_name: Despacito
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: Dead[en]D
+    song_alias:
+    esong_code: 3916A22
+    t_singer_master_id: '48738'
+    singer_name: グリーヴァ
+    singer_alias:
+    available_date: '2017-12-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てつとえんと
+    singer_name_ruby: くりは
+    song_variation:
+    - esong_code: 3916A22
+      song_name: Dead[en]D
       content_type: ''

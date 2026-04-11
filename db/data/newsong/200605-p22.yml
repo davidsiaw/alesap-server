@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1356
-  all_max_cnt: 1472
-  all_country_cnt: 1356
+  max_cnt: 1352
+  all_max_cnt: 1469
+  all_country_cnt: 1352
   song:
-  - song_name: 戦争と僕
-    song_alias:
-    esong_code: 1496A45
-    t_singer_master_id: '18242'
-    singer_name: サンボマスター
-    singer_alias:
-    available_date: '2006-05-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せんそうとほく
-    singer_name_ruby: さんほますた
-    song_variation:
-    - esong_code: 1496A45
-      song_name: 戦争と僕
-      content_type: ''
-  - song_name: せんたくものだゆう
-    song_alias:
-    esong_code: 1509B49
-    t_singer_master_id: '7357'
-    singer_name: 速水 けんたろう&茂森 あゆみ
-    singer_alias:
-    available_date: '2006-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: おかあさんといっしょ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: せんたくものたゆう
-    singer_name_ruby: はやみけんたろうしけ
-    song_variation:
-    - esong_code: 1509B49
-      song_name: せんたくものだゆう
-      content_type: ''
   - song_name: せんちめんたる
     song_alias:
     esong_code: 1509B12
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1509B18
       song_name: 太陽の子どもたち
+      content_type: ''
+  - song_name: 太陽の花
+    song_alias:
+    esong_code: 442A24
+    t_singer_master_id: '7314'
+    singer_name: 奥井 雅美
+    singer_alias:
+    available_date: '2006-05-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: アキハバラ電脳組<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいようのはな
+    singer_name_ruby: おくいまさみ
+    song_variation:
+    - esong_code: 442A24
+      song_name: 太陽の花
+      content_type: ''
+  - song_name: 大連の街から
+    song_alias:
+    esong_code: 1509A26
+    t_singer_master_id: '1837'
+    singer_name: 半田 浩二
+    singer_alias:
+    available_date: '2006-05-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいれんのまちから
+    singer_name_ruby: はんたこうし
+    song_variation:
+    - esong_code: 1509A26
+      song_name: 大連の街から
       content_type: ''

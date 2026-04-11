@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
-  - song_name: 故郷の風
-    song_alias:
-    esong_code: 3181A11
-    t_singer_master_id: '48882'
-    singer_name: 平 洋一(中川洋一)
-    singer_alias:
-    available_date: '2014-02-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるさとのかせ
-    singer_name_ruby: たいらよういち
-    song_variation:
-    - esong_code: 3181A11
-      song_name: 故郷の風
-      content_type: ''
-  - song_name: ふるさとの風
-    song_alias:
-    esong_code: 3178B14
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2014-02-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふるさとのかせ
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 3178B14
-      song_name: ふるさとの風
-      content_type: ''
   - song_name: ふるさとは今もかわらず
     song_alias:
     esong_code: 3182B1
@@ -149,7 +115,7 @@ result:
     t_singer_master_id: '15057'
     singer_name: 川田 まみ
     singer_alias:
-    available_date: '2014-02-25'
+    available_date: '2014-02-26'
     end_date: '2999-04-10 00:00:00'
     tie_up: 東京レイヴンズ<番組名>
     country_code: '0'
@@ -508,7 +474,7 @@ result:
     singer_alias:
     available_date: '2014-02-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ 劇場版<番組名>
+    tie_up: ストライクウィッチーズ(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: へん
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3200A23
       song_name: WENN
+      content_type: ''
+  - song_name: 変幻ジーザス
+    song_alias:
+    esong_code: 3179B26
+    t_singer_master_id: '42472'
+    singer_name: ハナエ
+    singer_alias:
+    available_date: '2014-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: へんけんしさ
+    singer_name_ruby: はなえ
+    song_variation:
+    - esong_code: 3179B26
+      song_name: 変幻ジーザス
+      content_type: ''
+  - song_name: 変幻自在のマジカルスター
+    song_alias:
+    esong_code: 3179A17
+    t_singer_master_id: '26951'
+    singer_name: GRANRODEO
+    singer_alias:
+    available_date: '2014-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 黒子のバスケ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: へんけんしさい
+    singer_name_ruby: くらんろてお
+    song_variation:
+    - esong_code: 3179A17
+      song_name: 変幻自在のマジカルスター
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1318
-  all_max_cnt: 1435
-  all_country_cnt: 1318
+  max_cnt: 1313
+  all_max_cnt: 1430
+  all_country_cnt: 1313
   song:
   - song_name: あなたのとなりを歩きたい
     song_alias:
@@ -111,23 +111,6 @@ result:
       content_type: ''
   - song_name: ANEMONE OVERDOSE feat.GUMI
     song_alias:
-    esong_code: 2107A49
-    t_singer_master_id: '44033'
-    singer_name: FAULHEIT
-    singer_alias:
-    available_date: '2012-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: あねもねおはと
-    singer_name_ruby: ふおるはいと
-    song_variation:
-    - esong_code: 2107A49
-      song_name: ANEMONE OVERDOSE feat.GUMI
-      content_type: VOCALOID
-  - song_name: ANEMONE OVERDOSE feat.GUMI
-    song_alias:
     esong_code: 2771B16
     t_singer_master_id: '44033'
     singer_name: FAULHEIT
@@ -141,6 +124,23 @@ result:
     singer_name_ruby: ふおるはいと
     song_variation:
     - esong_code: 2771B16
+      song_name: ANEMONE OVERDOSE feat.GUMI
+      content_type: VOCALOID
+  - song_name: ANEMONE OVERDOSE feat.GUMI
+    song_alias:
+    esong_code: 2107A49
+    t_singer_master_id: '44033'
+    singer_name: FAULHEIT
+    singer_alias:
+    available_date: '2012-03-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: あねもねおはと
+    singer_name_ruby: ふおるはいと
+    song_variation:
+    - esong_code: 2107A49
       song_name: ANEMONE OVERDOSE feat.GUMI
       content_type: VOCALOID
   - song_name: あの樹の下に集まろう!

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: FATE 〜真冬の太陽〜
-    song_alias:
-    esong_code: 2211A36
-    t_singer_master_id: '35401'
-    singer_name: 谷山 紀章&伊藤 健太郎
-    singer_alias:
-    available_date: '2009-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふえいと
-    singer_name_ruby: たにやまきしよういとうけんた
-    song_variation:
-    - esong_code: 2211A36
-      song_name: FATE 〜真冬の太陽〜
-      content_type: ''
-  - song_name: フォーエバー係長のブルース
-    song_alias:
-    esong_code: 2210A46
-    t_singer_master_id: '35387'
-    singer_name: 大西 ユカリ
-    singer_alias:
-    available_date: '2009-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふおえはかかり
-    singer_name_ruby: おおにしゆかり
-    song_variation:
-    - esong_code: 2210A46
-      song_name: フォーエバー係長のブルース
-      content_type: ''
   - song_name: Forget
     song_alias:
     esong_code: 2252A9
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2252A23
       song_name: BLACKRAIN (全英語詞)
+      content_type: ''
+  - song_name: FLASH IN THE DARK
+    song_alias:
+    esong_code: 2204A45
+    t_singer_master_id: '35299'
+    singer_name: EMILIA
+    singer_alias:
+    available_date: '2009-02-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: マクロス7 銀河がオレを呼んでいる!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらつしゆいんさた
+    singer_name_ruby: えみりあ
+    song_variation:
+    - esong_code: 2204A45
+      song_name: FLASH IN THE DARK
+      content_type: ''
+  - song_name: BRAND-NEW DAY
+    song_alias:
+    esong_code: 2211B49
+    t_singer_master_id: '15296'
+    singer_name: FLOW
+    singer_alias:
+    available_date: '2009-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふらんとにゆて
+    singer_name_ruby: ふろう
+    song_variation:
+    - esong_code: 2211B49
+      song_name: BRAND-NEW DAY
       content_type: ''

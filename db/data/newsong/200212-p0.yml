@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 492
-  all_max_cnt: 537
-  all_country_cnt: 492
+  max_cnt: 491
+  all_max_cnt: 536
+  all_country_cnt: 491
   song:
   - song_name: I got a friend
     song_alias:
@@ -466,23 +466,6 @@ result:
     - esong_code: 987B38
       song_name: Are You OK?
       content_type: ''
-  - song_name: Alone Again
-    song_alias:
-    esong_code: 987A21
-    t_singer_master_id: '276'
-    singer_name: Wink
-    singer_alias:
-    available_date: '2002-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あろんあけいん
-    singer_name_ruby: ういんく
-    song_variation:
-    - esong_code: 987A21
-      song_name: Alone Again
-      content_type: ''
   - song_name: UNSPEAKABLE
     song_alias:
     esong_code: 984B40
@@ -517,3 +500,20 @@ result:
     - esong_code: 168B48
       song_name: UNSPEAKABLE
       content_type: DAM良音
+  - song_name: あんた飛ばしすぎ
+    song_alias:
+    esong_code: 168B44
+    t_singer_master_id: '12491'
+    singer_name: GARLICBOYS
+    singer_alias:
+    available_date: '2002-12-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんたとはしすき
+    singer_name_ruby: かりつくほいす
+    song_variation:
+    - esong_code: 168B44
+      song_name: あんた飛ばしすぎ
+      content_type: ''

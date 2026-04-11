@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1365
-  all_max_cnt: 1538
-  all_country_cnt: 1365
+  max_cnt: 1361
+  all_max_cnt: 1534
+  all_country_cnt: 1361
   song:
-  - song_name: スノードロップ
-    song_alias:
-    esong_code: 3662A3
-    t_singer_master_id: '41781'
-    singer_name: nano.RIPE
-    singer_alias:
-    available_date: '2016-08-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 食戟のソーマ 弐ノ皿<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: すのとろつふ
-    singer_name_ruby: なのらいふ
-    song_variation:
-    - esong_code: 3662A3
-      song_name: スノードロップ
-      content_type: ''
-  - song_name: Sparkling Girl
-    song_alias:
-    esong_code: 3667B30
-    t_singer_master_id: '47355'
-    singer_name: 青木 瑠璃子
-    singer_alias:
-    available_date: '2016-08-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイドルマスター シンデレラガールズ スターライトステージ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: すはくりんくか
-    singer_name_ruby: あおきるりこ
-    song_variation:
-    - esong_code: 3667B30
-      song_name: Sparkling Girl
-      content_type: ''
   - song_name: スパークル (movie ver.)
     song_alias:
     esong_code: 3673A11
@@ -247,23 +213,6 @@ result:
       content_type: ''
   - song_name: 世界には愛しかない
     song_alias:
-    esong_code: 3661B48
-    t_singer_master_id: '55785'
-    singer_name: 欅坂46
-    singer_alias:
-    available_date: '2016-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せかいにはあいしかな
-    singer_name_ruby: けやきさかふおていしつくす
-    song_variation:
-    - esong_code: 3661B48
-      song_name: 世界には愛しかない
-      content_type: ''
-  - song_name: 世界には愛しかない
-    song_alias:
     esong_code: 3671B3
     t_singer_master_id: '55785'
     singer_name: 欅坂46
@@ -279,6 +228,23 @@ result:
     - esong_code: 3671B3
       song_name: 世界には愛しかない
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 世界には愛しかない
+    song_alias:
+    esong_code: 3661B48
+    t_singer_master_id: '55785'
+    singer_name: 欅坂46
+    singer_alias:
+    available_date: '2016-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せかいにはあいしかな
+    singer_name_ruby: けやきさかふおていしつくす
+    song_variation:
+    - esong_code: 3661B48
+      song_name: 世界には愛しかない
+      content_type: ''
   - song_name: 世界の尾張
     song_alias:
     esong_code: 3670A49
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3670A7
       song_name: 全開!神宿ワールド
+      content_type: ''
+  - song_name: 前前前世 (movie ver.)
+    song_alias:
+    esong_code: 3680A27
+    t_singer_master_id: '21655'
+    singer_name: RADWIMPS
+    singer_alias:
+    available_date: '2016-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 君の名は。<番組名>
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: せんせんせんせ
+    singer_name_ruby: らつとういんふす
+    song_variation:
+    - esong_code: 3680A27
+      song_name: 前前前世 (movie ver.)
+      content_type: JOYｸﾘｯﾌﾟ
+  - song_name: SENTIMENTAL
+    song_alias:
+    esong_code: 3677A15
+    t_singer_master_id: '51637'
+    singer_name: WINNER
+    singer_alias:
+    available_date: '2016-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せんちめんたる
+    singer_name_ruby: ういな
+    song_variation:
+    - esong_code: 3677A15
+      song_name: SENTIMENTAL
       content_type: ''

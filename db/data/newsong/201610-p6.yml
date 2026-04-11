@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1386
-  all_max_cnt: 1523
-  all_country_cnt: 1386
+  max_cnt: 1380
+  all_max_cnt: 1517
+  all_country_cnt: 1380
   song:
-  - song_name: 美しい昔 (ニュー・バージョン)
-    song_alias:
-    esong_code: 3722A2
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2016-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: うつくしいむかし
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 3722A2
-      song_name: 美しい昔 (ニュー・バージョン)
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 旨い酒
-    song_alias:
-    esong_code: 3707B34
-    t_singer_master_id: '57301'
-    singer_name: 高橋 昌詩
-    singer_alias:
-    available_date: '2016-10-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うまいさけ
-    singer_name_ruby: たかはしまさし
-    song_variation:
-    - esong_code: 3707B34
-      song_name: 旨い酒
-      content_type: ''
   - song_name: 海の上の少年
     song_alias:
     esong_code: 3696A14
@@ -104,7 +70,7 @@ result:
     country_code: '0'
     content_type: DAM本人歌唱
     song_name_ruby: うるとらちようみらく
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3700B19
       song_name: ULTRA 超 MIRACLE SUPER VERY POWER... [DAM本人歌唱]
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3425B15
       song_name: 遠歌〜えんか〜
+      content_type: ''
+  - song_name: ENJOYMENT
+    song_alias:
+    esong_code: 3709B1
+    t_singer_master_id: '44732'
+    singer_name: 松岡 禎丞
+    singer_alias:
+    available_date: '2016-10-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: DAYS<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんしよいめんと
+    singer_name_ruby: まつおかよしつく
+    song_variation:
+    - esong_code: 3709B1
+      song_name: ENJOYMENT
+      content_type: ''
+  - song_name: End of the World
+    song_alias:
+    esong_code: 3695B25
+    t_singer_master_id: '13569'
+    singer_name: 熊木 杏里
+    singer_alias:
+    available_date: '2016-10-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Rewrite(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えんとおふさわ
+    singer_name_ruby: くまきあんり
+    song_variation:
+    - esong_code: 3695B25
+      song_name: End of the World
       content_type: ''

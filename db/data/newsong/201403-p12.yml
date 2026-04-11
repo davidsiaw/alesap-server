@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: 君の歌、僕の歌
-    song_alias:
-    esong_code: 3209A10
-    t_singer_master_id: '827'
-    singer_name: CoCo
-    singer_alias:
-    available_date: '2014-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみのうたほくのう
-    singer_name_ruby: ここ
-    song_variation:
-    - esong_code: 3209A10
-      song_name: 君の歌、僕の歌
-      content_type: ''
   - song_name: 君の白い翼
     song_alias:
     esong_code: 3216B37
@@ -81,7 +64,7 @@ result:
     t_singer_master_id: '824'
     singer_name: 小金沢 昇司
     singer_alias:
-    available_date: '2014-03-25'
+    available_date: '2014-03-26'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -347,7 +330,7 @@ result:
     - esong_code: 3223A7
       song_name: キレイゴトでもいいじゃないか?
       content_type: ''
-  - song_name: 銀河の覇者 (凰稀かなめ 他) [DAM本人歌唱]
+  - song_name: 銀河の覇者 (凰稀かなめ 他)[DAM本人歌唱]
     song_alias:
     esong_code: 3215A31
     t_singer_master_id: '1349'
@@ -362,7 +345,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3215A31
-      song_name: 銀河の覇者 (凰稀かなめ 他) [DAM本人歌唱]
+      song_name: 銀河の覇者 (凰稀かなめ 他)[DAM本人歌唱]
       content_type: DAM本人歌唱
   - song_name: 銀河平野
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3208B21
       song_name: Good Days
+      content_type: ''
+  - song_name: Good-bye for Now
+    song_alias:
+    esong_code: 3208B22
+    t_singer_master_id: '21930'
+    singer_name: 東方神起
+    singer_alias:
+    available_date: '2014-03-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつとはいふお
+    singer_name_ruby: とうほうしんき
+    song_variation:
+    - esong_code: 3208B22
+      song_name: Good-bye for Now
       content_type: ''

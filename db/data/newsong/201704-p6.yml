@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1228
-  all_max_cnt: 1391
-  all_country_cnt: 1228
+  max_cnt: 1224
+  all_max_cnt: 1387
+  all_country_cnt: 1224
   song:
-  - song_name: 海鳴りの町
-    song_alias:
-    esong_code: 1220B49
-    t_singer_master_id: '2103'
-    singer_name: 細川 たかし
-    singer_alias:
-    available_date: '2017-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うみなりのまち
-    singer_name_ruby: ほそかわたかし
-    song_variation:
-    - esong_code: 1220B49
-      song_name: 海鳴りの町
-      content_type: ''
-  - song_name: 海の丘のヴィラジオ
-    song_alias:
-    esong_code: 3796B33
-    t_singer_master_id: '58633'
-    singer_name: 藤田 たかし
-    singer_alias:
-    available_date: '2017-04-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うみのおかのひらし
-    singer_name_ruby: ふしたたかし
-    song_variation:
-    - esong_code: 3796B33
-      song_name: 海の丘のヴィラジオ
-      content_type: ''
   - song_name: 海は女の涙
     song_alias:
     esong_code: 3694A18
@@ -470,7 +436,7 @@ result:
     song_alias:
     esong_code: 3787B39
     t_singer_master_id: '43140'
-    singer_name: カラスヤサボウ
+    singer_name: 烏屋茶房(カラスヤサボウ)
     singer_alias:
     available_date: '2017-04-02'
     end_date: '2999-04-10 00:00:00'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3794A13
       song_name: Oh yeah!!
+      content_type: ''
+  - song_name: オー・イエ—
+    song_alias:
+    esong_code: 3686B46
+    t_singer_master_id: '5988'
+    singer_name: 遠藤 賢司
+    singer_alias:
+    available_date: '2017-04-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おいえ
+    singer_name_ruby: えんとうけんし
+    song_variation:
+    - esong_code: 3686B46
+      song_name: オー・イエ—
+      content_type: ''
+  - song_name: 大江ふるさと音頭
+    song_alias:
+    esong_code: 3796B47
+    t_singer_master_id: '40372'
+    singer_name: 葵 ひろ子
+    singer_alias:
+    available_date: '2017-04-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おおえふるさとおんと
+    singer_name_ruby: あおいひろこ
+    song_variation:
+    - esong_code: 3796B47
+      song_name: 大江ふるさと音頭
       content_type: ''

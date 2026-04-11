@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: intro (THE WINTER ALBUM)
-    song_alias:
-    esong_code: 300B42
-    t_singer_master_id: '8516'
-    singer_name: the brilliant green
-    singer_alias:
-    available_date: '2006-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いんとろ
-    singer_name_ruby: さふりりあんとく
-    song_variation:
-    - esong_code: 300B42
-      song_name: intro (THE WINTER ALBUM)
-      content_type: ''
   - song_name: We are. (GREAT TOUR BAND version)
     song_alias:
     esong_code: 1494A25
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1485A44
       song_name: 永良部シュンサーミー
+      content_type: ''
+  - song_name: 永良部の子守唄 -Where is Your Memmy?-いったー.....
+    song_alias:
+    esong_code: 1493B40
+    t_singer_master_id: '22958'
+    singer_name: 大山 百合香
+    singer_alias:
+    available_date: '2006-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えらふのこもりうた
+    singer_name_ruby: おおやまゆりか
+    song_variation:
+    - esong_code: 1493B40
+      song_name: 永良部の子守唄 -Where is Your Memmy?-いったー.....
       content_type: ''

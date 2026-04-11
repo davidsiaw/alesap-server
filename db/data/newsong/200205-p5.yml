@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 398
-  all_max_cnt: 457
-  all_country_cnt: 398
+  max_cnt: 395
+  all_max_cnt: 455
+  all_country_cnt: 395
   song:
-  - song_name: 静かなるアフガン
-    song_alias:
-    esong_code: 836A36
-    t_singer_master_id: '1671'
-    singer_name: 長渕 剛
-    singer_alias:
-    available_date: '2002-05-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しすかなるあふか
-    singer_name_ruby: なかふちつよし
-    song_variation:
-    - esong_code: 836A36
-      song_name: 静かなるアフガン
-      content_type: ''
   - song_name: じっと見つめて
     song_alias:
     esong_code: 840A31
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 842B22
       song_name: 砂の星
+      content_type: ''
+  - song_name: SPICY GIRL
+    song_alias:
+    esong_code: 69B23
+    t_singer_master_id: '3079'
+    singer_name: TOKIO
+    singer_alias:
+    available_date: '2002-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すはいしかる
+    singer_name_ruby: ときお
+    song_variation:
+    - esong_code: 69B23
+      song_name: SPICY GIRL
       content_type: ''

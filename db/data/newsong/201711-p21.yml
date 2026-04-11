@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1359
-  all_max_cnt: 1522
-  all_country_cnt: 1359
+  max_cnt: 1356
+  all_max_cnt: 1519
+  all_country_cnt: 1356
   song:
-  - song_name: その先へ
-    song_alias:
-    esong_code: 3910A32
-    t_singer_master_id: '12518'
-    singer_name: THE BACK HORN
-    singer_alias:
-    available_date: '2017-11-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そのさきへ
-    singer_name_ruby: さはつくほん
-    song_variation:
-    - esong_code: 3910A32
-      song_name: その先へ
-      content_type: ''
   - song_name: ソフィア
     song_alias:
     esong_code: 3912B47
@@ -32,7 +15,7 @@ result:
     singer_alias:
     available_date: '2017-11-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 牙狼(GARO) -VANISHING LINE-<番組名>
+    tie_up: 牙狼-GARO-(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: そふいあ
@@ -466,7 +449,7 @@ result:
     - esong_code: 3903B33
       song_name: ただ、勝つために song by 蜻蛉切
       content_type: ''
-  - song_name: D D DIAMOND!! (柚希礼音ほか)
+  - song_name: D D DIAMOND!! (柚希礼音 ほか)
     song_alias:
     esong_code: 3910B2
     t_singer_master_id: '1349'
@@ -481,7 +464,7 @@ result:
     singer_name_ruby: たからつかかけき
     song_variation:
     - esong_code: 3910B2
-      song_name: D D DIAMOND!! (柚希礼音ほか)
+      song_name: D D DIAMOND!! (柚希礼音 ほか)
       content_type: ''
   - song_name: タッタ [DAM本人歌唱]
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3905A43
       song_name: dirty hurry
+      content_type: ''
+  - song_name: たのしいせいかつ featuring SOIL&PIMPSESSIONS
+    song_alias:
+    esong_code: 3913B6
+    t_singer_master_id: '55145'
+    singer_name: ぼくのりりっくのぼうよみ
+    singer_alias:
+    available_date: '2017-11-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たのしいせいかつ
+    singer_name_ruby: ほくのりりつくのほうよみ
+    song_variation:
+    - esong_code: 3913B6
+      song_name: たのしいせいかつ featuring SOIL&PIMPSESSIONS
       content_type: ''

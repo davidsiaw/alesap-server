@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 684
-  all_max_cnt: 725
-  all_country_cnt: 684
+  max_cnt: 683
+  all_max_cnt: 724
+  all_country_cnt: 683
   song:
-  - song_name: 築地明石町
-    song_alias:
-    esong_code: 814A7
-    t_singer_master_id: '463'
-    singer_name: 小野 由紀子
-    singer_alias:
-    available_date: '2004-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきしあかしちよう
-    singer_name_ruby: おのゆきこ
-    song_variation:
-    - esong_code: 814A7
-      song_name: 築地明石町
-      content_type: ''
   - song_name: 月に咲く花のようになるの
     song_alias:
     esong_code: 853A17
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 133B31
       song_name: とうすみ蜻蛉
+      content_type: ''
+  - song_name: Two Timing feat.BIG-O&DABO
+    song_alias:
+    esong_code: 280B48
+    t_singer_master_id: '12023'
+    singer_name: Tyler
+    singer_alias:
+    available_date: '2004-07-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうたいみんく
+    singer_name_ruby: たいら
+    song_variation:
+    - esong_code: 280B48
+      song_name: Two Timing feat.BIG-O&DABO
       content_type: ''

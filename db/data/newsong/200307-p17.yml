@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 577
-  all_max_cnt: 620
-  all_country_cnt: 577
+  max_cnt: 576
+  all_max_cnt: 619
+  all_country_cnt: 576
   song:
   - song_name: モーニング娘。メドレー 〜2003〜
     song_alias:
@@ -485,23 +485,6 @@ result:
       content_type: ''
   - song_name: Love Somebody (CINEMA VersionⅡ)
     song_alias:
-    esong_code: 817A20
-    t_singer_master_id: '16270'
-    singer_name: 織田 裕二 featuring MYA
-    singer_alias:
-    available_date: '2003-07-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM良音
-    song_name_ruby: らふさむはてい
-    singer_name_ruby: おたゆうしふゆちやり
-    song_variation:
-    - esong_code: 817A20
-      song_name: Love Somebody (CINEMA VersionⅡ)
-      content_type: DAM良音
-  - song_name: Love Somebody (CINEMA VersionⅡ)
-    song_alias:
     esong_code: 817B1
     t_singer_master_id: '16270'
     singer_name: 織田 裕二 featuring MYA
@@ -517,3 +500,20 @@ result:
     - esong_code: 817B1
       song_name: Love Somebody (CINEMA VersionⅡ)
       content_type: ''
+  - song_name: Love Somebody (CINEMA VersionⅡ)
+    song_alias:
+    esong_code: 817A20
+    t_singer_master_id: '16270'
+    singer_name: 織田 裕二 featuring MYA
+    singer_alias:
+    available_date: '2003-07-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM良音
+    song_name_ruby: らふさむはてい
+    singer_name_ruby: おたゆうしふゆちやり
+    song_variation:
+    - esong_code: 817A20
+      song_name: Love Somebody (CINEMA VersionⅡ)
+      content_type: DAM良音

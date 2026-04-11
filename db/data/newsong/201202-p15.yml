@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: これくらいで歌う
-    song_alias:
-    esong_code: 2759A7
-    t_singer_master_id: '44280'
-    singer_name: ハンサムケンヤ
-    singer_alias:
-    available_date: '2012-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: これくらいてうたう
-    singer_name_ruby: はんさむけんや
-    song_variation:
-    - esong_code: 2759A7
-      song_name: これくらいで歌う
-      content_type: ''
-  - song_name: これくらいのサヨナラ
-    song_alias:
-    esong_code: 2767B8
-    t_singer_master_id: '42901'
-    singer_name: Secret
-    singer_alias:
-    available_date: '2012-02-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: これくらいのさよなら
-    singer_name_ruby: しくれつと
-    song_variation:
-    - esong_code: 2767B8
-      song_name: これくらいのサヨナラ
-      content_type: ''
   - song_name: コロナ feat.鏡音リン
     song_alias:
     esong_code: 2758A41
@@ -179,23 +145,6 @@ result:
       content_type: ''
   - song_name: sign
     song_alias:
-    esong_code: 2767A38
-    t_singer_master_id: '20714'
-    singer_name: JUJU
-    singer_alias:
-    available_date: '2012-02-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: さいん
-    singer_name_ruby: しゆしゆ
-    song_variation:
-    - esong_code: 2767A38
-      song_name: sign
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: sign
-    song_alias:
     esong_code: 2739A37
     t_singer_master_id: '20714'
     singer_name: JUJU
@@ -211,6 +160,23 @@ result:
     - esong_code: 2739A37
       song_name: sign
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: sign
+    song_alias:
+    esong_code: 2767A38
+    t_singer_master_id: '20714'
+    singer_name: JUJU
+    singer_alias:
+    available_date: '2012-02-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: さいん
+    singer_name_ruby: しゆしゆ
+    song_variation:
+    - esong_code: 2767A38
+      song_name: sign
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Za ABC 〜5stars〜
     song_alias:
     esong_code: 2748B47
@@ -315,23 +281,6 @@ result:
       content_type: ''
   - song_name: 櫻
     song_alias:
-    esong_code: 2757B46
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2012-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: さくら
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 2757B46
-      song_name: 櫻
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 櫻
-    song_alias:
     esong_code: 2606A45
     t_singer_master_id: '10507'
     singer_name: 氷川 きよし
@@ -347,23 +296,23 @@ result:
     - esong_code: 2606A45
       song_name: 櫻
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 桜色
+  - song_name: 櫻
     song_alias:
-    esong_code: 2753B5
-    t_singer_master_id: '41925'
-    singer_name: 原田 徳子
+    esong_code: 2757B46
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
     singer_alias:
-    available_date: '2012-02-09'
+    available_date: '2012-02-08'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: さくらいろ
-    singer_name_ruby: はらたとくこ
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: さくら
+    singer_name_ruby: ひかわきよし
     song_variation:
-    - esong_code: 2753B5
-      song_name: 桜色
-      content_type: ''
+    - esong_code: 2757B46
+      song_name: 櫻
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: サクライロ
     song_alias:
     esong_code: 2766A46
@@ -380,6 +329,23 @@ result:
     song_variation:
     - esong_code: 2766A46
       song_name: サクライロ
+      content_type: ''
+  - song_name: 桜色
+    song_alias:
+    esong_code: 2753B5
+    t_singer_master_id: '41925'
+    singer_name: 原田 徳子
+    singer_alias:
+    available_date: '2012-02-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらいろ
+    singer_name_ruby: はらたとくこ
+    song_variation:
+    - esong_code: 2753B5
+      song_name: 桜色
       content_type: ''
   - song_name: 桜小町
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2761B49
       song_name: 桜の満開の木の下で
+      content_type: ''
+  - song_name: 桜母情
+    song_alias:
+    esong_code: 2765B36
+    t_singer_master_id: '40246'
+    singer_name: 天音 さとみ(天音里望)
+    singer_alias:
+    available_date: '2012-02-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらほしよう
+    singer_name_ruby: あまねさとみ
+    song_variation:
+    - esong_code: 2765B36
+      song_name: 桜母情
+      content_type: ''
+  - song_name: Sakura物語
+    song_alias:
+    esong_code: 2770A29
+    t_singer_master_id: '44094'
+    singer_name: LinQ
+    singer_alias:
+    available_date: '2012-02-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらものかたり
+    singer_name_ruby: りんく
+    song_variation:
+    - esong_code: 2770A29
+      song_name: Sakura物語
       content_type: ''

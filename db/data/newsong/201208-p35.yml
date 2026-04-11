@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1173
-  all_max_cnt: 1276
-  all_country_cnt: 1173
+  max_cnt: 1171
+  all_max_cnt: 1273
+  all_country_cnt: 1171
   song:
-  - song_name: 誘惑のガーター
-    song_alias:
-    esong_code: 2832A49
-    t_singer_master_id: '41184'
-    singer_name: SDN48
-    singer_alias:
-    available_date: '2012-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆうわくのかた
-    singer_name_ruby: えすていえぬふおていえいと
-    song_variation:
-    - esong_code: 2832A49
-      song_name: 誘惑のガーター
-      content_type: ''
-  - song_name: ゆきのせい
-    song_alias:
-    esong_code: 2838B9
-    t_singer_master_id: '41781'
-    singer_name: nano.RIPE
-    singer_alias:
-    available_date: '2012-08-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆきのせい
-    singer_name_ruby: なのらいふ
-    song_variation:
-    - esong_code: 2838B9
-      song_name: ゆきのせい
-      content_type: ''
   - song_name: 雪の停車場
     song_alias:
     esong_code: 2839B26
@@ -457,7 +423,7 @@ result:
     singer_alias:
     available_date: '2012-08-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 探偵オペラ ミルキィホームズ 第2幕<番組名>
+    tie_up: 探偵オペラ ミルキィホームズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: よこはまをあるこう
@@ -517,3 +483,37 @@ result:
     - esong_code: 2841A34
       song_name: 夜の踊り子
       content_type: ''
+  - song_name: 弱虫ナイフ
+    song_alias:
+    esong_code: 2831B33
+    t_singer_master_id: '43054'
+    singer_name: 幽閉サテライト/senya
+    singer_alias:
+    available_date: '2012-08-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方花映塚 〜Phantasmagoria of Flower View.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: よわむしないふ
+    singer_name_ruby: ゆうへいさてらいとせんや
+    song_variation:
+    - esong_code: 2831B33
+      song_name: 弱虫ナイフ
+      content_type: 東方
+  - song_name: ライア feat.IA
+    song_alias:
+    esong_code: 2833B12
+    t_singer_master_id: '45427'
+    singer_name: ねこぼーろ
+    singer_alias:
+    available_date: '2012-08-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: らいあ
+    singer_name_ruby: ねこほろ
+    song_variation:
+    - esong_code: 2833B12
+      song_name: ライア feat.IA
+      content_type: VOCALOID

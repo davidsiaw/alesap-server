@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
-  - song_name: 宝物
-    song_alias:
-    esong_code: 2707B45
-    t_singer_master_id: '21333'
-    singer_name: 風味堂
-    singer_alias:
-    available_date: '2011-11-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たからもの
-    singer_name_ruby: ふうみとう
-    song_variation:
-    - esong_code: 2707B45
-      song_name: 宝物
-      content_type: ''
   - song_name: 抱きしめてシュヴァルツ
     song_alias:
     esong_code: 2723A30
@@ -66,7 +49,7 @@ result:
     singer_alias:
     available_date: '2011-11-20'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: 戦国BASARA<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たそかれ
@@ -196,23 +179,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: たとえ どんなに・・・
     song_alias:
-    esong_code: 2698B12
-    t_singer_master_id: '32267'
-    singer_name: 西野 カナ
-    singer_alias:
-    available_date: '2011-11-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たとえとんなに
-    singer_name_ruby: にしのかな
-    song_variation:
-    - esong_code: 2698B12
-      song_name: たとえ どんなに・・・
-      content_type: ''
-  - song_name: たとえ どんなに・・・
-    song_alias:
     esong_code: 2702A14
     t_singer_master_id: '32267'
     singer_name: 西野 カナ
@@ -228,6 +194,23 @@ result:
     - esong_code: 2702A14
       song_name: たとえ どんなに・・・
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: たとえ どんなに・・・
+    song_alias:
+    esong_code: 2698B12
+    t_singer_master_id: '32267'
+    singer_name: 西野 カナ
+    singer_alias:
+    available_date: '2011-11-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たとえとんなに
+    singer_name_ruby: にしのかな
+    song_variation:
+    - esong_code: 2698B12
+      song_name: たとえ どんなに・・・
+      content_type: ''
   - song_name: 旅路
     song_alias:
     esong_code: 2714B17
@@ -298,23 +281,6 @@ result:
       content_type: ''
   - song_name: ためらい
     song_alias:
-    esong_code: 2715B8
-    t_singer_master_id: '650'
-    singer_name: 北原 ミレイ
-    singer_alias:
-    available_date: '2011-11-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ためらい
-    singer_name_ruby: きたはらみれい
-    song_variation:
-    - esong_code: 2715B8
-      song_name: ためらい
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ためらい
-    song_alias:
     esong_code: 2714B4
     t_singer_master_id: '43752'
     singer_name: 藤 竜之介
@@ -330,6 +296,23 @@ result:
     - esong_code: 2714B4
       song_name: ためらい
       content_type: ''
+  - song_name: ためらい
+    song_alias:
+    esong_code: 2715B8
+    t_singer_master_id: '650'
+    singer_name: 北原 ミレイ
+    singer_alias:
+    available_date: '2011-11-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ためらい
+    singer_name_ruby: きたはらみれい
+    song_variation:
+    - esong_code: 2715B8
+      song_name: ためらい
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Darlin'
     song_alias:
     esong_code: 2704A11
@@ -442,7 +425,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: たんていぶ<番組名>
     country_code: '0'
-    content_type: パセラ限定クリップ
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: たんていらふそて
     singer_name_ruby: あふいりあさか
     song_variation:
@@ -462,7 +445,7 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up: たんていぶ<番組名>
     country_code: '0'
-    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    content_type: パセラ限定クリップ
     song_name_ruby: たんていらふそて
     singer_name_ruby: あふいりあさか
     song_variation:
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 2708B39
       song_name: CHANGE!!!! (M@STER VERSION)
+      content_type: ''
+  - song_name: CHANGE THE WORLD
+    song_alias:
+    esong_code: 2711A20
+    t_singer_master_id: '31075'
+    singer_name: BREAKERZ
+    singer_alias:
+    available_date: '2011-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちえんしさわる
+    singer_name_ruby: ふれいかす
+    song_variation:
+    - esong_code: 2711A20
+      song_name: CHANGE THE WORLD
       content_type: ''

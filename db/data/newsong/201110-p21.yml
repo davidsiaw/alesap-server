@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1338
-  all_max_cnt: 1464
-  all_country_cnt: 1338
+  max_cnt: 1336
+  all_max_cnt: 1462
+  all_country_cnt: 1336
   song:
   - song_name: ステキな日曜日 〜Gyu Gyu グッデイ!〜
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 2693B20
       song_name: ステキな日曜日 〜Gyu Gyu グッデイ!〜
       content_type: ''
-  - song_name: ステキな日曜日 〜Gyu Gyu グッデイ!〜
-    song_alias:
-    esong_code: 2694A11
-    t_singer_master_id: '43508'
-    singer_name: 芦田 愛菜
-    singer_alias:
-    available_date: '2011-10-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: すてきなにちようひ
-    singer_name_ruby: あしたまな
-    song_variation:
-    - esong_code: 2694A11
-      song_name: ステキな日曜日 〜Gyu Gyu グッデイ!〜
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 素敵にふるさと
     song_alias:
     esong_code: 2548A43
@@ -155,7 +138,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: すのう
-    singer_name_ruby: ほいす
+    singer_name_ruby: ほいす2
     song_variation:
     - esong_code: 2681B35
       song_name: Snow
@@ -347,23 +330,6 @@ result:
     - esong_code: 2685B27
       song_name: スマイリー×スマイリー feat.初音ミク
       content_type: VOCALOID
-  - song_name: Smile (Band ver.)
-    song_alias:
-    esong_code: 2684A26
-    t_singer_master_id: '12276'
-    singer_name: BUMP OF CHICKEN
-    singer_alias:
-    available_date: '2011-10-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すまいる
-    singer_name_ruby: はんふおふちきん
-    song_variation:
-    - esong_code: 2684A26
-      song_name: Smile (Band ver.)
-      content_type: ''
   - song_name: スマイル音丼
     song_alias:
     esong_code: 2691A33
@@ -380,6 +346,23 @@ result:
     song_variation:
     - esong_code: 2691A33
       song_name: スマイル音丼
+      content_type: ''
+  - song_name: Smile (Band ver.)
+    song_alias:
+    esong_code: 2684A26
+    t_singer_master_id: '12276'
+    singer_name: BUMP OF CHICKEN
+    singer_alias:
+    available_date: '2011-10-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すまいるはんとは
+    singer_name_ruby: はんふおふちきん
+    song_variation:
+    - esong_code: 2684A26
+      song_name: Smile (Band ver.)
       content_type: ''
   - song_name: スマイル100%
     song_alias:
@@ -517,3 +500,20 @@ result:
     - esong_code: 2681B16
       song_name: 制服b少年
       content_type: ''
+  - song_name: 聖夜、愛犬がビデオデッキに詰まる
+    song_alias:
+    esong_code: 2108A4
+    t_singer_master_id: '41201'
+    singer_name: 家の裏でマンボウが死んでるP
+    singer_alias:
+    available_date: '2011-10-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: せいやあいけんかひ
+    singer_name_ruby: いえのうらてまんほうかしんてるひ
+    song_variation:
+    - esong_code: 2108A4
+      song_name: 聖夜、愛犬がビデオデッキに詰まる
+      content_type: VOCALOID

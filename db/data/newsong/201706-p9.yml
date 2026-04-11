@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
-  - song_name: 女ごころ
-    song_alias:
-    esong_code: 3826A21
-    t_singer_master_id: '59053'
-    singer_name: 小林 真
-    singer_alias:
-    available_date: '2017-06-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなこころ
-    singer_name_ruby: こはやしまこと
-    song_variation:
-    - esong_code: 3826A21
-      song_name: 女ごころ
-      content_type: ''
   - song_name: おんな三味線ながれ節
     song_alias:
     esong_code: 3832A27
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3826B42
       song_name: かざみどり
+      content_type: ''
+  - song_name: 風のルンバ
+    song_alias:
+    esong_code: 3451A10
+    t_singer_master_id: '53508'
+    singer_name: 夢二 チャコ
+    singer_alias:
+    available_date: '2017-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせのるんは
+    singer_name_ruby: ゆめしちやこ
+    song_variation:
+    - esong_code: 3451A10
+      song_name: 風のルンバ
       content_type: ''

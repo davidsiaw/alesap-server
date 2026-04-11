@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 829
-  all_max_cnt: 899
-  all_country_cnt: 829
+  max_cnt: 817
+  all_max_cnt: 887
+  all_country_cnt: 817
   song:
-  - song_name: オモワクドオリ
-    song_alias:
-    esong_code: 4430A35
-    t_singer_master_id: '26377'
-    singer_name: ナオト・インティライミ
-    singer_alias:
-    available_date: '2020-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもわくとおり
-    singer_name_ruby: なおといんていらいみ
-    song_variation:
-    - esong_code: 4430A35
-      song_name: オモワクドオリ
-      content_type: ''
-  - song_name: おやおやおやさい
-    song_alias:
-    esong_code: 4438B12
-    t_singer_master_id: '66797'
-    singer_name: はねまりチャンネル
-    singer_alias:
-    available_date: '2020-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おやおやおやさい
-    singer_name_ruby: はねまりちやんねる
-    song_variation:
-    - esong_code: 4438B12
-      song_name: おやおやおやさい
-      content_type: ''
-  - song_name: 母子きずな
-    song_alias:
-    esong_code: 4432A20
-    t_singer_master_id: '3051'
-    singer_name: 清水 真子
-    singer_alias:
-    available_date: '2020-10-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おやこきすな
-    singer_name_ruby: しみすまこ
-    song_variation:
-    - esong_code: 4432A20
-      song_name: 母子きずな
-      content_type: ''
   - song_name: おやじ
     song_alias:
     esong_code: 4435B48
@@ -162,6 +111,23 @@ result:
       content_type: ''
   - song_name: 俺の人生
     song_alias:
+    esong_code: 4430A7
+    t_singer_master_id: '13930'
+    singer_name: 木原 たけし
+    singer_alias:
+    available_date: '2020-10-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれのしんせい
+    singer_name_ruby: きはらたけし
+    song_variation:
+    - esong_code: 4430A7
+      song_name: 俺の人生
+      content_type: ''
+  - song_name: 俺の人生
+    song_alias:
     esong_code: 4265B23
     t_singer_master_id: '13930'
     singer_name: 木原 たけし
@@ -194,23 +160,6 @@ result:
     - esong_code: 4435A43
       song_name: 俺の人生
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 俺の人生
-    song_alias:
-    esong_code: 4430A7
-    t_singer_master_id: '13930'
-    singer_name: 木原 たけし
-    singer_alias:
-    available_date: '2020-10-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれのしんせい
-    singer_name_ruby: きはらたけし
-    song_variation:
-    - esong_code: 4430A7
-      song_name: 俺の人生
-      content_type: ''
   - song_name: Orange
     song_alias:
     esong_code: 4437B38
@@ -517,3 +466,54 @@ result:
     - esong_code: 4433A32
       song_name: カゼマチグサ (feat.鳴花ヒメ)
       content_type: VOCALOID
+  - song_name: 風よ
+    song_alias:
+    esong_code: 4432A46
+    t_singer_master_id: '65820'
+    singer_name: 藤井 風
+    singer_alias:
+    available_date: '2020-10-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせよ
+    singer_name_ruby: ふしいかせ
+    song_variation:
+    - esong_code: 4432A46
+      song_name: 風よ
+      content_type: ''
+  - song_name: 風を食む
+    song_alias:
+    esong_code: 4430A41
+    t_singer_master_id: '59009'
+    singer_name: ヨルシカ
+    singer_alias:
+    available_date: '2020-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせをはむ
+    singer_name_ruby: よるしか
+    song_variation:
+    - esong_code: 4430A41
+      song_name: 風を食む
+      content_type: ''
+  - song_name: 悲しいくらいダイヤモンド
+    song_alias:
+    esong_code: 4430A40
+    t_singer_master_id: '66960'
+    singer_name: 流線形/一十三十一
+    singer_alias:
+    available_date: '2020-10-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしいくらいたい
+    singer_name_ruby: りゆうせんけいひとみとい
+    song_variation:
+    - esong_code: 4430A40
+      song_name: 悲しいくらいダイヤモンド
+      content_type: ''

@@ -3,26 +3,26 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
-  - song_name: 女の四季
+  - song_name: おんなの祭り
     song_alias:
-    esong_code: 2557B10
-    t_singer_master_id: '2371'
-    singer_name: 三善 英史
+    esong_code: 2546A47
+    t_singer_master_id: '30247'
+    singer_name: 松川 未樹
     singer_alias:
-    available_date: '2010-06-15'
+    available_date: '2010-06-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: おんなのしき
-    singer_name_ruby: みよしえいし
+    song_name_ruby: おんなのまつり
+    singer_name_ruby: まつかわみき
     song_variation:
-    - esong_code: 2557B10
-      song_name: 女の四季
+    - esong_code: 2546A47
+      song_name: おんなの祭り
       content_type: ''
   - song_name: おんなの祭り
     song_alias:
@@ -39,23 +39,6 @@ result:
     singer_name_ruby: やまたみよこ
     song_variation:
     - esong_code: 2559B6
-      song_name: おんなの祭り
-      content_type: ''
-  - song_name: おんなの祭り
-    song_alias:
-    esong_code: 2546A47
-    t_singer_master_id: '30247'
-    singer_name: 松川 未樹
-    singer_alias:
-    available_date: '2010-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのまつり
-    singer_name_ruby: まつかわみき
-    song_variation:
-    - esong_code: 2546A47
       song_name: おんなの祭り
       content_type: ''
   - song_name: 女の岬
@@ -92,6 +75,23 @@ result:
     - esong_code: 2550A39
       song_name: おんなみれん節
       content_type: DAM生音
+  - song_name: 海峡泣かせ雨
+    song_alias:
+    esong_code: 2437B43
+    t_singer_master_id: '29852'
+    singer_name: いずはら 玲子
+    singer_alias:
+    available_date: '2010-06-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かいきようなかせあめ
+    singer_name_ruby: いすはられいこ
+    song_variation:
+    - esong_code: 2437B43
+      song_name: 海峡泣かせ雨
+      content_type: ''
   - song_name: 海峡の夜が明ける
     song_alias:
     esong_code: 2550A1

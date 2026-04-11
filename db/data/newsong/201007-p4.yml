@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: いつでも夢を
-    song_alias:
-    esong_code: 2564B47
-    t_singer_master_id: '19380'
-    singer_name: 原 由子 duet with 桑田 佳祐
-    singer_alias:
-    available_date: '2010-07-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつてもゆめを
-    singer_name_ruby: はらゆうこてゆえつと
-    song_variation:
-    - esong_code: 2564B47
-      song_name: いつでも夢を
-      content_type: ''
   - song_name: 慈愛しさは光の砂時計
     song_alias:
     esong_code: 2407B1
@@ -389,7 +372,7 @@ result:
     singer_alias:
     available_date: '2010-07-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: よりぬき銀魂さん<番組名>
+    tie_up: 銀魂<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: うえふ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2568A16
       song_name: ウジ虫以下
+      content_type: ''
+  - song_name: 後ろにも目を
+    song_alias:
+    esong_code: 2391B19
+    t_singer_master_id: '19682'
+    singer_name: 永井 幸子
+    singer_alias:
+    available_date: '2010-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: テニスの王子様 OVA 全国大会篇 Final<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うしろにもめを
+    singer_name_ruby: なかいさちこ
+    song_variation:
+    - esong_code: 2391B19
+      song_name: 後ろにも目を
       content_type: ''

@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1080
-  all_max_cnt: 1165
-  all_country_cnt: 1080
+  max_cnt: 1075
+  all_max_cnt: 1160
+  all_country_cnt: 1075
   song:
-  - song_name: DL56
-    song_alias:
-    esong_code: 1908B44
-    t_singer_master_id: '20569'
-    singer_name: BIGGA RAIJI
-    singer_alias:
-    available_date: '2007-11-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていえるころ
-    singer_name_ruby: ひからいし
-    song_variation:
-    - esong_code: 1908B44
-      song_name: DL56
-      content_type: ''
-  - song_name: disarm dreamer
-    song_alias:
-    esong_code: 1906A11
-    t_singer_master_id: '22298'
-    singer_name: 美郷 あき
-    singer_alias:
-    available_date: '2007-11-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: げんしけん2<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていさむとり
-    singer_name_ruby: みさとあき
-    song_variation:
-    - esong_code: 1906A11
-      song_name: disarm dreamer
-      content_type: ''
-  - song_name: days
-    song_alias:
-    esong_code: 1904B12
-    t_singer_master_id: '21794'
-    singer_name: TRIPLANE
-    singer_alias:
-    available_date: '2007-11-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていす
-    singer_name_ruby: とらいふれいん
-    song_variation:
-    - esong_code: 1904B12
-      song_name: days
-      content_type: ''
-  - song_name: This Is 4 The Locos feat.DS455&Big Ron
-    song_alias:
-    esong_code: 1902A35
-    t_singer_master_id: '10597'
-    singer_name: ZEEBRA
-    singer_alias:
-    available_date: '2007-11-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていすいすふお
-    singer_name_ruby: しふら
-    song_variation:
-    - esong_code: 1902A35
-      song_name: This Is 4 The Locos feat.DS455&Big Ron
-      content_type: ''
   - song_name: DISCORD 〜your voices mix〜
     song_alias:
     esong_code: 1901A13
@@ -279,23 +211,6 @@ result:
     - esong_code: 1908A17
       song_name: 適当男のポルカ
       content_type: ''
-  - song_name: テクパラメドレー1 [パラパラ振付(視聴用)]
-    song_alias:
-    esong_code: 1900A15
-    t_singer_master_id: '31073'
-    singer_name: バリアス・アーティスツ(JOY)
-    singer_alias: Various Artists
-    available_date: '2007-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てくはらめとれ
-    singer_name_ruby: VARIOUSARTISTS
-    song_variation:
-    - esong_code: 1900A15
-      song_name: テクパラメドレー1 [パラパラ振付(視聴用)]
-      content_type: ''
   - song_name: テクパラメドレー2 [パラパラ振付(視聴用)]
     song_alias:
     esong_code: 1900A17
@@ -308,10 +223,27 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: てくはらめとれ
-    singer_name_ruby: VARIOUSARTISTS
+    singer_name_ruby: はりあすあていすつ
     song_variation:
     - esong_code: 1900A17
       song_name: テクパラメドレー2 [パラパラ振付(視聴用)]
+      content_type: ''
+  - song_name: テクパラメドレー1 [パラパラ振付(視聴用)]
+    song_alias:
+    esong_code: 1900A15
+    t_singer_master_id: '31073'
+    singer_name: バリアス・アーティスツ(JOY)
+    singer_alias: Various Artists
+    available_date: '2007-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てくはらめとれ
+    singer_name_ruby: はりあすあていすつ
+    song_variation:
+    - esong_code: 1900A15
+      song_name: テクパラメドレー1 [パラパラ振付(視聴用)]
       content_type: ''
   - song_name: DESERT ROSE
     song_alias:
@@ -485,6 +417,23 @@ result:
       content_type: ''
   - song_name: 東京
     song_alias:
+    esong_code: 1905B26
+    t_singer_master_id: '1523'
+    singer_name: DEEN
+    singer_alias:
+    available_date: '2007-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきよう
+    singer_name_ruby: ていん
+    song_variation:
+    - esong_code: 1905B26
+      song_name: 東京
+      content_type: ''
+  - song_name: 東京
+    song_alias:
     esong_code: 1899A1
     t_singer_master_id: '31572'
     singer_name: FUNGO
@@ -500,20 +449,71 @@ result:
     - esong_code: 1899A1
       song_name: 東京
       content_type: ''
-  - song_name: 東京
+  - song_name: 東京賛歌
     song_alias:
-    esong_code: 1905B26
-    t_singer_master_id: '1523'
-    singer_name: DEEN
+    esong_code: 1910B39
+    t_singer_master_id: '12276'
+    singer_name: BUMP OF CHICKEN
+    singer_alias:
+    available_date: '2007-11-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきようさんか
+    singer_name_ruby: はんふおふちきん
+    song_variation:
+    - esong_code: 1910B39
+      song_name: 東京賛歌
+      content_type: ''
+  - song_name: 東京四季
+    song_alias:
+    esong_code: 1905B10
+    t_singer_master_id: '18264'
+    singer_name: 落合 みつを
     singer_alias:
     available_date: '2007-11-18'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: とうきよう
-    singer_name_ruby: ていん
+    song_name_ruby: とうきようしき
+    singer_name_ruby: おちあいみつを
     song_variation:
-    - esong_code: 1905B26
-      song_name: 東京
+    - esong_code: 1905B10
+      song_name: 東京四季
+      content_type: ''
+  - song_name: 東京の屋根の下
+    song_alias:
+    esong_code: 1902B36
+    t_singer_master_id: '14920'
+    singer_name: 一青 窈
+    singer_alias:
+    available_date: '2007-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきようのやねのし
+    singer_name_ruby: ひととよう
+    song_variation:
+    - esong_code: 1902B36
+      song_name: 東京の屋根の下
+      content_type: ''
+  - song_name: 東京ブギウギ
+    song_alias:
+    esong_code: 1902B45
+    t_singer_master_id: '1993'
+    singer_name: 福山 雅治
+    singer_alias:
+    available_date: '2007-11-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: とうきようふきう
+    singer_name_ruby: ふくやままさはる
+    song_variation:
+    - esong_code: 1902B45
+      song_name: 東京ブギウギ
       content_type: ''

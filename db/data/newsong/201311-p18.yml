@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
+  - song_name: コ・カ・ツ
+    song_alias:
+    esong_code: 3144B40
+    t_singer_master_id: '49300'
+    singer_name: 日笠 陽子&日高 里菜
+    singer_alias:
+    available_date: '2013-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ロウきゅーぶ!SS<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こかつ
+    singer_name_ruby: ひかさようこひたかりな
+    song_variation:
+    - esong_code: 3144B40
+      song_name: コ・カ・ツ
+      content_type: ''
   - song_name: 五月の蝿
     song_alias:
     esong_code: 3138A4
@@ -505,21 +522,4 @@ result:
     song_variation:
     - esong_code: 3147B37
       song_name: ゴールは見えない
-      content_type: ''
-  - song_name: Call my name
-    song_alias:
-    esong_code: 3149A1
-    t_singer_master_id: '43822'
-    singer_name: mayu
-    singer_alias:
-    available_date: '2013-11-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こるまいねむ
-    singer_name_ruby: まゆ
-    song_variation:
-    - esong_code: 3149A1
-      song_name: Call my name
       content_type: ''

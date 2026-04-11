@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1046
-  all_max_cnt: 1110
-  all_country_cnt: 1046
+  max_cnt: 1043
+  all_max_cnt: 1107
+  all_country_cnt: 1043
   song:
-  - song_name: 一生分の愛を、君に。
-    song_alias:
-    esong_code: 1851A49
-    t_singer_master_id: '25337'
-    singer_name: Peach Jam
-    singer_alias:
-    available_date: '2007-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつしようふんのあ
-    singer_name_ruby: ひちしやむ
-    song_variation:
-    - esong_code: 1851A49
-      song_name: 一生分の愛を、君に。
-      content_type: ''
   - song_name: IT'S TOO LATE
     song_alias:
     esong_code: 1824A4
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1856B21
       song_name: 歌で・・・
+      content_type: ''
+  - song_name: ウチナーンチュ in TOKYO
+    song_alias:
+    esong_code: 1856B8
+    t_singer_master_id: '20963'
+    singer_name: U-DOU&PLATY
+    singer_alias:
+    available_date: '2007-08-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うちなんちゆいんと
+    singer_name_ruby: ゆとうあんとふらてい
+    song_variation:
+    - esong_code: 1856B8
+      song_name: ウチナーンチュ in TOKYO
       content_type: ''

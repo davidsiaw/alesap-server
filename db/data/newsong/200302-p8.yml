@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 535
-  all_max_cnt: 597
-  all_country_cnt: 535
+  max_cnt: 533
+  all_max_cnt: 595
+  all_country_cnt: 533
   song:
-  - song_name: SMAPメドレー 〜2002〜
-    song_alias:
-    esong_code: 198A13
-    t_singer_master_id: '1255'
-    singer_name: SMAP
-    singer_alias:
-    available_date: '2003-02-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すまつふめとれ
-    singer_name_ruby: すまつふ
-    song_variation:
-    - esong_code: 198A13
-      song_name: SMAPメドレー 〜2002〜
-      content_type: ''
-  - song_name: スミレ
-    song_alias:
-    esong_code: 276A26
-    t_singer_master_id: '8578'
-    singer_name: ゆず
-    singer_alias:
-    available_date: '2003-02-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すみれ
-    singer_name_ruby: ゆす
-    song_variation:
-    - esong_code: 276A26
-      song_name: スミレ
-      content_type: ''
   - song_name: 税
     song_alias:
     esong_code: 252A34
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 407B36
       song_name: だから忘れない
+      content_type: ''
+  - song_name: 闘え!!キングスカッシャー
+    song_alias:
+    esong_code: 375B22
+    t_singer_master_id: '710'
+    singer_name: 草尾 毅
+    singer_alias:
+    available_date: '2003-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: NG騎士ラムネ&40<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たたかえきんくすか
+    singer_name_ruby: くさおたけし
+    song_variation:
+    - esong_code: 375B22
+      song_name: 闘え!!キングスカッシャー
+      content_type: ''
+  - song_name: ダッシュ!ヒカリアン
+    song_alias:
+    esong_code: 399A27
+    t_singer_master_id: '6594'
+    singer_name: 遠藤 正明
+    singer_alias:
+    available_date: '2003-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 超特急ヒカリアン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たつしゆひかりあん
+    singer_name_ruby: えんとうまさあき
+    song_variation:
+    - esong_code: 399A27
+      song_name: ダッシュ!ヒカリアン
       content_type: ''

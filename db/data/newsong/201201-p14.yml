@@ -3,13 +3,13 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
   - song_name: sign
     song_alias:
-    esong_code: 2739B49
+    esong_code: 2741B34
     t_singer_master_id: '20714'
     singer_name: JUJU
     singer_alias:
@@ -17,13 +17,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type:
     song_name_ruby: さいん
     singer_name_ruby: しゆしゆ
     song_variation:
-    - esong_code: 2739B49
+    - esong_code: 2741B34
       song_name: sign
-      content_type: DAMﾌﾟﾛｵｹ
+      content_type: ''
   - song_name: 咲き誇れ愛・桜の花のように・・・
     song_alias:
     esong_code: 2747A31
@@ -41,23 +41,6 @@ result:
     - esong_code: 2747A31
       song_name: 咲き誇れ愛・桜の花のように・・・
       content_type: ''
-  - song_name: さくら
-    song_alias:
-    esong_code: 2739A30
-    t_singer_master_id: '12162'
-    singer_name: ケツメイシ
-    singer_alias:
-    available_date: '2012-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: さくら
-    singer_name_ruby: けつめいし
-    song_variation:
-    - esong_code: 2739A30
-      song_name: さくら
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: さくら feat.KAITO
     song_alias:
     esong_code: 2746B19
@@ -75,6 +58,23 @@ result:
     - esong_code: 2746B19
       song_name: さくら feat.KAITO
       content_type: VOCALOID
+  - song_name: さくら
+    song_alias:
+    esong_code: 2739A30
+    t_singer_master_id: '12162'
+    singer_name: ケツメイシ
+    singer_alias:
+    available_date: '2012-01-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: さくら
+    singer_name_ruby: けつめいし
+    song_variation:
+    - esong_code: 2739A30
+      song_name: さくら
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 桜 〜Dear my best friend〜 feat.SHIN
     song_alias:
     esong_code: 2741B38

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
+  - song_name: Hand
+    song_alias:
+    esong_code: 2200A49
+    t_singer_master_id: '29861'
+    singer_name: コトノハクロニクル
+    singer_alias:
+    available_date: '2009-01-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はんと
+    singer_name_ruby: ことのはくろにくる
+    song_variation:
+    - esong_code: 2200A49
+      song_name: Hand
+      content_type: ''
   - song_name: PANDORA
     song_alias:
     esong_code: 2195A19
@@ -117,7 +134,7 @@ result:
     singer_alias:
     available_date: '2009-01-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL Z インフィニットワールド<番組名>
+    tie_up: DRAGON BALL(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひかりのさすみらいへ
@@ -160,23 +177,6 @@ result:
     - esong_code: 2201B1
       song_name: 引越し
       content_type: ''
-  - song_name: ヒットソングメドレー2008年 〜4-6月〜
-    song_alias:
-    esong_code: 2197B19
-    t_singer_master_id: '5232'
-    singer_name: メドレー
-    singer_alias:
-    available_date: '2009-01-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひつとそんく2008
-    singer_name_ruby: めとれ
-    song_variation:
-    - esong_code: 2197B19
-      song_name: ヒットソングメドレー2008年 〜4-6月〜
-      content_type: ''
   - song_name: ヒットソングメドレー2008年 〜1-3月〜
     song_alias:
     esong_code: 2197B18
@@ -193,6 +193,23 @@ result:
     song_variation:
     - esong_code: 2197B18
       song_name: ヒットソングメドレー2008年 〜1-3月〜
+      content_type: ''
+  - song_name: ヒットソングメドレー2008年 〜4-6月〜
+    song_alias:
+    esong_code: 2197B19
+    t_singer_master_id: '5232'
+    singer_name: メドレー
+    singer_alias:
+    available_date: '2009-01-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひつとそんく2008
+    singer_name_ruby: めとれ
+    song_variation:
+    - esong_code: 2197B19
+      song_name: ヒットソングメドレー2008年 〜4-6月〜
       content_type: ''
   - song_name: 一つやり残した事
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2192A35
       song_name: FIGHT!
-      content_type: ''
-  - song_name: Fine after rain
-    song_alias:
-    esong_code: 2186B22
-    t_singer_master_id: '33419'
-    singer_name: girl next door
-    singer_alias:
-    available_date: '2009-01-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふあいんあふたれい
-    singer_name_ruby: かるねくすととあ
-    song_variation:
-    - esong_code: 2186B22
-      song_name: Fine after rain
       content_type: ''

@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1114
-  all_max_cnt: 1275
-  all_country_cnt: 1114
+  max_cnt: 1110
+  all_max_cnt: 1271
+  all_country_cnt: 1110
   song:
-  - song_name: マーメイドラプソディー
-    song_alias:
-    esong_code: 3378A41
-    t_singer_master_id: '39377'
-    singer_name: SEKAI NO OWARI(世界の終わり)
-    singer_alias:
-    available_date: '2015-01-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まめいとらふそ
-    singer_name_ruby: せかいのおわり
-    song_variation:
-    - esong_code: 3378A41
-      song_name: マーメイドラプソディー
-      content_type: ''
-  - song_name: マヨヒガノモリ feat.3L
-    song_alias:
-    esong_code: 3385B28
-    t_singer_master_id: '36337'
-    singer_name: SOUND HOLIC
-    singer_alias:
-    available_date: '2015-01-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方妖々夢 〜Perfect Cherry Blossom.<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: まよひかのもり
-    singer_name_ruby: さうんとほりつく
-    song_variation:
-    - esong_code: 3385B28
-      song_name: マヨヒガノモリ feat.3L
-      content_type: 東方
-  - song_name: Marionette
-    song_alias:
-    esong_code: 3386B18
-    t_singer_master_id: '48022'
-    singer_name: Mary's Blood
-    singer_alias:
-    available_date: '2015-01-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まりおねつと
-    singer_name_ruby: めありすふらつと
-    song_variation:
-    - esong_code: 3386B18
-      song_name: Marionette
-      content_type: ''
   - song_name: まるで・ピーチ・ジンジャーエール
     song_alias:
     esong_code: 3379A6
@@ -332,23 +281,6 @@ result:
       content_type: ''
   - song_name: 未来が目にしみる
     song_alias:
-    esong_code: 3383A25
-    t_singer_master_id: '25255'
-    singer_name: AKB48
-    singer_alias:
-    available_date: '2015-01-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: みらいかめにしみる
-    singer_name_ruby: えけひふおていえいと
-    song_variation:
-    - esong_code: 3383A25
-      song_name: 未来が目にしみる
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 未来が目にしみる
-    song_alias:
     esong_code: 3385B39
     t_singer_master_id: '52408'
     singer_name: AKB48 Team SURPRISE
@@ -364,23 +296,23 @@ result:
     - esong_code: 3385B39
       song_name: 未来が目にしみる
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 未来少女たち (Version 2)
+  - song_name: 未来が目にしみる
     song_alias:
-    esong_code: 3384B39
-    t_singer_master_id: '52483'
-    singer_name: 伊藤 美来&三澤 紗千香&吉岡 麻耶
+    esong_code: 3383A25
+    t_singer_master_id: '25255'
+    singer_name: AKB48
     singer_alias:
-    available_date: '2015-01-20'
+    available_date: '2015-01-18'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 普通の女子校生が【ろこどる】やってみた。<番組名>
+    tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: みらいしようしよた
-    singer_name_ruby: いとうみくみさわさちかよし
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: みらいかめにしみる
+    singer_name_ruby: えけひふおていえいと
     song_variation:
-    - esong_code: 3384B39
-      song_name: 未来少女たち (Version 2)
-      content_type: ''
+    - esong_code: 3383A25
+      song_name: 未来が目にしみる
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 未来少女たち (Version 3)
     song_alias:
     esong_code: 3387B31
@@ -397,6 +329,23 @@ result:
     song_variation:
     - esong_code: 3387B31
       song_name: 未来少女たち (Version 3)
+      content_type: ''
+  - song_name: 未来少女たち (Version 2)
+    song_alias:
+    esong_code: 3384B39
+    t_singer_master_id: '52483'
+    singer_name: 伊藤 美来&三澤 紗千香&吉岡 麻耶
+    singer_alias:
+    available_date: '2015-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 普通の女子校生が【ろこどる】やってみた。<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: みらいしようしよた
+    singer_name_ruby: いとうみくみさわさちかよし
+    song_variation:
+    - esong_code: 3384B39
+      song_name: 未来少女たち (Version 2)
       content_type: ''
   - song_name: Me:Light
     song_alias:
@@ -517,3 +466,54 @@ result:
     - esong_code: 3382A31
       song_name: 無窮なり趣味者集団
       content_type: ''
+  - song_name: 夢幻のカタルシス feat.aki
+    song_alias:
+    esong_code: 3381A48
+    t_singer_master_id: '36337'
+    singer_name: SOUND HOLIC
+    singer_alias:
+    available_date: '2015-01-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方夢時空 〜Phantasmagoria of Dim.Dream.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: むけんのかたるしす
+    singer_name_ruby: さうんとほりつく
+    song_variation:
+    - esong_code: 3381A48
+      song_name: 夢幻のカタルシス feat.aki
+      content_type: 東方
+  - song_name: 無錫旅情
+    song_alias:
+    esong_code: 1513B17
+    t_singer_master_id: '416'
+    singer_name: 尾形 大作
+    singer_alias:
+    available_date: '2015-01-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: むしやくりよしよう
+    singer_name_ruby: おかたたいさく
+    song_variation:
+    - esong_code: 1513B17
+      song_name: 無錫旅情
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 夢想遊戯 feat.雨天決行
+    song_alias:
+    esong_code: 3379A32
+    t_singer_master_id: '44673'
+    singer_name: 魂音泉
+    singer_alias:
+    available_date: '2015-01-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方星蓮船 〜Undefined Fantastic Object.<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: むそうゆうき
+    singer_name_ruby: たまおんせん
+    song_variation:
+    - esong_code: 3379A32
+      song_name: 夢想遊戯 feat.雨天決行
+      content_type: 東方

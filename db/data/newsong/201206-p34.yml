@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1302
-  all_max_cnt: 1468
-  all_country_cnt: 1302
+  max_cnt: 1299
+  all_max_cnt: 1466
+  all_country_cnt: 1299
   song:
-  - song_name: ふり向けば幾年
-    song_alias:
-    esong_code: 2433B17
-    t_singer_master_id: '7410'
-    singer_name: 奈良崎 正明
-    singer_alias:
-    available_date: '2012-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりむけはいくとせ
-    singer_name_ruby: ならさきまさあき
-    song_variation:
-    - esong_code: 2433B17
-      song_name: ふり向けば幾年
-      content_type: ''
-  - song_name: Brilliant Days
-    song_alias:
-    esong_code: 2810B3
-    t_singer_master_id: '19479'
-    singer_name: 喜多村 英梨
-    singer_alias:
-    available_date: '2012-06-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: パパのいうことを聞きなさい!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりりあんとてい
-    singer_name_ruby: きたむらえり
-    song_variation:
-    - esong_code: 2810B3
-      song_name: Brilliant Days
-      content_type: ''
   - song_name: 古い時計台の歌
     song_alias:
     esong_code: 2803B40
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2810B8
       song_name: 僕が悪かった
+      content_type: ''
+  - song_name: 僕と花
+    song_alias:
+    esong_code: 2808B24
+    t_singer_master_id: '31003'
+    singer_name: サカナクション
+    singer_alias:
+    available_date: '2012-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ほくとはな
+    singer_name_ruby: さかなくしよん
+    song_variation:
+    - esong_code: 2808B24
+      song_name: 僕と花
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ボクにインビテーション
+    song_alias:
+    esong_code: 2663B37
+    t_singer_master_id: '40910'
+    singer_name: JP
+    singer_alias:
+    available_date: '2012-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: しろくまカフェ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくにいんひて
+    singer_name_ruby: しえいひ
+    song_variation:
+    - esong_code: 2663B37
+      song_name: ボクにインビテーション
       content_type: ''

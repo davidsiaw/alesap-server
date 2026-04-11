@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1328
-  all_max_cnt: 1485
-  all_country_cnt: 1328
+  max_cnt: 1315
+  all_max_cnt: 1472
+  all_country_cnt: 1315
   song:
-  - song_name: 蜘蛛の糸
-    song_alias:
-    esong_code: 4010A12
-    t_singer_master_id: '26950'
-    singer_name: 長澤 知之
-    singer_alias:
-    available_date: '2018-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くものいと
-    singer_name_ruby: なかさわともゆき
-    song_variation:
-    - esong_code: 4010A12
-      song_name: 蜘蛛の糸
-      content_type: ''
   - song_name: 曇まぼろし
     song_alias:
     esong_code: 4004A41
@@ -168,7 +151,7 @@ result:
     singer_alias:
     available_date: '2018-06-05'
     end_date: '2999-04-10 00:00:00'
-    tie_up: カードキャプターさくら クリアカード編<番組名>
+    tie_up: カードキャプターさくら<番組名>
     country_code: '0'
     content_type: DAM生音
     song_name_ruby: くりあ
@@ -215,7 +198,7 @@ result:
     song_alias:
     esong_code: 4009A30
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2018-06-19'
     end_date: '2999-04-10 00:00:00'
@@ -485,6 +468,23 @@ result:
       content_type: ''
   - song_name: 恋と愛
     song_alias:
+    esong_code: 4003B15
+    t_singer_master_id: '41096'
+    singer_name: 三代目 J Soul Brothers from EXILE TRIBE
+    singer_alias:
+    available_date: '2018-06-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいとあい
+    singer_name_ruby: さんたいめしえいそうるふらさす
+    song_variation:
+    - esong_code: 4003B15
+      song_name: 恋と愛
+      content_type: ''
+  - song_name: 恋と愛
+    song_alias:
     esong_code: 4007B32
     t_singer_master_id: '41096'
     singer_name: 三代目 J Soul Brothers from EXILE TRIBE
@@ -500,20 +500,20 @@ result:
     - esong_code: 4007B32
       song_name: 恋と愛
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 恋と愛
+  - song_name: 鯉、鳴く
     song_alias:
-    esong_code: 4003B15
-    t_singer_master_id: '41096'
-    singer_name: 三代目 J Soul Brothers from EXILE TRIBE
+    esong_code: 4004B23
+    t_singer_master_id: '58829'
+    singer_name: バンドハラスメント
     singer_alias:
-    available_date: '2018-06-06'
+    available_date: '2018-06-07'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: こいとあい
-    singer_name_ruby: さんたいめしえいそうるふらさす
+    song_name_ruby: こいなく
+    singer_name_ruby: はんとはらすめんと
     song_variation:
-    - esong_code: 4003B15
-      song_name: 恋と愛
+    - esong_code: 4004B23
+      song_name: 鯉、鳴く
       content_type: ''

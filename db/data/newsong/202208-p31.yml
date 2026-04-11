@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1255
-  all_country_cnt: 1064
+  max_cnt: 1057
+  all_max_cnt: 1248
+  all_country_cnt: 1057
   song:
-  - song_name: メカクシンデレラ feat.初音ミク、鏡音リン、巡音ルカ、MEIKO
-    song_alias:
-    esong_code: 4670A18
-    t_singer_master_id: '50118'
-    singer_name: ねじ式
-    singer_alias:
-    available_date: '2022-08-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: めかくしんてれら
-    singer_name_ruby: ねししき
-    song_variation:
-    - esong_code: 4670A18
-      song_name: メカクシンデレラ feat.初音ミク、鏡音リン、巡音ルカ、MEIKO
-      content_type: VOCALOID
-  - song_name: メジロ讃歌
-    song_alias:
-    esong_code: 4671B2
-    t_singer_master_id: '70149'
-    singer_name: 大西沙織&土師亜文&久保田ひかり&のぐちゆり...他2名
-    singer_alias:
-    available_date: '2022-08-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ウマ娘 プリティーダービー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: めしろさんか
-    singer_name_ruby: おおにしさおりはしあふみくほ
-    song_variation:
-    - esong_code: 4671B2
-      song_name: メジロ讃歌
-      content_type: ''
-  - song_name: Message
-    song_alias:
-    esong_code: 4677B30
-    t_singer_master_id: '68433'
-    singer_name: BE:FIRST
-    singer_alias:
-    available_date: '2022-08-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めつせし
-    singer_name_ruby: ひふあすと
-    song_variation:
-    - esong_code: 4677B30
-      song_name: Message
-      content_type: ''
-  - song_name: Memory of Sunset
-    song_alias:
-    esong_code: 4670A45
-    t_singer_master_id: '63383'
-    singer_name: 高野 洸(AKIRA TAKANO)
-    singer_alias:
-    available_date: '2022-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めもりおふさんせ
-    singer_name_ruby: たかのあきら
-    song_variation:
-    - esong_code: 4670A45
-      song_name: Memory of Sunset
-      content_type: ''
   - song_name: MEMORIES
     song_alias:
     esong_code: 4677B47
@@ -91,23 +23,6 @@ result:
     song_variation:
     - esong_code: 4677B47
       song_name: MEMORIES
-      content_type: ''
-  - song_name: Memories
-    song_alias:
-    esong_code: 4668A30
-    t_singer_master_id: '36108'
-    singer_name: 遊助
-    singer_alias:
-    available_date: '2022-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めもりす
-    singer_name_ruby: ゆうすけ
-    song_variation:
-    - esong_code: 4668A30
-      song_name: Memories
       content_type: ''
   - song_name: Mary
     song_alias:
@@ -400,23 +315,6 @@ result:
       content_type: ''
   - song_name: 優しさに溢れた世界で
     song_alias:
-    esong_code: 4662B24
-    t_singer_master_id: '59065'
-    singer_name: Saucy Dog
-    singer_alias:
-    available_date: '2022-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: やさしさにあふれたせ
-    singer_name_ruby: さうしとつく
-    song_variation:
-    - esong_code: 4662B24
-      song_name: 優しさに溢れた世界で
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 優しさに溢れた世界で
-    song_alias:
     esong_code: 4672B4
     t_singer_master_id: '59065'
     singer_name: Saucy Dog
@@ -432,6 +330,23 @@ result:
     - esong_code: 4672B4
       song_name: 優しさに溢れた世界で
       content_type: DAM生音
+  - song_name: 優しさに溢れた世界で
+    song_alias:
+    esong_code: 4662B24
+    t_singer_master_id: '59065'
+    singer_name: Saucy Dog
+    singer_alias:
+    available_date: '2022-08-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: やさしさにあふれたせ
+    singer_name_ruby: さうしとつく
+    song_variation:
+    - esong_code: 4662B24
+      song_name: 優しさに溢れた世界で
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: やさしさに包まれたなら
     song_alias:
     esong_code: 4665B18
@@ -517,3 +432,88 @@ result:
     - esong_code: 4670A44
       song_name: Your Own Way
       content_type: ''
+  - song_name: You Are Nobody feat.ひかり
+    song_alias:
+    esong_code: 4677B12
+    t_singer_master_id: '70234'
+    singer_name: Tokimeki Records
+    singer_alias:
+    available_date: '2022-08-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆあのはて
+    singer_name_ruby: ときめきれこす
+    song_variation:
+    - esong_code: 4677B12
+      song_name: You Are Nobody feat.ひかり
+      content_type: ''
+  - song_name: You Are My Best
+    song_alias:
+    esong_code: 4668B49
+    t_singer_master_id: '1928'
+    singer_name: B'z
+    singer_alias:
+    available_date: '2022-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆあまいへすと
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 4668B49
+      song_name: You Are My Best
+      content_type: ''
+  - song_name: 憂愁海峡 「名演ギター 斉藤 功」
+    song_alias:
+    esong_code: 4583A28
+    t_singer_master_id: '6239'
+    singer_name: 岩本 公水
+    singer_alias:
+    available_date: '2022-08-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうしゆうかいきよう
+    singer_name_ruby: いわもとくみ
+    song_variation:
+    - esong_code: 4583A28
+      song_name: 憂愁海峡 「名演ギター 斉藤 功」
+      content_type: ''
+  - song_name: 夕だち
+    song_alias:
+    esong_code: 4669A45
+    t_singer_master_id: '14047'
+    singer_name: CRAZY KEN BAND
+    singer_alias:
+    available_date: '2022-08-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆうたち
+    singer_name_ruby: くれいしけんはんと
+    song_variation:
+    - esong_code: 4669A45
+      song_name: 夕だち
+      content_type: ''
+  - song_name: 誘惑のスキャンダル
+    song_alias:
+    esong_code: 4672A27
+    t_singer_master_id: '10799'
+    singer_name: 瀬口 侑希
+    singer_alias:
+    available_date: '2022-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ゆうわくのすきやんた
+    singer_name_ruby: せくちゆうき
+    song_variation:
+    - esong_code: 4672A27
+      song_name: 誘惑のスキャンダル
+      content_type: JOYﾎﾞｰｶﾙ

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
+  - song_name: 拝啓、薔薇色な日々よ
+    song_alias:
+    esong_code: 2553A31
+    t_singer_master_id: '40077'
+    singer_name: R指定
+    singer_alias:
+    available_date: '2010-06-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はいけいはらいろな
+    singer_name_ruby: あるしてい
+    song_variation:
+    - esong_code: 2553A31
+      song_name: 拝啓、薔薇色な日々よ
+      content_type: ''
   - song_name: ハイパーベンチレイション
     song_alias:
     esong_code: 2374A44
@@ -145,23 +162,6 @@ result:
       content_type: ''
   - song_name: はぐれ雲
     song_alias:
-    esong_code: 2542A47
-    t_singer_master_id: '11044'
-    singer_name: 永井 裕子
-    singer_alias:
-    available_date: '2010-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はくれくも
-    singer_name_ruby: なかいゆうこ
-    song_variation:
-    - esong_code: 2542A47
-      song_name: はぐれ雲
-      content_type: ''
-  - song_name: はぐれ雲
-    song_alias:
     esong_code: 2550A43
     t_singer_master_id: '11044'
     singer_name: 永井 裕子
@@ -177,6 +177,23 @@ result:
     - esong_code: 2550A43
       song_name: はぐれ雲
       content_type: DAM生音
+  - song_name: はぐれ雲
+    song_alias:
+    esong_code: 2542A47
+    t_singer_master_id: '11044'
+    singer_name: 永井 裕子
+    singer_alias:
+    available_date: '2010-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はくれくも
+    singer_name_ruby: なかいゆうこ
+    song_variation:
+    - esong_code: 2542A47
+      song_name: はぐれ雲
+      content_type: ''
   - song_name: 流恋草 (夏木ゆたか歌謡劇場)
     song_alias:
     esong_code: 2566B31
@@ -298,23 +315,6 @@ result:
       content_type: VOCALOID
   - song_name: 裸の太陽
     song_alias:
-    esong_code: 2546A11
-    t_singer_master_id: '2525'
-    singer_name: ユニコーン
-    singer_alias:
-    available_date: '2010-06-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はたかのたいよう
-    singer_name_ruby: ゆにこん
-    song_variation:
-    - esong_code: 2546A11
-      song_name: 裸の太陽
-      content_type: ''
-  - song_name: 裸の太陽
-    song_alias:
     esong_code: 2567B40
     t_singer_master_id: '2525'
     singer_name: ユニコーン
@@ -330,6 +330,23 @@ result:
     - esong_code: 2567B40
       song_name: 裸の太陽
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 裸の太陽
+    song_alias:
+    esong_code: 2546A11
+    t_singer_master_id: '2525'
+    singer_name: ユニコーン
+    singer_alias:
+    available_date: '2010-06-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はたかのたいよう
+    singer_name_ruby: ゆにこん
+    song_variation:
+    - esong_code: 2546A11
+      song_name: 裸の太陽
+      content_type: ''
   - song_name: はたふってパレード
     song_alias:
     esong_code: 2550A32
@@ -338,7 +355,7 @@ result:
     singer_alias:
     available_date: '2010-06-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア World Series<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はたふつてはれと
@@ -500,20 +517,3 @@ result:
     - esong_code: 2569A4
       song_name: ハートキャッチ☆パラダイス!
       content_type: JOYうたいり
-  - song_name: Hard to say I love you〜言い出せなくて〜
-    song_alias:
-    esong_code: 2567B43
-    t_singer_master_id: '37886'
-    singer_name: WEAVER
-    singer_alias:
-    available_date: '2010-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: はととうせいあい
-    singer_name_ruby: ういは
-    song_variation:
-    - esong_code: 2567B43
-      song_name: Hard to say I love you〜言い出せなくて〜
-      content_type: JOYﾎﾞｰｶﾙ

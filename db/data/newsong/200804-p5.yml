@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
   - song_name: EXIT (PERFECT YEAR 2008 Version)
     song_alias:
@@ -366,23 +366,6 @@ result:
       content_type: ''
   - song_name: 置き手紙
     song_alias:
-    esong_code: 1977B43
-    t_singer_master_id: '2114'
-    singer_name: 堀内 孝雄
-    singer_alias:
-    available_date: '2008-04-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おきてかみ
-    singer_name_ruby: ほりうちたかお
-    song_variation:
-    - esong_code: 1977B43
-      song_name: 置き手紙
-      content_type: ''
-  - song_name: 置き手紙
-    song_alias:
     esong_code: 1978B16
     t_singer_master_id: '13864'
     singer_name: 藤本 美貴
@@ -415,22 +398,22 @@ result:
     - esong_code: 1987A8
       song_name: 置き手紙
       content_type: DAM生音
-  - song_name: お駒恋姿
+  - song_name: 置き手紙
     song_alias:
-    esong_code: 1997B30
-    t_singer_master_id: '1082'
-    singer_name: 東海林 太郎
+    esong_code: 1977B43
+    t_singer_master_id: '2114'
+    singer_name: 堀内 孝雄
     singer_alias:
-    available_date: '2008-04-29'
+    available_date: '2008-04-23'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: おこまこいすかた
-    singer_name_ruby: しようしたろう
+    song_name_ruby: おきてかみ
+    singer_name_ruby: ほりうちたかお
     song_variation:
-    - esong_code: 1997B30
-      song_name: お駒恋姿
+    - esong_code: 1977B43
+      song_name: 置き手紙
       content_type: ''
   - song_name: お駒恋姿
     song_alias:
@@ -447,6 +430,23 @@ result:
     singer_name_ruby: はしゆきお
     song_variation:
     - esong_code: 1997B46
+      song_name: お駒恋姿
+      content_type: ''
+  - song_name: お駒恋姿
+    song_alias:
+    esong_code: 1997B30
+    t_singer_master_id: '1082'
+    singer_name: 東海林 太郎
+    singer_alias:
+    available_date: '2008-04-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おこまこいすかた
+    singer_name_ruby: しようしたろう
+    song_variation:
+    - esong_code: 1997B30
       song_name: お駒恋姿
       content_type: ''
   - song_name: お酒がしみる

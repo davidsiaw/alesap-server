@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 872
-  all_max_cnt: 940
-  all_country_cnt: 872
+  max_cnt: 855
+  all_max_cnt: 923
+  all_country_cnt: 855
   song:
-  - song_name: energy
-    song_alias:
-    esong_code: 4486B12
-    t_singer_master_id: '53346'
-    singer_name: M!LK
-    singer_alias:
-    available_date: '2021-03-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えなし
-    singer_name_ruby: みるく
-    song_variation:
-    - esong_code: 4486B12
-      song_name: energy
-      content_type: ''
-  - song_name: えにし花
-    song_alias:
-    esong_code: 4402A1
-    t_singer_master_id: '52995'
-    singer_name: あすか みさこ(飛鳥みさ子)
-    singer_alias:
-    available_date: '2021-03-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えにしはな
-    singer_name_ruby: あすかみさこ
-    song_variation:
-    - esong_code: 4402A1
-      song_name: えにし花
-      content_type: ''
-  - song_name: EVANESCENT
-    song_alias:
-    esong_code: 4482B7
-    t_singer_master_id: '32344'
-    singer_name: VAMPS
-    singer_alias:
-    available_date: '2021-03-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾗｲｳﾞ
-    song_name_ruby: えはねせんと
-    singer_name_ruby: はんふす
-    song_variation:
-    - esong_code: 4482B7
-      song_name: EVANESCENT
-      content_type: JOYﾗｲｳﾞ
   - song_name: everybody say xxx
     song_alias:
     esong_code: 4473B33
@@ -92,23 +41,6 @@ result:
     - esong_code: 4484B24
       song_name: ERROR
       content_type: ''
-  - song_name: ANGEL TRIP
-    song_alias:
-    esong_code: 4482B8
-    t_singer_master_id: '32344'
-    singer_name: VAMPS
-    singer_alias:
-    available_date: '2021-03-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾗｲｳﾞ
-    song_name_ruby: えんしえるとりつふ
-    singer_name_ruby: はんふす
-    song_variation:
-    - esong_code: 4482B8
-      song_name: ANGEL TRIP
-      content_type: JOYﾗｲｳﾞ
   - song_name: エンドゲーム
     song_alias:
     esong_code: 4484B29
@@ -159,23 +91,6 @@ result:
     song_variation:
     - esong_code: 4484A32
       song_name: endless journey
-      content_type: ''
-  - song_name: ENDLESS-PUNCHLINE
-    song_alias:
-    esong_code: 4483A44
-    t_singer_master_id: '67653'
-    singer_name: Card Jockey
-    singer_alias:
-    available_date: '2021-03-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: WIXOSS DIVA(A)LIVE<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えんとれすはんち
-    singer_name_ruby: かとしよつき
-    song_variation:
-    - esong_code: 4483A44
-      song_name: ENDLESS-PUNCHLINE
       content_type: ''
   - song_name: エンドロール
     song_alias:
@@ -247,23 +162,6 @@ result:
       content_type: ''
   - song_name: 追い風
     song_alias:
-    esong_code: 4480A38
-    t_singer_master_id: '52163'
-    singer_name: SHE'S
-    singer_alias:
-    available_date: '2021-03-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: おいかせ
-    singer_name_ruby: しす
-    song_variation:
-    - esong_code: 4480A38
-      song_name: 追い風
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 追い風
-    song_alias:
     esong_code: 4482B13
     t_singer_master_id: '52163'
     singer_name: SHE'S
@@ -279,6 +177,23 @@ result:
     - esong_code: 4482B13
       song_name: 追い風
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 追い風
+    song_alias:
+    esong_code: 4480A38
+    t_singer_master_id: '52163'
+    singer_name: SHE'S
+    singer_alias:
+    available_date: '2021-03-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: おいかせ
+    singer_name_ruby: しす
+    song_variation:
+    - esong_code: 4480A38
+      song_name: 追い風
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: オオゴト
     song_alias:
     esong_code: 4480A21
@@ -516,4 +431,89 @@ result:
     song_variation:
     - esong_code: 4484B20
       song_name: 女郎花-おみなえし-
+      content_type: ''
+  - song_name: 思い出にする前に
+    song_alias:
+    esong_code: 4405B35
+    t_singer_master_id: '28274'
+    singer_name: まつざき 幸介(松崎英樹)
+    singer_alias:
+    available_date: '2021-03-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいてにするまえ
+    singer_name_ruby: まつさきこうすけ
+    song_variation:
+    - esong_code: 4405B35
+      song_name: 思い出にする前に
+      content_type: ''
+  - song_name: 想イ、フワリ
+    song_alias:
+    esong_code: 4484B44
+    t_singer_master_id: '50453'
+    singer_name: WEST.
+    singer_alias:
+    available_date: '2021-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいふわり
+    singer_name_ruby: うえすと
+    song_variation:
+    - esong_code: 4484B44
+      song_name: 想イ、フワリ
+      content_type: ''
+  - song_name: 想い 〜我が子へ〜
+    song_alias:
+    esong_code: 4482A13
+    t_singer_master_id: '43944'
+    singer_name: 村上 五郎
+    singer_alias:
+    available_date: '2021-03-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おもいわかこへ
+    singer_name_ruby: むらかみころう
+    song_variation:
+    - esong_code: 4482A13
+      song_name: 想い 〜我が子へ〜
+      content_type: ''
+  - song_name: 親父
+    song_alias:
+    esong_code: 4266A19
+    t_singer_master_id: '47192'
+    singer_name: 辻 千世
+    singer_alias:
+    available_date: '2021-03-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやし
+    singer_name_ruby: つしちよ
+    song_variation:
+    - esong_code: 4266A19
+      song_name: 親父
+      content_type: ''
+  - song_name: おやすみなさん!
+    song_alias:
+    esong_code: 4486B46
+    t_singer_master_id: '47703'
+    singer_name: 高槻 かなこ
+    singer_alias:
+    available_date: '2021-03-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ラブライブ!サンシャイン!!(第2期)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやすみなさん
+    singer_name_ruby: たかつきかなこ
+    song_variation:
+    - esong_code: 4486B46
+      song_name: おやすみなさん!
       content_type: ''

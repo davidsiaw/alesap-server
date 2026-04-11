@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1284
-  all_max_cnt: 1473
-  all_country_cnt: 1284
+  max_cnt: 1277
+  all_max_cnt: 1466
+  all_country_cnt: 1277
   song:
-  - song_name: 青春譜
-    song_alias:
-    esong_code: 3766A13
-    t_singer_master_id: '10342'
-    singer_name: 合唱
-    singer_alias:
-    available_date: '2017-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せいしゆんふ
-    singer_name_ruby: かつしよう
-    song_variation:
-    - esong_code: 3766A13
-      song_name: 青春譜
-      content_type: ''
-  - song_name: 青春フォトグラフ (Ballad ver.)
-    song_alias:
-    esong_code: 3759B34
-    t_singer_master_id: '50396'
-    singer_name: Little Glee Monster
-    singer_alias:
-    available_date: '2017-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せいしゆんふおとく
-    singer_name_ruby: りとるくりもんすた
-    song_variation:
-    - esong_code: 3759B34
-      song_name: 青春フォトグラフ (Ballad ver.)
-      content_type: ''
   - song_name: 精神崩壊シンドローム
     song_alias:
     esong_code: 3759A47
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3770A28
       song_name: S×W -soul world-
+      content_type: ''
+  - song_name: そして・・生きなさい
+    song_alias:
+    esong_code: 3194A2
+    t_singer_master_id: '2524'
+    singer_name: 由紀 さおり
+    singer_alias:
+    available_date: '2017-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 鬼平<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: そしていきなさい
+    singer_name_ruby: ゆきさおり
+    song_variation:
+    - esong_code: 3194A2
+      song_name: そして・・生きなさい
+      content_type: ''
+  - song_name: ソードアート・オンラインメドレー
+    song_alias:
+    esong_code: 3766A46
+    t_singer_master_id: '24121'
+    singer_name: アニメメドレー
+    singer_alias:
+    available_date: '2017-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ソードアート・オンライン<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: そとあとおんら
+    singer_name_ruby: あにめめとれ
+    song_variation:
+    - esong_code: 3766A46
+      song_name: ソードアート・オンラインメドレー
       content_type: ''

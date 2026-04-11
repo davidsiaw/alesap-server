@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
   - song_name: WARRIOR
     song_alias:
@@ -134,7 +134,7 @@ result:
     singer_alias:
     available_date: '2011-11-16'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA3 宴<番組名>
+    tie_up: 戦国BASARA<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: うたけ
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: Ooo Baby
     song_alias:
-    esong_code: 2715B23
-    t_singer_master_id: '18590'
-    singer_name: EXILE ATSUSHI
-    singer_alias:
-    available_date: '2011-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: うへいひ
-    singer_name_ruby: えくさいるあつし
-    song_variation:
-    - esong_code: 2715B23
-      song_name: Ooo Baby
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: Ooo Baby
-    song_alias:
     esong_code: 2702A10
     t_singer_master_id: '18590'
     singer_name: EXILE ATSUSHI
@@ -279,6 +262,23 @@ result:
     - esong_code: 2702A10
       song_name: Ooo Baby
       content_type: ''
+  - song_name: Ooo Baby
+    song_alias:
+    esong_code: 2715B23
+    t_singer_master_id: '18590'
+    singer_name: EXILE ATSUSHI
+    singer_alias:
+    available_date: '2011-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: うへいひ
+    singer_name_ruby: えくさいるあつし
+    song_variation:
+    - esong_code: 2715B23
+      song_name: Ooo Baby
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 海鳴りよ
     song_alias:
     esong_code: 2716A22
@@ -349,23 +349,6 @@ result:
       content_type: ''
   - song_name: Ultra Lover
     song_alias:
-    esong_code: 2698A38
-    t_singer_master_id: '41227'
-    singer_name: 2PM
-    singer_alias:
-    available_date: '2011-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うるとららは
-    singer_name_ruby: とうひえむ
-    song_variation:
-    - esong_code: 2698A38
-      song_name: Ultra Lover
-      content_type: ''
-  - song_name: Ultra Lover
-    song_alias:
     esong_code: 2705A2
     t_singer_master_id: '41227'
     singer_name: 2PM
@@ -381,6 +364,23 @@ result:
     - esong_code: 2705A2
       song_name: Ultra Lover
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: Ultra Lover
+    song_alias:
+    esong_code: 2698A38
+    t_singer_master_id: '41227'
+    singer_name: 2PM
+    singer_alias:
+    available_date: '2011-11-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うるとららは
+    singer_name_ruby: とうひえむ
+    song_variation:
+    - esong_code: 2698A38
+      song_name: Ultra Lover
+      content_type: ''
   - song_name: 嬉野は恋の湯の町情け町
     song_alias:
     esong_code: 2707B30

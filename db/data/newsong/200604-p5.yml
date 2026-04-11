@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: 永良部の子守唄 -Where is Your Memmy?-いったー.....
-    song_alias:
-    esong_code: 1493B40
-    t_singer_master_id: '22958'
-    singer_name: 大山 百合香
-    singer_alias:
-    available_date: '2006-04-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えらふのこもりうた
-    singer_name_ruby: おおやまゆりか
-    song_variation:
-    - esong_code: 1493B40
-      song_name: 永良部の子守唄 -Where is Your Memmy?-いったー.....
-      content_type: ''
   - song_name: ELLEGARDENメドレー
     song_alias:
     esong_code: 1490A41
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 479A44
       song_name: Over the rain, Over the pain
+      content_type: ''
+  - song_name: Oh! Hardest night
+    song_alias:
+    esong_code: 1490B32
+    t_singer_master_id: '2651'
+    singer_name: 渡辺 美里
+    singer_alias:
+    available_date: '2006-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おはていすとな
+    singer_name_ruby: わたなへみさと
+    song_variation:
+    - esong_code: 1490B32
+      song_name: Oh! Hardest night
       content_type: ''

@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
+  - song_name: 恋
+    song_alias:
+    esong_code: 2193A3
+    t_singer_master_id: '1658'
+    singer_name: 中森 明菜
+    singer_alias:
+    available_date: '2009-01-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こい
+    singer_name_ruby: なかもりあきな
+    song_variation:
+    - esong_code: 2193A3
+      song_name: 恋
+      content_type: ''
   - song_name: 恋灯かり
     song_alias:
     esong_code: 2198A4
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2196A10
       song_name: 言葉
-      content_type: ''
-  - song_name: co・no・mi・chi
-    song_alias:
-    esong_code: 2199B33
-    t_singer_master_id: '31357'
-    singer_name: Buono!
-    singer_alias:
-    available_date: '2009-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: しゅごキャラ!!どきっ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: このみち
-    singer_name_ruby: ほの
-    song_variation:
-    - esong_code: 2199B33
-      song_name: co・no・mi・chi
       content_type: ''

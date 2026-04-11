@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 973
-  all_max_cnt: 1055
-  all_country_cnt: 973
+  max_cnt: 965
+  all_max_cnt: 1047
+  all_country_cnt: 965
   song:
-  - song_name: '"I"'
-    song_alias:
-    esong_code: 2425B43
-    t_singer_master_id: '34904'
-    singer_name: 古川 雄大
-    singer_alias:
-    available_date: '2009-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あい
-    singer_name_ruby: ふるかわゆうた
-    song_variation:
-    - esong_code: 2425B43
-      song_name: '"I"'
-      content_type: ''
   - song_name: i (REM@STER-A)
     song_alias:
     esong_code: 2430A43
@@ -40,6 +23,23 @@ result:
     song_variation:
     - esong_code: 2430A43
       song_name: i (REM@STER-A)
+      content_type: ''
+  - song_name: '"I"'
+    song_alias:
+    esong_code: 2425B43
+    t_singer_master_id: '34904'
+    singer_name: 古川 雄大
+    singer_alias:
+    available_date: '2009-11-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あい
+    singer_name_ruby: ふるかわゆうた
+    song_variation:
+    - esong_code: 2425B43
+      song_name: '"I"'
       content_type: ''
   - song_name: I WILL
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 2417A23
       song_name: アイタリナイ
       content_type: ''
-  - song_name: THE IDOLM@STER (M@STER VERSION -REMIX-)
-    song_alias:
-    esong_code: 2414B37
-    t_singer_master_id: '37963'
-    singer_name: 中村繪里子&今井麻美&落合祐里香&仁後真耶子 他
-    singer_alias:
-    available_date: '2009-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: THE IDOLM@STER<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいとるますた
-    singer_name_ruby: なかむらえりこいまいあさみお
-    song_variation:
-    - esong_code: 2414B37
-      song_name: THE IDOLM@STER (M@STER VERSION -REMIX-)
-      content_type: ''
   - song_name: THE IDOLM@STER
     song_alias:
     esong_code: 2430B36
@@ -261,6 +244,23 @@ result:
     song_variation:
     - esong_code: 2430B36
       song_name: THE IDOLM@STER
+      content_type: ''
+  - song_name: THE IDOLM@STER (M@STER VERSION -REMIX-)
+    song_alias:
+    esong_code: 2414B37
+    t_singer_master_id: '37963'
+    singer_name: 中村繪里子&今井麻美&落合祐里香&仁後真耶子 他
+    singer_alias:
+    available_date: '2009-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: THE IDOLM@STER<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいとるますた
+    singer_name_ruby: なかむらえりこいまいあさみお
+    song_variation:
+    - esong_code: 2414B37
+      song_name: THE IDOLM@STER (M@STER VERSION -REMIX-)
       content_type: ''
   - song_name: 愛のエトランゼ
     song_alias:
@@ -406,7 +406,7 @@ result:
     singer_alias:
     available_date: '2009-11-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双(ゲーム版)<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あおきててんにはし
@@ -500,20 +500,20 @@ result:
     - esong_code: 2423B17
       song_name: アカシアの娘
       content_type: ''
-  - song_name: 暁
+  - song_name: アカツキ
     song_alias:
-    esong_code: 2425B15
-    t_singer_master_id: '1457'
-    singer_name: CHAGE&ASKA
+    esong_code: 2425B24
+    t_singer_master_id: '33777'
+    singer_name: HI LOCKATION MARKETS
     singer_alias:
-    available_date: '2009-11-11'
+    available_date: '2009-11-10'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: あかつき
-    singer_name_ruby: ちやけあんとあすか
+    singer_name_ruby: はいろけしよんまけつつ
     song_variation:
-    - esong_code: 2425B15
-      song_name: 暁
+    - esong_code: 2425B24
+      song_name: アカツキ
       content_type: ''

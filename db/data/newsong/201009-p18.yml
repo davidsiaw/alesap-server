@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
   - song_name: So Beautiful
     song_alias:
@@ -332,6 +332,23 @@ result:
       content_type: ''
   - song_name: 龍飛崎
     song_alias:
+    esong_code: 2592B23
+    t_singer_master_id: '1673'
+    singer_name: 長保 有紀
+    singer_alias:
+    available_date: '2010-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たつひさき
+    singer_name_ruby: なかほゆき
+    song_variation:
+    - esong_code: 2592B23
+      song_name: 龍飛崎
+      content_type: ''
+  - song_name: 龍飛崎
+    song_alias:
     esong_code: 2592A19
     t_singer_master_id: '1673'
     singer_name: 長保 有紀
@@ -347,22 +364,22 @@ result:
     - esong_code: 2592A19
       song_name: 龍飛崎
       content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 龍飛崎
+  - song_name: たねまきマギー
     song_alias:
-    esong_code: 2592B23
-    t_singer_master_id: '1673'
-    singer_name: 長保 有紀
+    esong_code: 2574B19
+    t_singer_master_id: '34857'
+    singer_name: さくら まや
     singer_alias:
-    available_date: '2010-09-01'
+    available_date: '2010-09-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: はしれ!わくわくアンパンマングランプリ<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: たつひさき
-    singer_name_ruby: なかほゆき
+    song_name_ruby: たねまきまき
+    singer_name_ruby: さくらまや
     song_variation:
-    - esong_code: 2592B23
-      song_name: 龍飛崎
+    - esong_code: 2574B19
+      song_name: たねまきマギー
       content_type: ''
   - song_name: 楽しい夏休み
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2590B21
       song_name: 誰に会ってもウンゴーロ
-      content_type: ''
-  - song_name: Dancin'in the Secret
-    song_alias:
-    esong_code: 2600A33
-    t_singer_master_id: '17458'
-    singer_name: NEWS
-    singer_alias:
-    available_date: '2010-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たんしんいんさし
-    singer_name_ruby: にゆす
-    song_variation:
-    - esong_code: 2600A33
-      song_name: Dancin'in the Secret
       content_type: ''

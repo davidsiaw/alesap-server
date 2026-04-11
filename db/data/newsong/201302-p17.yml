@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
   - song_name: 奄美(しま)月夜
     song_alias:
@@ -75,23 +75,6 @@ result:
     - esong_code: 2983B27
       song_name: shiny steps!!
       content_type: ''
-  - song_name: Shining star
-    song_alias:
-    esong_code: 2991A40
-    t_singer_master_id: '44094'
-    singer_name: LinQ
-    singer_alias:
-    available_date: '2013-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやいにんくすた
-    singer_name_ruby: りんく
-    song_variation:
-    - esong_code: 2991A40
-      song_name: Shining star
-      content_type: ''
   - song_name: Shining Star-☆-LOVE Letter
     song_alias:
     esong_code: 2979A24
@@ -108,6 +91,23 @@ result:
     song_variation:
     - esong_code: 2979A24
       song_name: Shining Star-☆-LOVE Letter
+      content_type: ''
+  - song_name: Shining star
+    song_alias:
+    esong_code: 2991A40
+    t_singer_master_id: '44094'
+    singer_name: LinQ
+    singer_alias:
+    available_date: '2013-02-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやいにんくすた
+    singer_name_ruby: りんく
+    song_variation:
+    - esong_code: 2991A40
+      song_name: Shining star
       content_type: ''
   - song_name: Shine
     song_alias:

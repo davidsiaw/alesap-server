@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
-  - song_name: くるりメドレー
-    song_alias:
-    esong_code: 1427B1
-    t_singer_master_id: '8680'
-    singer_name: くるり
-    singer_alias:
-    available_date: '2006-01-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くるりめとれ
-    singer_name_ruby: くるり
-    song_variation:
-    - esong_code: 1427B1
-      song_name: くるりメドレー
-      content_type: ''
   - song_name: グレイスフル レイン
     song_alias:
     esong_code: 1438B23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1440A26
       song_name: Go!!
+      content_type: ''
+  - song_name: 恋 ('95 Style)
+    song_alias:
+    esong_code: 1444A39
+    t_singer_master_id: '1993'
+    singer_name: 福山 雅治
+    singer_alias:
+    available_date: '2006-01-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こい
+    singer_name_ruby: ふくやままさはる
+    song_variation:
+    - esong_code: 1444A39
+      song_name: 恋 ('95 Style)
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 684
-  all_max_cnt: 725
-  all_country_cnt: 684
+  max_cnt: 683
+  all_max_cnt: 724
+  all_country_cnt: 683
   song:
-  - song_name: 石川博之?〜モットーは文武両道〜
-    song_alias:
-    esong_code: 475A43
-    t_singer_master_id: '15197'
-    singer_name: キャップと瓶
-    singer_alias:
-    available_date: '2004-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テニスの王子様 オン・ザ・レイディオ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: いしかわひろゆき
-    singer_name_ruby: きやつふとひん
-    song_variation:
-    - esong_code: 475A43
-      song_name: 石川博之?〜モットーは文武両道〜
-      content_type: ''
   - song_name: 一葉記(いちようき)
     song_alias:
     esong_code: 867B8
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 895A47
       song_name: 浮気な午後の雨
+      content_type: ''
+  - song_name: 永遠の木
+    song_alias:
+    esong_code: 900B48
+    t_singer_master_id: '20212'
+    singer_name: BLUE AGE ORCESTRA
+    singer_alias:
+    available_date: '2004-07-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えいえんのき
+    singer_name_ruby: ふるえいしおけすとら
+    song_variation:
+    - esong_code: 900B48
+      song_name: 永遠の木
       content_type: ''

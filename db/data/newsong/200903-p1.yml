@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1229
-  all_max_cnt: 1353
-  all_country_cnt: 1229
+  max_cnt: 1223
+  all_max_cnt: 1347
+  all_country_cnt: 1223
   song:
   - song_name: アイヲクダサイ
     song_alias:
@@ -196,23 +196,6 @@ result:
       content_type: ''
   - song_name: あかり灯して
     song_alias:
-    esong_code: 2262B38
-    t_singer_master_id: '2168'
-    singer_name: 前川 清
-    singer_alias:
-    available_date: '2009-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あかりともして
-    singer_name_ruby: まえかわきよし
-    song_variation:
-    - esong_code: 2262B38
-      song_name: あかり灯して
-      content_type: DAM生音
-  - song_name: あかり灯して
-    song_alias:
     esong_code: 2255B26
     t_singer_master_id: '2168'
     singer_name: 前川 清
@@ -228,6 +211,23 @@ result:
     - esong_code: 2255B26
       song_name: あかり灯して
       content_type: ''
+  - song_name: あかり灯して
+    song_alias:
+    esong_code: 2262B38
+    t_singer_master_id: '2168'
+    singer_name: 前川 清
+    singer_alias:
+    available_date: '2009-03-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あかりともして
+    singer_name_ruby: まえかわきよし
+    song_variation:
+    - esong_code: 2262B38
+      song_name: あかり灯して
+      content_type: DAM生音
   - song_name: 安芸の宮島
     song_alias:
     esong_code: 2283A26
@@ -270,7 +270,7 @@ result:
     singer_alias:
     available_date: '2009-03-24'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あくあふる

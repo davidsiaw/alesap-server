@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1524
-  all_max_cnt: 1681
-  all_country_cnt: 1524
+  max_cnt: 1522
+  all_max_cnt: 1679
+  all_country_cnt: 1522
   song:
-  - song_name: 星屑に願いを
-    song_alias:
-    esong_code: 3012B2
-    t_singer_master_id: '409'
-    singer_name: 岡村 孝子
-    singer_alias:
-    available_date: '2013-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほしくすにねかい
-    singer_name_ruby: おかむらたかこ
-    song_variation:
-    - esong_code: 3012B2
-      song_name: 星屑に願いを
-      content_type: ''
-  - song_name: 星屑ノ桃源郷 feat.IA
-    song_alias:
-    esong_code: 3005B3
-    t_singer_master_id: '46817'
-    singer_name: 綿飴
-    singer_alias:
-    available_date: '2013-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ほしくすのていす
-    singer_name_ruby: わたあめ
-    song_variation:
-    - esong_code: 3005B3
-      song_name: 星屑ノ桃源郷 feat.IA
-      content_type: VOCALOID
   - song_name: 星空回線
     song_alias:
     esong_code: 3012B19
@@ -64,7 +30,7 @@ result:
     t_singer_master_id: '29747'
     singer_name: ひなた みな(日向みな)
     singer_alias:
-    available_date: '2013-03-19'
+    available_date: '2013-03-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -132,7 +98,7 @@ result:
     t_singer_master_id: '47134'
     singer_name: 黒木 渚
     singer_alias:
-    available_date: '2013-03-19'
+    available_date: '2013-03-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3014B1
       song_name: Mother Moon
+      content_type: ''
+  - song_name: MAGIC
+    song_alias:
+    esong_code: 3011B34
+    t_singer_master_id: '46231'
+    singer_name: AMOYAMO
+    singer_alias:
+    available_date: '2013-03-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ましつく
+    singer_name_ruby: あもやも
+    song_variation:
+    - esong_code: 3011B34
+      song_name: MAGIC
+      content_type: ''
+  - song_name: Magic
+    song_alias:
+    esong_code: 3006A45
+    t_singer_master_id: '45174'
+    singer_name: 石原 夏織
+    singer_alias:
+    available_date: '2013-03-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: マギ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ましつく
+    singer_name_ruby: いしはらかおり
+    song_variation:
+    - esong_code: 3006A45
+      song_name: Magic
       content_type: ''

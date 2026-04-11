@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1295
-  all_max_cnt: 1405
-  all_country_cnt: 1295
+  max_cnt: 1285
+  all_max_cnt: 1395
+  all_country_cnt: 1285
   song:
   - song_name: 嗚呼、HERO SUIT (From Episode 1-25)
     song_alias:
@@ -43,23 +43,6 @@ result:
       content_type: ''
   - song_name: I am
     song_alias:
-    esong_code: 2778B42
-    t_singer_master_id: '25202'
-    singer_name: Suara
-    singer_alias:
-    available_date: '2012-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ToHeart2 (OVA)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいあむ
-    singer_name_ruby: すあら
-    song_variation:
-    - esong_code: 2778B42
-      song_name: I am
-      content_type: ''
-  - song_name: I am
-    song_alias:
     esong_code: 2793B5
     t_singer_master_id: '1497'
     singer_name: TM NETWORK(TMN)
@@ -73,6 +56,23 @@ result:
     singer_name_ruby: ていえむねつとわ
     song_variation:
     - esong_code: 2793B5
+      song_name: I am
+      content_type: ''
+  - song_name: I am
+    song_alias:
+    esong_code: 2778B42
+    t_singer_master_id: '25202'
+    singer_name: Suara
+    singer_alias:
+    available_date: '2012-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ToHeart2 (OVA)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいあむ
+    singer_name_ruby: すあら
+    song_variation:
+    - esong_code: 2778B42
       song_name: I am
       content_type: ''
   - song_name: i want u

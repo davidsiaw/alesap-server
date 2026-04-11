@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
   - song_name: ぉ帰りなさぃませ!ご主人様っ
     song_alias:
@@ -228,23 +228,6 @@ result:
     - esong_code: 1509A15
       song_name: 男の八分咲き
       content_type: ''
-  - song_name: おとこ道
-    song_alias:
-    esong_code: 907A20
-    t_singer_master_id: '6804'
-    singer_name: 藤村 れい子
-    singer_alias:
-    available_date: '2011-04-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこみち
-    singer_name_ruby: ふしむられいこ
-    song_variation:
-    - esong_code: 907A20
-      song_name: おとこ道
-      content_type: ''
   - song_name: 男道
     song_alias:
     esong_code: 1426A19
@@ -261,6 +244,23 @@ result:
     song_variation:
     - esong_code: 1426A19
       song_name: 男道
+      content_type: ''
+  - song_name: おとこ道
+    song_alias:
+    esong_code: 907A20
+    t_singer_master_id: '6804'
+    singer_name: 藤村 れい子
+    singer_alias:
+    available_date: '2011-04-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこみち
+    singer_name_ruby: ふしむられいこ
+    song_variation:
+    - esong_code: 907A20
+      song_name: おとこ道
       content_type: ''
   - song_name: 踊るカウボーイ!
     song_alias:

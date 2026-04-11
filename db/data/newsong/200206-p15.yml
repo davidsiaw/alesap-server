@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
-  - song_name: Rainy Day
-    song_alias:
-    esong_code: 863A39
-    t_singer_master_id: '12125'
-    singer_name: 森久保 祥太郎
-    singer_alias:
-    available_date: '2002-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: れいにてい
-    singer_name_ruby: もりくほしようたろう
-    song_variation:
-    - esong_code: 863A39
-      song_name: Rainy Day
-      content_type: ''
   - song_name: rain
     song_alias:
     esong_code: 865A24
@@ -128,23 +111,6 @@ result:
       content_type: ''
   - song_name: ROCK STAR
     song_alias:
-    esong_code: 855B28
-    t_singer_master_id: '6909'
-    singer_name: SOPHIA
-    singer_alias:
-    available_date: '2002-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ろつくすた
-    singer_name_ruby: そふいあ
-    song_variation:
-    - esong_code: 855B28
-      song_name: ROCK STAR
-      content_type: ''
-  - song_name: ROCK STAR
-    song_alias:
     esong_code: 118A43
     t_singer_master_id: '6909'
     singer_name: SOPHIA
@@ -160,6 +126,23 @@ result:
     - esong_code: 118A43
       song_name: ROCK STAR
       content_type: DAM良音
+  - song_name: ROCK STAR
+    song_alias:
+    esong_code: 855B28
+    t_singer_master_id: '6909'
+    singer_name: SOPHIA
+    singer_alias:
+    available_date: '2002-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ろつくすた
+    singer_name_ruby: そふいあ
+    song_variation:
+    - esong_code: 855B28
+      song_name: ROCK STAR
+      content_type: ''
   - song_name: R&R NEVER DIE
     song_alias:
     esong_code: 863A29

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1321
-  all_max_cnt: 1527
-  all_country_cnt: 1321
+  max_cnt: 1310
+  all_max_cnt: 1516
+  all_country_cnt: 1310
   song:
-  - song_name: 合わせ鏡
-    song_alias:
-    esong_code: 2084B14
-    t_singer_master_id: '55974'
-    singer_name: 北島 三郎&大月 みやこ
-    singer_alias:
-    available_date: '2016-05-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あわせかかみ
-    singer_name_ruby: きたしまさふろうおおつきみ
-    song_variation:
-    - esong_code: 2084B14
-      song_name: 合わせ鏡
-      content_type: ''
-  - song_name: 合わせ鏡 (大月みやこソロ歌唱)
-    song_alias:
-    esong_code: 2084A12
-    t_singer_master_id: '389'
-    singer_name: 大月 みやこ
-    singer_alias:
-    available_date: '2016-05-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あわせかかみ
-    singer_name_ruby: おおつきみやこ
-    song_variation:
-    - esong_code: 2084A12
-      song_name: 合わせ鏡 (大月みやこソロ歌唱)
-      content_type: ''
   - song_name: あわわ。
     song_alias:
     esong_code: 2085B9
@@ -168,7 +134,7 @@ result:
     singer_alias:
     available_date: '2016-05-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双(ゲーム版)<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いささかもゆるきな
@@ -219,7 +185,7 @@ result:
     singer_alias:
     available_date: '2016-05-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双4<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: いちこいちえてよ
@@ -517,3 +483,37 @@ result:
     - esong_code: 1559A30
       song_name: いのち舟
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: EVIL EYE
+    song_alias:
+    esong_code: 3628B12
+    t_singer_master_id: '8741'
+    singer_name: GRAPEVINE
+    singer_alias:
+    available_date: '2016-05-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いひるあい
+    singer_name_ruby: くれいふはいん
+    song_variation:
+    - esong_code: 3628B12
+      song_name: EVIL EYE
+      content_type: ''
+  - song_name: Eve
+    song_alias:
+    esong_code: 3626B9
+    t_singer_master_id: '31487'
+    singer_name: Hey!Say!JUMP
+    singer_alias:
+    available_date: '2016-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いふ
+    singer_name_ruby: へいせいしやんふ
+    song_variation:
+    - esong_code: 3626B9
+      song_name: Eve
+      content_type: ''

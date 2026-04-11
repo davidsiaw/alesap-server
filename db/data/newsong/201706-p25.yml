@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
-  - song_name: 月に綴りし・・・恋日記
-    song_alias:
-    esong_code: 3830A3
-    t_singer_master_id: '2638'
-    singer_name: 若山 かずさ
-    singer_alias:
-    available_date: '2017-06-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきにつつりしこい
-    singer_name_ruby: わかやまかすさ
-    song_variation:
-    - esong_code: 3830A3
-      song_name: 月に綴りし・・・恋日記
-      content_type: ''
-  - song_name: 月の光
-    song_alias:
-    esong_code: 2242B2
-    t_singer_master_id: '54532'
-    singer_name: NOBUKO
-    singer_alias:
-    available_date: '2017-06-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきのひかり
-    singer_name_ruby: のふこ
-    song_variation:
-    - esong_code: 2242B2
-      song_name: 月の光
-      content_type: ''
-  - song_name: ツキノワグマ feat.初音ミク
-    song_alias:
-    esong_code: 3830A40
-    t_singer_master_id: '40402'
-    singer_name: buzzG
-    singer_alias:
-    available_date: '2017-06-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: つきのわくま
-    singer_name_ruby: はすし
-    song_variation:
-    - esong_code: 3830A40
-      song_name: ツキノワグマ feat.初音ミク
-      content_type: VOCALOID
   - song_name: つなぐ
     song_alias:
     esong_code: 3834B12
@@ -94,23 +43,6 @@ result:
       content_type: ''
   - song_name: 露の花
     song_alias:
-    esong_code: 3828B26
-    t_singer_master_id: '1673'
-    singer_name: 長保 有紀
-    singer_alias:
-    available_date: '2017-06-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: つゆのはな
-    singer_name_ruby: なかほゆき
-    song_variation:
-    - esong_code: 3828B26
-      song_name: 露の花
-      content_type: DAM生音
-  - song_name: 露の花
-    song_alias:
     esong_code: 3822A29
     t_singer_master_id: '1673'
     singer_name: 長保 有紀
@@ -128,21 +60,21 @@ result:
       content_type: JOY生演奏
   - song_name: 露の花
     song_alias:
-    esong_code: 3821B44
+    esong_code: 3563A10
     t_singer_master_id: '1673'
     singer_name: 長保 有紀
     singer_alias:
-    available_date: '2017-06-07'
+    available_date: '2017-06-06'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: つゆのはな
     singer_name_ruby: なかほゆき
     song_variation:
-    - esong_code: 3821B44
+    - esong_code: 3563A10
       song_name: 露の花
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: 露の花
     song_alias:
     esong_code: 3824A28
@@ -162,21 +94,21 @@ result:
       content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 露の花
     song_alias:
-    esong_code: 3563A10
+    esong_code: 3821B44
     t_singer_master_id: '1673'
     singer_name: 長保 有紀
     singer_alias:
-    available_date: '2017-06-06'
+    available_date: '2017-06-07'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: つゆのはな
     singer_name_ruby: なかほゆき
     song_variation:
-    - esong_code: 3563A10
+    - esong_code: 3821B44
       song_name: 露の花
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 強くてNEW GAME
     song_alias:
     esong_code: 3822B13
@@ -516,4 +448,72 @@ result:
     song_variation:
     - esong_code: 3836A7
       song_name: 手を伸ばせば
+      content_type: ''
+  - song_name: 手を伸ばせば リプライズ
+    song_alias:
+    esong_code: 3836A8
+    t_singer_master_id: '58343'
+    singer_name: 刀剣男士 team新撰組 with 蜂須賀虎徹
+    singer_alias:
+    available_date: '2017-06-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 刀剣乱舞(ミュージカル)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: てをのはせはりふ
+    singer_name_ruby: とうけんたんしちむしんせんくみ
+    song_variation:
+    - esong_code: 3836A8
+      song_name: 手を伸ばせば リプライズ
+      content_type: ''
+  - song_name: テヲフル
+    song_alias:
+    esong_code: 3826A26
+    t_singer_master_id: '43646'
+    singer_name: SAKANAMON
+    singer_alias:
+    available_date: '2017-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てをふる
+    singer_name_ruby: さかなもん
+    song_variation:
+    - esong_code: 3826A26
+      song_name: テヲフル
+      content_type: ''
+  - song_name: 転勤族の妻 (移住民)
+    song_alias:
+    esong_code: 3831A14
+    t_singer_master_id: '59109'
+    singer_name: マリー・ルウ(早川由香)
+    singer_alias:
+    available_date: '2017-06-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: てんきんそくのつま
+    singer_name_ruby: まりるう
+    song_variation:
+    - esong_code: 3831A14
+      song_name: 転勤族の妻 (移住民)
+      content_type: ''
+  - song_name: 天空の先へ (TV version)
+    song_alias:
+    esong_code: 3821A45
+    t_singer_master_id: '57520'
+    singer_name: 鈴華 ゆう子
+    singer_alias:
+    available_date: '2017-06-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 機動戦士ガンダム 鉄血のオルフェンズ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: てんくうのさきへ
+    singer_name_ruby: すすはなゆうこ
+    song_variation:
+    - esong_code: 3821A45
+      song_name: 天空の先へ (TV version)
       content_type: ''

@@ -3,26 +3,43 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: 白馬の王子様
+  - song_name: はぐれ橋
     song_alias:
-    esong_code: 3216A4
-    t_singer_master_id: '38118'
-    singer_name: 近藤 夏子
+    esong_code: 3215B10
+    t_singer_master_id: '11757'
+    singer_name: 竹島 宏
     singer_alias:
-    available_date: '2014-03-11'
+    available_date: '2014-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: はくれはし
+    singer_name_ruby: たけしまひろし
+    song_variation:
+    - esong_code: 3215B10
+      song_name: はぐれ橋
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: はぐれ橋
+    song_alias:
+    esong_code: 3209B17
+    t_singer_master_id: '11757'
+    singer_name: 竹島 宏
+    singer_alias:
+    available_date: '2014-03-05'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はくはのおうしさ
-    singer_name_ruby: こんとうなつこ
+    song_name_ruby: はくれはし
+    singer_name_ruby: たけしまひろし
     song_variation:
-    - esong_code: 3216A4
-      song_name: 白馬の王子様
+    - esong_code: 3209B17
+      song_name: はぐれ橋
       content_type: ''
   - song_name: はぐれ橋
     song_alias:
@@ -58,40 +75,6 @@ result:
     - esong_code: 3222B12
       song_name: はぐれ橋
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: はぐれ橋
-    song_alias:
-    esong_code: 3209B17
-    t_singer_master_id: '11757'
-    singer_name: 竹島 宏
-    singer_alias:
-    available_date: '2014-03-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はくれはし
-    singer_name_ruby: たけしまひろし
-    song_variation:
-    - esong_code: 3209B17
-      song_name: はぐれ橋
-      content_type: ''
-  - song_name: はぐれ橋
-    song_alias:
-    esong_code: 3215B10
-    t_singer_master_id: '11757'
-    singer_name: 竹島 宏
-    singer_alias:
-    available_date: '2014-03-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: はくれはし
-    singer_name_ruby: たけしまひろし
-    song_variation:
-    - esong_code: 3215B10
-      song_name: はぐれ橋
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 化けの皮 〜羊の皮かぶった狼〜
     song_alias:
     esong_code: 3216B25
@@ -251,7 +234,7 @@ result:
     t_singer_master_id: '47868'
     singer_name: Juice=Juice
     singer_alias:
-    available_date: '2014-03-18'
+    available_date: '2014-03-19'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -517,3 +500,20 @@ result:
     - esong_code: 3218A3
       song_name: ハートトゥハート feat.MAYU
       content_type: VOCALOID
+  - song_name: ハートのパズル
+    song_alias:
+    esong_code: 280A44
+    t_singer_master_id: '13589'
+    singer_name: 野川 さくら
+    singer_alias:
+    available_date: '2014-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はとのはする
+    singer_name_ruby: のかわさくら
+    song_variation:
+    - esong_code: 280A44
+      song_name: ハートのパズル
+      content_type: ''

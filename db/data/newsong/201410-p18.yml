@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1499
-  all_max_cnt: 1700
-  all_country_cnt: 1499
+  max_cnt: 1492
+  all_max_cnt: 1694
+  all_country_cnt: 1492
   song:
-  - song_name: The Glory Days
-    song_alias:
-    esong_code: 3350B44
-    t_singer_master_id: '46838'
-    singer_name: Tia
-    singer_alias:
-    available_date: '2014-10-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: キャプテン・アース<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくろりて
-    singer_name_ruby: ていあ
-    song_variation:
-    - esong_code: 3350B44
-      song_name: The Glory Days
-      content_type: ''
   - song_name: THE JOLLY ROGER
     song_alias:
     esong_code: 3335B6
@@ -332,23 +315,6 @@ result:
       content_type: ''
   - song_name: さよならの前に
     song_alias:
-    esong_code: 3339A10
-    t_singer_master_id: '10188'
-    singer_name: AAA
-    singer_alias:
-    available_date: '2014-10-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: さよならのまえに
-    singer_name_ruby: とりふるえ
-    song_variation:
-    - esong_code: 3339A10
-      song_name: さよならの前に
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: さよならの前に
-    song_alias:
     esong_code: 3330B31
     t_singer_master_id: '10188'
     singer_name: AAA
@@ -364,6 +330,23 @@ result:
     - esong_code: 3330B31
       song_name: さよならの前に
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: さよならの前に
+    song_alias:
+    esong_code: 3339A10
+    t_singer_master_id: '10188'
+    singer_name: AAA
+    singer_alias:
+    available_date: '2014-10-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: さよならのまえに
+    singer_name_ruby: とりふるえ
+    song_variation:
+    - esong_code: 3339A10
+      song_name: さよならの前に
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: さよならの街
     song_alias:
     esong_code: 3347A12
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3340B2
       song_name: サンシャイン日本海
+      content_type: ''
+  - song_name: 山椒太夫
+    song_alias:
+    esong_code: 3330A38
+    t_singer_master_id: '51128'
+    singer_name: Dream Victory
+    singer_alias:
+    available_date: '2014-10-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんしようたゆう
+    singer_name_ruby: とりむひくとり
+    song_variation:
+    - esong_code: 3330A38
+      song_name: 山椒太夫
       content_type: ''

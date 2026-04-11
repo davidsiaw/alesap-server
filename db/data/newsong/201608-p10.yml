@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1365
-  all_max_cnt: 1538
-  all_country_cnt: 1365
+  max_cnt: 1361
+  all_max_cnt: 1534
+  all_country_cnt: 1361
   song:
-  - song_name: 女は抱かれて鮎になる
-    song_alias:
-    esong_code: 3666B24
-    t_singer_master_id: '920'
-    singer_name: 坂本 冬美
-    singer_alias:
-    available_date: '2016-08-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: おんなはたかれてあ
-    singer_name_ruby: さかもとふゆみ
-    song_variation:
-    - esong_code: 3666B24
-      song_name: 女は抱かれて鮎になる
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 女惚れ酒
     song_alias:
     esong_code: 3666A22
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3664B47
       song_name: 風と共に去りぬ
+      content_type: ''
+  - song_name: 風ノ唄
+    song_alias:
+    esong_code: 3673A27
+    t_singer_master_id: '15296'
+    singer_name: FLOW
+    singer_alias:
+    available_date: '2016-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
+    country_code: '0'
+    content_type:
+    song_name_ruby: かせのうた
+    singer_name_ruby: ふろう
+    song_variation:
+    - esong_code: 3673A27
+      song_name: 風ノ唄
       content_type: ''

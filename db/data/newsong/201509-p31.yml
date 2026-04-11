@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
+  - song_name: Bad Sweet Trap
+    song_alias:
+    esong_code: 3497A40
+    t_singer_master_id: '41517'
+    singer_name: LiSA
+    singer_alias:
+    available_date: '2015-09-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつとすいとと
+    singer_name_ruby: りさ
+    song_variation:
+    - esong_code: 3497A40
+      song_name: Bad Sweet Trap
+      content_type: ''
   - song_name: happy end pop
     song_alias:
     esong_code: 3496A10
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3503B23
       song_name: halfway
-      content_type: ''
-  - song_name: Perfect Blue
-    song_alias:
-    esong_code: 3500A12
-    t_singer_master_id: '50823'
-    singer_name: 和楽器バンド
-    singer_alias:
-    available_date: '2015-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はふえくとふる
-    singer_name_ruby: わかつきはんと
-    song_variation:
-    - esong_code: 3500A12
-      song_name: Perfect Blue
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 986
-  all_max_cnt: 1090
-  all_country_cnt: 986
+  max_cnt: 964
+  all_max_cnt: 1067
+  all_country_cnt: 964
   song:
-  - song_name: 家族ってなんだろう?
-    song_alias:
-    esong_code: 4675A47
-    t_singer_master_id: '70196'
-    singer_name: 春組&月岡 紬&御影 密&有栖川 誉&雪白 東
-    singer_alias:
-    available_date: '2022-09-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: MANKAI STAGE『A3!』<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かそくつてなんた
-    singer_name_ruby: はるくみつきおかつむきみか
-    song_variation:
-    - esong_code: 4675A47
-      song_name: 家族ってなんだろう?
-      content_type: ''
-  - song_name: 家族という居場所
-    song_alias:
-    esong_code: 4675A45
-    t_singer_master_id: '64443'
-    singer_name: 春組(ミュージカル)
-    singer_alias:
-    available_date: '2022-09-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: MANKAI STAGE『A3!』<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かそくといういは
-    singer_name_ruby: はるくみ
-    song_variation:
-    - esong_code: 4675A45
-      song_name: 家族という居場所
-      content_type: ''
   - song_name: かたり酒
     song_alias:
     esong_code: 4682B28
@@ -398,23 +364,6 @@ result:
     - esong_code: 4687B8
       song_name: 甘苦
       content_type: ''
-  - song_name: 環状線
-    song_alias:
-    esong_code: 4674B3
-    t_singer_master_id: '67928'
-    singer_name: RuLu
-    singer_alias:
-    available_date: '2022-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: かんしようせん
-    singer_name_ruby: るる
-    song_variation:
-    - esong_code: 4674B3
-      song_name: 環状線
-      content_type: VOCALOID
   - song_name: 消えない feat.春茶
     song_alias:
     esong_code: 4681A34
@@ -468,23 +417,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 帰郷
     song_alias:
-    esong_code: 4682B30
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2022-09-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ききよう
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 4682B30
-      song_name: 帰郷
-      content_type: ''
-  - song_name: 帰郷
-    song_alias:
     esong_code: 4682B10
     t_singer_master_id: '1518'
     singer_name: 天童 よしみ
@@ -500,6 +432,23 @@ result:
     - esong_code: 4682B10
       song_name: 帰郷
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 帰郷
+    song_alias:
+    esong_code: 4682B30
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2022-09-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ききよう
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 4682B30
+      song_name: 帰郷
+      content_type: ''
   - song_name: 喜劇 (feat.DJ Jazzy Jeff&Kaidi Tatham)
     song_alias:
     esong_code: 4683A17
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4683A17
       song_name: 喜劇 (feat.DJ Jazzy Jeff&Kaidi Tatham)
+      content_type: ''
+  - song_name: 気づいたら
+    song_alias:
+    esong_code: 4675B8
+    t_singer_master_id: '70036'
+    singer_name: みさき
+    singer_alias:
+    available_date: '2022-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きついたら
+    singer_name_ruby: みさき
+    song_variation:
+    - esong_code: 4675B8
+      song_name: 気づいたら
+      content_type: ''
+  - song_name: キッカイケッタイ
+    song_alias:
+    esong_code: 4675A12
+    t_singer_master_id: '67790'
+    singer_name: メドミア
+    singer_alias:
+    available_date: '2022-09-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: きつかいけつたい
+    singer_name_ruby: めとみあ
+    song_variation:
+    - esong_code: 4675A12
+      song_name: キッカイケッタイ
+      content_type: VOCALOID
+  - song_name: キッタキッテナイ
+    song_alias:
+    esong_code: 4686B19
+    t_singer_master_id: '65691'
+    singer_name: Snow Man
+    singer_alias:
+    available_date: '2022-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きつたきつてない
+    singer_name_ruby: すのまん
+    song_variation:
+    - esong_code: 4686B19
+      song_name: キッタキッテナイ
       content_type: ''

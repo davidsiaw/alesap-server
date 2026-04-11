@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
   - song_name: アンジャベル
     song_alias:
@@ -364,23 +364,6 @@ result:
     - esong_code: 1983A27
       song_name: いっしょ
       content_type: ''
-  - song_name: IT'S SHOWTIME!! (Album ver.)
-    song_alias:
-    esong_code: 1977A20
-    t_singer_master_id: '1928'
-    singer_name: B'z
-    singer_alias:
-    available_date: '2008-04-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつつしようたいむ
-    singer_name_ruby: ひす
-    song_variation:
-    - esong_code: 1977A20
-      song_name: IT'S SHOWTIME!! (Album ver.)
-      content_type: ''
   - song_name: IT'S SHOW TIME!!!
     song_alias:
     esong_code: 2002A3
@@ -398,6 +381,23 @@ result:
     - esong_code: 2002A3
       song_name: IT'S SHOW TIME!!!
       content_type: DAMﾗｲﾌﾞ
+  - song_name: IT'S SHOWTIME!! (Album ver.)
+    song_alias:
+    esong_code: 1977A20
+    t_singer_master_id: '1928'
+    singer_name: B'z
+    singer_alias:
+    available_date: '2008-04-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いつつしようたいむ
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 1977A20
+      song_name: IT'S SHOWTIME!! (Album ver.)
+      content_type: ''
   - song_name: イット・イズント・フェア IT ISN'T FAIR
     song_alias:
     esong_code: 1980B20
@@ -453,7 +453,7 @@ result:
     song_alias:
     esong_code: 1978A46
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2008-04-09'
     end_date: '2999-04-10 00:00:00'

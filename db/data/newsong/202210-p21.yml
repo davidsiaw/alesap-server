@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1180
-  all_max_cnt: 1269
-  all_country_cnt: 1180
+  max_cnt: 1175
+  all_max_cnt: 1264
+  all_country_cnt: 1175
   song:
-  - song_name: 千島海流華しぶき
-    song_alias:
-    esong_code: 4202B46
-    t_singer_master_id: '22087'
-    singer_name: 加賀城 美鈴
-    singer_alias:
-    available_date: '2022-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちしまかいりゆうはな
-    singer_name_ruby: かかしようみすす
-    song_variation:
-    - esong_code: 4202B46
-      song_name: 千島海流華しぶき
-      content_type: ''
-  - song_name: チノカテ
-    song_alias:
-    esong_code: 4698B12
-    t_singer_master_id: '59009'
-    singer_name: ヨルシカ
-    singer_alias:
-    available_date: '2022-10-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: ちのかて
-    singer_name_ruby: よるしか
-    song_variation:
-    - esong_code: 4698B12
-      song_name: チノカテ
-      content_type: DAM生音
   - song_name: Chance Day, Chance Way!
     song_alias:
     esong_code: 4691B28
@@ -334,7 +300,7 @@ result:
     song_alias:
     esong_code: 4697A4
     t_singer_master_id: '68424'
-    singer_name: ケプラ
+    singer_name: KEPURA
     singer_alias:
     available_date: '2022-10-18'
     end_date: '2999-04-10 00:00:00'
@@ -517,3 +483,37 @@ result:
     - esong_code: 4694A39
       song_name: Deep Dive
       content_type: ''
+  - song_name: DEPENDS FEAT.キクチリョウタ
+    song_alias:
+    esong_code: 4691B41
+    t_singer_master_id: '39929'
+    singer_name: 古川本舗
+    singer_alias:
+    available_date: '2022-10-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていへんす
+    singer_name_ruby: ふるかわほんほ
+    song_variation:
+    - esong_code: 4691B41
+      song_name: DEPENDS FEAT.キクチリョウタ
+      content_type: ''
+  - song_name: 定理にでもなれたら
+    song_alias:
+    esong_code: 4691B3
+    t_singer_master_id: '70404'
+    singer_name: 立椅子 かんな
+    singer_alias:
+    available_date: '2022-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: ていりにてもなれた
+    singer_name_ruby: たていすかんな
+    song_variation:
+    - esong_code: 4691B3
+      song_name: 定理にでもなれたら
+      content_type: VOCALOID

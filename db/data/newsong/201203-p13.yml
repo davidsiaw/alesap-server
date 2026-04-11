@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1318
-  all_max_cnt: 1435
-  all_country_cnt: 1318
+  max_cnt: 1313
+  all_max_cnt: 1430
+  all_country_cnt: 1313
   song:
-  - song_name: 校庭の仔犬
-    song_alias:
-    esong_code: 2780B30
-    t_singer_master_id: '37432'
-    singer_name: SKE48
-    singer_alias:
-    available_date: '2012-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こうていのこいぬ
-    singer_name_ruby: えすけいふおていえいと
-    song_variation:
-    - esong_code: 2780B30
-      song_name: 校庭の仔犬
-      content_type: ''
   - song_name: 幸福の黒い鳥
     song_alias:
     esong_code: 2771B7
@@ -111,23 +94,6 @@ result:
       content_type: ''
   - song_name: 告白
     song_alias:
-    esong_code: 2553A1
-    t_singer_master_id: '34981'
-    singer_name: supercell
-    singer_alias:
-    available_date: '2012-03-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ギルティクラウン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こくはく
-    singer_name_ruby: すはせる
-    song_variation:
-    - esong_code: 2553A1
-      song_name: 告白
-      content_type: ''
-  - song_name: 告白
-    song_alias:
     esong_code: 2780A22
     t_singer_master_id: '34981'
     singer_name: supercell
@@ -143,22 +109,22 @@ result:
     - esong_code: 2780A22
       song_name: 告白
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ここ一番 男花
+  - song_name: 告白
     song_alias:
-    esong_code: 2770A33
-    t_singer_master_id: '611'
-    singer_name: 冠 二郎
+    esong_code: 2553A1
+    t_singer_master_id: '34981'
+    singer_name: supercell
     singer_alias:
     available_date: '2012-03-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up:
+    tie_up: ギルティクラウン<番組名>
     country_code: '0'
     content_type:
-    song_name_ruby: ここいちはんおとこ
-    singer_name_ruby: かんむりしろう
+    song_name_ruby: こくはく
+    singer_name_ruby: すはせる
     song_variation:
-    - esong_code: 2770A33
-      song_name: ここ一番 男花
+    - esong_code: 2553A1
+      song_name: 告白
       content_type: ''
   - song_name: ここ一番 男花
     song_alias:
@@ -179,23 +145,6 @@ result:
       content_type: DAM生音
   - song_name: ここ一番 男花
     song_alias:
-    esong_code: 2772B41
-    t_singer_master_id: '611'
-    singer_name: 冠 二郎
-    singer_alias:
-    available_date: '2012-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: ここいちはんおとこ
-    singer_name_ruby: かんむりしろう
-    song_variation:
-    - esong_code: 2772B41
-      song_name: ここ一番 男花
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: ここ一番 男花
-    song_alias:
     esong_code: 2464A7
     t_singer_master_id: '611'
     singer_name: 冠 二郎
@@ -211,6 +160,40 @@ result:
     - esong_code: 2464A7
       song_name: ここ一番 男花
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: ここ一番 男花
+    song_alias:
+    esong_code: 2770A33
+    t_singer_master_id: '611'
+    singer_name: 冠 二郎
+    singer_alias:
+    available_date: '2012-03-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ここいちはんおとこ
+    singer_name_ruby: かんむりしろう
+    song_variation:
+    - esong_code: 2770A33
+      song_name: ここ一番 男花
+      content_type: ''
+  - song_name: ここ一番 男花
+    song_alias:
+    esong_code: 2772B41
+    t_singer_master_id: '611'
+    singer_name: 冠 二郎
+    singer_alias:
+    available_date: '2012-03-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: ここいちはんおとこ
+    singer_name_ruby: かんむりしろう
+    song_variation:
+    - esong_code: 2772B41
+      song_name: ここ一番 男花
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: ここに君がいないなら feat.アイスマウンテン
     song_alias:
     esong_code: 2771A16
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2776B21
       song_name: このまま君を見つめていたい
+      content_type: ''
+  - song_name: コーヒー1杯のイマージュ
+    song_alias:
+    esong_code: 1880B48
+    t_singer_master_id: '44479'
+    singer_name: 平田 宏美&下田 麻美&沼倉 愛美
+    singer_alias:
+    available_date: '2012-03-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: THE IDOLM@STER(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こひいつはいの
+    singer_name_ruby: ひらたひろみしもたあさみ
+    song_variation:
+    - esong_code: 1880B48
+      song_name: コーヒー1杯のイマージュ
       content_type: ''

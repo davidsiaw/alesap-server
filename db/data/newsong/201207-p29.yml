@@ -3,78 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1366
-  all_max_cnt: 1541
-  all_country_cnt: 1366
+  max_cnt: 1361
+  all_max_cnt: 1536
+  all_country_cnt: 1361
   song:
-  - song_name: 函館の鐘
-    song_alias:
-    esong_code: 2830A25
-    t_singer_master_id: '25622'
-    singer_name: 大江 唯起子
-    singer_alias:
-    available_date: '2012-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はこたてのかね
-    singer_name_ruby: おおえゆきこ
-    song_variation:
-    - esong_code: 2830A25
-      song_name: 函館の鐘
-      content_type: ''
-  - song_name: 函館夜景
-    song_alias:
-    esong_code: 2814A3
-    t_singer_master_id: '41441'
-    singer_name: 池田 さなえ
-    singer_alias:
-    available_date: '2012-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はこたてやけい
-    singer_name_ruby: いけたさなえ
-    song_variation:
-    - esong_code: 2814A3
-      song_name: 函館夜景
-      content_type: ''
-  - song_name: 箱根 おんな宿
-    song_alias:
-    esong_code: 2819B12
-    t_singer_master_id: '2187'
-    singer_name: 真咲 よう子
-    singer_alias:
-    available_date: '2012-07-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: はこねおんなやと
-    singer_name_ruby: まさきようこ
-    song_variation:
-    - esong_code: 2819B12
-      song_name: 箱根 おんな宿
-      content_type: DAM生音
-  - song_name: 箱根 おんな宿
-    song_alias:
-    esong_code: 2811B30
-    t_singer_master_id: '2187'
-    singer_name: 真咲 よう子
-    singer_alias:
-    available_date: '2012-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はこねおんなやと
-    singer_name_ruby: まさきようこ
-    song_variation:
-    - esong_code: 2811B30
-      song_name: 箱根 おんな宿
-      content_type: ''
   - song_name: 箱根 おんな宿
     song_alias:
     esong_code: 2819B33
@@ -92,6 +24,23 @@ result:
     - esong_code: 2819B33
       song_name: 箱根 おんな宿
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 箱根 おんな宿
+    song_alias:
+    esong_code: 2811B30
+    t_singer_master_id: '2187'
+    singer_name: 真咲 よう子
+    singer_alias:
+    available_date: '2012-07-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はこねおんなやと
+    singer_name_ruby: まさきようこ
+    song_variation:
+    - esong_code: 2811B30
+      song_name: 箱根 おんな宿
+      content_type: ''
   - song_name: ハジマリソング
     song_alias:
     esong_code: 2830B5
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2831A3
       song_name: 桜(はな)のあと
+      content_type: ''
+  - song_name: 華の下にて
+    song_alias:
+    esong_code: 2822A39
+    t_singer_master_id: '45435'
+    singer_name: 西岡 かね子
+    singer_alias:
+    available_date: '2012-07-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなのしたにて
+    singer_name_ruby: にしおかかねこ
+    song_variation:
+    - esong_code: 2822A39
+      song_name: 華の下にて
+      content_type: ''
+  - song_name: 花火
+    song_alias:
+    esong_code: 2826A37
+    t_singer_master_id: '37700'
+    singer_name: Jam9(Jam-9)
+    singer_alias:
+    available_date: '2012-07-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなひ
+    singer_name_ruby: しやむないん
+    song_variation:
+    - esong_code: 2826A37
+      song_name: 花火
+      content_type: ''
+  - song_name: 花みずき
+    song_alias:
+    esong_code: 2814B19
+    t_singer_master_id: '27039'
+    singer_name: 華 ゆう子
+    singer_alias:
+    available_date: '2012-07-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなみすき
+    singer_name_ruby: はなゆうこ
+    song_variation:
+    - esong_code: 2814B19
+      song_name: 花みずき
       content_type: ''

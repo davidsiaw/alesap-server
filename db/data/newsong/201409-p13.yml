@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1549
-  all_max_cnt: 1789
-  all_country_cnt: 1549
+  max_cnt: 1543
+  all_max_cnt: 1783
+  all_country_cnt: 1543
   song:
-  - song_name: ギフト
-    song_alias:
-    esong_code: 3327B37
-    t_singer_master_id: '24966'
-    singer_name: 今井 麻美
-    singer_alias:
-    available_date: '2014-09-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: THE IDOLM@STER RADIO<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きふと
-    singer_name_ruby: いまいあさみ
-    song_variation:
-    - esong_code: 3327B37
-      song_name: ギフト
-      content_type: ''
-  - song_name: 希望のかけら
-    song_alias:
-    esong_code: 3314B40
-    t_singer_master_id: '24618'
-    singer_name: うちやえ ゆか
-    singer_alias:
-    available_date: '2014-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Yes!プリキュア5 GoGo!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きほうのかけら
-    singer_name_ruby: うちやえゆか
-    song_variation:
-    - esong_code: 3314B40
-      song_name: 希望のかけら
-      content_type: ''
-  - song_name: 希望の虹
-    song_alias:
-    esong_code: 3314A16
-    t_singer_master_id: '2823'
-    singer_name: FENCE OF DEFENSE
-    singer_alias:
-    available_date: '2014-09-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きほうのにし
-    singer_name_ruby: ふえんすおふていふえんす
-    song_variation:
-    - esong_code: 3314A16
-      song_name: 希望の虹
-      content_type: ''
   - song_name: 希望の瞳
     song_alias:
     esong_code: 3328B43
@@ -432,9 +381,9 @@ result:
     - esong_code: 3323A31
       song_name: きゅるきゅる
       content_type: ''
-  - song_name: 共演者 女声三部合唱
+  - song_name: 共演者 男声四部合唱
     song_alias:
-    esong_code: 3320B44
+    esong_code: 3320B45
     t_singer_master_id: '10342'
     singer_name: 合唱
     singer_alias:
@@ -446,8 +395,8 @@ result:
     song_name_ruby: きようえんしや
     singer_name_ruby: かつしよう
     song_variation:
-    - esong_code: 3320B44
-      song_name: 共演者 女声三部合唱
+    - esong_code: 3320B45
+      song_name: 共演者 男声四部合唱
       content_type: ''
   - song_name: 共演者 混声四部合唱
     song_alias:
@@ -466,9 +415,9 @@ result:
     - esong_code: 3320B43
       song_name: 共演者 混声四部合唱
       content_type: ''
-  - song_name: 共演者 男声四部合唱
+  - song_name: 共演者 女声三部合唱
     song_alias:
-    esong_code: 3320B45
+    esong_code: 3320B44
     t_singer_master_id: '10342'
     singer_name: 合唱
     singer_alias:
@@ -480,8 +429,8 @@ result:
     song_name_ruby: きようえんしや
     singer_name_ruby: かつしよう
     song_variation:
-    - esong_code: 3320B45
-      song_name: 共演者 男声四部合唱
+    - esong_code: 3320B44
+      song_name: 共演者 女声三部合唱
       content_type: ''
   - song_name: 狂喜乱舞 feat.柿チョコ
     song_alias:
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 3314B41
       song_name: 狂騒輪舞曲
+      content_type: ''
+  - song_name: 京都・女舞い
+    song_alias:
+    esong_code: 3325B42
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2014-09-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きようとおんなまい
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 3325B42
+      song_name: 京都・女舞い
+      content_type: ''
+  - song_name: 京都ダ菓子屋センソー feat.flower
+    song_alias:
+    esong_code: 3326A39
+    t_singer_master_id: '43669'
+    singer_name: みきとP
+    singer_alias:
+    available_date: '2014-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: きようとたかしや
+    singer_name_ruby: みきとひ
+    song_variation:
+    - esong_code: 3326A39
+      song_name: 京都ダ菓子屋センソー feat.flower
+      content_type: VOCALOID
+  - song_name: 今日も生きたね
+    song_alias:
+    esong_code: 3317A48
+    t_singer_master_id: '31591'
+    singer_name: THE NOVEMBERS
+    singer_alias:
+    available_date: '2014-09-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きようもいきたね
+    singer_name_ruby: さのへんはす
+    song_variation:
+    - esong_code: 3317A48
+      song_name: 今日も生きたね
       content_type: ''

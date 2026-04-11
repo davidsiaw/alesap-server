@@ -315,23 +315,6 @@ result:
       content_type: ''
   - song_name: HONEY BEAT
     song_alias:
-    esong_code: 1715A38
-    t_singer_master_id: '6560'
-    singer_name: V6
-    singer_alias:
-    available_date: '2007-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はにひと
-    singer_name_ruby: ふいしつくす
-    song_variation:
-    - esong_code: 1715A38
-      song_name: HONEY BEAT
-      content_type: ''
-  - song_name: HONEY BEAT
-    song_alias:
     esong_code: 1731A45
     t_singer_master_id: '6560'
     singer_name: V6
@@ -347,6 +330,23 @@ result:
     - esong_code: 1731A45
       song_name: HONEY BEAT
       content_type: DAM良音
+  - song_name: HONEY BEAT
+    song_alias:
+    esong_code: 1715A38
+    t_singer_master_id: '6560'
+    singer_name: V6
+    singer_alias:
+    available_date: '2007-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はにひと
+    singer_name_ruby: ふいしつくす
+    song_variation:
+    - esong_code: 1715A38
+      song_name: HONEY BEAT
+      content_type: ''
   - song_name: 羽根の光
     song_alias:
     esong_code: 1718A36
@@ -432,9 +432,9 @@ result:
     - esong_code: 1709B42
       song_name: Perfume
       content_type: ''
-  - song_name: 薔薇が咲く 薔薇が散る
+  - song_name: 薔薇が咲く 薔薇が散る (sunbeam rising remix)
     song_alias:
-    esong_code: 1705A12
+    esong_code: 1709B22
     t_singer_master_id: '10604'
     singer_name: 愛内 里菜
     singer_alias:
@@ -446,8 +446,8 @@ result:
     song_name_ruby: はらかさくはら
     singer_name_ruby: あいうちりな
     song_variation:
-    - esong_code: 1705A12
-      song_name: 薔薇が咲く 薔薇が散る
+    - esong_code: 1709B22
+      song_name: 薔薇が咲く 薔薇が散る (sunbeam rising remix)
       content_type: ''
   - song_name: 薔薇が咲く 薔薇が散る (moonlit rose mix)
     song_alias:
@@ -466,9 +466,9 @@ result:
     - esong_code: 1712B44
       song_name: 薔薇が咲く 薔薇が散る (moonlit rose mix)
       content_type: ''
-  - song_name: 薔薇が咲く 薔薇が散る (sunbeam rising remix)
+  - song_name: 薔薇が咲く 薔薇が散る
     song_alias:
-    esong_code: 1709B22
+    esong_code: 1705A12
     t_singer_master_id: '10604'
     singer_name: 愛内 里菜
     singer_alias:
@@ -480,8 +480,8 @@ result:
     song_name_ruby: はらかさくはら
     singer_name_ruby: あいうちりな
     song_variation:
-    - esong_code: 1709B22
-      song_name: 薔薇が咲く 薔薇が散る (sunbeam rising remix)
+    - esong_code: 1705A12
+      song_name: 薔薇が咲く 薔薇が散る
       content_type: ''
   - song_name: 薔薇の記憶
     song_alias:

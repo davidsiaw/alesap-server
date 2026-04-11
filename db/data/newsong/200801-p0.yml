@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 944
-  all_max_cnt: 1035
-  all_country_cnt: 944
+  max_cnt: 942
+  all_max_cnt: 1033
+  all_country_cnt: 942
   song:
   - song_name: あゝ雪の駅
     song_alias:
@@ -398,23 +398,6 @@ result:
     - esong_code: 1930A20
       song_name: I Like it Like that
       content_type: ''
-  - song_name: I LOVE YOU
-    song_alias:
-    esong_code: 1947B8
-    t_singer_master_id: '24713'
-    singer_name: All Japan Goith(Skaしっぺ)
-    singer_alias:
-    available_date: '2008-01-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: あいらふゆ
-    singer_name_ruby: おるしやはんこいす
-    song_variation:
-    - esong_code: 1947B8
-      song_name: I LOVE YOU
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 愛を信じていたい (2007 version)
     song_alias:
     esong_code: 1957A19
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1939B37
       song_name: 茜色
+      content_type: ''
+  - song_name: 茜色、空の下…
+    song_alias:
+    esong_code: 1911A10
+    t_singer_master_id: '30516'
+    singer_name: ひまり
+    singer_alias:
+    available_date: '2008-01-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あかねいろそらのした
+    singer_name_ruby: ひまり
+    song_variation:
+    - esong_code: 1911A10
+      song_name: 茜色、空の下…
       content_type: ''

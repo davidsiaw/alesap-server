@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1689
-  all_max_cnt: 1850
-  all_country_cnt: 1689
+  max_cnt: 1687
+  all_max_cnt: 1849
+  all_country_cnt: 1687
   song:
-  - song_name: 茨の木
-    song_alias:
-    esong_code: 2918A26
-    t_singer_master_id: '852'
-    singer_name: 小林 幸子(SACHIKO de KOBAYASHI)
-    singer_alias:
-    available_date: '2012-10-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いはらのき
-    singer_name_ruby: こはやしさちこ
-    song_variation:
-    - esong_code: 2918A26
-      song_name: 茨の木
-      content_type: ''
   - song_name: Evil One
     song_alias:
     esong_code: 2922A44
@@ -338,7 +321,7 @@ result:
     singer_alias:
     available_date: '2012-10-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国BASARA HDコレクション<番組名>
+    tie_up: 戦国BASARA<番組名>
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: ういあ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2903A29
       song_name: WAKE UP
+      content_type: ''
+  - song_name: Waiting for you
+    song_alias:
+    esong_code: 2918B40
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2012-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うえいていんくふお
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 2918B40
+      song_name: Waiting for you
       content_type: ''

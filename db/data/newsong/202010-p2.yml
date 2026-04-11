@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 829
-  all_max_cnt: 899
-  all_country_cnt: 829
+  max_cnt: 817
+  all_max_cnt: 887
+  all_country_cnt: 817
   song:
-  - song_name: アリサマ
-    song_alias:
-    esong_code: 4434B34
-    t_singer_master_id: '66999'
-    singer_name: Chinozo
-    singer_alias:
-    available_date: '2020-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ありさま
-    singer_name_ruby: ちのそ
-    song_variation:
-    - esong_code: 4434B34
-      song_name: アリサマ
-      content_type: VOCALOID
   - song_name: 歩いて行こう
     song_alias:
     esong_code: 3405B1
@@ -41,23 +24,6 @@ result:
     - esong_code: 3405B1
       song_name: 歩いて行こう
       content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Arkadia [DAM本人歌唱]
-    song_alias:
-    esong_code: 4431B24
-    t_singer_master_id: '45582'
-    singer_name: BABYMETAL
-    singer_alias:
-    available_date: '2020-10-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: あるかていあ
-    singer_name_ruby: へひめたる
-    song_variation:
-    - esong_code: 4431B24
-      song_name: Arkadia [DAM本人歌唱]
-      content_type: DAM本人歌唱
   - song_name: ある冬の午後
     song_alias:
     esong_code: 4433A44
@@ -415,7 +381,7 @@ result:
     - esong_code: 4429B22
       song_name: イツカノキオク
       content_type: ''
-  - song_name: いつかのメリークリスマス
+  - song_name: いつかのメリークリスマス (LIVE Ver.)
     song_alias:
     esong_code: 4430B37
     t_singer_master_id: '1928'
@@ -425,13 +391,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾗｲﾌﾞ
+    content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: いつかのめりくりす
     singer_name_ruby: ひす
     song_variation:
     - esong_code: 4430B37
-      song_name: いつかのメリークリスマス
-      content_type: DAMﾗｲﾌﾞ
+      song_name: いつかのメリークリスマス (LIVE Ver.)
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: いつキスすんねん
     song_alias:
     esong_code: 4433B31
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4432A5
       song_name: 愛しいあなた
+      content_type: ''
+  - song_name: 愛しき'抱擁'の詩 (ピアノバージョン)
+    song_alias:
+    esong_code: 4427A33
+    t_singer_master_id: '65781'
+    singer_name: ANTONIO Quartet&箱崎 幸子
+    singer_alias:
+    available_date: '2020-10-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いとしきほうようのう
+    singer_name_ruby: あんとにおかるてつとあんとはこさきさ
+    song_variation:
+    - esong_code: 4427A33
+      song_name: 愛しき'抱擁'の詩 (ピアノバージョン)
+      content_type: ''
+  - song_name: 愛しのキャンディマン
+    song_alias:
+    esong_code: 4433A40
+    t_singer_master_id: '574'
+    singer_name: 加山 雄三
+    singer_alias:
+    available_date: '2020-10-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いとしのきやんてい
+    singer_name_ruby: かやまゆうそう
+    song_variation:
+    - esong_code: 4433A40
+      song_name: 愛しのキャンディマン
       content_type: ''

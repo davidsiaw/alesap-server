@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 535
-  all_max_cnt: 597
-  all_country_cnt: 535
+  max_cnt: 533
+  all_max_cnt: 595
+  all_country_cnt: 533
   song:
-  - song_name: Bugってハニー
-    song_alias:
-    esong_code: 2608A45
-    t_singer_master_id: '38529'
-    singer_name: 高橋名人(高橋 利幸)
-    singer_alias:
-    available_date: '2003-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Bugってハニー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はくつてはに
-    singer_name_ruby: たかはしめいしん
-    song_variation:
-    - esong_code: 2608A45
-      song_name: Bugってハニー
-      content_type: ''
-  - song_name: 箱庭〜ミニチュアガーデン〜
-    song_alias:
-    esong_code: 585B25
-    t_singer_master_id: '12589'
-    singer_name: 天野 月(天野月子)
-    singer_alias:
-    available_date: '2003-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はこにわ
-    singer_name_ruby: あまのつき
-    song_variation:
-    - esong_code: 585B25
-      song_name: 箱庭〜ミニチュアガーデン〜
-      content_type: ''
   - song_name: バスケットロードからの脱出
     song_alias:
     esong_code: 261B5
@@ -457,7 +423,7 @@ result:
     singer_alias:
     available_date: '2003-02-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: レモンエンジェル<番組名>
+    tie_up: くりいむレモン レモンエンジェル<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はんさむかる
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 198B7
       song_name: Hysteric Blueベストメドレー
+      content_type: ''
+  - song_name: 陽だまりの恋
+    song_alias:
+    esong_code: 251B34
+    t_singer_master_id: '6939'
+    singer_name: 片平 なぎさ
+    singer_alias:
+    available_date: '2003-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひたまりのこい
+    singer_name_ruby: かたひらなきさ
+    song_variation:
+    - esong_code: 251B34
+      song_name: 陽だまりの恋
+      content_type: ''
+  - song_name: VIP SLYME
+    song_alias:
+    esong_code: 142A17
+    t_singer_master_id: '12361'
+    singer_name: RIP SLYME
+    singer_alias:
+    available_date: '2003-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひつふすらいむ
+    singer_name_ruby: りつふすらいむ
+    song_variation:
+    - esong_code: 142A17
+      song_name: VIP SLYME
       content_type: ''

@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1072
-  all_max_cnt: 1218
-  all_country_cnt: 1072
+  max_cnt: 1061
+  all_max_cnt: 1207
+  all_country_cnt: 1061
   song:
-  - song_name: 青春 僕
-    song_alias:
-    esong_code: 2327A47
-    t_singer_master_id: '36241'
-    singer_name: 矢口 真里
-    singer_alias:
-    available_date: '2009-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: せいしゆんほく
-    singer_name_ruby: やくちまり
-    song_variation:
-    - esong_code: 2327A47
-      song_name: 青春 僕
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 世界中メリークリスマス
-    song_alias:
-    esong_code: 2340B38
-    t_singer_master_id: '116'
-    singer_name: あみん
-    singer_alias:
-    available_date: '2009-06-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せかいしゆうめり
-    singer_name_ruby: あみん
-    song_variation:
-    - esong_code: 2340B38
-      song_name: 世界中メリークリスマス
-      content_type: ''
-  - song_name: 世界に一つだけの花
-    song_alias:
-    esong_code: 2318A47
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
-    singer_alias:
-    available_date: '2009-06-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せかいにひとつたけ
-    singer_name_ruby: いつきひろし
-    song_variation:
-    - esong_code: 2318A47
-      song_name: 世界に一つだけの花
-      content_type: ''
   - song_name: 惜愛
     song_alias:
     esong_code: 1792B21
@@ -162,23 +111,6 @@ result:
       content_type: ''
   - song_name: 瀬戸の晩夏
     song_alias:
-    esong_code: 2323B19
-    t_singer_master_id: '1675'
-    singer_name: 長山 洋子(yoko)
-    singer_alias:
-    available_date: '2009-06-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せとのはんか
-    singer_name_ruby: なかやまようこ
-    song_variation:
-    - esong_code: 2323B19
-      song_name: 瀬戸の晩夏
-      content_type: ''
-  - song_name: 瀬戸の晩夏
-    song_alias:
     esong_code: 2327B27
     t_singer_master_id: '1675'
     singer_name: 長山 洋子(yoko)
@@ -194,6 +126,23 @@ result:
     - esong_code: 2327B27
       song_name: 瀬戸の晩夏
       content_type: DAM生音
+  - song_name: 瀬戸の晩夏
+    song_alias:
+    esong_code: 2323B19
+    t_singer_master_id: '1675'
+    singer_name: 長山 洋子(yoko)
+    singer_alias:
+    available_date: '2009-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せとのはんか
+    singer_name_ruby: なかやまようこ
+    song_variation:
+    - esong_code: 2323B19
+      song_name: 瀬戸の晩夏
+      content_type: ''
   - song_name: 瀬戸の連絡船
     song_alias:
     esong_code: 1709A37
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 2303A29
       song_name: 大事にするよ
+      content_type: ''
+  - song_name: 大衆酒場
+    song_alias:
+    esong_code: 2332A1
+    t_singer_master_id: '24194'
+    singer_name: 坂本 英三(さかもとえいぞう)
+    singer_alias:
+    available_date: '2009-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいしゆうさかは
+    singer_name_ruby: さかもとえいそう
+    song_variation:
+    - esong_code: 2332A1
+      song_name: 大衆酒場
+      content_type: ''
+  - song_name: 大切なもの
+    song_alias:
+    esong_code: 2328B5
+    t_singer_master_id: '36944'
+    singer_name: CHIEMI
+    singer_alias:
+    available_date: '2009-06-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいせつなもの
+    singer_name_ruby: ちえみ
+    song_variation:
+    - esong_code: 2328B5
+      song_name: 大切なもの
+      content_type: ''
+  - song_name: Dynamo
+    song_alias:
+    esong_code: 2336A24
+    t_singer_master_id: '11810'
+    singer_name: Vlidge
+    singer_alias:
+    available_date: '2009-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいなも
+    singer_name_ruby: ふりつし
+    song_variation:
+    - esong_code: 2336A24
+      song_name: Dynamo
       content_type: ''

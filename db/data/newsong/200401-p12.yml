@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 564
-  all_max_cnt: 620
-  all_country_cnt: 564
+  max_cnt: 562
+  all_max_cnt: 618
+  all_country_cnt: 562
   song:
   - song_name: BAD DA THAN DEM
     song_alias:
@@ -389,7 +389,7 @@ result:
     singer_alias:
     available_date: '2004-01-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双(ゲーム版)<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ひさわん
@@ -434,23 +434,6 @@ result:
       content_type: ''
   - song_name: BEAT SWEET
     song_alias:
-    esong_code: 993A31
-    t_singer_master_id: '14789'
-    singer_name: 岩瀬 敬吾
-    singer_alias:
-    available_date: '2004-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひとすういと
-    singer_name_ruby: いわせけいこ
-    song_variation:
-    - esong_code: 993A31
-      song_name: BEAT SWEET
-      content_type: ''
-  - song_name: BEAT SWEET
-    song_alias:
     esong_code: 994A16
     t_singer_master_id: '12715'
     singer_name: UZUMAKI(宇頭巻)
@@ -464,6 +447,23 @@ result:
     singer_name_ruby: うすまき
     song_variation:
     - esong_code: 994A16
+      song_name: BEAT SWEET
+      content_type: ''
+  - song_name: BEAT SWEET
+    song_alias:
+    esong_code: 993A31
+    t_singer_master_id: '14789'
+    singer_name: 岩瀬 敬吾
+    singer_alias:
+    available_date: '2004-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとすういと
+    singer_name_ruby: いわせけいこ
+    song_variation:
+    - esong_code: 993A31
       song_name: BEAT SWEET
       content_type: ''
   - song_name: ひとつのはじまり

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 448
-  all_max_cnt: 493
-  all_country_cnt: 448
+  max_cnt: 446
+  all_max_cnt: 491
+  all_country_cnt: 446
   song:
-  - song_name: マッチ売りの少女
-    song_alias:
-    esong_code: 417A21
-    t_singer_master_id: '2870'
-    singer_name: 緒方 恵美
-    singer_alias:
-    available_date: '2003-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まつちうりのしようし
-    singer_name_ruby: おかためくみ
-    song_variation:
-    - esong_code: 417A21
-      song_name: マッチ売りの少女
-      content_type: ''
   - song_name: 待つわ
     song_alias:
     esong_code: 732B27
@@ -58,23 +41,6 @@ result:
     - esong_code: 416A25
       song_name: まばたきの間に
       content_type: ''
-  - song_name: MERMAID DREAM
-    song_alias:
-    esong_code: 413B27
-    t_singer_master_id: '2870'
-    singer_name: 緒方 恵美
-    singer_alias:
-    available_date: '2003-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まめいととり
-    singer_name_ruby: おかためくみ
-    song_variation:
-    - esong_code: 413B27
-      song_name: MERMAID DREAM
-      content_type: ''
   - song_name: マリーのコーヒーカップ
     song_alias:
     esong_code: 416A36
@@ -100,7 +66,7 @@ result:
     singer_alias:
     available_date: '2003-03-31'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL Z 地球まるごと超決戦<番組名>
+    tie_up: DRAGON BALL(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まること
@@ -132,7 +98,7 @@ result:
     t_singer_master_id: '611'
     singer_name: 冠 二郎
     singer_alias:
-    available_date: '2003-03-19'
+    available_date: '2003-03-22'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 414B28
       song_name: やっぱり君が好き!
+      content_type: ''
+  - song_name: ヤングジェネレーション
+    song_alias:
+    esong_code: 410B22
+    t_singer_master_id: '5985'
+    singer_name: JUICE
+    singer_alias:
+    available_date: '2003-03-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: やんくしえねれ
+    singer_name_ruby: しゆす
+    song_variation:
+    - esong_code: 410B22
+      song_name: ヤングジェネレーション
+      content_type: ''
+  - song_name: 雪だより
+    song_alias:
+    esong_code: 420B23
+    t_singer_master_id: '10128'
+    singer_name: カントリー・ガールズ(カントリー娘。)
+    singer_alias:
+    available_date: '2003-03-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆきたより
+    singer_name_ruby: かんとりかるす
+    song_variation:
+    - esong_code: 420B23
+      song_name: 雪だより
       content_type: ''

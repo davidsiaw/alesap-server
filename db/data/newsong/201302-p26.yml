@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
-  - song_name: 涙の夜汽車
-    song_alias:
-    esong_code: 2981B39
-    t_singer_master_id: '31259'
-    singer_name: 青木 ひろあき
-    singer_alias:
-    available_date: '2013-02-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なみたのよきしや
-    singer_name_ruby: あおきひろあき
-    song_variation:
-    - esong_code: 2981B39
-      song_name: 涙の夜汽車
-      content_type: ''
   - song_name: 鳴門海峡
     song_alias:
     esong_code: 2983B45
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2992A42
       song_name: No-iD.
+      content_type: ''
+  - song_name: Noaベストメドレー
+    song_alias:
+    esong_code: 2983A47
+    t_singer_master_id: '33783'
+    singer_name: Noa
+    singer_alias:
+    available_date: '2013-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: のあへすとめとれ
+    singer_name_ruby: のあ
+    song_variation:
+    - esong_code: 2983A47
+      song_name: Noaベストメドレー
       content_type: ''

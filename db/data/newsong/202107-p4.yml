@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 880
-  all_max_cnt: 933
-  all_country_cnt: 880
+  max_cnt: 867
+  all_max_cnt: 920
+  all_country_cnt: 867
   song:
-  - song_name: 黄金比
-    song_alias:
-    esong_code: 4515B28
-    t_singer_master_id: '20368'
-    singer_name: 東京事変
-    singer_alias:
-    available_date: '2021-07-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おうこんひ
-    singer_name_ruby: とうきようしへん
-    song_variation:
-    - esong_code: 4515B28
-      song_name: 黄金比
-      content_type: ''
-  - song_name: O2リンク
-    song_alias:
-    esong_code: 4523A18
-    t_singer_master_id: '54818'
-    singer_name: A応P
-    singer_alias:
-    available_date: '2021-07-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おつりんく
-    singer_name_ruby: えおうひ
-    song_variation:
-    - esong_code: 4523A18
-      song_name: O2リンク
-      content_type: ''
   - song_name: 男咲き
     song_alias:
     esong_code: 4523A36
@@ -60,23 +26,6 @@ result:
       content_type: ''
   - song_name: 男の残雪
     song_alias:
-    esong_code: 4525B33
-    t_singer_master_id: '40508'
-    singer_name: 福田 こうへい
-    singer_alias:
-    available_date: '2021-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: おとこのさんせつ
-    singer_name_ruby: ふくたこうへい
-    song_variation:
-    - esong_code: 4525B33
-      song_name: 男の残雪
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 男の残雪
-    song_alias:
     esong_code: 4523B28
     t_singer_master_id: '40508'
     singer_name: 福田 こうへい
@@ -92,6 +41,23 @@ result:
     - esong_code: 4523B28
       song_name: 男の残雪
       content_type: ''
+  - song_name: 男の残雪
+    song_alias:
+    esong_code: 4525B33
+    t_singer_master_id: '40508'
+    singer_name: 福田 こうへい
+    singer_alias:
+    available_date: '2021-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おとこのさんせつ
+    singer_name_ruby: ふくたこうへい
+    song_variation:
+    - esong_code: 4525B33
+      song_name: 男の残雪
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 男の北海太鼓
     song_alias:
     esong_code: 4520A48
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4523B31
       song_name: On My Way
+      content_type: ''
+  - song_name: On My Own
+    song_alias:
+    esong_code: 4522B21
+    t_singer_master_id: '40483'
+    singer_name: 悠木 碧
+    singer_alias:
+    available_date: '2021-07-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 蜘蛛ですが、なにか?<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんまいおうん
+    singer_name_ruby: ゆうきあおい
+    song_variation:
+    - esong_code: 4522B21
+      song_name: On My Own
+      content_type: ''
+  - song_name: 母さん
+    song_alias:
+    esong_code: 4523A35
+    t_singer_master_id: '29514'
+    singer_name: 小泉 孝
+    singer_alias:
+    available_date: '2021-07-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かあさん
+    singer_name_ruby: こいすみたかし
+    song_variation:
+    - esong_code: 4523A35
+      song_name: 母さん
       content_type: ''

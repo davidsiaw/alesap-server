@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1011
-  all_max_cnt: 1131
-  all_country_cnt: 1011
+  max_cnt: 1010
+  all_max_cnt: 1130
+  all_country_cnt: 1010
   song:
   - song_name: マジカルさくらちゃん
     song_alias:
@@ -234,7 +234,7 @@ result:
     t_singer_master_id: '2433'
     singer_name: 森若 里子
     singer_alias:
-    available_date: '2010-02-02'
+    available_date: '2010-02-14'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -296,23 +296,6 @@ result:
     - esong_code: 2469B43
       song_name: 岬めぐり
       content_type: ''
-  - song_name: Miss U feat.ZANE
-    song_alias:
-    esong_code: 1862B8
-    t_singer_master_id: '31065'
-    singer_name: CHIHIRO
-    singer_alias:
-    available_date: '2010-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすゆ
-    singer_name_ruby: ちひろ
-    song_variation:
-    - esong_code: 1862B8
-      song_name: Miss U feat.ZANE
-      content_type: ''
   - song_name: Miss U (Remix)
     song_alias:
     esong_code: 2462A8
@@ -329,6 +312,23 @@ result:
     song_variation:
     - esong_code: 2462A8
       song_name: Miss U (Remix)
+      content_type: ''
+  - song_name: Miss U feat.ZANE
+    song_alias:
+    esong_code: 1862B8
+    t_singer_master_id: '31065'
+    singer_name: CHIHIRO
+    singer_alias:
+    available_date: '2010-02-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みすゆ
+    singer_name_ruby: ちひろ
+    song_variation:
+    - esong_code: 1862B8
+      song_name: Miss U feat.ZANE
       content_type: ''
   - song_name: Miss U PartII 〜恋してた〜
     song_alias:

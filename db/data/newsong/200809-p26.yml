@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: 能登の港唄
-    song_alias:
-    esong_code: 2120A37
-    t_singer_master_id: '32381'
-    singer_name: 浜 より子
-    singer_alias:
-    available_date: '2008-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のとのみなとうた
-    singer_name_ruby: はまよりこ
-    song_variation:
-    - esong_code: 2120A37
-      song_name: 能登の港唄
-      content_type: ''
-  - song_name: No×Limit!
-    song_alias:
-    esong_code: 2058B23
-    t_singer_master_id: '33662'
-    singer_name: 亜美
-    singer_alias:
-    available_date: '2008-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 一騎当千<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: のりみつと
-    singer_name_ruby: あみ
-    song_variation:
-    - esong_code: 2058B23
-      song_name: No×Limit!
-      content_type: ''
   - song_name: のんびり行こう
     song_alias:
     esong_code: 2073A36
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2102B47
       song_name: Heart
+      content_type: ''
+  - song_name: Paddler (全英語詞)
+    song_alias:
+    esong_code: 2084B3
+    t_singer_master_id: '34026'
+    singer_name: 清水 一雄(Vocal:advantage Lucy)
+    singer_alias:
+    available_date: '2008-09-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はとら
+    singer_name_ruby: しみすかすお
+    song_variation:
+    - esong_code: 2084B3
+      song_name: Paddler (全英語詞)
+      content_type: ''
+  - song_name: 花
+    song_alias:
+    esong_code: 2102B15
+    t_singer_master_id: '15045'
+    singer_name: SISTER KAYA
+    singer_alias:
+    available_date: '2008-09-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はな
+    singer_name_ruby: しすたかや
+    song_variation:
+    - esong_code: 2102B15
+      song_name: 花
       content_type: ''

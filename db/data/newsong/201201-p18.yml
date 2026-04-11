@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
   - song_name: SEKAI NO OWARIメドレー
     song_alias:
@@ -106,7 +106,7 @@ result:
     singer_alias:
     available_date: '2012-01-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: FINAL FANTASY 零式<番組名>
+    tie_up: FINAL FANTASY(ゲーム版)<番組名>
     country_code: '0'
     content_type: JOY生演奏
     song_name_ruby: せろ
@@ -287,21 +287,21 @@ result:
       content_type: ''
   - song_name: そして・・・雪の中
     song_alias:
-    esong_code: 2738B16
+    esong_code: 2736A5
     t_singer_master_id: '11044'
     singer_name: 永井 裕子
     singer_alias:
-    available_date: '2012-01-12'
+    available_date: '2012-01-11'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
+    content_type:
     song_name_ruby: そしてゆきのなか
     singer_name_ruby: なかいゆうこ
     song_variation:
-    - esong_code: 2738B16
+    - esong_code: 2736A5
       song_name: そして・・・雪の中
-      content_type: JOYﾎﾞｰｶﾙ
+      content_type: ''
   - song_name: そして・・・雪の中
     song_alias:
     esong_code: 2740A6
@@ -321,21 +321,21 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: そして・・・雪の中
     song_alias:
-    esong_code: 2736A5
+    esong_code: 2738B16
     t_singer_master_id: '11044'
     singer_name: 永井 裕子
     singer_alias:
-    available_date: '2012-01-11'
+    available_date: '2012-01-12'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: そしてゆきのなか
     singer_name_ruby: なかいゆうこ
     song_variation:
-    - esong_code: 2736A5
+    - esong_code: 2738B16
       song_name: そして・・・雪の中
-      content_type: ''
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 卒業
     song_alias:
     esong_code: 2735B24
@@ -372,21 +372,21 @@ result:
       content_type: ''
   - song_name: その名はこゆき
     song_alias:
-    esong_code: 2739B38
+    esong_code: 2736A8
     t_singer_master_id: '14044'
     singer_name: 山口 ひろみ
     singer_alias:
-    available_date: '2012-01-17'
+    available_date: '2012-01-11'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type:
     song_name_ruby: そのなはこゆき
     singer_name_ruby: やまくちひろみ
     song_variation:
-    - esong_code: 2739B38
+    - esong_code: 2736A8
       song_name: その名はこゆき
-      content_type: DAM生音
+      content_type: ''
   - song_name: その名はこゆき
     song_alias:
     esong_code: 2740A12
@@ -404,23 +404,6 @@ result:
     - esong_code: 2740A12
       song_name: その名はこゆき
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: その名はこゆき
-    song_alias:
-    esong_code: 2736A8
-    t_singer_master_id: '14044'
-    singer_name: 山口 ひろみ
-    singer_alias:
-    available_date: '2012-01-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そのなはこゆき
-    singer_name_ruby: やまくちひろみ
-    song_variation:
-    - esong_code: 2736A8
-      song_name: その名はこゆき
-      content_type: ''
   - song_name: 空色デイズ
     song_alias:
     esong_code: 2745A41
@@ -522,4 +505,21 @@ result:
     song_variation:
     - esong_code: 2744A46
       song_name: Tiger Tiger
+      content_type: ''
+  - song_name: 大好きがいっぱい
+    song_alias:
+    esong_code: 2741A33
+    t_singer_master_id: '44066'
+    singer_name: 小川 千春
+    singer_alias:
+    available_date: '2012-01-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たいすきかいつは
+    singer_name_ruby: おかわちはる
+    song_variation:
+    - esong_code: 2741A33
+      song_name: 大好きがいっぱい
       content_type: ''

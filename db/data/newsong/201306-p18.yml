@@ -7,6 +7,23 @@ result:
   all_max_cnt: 1753
   all_country_cnt: 1570
   song:
+  - song_name: 恋い蛍
+    song_alias:
+    esong_code: 3063B13
+    t_singer_master_id: '21701'
+    singer_name: 石川 英郎
+    singer_alias:
+    available_date: '2013-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 金色のコルダ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいほたる
+    singer_name_ruby: いしかわひてお
+    song_variation:
+    - esong_code: 3063B13
+      song_name: 恋い蛍
+      content_type: ''
   - song_name: 恋・迷い鳥
     song_alias:
     esong_code: 3053B43
@@ -185,7 +202,7 @@ result:
     singer_alias:
     available_date: '2013-06-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダー バトライド・ウォー<番組名>
+    tie_up: 仮面ライダー(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: こけつとえむ
@@ -313,23 +330,6 @@ result:
     - esong_code: 3064A43
       song_name: 孤独とランデブー
       content_type: ''
-  - song_name: コトノハ
-    song_alias:
-    esong_code: 3064A9
-    t_singer_master_id: '24966'
-    singer_name: 今井 麻美
-    singer_alias:
-    available_date: '2013-06-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 恋と選挙とチョコレート<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ことのは
-    singer_name_ruby: いまいあさみ
-    song_variation:
-    - esong_code: 3064A9
-      song_name: コトノハ
-      content_type: ''
   - song_name: 言ノ葉
     song_alias:
     esong_code: 3050A30
@@ -346,6 +346,23 @@ result:
     song_variation:
     - esong_code: 3050A30
       song_name: 言ノ葉
+      content_type: ''
+  - song_name: コトノハ
+    song_alias:
+    esong_code: 3064A9
+    t_singer_master_id: '24966'
+    singer_name: 今井 麻美
+    singer_alias:
+    available_date: '2013-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 恋と選挙とチョコレート<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことのは
+    singer_name_ruby: いまいあさみ
+    song_variation:
+    - esong_code: 3064A9
+      song_name: コトノハ
       content_type: ''
   - song_name: この一瞬 feat.初音ミク
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3064A39
       song_name: ゴールデンボンバーヒットソングメドレー
-      content_type: ''
-  - song_name: これでいいのだ!
-    song_alias:
-    esong_code: 3059A35
-    t_singer_master_id: '48099'
-    singer_name: ナツリカ(私立恵比寿中学)
-    singer_alias:
-    available_date: '2013-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: これていいのた
-    singer_name_ruby: なつりか
-    song_variation:
-    - esong_code: 3059A35
-      song_name: これでいいのだ!
       content_type: ''

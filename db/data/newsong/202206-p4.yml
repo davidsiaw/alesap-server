@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1171
-  all_max_cnt: 1301
-  all_country_cnt: 1171
+  max_cnt: 1157
+  all_max_cnt: 1287
+  all_country_cnt: 1157
   song:
-  - song_name: 一等星☆
-    song_alias:
-    esong_code: 4638B31
-    t_singer_master_id: '12162'
-    singer_name: ケツメイシ
-    singer_alias:
-    available_date: '2022-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつとうせい
-    singer_name_ruby: けつめいし
-    song_variation:
-    - esong_code: 4638B31
-      song_name: 一等星☆
-      content_type: ''
-  - song_name: It Ain't Over
-    song_alias:
-    esong_code: 4641A4
-    t_singer_master_id: '71167'
-    singer_name: NOA
-    singer_alias:
-    available_date: '2022-06-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつとえいんとおは
-    singer_name_ruby: のあ1
-    song_variation:
-    - esong_code: 4641A4
-      song_name: It Ain't Over
-      content_type: ''
   - song_name: イヌ
     song_alias:
     esong_code: 4643B12
@@ -92,23 +58,6 @@ result:
     - esong_code: 4648A18
       song_name: イフ
       content_type: ''
-  - song_name: I.M.A
-    song_alias:
-    esong_code: 4647B49
-    t_singer_master_id: '33226'
-    singer_name: C&K
-    singer_alias:
-    available_date: '2022-06-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いま
-    singer_name_ruby: しあんとけ
-    song_variation:
-    - esong_code: 4647B49
-      song_name: I.M.A
-      content_type: ''
   - song_name: 今
     song_alias:
     esong_code: 2178B9
@@ -126,6 +75,23 @@ result:
     - esong_code: 2178B9
       song_name: 今
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: I.M.A
+    song_alias:
+    esong_code: 4647B49
+    t_singer_master_id: '33226'
+    singer_name: C&K
+    singer_alias:
+    available_date: '2022-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いま
+    singer_name_ruby: しあんとけ
+    song_variation:
+    - esong_code: 4647B49
+      song_name: I.M.A
+      content_type: ''
   - song_name: 今だからふたり
     song_alias:
     esong_code: 4552B13
@@ -449,23 +415,6 @@ result:
     - esong_code: 4645A39
       song_name: WOO! GO!
       content_type: ''
-  - song_name: 嘘喰いギャンブラー
-    song_alias:
-    esong_code: 4636B21
-    t_singer_master_id: '64764'
-    singer_name: ラトゥラトゥ
-    singer_alias:
-    available_date: '2022-06-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うそくいきやんふ
-    singer_name_ruby: らとうらとう
-    song_variation:
-    - esong_code: 4636B21
-      song_name: 嘘喰いギャンブラー
-      content_type: ''
   - song_name: うたかたの恋
     song_alias:
     esong_code: 4646A17
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4645B9
       song_name: 歌を乗せて
+      content_type: ''
+  - song_name: 宇宙船
+    song_alias:
+    esong_code: 4640B31
+    t_singer_master_id: '45831'
+    singer_name: DISH//
+    singer_alias:
+    available_date: '2022-06-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うちゆうせん
+    singer_name_ruby: ていつしゆ
+    song_variation:
+    - esong_code: 4640B31
+      song_name: 宇宙船
+      content_type: ''
+  - song_name: うどん!うどどん!うどどどどーん!
+    song_alias:
+    esong_code: 4644A17
+    t_singer_master_id: '69523'
+    singer_name: 高橋 愛&田中 れいな&夏焼 雅(モーニング娘。)
+    singer_alias:
+    available_date: '2022-06-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うとんうととん
+    singer_name_ruby: たかはしあいたなかれいななつ
+    song_variation:
+    - esong_code: 4644A17
+      song_name: うどん!うどどん!うどどどどーん!
+      content_type: ''
+  - song_name: Ubugoe
+    song_alias:
+    esong_code: 4638A17
+    t_singer_master_id: '2406'
+    singer_name: 森口 博子
+    singer_alias:
+    available_date: '2022-06-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 機動戦士ガンダム(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: うふこえ
+    singer_name_ruby: もりくちひろこ
+    song_variation:
+    - esong_code: 4638A17
+      song_name: Ubugoe
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1092
-  all_country_cnt: 1031
+  max_cnt: 1028
+  all_max_cnt: 1087
+  all_country_cnt: 1028
   song:
-  - song_name: ユメミテイタイ
-    song_alias:
-    esong_code: 1630B15
-    t_singer_master_id: '7891'
-    singer_name: YUKI
-    singer_alias:
-    available_date: '2006-09-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめみていたい
-    singer_name_ruby: ゆき
-    song_variation:
-    - esong_code: 1630B15
-      song_name: ユメミテイタイ
-      content_type: ''
   - song_name: 百合コレクション
     song_alias:
     esong_code: 963B26
@@ -194,23 +177,6 @@ result:
     - esong_code: 1579B46
       song_name: 夜の波止場
       content_type: ''
-  - song_name: よろしく
-    song_alias:
-    esong_code: 1625B45
-    t_singer_master_id: '14881'
-    singer_name: THE BOOGIE JACK
-    singer_alias:
-    available_date: '2006-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: よろしく
-    singer_name_ruby: さふきしやつく
-    song_variation:
-    - esong_code: 1625B45
-      song_name: よろしく
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 4.2.3.
     song_alias:
     esong_code: 765A10
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1629A23
       song_name: Love&Everything
+      content_type: ''
+  - song_name: Love is...
+    song_alias:
+    esong_code: 1638B35
+    t_singer_master_id: '12467'
+    singer_name: AI
+    singer_alias:
+    available_date: '2006-09-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふいす
+    singer_name_ruby: あい
+    song_variation:
+    - esong_code: 1638B35
+      song_name: Love is...
+      content_type: ''
+  - song_name: LOVE IS INSPIRATION
+    song_alias:
+    esong_code: 1300B46
+    t_singer_master_id: '15100'
+    singer_name: BEAT CRUSADERS
+    singer_alias:
+    available_date: '2006-09-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふいすいんすひ
+    singer_name_ruby: ひとくるせいたす
+    song_variation:
+    - esong_code: 1300B46
+      song_name: LOVE IS INSPIRATION
       content_type: ''

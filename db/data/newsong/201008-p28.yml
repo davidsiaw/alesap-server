@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1126
-  all_max_cnt: 1256
-  all_country_cnt: 1126
+  max_cnt: 1125
+  all_max_cnt: 1255
+  all_country_cnt: 1125
   song:
-  - song_name: 不可侵グランド・オペラ
-    song_alias:
-    esong_code: 2587A35
-    t_singer_master_id: '2870'
-    singer_name: 緒方 恵美
-    singer_alias:
-    available_date: '2010-08-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: プリンセスナイトメア<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふかしんくらんと
-    singer_name_ruby: おかためくみ
-    song_variation:
-    - esong_code: 2587A35
-      song_name: 不可侵グランド・オペラ
-      content_type: ''
   - song_name: 不思議なアリス
     song_alias:
     esong_code: 2584A43
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2578A9
       song_name: Blue Planet
+      content_type: ''
+  - song_name: Blue Rainy Days
+    song_alias:
+    esong_code: 2387B4
+    t_singer_master_id: '8356'
+    singer_name: 堀江 由衣
+    singer_alias:
+    available_date: '2010-08-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるれいにて
+    singer_name_ruby: ほりえゆい
+    song_variation:
+    - esong_code: 2387B4
+      song_name: Blue Rainy Days
       content_type: ''

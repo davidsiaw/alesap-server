@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1159
-  all_max_cnt: 1281
-  all_country_cnt: 1159
+  max_cnt: 1157
+  all_max_cnt: 1279
+  all_country_cnt: 1157
   song:
-  - song_name: 混ぜるな危険 (TV Mix Version)
-    song_alias:
-    esong_code: 3480A38
-    t_singer_master_id: '704'
-    singer_name: 筋肉少女帯
-    singer_alias:
-    available_date: '2015-08-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: うしおととら<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ませるなきけん
-    singer_name_ruby: きんにくしようしよたい
-    song_variation:
-    - esong_code: 3480A38
-      song_name: 混ぜるな危険 (TV Mix Version)
-      content_type: ''
-  - song_name: また逢えるでしょうか
-    song_alias:
-    esong_code: 3486B2
-    t_singer_master_id: '48322'
-    singer_name: 千野 一二三
-    singer_alias:
-    available_date: '2015-08-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: またあえるてしよう
-    singer_name_ruby: ちのひふみ
-    song_variation:
-    - esong_code: 3486B2
-      song_name: また逢えるでしょうか
-      content_type: ''
   - song_name: また会えるよね
     song_alias:
     esong_code: 3474A33
@@ -270,7 +236,7 @@ result:
     singer_alias:
     available_date: '2015-08-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 白猫プロジェクト<番組名>
+    tie_up: 白猫プロジェクト(ゲーム版)<番組名>
     country_code: '0'
     content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: まなつのたいよう
@@ -517,3 +483,37 @@ result:
     - esong_code: 3485A17
       song_name: 道
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: みちのく祭旅
+    song_alias:
+    esong_code: 3477A28
+    t_singer_master_id: '24247'
+    singer_name: 高橋 栄子
+    singer_alias:
+    available_date: '2015-08-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みちのくまつりたひ
+    singer_name_ruby: たかはしえいこ
+    song_variation:
+    - esong_code: 3477A28
+      song_name: みちのく祭旅
+      content_type: ''
+  - song_name: MISSION
+    song_alias:
+    esong_code: 3487A5
+    t_singer_master_id: '46879'
+    singer_name: Trignal
+    singer_alias:
+    available_date: '2015-08-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みつしよん
+    singer_name_ruby: とりくなる
+    song_variation:
+    - esong_code: 3487A5
+      song_name: MISSION
+      content_type: ''

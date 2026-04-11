@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1252
-  all_max_cnt: 1433
-  all_country_cnt: 1252
+  max_cnt: 1245
+  all_max_cnt: 1426
+  all_country_cnt: 1245
   song:
-  - song_name: 安波山
-    song_alias:
-    esong_code: 3862B9
-    t_singer_master_id: '54798'
-    singer_name: 菊池 正好
-    singer_alias:
-    available_date: '2017-08-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんはさん
-    singer_name_ruby: きくちまさよし
-    song_variation:
-    - esong_code: 3862B9
-      song_name: 安波山
-      content_type: ''
   - song_name: アンパンマンのマーチ
     song_alias:
     esong_code: 3861B44
@@ -172,7 +155,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: いえろらいと
-    singer_name_ruby: PHARRELLWILLIAMS
+    singer_name_ruby: ふあれるういりあむす
     song_variation:
     - esong_code: 3855A20
       song_name: イエロー・ライト
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3857A42
       song_name: 伊能忠敬 〜初めて日本地図を測った男〜
+      content_type: ''
+  - song_name: Innocence Eye
+    song_alias:
+    esong_code: 3865A31
+    t_singer_master_id: '41789'
+    singer_name: 水谷 瑠奈(NanosizeMir)
+    singer_alias:
+    available_date: '2017-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Rewrite(TV版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: いのせんすあい
+    singer_name_ruby: みすたにるな
+    song_variation:
+    - esong_code: 3865A31
+      song_name: Innocence Eye
       content_type: ''

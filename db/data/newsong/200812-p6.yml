@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1076
-  all_max_cnt: 1197
-  all_country_cnt: 1076
+  max_cnt: 1071
+  all_max_cnt: 1192
+  all_country_cnt: 1071
   song:
+  - song_name: ORANGE RANGEベストメドレー
+    song_alias:
+    esong_code: 2182A23
+    t_singer_master_id: '15759'
+    singer_name: ORANGE RANGE
+    singer_alias:
+    available_date: '2008-12-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれんしれんしへ
+    singer_name_ruby: おれんしれんし
+    song_variation:
+    - esong_code: 2182A23
+      song_name: ORANGE RANGEベストメドレー
+      content_type: ''
   - song_name: お別れ携帯電話
     song_alias:
     esong_code: 2186B48
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 1532B9
       song_name: 金沢慕情
-      content_type: ''
-  - song_name: 悲しき雨音
-    song_alias:
-    esong_code: 2184B47
-    t_singer_master_id: '7374'
-    singer_name: 鈴木 ヤスシ(鈴木やすし)
-    singer_alias:
-    available_date: '2008-12-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしきあまおと
-    singer_name_ruby: すすきやすし
-    song_variation:
-    - esong_code: 2184B47
-      song_name: 悲しき雨音
       content_type: ''

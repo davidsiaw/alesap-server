@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1080
-  all_max_cnt: 1211
-  all_country_cnt: 1080
+  max_cnt: 1066
+  all_max_cnt: 1197
+  all_country_cnt: 1066
   song:
   - song_name: I
     song_alias:
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: 仰げば青空
     song_alias:
-    esong_code: 4184B34
-    t_singer_master_id: '28111'
-    singer_name: 秦 基博
-    singer_alias:
-    available_date: '2019-05-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あおけはあおそ
-    singer_name_ruby: はたもとひろ
-    song_variation:
-    - esong_code: 4184B34
-      song_name: 仰げば青空
-      content_type: DAM生音
-  - song_name: 仰げば青空
-    song_alias:
     esong_code: 4183A29
     t_singer_master_id: '28111'
     singer_name: 秦 基博
@@ -500,6 +483,23 @@ result:
     - esong_code: 4183A29
       song_name: 仰げば青空
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 仰げば青空
+    song_alias:
+    esong_code: 4184B34
+    t_singer_master_id: '28111'
+    singer_name: 秦 基博
+    singer_alias:
+    available_date: '2019-05-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あおけはあおそ
+    singer_name_ruby: はたもとひろ
+    song_variation:
+    - esong_code: 4184B34
+      song_name: 仰げば青空
+      content_type: DAM生音
   - song_name: 赤いイヤホン
     song_alias:
     esong_code: 4184A3

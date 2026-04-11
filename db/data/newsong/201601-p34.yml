@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: 夕陽燦燦
-    song_alias:
-    esong_code: 3285B48
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
-    singer_alias:
-    available_date: '2016-01-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ゆうひさんさん
-    singer_name_ruby: いつきひろし
-    song_variation:
-    - esong_code: 3285B48
-      song_name: 夕陽燦燦
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 夕焼け雲
     song_alias:
     esong_code: 3576A47
@@ -43,23 +26,6 @@ result:
       content_type: ''
   - song_name: 悠々と・・・
     song_alias:
-    esong_code: 2099A18
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2016-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ゆうゆうと
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 2099A18
-      song_name: 悠々と・・・
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 悠々と・・・
-    song_alias:
     esong_code: 2106A38
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -75,23 +41,23 @@ result:
     - esong_code: 2106A38
       song_name: 悠々と・・・
       content_type: ''
-  - song_name: 湯島天神おんな坂
+  - song_name: 悠々と・・・
     song_alias:
-    esong_code: 2106A33
-    t_singer_master_id: '414'
-    singer_name: 岡 ゆう子
+    esong_code: 2099A18
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
     singer_alias:
-    available_date: '2016-01-01'
+    available_date: '2016-01-31'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: ゆしまてんしんおん
-    singer_name_ruby: おかゆうこ
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ゆうゆうと
+    singer_name_ruby: とはいちろう
     song_variation:
-    - esong_code: 2106A33
-      song_name: 湯島天神おんな坂
-      content_type: ''
+    - esong_code: 2099A18
+      song_name: 悠々と・・・
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 湯島天神おんな坂
     song_alias:
     esong_code: 2099A15
@@ -109,6 +75,23 @@ result:
     - esong_code: 2099A15
       song_name: 湯島天神おんな坂
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 湯島天神おんな坂
+    song_alias:
+    esong_code: 2106A33
+    t_singer_master_id: '414'
+    singer_name: 岡 ゆう子
+    singer_alias:
+    available_date: '2016-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆしまてんしんおん
+    singer_name_ruby: おかゆうこ
+    song_variation:
+    - esong_code: 2106A33
+      song_name: 湯島天神おんな坂
+      content_type: ''
   - song_name: 夢心地
     song_alias:
     esong_code: 3577B11
@@ -219,7 +202,7 @@ result:
     singer_alias:
     available_date: '2016-01-07'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラえもん<番組名>
+    tie_up: ドラえもん(新)<番組名>
     country_code: '0'
     content_type: JOYｸﾘｯﾌﾟ
     song_name_ruby: ゆめひより
@@ -270,7 +253,7 @@ result:
     singer_alias:
     available_date: '2016-01-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ゆろてさんしやい
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3582A7
       song_name: "『LAST DANCE』"
+      content_type: ''
+  - song_name: Last Forever feat.加藤ミリヤ&SKY-HI
+    song_alias:
+    esong_code: 3578B42
+    t_singer_master_id: '37425'
+    singer_name: SPICY CHOCOLATE
+    singer_alias:
+    available_date: '2016-01-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らすとふおえは
+    singer_name_ruby: すはいしちよこれと
+    song_variation:
+    - esong_code: 3578B42
+      song_name: Last Forever feat.加藤ミリヤ&SKY-HI
       content_type: ''

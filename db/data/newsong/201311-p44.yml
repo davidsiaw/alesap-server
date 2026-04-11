@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
   - song_name: メニー・メアリー
     song_alias:
@@ -217,7 +217,7 @@ result:
     t_singer_master_id: '1523'
     singer_name: DEEN
     singer_alias:
-    available_date: '2013-11-26'
+    available_date: '2013-11-27'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -315,6 +315,23 @@ result:
       content_type: VOCALOID
   - song_name: もったいないとらんど
     song_alias:
+    esong_code: 3132B36
+    t_singer_master_id: '42876'
+    singer_name: きゃりーぱみゅぱみゅ
+    singer_alias:
+    available_date: '2013-11-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: もつたいないとらんと
+    singer_name_ruby: きやりはみゆはみゆ
+    song_variation:
+    - esong_code: 3132B36
+      song_name: もったいないとらんど
+      content_type: ''
+  - song_name: もったいないとらんど
+    song_alias:
     esong_code: 3135A42
     t_singer_master_id: '42876'
     singer_name: きゃりーぱみゅぱみゅ
@@ -347,23 +364,6 @@ result:
     - esong_code: 3138B18
       song_name: もったいないとらんど
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: もったいないとらんど
-    song_alias:
-    esong_code: 3132B36
-    t_singer_master_id: '42876'
-    singer_name: きゃりーぱみゅぱみゅ
-    singer_alias:
-    available_date: '2013-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: もつたいないとらんと
-    singer_name_ruby: きやりはみゆはみゆ
-    song_variation:
-    - esong_code: 3132B36
-      song_name: もったいないとらんど
-      content_type: ''
   - song_name: モテたいぜ トゥナイト
     song_alias:
     esong_code: 3143B44

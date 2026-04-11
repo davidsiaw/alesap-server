@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
-  - song_name: 約束
-    song_alias:
-    esong_code: 2741A48
-    t_singer_master_id: '24966'
-    singer_name: 今井 麻美
-    singer_alias:
-    available_date: '2012-01-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: THE IDOLM@STER(TV版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: やくそく
-    singer_name_ruby: いまいあさみ
-    song_variation:
-    - esong_code: 2741A48
-      song_name: 約束
-      content_type: ''
   - song_name: 約束のメロディ
     song_alias:
     esong_code: 2741B2
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2748B27
       song_name: 豊かな自然を子供たちに
+      content_type: ''
+  - song_name: yume
+    song_alias:
+    esong_code: 2744B47
+    t_singer_master_id: '33628'
+    singer_name: FTISLAND
+    singer_alias:
+    available_date: '2012-01-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆめ
+    singer_name_ruby: えふていあいらんと
+    song_variation:
+    - esong_code: 2744B47
+      song_name: yume
       content_type: ''

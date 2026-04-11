@@ -3,27 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1487
-  all_max_cnt: 2040
-  all_country_cnt: 1487
+  max_cnt: 1489
+  all_max_cnt: 2041
+  all_country_cnt: 1489
   song:
   - song_name: 黒猫 〜Adult Black Cat〜
     song_alias:
-    esong_code: 3154A42
+    esong_code: 3161A46
     t_singer_master_id: '30291'
     singer_name: Acid Black Cherry
     singer_alias:
-    available_date: '2013-12-08'
+    available_date: '2013-12-28'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
+    content_type: JOYﾎﾞｰｶﾙ
     song_name_ruby: くろねこあたるとふ
     singer_name_ruby: あしつとふらつくちえり
     song_variation:
-    - esong_code: 3154A42
+    - esong_code: 3161A46
       song_name: 黒猫 〜Adult Black Cat〜
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 黒猫モンタージュ feat.初音ミク
     song_alias:
     esong_code: 3153B11
@@ -228,6 +228,23 @@ result:
     - esong_code: 3152A32
       song_name: 現在地
       content_type: ''
+  - song_name: 現状ディストラクション
+    song_alias:
+    esong_code: 3121A45
+    t_singer_master_id: '36641'
+    singer_name: SPYAIR
+    singer_alias:
+    available_date: '2013-12-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 銀魂(劇場版)<番組名>
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: けんしようてい
+    singer_name_ruby: すはいえあ
+    song_variation:
+    - esong_code: 3121A45
+      song_name: 現状ディストラクション
+      content_type: DAM生音
   - song_name: 幻想カタルシス
     song_alias:
     esong_code: 3155B49
@@ -500,20 +517,3 @@ result:
     - esong_code: 3154B15
       song_name: 恋は匂へと散りぬるを
       content_type: DAMｸﾘｯﾌﾟ
-  - song_name: 恋文
-    song_alias:
-    esong_code: 3149B32
-    t_singer_master_id: '2770'
-    singer_name: Chara
-    singer_alias:
-    available_date: '2013-12-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいふみ
-    singer_name_ruby: ちやら
-    song_variation:
-    - esong_code: 3149B32
-      song_name: 恋文
-      content_type: ''

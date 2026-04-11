@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 433
-  all_max_cnt: 461
-  all_country_cnt: 433
+  max_cnt: 431
+  all_max_cnt: 459
+  all_country_cnt: 431
   song:
-  - song_name: アルエ
-    song_alias:
-    esong_code: 767B39
-    t_singer_master_id: '12276'
-    singer_name: BUMP OF CHICKEN
-    singer_alias:
-    available_date: '2002-02-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるえ
-    singer_name_ruby: はんふおふちきん
-    song_variation:
-    - esong_code: 767B39
-      song_name: アルエ
-      content_type: ''
   - song_name: ALKMAN(Original Version)
     song_alias:
     esong_code: 757B29
@@ -43,23 +26,6 @@ result:
       content_type: ''
   - song_name: Understanding
     song_alias:
-    esong_code: 759A38
-    t_singer_master_id: '5430'
-    singer_name: hitomi
-    singer_alias:
-    available_date: '2002-02-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんたすたんて
-    singer_name_ruby: ひとみ
-    song_variation:
-    - esong_code: 759A38
-      song_name: Understanding
-      content_type: ''
-  - song_name: Understanding
-    song_alias:
     esong_code: 93B49
     t_singer_master_id: '5430'
     singer_name: hitomi
@@ -75,6 +41,23 @@ result:
     - esong_code: 93B49
       song_name: Understanding
       content_type: DAM良音
+  - song_name: Understanding
+    song_alias:
+    esong_code: 759A38
+    t_singer_master_id: '5430'
+    singer_name: hitomi
+    singer_alias:
+    available_date: '2002-02-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんたすたんて
+    singer_name_ruby: ひとみ
+    song_variation:
+    - esong_code: 759A38
+      song_name: Understanding
+      content_type: ''
   - song_name: undecided
     song_alias:
     esong_code: 758A22
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 763B37
       song_name: S・D・R
+      content_type: ''
+  - song_name: EDGE
+    song_alias:
+    esong_code: 765B33
+    t_singer_master_id: '54'
+    singer_name: access
+    singer_alias:
+    available_date: '2002-02-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えつし
+    singer_name_ruby: あくせす
+    song_variation:
+    - esong_code: 765B33
+      song_name: EDGE
       content_type: ''

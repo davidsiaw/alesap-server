@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
+  - song_name: Fine after rain
+    song_alias:
+    esong_code: 2186B22
+    t_singer_master_id: '33419'
+    singer_name: girl next door
+    singer_alias:
+    available_date: '2009-01-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふあいんあふたれい
+    singer_name_ruby: かるねくすととあ
+    song_variation:
+    - esong_code: 2186B22
+      song_name: Fine after rain
+      content_type: ''
   - song_name: Fiat lux -光あれ-
     song_alias:
     esong_code: 2192A40
@@ -15,7 +32,7 @@ result:
     singer_alias:
     available_date: '2009-01-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・シンフォニア THE ANIMATION<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(アニメ版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ふいあつとらつくす
@@ -338,7 +355,7 @@ result:
     singer_alias:
     available_date: '2009-01-28'
     end_date: '2999-04-10 00:00:00'
-    tie_up: TALES OF THE WORLD RADIANT MYTHOLOGY2<番組名>
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
     country_code: '0'
     content_type:
     song_name_ruby: ふらいあうえい
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2186B44
       song_name: Bling Bling Bling feat.AK-69
-      content_type: ''
-  - song_name: PRINCE
-    song_alias:
-    esong_code: 2201B41
-    t_singer_master_id: '30958'
-    singer_name: Versailles
-    singer_alias:
-    available_date: '2009-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりんす
-    singer_name_ruby: へるさいゆ
-    song_variation:
-    - esong_code: 2201B41
-      song_name: PRINCE
       content_type: ''

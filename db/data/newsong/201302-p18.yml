@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
   - song_name: 情熱
     song_alias:
@@ -126,23 +126,6 @@ result:
     - esong_code: 2985A46
       song_name: ジョジョ 〜その血の運命〜
       content_type: DAMﾌﾟﾛｵｹ
-  - song_name: ジョジョ 〜その血の運命〜
-    song_alias:
-    esong_code: 2985A25
-    t_singer_master_id: '46018'
-    singer_name: 富永TOMMY弘明
-    singer_alias:
-    available_date: '2013-02-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ジョジョの奇妙な冒険<番組名>
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: しよしよそのちの
-    singer_name_ruby: とみなかとみひろあき
-    song_variation:
-    - esong_code: 2985A25
-      song_name: ジョジョ 〜その血の運命〜
-      content_type: DAM生音
   - song_name: 初心をKEEP ON!
     song_alias:
     esong_code: 2984A43
@@ -323,7 +306,7 @@ result:
     song_alias:
     esong_code: 2987A25
     t_singer_master_id: '41427'
-    singer_name: ひとしずくP feat.鏡音リン、鏡音レン
+    singer_name: ひとしずく feat.鏡音リン、鏡音レン
     singer_alias:
     available_date: '2013-02-17'
     end_date: '2999-04-10 00:00:00'
@@ -331,7 +314,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: しんくろにしてい1
-    singer_name_ruby: ひとしすくひふいちやりんくか
+    singer_name_ruby: ひとしすくふいちやりんくか
     song_variation:
     - esong_code: 2987A25
       song_name: Synchronicity 〜第一章 君を捜す空〜
@@ -340,7 +323,7 @@ result:
     song_alias:
     esong_code: 2987A21
     t_singer_master_id: '46612'
-    singer_name: ひとしずくP×やま△ feat.鏡音リン、鏡音レン
+    singer_name: ひとしずく×やま△ feat.鏡音リン、鏡音レン
     singer_alias:
     available_date: '2013-02-17'
     end_date: '2999-04-10 00:00:00'
@@ -348,7 +331,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: しんくろにしてい2
-    singer_name_ruby: ひとしすくひやまさんかつけふい
+    singer_name_ruby: ひとしすくやまさんかつけふい
     song_variation:
     - esong_code: 2987A21
       song_name: Synchronicity 〜第二章 光と影の楽園〜
@@ -357,7 +340,7 @@ result:
     song_alias:
     esong_code: 2987A18
     t_singer_master_id: '46612'
-    singer_name: ひとしずくP×やま△ feat.鏡音リン、鏡音レン
+    singer_name: ひとしずく×やま△ feat.鏡音リン、鏡音レン
     singer_alias:
     available_date: '2013-02-17'
     end_date: '2999-04-10 00:00:00'
@@ -365,7 +348,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: しんくろにしてい3
-    singer_name_ruby: ひとしすくひやまさんかつけふい
+    singer_name_ruby: ひとしすくやまさんかつけふい
     song_variation:
     - esong_code: 2987A18
       song_name: Synchronicity -第三章 巡る世界のレクイエム-
@@ -406,23 +389,6 @@ result:
       content_type: VOCALOID
   - song_name: 人生に乾杯
     song_alias:
-    esong_code: 2982B26
-    t_singer_master_id: '18405'
-    singer_name: 川崎 修二
-    singer_alias:
-    available_date: '2013-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんせいにかんは
-    singer_name_ruby: かわさきしゆうし
-    song_variation:
-    - esong_code: 2982B26
-      song_name: 人生に乾杯
-      content_type: ''
-  - song_name: 人生に乾杯
-    song_alias:
     esong_code: 2984B26
     t_singer_master_id: '2419'
     singer_name: 森 昌子
@@ -438,6 +404,23 @@ result:
     - esong_code: 2984B26
       song_name: 人生に乾杯
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 人生に乾杯
+    song_alias:
+    esong_code: 2982B26
+    t_singer_master_id: '18405'
+    singer_name: 川崎 修二
+    singer_alias:
+    available_date: '2013-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんせいにかんは
+    singer_name_ruby: かわさきしゆうし
+    song_variation:
+    - esong_code: 2982B26
+      song_name: 人生に乾杯
+      content_type: ''
   - song_name: 人生花ごよみ
     song_alias:
     esong_code: 2990A13
@@ -523,3 +506,20 @@ result:
     - esong_code: 2187B44
       song_name: スイミングガール
       content_type: ''
+  - song_name: スウィートタイム feat.巡音ルカ
+    song_alias:
+    esong_code: 2988B45
+    t_singer_master_id: '41204'
+    singer_name: EasyPop
+    singer_alias:
+    available_date: '2013-02-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: すういとたいむ
+    singer_name_ruby: いしほつふ
+    song_variation:
+    - esong_code: 2988B45
+      song_name: スウィートタイム feat.巡音ルカ
+      content_type: VOCALOID

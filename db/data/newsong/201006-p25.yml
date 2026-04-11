@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
+  - song_name: Hard to say I love you〜言い出せなくて〜
+    song_alias:
+    esong_code: 2567B43
+    t_singer_master_id: '37886'
+    singer_name: WEAVER
+    singer_alias:
+    available_date: '2010-06-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: はととうせいあい
+    singer_name_ruby: ういは
+    song_variation:
+    - esong_code: 2567B43
+      song_name: Hard to say I love you〜言い出せなくて〜
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: Heart To Heart
     song_alias:
     esong_code: 2559A5
@@ -366,6 +383,23 @@ result:
       content_type: ''
   - song_name: ハーモニー
     song_alias:
+    esong_code: 2553B11
+    t_singer_master_id: '6120'
+    singer_name: My Little Lover
+    singer_alias:
+    available_date: '2010-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はもに
+    singer_name_ruby: まいりとるらは
+    song_variation:
+    - esong_code: 2553B11
+      song_name: ハーモニー
+      content_type: ''
+  - song_name: ハーモニー
+    song_alias:
     esong_code: 2558A27
     t_singer_master_id: '574'
     singer_name: 加山 雄三
@@ -379,23 +413,6 @@ result:
     singer_name_ruby: かやまゆうそう
     song_variation:
     - esong_code: 2558A27
-      song_name: ハーモニー
-      content_type: ''
-  - song_name: ハーモニー
-    song_alias:
-    esong_code: 2553B11
-    t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
-    singer_alias:
-    available_date: '2010-06-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はもに
-    singer_name_ruby: まいりとるらは
-    song_variation:
-    - esong_code: 2553B11
       song_name: ハーモニー
       content_type: ''
   - song_name: 疾風-hayate-
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2556B27
       song_name: ハルカ カナタ
-      content_type: ''
-  - song_name: 遥かな空へ
-    song_alias:
-    esong_code: 2556A37
-    t_singer_master_id: '29463'
-    singer_name: KAZCO
-    singer_alias:
-    available_date: '2010-06-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: スカイガンナー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるかなそらへ
-    singer_name_ruby: かすこ
-    song_variation:
-    - esong_code: 2556A37
-      song_name: 遥かな空へ
       content_type: ''

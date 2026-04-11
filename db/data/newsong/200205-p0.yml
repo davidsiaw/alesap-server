@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 398
-  all_max_cnt: 457
-  all_country_cnt: 398
+  max_cnt: 395
+  all_max_cnt: 455
+  all_country_cnt: 395
   song:
   - song_name: I am Golden Head
     song_alias:
@@ -313,23 +313,6 @@ result:
     - esong_code: 836B24
       song_name: アカシア
       content_type: ''
-  - song_name: あこがれ
-    song_alias:
-    esong_code: 235B20
-    t_singer_master_id: '250'
-    singer_name: 井上 陽水
-    singer_alias:
-    available_date: '2002-05-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あこかれ
-    singer_name_ruby: いのうえようすい
-    song_variation:
-    - esong_code: 235B20
-      song_name: あこがれ
-      content_type: ''
   - song_name: 紫陽花
     song_alias:
     esong_code: 843A30
@@ -383,23 +366,6 @@ result:
       content_type: ''
   - song_name: アシンメトリー
     song_alias:
-    esong_code: 846A27
-    t_singer_master_id: '7844'
-    singer_name: スガ シカオ
-    singer_alias:
-    available_date: '2002-05-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あしんめとり
-    singer_name_ruby: すかしかお
-    song_variation:
-    - esong_code: 846A27
-      song_name: アシンメトリー
-      content_type: ''
-  - song_name: アシンメトリー
-    song_alias:
     esong_code: 109B41
     t_singer_master_id: '7844'
     singer_name: スガ シカオ
@@ -415,6 +381,23 @@ result:
     - esong_code: 109B41
       song_name: アシンメトリー
       content_type: DAM良音
+  - song_name: アシンメトリー
+    song_alias:
+    esong_code: 846A27
+    t_singer_master_id: '7844'
+    singer_name: スガ シカオ
+    singer_alias:
+    available_date: '2002-05-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あしんめとり
+    singer_name_ruby: すかしかお
+    song_variation:
+    - esong_code: 846A27
+      song_name: アシンメトリー
+      content_type: ''
   - song_name: 明日なき暴走の果てに
     song_alias:
     esong_code: 842A24
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 845A34
       song_name: Another Days
+      content_type: ''
+  - song_name: あなただけのESP! (真琴つばさ&檀れい)
+    song_alias:
+    esong_code: 840B37
+    t_singer_master_id: '1349'
+    singer_name: 宝塚歌劇団
+    singer_alias:
+    available_date: '2002-05-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたたけのいえ
+    singer_name_ruby: たからつかかけき
+    song_variation:
+    - esong_code: 840B37
+      song_name: あなただけのESP! (真琴つばさ&檀れい)
       content_type: ''

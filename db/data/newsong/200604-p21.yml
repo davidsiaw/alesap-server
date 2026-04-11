@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1062
-  all_max_cnt: 1154
-  all_country_cnt: 1062
+  max_cnt: 1061
+  all_max_cnt: 1153
+  all_country_cnt: 1061
   song:
-  - song_name: 友
-    song_alias:
-    esong_code: 1493A24
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2006-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とも
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 1493A24
-      song_name: 友
-      content_type: ''
   - song_name: 友達から恋人までの距離
     song_alias:
     esong_code: 1490B26
@@ -117,7 +100,7 @@ result:
     singer_alias:
     available_date: '2006-04-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: とらいあんぐるハート 〜Sweet Songs Forever〜<番組名>
+    tie_up: とらいあんぐるハート(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: とらすとゆあとうる
@@ -517,3 +500,20 @@ result:
     - esong_code: 1489A8
       song_name: 泣けてきちゃった
       content_type: DAM生音
+  - song_name: Natural Pop Takagi Masakatsu"girls"remix
+    song_alias:
+    esong_code: 1481B48
+    t_singer_master_id: '15759'
+    singer_name: ORANGE RANGE
+    singer_alias:
+    available_date: '2006-04-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なちゆらるほつふ
+    singer_name_ruby: おれんしれんし
+    song_variation:
+    - esong_code: 1481B48
+      song_name: Natural Pop Takagi Masakatsu"girls"remix
+      content_type: ''

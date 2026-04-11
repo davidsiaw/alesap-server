@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
-  - song_name: 旅立ち
-    song_alias:
-    esong_code: 1987A6
-    t_singer_master_id: '28788'
-    singer_name: GReeeeN
-    singer_alias:
-    available_date: '2008-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: たひたち
-    singer_name_ruby: くりん
-    song_variation:
-    - esong_code: 1987A6
-      song_name: 旅立ち
-      content_type: DAM生音
   - song_name: 旅立ちの日に
     song_alias:
     esong_code: 1979B48
@@ -83,7 +66,7 @@ result:
     singer_alias:
     available_date: '2008-04-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダー電王&キバ クライマックス刑事<番組名>
+    tie_up: 仮面ライダー電王<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たふるあくしよん
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1977A33
       song_name: 蝶ノ森
+      content_type: ''
+  - song_name: 蝶の螺旋
+    song_alias:
+    esong_code: 1990A34
+    t_singer_master_id: '24617'
+    singer_name: 後藤 沙緒里
+    singer_alias:
+    available_date: '2008-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ちようのらせん
+    singer_name_ruby: ことうさおり
+    song_variation:
+    - esong_code: 1990A34
+      song_name: 蝶の螺旋
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1137
-  all_max_cnt: 1232
-  all_country_cnt: 1137
+  max_cnt: 1130
+  all_max_cnt: 1225
+  all_country_cnt: 1130
   song:
   - song_name: 俺がやらなきゃ誰がやる
     song_alias:
@@ -15,7 +15,7 @@ result:
     singer_alias:
     available_date: '2006-12-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: DRAGON BALL Z 龍拳爆発!!悟空がやらねば誰がやる<番組名>
+    tie_up: DRAGON BALL(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おれかやらなきやた
@@ -283,7 +283,7 @@ result:
     song_alias:
     esong_code: 1698B45
     t_singer_master_id: '27928'
-    singer_name: KEITA(橘慶太)
+    singer_name: 橘 慶太(KEITA)
     singer_alias:
     available_date: '2006-12-30'
     end_date: '2999-04-10 00:00:00'
@@ -291,7 +291,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: かくせい
-    singer_name_ruby: けいた
+    singer_name_ruby: たちはなけいた
     song_variation:
     - esong_code: 1698B45
       song_name: 覚醒
@@ -346,23 +346,6 @@ result:
     song_variation:
     - esong_code: 1692B9
       song_name: 過去
-      content_type: ''
-  - song_name: 風
-    song_alias:
-    esong_code: 1607A42
-    t_singer_master_id: '26932'
-    singer_name: 山田 健二
-    singer_alias:
-    available_date: '2006-12-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせ
-    singer_name_ruby: やまたけんし
-    song_variation:
-    - esong_code: 1607A42
-      song_name: 風
       content_type: ''
   - song_name: 化石の歌
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 986A43
       song_name: 勝手なひとね
+      content_type: ''
+  - song_name: 悲しみのDestiny
+    song_alias:
+    esong_code: 1696B26
+    t_singer_master_id: '16038'
+    singer_name: MIQ(MIO)
+    singer_alias:
+    available_date: '2006-12-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: エリア88<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしみのていすて
+    singer_name_ruby: みく
+    song_variation:
+    - esong_code: 1696B26
+      song_name: 悲しみのDestiny
       content_type: ''

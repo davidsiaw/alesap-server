@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 807
-  all_max_cnt: 867
-  all_country_cnt: 807
+  max_cnt: 806
+  all_max_cnt: 866
+  all_country_cnt: 806
   song:
-  - song_name: ラブリー
-    song_alias:
-    esong_code: 584A3
-    t_singer_master_id: '8356'
-    singer_name: 堀江 由衣
-    singer_alias:
-    available_date: '2004-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふり
-    singer_name_ruby: ほりえゆい
-    song_variation:
-    - esong_code: 584A3
-      song_name: ラブリー
-      content_type: ''
   - song_name: ラブレター
     song_alias:
     esong_code: 552B12
@@ -245,23 +228,6 @@ result:
     - esong_code: 568B9
       song_name: REMEMBER
       content_type: ''
-  - song_name: 青龍
-    song_alias:
-    esong_code: 571A3
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2004-09-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: りゆう
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 571A3
-      song_name: 青龍
-      content_type: ''
   - song_name: 龍
     song_alias:
     esong_code: 553B10
@@ -278,6 +244,23 @@ result:
     song_variation:
     - esong_code: 553B10
       song_name: 龍
+      content_type: ''
+  - song_name: 青龍
+    song_alias:
+    esong_code: 571A3
+    t_singer_master_id: '10507'
+    singer_name: 氷川 きよし
+    singer_alias:
+    available_date: '2004-09-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: りゆう
+    singer_name_ruby: ひかわきよし
+    song_variation:
+    - esong_code: 571A3
+      song_name: 青龍
       content_type: ''
   - song_name: リュウグウノツカイ
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 595B7
       song_name: Revolution
+      content_type: ''
+  - song_name: レム
+    song_alias:
+    esong_code: 545B7
+    t_singer_master_id: '12276'
+    singer_name: BUMP OF CHICKEN
+    singer_alias:
+    available_date: '2004-09-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: れむ
+    singer_name_ruby: はんふおふちきん
+    song_variation:
+    - esong_code: 545B7
+      song_name: レム
       content_type: ''

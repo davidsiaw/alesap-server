@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1512
-  all_max_cnt: 1681
-  all_country_cnt: 1512
+  max_cnt: 1511
+  all_max_cnt: 1680
+  all_country_cnt: 1511
   song:
   - song_name: 愛は奇跡 〜返り咲き〜
     song_alias:
@@ -26,23 +26,6 @@ result:
       content_type: ''
   - song_name: 愛は水平線
     song_alias:
-    esong_code: 3197B37
-    t_singer_master_id: '12233'
-    singer_name: ハン・ジナ(ハン・ボクスン)
-    singer_alias:
-    available_date: '2014-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: あいはすいへいせん
-    singer_name_ruby: はんしな
-    song_variation:
-    - esong_code: 3197B37
-      song_name: 愛は水平線
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 愛は水平線
-    song_alias:
     esong_code: 2984B41
     t_singer_master_id: '12233'
     singer_name: ハン・ジナ(ハン・ボクスン)
@@ -58,6 +41,23 @@ result:
     - esong_code: 2984B41
       song_name: 愛は水平線
       content_type: ''
+  - song_name: 愛は水平線
+    song_alias:
+    esong_code: 3197B37
+    t_singer_master_id: '12233'
+    singer_name: ハン・ジナ(ハン・ボクスン)
+    singer_alias:
+    available_date: '2014-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あいはすいへいせん
+    singer_name_ruby: はんしな
+    song_variation:
+    - esong_code: 3197B37
+      song_name: 愛は水平線
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 愛はルビーのきらめきで
     song_alias:
     esong_code: 1434B34
@@ -485,23 +485,6 @@ result:
       content_type: DAM生音
   - song_name: 浅野川春秋
     song_alias:
-    esong_code: 3197B33
-    t_singer_master_id: '1047'
-    singer_name: 島津 悦子
-    singer_alias:
-    available_date: '2014-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: あさのかわしゆんし
-    singer_name_ruby: しまつえつこ
-    song_variation:
-    - esong_code: 3197B33
-      song_name: 浅野川春秋
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 浅野川春秋
-    song_alias:
     esong_code: 2985A3
     t_singer_master_id: '1047'
     singer_name: 島津 悦子
@@ -517,3 +500,20 @@ result:
     - esong_code: 2985A3
       song_name: 浅野川春秋
       content_type: ''
+  - song_name: 浅野川春秋
+    song_alias:
+    esong_code: 3197B33
+    t_singer_master_id: '1047'
+    singer_name: 島津 悦子
+    singer_alias:
+    available_date: '2014-02-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: あさのかわしゆんし
+    singer_name_ruby: しまつえつこ
+    song_variation:
+    - esong_code: 3197B33
+      song_name: 浅野川春秋
+      content_type: DAMﾌﾟﾛｵｹ

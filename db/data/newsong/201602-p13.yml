@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1236
-  all_max_cnt: 1361
-  all_country_cnt: 1236
+  max_cnt: 1230
+  all_max_cnt: 1355
+  all_country_cnt: 1230
   song:
-  - song_name: Go ahead
-    song_alias:
-    esong_code: 3596A34
-    t_singer_master_id: '55379'
-    singer_name: CRIPTON
-    singer_alias:
-    available_date: '2016-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: はりもぐハーリー<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こあへつと
-    singer_name_ruby: くりふとん
-    song_variation:
-    - esong_code: 3596A34
-      song_name: Go ahead
-      content_type: ''
-  - song_name: 恋明かり
-    song_alias:
-    esong_code: 3599A7
-    t_singer_master_id: '34337'
-    singer_name: 永井 とも子
-    singer_alias:
-    available_date: '2016-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいあかり
-    singer_name_ruby: なかいともこ
-    song_variation:
-    - esong_code: 3599A7
-      song_name: 恋明かり
-      content_type: ''
-  - song_name: 恋心
-    song_alias:
-    esong_code: 3593A29
-    t_singer_master_id: '50864'
-    singer_name: MACO
-    singer_alias:
-    available_date: '2016-02-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: こいこころ
-    singer_name_ruby: まこ
-    song_variation:
-    - esong_code: 3593A29
-      song_name: 恋心
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 恋心
     song_alias:
     esong_code: 3591A19
@@ -92,6 +41,23 @@ result:
     - esong_code: 3587B48
       song_name: 恋心
       content_type: ''
+  - song_name: 恋心
+    song_alias:
+    esong_code: 3593A29
+    t_singer_master_id: '50864'
+    singer_name: MACO
+    singer_alias:
+    available_date: '2016-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: こいこころ
+    singer_name_ruby: まこ
+    song_variation:
+    - esong_code: 3593A29
+      song_name: 恋心
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 恋しさ燃えて
     song_alias:
     esong_code: 2099A2
@@ -468,23 +434,6 @@ result:
       content_type: DAM本人歌唱
   - song_name: 瞽女(ごぜ)の恋唄
     song_alias:
-    esong_code: 3595B7
-    t_singer_master_id: '551'
-    singer_name: 金田 たつえ
-    singer_alias:
-    available_date: '2016-02-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こせのこいうた
-    singer_name_ruby: かねたたつえ
-    song_variation:
-    - esong_code: 3595B7
-      song_name: 瞽女(ごぜ)の恋唄
-      content_type: ''
-  - song_name: 瞽女(ごぜ)の恋唄
-    song_alias:
     esong_code: 2098A17
     t_singer_master_id: '551'
     singer_name: 金田 たつえ
@@ -500,6 +449,23 @@ result:
     - esong_code: 2098A17
       song_name: 瞽女(ごぜ)の恋唄
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 瞽女(ごぜ)の恋唄
+    song_alias:
+    esong_code: 3595B7
+    t_singer_master_id: '551'
+    singer_name: 金田 たつえ
+    singer_alias:
+    available_date: '2016-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こせのこいうた
+    singer_name_ruby: かねたたつえ
+    song_variation:
+    - esong_code: 3595B7
+      song_name: 瞽女(ごぜ)の恋唄
+      content_type: ''
   - song_name: 伍代夏子ヒットソングメドレー
     song_alias:
     esong_code: 3599A25
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3599A25
       song_name: 伍代夏子ヒットソングメドレー
+      content_type: ''
+  - song_name: 鼓動の彼方
+    song_alias:
+    esong_code: 3600B10
+    t_singer_master_id: '40363'
+    singer_name: ミルキィホームズ
+    singer_alias:
+    available_date: '2016-02-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 探偵オペラ ミルキィホームズ(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことうのかなた
+    singer_name_ruby: みるきいほむす
+    song_variation:
+    - esong_code: 3600B10
+      song_name: 鼓動の彼方
+      content_type: ''
+  - song_name: 孤独の合唱
+    song_alias:
+    esong_code: 3587B28
+    t_singer_master_id: '12276'
+    singer_name: BUMP OF CHICKEN
+    singer_alias:
+    available_date: '2016-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことくのかつしよ
+    singer_name_ruby: はんふおふちきん
+    song_variation:
+    - esong_code: 3587B28
+      song_name: 孤独の合唱
       content_type: ''

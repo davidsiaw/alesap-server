@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1412
-  all_max_cnt: 1527
-  all_country_cnt: 1412
+  max_cnt: 1411
+  all_max_cnt: 1526
+  all_country_cnt: 1411
   song:
   - song_name: 緑のふるさと
     song_alias:
@@ -383,23 +383,6 @@ result:
       content_type: ''
   - song_name: メキ☆ラブ
     song_alias:
-    esong_code: 2648A11
-    t_singer_master_id: '37594'
-    singer_name: 超新星(SUPERNOVA)
-    singer_alias:
-    available_date: '2011-08-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めきらふ
-    singer_name_ruby: ちようしんせいすはのは
-    song_variation:
-    - esong_code: 2648A11
-      song_name: メキ☆ラブ
-      content_type: ''
-  - song_name: メキ☆ラブ
-    song_alias:
     esong_code: 2654B10
     t_singer_master_id: '37594'
     singer_name: 超新星(SUPERNOVA)
@@ -415,6 +398,23 @@ result:
     - esong_code: 2654B10
       song_name: メキ☆ラブ
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: メキ☆ラブ
+    song_alias:
+    esong_code: 2648A11
+    t_singer_master_id: '37594'
+    singer_name: 超新星(SUPERNOVA)
+    singer_alias:
+    available_date: '2011-08-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めきらふ
+    singer_name_ruby: ちようしんせいすはのは
+    song_variation:
+    - esong_code: 2648A11
+      song_name: メキ☆ラブ
+      content_type: ''
   - song_name: 巡り行く時間を君と
     song_alias:
     esong_code: 2652A13

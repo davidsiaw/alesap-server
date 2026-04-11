@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1365
-  all_max_cnt: 1538
-  all_country_cnt: 1365
+  max_cnt: 1361
+  all_max_cnt: 1534
+  all_country_cnt: 1361
   song:
   - song_name: SJ
     song_alias:
@@ -109,23 +109,6 @@ result:
     - esong_code: 3663B43
       song_name: エベレストレッチ
       content_type: ''
-  - song_name: エミ 〜本当の友だち〜
-    song_alias:
-    esong_code: 3516B7
-    t_singer_master_id: '41666'
-    singer_name: 8utterfly
-    singer_alias:
-    available_date: '2016-08-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: えみほんとうのともた
-    singer_name_ruby: はたふらい
-    song_variation:
-    - esong_code: 3516B7
-      song_name: エミ 〜本当の友だち〜
-      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Emorir-エモリア-
     song_alias:
     esong_code: 3664B44
@@ -517,3 +500,20 @@ result:
     - esong_code: 3669B10
       song_name: おかえり
       content_type: DAMﾗｲﾌﾞ
+  - song_name: 沖縄の母 〜池原富物語〜
+    song_alias:
+    esong_code: 3395B39
+    t_singer_master_id: '56670'
+    singer_name: 北吉 伸伍
+    singer_alias:
+    available_date: '2016-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おきなわのははいけは
+    singer_name_ruby: きたよししんこ
+    song_variation:
+    - esong_code: 3395B39
+      song_name: 沖縄の母 〜池原富物語〜
+      content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1152
+  max_cnt: 1151
   all_max_cnt: 1295
-  all_country_cnt: 1152
+  all_country_cnt: 1151
   song:
   - song_name: COLOR STYLE
     song_alias:
@@ -330,23 +330,6 @@ result:
     - esong_code: 1993A40
       song_name: Kiss away
       content_type: ''
-  - song_name: kIzuna
-    song_alias:
-    esong_code: 1986A32
-    t_singer_master_id: '32234'
-    singer_name: pRythme (麻生 夏子&河瀬&ゆり&椋木 えり)
-    singer_alias:
-    available_date: '2008-04-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: MAGISTER NEGI MAGI 魔法先生ネギま! (実写版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きすな
-    singer_name_ruby: ふりすむ
-    song_variation:
-    - esong_code: 1986A32
-      song_name: kIzuna
-      content_type: ''
   - song_name: KIZUNA
     song_alias:
     esong_code: 1983B4
@@ -363,6 +346,23 @@ result:
     song_variation:
     - esong_code: 1983B4
       song_name: KIZUNA
+      content_type: ''
+  - song_name: kIzuna
+    song_alias:
+    esong_code: 1986A32
+    t_singer_master_id: '32234'
+    singer_name: pRythme (麻生 夏子&河瀬&ゆり&椋木 えり)
+    singer_alias:
+    available_date: '2008-04-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: MAGISTER NEGI MAGI 魔法先生ネギま! (実写版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きすな
+    singer_name_ruby: ふりすむ
+    song_variation:
+    - esong_code: 1986A32
+      song_name: kIzuna
       content_type: ''
   - song_name: KISS ME KISS ME
     song_alias:
@@ -466,23 +466,6 @@ result:
     - esong_code: 1997A45
       song_name: 昨日別れた港町
       content_type: ''
-  - song_name: 希望の歌
-    song_alias:
-    esong_code: 1984A5
-    t_singer_master_id: '1928'
-    singer_name: B'z
-    singer_alias:
-    available_date: '2008-04-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きほうのうた
-    singer_name_ruby: ひす
-    song_variation:
-    - esong_code: 1984A5
-      song_name: 希望の歌
-      content_type: ''
   - song_name: 希望の詩
     song_alias:
     esong_code: 1978A14
@@ -517,3 +500,20 @@ result:
     - esong_code: 1987A5
       song_name: 希望の詩
       content_type: DAM生音
+  - song_name: 希望の歌
+    song_alias:
+    esong_code: 1984A5
+    t_singer_master_id: '1928'
+    singer_name: B'z
+    singer_alias:
+    available_date: '2008-04-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きほうのうた
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 1984A5
+      song_name: 希望の歌
+      content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: Drive feat.SHIZOO
-    song_alias:
-    esong_code: 2101A24
-    t_singer_master_id: '25305'
-    singer_name: SATOMi(SATOMI')
-    singer_alias:
-    available_date: '2008-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とらいふ
-    singer_name_ruby: さとみ
-    song_variation:
-    - esong_code: 2101A24
-      song_name: Drive feat.SHIZOO
-      content_type: ''
   - song_name: Drive away
     song_alias:
     esong_code: 2074A10
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2080B21
       song_name: 夏の笑顔とアイスクリーム
+      content_type: ''
+  - song_name: 夏のかけら
+    song_alias:
+    esong_code: 2102A20
+    t_singer_master_id: '24187'
+    singer_name: Aqua Timez
+    singer_alias:
+    available_date: '2008-09-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なつのかけら
+    singer_name_ruby: あくあたいむす
+    song_variation:
+    - esong_code: 2102A20
+      song_name: 夏のかけら
       content_type: ''

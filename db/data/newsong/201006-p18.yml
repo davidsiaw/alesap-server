@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1188
-  all_max_cnt: 1311
-  all_country_cnt: 1188
+  max_cnt: 1186
+  all_max_cnt: 1309
+  all_country_cnt: 1186
   song:
+  - song_name: 空ニラクガキ
+    song_alias:
+    esong_code: 2550B14
+    t_singer_master_id: '40025'
+    singer_name: 高森 奈津美&竹達 彩奈&片岡 あづさ
+    singer_alias:
+    available_date: '2010-06-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ジュエルペット てぃんくる☆<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: そらにらくかき
+    singer_name_ruby: たかもりなつみたけたつあやな
+    song_variation:
+    - esong_code: 2550B14
+      song_name: 空ニラクガキ
+      content_type: ''
   - song_name: そ・れ・ば・な
     song_alias:
     esong_code: 2545B3
@@ -423,7 +440,7 @@ result:
     singer_alias:
     available_date: '2010-06-16'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦 スーパー歌謡ショウ 〜新宝島〜<番組名>
+    tie_up: サクラ大戦(ミュージカル)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: たからしま
@@ -500,20 +517,3 @@ result:
     - esong_code: 2560B13
       song_name: 出せないメール feat.初音ミク
       content_type: VOCALOID
-  - song_name: 黄昏シネマ 「名演ピアノ 美野 春樹」
-    song_alias:
-    esong_code: 2550A49
-    t_singer_master_id: '15549'
-    singer_name: あさみ ちゆき
-    singer_alias:
-    available_date: '2010-06-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たそかれしねま
-    singer_name_ruby: あさみちゆき
-    song_variation:
-    - esong_code: 2550A49
-      song_name: 黄昏シネマ 「名演ピアノ 美野 春樹」
-      content_type: ''

@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1293
-  all_max_cnt: 1488
-  all_country_cnt: 1293
+  max_cnt: 1300
+  all_max_cnt: 1495
+  all_country_cnt: 1300
   song:
+  - song_name: 片想い。 〜リナリア〜
+    song_alias:
+    esong_code: 3030B44
+    t_singer_master_id: '33610'
+    singer_name: ソナーポケット
+    singer_alias:
+    available_date: '2013-05-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かたおもいりなりあ
+    singer_name_ruby: そなほけつと
+    song_variation:
+    - esong_code: 3030B44
+      song_name: 片想い。 〜リナリア〜
+      content_type: ''
+  - song_name: 片瀬てれりこ研究所のテーマ
+    song_alias:
+    esong_code: 3047A14
+    t_singer_master_id: '25780'
+    singer_name: 生天目 仁美
+    singer_alias:
+    available_date: '2013-05-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: あっちこっち<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: かたせてれりこのけん
+    singer_name_ruby: なはためひとみ
+    song_variation:
+    - esong_code: 3047A14
+      song_name: 片瀬てれりこ研究所のテーマ
+      content_type: ''
   - song_name: 悲しみMasquerade
     song_alias:
     esong_code: 3036B27
@@ -173,26 +207,6 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: パセラ限定クリップ
-    song_name_ruby: かふらかたふらふ
-    singer_name_ruby: まちかとけいきしやはん
-    song_variation:
-    - esong_code: 3037A1
-      song_name: カブラカタブLOVE [オリジナルクリップ]
-      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
-    - esong_code: 3037A1
-      song_name: カブラカタブLOVE [オリジナルクリップ]
-      content_type: パセラ限定クリップ
-  - song_name: カブラカタブLOVE [オリジナルクリップ]
-    song_alias:
-    esong_code: 3037A1
-    t_singer_master_id: '47834'
-    singer_name: 街角景気☆JAPAN↑
-    singer_alias:
-    available_date: '2013-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
     content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     song_name_ruby: かふらかたふらふ
     singer_name_ruby: まちかとけいきしやはん
@@ -221,6 +235,26 @@ result:
       song_name: カブラカタブLOVE [オリジナルクリップ]
       content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
     - esong_code: 3036B48
+      song_name: カブラカタブLOVE [オリジナルクリップ]
+      content_type: パセラ限定クリップ
+  - song_name: カブラカタブLOVE [オリジナルクリップ]
+    song_alias:
+    esong_code: 3037A1
+    t_singer_master_id: '47834'
+    singer_name: 街角景気☆JAPAN↑
+    singer_alias:
+    available_date: '2013-05-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: パセラ限定クリップ
+    song_name_ruby: かふらかたふらふ
+    singer_name_ruby: まちかとけいきしやはん
+    song_variation:
+    - esong_code: 3037A1
+      song_name: カブラカタブLOVE [オリジナルクリップ]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    - esong_code: 3037A1
       song_name: カブラカタブLOVE [オリジナルクリップ]
       content_type: パセラ限定クリップ
   - song_name: カマドー小(ぐゎー)
@@ -495,37 +529,3 @@ result:
     - esong_code: 3048B45
       song_name: 還暦祝い唄 (セリフ入り)
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 消えない絵
-    song_alias:
-    esong_code: 3048B13
-    t_singer_master_id: '2185'
-    singer_name: 真心ブラザーズ
-    singer_alias:
-    available_date: '2013-05-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 宇宙兄弟<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きえないえ
-    singer_name_ruby: まこころふらさす
-    song_variation:
-    - esong_code: 3048B13
-      song_name: 消えない絵
-      content_type: ''
-  - song_name: 祇園芸妓
-    song_alias:
-    esong_code: 3033B16
-    t_singer_master_id: '23832'
-    singer_name: 吉岡 知映
-    singer_alias:
-    available_date: '2013-05-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きおんけいこ
-    singer_name_ruby: よしおかちえ
-    song_variation:
-    - esong_code: 3033B16
-      song_name: 祇園芸妓
-      content_type: ''

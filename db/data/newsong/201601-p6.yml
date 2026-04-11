@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1128
-  all_max_cnt: 1285
-  all_country_cnt: 1128
+  max_cnt: 1127
+  all_max_cnt: 1284
+  all_country_cnt: 1127
   song:
-  - song_name: 大人のオオカミ
-    song_alias:
-    esong_code: 3587A13
-    t_singer_master_id: '10619'
-    singer_name: KOKIA
-    singer_alias:
-    available_date: '2016-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとなのおおかみ
-    singer_name_ruby: こきあ
-    song_variation:
-    - esong_code: 3587A13
-      song_name: 大人のオオカミ
-      content_type: ''
   - song_name: オトメタル my life
     song_alias:
     esong_code: 3590A22
@@ -32,7 +15,7 @@ result:
     singer_alias:
     available_date: '2016-01-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 龍が如く(リメイク)<番組名>
+    tie_up: 龍が如く<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おとめたるまいらいふ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2100A24
       song_name: 俺のお前さ
+      content_type: ''
+  - song_name: おれんじ
+    song_alias:
+    esong_code: 3589B29
+    t_singer_master_id: '52697'
+    singer_name: Softly
+    singer_alias:
+    available_date: '2016-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おれんし
+    singer_name_ruby: そふとり
+    song_variation:
+    - esong_code: 3589B29
+      song_name: おれんじ
       content_type: ''

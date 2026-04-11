@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1126
-  all_max_cnt: 1256
-  all_country_cnt: 1126
+  max_cnt: 1125
+  all_max_cnt: 1255
+  all_country_cnt: 1125
   song:
-  - song_name: ヒステリシス
-    song_alias:
-    esong_code: 2584B19
-    t_singer_master_id: '35242'
-    singer_name: boogieman
-    singer_alias:
-    available_date: '2010-08-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひすてりしす
-    singer_name_ruby: ふきまん
-    song_variation:
-    - esong_code: 2584B19
-      song_name: ヒステリシス
-      content_type: ''
   - song_name: 陽だまりみたいな人だから
     song_alias:
     esong_code: 2593B16
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2589A46
       song_name: 4 Seasons
+      content_type: ''
+  - song_name: 不可侵グランド・オペラ
+    song_alias:
+    esong_code: 2587A35
+    t_singer_master_id: '2870'
+    singer_name: 緒方 恵美
+    singer_alias:
+    available_date: '2010-08-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: プリンセスナイトメア<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふかしんくらんと
+    singer_name_ruby: おかためくみ
+    song_variation:
+    - esong_code: 2587A35
+      song_name: 不可侵グランド・オペラ
       content_type: ''

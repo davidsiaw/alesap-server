@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
-  - song_name: Brave New World
-    song_alias:
-    esong_code: 3462A45
-    t_singer_master_id: '52536'
-    singer_name: AKi(シド)
-    singer_alias:
-    available_date: '2015-07-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれいふにゆわ
-    singer_name_ruby: あき
-    song_variation:
-    - esong_code: 3462A45
-      song_name: Brave New World
-      content_type: ''
-  - song_name: Prayer Will Live feat.GUMI
-    song_alias:
-    esong_code: 3467A13
-    t_singer_master_id: '44529'
-    singer_name: yuukiss
-    singer_alias:
-    available_date: '2015-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: ふれいやういるり
-    singer_name_ruby: ゆきす
-    song_variation:
-    - esong_code: 3467A13
-      song_name: Prayer Will Live feat.GUMI
-      content_type: VOCALOID
   - song_name: フロイライン=ビブリォチカ feat.MEIKO
     song_alias:
     esong_code: 3464A17
@@ -185,7 +151,7 @@ result:
     singer_alias:
     available_date: '2015-07-19'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア The World Twinkle<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: へたりあんしえつと
@@ -383,6 +349,23 @@ result:
       content_type: ''
   - song_name: 望郷屋台酒
     song_alias:
+    esong_code: 3468B20
+    t_singer_master_id: '40197'
+    singer_name: レーモンド松屋
+    singer_alias:
+    available_date: '2015-07-29'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: ほうきようやたいさ
+    singer_name_ruby: れもんとまつや
+    song_variation:
+    - esong_code: 3468B20
+      song_name: 望郷屋台酒
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 望郷屋台酒
+    song_alias:
     esong_code: 506B3
     t_singer_master_id: '40197'
     singer_name: レーモンド松屋
@@ -415,23 +398,6 @@ result:
     - esong_code: 3468B15
       song_name: 望郷屋台酒
       content_type: JOY生演奏
-  - song_name: 望郷屋台酒
-    song_alias:
-    esong_code: 3468B20
-    t_singer_master_id: '40197'
-    singer_name: レーモンド松屋
-    singer_alias:
-    available_date: '2015-07-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: ほうきようやたいさ
-    singer_name_ruby: れもんとまつや
-    song_variation:
-    - esong_code: 3468B20
-      song_name: 望郷屋台酒
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 忙殺のすゝめ
     song_alias:
     esong_code: 3459B8
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3473A34
       song_name: ボクサー
+      content_type: ''
+  - song_name: 僕だけの歌
+    song_alias:
+    esong_code: 3460B41
+    t_singer_master_id: '26951'
+    singer_name: GRANRODEO
+    singer_alias:
+    available_date: '2015-07-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくたけのうた
+    singer_name_ruby: くらんろてお
+    song_variation:
+    - esong_code: 3460B41
+      song_name: 僕だけの歌
+      content_type: ''
+  - song_name: 僕に恋をして!
+    song_alias:
+    esong_code: 3459A6
+    t_singer_master_id: '53707'
+    singer_name: 遥 そら
+    singer_alias:
+    available_date: '2015-07-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 妹のおかげでモテすぎてヤバい。<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほくにこいをして
+    singer_name_ruby: はるかそら
+    song_variation:
+    - esong_code: 3459A6
+      song_name: 僕に恋をして!
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 879
-  all_max_cnt: 953
-  all_country_cnt: 879
+  max_cnt: 878
+  all_max_cnt: 954
+  all_country_cnt: 878
   song:
-  - song_name: 心の瞳
-    song_alias:
-    esong_code: 1803A21
-    t_singer_master_id: '916'
-    singer_name: 坂本 九
-    singer_alias:
-    available_date: '2007-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころのひとみ
-    singer_name_ruby: さかもときゆう
-    song_variation:
-    - esong_code: 1803A21
-      song_name: 心の瞳
-      content_type: ''
   - song_name: こころ宿
     song_alias:
     esong_code: 1787A30
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1795B5
       song_name: サクラ・・・僕ら
+      content_type: ''
+  - song_name: 酒よ (歌唱指導)/吉幾三
+    song_alias:
+    esong_code: 1795A39
+    t_singer_master_id: '23862'
+    singer_name: enjoy lesson
+    singer_alias:
+    available_date: '2007-06-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さけよ
+    singer_name_ruby: えんしよいれつすん
+    song_variation:
+    - esong_code: 1795A39
+      song_name: 酒よ (歌唱指導)/吉幾三
       content_type: ''

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1182
-  all_max_cnt: 1336
-  all_country_cnt: 1182
+  max_cnt: 1168
+  all_max_cnt: 1322
+  all_country_cnt: 1168
   song:
   - song_name: Urban Caravan
     song_alias:
@@ -100,7 +100,7 @@ result:
     singer_alias:
     available_date: '2018-11-13'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あまらんすのそら
@@ -313,23 +313,6 @@ result:
     - esong_code: 4096B6
       song_name: 歩き続けて・・・
       content_type: DAM生音
-  - song_name: アルペジオ
-    song_alias:
-    esong_code: 4099B5
-    t_singer_master_id: '38639'
-    singer_name: "[Alexandros]"
-    singer_alias:
-    available_date: '2018-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: JUDGE EYES:死神の遺言<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるへしお
-    singer_name_ruby: あれきさんとろす
-    song_variation:
-    - esong_code: 4099B5
-      song_name: アルペジオ
-      content_type: ''
   - song_name: アルペジオ feat.chelmico
     song_alias:
     esong_code: 4093B32
@@ -346,6 +329,23 @@ result:
     song_variation:
     - esong_code: 4093B32
       song_name: アルペジオ feat.chelmico
+      content_type: ''
+  - song_name: アルペジオ
+    song_alias:
+    esong_code: 4099B5
+    t_singer_master_id: '38639'
+    singer_name: "[Alexandros]"
+    singer_alias:
+    available_date: '2018-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: JUDGE EYES:死神の遺言<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あるへしお
+    singer_name_ruby: あれきさんとろす
+    song_variation:
+    - esong_code: 4099B5
+      song_name: アルペジオ
       content_type: ''
   - song_name: Answer
     song_alias:

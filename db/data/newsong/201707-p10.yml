@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1314
-  all_max_cnt: 1472
-  all_country_cnt: 1314
+  max_cnt: 1309
+  all_max_cnt: 1467
+  all_country_cnt: 1309
   song:
-  - song_name: 聞かせてください
-    song_alias:
-    esong_code: 3842B21
-    t_singer_master_id: '27031'
-    singer_name: 伊達 悠太(伊達ゆうた)
-    singer_alias:
-    available_date: '2017-07-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きかせてくたさい
-    singer_name_ruby: たてゆうた
-    song_variation:
-    - esong_code: 3842B21
-      song_name: 聞かせてください
-      content_type: ''
-  - song_name: 貴様の喉に牙を向け、我が賛嘆を呉れてやる。
-    song_alias:
-    esong_code: 3846B33
-    t_singer_master_id: '57730'
-    singer_name: SLAVE.V-V-R feat.結月 ゆかり
-    singer_alias:
-    available_date: '2017-07-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: きさまののとにきは
-    singer_name_ruby: すれいふふいふいあるふいちやりんくゆ
-    song_variation:
-    - esong_code: 3846B33
-      song_name: 貴様の喉に牙を向け、我が賛嘆を呉れてやる。
-      content_type: VOCALOID
   - song_name: 紀州街道
     song_alias:
     esong_code: 2241B27
@@ -245,23 +211,6 @@ result:
     - esong_code: 3849A34
       song_name: 昨日にドドンパ
       content_type: ''
-  - song_name: Gift (揚羽×蜂矢×北原×南條 Ver.)
-    song_alias:
-    esong_code: 3847B10
-    t_singer_master_id: '59183'
-    singer_name: 島崎 信長&高梨 謙吾&梅原 裕一郎&武内 駿輔
-    singer_alias:
-    available_date: '2017-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: スタミュ -高校星歌劇- (第2期)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きふと
-    singer_name_ruby: しまさきのふなかたかなし
-    song_variation:
-    - esong_code: 3847B10
-      song_name: Gift (揚羽×蜂矢×北原×南條 Ver.)
-      content_type: ''
   - song_name: Gift
     song_alias:
     esong_code: 3838B3
@@ -278,6 +227,23 @@ result:
     song_variation:
     - esong_code: 3838B3
       song_name: Gift
+      content_type: ''
+  - song_name: Gift (揚羽×蜂矢×北原×南條 Ver.)
+    song_alias:
+    esong_code: 3847B10
+    t_singer_master_id: '59183'
+    singer_name: 島崎 信長&高梨 謙吾&梅原 裕一郎&武内 駿輔
+    singer_alias:
+    available_date: '2017-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: スタミュ -高校星歌劇- (第2期)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きふと
+    singer_name_ruby: しまさきのふなかたかなし
+    song_variation:
+    - esong_code: 3847B10
+      song_name: Gift (揚羽×蜂矢×北原×南條 Ver.)
       content_type: ''
   - song_name: Keep Peace Alive
     song_alias:
@@ -347,9 +313,9 @@ result:
     - esong_code: 3844B1
       song_name: "『君があの世に・・・』"
       content_type: ''
-  - song_name: 君が君に歌う歌 女声三部合唱
+  - song_name: 君が君に歌う歌 混声四部合唱
     song_alias:
-    esong_code: 3838B44
+    esong_code: 3838A39
     t_singer_master_id: '10342'
     singer_name: 合唱
     singer_alias:
@@ -361,8 +327,8 @@ result:
     song_name_ruby: きみかきみにうたう
     singer_name_ruby: かつしよう
     song_variation:
-    - esong_code: 3838B44
-      song_name: 君が君に歌う歌 女声三部合唱
+    - esong_code: 3838A39
+      song_name: 君が君に歌う歌 混声四部合唱
       content_type: ''
   - song_name: 君が君に歌う歌 男声三部合唱
     song_alias:
@@ -381,9 +347,9 @@ result:
     - esong_code: 3838B43
       song_name: 君が君に歌う歌 男声三部合唱
       content_type: ''
-  - song_name: 君が君に歌う歌 混声四部合唱
+  - song_name: 君が君に歌う歌 女声三部合唱
     song_alias:
-    esong_code: 3838A39
+    esong_code: 3838B44
     t_singer_master_id: '10342'
     singer_name: 合唱
     singer_alias:
@@ -395,8 +361,8 @@ result:
     song_name_ruby: きみかきみにうたう
     singer_name_ruby: かつしよう
     song_variation:
-    - esong_code: 3838A39
-      song_name: 君が君に歌う歌 混声四部合唱
+    - esong_code: 3838B44
+      song_name: 君が君に歌う歌 女声三部合唱
       content_type: ''
   - song_name: 君(と僕)のBIRTHDAY
     song_alias:
@@ -517,3 +483,37 @@ result:
     - esong_code: 3837A2
       song_name: 君のとなり
       content_type: ''
+  - song_name: キミの街へ☆彡 [パセラオリジナル]
+    song_alias:
+    esong_code: 3854A41
+    t_singer_master_id: '38605'
+    singer_name: 佐咲 紗花
+    singer_alias:
+    available_date: '2017-07-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 星織ユメミライ<番組名>
+    country_code: '0'
+    content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+    song_name_ruby: きみのまちへ
+    singer_name_ruby: ささきさやか
+    song_variation:
+    - esong_code: 3854A41
+      song_name: キミの街へ☆彡 [パセラオリジナル]
+      content_type: ﾊﾟｾﾗｵﾘｼﾞﾅﾙ
+  - song_name: きみはだいじょうぶ
+    song_alias:
+    esong_code: 3846B41
+    t_singer_master_id: '59011'
+    singer_name: カルロス袴田(サイゼP)
+    singer_alias:
+    available_date: '2017-07-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: きみはたいしよう
+    singer_name_ruby: かるろすはかまた
+    song_variation:
+    - esong_code: 3846B41
+      song_name: きみはだいじょうぶ
+      content_type: VOCALOID

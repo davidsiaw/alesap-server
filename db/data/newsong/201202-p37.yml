@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: みちのく
-    song_alias:
-    esong_code: 2764B48
-    t_singer_master_id: '10798'
-    singer_name: 北川 大介
-    singer_alias:
-    available_date: '2012-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みちのく
-    singer_name_ruby: きたかわたいすけ
-    song_variation:
-    - esong_code: 2764B48
-      song_name: みちのく
-      content_type: ''
-  - song_name: みちのく旅情
-    song_alias:
-    esong_code: 2767A11
-    t_singer_master_id: '1449'
-    singer_name: 千葉 一夫
-    singer_alias:
-    available_date: '2012-02-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みちのくりよしよう
-    singer_name_ruby: ちはかすお
-    song_variation:
-    - esong_code: 2767A11
-      song_name: みちのく旅情
-      content_type: ''
-  - song_name: 三つ編みの君へ
-    song_alias:
-    esong_code: 2767B25
-    t_singer_master_id: '39867'
-    singer_name: 渡辺 麻友(渡り廊下走り隊)
-    singer_alias:
-    available_date: '2012-02-29'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みつあみのきみへ
-    singer_name_ruby: わたなへまゆ
-    song_variation:
-    - esong_code: 2767B25
-      song_name: 三つ編みの君へ
-      content_type: ''
   - song_name: ミッシングリンク
     song_alias:
     esong_code: 2684B45
@@ -75,23 +24,6 @@ result:
     - esong_code: 2684B45
       song_name: ミッシングリンク
       content_type: DAM生音
-  - song_name: ミッシングリンク
-    song_alias:
-    esong_code: 2739B16
-    t_singer_master_id: '42963'
-    singer_name: NOVELS
-    singer_alias:
-    available_date: '2012-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: TIGER&BUNNY<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: みつしんくりんく
-    singer_name_ruby: のへるす
-    song_variation:
-    - esong_code: 2739B16
-      song_name: ミッシングリンク
-      content_type: ''
   - song_name: 蜜蜂
     song_alias:
     esong_code: 2760A15
@@ -128,23 +60,6 @@ result:
       content_type: ''
   - song_name: 港雪
     song_alias:
-    esong_code: 2766B46
-    t_singer_master_id: '641'
-    singer_name: 北島 三郎
-    singer_alias:
-    available_date: '2012-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みなとゆき
-    singer_name_ruby: きたしまさふろう
-    song_variation:
-    - esong_code: 2766B46
-      song_name: 港雪
-      content_type: ''
-  - song_name: 港雪
-    song_alias:
     esong_code: 2599A10
     t_singer_master_id: '641'
     singer_name: 北島 三郎
@@ -160,6 +75,23 @@ result:
     - esong_code: 2599A10
       song_name: 港雪
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 港雪
+    song_alias:
+    esong_code: 2766B46
+    t_singer_master_id: '641'
+    singer_name: 北島 三郎
+    singer_alias:
+    available_date: '2012-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みなとゆき
+    singer_name_ruby: きたしまさふろう
+    song_variation:
+    - esong_code: 2766B46
+      song_name: 港雪
+      content_type: ''
   - song_name: みなと夢酒場
     song_alias:
     esong_code: 2623B31
@@ -517,3 +449,71 @@ result:
     - esong_code: 2008A10
       song_name: 迷響詩酔 feat.初音ミク
       content_type: VOCALOID
+  - song_name: make it happen
+    song_alias:
+    esong_code: 2757B11
+    t_singer_master_id: '6365'
+    singer_name: 安室 奈美恵
+    singer_alias:
+    available_date: '2012-02-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾗｲﾌﾞ
+    song_name_ruby: めいくいつとはふん
+    singer_name_ruby: あむろなみえ
+    song_variation:
+    - esong_code: 2757B11
+      song_name: make it happen
+      content_type: DAMﾗｲﾌﾞ
+  - song_name: MAKE ME HAPPY
+    song_alias:
+    esong_code: 1889B40
+    t_singer_master_id: '35274'
+    singer_name: milktub
+    singer_alias:
+    available_date: '2012-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めいくみはつひ
+    singer_name_ruby: みるくたふ
+    song_variation:
+    - esong_code: 1889B40
+      song_name: MAKE ME HAPPY
+      content_type: ''
+  - song_name: メイドと血の懐中時計〜Lune Bleue Mix feat.中恵光城
+    song_alias:
+    esong_code: 2007B4
+    t_singer_master_id: '44153'
+    singer_name: はちみつれもん
+    singer_alias:
+    available_date: '2012-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 東方紅魔郷 〜the Embodiment of Scarlet Devil<番組名>
+    country_code: '0'
+    content_type: 東方
+    song_name_ruby: めいととちのかいち
+    singer_name_ruby: はちみつれもん
+    song_variation:
+    - esong_code: 2007B4
+      song_name: メイドと血の懐中時計〜Lune Bleue Mix feat.中恵光城
+      content_type: 東方
+  - song_name: めおと傘
+    song_alias:
+    esong_code: 2773A32
+    t_singer_master_id: '44511'
+    singer_name: 伊東 みゆき(伊東美由希)
+    singer_alias:
+    available_date: '2012-02-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: めおとかさ
+    singer_name_ruby: いとうみゆき
+    song_variation:
+    - esong_code: 2773A32
+      song_name: めおと傘
+      content_type: ''

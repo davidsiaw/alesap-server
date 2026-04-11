@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 448
-  all_max_cnt: 493
-  all_country_cnt: 448
+  max_cnt: 446
+  all_max_cnt: 491
+  all_country_cnt: 446
   song:
-  - song_name: アリとアリクイ
-    song_alias:
-    esong_code: 416A33
-    t_singer_master_id: '15438'
-    singer_name: 水木 一郎&橋本 潮
-    singer_alias:
-    available_date: '2003-03-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: なんでもQ あにまるQ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありとありくい
-    singer_name_ruby: みすきいちろうはしもとし
-    song_variation:
-    - esong_code: 416A33
-      song_name: アリとアリクイ
-      content_type: ''
   - song_name: R.P.G. 〜Roll'n oneday〜
     song_alias:
     esong_code: 403A37
@@ -149,7 +132,7 @@ result:
     t_singer_master_id: '10253'
     singer_name: チェウニ
     singer_alias:
-    available_date: '2003-03-26'
+    available_date: '2003-03-29'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 398A39
       song_name: 海かがみ
+      content_type: ''
+  - song_name: 海の男に惚れちゃった
+    song_alias:
+    esong_code: 411B37
+    t_singer_master_id: '13954'
+    singer_name: 椎名 佐千子
+    singer_alias:
+    available_date: '2003-03-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: うみのおとこにほれち
+    singer_name_ruby: しいなさちこ
+    song_variation:
+    - esong_code: 411B37
+      song_name: 海の男に惚れちゃった
       content_type: ''

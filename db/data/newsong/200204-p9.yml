@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: 人生がもう始まってる
+    song_alias:
+    esong_code: 827A29
+    t_singer_master_id: '13957'
+    singer_name: 市井 紗耶香 in CUBIC-CROSS
+    singer_alias:
+    available_date: '2002-04-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しんせいかもうは
+    singer_name_ruby: いちいさやかいんきゆひ
+    song_variation:
+    - esong_code: 827A29
+      song_name: 人生がもう始まってる
+      content_type: ''
   - song_name: 水曜日の午後
     song_alias:
     esong_code: 100B46
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 834B40
       song_name: ZODIAK(不思議な十二宮)
-      content_type: ''
-  - song_name: sofa -slow take-
-    song_alias:
-    esong_code: 102A44
-    t_singer_master_id: '11976'
-    singer_name: 藤木 直人
-    singer_alias:
-    available_date: '2002-04-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そふあ
-    singer_name_ruby: ふしきなおひと
-    song_variation:
-    - esong_code: 102A44
-      song_name: sofa -slow take-
       content_type: ''

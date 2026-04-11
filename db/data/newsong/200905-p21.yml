@@ -3,112 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 901
-  all_max_cnt: 1000
-  all_country_cnt: 901
+  max_cnt: 894
+  all_max_cnt: 993
+  all_country_cnt: 894
   song:
-  - song_name: Parallel Hearts
-    song_alias:
-    esong_code: 2310A38
-    t_singer_master_id: '36808'
-    singer_name: FictionJunction
-    singer_alias:
-    available_date: '2009-05-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Pandora Hearts<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はられるはつ
-    singer_name_ruby: ふいくしよんしやんくしよん
-    song_variation:
-    - esong_code: 2310A38
-      song_name: Parallel Hearts
-      content_type: ''
-  - song_name: 春いちばん
-    song_alias:
-    esong_code: 2307B6
-    t_singer_master_id: '24617'
-    singer_name: 後藤 沙緒里
-    singer_alias:
-    available_date: '2009-05-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるいちはん
-    singer_name_ruby: ことうさおり
-    song_variation:
-    - esong_code: 2307B6
-      song_name: 春いちばん
-      content_type: ''
-  - song_name: 遥か
-    song_alias:
-    esong_code: 2318A26
-    t_singer_master_id: '28788'
-    singer_name: GReeeeN
-    singer_alias:
-    available_date: '2009-05-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるか
-    singer_name_ruby: くりん
-    song_variation:
-    - esong_code: 2318A26
-      song_name: 遥か
-      content_type: ''
-  - song_name: 春風シャララ
-    song_alias:
-    esong_code: 2329B21
-    t_singer_master_id: '33989'
-    singer_name: ダウト
-    singer_alias:
-    available_date: '2009-05-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるかせしやらら
-    singer_name_ruby: たうと
-    song_variation:
-    - esong_code: 2329B21
-      song_name: 春風シャララ
-      content_type: ''
-  - song_name: Valkyrie (全英語詞)
-    song_alias:
-    esong_code: 2308B15
-    t_singer_master_id: '24924'
-    singer_name: abingdon boys school
-    singer_alias:
-    available_date: '2009-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるきり
-    singer_name_ruby: あひんくとんほいすすくる
-    song_variation:
-    - esong_code: 2308B15
-      song_name: Valkyrie (全英語詞)
-      content_type: ''
-  - song_name: 春の手紙 (2005 version)
-    song_alias:
-    esong_code: 2319B7
-    t_singer_master_id: '2734'
-    singer_name: 大貫 妙子
-    singer_alias:
-    available_date: '2009-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるのてかみ
-    singer_name_ruby: おおぬきたえこ
-    song_variation:
-    - esong_code: 2319B7
-      song_name: 春の手紙 (2005 version)
-      content_type: ''
   - song_name: Parade
     song_alias:
     esong_code: 2310A4
@@ -179,23 +77,6 @@ result:
       content_type: DAMｸﾘｯﾌﾟ
   - song_name: BANZAI
     song_alias:
-    esong_code: 2332B11
-    t_singer_master_id: '19551'
-    singer_name: 木村 カエラ
-    singer_alias:
-    available_date: '2009-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: はんさい
-    singer_name_ruby: きむらかえら
-    song_variation:
-    - esong_code: 2332B11
-      song_name: BANZAI
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: BANZAI
-    song_alias:
     esong_code: 2303B20
     t_singer_master_id: '19551'
     singer_name: 木村 カエラ
@@ -211,6 +92,23 @@ result:
     - esong_code: 2303B20
       song_name: BANZAI
       content_type: ''
+  - song_name: BANZAI
+    song_alias:
+    esong_code: 2332B11
+    t_singer_master_id: '19551'
+    singer_name: 木村 カエラ
+    singer_alias:
+    available_date: '2009-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: はんさい
+    singer_name_ruby: きむらかえら
+    song_variation:
+    - esong_code: 2332B11
+      song_name: BANZAI
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: PPP -Punch Perma Punk-
     song_alias:
     esong_code: 2312A26
@@ -516,4 +414,106 @@ result:
     song_variation:
     - esong_code: 2316B27
       song_name: 百花繚乱アイドリング!!
+      content_type: ''
+  - song_name: ビューティフル・ネーム
+    song_alias:
+    esong_code: 2318B16
+    t_singer_master_id: '36807'
+    singer_name: Vijandeux
+    singer_alias:
+    available_date: '2009-05-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひゆていふるね
+    singer_name_ruby: ひしやんとう
+    song_variation:
+    - esong_code: 2318B16
+      song_name: ビューティフル・ネーム
+      content_type: ''
+  - song_name: 表情
+    song_alias:
+    esong_code: 2312B2
+    t_singer_master_id: '11860'
+    singer_name: 堀内 賢雄
+    singer_alias:
+    available_date: '2009-05-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: BLEACH<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひようしよう
+    singer_name_ruby: ほりうちけんゆう
+    song_variation:
+    - esong_code: 2312B2
+      song_name: 表情
+      content_type: ''
+  - song_name: 悲恋歌
+    song_alias:
+    esong_code: 2312A8
+    t_singer_master_id: '10253'
+    singer_name: チェウニ
+    singer_alias:
+    available_date: '2009-05-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひれんか
+    singer_name_ruby: ちえうに
+    song_variation:
+    - esong_code: 2312A8
+      song_name: 悲恋歌
+      content_type: ''
+  - song_name: HERO
+    song_alias:
+    esong_code: 2312A33
+    t_singer_master_id: '30085'
+    singer_name: EGNISH
+    singer_alias:
+    available_date: '2009-05-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひろ
+    singer_name_ruby: いくにつしゆ
+    song_variation:
+    - esong_code: 2312A33
+      song_name: HERO
+      content_type: ''
+  - song_name: ピンクの空
+    song_alias:
+    esong_code: 2317B4
+    t_singer_master_id: '18267'
+    singer_name: ひいらぎ
+    singer_alias:
+    available_date: '2009-05-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひんくのそら
+    singer_name_ruby: ひいらき
+    song_variation:
+    - esong_code: 2317B4
+      song_name: ピンクの空
+      content_type: ''
+  - song_name: ファイト
+    song_alias:
+    esong_code: 2332B19
+    t_singer_master_id: '19230'
+    singer_name: D-51
+    singer_alias:
+    available_date: '2009-05-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふあいと
+    singer_name_ruby: ていこいち
+    song_variation:
+    - esong_code: 2332B19
+      song_name: ファイト
       content_type: ''

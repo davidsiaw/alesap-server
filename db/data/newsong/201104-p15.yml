@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1263
-  all_max_cnt: 1428
-  all_country_cnt: 1263
+  max_cnt: 1258
+  all_max_cnt: 1423
+  all_country_cnt: 1258
   song:
   - song_name: Satellite of love (Acoustic Ver.)
     song_alias:
@@ -117,7 +117,7 @@ result:
     singer_alias:
     available_date: '2011-04-25'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 戦国無双3<番組名>
+    tie_up: 戦国無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さむらいたましい
@@ -125,23 +125,6 @@ result:
     song_variation:
     - esong_code: 1650B16
       song_name: 侍魂 〜KIZUNA〜 feat.竹本英史
-      content_type: ''
-  - song_name: さよなら傷だらけの日々よ
-    song_alias:
-    esong_code: 1549B48
-    t_singer_master_id: '1928'
-    singer_name: B'z
-    singer_alias:
-    available_date: '2011-04-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならきすたら
-    singer_name_ruby: ひす
-    song_variation:
-    - esong_code: 1549B48
-      song_name: さよなら傷だらけの日々よ
       content_type: ''
   - song_name: さよなら傷だらけの日々よ
     song_alias:
@@ -160,6 +143,23 @@ result:
     - esong_code: 1402A6
       song_name: さよなら傷だらけの日々よ
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: さよなら傷だらけの日々よ
+    song_alias:
+    esong_code: 1549B48
+    t_singer_master_id: '1928'
+    singer_name: B'z
+    singer_alias:
+    available_date: '2011-04-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよならきすたら
+    singer_name_ruby: ひす
+    song_variation:
+    - esong_code: 1549B48
+      song_name: さよなら傷だらけの日々よ
+      content_type: ''
   - song_name: さよならの代わりに
     song_alias:
     esong_code: 1548A41
@@ -434,23 +434,6 @@ result:
       content_type: ''
   - song_name: ジェットコースターラブ
     song_alias:
-    esong_code: 1548A40
-    t_singer_master_id: '40445'
-    singer_name: KARA
-    singer_alias:
-    available_date: '2011-04-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: しえつとこすた
-    singer_name_ruby: から
-    song_variation:
-    - esong_code: 1548A40
-      song_name: ジェットコースターラブ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: ジェットコースターラブ
-    song_alias:
     esong_code: 1588A44
     t_singer_master_id: '40445'
     singer_name: KARA
@@ -466,6 +449,23 @@ result:
     - esong_code: 1588A44
       song_name: ジェットコースターラブ
       content_type: ''
+  - song_name: ジェットコースターラブ
+    song_alias:
+    esong_code: 1548A40
+    t_singer_master_id: '40445'
+    singer_name: KARA
+    singer_alias:
+    available_date: '2011-04-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: しえつとこすた
+    singer_name_ruby: から
+    song_variation:
+    - esong_code: 1548A40
+      song_name: ジェットコースターラブ
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ジェットコースターラブ
     song_alias:
     esong_code: 1504A26

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 577
-  all_max_cnt: 650
-  all_country_cnt: 577
+  max_cnt: 574
+  all_max_cnt: 647
+  all_country_cnt: 574
   song:
-  - song_name: 初恋
-    song_alias:
-    esong_code: 880A26
-    t_singer_master_id: '13538'
-    singer_name: 元 ちとせ
-    singer_alias:
-    available_date: '2002-07-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はつこい
-    singer_name_ruby: はしめちとせ
-    song_variation:
-    - esong_code: 880A26
-      song_name: 初恋
-      content_type: ''
-  - song_name: PAPPAYA
-    song_alias:
-    esong_code: 878B40
-    t_singer_master_id: '12538'
-    singer_name: EGO-WRAPPIN'
-    singer_alias:
-    available_date: '2002-07-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はつはや
-    singer_name_ruby: えこらつひん
-    song_variation:
-    - esong_code: 878B40
-      song_name: PAPPAYA
-      content_type: ''
   - song_name: HAPPY SUNDAY MORNING
     song_alias:
     esong_code: 871B23
@@ -160,23 +126,6 @@ result:
     - esong_code: 871B38
       song_name: 花の宴
       content_type: ''
-  - song_name: HANABI
-    song_alias:
-    esong_code: 880A39
-    t_singer_master_id: '8492'
-    singer_name: 浜崎 あゆみ
-    singer_alias:
-    available_date: '2002-07-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はなひ
-    singer_name_ruby: はまさきあゆみ
-    song_variation:
-    - esong_code: 880A39
-      song_name: HANABI
-      content_type: ''
   - song_name: 花火
     song_alias:
     esong_code: 880B38
@@ -193,6 +142,23 @@ result:
     song_variation:
     - esong_code: 880B38
       song_name: 花火
+      content_type: ''
+  - song_name: HANABI
+    song_alias:
+    esong_code: 880A39
+    t_singer_master_id: '8492'
+    singer_name: 浜崎 あゆみ
+    singer_alias:
+    available_date: '2002-07-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はなひ
+    singer_name_ruby: はまさきあゆみ
+    song_variation:
+    - esong_code: 880A39
+      song_name: HANABI
       content_type: ''
   - song_name: Honeysuckle
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 893A38
       song_name: 羊の言葉
+      content_type: ''
+  - song_name: be distant
+    song_alias:
+    esong_code: 870A25
+    t_singer_master_id: '10604'
+    singer_name: 愛内 里菜
+    singer_alias:
+    available_date: '2002-07-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひていすたんと
+    singer_name_ruby: あいうちりな
+    song_variation:
+    - esong_code: 870A25
+      song_name: be distant
+      content_type: ''
+  - song_name: 一雫
+    song_alias:
+    esong_code: 879B32
+    t_singer_master_id: '12223'
+    singer_name: ZONE
+    singer_alias:
+    available_date: '2002-07-17'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ICE AGE<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: ひとしすく
+    singer_name_ruby: そん
+    song_variation:
+    - esong_code: 879B32
+      song_name: 一雫
       content_type: ''

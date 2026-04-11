@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
   - song_name: ツバサ
     song_alias:
@@ -75,23 +75,6 @@ result:
     - esong_code: 2615A30
       song_name: テアトル蟻地獄
       content_type: ''
-  - song_name: dear...
-    song_alias:
-    esong_code: 2619B37
-    t_singer_master_id: '22592'
-    singer_name: K
-    singer_alias:
-    available_date: '2010-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていあ
-    singer_name_ruby: けい
-    song_variation:
-    - esong_code: 2619B37
-      song_name: dear...
-      content_type: ''
   - song_name: Dear...
     song_alias:
     esong_code: 2616A48
@@ -109,6 +92,23 @@ result:
     - esong_code: 2616A48
       song_name: Dear...
       content_type: ''
+  - song_name: dear...
+    song_alias:
+    esong_code: 2619B37
+    t_singer_master_id: '22592'
+    singer_name: K
+    singer_alias:
+    available_date: '2010-10-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ていあ
+    singer_name_ruby: けい
+    song_variation:
+    - esong_code: 2619B37
+      song_name: dear...
+      content_type: ''
   - song_name: Dear Girlは眠らない
     song_alias:
     esong_code: 2618A41
@@ -117,7 +117,7 @@ result:
     singer_alias:
     available_date: '2010-10-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 神谷浩史・小野大輔のDearGirl 〜Stories〜<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: ていあかるはね

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1056
-  all_max_cnt: 1172
-  all_country_cnt: 1056
+  max_cnt: 1053
+  all_max_cnt: 1169
+  all_country_cnt: 1053
   song:
-  - song_name: 住宅街の悪夢
-    song_alias:
-    esong_code: 2253B27
-    t_singer_master_id: '36069'
-    singer_name: 福神
-    singer_alias:
-    available_date: '2009-02-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しゆうたくかいの
-    singer_name_ruby: ふくしん
-    song_variation:
-    - esong_code: 2253B27
-      song_name: 住宅街の悪夢
-      content_type: ''
   - song_name: 自由という名のRestriction
     song_alias:
     esong_code: 2207A31
@@ -196,23 +179,6 @@ result:
       content_type: ''
   - song_name: show girl
     song_alias:
-    esong_code: 2268B9
-    t_singer_master_id: '12005'
-    singer_name: 倖田 來未
-    singer_alias:
-    available_date: '2009-02-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: しようかる
-    singer_name_ruby: こうたくみ
-    song_variation:
-    - esong_code: 2268B9
-      song_name: show girl
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: show girl
-    song_alias:
     esong_code: 2209A43
     t_singer_master_id: '12005'
     singer_name: 倖田 來未
@@ -228,6 +194,23 @@ result:
     - esong_code: 2209A43
       song_name: show girl
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: show girl
+    song_alias:
+    esong_code: 2268B9
+    t_singer_master_id: '12005'
+    singer_name: 倖田 來未
+    singer_alias:
+    available_date: '2009-02-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: しようかる
+    singer_name_ruby: こうたくみ
+    song_variation:
+    - esong_code: 2268B9
+      song_name: show girl
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 湘南ラブ・ストーリー
     song_alias:
     esong_code: 2246B18
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2114A5
       song_name: スイーツはいかが?
+      content_type: ''
+  - song_name: sweet swinging
+    song_alias:
+    esong_code: 2245A20
+    t_singer_master_id: '10095'
+    singer_name: clammbon
+    singer_alias:
+    available_date: '2009-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すいとすういんき
+    singer_name_ruby: くらむほん
+    song_variation:
+    - esong_code: 2245A20
+      song_name: sweet swinging
       content_type: ''

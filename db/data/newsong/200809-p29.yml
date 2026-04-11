@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: 昼は太陽
-    song_alias:
-    esong_code: 2078B47
-    t_singer_master_id: '1716'
-    singer_name: 西田 佐知子
-    singer_alias:
-    available_date: '2008-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひるはたいよう
-    singer_name_ruby: にしたさちこ
-    song_variation:
-    - esong_code: 2078B47
-      song_name: 昼は太陽
-      content_type: ''
-  - song_name: HERO
-    song_alias:
-    esong_code: 2101A25
-    t_singer_master_id: '25305'
-    singer_name: SATOMi(SATOMI')
-    singer_alias:
-    available_date: '2008-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひろ
-    singer_name_ruby: さとみ
-    song_variation:
-    - esong_code: 2101A25
-      song_name: HERO
-      content_type: ''
   - song_name: ぴんぽんだっしゅ! feat.初音ミク
     song_alias:
     esong_code: 2103A37
@@ -321,7 +287,7 @@ result:
     singer_alias:
     available_date: '2008-09-16'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ストライクウィッチーズ<番組名>
+    tie_up: ストライクウィッチーズ(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: ふつくまくあへつ
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2077A38
       song_name: BREEEEEZIN!!!!!!!
+      content_type: ''
+  - song_name: ふるさと情歌
+    song_alias:
+    esong_code: 2102B30
+    t_singer_master_id: '34044'
+    singer_name: 佐々木 純
+    singer_alias:
+    available_date: '2008-09-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるさとしようか
+    singer_name_ruby: ささきしゆん
+    song_variation:
+    - esong_code: 2102B30
+      song_name: ふるさと情歌
+      content_type: ''
+  - song_name: ふるさとは・・・秋
+    song_alias:
+    esong_code: 2120A44
+    t_singer_master_id: '34247'
+    singer_name: 森 一樹
+    singer_alias:
+    available_date: '2008-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ふるさとはあき
+    singer_name_ruby: もりかすき
+    song_variation:
+    - esong_code: 2120A44
+      song_name: ふるさとは・・・秋
       content_type: ''

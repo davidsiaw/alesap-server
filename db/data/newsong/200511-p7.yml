@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 914
-  all_max_cnt: 950
-  all_country_cnt: 914
+  max_cnt: 909
+  all_max_cnt: 945
+  all_country_cnt: 909
   song:
-  - song_name: 記憶
-    song_alias:
-    esong_code: 1394B19
-    t_singer_master_id: '20789'
-    singer_name: RAMJA
-    singer_alias:
-    available_date: '2005-11-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きおく
-    singer_name_ruby: らむしや
-    song_variation:
-    - esong_code: 1394B19
-      song_name: 記憶
-      content_type: ''
   - song_name: KEY OF LIFE
     song_alias:
     esong_code: 1410A9
@@ -109,6 +92,23 @@ result:
     - esong_code: 1396B21
       song_name: 絆船
       content_type: ''
+  - song_name: キセキ
+    song_alias:
+    esong_code: 1415A36
+    t_singer_master_id: '23486'
+    singer_name: 植村 花菜
+    singer_alias:
+    available_date: '2005-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: "「テイルズ・オブ」シリーズ(ゲーム版)<番組名>"
+    country_code: '0'
+    content_type:
+    song_name_ruby: きせき
+    singer_name_ruby: うえむらかな
+    song_variation:
+    - esong_code: 1415A36
+      song_name: キセキ
+      content_type: ''
   - song_name: 奇跡
     song_alias:
     esong_code: 1405A15
@@ -125,23 +125,6 @@ result:
     song_variation:
     - esong_code: 1405A15
       song_name: 奇跡
-      content_type: ''
-  - song_name: キセキ
-    song_alias:
-    esong_code: 1415A36
-    t_singer_master_id: '23486'
-    singer_name: 植村 花菜
-    singer_alias:
-    available_date: '2005-11-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: テイルズ・オブ・コモンズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きせき
-    singer_name_ruby: うえむらかな
-    song_variation:
-    - esong_code: 1415A36
-      song_name: キセキ
       content_type: ''
   - song_name: 奇跡に乾杯
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1415A2
       song_name: キミと月までも
+      content_type: ''
+  - song_name: 君とパスタの日々
+    song_alias:
+    esong_code: 1405B34
+    t_singer_master_id: '15467'
+    singer_name: 森山 直太朗
+    singer_alias:
+    available_date: '2005-11-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみとはすたのひひ
+    singer_name_ruby: もりやまなおたろう
+    song_variation:
+    - esong_code: 1405B34
+      song_name: 君とパスタの日々
       content_type: ''

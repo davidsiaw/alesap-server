@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: サクラあっぱれーしょん
-    song_alias:
-    esong_code: 3210A4
-    t_singer_master_id: '43064'
-    singer_name: でんぱ組.inc
-    singer_alias:
-    available_date: '2014-03-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さくらあつはれし
-    singer_name_ruby: てんはくみいんく
-    song_variation:
-    - esong_code: 3210A4
-      song_name: サクラあっぱれーしょん
-      content_type: ''
   - song_name: 桜貝 (2014バージョン)
     song_alias:
     esong_code: 3218B44
@@ -457,7 +440,7 @@ result:
     singer_alias:
     available_date: '2014-03-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 彩音のChoco-Bana Radio<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: さふれいすいんゆ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3221B3
       song_name: sayonara
+      content_type: ''
+  - song_name: さよなら少年
+    song_alias:
+    esong_code: 3218A22
+    t_singer_master_id: '47104'
+    singer_name: fifi
+    singer_alias:
+    available_date: '2014-03-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さよならしようねん
+    singer_name_ruby: ふいふい
+    song_variation:
+    - esong_code: 3218A22
+      song_name: さよなら少年
       content_type: ''

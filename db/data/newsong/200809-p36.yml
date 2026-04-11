@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1155
-  all_max_cnt: 1285
-  all_country_cnt: 1155
+  max_cnt: 1154
+  all_max_cnt: 1284
+  all_country_cnt: 1154
   song:
-  - song_name: ラズベリーキッス
-    song_alias:
-    esong_code: 2079A3
-    t_singer_master_id: '7478'
-    singer_name: カジ ヒデキ(加地秀基)
-    singer_alias:
-    available_date: '2008-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: デトロイト・メタル・シティ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: らすへりきつす
-    singer_name_ruby: かしひてき
-    song_variation:
-    - esong_code: 2079A3
-      song_name: ラズベリーキッス
-      content_type: ''
   - song_name: RASPBERRY BELLE
     song_alias:
     esong_code: 2076A21
@@ -145,23 +128,6 @@ result:
       content_type: ''
   - song_name: Love Songが聴こえない
     song_alias:
-    esong_code: 2074A45
-    t_singer_master_id: '33884'
-    singer_name: 前川 清&藤山 直美
-    singer_alias:
-    available_date: '2008-09-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふそんくかき
-    singer_name_ruby: まえかわきよしふしやまなお
-    song_variation:
-    - esong_code: 2074A45
-      song_name: Love Songが聴こえない
-      content_type: ''
-  - song_name: Love Songが聴こえない
-    song_alias:
     esong_code: 2076B48
     t_singer_master_id: '33884'
     singer_name: 前川 清&藤山 直美
@@ -177,6 +143,23 @@ result:
     - esong_code: 2076B48
       song_name: Love Songが聴こえない
       content_type: DAM生音
+  - song_name: Love Songが聴こえない
+    song_alias:
+    esong_code: 2074A45
+    t_singer_master_id: '33884'
+    singer_name: 前川 清&藤山 直美
+    singer_alias:
+    available_date: '2008-09-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふそんくかき
+    singer_name_ruby: まえかわきよしふしやまなお
+    song_variation:
+    - esong_code: 2074A45
+      song_name: Love Songが聴こえない
+      content_type: ''
   - song_name: LUV-YA
     song_alias:
     esong_code: 2119A21
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2111A11
       song_name: Rainy days
+      content_type: ''
+  - song_name: Rain Dolphin
+    song_alias:
+    esong_code: 2101A1
+    t_singer_master_id: '34029'
+    singer_name: 有賀 啓雄
+    singer_alias:
+    available_date: '2008-09-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: れいんとるふいん
+    singer_name_ruby: ありかのふお
+    song_variation:
+    - esong_code: 2101A1
+      song_name: Rain Dolphin
       content_type: ''

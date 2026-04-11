@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 891
-  all_max_cnt: 961
-  all_country_cnt: 891
+  max_cnt: 888
+  all_max_cnt: 956
+  all_country_cnt: 888
   song:
-  - song_name: 踊れ!モーニングカレー
-    song_alias:
-    esong_code: 1671B41
-    t_singer_master_id: '8409'
-    singer_name: モーニング娘。
-    singer_alias:
-    available_date: '2006-11-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとれもにんく
-    singer_name_ruby: もにんくむすめ
-    song_variation:
-    - esong_code: 1671B41
-      song_name: 踊れ!モーニングカレー
-      content_type: ''
-  - song_name: 鬼火
-    song_alias:
-    esong_code: 181A44
-    t_singer_master_id: '1346'
-    singer_name: 高山 厳
-    singer_alias:
-    available_date: '2006-11-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おにひ
-    singer_name_ruby: たかやまけん
-    song_variation:
-    - esong_code: 181A44
-      song_name: 鬼火
-      content_type: ''
   - song_name: おばぁ
     song_alias:
     esong_code: 1160A12
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1685B34
       song_name: 学園天国 〜ファイン★レインばーじょん〜
+      content_type: ''
+  - song_name: かくれんぼ同盟
+    song_alias:
+    esong_code: 1672A45
+    t_singer_master_id: '16765'
+    singer_name: CooRie
+    singer_alias:
+    available_date: '2006-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かくれんほとうめ
+    singer_name_ruby: くりえ
+    song_variation:
+    - esong_code: 1672A45
+      song_name: かくれんぼ同盟
+      content_type: ''
+  - song_name: 陽炎
+    song_alias:
+    esong_code: 1661B38
+    t_singer_master_id: '28101'
+    singer_name: 香山 るり
+    singer_alias:
+    available_date: '2006-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かけろう
+    singer_name_ruby: かやまるり
+    song_variation:
+    - esong_code: 1661B38
+      song_name: 陽炎
       content_type: ''

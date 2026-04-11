@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 662
-  all_max_cnt: 737
-  all_country_cnt: 662
+  max_cnt: 659
+  all_max_cnt: 734
+  all_country_cnt: 659
   song:
   - song_name: 君がいたから
     song_alias:
@@ -108,23 +108,6 @@ result:
     song_variation:
     - esong_code: 723A19
       song_name: 君をのせて
-      content_type: ''
-  - song_name: CATCH YOUR EARTH
-    song_alias:
-    esong_code: 110B5
-    t_singer_master_id: '136'
-    singer_name: アルフィー(THE ALFEE)
-    singer_alias:
-    available_date: '2003-01-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやつちゆああす
-    singer_name_ruby: あるふい
-    song_variation:
-    - esong_code: 110B5
-      song_name: CATCH YOUR EARTH
       content_type: ''
   - song_name: ギャング
     song_alias:
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 90B38
       song_name: 桑田佳祐ベストメドレー
+      content_type: ''
+  - song_name: 桑田佳祐メドレー〜2002〜
+    song_alias:
+    esong_code: 80A26
+    t_singer_master_id: '774'
+    singer_name: 桑田 佳祐
+    singer_alias:
+    available_date: '2003-01-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くわたけいすけめと
+    singer_name_ruby: くわたけいすけ
+    song_variation:
+    - esong_code: 80A26
+      song_name: 桑田佳祐メドレー〜2002〜
       content_type: ''

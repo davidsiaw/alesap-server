@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1176
-  all_max_cnt: 1313
-  all_country_cnt: 1176
+  max_cnt: 1175
+  all_max_cnt: 1312
+  all_country_cnt: 1175
   song:
   - song_name: 俺の答志島
     song_alias:
@@ -91,40 +91,6 @@ result:
     song_variation:
     - esong_code: 1402B37
       song_name: 大阪恋物語
-      content_type: ''
-  - song_name: お気軽ウッキーラッキー
-    song_alias:
-    esong_code: 3092A24
-    t_singer_master_id: '48554'
-    singer_name: MarMee
-    singer_alias:
-    available_date: '2013-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: おきかるうつきら
-    singer_name_ruby: まみ
-    song_variation:
-    - esong_code: 3092A24
-      song_name: お気軽ウッキーラッキー
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: お気軽ウッキーラッキー
-    song_alias:
-    esong_code: 3096A48
-    t_singer_master_id: '48554'
-    singer_name: MarMee
-    singer_alias:
-    available_date: '2013-08-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おきかるうつきら
-    singer_name_ruby: まみ
-    song_variation:
-    - esong_code: 3096A48
-      song_name: お気軽ウッキーラッキー
       content_type: ''
   - song_name: 掟つしらつゆ
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1533B2
       song_name: 想い出は風の中で・・・
+      content_type: ''
+  - song_name: おやこ坂
+    song_alias:
+    esong_code: 1807B43
+    t_singer_master_id: '30278'
+    singer_name: 松田 千春
+    singer_alias:
+    available_date: '2013-08-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやこさか
+    singer_name_ruby: まつたちはる
+    song_variation:
+    - esong_code: 1807B43
+      song_name: おやこ坂
+      content_type: ''
+  - song_name: 父娘酒(おやこざけ)
+    song_alias:
+    esong_code: 3096A9
+    t_singer_master_id: '551'
+    singer_name: 金田 たつえ
+    singer_alias:
+    available_date: '2013-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おやこさけ
+    singer_name_ruby: かねたたつえ
+    song_variation:
+    - esong_code: 3096A9
+      song_name: 父娘酒(おやこざけ)
       content_type: ''

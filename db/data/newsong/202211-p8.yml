@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1211
-  all_max_cnt: 1411
-  all_country_cnt: 1211
+  max_cnt: 1206
+  all_max_cnt: 1405
+  all_country_cnt: 1206
   song:
-  - song_name: 女の手酌酒
-    song_alias:
-    esong_code: 4627A20
-    t_singer_master_id: '6518'
-    singer_name: 川神 あい(木村悠希)
-    singer_alias:
-    available_date: '2022-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのてしやくさ
-    singer_name_ruby: かわかみあい
-    song_variation:
-    - esong_code: 4627A20
-      song_name: 女の手酌酒
-      content_type: ''
   - song_name: 女のなみだ川
     song_alias:
     esong_code: 4708A48
@@ -517,3 +500,20 @@ result:
     - esong_code: 4705B1
       song_name: カメレオン [歌ってみた利用OK]
       content_type: 歌ってみた利用OK
+  - song_name: カラカラ
+    song_alias:
+    esong_code: 4708A13
+    t_singer_master_id: '70461'
+    singer_name: 結束バンド
+    singer_alias:
+    available_date: '2022-11-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ぼっち・ざ・ろっく!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: からから
+    singer_name_ruby: けつそくはんと
+    song_variation:
+    - esong_code: 4708A13
+      song_name: カラカラ
+      content_type: ''

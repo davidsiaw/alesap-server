@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1185
+  max_cnt: 1186
   all_max_cnt: 1283
-  all_country_cnt: 1185
+  all_country_cnt: 1186
   song:
   - song_name: 紅月勇女 feat.南条あきら
     song_alias:
@@ -281,21 +281,21 @@ result:
       content_type: VOCALOID
   - song_name: こころ坂
     song_alias:
-    esong_code: 2732B18
+    esong_code: 2740A5
     t_singer_master_id: '1449'
     singer_name: 千葉 一夫
     singer_alias:
-    available_date: '2012-01-01'
+    available_date: '2012-01-17'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMﾌﾟﾛｵｹ
     song_name_ruby: こころさか
     singer_name_ruby: ちはかすお
     song_variation:
-    - esong_code: 2732B18
+    - esong_code: 2740A5
       song_name: こころ坂
-      content_type: ''
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: こころ坂 「名演ギター 斉藤 功」
     song_alias:
     esong_code: 2739B42
@@ -315,38 +315,21 @@ result:
       content_type: ''
   - song_name: こころ坂
     song_alias:
-    esong_code: 2740A5
+    esong_code: 2732B18
     t_singer_master_id: '1449'
     singer_name: 千葉 一夫
     singer_alias:
-    available_date: '2012-01-17'
+    available_date: '2012-01-01'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
+    content_type:
     song_name_ruby: こころさか
     singer_name_ruby: ちはかすお
     song_variation:
-    - esong_code: 2740A5
+    - esong_code: 2732B18
       song_name: こころ坂
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: 心に愛を・・・
-    song_alias:
-    esong_code: 2739A15
-    t_singer_master_id: '33124'
-    singer_name: 梓 夕子
-    singer_alias:
-    available_date: '2012-01-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: こころにあいを
-    singer_name_ruby: あすさゆうこ
-    song_variation:
-    - esong_code: 2739A15
-      song_name: 心に愛を・・・
-      content_type: DAMｸﾘｯﾌﾟ
+      content_type: ''
   - song_name: 心に愛を・・・
     song_alias:
     esong_code: 2746A11
@@ -364,6 +347,23 @@ result:
     - esong_code: 2746A11
       song_name: 心に愛を・・・
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 心に愛を・・・
+    song_alias:
+    esong_code: 2739A15
+    t_singer_master_id: '33124'
+    singer_name: 梓 夕子
+    singer_alias:
+    available_date: '2012-01-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: こころにあいを
+    singer_name_ruby: あすさゆうこ
+    song_variation:
+    - esong_code: 2739A15
+      song_name: 心に愛を・・・
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 心に沁みるジャズギター
     song_alias:
     esong_code: 2759A45

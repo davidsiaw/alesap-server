@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 259
-  all_max_cnt: 274
-  all_country_cnt: 259
+  max_cnt: 254
+  all_max_cnt: 269
+  all_country_cnt: 254
   song:
-  - song_name: どこまでも遠くへ
-    song_alias:
-    esong_code: 518A27
-    t_singer_master_id: '8723'
-    singer_name: Something ELse
-    singer_alias:
-    available_date: '2001-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とこまてもとおく
-    singer_name_ruby: さむしんくえるす
-    song_variation:
-    - esong_code: 518A27
-      song_name: どこまでも遠くへ
-      content_type: ''
-  - song_name: ドッグスVSキャッツ
-    song_alias:
-    esong_code: 761A11
-    t_singer_master_id: '1444'
-    singer_name: チェッカーズ
-    singer_alias:
-    available_date: '2001-02-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とつくすふい
-    singer_name_ruby: ちえつかす
-    song_variation:
-    - esong_code: 761A11
-      song_name: ドッグスVSキャッツ
-      content_type: ''
   - song_name: 届け片想い
     song_alias:
     esong_code: 276A27
@@ -500,20 +466,54 @@ result:
     - esong_code: 514B22
       song_name: パピヨン〜papillon〜
       content_type: ''
-  - song_name: HALF MOON
+  - song_name: 浜唄
     song_alias:
-    esong_code: 516B40
-    t_singer_master_id: '2870'
-    singer_name: 緒方 恵美
+    esong_code: 522A21
+    t_singer_master_id: '194'
+    singer_name: 石原 詢子
+    singer_alias:
+    available_date: '2001-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はまうた
+    singer_name_ruby: いしはらしゆんこ
+    song_variation:
+    - esong_code: 522A21
+      song_name: 浜唄
+      content_type: ''
+  - song_name: パラノイアな風景
+    song_alias:
+    esong_code: 517B32
+    t_singer_master_id: '4669'
+    singer_name: 木根 尚登
     singer_alias:
     available_date: '2001-02-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
-    song_name_ruby: はふむん
-    singer_name_ruby: おかためくみ
+    song_name_ruby: はらのいあなふうけ
+    singer_name_ruby: きねなおと
     song_variation:
-    - esong_code: 516B40
-      song_name: HALF MOON
+    - esong_code: 517B32
+      song_name: パラノイアな風景
+      content_type: ''
+  - song_name: ばらの花
+    song_alias:
+    esong_code: 508B29
+    t_singer_master_id: '8680'
+    singer_name: くるり
+    singer_alias:
+    available_date: '2001-02-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はらのはな
+    singer_name_ruby: くるり
+    song_variation:
+    - esong_code: 508B29
+      song_name: ばらの花
       content_type: ''

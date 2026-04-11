@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
-  - song_name: 告白ライバル宣言 feat.代永翼
-    song_alias:
-    esong_code: 3464A18
-    t_singer_master_id: '43384'
-    singer_name: HoneyWorks
-    singer_alias:
-    available_date: '2015-07-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 告白実行委員会<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こくはくらいはるせ
-    singer_name_ruby: はにわくす
-    song_variation:
-    - esong_code: 3464A18
-      song_name: 告白ライバル宣言 feat.代永翼
-      content_type: ''
   - song_name: ここからのミライで
     song_alias:
     esong_code: 3458B17
@@ -40,6 +23,23 @@ result:
     song_variation:
     - esong_code: 3458B17
       song_name: ここからのミライで
+      content_type: ''
+  - song_name: こころ
+    song_alias:
+    esong_code: 3460A23
+    t_singer_master_id: '16200'
+    singer_name: アンダーグラフ
+    singer_alias:
+    available_date: '2015-07-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: みんなのうた<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: こころ
+    singer_name_ruby: あんたくらふ
+    song_variation:
+    - esong_code: 3460A23
+      song_name: こころ
       content_type: ''
   - song_name: 心〜こころ〜
     song_alias:
@@ -58,23 +58,6 @@ result:
     - esong_code: 3470B33
       song_name: 心〜こころ〜
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: こころ
-    song_alias:
-    esong_code: 3460A23
-    t_singer_master_id: '16200'
-    singer_name: アンダーグラフ
-    singer_alias:
-    available_date: '2015-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: みんなのうた<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こころ
-    singer_name_ruby: あんたくらふ
-    song_variation:
-    - esong_code: 3460A23
-      song_name: こころ
-      content_type: ''
   - song_name: 心做し feat.GUMI
     song_alias:
     esong_code: 3461A44
@@ -162,6 +145,23 @@ result:
       content_type: ''
   - song_name: 5時の汽車で
     song_alias:
+    esong_code: 412B35
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2015-07-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: こしのきしやて
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 412B35
+      song_name: 5時の汽車で
+      content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 5時の汽車で
+    song_alias:
     esong_code: 3470B22
     t_singer_master_id: '1518'
     singer_name: 天童 よしみ
@@ -194,23 +194,6 @@ result:
     - esong_code: 413A33
       song_name: 5時の汽車で
       content_type: DAM生音
-  - song_name: 5時の汽車で
-    song_alias:
-    esong_code: 412B35
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2015-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: こしのきしやて
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 412B35
-      song_name: 5時の汽車で
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 個人的メッセージ
     song_alias:
     esong_code: 3465A31
@@ -517,3 +500,20 @@ result:
     - esong_code: 3458A29
       song_name: 3月14日〜時計
       content_type: ''
+  - song_name: サイデンティティ
+    song_alias:
+    esong_code: 3468B24
+    t_singer_master_id: '49012'
+    singer_name: ゲスの極み乙女
+    singer_alias:
+    available_date: '2015-07-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: さいてんていてい
+    singer_name_ruby: けすのきわみおとめ
+    song_variation:
+    - esong_code: 3468B24
+      song_name: サイデンティティ
+      content_type: JOYﾎﾞｰｶﾙ

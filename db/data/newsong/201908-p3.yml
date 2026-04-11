@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 977
-  all_max_cnt: 1128
-  all_country_cnt: 977
+  max_cnt: 964
+  all_max_cnt: 1115
+  all_country_cnt: 964
   song:
-  - song_name: アンサー feat.初音ミク
-    song_alias:
-    esong_code: 4239A46
-    t_singer_master_id: '56309'
-    singer_name: はるまきごはん
-    singer_alias:
-    available_date: '2019-08-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: あんさ
-    singer_name_ruby: はるまきこはん
-    song_variation:
-    - esong_code: 4239A46
-      song_name: アンサー feat.初音ミク
-      content_type: VOCALOID
   - song_name: ANTHEM
     song_alias:
     esong_code: 4239B6
@@ -389,7 +372,7 @@ result:
     singer_alias:
     available_date: '2019-08-30'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 鳥海浩輔・前野智昭の大人のトリセツ<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: いつつしようたいむ
@@ -417,23 +400,6 @@ result:
       content_type: ''
   - song_name: 糸
     song_alias:
-    esong_code: 4230B49
-    t_singer_master_id: '64556'
-    singer_name: 花譜
-    singer_alias:
-    available_date: '2019-08-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: いと
-    singer_name_ruby: かふ
-    song_variation:
-    - esong_code: 4230B49
-      song_name: 糸
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: 糸
-    song_alias:
     esong_code: 4231B21
     t_singer_master_id: '64556'
     singer_name: 花譜
@@ -449,6 +415,23 @@ result:
     - esong_code: 4231B21
       song_name: 糸
       content_type: ''
+  - song_name: 糸
+    song_alias:
+    esong_code: 4230B49
+    t_singer_master_id: '64556'
+    singer_name: 花譜
+    singer_alias:
+    available_date: '2019-08-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: いと
+    singer_name_ruby: かふ
+    song_variation:
+    - esong_code: 4230B49
+      song_name: 糸
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: 犬も食わない
     song_alias:
     esong_code: 4238A33
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4229B4
       song_name: イモコ
+      content_type: ''
+  - song_name: ear+f
+    song_alias:
+    esong_code: 4235A46
+    t_singer_master_id: '45283'
+    singer_name: TK from 凛として時雨
+    singer_alias:
+    available_date: '2019-08-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いやふらすえふ
+    singer_name_ruby: ていけふろむりんとしてしく
+    song_variation:
+    - esong_code: 4235A46
+      song_name: ear+f
       content_type: ''

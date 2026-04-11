@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1072
-  all_max_cnt: 1218
-  all_country_cnt: 1072
+  max_cnt: 1061
+  all_max_cnt: 1207
+  all_country_cnt: 1061
   song:
   - song_name: うわさ供養
     song_alias:
@@ -94,23 +94,6 @@ result:
       content_type: ''
   - song_name: 永遠
     song_alias:
-    esong_code: 2327A34
-    t_singer_master_id: '992'
-    singer_name: ZARD
-    singer_alias:
-    available_date: '2009-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: えいえん
-    singer_name_ruby: さと
-    song_variation:
-    - esong_code: 2327A34
-      song_name: 永遠
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 永遠
-    song_alias:
     esong_code: 2330B42
     t_singer_master_id: '31457'
     singer_name: SKELT 8 BAMBINO
@@ -126,6 +109,23 @@ result:
     - esong_code: 2330B42
       song_name: 永遠
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 永遠
+    song_alias:
+    esong_code: 2327A34
+    t_singer_master_id: '992'
+    singer_name: ZARD
+    singer_alias:
+    available_date: '2009-06-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: えいえん
+    singer_name_ruby: さと
+    song_variation:
+    - esong_code: 2327A34
+      song_name: 永遠
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: H
     song_alias:
     esong_code: 2340A35
@@ -440,7 +440,7 @@ result:
     singer_alias:
     available_date: '2009-06-17'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おいしいとまとのうた

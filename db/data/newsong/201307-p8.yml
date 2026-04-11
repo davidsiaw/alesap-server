@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1640
-  all_max_cnt: 1820
-  all_country_cnt: 1640
+  max_cnt: 1634
+  all_max_cnt: 1814
+  all_country_cnt: 1634
   song:
   - song_name: 宇空の暦
     song_alias:
@@ -247,23 +247,6 @@ result:
       content_type: ''
   - song_name: 男と女のオルゴール
     song_alias:
-    esong_code: 3078A2
-    t_singer_master_id: '45469'
-    singer_name: 増位山 太志郎&松居 直美
-    singer_alias:
-    available_date: '2013-07-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとことおんなのおる
-    singer_name_ruby: ますいやまたいしろうまついなお
-    song_variation:
-    - esong_code: 3078A2
-      song_name: 男と女のオルゴール
-      content_type: ''
-  - song_name: 男と女のオルゴール
-    song_alias:
     esong_code: 3078A3
     t_singer_master_id: '45469'
     singer_name: 増位山 太志郎&松居 直美
@@ -279,13 +262,30 @@ result:
     - esong_code: 3078A3
       song_name: 男と女のオルゴール
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 男と女のオルゴール
+    song_alias:
+    esong_code: 3078A2
+    t_singer_master_id: '45469'
+    singer_name: 増位山 太志郎&松居 直美
+    singer_alias:
+    available_date: '2013-07-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとことおんなのおる
+    singer_name_ruby: ますいやまたいしろうまついなお
+    song_variation:
+    - esong_code: 3078A2
+      song_name: 男と女のオルゴール
+      content_type: ''
   - song_name: 男の意地
     song_alias:
     esong_code: 3079B39
     t_singer_master_id: '14133'
     singer_name: 池田 輝郎(池田輝男)
     singer_alias:
-    available_date: '2013-07-23'
+    available_date: '2013-07-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -472,7 +472,7 @@ result:
     t_singer_master_id: '14133'
     singer_name: 池田 輝郎(池田輝男)
     singer_alias:
-    available_date: '2013-07-23'
+    available_date: '2013-07-24'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'

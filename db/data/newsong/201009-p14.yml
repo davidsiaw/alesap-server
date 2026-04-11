@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1064
-  all_max_cnt: 1181
-  all_country_cnt: 1064
+  max_cnt: 1066
+  all_max_cnt: 1183
+  all_country_cnt: 1066
   song:
   - song_name: SOMEBODY TO LUV
     song_alias:
@@ -298,23 +298,6 @@ result:
       content_type: ''
   - song_name: Genie
     song_alias:
-    esong_code: 2598B46
-    t_singer_master_id: '40660'
-    singer_name: 少女時代
-    singer_alias:
-    available_date: '2010-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: しに
-    singer_name_ruby: しようしよしたい
-    song_variation:
-    - esong_code: 2598B46
-      song_name: Genie
-      content_type: JOYｸﾘｯﾌﾟ
-  - song_name: Genie
-    song_alias:
     esong_code: 2586B40
     t_singer_master_id: '40660'
     singer_name: 少女時代
@@ -330,6 +313,23 @@ result:
     - esong_code: 2586B40
       song_name: Genie
       content_type: ''
+  - song_name: Genie
+    song_alias:
+    esong_code: 2598B46
+    t_singer_master_id: '40660'
+    singer_name: 少女時代
+    singer_alias:
+    available_date: '2010-09-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYｸﾘｯﾌﾟ
+    song_name_ruby: しに
+    singer_name_ruby: しようしよしたい
+    song_variation:
+    - esong_code: 2598B46
+      song_name: Genie
+      content_type: JOYｸﾘｯﾌﾟ
   - song_name: Genie
     song_alias:
     esong_code: 2622A42
@@ -468,23 +468,6 @@ result:
       content_type: ''
   - song_name: Shine
     song_alias:
-    esong_code: 2601A24
-    t_singer_master_id: '33041'
-    singer_name: 大橋トリオ
-    singer_alias:
-    available_date: '2010-09-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやいん
-    singer_name_ruby: おおはしとりお
-    song_variation:
-    - esong_code: 2601A24
-      song_name: Shine
-      content_type: ''
-  - song_name: Shine
-    song_alias:
     esong_code: 2600A42
     t_singer_master_id: '32492'
     singer_name: JAY'ED
@@ -515,5 +498,22 @@ result:
     singer_name_ruby: せろそうるせふん
     song_variation:
     - esong_code: 2608A42
+      song_name: Shine
+      content_type: ''
+  - song_name: Shine
+    song_alias:
+    esong_code: 2601A24
+    t_singer_master_id: '33041'
+    singer_name: 大橋トリオ
+    singer_alias:
+    available_date: '2010-09-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しやいん
+    singer_name_ruby: おおはしとりお
+    song_variation:
+    - esong_code: 2601A24
       song_name: Shine
       content_type: ''

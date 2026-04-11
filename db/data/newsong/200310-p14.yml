@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 531
-  all_max_cnt: 644
-  all_country_cnt: 531
+  max_cnt: 533
+  all_max_cnt: 646
+  all_country_cnt: 533
   song:
+  - song_name: 歩行者優先
+    song_alias:
+    esong_code: 824A25
+    t_singer_master_id: '8578'
+    singer_name: ゆず
+    singer_alias:
+    available_date: '2003-10-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほこうしやゆうせん
+    singer_name_ruby: ゆす
+    song_variation:
+    - esong_code: 824A25
+      song_name: 歩行者優先
+      content_type: ''
+  - song_name: ポコチン
+    song_alias:
+    esong_code: 718A29
+    t_singer_master_id: '15587'
+    singer_name: オナニーマシーン
+    singer_alias:
+    available_date: '2003-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほこちん
+    singer_name_ruby: おなにましん
+    song_variation:
+    - esong_code: 718A29
+      song_name: ポコチン
+      content_type: ''
   - song_name: 誇り高き戦士 〜Pride in the ring〜
     song_alias:
     esong_code: 842A10
@@ -262,7 +296,7 @@ result:
     - esong_code: 718B23
       song_name: マグニチュード
       content_type: ''
-  - song_name: 負けないで,負けないで・・・
+  - song_name: 負けないで、負けないで・・・
     song_alias:
     esong_code: 643B27
     t_singer_master_id: '4689'
@@ -270,14 +304,14 @@ result:
     singer_alias:
     available_date: '2003-10-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 林原めぐみのHeartful Station<番組名>
+    tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: まけないてまけない
     singer_name_ruby: はやしはらめくみ
     song_variation:
     - esong_code: 643B27
-      song_name: 負けないで,負けないで・・・
+      song_name: 負けないで、負けないで・・・
       content_type: ''
   - song_name: MAGIC
     song_alias:
@@ -417,23 +451,6 @@ result:
       content_type: ''
   - song_name: 見えない世界
     song_alias:
-    esong_code: 844B7
-    t_singer_master_id: '10295'
-    singer_name: ポルノグラフィティ
-    singer_alias:
-    available_date: '2003-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みえないせかい
-    singer_name_ruby: ほるのくらふいてい
-    song_variation:
-    - esong_code: 844B7
-      song_name: 見えない世界
-      content_type: ''
-  - song_name: 見えない世界
-    song_alias:
     esong_code: 843A8
     t_singer_master_id: '17402'
     singer_name: 速水 ユリとマーブルス
@@ -447,6 +464,23 @@ result:
     singer_name_ruby: はやみゆりとまふるす
     song_variation:
     - esong_code: 843A8
+      song_name: 見えない世界
+      content_type: ''
+  - song_name: 見えない世界
+    song_alias:
+    esong_code: 844B7
+    t_singer_master_id: '10295'
+    singer_name: ポルノグラフィティ
+    singer_alias:
+    available_date: '2003-10-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: みえないせかい
+    singer_name_ruby: ほるのくらふいてい
+    song_variation:
+    - esong_code: 844B7
       song_name: 見えない世界
       content_type: ''
   - song_name: Missアニーの証言
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 843B20
       song_name: 水色ガールフレンド
-      content_type: ''
-  - song_name: 水とあなたと太陽と
-    song_alias:
-    esong_code: 767A33
-    t_singer_master_id: '1359'
-    singer_name: 竹内 まりや
-    singer_alias:
-    available_date: '2003-10-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすとあなたとたい
-    singer_name_ruby: たけうちまりや
-    song_variation:
-    - esong_code: 767A33
-      song_name: 水とあなたと太陽と
-      content_type: ''
-  - song_name: miss you
-    song_alias:
-    esong_code: 843B19
-    t_singer_master_id: '17413'
-    singer_name: m-flo loves melody.&山本 領平
-    singer_alias:
-    available_date: '2003-10-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすゆ
-    singer_name_ruby: えむふろうらふすめろてい
-    song_variation:
-    - esong_code: 843B19
-      song_name: miss you
       content_type: ''

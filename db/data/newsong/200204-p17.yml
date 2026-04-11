@@ -3,10 +3,44 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 637
-  all_max_cnt: 702
-  all_country_cnt: 637
+  max_cnt: 638
+  all_max_cnt: 703
+  all_country_cnt: 638
   song:
+  - song_name: ボーダレスマインド
+    song_alias:
+    esong_code: 818A31
+    t_singer_master_id: '10410'
+    singer_name: 山嵐
+    singer_alias:
+    available_date: '2002-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほたれすまいん
+    singer_name_ruby: やまあらし
+    song_variation:
+    - esong_code: 818A31
+      song_name: ボーダレスマインド
+      content_type: ''
+  - song_name: ボトル二本とチョコレート
+    song_alias:
+    esong_code: 822A39
+    t_singer_master_id: '1937'
+    singer_name: BEGIN
+    singer_alias:
+    available_date: '2002-04-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ほとるにほんとちよ
+    singer_name_ruby: ひきん
+    song_variation:
+    - esong_code: 822A39
+      song_name: ボトル二本とチョコレート
+      content_type: ''
   - song_name: 炎
     song_alias:
     esong_code: 782A17
@@ -482,38 +516,4 @@ result:
     song_variation:
     - esong_code: 830A21
       song_name: 水無し川
-      content_type: ''
-  - song_name: 水虫の唄
-    song_alias:
-    esong_code: 817B28
-    t_singer_master_id: '1978'
-    singer_name: ザ・フォーク・クルセダーズ
-    singer_alias:
-    available_date: '2002-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みすむしのうた
-    singer_name_ruby: さふおくくるせた
-    song_variation:
-    - esong_code: 817B28
-      song_name: 水虫の唄
-      content_type: ''
-  - song_name: 乱されて
-    song_alias:
-    esong_code: 104A45
-    t_singer_master_id: '1512'
-    singer_name: テレサ・テン
-    singer_alias:
-    available_date: '2002-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みたされて
-    singer_name_ruby: てれさてん
-    song_variation:
-    - esong_code: 104A45
-      song_name: 乱されて
       content_type: ''

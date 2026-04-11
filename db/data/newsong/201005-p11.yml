@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 911
-  all_max_cnt: 1051
-  all_country_cnt: 911
+  max_cnt: 909
+  all_max_cnt: 1049
+  all_country_cnt: 909
   song:
   - song_name: さすらい気分
     song_alias:
@@ -117,7 +117,7 @@ result:
     singer_alias:
     available_date: '2010-05-22'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボール ファイナルバウト<番組名>
+    tie_up: DRAGON BALL(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さひつけすとふ
@@ -160,23 +160,6 @@ result:
     - esong_code: 2554B41
       song_name: The Meaning Of Us
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: SOMEONE ELSE
-    song_alias:
-    esong_code: 2549A21
-    t_singer_master_id: '40014'
-    singer_name: 阿澄 佳奈&藤田 咲&喜多村 英梨
-    singer_alias:
-    available_date: '2010-05-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: WORKING!!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: さむわんえるす
-    singer_name_ruby: あすみかなふしたさききた
-    song_variation:
-    - esong_code: 2549A21
-      song_name: SOMEONE ELSE
-      content_type: ''
   - song_name: さよならGood Bye
     song_alias:
     esong_code: 2543B23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2539B8
       song_name: Shake It Up (HOUSE NATION Sunset In Ibiza Remix)
+      content_type: ''
+  - song_name: ジェイド! 〜ジェイドのテーマ〜
+    song_alias:
+    esong_code: 2530B44
+    t_singer_master_id: '29430'
+    singer_name: 野島 健児
+    singer_alias:
+    available_date: '2010-05-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: キン肉マンⅡ世<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しえいと
+    singer_name_ruby: のしまけんし
+    song_variation:
+    - esong_code: 2530B44
+      song_name: ジェイド! 〜ジェイドのテーマ〜
       content_type: ''

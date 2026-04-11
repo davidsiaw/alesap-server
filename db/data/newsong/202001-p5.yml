@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 980
-  all_max_cnt: 1116
-  all_country_cnt: 980
+  max_cnt: 974
+  all_max_cnt: 1110
+  all_country_cnt: 974
   song:
-  - song_name: 生まれ変わっても
-    song_alias:
-    esong_code: 4315A35
-    t_singer_master_id: '60057'
-    singer_name: FOMARE
-    singer_alias:
-    available_date: '2020-01-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うまれかわつても
-    singer_name_ruby: ふおまれ
-    song_variation:
-    - esong_code: 4315A35
-      song_name: 生まれ変わっても
-      content_type: ''
   - song_name: 海の声
     song_alias:
     esong_code: 4310B14
@@ -517,3 +500,20 @@ result:
     - esong_code: 4315A40
       song_name: 大人になってしまうなよ
       content_type: ''
+  - song_name: 乙女どもよ。
+    song_alias:
+    esong_code: 4310B19
+    t_singer_master_id: '51251'
+    singer_name: CHiCO with HoneyWorks
+    singer_alias:
+    available_date: '2020-01-14'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 荒ぶる季節の乙女どもよ。<番組名>
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おとめともよ
+    singer_name_ruby: ちこういすはにわく
+    song_variation:
+    - esong_code: 4310B19
+      song_name: 乙女どもよ。
+      content_type: DAMﾌﾟﾛｵｹ

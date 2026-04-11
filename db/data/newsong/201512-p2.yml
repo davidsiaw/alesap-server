@@ -3,27 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1445
-  all_max_cnt: 1637
-  all_country_cnt: 1445
+  max_cnt: 1441
+  all_max_cnt: 1633
+  all_country_cnt: 1441
   song:
   - song_name: 明日はきっといい日になる
     song_alias:
-    esong_code: 3551A29
-    t_singer_master_id: '37701'
-    singer_name: 高橋 優
+    esong_code: 3572B17
+    t_singer_master_id: '45397'
+    singer_name: Rihwa
     singer_alias:
-    available_date: '2015-12-13'
+    available_date: '2015-12-23'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
+    content_type:
     song_name_ruby: あしたはきつといいひ
-    singer_name_ruby: たかはしゆう
+    singer_name_ruby: りふあ
     song_variation:
-    - esong_code: 3551A29
+    - esong_code: 3572B17
       song_name: 明日はきっといい日になる
-      content_type: DAMｸﾘｯﾌﾟ生音
+      content_type: ''
   - song_name: 明日はきっといい日になる
     song_alias:
     esong_code: 3575A8
@@ -41,6 +41,23 @@ result:
     - esong_code: 3575A8
       song_name: 明日はきっといい日になる
       content_type: JOY生演奏
+  - song_name: 明日はきっといい日になる
+    song_alias:
+    esong_code: 3551A29
+    t_singer_master_id: '37701'
+    singer_name: 高橋 優
+    singer_alias:
+    available_date: '2015-12-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: あしたはきつといいひ
+    singer_name_ruby: たかはしゆう
+    song_variation:
+    - esong_code: 3551A29
+      song_name: 明日はきっといい日になる
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 明日は晴れるよね?!
     song_alias:
     esong_code: 3565A14
@@ -385,7 +402,7 @@ result:
     song_alias:
     esong_code: 3561B24
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2015-12-01'
     end_date: '2999-04-10 00:00:00'
@@ -436,7 +453,7 @@ result:
     song_alias:
     esong_code: 3561B25
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2015-12-01'
     end_date: '2999-04-10 00:00:00'
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3561A13
       song_name: 甘い罠
-      content_type: ''
-  - song_name: あまがさのうた
-    song_alias:
-    esong_code: 3570B42
-    t_singer_master_id: '54962'
-    singer_name: 野村 真悠華
-    singer_alias:
-    available_date: '2015-12-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: モンスター娘のいる日常<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あまかさのうた
-    singer_name_ruby: のむらまゆか
-    song_variation:
-    - esong_code: 3570B42
-      song_name: あまがさのうた
       content_type: ''

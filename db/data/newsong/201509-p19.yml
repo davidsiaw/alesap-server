@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
   - song_name: 修羅の闇間に
     song_alias:
@@ -15,7 +15,7 @@ result:
     singer_alias:
     available_date: '2015-09-29'
     end_date: '2999-04-10 00:00:00'
-    tie_up: PHANTASY STAR ONLINE 2<番組名>
+    tie_up: PHANTASY STAR ONLINE 2(ゲーム版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: しゆらのやみまに
@@ -70,10 +70,27 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: しよいんと
-    singer_name_ruby: しやち
+    singer_name_ruby: ちむしやち
     song_variation:
     - esong_code: 3505B28
       song_name: JOINT
+      content_type: ''
+  - song_name: 少女交響曲
+    song_alias:
+    esong_code: 3487A36
+    t_singer_master_id: '49958'
+    singer_name: Wake Up,Girls!
+    singer_alias:
+    available_date: '2015-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: Wake Up,Girls!(劇場版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: しようしよこうきよ
+    singer_name_ruby: うえいくあつふかるす
+    song_variation:
+    - esong_code: 3487A36
+      song_name: 少女交響曲
       content_type: ''
   - song_name: SHOW TIME
     song_alias:
@@ -500,20 +517,3 @@ result:
     - esong_code: 3508A41
       song_name: 人生夢舞台
       content_type: ''
-  - song_name: 死 ん だ 妻 に 似 て い る
-    song_alias:
-    esong_code: 3498A14
-    t_singer_master_id: '33453'
-    singer_name: ゴールデンボンバー
-    singer_alias:
-    available_date: '2015-09-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: しんたつまににてい
-    singer_name_ruby: こるてんほんは
-    song_variation:
-    - esong_code: 3498A14
-      song_name: 死 ん だ 妻 に 似 て い る
-      content_type: DAMｸﾘｯﾌﾟ

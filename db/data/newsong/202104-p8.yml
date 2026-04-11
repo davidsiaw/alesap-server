@@ -3,61 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 814
-  all_max_cnt: 889
-  all_country_cnt: 814
+  max_cnt: 807
+  all_max_cnt: 882
+  all_country_cnt: 807
   song:
-  - song_name: きらきらにひかる
-    song_alias:
-    esong_code: 4490A1
-    t_singer_master_id: '25694'
-    singer_name: いきものがかり
-    singer_alias:
-    available_date: '2021-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: きらきらにひかる
-    singer_name_ruby: いきものかかり
-    song_variation:
-    - esong_code: 4490A1
-      song_name: きらきらにひかる
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: キラリ☆パーティ♪タイム
-    song_alias:
-    esong_code: 4489A14
-    t_singer_master_id: '67750'
-    singer_name: 伊達 花彩・長尾 寧音(from STARRY PLANET☆)
-    singer_alias:
-    available_date: '2021-04-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アイカツプラネット!(ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きらりはていたい
-    singer_name_ruby: たてかあやなかおしす
-    song_variation:
-    - esong_code: 4489A14
-      song_name: キラリ☆パーティ♪タイム
-      content_type: ''
-  - song_name: 季路
-    song_alias:
-    esong_code: 4494A33
-    t_singer_master_id: '43113'
-    singer_name: Aimer
-    singer_alias:
-    available_date: '2021-04-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 魔道祖師<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きろ
-    singer_name_ruby: えめ
-    song_variation:
-    - esong_code: 4494A33
-      song_name: 季路
-      content_type: ''
   - song_name: 極・夫婦街道
     song_alias:
     esong_code: 4493B16
@@ -451,23 +400,6 @@ result:
       content_type: DAMﾌﾟﾛｵｹ
   - song_name: 恋の旅路
     song_alias:
-    esong_code: 4494B14
-    t_singer_master_id: '360'
-    singer_name: 大川 栄策
-    singer_alias:
-    available_date: '2021-04-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいのたひし
-    singer_name_ruby: おおかわえいさく
-    song_variation:
-    - esong_code: 4494B14
-      song_name: 恋の旅路
-      content_type: ''
-  - song_name: 恋の旅路
-    song_alias:
     esong_code: 4493B44
     t_singer_master_id: '360'
     singer_name: 大川 栄策
@@ -483,6 +415,23 @@ result:
     - esong_code: 4493B44
       song_name: 恋の旅路
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 恋の旅路
+    song_alias:
+    esong_code: 4494B14
+    t_singer_master_id: '360'
+    singer_name: 大川 栄策
+    singer_alias:
+    available_date: '2021-04-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こいのたひし
+    singer_name_ruby: おおかわえいさく
+    song_variation:
+    - esong_code: 4494B14
+      song_name: 恋の旅路
+      content_type: ''
   - song_name: 恋人
     song_alias:
     esong_code: 4491B25
@@ -516,4 +465,55 @@ result:
     song_variation:
     - esong_code: 4490B41
       song_name: 恋・ホワイトアウト
+      content_type: ''
+  - song_name: 高音厨音域試験【和風編曲】
+    song_alias:
+    esong_code: 4490B8
+    t_singer_master_id: '49632'
+    singer_name: 木村わいP
+    singer_alias:
+    available_date: '2021-04-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: VOCALOID
+    song_name_ruby: こうおんほうおんい
+    singer_name_ruby: きむらわいひ
+    song_variation:
+    - esong_code: 4490B8
+      song_name: 高音厨音域試験【和風編曲】
+      content_type: VOCALOID
+  - song_name: 紅白歌合戦メドレー 〜2020 紅組〜
+    song_alias:
+    esong_code: 4490A31
+    t_singer_master_id: '12687'
+    singer_name: DKオリジナルメドレー
+    singer_alias:
+    available_date: '2021-04-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こうはく2020あか
+    singer_name_ruby: ていけおりしなるめとれ
+    song_variation:
+    - esong_code: 4490A31
+      song_name: 紅白歌合戦メドレー 〜2020 紅組〜
+      content_type: ''
+  - song_name: 紅白歌合戦メドレー 〜2020 白組〜
+    song_alias:
+    esong_code: 4490A32
+    t_singer_master_id: '12687'
+    singer_name: DKオリジナルメドレー
+    singer_alias:
+    available_date: '2021-04-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こうはく2020しろ
+    singer_name_ruby: ていけおりしなるめとれ
+    song_variation:
+    - esong_code: 4490A32
+      song_name: 紅白歌合戦メドレー 〜2020 白組〜
       content_type: ''

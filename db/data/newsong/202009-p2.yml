@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 898
-  all_max_cnt: 987
-  all_country_cnt: 898
+  max_cnt: 892
+  all_max_cnt: 981
+  all_country_cnt: 892
   song:
   - song_name: Amazing Romance
     song_alias:
@@ -244,6 +244,23 @@ result:
     song_variation:
     - esong_code: 4425B13
       song_name: amp
+      content_type: ''
+  - song_name: 粋な関係
+    song_alias:
+    esong_code: 4416B40
+    t_singer_master_id: '66775'
+    singer_name: 清水 節子&千葉 真一
+    singer_alias:
+    available_date: '2020-09-11'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いきなかんけい
+    singer_name_ruby: しみすせつこちはしんいち
+    song_variation:
+    - esong_code: 4416B40
+      song_name: 粋な関係
       content_type: ''
   - song_name: 生きるをする
     song_alias:
@@ -500,20 +517,3 @@ result:
     - esong_code: 4425B18
       song_name: Eve
       content_type: ''
-  - song_name: 伊吹おろし
-    song_alias:
-    esong_code: 4301A1
-    t_singer_master_id: '19053'
-    singer_name: 森山 愛子
-    singer_alias:
-    available_date: '2020-09-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: いふきおろし
-    singer_name_ruby: もりやまあいこ
-    song_variation:
-    - esong_code: 4301A1
-      song_name: 伊吹おろし
-      content_type: JOYｸﾘｯﾌﾟ

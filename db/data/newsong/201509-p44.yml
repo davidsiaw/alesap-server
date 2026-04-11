@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1432
-  all_max_cnt: 1653
-  all_country_cnt: 1432
+  max_cnt: 1430
+  all_max_cnt: 1651
+  all_country_cnt: 1430
   song:
-  - song_name: 夜鳴く・・・かもめ
-    song_alias:
-    esong_code: 3503A24
-    t_singer_master_id: '1683'
-    singer_name: 夏木 綾子
-    singer_alias:
-    available_date: '2015-09-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: よるなくかもめ
-    singer_name_ruby: なつきあやこ
-    song_variation:
-    - esong_code: 3503A24
-      song_name: 夜鳴く・・・かもめ
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 夜の国
-    song_alias:
-    esong_code: 3500A19
-    t_singer_master_id: '34239'
-    singer_name: Annabel(from anNina)
-    singer_alias:
-    available_date: '2015-09-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: GANGSTA.<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: よるのくに
-    singer_name_ruby: あなへるあんにな
-    song_variation:
-    - esong_code: 3500A19
-      song_name: 夜の国
-      content_type: ''
   - song_name: 夜のピアス
     song_alias:
     esong_code: 3495A36
@@ -249,7 +215,7 @@ result:
     song_alias:
     esong_code: 3490B46
     t_singer_master_id: '42105'
-    singer_name: ひとしずくP×やま△
+    singer_name: ひとしずく×やま△
     singer_alias:
     available_date: '2015-09-01'
     end_date: '2999-04-10 00:00:00'
@@ -257,7 +223,7 @@ result:
     country_code: '0'
     content_type: VOCALOID
     song_name_ruby: らすとそんくなみた
-    singer_name_ruby: ひとしすくひやまさんかつけ
+    singer_name_ruby: ひとしすくやまさんかつけ
     song_variation:
     - esong_code: 3490B46
       song_name: last song 〜涙の海へ〜 feat.初音ミク
@@ -400,23 +366,6 @@ result:
       content_type: ''
   - song_name: 落花繚乱
     song_alias:
-    esong_code: 3492A40
-    t_singer_master_id: '20580'
-    singer_name: 沖田 真早美(沖田まさみ)
-    singer_alias:
-    available_date: '2015-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: らつかりようらん
-    singer_name_ruby: おきたまさみ
-    song_variation:
-    - esong_code: 3492A40
-      song_name: 落花繚乱
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 落花繚乱
-    song_alias:
     esong_code: 3492A27
     t_singer_master_id: '20580'
     singer_name: 沖田 真早美(沖田まさみ)
@@ -432,6 +381,23 @@ result:
     - esong_code: 3492A27
       song_name: 落花繚乱
       content_type: JOY生演奏
+  - song_name: 落花繚乱
+    song_alias:
+    esong_code: 3492A40
+    t_singer_master_id: '20580'
+    singer_name: 沖田 真早美(沖田まさみ)
+    singer_alias:
+    available_date: '2015-09-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: らつかりようらん
+    singer_name_ruby: おきたまさみ
+    song_variation:
+    - esong_code: 3492A40
+      song_name: 落花繚乱
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: ラッキー*フルスロットル
     song_alias:
     esong_code: 3500B14
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3491A37
       song_name: Love is guilty
+      content_type: ''
+  - song_name: Love is tough
+    song_alias:
+    esong_code: 3493A13
+    t_singer_master_id: '26911'
+    singer_name: May J.
+    singer_alias:
+    available_date: '2015-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふいすたふ
+    singer_name_ruby: めいしえい
+    song_variation:
+    - esong_code: 3493A13
+      song_name: Love is tough
+      content_type: ''
+  - song_name: LOVE COUNT DOWN 〜宿世の花嫁〜
+    song_alias:
+    esong_code: 3493A28
+    t_singer_master_id: '44282'
+    singer_name: 前野 智昭
+    singer_alias:
+    available_date: '2015-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: I DOLL U<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: らふかうんとたう
+    singer_name_ruby: まえのともあき
+    song_variation:
+    - esong_code: 3493A28
+      song_name: LOVE COUNT DOWN 〜宿世の花嫁〜
       content_type: ''

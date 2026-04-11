@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1399
-  all_max_cnt: 1556
-  all_country_cnt: 1399
+  max_cnt: 1396
+  all_max_cnt: 1553
+  all_country_cnt: 1396
   song:
   - song_name: 潮騒
     song_alias:
@@ -24,23 +24,6 @@ result:
     - esong_code: 3228B5
       song_name: 潮騒
       content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 潮騒
-    song_alias:
-    esong_code: 443A35
-    t_singer_master_id: '46580'
-    singer_name: 寺本 圭佑(東大寺四郎)
-    singer_alias:
-    available_date: '2015-07-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しおさい
-    singer_name_ruby: てらもとけいすけ
-    song_variation:
-    - esong_code: 443A35
-      song_name: 潮騒
-      content_type: ''
   - song_name: 潮岬情話
     song_alias:
     esong_code: 3485A43
@@ -517,3 +500,20 @@ result:
     - esong_code: 3468B4
       song_name: シュガーバイン
       content_type: VOCALOID
+  - song_name: ジュクに風が吹く
+    song_alias:
+    esong_code: 437B43
+    t_singer_master_id: '53799'
+    singer_name: 李 礼仙
+    singer_alias:
+    available_date: '2015-07-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しゆくにかせか
+    singer_name_ruby: りれいせん
+    song_variation:
+    - esong_code: 437B43
+      song_name: ジュクに風が吹く
+      content_type: ''

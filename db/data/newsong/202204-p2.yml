@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1058
-  all_max_cnt: 1147
-  all_country_cnt: 1058
+  max_cnt: 1021
+  all_max_cnt: 1110
+  all_country_cnt: 1021
   song:
   - song_name: あの日、あの場所
     song_alias:
@@ -109,6 +109,23 @@ result:
     - esong_code: 4624A20
       song_name: 天ノ弱 feat.GUMI [歌ってみた利用OK]
       content_type: 歌ってみた利用OK
+  - song_name: 甘利の生贄スプラッター
+    song_alias:
+    esong_code: 4847A24
+    t_singer_master_id: '44733'
+    singer_name: 赤﨑 千夏
+    singer_alias:
+    available_date: '2022-04-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: ガールフレンド(仮)(ゲーム版)<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: あまりのいけにえすふ
+    singer_name_ruby: あかさきちなつ
+    song_variation:
+    - esong_code: 4847A24
+      song_name: 甘利の生贄スプラッター
+      content_type: ''
   - song_name: AMAZE ME
     song_alias:
     esong_code: 4621A45
@@ -414,23 +431,6 @@ result:
     song_variation:
     - esong_code: 4622A13
       song_name: Yellow
-      content_type: ''
-  - song_name: イエローライト
-    song_alias:
-    esong_code: 4619B39
-    t_singer_master_id: '43218'
-    singer_name: 私立恵比寿中学
-    singer_alias:
-    available_date: '2022-04-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いえろらいと
-    singer_name_ruby: しりつえひすちゆうかく
-    song_variation:
-    - esong_code: 4619B39
-      song_name: イエローライト
       content_type: ''
   - song_name: 息もできない
     song_alias:

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1484
-  all_max_cnt: 1605
-  all_country_cnt: 1484
+  max_cnt: 1477
+  all_max_cnt: 1598
+  all_country_cnt: 1477
   song:
-  - song_name: 恋 ('95 Style)
-    song_alias:
-    esong_code: 1444A39
-    t_singer_master_id: '1993'
-    singer_name: 福山 雅治
-    singer_alias:
-    available_date: '2006-01-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こい
-    singer_name_ruby: ふくやままさはる
-    song_variation:
-    - esong_code: 1444A39
-      song_name: 恋 ('95 Style)
-      content_type: ''
   - song_name: 恋唄
     song_alias:
     esong_code: 1444B32
@@ -300,7 +283,7 @@ result:
     song_alias:
     esong_code: 939A20
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2006-01-01'
     end_date: '2999-04-10 00:00:00'
@@ -517,3 +500,20 @@ result:
     - esong_code: 1440A38
       song_name: ご当地ソング!北から南まで(女性編)
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 孤独な音楽
+    song_alias:
+    esong_code: 1429B45
+    t_singer_master_id: '16427'
+    singer_name: BAZRA
+    singer_alias:
+    available_date: '2006-01-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ことくなおんかく
+    singer_name_ruby: はすら
+    song_variation:
+    - esong_code: 1429B45
+      song_name: 孤独な音楽
+      content_type: ''

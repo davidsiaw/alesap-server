@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1092
-  all_max_cnt: 1221
-  all_country_cnt: 1092
+  max_cnt: 1091
+  all_max_cnt: 1220
+  all_country_cnt: 1091
   song:
   - song_name: 氷姫 〜winter princess〜
     song_alias:
@@ -43,23 +43,6 @@ result:
       content_type: ''
   - song_name: 黒衣の天女
     song_alias:
-    esong_code: 1803A6
-    t_singer_master_id: '13996'
-    singer_name: 陰陽座
-    singer_alias:
-    available_date: '2007-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こくいのてんによ
-    singer_name_ruby: おんみようさ
-    song_variation:
-    - esong_code: 1803A6
-      song_name: 黒衣の天女
-      content_type: ''
-  - song_name: 黒衣の天女
-    song_alias:
     esong_code: 1816B46
     t_singer_master_id: '13996'
     singer_name: 陰陽座
@@ -75,6 +58,23 @@ result:
     - esong_code: 1816B46
       song_name: 黒衣の天女
       content_type: DAMｸﾘｯﾌﾟ
+  - song_name: 黒衣の天女
+    song_alias:
+    esong_code: 1803A6
+    t_singer_master_id: '13996'
+    singer_name: 陰陽座
+    singer_alias:
+    available_date: '2007-07-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: こくいのてんによ
+    singer_name_ruby: おんみようさ
+    song_variation:
+    - esong_code: 1803A6
+      song_name: 黒衣の天女
+      content_type: ''
   - song_name: 孤高の創世
     song_alias:
     esong_code: 1817B12
@@ -228,23 +228,6 @@ result:
     - esong_code: 1825A40
       song_name: 小天狗小太郎
       content_type: ''
-  - song_name: 孤独のカケラ
-    song_alias:
-    esong_code: 1803A25
-    t_singer_master_id: '24203'
-    singer_name: アンジェラ・アキ
-    singer_alias:
-    available_date: '2007-07-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾗｲｳﾞ
-    song_name_ruby: ことくのかけら
-    singer_name_ruby: あんしえらあき
-    song_variation:
-    - esong_code: 1803A25
-      song_name: 孤独のカケラ
-      content_type: JOYﾗｲｳﾞ
   - song_name: 孤独のカケラ (piano version)
     song_alias:
     esong_code: 1817B23
@@ -262,6 +245,23 @@ result:
     - esong_code: 1817B23
       song_name: 孤独のカケラ (piano version)
       content_type: ''
+  - song_name: 孤独のカケラ
+    song_alias:
+    esong_code: 1803A25
+    t_singer_master_id: '24203'
+    singer_name: アンジェラ・アキ
+    singer_alias:
+    available_date: '2007-07-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾗｲｳﾞ
+    song_name_ruby: ことくのかけら
+    singer_name_ruby: あんしえらあき
+    song_variation:
+    - esong_code: 1803A25
+      song_name: 孤独のカケラ
+      content_type: JOYﾗｲｳﾞ
   - song_name: 孤独のハイエナ
     song_alias:
     esong_code: 1811B27

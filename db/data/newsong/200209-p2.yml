@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 392
-  all_max_cnt: 480
-  all_country_cnt: 392
+  max_cnt: 391
+  all_max_cnt: 479
+  all_country_cnt: 391
   song:
-  - song_name: 想い出の冬休み
-    song_alias:
-    esong_code: 911B23
-    t_singer_master_id: '1923'
-    singer_name: 弘田 三枝子
-    singer_alias:
-    available_date: '2002-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいてのふゆやす
-    singer_name_ruby: ひろたみえこ
-    song_variation:
-    - esong_code: 911B23
-      song_name: 想い出の冬休み
-      content_type: ''
   - song_name: 想い出の街
     song_alias:
     esong_code: 912A23
@@ -432,23 +415,6 @@ result:
     - esong_code: 782A2
       song_name: 黄色い麦わらぼうし
       content_type: ''
-  - song_name: キ・セ・キ
-    song_alias:
-    esong_code: 915B28
-    t_singer_master_id: '14521'
-    singer_name: 滝沢 秀明(from タッキー&翼)
-    singer_alias:
-    available_date: '2002-09-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きせき
-    singer_name_ruby: たきさわひてあき
-    song_variation:
-    - esong_code: 915B28
-      song_name: キ・セ・キ
-      content_type: ''
   - song_name: 奇蹟
     song_alias:
     esong_code: 920B36
@@ -483,6 +449,23 @@ result:
     - esong_code: 143B43
       song_name: 奇蹟
       content_type: DAM良音
+  - song_name: キ・セ・キ
+    song_alias:
+    esong_code: 915B28
+    t_singer_master_id: '14521'
+    singer_name: 滝沢 秀明(from タッキー&翼)
+    singer_alias:
+    available_date: '2002-09-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きせき
+    singer_name_ruby: たきさわひてあき
+    song_variation:
+    - esong_code: 915B28
+      song_name: キ・セ・キ
+      content_type: ''
   - song_name: 期待はずれの人
     song_alias:
     esong_code: 924B23
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 903B37
       song_name: 北風と太陽
+      content_type: ''
+  - song_name: 北埼玉ブルース
+    song_alias:
+    esong_code: 140B41
+    t_singer_master_id: '24237'
+    singer_name: 藤原 啓治
+    singer_alias:
+    available_date: '2002-09-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: クレヨンしんちゃん<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きたさいたまふる
+    singer_name_ruby: ふしわらけいし
+    song_variation:
+    - esong_code: 140B41
+      song_name: 北埼玉ブルース
       content_type: ''

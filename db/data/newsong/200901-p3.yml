@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
-  - song_name: うれし涙
-    song_alias:
-    esong_code: 2199A19
-    t_singer_master_id: '911'
-    singer_name: 酒井 法子
-    singer_alias:
-    available_date: '2009-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うれしなみた
-    singer_name_ruby: さかいのりこ
-    song_variation:
-    - esong_code: 2199A19
-      song_name: うれし涙
-      content_type: ''
   - song_name: えいさ
     song_alias:
     esong_code: 2187A5
@@ -338,7 +321,7 @@ result:
     singer_alias:
     available_date: '2009-01-21'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 隠の王 WEBラジオ<番組名>
+    tie_up: 隠の王<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: えんらい
@@ -415,6 +398,23 @@ result:
     - esong_code: 2201A48
       song_name: 大阪慕情
       content_type: ''
+  - song_name: 日本の昔話「鶴女房」より おつう
+    song_alias:
+    esong_code: 5108B26
+    t_singer_master_id: '2780'
+    singer_name: 島津 亜矢
+    singer_alias:
+    available_date: '2009-01-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: おつう
+    singer_name_ruby: しまつあや
+    song_variation:
+    - esong_code: 5108B26
+      song_name: 日本の昔話「鶴女房」より おつう
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 日本の昔話「鶴女房」より おつう
     song_alias:
     esong_code: 5108B25

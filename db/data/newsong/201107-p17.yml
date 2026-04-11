@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1571
-  all_max_cnt: 1703
-  all_country_cnt: 1571
+  max_cnt: 1566
+  all_max_cnt: 1698
+  all_country_cnt: 1566
   song:
-  - song_name: 鼓動の秘密
-    song_alias:
-    esong_code: 2629B49
-    t_singer_master_id: '39361'
-    singer_name: 東京女子流
-    singer_alias:
-    available_date: '2011-07-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ことうのひみつ
-    singer_name_ruby: とうきようしよしりゆう
-    song_variation:
-    - esong_code: 2629B49
-      song_name: 鼓動の秘密
-      content_type: ''
-  - song_name: ことぶき酒
-    song_alias:
-    esong_code: 2129A12
-    t_singer_master_id: '24820'
-    singer_name: 西嶋 三千代
-    singer_alias:
-    available_date: '2011-07-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ことふきさけ
-    singer_name_ruby: にししまみちよ
-    song_variation:
-    - esong_code: 2129A12
-      song_name: ことぶき酒
-      content_type: ''
   - song_name: GO NEXT!!
     song_alias:
     esong_code: 2640A48
@@ -440,7 +406,7 @@ result:
     singer_alias:
     available_date: '2011-07-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 真・三國無双6<番組名>
+    tie_up: 真・三國無双<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さいれんとふえにつく
@@ -517,3 +483,37 @@ result:
     - esong_code: 2632B38
       song_name: サクライロ
       content_type: ''
+  - song_name: The Crack-up
+    song_alias:
+    esong_code: 152A3
+    t_singer_master_id: '10605'
+    singer_name: GARNET CROW
+    singer_alias:
+    available_date: '2011-07-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さくらつくあつふ
+    singer_name_ruby: かねつとくろう
+    song_variation:
+    - esong_code: 152A3
+      song_name: The Crack-up
+      content_type: ''
+  - song_name: 桜みち
+    song_alias:
+    esong_code: 1600B1
+    t_singer_master_id: '1107'
+    singer_name: 神野 美伽
+    singer_alias:
+    available_date: '2011-07-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: さくらみち
+    singer_name_ruby: しんのみか
+    song_variation:
+    - esong_code: 1600B1
+      song_name: 桜みち
+      content_type: DAMｸﾘｯﾌﾟ生音

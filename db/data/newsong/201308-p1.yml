@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1176
-  all_max_cnt: 1313
-  all_country_cnt: 1176
+  max_cnt: 1175
+  all_max_cnt: 1312
+  all_country_cnt: 1175
   song:
   - song_name: 蒼空
     song_alias:
@@ -457,7 +457,7 @@ result:
     singer_alias:
     available_date: '2013-08-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: サクラ大戦奏組<番組名>
+    tie_up: サクラ大戦 (TV版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あなたのふあんたし
@@ -485,23 +485,6 @@ result:
       content_type: ''
   - song_name: あなたは雪になりました
     song_alias:
-    esong_code: 2904A49
-    t_singer_master_id: '824'
-    singer_name: 小金沢 昇司
-    singer_alias:
-    available_date: '2013-08-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたはゆきになりま
-    singer_name_ruby: こかねさわしようし
-    song_variation:
-    - esong_code: 2904A49
-      song_name: あなたは雪になりました
-      content_type: ''
-  - song_name: あなたは雪になりました
-    song_alias:
     esong_code: 2901A1
     t_singer_master_id: '824'
     singer_name: 小金沢 昇司
@@ -517,3 +500,20 @@ result:
     - esong_code: 2901A1
       song_name: あなたは雪になりました
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: あなたは雪になりました
+    song_alias:
+    esong_code: 2904A49
+    t_singer_master_id: '824'
+    singer_name: 小金沢 昇司
+    singer_alias:
+    available_date: '2013-08-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あなたはゆきになりま
+    singer_name_ruby: こかねさわしようし
+    song_variation:
+    - esong_code: 2904A49
+      song_name: あなたは雪になりました
+      content_type: ''

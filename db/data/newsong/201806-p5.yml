@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1328
-  all_max_cnt: 1485
-  all_country_cnt: 1328
+  max_cnt: 1315
+  all_max_cnt: 1472
+  all_country_cnt: 1315
   song:
   - song_name: WiLL 〜無色透明〜
     song_alias:
@@ -315,23 +315,6 @@ result:
       content_type: ''
   - song_name: 歌姫
     song_alias:
-    esong_code: 2472A34
-    t_singer_master_id: '1709'
-    singer_name: 西尾 夕紀
-    singer_alias:
-    available_date: '2018-06-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOY生演奏
-    song_name_ruby: うたひめ
-    singer_name_ruby: にしおゆき
-    song_variation:
-    - esong_code: 2472A34
-      song_name: 歌姫
-      content_type: JOY生演奏
-  - song_name: 歌姫
-    song_alias:
     esong_code: 4009B31
     t_singer_master_id: '43160'
     singer_name: 女王蜂
@@ -347,6 +330,23 @@ result:
     - esong_code: 4009B31
       song_name: 歌姫
       content_type: ''
+  - song_name: 歌姫
+    song_alias:
+    esong_code: 2472A34
+    t_singer_master_id: '1709'
+    singer_name: 西尾 夕紀
+    singer_alias:
+    available_date: '2018-06-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOY生演奏
+    song_name_ruby: うたひめ
+    singer_name_ruby: にしおゆき
+    song_variation:
+    - esong_code: 2472A34
+      song_name: 歌姫
+      content_type: JOY生演奏
   - song_name: 宇宙で息をして
     song_alias:
     esong_code: 4011B22
@@ -483,23 +483,6 @@ result:
     - esong_code: 4006B36
       song_name: 英雄の詩
       content_type: ''
-  - song_name: Ancient fish
-    song_alias:
-    esong_code: 4003B44
-    t_singer_master_id: '61418'
-    singer_name: ".ENDRECHERI."
-    singer_alias:
-    available_date: '2018-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えいんしえんとふいつ
-    singer_name_ruby: えんとりけり
-    song_variation:
-    - esong_code: 4003B44
-      song_name: Ancient fish
-      content_type: ''
   - song_name: エウレカ
     song_alias:
     esong_code: 4010A38
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 4010A38
       song_name: エウレカ
+      content_type: ''
+  - song_name: A gonna
+    song_alias:
+    esong_code: 4003B46
+    t_singer_master_id: '60797'
+    singer_name: モーニング娘。'18
+    singer_alias:
+    available_date: '2018-06-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: えかな
+    singer_name_ruby: もにんくむすめわんえいと
+    song_variation:
+    - esong_code: 4003B46
+      song_name: A gonna
       content_type: ''

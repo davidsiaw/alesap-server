@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
-  - song_name: Over You
-    song_alias:
-    esong_code: 3829A25
-    t_singer_master_id: '52163'
-    singer_name: SHE'S
-    singer_alias:
-    available_date: '2017-06-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おはゆ
-    singer_name_ruby: しす
-    song_variation:
-    - esong_code: 3829A25
-      song_name: Over You
-      content_type: ''
   - song_name: オープニングメドレー (HAKU-MYU LIVE 2 ver.)
     song_alias:
     esong_code: 3828A13
@@ -60,6 +43,23 @@ result:
       content_type: ''
   - song_name: おまえがいたから俺がいる
     song_alias:
+    esong_code: 3829A14
+    t_singer_master_id: '824'
+    singer_name: 小金沢 昇司
+    singer_alias:
+    available_date: '2017-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おまえかいたからお
+    singer_name_ruby: こかねさわしようし
+    song_variation:
+    - esong_code: 3829A14
+      song_name: おまえがいたから俺がいる
+      content_type: ''
+  - song_name: おまえがいたから俺がいる
+    song_alias:
     esong_code: 3831B34
     t_singer_master_id: '824'
     singer_name: 小金沢 昇司
@@ -92,23 +92,6 @@ result:
     - esong_code: 3832A40
       song_name: おまえがいたから俺がいる
       content_type: JOY生演奏
-  - song_name: おまえがいたから俺がいる
-    song_alias:
-    esong_code: 3829A14
-    t_singer_master_id: '824'
-    singer_name: 小金沢 昇司
-    singer_alias:
-    available_date: '2017-06-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おまえかいたからお
-    singer_name_ruby: こかねさわしようし
-    song_variation:
-    - esong_code: 3829A14
-      song_name: おまえがいたから俺がいる
-      content_type: ''
   - song_name: お前がメシにありつくなど56876423年早いわ
     song_alias:
     esong_code: 3830A36
@@ -147,7 +130,7 @@ result:
     song_alias:
     esong_code: 3825B30
     t_singer_master_id: '50320'
-    singer_name: ΛrlequiΩ(アルルカン)
+    singer_name: アルルカン(ΛrlequiΩ)
     singer_alias:
     available_date: '2017-06-13'
     end_date: '2999-04-10 00:00:00'
@@ -172,7 +155,7 @@ result:
     country_code: '0'
     content_type:
     song_name_ruby: おむらいすとらふの
-    singer_name_ruby: くわはわゆうき
+    singer_name_ruby: くわはらゆうき
     song_variation:
     - esong_code: 3822B24
       song_name: オムライスとLoveの定義
@@ -432,7 +415,7 @@ result:
     - esong_code: 3829A27
       song_name: 終わらないラブソング 〜Like A Love Song
       content_type: ''
-  - song_name: 終わりなき旅 (ビデオクリップバージョン)
+  - song_name: 終わりなき旅 (ビデオクリップVer.)
     song_alias:
     esong_code: 3820B22
     t_singer_master_id: '2287'
@@ -442,13 +425,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
+    content_type: DAMｸﾘｯﾌﾟ
     song_name_ruby: おわりなきたひ
     singer_name_ruby: みすたちるとれん
     song_variation:
     - esong_code: 3820B22
-      song_name: 終わりなき旅 (ビデオクリップバージョン)
-      content_type: ''
+      song_name: 終わりなき旅 (ビデオクリップVer.)
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: 終わりのなき誓言よ
     song_alias:
     esong_code: 3822A46
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3824A11
       song_name: おんな川
+      content_type: ''
+  - song_name: 女ごころ
+    song_alias:
+    esong_code: 3826A21
+    t_singer_master_id: '59053'
+    singer_name: 小林 真
+    singer_alias:
+    available_date: '2017-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おんなこころ
+    singer_name_ruby: こはやしまこと
+    song_variation:
+    - esong_code: 3826A21
+      song_name: 女ごころ
       content_type: ''

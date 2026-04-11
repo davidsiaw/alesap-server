@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1354
-  all_max_cnt: 1525
-  all_country_cnt: 1354
+  max_cnt: 1339
+  all_max_cnt: 1510
+  all_country_cnt: 1339
   song:
-  - song_name: 大阪花吹雪
-    song_alias:
-    esong_code: 4142A39
-    t_singer_master_id: '49700'
-    singer_name: 工藤 あやの
-    singer_alias:
-    available_date: '2019-11-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おおさかはなふふき
-    singer_name_ruby: くとうあやの
-    song_variation:
-    - esong_code: 4142A39
-      song_name: 大阪花吹雪
-      content_type: ''
-  - song_name: 大阪花吹雪
-    song_alias:
-    esong_code: 4284B4
-    t_singer_master_id: '49700'
-    singer_name: 工藤 あやの
-    singer_alias:
-    available_date: '2019-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: おおさかはなふふき
-    singer_name_ruby: くとうあやの
-    song_variation:
-    - esong_code: 4284B4
-      song_name: 大阪花吹雪
-      content_type: DAM生音
   - song_name: 大阪ララバイ
     song_alias:
     esong_code: 4281B23
@@ -230,23 +196,6 @@ result:
       content_type: ''
   - song_name: 男の庵
     song_alias:
-    esong_code: 4284A29
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '2019-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: おとこのいおり
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 4284A29
-      song_name: 男の庵
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 男の庵
-    song_alias:
     esong_code: 4290A23
     t_singer_master_id: '1580'
     singer_name: 鳥羽 一郎
@@ -262,6 +211,23 @@ result:
     - esong_code: 4290A23
       song_name: 男の庵
       content_type: DAM生音
+  - song_name: 男の庵
+    song_alias:
+    esong_code: 4284A29
+    t_singer_master_id: '1580'
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    available_date: '2019-11-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: おとこのいおり
+    singer_name_ruby: とはいちろう
+    song_variation:
+    - esong_code: 4284A29
+      song_name: 男の庵
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 男の覚悟
     song_alias:
     esong_code: 3979A12
@@ -451,23 +417,6 @@ result:
       content_type: ''
   - song_name: 乙女どもよ。
     song_alias:
-    esong_code: 4284A26
-    t_singer_master_id: '51251'
-    singer_name: CHiCO with HoneyWorks
-    singer_alias:
-    available_date: '2019-11-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 荒ぶる季節の乙女どもよ。<番組名>
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ生音
-    song_name_ruby: おとめともよ
-    singer_name_ruby: ちこういすはにわく
-    song_variation:
-    - esong_code: 4284A26
-      song_name: 乙女どもよ。
-      content_type: DAMｸﾘｯﾌﾟ生音
-  - song_name: 乙女どもよ。
-    song_alias:
     esong_code: 4290A21
     t_singer_master_id: '51251'
     singer_name: CHiCO with HoneyWorks
@@ -483,6 +432,23 @@ result:
     - esong_code: 4290A21
       song_name: 乙女どもよ。
       content_type: DAM生音
+  - song_name: 乙女どもよ。
+    song_alias:
+    esong_code: 4284A26
+    t_singer_master_id: '51251'
+    singer_name: CHiCO with HoneyWorks
+    singer_alias:
+    available_date: '2019-11-24'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 荒ぶる季節の乙女どもよ。<番組名>
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ生音
+    song_name_ruby: おとめともよ
+    singer_name_ruby: ちこういすはにわく
+    song_variation:
+    - esong_code: 4284A26
+      song_name: 乙女どもよ。
+      content_type: DAMｸﾘｯﾌﾟ生音
   - song_name: 同じ時を、同じ夢を
     song_alias:
     esong_code: 4287A30
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4276B39
       song_name: おにぎり大好き
+      content_type: ''
+  - song_name: おのぼりガール
+    song_alias:
+    esong_code: 4291A13
+    t_singer_master_id: '63476'
+    singer_name: いぎなり東北産
+    singer_alias:
+    available_date: '2019-11-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おのほりかる
+    singer_name_ruby: いきなりとうほくさん
+    song_variation:
+    - esong_code: 4291A13
+      song_name: おのぼりガール
+      content_type: ''
+  - song_name: お墓参りに帰ろうか
+    song_alias:
+    esong_code: 4286A49
+    t_singer_master_id: '39258'
+    singer_name: さつまびと
+    singer_alias:
+    available_date: '2019-11-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おはかまいりにかえろ
+    singer_name_ruby: さつまひと
+    song_variation:
+    - esong_code: 4286A49
+      song_name: お墓参りに帰ろうか
       content_type: ''

@@ -3,27 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1517
-  all_max_cnt: 1962
-  all_country_cnt: 1517
+  max_cnt: 1516
+  all_max_cnt: 1961
+  all_country_cnt: 1516
   song:
-  - song_name: 哀しくてジェラシー (LIVEカラオケ視聴用)
+  - song_name: カナシキヒステリックガール feat.初音ミク
     song_alias:
-    esong_code: 3131B15
-    t_singer_master_id: '1444'
-    singer_name: チェッカーズ
+    esong_code: 3140B13
+    t_singer_master_id: '43193'
+    singer_name: ナノウ
     singer_alias:
-    available_date: '2013-11-02'
+    available_date: '2013-11-12'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type:
-    song_name_ruby: かなしくてしえらし
-    singer_name_ruby: ちえつかす
+    content_type: VOCALOID
+    song_name_ruby: かなしきひすてりつく
+    singer_name_ruby: なのう
     song_variation:
-    - esong_code: 3131B15
-      song_name: 哀しくてジェラシー (LIVEカラオケ視聴用)
-      content_type: ''
+    - esong_code: 3140B13
+      song_name: カナシキヒステリックガール feat.初音ミク
+      content_type: VOCALOID
   - song_name: 哀しくてジェラシー (LIVEカラオケ)
     song_alias:
     esong_code: 3131B14
@@ -40,6 +40,23 @@ result:
     song_variation:
     - esong_code: 3131B14
       song_name: 哀しくてジェラシー (LIVEカラオケ)
+      content_type: ''
+  - song_name: 哀しくてジェラシー (LIVEカラオケ視聴用)
+    song_alias:
+    esong_code: 3131B15
+    t_singer_master_id: '1444'
+    singer_name: チェッカーズ
+    singer_alias:
+    available_date: '2013-11-02'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かなしくてしえらし
+    singer_name_ruby: ちえつかす
+    song_variation:
+    - esong_code: 3131B15
+      song_name: 哀しくてジェラシー (LIVEカラオケ視聴用)
       content_type: ''
   - song_name: 悲別〜かなしべつ〜
     song_alias:
@@ -58,6 +75,23 @@ result:
     - esong_code: 3138B17
       song_name: 悲別〜かなしべつ〜
       content_type: DAMｸﾘｯﾌﾟ生音
+  - song_name: 悲別〜かなしべつ〜
+    song_alias:
+    esong_code: 3139B10
+    t_singer_master_id: '8698'
+    singer_name: 川野 夏美
+    singer_alias:
+    available_date: '2013-11-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: かなしへつ
+    singer_name_ruby: かわのなつみ
+    song_variation:
+    - esong_code: 3139B10
+      song_name: 悲別〜かなしべつ〜
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 悲別〜かなしべつ〜
     song_alias:
     esong_code: 3001B1
@@ -92,30 +126,13 @@ result:
     - esong_code: 3135A37
       song_name: 悲別〜かなしべつ〜
       content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 悲別〜かなしべつ〜
-    song_alias:
-    esong_code: 3139B10
-    t_singer_master_id: '8698'
-    singer_name: 川野 夏美
-    singer_alias:
-    available_date: '2013-11-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: かなしへつ
-    singer_name_ruby: かわのなつみ
-    song_variation:
-    - esong_code: 3139B10
-      song_name: 悲別〜かなしべつ〜
-      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 悲しみがあるうちに
     song_alias:
     esong_code: 2532A2
     t_singer_master_id: '49257'
     singer_name: 杉本 ちずみ
     singer_alias:
-    available_date: '2013-11-19'
+    available_date: '2013-11-20'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3140B39
       song_name: カワラナイモノ
-      content_type: ''
-  - song_name: 歓起舞
-    song_alias:
-    esong_code: 3143B49
-    t_singer_master_id: '21471'
-    singer_name: 斎藤 千和
-    singer_alias:
-    available_date: '2013-11-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 境界線上のホライゾンII<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんきまい
-    singer_name_ruby: さいとうちわ
-    song_variation:
-    - esong_code: 3143B49
-      song_name: 歓起舞
       content_type: ''

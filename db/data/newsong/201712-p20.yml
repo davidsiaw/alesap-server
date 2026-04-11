@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: ゼンブレンタルジャーニー
-    song_alias:
-    esong_code: 3918A32
-    t_singer_master_id: '4340'
-    singer_name: 奥田 民生
-    singer_alias:
-    available_date: '2017-12-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せんふれんたるし
-    singer_name_ruby: おくたたみお
-    song_variation:
-    - esong_code: 3918A32
-      song_name: ゼンブレンタルジャーニー
-      content_type: ''
-  - song_name: 相馬神長老林の詩
-    song_alias:
-    esong_code: 2141B33
-    t_singer_master_id: '55499'
-    singer_name: 相馬 清志
-    singer_alias:
-    available_date: '2017-12-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そうまかんちよろりん
-    singer_name_ruby: そうまきよし
-    song_variation:
-    - esong_code: 2141B33
-      song_name: 相馬神長老林の詩
-      content_type: ''
   - song_name: Soul Believer (ミサキVSあおい バージョン)
     song_alias:
     esong_code: 3921B46
@@ -415,23 +381,6 @@ result:
     - esong_code: 2142B45
       song_name: 宝船 (長福丸)
       content_type: ''
-  - song_name: たからもの
-    song_alias:
-    esong_code: 3920A22
-    t_singer_master_id: '48442'
-    singer_name: みみめめMIMI
-    singer_alias:
-    available_date: '2017-12-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 花にけだもの<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: たからもの
-    singer_name_ruby: みみめめみみ
-    song_variation:
-    - esong_code: 3920A22
-      song_name: たからもの
-      content_type: ''
   - song_name: 宝物
     song_alias:
     esong_code: 3916B38
@@ -448,6 +397,23 @@ result:
     song_variation:
     - esong_code: 3916B38
       song_name: 宝物
+      content_type: ''
+  - song_name: たからもの
+    song_alias:
+    esong_code: 3920A22
+    t_singer_master_id: '48442'
+    singer_name: みみめめMIMI
+    singer_alias:
+    available_date: '2017-12-12'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 花にけだもの<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たからもの
+    singer_name_ruby: みみめめみみ
+    song_variation:
+    - esong_code: 3920A22
+      song_name: たからもの
       content_type: ''
   - song_name: 滝
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 3715B10
       song_name: 黄昏は5分だけ
+      content_type: ''
+  - song_name: たそがれマイ・ラブ
+    song_alias:
+    esong_code: 3929B7
+    t_singer_master_id: '2738'
+    singer_name: 斉藤 和義
+    singer_alias:
+    available_date: '2017-12-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: たそかれまいらふ
+    singer_name_ruby: さいとうかすよし
+    song_variation:
+    - esong_code: 3929B7
+      song_name: たそがれマイ・ラブ
+      content_type: ''
+  - song_name: 正しい魔法の使い方
+    song_alias:
+    esong_code: 3920B3
+    t_singer_master_id: '39867'
+    singer_name: 渡辺 麻友(渡り廊下走り隊)
+    singer_alias:
+    available_date: '2017-12-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 魔法つかいプリキュア!奇跡の変身!キュアモフルン!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: たたしいまほうのつ
+    singer_name_ruby: わたなへまゆ
+    song_variation:
+    - esong_code: 3920B3
+      song_name: 正しい魔法の使い方
       content_type: ''

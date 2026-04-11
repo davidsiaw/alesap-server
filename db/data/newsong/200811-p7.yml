@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1023
-  all_max_cnt: 1132
-  all_country_cnt: 1023
+  max_cnt: 1015
+  all_max_cnt: 1124
+  all_country_cnt: 1015
   song:
   - song_name: 片手だけつないで
     song_alias:
@@ -62,7 +62,7 @@ result:
     song_alias:
     esong_code: 2156B2
     t_singer_master_id: '6120'
-    singer_name: MY LITTLE LOVER
+    singer_name: My Little Lover
     singer_alias:
     available_date: '2008-11-11'
     end_date: '2999-04-10 00:00:00'
@@ -91,23 +91,6 @@ result:
     song_variation:
     - esong_code: 2133B16
       song_name: 悲しみがとまらない
-      content_type: ''
-  - song_name: 悲しみの向こう側
-    song_alias:
-    esong_code: 2133B4
-    t_singer_master_id: '12233'
-    singer_name: ハン・ジナ(ハン・ボクスン)
-    singer_alias:
-    available_date: '2008-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしみのむこうか
-    singer_name_ruby: はんしな
-    song_variation:
-    - esong_code: 2133B4
-      song_name: 悲しみの向こう側
       content_type: ''
   - song_name: 鎌倉グッドバイ
     song_alias:
@@ -160,23 +143,6 @@ result:
     - esong_code: 2155A21
       song_name: 鴎よ俺についてこい
       content_type: ''
-  - song_name: Color
-    song_alias:
-    esong_code: 2170A15
-    t_singer_master_id: '12375'
-    singer_name: w-inds.
-    singer_alias:
-    available_date: '2008-11-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: から
-    singer_name_ruby: ういんす
-    song_variation:
-    - esong_code: 2170A15
-      song_name: Color
-      content_type: ''
   - song_name: color
     song_alias:
     esong_code: 2145B13
@@ -193,6 +159,23 @@ result:
     song_variation:
     - esong_code: 2145B13
       song_name: color
+      content_type: ''
+  - song_name: Color
+    song_alias:
+    esong_code: 2170A15
+    t_singer_master_id: '12375'
+    singer_name: w-inds.
+    singer_alias:
+    available_date: '2008-11-26'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: から
+    singer_name_ruby: ういんす
+    song_variation:
+    - esong_code: 2170A15
+      song_name: Color
       content_type: ''
   - song_name: COLORS OF THE WIND
     song_alias:
@@ -449,7 +432,7 @@ result:
     - esong_code: 2127A36
       song_name: 北の港町
       content_type: ''
-  - song_name: Kissing you 〜LIVE TOUR 2008 THE FACE〜
+  - song_name: Kissing you
     song_alias:
     esong_code: 2146A33
     t_singer_master_id: '12544'
@@ -459,13 +442,13 @@ result:
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
-    content_type: DAM生音
+    content_type: DAMﾗｲﾌﾞ
     song_name_ruby: きつしんくゆ
     singer_name_ruby: ほあ
     song_variation:
     - esong_code: 2146A33
-      song_name: Kissing you 〜LIVE TOUR 2008 THE FACE〜
-      content_type: DAM生音
+      song_name: Kissing you
+      content_type: DAMﾗｲﾌﾞ
   - song_name: 汽笛の響き
     song_alias:
     esong_code: 2157A13
@@ -508,7 +491,7 @@ result:
     singer_alias:
     available_date: '2008-11-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ2<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きふおんたつし
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2159A20
       song_name: KEEP ON DASHING!!
+      content_type: ''
+  - song_name: 希望の唄
+    song_alias:
+    esong_code: 2123B15
+    t_singer_master_id: '24880'
+    singer_name: FUNKY MONKEY BΛBY'S(FUNKY MONKEY BABYS)
+    singer_alias:
+    available_date: '2008-11-05'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きほうのうた
+    singer_name_ruby: ふあんきもんきへいひす
+    song_variation:
+    - esong_code: 2123B15
+      song_name: 希望の唄
       content_type: ''

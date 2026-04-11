@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 655
-  all_max_cnt: 733
-  all_country_cnt: 655
+  max_cnt: 652
+  all_max_cnt: 730
+  all_country_cnt: 652
   song:
-  - song_name: かんにんや・・・
-    song_alias:
-    esong_code: 967A25
-    t_singer_master_id: '671'
-    singer_name: キム・ヨンジャ(金蓮子)
-    singer_alias:
-    available_date: '2002-11-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんにんや
-    singer_name_ruby: きむよんしや
-    song_variation:
-    - esong_code: 967A25
-      song_name: かんにんや・・・
-      content_type: ''
   - song_name: 戯園
     song_alias:
     esong_code: 954B26
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 977B35
       song_name: 口笛
+      content_type: ''
+  - song_name: 靴音
+    song_alias:
+    esong_code: 157B47
+    t_singer_master_id: '581'
+    singer_name: 辛島 美登里
+    singer_alias:
+    available_date: '2002-11-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: くつおと
+    singer_name_ruby: からしまみとり
+    song_variation:
+    - esong_code: 157B47
+      song_name: 靴音
       content_type: ''

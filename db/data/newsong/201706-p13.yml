@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1431
-  all_max_cnt: 1579
-  all_country_cnt: 1431
+  max_cnt: 1423
+  all_max_cnt: 1571
+  all_country_cnt: 1423
   song:
-  - song_name: good for nothing
-    song_alias:
-    esong_code: 3828A11
-    t_singer_master_id: '59075'
-    singer_name: MR.8
-    singer_alias:
-    available_date: '2017-06-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くつとふおなつ
-    singer_name_ruby: みすたえいと
-    song_variation:
-    - esong_code: 3828A11
-      song_name: good for nothing
-      content_type: ''
   - song_name: 靴の花火
     song_alias:
     esong_code: 3821A3
@@ -117,7 +100,7 @@ result:
     singer_alias:
     available_date: '2017-06-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: BanG Dream!(TV版)<番組名>
+    tie_up: BanG Dream!(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: くりくりく
@@ -134,7 +117,7 @@ result:
     singer_alias:
     available_date: '2017-06-27'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ3<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: くりんふおれすと
@@ -317,7 +300,7 @@ result:
     song_alias:
     esong_code: 3819B28
     t_singer_master_id: '56946'
-    singer_name: クアイフ
+    singer_name: Qaijff
     singer_alias:
     available_date: '2017-06-06'
     end_date: '2999-04-10 00:00:00'
@@ -451,23 +434,6 @@ result:
       content_type: ''
   - song_name: 煙が目にしみる
     song_alias:
-    esong_code: 3831B21
-    t_singer_master_id: '1635'
-    singer_name: 中条 きよし
-    singer_alias:
-    available_date: '2017-06-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: けむりかめにしみる
-    singer_name_ruby: なかしようきよし
-    song_variation:
-    - esong_code: 3831B21
-      song_name: 煙が目にしみる
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 煙が目にしみる
-    song_alias:
     esong_code: 3832A32
     t_singer_master_id: '1635'
     singer_name: 中条 きよし
@@ -483,6 +449,23 @@ result:
     - esong_code: 3832A32
       song_name: 煙が目にしみる
       content_type: JOY生演奏
+  - song_name: 煙が目にしみる
+    song_alias:
+    esong_code: 3831B21
+    t_singer_master_id: '1635'
+    singer_name: 中条 きよし
+    singer_alias:
+    available_date: '2017-06-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: けむりかめにしみる
+    singer_name_ruby: なかしようきよし
+    song_variation:
+    - esong_code: 3831B21
+      song_name: 煙が目にしみる
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: けものパレード 〜ジャパリパークメモリアル〜
     song_alias:
     esong_code: 3820A30
@@ -517,3 +500,20 @@ result:
     - esong_code: 3819B38
       song_name: 検索
       content_type: ''
+  - song_name: GO
+    song_alias:
+    esong_code: 3825B8
+    t_singer_master_id: '12276'
+    singer_name: BUMP OF CHICKEN
+    singer_alias:
+    available_date: '2017-06-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: GRANBLUE FANTASY The Animation<番組名>
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: こ
+    singer_name_ruby: はんふおふちきん
+    song_variation:
+    - esong_code: 3825B8
+      song_name: GO
+      content_type: DAMﾌﾟﾛｵｹ

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 916
-  all_max_cnt: 1018
-  all_country_cnt: 916
+  max_cnt: 905
+  all_max_cnt: 1007
+  all_country_cnt: 905
   song:
-  - song_name: かさぶた
-    song_alias:
-    esong_code: 4628B17
-    t_singer_master_id: '15373'
-    singer_name: 藍坊主
-    singer_alias:
-    available_date: '2022-05-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かさふた
-    singer_name_ruby: あおほうす
-    song_variation:
-    - esong_code: 4628B17
-      song_name: かさぶた
-      content_type: ''
   - song_name: 風の唄
     song_alias:
     esong_code: 4638A15
@@ -75,7 +58,7 @@ result:
     - esong_code: 4628A37
       song_name: 勝手にMY SOUL (in 2022)
       content_type: ''
-  - song_name: 仮定した夏 feat.初音ミク
+  - song_name: 仮定した夏
     song_alias:
     esong_code: 4631A34
     t_singer_master_id: '56309'
@@ -90,7 +73,7 @@ result:
     singer_name_ruby: はるまきこはん
     song_variation:
     - esong_code: 4631A34
-      song_name: 仮定した夏 feat.初音ミク
+      song_name: 仮定した夏
       content_type: VOCALOID
   - song_name: 要となる城 共にある歌
     song_alias:
@@ -278,23 +261,6 @@ result:
     song_variation:
     - esong_code: 4633B3
       song_name: 雁矢よしのの話
-      content_type: ''
-  - song_name: GIRLS BE AMBITIOUS! 2022
-    song_alias:
-    esong_code: 4632B10
-    t_singer_master_id: '47868'
-    singer_name: Juice=Juice
-    singer_alias:
-    available_date: '2022-05-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かるすひあ
-    singer_name_ruby: しゆすしゆす
-    song_variation:
-    - esong_code: 4632B10
-      song_name: GIRLS BE AMBITIOUS! 2022
       content_type: ''
   - song_name: 彼は神になった
     song_alias:
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 4634A30
       song_name: Gift For The Music
+      content_type: ''
+  - song_name: 気分上々↑↑
+    song_alias:
+    esong_code: 4632A29
+    t_singer_master_id: '69560'
+    singer_name: 96猫、置鮎 龍太郎、千葉 翔也、Lezel
+    singer_alias:
+    available_date: '2022-05-25'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: パリピ孔明<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きふんしようし
+    singer_name_ruby: くろねこおきあゆりようたろう
+    song_variation:
+    - esong_code: 4632A29
+      song_name: 気分上々↑↑
+      content_type: ''
+  - song_name: 気分上々↑↑ (TV Size)
+    song_alias:
+    esong_code: 4631A40
+    t_singer_master_id: '69560'
+    singer_name: 96猫、置鮎 龍太郎、千葉 翔也、Lezel
+    singer_alias:
+    available_date: '2022-05-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: パリピ孔明<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きふんしようし
+    singer_name_ruby: くろねこおきあゆりようたろう
+    song_variation:
+    - esong_code: 4631A40
+      song_name: 気分上々↑↑ (TV Size)
       content_type: ''

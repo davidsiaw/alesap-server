@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1190
-  all_max_cnt: 1316
-  all_country_cnt: 1190
+  max_cnt: 1189
+  all_max_cnt: 1315
+  all_country_cnt: 1189
   song:
-  - song_name: 恋の河
-    song_alias:
-    esong_code: 1761B11
-    t_singer_master_id: '2226'
-    singer_name: 松永 ひと美(松永ひとみ)
-    singer_alias:
-    available_date: '2007-04-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいのかわ
-    singer_name_ruby: まつなかひとみ
-    song_variation:
-    - esong_code: 1761B11
-      song_name: 恋の河
-      content_type: ''
   - song_name: 恋の涙
     song_alias:
     esong_code: 1760B48
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1758A11
       song_name: これで終わり
+      content_type: ''
+  - song_name: 転がる石になれ
+    song_alias:
+    esong_code: 1761A2
+    t_singer_master_id: '25255'
+    singer_name: AKB48
+    singer_alias:
+    available_date: '2007-04-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ころかるいしになれ
+    singer_name_ruby: えけひふおていえいと
+    song_variation:
+    - esong_code: 1761A2
+      song_name: 転がる石になれ
       content_type: ''

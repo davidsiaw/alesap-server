@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 833
-  all_max_cnt: 921
-  all_country_cnt: 833
+  max_cnt: 829
+  all_max_cnt: 917
+  all_country_cnt: 829
   song:
+  - song_name: ハートが天国
+    song_alias:
+    esong_code: 2200A48
+    t_singer_master_id: '2894'
+    singer_name: 國府田 マリ子
+    singer_alias:
+    available_date: '2009-01-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はとかへふん
+    singer_name_ruby: こうたまりこ
+    song_variation:
+    - esong_code: 2200A48
+      song_name: ハートが天国
+      content_type: ''
   - song_name: パートナー
     song_alias:
     esong_code: 2198A21
@@ -398,23 +415,6 @@ result:
     - esong_code: 2197A33
       song_name: バレンタインに黒バラを
       content_type: ''
-  - song_name: Hello!
-    song_alias:
-    esong_code: 2199B16
-    t_singer_master_id: '10470'
-    singer_name: 倉木 麻衣
-    singer_alias:
-    available_date: '2009-01-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: はろ〜!あにまる ダーウィンの動物大図鑑<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はろ
-    singer_name_ruby: くらきまい
-    song_variation:
-    - esong_code: 2199B16
-      song_name: Hello!
-      content_type: ''
   - song_name: ハロー
     song_alias:
     esong_code: 2201B44
@@ -431,6 +431,23 @@ result:
     song_variation:
     - esong_code: 2201B44
       song_name: ハロー
+      content_type: ''
+  - song_name: Hello!
+    song_alias:
+    esong_code: 2199B16
+    t_singer_master_id: '10470'
+    singer_name: 倉木 麻衣
+    singer_alias:
+    available_date: '2009-01-28'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: はろ〜!あにまる ダーウィンの動物大図鑑<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: はろ
+    singer_name_ruby: くらきまい
+    song_variation:
+    - esong_code: 2199B16
+      song_name: Hello!
       content_type: ''
   - song_name: はろばい。
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 2201A6
       song_name: Bang! feat.SIMON&4WD
-      content_type: ''
-  - song_name: Hand
-    song_alias:
-    esong_code: 2200A49
-    t_singer_master_id: '29861'
-    singer_name: コトノハクロニクル
-    singer_alias:
-    available_date: '2009-01-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はんと
-    singer_name_ruby: ことのはくろにくる
-    song_variation:
-    - esong_code: 2200A49
-      song_name: Hand
       content_type: ''

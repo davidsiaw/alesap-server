@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1477
-  all_max_cnt: 1665
-  all_country_cnt: 1477
+  max_cnt: 1474
+  all_max_cnt: 1662
+  all_country_cnt: 1474
   song:
-  - song_name: おんなの宿
-    song_alias:
-    esong_code: 2825B29
-    t_singer_master_id: '10507'
-    singer_name: 氷川 きよし
-    singer_alias:
-    available_date: '2014-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのやと
-    singer_name_ruby: ひかわきよし
-    song_variation:
-    - esong_code: 2825B29
-      song_name: おんなの宿
-      content_type: ''
   - song_name: 女は百才(ひゃく)まで花なのよ
     song_alias:
     esong_code: 2338A4
@@ -115,7 +98,7 @@ result:
     t_singer_master_id: '51961'
     singer_name: アルカライダー
     singer_alias:
-    available_date: '2014-11-04'
+    available_date: '2014-11-05'
     end_date: '2999-04-10 00:00:00'
     tie_up: 怪盗ジョーカー<番組名>
     country_code: '0'
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 3350B49
       song_name: カーニヴァル・ジャパネスク
+      content_type: ''
+  - song_name: 鎌倉逍遥
+    song_alias:
+    esong_code: 3359A4
+    t_singer_master_id: '52054'
+    singer_name: グレース
+    singer_alias:
+    available_date: '2014-11-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かまくらしようよう
+    singer_name_ruby: くれす
+    song_variation:
+    - esong_code: 3359A4
+      song_name: 鎌倉逍遥
       content_type: ''

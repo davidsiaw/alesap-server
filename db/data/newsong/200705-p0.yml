@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 933
-  all_max_cnt: 1037
-  all_country_cnt: 933
+  max_cnt: 932
+  all_max_cnt: 1036
+  all_country_cnt: 932
   song:
   - song_name: あぁ 大後悔! (演歌Ver.)
     song_alias:
@@ -100,7 +100,7 @@ result:
     singer_alias:
     available_date: '2007-05-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 秘密の天地無用!<番組名>
+    tie_up: 天地無用!<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: あいしようちゆうか
@@ -245,23 +245,6 @@ result:
     - esong_code: 1790A8
       song_name: 愛の札幌コール (オバチャン・リミックス)
       content_type: ''
-  - song_name: 愛の東京コール2 (オバチャン・リミックス)
-    song_alias:
-    esong_code: 1790A9
-    t_singer_master_id: '25492'
-    singer_name: TOKYO CALL PROJECT featuring Kwenji Hayashida
-    singer_alias:
-    available_date: '2007-05-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのとうきようこ
-    singer_name_ruby: とうきようこるふろしえくとふいちやりんくけ
-    song_variation:
-    - esong_code: 1790A9
-      song_name: 愛の東京コール2 (オバチャン・リミックス)
-      content_type: ''
   - song_name: 愛の東京コールバラード
     song_alias:
     esong_code: 1790A10
@@ -278,6 +261,23 @@ result:
     song_variation:
     - esong_code: 1790A10
       song_name: 愛の東京コールバラード
+      content_type: ''
+  - song_name: 愛の東京コール2 (オバチャン・リミックス)
+    song_alias:
+    esong_code: 1790A9
+    t_singer_master_id: '25492'
+    singer_name: TOKYO CALL PROJECT featuring Kwenji Hayashida
+    singer_alias:
+    available_date: '2007-05-30'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あいのとうきようこ
+    singer_name_ruby: とうきようこるふろしえくとふいちやりんくけ
+    song_variation:
+    - esong_code: 1790A9
+      song_name: 愛の東京コール2 (オバチャン・リミックス)
       content_type: ''
   - song_name: 愛の名古屋コール (オバチャン・リミックス)
     song_alias:

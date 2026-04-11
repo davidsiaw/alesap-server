@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1356
-  all_max_cnt: 1472
-  all_country_cnt: 1356
+  max_cnt: 1352
+  all_max_cnt: 1469
+  all_country_cnt: 1352
   song:
-  - song_name: すばらしき人生
-    song_alias:
-    esong_code: 1514B6
-    t_singer_master_id: '13423'
-    singer_name: ガガガSP
-    singer_alias:
-    available_date: '2006-05-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すはらしきしんせ
-    singer_name_ruby: かかかすへし
-    song_variation:
-    - esong_code: 1514B6
-      song_name: すばらしき人生
-      content_type: ''
   - song_name: Spring
     song_alias:
     esong_code: 1518A9
@@ -415,23 +398,6 @@ result:
     - esong_code: 1519A43
       song_name: 刹那さRanking
       content_type: ''
-  - song_name: セプテンバーさん
-    song_alias:
-    esong_code: 1480B30
-    t_singer_master_id: '21655'
-    singer_name: RADWIMPS
-    singer_alias:
-    available_date: '2006-05-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せふてんはさん
-    singer_name_ruby: らつとういんふす
-    song_variation:
-    - esong_code: 1480B30
-      song_name: セプテンバーさん
-      content_type: ''
   - song_name: 攻めろ、強くなれ！
     song_alias:
     esong_code: 1468A24
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 1528B42
       song_name: 鮮血の誓い
+      content_type: ''
+  - song_name: 戦争と僕
+    song_alias:
+    esong_code: 1496A45
+    t_singer_master_id: '18242'
+    singer_name: サンボマスター
+    singer_alias:
+    available_date: '2006-05-04'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: せんそうとほく
+    singer_name_ruby: さんほますた
+    song_variation:
+    - esong_code: 1496A45
+      song_name: 戦争と僕
+      content_type: ''
+  - song_name: せんたくものだゆう
+    song_alias:
+    esong_code: 1509B49
+    t_singer_master_id: '7357'
+    singer_name: 速水 けんたろう&茂森 あゆみ
+    singer_alias:
+    available_date: '2006-05-03'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: おかあさんといっしょ<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: せんたくものたゆう
+    singer_name_ruby: はやみけんたろうしけ
+    song_variation:
+    - esong_code: 1509B49
+      song_name: せんたくものだゆう
       content_type: ''

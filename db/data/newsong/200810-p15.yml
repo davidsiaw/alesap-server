@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1258
-  all_max_cnt: 1360
-  all_country_cnt: 1258
+  max_cnt: 1253
+  all_max_cnt: 1354
+  all_country_cnt: 1253
   song:
-  - song_name: SAKURA 〜花霞〜
-    song_alias:
-    esong_code: 2154B1
-    t_singer_master_id: '13066'
-    singer_name: 中島 美嘉
-    singer_alias:
-    available_date: '2008-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: さくらはなかすみ
-    singer_name_ruby: なかしまみか
-    song_variation:
-    - esong_code: 2154B1
-      song_name: SAKURA 〜花霞〜
-      content_type: JOYﾎﾞｰｶﾙ
   - song_name: サクラビト
     song_alias:
     esong_code: 2154A48
@@ -83,7 +66,7 @@ result:
     singer_alias:
     available_date: '2008-10-01'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 仮面ライダーキバ 魔界城の王<番組名>
+    tie_up: 仮面ライダーキバ<番組名>
     country_code: '0'
     content_type: JOYうたいり
     song_name_ruby: さくるおふらいふ
@@ -253,7 +236,7 @@ result:
     singer_alias:
     available_date: '2008-10-15'
     end_date: '2999-04-10 00:00:00'
-    tie_up: D.C.P.S.〜ダ・カーポ プラスシチュエーション〜<番組名>
+    tie_up: D.C.Ⅱ P.S.〜ダ・カーポⅡ〜プラスシチュエーション<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: さよならのむこうか
@@ -281,23 +264,6 @@ result:
       content_type: ''
   - song_name: SAYONARAベイベー
     song_alias:
-    esong_code: 2116B20
-    t_singer_master_id: '20609'
-    singer_name: 加藤 ミリヤ
-    singer_alias:
-    available_date: '2008-10-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMｸﾘｯﾌﾟ
-    song_name_ruby: さよならへいへ
-    singer_name_ruby: かとうみりや
-    song_variation:
-    - esong_code: 2116B20
-      song_name: SAYONARAベイベー
-      content_type: DAMｸﾘｯﾌﾟ
-  - song_name: SAYONARAベイベー
-    song_alias:
     esong_code: 2123B38
     t_singer_master_id: '20609'
     singer_name: 加藤 ミリヤ
@@ -313,6 +279,23 @@ result:
     - esong_code: 2123B38
       song_name: SAYONARAベイベー
       content_type: JOYﾎﾞｰｶﾙ
+  - song_name: SAYONARAベイベー
+    song_alias:
+    esong_code: 2116B20
+    t_singer_master_id: '20609'
+    singer_name: 加藤 ミリヤ
+    singer_alias:
+    available_date: '2008-10-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMｸﾘｯﾌﾟ
+    song_name_ruby: さよならへいへ
+    singer_name_ruby: かとうみりや
+    song_variation:
+    - esong_code: 2116B20
+      song_name: SAYONARAベイベー
+      content_type: DAMｸﾘｯﾌﾟ
   - song_name: Sara
     song_alias:
     esong_code: 2112A35
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2119A11
       song_name: Sunset Tokyo
+      content_type: ''
+  - song_name: 残像、繋ぐ線
+    song_alias:
+    esong_code: 2122A34
+    t_singer_master_id: '26647'
+    singer_name: SHALE APPLE
+    singer_alias:
+    available_date: '2008-10-07'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: さんそうつなく
+    singer_name_ruby: しえいるあつふる
+    song_variation:
+    - esong_code: 2122A34
+      song_name: 残像、繋ぐ線
       content_type: ''

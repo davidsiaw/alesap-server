@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1072
-  all_max_cnt: 1218
-  all_country_cnt: 1072
+  max_cnt: 1061
+  all_max_cnt: 1207
+  all_country_cnt: 1061
   song:
   - song_name: おちゃ ちゃちゃちゃ
     song_alias:
@@ -194,23 +194,6 @@ result:
     - esong_code: 2331B8
       song_name: おふくろ
       content_type: ''
-  - song_name: おふろチャップン!チャップンプン!
-    song_alias:
-    esong_code: 2331B23
-    t_singer_master_id: '37003'
-    singer_name: うーたん&ぐーたん&チャップン
-    singer_alias:
-    available_date: '2009-06-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: いないいないばあっ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: おふろちやつふんち
-    singer_name_ruby: うたんくたんちやつふ
-    song_variation:
-    - esong_code: 2331B23
-      song_name: おふろチャップン!チャップンプン!
-      content_type: ''
   - song_name: OH MY LITTLE GIRL
     song_alias:
     esong_code: 2327A27
@@ -287,7 +270,7 @@ result:
     singer_alias:
     available_date: '2009-06-10'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: おゆをひとわかししよ
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2340A9
       song_name: 海賊船
+      content_type: ''
+  - song_name: かがみ月
+    song_alias:
+    esong_code: 2335B25
+    t_singer_master_id: '7410'
+    singer_name: 奈良崎 正明
+    singer_alias:
+    available_date: '2009-06-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かかみつき
+    singer_name_ruby: ならさきまさあき
+    song_variation:
+    - esong_code: 2335B25
+      song_name: かがみ月
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1154
-  all_max_cnt: 1313
-  all_country_cnt: 1154
+  max_cnt: 1150
+  all_max_cnt: 1308
+  all_country_cnt: 1150
   song:
-  - song_name: 螢の娘
-    song_alias:
-    esong_code: 2574B23
-    t_singer_master_id: '37744'
-    singer_name: カレン
-    singer_alias:
-    available_date: '2010-07-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほたるのむすめ
-    singer_name_ruby: かれん2
-    song_variation:
-    - esong_code: 2574B23
-      song_name: 螢の娘
-      content_type: ''
-  - song_name: HOT MUSIK feat.COMA-CHI
-    song_alias:
-    esong_code: 2569A36
-    t_singer_master_id: '22586'
-    singer_name: 三浦 大知
-    singer_alias:
-    available_date: '2010-07-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほつとみゆしつく
-    singer_name_ruby: みうらたいち
-    song_variation:
-    - esong_code: 2569A36
-      song_name: HOT MUSIK feat.COMA-CHI
-      content_type: ''
   - song_name: ホットミルク
     song_alias:
     esong_code: 2374A20
@@ -389,7 +355,7 @@ result:
     singer_alias:
     available_date: '2010-07-14'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 銀幕ヘタリア Axis Powers Paint it,White(白くぬれ!)<番組名>
+    tie_up: ヘタリア(劇場版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: まいんこつと
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2560A48
       song_name: Master Plan
+      content_type: ''
+  - song_name: また陽はのぼる
+    song_alias:
+    esong_code: 2548A3
+    t_singer_master_id: '36219'
+    singer_name: ハイジ
+    singer_alias:
+    available_date: '2010-07-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: またひはのほる
+    singer_name_ruby: はいし
+    song_variation:
+    - esong_code: 2548A3
+      song_name: また陽はのぼる
+      content_type: ''
+  - song_name: 街角でひろった午後
+    song_alias:
+    esong_code: 2406B5
+    t_singer_master_id: '40269'
+    singer_name: 箏座
+    singer_alias:
+    available_date: '2010-07-06'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: まちかとてひろつ
+    singer_name_ruby: ことさ
+    song_variation:
+    - esong_code: 2406B5
+      song_name: 街角でひろった午後
       content_type: ''

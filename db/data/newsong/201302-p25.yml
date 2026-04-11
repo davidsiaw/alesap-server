@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1374
-  all_max_cnt: 1461
-  all_country_cnt: 1374
+  max_cnt: 1373
+  all_max_cnt: 1460
+  all_country_cnt: 1373
   song:
-  - song_name: 仲間達(とも)よ
-    song_alias:
-    esong_code: 2993A28
-    t_singer_master_id: '45922'
-    singer_name: 森瀬 永&寿 ひろし
-    singer_alias:
-    available_date: '2013-02-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYｸﾘｯﾌﾟ
-    song_name_ruby: ともよ
-    singer_name_ruby: もりせはるかとしひろし
-    song_variation:
-    - esong_code: 2993A28
-      song_name: 仲間達(とも)よ
-      content_type: JOYｸﾘｯﾌﾟ
   - song_name: TRY AGAIN
     song_alias:
     esong_code: 2979A3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2988A3
       song_name: 涙のArt 〜虹色の花〜
+      content_type: ''
+  - song_name: 涙の夜汽車
+    song_alias:
+    esong_code: 2981B39
+    t_singer_master_id: '31259'
+    singer_name: 青木 ひろあき
+    singer_alias:
+    available_date: '2013-02-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: なみたのよきしや
+    singer_name_ruby: あおきひろあき
+    song_variation:
+    - esong_code: 2981B39
+      song_name: 涙の夜汽車
       content_type: ''

@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1407
-  all_max_cnt: 1617
-  all_country_cnt: 1407
+  max_cnt: 1405
+  all_max_cnt: 1615
+  all_country_cnt: 1405
   song:
-  - song_name: さよなら少年
-    song_alias:
-    esong_code: 3218A22
-    t_singer_master_id: '47104'
-    singer_name: fifi
-    singer_alias:
-    available_date: '2014-03-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さよならしようねん
-    singer_name_ruby: ふいふい
-    song_variation:
-    - esong_code: 3218A22
-      song_name: さよなら少年
-      content_type: ''
   - song_name: さよならは言えない
     song_alias:
     esong_code: 3216A44
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2851A6
       song_name: しのび逢い
+      content_type: ''
+  - song_name: しのぶさんさ
+    song_alias:
+    esong_code: 3213A39
+    t_singer_master_id: '25433'
+    singer_name: 吾妻 栄二郎
+    singer_alias:
+    available_date: '2014-03-16'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: しのふさんさ
+    singer_name_ruby: あつまえいしろう
+    song_variation:
+    - esong_code: 3213A39
+      song_name: しのぶさんさ
       content_type: ''

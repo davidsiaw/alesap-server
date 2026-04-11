@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 902
-  all_max_cnt: 1197
-  all_country_cnt: 902
+  max_cnt: 897
+  all_max_cnt: 1191
+  all_country_cnt: 897
   song:
-  - song_name: SHYLIGHTS
-    song_alias:
-    esong_code: 274A17
-    t_singer_master_id: '242'
-    singer_name: 稲垣 潤一
-    singer_alias:
-    available_date: '2006-02-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやいらいつ
-    singer_name_ruby: いなかきしゆんいち
-    song_variation:
-    - esong_code: 274A17
-      song_name: SHYLIGHTS
-      content_type: ''
   - song_name: シャイン、光の道しるべ
     song_alias:
     esong_code: 1457A29
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 745B4
       song_name: 好きだから
+      content_type: ''
+  - song_name: STARIGHT DREAM
+    song_alias:
+    esong_code: 1453B12
+    t_singer_master_id: '5408'
+    singer_name: Fire Bomber
+    singer_alias:
+    available_date: '2006-02-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: マクロス ダイナマイト7<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すたらいととり
+    singer_name_ruby: ふあいあほんは
+    song_variation:
+    - esong_code: 1453B12
+      song_name: STARIGHT DREAM
       content_type: ''

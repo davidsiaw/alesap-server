@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: 人生夜汽車 (スタジオライブバージョン)
-    song_alias:
-    esong_code: 2750A40
-    t_singer_master_id: '1107'
-    singer_name: 神野 美伽
-    singer_alias:
-    available_date: '2012-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんせいよきしや
-    singer_name_ruby: しんのみか
-    song_variation:
-    - esong_code: 2750A40
-      song_name: 人生夜汽車 (スタジオライブバージョン)
-      content_type: ''
-  - song_name: 人生リセットボタン
-    song_alias:
-    esong_code: 2445A40
-    t_singer_master_id: '43972'
-    singer_name: kemu(KEMU VOXX)
-    singer_alias:
-    available_date: '2012-02-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: しんせいりせつとほ
-    singer_name_ruby: けむ
-    song_variation:
-    - esong_code: 2445A40
-      song_name: 人生リセットボタン
-      content_type: VOCALOID
   - song_name: シンフォニー
     song_alias:
     esong_code: 2773B5
@@ -417,23 +383,6 @@ result:
       content_type: ''
   - song_name: ずっと
     song_alias:
-    esong_code: 2764B46
-    t_singer_master_id: '24507'
-    singer_name: 亀梨 和也(from KAT-TUN)
-    singer_alias:
-    available_date: '2012-02-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すつと
-    singer_name_ruby: かめなしかすや
-    song_variation:
-    - esong_code: 2764B46
-      song_name: ずっと
-      content_type: ''
-  - song_name: ずっと
-    song_alias:
     esong_code: 2769A38
     t_singer_master_id: '8782'
     singer_name: aiko
@@ -449,6 +398,23 @@ result:
     - esong_code: 2769A38
       song_name: ずっと
       content_type: JOY生演奏
+  - song_name: ずっと
+    song_alias:
+    esong_code: 2764B46
+    t_singer_master_id: '24507'
+    singer_name: 亀梨 和也(from KAT-TUN)
+    singer_alias:
+    available_date: '2012-02-22'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すつと
+    singer_name_ruby: かめなしかすや
+    song_variation:
+    - esong_code: 2764B46
+      song_name: ずっと
+      content_type: ''
   - song_name: ずっと僕のそばで
     song_alias:
     esong_code: 2749B25
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2753B2
       song_name: Still
+      content_type: ''
+  - song_name: ステキな たまご!
+    song_alias:
+    esong_code: 2762A48
+    t_singer_master_id: '44340'
+    singer_name: ゆうなちゃん&ワンワン&うーたん
+    singer_alias:
+    available_date: '2012-02-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: いないいないばあっ!<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: すてきなたまこ
+    singer_name_ruby: ゆうなちやんわんわんうたん
+    song_variation:
+    - esong_code: 2762A48
+      song_name: ステキな たまご!
+      content_type: ''
+  - song_name: STEP BY STEP
+    song_alias:
+    esong_code: 2765A8
+    t_singer_master_id: '33061'
+    singer_name: 中丸 雄一(from KAT-TUN)
+    singer_alias:
+    available_date: '2012-02-23'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: すてつふはいすて
+    singer_name_ruby: なかまるゆういち
+    song_variation:
+    - esong_code: 2765A8
+      song_name: STEP BY STEP
       content_type: ''

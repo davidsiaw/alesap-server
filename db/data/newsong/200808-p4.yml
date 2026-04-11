@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 942
-  all_max_cnt: 1036
-  all_country_cnt: 942
+  max_cnt: 935
+  all_max_cnt: 1029
+  all_country_cnt: 935
   song:
-  - song_name: 恨みはらさでおくべきか
-    song_alias:
-    esong_code: 2068A14
-    t_singer_master_id: '33597'
-    singer_name: デトロイト・メタル・シティ
-    singer_alias:
-    available_date: '2008-08-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: デトロイト・メタル・シティ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うらみはらさておく
-    singer_name_ruby: てとろいとめたるしてい
-    song_variation:
-    - esong_code: 2068A14
-      song_name: 恨みはらさでおくべきか
-      content_type: ''
   - song_name: ウレシイタメイキ
     song_alias:
     esong_code: 2069A29
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 1387A28
       song_name: Over The Sky
+      content_type: ''
+  - song_name: OPEN ARMS
+    song_alias:
+    esong_code: 2054B28
+    t_singer_master_id: '2651'
+    singer_name: 渡辺 美里
+    singer_alias:
+    available_date: '2008-08-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おふんあむす
+    singer_name_ruby: わたなへみさと
+    song_variation:
+    - esong_code: 2054B28
+      song_name: OPEN ARMS
       content_type: ''

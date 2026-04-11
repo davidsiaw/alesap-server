@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1231
-  all_max_cnt: 1382
-  all_country_cnt: 1231
+  max_cnt: 1228
+  all_max_cnt: 1379
+  all_country_cnt: 1228
   song:
-  - song_name: 約束のパラダイム
-    song_alias:
-    esong_code: 2614B10
-    t_singer_master_id: '24966'
-    singer_name: 今井 麻美
-    singer_alias:
-    available_date: '2010-10-24'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: Steins;Gate(ゲーム版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: やくそくのはらた
-    singer_name_ruby: いまいあさみ
-    song_variation:
-    - esong_code: 2614B10
-      song_name: 約束のパラダイム
-      content_type: ''
   - song_name: 優しく廻る (Album Ver.)
     song_alias:
     esong_code: 2623A27
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2620A34
       song_name: ゆびさきの雨
+      content_type: ''
+  - song_name: 指輪
+    song_alias:
+    esong_code: 2619A39
+    t_singer_master_id: '610'
+    singer_name: 神戸 一郎
+    singer_alias:
+    available_date: '2010-10-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: ゆひわ
+    singer_name_ruby: かんへいちろう
+    song_variation:
+    - esong_code: 2619A39
+      song_name: 指輪
       content_type: ''

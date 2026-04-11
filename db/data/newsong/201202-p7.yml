@@ -3,27 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1306
-  all_max_cnt: 1430
-  all_country_cnt: 1306
+  max_cnt: 1302
+  all_max_cnt: 1426
+  all_country_cnt: 1302
   song:
-  - song_name: Overcoming feat.まめこ
-    song_alias:
-    esong_code: 2007A26
-    t_singer_master_id: '38202'
-    singer_name: ふぉれすとぴれお
-    singer_alias:
-    available_date: '2012-02-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 東方永夜抄 〜Imperishable Night<番組名>
-    country_code: '0'
-    content_type: 東方
-    song_name_ruby: おはかみんく
-    singer_name_ruby: ふおれすとひれお
-    song_variation:
-    - esong_code: 2007A26
-      song_name: Overcoming feat.まめこ
-      content_type: 東方
   - song_name: Overture <友情序曲>
     song_alias:
     esong_code: 2758B19
@@ -336,7 +319,7 @@ result:
     t_singer_master_id: '2270'
     singer_name: 三門 忠司
     singer_alias:
-    available_date: '2012-02-08'
+    available_date: '2012-02-17'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
@@ -366,23 +349,6 @@ result:
       content_type: ''
   - song_name: おんなの山河
     song_alias:
-    esong_code: 2757B44
-    t_singer_master_id: '1518'
-    singer_name: 天童 よしみ
-    singer_alias:
-    available_date: '2012-02-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAMﾌﾟﾛｵｹ
-    song_name_ruby: おんなのさんか
-    singer_name_ruby: てんとうよしみ
-    song_variation:
-    - esong_code: 2757B44
-      song_name: おんなの山河
-      content_type: DAMﾌﾟﾛｵｹ
-  - song_name: おんなの山河
-    song_alias:
     esong_code: 2750B10
     t_singer_master_id: '1518'
     singer_name: 天童 よしみ
@@ -398,6 +364,23 @@ result:
     - esong_code: 2750B10
       song_name: おんなの山河
       content_type: ''
+  - song_name: おんなの山河
+    song_alias:
+    esong_code: 2757B44
+    t_singer_master_id: '1518'
+    singer_name: 天童 よしみ
+    singer_alias:
+    available_date: '2012-02-08'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAMﾌﾟﾛｵｹ
+    song_name_ruby: おんなのさんか
+    singer_name_ruby: てんとうよしみ
+    song_variation:
+    - esong_code: 2757B44
+      song_name: おんなの山河
+      content_type: DAMﾌﾟﾛｵｹ
   - song_name: 女の人生待ったなし
     song_alias:
     esong_code: 2767A3
@@ -516,4 +499,21 @@ result:
     song_variation:
     - esong_code: 2764B49
       song_name: 海峡の月
+      content_type: ''
+  - song_name: 海峡の宿
+    song_alias:
+    esong_code: 2750A38
+    t_singer_master_id: '893'
+    singer_name: 伍代 夏子
+    singer_alias:
+    available_date: '2012-02-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: かいきようのやと
+    singer_name_ruby: こたいなつこ
+    song_variation:
+    - esong_code: 2750A38
+      song_name: 海峡の宿
       content_type: ''

@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1775
-  all_max_cnt: 1979
-  all_country_cnt: 1775
+  max_cnt: 1769
+  all_max_cnt: 1973
+  all_country_cnt: 1769
   song:
-  - song_name: 寒青
-    song_alias:
-    esong_code: 1213B42
-    t_singer_master_id: '43325'
-    singer_name: 藤本 英稀
-    singer_alias:
-    available_date: '2014-06-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんせい
-    singer_name_ruby: ふしもとひてき
-    song_variation:
-    - esong_code: 1213B42
-      song_name: 寒青
-      content_type: ''
-  - song_name: 関白宣言 (ミャークフツバージョン)
-    song_alias:
-    esong_code: 1160A18
-    t_singer_master_id: '21261'
-    singer_name: 下地 勇
-    singer_alias:
-    available_date: '2014-06-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんはくせんけん
-    singer_name_ruby: しもしいさむ
-    song_variation:
-    - esong_code: 1160A18
-      song_name: 関白宣言 (ミャークフツバージョン)
-      content_type: ''
   - song_name: 頑張ったっていいんじゃない
     song_alias:
     esong_code: 3270A31
@@ -517,3 +483,37 @@ result:
     - esong_code: 3293B12
       song_name: 木津の勘助 〜浪花侠客伝〜
       content_type: JOYｸﾘｯﾌﾟ
+  - song_name: 気になるお前
+    song_alias:
+    esong_code: 3266A39
+    t_singer_master_id: '977'
+    singer_name: 沢田 研二
+    singer_alias:
+    available_date: '2014-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きになるおまえ
+    singer_name_ruby: さわたけんし
+    song_variation:
+    - esong_code: 3266A39
+      song_name: 気になるお前
+      content_type: ''
+  - song_name: 昨日、今日、明日
+    song_alias:
+    esong_code: 3266A14
+    t_singer_master_id: '41417'
+    singer_name: 金元 寿子
+    singer_alias:
+    available_date: '2014-06-10'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: 悪魔のリドル<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: きのうきようあした
+    singer_name_ruby: かねもとひさこ
+    song_variation:
+    - esong_code: 3266A14
+      song_name: 昨日、今日、明日
+      content_type: ''

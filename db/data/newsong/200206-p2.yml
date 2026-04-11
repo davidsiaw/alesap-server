@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 468
-  all_max_cnt: 555
-  all_country_cnt: 468
+  max_cnt: 467
+  all_max_cnt: 554
+  all_country_cnt: 467
   song:
   - song_name: エクスタシー温泉
     song_alias:
@@ -400,23 +400,6 @@ result:
       content_type: ''
   - song_name: ALL or NOTHING
     song_alias:
-    esong_code: 864A23
-    t_singer_master_id: '10314'
-    singer_name: 嵐
-    singer_alias:
-    available_date: '2002-06-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おるおあなつしんく
-    singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 864A23
-      song_name: ALL or NOTHING
-      content_type: ''
-  - song_name: ALL or NOTHING
-    song_alias:
     esong_code: 118A48
     t_singer_master_id: '10314'
     singer_name: 嵐
@@ -432,6 +415,23 @@ result:
     - esong_code: 118A48
       song_name: ALL or NOTHING
       content_type: DAM良音
+  - song_name: ALL or NOTHING
+    song_alias:
+    esong_code: 864A23
+    t_singer_master_id: '10314'
+    singer_name: 嵐
+    singer_alias:
+    available_date: '2002-06-19'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おるおあなつしんく
+    singer_name_ruby: あらし
+    song_variation:
+    - esong_code: 864A23
+      song_name: ALL or NOTHING
+      content_type: ''
   - song_name: 俺の手にSay Goodbye
     song_alias:
     esong_code: 862A21

@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1031
-  all_max_cnt: 1130
-  all_country_cnt: 1031
+  max_cnt: 1019
+  all_max_cnt: 1118
+  all_country_cnt: 1019
   song:
   - song_name: ACTION
     song_alias:
@@ -145,23 +145,6 @@ result:
       content_type: JOYﾎﾞｰｶﾙ
   - song_name: 明日への扉
     song_alias:
-    esong_code: 4300A25
-    t_singer_master_id: '6510'
-    singer_name: 水森 かおり
-    singer_alias:
-    available_date: '2021-06-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: JOYﾎﾞｰｶﾙ
-    song_name_ruby: あしたへのとひら
-    singer_name_ruby: みすもりかおり
-    song_variation:
-    - esong_code: 4300A25
-      song_name: 明日への扉
-      content_type: JOYﾎﾞｰｶﾙ
-  - song_name: 明日への扉
-    song_alias:
     esong_code: 4506B35
     t_singer_master_id: '6510'
     singer_name: 水森 かおり
@@ -177,6 +160,23 @@ result:
     - esong_code: 4506B35
       song_name: 明日への扉
       content_type: ''
+  - song_name: 明日への扉
+    song_alias:
+    esong_code: 4300A25
+    t_singer_master_id: '6510'
+    singer_name: 水森 かおり
+    singer_alias:
+    available_date: '2021-06-09'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: あしたへのとひら
+    singer_name_ruby: みすもりかおり
+    song_variation:
+    - esong_code: 4300A25
+      song_name: 明日への扉
+      content_type: JOYﾎﾞｰｶﾙ
   - song_name: 明日へ
     song_alias:
     esong_code: 4300A18
@@ -449,23 +449,6 @@ result:
     - esong_code: 4512B15
       song_name: 雨上がりのパレード
       content_type: ''
-  - song_name: Amazing Grace
-    song_alias:
-    esong_code: 4506B18
-    t_singer_master_id: '18590'
-    singer_name: EXILE ATSUSHI
-    singer_alias:
-    available_date: '2021-06-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめいしんくく
-    singer_name_ruby: えくさいるあつし
-    song_variation:
-    - esong_code: 4506B18
-      song_name: Amazing Grace
-      content_type: ''
   - song_name: 雨のいたずら
     song_alias:
     esong_code: 4515A22
@@ -499,6 +482,23 @@ result:
     song_variation:
     - esong_code: 4514B1
       song_name: あやふや
+      content_type: ''
+  - song_name: 荒川峡から
+    song_alias:
+    esong_code: 4512A32
+    t_singer_master_id: '1667'
+    singer_name: 永井 みゆき
+    singer_alias:
+    available_date: '2021-06-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あらかわきようから
+    singer_name_ruby: なかいみゆき
+    song_variation:
+    - esong_code: 4512A32
+      song_name: 荒川峡から
       content_type: ''
   - song_name: 荒川峡から
     song_alias:

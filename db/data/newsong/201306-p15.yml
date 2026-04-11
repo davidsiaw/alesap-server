@@ -7,6 +7,23 @@ result:
   all_max_cnt: 1753
   all_country_cnt: 1570
   song:
+  - song_name: 君の街に行くよ
+    song_alias:
+    esong_code: 2324A34
+    t_singer_master_id: '2542'
+    singer_name: 吉田 拓郎
+    singer_alias:
+    available_date: '2013-06-21'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きみのまちにいくよ
+    singer_name_ruby: よしたたくろう
+    song_variation:
+    - esong_code: 2324A34
+      song_name: 君の街に行くよ
+      content_type: ''
   - song_name: 君の元へ
     song_alias:
     esong_code: 3060A11
@@ -219,7 +236,7 @@ result:
     singer_alias:
     available_date: '2013-06-12'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ヘタリア Axis Powers<番組名>
+    tie_up: ヘタリア(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きようをたのしもうせ
@@ -279,23 +296,6 @@ result:
     - esong_code: 3054A25
       song_name: 嫌いなワケLychee
       content_type: ''
-  - song_name: GIRAGIRA
-    song_alias:
-    esong_code: 2923A4
-    t_singer_master_id: '45170'
-    singer_name: あべ みずほ
-    singer_alias:
-    available_date: '2013-06-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きらきら
-    singer_name_ruby: あへみすほ
-    song_variation:
-    - esong_code: 2923A4
-      song_name: GIRAGIRA
-      content_type: ''
   - song_name: きらきら
     song_alias:
     esong_code: 3066A7
@@ -312,6 +312,23 @@ result:
     song_variation:
     - esong_code: 3066A7
       song_name: きらきら
+      content_type: ''
+  - song_name: GIRAGIRA
+    song_alias:
+    esong_code: 2923A4
+    t_singer_master_id: '45170'
+    singer_name: あべ みずほ
+    singer_alias:
+    available_date: '2013-06-18'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: きらきら
+    singer_name_ruby: あへみすほ
+    song_variation:
+    - esong_code: 2923A4
+      song_name: GIRAGIRA
       content_type: ''
   - song_name: 霧の男女川
     song_alias:
@@ -406,7 +423,7 @@ result:
     singer_alias:
     available_date: '2013-06-11'
     end_date: '2999-04-10 00:00:00'
-    tie_up: 金色のコルダ3<番組名>
+    tie_up: 金色のコルダ<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: きんせんか
@@ -500,20 +517,3 @@ result:
     - esong_code: 2505A31
       song_name: 草津想い出旅情
       content_type: ''
-  - song_name: くじらの街
-    song_alias:
-    esong_code: 3055B36
-    t_singer_master_id: '43950'
-    singer_name: 村人P(ラムネ)
-    singer_alias:
-    available_date: '2013-06-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: VOCALOID
-    song_name_ruby: くしらのまち
-    singer_name_ruby: むらひとひ
-    song_variation:
-    - esong_code: 3055B36
-      song_name: くじらの街
-      content_type: VOCALOID

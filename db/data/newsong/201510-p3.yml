@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1462
-  all_max_cnt: 1642
-  all_country_cnt: 1462
+  max_cnt: 1455
+  all_max_cnt: 1635
+  all_country_cnt: 1455
   song:
   - song_name: 雨の約束
     song_alias:
@@ -281,23 +281,6 @@ result:
       content_type: ''
   - song_name: ANSWER
     song_alias:
-    esong_code: 3518A24
-    t_singer_master_id: '50711'
-    singer_name: BLUE ENCOUNT
-    singer_alias:
-    available_date: '2015-10-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あんさ
-    singer_name_ruby: ふるえんかうんと
-    song_variation:
-    - esong_code: 3518A24
-      song_name: ANSWER
-      content_type: ''
-  - song_name: ANSWER
-    song_alias:
     esong_code: 3523A32
     t_singer_master_id: '29356'
     singer_name: 寺島 拓篤
@@ -311,6 +294,23 @@ result:
     singer_name_ruby: てらしまたくま
     song_variation:
     - esong_code: 3523A32
+      song_name: ANSWER
+      content_type: ''
+  - song_name: ANSWER
+    song_alias:
+    esong_code: 3518A24
+    t_singer_master_id: '50711'
+    singer_name: BLUE ENCOUNT
+    singer_alias:
+    available_date: '2015-10-13'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: あんさ
+    singer_name_ruby: ふるえんかうんと
+    song_variation:
+    - esong_code: 3518A24
       song_name: ANSWER
       content_type: ''
   - song_name: Undercover

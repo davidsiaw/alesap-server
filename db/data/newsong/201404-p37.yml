@@ -7,6 +7,23 @@ result:
   all_max_cnt: 1916
   all_country_cnt: 1684
   song:
+  - song_name: バック・シート・ドール
+    song_alias:
+    esong_code: 3226A44
+    t_singer_master_id: '1029'
+    singer_name: しばた はつみ
+    singer_alias:
+    available_date: '2014-04-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつくしとと
+    singer_name_ruby: しはたはつみ
+    song_variation:
+    - esong_code: 3226A44
+      song_name: バック・シート・ドール
+      content_type: ''
   - song_name: 初恋
     song_alias:
     esong_code: 3226A38
@@ -49,7 +66,7 @@ result:
     singer_alias:
     available_date: '2014-04-26'
     end_date: '2999-04-10 00:00:00'
-    tie_up: ドラゴンボール<番組名>
+    tie_up: DRAGON BALL(アニメ版)<番組名>
     country_code: '0'
     content_type:
     song_name_ruby: はつこいはくもにのつ
@@ -109,23 +126,6 @@ result:
     - esong_code: 3245B5
       song_name: Happy Together
       content_type: ''
-  - song_name: Happy Happy*rice shower (type black)
-    song_alias:
-    esong_code: 2058B26
-    t_singer_master_id: '29259'
-    singer_name: 黒薔薇保存会
-    singer_alias:
-    available_date: '2014-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はつひはつひ
-    singer_name_ruby: くろはらほそんかい
-    song_variation:
-    - esong_code: 2058B26
-      song_name: Happy Happy*rice shower (type black)
-      content_type: ''
   - song_name: HAPPY HAPPY BIRTHDAY (25th Anniv. Mix)
     song_alias:
     esong_code: 3230B34
@@ -142,6 +142,23 @@ result:
     song_variation:
     - esong_code: 3230B34
       song_name: HAPPY HAPPY BIRTHDAY (25th Anniv. Mix)
+      content_type: ''
+  - song_name: Happy Happy*rice shower (type black)
+    song_alias:
+    esong_code: 2058B26
+    t_singer_master_id: '29259'
+    singer_name: 黒薔薇保存会
+    singer_alias:
+    available_date: '2014-04-20'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: はつひはつひ
+    singer_name_ruby: くろはらほそんかい
+    song_variation:
+    - esong_code: 2058B26
+      song_name: Happy Happy*rice shower (type black)
       content_type: ''
   - song_name: ハドソン河 (Hudson River)
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 3238A48
       song_name: VANISH
-      content_type: ''
-  - song_name: BURNING UP!
-    song_alias:
-    esong_code: 3227B35
-    t_singer_master_id: '42612'
-    singer_name: SHINee
-    singer_alias:
-    available_date: '2014-04-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はにんくあつふ
-    singer_name_ruby: しやいに
-    song_variation:
-    - esong_code: 3227B35
-      song_name: BURNING UP!
       content_type: ''

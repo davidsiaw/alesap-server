@@ -3,10 +3,27 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 792
-  all_max_cnt: 839
-  all_country_cnt: 792
+  max_cnt: 788
+  all_max_cnt: 835
+  all_country_cnt: 788
   song:
+  - song_name: independent (D-Naton Remix)
+    song_alias:
+    esong_code: 204A5
+    t_singer_master_id: '8492'
+    singer_name: 浜崎 あゆみ
+    singer_alias:
+    available_date: '2004-12-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: いんていへんて
+    singer_name_ruby: はまさきあゆみ
+    song_variation:
+    - esong_code: 204A5
+      song_name: independent (D-Naton Remix)
+      content_type: ''
   - song_name: INTRODUCTION
     song_alias:
     esong_code: 184A18
@@ -194,7 +211,7 @@ result:
     - esong_code: 352A12
       song_name: 上を向いて歩こう
       content_type: ''
-  - song_name: ウォーク・ライト・バック (全英語詩)
+  - song_name: ウォーク・ライト・バック
     song_alias:
     esong_code: 181B19
     t_singer_master_id: '1359'
@@ -209,7 +226,7 @@ result:
     singer_name_ruby: たけうちまりや
     song_variation:
     - esong_code: 181B19
-      song_name: ウォーク・ライト・バック (全英語詩)
+      song_name: ウォーク・ライト・バック
       content_type: ''
   - song_name: WARRIOR
     song_alias:
@@ -432,23 +449,6 @@ result:
     - esong_code: 918A30
       song_name: Eternal Memories (acoustic version)
       content_type: ''
-  - song_name: Eternal Love 2004
-    song_alias:
-    esong_code: 1200B2
-    t_singer_master_id: '16246'
-    singer_name: 佐藤 ひろ美(佐藤裕美)
-    singer_alias:
-    available_date: '2004-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: GALAXY ANGEL Eternal Lovers<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: えたなるらふ
-    singer_name_ruby: さとうひろみ
-    song_variation:
-    - esong_code: 1200B2
-      song_name: Eternal Love 2004
-      content_type: ''
   - song_name: Eternal Love 〜光の天使より〜
     song_alias:
     esong_code: 387A49
@@ -465,6 +465,23 @@ result:
     song_variation:
     - esong_code: 387A49
       song_name: Eternal Love 〜光の天使より〜
+      content_type: ''
+  - song_name: Eternal Love 2004
+    song_alias:
+    esong_code: 1200B2
+    t_singer_master_id: '16246'
+    singer_name: 佐藤 ひろ美(佐藤裕美)
+    singer_alias:
+    available_date: '2004-12-31'
+    end_date: '2999-04-10 00:00:00'
+    tie_up: GALAXY ANGEL Eternal Lovers<番組名>
+    country_code: '0'
+    content_type:
+    song_name_ruby: えたなるらふ
+    singer_name_ruby: さとうひろみ
+    song_variation:
+    - esong_code: 1200B2
+      song_name: Eternal Love 2004
       content_type: ''
   - song_name: ENEMY OF LIFE
     song_alias:
@@ -499,21 +516,4 @@ result:
     song_variation:
     - esong_code: 181B17
       song_name: Ever Green
-      content_type: ''
-  - song_name: EBB Tide feat.Pushim
-    song_alias:
-    esong_code: 601A2
-    t_singer_master_id: '15053'
-    singer_name: Home Grown
-    singer_alias:
-    available_date: '2004-12-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えふたいとふい
-    singer_name_ruby: ほむくろうん
-    song_variation:
-    - esong_code: 601A2
-      song_name: EBB Tide feat.Pushim
       content_type: ''

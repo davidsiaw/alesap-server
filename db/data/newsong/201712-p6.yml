@@ -3,44 +3,10 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1256
-  all_max_cnt: 1628
-  all_country_cnt: 1256
+  max_cnt: 1244
+  all_max_cnt: 1616
+  all_country_cnt: 1244
   song:
-  - song_name: エガオノキミヘ [DAM本人歌唱]
-    song_alias:
-    esong_code: 3921A41
-    t_singer_master_id: '43548'
-    singer_name: 三森 すずこ
-    singer_alias:
-    available_date: '2017-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 結城友奈は勇者である -鷲尾須美の章-<番組名>
-    country_code: '0'
-    content_type: DAM本人歌唱
-    song_name_ruby: えかおのきみへ
-    singer_name_ruby: みもりすすこ
-    song_variation:
-    - esong_code: 3921A41
-      song_name: エガオノキミヘ [DAM本人歌唱]
-      content_type: DAM本人歌唱
-  - song_name: 笑顔をみせて
-    song_alias:
-    esong_code: 3916B26
-    t_singer_master_id: '7646'
-    singer_name: 松 たか子
-    singer_alias:
-    available_date: '2017-12-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えかおをみせて
-    singer_name_ruby: まつたかこ
-    song_variation:
-    - esong_code: 3916B26
-      song_name: 笑顔をみせて
-      content_type: ''
   - song_name: エクレール・オ・ショコラ
     song_alias:
     esong_code: 3921B35
@@ -516,4 +482,38 @@ result:
     song_variation:
     - esong_code: 2143B33
       song_name: 男達のブルース
+      content_type: ''
+  - song_name: 男の裏町
+    song_alias:
+    esong_code: 2048A38
+    t_singer_master_id: '44'
+    singer_name: 秋岡 秀治
+    singer_alias:
+    available_date: '2017-12-27'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: JOYﾎﾞｰｶﾙ
+    song_name_ruby: おとこのうらまち
+    singer_name_ruby: あきおかしゆうし
+    song_variation:
+    - esong_code: 2048A38
+      song_name: 男の裏町
+      content_type: JOYﾎﾞｰｶﾙ
+  - song_name: 男の傷あと
+    song_alias:
+    esong_code: 2233B35
+    t_singer_master_id: '533'
+    singer_name: 桂 竜士
+    singer_alias:
+    available_date: '2017-12-01'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type:
+    song_name_ruby: おとこのきすあと
+    singer_name_ruby: かつらりゆうし
+    song_variation:
+    - esong_code: 2233B35
+      song_name: 男の傷あと
       content_type: ''

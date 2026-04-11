@@ -3,9 +3,9 @@ status: 'true'
 code: '200'
 messages: ''
 result:
-  max_cnt: 1416
-  all_max_cnt: 1541
-  all_country_cnt: 1416
+  max_cnt: 1413
+  all_max_cnt: 1538
+  all_country_cnt: 1413
   song:
   - song_name: I Left You
     song_alias:
@@ -228,22 +228,22 @@ result:
     - esong_code: 2707B1
       song_name: アグリバァヤ
       content_type: ''
-  - song_name: AGAIN 〜ラブソングをもう一度〜
+  - song_name: Again
     song_alias:
-    esong_code: 2715B41
-    t_singer_master_id: '1944'
-    singer_name: ビリー・バンバン
+    esong_code: 2704B4
+    t_singer_master_id: '42178'
+    singer_name: MBLAQ
     singer_alias:
-    available_date: '2011-11-30'
+    available_date: '2011-11-10'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: あけいん
-    singer_name_ruby: ひりはんはん
+    singer_name_ruby: えむふらつく
     song_variation:
-    - esong_code: 2715B41
-      song_name: AGAIN 〜ラブソングをもう一度〜
+    - esong_code: 2704B4
+      song_name: Again
       content_type: ''
   - song_name: again
     song_alias:
@@ -262,22 +262,22 @@ result:
     - esong_code: 2710B31
       song_name: again
       content_type: ''
-  - song_name: Again
+  - song_name: AGAIN 〜ラブソングをもう一度〜
     song_alias:
-    esong_code: 2704B4
-    t_singer_master_id: '42178'
-    singer_name: MBLAQ
+    esong_code: 2715B41
+    t_singer_master_id: '1944'
+    singer_name: ビリー・バンバン
     singer_alias:
-    available_date: '2011-11-10'
+    available_date: '2011-11-30'
     end_date: '2999-04-10 00:00:00'
     tie_up:
     country_code: '0'
     content_type:
     song_name_ruby: あけいん
-    singer_name_ruby: えむふらつく
+    singer_name_ruby: ひりはんはん
     song_variation:
-    - esong_code: 2704B4
-      song_name: Again
+    - esong_code: 2715B41
+      song_name: AGAIN 〜ラブソングをもう一度〜
       content_type: ''
   - song_name: 憧れのカーモネギーホール
     song_alias:
@@ -332,23 +332,6 @@ result:
       content_type: ''
   - song_name: 浅野内匠頭
     song_alias:
-    esong_code: 2705A44
-    t_singer_master_id: '495'
-    singer_name: 鏡 五郎
-    singer_alias:
-    available_date: '2011-11-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type: DAM生音
-    song_name_ruby: あさのたくみのかみ
-    singer_name_ruby: かかみころう
-    song_variation:
-    - esong_code: 2705A44
-      song_name: 浅野内匠頭
-      content_type: DAM生音
-  - song_name: 浅野内匠頭
-    song_alias:
     esong_code: 2705B18
     t_singer_master_id: '495'
     singer_name: 鏡 五郎
@@ -364,6 +347,23 @@ result:
     - esong_code: 2705B18
       song_name: 浅野内匠頭
       content_type: DAMﾌﾟﾛｵｹ
+  - song_name: 浅野内匠頭
+    song_alias:
+    esong_code: 2705A44
+    t_singer_master_id: '495'
+    singer_name: 鏡 五郎
+    singer_alias:
+    available_date: '2011-11-15'
+    end_date: '2999-04-10 00:00:00'
+    tie_up:
+    country_code: '0'
+    content_type: DAM生音
+    song_name_ruby: あさのたくみのかみ
+    singer_name_ruby: かかみころう
+    song_variation:
+    - esong_code: 2705A44
+      song_name: 浅野内匠頭
+      content_type: DAM生音
   - song_name: 朝焼けに消ゆ
     song_alias:
     esong_code: 2702B9
