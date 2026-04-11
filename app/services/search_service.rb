@@ -7,59 +7,89 @@ class SearchService
     @page_size = page_size
   end
 
-  def rel_basic_song
-    @rel_basic_song ||= begin
-      strs = Istring.where("str LIKE ?", "#{@search_term}%")
-
-      songs = PaselaEsong.joins(:name).merge(strs)
-
-      res = PaselaEsongPaselaArtist.
-        joins(:song, :artist).
-        merge(songs).
-        order(:id).
-        limit(@page_size).
-        offset(@page_num * @page_size)
-
-      res
-    end
-  end
-
-  def rel_basic_artist
-    @rel_basic_artist ||= begin
-      strs = Istring.where("str LIKE ?", "#{@search_term}%")
-
-      artists = PaselaArtist.joins(:artist_name).merge(strs)
-
-      res = PaselaEsongPaselaArtist.
-        joins(:song, :artist).
-        merge(artists).
-        order(:id).
-        limit(@page_size).
-        offset(@page_num * @page_size)
-
-      res
-    end
-  end
-
-  def result_relation
-    return rel_basic_song if rel_basic_song.count > 0
-    return rel_basic_artist if rel_basic_artist.count > 0
-
-    []
-  end
-
-
-
   def result
+    if @search_term.gsub(/\s+/, '') == ''
+      return {
+        search: @search_term,
+        page: @page_num,
+        total: 0,
+        results: []
+      }
+    end
 
-    codelist = result_relation.
-      map do |x|
-        x.code
-      end.to_a
+    exception_list = []
+    if !@search_term.include?('artist:')
+      exception_list << "and token NOT like 'artist:%'"
+    end
 
-    # p codelist
+    if !@search_term.include?('genre:')
+      exception_list << "and token NOT like 'genre:%'"
+    end
+
+    if !@search_term.include?('type:')
+      exception_list << "and token NOT like 'type:%'"
+    end
+
+    sql = <<~SQL
+      WITH r AS (
+        SELECT "pasela_esongs"."esong_key", "priority" + 1000 as priority, str, token
+        FROM "pasela_esongs"
+        INNER JOIN "istrings" ON "istrings"."id" = "pasela_esongs"."name_id"
+        INNER JOIN token_data ON token_data.esong_key = pasela_esongs.esong_key 
+        WHERE (token LIKE $1)
+
+        #{exception_list.join("\n")}
+
+        GROUP BY "pasela_esongs"."esong_key", "istrings"."str", priority, token
+
+        UNION
+
+        SELECT "pasela_esongs"."esong_key", "priority" as priority, str, token
+        FROM "pasela_esongs"
+        INNER JOIN "istrings" ON "istrings"."id" = "pasela_esongs"."name_id"
+        INNER JOIN token_data ON token_data.esong_key = pasela_esongs.esong_key 
+        WHERE (token = $2) 
+
+        #{exception_list.join("\n")}
+
+        GROUP BY "pasela_esongs"."esong_key", "istrings"."str", priority, token
+      ),
+      k AS (
+        SELECT esong_key, ROW_NUMBER() OVER (PARTITION BY esong_key ORDER BY priority, str) as rn, priority, str, token FROM r
+        order by priority,str
+      )
+
+    SQL
+
+
+    csql = sql + <<~SQL
+      SELECT count(esong_key) FROM k
+      WHERE rn = 1
+    SQL
+
+    cnt = PaselaEsong.lease_connection.select_all(csql, 
+      'z',
+      ["#{@search_term.downcase}%", @search_term.downcase]).to_a.flatten.first['count']
+
+
+    lsql = sql + <<~SQL
+      SELECT esong_key, str FROM k
+      WHERE rn = 1
+      LIMIT $3 OFFSET $4
+    SQL
+
+    raw = PaselaEsong.lease_connection.select_all(lsql, 
+      'z',
+      ["#{@search_term.downcase}%", @search_term.downcase, @page_size, @page_num * @page_size])
+
+
+    codelist = raw.map{|x| x['esong_key']}
 
     ed = ExtraDatum.where(esong_key: codelist)
+
+    songs = PaselaEsongPaselaArtist.
+      joins(:song, :artist).
+      merge(PaselaEsong.where(esong_key: codelist)).to_a
 
     edhash = {}
 
@@ -68,21 +98,28 @@ class SearchService
       edhash[x.esong_key][x.datatype] = x.value
     end
 
+    shash = {}
+
+    songs.each do |s|
+      shash[s.code] = {
+        song: s.song_name,
+        artist: s.artist_name,
+        extra: edhash[s.code] || {},
+      }
+    end
+
+
     # p ed
 
-    res = result_relation.
-      map do |x|
-        {
-          song: x.song_name,
-          code: x.code,
-          artist: x.artist_name,
-          extra: edhash[x.code] || {}
-        }
+    res = codelist.
+      map do |code|
+        shash[code].merge(code: code)
       end
 
     {
       search: @search_term,
-      total: result_relation.count,
+      page: @page_num,
+      total: cnt,
       results: [
         res
       ]
