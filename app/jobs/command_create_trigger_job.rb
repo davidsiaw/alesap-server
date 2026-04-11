@@ -217,9 +217,9 @@ class CommandCreateTriggerJob < ApplicationJob
                 next if v.nil?
 
                 data = ExtraDatum.find_or_initialize_by(
-                  esong_key: thesong['esong_code']
+                  esong_key: thesong['esong_code'],
+                  datatype: k
                 )
-                data.datatype = k
                 data.value = v
                 data.save!
               end
@@ -256,9 +256,9 @@ class CommandCreateTriggerJob < ApplicationJob
                 next if v.nil?
 
                 data = ExtraDatum.find_or_initialize_by(
-                  esong_key: thesong['esong_code']
+                  esong_key: thesong['esong_code'],
+                  datatype: k
                 )
-                data.datatype = k
                 data.value = v
                 data.save!
               end
@@ -315,7 +315,7 @@ class CommandCreateTriggerJob < ApplicationJob
                 song: song,
                 artist: artist
               )
-              obj.save
+              obj.save!
             rescue => e
               p e
 
