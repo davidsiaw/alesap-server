@@ -1,9 +1,10 @@
 class SearchService
   attr_accessor :rows_per_page
 
-  def initialize(search_term, page_num)
+  def initialize(search_term, page_num, page_size = 20)
     @search_term = search_term
     @page_num = page_num
+    @page_size = page_size
   end
 
   def rel_basic_song
@@ -15,7 +16,9 @@ class SearchService
       res = PaselaEsongPaselaArtist.
         joins(:song, :artist).
         merge(songs).
-        limit(20)
+        order(:id).
+        limit(@page_size).
+        offset(@page_num * @page_size)
 
       res
     end
@@ -30,7 +33,9 @@ class SearchService
       res = PaselaEsongPaselaArtist.
         joins(:song, :artist).
         merge(artists).
-        limit(20)
+        order(:id).
+        limit(@page_size).
+        offset(@page_num * @page_size)
 
       res
     end

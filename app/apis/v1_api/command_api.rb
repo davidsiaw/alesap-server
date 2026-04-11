@@ -62,12 +62,13 @@ class CommandApi < Grape::API
       params do
         optional :str, type: String, desc: 'search str'
         optional :page, type: Integer, desc: 'page num'
+        optional :request_id, type: String, desc: 'requestid'
       end
       post do
 
-        ss = SearchService.new(params[:str], params[:page])
+        ss = SearchService.new(params[:str], params[:page].to_i)
 
-        ss.result
+        ss.result.merge(request_id: params[:request_id])
 
       end
     end
