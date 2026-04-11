@@ -4,6 +4,21 @@ class CommandCreateTriggerJob < ApplicationJob
   def perform(id)
   	cmd = Command.find(id)
 
+    if cmd.verb == "loadbv"
+      puts "loading bangumiv"
+
+      bvhash = YAML.load_file('db/data/bvlist.yml')
+
+      bvhash[:bangumi_v].each do |esong_code|
+        data = ExtraDatum.find_or_initialize_by(
+          esong_key: esong_code,
+          datatype: 'tag_bv',
+          value: '番組V'
+        )
+        data.save!
+      end
+    end
+
     if cmd.verb == "loadextra2"
 
       puts "loadingextra2"
@@ -20,7 +35,6 @@ class CommandCreateTriggerJob < ApplicationJob
 
               thesong.each do |k, v|
                 next if k == 'song_variation'
-                next if k == 'song_name'
                 next if k == 'esong_code'
                 next if v.nil?
 
@@ -60,9 +74,7 @@ class CommandCreateTriggerJob < ApplicationJob
 
               thesong.each do |k, v|
                 next if k == 'song_variation'
-                next if k == 'song_name'
                 next if k == 'esong_code'
-                next if k == 'singer_name'
                 next if v.nil?
 
                 data = ExtraDatum.find_or_initialize_by(
