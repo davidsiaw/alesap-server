@@ -184,10 +184,10 @@ class CommandCreateTriggerJob < ApplicationJob
 
       bvhash[:bangumi_v].each do |esong_code|
         data = ExtraDatum.find_or_initialize_by(
-          esong_key: esong_code,
-          datatype: 'tag_bv',
-          value: '番組V'
+          esong_key: esong_code
         )
+        data.datatype = 'tag_bv'
+        data.value = '番組V'
         data.save!
 
         td = TokenDatum.find_by(esong_key: esong_code, token: '番組v')
@@ -217,10 +217,10 @@ class CommandCreateTriggerJob < ApplicationJob
                 next if v.nil?
 
                 data = ExtraDatum.find_or_initialize_by(
-                  esong_key: thesong['esong_code'],
-                  datatype: k,
-                  value: v
+                  esong_key: thesong['esong_code']
                 )
+                data.datatype = k
+                data.value = v
                 data.save!
               end
 
@@ -256,10 +256,10 @@ class CommandCreateTriggerJob < ApplicationJob
                 next if v.nil?
 
                 data = ExtraDatum.find_or_initialize_by(
-                  esong_key: thesong['esong_code'],
-                  datatype: k,
-                  value: v
+                  esong_key: thesong['esong_code']
                 )
+                data.datatype = k
+                data.value = v
                 data.save!
               end
 
@@ -315,7 +315,7 @@ class CommandCreateTriggerJob < ApplicationJob
                 song: song,
                 artist: artist
               )
-              obj.save!
+              obj.save
             rescue => e
               p e
 
