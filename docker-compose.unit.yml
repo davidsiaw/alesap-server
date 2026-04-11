@@ -4,7 +4,8 @@ services:
       context: .
       args:
         PUID: ${PUID}
-        PGID: ${PGID}
+        PGID: ${PUID}
+        _ARCH: ${ARCHARG}
       dockerfile: docker/unit/Dockerfile
     environment:
       TEST_HOST: rz

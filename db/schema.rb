@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 3000_01_01_000004) do
+ActiveRecord::Schema[8.1].define(version: 3000_01_01_000006) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "citext"
   enable_extension "pg_catalog.plpgsql"
@@ -52,6 +52,16 @@ ActiveRecord::Schema[8.1].define(version: 3000_01_01_000004) do
     t.index ["verb"], name: "index_commands_on_verb"
   end
 
+  create_table "extra_data", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
+    t.string "datatype"
+    t.string "esong_key"
+    t.datetime "updated_at"
+    t.string "value"
+    t.index ["datatype"], name: "index_extra_data_on_datatype"
+    t.index ["esong_key"], name: "index_extra_data_on_esong_key"
+    t.index ["value"], name: "index_extra_data_on_value"
+  end
+
   create_table "istrings", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
     t.string "str", default: "", null: false
     t.datetime "updated_at", precision: nil
@@ -86,6 +96,16 @@ ActiveRecord::Schema[8.1].define(version: 3000_01_01_000004) do
     t.index ["name_id"], name: "index_pasela_esongs_on_name_id"
     t.index ["ruby_id"], name: "index_pasela_esongs_on_ruby_id"
     t.index ["updated_at"], name: "index_pasela_esongs_on_updated_at"
+  end
+
+  create_table "token_data", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
+    t.string "esong_key"
+    t.integer "priority"
+    t.string "token"
+    t.datetime "updated_at"
+    t.index ["esong_key"], name: "index_token_data_on_esong_key"
+    t.index ["priority"], name: "index_token_data_on_priority"
+    t.index ["token"], name: "index_token_data_on_token"
   end
 
   create_table "versions", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
