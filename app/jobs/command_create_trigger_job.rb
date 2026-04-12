@@ -6,6 +6,92 @@ class CommandCreateTriggerJob < ApplicationJob
   def perform(id)
   	cmd = Command.find(id)
 
+
+
+    if cmd.verb == "loadtoken3"
+      puts "building tokens from karaokebase"
+      byname = {}
+
+      jpn = YAML.load_file('db/data/jpn.yml')
+
+      ActiveRecord::Base.transaction do
+        Dir["db/data/data/*.yml"].each do |file|
+          p file
+          data = YAML.load_file(file)
+          data[:songs].each do |esong_code, info|
+            c = info['result']['content_type'] || ''
+            g = info['result']['genre_name']
+            n = info['result']['song_name']
+            s = info['result']['singer_name']
+
+            t = {
+              code: esong_code,
+              raw: [],
+              toks: []
+            }
+
+            if jpn[n]
+              byname[c] ||= {}
+              byname[c][g] ||= {}
+              byname[c][g][s] ||= {}
+              byname[c][g][s][n] ||= t
+
+              t[:raw] += jpn[n]
+            end
+
+            if jpn[s]
+              byname[c] ||= {}
+              byname[c][g] ||= {}
+              byname[c][g][s] ||= {}
+              byname[c][g][s][n] ||= t
+
+              t[:raw] += jpn[s]
+            end
+
+            set = Set.new
+            t[:raw].each do |x|
+              set += x.downcase.gsub('ô', 'ou').gsub('û', 'uu').gsub("'",'').split(' ')
+              set << x.downcase.gsub('ô', 'ou').gsub('û', 'uu').gsub("'",'')
+            end
+
+            set.each do |tok|
+              td = TokenDatum.find_or_initialize_by(esong_key: esong_code, token: tok)
+              td.priority = 100000 / tok.length / tok.length
+              td.save!
+            end
+
+
+          end
+        end
+      end
+      
+    end
+
+
+    if cmd.verb == "loadtoken2"
+      puts "building tokens from ruby"
+      Dir["db/data/newsong/*.yml"].each do |file|
+        p "rubyfrom #{file}"
+
+        ActiveRecord::Base.transaction do
+          data = YAML.load_file(file)
+          data['result']['song'].each do |info|
+            n = info['song_name_ruby']
+            s = info['singer_name_ruby']
+
+            td = TokenDatum.find_or_initialize_by(esong_key: info['esong_code'], token: n)
+            td.priority = 10000
+            td.save!
+
+            td = TokenDatum.find_or_initialize_by(esong_key: info['esong_code'], token: s)
+            td.priority = 100000
+            td.save!
+          end
+        end
+      end
+    end
+
+
     if cmd.verb == "loadtoken"
 
       puts "building tokens"

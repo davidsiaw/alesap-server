@@ -8,9 +8,21 @@ class SearchService
   end
 
   def result
-    if @search_term.gsub(/\s+/, '') == ''
+    res = perform_search(@search_term)
+
+    # fallback on ruby
+    if res[:total] == 0
+      res = perform_search(@search_term.hiragana.unicode_normalize(:nfd).gsub(NormalizeService::REGEX, ''))
+      res[:search] = @search_term
+    end
+
+    res
+  end
+
+  def perform_search(search)
+    if search.gsub(/\s+/, '') == ''
       return {
-        search: @search_term,
+        search: search,
         page: @page_num,
         total: 0,
         results: []
@@ -18,15 +30,15 @@ class SearchService
     end
 
     exception_list = []
-    if !@search_term.include?('artist:')
+    if !search.include?('artist:')
       exception_list << "and token NOT like 'artist:%'"
     end
 
-    if !@search_term.include?('genre:')
+    if !search.include?('genre:')
       exception_list << "and token NOT like 'genre:%'"
     end
 
-    if !@search_term.include?('type:')
+    if !search.include?('type:')
       exception_list << "and token NOT like 'type:%'"
     end
 
@@ -69,7 +81,7 @@ class SearchService
 
     cnt = PaselaEsong.lease_connection.select_all(csql, 
       'z',
-      ["#{@search_term.downcase}%", @search_term.downcase]).to_a.flatten.first['count']
+      ["#{search.downcase}%", search.downcase]).to_a.flatten.first['count']
 
 
     lsql = sql + <<~SQL
@@ -80,10 +92,10 @@ class SearchService
 
     raw = PaselaEsong.lease_connection.select_all(lsql, 
       'z',
-      ["#{@search_term.downcase}%", @search_term.downcase, @page_size, @page_num * @page_size])
-
+      ["#{search.downcase}%", search.downcase, @page_size, @page_num * @page_size])
 
     codelist = raw.map{|x| x['esong_key']}
+
 
     ed = ExtraDatum.where(esong_key: codelist)
 
@@ -117,7 +129,7 @@ class SearchService
       end
 
     {
-      search: @search_term,
+      search: search,
       page: @page_num,
       total: cnt,
       results: [
