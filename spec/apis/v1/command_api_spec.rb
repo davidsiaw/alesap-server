@@ -45,4 +45,113 @@ RSpec.describe CommandApi, type: :request do
     end
   end
 
+  describe "/import_favourites" do
+    it 'returns empty favourites and cache for unknown user' do
+      get '/api/v1/command/import_favourites', params: { nickname: 'nonexistent' }
+
+      expect(response.status).to eq 200
+      body = JSON.parse(response.body)
+      expect(body['favourites']).to eq({})
+      expect(body['cache']).to eq([])
+    end
+
+    it 'returns saved favourites for a user' do
+      create(:user_favourite, nickname: 'alice', song_code: '1877A6')
+      create(:user_favourite, nickname: 'alice', song_code: '2018A22')
+
+      get '/api/v1/command/import_favourites', params: { nickname: 'alice' }
+
+      expect(response.status).to eq 200
+      body = JSON.parse(response.body)
+      expect(body['favourites']).to eq({ '1877A6' => true, '2018A22' => true })
+    end
+
+    it 'does not return other users favourites' do
+      create(:user_favourite, nickname: 'alice', song_code: '1877A6')
+      create(:user_favourite, nickname: 'bob', song_code: '2018A22')
+
+      get '/api/v1/command/import_favourites', params: { nickname: 'alice' }
+
+      body = JSON.parse(response.body)
+      expect(body['favourites']).to eq({ '1877A6' => true })
+    end
+  end
+
+  describe "/export_favourites" do
+    it 'saves favourites for a user' do
+      post '/api/v1/command/export_favourites',
+        params: { nickname: 'alice', data: { '1877A6' => true, '2018A22' => true } }.to_json,
+        env: { 'CONTENT_TYPE' => 'application/json' }
+
+      expect(response.status).to eq 201
+      expect(UserFavourite.where(nickname: 'alice').count).to eq 2
+    end
+
+    it 'replaces existing favourites on re-export' do
+      create(:user_favourite, nickname: 'alice', song_code: 'OLD1')
+
+      post '/api/v1/command/export_favourites',
+        params: { nickname: 'alice', data: { 'NEW1' => true } }.to_json,
+        env: { 'CONTENT_TYPE' => 'application/json' }
+
+      expect(UserFavourite.where(nickname: 'alice').pluck(:song_code)).to eq ['NEW1']
+    end
+  end
+
+  describe "/import_history" do
+    it 'returns empty history and cache for unknown user' do
+      get '/api/v1/command/import_history', params: { nickname: 'nonexistent' }
+
+      expect(response.status).to eq 200
+      body = JSON.parse(response.body)
+      expect(body['song_history']).to eq([])
+      expect(body['cache']).to eq([])
+    end
+
+    it 'returns saved history for a user' do
+      create(:song_history, nickname: 'alice', song_code: '1943B8',
+        last_played_date: '2026/6/13', last_played_time: '17:45:51')
+
+      get '/api/v1/command/import_history', params: { nickname: 'alice' }
+
+      body = JSON.parse(response.body)
+      expect(body['song_history']).to eq([{
+        'song_code' => '1943B8',
+        'last_played_date' => '2026/6/13',
+        'last_played_time' => '17:45:51'
+      }])
+    end
+  end
+
+  describe "/export_history" do
+    it 'saves history for a user' do
+      post '/api/v1/command/export_history',
+        params: {
+          nickname: 'alice',
+          data: [
+            { song_code: '1943B8', last_played_date: '2026/6/13', last_played_time: '17:45:51' }
+          ]
+        }.to_json,
+        env: { 'CONTENT_TYPE' => 'application/json' }
+
+      expect(response.status).to eq 201
+      expect(SongHistory.where(nickname: 'alice').count).to eq 1
+    end
+
+    it 'replaces existing history on re-export' do
+      create(:song_history, nickname: 'alice', song_code: 'OLD1')
+
+      post '/api/v1/command/export_history',
+        params: {
+          nickname: 'alice',
+          data: [
+            { song_code: 'NEW1', last_played_date: '2026/6/14', last_played_time: '10:00:00' }
+          ]
+        }.to_json,
+        env: { 'CONTENT_TYPE' => 'application/json' }
+
+      expect(SongHistory.where(nickname: 'alice').pluck(:song_code)).to eq ['NEW1']
+    end
+  end
+
 end
