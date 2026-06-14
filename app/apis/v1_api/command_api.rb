@@ -8,44 +8,11 @@ class CommandApi < Grape::API
 
   resource :command do
 
-    desc 'GET command'
-    params do
-      requires :id, type: String, desc: 'Command ID.'
-    end
-    get ':id' do
-      obj = Command.find(params[:id])
-
-      { result: obj }
-
-    rescue ActiveRecord::RecordNotFound
-      status 404
-      { error: :not_found }
-    end
-
-    desc 'GET command listing'
-    params do
-      optional :page, type: Integer, default: 1, desc: 'Page number'
-      optional :limit, type: Integer, default: 20, desc: 'Number of commands returned per page'
-    end
-    get do
-      query = Command
-      res = query.offset(params[:page] - 1).limit(params[:per_page])
-
-      { result: res }
-    end
-
-
     desc 'POST command'
     params do
-      # verb string
       requires :verb, type: String, desc: 'Command verb'
-
-      # subject string
       requires :subject, type: String, desc: 'Command subject'
-
-      # amount integer
       requires :amount, type: Integer, desc: 'Command amount'
-
     end
     post do
       obj = Command.create!(params)
@@ -189,6 +156,32 @@ class CommandApi < Grape::API
       end
       SongHistory.insert_all(rows) if rows.any?
       { result: :ok }
+    end
+
+    desc 'GET command'
+    params do
+      requires :id, type: String, desc: 'Command ID.'
+    end
+    get ':id' do
+      obj = Command.find(params[:id])
+
+      { result: obj }
+
+    rescue ActiveRecord::RecordNotFound, ArgumentError
+      status 404
+      { error: :not_found }
+    end
+
+    desc 'GET command listing'
+    params do
+      optional :page, type: Integer, default: 1, desc: 'Page number'
+      optional :limit, type: Integer, default: 20, desc: 'Number of commands returned per page'
+    end
+    get do
+      query = Command
+      res = query.offset(params[:page] - 1).limit(params[:per_page])
+
+      { result: res }
     end
 
   end
