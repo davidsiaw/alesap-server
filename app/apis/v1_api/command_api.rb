@@ -128,7 +128,7 @@ class CommandApi < Grape::API
           }
         end
       cache = SongCacheService.build(history.map { |h| h[:song_code] })
-      song_count = SongCounter.where(nickname: params[:nickname])
+      song_count = ::SongCounter.where(nickname: params[:nickname])
         .each_with_object({}) { |c, h| h[c.song_code] = c.count }
       { song_history: history, cache: cache, song_count: song_count }
     end
@@ -160,7 +160,7 @@ class CommandApi < Grape::API
       SongHistory.insert_all(rows) if rows.any?
 
       if params[:song_count].is_a?(Hash)
-        SongCounter.where(nickname: params[:nickname]).delete_all
+        ::SongCounter.where(nickname: params[:nickname]).delete_all
         song_rows = params[:song_count].map do |code, count|
           {
             nickname: params[:nickname],
@@ -169,7 +169,7 @@ class CommandApi < Grape::API
             updated_at: now
           }
         end
-        SongCounter.insert_all(song_rows) if song_rows.any?
+        ::SongCounter.insert_all(song_rows) if song_rows.any?
       end
 
       { result: :ok }
