@@ -128,13 +128,16 @@ class CommandApi < Grape::API
           }
         end
       cache = SongCacheService.build(history.map { |h| h[:song_code] })
-      { song_history: history, cache: cache }
+      song_count = SongCounter.where(nickname: params[:nickname])
+        .each_with_object({}) { |c, h| h[c.song_code] = c.count }
+      { song_history: history, cache: cache, song_count: song_count }
     end
 
     desc 'export history'
     params do
       requires :nickname, type: String, desc: 'Anonymous user key'
       requires :data, type: Array, desc: 'Array of history entries'
+      optional :song_count, type: Hash, desc: 'Song play count hash { song_code: count }'
     end
     post 'export_history/?' do
       entries = params[:data]
@@ -155,6 +158,20 @@ class CommandApi < Grape::API
         }
       end
       SongHistory.insert_all(rows) if rows.any?
+
+      if params[:song_count].is_a?(Hash)
+        SongCounter.where(nickname: params[:nickname]).delete_all
+        song_rows = params[:song_count].map do |code, count|
+          {
+            nickname: params[:nickname],
+            song_code: code.to_s,
+            count: count.to_i,
+            updated_at: now
+          }
+        end
+        SongCounter.insert_all(song_rows) if song_rows.any?
+      end
+
       { result: :ok }
     end
 
