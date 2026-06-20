@@ -1,10 +1,21 @@
 name: buildndeploy
-on: [push]
+'on':
+  push:
+    branches:
+    - production
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+
+    - name: Set up Docker Metadata
+      id: meta
+      uses: docker/metadata-action@v5
+      with:
+        images: davidsiaw/alesap-server
+
     - name: docker login
       uses: docker/login-action@f4ef78c080cd8ba55a85445d5b36e214a81df20a
       with:
