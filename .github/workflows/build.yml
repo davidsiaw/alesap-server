@@ -1,5 +1,9 @@
 name: buildndeploy
-on: [push]
+'on':
+  push:
+    branches:
+    - production
+
 jobs:
   build:
     runs-on: ubuntu-latest
