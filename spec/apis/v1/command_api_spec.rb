@@ -51,7 +51,7 @@ RSpec.describe CommandApi, type: :request do
 
       expect(response.status).to eq 200
       body = JSON.parse(response.body)
-      expect(body['favourites']).to eq({})
+      expect(body['favourites']).to eq([])
       expect(body['cache']).to eq([])
     end
 
@@ -63,7 +63,7 @@ RSpec.describe CommandApi, type: :request do
 
       expect(response.status).to eq 200
       body = JSON.parse(response.body)
-      expect(body['favourites']).to eq({ '1877A6' => true, '2018A22' => true })
+      expect(body['favourites']).to eq(['1877A6', '2018A22'])
     end
 
     it 'does not return other users favourites' do
@@ -73,14 +73,14 @@ RSpec.describe CommandApi, type: :request do
       get '/api/v1/command/import_favourites', params: { nickname: 'alice' }
 
       body = JSON.parse(response.body)
-      expect(body['favourites']).to eq({ '1877A6' => true })
+      expect(body['favourites']).to eq(['1877A6'])
     end
   end
 
   describe "/export_favourites" do
     it 'saves favourites for a user' do
       post '/api/v1/command/export_favourites',
-        params: { nickname: 'alice', data: { '1877A6' => true, '2018A22' => true } }.to_json,
+        params: { nickname: 'alice', data: ['1877A6', '2018A22'] }.to_json,
         env: { 'CONTENT_TYPE' => 'application/json' }
 
       expect(response.status).to eq 201
@@ -91,7 +91,7 @@ RSpec.describe CommandApi, type: :request do
       create(:user_favourite, nickname: 'alice', song_code: 'OLD1')
 
       post '/api/v1/command/export_favourites',
-        params: { nickname: 'alice', data: { 'NEW1' => true } }.to_json,
+        params: { nickname: 'alice', data: ['NEW1'] }.to_json,
         env: { 'CONTENT_TYPE' => 'application/json' }
 
       expect(UserFavourite.where(nickname: 'alice').pluck(:song_code)).to eq ['NEW1']
