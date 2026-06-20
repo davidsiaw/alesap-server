@@ -88,20 +88,19 @@ class CommandApi < Grape::API
       requires :nickname, type: String, desc: 'Anonymous user key'
     end
     get 'import_favourites/?' do
-      favourites = UserFavourite.where(nickname: params[:nickname])
-      hash = favourites.each_with_object({}) { |f, h| h[f.song_code] = true }
-      cache = SongCacheService.build(favourites.pluck(:song_code))
-      { favourites: hash, cache: cache }
+      codes = UserFavourite.where(nickname: params[:nickname]).pluck(:song_code)
+      cache = SongCacheService.build(codes)
+      { favourites: codes, cache: cache }
     end
 
     desc 'export favourites'
     params do
       requires :nickname, type: String, desc: 'Anonymous user key'
-      requires :data, type: Hash, desc: 'Favourites hash { song_code: true }'
+      requires :data, type: Array, desc: 'Favourites array of song codes'
     end
     post 'export_favourites/?' do
-      codes = params[:data].keys
-      unless codes.all? { |c| c.is_a?(String) && c.present? && c.length <= 20 }
+      codes = params[:data]
+      unless codes.is_a?(Array) && codes.all? { |c| c.is_a?(String) && c.present? && c.length <= 20 }
         status 422
         return { error: :invalid_data }
       end
