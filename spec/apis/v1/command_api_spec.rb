@@ -11,6 +11,12 @@ RSpec.describe CommandApi, type: :request do
   end
 
   describe "/queue" do
+    before do
+      name = Istring.create!(str: 'test song')
+      ruby = Istring.create!(str: 'test ruby')
+      PaselaEsong.create!(esong_key: '4', name: name, ruby: ruby)
+    end
+
     it 'performs a queue' do
       stub = stub_request(:post, "http://order.mashup.jp/bridge/post_request.php")
         .with(body: "akey=1&ecd=4&scd=3&skey=2")
