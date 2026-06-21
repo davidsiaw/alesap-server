@@ -7,20 +7,20 @@ jobs:
       - uses: actions/checkout@v4
       - name: compose up
         run: |-
-          PUID="$(id -u)" PGID="$(id -g)" docker compose -f docker-compose.unit.yml up -d --wait --build
+          PUID="$(id -u)" PGID="$(id -g)" docker compose up -d --wait --build
       - name: show logs
         if: failure()
         run: |-
           docker compose logs rz
       - name: start recording
         run: |-
-          docker compose -f docker-compose.unit.yml exec rz curl chromevideo:9494/start
+          docker compose exec rz curl chromevideo:9494/start
       - name: run tests
         run: |-
-          docker compose -f docker-compose.unit.yml exec rz rspec
+          docker compose exec rz rspec
       - name: stop recording
         run: |-
-          docker compose -f docker-compose.unit.yml exec rz curl chromevideo:9494/stop
+          docker compose exec rz curl chromevideo:9494/stop
           sleep 3
       - uses: actions/upload-artifact@v4
         with:
