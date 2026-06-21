@@ -139,7 +139,7 @@ RSpec.describe CommandApi, type: :request do
       body = JSON.parse(response.body)
       expect(body['song_history']).to eq([{
         'song_code' => '1943B8',
-        'last_played_at' => 1748131200
+        'last_played' => 1748131200
       }])
     end
 
@@ -156,7 +156,7 @@ RSpec.describe CommandApi, type: :request do
         params: {
           nickname: 'alice',
           data: [
-            { 'song_code' => '1943B8', 'last_played_at' => 1748131200 }
+            { 'song_code' => '1943B8', 'last_played' => 1748131200 }
           ]
         }.to_json,
         env: { 'CONTENT_TYPE' => 'application/json' }
@@ -172,7 +172,7 @@ RSpec.describe CommandApi, type: :request do
         params: {
           nickname: 'alice',
           data: [
-            { 'song_code' => 'NEW1', 'last_played_at' => 1748217600 }
+            { 'song_code' => 'NEW1', 'last_played' => 1748217600 }
           ]
         }.to_json,
         env: { 'CONTENT_TYPE' => 'application/json' }
@@ -185,7 +185,7 @@ RSpec.describe CommandApi, type: :request do
         params: {
           nickname: 'alice',
           data: [
-            { 'song_code' => '1943B8', 'last_played_at' => 1748131200 }
+            { 'song_code' => '1943B8', 'last_played' => 1748131200 }
           ],
           song_count: { '1943B8' => 5 }
         }.to_json,
@@ -210,7 +210,7 @@ RSpec.describe CommandApi, type: :request do
     it 'returns 400 when nickname is missing' do
       post '/api/v1/command/export_history',
         params: {
-          data: [{ 'song_code' => '1943B8', 'last_played_at' => 1748131200 }]
+          data: [{ 'song_code' => '1943B8', 'last_played' => 1748131200 }]
         }.to_json,
         env: { 'CONTENT_TYPE' => 'application/json' }
 
