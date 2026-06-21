@@ -10,6 +10,6 @@ class CreateSongCounters < ActiveRecord::Migration[8.1]
     end
 
     add_index :song_counters, :nickname
-    add_index :song_counters, %i[nickname song_code], unique: true
+    add_index :song_counters, %i[nickname song_code]
   end
 end

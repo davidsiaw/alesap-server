@@ -9,6 +9,6 @@ class CreateUserFavourites < ActiveRecord::Migration[8.1]
     end
 
     add_index :user_favourites, :nickname
-    add_index :user_favourites, %i[nickname song_code], unique: true
+    add_index :user_favourites, %i[nickname song_code]
   end
 end
