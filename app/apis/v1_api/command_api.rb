@@ -8,44 +8,11 @@ class CommandApi < Grape::API
 
   resource :command do
 
-    desc 'GET command'
-    params do
-      requires :id, type: String, desc: 'Command ID.'
-    end
-    get ':id' do
-      obj = Command.find(params[:id])
-
-      { result: obj }
-
-    rescue ActiveRecord::RecordNotFound
-      status 404
-      { error: :not_found }
-    end
-
-    desc 'GET command listing'
-    params do
-      optional :page, type: Integer, default: 1, desc: 'Page number'
-      optional :limit, type: Integer, default: 20, desc: 'Number of commands returned per page'
-    end
-    get do
-      query = Command
-      res = query.offset(params[:page] - 1).limit(params[:per_page])
-
-      { result: res }
-    end
-
-
     desc 'POST command'
     params do
-      # verb string
       requires :verb, type: String, desc: 'Command verb'
-
-      # subject string
       requires :subject, type: String, desc: 'Command subject'
-
-      # amount integer
       requires :amount, type: Integer, desc: 'Command amount'
-
     end
     post do
       obj = Command.create!(params)
@@ -116,7 +83,90 @@ class CommandApi < Grape::API
       { result: 'ok' }
     end
 
+    desc 'import favourites'
+    params do
+      requires :nickname, type: String, desc: 'Anonymous user key'
+    end
+    get 'import_favourites' do
+      codes = UserFavourite.where(nickname: params[:nickname]).pluck(:song_code)
+      cache = SongDataService.build(codes)
+      { favourites: codes, cache: cache }
+    end
 
+    desc 'export favourites'
+    params do
+      requires :nickname, type: String, desc: 'Anonymous user key'
+      requires :data, type: Array, desc: 'Favourites array of song codes'
+    end
+    post 'export_favourites' do
+      codes = params[:data]
+      unless codes.all? { |c| c.is_a?(String) }
+        status 400
+        return { error: :invalid_data }
+      end
 
+      UserFavourite.where(nickname: params[:nickname]).delete_all
+      rows = codes.map { |code| { nickname: params[:nickname], song_code: code } }
+      UserFavourite.insert_all(rows) if rows.any?
+      { result: :ok }
+    end
+
+    desc 'import history'
+    params do
+      requires :nickname, type: String, desc: 'Anonymous user key'
+    end
+    get 'import_history' do
+      history = SongHistory.where(nickname: params[:nickname])
+        .order(:updated_at)
+        .map do |h|
+          {
+            song_code: h.song_code,
+            last_played_at: h.last_played_at
+          }
+        end
+      cache = SongDataService.build(history.map { |h| h[:song_code] })
+      counts = SongCounter.where(nickname: params[:nickname])
+      song_count = {}
+      counts.each { |c| song_count[c.song_code] = c.count }
+      { song_history: history, cache: cache, song_count: song_count }
+    end
+
+    desc 'export history'
+    params do
+      requires :nickname, type: String, desc: 'Anonymous user key'
+      requires :data, type: Array, desc: 'Array of history entries'
+      optional :song_count, type: Hash, desc: 'Song play count hash { song_code: count }'
+    end
+    post 'export_history' do
+      entries = params[:data]
+      unless entries.all? { |e| e.is_a?(Hash) }
+        status 400
+        return { error: :invalid_data }
+      end
+
+      SongHistory.where(nickname: params[:nickname]).delete_all
+      rows = entries.map do |entry|
+        {
+          nickname: params[:nickname],
+          song_code: entry['song_code'],
+          last_played_at: entry['last_played_at']
+        }
+      end
+      SongHistory.insert_all(rows) if rows.any?
+
+      if params[:song_count].is_a?(Hash)
+        SongCounter.where(nickname: params[:nickname]).delete_all
+        song_rows = params[:song_count].map do |code, count|
+          {
+            nickname: params[:nickname],
+            song_code: code.to_s,
+            count: count.to_i
+          }
+        end
+        SongCounter.insert_all(song_rows) if song_rows.any?
+      end
+
+      { result: :ok }
+    end
   end
 end
