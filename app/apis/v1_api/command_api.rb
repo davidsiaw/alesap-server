@@ -121,7 +121,7 @@ class CommandApi < Grape::API
         .map do |h|
           {
             song_code: h.song_code,
-            last_played_at: h.last_played_at
+            last_played: h.last_played_at
           }
         end
       cache = SongDataService.build(history.map { |h| h[:song_code] })
@@ -149,7 +149,7 @@ class CommandApi < Grape::API
         {
           nickname: params[:nickname],
           song_code: entry['song_code'],
-          last_played_at: entry['last_played_at']
+          last_played_at: entry['last_played']
         }
       end
       SongHistory.insert_all(rows) if rows.any?
