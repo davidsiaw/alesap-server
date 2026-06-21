@@ -48,6 +48,11 @@ class CommandApi < Grape::API
       requires :ecd, type: String, desc: 'ecd'
     end
     post 'queue' do
+      unless PaselaEsong.exists?(esong_key: params[:ecd])
+        status 400
+        return { error: 'invalid song code' }
+      end
+
       conn = Faraday::Connection.new 'http://order.mashup.jp'
       conn.post '/bridge/post_request.php' do |req|
         req.body = CGI.unescape({
