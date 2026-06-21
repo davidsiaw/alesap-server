@@ -47,7 +47,7 @@ RSpec.describe CommandApi, type: :request do
 
   describe "/import_favourites" do
     it 'returns empty favourites and cache for unknown user' do
-      get '/api/v1/command/import_favourites', params: { nickname: 'nonexistent' }
+      get '/api/v1/command/import_favourites?nickname=nonexistent'
 
       expect(response.status).to eq 200
       body = JSON.parse(response.body)
@@ -59,7 +59,7 @@ RSpec.describe CommandApi, type: :request do
       create(:user_favourite, nickname: 'alice', song_code: '1877A6')
       create(:user_favourite, nickname: 'alice', song_code: '2018A22')
 
-      get '/api/v1/command/import_favourites', params: { nickname: 'alice' }
+      get '/api/v1/command/import_favourites?nickname=alice'
 
       expect(response.status).to eq 200
       body = JSON.parse(response.body)
@@ -70,10 +70,16 @@ RSpec.describe CommandApi, type: :request do
       create(:user_favourite, nickname: 'alice', song_code: '1877A6')
       create(:user_favourite, nickname: 'bob', song_code: '2018A22')
 
-      get '/api/v1/command/import_favourites', params: { nickname: 'alice' }
+      get '/api/v1/command/import_favourites?nickname=alice'
 
       body = JSON.parse(response.body)
       expect(body['favourites']).to eq(['1877A6'])
+    end
+
+    it 'returns 400 when nickname is missing' do
+      get '/api/v1/command/import_favourites'
+
+      expect(response.status).to eq 400
     end
   end
 
@@ -96,11 +102,27 @@ RSpec.describe CommandApi, type: :request do
 
       expect(UserFavourite.where(nickname: 'alice').pluck(:song_code)).to eq ['NEW1']
     end
+
+    it 'returns 400 for invalid data' do
+      post '/api/v1/command/export_favourites',
+        params: { nickname: 'alice', data: 'invalid' }.to_json,
+        env: { 'CONTENT_TYPE' => 'application/json' }
+
+      expect(response.status).to eq 400
+    end
+
+    it 'returns 400 when nickname is missing' do
+      post '/api/v1/command/export_favourites',
+        params: { data: ['1877A6'] }.to_json,
+        env: { 'CONTENT_TYPE' => 'application/json' }
+
+      expect(response.status).to eq 400
+    end
   end
 
   describe "/import_history" do
     it 'returns empty history and cache for unknown user' do
-      get '/api/v1/command/import_history', params: { nickname: 'nonexistent' }
+      get '/api/v1/command/import_history?nickname=nonexistent'
 
       expect(response.status).to eq 200
       body = JSON.parse(response.body)
@@ -110,16 +132,21 @@ RSpec.describe CommandApi, type: :request do
 
     it 'returns saved history for a user' do
       create(:song_history, nickname: 'alice', song_code: '1943B8',
-        last_played_date: '2026/6/13', last_played_time: '17:45:51')
+        last_played_at: 1748131200)
 
-      get '/api/v1/command/import_history', params: { nickname: 'alice' }
+      get '/api/v1/command/import_history?nickname=alice'
 
       body = JSON.parse(response.body)
       expect(body['song_history']).to eq([{
         'song_code' => '1943B8',
-        'last_played_date' => '2026/6/13',
-        'last_played_time' => '17:45:51'
+        'last_played_at' => 1748131200
       }])
+    end
+
+    it 'returns 400 when nickname is missing' do
+      get '/api/v1/command/import_history'
+
+      expect(response.status).to eq 400
     end
   end
 
@@ -129,7 +156,7 @@ RSpec.describe CommandApi, type: :request do
         params: {
           nickname: 'alice',
           data: [
-            { song_code: '1943B8', last_played_date: '2026/6/13', last_played_time: '17:45:51' }
+            { 'song_code' => '1943B8', 'last_played_at' => 1748131200 }
           ]
         }.to_json,
         env: { 'CONTENT_TYPE' => 'application/json' }
@@ -145,12 +172,49 @@ RSpec.describe CommandApi, type: :request do
         params: {
           nickname: 'alice',
           data: [
-            { song_code: 'NEW1', last_played_date: '2026/6/14', last_played_time: '10:00:00' }
+            { 'song_code' => 'NEW1', 'last_played_at' => 1748217600 }
           ]
         }.to_json,
         env: { 'CONTENT_TYPE' => 'application/json' }
 
       expect(SongHistory.where(nickname: 'alice').pluck(:song_code)).to eq ['NEW1']
+    end
+
+    it 'saves song_count along with history' do
+      post '/api/v1/command/export_history',
+        params: {
+          nickname: 'alice',
+          data: [
+            { 'song_code' => '1943B8', 'last_played_at' => 1748131200 }
+          ],
+          song_count: { '1943B8' => 5 }
+        }.to_json,
+        env: { 'CONTENT_TYPE' => 'application/json' }
+
+      expect(response.status).to eq 201
+      expect(SongCounter.where(nickname: 'alice').count).to eq 1
+      expect(SongCounter.find_by(song_code: '1943B8').count).to eq 5
+    end
+
+    it 'returns 400 for invalid data' do
+      post '/api/v1/command/export_history',
+        params: {
+          nickname: 'alice',
+          data: 'invalid'
+        }.to_json,
+        env: { 'CONTENT_TYPE' => 'application/json' }
+
+      expect(response.status).to eq 400
+    end
+
+    it 'returns 400 when nickname is missing' do
+      post '/api/v1/command/export_history',
+        params: {
+          data: [{ 'song_code' => '1943B8', 'last_played_at' => 1748131200 }]
+        }.to_json,
+        env: { 'CONTENT_TYPE' => 'application/json' }
+
+      expect(response.status).to eq 400
     end
   end
 

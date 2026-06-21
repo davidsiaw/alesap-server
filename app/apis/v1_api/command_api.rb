@@ -87,9 +87,9 @@ class CommandApi < Grape::API
     params do
       requires :nickname, type: String, desc: 'Anonymous user key'
     end
-    get 'import_favourites/?' do
+    get 'import_favourites' do
       codes = UserFavourite.where(nickname: params[:nickname]).pluck(:song_code)
-      cache = SongCacheService.build(codes)
+      cache = SongDataService.build(codes)
       { favourites: codes, cache: cache }
     end
 
@@ -98,16 +98,15 @@ class CommandApi < Grape::API
       requires :nickname, type: String, desc: 'Anonymous user key'
       requires :data, type: Array, desc: 'Favourites array of song codes'
     end
-    post 'export_favourites/?' do
+    post 'export_favourites' do
       codes = params[:data]
-      unless codes.is_a?(Array) && codes.all? { |c| c.is_a?(String) && c.present? && c.length <= 20 }
-        status 422
+      unless codes.all? { |c| c.is_a?(String) }
+        status 400
         return { error: :invalid_data }
       end
 
       UserFavourite.where(nickname: params[:nickname]).delete_all
-      now = Time.current
-      rows = codes.map { |code| { nickname: params[:nickname], song_code: code, updated_at: now } }
+      rows = codes.map { |code| { nickname: params[:nickname], song_code: code } }
       UserFavourite.insert_all(rows) if rows.any?
       { result: :ok }
     end
@@ -116,19 +115,19 @@ class CommandApi < Grape::API
     params do
       requires :nickname, type: String, desc: 'Anonymous user key'
     end
-    get 'import_history/?' do
+    get 'import_history' do
       history = SongHistory.where(nickname: params[:nickname])
         .order(:updated_at)
         .map do |h|
           {
             song_code: h.song_code,
-            last_played_date: h.last_played_date,
-            last_played_time: h.last_played_time
+            last_played_at: h.last_played_at
           }
         end
-      cache = SongCacheService.build(history.map { |h| h[:song_code] })
-      song_count = SongCounter.where(nickname: params[:nickname])
-        .each_with_object({}) { |c, h| h[c.song_code] = c.count }
+      cache = SongDataService.build(history.map { |h| h[:song_code] })
+      counts = SongCounter.where(nickname: params[:nickname])
+      song_count = {}
+      counts.each { |c| song_count[c.song_code] = c.count }
       { song_history: history, cache: cache, song_count: song_count }
     end
 
@@ -138,22 +137,19 @@ class CommandApi < Grape::API
       requires :data, type: Array, desc: 'Array of history entries'
       optional :song_count, type: Hash, desc: 'Song play count hash { song_code: count }'
     end
-    post 'export_history/?' do
+    post 'export_history' do
       entries = params[:data]
-      unless entries.all? { |e| e.is_a?(Hash) && (e['song_code'] || e[:song_code]).is_a?(String) && (e['song_code'] || e[:song_code]).present? && (e['song_code'] || e[:song_code]).length <= 20 }
-        status 422
+      unless entries.all? { |e| e.is_a?(Hash) }
+        status 400
         return { error: :invalid_data }
       end
 
       SongHistory.where(nickname: params[:nickname]).delete_all
-      now = Time.current
       rows = entries.map do |entry|
         {
           nickname: params[:nickname],
-          song_code: entry['song_code'] || entry[:song_code],
-          last_played_date: entry['last_played_date'] || entry[:last_played_date],
-          last_played_time: entry['last_played_time'] || entry[:last_played_time],
-          updated_at: now
+          song_code: entry['song_code'],
+          last_played_at: entry['last_played_at']
         }
       end
       SongHistory.insert_all(rows) if rows.any?
@@ -164,8 +160,7 @@ class CommandApi < Grape::API
           {
             nickname: params[:nickname],
             song_code: code.to_s,
-            count: count.to_i,
-            updated_at: now
+            count: count.to_i
           }
         end
         SongCounter.insert_all(song_rows) if song_rows.any?
@@ -173,32 +168,5 @@ class CommandApi < Grape::API
 
       { result: :ok }
     end
-
-    desc 'GET command'
-    params do
-      requires :id, type: String, desc: 'Command ID.'
-    end
-    get ':id' do
-      obj = Command.find(params[:id])
-
-      { result: obj }
-
-    rescue ActiveRecord::RecordNotFound, ArgumentError
-      status 404
-      { error: :not_found }
-    end
-
-    desc 'GET command listing'
-    params do
-      optional :page, type: Integer, default: 1, desc: 'Page number'
-      optional :limit, type: Integer, default: 20, desc: 'Number of commands returned per page'
-    end
-    get do
-      query = Command
-      res = query.offset(params[:page] - 1).limit(params[:per_page])
-
-      { result: res }
-    end
-
   end
 end
