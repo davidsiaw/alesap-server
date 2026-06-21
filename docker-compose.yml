@@ -1,103 +1,42 @@
 services:
-  # Rails database
-  # If you wish to clear the database contents simply run
-  # docker-compose down -v
-  db:
-    image: postgres:alpine
-    container_name: db
+  rz:
+    build:
+      context: .
+      args:
+        PUID: ${PUID}
+        PGID: ${PUID}
+        _ARCH: ${ARCHARG}
+      dockerfile: docker/unit/Dockerfile
+    environment:
+      TEST_HOST: rz
+      CHROME_HOSTNAME: chrome # Point to the chrome container for testing
+    container_name: rz
     volumes:
-      - db_data:/var/lib/postgresql/data
-    environment:
-      POSTGRES_PASSWORD: postgres
-
-  # Redis server
-  # This server is used as a cache for all temporary data
-  # You can of course, make redis have permanent storage, but I
-  # recommend using postgres for that.
-  redis:
-    image: 'redis:alpine'
-
-  # Sidekiq server
-  # This is the thing that will perform all delayed jobs, sending
-  # emails, do periodic checks etc. I recommend using this to your
-  # advantage to automate schedulable tasks.
-  sidekiq:
-    build:
-      context: .
-      args:
-        PUID: ${PUID}
-        PGID: ${PGID}
-    platform: linux/amd64
-    command: bundle exec sidekiq -C config/sidekiq.yml
-    environment:
-      DATABASE_URL: postgres://postgres:postgres@db
-      REDIS_URL: redis://redis:6379/0
-    depends_on:
-      - db
-      - redis
-
-  # Rails server
-  # This is the main server.
-  # You can use rails c too by simply going
-  # docker-compose exec rails rails c
-  # Using this mechanism you can also perform database migrations and rollbacks
-  # docker-compose exec rails rails db:migrate
-  rails:
-    build:
-      context: .
-      args:
-        PUID: ${PUID}
-        PGID: ${PGID}
-    platform: linux/amd64
-    container_name: rails
-    command: sh -c "rm -f tmp/pids/server.pid && bundle exec rails s -p 3000 -b '0.0.0.0'"
+      - ./docker/unit/postgresql.conf:/srv/postgres/postgresql.conf:ro
+      - ./docker/unit/pg_hba.conf:/srv/postgres/pg_hba.conf:ro
+      - db_data:/srv/postgresql
+      - ./app:/srv/app
+      - ./config:/srv/config
+      - ./db:/srv/db
+      - ./lib:/srv/lib
+      - ./spec:/srv/spec
+      - ./Gemfile:/srv/Gemfile
     ports:
       - "3000:3000"
-    environment:
-      DATABASE_URL: postgres://postgres:postgres@db
-      REDIS_URL: redis://redis:6379/0
-      CHROME_HOSTNAME: chrome # Point to the chrome container for testing
-    volumes:
-      - .:/srv
-      - active_storage:/srv/storage
-    depends_on:
-      - db
-      - redis
-    stdin_open: true
-    tty: true
-    healthcheck:
-      test: ["CMD", "curl", "-vf", "http://localhost:3000/api/v1/health"] 
-      interval: 10s
-      timeout: 5s
-      retries: 3
+      - "5432"
 
-  # Startup script
-  # This container only starts to prepare the database. It will then exit after it is done.
-  # Use db/seed.rb to seed your database for development.
-  rails_startup:
-    build:
-      context: .
-      args:
-        PUID: ${PUID}
-        PGID: ${PGID}
-    platform: linux/amd64
-    environment:
-      DATABASE_URL: postgres://postgres:postgres@db
-    depends_on:
-      - db
-      - redis
-    command: sh bin/dbsetup
+  # no elasticsearch yet
 
   # ****************
   # Tools
   # ****************
   # All the containers described below here are not for production use
-  # but to assist development
+  # but to assist developmen
 
   # PGAdmin
   # Use this to inspect your database and test queries
   pgadmin:
-    image: dpage/pgadmin4:4
+    image: dpage/pgadmin4
     ports:
       - 5050:80
     environment:
@@ -106,11 +45,11 @@ services:
     entrypoint: /entrypoint.sh
     volumes:
       - type: bind
-        source: ./pgadmin_servers.json
+        source: ./docker/unit/pgadmin_servers.json
         target: /pgadmin4/servers.json
         read_only: true
     depends_on:
-      - db
+      - rz
 
   # Selenium Chrome instance
   # This is used to perform browser testing and also to ensure that
@@ -119,7 +58,6 @@ services:
   # If you have a VNC client, simply login to port 5900 with the
   # password: secret
   chrome:
-    platform: linux/amd64
     image: selenium/standalone-chrome-debug
     container_name: chrome
     environment:
@@ -128,7 +66,7 @@ services:
     ports:
       - "5900:5900"
     healthcheck:
-      test: ["CMD", "curl", "-vf", "http://localhost:4444/wd/hub/status"] 
+      test: ["CMD", "curl", "-v", "http://localhost:4444/wd/hub/status"] 
       interval: 10s
       timeout: 5s
       retries: 3
@@ -151,4 +89,3 @@ services:
       - chrome
 volumes:
   db_data:
-  active_storage:
