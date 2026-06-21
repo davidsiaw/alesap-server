@@ -169,4 +169,18 @@ class CommandApi < Grape::API
       { result: :ok }
     end
   end
+
+  desc 'get song data'
+  params do
+    requires :code, type: String
+  end
+  get 'song' do
+    song = SongDataService.build([params[:code]]).first
+    if song
+      song
+    else
+      status 404
+      { error: 'not found' }
+    end
+  end
 end
