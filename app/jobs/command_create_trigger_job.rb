@@ -15,10 +15,11 @@ class CommandCreateTriggerJob < ApplicationJob
       jpn = YAML.load_file('db/data/jpn.yml')
 
       ActiveRecord::Base.transaction do
-        Dir["db/data/data/*.yml"].each do |file|
+        Dir["db/data/newsong/*.yml"].each do |file|
           p file
           data = YAML.load_file(file)
-          data[:songs].each do |esong_code, info|
+          data['result']['song'].each do |info|
+            esong_code = info['esong_code']
             c = info['result']['content_type'] || ''
             g = info['result']['genre_name']
             n = info['result']['song_name']
@@ -97,10 +98,11 @@ class CommandCreateTriggerJob < ApplicationJob
       puts "building tokens"
       byname = {}
 
-      Dir["db/data/data/*.yml"].each do |file|
+      Dir["db/data/newsong/*.yml"].each do |file|
         p file
         data = YAML.load_file(file)
-        data[:songs].each do |esong_code, info|
+        data['result']['song'].each do |info|
+          esong_code = info['esong_code']
           c = info['result']['content_type'] || ''
           g = info['result']['genre_name']
           n = info['result']['song_name']
@@ -263,37 +265,18 @@ class CommandCreateTriggerJob < ApplicationJob
 
     end
 
-    if cmd.verb == "loadbv"
-      puts "loading bangumiv"
-
-      bvhash = YAML.load_file('db/data/bvlist.yml')
-
-      bvhash[:bangumi_v].each do |esong_code|
-        data = ExtraDatum.find_or_initialize_by(
-          esong_key: esong_code
-        )
-        data.datatype = 'tag_bv'
-        data.value = '番組V'
-        data.save!
-
-        td = TokenDatum.find_by(esong_key: esong_code, token: '番組v')
-        if td.nil?
-          TokenDatum.create!(esong_key: esong_code, token: '番組v', priority: 100000)
-        end
-      end
-    end
-
     if cmd.verb == "loadextra2"
 
       puts "loadingextra2"
 
-      Dir["db/data/data/*.yml"].each_slice(10) do |files|
+      Dir["db/data/newsong/*.yml"].each_slice(1) do |files|
         ActiveRecord::Base.transaction do
           files.each do |file|
             puts "loadextra2 #{file}"
 
             data = YAML.load_file(file)
-            data[:songs].each do |esong_code, reqresult|
+            data['result']['song'].each do |reqresult|
+              esong_code = reqresult['esong_code']
 
               thesong = reqresult['result']
 
@@ -328,14 +311,13 @@ class CommandCreateTriggerJob < ApplicationJob
 
       puts "loadingextra"
 
-      Dir["db/data/newsong/*.yml"].each_slice(10) do |files|
+      Dir["db/data/newsong/*.yml"].each_slice(1) do |files|
         ActiveRecord::Base.transaction do
           files.each do |file|
             puts "loadextra #{file}"
 
             data = YAML.load_file(file)
             data['result']['song'].each do |thesong|
-
               thesong.each do |k, v|
                 next if k == 'song_variation'
                 next if k == 'esong_code'
@@ -367,7 +349,7 @@ class CommandCreateTriggerJob < ApplicationJob
 
       puts "loadingsongs"
 
-      Dir["db/data/newsong/*.yml"].each_slice(10) do |files|
+      Dir["db/data/newsong/*.yml"].each_slice(1) do |files|
         ActiveRecord::Base.transaction do
           files.each do |file|
           p file
