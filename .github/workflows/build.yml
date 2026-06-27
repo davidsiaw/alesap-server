@@ -3,6 +3,7 @@ name: buildndeploy
   push:
     branches:
     - production
+  workflow_dispatch:
 
 jobs:
   build:
