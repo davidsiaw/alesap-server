@@ -1,145 +1,183 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 8
-  all_max_cnt: 8
-  all_country_cnt: 8
   song:
-  - song_name: 愛が凍えてる
-    song_alias:
-    esong_code: 93B28
-    t_singer_master_id: '8291'
-    singer_name: 笹本 安詞
-    singer_alias:
-    available_date: '1997-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいかここえてる
-    singer_name_ruby: ささもとやすし
-    song_variation:
-    - esong_code: 93B28
-      song_name: 愛が凍えてる
-      content_type: ''
-  - song_name: 愛が走る
-    song_alias:
-    esong_code: 95A31
-    t_singer_master_id: '1937'
-    singer_name: BEGIN
-    singer_alias:
-    available_date: '1997-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいかはしる
-    singer_name_ruby: ひきん
-    song_variation:
-    - esong_code: 95A31
-      song_name: 愛が走る
-      content_type: ''
-  - song_name: EASY・・・LOVE ME・・・
-    song_alias:
-    esong_code: 94A40
-    t_singer_master_id: '1401'
-    singer_name: 田原 俊彦
-    singer_alias:
-    available_date: '1997-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いしらふみ
-    singer_name_ruby: たはらとしひこ
-    song_variation:
-    - esong_code: 94A40
-      song_name: EASY・・・LOVE ME・・・
-      content_type: ''
-  - song_name: 終わらない世界
-    song_alias:
-    esong_code: 98A26
-    t_singer_master_id: '7456'
-    singer_name: ゴスペラーズ(The Gospellers)
-    singer_alias:
-    available_date: '1997-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おわらないせかい
-    singer_name_ruby: こすへらす
-    song_variation:
-    - esong_code: 98A26
-      song_name: 終わらない世界
-      content_type: ''
-  - song_name: コジコジ銀座
-    song_alias:
-    esong_code: 94B34
-    t_singer_master_id: '7168'
-    singer_name: ホフディラン
-    singer_alias:
-    available_date: '1997-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: さくらももこ劇場 コジコジ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こしこしきんさ
-    singer_name_ruby: ほふていらん
-    song_variation:
-    - esong_code: 94B34
-      song_name: コジコジ銀座
-      content_type: ''
-  - song_name: プリズム
-    song_alias:
-    esong_code: 91A26
-    t_singer_master_id: '7369'
+  - t_karaoke_master_id: 8846
+    song_name: プリズム
+    song_kana: ふりすむ
+    t_singer_master_id: 7369
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-11-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199711'
+    song_name_ruby: ふりすむ
     singer_name: 亜波根 綾乃
     singer_alias:
-    available_date: '1997-11-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりすむ
     singer_name_ruby: あはねあやの
-    song_variation:
-    - esong_code: 91A26
-      song_name: プリズム
-      content_type: ''
-  - song_name: ベジタリアン
-    song_alias:
-    esong_code: 92A34
-    t_singer_master_id: '2480'
+    introcha: 今日も変わらない  同じような毎日で
+    introcha_ruby:
+    esong_code: 91A26
+    dtordinal: 1
+  - t_karaoke_master_id: 8952
+    song_name: ベジタリアン
+    song_kana: へしたりあん
+    t_singer_master_id: 2480
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-11-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199711'
+    song_name_ruby: へしたりあん
     singer_name: 山下 久美子
     singer_alias:
-    available_date: '1997-11-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へしたりあん
     singer_name_ruby: やましたくみこ
-    song_variation:
-    - esong_code: 92A34
-      song_name: ベジタリアン
-      content_type: ''
-  - song_name: ミルク
-    song_alias:
-    esong_code: 93A33
-    t_singer_master_id: '2770'
+    introcha: 彼女は野菜のパイを焼いて
+    introcha_ruby: かのしよはやさいのはいをやいて
+    esong_code: 92A34
+    dtordinal: 2
+  - t_karaoke_master_id: 9049
+    song_name: ミルク
+    song_kana: みるく
+    t_singer_master_id: 2770
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-11-06T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199711'
+    song_name_ruby: みるく
     singer_name: Chara
     singer_alias:
-    available_date: '1997-11-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みるく
     singer_name_ruby: ちやら
-    song_variation:
-    - esong_code: 93A33
-      song_name: ミルク
-      content_type: ''
+    introcha: みんなはいい子だよ  自分はネコだよ
+    introcha_ruby: みんなはいいこたよしふんはねこた
+    esong_code: 93A33
+    dtordinal: 3
+  - t_karaoke_master_id: 9093
+    song_name: 愛が凍えてる
+    song_kana: あいかここえてる
+    t_singer_master_id: 8291
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-11-06T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199711'
+    song_name_ruby: あいかここえてる
+    singer_name: 笹本 安詞
+    singer_alias:
+    singer_name_ruby: ささもとやすし
+    introcha: 誰でもこの季節は 心安らぎたくて
+    introcha_ruby: たれてもこのきせつはこころやすらき
+    esong_code: 93B28
+    dtordinal: 4
+  - t_karaoke_master_id: 9154
+    song_name: EASY・・・LOVE ME・・・
+    song_kana: いしらふみ
+    t_singer_master_id: 1401
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-11-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199711'
+    song_name_ruby: いしらふみ
+    singer_name: 田原 俊彦
+    singer_alias:
+    singer_name_ruby: たはらとしひこ
+    introcha: 早すぎたね飛ばし過ぎな二人
+    introcha_ruby: はやすきたねとはしすきなふたり
+    esong_code: 94A40
+    dtordinal: 5
+  - t_karaoke_master_id: 9197
+    song_name: コジコジ銀座
+    song_kana: こしこしきんさ
+    t_singer_master_id: 7168
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: "<さくらももこ劇場 コジコジ>"
+    available_date: '1997-11-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199711'
+    song_name_ruby: こしこしきんさ
+    singer_name: ホフディラン
+    singer_alias:
+    singer_name_ruby: ほふていらん
+    tie_up: さくらももこ劇場 コジコジ<番組名>
+    tie_up_ruby: さくらももこけきしようこしこし
+    introcha: キミのそばにも それは
+    introcha_ruby: きみのそはにもそれは
+    esong_code: 94B34
+    dtordinal: 6
+  - t_karaoke_master_id: 9243
+    song_name: 愛が走る
+    song_kana: あいかはしる
+    t_singer_master_id: 1937
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 7
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-11-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199711'
+    song_name_ruby: あいかはしる
+    singer_name: BEGIN
+    singer_alias:
+    singer_name_ruby: ひきん
+    introcha: くじけそうな毎日ひたすらが
+    introcha_ruby: くしけそうなまいにちひたすらか
+    esong_code: 95A31
+    dtordinal: 7
+  - t_karaoke_master_id: 9532
+    song_name: 終わらない世界
+    song_kana: おわらないせかい
+    t_singer_master_id: 7456
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: ビクトリア「スノーボード」キャンペーンソング
+    available_date: '1997-11-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199711'
+    song_name_ruby: おわらないせかい
+    singer_name: ゴスペラーズ(The Gospellers)
+    singer_alias:
+    singer_name_ruby: こすへらす
+    introcha: 何か求めて 走り出す
+    introcha_ruby: なにかもとめてはしりたす
+    esong_code: 98A26
+    dtordinal: 8

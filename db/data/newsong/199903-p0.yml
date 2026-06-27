@@ -1,213 +1,324 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 12
-  all_max_cnt: 14
-  all_country_cnt: 12
   song:
-  - song_name: I LOVE YOU
-    song_alias:
-    esong_code: 218A24
-    t_singer_master_id: '8434'
-    singer_name: 浪岡 将彦(NAMIOKA)
+  - t_karaoke_master_id: 18701
+    song_name: もどっておいでよ
+    song_kana: もとつておいてよ
+    t_singer_master_id: 580
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-03-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: もとつておいてよ
+    singer_name: 黒木 じゅん(唐木淳)
     singer_alias:
-    available_date: '1999-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいらふゆ
-    singer_name_ruby: なみおか
-    song_variation:
-    - esong_code: 218A24
-      song_name: I LOVE YOU
-      content_type: ''
-  - song_name: 運命船サラバ号出発
-    song_alias:
-    esong_code: 214B26
-    t_singer_master_id: '8770'
-    singer_name: ザ・コブラツイスターズ
-    singer_alias:
-    available_date: '1999-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うんめいせんさらは
-    singer_name_ruby: さこふらついすた
-    song_variation:
-    - esong_code: 214B26
-      song_name: 運命船サラバ号出発
-      content_type: ''
-  - song_name: 男が恋に出逢うとき
-    song_alias:
-    esong_code: 216B37
-    t_singer_master_id: '887'
-    singer_name: 郷 ひろみ
-    singer_alias:
-    available_date: '1999-03-31'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこかこいにて
-    singer_name_ruby: こうひろみ
-    song_variation:
-    - esong_code: 216B37
-      song_name: 男が恋に出逢うとき
-      content_type: ''
-  - song_name: おんな酒
-    song_alias:
-    esong_code: 199B23
-    t_singer_master_id: '2554'
+    singer_name_ruby: くろきしゆん
+    introcha: もどっておいでよ  独りでいるのなら
+    introcha_ruby: もとつておいてよひとりているのなら
+    esong_code: 191B32
+    dtordinal: 1
+  - t_karaoke_master_id: 19476
+    song_name: おんな酒
+    song_kana: おんなさけ
+    t_singer_master_id: 2554
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-03-03T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: おんなさけ
     singer_name: 米倉 ますみ
     singer_alias:
-    available_date: '1999-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなさけ
     singer_name_ruby: よねくらますみ
-    song_variation:
-    - esong_code: 199B23
-      song_name: おんな酒
-      content_type: ''
-  - song_name: Glow In The Dark
-    song_alias:
-    esong_code: 211B21
-    t_singer_master_id: '656'
-    singer_name: 吉川 晃司
-    singer_alias:
-    available_date: '1999-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろういんさた
-    singer_name_ruby: きつかわこうし
-    song_variation:
-    - esong_code: 211B21
-      song_name: Glow In The Dark
-      content_type: ''
-  - song_name: ナキ・ムシ
-    song_alias:
-    esong_code: 218A29
-    t_singer_master_id: '8782'
-    singer_name: aiko
-    singer_alias:
-    available_date: '1999-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なきむし
-    singer_name_ruby: あいこ
-    song_variation:
-    - esong_code: 218A29
-      song_name: ナキ・ムシ
-      content_type: ''
-  - song_name: はてしなく青い空を見た
-    song_alias:
-    esong_code: 212B39
-    t_singer_master_id: '1732'
-    singer_name: 西脇 唯
-    singer_alias:
-    available_date: '1999-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 金田一少年の事件簿<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: はてしなくあおいそら
-    singer_name_ruby: にしわきゆい
-    song_variation:
-    - esong_code: 212B39
-      song_name: はてしなく青い空を見た
-      content_type: ''
-  - song_name: VOICE
-    song_alias:
-    esong_code: 214B28
-    t_singer_master_id: '8491'
-    singer_name: FEEL
-    singer_alias:
-    available_date: '1999-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほいす
-    singer_name_ruby: ふいる
-    song_variation:
-    - esong_code: 214B28
-      song_name: VOICE
-      content_type: ''
-  - song_name: 短いkissの長いストーリー
-    song_alias:
-    esong_code: 211A39
-    t_singer_master_id: '8754'
+    introcha: 貴方ひとりが 男じゃないと
+    introcha_ruby: あなたひとりかおとこしやないと
+    esong_code: 199B23
+    dtordinal: 2
+  - t_karaoke_master_id: 20619
+    song_name: 短いkissの長いストーリー
+    song_kana: みしかいきすのなか
+    t_singer_master_id: 8754
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系ドラマ「お水の花道」挿入歌
+    available_date: '1999-03-10T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: みしかいきすのなか
     singer_name: Little Baby
     singer_alias:
-    available_date: '1999-03-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: みしかいきすのなか
     singer_name_ruby: りとるへいひ
-    song_variation:
-    - esong_code: 211A39
-      song_name: 短いkissの長いストーリー
-      content_type: ''
-  - song_name: もどっておいでよ
-    song_alias:
-    esong_code: 191B32
-    t_singer_master_id: '580'
-    singer_name: 黒木 じゅん(黒木憲ジュニア)
-    singer_alias:
-    available_date: '1999-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: もとつておいてよ
-    singer_name_ruby: くろきしゆん
-    song_variation:
-    - esong_code: 191B32
-      song_name: もどっておいでよ
-      content_type: ''
-  - song_name: 夢をかさねて
-    song_alias:
-    esong_code: 211A40
-    t_singer_master_id: '8676'
+    introcha: アナタの指先が 優し過ぎて
+    introcha_ruby:
+    esong_code: 211A39
+    dtordinal: 3
+  - t_karaoke_master_id: 20620
+    song_name: 夢をかさねて
+    song_kana: ゆめをかさねて
+    t_singer_master_id: 8676
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-03-03T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: ゆめをかさねて
     singer_name: S.E.S
     singer_alias:
-    available_date: '1999-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめをかさねて
     singer_name_ruby: えすいえす
-    song_variation:
-    - esong_code: 211A40
-      song_name: 夢をかさねて
-      content_type: ''
-  - song_name: ロック ソーラン節
-    song_alias:
-    esong_code: 214B29
-    t_singer_master_id: '7371'
+    introcha: 君へ贈ろう愛を束ねて
+    introcha_ruby: きみへおくろうあいをたはねて
+    esong_code: 211A40
+    dtordinal: 4
+  - t_karaoke_master_id: 20650
+    song_name: Glow In The Dark
+    song_kana: くろういんさた
+    t_singer_master_id: 656
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-03-10T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: くろういんさた
+    singer_name: 吉川 晃司
+    singer_alias:
+    singer_name_ruby: きつかわこうし
+    introcha: もうなにも  言わなくてもいい
+    introcha_ruby: もうなにもいわなくてもいい
+    esong_code: 211B21
+    dtordinal: 5
+  - t_karaoke_master_id: 20766
+    song_name: はてしなく青い空を見た
+    song_kana: はてしなくあおいそら
+    t_singer_master_id: 1732
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: TVアニメ「金田一少年の事件簿」エンディングテーマ
+    available_date: '1999-03-03T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: はてしなくあおいそら
+    singer_name: 西脇 唯
+    singer_alias:
+    singer_name_ruby: にしわきゆい
+    tie_up: 金田一少年の事件簿<番組名>
+    tie_up_ruby: きんたいちしようねんのしけんほ
+    introcha: 落ちてゆくコインが アスファルトころがる
+    introcha_ruby: おちてゆくこいんかあすふあるとにころか
+    esong_code: 212B39
+    dtordinal: 6
+  - t_karaoke_master_id: 20949
+    song_name: 運命船サラバ号出発
+    song_kana: うんめいせんさらは
+    t_singer_master_id: 8770
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: テレビ朝日系「ココリコ黄金伝説」エンディングテーマ
+    available_date: '1999-03-03T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: うんめいせんさらは
+    singer_name: ザ・コブラツイスターズ
+    singer_alias:
+    singer_name_ruby: さこふらついすた
+    introcha: サラバ愛しき人よ サラバ虚しき愛よ
+    introcha_ruby: さらはいとしきひとよさらはむなしきあ
+    esong_code: 214B26
+    dtordinal: 7
+  - t_karaoke_master_id: 20951
+    song_name: VOICE
+    song_kana: ほいす
+    t_singer_master_id: 8491
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: マンパワー・ジャパンＣＭソング
+    available_date: '1999-03-03T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: ほいす
+    singer_name: FEEL
+    singer_alias:
+    singer_name_ruby: ふいる
+    introcha: 加速度を増してく愛しさに
+    introcha_ruby: かそくとをましてくいとしさに
+    esong_code: 214B28
+    dtordinal: 8
+  - t_karaoke_master_id: 20952
+    song_name: ロック ソーラン節
+    song_kana: ろつくそらんふし
+    t_singer_master_id: 7371
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 4
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-03-03T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: ろつくそらんふし
     singer_name: 小夏&ひょっとこ
     singer_alias:
-    available_date: '1999-03-03'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ろつくそらんふし
     singer_name_ruby: こなつひよつとこ
-    song_variation:
-    - esong_code: 214B29
-      song_name: ロック ソーラン節
-      content_type: ''
+    introcha: ドッコイショ ドッコイショ
+    introcha_ruby: とつこいしよとつこいしよ
+    esong_code: 214B29
+    dtordinal: 9
+  - t_karaoke_master_id: 21156
+    song_name: 男が恋に出逢うとき
+    song_kana: おとこかこいにて
+    t_singer_master_id: 887
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-03-31T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: おとこかこいにて
+    singer_name: 郷 ひろみ
+    singer_alias:
+    singer_name_ruby: こうひろみ
+    introcha: きみがくれた淋しさは  wowow  wow
+    introcha_ruby: きみかくれたさひしさは
+    esong_code: 216B37
+    dtordinal: 10
+  - t_karaoke_master_id: 21290
+    song_name: I LOVE YOU
+    song_kana: あいらふゆ
+    t_singer_master_id: 8434
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: JFN系全国7局第一興商提供番組エンディングテーマ
+    available_date: '1999-03-10T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: あいらふゆ
+    singer_name: 浪岡 将彦(NAMIOKA)
+    singer_alias:
+    singer_name_ruby: なみおか
+    introcha: いつかあなたが夢見た鳥になる
+    introcha_ruby: いつかあなたかゆめみたとりになる
+    esong_code: 218A24
+    dtordinal: 11
+  - t_karaoke_master_id: 21295
+    song_name: ナキ・ムシ
+    song_kana: なきむし
+    t_singer_master_id: 8782
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-03-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: なきむし
+    singer_name: aiko
+    singer_alias:
+    singer_name_ruby: あいこ
+    introcha: この部屋で5分の出来事
+    introcha_ruby:
+    esong_code: 218A29
+    dtordinal: 12
+  - t_karaoke_master_id: 21296
+    song_name: 5.6.7.8
+    song_kana: ふあいふしつくすせ
+    song_alias: 5.6.7.8
+    j_song_name: 5.6.7.8
+    j_song_kana: '5678'
+    t_singer_master_id: 8791
+    mt_country_code_id: 1
+    karaoke_genre_id: 0
+    mt_duet_id: 4
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-03-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: ふあいふしつくすせ
+    singer_name: ステップス
+    singer_alias: Steps
+    singer_name_ruby: すてつふす
+    introcha: It's time to begin-now count it in
+    introcha_ruby: ITSTIMETOBEGINNOWCO
+    esong_code: 218A30
+    dtordinal: 13
+  - t_karaoke_master_id: 21300
+    song_name: キッキン・マイ・ハート・アラウンド
+    song_kana: きつきんまいはとあ
+    song_alias: Kicking My Heart Around
+    j_song_name: キッキン・マイ・ハート・アラウンド
+    j_song_kana: KICKINGMYHEARTAROUND
+    t_singer_master_id: 8793
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-03-31T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199903'
+    song_name_ruby: きつきんまいはとあ
+    singer_name: ザ・ブラック・クロウズ
+    singer_alias: The Black Crowes
+    singer_name_ruby: さふらつくくろうす
+    introcha: Look out!Just come out
+    introcha_ruby:
+    esong_code: 218A34
+    dtordinal: 14

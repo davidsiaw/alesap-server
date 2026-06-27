@@ -1,264 +1,341 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 15
-  all_max_cnt: 15
-  all_country_cnt: 15
   song:
-  - song_name: 雨に濡れた洗濯物
-    song_alias:
-    esong_code: 136A36
-    t_singer_master_id: '8281'
-    singer_name: The LOVE
-    singer_alias:
-    available_date: '1998-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あめにぬれたせんたく
-    singer_name_ruby: さらふ
-    song_variation:
-    - esong_code: 136A36
-      song_name: 雨に濡れた洗濯物
-      content_type: ''
-  - song_name: ALCHEMIST
-    song_alias:
-    esong_code: 174A31
-    t_singer_master_id: '8238'
-    singer_name: ROBO+S(ROBOTS)
-    singer_alias:
-    available_date: '1998-09-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あるしえみすと
-    singer_name_ruby: ろほつつ
-    song_variation:
-    - esong_code: 174A31
-      song_name: ALCHEMIST
-      content_type: ''
-  - song_name: 運命のルーレット廻して
-    song_alias:
-    esong_code: 136B31
-    t_singer_master_id: '992'
-    singer_name: ZARD
-    singer_alias:
-    available_date: '1998-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 名探偵コナン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: うんめいのるれつと
-    singer_name_ruby: さと
-    song_variation:
-    - esong_code: 136B31
-      song_name: 運命のルーレット廻して
-      content_type: ''
-  - song_name: お世話になります
-    song_alias:
-    esong_code: 131A33
-    t_singer_master_id: '8585'
-    singer_name: ユースケ・サンタマリア
-    singer_alias:
-    available_date: '1998-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おせわになります
-    singer_name_ruby: ゆすけさんたまりあ
-    song_variation:
-    - esong_code: 131A33
-      song_name: お世話になります
-      content_type: ''
-  - song_name: 風のように自由 〜free as the wind〜
-    song_alias:
-    esong_code: 126B36
-    t_singer_master_id: '301'
+  - t_karaoke_master_id: 12335
+    song_name: 風のように自由 〜free as the wind〜
+    song_kana: かせのようにしゆ
+    t_singer_master_id: 301
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: "<中華一番>"
+    available_date: '1998-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: かせのようにしゆ
     singer_name: 宇徳 敬子
     singer_alias:
-    available_date: '1998-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 中華一番<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: かせのようにしゆ
     singer_name_ruby: うとくけいこ
-    song_variation:
-    - esong_code: 126B36
-      song_name: 風のように自由 〜free as the wind〜
-      content_type: ''
-  - song_name: 君はいないか
-    song_alias:
-    esong_code: 131B34
-    t_singer_master_id: '1567'
+    tie_up: 中華一番<番組名>
+    tie_up_ruby: ちゆうかいちはん
+    introcha: 私は夢の中で あなたに会っています
+    introcha_ruby: わたしはゆめのなかてあなたにあつていま
+    esong_code: 126B36
+    dtordinal: 1
+  - t_karaoke_master_id: 12773
+    song_name: お世話になります
+    song_kana: おせわになります
+    t_singer_master_id: 8585
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: おせわになります
+    singer_name: ユースケ・サンタマリア
+    singer_alias:
+    singer_name_ruby: ゆすけさんたまりあ
+    introcha: お世話になります いろいろあったけど
+    introcha_ruby: おせわになりますいろいろあつたけと
+    esong_code: 131A33
+    dtordinal: 2
+  - t_karaoke_master_id: 12823
+    song_name: 君はいないか
+    song_kana: きみはいないか
+    t_singer_master_id: 1567
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: きみはいないか
     singer_name: Toshl
     singer_alias:
-    available_date: '1998-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみはいないか
     singer_name_ruby: とし
-    song_variation:
-    - esong_code: 131B34
-      song_name: 君はいないか
-      content_type: ''
-  - song_name: きみみたいにきれいな女の子
-    song_alias:
-    esong_code: 173B40
-    t_singer_master_id: '1960'
-    singer_name: PIZZICATO FIVE
-    singer_alias:
-    available_date: '1998-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみみたいにきれいな
-    singer_name_ruby: ひちかとふあいふ
-    song_variation:
-    - esong_code: 173B40
-      song_name: きみみたいにきれいな女の子
-      content_type: ''
-  - song_name: 元気ですか
-    song_alias:
-    esong_code: 136B36
-    t_singer_master_id: '8320'
-    singer_name: フラワーカンパニーズ
-    singer_alias:
-    available_date: '1998-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けんきてすか
-    singer_name_ruby: ふらわかんはにす
-    song_variation:
-    - esong_code: 136B36
-      song_name: 元気ですか
-      content_type: ''
-  - song_name: だいすきなうた
-    song_alias:
-    esong_code: 174A22
-    t_singer_master_id: '2894'
-    singer_name: 國府田 マリ子
-    singer_alias:
-    available_date: '1998-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいすきなうた
-    singer_name_ruby: こうたまりこ
-    song_variation:
-    - esong_code: 174A22
-      song_name: だいすきなうた
-      content_type: ''
-  - song_name: 小さな勇気
-    song_alias:
-    esong_code: 136A40
-    t_singer_master_id: '7369'
-    singer_name: 亜波根 綾乃
-    singer_alias:
-    available_date: '1998-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ちいさなゆうき
-    singer_name_ruby: あはねあやの
-    song_variation:
-    - esong_code: 136A40
-      song_name: 小さな勇気
-      content_type: ''
-  - song_name: TODAY
-    song_alias:
-    esong_code: 174A23
-    t_singer_master_id: '1453'
-    singer_name: Char
-    singer_alias:
-    available_date: '1998-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうてい
-    singer_name_ruby: ちや
-    song_variation:
-    - esong_code: 174A23
-      song_name: TODAY
-      content_type: ''
-  - song_name: 微熱
-    song_alias:
-    esong_code: 174A24
-    t_singer_master_id: '8648'
-    singer_name: 我那覇 美奈
-    singer_alias:
-    available_date: '1998-09-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひねつ
-    singer_name_ruby: かなはみな
-    song_variation:
-    - esong_code: 174A24
-      song_name: 微熱
-      content_type: ''
-  - song_name: 迷宮の楽園(パラダイス)
-    song_alias:
-    esong_code: 134B38
-    t_singer_master_id: '1639'
+    introcha: 青空と丘を越えたら 今も君の故郷が
+    introcha_ruby: あおそらとおかをこえたらいまもきみの
+    esong_code: 131B34
+    dtordinal: 3
+  - t_karaoke_master_id: 13121
+    song_name: 迷宮の楽園(パラダイス)
+    song_kana: めいきゆうのはらた
+    t_singer_master_id: 1639
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-02T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: めいきゆうのはらた
     singer_name: 中西 圭三
     singer_alias:
-    available_date: '1998-09-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めいきゆうのはらた
     singer_name_ruby: なかにしけいそう
-    song_variation:
-    - esong_code: 134B38
-      song_name: 迷宮の楽園(パラダイス)
-      content_type: ''
-  - song_name: Memories
-    song_alias:
-    esong_code: 174A29
-    t_singer_master_id: '7750'
-    singer_name: THE COLTS
-    singer_alias:
-    available_date: '1998-09-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めもりす
-    singer_name_ruby: さこるつ
-    song_variation:
-    - esong_code: 174A29
-      song_name: Memories
-      content_type: ''
-  - song_name: LOOP
-    song_alias:
-    esong_code: 136A35
-    t_singer_master_id: '8621'
+    introcha: 早送りでアクション・ムービー
+    introcha_ruby: はやおくりてあくしよんむひ
+    esong_code: 134B38
+    dtordinal: 4
+  - t_karaoke_master_id: 13265
+    song_name: LOOP
+    song_kana: るふ
+    t_singer_master_id: 8621
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: るふ
     singer_name: ZEPPET STORE
     singer_alias:
-    available_date: '1998-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: るふ
     singer_name_ruby: せへつとすとあ
-    song_variation:
-    - esong_code: 136A35
-      song_name: LOOP
-      content_type: ''
+    introcha: いつもよりも 天気ばかりを気にしてる
+    introcha_ruby: いつもよりもてんきはかりをきにしてる
+    esong_code: 136A35
+    dtordinal: 5
+  - t_karaoke_master_id: 13266
+    song_name: 雨に濡れた洗濯物
+    song_kana: あめにぬれたせんたく
+    t_singer_master_id: 8281
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: あめにぬれたせんたく
+    singer_name: The LOVE
+    singer_alias:
+    singer_name_ruby: さらふ
+    introcha: 濡らせ もっと濡らせ
+    introcha_ruby: ぬらせもつとぬらせ
+    esong_code: 136A36
+    dtordinal: 6
+  - t_karaoke_master_id: 13270
+    song_name: 小さな勇気
+    song_kana: ちいさなゆうき
+    t_singer_master_id: 7369
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: ちいさなゆうき
+    singer_name: 亜波根 綾乃
+    singer_alias:
+    singer_name_ruby: あはねあやの
+    introcha: 体 空に向けて 土地に足をおいた
+    introcha_ruby:
+    esong_code: 136A40
+    dtordinal: 7
+  - t_karaoke_master_id: 13310
+    song_name: 運命のルーレット廻して
+    song_kana: うんめいのるれつと
+    t_singer_master_id: 992
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: "<名探偵コナン>"
+    available_date: '1998-09-09T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: うんめいのるれつと
+    singer_name: ZARD
+    singer_alias:
+    singer_name_ruby: さと
+    tie_up: 名探偵コナン<番組名>
+    tie_up_ruby: めいたんていこなん
+    introcha: 運命のルーレット廻して
+    introcha_ruby: うんめいのるれつとまわして
+    esong_code: 136B31
+    dtordinal: 8
+  - t_karaoke_master_id: 13315
+    song_name: 元気ですか
+    song_kana: けんきてすか
+    t_singer_master_id: 8320
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: けんきてすか
+    singer_name: フラワーカンパニーズ
+    singer_alias:
+    singer_name_ruby: ふらわかんはにす
+    introcha: お元気ですか お元気ですか
+    introcha_ruby: おけんきてすかおけんきてすか
+    esong_code: 136B36
+    dtordinal: 9
+  - t_karaoke_master_id: 16945
+    song_name: きみみたいにきれいな女の子
+    song_kana: きみみたいにきれいな
+    t_singer_master_id: 1960
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 8
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-09T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: きみみたいにきれいな
+    singer_name: PIZZICATO FIVE
+    singer_alias:
+    singer_name_ruby: ひちかとふあいふ
+    introcha: 午前10時すこし過ぎ
+    introcha_ruby: こせんしゆうしすこしすき
+    esong_code: 173B40
+    dtordinal: 10
+  - t_karaoke_master_id: 16976
+    song_name: だいすきなうた
+    song_kana: たいすきなうた
+    t_singer_master_id: 2894
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-09T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: たいすきなうた
+    singer_name: 國府田 マリ子
+    singer_alias:
+    singer_name_ruby: こうたまりこ
+    introcha: だいすきなうたを 口ずさむ
+    introcha_ruby: たいすきなうたをくちすさむ
+    esong_code: 174A22
+    dtordinal: 11
+  - t_karaoke_master_id: 16977
+    song_name: TODAY
+    song_kana: とうてい
+    t_singer_master_id: 1453
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-09T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: とうてい
+    singer_name: Char
+    singer_alias:
+    singer_name_ruby: ちや
+    introcha: You don't have to understand
+    introcha_ruby: YOUDONTHAVETOUNDERST
+    esong_code: 174A23
+    dtordinal: 12
+  - t_karaoke_master_id: 16978
+    song_name: 微熱
+    song_kana: ひねつ
+    t_singer_master_id: 8648
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: 朝日テレビ系全国ネット「たけしの万物創世紀」エンディング
+    available_date: '1998-09-09T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: ひねつ
+    singer_name: 我那覇 美奈
+    singer_alias:
+    singer_name_ruby: かなはみな
+    introcha: ほんの些細な夢の痕
+    introcha_ruby: ほんのささいなゆめのあと
+    esong_code: 174A24
+    dtordinal: 13
+  - t_karaoke_master_id: 16983
+    song_name: Memories
+    song_kana: めもりす
+    t_singer_master_id: 7750
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: フジTV系「ＯＨ！トロ2で行こう」エンディング
+    available_date: '1998-09-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: めもりす
+    singer_name: THE COLTS
+    singer_alias:
+    singer_name_ruby: さこるつ
+    introcha: どうにもならない寂しい気持ちも
+    introcha_ruby: とうにもならないさひしいきもちも
+    esong_code: 174A29
+    dtordinal: 14
+  - t_karaoke_master_id: 16985
+    song_name: ALCHEMIST
+    song_kana: あるしえみすと
+    t_singer_master_id: 8238
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-09-23T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199809'
+    song_name_ruby: あるしえみすと
+    singer_name: ROBO+S(ROBOTS)
+    singer_alias:
+    singer_name_ruby: ろほつつ
+    introcha: でっかい犬もママもいない
+    introcha_ruby: てつかいいぬもままもいない
+    esong_code: 174A31
+    dtordinal: 15

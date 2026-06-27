@@ -1,196 +1,253 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 11
-  all_max_cnt: 11
-  all_country_cnt: 11
   song:
-  - song_name: いつだって・・・
-    song_alias:
-    esong_code: 135A29
-    t_singer_master_id: '8533'
+  - t_karaoke_master_id: 13161
+    song_name: いつだって・・・
+    song_kana: いつたつて
+    t_singer_master_id: 8533
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 3
+    medley_flg: 0
+    lights_flg: 0
+    information: MBS「銀河ピカイチTV」テーマ曲
+    available_date: '1998-10-07T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: いつたつて
     singer_name: 2丁拳銃
     singer_alias:
-    available_date: '1998-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いつたつて
     singer_name_ruby: にちようけんしゆう
-    song_variation:
-    - esong_code: 135A29
-      song_name: いつだって・・・
-      content_type: ''
-  - song_name: INFINITELY
-    song_alias:
-    esong_code: 173B31
-    t_singer_master_id: '312'
-    singer_name: ARB
-    singer_alias:
-    available_date: '1998-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いんふいにてり
-    singer_name_ruby: えあるひ
-    song_variation:
-    - esong_code: 173B31
-      song_name: INFINITELY
-      content_type: ''
-  - song_name: おもいでの夏
-    song_alias:
-    esong_code: 186A36
-    t_singer_master_id: '8672'
-    singer_name: ease
-    singer_alias:
-    available_date: '1998-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいてのなつ
-    singer_name_ruby: いす
-    song_variation:
-    - esong_code: 186A36
-      song_name: おもいでの夏
-      content_type: ''
-  - song_name: 奇蹟の薔薇
-    song_alias:
-    esong_code: 173B23
-    t_singer_master_id: '8643'
+    introcha: 楽しかったときは あっという間
+    introcha_ruby: たのしかつたときはあつというま
+    esong_code: 135A29
+    dtordinal: 1
+  - t_karaoke_master_id: 16928
+    song_name: 奇蹟の薔薇
+    song_kana: きせきのはな
+    t_singer_master_id: 8643
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: "<頭文字D>"
+    available_date: '1998-10-14T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: きせきのはな
     singer_name: Galla
     singer_alias:
-    available_date: '1998-10-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 頭文字D<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きせきのはな
     singer_name_ruby: から
-    song_variation:
-    - esong_code: 173B23
-      song_name: 奇蹟の薔薇
-      content_type: ''
-  - song_name: TENJIKUへ行こう
-    song_alias:
-    esong_code: 186B28
-    t_singer_master_id: '8531'
-    singer_name: 夜総会BAND
+    tie_up: 頭文字D<番組名>
+    tie_up_ruby: いにしやるてい
+    introcha: 夜明けの空へ 窓をひらいて
+    introcha_ruby:
+    esong_code: 173B23
+    dtordinal: 2
+  - t_karaoke_master_id: 16936
+    song_name: INFINITELY
+    song_kana: いんふいにてり
+    t_singer_master_id: 312
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-10-07T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: いんふいにてり
+    singer_name: ARB
     singer_alias:
-    available_date: '1998-10-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: てんしくへいこう
-    singer_name_ruby: やそうかいはんと
-    song_variation:
-    - esong_code: 186B28
-      song_name: TENJIKUへ行こう
-      content_type: ''
-  - song_name: ビニールハウス
-    song_alias:
-    esong_code: 186A23
-    t_singer_master_id: '8579'
-    singer_name: Pepperland Orenge
-    singer_alias:
-    available_date: '1998-10-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひにるはうす
-    singer_name_ruby: へはらんとお
-    song_variation:
-    - esong_code: 186A23
-      song_name: ビニールハウス
-      content_type: ''
-  - song_name: FAKE
-    song_alias:
-    esong_code: 186B27
-    t_singer_master_id: '3078'
-    singer_name: ROLL DAYS
-    singer_alias:
-    available_date: '1998-10-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふえいく
-    singer_name_ruby: ろるていす
-    song_variation:
-    - esong_code: 186B27
-      song_name: FAKE
-      content_type: ''
-  - song_name: めぐりあう世界
-    song_alias:
-    esong_code: 186B29
-    t_singer_master_id: '8676'
-    singer_name: S.E.S
-    singer_alias:
-    available_date: '1998-10-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: めくりあうせかい
-    singer_name_ruby: えすいえす
-    song_variation:
-    - esong_code: 186B29
-      song_name: めぐりあう世界
-      content_type: ''
-  - song_name: love love dreamer
-    song_alias:
-    esong_code: 186A25
-    t_singer_master_id: '8451'
-    singer_name: YURIMARI
-    singer_alias:
-    available_date: '1998-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふらふとり
-    singer_name_ruby: ゆりまり
-    song_variation:
-    - esong_code: 186A25
-      song_name: love love dreamer
-      content_type: ''
-  - song_name: Room
-    song_alias:
-    esong_code: 186A37
-    t_singer_master_id: '5773'
-    singer_name: RAZZ MA TAZZ
-    singer_alias:
-    available_date: '1998-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: るむ
-    singer_name_ruby: らすまたす
-    song_variation:
-    - esong_code: 186A37
-      song_name: Room
-      content_type: ''
-  - song_name: わすれな草
-    song_alias:
-    esong_code: 175B30
-    t_singer_master_id: '1749'
+    singer_name_ruby: えあるひ
+    introcha: I LOVE YOU INFINITELY
+    introcha_ruby: ILOVEYOUINFINITELY
+    esong_code: 173B31
+    dtordinal: 3
+  - t_karaoke_master_id: 17131
+    song_name: わすれな草
+    song_kana: わすれなくさ
+    t_singer_master_id: 1749
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-10-21T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: わすれなくさ
     singer_name: NOKKO(のっこ)
     singer_alias:
-    available_date: '1998-10-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: わすれなくさ
     singer_name_ruby: のつこ
-    song_variation:
-    - esong_code: 175B30
-      song_name: わすれな草
-      content_type: ''
+    introcha: 風が強く吹くね
+    introcha_ruby: かせかつよくふくね
+    esong_code: 175B30
+    dtordinal: 4
+  - t_karaoke_master_id: 18153
+    song_name: ビニールハウス
+    song_kana: ひにるはうす
+    t_singer_master_id: 8579
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: TBS系「ＣＤＴＶ」10月度エンディング
+    available_date: '1998-10-28T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: ひにるはうす
+    singer_name: Pepperland Orenge
+    singer_alias:
+    singer_name_ruby: へはらんとお
+    introcha: 霞んでいる記憶の中に
+    introcha_ruby: かすんているきおくのなかに
+    esong_code: 186A23
+    dtordinal: 5
+  - t_karaoke_master_id: 18155
+    song_name: love love dreamer
+    song_kana: らふらふとり
+    t_singer_master_id: 8451
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 9
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-10-21T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: らふらふとり
+    singer_name: YURIMARI
+    singer_alias:
+    singer_name_ruby: ゆりまり
+    introcha: テレビの中 あなたがいると
+    introcha_ruby: てれひのなかのあなたかいると
+    esong_code: 186A25
+    dtordinal: 6
+  - t_karaoke_master_id: 18166
+    song_name: おもいでの夏
+    song_kana: おもいてのなつ
+    t_singer_master_id: 8672
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-10-07T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: おもいてのなつ
+    singer_name: ease
+    singer_alias:
+    singer_name_ruby: いす
+    introcha: 波は碧の縞模様 通り過ぎた夏の船
+    introcha_ruby:
+    esong_code: 186A36
+    dtordinal: 7
+  - t_karaoke_master_id: 18167
+    song_name: Room
+    song_kana: るむ
+    t_singer_master_id: 5773
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-10-07T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: るむ
+    singer_name: RAZZ MA TAZZ
+    singer_alias:
+    singer_name_ruby: らすまたす
+    introcha: 言葉にすると いつも
+    introcha_ruby: ことはにするといつも
+    esong_code: 186A37
+    dtordinal: 8
+  - t_karaoke_master_id: 18206
+    song_name: FAKE
+    song_kana: ふえいく
+    t_singer_master_id: 3078
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: テレビ東京系「ミュージックブレイク」エンディング
+    available_date: '1998-10-28T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: ふえいく
+    singer_name: ROLL DAYS
+    singer_alias:
+    singer_name_ruby: ろるていす
+    introcha: Black light...クラバーと溢れ出してる
+    introcha_ruby: BLACKLIGHTくらはとあふれて
+    esong_code: 186B27
+    dtordinal: 9
+  - t_karaoke_master_id: 18207
+    song_name: TENJIKUへ行こう
+    song_kana: てんしくへいこう
+    t_singer_master_id: 8531
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: 松竹映画「ショムニ」主題歌
+    available_date: '1998-10-28T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: てんしくへいこう
+    singer_name: 夜総会BAND
+    singer_alias:
+    singer_name_ruby: やそうかいはんと
+    introcha: TENJIKUへ行こう TENJIKUへ行けば
+    introcha_ruby: TENJIKUへいこうTENJIKU
+    esong_code: 186B28
+    dtordinal: 10
+  - t_karaoke_master_id: 18208
+    song_name: めぐりあう世界
+    song_kana: めくりあうせかい
+    t_singer_master_id: 8676
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: 日本テレビ系「ぐるぐるナンティナイン」エンディング
+    available_date: '1998-10-28T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199810'
+    song_name_ruby: めくりあうせかい
+    singer_name: S.E.S
+    singer_alias:
+    singer_name_ruby: えすいえす
+    introcha: 音もなく過ぎて行く季節は何も
+    introcha_ruby: おともなくすきていくきせつはなにも
+    esong_code: 186B29
+    dtordinal: 11

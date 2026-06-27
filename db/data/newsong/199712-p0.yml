@@ -1,128 +1,143 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 7
-  all_max_cnt: 7
-  all_country_cnt: 7
   song:
-  - song_name: 愛のRhapsody
-    song_alias:
-    esong_code: 102B34
-    t_singer_master_id: '8381'
-    singer_name: 中野 浩一&NAOMI
-    singer_alias:
-    available_date: '1997-12-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいのらふそてい
-    singer_name_ruby: なかのこういちなお
-    song_variation:
-    - esong_code: 102B34
-      song_name: 愛のRhapsody
-      content_type: ''
-  - song_name: 愛をみんなで
-    song_alias:
-    esong_code: 101B39
-    t_singer_master_id: '1580'
-    singer_name: 鳥羽 一郎
-    singer_alias:
-    available_date: '1997-12-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいをみんなて
-    singer_name_ruby: とはいちろう
-    song_variation:
-    - esong_code: 101B39
-      song_name: 愛をみんなで
-      content_type: ''
-  - song_name: 明日もあなたに恋するでしょう
-    song_alias:
-    esong_code: 102B30
-    t_singer_master_id: '1732'
-    singer_name: 西脇 唯
-    singer_alias:
-    available_date: '1997-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あしたもあなたにこい
-    singer_name_ruby: にしわきゆい
-    song_variation:
-    - esong_code: 102B30
-      song_name: 明日もあなたに恋するでしょう
-      content_type: ''
-  - song_name: Climbing Wind
-    song_alias:
-    esong_code: 102B35
-    t_singer_master_id: '8070'
-    singer_name: 春原 祐紀
-    singer_alias:
-    available_date: '1997-12-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くらいひんくうい
-    singer_name_ruby: はるはらゆうき
-    song_variation:
-    - esong_code: 102B35
-      song_name: Climbing Wind
-      content_type: ''
-  - song_name: 永遠(とわ)の未来
-    song_alias:
-    esong_code: 98B28
-    t_singer_master_id: '7382'
+  - t_karaoke_master_id: 9583
+    song_name: 永遠(とわ)の未来
+    song_kana: とわのみらい
+    t_singer_master_id: 7382
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: 劇場版「るろうに剣心 〜維新志士への鎮魂歌〜」エンディングテーマ
+    available_date: '1997-12-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199712'
+    song_name_ruby: とわのみらい
     singer_name: アニメタル
     singer_alias:
-    available_date: '1997-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: るろうに剣心(劇場版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とわのみらい
     singer_name_ruby: あにめたる
-    song_variation:
-    - esong_code: 98B28
-      song_name: 永遠(とわ)の未来
-      content_type: ''
-  - song_name: 能登の風唄
-    song_alias:
-    esong_code: 98B35
-    t_singer_master_id: '70'
+    tie_up: るろうに剣心(劇場版)<番組名>
+    tie_up_ruby: るろうにけんしんけきしようはん
+    introcha: 悲しみの中 夢を抱きしめてた
+    introcha_ruby:
+    esong_code: 98B28
+    dtordinal: 1
+  - t_karaoke_master_id: 9590
+    song_name: 能登の風唄
+    song_kana: のとのかせうた
+    t_singer_master_id: 70
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-12-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199712'
+    song_name_ruby: のとのかせうた
     singer_name: 浅田 あつこ
     singer_alias:
-    available_date: '1997-12-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のとのかせうた
     singer_name_ruby: あさたあつこ
-    song_variation:
-    - esong_code: 98B35
-      song_name: 能登の風唄
-      content_type: ''
-  - song_name: ポケット カウボーイ
-    song_alias:
-    esong_code: 99A25
-    t_singer_master_id: '2723'
+    introcha: 旅のおんなの 情けに咲いた
+    introcha_ruby:
+    esong_code: 98B35
+    dtordinal: 2
+  - t_karaoke_master_id: 9629
+    song_name: ポケット カウボーイ
+    song_kana: ほけつとかうほ
+    t_singer_master_id: 2723
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: "<さくらももこ劇場 コジコジ>"
+    available_date: '1997-12-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199712'
+    song_name_ruby: ほけつとかうほ
     singer_name: 電気グルーヴ(電気GROOVE)
     singer_alias:
-    available_date: '1997-12-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: さくらももこ劇場 コジコジ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほけつとかうほ
     singer_name_ruby: てんきくるふ
-    song_variation:
-    - esong_code: 99A25
-      song_name: ポケット カウボーイ
-      content_type: ''
+    tie_up: さくらももこ劇場 コジコジ<番組名>
+    tie_up_ruby: さくらももこけきしようこしこし
+    introcha: come back cowboy
+    introcha_ruby: COMEBACKCOWBOY
+    esong_code: 99A25
+    dtordinal: 3
+  - t_karaoke_master_id: 9888
+    song_name: 愛をみんなで
+    song_kana: あいをみんなて
+    t_singer_master_id: 1580
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-12-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199712'
+    song_name_ruby: あいをみんなて
+    singer_name: 鳥羽 一郎
+    singer_alias:
+    singer_name_ruby: とはいちろう
+    introcha: ひとは誰でもしあわせを
+    introcha_ruby: ひとはたれてもしあわせを
+    esong_code: 101B39
+    dtordinal: 4
+  - t_karaoke_master_id: 9977
+    song_name: 明日もあなたに恋するでしょう
+    song_kana: あしたもあなたにこい
+    t_singer_master_id: 1732
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: テレビ朝日系「真夜中人魚」オ^プニングテーマ
+    available_date: '1997-12-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199712'
+    song_name_ruby: あしたもあなたにこい
+    singer_name: 西脇 唯
+    singer_alias:
+    singer_name_ruby: にしわきゆい
+    introcha: あわただしい毎日も あなたが
+    introcha_ruby: あわたたしいまいにちもあなたか
+    esong_code: 102B30
+    dtordinal: 5
+  - t_karaoke_master_id: 9981
+    song_name: 愛のRhapsody
+    song_kana: あいのらふそてい
+    t_singer_master_id: 8381
+    mt_country_code_id: 0
+    karaoke_genre_id: 0
+    mt_duet_id: 4
+    medley_flg: 0
+    lights_flg: 0
+    information: アートネイチャーＣＭソング
+    available_date: '1997-12-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199712'
+    song_name_ruby: あいのらふそてい
+    singer_name: 中野 浩一&NAOMI
+    singer_alias:
+    singer_name_ruby: なかのこういちなお
+    introcha: あぁ 答えを出せば
+    introcha_ruby: ああこたえをたせは
+    esong_code: 102B34
+    dtordinal: 6

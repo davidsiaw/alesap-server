@@ -1,111 +1,168 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 6
-  all_max_cnt: 7
-  all_country_cnt: 6
   song:
-  - song_name: AURA(アウラ)
-    song_alias:
-    esong_code: 229B23
-    t_singer_master_id: '1396'
-    singer_name: 谷村 新司
-    singer_alias:
-    available_date: '1999-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: "∀ガンダム<番組名>"
-    country_code: '0'
-    content_type:
-    song_name_ruby: あうら
-    singer_name_ruby: たにむらしんし
-    song_variation:
-    - esong_code: 229B23
-      song_name: AURA(アウラ)
-      content_type: ''
-  - song_name: everyday clear sky
-    song_alias:
-    esong_code: 350B16
-    t_singer_master_id: '7318'
-    singer_name: 石井 聖子
-    singer_alias:
-    available_date: '1999-05-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えふりていくりあ
-    singer_name_ruby: いしいせいこ
-    song_variation:
-    - esong_code: 350B16
-      song_name: everyday clear sky
-      content_type: ''
-  - song_name: 恋ことば
-    song_alias:
-    esong_code: 226A23
-    t_singer_master_id: '1336'
-    singer_name: 高橋 真梨子
-    singer_alias:
-    available_date: '1999-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいことは
-    singer_name_ruby: たかはしまりこ
-    song_variation:
-    - esong_code: 226A23
-      song_name: 恋ことば
-      content_type: ''
-  - song_name: Still for your love
-    song_alias:
-    esong_code: 224A34
-    t_singer_master_id: '10013'
+  - t_karaoke_master_id: 21888
+    song_name: Still for your love
+    song_kana: すているふおゆあら
+    t_singer_master_id: 10013
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: 日本テレビ系アニメ「名探偵コナン」エンディング
+    available_date: '1999-05-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199905'
+    song_name_ruby: すているふおゆあら
     singer_name: rumania montevideo
     singer_alias:
-    available_date: '1999-05-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 名探偵コナン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: すているふおゆあら
     singer_name_ruby: るまにあもんてひ
-    song_variation:
-    - esong_code: 224A34
-      song_name: Still for your love
-      content_type: ''
-  - song_name: フレンズ（Match up Version）
-    song_alias:
-    esong_code: 228A23
-    t_singer_master_id: '1749'
+    tie_up: 名探偵コナン<番組名>
+    tie_up_ruby: めいたんていこなん
+    introcha: 何かが起こりそうな夜は
+    introcha_ruby: なにかかおこりそうなよるは
+    esong_code: 224A34
+    dtordinal: 1
+  - t_karaoke_master_id: 22073
+    song_name: 恋ことば
+    song_kana: こいことは
+    t_singer_master_id: 1336
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-05-19T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199905'
+    song_name_ruby: こいことは
+    singer_name: 高橋 真梨子
+    singer_alias:
+    singer_name_ruby: たかはしまりこ
+    introcha: I(愛)覚めやらぬ 恋しや ゆかしや
+    introcha_ruby: あいさめやらぬこいしやゆかしや
+    esong_code: 226A23
+    dtordinal: 2
+  - t_karaoke_master_id: 22269
+    song_name: フレンズ（Match up Version）
+    song_kana: ふれんす
+    t_singer_master_id: 1749
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系ドラマ「リップスティック」劇中歌
+    available_date: '1999-05-19T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199905'
+    song_name_ruby: ふれんす
     singer_name: NOKKO(のっこ)
     singer_alias:
-    available_date: '1999-05-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふれんす
     singer_name_ruby: のつこ
-    song_variation:
-    - esong_code: 228A23
-      song_name: フレンズ（Match up Version）
-      content_type: ''
-  - song_name: まひるの星
-    song_alias:
-    esong_code: 230A21
-    t_singer_master_id: '2413'
+    introcha: 口づけをかわした日は ママの顔さえも
+    introcha_ruby: くちつけをかわしたひはままのかおさえも
+    esong_code: 228A23
+    dtordinal: 3
+  - t_karaoke_master_id: 22416
+    song_name: AURA(アウラ)
+    song_kana: あうら
+    t_singer_master_id: 1396
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: TVアニメ「∀ガンダム」エンディングテーマ
+    available_date: '1999-05-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199905'
+    song_name_ruby: あうら
+    singer_name: 谷村 新司
+    singer_alias:
+    singer_name_ruby: たにむらしんし
+    tie_up: "∀ガンダム<番組名>"
+    tie_up_ruby: たんえかんた
+    introcha: 微熱がさめないまま
+    introcha_ruby: ひねつかさめないまま
+    esong_code: 229B23
+    dtordinal: 4
+  - t_karaoke_master_id: 22463
+    song_name: まひるの星
+    song_kana: まひるのほし
+    t_singer_master_id: 2413
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: 映画「もういちど逢いたくて」主題歌
+    available_date: '1999-05-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199905'
+    song_name_ruby: まひるのほし
     singer_name: 森高 千里
     singer_alias:
-    available_date: '1999-05-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まひるのほし
     singer_name_ruby: もりたかちさと
-    song_variation:
-    - esong_code: 230A21
-      song_name: まひるの星
-      content_type: ''
+    introcha: あなたと出逢ったあの日は
+    introcha_ruby: あなたとてあつつたあのひは
+    esong_code: 230A21
+    dtordinal: 5
+  - t_karaoke_master_id: 22519
+    song_name: シリ・ホゥ
+    song_kana: しりほう
+    song_alias: Silly Ho
+    j_song_name: シリ・ホゥ
+    j_song_kana: SILLYHO
+    t_singer_master_id: 5955
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 9
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-05-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199905'
+    song_name_ruby: しりほう
+    singer_name: TLC
+    singer_alias: Tlc
+    singer_name_ruby: ていえるし
+    introcha: I ain't never been
+    introcha_ruby:
+    esong_code: 230B28
+    dtordinal: 6
+  - t_karaoke_master_id: 34267
+    song_name: everyday clear sky
+    song_kana: えふりていくりあ
+    t_singer_master_id: 7318
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-05-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199905'
+    song_name_ruby: えふりていくりあ
+    singer_name: 石井 聖子
+    singer_alias:
+    singer_name_ruby: いしいせいこ
+    introcha: ずっと拡がる 青空の下
+    introcha_ruby:
+    esong_code: 350B16
+    dtordinal: 7

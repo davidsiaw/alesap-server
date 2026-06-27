@@ -1,519 +1,2999 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 114
-  all_max_cnt: 131
-  all_country_cnt: 114
   song:
-  - song_name: 愛情
-    song_alias:
-    esong_code: 324A29
-    t_singer_master_id: '10282'
-    singer_name: 小柳 ゆき
-    singer_alias:
-    available_date: '2000-04-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいしよう
-    singer_name_ruby: こやなきゆき
-    song_variation:
-    - esong_code: 324A29
-      song_name: 愛情
-      content_type: ''
-  - song_name: あなたとふたりで 〜Be with me all day long〜
-    song_alias:
-    esong_code: 319A22
-    t_singer_master_id: '10540'
-    singer_name: 傳田 真央
-    singer_alias:
-    available_date: '2000-04-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あなたとふたりて
-    singer_name_ruby: てんたまお
-    song_variation:
-    - esong_code: 319A22
-      song_name: あなたとふたりで 〜Be with me all day long〜
-      content_type: ''
-  - song_name: 姉っこ酒場
-    song_alias:
-    esong_code: 327B38
-    t_singer_master_id: '2014'
-    singer_name: 藤野 とし恵
-    singer_alias:
-    available_date: '2000-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あねつこさかは
-    singer_name_ruby: ふしのとしえ
-    song_variation:
-    - esong_code: 327B38
-      song_name: 姉っこ酒場
-      content_type: ''
-  - song_name: 祈り
-    song_alias:
-    esong_code: 309A33
-    t_singer_master_id: '10550'
-    singer_name: 小林 建樹
-    singer_alias:
-    available_date: '2000-04-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いのり
-    singer_name_ruby: こはやしたてき
-    song_variation:
-    - esong_code: 309A33
-      song_name: 祈り
-      content_type: ''
-  - song_name: wait&see 〜リスク〜
-    song_alias:
-    esong_code: 327A27
-    t_singer_master_id: '8713'
-    singer_name: 宇多田 ヒカル
-    singer_alias:
-    available_date: '2000-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うえいとあんとし
-    singer_name_ruby: うたたひかる
-    song_variation:
-    - esong_code: 327A27
-      song_name: wait&see 〜リスク〜
-      content_type: ''
-  - song_name: 海へと
-    song_alias:
-    esong_code: 324A39
-    t_singer_master_id: '7030'
-    singer_name: PUFFY(PUFFY AMIYUMI)
-    singer_alias:
-    available_date: '2000-04-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うみへと
-    singer_name_ruby: はふい
-    song_variation:
-    - esong_code: 324A39
-      song_name: 海へと
-      content_type: ''
-  - song_name: 裏窓
-    song_alias:
-    esong_code: 43A4
-    t_singer_master_id: '2302'
+  - t_karaoke_master_id: 2034
+    song_name: 美幌峠(びほろとうげ)
+    song_kana: ひほろとうけ
+    t_singer_master_id: 2302
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ひほろとうけ
     singer_name: 美空 ひばり
     singer_alias:
-    available_date: '2000-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うらまと
     singer_name_ruby: みそらひはり
-    song_variation:
-    - esong_code: 43A4
-      song_name: 裏窓
-      content_type: ''
-  - song_name: EMOTION
-    song_alias:
-    esong_code: 325B39
-    t_singer_master_id: '8621'
-    singer_name: ZEPPET STORE
-    singer_alias:
-    available_date: '2000-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えもしよん
-    singer_name_ruby: せへつとすとあ
-    song_variation:
-    - esong_code: 325B39
-      song_name: EMOTION
-      content_type: ''
-  - song_name: 男龍
-    song_alias:
-    esong_code: 327B31
-    t_singer_master_id: '8746'
-    singer_name: 髙城 靖雄(水原達矢)
-    singer_alias:
-    available_date: '2000-04-12'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとこりゆう
-    singer_name_ruby: たかしようやすお
-    song_variation:
-    - esong_code: 327B31
-      song_name: 男龍
-      content_type: ''
-  - song_name: 思い出はいらない
-    song_alias:
-    esong_code: 318B28
-    t_singer_master_id: '10603'
-    singer_name: ロッキンチェアー
-    singer_alias:
-    available_date: '2000-04-10'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいてはいらない
-    singer_name_ruby: ろつきんちえあ
-    song_variation:
-    - esong_code: 318B28
-      song_name: 思い出はいらない
-      content_type: ''
-  - song_name: 親ごころ
-    song_alias:
-    esong_code: 302A21
-    t_singer_master_id: '10110'
-    singer_name: 大泉 逸郎
-    singer_alias:
-    available_date: '2000-04-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おやこころ
-    singer_name_ruby: おおいすみいつろう
-    song_variation:
-    - esong_code: 302A21
-      song_name: 親ごころ
-      content_type: ''
-  - song_name: 泳げない魚 feat.CA
-    song_alias:
-    esong_code: 330B21
-    t_singer_master_id: '8506'
-    singer_name: 野猿
-    singer_alias:
-    available_date: '2000-04-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: およけないさかな
-    singer_name_ruby: やえん
-    song_variation:
-    - esong_code: 330B21
-      song_name: 泳げない魚 feat.CA
-      content_type: ''
-  - song_name: オレンジ色の太陽
-    song_alias:
-    esong_code: 326B31
-    t_singer_master_id: '3079'
-    singer_name: TOKIO
-    singer_alias:
-    available_date: '2000-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おれんしいろのたい
-    singer_name_ruby: ときお
-    song_variation:
-    - esong_code: 326B31
-      song_name: オレンジ色の太陽
-      content_type: ''
-  - song_name: on the way to YOU featuring KEIKO
-    song_alias:
-    esong_code: 324A27
-    t_singer_master_id: '6369'
-    singer_name: globe
-    singer_alias:
-    available_date: '2000-04-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんさうえいとうゆ
-    singer_name_ruby: くろふ
-    song_variation:
-    - esong_code: 324A27
-      song_name: on the way to YOU featuring KEIKO
-      content_type: ''
-  - song_name: 女のいのち
-    song_alias:
-    esong_code: 309B26
-    t_singer_master_id: '816'
-    singer_name: 香田 晋
-    singer_alias:
-    available_date: '2000-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのいのち
-    singer_name_ruby: こうたしん
-    song_variation:
-    - esong_code: 309B26
-      song_name: 女のいのち
-      content_type: ''
-  - song_name: おんなの涙
-    song_alias:
-    esong_code: 327A29
-    t_singer_master_id: '194'
-    singer_name: 石原 詢子
-    singer_alias:
-    available_date: '2000-04-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなのなみた
-    singer_name_ruby: いしはらしゆんこ
-    song_variation:
-    - esong_code: 327A29
-      song_name: おんなの涙
-      content_type: ''
-  - song_name: Only One〜オンリー・ワン〜
-    song_alias:
-    esong_code: 318B39
-    t_singer_master_id: '1921'
-    singer_name: 広瀬 香美
-    singer_alias:
-    available_date: '2000-04-05'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんりわん
-    singer_name_ruby: ひろせこうみ
-    song_variation:
-    - esong_code: 318B39
-      song_name: Only One〜オンリー・ワン〜
-      content_type: ''
-  - song_name: カミカゼBOWZキドウタイ
-    song_alias:
-    esong_code: 326B32
-    t_singer_master_id: '7610'
-    singer_name: CASCADE
-    singer_alias:
-    available_date: '2000-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かみかせほうす
-    singer_name_ruby: かすけと
-    song_variation:
-    - esong_code: 326B32
-      song_name: カミカゼBOWZキドウタイ
-      content_type: ''
-  - song_name: 観覧車
-    song_alias:
-    esong_code: 235B28
-    t_singer_master_id: '2498'
-    singer_name: 山根 康広
-    singer_alias:
-    available_date: '2000-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かんらんしや
-    singer_name_ruby: やまねやすひろ
-    song_variation:
-    - esong_code: 235B28
-      song_name: 観覧車
-      content_type: ''
-  - song_name: Key
-    song_alias:
-    esong_code: 326A35
-    t_singer_master_id: '7314'
-    singer_name: 奥井 雅美
-    singer_alias:
-    available_date: '2000-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: アキハバラ電脳組<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: き
-    singer_name_ruby: おくいまさみ
-    song_variation:
-    - esong_code: 326A35
-      song_name: Key
-      content_type: ''
-  - song_name: 君を信じて
-    song_alias:
-    esong_code: 327B35
-    t_singer_master_id: '1710'
-    singer_name: 西方 裕之
-    singer_alias:
-    available_date: '2000-04-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみをしんして
-    singer_name_ruby: にしかたひろゆき
-    song_variation:
-    - esong_code: 327B35
-      song_name: 君を信じて
-      content_type: ''
-  - song_name: キャプテンウルトラ
-    song_alias:
-    esong_code: 94B12
-    t_singer_master_id: '78587'
-    singer_name: ボーカルショップ&マイスタージンガー&上高田少年合唱団
-    singer_alias:
-    available_date: '2000-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: キャプテンウルトラ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやふてんうるとら
-    singer_name_ruby: ほかるしよつふあんとまいすたし
-    song_variation:
-    - esong_code: 94B12
-      song_name: キャプテンウルトラ
-      content_type: ''
-  - song_name: can't hold me back
-    song_alias:
-    esong_code: 327B33
-    t_singer_master_id: '10282'
-    singer_name: 小柳 ゆき
-    singer_alias:
-    available_date: '2000-04-19'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きやんとほるとみ
-    singer_name_ruby: こやなきゆき
-    song_variation:
-    - esong_code: 327B33
-      song_name: can't hold me back
-      content_type: ''
-  - song_name: くちづけ
-    song_alias:
-    esong_code: 326B33
-    t_singer_master_id: '10445'
-    singer_name: BAISER
-    singer_alias:
-    available_date: '2000-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くちつけ
-    singer_name_ruby: へせ
-    song_variation:
-    - esong_code: 326B33
-      song_name: くちづけ
-      content_type: ''
-  - song_name: 靴は履いたまま
-    song_alias:
-    esong_code: 326A37
-    t_singer_master_id: '7456'
-    singer_name: ゴスペラーズ(The Gospellers)
-    singer_alias:
-    available_date: '2000-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くつははいたまま
-    singer_name_ruby: こすへらす
-    song_variation:
-    - esong_code: 326A37
-      song_name: 靴は履いたまま
-      content_type: ''
-  - song_name: Close To Your Heart
-    song_alias:
-    esong_code: 318B30
-    t_singer_master_id: '10604'
-    singer_name: 愛内 里菜
-    singer_alias:
-    available_date: '2000-04-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: モンスターファーム 〜円盤石の秘密〜<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: くろすとうゆあは
-    singer_name_ruby: あいうちりな
-    song_variation:
-    - esong_code: 318B30
-      song_name: Close To Your Heart
-      content_type: ''
-  - song_name: ケ・セラ・セラ
-    song_alias:
-    esong_code: 326A39
-    t_singer_master_id: '10692'
-    singer_name: 渕上 史貴
-    singer_alias:
-    available_date: '2000-04-30'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: オレっ!トンバ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: けせらせら
-    singer_name_ruby: ふちかみふみたか
-    song_variation:
-    - esong_code: 326A39
-      song_name: ケ・セラ・セラ
-      content_type: ''
-  - song_name: GAME
-    song_alias:
-    esong_code: 324A38
-    t_singer_master_id: '10007'
-    singer_name: bird
-    singer_alias:
-    available_date: '2000-04-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: けむ
-    singer_name_ruby: はと
-    song_variation:
-    - esong_code: 324A38
-      song_name: GAME
-      content_type: ''
-  - song_name: 恋と欲望
-    song_alias:
-    esong_code: 323B40
-    t_singer_master_id: '7413'
+    introcha: あなた忘れる 旅だけど 霧が心を
+    introcha_ruby: あなたわすれるたひたけときりかこ
+    esong_code: 21B25
+    dtordinal: 1
+  - t_karaoke_master_id: 3651
+    song_name: 根性戦隊ガッツマン
+    song_kana: こんしようせんたい
+    t_singer_master_id: 7413
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: "<根性戦隊ガッツマン>"
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: こんしようせんたい
     singer_name: 宮村 優子
     singer_alias:
-    available_date: '2000-04-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 渋谷でチュッ!<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいとよくほう
     singer_name_ruby: みやむらゆうこ
-    song_variation:
-    - esong_code: 323B40
-      song_name: 恋と欲望
-      content_type: ''
-  - song_name: 神戸へ来てくれませんか
-    song_alias:
-    esong_code: 330B22
-    t_singer_master_id: '6191'
+    tie_up: 根性戦隊ガッツマン<番組名>
+    tie_up_ruby: こんしようせんたいかつつまん
+    introcha: 根性戦隊ガッツマン
+    introcha_ruby: こんしようせんたいかつつまん
+    esong_code: 38A25
+    dtordinal: 2
+  - t_karaoke_master_id: 4120
+    song_name: 裏窓
+    song_kana: うらまと
+    t_singer_master_id: 2302
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: うらまと
+    singer_name: 美空 ひばり
+    singer_alias:
+    singer_name_ruby: みそらひはり
+    introcha: 誰もいない 誰もいない
+    introcha_ruby: たれもいないたれもいない
+    esong_code: 43A4
+    dtordinal: 3
+  - t_karaoke_master_id: 4630
+    song_name: 奈落の底
+    song_kana: ならくのそこ
+    t_singer_master_id: 7756
+    mt_country_code_id: 0
+    karaoke_genre_id: 0
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ならくのそこ
+    singer_name: Laputa
+    singer_alias:
+    singer_name_ruby: らひゆた
+    introcha: 逆様に吊り下げた 狂った忌まわしい
+    introcha_ruby:
+    esong_code: 48A24
+    dtordinal: 4
+  - t_karaoke_master_id: 9175
+    song_name: キャプテンウルトラ
+    song_kana: きやふてんうるとら
+    t_singer_master_id: 78587
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: 特撮「キャプテンウルトラ」オープニングテーマ
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: きやふてんうるとら
+    singer_name: ボーカルショップ&マイスタージンガー&上高田少年合唱団
+    singer_alias:
+    singer_name_ruby: ほかるしよつふあんとまいすたし
+    tie_up: キャプテンウルトラ<番組名>
+    tie_up_ruby: きやふてんうるとら
+    introcha: 月も火星もはるかに越えて
+    introcha_ruby:
+    esong_code: 94B12
+    dtordinal: 5
+  - t_karaoke_master_id: 18545
+    song_name: 大切に思えるものが一緒ならいいよね
+    song_kana: たいせつにおもえるも
+    t_singer_master_id: 2894
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: たいせつにおもえるも
+    singer_name: 國府田 マリ子
+    singer_alias:
+    singer_name_ruby: こうたまりこ
+    introcha: 大切に思えるものが
+    introcha_ruby: たいせつにおもえるものか
+    esong_code: 190A23
+    dtordinal: 6
+  - t_karaoke_master_id: 20464
+    song_name: 待っていました
+    song_kana: まつていました
+    t_singer_master_id: 2894
+    mt_country_code_id: 0
+    karaoke_genre_id: 0
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: まつていました
+    singer_name: 國府田 マリ子
+    singer_alias:
+    singer_name_ruby: こうたまりこ
+    introcha: あなたを待っていました
+    introcha_ruby: あなたをまつていました
+    esong_code: 209B31
+    dtordinal: 7
+  - t_karaoke_master_id: 21855
+    song_name: はるよこい
+    song_kana: はるよこい
+    t_singer_master_id: 1603
+    mt_country_code_id: 0
+    karaoke_genre_id: 6
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: はるよこい
+    singer_name: 童謡
+    singer_alias:
+    singer_name_ruby: とうよう
+    introcha: はるよこい はやくこい
+    introcha_ruby: はるよこいはやくこい
+    esong_code: 224A1
+    dtordinal: 8
+  - t_karaoke_master_id: 22600
+    song_name: 炎の螢
+    song_kana: ひのほたる
+    t_singer_master_id: 360
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-21T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ひのほたる
+    singer_name: 大川 栄策
+    singer_alias:
+    singer_name_ruby: おおかわえいさく
+    introcha: 罪を承知の恋だけど ついて
+    introcha_ruby: つみをしようちのこいたけと
+    esong_code: 231B11
+    dtordinal: 9
+  - t_karaoke_master_id: 23009
+    song_name: 観覧車
+    song_kana: かんらんしや
+    t_singer_master_id: 2498
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: かんらんしや
+    singer_name: 山根 康広
+    singer_alias:
+    singer_name_ruby: やまねやすひろ
+    introcha: 深夜の遊園地 人気もない駐車場
+    introcha_ruby: しんやのゆうえんちひとけもないちゆうしや
+    esong_code: 235B28
+    dtordinal: 10
+  - t_karaoke_master_id: 24736
+    song_name: TEENAGE UNIVERSE〜Chewing Gum Baby〜
+    song_kana: ていんえいしゆに
+    t_singer_master_id: 10098
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ていんえいしゆに
+    singer_name: Crystal Kay
+    singer_alias:
+    singer_name_ruby: くりすたるけい
+    introcha: 君たちの汚れない無邪気さが
+    introcha_ruby: きみたちのけかれないむしやきさか
+    esong_code: 253A40
+    dtordinal: 11
+  - t_karaoke_master_id: 25422
+    song_name: 哀しみの影
+    song_kana: かなしみのかけ
+    song_alias: Yesterday Yes A Day
+    j_song_name: 哀しみの影
+    j_song_kana: YESTERDAYYESADAY
+    t_singer_master_id: 10316
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: TBS系ドラマ「美しい人」オープニングテーマ
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: かなしみのかけ
+    singer_name: ジェーン・バーキン
+    singer_alias: Jane Birkin
+    singer_name_ruby: しえんはきん
+    introcha: Yesterday yes a day like any day
+    introcha_ruby: YESTERDAYYESADAYLIKE
+    esong_code: 260A40
+    dtordinal: 12
+  - t_karaoke_master_id: 25851
+    song_name: Till The End 〜終わらない愛を〜
+    song_kana: ているしえんとお
+    t_singer_master_id: 10103
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: TVアニメ「神風怪盗ジャンヌ」エンディングテーマ
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ているしえんとお
+    singer_name: HiBiKi
+    singer_alias:
+    singer_name_ruby: ひひき
+    tie_up: 神風怪盗ジャンヌ<番組名>
+    tie_up_ruby: かみかせかいとうしやんぬ
+    introcha: 殴り倒したって倒しきれやしない
+    introcha_ruby: なくりたおしたつてたおしきれやしない
+    esong_code: 264B28
+    dtordinal: 13
+  - t_karaoke_master_id: 28792
+    song_name: 冬のバラード
+    song_kana: ふゆのはらと
+    t_singer_master_id: 6208
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ふゆのはらと
+    singer_name: FIELD OF VIEW(the FIELD OF VIEW)
+    singer_alias:
+    singer_name_ruby: ふいるとおふひゆ
+    introcha: 午後から雪になった街は銀色
+    introcha_ruby: ここからゆきになつたまちはきんいろ
+    esong_code: 294B29
+    dtordinal: 14
+  - t_karaoke_master_id: 29475
+    song_name: CENTURY COLOR
+    song_kana: せんちゆりから
+    t_singer_master_id: 10506
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: "<∀ガンダム>"
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: せんちゆりから
+    singer_name: RAY-GUNS
+    singer_alias:
+    singer_name_ruby: れいかんす
+    tie_up: "∀ガンダム<番組名>"
+    tie_up_ruby: たんえかんた
+    introcha: Century Color Million Color
+    introcha_ruby: せんちゆりからみりおんから
+    esong_code: 301B26
+    dtordinal: 15
+  - t_karaoke_master_id: 29519
+    song_name: 親ごころ
+    song_kana: おやこころ
+    t_singer_master_id: 10110
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: おやこころ
+    singer_name: 大泉 逸郎
+    singer_alias:
+    singer_name_ruby: おおいすみいつろう
+    introcha: 嫁という字を よく見てごらん
+    introcha_ruby: よめというしをよくみてこらん
+    esong_code: 302A21
+    dtordinal: 16
+  - t_karaoke_master_id: 30217
+    song_name: 祈り
+    song_kana: いのり
+    t_singer_master_id: 10550
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-08T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: いのり
+    singer_name: 小林 建樹
+    singer_alias:
+    singer_name_ruby: こはやしたてき
+    introcha: 奇跡を信じてたのさ
+    introcha_ruby: きせきをしんしてたのさ
+    esong_code: 309A33
+    dtordinal: 17
+  - t_karaoke_master_id: 30259
+    song_name: 女のいのち
+    song_kana: おんなのいのち
+    t_singer_master_id: 816
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: おんなのいのち
+    singer_name: 香田 晋
+    singer_alias:
+    singer_name_ruby: こうたしん
+    introcha: 俺のこころに 咲く花は
+    introcha_ruby: おれのこころにさくはな
+    esong_code: 309B26
+    dtordinal: 18
+  - t_karaoke_master_id: 31099
+    song_name: Stay by my side
+    song_kana: すていはいまいさい
+    t_singer_master_id: 10470
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: アルバム「Wish You After Tomorrow」より
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すていはいまいさい
+    singer_name: 倉木 麻衣
+    singer_alias:
+    singer_name_ruby: くらきまい
+    introcha: I want to know いつから
+    introcha_ruby: あいうおんととのういつから
+    esong_code: 318A33
+    dtordinal: 19
+  - t_karaoke_master_id: 31103
+    song_name: ふたりの止まり木
+    song_kana: ふたりのとまりき
+    t_singer_master_id: 611
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ふたりのとまりき
+    singer_name: 冠 二郎
+    singer_alias:
+    singer_name_ruby: かんむりしろう
+    introcha: この世で心を許すのは たったひとりの
+    introcha_ruby: このよてこころはゆるす
+    esong_code: 318A37
+    dtordinal: 20
+  - t_karaoke_master_id: 31105
+    song_name: 眠っちまった恋人は
+    song_kana: ねむつちまつたこいひ
+    t_singer_master_id: 542
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ねむつちまつたこいひ
+    singer_name: 門倉 有希
+    singer_alias:
+    singer_name_ruby: かとくらゆき
+    introcha: 雪が降るよ 夜の街に 硝子こすり
+    introcha_ruby: ゆきかふるよよるのまち
+    esong_code: 318A39
+    dtordinal: 21
+  - t_karaoke_master_id: 31143
+    song_name: 思い出はいらない
+    song_kana: おもいてはいらない
+    t_singer_master_id: 10603
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-10T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: おもいてはいらない
+    singer_name: ロッキンチェアー
+    singer_alias:
+    singer_name_ruby: ろつきんちえあ
+    introcha: 僕の想いは風に乗り はるかきのうに
+    introcha_ruby: ほくのおもいはかせにのりはるかきのう
+    esong_code: 318B28
+    dtordinal: 22
+  - t_karaoke_master_id: 31145
+    song_name: Close To Your Heart
+    song_kana: くろすとうゆあは
+    t_singer_master_id: 10604
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: "<モンスターファーム 〜円盤石の秘密〜>"
+    available_date: '2000-04-20T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: くろすとうゆあは
+    singer_name: 愛内 里菜
+    singer_alias:
+    singer_name_ruby: あいうちりな
+    tie_up: モンスターファーム 〜円盤石の秘密〜<番組名>
+    tie_up_ruby: もんすたふあむえんはんせきのひみつ
+    introcha: 凍えそうな夜に 抱きしめるほど
+    introcha_ruby:
+    esong_code: 318B30
+    dtordinal: 23
+  - t_karaoke_master_id: 31147
+    song_name: STYLE
+    song_kana: すたいる
+    t_singer_master_id: 8263
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: グンゼ「サブリナ」CMソング
+    available_date: '2000-04-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すたいる
+    singer_name: 井手 麻理子
+    singer_alias:
+    singer_name_ruby: いてまりこ
+    introcha: 溢れ出す想いを奏でながら
+    introcha_ruby:
+    esong_code: 318B32
+    dtordinal: 24
+  - t_karaoke_master_id: 31151
+    song_name: 三日三晩
+    song_kana: みつかみはん
+    t_singer_master_id: 8725
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: みつかみはん
+    singer_name: 黒木 梨花
+    singer_alias:
+    singer_name_ruby: くろきりか
+    introcha: やっぱり男だね 根っから漁師だね
+    introcha_ruby: やつはりおとこたねねつからりようした
+    esong_code: 318B36
+    dtordinal: 25
+  - t_karaoke_master_id: 31153
+    song_name: 幸せのかたち
+    song_kana: しあわせのかたち
+    t_singer_master_id: 1336
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: 日本テレビ系全国ネット「火曜サスペンス劇場」主題歌
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: しあわせのかたち
+    singer_name: 高橋 真梨子
+    singer_alias:
+    singer_name_ruby: たかはしまりこ
+    introcha: 二人で歩くと決めたはずが
+    introcha_ruby: ふたりてあるくときめた
+    esong_code: 318B38
+    dtordinal: 26
+  - t_karaoke_master_id: 31154
+    song_name: Only One〜オンリー・ワン〜
+    song_kana: おんりわん
+    t_singer_master_id: 1921
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: おんりわん
+    singer_name: 広瀬 香美
+    singer_alias:
+    singer_name_ruby: ひろせこうみ
+    introcha: Only Oneな存在 誰にもいる
+    introcha_ruby: おんりわんなそんさい
+    esong_code: 318B39
+    dtordinal: 27
+  - t_karaoke_master_id: 31186
+    song_name: あなたとふたりで 〜Be with me all day long〜
+    song_kana: あなたとふたりて
+    t_singer_master_id: 10540
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: あなたとふたりて
+    singer_name: 傳田 真央
+    singer_alias:
+    singer_name_ruby: てんたまお
+    introcha: ただ遠くから踊っているのを見ていた
+    introcha_ruby: たたとおくからおとつている
+    esong_code: 319A22
+    dtordinal: 28
+  - t_karaoke_master_id: 31297
+    song_name: 花になる
+    song_kana: はなになる
+    t_singer_master_id: 10051
+    mt_country_code_id: 0
+    karaoke_genre_id: 9
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: "<みんなのうた>"
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: はなになる
+    singer_name: 夏川 りみ
+    singer_alias:
+    singer_name_ruby: なつかわりみ
+    tie_up: みんなのうた<番組名>
+    tie_up_ruby: みんなのうた
+    introcha: 強い風にふるえても 冷たい雨に打たれても
+    introcha_ruby: つよいかせにふるえても
+    esong_code: 320A35
+    dtordinal: 29
+  - t_karaoke_master_id: 31629
+    song_name: 夢 DE 愛魔性
+    song_kana: ゆめてあいましよう
+    t_singer_master_id: 8219
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ゆめてあいましよう
+    singer_name: 石井 竜也
+    singer_alias:
+    singer_name_ruby: いしいたつや
+    introcha: SWEET HEART 夢で逢いましょう
+    introcha_ruby: すういとはとゆめてあいましよう
+    esong_code: 323B24
+    dtordinal: 30
+  - t_karaoke_master_id: 31631
+    song_name: my best friend
+    song_kana: まいへすとふれんと
+    t_singer_master_id: 2894
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: まいへすとふれんと
+    singer_name: 國府田 マリ子
+    singer_alias:
+    singer_name_ruby: こうたまりこ
+    introcha: 月がにじんでるぬるい風人影もなくて
+    introcha_ruby: つきかにしんてるぬるいかせひとか
+    esong_code: 323B26
+    dtordinal: 31
+  - t_karaoke_master_id: 31634
+    song_name: ジ・アニマル・ソング
+    song_kana: しあにまるそんく
+    song_alias: The Animal Song
+    j_song_name: ジ・アニマル・ソング
+    j_song_kana: THEANIMALSONG
+    t_singer_master_id: 10370
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 7
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: しあにまるそんく
+    singer_name: サヴェージ・ガーデン
+    singer_alias: Savage Garden
+    singer_name_ruby: さへしかてん
+    introcha: When superstars and cannonballs
+    introcha_ruby:
+    esong_code: 323B29
+    dtordinal: 32
+  - t_karaoke_master_id: 31635
+    song_name: fly away
+    song_kana: ふらいあうえい
+    t_singer_master_id: 5903
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ふらいあうえい
+    singer_name: 椎名 へきる
+    singer_alias:
+    singer_name_ruby: しいなへきる
+    introcha: 息も出来ないほど あなた 愛してるから
+    introcha_ruby: いきもてきないほとあなたあいしてるか
+    esong_code: 323B30
+    dtordinal: 33
+  - t_karaoke_master_id: 31636
+    song_name: ユーブ・ガット・ア・ウェイ
+    song_kana: ゆふかつとあう
+    song_alias: You've Got A Way
+    j_song_name: ユーブ・ガット・ア・ウェイ
+    j_song_kana: YOUVEGOTAWAY
+    t_singer_master_id: 10313
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ゆふかつとあう
+    singer_name: シャナイア・トゥエイン
+    singer_alias: Shania Twain
+    singer_name_ruby: しやないあとうえいん
+    introcha: You got a way with me Somehow you got me to believ
+    introcha_ruby: YOUGOTAWAYWITHMESOME
+    esong_code: 323B31
+    dtordinal: 34
+  - t_karaoke_master_id: 31637
+    song_name: ブラン・ニュー・デイ
+    song_kana: ふらんにゆてい
+    song_alias: Brand New Day
+    j_song_name: ブラン・ニュー・デイ
+    j_song_kana: BRANDNEWDAY
+    t_singer_master_id: 3036
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ふらんにゆてい
+    singer_name: スティング
+    singer_alias: Sting
+    singer_name_ruby: すていんく
+    introcha: How many of you people out there
+    introcha_ruby: HOWMANYOFYOUPEOPLEOU
+    esong_code: 323B32
+    dtordinal: 35
+  - t_karaoke_master_id: 31638
+    song_name: シャ・ラ・ラ・ラ・リー
+    song_kana: しやらららり
+    song_alias: Sha-La-La-La-Lee
+    j_song_name: シャ・ラ・ラ・ラ・リー
+    j_song_kana: SHALALALALEE
+    t_singer_master_id: 10660
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: しやらららり
+    singer_name: スモール・フェイセス
+    singer_alias: The Small Faces
+    singer_name_ruby: すもるふえいせす
+    introcha: Picked her up on a friday night
+    introcha_ruby: PICKEDHERUPONAFRIDAY
+    esong_code: 323B33
+    dtordinal: 36
+  - t_karaoke_master_id: 31641
+    song_name: スプーン
+    song_kana: すふん
+    song_alias: Spoon
+    j_song_name: スプーン
+    j_song_kana: SPOON
+    t_singer_master_id: 10661
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すふん
+    singer_name: チボ・マット
+    singer_alias: Cibo Matto
+    singer_name_ruby: ちほまつと
+    introcha: Though the water boils,don't turn off the heat
+    introcha_ruby: THOUGHTHEWATERBOILSD
+    esong_code: 323B36
+    dtordinal: 37
+  - t_karaoke_master_id: 31643
+    song_name: ふわり
+    song_kana: ふわり
+    t_singer_master_id: 4689
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ふわり
+    singer_name: 林原 めぐみ
+    singer_alias:
+    singer_name_ruby: はやしはらめくみ
+    introcha: ふわりふわり歩いていたいけど
+    introcha_ruby: ふわりふわりあるいていたいけと
+    esong_code: 323B38
+    dtordinal: 38
+  - t_karaoke_master_id: 31644
+    song_name: 夢 Hurry Up
+    song_kana: ゆめはりあつふ
+    t_singer_master_id: 4689
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: "<万能文化猫娘 (OVA)>"
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ゆめはりあつふ
+    singer_name: 林原 めぐみ
+    singer_alias:
+    singer_name_ruby: はやしはらめくみ
+    tie_up: 万能文化猫娘 (OVA)<番組名>
+    tie_up_ruby: はんのうふんかねこむすめ
+    introcha: キラリと光る流れ星
+    introcha_ruby: きらりとひかるなかれほし
+    esong_code: 323B39
+    dtordinal: 39
+  - t_karaoke_master_id: 31645
+    song_name: 恋と欲望
+    song_kana: こいとよくほう
+    t_singer_master_id: 7413
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: "<渋谷でチュッ!>"
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: こいとよくほう
+    singer_name: 宮村 優子
+    singer_alias:
+    singer_name_ruby: みやむらゆうこ
+    tie_up: 渋谷でチュッ!<番組名>
+    tie_up_ruby: しふやてちゆつ
+    introcha: ウキウキ街行き女の子
+    introcha_ruby: うきうきまちゆきおんなのこ
+    esong_code: 323B40
+    dtordinal: 40
+  - t_karaoke_master_id: 31675
+    song_name: 名探偵は人生を答えず
+    song_kana: めいたんていはしん
+    t_singer_master_id: 7413
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: めいたんていはしん
+    singer_name: 宮村 優子
+    singer_alias:
+    singer_name_ruby: みやむらゆうこ
+    introcha: ウーワ探偵に聞いたよ
+    introcha_ruby: うわたんていにきいたよ
+    esong_code: 324A21
+    dtordinal: 41
+  - t_karaoke_master_id: 31676
+    song_name: サテンの夜
+    song_kana: さてんのよる
+    song_alias: Nights In White Satin
+    j_song_name: サテンの夜
+    j_song_kana: NIGHTSINWHITESATIN
+    t_singer_master_id: 10387
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: さてんのよる
+    singer_name: ザ・ムーディ・ブルース
+    singer_alias: The Moody Blues
+    singer_name_ruby: さむていふるす
+    introcha: Nights in white satin,never reaching the end
+    introcha_ruby: NIGHTSINWHITESATINNE
+    esong_code: 324A22
+    dtordinal: 42
+  - t_karaoke_master_id: 31677
+    song_name: ストリート・ファイティング・マン
+    song_kana: すとりとふあいてい
+    song_alias: Street Fighting Man
+    j_song_name: ストリート・ファイティング・マン
+    j_song_kana: STREETFIGHTINGMAN
+    t_singer_master_id: 2615
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すとりとふあいてい
+    singer_name: ザ・ローリング・ストーンズ
+    singer_alias: The Rolling Stones
+    singer_name_ruby: さろりんくすとん
+    introcha: Ev'rywhere I hear the sound of marching
+    introcha_ruby:
+    esong_code: 324A23
+    dtordinal: 43
+  - t_karaoke_master_id: 31678
+    song_name: SUNRISE日本
+    song_kana: さんらいすにつほ
+    t_singer_master_id: 10314
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: さんらいすにつほ
+    singer_name: 嵐
+    singer_alias:
+    singer_name_ruby: あらし
+    introcha: 静かな風が通りすぎた
+    introcha_ruby: しすかなかせかとおりすきた
+    esong_code: 324A24
+    dtordinal: 44
+  - t_karaoke_master_id: 31679
+    song_name: HORIZON
+    song_kana: ほらいそん
+    t_singer_master_id: 10314
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系「第31回春の高校バレー」イメージソング
+    available_date: '2000-04-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ほらいそん
+    singer_name: 嵐
+    singer_alias:
+    singer_name_ruby: あらし
+    introcha: 今日の不鮮明を責めろ
+    introcha_ruby:
+    esong_code: 324A25
+    dtordinal: 45
+  - t_karaoke_master_id: 31680
+    song_name: SHOCK HEARTS
+    song_kana: しよつくはつ
+    t_singer_master_id: 2997
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: しよつくはつ
+    singer_name: THE YELLOW MONKEY
+    singer_alias:
+    singer_name_ruby: さいえろもんき
+    introcha: 触!!謎めいた表情が期待をペロリと
+    introcha_ruby: しよくなそめいたひようしよう
+    esong_code: 324A26
+    dtordinal: 46
+  - t_karaoke_master_id: 31681
+    song_name: on the way to YOU featuring KEIKO
+    song_kana: おんさうえいとうゆ
+    t_singer_master_id: 6369
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-13T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: おんさうえいとうゆ
+    singer_name: globe
+    singer_alias:
+    singer_name_ruby: くろふ
+    introcha: あの頃から聞こえていたの 声にならずに泣いていたの
+    introcha_ruby: あのころからきこえて
+    esong_code: 324A27
+    dtordinal: 47
+  - t_karaoke_master_id: 31683
+    song_name: 愛情
+    song_kana: あいしよう
+    t_singer_master_id: 10282
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-12T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: あいしよう
+    singer_name: 小柳 ゆき
+    singer_alias:
+    singer_name_ruby: こやなきゆき
+    introcha: 壊れそうな 明日に向かい
+    introcha_ruby: こわれそうなあすにむかい
+    esong_code: 324A29
+    dtordinal: 48
+  - t_karaoke_master_id: 31685
+    song_name: 忘却の空
+    song_kana: ほうきやくのそら
+    t_singer_master_id: 10106
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-12T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ほうきやくのそら
+    singer_name: SADS
+    singer_alias:
+    singer_name_ruby: さつす
+    introcha: 乾いた風に吹かれ 独りきり歩いてる
+    introcha_ruby: かわいたかせにふかれひとり
+    esong_code: 324A31
+    dtordinal: 49
+  - t_karaoke_master_id: 31691
+    song_name: Truth of Time
+    song_kana: とうるすおふたい
+    t_singer_master_id: 1462
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: 日本テレコム　ＴＵＢＥハワイキャンペーンソング
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: とうるすおふたい
+    singer_name: TUBE
+    singer_alias:
+    singer_name_ruby: ちゆふ
+    introcha: 抱きしめてもkissしても なぜか不安がつのる
+    introcha_ruby: たきしめてもきすを
+    esong_code: 324A37
+    dtordinal: 50
+  - t_karaoke_master_id: 31692
+    song_name: GAME
+    song_kana: けむ
+    t_singer_master_id: 10007
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-02T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: けむ
+    singer_name: bird
+    singer_alias:
+    singer_name_ruby: はと
+    introcha: 走り出す誘惑に飛び乗って
+    introcha_ruby: はしりたすゆうわくにとひのつて
+    esong_code: 324A38
+    dtordinal: 51
+  - t_karaoke_master_id: 31693
+    song_name: 海へと
+    song_kana: うみへと
+    t_singer_master_id: 7030
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 9
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: うみへと
+    singer_name: PUFFY(PUFFY AMIYUMI)
+    singer_alias:
+    singer_name_ruby: はふい
+    introcha: あなたも私たちも おそらく誰もがみな
+    introcha_ruby: あなたもわたしたちもおそらくたれもか
+    esong_code: 324A39
+    dtordinal: 52
+  - t_karaoke_master_id: 31731
+    song_name: WORDS OF LOVE
+    song_kana: わすおふらふ
+    t_singer_master_id: 911
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: カネボウ美白美容液「フレッシェルホワイトC クリアエッセンスEX」CMソング
+    available_date: '2000-04-12T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: わすおふらふ
+    singer_name: 酒井 法子
+    singer_alias:
+    singer_name_ruby: さかいのりこ
+    introcha: 今波の音に 揺られながら瞳閉じて
+    introcha_ruby: いまなみのおとにゆれ
+    esong_code: 324B28
+    dtordinal: 53
+  - t_karaoke_master_id: 31732
+    song_name: Sea Side Jet City
+    song_kana: しさいとしえつ
+    t_singer_master_id: 5059
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: テレビ朝日系「サンデージャングル」オープニング／グンゼ「ボディワイルド」CMソング
+    available_date: '2000-04-19T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: しさいとしえつ
+    singer_name: "(THE)BLANKEY JET CITY"
+    singer_alias:
+    singer_name_ruby: ふらんきしえつ
+    introcha: 夢にみた街どこにあるのか たどり着きたい
+    introcha_ruby: ゆめにみたまちのとこ
+    esong_code: 324B29
+    dtordinal: 54
+  - t_karaoke_master_id: 31733
+    song_name: ストロベリー
+    song_kana: すとろへり
+    t_singer_master_id: 10106
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-12T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すとろへり
+    singer_name: SADS
+    singer_alias:
+    singer_name_ruby: さつす
+    introcha: 届かないね 届かないね MY FLAME
+    introcha_ruby: ととかないねととかないねまいふれむ
+    esong_code: 324B30
+    dtordinal: 55
+  - t_karaoke_master_id: 31734
+    song_name: 春遠からじ
+    song_kana: はるとおからし
+    t_singer_master_id: 356
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: はるとおからし
+    singer_name: 大石 まどか(大石円)
+    singer_alias:
+    singer_name_ruby: おおいしまとか
+    introcha: 衿に輝くそのバッジ 肩を叩かれ外すのね
+    introcha_ruby: えりにかかやくそのはつし
+    esong_code: 324B31
+    dtordinal: 56
+  - t_karaoke_master_id: 31742
+    song_name: My Lover
+    song_kana: まいらは
+    t_singer_master_id: 2927
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: 全国松竹系映画「アナザヘヴン」挿入歌/テレビ朝日系ドラマ「アナザヘヴン」挿入歌
+    available_date: '2000-04-05T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: まいらは
+    singer_name: LUNA SEA
+    singer_alias:
+    singer_name_ruby: るなし
+    introcha: キミの事を見てる ずっとキミを見てる
+    introcha_ruby:
+    esong_code: 324B39
+    dtordinal: 57
+  - t_karaoke_master_id: 31743
+    song_name: "・・・to be Kissin' you（french edit）"
+    song_kana: とうひきつしんゆ
+    t_singer_master_id: 1801
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: "「ＯＮ　ＴＨＥ　ＲＯＡＤ　2001」テーマ曲"
+    available_date: '2000-04-12T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: とうひきつしんゆ
+    singer_name: 浜田 省吾
+    singer_alias:
+    singer_name_ruby: はまたしようこ
+    introcha: 夜にもたれて破り捨てられ
+    introcha_ruby: よるにもたれてやふり
+    esong_code: 324B40
+    dtordinal: 58
+  - t_karaoke_master_id: 31773
+    song_name: 16小節の恋
+    song_kana: しゆうろくしようせ
+    song_alias: Sixteen Bars
+    j_song_name: 16小節の恋
+    j_song_kana: SIXTEENBARS
+    t_singer_master_id: 1242
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: しゆうろくしようせ
+    singer_name: ザ・スタイリスティックス
+    singer_alias: The Stylistics
+    singer_name_ruby: さすたいりすていつくす
+    introcha: I wrote a love song in sixteen bars
+    introcha_ruby: IWROTEALOVESONGINSIX
+    esong_code: 325A21
+    dtordinal: 59
+  - t_karaoke_master_id: 31774
+    song_name: 宿
+    song_kana: やと
+    t_singer_master_id: 1635
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: やと
+    singer_name: 中条 きよし
+    singer_alias:
+    singer_name_ruby: なかしようきよし
+    introcha: 外は雨 海は凪 窓の外は日本海
+    introcha_ruby: そとはあめうみはなきまとのそとはにほ
+    esong_code: 325A22
+    dtordinal: 60
+  - t_karaoke_master_id: 31777
+    song_name: Smile Again
+    song_kana: すまいるあけいん
+    t_singer_master_id: 7252
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 8
+    medley_flg: 0
+    lights_flg: 0
+    information: DyDo「Ｔｉ−Ｈａ」CMソング
+    available_date: '2000-04-07T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すまいるあけいん
+    singer_name: Every Little Thing
+    singer_alias:
+    singer_name_ruby: えふりりとるしんく
+    introcha: なんとなくね ふと気がつけば考えてるよ
+    introcha_ruby: なんとなくねふときか
+    esong_code: 325A25
+    dtordinal: 61
+  - t_karaoke_master_id: 31779
+    song_name: Dragon Ashメドレー
+    song_kana: とらこんあつしゆ
+    t_singer_master_id: 8686
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_medley_id: 2
+    mt_duet_id: 6
+    medley_flg: 1
+    lights_flg: 0
+    information: Greatful Days/Deep Impact/Let yourself go,Let myself go/Mustang A
+      Go Go!!!/Viva la revolution/陽はまたのぼ
+    available_date: '2000-04-08T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: とらこんあつしゆ
+    singer_name: Dragon Ash
+    singer_alias:
+    singer_name_ruby: とらこんあつしゆ
+    introcha: JOY
+    introcha_ruby:
+    esong_code: 325A27
+    dtordinal: 62
+  - t_karaoke_master_id: 31781
+    song_name: hearts
+    song_kana: はつ
+    t_singer_master_id: 6472
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-15T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: はつ
+    singer_name: CRAZE
+    singer_alias:
+    singer_name_ruby: くれいす
+    introcha: 戻れない 君の事ばかりが夜空の下
+    introcha_ruby: もとれないきみのことはかりかよそ
+    esong_code: 325A29
+    dtordinal: 63
+  - t_karaoke_master_id: 31790
+    song_name: Looser Sugar
+    song_kana: るさしゆか
+    t_singer_master_id: 8045
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: るさしゆか
+    singer_name: Guniw Tools
+    singer_alias:
+    singer_name_ruby: くにゆうつる
+    introcha: 嘖む耳はいらない甘え聞き
+    introcha_ruby: はさむみみはいらないあまえきき
+    esong_code: 325A38
+    dtordinal: 64
+  - t_karaoke_master_id: 31823
+    song_name: MOTORIKU♂22
+    song_kana: もとりく
+    t_singer_master_id: 10084
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 7
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: もとりく
+    singer_name: BⅡR
+    singer_alias:
+    singer_name_ruby: ひとうある
+    introcha: さっきまでは居たんだ
+    introcha_ruby: さつきまてはいたんた
+    esong_code: 325B22
+    dtordinal: 65
+  - t_karaoke_master_id: 31824
+    song_name: May Day
+    song_kana: めいてい
+    t_singer_master_id: 7906
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: めいてい
+    singer_name: Plastic Tree
+    singer_alias:
+    singer_name_ruby: ふらすていつくとうり
+    introcha: ブランコの僕 ゆがむ心臓
+    introcha_ruby:
+    esong_code: 325B23
+    dtordinal: 66
+  - t_karaoke_master_id: 31840
+    song_name: EMOTION
+    song_kana: えもしよん
+    t_singer_master_id: 8621
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-19T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: えもしよん
+    singer_name: ZEPPET STORE
+    singer_alias:
+    singer_name_ruby: せへつとすとあ
+    introcha: 通り雨を窓辺からずっと 冷めた顔で
+    introcha_ruby: とおりあめをまとへからすつとさめた
+    esong_code: 325B39
+    dtordinal: 67
+  - t_karaoke_master_id: 31872
+    song_name: THANK YOU 4 EVERYDAY EVERYBODY
+    song_kana: さんきゆふおえふ
+    t_singer_master_id: 8558
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: コダック「スナップキッズ」CMソング
+    available_date: '2000-04-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: さんきゆふおえふ
+    singer_name: 鈴木 あみ
+    singer_alias:
+    singer_name_ruby: すすきあみ
+    introcha: ナンちゃってばっか言っちゃってツッコめない
+    introcha_ruby: なんちやつてはつかいつちや
+    esong_code: 326A22
+    dtordinal: 68
+  - t_karaoke_master_id: 31877
+    song_name: Heaven's Place
+    song_kana: へふんすふれい
+    t_singer_master_id: 10041
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: プレイステーション2ソフト「スカイサーファー」CMソング
+    available_date: '2000-04-19T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: へふんすふれい
+    singer_name: Janne Da Arc
+    singer_alias:
+    singer_name_ruby: しやんぬたるく
+    introcha: 遠くの空の月はもう 眠たそうで
+    introcha_ruby: とおくのそらのつきはもうねむたそうて
+    esong_code: 326A27
+    dtordinal: 69
+  - t_karaoke_master_id: 31885
+    song_name: Key
+    song_kana: き
+    t_singer_master_id: 7314
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: "<アキハバラ電脳組>"
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: き
+    singer_name: 奥井 雅美
+    singer_alias:
+    singer_name_ruby: おくいまさみ
+    tie_up: アキハバラ電脳組<番組名>
+    tie_up_ruby: あきははらてんのうくみ
+    introcha: チョット待って 何だか妙だねこの頃は
+    introcha_ruby: ちよつとまつてなんたかみようたねこの
+    esong_code: 326A35
+    dtordinal: 70
+  - t_karaoke_master_id: 31887
+    song_name: 靴は履いたまま
+    song_kana: くつははいたまま
+    t_singer_master_id: 7456
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: くつははいたまま
+    singer_name: ゴスペラーズ(The Gospellers)
+    singer_alias:
+    singer_name_ruby: こすへらす
+    introcha: 頑張りすぎて毎日 後悔はないけど
+    introcha_ruby: かんはりすきてまいにちこいかいはな
+    esong_code: 326A37
+    dtordinal: 71
+  - t_karaoke_master_id: 31889
+    song_name: ケ・セラ・セラ
+    song_kana: けせらせら
+    t_singer_master_id: 10692
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: "<オレっ!トンバ>"
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: けせらせら
+    singer_name: 渕上 史貴
+    singer_alias:
+    singer_name_ruby: ふちかみふみたか
+    tie_up: オレっ!トンバ<番組名>
+    tie_up_ruby: おれつとんは
+    introcha: Yes・・・雨に濡れた子猫のままじゃ
+    introcha_ruby: いえすあめにぬれたこねこのまましや
+    esong_code: 326A39
+    dtordinal: 72
+  - t_karaoke_master_id: 31890
+    song_name: 酒ごころ
+    song_kana: さけこころ
+    t_singer_master_id: 5577
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: さけこころ
+    singer_name: 木本 有美
+    singer_alias:
+    singer_name_ruby: きもとゆみ
+    introcha: 何はなくとも あなたのために
+    introcha_ruby: なにはなくともあなたのために
+    esong_code: 326A40
+    dtordinal: 73
+  - t_karaoke_master_id: 31921
+    song_name: CHASER
+    song_kana: ちえいさ
+    t_singer_master_id: 8506
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ちえいさ
+    singer_name: 野猿
+    singer_alias:
+    singer_name_ruby: やえん
+    introcha: WOW WOW WOW・・・
+    introcha_ruby: うおううおううおう
+    esong_code: 326B22
+    dtordinal: 74
+  - t_karaoke_master_id: 31922
+    song_name: チョップ
+    song_kana: ちよつふ
+    t_singer_master_id: 8085
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 7
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ちよつふ
+    singer_name: '808'
+    singer_alias:
+    singer_name_ruby: やおや
+    introcha: 心にも無い事ばっかり言ってるだけじゃ
+    introcha_ruby: こころにもないことはつかりいつてるた
+    esong_code: 326B23
+    dtordinal: 75
+  - t_karaoke_master_id: 31923
+    song_name: デーデ
+    song_kana: てて
+    t_singer_master_id: 6086
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: てて
+    singer_name: エレファントカシマシ
+    singer_alias:
+    singer_name_ruby: えれふあんとかしまし
+    introcha: 溜め息ばかりついてたら何もできないさ
+    introcha_ruby: ためいきはかりついてたらなにもてきな
+    esong_code: 326B24
+    dtordinal: 76
+  - t_karaoke_master_id: 31924
+    song_name: 夏気球
+    song_kana: なつききゆう
+    t_singer_master_id: 10693
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: TVアニメ「ポポロクロイス物語」オープニングテーマ
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: なつききゆう
+    singer_name: 大塚 利恵
+    singer_alias:
+    singer_name_ruby: おおつかりえ
+    tie_up: ポポロクロイス物語 (TV版)<番組名>
+    tie_up_ruby: ほほろくろいすものかたり
+    introcha: 動かない空の下で君の瞬きが
+    introcha_ruby: うこかないそらのしたてきみのまはた
+    esong_code: 326B25
+    dtordinal: 77
+  - t_karaoke_master_id: 31925
+    song_name: 苦い雨
+    song_kana: にかいあめ
+    t_singer_master_id: 2445
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: にかいあめ
+    singer_name: 矢沢 永吉
+    singer_alias:
+    singer_name_ruby: やさわえいきち
+    introcha: 流し目で誘うなら 他の奴
+    introcha_ruby: なかしめてさそうならほかのやつ
+    esong_code: 326B26
+    dtordinal: 78
+  - t_karaoke_master_id: 31926
+    song_name: ペンフレンド
+    song_kana: へんふれんと
+    t_singer_master_id: 7648
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: へんふれんと
+    singer_name: 及川 光博
+    singer_alias:
+    singer_name_ruby: おいかわみつひろ
+    introcha: 元気?お手紙どーもありがとー
+    introcha_ruby: けんきおてかみともありかと
+    esong_code: 326B27
+    dtordinal: 79
+  - t_karaoke_master_id: 31927
+    song_name: ロック・イズ・デッド
+    song_kana: ろつくいすてつと
+    song_alias: Rock Is Dead
+    j_song_name: ロック・イズ・デッド
+    j_song_kana: ROCKISDEAD
+    t_singer_master_id: 10341
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ろつくいすてつと
+    singer_name: マリリン・マンソン
+    singer_alias: Marilyn Manson
+    singer_name_ruby: まりりんまんそん
+    introcha: All simple monkeys with alien babies
+    introcha_ruby: ALLSIMPLEMONKEYSWITH
+    esong_code: 326B28
+    dtordinal: 80
+  - t_karaoke_master_id: 31930
+    song_name: オレンジ色の太陽
+    song_kana: おれんしいろのたい
+    t_singer_master_id: 3079
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: おれんしいろのたい
+    singer_name: TOKIO
+    singer_alias:
+    singer_name_ruby: ときお
+    introcha: ころんでも汚れてもシャツは洗えば
+    introcha_ruby: ころんてもよこれてもしやつはあらえは
+    esong_code: 326B31
+    dtordinal: 81
+  - t_karaoke_master_id: 31931
+    song_name: カミカゼBOWZキドウタイ
+    song_kana: かみかせほうす
+    t_singer_master_id: 7610
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: かみかせほうす
+    singer_name: CASCADE
+    singer_alias:
+    singer_name_ruby: かすけと
+    introcha: シンジュクケイオス街 敵逃走中
+    introcha_ruby: しんしゆくけいおすかいてきとうそうち
+    esong_code: 326B32
+    dtordinal: 82
+  - t_karaoke_master_id: 31932
+    song_name: くちづけ
+    song_kana: くちつけ
+    t_singer_master_id: 10445
+    mt_country_code_id: 0
+    karaoke_genre_id: 0
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: くちつけ
+    singer_name: BAISER
+    singer_alias:
+    singer_name_ruby: へせ
+    introcha: 夢の中で見た君の夢 何処か
+    introcha_ruby: ゆめのなかてみたきみのゆめとこか
+    esong_code: 326B33
+    dtordinal: 83
+  - t_karaoke_master_id: 31934
+    song_name: Scarletの憂鬱
+    song_kana: すかれつとのゆうう
+    t_singer_master_id: 8335
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すかれつとのゆうう
+    singer_name: pool bit boys
+    singer_alias:
+    singer_name_ruby: ふるひつとほ
+    introcha: 踊れるか 君の意志で
+    introcha_ruby: おとれるかきみのこころて
+    esong_code: 326B35
+    dtordinal: 84
+  - t_karaoke_master_id: 31935
+    song_name: タイム・トゥ・セイ・グッバイ (イタリア語版)
+    song_kana: たいむとうせいくつ
+    song_alias: Time To Say Goodbye (italiana Ver.)
+    j_song_name: タイム・トゥ・セイ・グッバイ (イタリア語版)
+    j_song_kana: TIMETOSAYGOODBYEITALIANAVER
+    t_singer_master_id: 10696
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 8
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: たいむとうせいくつ
+    singer_name: サラ・ブライトマン&アンドレア・ボチェッリ
+    singer_alias: Sarah Brightman&Andrea Bocelli
+    singer_name_ruby: さらふらいとまんあんと
+    introcha: Quando sono sola songo all' orizzonte
+    introcha_ruby: QUANDOSONOSOLASOGNOA
+    esong_code: 326B36
+    dtordinal: 85
+  - t_karaoke_master_id: 31936
+    song_name: 断章 -Plece of Memories-
+    song_kana: たんしようひす
+    t_singer_master_id: 10048
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: たんしようひす
+    singer_name: D=SIRE
+    singer_alias:
+    singer_name_ruby: てさいあ
+    introcha: まだあの日のままで止まった時間の中
+    introcha_ruby: またあのひのままてとまつたしかんの
+    esong_code: 326B37
+    dtordinal: 86
+  - t_karaoke_master_id: 31937
+    song_name: DEEP IN DISCO KING（福富幸宏REMIX）
+    song_kana: ていふいんて
+    t_singer_master_id: 8219
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ていふいんて
+    singer_name: 石井 竜也
+    singer_alias:
+    singer_name_ruby: いしいたつや
+    introcha: DISCO KING AND DANCING
+    introcha_ruby: ていすこきんくあんとたんしんく
+    esong_code: 326B38
+    dtordinal: 87
+  - t_karaoke_master_id: 31938
+    song_name: バック・ヒア
+    song_kana: はつくひあ
+    song_alias: Back Here
+    j_song_name: バック・ヒア
+    j_song_kana: BACKHERE
+    t_singer_master_id: 10697
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: はつくひあ
+    singer_name: BBマック
+    singer_alias: bbmak
+    singer_name_ruby: ひひまつく
+    introcha: Baby set me free from this misery
+    introcha_ruby:
+    esong_code: 326B39
+    dtordinal: 88
+  - t_karaoke_master_id: 31939
+    song_name: Faithless Face
+    song_kana: ふえいすれすふえいす
+    t_singer_master_id: 7749
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ふえいすれすふえいす
+    singer_name: MASCHERA
+    singer_alias:
+    singer_name_ruby: ますけら
+    introcha: 偽りに染まる艶やかなドレスを纏い
+    introcha_ruby: いつわりにそまるつややかなとれすをまと
+    esong_code: 326B40
+    dtordinal: 89
+  - t_karaoke_master_id: 31969
+    song_name: 不死身のエレキマン
+    song_kana: ふしみのえれきまん
+    t_singer_master_id: 6544
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ふしみのえれきまん
+    singer_name: "↑THE HIGH-LOWS↓"
+    singer_alias:
+    singer_name_ruby: さはいろうす
+    introcha: 電気のトラブルで生まれ変わったぜ
+    introcha_ruby: てんきのとらふるてうまれかわつたせ
+    esong_code: 327A21
+    dtordinal: 90
+  - t_karaoke_master_id: 31973
+    song_name: マザー・グース
+    song_kana: まさくす
+    t_singer_master_id: 6904
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: まさくす
+    singer_name: PENICILLIN
+    singer_alias:
+    singer_name_ruby: へにしりん
+    introcha: 青い夜が過ぎて雨の朝
+    introcha_ruby: あおいよるかすきてあめのあさ
+    esong_code: 327A25
+    dtordinal: 91
+  - t_karaoke_master_id: 31974
+    song_name: RESURRECT
+    song_kana: りされくと
+    t_singer_master_id: 6321
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: りされくと
+    singer_name: Sleep My Dear
+    singer_alias:
+    singer_name_ruby: すりふまいてい
+    introcha: 歩み寄る無情な影に流されて
+    introcha_ruby: あるみよるむしようなかけになかされ
+    esong_code: 327A26
+    dtordinal: 92
+  - t_karaoke_master_id: 31975
+    song_name: wait&see 〜リスク〜
+    song_kana: うえいとあんとし
+    t_singer_master_id: 8713
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-19T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: うえいとあんとし
+    singer_name: 宇多田 ヒカル
+    singer_alias:
+    singer_name_ruby: うたたひかる
+    introcha: だって「つまづきながら」って 口で言う程
+    introcha_ruby: たつてつまつきなからつてくちて
+    esong_code: 327A27
+    dtordinal: 93
+  - t_karaoke_master_id: 31977
+    song_name: おんなの涙
+    song_kana: おんなのなみた
+    t_singer_master_id: 194
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: NHK「コメディーお江戸でござる」オリジナルソング
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: おんなのなみた
+    singer_name: 石原 詢子
+    singer_alias:
+    singer_name_ruby: いしはらしゆんこ
+    introcha: 髪をとかせば あなたの匂い
+    introcha_ruby:
+    esong_code: 327A29
+    dtordinal: 94
+  - t_karaoke_master_id: 31981
+    song_name: Stay with me.
+    song_kana: すていういすみ
+    t_singer_master_id: 1996
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: 森永乳業「クリープ」CMソング
+    available_date: '2000-04-19T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すていういすみ
+    singer_name: 藤井 フミヤ
+    singer_alias:
+    singer_name_ruby: ふしいふみや
+    introcha: アヤフヤな返事に惑わされて
+    introcha_ruby: あやふやなへんしにまと
+    esong_code: 327A33
+    dtordinal: 95
+  - t_karaoke_master_id: 31983
+    song_name: せつなさよりも遠くへ
+    song_kana: せつなさよりもとおく
+    t_singer_master_id: 6564
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系「2000フォーミュラ・ニッポン」テーマ曲
+    available_date: '2000-04-20T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: せつなさよりもとおく
+    singer_name: SIAM SHADE
+    singer_alias:
+    singer_name_ruby: しやむしえいと
+    introcha: せつなさよりも遠くへ
+    introcha_ruby: せつなさよりもとおくへ
+    esong_code: 327A35
+    dtordinal: 96
+  - t_karaoke_master_id: 31984
+    song_name: Power of Love
+    song_kana: はわおふらふ
+    t_singer_master_id: 1523
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: はわおふらふ
+    singer_name: DEEN
+    singer_alias:
+    singer_name_ruby: ていん
+    introcha: 愛を信じましょう ゆっくり探しましょう
+    introcha_ruby: あいをしんしましようゆつくりさかしま
+    esong_code: 327A36
+    dtordinal: 97
+  - t_karaoke_master_id: 31986
+    song_name: BLACK OR WHITE? version3
+    song_kana: ふらつくおあほわい
+    t_singer_master_id: 7067
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: 日本テレビ系「劇空間プロ野球」イメージソング
+    available_date: '2000-04-20T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ふらつくおあほわい
+    singer_name: T.M.Revolution
+    singer_alias:
+    singer_name_ruby: ていえむれほりゆしよん
+    introcha: 傷ついても止まらない 情熱を抱きしめて
+    introcha_ruby: きすついてもとまらない
+    esong_code: 327A38
+    dtordinal: 98
+  - t_karaoke_master_id: 31987
+    song_name: ホタル
+    song_kana: ほたる
+    t_singer_master_id: 4249
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ほたる
+    singer_name: スピッツ
+    singer_alias:
+    singer_name_ruby: すひつつ
+    introcha: 時を止めて 君の笑顔が 胸の砂地に
+    introcha_ruby: ときをとめてきみのえかお
+    esong_code: 327A39
+    dtordinal: 99
+  - t_karaoke_master_id: 31988
+    song_name: my greatest memories
+    song_kana: まいくれいてすとめ
+    t_singer_master_id: 8790
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: ポッカ「水・レモン・きれい」CMソング
+    available_date: '2000-04-19T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: まいくれいてすとめ
+    singer_name: 上原 多香子
+    singer_alias:
+    singer_name_ruby: うえはらたかこ
+    introcha: 雲の切れ間 神話の光 すんだ海に 溶けてゆく様に
+    introcha_ruby: くものきれましんわの
+    esong_code: 327A40
+    dtordinal: 100
+  - t_karaoke_master_id: 32018
+    song_name: まこと酒
+    song_kana: まことさけ
+    t_singer_master_id: 2176
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: まことさけ
+    singer_name: 真木 ことみ
+    singer_alias:
+    singer_name_ruby: まきことみ
+    introcha: 先の苦労は 覚悟の上と
+    introcha_ruby: さきのくろうはかくこの
+    esong_code: 327B21
+    dtordinal: 101
+  - t_karaoke_master_id: 32019
+    song_name: 水鏡
+    song_kana: みすかかみ
+    t_singer_master_id: 7894
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: みすかかみ
+    singer_name: Cocco
+    singer_alias:
+    singer_name_ruby: こつこ
+    introcha: 瑠璃色の波を巻いて 生々しいぬくもりは
+    introcha_ruby: るりいろのなみをまいて
+    esong_code: 327B22
+    dtordinal: 102
+  - t_karaoke_master_id: 32020
+    song_name: 緑
+    song_kana: みとり
+    t_singer_master_id: 641
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: 第51回2000年全国植樹祭「みどりの日」テーマソング
+    available_date: '2000-04-21T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: みとり
+    singer_name: 北島 三郎
+    singer_alias:
+    singer_name_ruby: きたしまさふろう
+    introcha: 緑は地球を守ってくれる
+    introcha_ruby:
+    esong_code: 327B23
+    dtordinal: 103
+  - t_karaoke_master_id: 32023
+    song_name: respectyourself
+    song_kana: りすへくとゆあせる
+    t_singer_master_id: 8708
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-19T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: りすへくとゆあせる
+    singer_name: Sugar Soul
+    singer_alias:
+    singer_name_ruby: しゆかそうる
+    introcha: まぶしい朝 新しい朝 Respectyourself
+    introcha_ruby: まふしいあさあたらしい
+    esong_code: 327B26
+    dtordinal: 104
+  - t_karaoke_master_id: 32025
+    song_name: ONE WAY DRIVE
+    song_kana: わんうえいとらいふ
+    t_singer_master_id: 10698
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系ドラマ「ショムニ２」エンディング
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: わんうえいとらいふ
+    singer_name: 江角 マキコ
+    singer_alias:
+    singer_name_ruby: えすみまきこ
+    introcha: ねえ、あなた イケてるそこの君
+    introcha_ruby: ねえあなたいけてるそこ
+    esong_code: 327B28
+    dtordinal: 105
+  - t_karaoke_master_id: 32027
+    song_name: プールにて
+    song_kana: ふるにて
+    t_singer_master_id: 7030
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 9
+    medley_flg: 0
+    lights_flg: 0
+    information: LION「エメロンアクアピュア」CMソング
+    available_date: '2000-04-12T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ふるにて
+    singer_name: PUFFY(PUFFY AMIYUMI)
+    singer_alias:
+    singer_name_ruby: はふい
+    introcha: 真夏のサンタの小粋なはからいで
+    introcha_ruby: まなつのさんたのこいきなはからいて
+    esong_code: 327B30
+    dtordinal: 106
+  - t_karaoke_master_id: 32028
+    song_name: 男龍
+    song_kana: おとこりゆう
+    t_singer_master_id: 8746
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-12T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: おとこりゆう
+    singer_name: 髙城 靖雄(水原達矢)
+    singer_alias:
+    singer_name_ruby: たかしようやすお
+    introcha: あばれ太鼓に 龍が翔ぶ
+    introcha_ruby: あはれたいこにりゆうかとふ
+    esong_code: 327B31
+    dtordinal: 107
+  - t_karaoke_master_id: 32030
+    song_name: can't hold me back
+    song_kana: きやんとほるとみ
+    t_singer_master_id: 10282
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-19T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: きやんとほるとみ
+    singer_name: 小柳 ゆき
+    singer_alias:
+    singer_name_ruby: こやなきゆき
+    introcha: 世界を照らす 明かりあつめて
+    introcha_ruby: せけんをてらすあかり
+    esong_code: 327B33
+    dtordinal: 108
+  - t_karaoke_master_id: 32031
+    song_name: ネオン海峡たすけ舟
+    song_kana: ねおんかいきようたす
+    t_singer_master_id: 2226
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ねおんかいきようたす
+    singer_name: 松永 ひと美(松永ひとみ)
+    singer_alias:
+    singer_name_ruby: まつなかひとみ
+    introcha: ネオン海峡 酒しぶき つばさぬらして
+    introcha_ruby: ねおんかいきようさけしふき
+    esong_code: 327B34
+    dtordinal: 109
+  - t_karaoke_master_id: 32032
+    song_name: 君を信じて
+    song_kana: きみをしんして
+    t_singer_master_id: 1710
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-21T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: きみをしんして
+    singer_name: 西方 裕之
+    singer_alias:
+    singer_name_ruby: にしかたひろゆき
+    introcha: 待っていますと くちびるが
+    introcha_ruby: まつていますとくちひるか
+    esong_code: 327B35
+    dtordinal: 110
+  - t_karaoke_master_id: 32035
+    song_name: 姉っこ酒場
+    song_kana: あねつこさかは
+    t_singer_master_id: 2014
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: あねつこさかは
+    singer_name: 藤野 とし恵
+    singer_alias:
+    singer_name_ruby: ふしのとしえ
+    introcha: 沖の一の瀬
+    introcha_ruby:
+    esong_code: 327B38
+    dtordinal: 111
+  - t_karaoke_master_id: 32036
+    song_name: はやとちり
+    song_kana: はやとちり
+    t_singer_master_id: 8713
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: はやとちり
+    singer_name: 宇多田 ヒカル
+    singer_alias:
+    singer_name_ruby: うたたひかる
+    introcha: そろそろ部屋から出ておいで
+    introcha_ruby: そろそろへやからてて
+    esong_code: 327B39
+    dtordinal: 112
+  - t_karaoke_master_id: 32037
+    song_name: DON'T STOP恋愛中
+    song_kana: とんとすとつふれ
+    t_singer_master_id: 10699
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: とんとすとつふれ
+    singer_name: T&Cボンバー
+    singer_alias:
+    singer_name_ruby: ていあんとしほ
+    introcha: 楽しい事も 二人一緒 涙も分かち合おう
+    introcha_ruby: たのしいこともふたりいつしよ
+    esong_code: 327B40
+    dtordinal: 113
+  - t_karaoke_master_id: 32067
+    song_name: "『果てのない道』"
+    song_kana: はてのないみち
+    t_singer_master_id: 8805
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 7
+    medley_flg: 0
+    lights_flg: 0
+    information: LOTTE「フラッテ」CMソング
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: はてのないみち
+    singer_name: '19'
+    singer_alias:
+    singer_name_ruby: しゆく
+    introcha: たくさんの人達におくられながら
+    introcha_ruby: たくさんのひとたちに
+    esong_code: 328A21
+    dtordinal: 114
+  - t_karaoke_master_id: 32069
+    song_name: マニアック問題
+    song_kana: まにあつくもんたい
+    t_singer_master_id: 10159
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 8
+    medley_flg: 0
+    lights_flg: 0
+    information: SOTEC「ｅ−ｎｏｔｅ」CMソング
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: まにあつくもんたい
+    singer_name: センチメンタル・バス(SENTIMENTAL:BUS)
+    singer_alias:
+    singer_name_ruby: せんちめんたるはす
+    introcha: 誰かみたいな髪型 古いジーンズ
+    introcha_ruby: たれかみたいなかみかた
+    esong_code: 328A23
+    dtordinal: 115
+  - t_karaoke_master_id: 32070
+    song_name: Whiteberryの小さな大冒険
+    song_kana: ほわいとへりのち
+    t_singer_master_id: 10454
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: ホテイフーズ「たべごろ果実」CMソング／TBS系「ＣＤＴＶ」4月度エンディング
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ほわいとへりのち
+    singer_name: Whiteberry
+    singer_alias:
+    singer_name_ruby: ほわいとへり
+    introcha: さぁ出かけよう 土曜の午後 二人だけで
+    introcha_ruby: さあてかけようとようの
+    esong_code: 328A24
+    dtordinal: 116
+  - t_karaoke_master_id: 32071
+    song_name: Just Like You Smile Baby
+    song_kana: しやすとらいくゆ
+    t_singer_master_id: 10470
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: しやすとらいくゆ
+    singer_name: 倉木 麻衣
+    singer_alias:
+    singer_name_ruby: くらきまい
+    introcha: ためらいがちにくれた君からの電話
+    introcha_ruby: ためらいかちにくれたきみからのてんわ
+    esong_code: 328A25
+    dtordinal: 117
+  - t_karaoke_master_id: 32077
+    song_name: 山河
+    song_kana: さんか
+    t_singer_master_id: 221
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: さんか
+    singer_name: 五木 ひろし
+    singer_alias:
+    singer_name_ruby: いつきひろし
+    introcha: 人は皆 山河に生まれ、抱かれ、挑み、
+    introcha_ruby:
+    esong_code: 328A31
+    dtordinal: 118
+  - t_karaoke_master_id: 32084
+    song_name: 根なし草
+    song_kana: ねなしくさ
+    t_singer_master_id: 2183
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ねなしくさ
+    singer_name: 真木 柚布子(由布子)
+    singer_alias:
+    singer_name_ruby: まきゆうこ
+    introcha: おまえ痩せたと この肩抱いて
+    introcha_ruby: おまえやせたとこのかたたいて
+    esong_code: 328A38
+    dtordinal: 119
+  - t_karaoke_master_id: 32085
+    song_name: 岬
+    song_kana: みさき
+    t_singer_master_id: 6239
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: みさき
+    singer_name: 岩本 公水
+    singer_alias:
+    singer_name_ruby: いわもとくみ
+    introcha: 涙を赤く血に染めて
+    introcha_ruby: なみたをあかくちに
+    esong_code: 328A39
+    dtordinal: 120
+  - t_karaoke_master_id: 32279
+    song_name: vogue
+    song_kana: ほく
+    t_singer_master_id: 8492
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: コーセー「ＶＩＳＥ」CMソング
+    available_date: '2000-04-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: ほく
+    singer_name: 浜崎 あゆみ
+    singer_alias:
+    singer_name_ruby: はまさきあゆみ
+    introcha: 君を咲き誇ろう 美しく花開いた
+    introcha_ruby: きみをさきほころおう
+    esong_code: 330A37
+    dtordinal: 121
+  - t_karaoke_master_id: 32281
+    song_name: ずっと一緒に
+    song_kana: すつといつしよに
+    t_singer_master_id: 10481
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 9
+    medley_flg: 0
+    lights_flg: 0
+    information: MBS「ちちんぷいぷい」エンディング
+    available_date: '2000-04-10T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すつといつしよに
+    singer_name: 花*花
+    singer_alias:
+    singer_name_ruby: はなはな
+    introcha: 去年の今ごろに比べて
+    introcha_ruby: きよねんのいまころにくらへて
+    esong_code: 330A39
+    dtordinal: 122
+  - t_karaoke_master_id: 32312
+    song_name: 泳げない魚 feat.CA
+    song_kana: およけないさかな
+    t_singer_master_id: 8506
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 3
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: およけないさかな
+    singer_name: 野猿
+    singer_alias:
+    singer_name_ruby: やえん
+    introcha: まるで海の底で深い息するみたいに
+    introcha_ruby: まるてうみのそこてふかいいきするみた
+    esong_code: 330B21
+    dtordinal: 123
+  - t_karaoke_master_id: 32313
+    song_name: 神戸へ来てくれませんか
+    song_kana: こうへへきてくれま
+    t_singer_master_id: 6191
+    mt_country_code_id: 0
+    karaoke_genre_id: 0
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-21T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: こうへへきてくれま
     singer_name: 丸岡 健
     singer_alias:
-    available_date: '2000-04-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こうへへきてくれま
     singer_name_ruby: まるおかけん
-    song_variation:
-    - esong_code: 330B22
-      song_name: 神戸へ来てくれませんか
-      content_type: ''
+    introcha: 遠くあなたの声がする
+    introcha_ruby: とおくあなたのこえかする
+    esong_code: 330B22
+    dtordinal: 124
+  - t_karaoke_master_id: 32316
+    song_name: マニアック
+    song_kana: まにあつく
+    song_alias: Maniac
+    j_song_name: マニアック
+    j_song_kana: MANIAC
+    t_singer_master_id: 2165
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-22T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: まにあつく
+    singer_name: マイケル・センベロ
+    singer_alias: Michael Sembello
+    singer_name_ruby: まいけるせんへろ
+    introcha: Just steel town girl on a
+    introcha_ruby:
+    esong_code: 330B25
+    dtordinal: 125
+  - t_karaoke_master_id: 49544
+    song_name: 虹色のSneaker
+    song_kana: にしいろのすにか
+    t_singer_master_id: 4689
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: ラジオ番組「林原めぐみのHeartful Station」テーマソング
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: にしいろのすにか
+    singer_name: 林原 めぐみ
+    singer_alias:
+    singer_name_ruby: はやしはらめくみ
+    introcha: ラッシュアワー 寄せる人波
+    introcha_ruby: らつしゆあわよせるひとなみ
+    esong_code: 506B5
+    dtordinal: 126
+  - t_karaoke_master_id: 60924
+    song_name: スタート・ミー・アップ
+    song_kana: すたとみあつふ
+    song_alias: Start Me Up
+    j_song_name: スタート・ミー・アップ
+    j_song_kana: STARTMEUP
+    t_singer_master_id: 2615
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すたとみあつふ
+    singer_name: ザ・ローリング・ストーンズ
+    singer_alias: The Rolling Stones
+    singer_name_ruby: さろりんくすとん
+    introcha: You can start me up  You can start me up,I'll
+    introcha_ruby:
+    esong_code: 622B17
+    dtordinal: 127
+  - t_karaoke_master_id: 72733
+    song_name: ゼア・マスト・ビー・アン・エンジェル
+    song_kana: せあますとひあ
+    song_alias: There Must Be An Angel (Playing With My Heart)
+    j_song_name: ゼア・マスト・ビー・アン・エンジェル
+    j_song_kana: THEREMUSTBEANANGELPLAYINGWITHMYHEART
+    t_singer_master_id: 2519
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: せあますとひあ
+    singer_name: ユーリズミックス
+    singer_alias: Eurythmics
+    singer_name_ruby: ゆりすみつくす
+    introcha: NO・ONE ON EARTH COULD
+    introcha_ruby: NOONEONEARTHCOULD
+    esong_code: 743A17
+    dtordinal: 128
+  - t_karaoke_master_id: 72735
+    song_name: カモン・アイリーン
+    song_kana: かもんあいりん
+    song_alias: Come On Eileen
+    j_song_name: カモン・アイリーン
+    j_song_kana: COMEONEILEEN
+    t_singer_master_id: 5965
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: かもんあいりん
+    singer_name: デキシーズ・ミッドナイト・ランナーズ
+    singer_alias: Dexys Midnight Runners
+    singer_name_ruby: てきしすみつとないとらんな
+    introcha: Come on Eileen, Come on Eileen
+    introcha_ruby:
+    esong_code: 743A19
+    dtordinal: 129
+  - t_karaoke_master_id: 80318
+    song_name: STAB ME IN THE BACK
+    song_kana: すたつふみいんさ
+    t_singer_master_id: 319
+    mt_country_code_id: 0
+    karaoke_genre_id: 0
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-30T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: すたつふみいんさ
+    singer_name: X japan(X)
+    singer_alias:
+    singer_name_ruby: えつくすしやはん
+    introcha: I'm having sex
+    introcha_ruby: IMHAVINGSEX
+    esong_code: 820B7
+    dtordinal: 130
+  - t_karaoke_master_id: 93506
+    song_name: 悪魔を憐れむ歌
+    song_kana: あくまをあわれむうた
+    song_alias: Sympathy For The Devil
+    j_song_name: 悪魔を憐れむ歌
+    j_song_kana: SYMPATHYFORTHEDEVIL
+    t_singer_master_id: 2615
+    mt_country_code_id: 1
+    karaoke_genre_id: 0
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '2000-04-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '200004'
+    song_name_ruby: あくまをあわれむうた
+    singer_name: ザ・ローリング・ストーンズ
+    singer_alias: The Rolling Stones
+    singer_name_ruby: さろりんくすとん
+    introcha: Please allow me to introduse myself
+    introcha_ruby: PLEASEALLOWMETOINTRO
+    esong_code: 955A14
+    dtordinal: 131

@@ -1,94 +1,115 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 5
-  all_max_cnt: 5
-  all_country_cnt: 5
   song:
-  - song_name: I believe
-    song_alias:
-    esong_code: 135A39
-    t_singer_master_id: '8394'
-    singer_name: SAKURA
-    singer_alias:
-    available_date: '1998-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいひりふ
-    singer_name_ruby: さくら
-    song_variation:
-    - esong_code: 135A39
-      song_name: I believe
-      content_type: ''
-  - song_name: 熱い炎 〜スター・ライト・サンバ〜
-    song_alias:
-    esong_code: 131A31
-    t_singer_master_id: '1713'
+  - t_karaoke_master_id: 12771
+    song_name: 熱い炎 〜スター・ライト・サンバ〜
+    song_kana: あついほのおすたら
+    t_singer_master_id: 1713
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-08-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199808'
+    song_name_ruby: あついほのおすたら
     singer_name: 錦野 旦(にしきの あきら)
     singer_alias:
-    available_date: '1998-08-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あついほのおすたら
     singer_name_ruby: にしきのあきら
-    song_variation:
-    - esong_code: 131A31
-      song_name: 熱い炎 〜スター・ライト・サンバ〜
-      content_type: ''
-  - song_name: Shine & Rest
-    song_alias:
-    esong_code: 135A35
-    t_singer_master_id: '8605'
-    singer_name: Palette Colors
-    singer_alias:
-    available_date: '1998-08-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しやいんあんとれす
-    singer_name_ruby: はれつとからす
-    song_variation:
-    - esong_code: 135A35
-      song_name: Shine & Rest
-      content_type: ''
-  - song_name: どうなっちゃってるの どうだっていいんじゃない
-    song_alias:
-    esong_code: 135B23
-    t_singer_master_id: '8609'
-    singer_name: 西田 彩栞
-    singer_alias:
-    available_date: '1998-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうなつちやつてる
-    singer_name_ruby: にしたあやか
-    song_variation:
-    - esong_code: 135B23
-      song_name: どうなっちゃってるの どうだっていいんじゃない
-      content_type: ''
-  - song_name: フリスビー
-    song_alias:
-    esong_code: 134B26
-    t_singer_master_id: '6910'
+    introcha: 愛は抱きあうこと すべて奪い
+    introcha_ruby: あいはたきあうことすへてうはい
+    esong_code: 131A31
+    dtordinal: 1
+  - t_karaoke_master_id: 13109
+    song_name: フリスビー
+    song_kana: ふりすひ
+    t_singer_master_id: 6910
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-08-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199808'
+    song_name_ruby: ふりすひ
     singer_name: MOON CHILD(Moon Child)
     singer_alias:
-    available_date: '1998-08-26'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりすひ
     singer_name_ruby: むんちやいると
-    song_variation:
-    - esong_code: 134B26
-      song_name: フリスビー
-      content_type: ''
+    introcha: 見えない自由に絡まって
+    introcha_ruby: みえないしゆうにからまつて
+    esong_code: 134B26
+    dtordinal: 2
+  - t_karaoke_master_id: 13167
+    song_name: Shine & Rest
+    song_kana: しやいんあんとれす
+    t_singer_master_id: 8605
+    mt_country_code_id: 0
+    karaoke_genre_id: 0
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: 毎日放送系「朝ダッシュ！」エンディング／安田生命保険相互会社「スーパー家族応援宣言」
+    available_date: '1998-08-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199808'
+    song_name_ruby: しやいんあんとれす
+    singer_name: Palette Colors
+    singer_alias:
+    singer_name_ruby: はれつとからす
+    introcha: あの空は青く 夏の中へ
+    introcha_ruby: あのそらはあおくなつのなかへ
+    esong_code: 135A35
+    dtordinal: 3
+  - t_karaoke_master_id: 13171
+    song_name: I believe
+    song_kana: あいひりふ
+    t_singer_master_id: 8394
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-08-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199808'
+    song_name_ruby: あいひりふ
+    singer_name: SAKURA
+    singer_alias:
+    singer_name_ruby: さくら
+    introcha: どの道を来たかなんて もう
+    introcha_ruby: とのみちをきたかなんてもう
+    esong_code: 135A39
+    dtordinal: 4
+  - t_karaoke_master_id: 13204
+    song_name: どうなっちゃってるの どうだっていいんじゃない
+    song_kana: とうなつちやつてる
+    t_singer_master_id: 8609
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: フジTV系ドラマ「ボーイハント」挿入歌
+    available_date: '1998-08-26T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199808'
+    song_name_ruby: とうなつちやつてる
+    singer_name: 西田 彩栞
+    singer_alias:
+    singer_name_ruby: にしたあやか
+    introcha: 明日のこと聞かないから
+    introcha_ruby: あしたのこときかないから
+    esong_code: 135B23
+    dtordinal: 5

@@ -1,26 +1,25 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 1
-  all_max_cnt: 1
-  all_country_cnt: 1
   song:
-  - song_name: Your Eyes
-    song_alias:
-    esong_code: 2375A4
-    t_singer_master_id: '10314'
+  - t_karaoke_master_id: 232656
+    song_name: Your Eyes
+    song_kana: ゆああいす
+    t_singer_master_id: 10314
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1974-06-06T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '197406'
+    song_name_ruby: ゆああいす
     singer_name: 嵐
     singer_alias:
-    available_date: '1974-06-06'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆああいす
     singer_name_ruby: あらし
-    song_variation:
-    - esong_code: 2375A4
-      song_name: Your Eyes
-      content_type: ''
+    introcha: 君の優しさが聴こえてくるよ
+    introcha_ruby: きみのやさしさかきこえてくるよ
+    esong_code: 2375A4
+    dtordinal: 1

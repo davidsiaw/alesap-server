@@ -1,247 +1,326 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 14
-  all_max_cnt: 14
-  all_country_cnt: 14
   song:
-  - song_name: I want you back
-    song_alias:
-    esong_code: 250A39
-    t_singer_master_id: '8026'
-    singer_name: Folder
-    singer_alias:
-    available_date: '1999-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 小さな巨人ミクロマン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいうおんとゆは
-    singer_name_ruby: ふおるた
-    song_variation:
-    - esong_code: 250A39
-      song_name: I want you back
-      content_type: ''
-  - song_name: Adore
-    song_alias:
-    esong_code: 254B21
-    t_singer_master_id: '1661'
-    singer_name: 中山 美穂
-    singer_alias:
-    available_date: '1999-09-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あと
-    singer_name_ruby: なかやまみほ
-    song_variation:
-    - esong_code: 254B21
-      song_name: Adore
-      content_type: ''
-  - song_name: Alice
-    song_alias:
-    esong_code: 255B23
-    t_singer_master_id: '7749'
-    singer_name: MASCHERA
-    singer_alias:
-    available_date: '1999-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ありす
-    singer_name_ruby: ますけら
-    song_variation:
-    - esong_code: 255B23
-      song_name: Alice
-      content_type: ''
-  - song_name: 今、ふたり
-    song_alias:
-    esong_code: 254B23
-    t_singer_master_id: '6801'
-    singer_name: 清水 まり子(MARIKO)
-    singer_alias:
-    available_date: '1999-09-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いまふたり
-    singer_name_ruby: しみすまりこ
-    song_variation:
-    - esong_code: 254B23
-      song_name: 今、ふたり
-      content_type: ''
-  - song_name: 踊れ！ボンボン
-    song_alias:
-    esong_code: 255A39
-    t_singer_master_id: '8767'
-    singer_name: ぢ・大黒堂
-    singer_alias:
-    available_date: '1999-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おとれほんほん
-    singer_name_ruby: ちたいこくとう
-    song_variation:
-    - esong_code: 255A39
-      song_name: 踊れ！ボンボン
-      content_type: ''
-  - song_name: 君と僕
-    song_alias:
-    esong_code: 255B22
-    t_singer_master_id: '8281'
-    singer_name: The LOVE
-    singer_alias:
-    available_date: '1999-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: こちら葛飾区亀有公園前派出所<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみとほく
-    singer_name_ruby: さらふ
-    song_variation:
-    - esong_code: 255B22
-      song_name: 君と僕
-      content_type: ''
-  - song_name: good time
-    song_alias:
-    esong_code: 246B35
-    t_singer_master_id: '2553'
+  - t_karaoke_master_id: 24094
+    song_name: good time
+    song_kana: くつとたいむ
+    t_singer_master_id: 2553
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: テレビ朝日系「サンデージャングル」エンディングテーマ
+    available_date: '1999-09-15T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: くつとたいむ
     singer_name: 米倉 利紀
     singer_alias:
-    available_date: '1999-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くつとたいむ
     singer_name_ruby: よねくらとしのり
-    song_variation:
-    - esong_code: 246B35
-      song_name: good time
-      content_type: ''
-  - song_name: 蜃気楼
-    song_alias:
-    esong_code: 253A39
-    t_singer_master_id: '8491'
-    singer_name: FEEL
-    singer_alias:
-    available_date: '1999-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 快感フレーズ<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: しんきろう
-    singer_name_ruby: ふいる
-    song_variation:
-    - esong_code: 253A39
-      song_name: 蜃気楼
-      content_type: ''
-  - song_name: 想春譜
-    song_alias:
-    esong_code: 248B31
-    t_singer_master_id: '10172'
-    singer_name: 鈴木 史朗
-    singer_alias:
-    available_date: '1999-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そうしゆんふ
-    singer_name_ruby: すすきしろう
-    song_variation:
-    - esong_code: 248B31
-      song_name: 想春譜
-      content_type: ''
-  - song_name: SO LONG feat.川村 結花
-    song_alias:
-    esong_code: 248A24
-    t_singer_master_id: '1232'
-    singer_name: 鈴木 雅之
-    singer_alias:
-    available_date: '1999-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そろんく
-    singer_name_ruby: すすきまさゆき
-    song_variation:
-    - esong_code: 248A24
-      song_name: SO LONG feat.川村 結花
-      content_type: ''
-  - song_name: DANCE&CHANCE
-    song_alias:
-    esong_code: 250B22
-    t_singer_master_id: '10127'
-    singer_name: ココナッツ娘。
-    singer_alias:
-    available_date: '1999-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たんすあんとちや
-    singer_name_ruby: ここなつつむすめ
-    song_variation:
-    - esong_code: 250B22
-      song_name: DANCE&CHANCE
-      content_type: ''
-  - song_name: ドタバタギャグの日曜日
-    song_alias:
-    esong_code: 246B39
-    t_singer_master_id: '8712'
+    introcha: 止められない 欲だらけの気持ち
+    introcha_ruby: とめられないよくたらけのきもち
+    esong_code: 246B35
+    dtordinal: 1
+  - t_karaoke_master_id: 24098
+    song_name: ドタバタギャグの日曜日
+    song_kana: とたはたきやく
+    t_singer_master_id: 8712
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: "<花さか天使テンテン君>"
+    available_date: '1999-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: とたはたきやく
     singer_name: チェキッ娘
     singer_alias:
-    available_date: '1999-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 花さか天使テンテン君<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とたはたきやく
     singer_name_ruby: ちえきつこ
-    song_variation:
-    - esong_code: 246B39
-      song_name: ドタバタギャグの日曜日
-      content_type: ''
-  - song_name: DOH-YO
-    song_alias:
-    esong_code: 253B22
-    t_singer_master_id: '10088'
+    tie_up: 花さか天使テンテン君<番組名>
+    tie_up_ruby: はなさかてんしてんてんくん
+    introcha: 今度の日曜日 ゴール決めたらOK!
+    introcha_ruby: こんとのにちようひこるきめたらお
+    esong_code: 246B39
+    dtordinal: 2
+  - t_karaoke_master_id: 24230
+    song_name: SO LONG feat.川村 結花
+    song_kana: そろんく
+    t_singer_master_id: 1232
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 3
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: そろんく
+    singer_name: 鈴木 雅之
+    singer_alias:
+    singer_name_ruby: すすきまさゆき
+    introcha: たぶん僕らは 順序を間違えたらしく
+    introcha_ruby: たふんほくらはしゆんしよをまちか
+    esong_code: 248A24
+    dtordinal: 3
+  - t_karaoke_master_id: 24286
+    song_name: 想春譜
+    song_kana: そうしゆんふ
+    t_singer_master_id: 10172
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: そうしゆんふ
+    singer_name: 鈴木 史朗
+    singer_alias:
+    singer_name_ruby: すすきしろう
+    introcha: 花が咲き 鳥は啼き 風わたり
+    introcha_ruby: はなかさきとりはなきかせわたり
+    esong_code: 248B31
+    dtordinal: 4
+  - t_karaoke_master_id: 24441
+    song_name: I want you back
+    song_kana: あいうおんとゆは
+    t_singer_master_id: 8026
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: "<小さな巨人ミクロマン>"
+    available_date: '1999-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: あいうおんとゆは
+    singer_name: Folder
+    singer_alias:
+    singer_name_ruby: ふおるた
+    tie_up: 小さな巨人ミクロマン<番組名>
+    tie_up_ruby: ちいさなきよしんみくろまん
+    introcha: Oh babe I want you back
+    introcha_ruby: おへいふあいうおんとゆはつく
+    esong_code: 250A39
+    dtordinal: 5
+  - t_karaoke_master_id: 24473
+    song_name: DANCE&CHANCE
+    song_kana: たんすあんとちや
+    t_singer_master_id: 10127
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-09-15T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: たんすあんとちや
+    singer_name: ココナッツ娘。
+    singer_alias:
+    singer_name_ruby: ここなつつむすめ
+    introcha: Dance Dance There's no turning
+    introcha_ruby: たんすたんすせあすのたにん
+    esong_code: 250B22
+    dtordinal: 6
+  - t_karaoke_master_id: 24735
+    song_name: 蜃気楼
+    song_kana: しんきろう
+    t_singer_master_id: 8491
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: "<快感フレーズ>"
+    available_date: '1999-09-15T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: しんきろう
+    singer_name: FEEL
+    singer_alias:
+    singer_name_ruby: ふいる
+    tie_up: 快感フレーズ<番組名>
+    tie_up_ruby: かいかんふれす
+    introcha: 雨上がり淀んだ空気の微熱に包まれ
+    introcha_ruby:
+    esong_code: 253A39
+    dtordinal: 7
+  - t_karaoke_master_id: 24767
+    song_name: DOH-YO
+    song_kana: とよ
+    t_singer_master_id: 10088
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 9
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系「HEY!HEY!HEY! MUSIC CHAMP」エンディング
+    available_date: '1999-09-15T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: とよ
     singer_name: TRINITY
     singer_alias:
-    available_date: '1999-09-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とよ
     singer_name_ruby: とりにてい
-    song_variation:
-    - esong_code: 253B22
-      song_name: DOH-YO
-      content_type: ''
-  - song_name: "(PULSE)"
-    song_alias:
-    esong_code: 255A40
-    t_singer_master_id: '6653'
+    introcha: こんなにこんなに 勝手に好きになって
+    introcha_ruby: こんなにこんなにかつてにすきになつて
+    esong_code: 253B22
+    dtordinal: 8
+  - t_karaoke_master_id: 24864
+    song_name: Adore
+    song_kana: あと
+    t_singer_master_id: 1661
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: 東映映画「金融腐蝕列島　呪縛」主題歌
+    available_date: '1999-09-22T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: あと
+    singer_name: 中山 美穂
+    singer_alias:
+    singer_name_ruby: なかやまみほ
+    introcha: 風が吹くように優しい歌
+    introcha_ruby: かせかふくようにやさしいうた
+    esong_code: 254B21
+    dtordinal: 9
+  - t_karaoke_master_id: 24866
+    song_name: 今、ふたり
+    song_kana: いまふたり
+    t_singer_master_id: 6801
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-09-22T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: いまふたり
+    singer_name: 清水 まり子(MARIKO)
+    singer_alias:
+    singer_name_ruby: しみすまりこ
+    introcha: 泣かされましたよ あなたには
+    introcha_ruby: なかされましたよあなたには
+    esong_code: 254B23
+    dtordinal: 10
+  - t_karaoke_master_id: 24931
+    song_name: 踊れ！ボンボン
+    song_kana: おとれほんほん
+    t_singer_master_id: 8767
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: おとれほんほん
+    singer_name: ぢ・大黒堂
+    singer_alias:
+    singer_name_ruby: ちたいこくとう
+    introcha: 純情、久しぶり、燃えろ!
+    introcha_ruby: しゆんしようひさしふりもえろ
+    esong_code: 255A39
+    dtordinal: 11
+  - t_karaoke_master_id: 24932
+    song_name: "(PULSE)"
+    song_kana: はるす
+    t_singer_master_id: 6653
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-09-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: はるす
     singer_name: THE MAD CAPSULE MARKETS
     singer_alias:
-    available_date: '1999-09-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はるす
     singer_name_ruby: さまつとかふせ
-    song_variation:
-    - esong_code: 255A40
-      song_name: "(PULSE)"
-      content_type: ''
+    introcha: YOU COMIN' THROUGH GET
+    introcha_ruby: ゆかみんするけつと
+    esong_code: 255A40
+    dtordinal: 12
+  - t_karaoke_master_id: 24963
+    song_name: 君と僕
+    song_kana: きみとほく
+    t_singer_master_id: 8281
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ「Ｐ−ＳＴＯＣＫ」エンディング
+    available_date: '1999-09-15T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: きみとほく
+    singer_name: The LOVE
+    singer_alias:
+    singer_name_ruby: さらふ
+    tie_up: こちら葛飾区亀有公園前派出所<番組名>
+    tie_up_ruby: こちらかつしかくかめありこうえんまえはし
+    introcha: 虚しく移りゆく 季節の中で
+    introcha_ruby: むなしくうつりゆくきせつのなかて
+    esong_code: 255B22
+    dtordinal: 13
+  - t_karaoke_master_id: 24964
+    song_name: Alice
+    song_kana: ありす
+    t_singer_master_id: 7749
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-09-15T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199909'
+    song_name_ruby: ありす
+    singer_name: MASCHERA
+    singer_alias:
+    singer_name_ruby: ますけら
+    introcha: 儚い夢でもオマエが全てを変える
+    introcha_ruby: はかないゆめてもおまえかすへてをか
+    esong_code: 255B23
+    dtordinal: 14

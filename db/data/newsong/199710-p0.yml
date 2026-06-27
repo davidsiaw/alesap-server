@@ -1,162 +1,205 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 9
-  all_max_cnt: 9
-  all_country_cnt: 9
   song:
-  - song_name: 終わらないメモリー
-    song_alias:
-    esong_code: 91B39
-    t_singer_master_id: '6566'
-    singer_name: 金月 真美
-    singer_alias:
-    available_date: '1997-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おわらないめもり
-    singer_name_ruby: きんけつまみ
-    song_variation:
-    - esong_code: 91B39
-      song_name: 終わらないメモリー
-      content_type: ''
-  - song_name: 終わらないLOVE SONG
-    song_alias:
-    esong_code: 92B40
-    t_singer_master_id: '242'
-    singer_name: 稲垣 潤一
-    singer_alias:
-    available_date: '1997-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おわらないらふそん
-    singer_name_ruby: いなかきしゆんいち
-    song_variation:
-    - esong_code: 92B40
-      song_name: 終わらないLOVE SONG
-      content_type: ''
-  - song_name: SO WHAT?
-    song_alias:
-    esong_code: 93A22
-    t_singer_master_id: '1112'
-    singer_name: ZYYG
-    singer_alias:
-    available_date: '1997-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そほわつと
-    singer_name_ruby: しく
-    song_variation:
-    - esong_code: 93A22
-      song_name: SO WHAT?
-      content_type: ''
-  - song_name: Songwriter
-    song_alias:
-    esong_code: 92B36
-    t_singer_master_id: '601'
-    singer_name: KAN
-    singer_alias:
-    available_date: '1997-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: そんくらいた
-    singer_name_ruby: かん
-    song_variation:
-    - esong_code: 92B36
-      song_name: Songwriter
-      content_type: ''
-  - song_name: 何やってんだろう
-    song_alias:
-    esong_code: 90B35
-    t_singer_master_id: '1241'
-    singer_name: スターダスト☆レビュー
-    singer_alias:
-    available_date: '1997-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: なにやつてんたろ
-    singer_name_ruby: すたたすとれひゆ
-    song_variation:
-    - esong_code: 90B35
-      song_name: 何やってんだろう
-      content_type: ''
-  - song_name: ひまわりの観覧車
-    song_alias:
-    esong_code: 92B37
-    t_singer_master_id: '8281'
-    singer_name: The LOVE
-    singer_alias:
-    available_date: '1997-10-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひまわりのかんらんし
-    singer_name_ruby: さらふ
-    song_variation:
-    - esong_code: 92B37
-      song_name: ひまわりの観覧車
-      content_type: ''
-  - song_name: 振りむかないで
-    song_alias:
-    esong_code: 88B21
-    t_singer_master_id: '6231'
-    singer_name: 松雪 泰子
-    singer_alias:
-    available_date: '1997-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりむかないて
-    singer_name_ruby: まつゆきやすこ
-    song_variation:
-    - esong_code: 88B21
-      song_name: 振りむかないで
-      content_type: ''
-  - song_name: Moonlight Prelude
-    song_alias:
-    esong_code: 90B31
-    t_singer_master_id: '7840'
-    singer_name: FBI
-    singer_alias:
-    available_date: '1997-10-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: むんらいとふれり
-    singer_name_ruby: えふひあい
-    song_variation:
-    - esong_code: 90B31
-      song_name: Moonlight Prelude
-      content_type: ''
-  - song_name: ライスカレー
-    song_alias:
-    esong_code: 87B34
-    t_singer_master_id: '485'
+  - t_karaoke_master_id: 8511
+    song_name: ライスカレー
+    song_kana: らいすかれ
+    t_singer_master_id: 485
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: NHKドラマ新銀河「コラ！なんばしよっと３」主題歌
+    available_date: '1997-10-07T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199710'
+    song_name_ruby: らいすかれ
     singer_name: 海援隊
     singer_alias:
-    available_date: '1997-10-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らいすかれ
     singer_name_ruby: かいえんたい
-    song_variation:
-    - esong_code: 87B34
-      song_name: ライスカレー
-      content_type: ''
+    introcha: お風呂上がりに  夜空見上げて
+    introcha_ruby: おふろあかりによそらみあけて
+    esong_code: 87B34
+    dtordinal: 1
+  - t_karaoke_master_id: 8596
+    song_name: 振りむかないで
+    song_kana: ふりむかないて
+    t_singer_master_id: 6231
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-10-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199710'
+    song_name_ruby: ふりむかないて
+    singer_name: 松雪 泰子
+    singer_alias:
+    singer_name_ruby: まつゆきやすこ
+    introcha: ふりむかないで
+    introcha_ruby: ふりむかないて
+    esong_code: 88B21
+    dtordinal: 2
+  - t_karaoke_master_id: 8802
+    song_name: Moonlight Prelude
+    song_kana: むんらいとふれり
+    t_singer_master_id: 7840
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-10-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199710'
+    song_name_ruby: むんらいとふれり
+    singer_name: FBI
+    singer_alias:
+    singer_name_ruby: えふひあい
+    introcha: どこに行こうか これからみんな
+    introcha_ruby: とこにいこうかこれからみんな
+    esong_code: 90B31
+    dtordinal: 3
+  - t_karaoke_master_id: 8806
+    song_name: 何やってんだろう
+    song_kana: なにやつてんたろ
+    t_singer_master_id: 1241
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-10-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199710'
+    song_name_ruby: なにやつてんたろ
+    singer_name: スターダスト☆レビュー
+    singer_alias:
+    singer_name_ruby: すたたすとれひゆ
+    introcha: つまらない喧嘩したとき見つけた
+    introcha_ruby: つまらないけんかしたときみつけた
+    esong_code: 90B35
+    dtordinal: 4
+  - t_karaoke_master_id: 8908
+    song_name: 終わらないメモリー
+    song_kana: おわらないめもり
+    t_singer_master_id: 6566
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: ラジオドラマ「CLUBときめきメモリアル」イメージソング
+    available_date: '1997-10-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199710'
+    song_name_ruby: おわらないめもり
+    singer_name: 金月 真美
+    singer_alias:
+    singer_name_ruby: きんけつまみ
+    introcha: 両手だけじゃ抱えきれない重さを感じた
+    introcha_ruby: りようてたけしやかかえきれないおもた
+    esong_code: 91B39
+    dtordinal: 5
+  - t_karaoke_master_id: 9003
+    song_name: Songwriter
+    song_kana: そんくらいた
+    t_singer_master_id: 601
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-10-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199710'
+    song_name_ruby: そんくらいた
+    singer_name: KAN
+    singer_alias:
+    singer_name_ruby: かん
+    introcha: I'm a songwriter and welcome you to
+    introcha_ruby: IMASONGWRITERANDWELC
+    esong_code: 92B36
+    dtordinal: 6
+  - t_karaoke_master_id: 9004
+    song_name: ひまわりの観覧車
+    song_kana: ひまわりのかんらんし
+    t_singer_master_id: 8281
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系「P-STOCK」「digital chat」エンディングテーマ
+    available_date: '1997-10-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199710'
+    song_name_ruby: ひまわりのかんらんし
+    singer_name: The LOVE
+    singer_alias:
+    singer_name_ruby: さらふ
+    introcha: 高層ビルの群れが 赤く染められていくよ
+    introcha_ruby: こうそうひるのむれかあかくそめられて
+    esong_code: 92B37
+    dtordinal: 7
+  - t_karaoke_master_id: 9007
+    song_name: 終わらないLOVE SONG
+    song_kana: おわらないらふそん
+    t_singer_master_id: 242
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: NHK BS「真夜中の王国」オープニングテーマ
+    available_date: '1997-10-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199710'
+    song_name_ruby: おわらないらふそん
+    singer_name: 稲垣 潤一
+    singer_alias:
+    singer_name_ruby: いなかきしゆんいち
+    introcha: 死ぬまでに逢う人は 星の数にも足りず
+    introcha_ruby: しぬまてのあうひとはほしのかすにもた
+    esong_code: 92B40
+    dtordinal: 8
+  - t_karaoke_master_id: 9038
+    song_name: SO WHAT?
+    song_kana: そほわつと
+    t_singer_master_id: 1112
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1997-10-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199710'
+    song_name_ruby: そほわつと
+    singer_name: ZYYG
+    singer_alias:
+    singer_name_ruby: しく
+    introcha: 強がりぐらい言ってなきゃ
+    introcha_ruby: つよかりくらいいつてなきや
+    esong_code: 93A22
+    dtordinal: 9

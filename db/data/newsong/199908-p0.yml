@@ -1,179 +1,307 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 10
-  all_max_cnt: 13
-  all_country_cnt: 10
   song:
-  - song_name: If〜もしも願いが叶うなら〜
-    song_alias:
-    esong_code: 242A26
-    t_singer_master_id: '10052'
-    singer_name: 下川 みくに
-    singer_alias:
-    available_date: '1999-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いふ
-    singer_name_ruby: しもかわみくに
-    song_variation:
-    - esong_code: 242A26
-      song_name: If〜もしも願いが叶うなら〜
-      content_type: ''
-  - song_name: energy flow
-    song_alias:
-    esong_code: 243B27
-    t_singer_master_id: '5142'
-    singer_name: 坂本 龍一
-    singer_alias:
-    available_date: '1999-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えなしふろう
-    singer_name_ruby: さかもとりゆういち
-    song_variation:
-    - esong_code: 243B27
-      song_name: energy flow
-      content_type: ''
-  - song_name: お帰りなさい
-    song_alias:
-    esong_code: 243B37
-    t_singer_master_id: '5606'
-    singer_name: Le Couple
-    singer_alias:
-    available_date: '1999-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おかえりなさい
-    singer_name_ruby: るくふる
-    song_variation:
-    - esong_code: 243B37
-      song_name: お帰りなさい
-      content_type: ''
-  - song_name: おんな夢太鼓
-    song_alias:
-    esong_code: 242A28
-    t_singer_master_id: '1683'
-    singer_name: 夏木 綾子
-    singer_alias:
-    available_date: '1999-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おんなゆめたいこ
-    singer_name_ruby: なつきあやこ
-    song_variation:
-    - esong_code: 242A28
-      song_name: おんな夢太鼓
-      content_type: ''
-  - song_name: サティスファクション
-    song_alias:
-    esong_code: 246A26
-    t_singer_master_id: '2185'
-    singer_name: 真心ブラザーズ
-    singer_alias:
-    available_date: '1999-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: さていすふあくしよん
-    singer_name_ruby: まこころふらさす
-    song_variation:
-    - esong_code: 246A26
-      song_name: サティスファクション
-      content_type: ''
-  - song_name: 水中メガネ
-    song_alias:
-    esong_code: 239A25
-    t_singer_master_id: '10004'
+  - t_karaoke_master_id: 23349
+    song_name: 水中メガネ
+    song_kana: すいちゆうめかね
+    t_singer_master_id: 10004
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-08-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: すいちゆうめかね
     singer_name: Chappie
     singer_alias:
-    available_date: '1999-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すいちゆうめかね
     singer_name_ruby: ちやつひ
-    song_variation:
-    - esong_code: 239A25
-      song_name: 水中メガネ
-      content_type: ''
-  - song_name: そらとぶポケモンキッズ
-    song_alias:
-    esong_code: 246A27
-    t_singer_master_id: '10162'
-    singer_name: ベッキー♪♯(ベッキー)
-    singer_alias:
-    available_date: '1999-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ポケットモンスター(劇場版)<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: そらとふほけもん
-    singer_name_ruby: へつき
-    song_variation:
-    - esong_code: 246A27
-      song_name: そらとぶポケモンキッズ
-      content_type: ''
-  - song_name: Deep Sky Heart
-    song_alias:
-    esong_code: 242A31
-    t_singer_master_id: '8568'
-    singer_name: 木村 由姫
-    singer_alias:
-    available_date: '1999-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ていふすかいは
-    singer_name_ruby: きむらゆき
-    song_variation:
-    - esong_code: 242A31
-      song_name: Deep Sky Heart
-      content_type: ''
-  - song_name: HEARTBREAK DIARY
-    song_alias:
-    esong_code: 241B24
-    t_singer_master_id: '8325'
+    introcha: 水中メガネで 記憶へ潜ろう
+    introcha_ruby: すいちゆうめかねてきおくへもくろう
+    esong_code: 239A25
+    dtordinal: 1
+  - t_karaoke_master_id: 23593
+    song_name: HEARTBREAK DIARY
+    song_kana: はとふれいくた
+    t_singer_master_id: 8325
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-08-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: はとふれいくた
     singer_name: dps/ディープス(deeps)
     singer_alias:
-    available_date: '1999-08-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はとふれいくた
     singer_name_ruby: ていふす
-    song_variation:
-    - esong_code: 241B24
-      song_name: HEARTBREAK DIARY
-      content_type: ''
-  - song_name: for my life〜Single Version〜
-    song_alias:
-    esong_code: 244A26
-    t_singer_master_id: '809'
+    introcha: MONDAY MORNING
+    introcha_ruby: まんていもにんく
+    esong_code: 241B24
+    dtordinal: 2
+  - t_karaoke_master_id: 23598
+    song_name: リビン・ラ・ビダ・ロカ
+    song_kana: りひんらひたろ
+    song_alias: Livin' La Vida Loca
+    j_song_name: リビン・ラ・ビダ・ロカ
+    j_song_kana: LIVINLAVIDALOCA
+    t_singer_master_id: 8647
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-08-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: りひんらひたろ
+    singer_name: リッキー・マーティン
+    singer_alias: Ricky Martin
+    singer_name_ruby: りつきまていん
+    introcha: She's into superstitions black cats
+    introcha_ruby: SHESINTOSUPERSTITION
+    esong_code: 241B29
+    dtordinal: 3
+  - t_karaoke_master_id: 23644
+    song_name: If〜もしも願いが叶うなら〜
+    song_kana: いふ
+    t_singer_master_id: 10052
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-08-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: いふ
+    singer_name: 下川 みくに
+    singer_alias:
+    singer_name_ruby: しもかわみくに
+    introcha: もしも願いが叶うならば
+    introcha_ruby: もしもねかいかかなうならは
+    esong_code: 242A26
+    dtordinal: 4
+  - t_karaoke_master_id: 23646
+    song_name: おんな夢太鼓
+    song_kana: おんなゆめたいこ
+    t_singer_master_id: 1683
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-08-11T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: おんなゆめたいこ
+    singer_name: 夏木 綾子
+    singer_alias:
+    singer_name_ruby: なつきあやこ
+    introcha: 天にとどろけ 大地にひびけ
+    introcha_ruby: てんにととろけたいちにひひけ
+    esong_code: 242A28
+    dtordinal: 5
+  - t_karaoke_master_id: 23649
+    song_name: Deep Sky Heart
+    song_kana: ていふすかいは
+    t_singer_master_id: 8568
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: TBS系ドラマ「コワイ童話」主題歌
+    available_date: '1999-08-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: ていふすかいは
+    singer_name: 木村 由姫
+    singer_alias:
+    singer_name_ruby: きむらゆき
+    introcha: くちびるで伝わる 虹に
+    introcha_ruby: くちひるてつたわるにしに
+    esong_code: 242A31
+    dtordinal: 6
+  - t_karaoke_master_id: 23792
+    song_name: energy flow
+    song_kana: えなしふろう
+    t_singer_master_id: 5142
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: 三共(株)「リゲインＥＢ錠」CM曲
+    available_date: '1999-08-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: えなしふろう
+    singer_name: 坂本 龍一
+    singer_alias:
+    singer_name_ruby: さかもとりゆういち
+    introcha: "(この曲はインストゥルメンタル曲です)"
+    introcha_ruby:
+    esong_code: 243B27
+    dtordinal: 7
+  - t_karaoke_master_id: 23795
+    song_name: メイク・ハー・マイン
+    song_kana: めいくはまいん
+    song_alias: Make Her Mine
+    j_song_name: メイク・ハー・マイン
+    j_song_kana: MAKEHERMINE
+    t_singer_master_id: 10135
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: LEVI'S colors & Tight Fit Jeans CMソング
+    available_date: '1999-08-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: めいくはまいん
+    singer_name: ヒップスター・イメージ
+    singer_alias: Hipster Image
+    singer_name_ruby: ひつふすたいめし
+    introcha: There's a girl seen her walkin' down the street
+    introcha_ruby: THERESAGIRLSEENHERWA
+    esong_code: 243B30
+    dtordinal: 8
+  - t_karaoke_master_id: 23796
+    song_name: リトル・グリーン・バッグ
+    song_kana: りとるくりんは
+    song_alias: Little Green Bag
+    j_song_name: リトル・グリーン・バッグ
+    j_song_kana: LITTLEGREENBAG
+    t_singer_master_id: 10136
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: サントリー・リザーブ10年「シェリー樽仕上げ」CM曲
+    available_date: '1999-08-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: りとるくりんは
+    singer_name: ジョージ・ベイカー
+    singer_alias: George Baker
+    singer_name_ruby: しよしへいか
+    introcha: Yeah Lookin' back on the track for...
+    introcha_ruby: YEAHLOOKINBACKONTHET
+    esong_code: 243B31
+    dtordinal: 9
+  - t_karaoke_master_id: 23802
+    song_name: お帰りなさい
+    song_kana: おかえりなさい
+    t_singer_master_id: 5606
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 8
+    medley_flg: 0
+    lights_flg: 0
+    information: ドラマ「田舎で暮らそうよ」主題歌
+    available_date: '1999-08-11T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: おかえりなさい
+    singer_name: Le Couple
+    singer_alias:
+    singer_name_ruby: るくふる
+    introcha: あなたの鼓動 今 静かに感じてる
+    introcha_ruby: あなたのことういましすかにかんして
+    esong_code: 243B37
+    dtordinal: 10
+  - t_karaoke_master_id: 23840
+    song_name: for my life〜Single Version〜
+    song_kana: ふおまいらいふ
+    t_singer_master_id: 809
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系ドラマ「恋愛結婚の法則」主題歌
+    available_date: '1999-08-11T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: ふおまいらいふ
     singer_name: 小泉 今日子
     singer_alias:
-    available_date: '1999-08-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふおまいらいふ
     singer_name_ruby: こいすみきようこ
-    song_variation:
-    - esong_code: 244A26
-      song_name: for my life〜Single Version〜
-      content_type: ''
+    introcha: for my life カワイイ子猫 拾って来ただけなのに
+    introcha_ruby: ふおまいらいふかわいいこねこ
+    esong_code: 244A26
+    dtordinal: 11
+  - t_karaoke_master_id: 24036
+    song_name: サティスファクション
+    song_kana: さていすふあくしよん
+    t_singer_master_id: 2185
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 7
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-08-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: さていすふあくしよん
+    singer_name: 真心ブラザーズ
+    singer_alias:
+    singer_name_ruby: まこころふらさす
+    introcha: SATISFACTION I CAN GET
+    introcha_ruby: さていすふあくしよんあいきやんけつと
+    esong_code: 246A26
+    dtordinal: 12
+  - t_karaoke_master_id: 24037
+    song_name: そらとぶポケモンキッズ
+    song_kana: そらとふほけもん
+    t_singer_master_id: 10162
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: 劇場版「ポケットモンスター ピカチュウたんけんたい」エンディングテーマ
+    available_date: '1999-08-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199908'
+    song_name_ruby: そらとふほけもん
+    singer_name: ベッキー♪♯(ベッキー)
+    singer_alias:
+    singer_name_ruby: へつき
+    tie_up: ポケットモンスター(劇場版)<番組名>
+    tie_up_ruby: ほけつともんすたけきしようはん
+    introcha: ラララララララ ラララララララ
+    introcha_ruby: らららららららららららららら
+    esong_code: 246A27
+    dtordinal: 13

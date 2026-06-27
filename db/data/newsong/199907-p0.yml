@@ -1,162 +1,231 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 9
-  all_max_cnt: 10
-  all_country_cnt: 9
   song:
-  - song_name: "(愛)という名の誇り"
-    song_alias:
-    esong_code: 235B26
-    t_singer_master_id: '8676'
+  - t_karaoke_master_id: 23007
+    song_name: "(愛)という名の誇り"
+    song_kana: あいというなのほこり
+    t_singer_master_id: 8676
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系「恋ボーイ 恋ガール」エンディング
+    available_date: '1999-07-07T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199907'
+    song_name_ruby: あいというなのほこり
     singer_name: S.E.S
     singer_alias:
-    available_date: '1999-07-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいというなのほこり
     singer_name_ruby: えすいえす
-    song_variation:
-    - esong_code: 235B26
-      song_name: "(愛)という名の誇り"
-      content_type: ''
-  - song_name: 朝日につづく道
-    song_alias:
-    esong_code: 240B33
-    t_singer_master_id: '8219'
-    singer_name: 石井 竜也
-    singer_alias:
-    available_date: '1999-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あさひにつつくみち
-    singer_name_ruby: いしいたつや
-    song_variation:
-    - esong_code: 240B33
-      song_name: 朝日につづく道
-      content_type: ''
-  - song_name: Wish Matrix
-    song_alias:
-    esong_code: 241B30
-    t_singer_master_id: '7213'
-    singer_name: Iceman
-    singer_alias:
-    available_date: '1999-07-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういつしゆまとりつく
-    singer_name_ruby: あいすまん
-    song_variation:
-    - esong_code: 241B30
-      song_name: Wish Matrix
-      content_type: ''
-  - song_name: 海へ行こう〜Love Beach Love〜
-    song_alias:
-    esong_code: 241B33
-    t_singer_master_id: '8712'
-    singer_name: チェキッ娘
-    singer_alias:
-    available_date: '1999-07-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うみへいこう
-    singer_name_ruby: ちえきつこ
-    song_variation:
-    - esong_code: 241B33
-      song_name: 海へ行こう〜Love Beach Love〜
-      content_type: ''
-  - song_name: Eternal Memories
-    song_alias:
-    esong_code: 237B35
-    t_singer_master_id: '10098'
+    introcha: 言葉にして伝えて君の全てを
+    introcha_ruby:
+    esong_code: 235B26
+    dtordinal: 1
+  - t_karaoke_master_id: 23212
+    song_name: Eternal Memories
+    song_kana: えたなるめもりす
+    t_singer_master_id: 10098
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: サントリー「ビタミンウォーター/雲・風・雨編」/アルバム「CK5」より
+    available_date: '1999-07-07T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199907'
+    song_name_ruby: えたなるめもりす
     singer_name: Crystal Kay
     singer_alias:
-    available_date: '1999-07-07'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: えたなるめもりす
     singer_name_ruby: くりすたるけい
-    song_variation:
-    - esong_code: 237B35
-      song_name: Eternal Memories
-      content_type: ''
-  - song_name: 昭和最後の秋のこと
-    song_alias:
-    esong_code: 237B38
-    t_singer_master_id: '2410'
+    introcha: きっと誰でもこころのどこか
+    introcha_ruby: きつとたれてもこころのとこか
+    esong_code: 237B35
+    dtordinal: 2
+  - t_karaoke_master_id: 23215
+    song_name: 昭和最後の秋のこと
+    song_kana: しようわさいこのあ
+    t_singer_master_id: 2410
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-07-28T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199907'
+    song_name_ruby: しようわさいこのあ
     singer_name: 森 進一
     singer_alias:
-    available_date: '1999-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようわさいこのあ
     singer_name_ruby: もりしんいち
-    song_variation:
-    - esong_code: 237B38
-      song_name: 昭和最後の秋のこと
-      content_type: ''
-  - song_name: 0(ゼロ)EDIT
-    song_alias:
-    esong_code: 241B22
-    t_singer_master_id: '8736'
-    singer_name: 7HOUSE
-    singer_alias:
-    available_date: '1999-07-28'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せろえていつと
-    singer_name_ruby: せふんはうす
-    song_variation:
-    - esong_code: 241B22
-      song_name: 0(ゼロ)EDIT
-      content_type: ''
-  - song_name: platinum
-    song_alias:
-    esong_code: 239A28
-    t_singer_master_id: '8267'
+    introcha: 貧しさもつらくない 四畳半にも夢がある
+    introcha_ruby: ますしさもつらくないよしようはんにも
+    esong_code: 237B38
+    dtordinal: 3
+  - t_karaoke_master_id: 23216
+    song_name: アイ・ウォント・イット・ザット・ウェイ
+    song_kana: あいうおんといつとさ
+    song_alias: I Want It That Way
+    j_song_name: アイ・ウォント・イット・ザット・ウェイ
+    j_song_kana: IWANTITTHATWAY
+    t_singer_master_id: 8727
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: アルバム「Millennium」より
+    available_date: '1999-07-28T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199907'
+    song_name_ruby: あいうおんといつとさ
+    singer_name: バックストリート・ボーイズ
+    singer_alias: Backstreet Boys
+    singer_name_ruby: はつくすとりとほいす
+    introcha: You are my fire the one desire
+    introcha_ruby:
+    esong_code: 237B39
+    dtordinal: 4
+  - t_karaoke_master_id: 23352
+    song_name: platinum
+    song_kana: ふらちなむ
+    t_singer_master_id: 8267
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-07-14T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199907'
+    song_name_ruby: ふらちなむ
     singer_name: m.o.v.e(move)
     singer_alias:
-    available_date: '1999-07-14'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらちなむ
     singer_name_ruby: むふ
-    song_variation:
-    - esong_code: 239A28
-      song_name: platinum
-      content_type: ''
-  - song_name: ぽろぽろ
-    song_alias:
-    esong_code: 239A31
-    t_singer_master_id: '2658'
+    introcha: bring the noize back!
+    introcha_ruby: ふりんくさのいすはつく
+    esong_code: 239A28
+    dtordinal: 5
+  - t_karaoke_master_id: 23355
+    song_name: ぽろぽろ
+    song_kana: ほろほろ
+    t_singer_master_id: 2658
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-07-21T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199907'
+    song_name_ruby: ほろほろ
     singer_name: 和田 アキ子
     singer_alias:
-    available_date: '1999-07-21'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほろほろ
     singer_name_ruby: わたあきこ
-    song_variation:
-    - esong_code: 239A31
-      song_name: ぽろぽろ
-      content_type: ''
+    introcha: 夜更けの雨に追われて 真っ暗な部屋たどり着いた
+    introcha_ruby: よふけのあめにおわれてまつくらなへやたと
+    esong_code: 239A31
+    dtordinal: 6
+  - t_karaoke_master_id: 23504
+    song_name: 朝日につづく道
+    song_kana: あさひにつつくみち
+    t_singer_master_id: 8219
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: TBS主催「1999スプライト鈴鹿8時間耐久ロードレース」イメージソング
+    available_date: '1999-07-28T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199907'
+    song_name_ruby: あさひにつつくみち
+    singer_name: 石井 竜也
+    singer_alias:
+    singer_name_ruby: いしいたつや
+    introcha: 道の向こうには 朝日が昇り
+    introcha_ruby:
+    esong_code: 240B33
+    dtordinal: 7
+  - t_karaoke_master_id: 23591
+    song_name: 0(ゼロ)EDIT
+    song_kana: せろえていつと
+    t_singer_master_id: 8736
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-07-28T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199907'
+    song_name_ruby: せろえていつと
+    singer_name: 7HOUSE
+    singer_alias:
+    singer_name_ruby: せふんはうす
+    introcha: 二人きりで街を出よう
+    introcha_ruby: ふたりきりてまちをてよう
+    esong_code: 241B22
+    dtordinal: 8
+  - t_karaoke_master_id: 23599
+    song_name: Wish Matrix
+    song_kana: ういつしゆまとりつく
+    t_singer_master_id: 7213
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 7
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-07-07T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199907'
+    song_name_ruby: ういつしゆまとりつく
+    singer_name: Iceman
+    singer_alias:
+    singer_name_ruby: あいすまん
+    introcha: なめらかに うねる夜を
+    introcha_ruby:
+    esong_code: 241B30
+    dtordinal: 9
+  - t_karaoke_master_id: 23602
+    song_name: 海へ行こう〜Love Beach Love〜
+    song_kana: うみへいこう
+    t_singer_master_id: 8712
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ「ＤＡＩＢＡクシン！！」テーマソング
+    available_date: '1999-07-21T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199907'
+    song_name_ruby: うみへいこう
+    singer_name: チェキッ娘
+    singer_alias:
+    singer_name_ruby: ちえきつこ
+    introcha: 恋して海へ行こう キョーレツな太陽
+    introcha_ruby: こいしてうみへいこうきよれつなたいよう
+    esong_code: 241B33
+    dtordinal: 10

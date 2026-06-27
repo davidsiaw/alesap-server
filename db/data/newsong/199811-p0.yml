@@ -1,179 +1,229 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 10
-  all_max_cnt: 10
-  all_country_cnt: 10
   song:
-  - song_name: 歌舞伎町の女王
-    song_alias:
-    esong_code: 191A38
-    t_singer_master_id: '8522'
-    singer_name: 椎名 林檎
-    singer_alias:
-    available_date: '1998-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かふきちようのし
-    singer_name_ruby: しいなりんこ
-    song_variation:
-    - esong_code: 191A38
-      song_name: 歌舞伎町の女王
-      content_type: ''
-  - song_name: super scream
-    song_alias:
-    esong_code: 191A35
-    t_singer_master_id: '7388'
-    singer_name: DIXIE TANTAS
-    singer_alias:
-    available_date: '1998-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すはすくりむ
-    singer_name_ruby: てきしたんたす
-    song_variation:
-    - esong_code: 191A35
-      song_name: super scream
-      content_type: ''
-  - song_name: 切なく青い空のページ
-    song_alias:
-    esong_code: 187A35
-    t_singer_master_id: '535'
-    singer_name: 加藤 いづみ(Sherry)
-    singer_alias:
-    available_date: '1998-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: せつなくあおいそらの
-    singer_name_ruby: かとういつみ
-    song_variation:
-    - esong_code: 187A35
-      song_name: 切なく青い空のページ
-      content_type: ''
-  - song_name: だから京都
-    song_alias:
-    esong_code: 187A36
-    t_singer_master_id: '871'
-    singer_name: 小柳 ルミ子(rumico)
-    singer_alias:
-    available_date: '1998-11-18'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たからきようと
-    singer_name_ruby: こやなきるみこ
-    song_variation:
-    - esong_code: 187A36
-      song_name: だから京都
-      content_type: ''
-  - song_name: トウキョータワー
-    song_alias:
-    esong_code: 191A34
-    t_singer_master_id: '8697'
-    singer_name: CHAGE
-    singer_alias:
-    available_date: '1998-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきよたわ
-    singer_name_ruby: ちやけ
-    song_variation:
-    - esong_code: 191A34
-      song_name: トウキョータワー
-      content_type: ''
-  - song_name: ノラ
-    song_alias:
-    esong_code: 134B29
-    t_singer_master_id: '542'
+  - t_karaoke_master_id: 13112
+    song_name: ノラ
+    song_kana: のら
+    t_singer_master_id: 542
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-11-11T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199811'
+    song_name_ruby: のら
     singer_name: 門倉 有希
     singer_alias:
-    available_date: '1998-11-11'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: のら
     singer_name_ruby: かとくらゆき
-    song_variation:
-    - esong_code: 134B29
-      song_name: ノラ
-      content_type: ''
-  - song_name: バイバイ
-    song_alias:
-    esong_code: 188A26
-    t_singer_master_id: '5440'
-    singer_name: 石嶺 聡子
+    introcha: やめて・・・下手な嘘  抱いて・・・今はただ
+    introcha_ruby: やめてへたなうそたいていまはたた
+    esong_code: 134B29
+    dtordinal: 1
+  - t_karaoke_master_id: 18263
+    song_name: 切なく青い空のページ
+    song_kana: せつなくあおいそらの
+    t_singer_master_id: 535
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: 日本テレビ系ドラマ「奇跡の人」エンディング
+    available_date: '1998-11-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199811'
+    song_name_ruby: せつなくあおいそらの
+    singer_name: 加藤 いづみ(Sherry)
     singer_alias:
-    available_date: '1998-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はいはい
-    singer_name_ruby: いしみねさとこ
-    song_variation:
-    - esong_code: 188A26
-      song_name: バイバイ
-      content_type: ''
-  - song_name: Peach!!
-    song_alias:
-    esong_code: 187B27
-    t_singer_master_id: '1993'
+    singer_name_ruby: かとういつみ
+    introcha: はばたいたあなたの翼は  今ごろ何処を飛んでますか
+    introcha_ruby: ははたいたあなたのつはさはいまころ
+    esong_code: 187A35
+    dtordinal: 2
+  - t_karaoke_master_id: 18264
+    song_name: だから京都
+    song_kana: たからきようと
+    t_singer_master_id: 871
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-11-18T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199811'
+    song_name_ruby: たからきようと
+    singer_name: 小柳 ルミ子(rumico)
+    singer_alias:
+    singer_name_ruby: こやなきるみこ
+    introcha: 燃えて一途な はかない花が
+    introcha_ruby: もえていちすなはかないはなか
+    esong_code: 187A36
+    dtordinal: 3
+  - t_karaoke_master_id: 18304
+    song_name: Peach!!
+    song_kana: ひち
+    t_singer_master_id: 1993
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系ドラマ「板橋マダムス」主題歌
+    available_date: '1998-11-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199811'
+    song_name_ruby: ひち
     singer_name: 福山 雅治
     singer_alias:
-    available_date: '1998-11-04'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひち
     singer_name_ruby: ふくやままさはる
-    song_variation:
-    - esong_code: 187B27
-      song_name: Peach!!
-      content_type: ''
-  - song_name: 炎の舟
-    song_alias:
-    esong_code: 191B23
-    t_singer_master_id: '1804'
+    introcha: 真実みたいなこと  妄想しすぎること
+    introcha_ruby: しんしつみたいなこともうそうしすきる
+    esong_code: 187B27
+    dtordinal: 4
+  - t_karaoke_master_id: 18352
+    song_name: バイバイ
+    song_kana: はいはい
+    t_singer_master_id: 5440
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系東海テレビ制作全国ネット連続ドラマ「いのちの器」主題歌
+    available_date: '1998-11-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199811'
+    song_name_ruby: はいはい
+    singer_name: 石嶺 聡子
+    singer_alias:
+    singer_name_ruby: いしみねさとこ
+    introcha: すれちがったものは何だろう
+    introcha_ruby:
+    esong_code: 188A26
+    dtordinal: 5
+  - t_karaoke_master_id: 18654
+    song_name: トウキョータワー
+    song_kana: とうきよたわ
+    t_singer_master_id: 8697
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: TX系「愛の貧乏脱出大作戦」エンディング
+    available_date: '1998-11-04T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199811'
+    song_name_ruby: とうきよたわ
+    singer_name: CHAGE
+    singer_alias:
+    singer_name_ruby: ちやけ
+    introcha: 無気力な言葉のせいで
+    introcha_ruby: むきりよくなことはのせいて
+    esong_code: 191A34
+    dtordinal: 6
+  - t_karaoke_master_id: 18655
+    song_name: super scream
+    song_kana: すはすくりむ
+    t_singer_master_id: 7388
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: ハウス「バーモントカレー」CMソング
+    available_date: '1998-11-11T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199811'
+    song_name_ruby: すはすくりむ
+    singer_name: DIXIE TANTAS
+    singer_alias:
+    singer_name_ruby: てきしたんたす
+    introcha: さえぎるものはなく 夢につなぐキャブレター
+    introcha_ruby: さえきるものはなくゆめにつなく
+    esong_code: 191A35
+    dtordinal: 7
+  - t_karaoke_master_id: 18658
+    song_name: 歌舞伎町の女王
+    song_kana: かふきちようのし
+    t_singer_master_id: 8522
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-11-18T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199811'
+    song_name_ruby: かふきちようのし
+    singer_name: 椎名 林檎
+    singer_alias:
+    singer_name_ruby: しいなりんこ
+    introcha: 蝿の声を聞く度に目に
+    introcha_ruby: せみのこえをきくたひにめに
+    esong_code: 191A38
+    dtordinal: 8
+  - t_karaoke_master_id: 18692
+    song_name: 炎の舟
+    song_kana: ひのふね
+    t_singer_master_id: 1804
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-11-25T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199811'
+    song_name_ruby: ひのふね
     singer_name: 浜 まゆみ
     singer_alias:
-    available_date: '1998-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ひのふね
     singer_name_ruby: はままゆみ
-    song_variation:
-    - esong_code: 191B23
-      song_name: 炎の舟
-      content_type: ''
-  - song_name: 夢もうすこし
-    song_alias:
-    esong_code: 191B25
-    t_singer_master_id: '2524'
+    introcha: 男が 誘った 炎の舟ならば
+    introcha_ruby: おとこかさそつたほのおのふねならは
+    esong_code: 191B23
+    dtordinal: 9
+  - t_karaoke_master_id: 18694
+    song_name: 夢もうすこし
+    song_kana: ゆめもうすこし
+    t_singer_master_id: 2524
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: サントリー「香りの酎ハイ」CMソング
+    available_date: '1998-11-25T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199811'
+    song_name_ruby: ゆめもうすこし
     singer_name: 由紀 さおり
     singer_alias:
-    available_date: '1998-11-25'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ゆめもうすこし
     singer_name_ruby: ゆきさおり
-    song_variation:
-    - esong_code: 191B25
-      song_name: 夢もうすこし
-      content_type: ''
+    introcha: かおり ふわり あめあがり
+    introcha_ruby: かおりふわりあめあかり
+    esong_code: 191B25
+    dtordinal: 10

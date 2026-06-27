@@ -1,145 +1,186 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 8
-  all_max_cnt: 8
-  all_country_cnt: 8
   song:
-  - song_name: ANNIVERSARY
-    song_alias:
-    esong_code: 115A33
-    t_singer_master_id: '2553'
-    singer_name: 米倉 利紀
-    singer_alias:
-    available_date: '1998-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あにはさり
-    singer_name_ruby: よねくらとしのり
-    song_variation:
-    - esong_code: 115A33
-      song_name: ANNIVERSARY
-      content_type: ''
-  - song_name: 家へ帰ろう
-    song_alias:
-    esong_code: 115A39
-    t_singer_master_id: '1937'
-    singer_name: BEGIN
-    singer_alias:
-    available_date: '1998-03-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うちへかえろう
-    singer_name_ruby: ひきん
-    song_variation:
-    - esong_code: 115A39
-      song_name: 家へ帰ろう
-      content_type: ''
-  - song_name: 思い切り泣いてもいいよ
-    song_alias:
-    esong_code: 109A21
-    t_singer_master_id: '5440'
+  - t_karaoke_master_id: 10605
+    song_name: 思い切り泣いてもいいよ
+    song_kana: おもいきりないてもい
+    t_singer_master_id: 5440
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-03-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199803'
+    song_name_ruby: おもいきりないてもい
     singer_name: 石嶺 聡子
     singer_alias:
-    available_date: '1998-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: おもいきりないてもい
     singer_name_ruby: いしみねさとこ
-    song_variation:
-    - esong_code: 109A21
-      song_name: 思い切り泣いてもいいよ
-      content_type: ''
-  - song_name: SWEET 7DAYS
-    song_alias:
-    esong_code: 114B36
-    t_singer_master_id: '2955'
-    singer_name: 田村 直美
-    singer_alias:
-    available_date: '1998-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すういとせふんて
-    singer_name_ruby: たむらなおみ
-    song_variation:
-    - esong_code: 114B36
-      song_name: SWEET 7DAYS
-      content_type: ''
-  - song_name: スーパースター☆ハムスター
-    song_alias:
-    esong_code: 110A24
-    t_singer_master_id: '8451'
-    singer_name: YURIMARI
-    singer_alias:
-    available_date: '1998-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すはすたはむ
-    singer_name_ruby: ゆりまり
-    song_variation:
-    - esong_code: 110A24
-      song_name: スーパースター☆ハムスター
-      content_type: ''
-  - song_name: セガサターン、シロ
-    song_alias:
-    esong_code: 109B22
-    t_singer_master_id: '8439'
+    introcha: 思い切り 泣いてもいいよ
+    introcha_ruby:
+    esong_code: 109A21
+    dtordinal: 1
+  - t_karaoke_master_id: 10655
+    song_name: セガサターン、シロ
+    song_kana: せかさたんしろ
+    t_singer_master_id: 8439
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 7
+    medley_flg: 0
+    lights_flg: 0
+    information: セガサターンＣＭソング
+    available_date: '1998-03-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199803'
+    song_name_ruby: せかさたんしろ
     singer_name: とみたいちろう&藤岡 弘
     singer_alias:
-    available_date: '1998-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: せがた三四郎・真剣遊戯<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: せかさたんしろ
     singer_name_ruby: とみたいちろうふし
-    song_variation:
-    - esong_code: 109B22
-      song_name: セガサターン、シロ
-      content_type: ''
-  - song_name: とりかえっこプリーズ
-    song_alias:
-    esong_code: 114A27
-    t_singer_master_id: '8480'
-    singer_name: スズキサン
+    tie_up: せがた三四郎・真剣遊戯<番組名>
+    tie_up_ruby: せかたさんしろうしんけんゆうき
+    introcha: 遊びの道に魂込めた
+    introcha_ruby: あそひのみちにたましいこめた
+    esong_code: 109B22
+    dtordinal: 2
+  - t_karaoke_master_id: 10706
+    song_name: スーパースター☆ハムスター
+    song_kana: すはすたはむ
+    t_singer_master_id: 8451
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 9
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-03-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199803'
+    song_name_ruby: すはすたはむ
+    singer_name: YURIMARI
     singer_alias:
-    available_date: '1998-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: ポケットモンスター<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とりかえつこふり
-    singer_name_ruby: すすきさん
-    song_variation:
-    - esong_code: 114A27
-      song_name: とりかえっこプリーズ
-      content_type: ''
-  - song_name: Freedom
-    song_alias:
-    esong_code: 110B33
-    t_singer_master_id: '449'
+    singer_name_ruby: ゆりまり
+    introcha: ライバルは問題ないでしょう
+    introcha_ruby: らいはるはもんたいないてしよう
+    esong_code: 110A24
+    dtordinal: 3
+  - t_karaoke_master_id: 10764
+    song_name: Freedom
+    song_kana: ふりたむ
+    t_singer_master_id: 449
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: ＳＵＺＵＫＩ「Ｊｉｍｍｙ　ＷＩＤＥ」CFソング
+    available_date: '1998-03-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199803'
+    song_name_ruby: ふりたむ
     singer_name: 織田 裕二
     singer_alias:
-    available_date: '1998-03-17'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふりたむ
     singer_name_ruby: おたゆうし
-    song_variation:
-    - esong_code: 110B33
-      song_name: Freedom
-      content_type: ''
+    introcha: 汚れたシャツ着て
+    introcha_ruby: よこれたしやつきて
+    esong_code: 110B33
+    dtordinal: 4
+  - t_karaoke_master_id: 11101
+    song_name: とりかえっこプリーズ
+    song_kana: とりかえつこふり
+    t_singer_master_id: 8480
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 4
+    medley_flg: 0
+    lights_flg: 0
+    information: CM「ポケットモンスターカードゲーム」
+    available_date: '1998-03-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199803'
+    song_name_ruby: とりかえつこふり
+    singer_name: スズキサン
+    singer_alias:
+    singer_name_ruby: すすきさん
+    tie_up: ポケットモンスター<番組名>
+    tie_up_ruby: ほけつともんすた
+    introcha: "(what's this formation"
+    introcha_ruby: WHATSTHISTONMASION
+    esong_code: 114A27
+    dtordinal: 5
+  - t_karaoke_master_id: 11159
+    song_name: SWEET 7DAYS
+    song_kana: すういとせふんて
+    t_singer_master_id: 2955
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-03-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199803'
+    song_name_ruby: すういとせふんて
+    singer_name: 田村 直美
+    singer_alias:
+    singer_name_ruby: たむらなおみ
+    introcha: Monday,Tuesday...
+    introcha_ruby: MONDAYTUESDAY
+    esong_code: 114B36
+    dtordinal: 6
+  - t_karaoke_master_id: 11205
+    song_name: ANNIVERSARY
+    song_kana: あにはさり
+    t_singer_master_id: 2553
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-03-17T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199803'
+    song_name_ruby: あにはさり
+    singer_name: 米倉 利紀
+    singer_alias:
+    singer_name_ruby: よねくらとしのり
+    introcha: 君を想うと 一日嬉しい 君を想うと
+    introcha_ruby: きみをおもうといちにちうれしいきみをおも
+    esong_code: 115A33
+    dtordinal: 7
+  - t_karaoke_master_id: 11211
+    song_name: 家へ帰ろう
+    song_kana: うちへかえろう
+    t_singer_master_id: 1937
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 7
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-03-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199803'
+    song_name_ruby: うちへかえろう
+    singer_name: BEGIN
+    singer_alias:
+    singer_name_ruby: ひきん
+    introcha: 毎日慌ただしく過ぎて行く
+    introcha_ruby: まいにちおわたたしくすきてゆく
+    esong_code: 115A39
+    dtordinal: 8

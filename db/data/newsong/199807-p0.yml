@@ -1,94 +1,116 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 5
-  all_max_cnt: 5
-  all_country_cnt: 5
   song:
-  - song_name: With Your Love
-    song_alias:
-    esong_code: 127A21
-    t_singer_master_id: '6956'
+  - t_karaoke_master_id: 12369
+    song_name: With Your Love
+    song_kana: ういすゆあらふ
+    t_singer_master_id: 6956
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-07-15T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199807'
+    song_name_ruby: ういすゆあらふ
     singer_name: 天方 直実
     singer_alias:
-    available_date: '1998-07-15'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ういすゆあらふ
     singer_name_ruby: あまかたなおみ
-    song_variation:
-    - esong_code: 127A21
-      song_name: With Your Love
-      content_type: ''
-  - song_name: 太陽は知っている
-    song_alias:
-    esong_code: 128A36
-    t_singer_master_id: '2651'
+    introcha: 出かける前に 君とin the air
+    introcha_ruby:
+    esong_code: 127A21
+    dtordinal: 1
+  - t_karaoke_master_id: 12482
+    song_name: 太陽は知っている
+    song_kana: たいようはしつている
+    t_singer_master_id: 2651
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-07-01T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199807'
+    song_name_ruby: たいようはしつている
     singer_name: 渡辺 美里
     singer_alias:
-    available_date: '1998-07-01'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たいようはしつている
     singer_name_ruby: わたなへみさと
-    song_variation:
-    - esong_code: 128A36
-      song_name: 太陽は知っている
-      content_type: ''
-  - song_name: 抱きしめて
-    song_alias:
-    esong_code: 130A34
-    t_singer_master_id: '5903'
+    introcha: 太陽が燃えていた夢に Kissをした
+    introcha_ruby: たいようかもえていたゆめにKISSをし
+    esong_code: 128A36
+    dtordinal: 2
+  - t_karaoke_master_id: 12676
+    song_name: 抱きしめて
+    song_kana: たきしめて
+    t_singer_master_id: 5903
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-07-08T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199807'
+    song_name_ruby: たきしめて
     singer_name: 椎名 へきる
     singer_alias:
-    available_date: '1998-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たきしめて
     singer_name_ruby: しいなへきる
-    song_variation:
-    - esong_code: 130A34
-      song_name: 抱きしめて
-      content_type: ''
-  - song_name: baby baby、Service
-    song_alias:
-    esong_code: 130B27
-    t_singer_master_id: '8580'
-    singer_name: 嶋野 百恵(嶋野 百恵a.k.a.MOET)
-    singer_alias:
-    available_date: '1998-07-22'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へいひへいひ
-    singer_name_ruby: しまのももえ
-    song_variation:
-    - esong_code: 130B27
-      song_name: baby baby、Service
-      content_type: ''
-  - song_name: Rage your dream
-    song_alias:
-    esong_code: 130A35
-    t_singer_master_id: '8267'
+    introcha: 雨音がいつしか強まって
+    introcha_ruby: あまおとかいつしかつよまつて
+    esong_code: 130A34
+    dtordinal: 3
+  - t_karaoke_master_id: 12677
+    song_name: Rage your dream
+    song_kana: れいしゆあとり
+    t_singer_master_id: 8267
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: "<頭文字D>"
+    available_date: '1998-07-08T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199807'
+    song_name_ruby: れいしゆあとり
     singer_name: m.o.v.e(move)
     singer_alias:
-    available_date: '1998-07-08'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 頭文字D<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: れいしゆあとり
     singer_name_ruby: むふ
-    song_variation:
-    - esong_code: 130A35
-      song_name: Rage your dream
-      content_type: ''
+    tie_up: 頭文字D<番組名>
+    tie_up_ruby: いにしやるてい
+    introcha: I got no impression
+    introcha_ruby: あいこつとのいんふれつしよん
+    esong_code: 130A35
+    dtordinal: 4
+  - t_karaoke_master_id: 12718
+    song_name: baby baby、Service
+    song_kana: へいひへいひ
+    t_singer_master_id: 8580
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-07-22T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199807'
+    song_name_ruby: へいひへいひ
+    singer_name: 嶋野 百恵(嶋野 百恵a.k.a.MOET)
+    singer_alias:
+    singer_name_ruby: しまのももえ
+    introcha: 声を出し上手に鳴くわいつでも
+    introcha_ruby: こえをたししようすになくわいつまて
+    esong_code: 130B27
+    dtordinal: 5

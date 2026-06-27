@@ -1,179 +1,234 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 10
-  all_max_cnt: 10
-  all_country_cnt: 10
   song:
-  - song_name: 一番きれいな瞬間の私を憶えていて
-    song_alias:
-    esong_code: 107A26
-    t_singer_master_id: '8415'
-    singer_name: 奥土居 美可
-    singer_alias:
-    available_date: '1998-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: いちはんきれいなと
-    singer_name_ruby: おくといみか
-    song_variation:
-    - esong_code: 107A26
-      song_name: 一番きれいな瞬間の私を憶えていて
-      content_type: ''
-  - song_name: 恋だっていいのに
-    song_alias:
-    esong_code: 101A38
-    t_singer_master_id: '7318'
-    singer_name: 石井 聖子
-    singer_alias:
-    available_date: '1998-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こいたつていいのに
-    singer_name_ruby: いしいせいこ
-    song_variation:
-    - esong_code: 101A38
-      song_name: 恋だっていいのに
-      content_type: ''
-  - song_name: GOLD VIBRATION
-    song_alias:
-    esong_code: 98A23
-    t_singer_master_id: '6452'
+  - t_karaoke_master_id: 9529
+    song_name: GOLD VIBRATION
+    song_kana: こるとはいふ
+    t_singer_master_id: 6452
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: TV朝日系「ウィークエンドライブ週刊地球TV」オープニング
+    available_date: '1998-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199801'
+    song_name_ruby: こるとはいふ
     singer_name: 貴水 博之
     singer_alias:
-    available_date: '1998-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: こるとはいふ
     singer_name_ruby: たかみひろゆき
-    song_variation:
-    - esong_code: 98A23
-      song_name: GOLD VIBRATION
-      content_type: ''
-  - song_name: シヴィラはある日突然に〜SUDDENLY SIBYLLA〜
-    song_alias:
-    esong_code: 108A21
-    t_singer_master_id: '7478'
-    singer_name: カジ ヒデキ(加地秀基)
-    singer_alias:
-    available_date: '1998-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しひらはあるひとつ
-    singer_name_ruby: かしひてき
-    song_variation:
-    - esong_code: 108A21
-      song_name: シヴィラはある日突然に〜SUDDENLY SIBYLLA〜
-      content_type: ''
-  - song_name: 月灯りふんわり落ちてくる夜
-    song_alias:
-    esong_code: 103B30
-    t_singer_master_id: '8391'
-    singer_name: 小川 七生
-    singer_alias:
-    available_date: '1998-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: クレヨンしんちゃん<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: つきあかりふんわりお
-    singer_name_ruby: おかわななせ
-    song_variation:
-    - esong_code: 103B30
-      song_name: 月灯りふんわり落ちてくる夜
-      content_type: ''
-  - song_name: ドラ・ドラ・ドライブ大作戦
-    song_alias:
-    esong_code: 108A22
-    t_singer_master_id: '601'
-    singer_name: KAN
-    singer_alias:
-    available_date: '1998-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とらとらとらい
-    singer_name_ruby: かん
-    song_variation:
-    - esong_code: 108A22
-      song_name: ドラ・ドラ・ドライブ大作戦
-      content_type: ''
-  - song_name: 永遠の旅路
-    song_alias:
-    esong_code: 108A27
-    t_singer_master_id: '221'
-    singer_name: 五木 ひろし
-    singer_alias:
-    available_date: '1998-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とわのたひし
-    singer_name_ruby: いつきひろし
-    song_variation:
-    - esong_code: 108A27
-      song_name: 永遠の旅路
-      content_type: ''
-  - song_name: ハッピー・レイン
-    song_alias:
-    esong_code: 106B36
-    t_singer_master_id: '6245'
-    singer_name: カズン
-    singer_alias:
-    available_date: '1998-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はつひれいん
-    singer_name_ruby: かすん
-    song_variation:
-    - esong_code: 106B36
-      song_name: ハッピー・レイン
-      content_type: ''
-  - song_name: Vol.
-    song_alias:
-    esong_code: 107B40
-    t_singer_master_id: '7456'
-    singer_name: ゴスペラーズ(The Gospellers)
-    singer_alias:
-    available_date: '1998-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ほりゆむ
-    singer_name_ruby: こすへらす
-    song_variation:
-    - esong_code: 107B40
-      song_name: Vol.
-      content_type: ''
-  - song_name: ミネラル
-    song_alias:
-    esong_code: 99A27
-    t_singer_master_id: '7843'
+    introcha: 鳥の様にはばたいて
+    introcha_ruby: とりのようにははたいて
+    esong_code: 98A23
+    dtordinal: 1
+  - t_karaoke_master_id: 9631
+    song_name: ミネラル
+    song_kana: みねらる
+    t_singer_master_id: 7843
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: "<中華一番>"
+    available_date: '1998-01-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199801'
+    song_name_ruby: みねらる
     singer_name: 七緒 香
     singer_alias:
-    available_date: '1998-01-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 中華一番<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: みねらる
     singer_name_ruby: ななおかおり
-    song_variation:
-    - esong_code: 99A27
-      song_name: ミネラル
-      content_type: ''
+    tie_up: 中華一番<番組名>
+    tie_up_ruby: ちゆうかいちはん
+    introcha: ざわめく街の中でガードレール飛び越えて
+    introcha_ruby: さわめくまちのなかてかとれると
+    esong_code: 99A27
+    dtordinal: 2
+  - t_karaoke_master_id: 9838
+    song_name: 恋だっていいのに
+    song_kana: こいたつていいのに
+    t_singer_master_id: 7318
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系「発掘!あるある大辞典」エンディングテーマ
+    available_date: '1998-01-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199801'
+    song_name_ruby: こいたつていいのに
+    singer_name: 石井 聖子
+    singer_alias:
+    singer_name_ruby: いしいせいこ
+    introcha: ふたり恋人じゃない 友達じゃない
+    introcha_ruby:
+    esong_code: 101A38
+    dtordinal: 3
+  - t_karaoke_master_id: 10075
+    song_name: 月灯りふんわり落ちてくる夜
+    song_kana: つきあかりふんわりお
+    t_singer_master_id: 8391
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    information: "<クレヨンしんちゃん>"
+    available_date: '1998-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199801'
+    song_name_ruby: つきあかりふんわりお
+    singer_name: 小川 七生
+    singer_alias:
+    singer_name_ruby: おかわななせ
+    tie_up: クレヨンしんちゃん<番組名>
+    tie_up_ruby: くれよんしんちやん
+    introcha: 月灯りふんわり落ちてくる夜は
+    introcha_ruby: つきあかりふんわりおちてくるよは
+    esong_code: 103B30
+    dtordinal: 4
+  - t_karaoke_master_id: 10375
+    song_name: ハッピー・レイン
+    song_kana: はつひれいん
+    t_singer_master_id: 6245
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 4
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199801'
+    song_name_ruby: はつひれいん
+    singer_name: カズン
+    singer_alias:
+    singer_name_ruby: かすん
+    introcha: マスカラもとれちゃって
+    introcha_ruby: ますからもとれちやつて
+    esong_code: 106B36
+    dtordinal: 5
+  - t_karaoke_master_id: 10414
+    song_name: 一番きれいな瞬間の私を憶えていて
+    song_kana: いちはんきれいなと
+    t_singer_master_id: 8415
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199801'
+    song_name_ruby: いちはんきれいなと
+    singer_name: 奥土居 美可
+    singer_alias:
+    singer_name_ruby: おくといみか
+    introcha: 朝もやが抱きしめにきた
+    introcha_ruby: あさもやかたきしめにきた
+    esong_code: 107A26
+    dtordinal: 6
+  - t_karaoke_master_id: 10477
+    song_name: Vol.
+    song_kana: ほりゆむ
+    t_singer_master_id: 7456
+    mt_country_code_id: 0
+    karaoke_genre_id: 0
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: ビクトリア「スノーボード」キャンペーンソング
+    available_date: '1998-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199801'
+    song_name_ruby: ほりゆむ
+    singer_name: ゴスペラーズ(The Gospellers)
+    singer_alias:
+    singer_name_ruby: こすへらす
+    introcha: はやく はやく 世界を奮わせる風
+    introcha_ruby: はやくはやくせかいをふるわせるかせ
+    esong_code: 107B40
+    dtordinal: 7
+  - t_karaoke_master_id: 10507
+    song_name: シヴィラはある日突然に〜SUDDENLY SIBYLLA〜
+    song_kana: しひらはあるひとつ
+    t_singer_master_id: 7478
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: テレビ朝日「ナイナイナ」テーマソング
+    available_date: '1998-01-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199801'
+    song_name_ruby: しひらはあるひとつ
+    singer_name: カジ ヒデキ(加地秀基)
+    singer_alias:
+    singer_name_ruby: かしひてき
+    introcha: 何か聞こえない わめいていない
+    introcha_ruby: なにかきこえないわめいていない
+    esong_code: 108A21
+    dtordinal: 8
+  - t_karaoke_master_id: 10508
+    song_name: ドラ・ドラ・ドライブ大作戦
+    song_kana: とらとらとらい
+    t_singer_master_id: 601
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    information: テレビ東京系「青い体験」ON THE WAVE〜湘南グラフティ〜主題歌
+    available_date: '1998-01-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199801'
+    song_name_ruby: とらとらとらい
+    singer_name: KAN
+    singer_alias:
+    singer_name_ruby: かん
+    introcha: ぼくの車に乗ってドライブをしないかい
+    introcha_ruby: ほくのくるまにのつてとらいふをしな
+    esong_code: 108A22
+    dtordinal: 9
+  - t_karaoke_master_id: 10513
+    song_name: 永遠の旅路
+    song_kana: とわのたひし
+    t_singer_master_id: 221
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 1
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199801'
+    song_name_ruby: とわのたひし
+    singer_name: 五木 ひろし
+    singer_alias:
+    singer_name_ruby: いつきひろし
+    introcha: だれに感謝をしよう きみに出会えたことを
+    introcha_ruby:
+    esong_code: 108A27
+    dtordinal: 10

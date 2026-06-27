@@ -1,145 +1,185 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 8
-  all_max_cnt: 8
-  all_country_cnt: 8
   song:
-  - song_name: "「愛してる」"
-    song_alias:
-    esong_code: 195B37
-    t_singer_master_id: '8721'
-    singer_name: BAJI-R
-    singer_alias:
-    available_date: '1998-12-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいしてる
-    singer_name_ruby: はしある
-    song_variation:
-    - esong_code: 195B37
-      song_name: "「愛してる」"
-      content_type: ''
-  - song_name: I Believe
-    song_alias:
-    esong_code: 196A22
-    t_singer_master_id: '8722'
-    singer_name: kuβ
-    singer_alias:
-    available_date: '1998-12-23'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: あいひりふ
-    singer_name_ruby: くす
-    song_variation:
-    - esong_code: 196A22
-      song_name: I Believe
-      content_type: ''
-  - song_name: 悲しみを消さない
-    song_alias:
-    esong_code: 196A21
-    t_singer_master_id: '2649'
-    singer_name: 渡辺 真知子
-    singer_alias:
-    available_date: '1998-12-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: かなしみをけさない
-    singer_name_ruby: わたなへまちこ
-    song_variation:
-    - esong_code: 196A21
-      song_name: 悲しみを消さない
-      content_type: ''
-  - song_name: 君のいる街
-    song_alias:
-    esong_code: 191B26
-    t_singer_master_id: '6070'
-    singer_name: 大橋 りえ(利恵)
-    singer_alias:
-    available_date: '1998-12-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: きみのいるまち
-    singer_name_ruby: おおはしりえ
-    song_variation:
-    - esong_code: 191B26
-      song_name: 君のいる街
-      content_type: ''
-  - song_name: X'mas kiss
-    song_alias:
-    esong_code: 192B31
-    t_singer_master_id: '8704'
-    singer_name: Tiptory
-    singer_alias:
-    available_date: '1998-12-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: くりすますきす
-    singer_name_ruby: ていふとり
-    song_variation:
-    - esong_code: 192B31
-      song_name: X'mas kiss
-      content_type: ''
-  - song_name: Show me X Show me
-    song_alias:
-    esong_code: 195B32
-    t_singer_master_id: '8606'
-    singer_name: MISSION
-    singer_alias:
-    available_date: '1998-12-09'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: しようみしようみ
-    singer_name_ruby: みつしよん
-    song_variation:
-    - esong_code: 195B32
-      song_name: Show me X Show me
-      content_type: ''
-  - song_name: TRUTH 〜A GREAT DETECTIVE OF LOVE〜
-    song_alias:
-    esong_code: 190B33
-    t_singer_master_id: '6082'
+  - t_karaoke_master_id: 18604
+    song_name: TRUTH 〜A GREAT DETECTIVE OF LOVE〜
+    song_kana: とうるすあくれ
+    t_singer_master_id: 6082
+    mt_country_code_id: 0
+    karaoke_genre_id: 7
+    mt_duet_id: 8
+    medley_flg: 0
+    lights_flg: 0
+    information: TVアニメ「名探偵コナン」オープニングテーマ
+    available_date: '1998-12-02T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199812'
+    song_name_ruby: とうるすあくれ
     singer_name: TWO-MIX(Ⅱ MIX ⊿ DELTA)
     singer_alias:
-    available_date: '1998-12-02'
-    end_date: '2999-04-10 00:00:00'
-    tie_up: 名探偵コナン<番組名>
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうるすあくれ
     singer_name_ruby: とうみつくす
-    song_variation:
-    - esong_code: 190B33
-      song_name: TRUTH 〜A GREAT DETECTIVE OF LOVE〜
-      content_type: ''
-  - song_name: プラットホーム
-    song_alias:
-    esong_code: 195B33
-    t_singer_master_id: '8242'
+    tie_up: 名探偵コナン<番組名>
+    tie_up_ruby: めいたんていこなん
+    introcha: QUEST FOR LOVE、QUEST FOR DREAM
+    introcha_ruby:
+    esong_code: 190B33
+    dtordinal: 1
+  - t_karaoke_master_id: 18695
+    song_name: 君のいる街
+    song_kana: きみのいるまち
+    t_singer_master_id: 6070
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-12-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199812'
+    song_name_ruby: きみのいるまち
+    singer_name: 大橋 りえ(利恵)
+    singer_alias:
+    singer_name_ruby: おおはしりえ
+    introcha: 坂道を登ったら  見えるバス停
+    introcha_ruby: さかみちをのほつたらみえるはすてい
+    esong_code: 191B26
+    dtordinal: 2
+  - t_karaoke_master_id: 18798
+    song_name: X'mas kiss
+    song_kana: くりすますきす
+    t_singer_master_id: 8704
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: 花王ソフィーナ オーブ ルージュフィーリア クリスマス限定品 CMイメージソング
+    available_date: '1998-12-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199812'
+    song_name_ruby: くりすますきす
+    singer_name: Tiptory
+    singer_alias:
+    singer_name_ruby: ていふとり
+    introcha: ざわめく街  いつもより眩しくて
+    introcha_ruby: さわめくまちいつもよりまふしくて
+    esong_code: 192B31
+    dtordinal: 3
+  - t_karaoke_master_id: 19093
+    song_name: Show me X Show me
+    song_kana: しようみしようみ
+    t_singer_master_id: 8606
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系「芸能女学館2学期」エンディング
+    available_date: '1998-12-09T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199812'
+    song_name_ruby: しようみしようみ
+    singer_name: MISSION
+    singer_alias:
+    singer_name_ruby: みつしよん
+    introcha: Show me Show me 不思議なくらい
+    introcha_ruby: しようみしようみふしきなくらい
+    esong_code: 195B32
+    dtordinal: 4
+  - t_karaoke_master_id: 19094
+    song_name: プラットホーム
+    song_kana: ふらつとほむ
+    t_singer_master_id: 8242
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-12-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199812'
+    song_name_ruby: ふらつとほむ
     singer_name: バラーズ
     singer_alias:
-    available_date: '1998-12-16'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: ふらつとほむ
     singer_name_ruby: はらす
-    song_variation:
-    - esong_code: 195B33
-      song_name: プラットホーム
-      content_type: ''
+    introcha: 泣いて 泣いて 泣いて 縋った
+    introcha_ruby: ないてないてないておつた
+    esong_code: 195B33
+    dtordinal: 5
+  - t_karaoke_master_id: 19098
+    song_name: "「愛してる」"
+    song_kana: あいしてる
+    t_singer_master_id: 8721
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-12-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199812'
+    song_name_ruby: あいしてる
+    singer_name: BAJI-R
+    singer_alias:
+    singer_name_ruby: はしある
+    introcha: 小さな雨音に耳を傾けてる
+    introcha_ruby:
+    esong_code: 195B37
+    dtordinal: 6
+  - t_karaoke_master_id: 19131
+    song_name: 悲しみを消さない
+    song_kana: かなしみをけさない
+    t_singer_master_id: 2649
+    mt_country_code_id: 0
+    karaoke_genre_id: 0
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1998-12-16T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199812'
+    song_name_ruby: かなしみをけさない
+    singer_name: 渡辺 真知子
+    singer_alias:
+    singer_name_ruby: わたなへまちこ
+    introcha: もしも誰かを傷つけたって
+    introcha_ruby: もしもたれかをきすつけたつて
+    esong_code: 196A21
+    dtordinal: 7
+  - t_karaoke_master_id: 19132
+    song_name: I Believe
+    song_kana: あいひりふ
+    t_singer_master_id: 8722
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: TBS系全国ネット「男3人ムリ珍お宝旅」エンディング
+    available_date: '1998-12-23T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199812'
+    song_name_ruby: あいひりふ
+    singer_name: kuβ
+    singer_alias:
+    singer_name_ruby: くす
+    introcha: 部屋の灯りを落として一人
+    introcha_ruby: へやのあかりをおとしてひとり
+    esong_code: 196A22
+    dtordinal: 8

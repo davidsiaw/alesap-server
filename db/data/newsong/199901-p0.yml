@@ -1,145 +1,256 @@
 ---
-status: 'true'
-code: '200'
-messages: ''
 result:
-  max_cnt: 8
-  all_max_cnt: 11
-  all_country_cnt: 8
   song:
-  - song_name: ウーロン茶じゃだめですか
-    song_alias:
-    esong_code: 200A36
-    t_singer_master_id: '8264'
-    singer_name: 東京プリン
-    singer_alias:
-    available_date: '1999-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: うろんちやしやた
-    singer_name_ruby: とうきようふりん
-    song_variation:
-    - esong_code: 200A36
-      song_name: ウーロン茶じゃだめですか
-      content_type: ''
-  - song_name: STAR TOURS
-    song_alias:
-    esong_code: 198B38
-    t_singer_master_id: '6910'
-    singer_name: MOON CHILD(Moon Child)
-    singer_alias:
-    available_date: '1999-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: すたつあす
-    singer_name_ruby: むんちやいると
-    song_variation:
-    - esong_code: 198B38
-      song_name: STAR TOURS
-      content_type: ''
-  - song_name: 抱きしめて
-    song_alias:
-    esong_code: 193A33
-    t_singer_master_id: '8712'
+  - t_karaoke_master_id: 18849
+    song_name: 抱きしめて
+    song_kana: たきしめて
+    t_singer_master_id: 8712
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: たきしめて
     singer_name: チェキッ娘
     singer_alias:
-    available_date: '1999-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: たきしめて
     singer_name_ruby: ちえきつこ
-    song_variation:
-    - esong_code: 193A33
-      song_name: 抱きしめて
-      content_type: ''
-  - song_name: 東京時雨
-    song_alias:
-    esong_code: 199B40
-    t_singer_master_id: '6798'
-    singer_name: 花田 真衣(花田麻衣)
-    singer_alias:
-    available_date: '1999-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: とうきようしくれ
-    singer_name_ruby: はなたまい
-    song_variation:
-    - esong_code: 199B40
-      song_name: 東京時雨
-      content_type: ''
-  - song_name: ハロー・マイセルフ
-    song_alias:
-    esong_code: 199B37
-    t_singer_master_id: '8543'
-    singer_name: 木村 佳乃
-    singer_alias:
-    available_date: '1999-01-27'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: はろまいせるふ
-    singer_name_ruby: きむらよしの
-    song_variation:
-    - esong_code: 199B37
-      song_name: ハロー・マイセルフ
-      content_type: ''
-  - song_name: Baby！it’s all right
-    song_alias:
-    esong_code: 200A35
-    t_singer_master_id: '8739'
-    singer_name: Piccadilly Circus
-    singer_alias:
-    available_date: '1999-01-20'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: へいひいつつお
-    singer_name_ruby: ひかてりさか
-    song_variation:
-    - esong_code: 200A35
-      song_name: Baby！it’s all right
-      content_type: ''
-  - song_name: My Revolution
-    song_alias:
-    esong_code: 197B22
-    t_singer_master_id: '7468'
+    introcha: すれちがって 立ち止って
+    introcha_ruby: すれちかつてたちとまつて
+    esong_code: 193A33
+    dtordinal: 1
+  - t_karaoke_master_id: 19234
+    song_name: ストップ
+    song_kana: すとつふ
+    song_alias: Stop
+    j_song_name: ストップ
+    j_song_kana: STOP
+    t_singer_master_id: 7303
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: すとつふ
+    singer_name: スパイス・ガールズ
+    singer_alias: Spice Girls
+    singer_name_ruby: すはいすかるす
+    introcha: You just walk in
+    introcha_ruby: YOUJUSTWALKIN
+    esong_code: 197A26
+    dtordinal: 2
+  - t_karaoke_master_id: 19279
+    song_name: My Revolution
+    song_kana: まいれほりゆしよ
+    t_singer_master_id: 7468
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 3
+    medley_flg: 0
+    lights_flg: 0
+    information: TBS系ドラマ愛の劇場「ひなたぼっこ」主題歌
+    available_date: '1999-01-13T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: まいれほりゆしよ
     singer_name: 猿岩石
     singer_alias:
-    available_date: '1999-01-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: まいれほりゆしよ
     singer_name_ruby: さるかんせき
-    song_variation:
-    - esong_code: 197B22
-      song_name: My Revolution
-      content_type: ''
-  - song_name: Love illusion
-    song_alias:
-    esong_code: 200A33
-    t_singer_master_id: '8491'
+    introcha: さよなら  Sweet Pain  頬づえついていた
+    introcha_ruby: さよならすいとへいんほおつえついて
+    esong_code: 197B22
+    dtordinal: 3
+  - t_karaoke_master_id: 19393
+    song_name: STAR TOURS
+    song_kana: すたつあす
+    t_singer_master_id: 6910
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 6
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-01-20T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: すたつあす
+    singer_name: MOON CHILD(Moon Child)
+    singer_alias:
+    singer_name_ruby: むんちやいると
+    introcha: STAR TOURS 夜空にはじけた 真冬の僕等は流れ星
+    introcha_ruby: すたつあすよそらにはしけた
+    esong_code: 198B38
+    dtordinal: 4
+  - t_karaoke_master_id: 19490
+    song_name: ハロー・マイセルフ
+    song_kana: はろまいせるふ
+    t_singer_master_id: 8543
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: はろまいせるふ
+    singer_name: 木村 佳乃
+    singer_alias:
+    singer_name_ruby: きむらよしの
+    introcha: 窓ぎわに元気なグリーン  まずは並べて
+    introcha_ruby: まときわにけんきなくりんます
+    esong_code: 199B37
+    dtordinal: 5
+  - t_karaoke_master_id: 19493
+    song_name: 東京時雨
+    song_kana: とうきようしくれ
+    t_singer_master_id: 6798
+    mt_country_code_id: 0
+    karaoke_genre_id: 1
+    mt_duet_id: 2
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: とうきようしくれ
+    singer_name: 花田 真衣(花田麻衣)
+    singer_alias:
+    singer_name_ruby: はなたまい
+    introcha: 俺が欲しけりゃ  おまえにやると
+    introcha_ruby: おれかほしけりやおめにやると
+    esong_code: 199B40
+    dtordinal: 6
+  - t_karaoke_master_id: 19535
+    song_name: Love illusion
+    song_kana: らふいりゆしよ
+    t_singer_master_id: 8491
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    information: フジテレビ系「Ｓｈｉｍｕｒａ Ｘ天国」11月エンディング
+    available_date: '1999-01-13T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: らふいりゆしよ
     singer_name: FEEL
     singer_alias:
-    available_date: '1999-01-13'
-    end_date: '2999-04-10 00:00:00'
-    tie_up:
-    country_code: '0'
-    content_type:
-    song_name_ruby: らふいりゆしよ
     singer_name_ruby: ふいる
-    song_variation:
-    - esong_code: 200A33
-      song_name: Love illusion
-      content_type: ''
+    introcha: One night 今宵は華になる
+    introcha_ruby: わんないとこよいははなになる
+    esong_code: 200A33
+    dtordinal: 7
+  - t_karaoke_master_id: 19537
+    song_name: Baby！it’s all right
+    song_kana: へいひいつつお
+    t_singer_master_id: 8739
+    mt_country_code_id: 0
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-01-20T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: へいひいつつお
+    singer_name: Piccadilly Circus
+    singer_alias:
+    singer_name_ruby: ひかてりさか
+    introcha: 人生は危険だらけのサーカス
+    introcha_ruby: しんせいはきけんたらけのさかす
+    esong_code: 200A35
+    dtordinal: 8
+  - t_karaoke_master_id: 19538
+    song_name: ウーロン茶じゃだめですか
+    song_kana: うろんちやしやた
+    t_singer_master_id: 8264
+    mt_country_code_id: 0
+    karaoke_genre_id: 0
+    mt_duet_id: 7
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-01-20T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: うろんちやしやた
+    singer_name: 東京プリン
+    singer_alias:
+    singer_name_ruby: とうきようふりん
+    introcha: とりあえずビールて言えない
+    introcha_ruby: とりあえすひるつていえない
+    esong_code: 200A36
+    dtordinal: 9
+  - t_karaoke_master_id: 19572
+    song_name: ドゥー・ワップ
+    song_kana: とうわつふ
+    song_alias: Doo Wop (that Thing)
+    j_song_name: ドゥー・ワップ
+    j_song_kana: DOOWOPTHATTHING
+    t_singer_master_id: 8717
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: とうわつふ
+    singer_name: ローリン・ヒル
+    singer_alias: Lauryn Hill
+    singer_name_ruby: ろりんひる
+    introcha: It's been three
+    introcha_ruby:
+    esong_code: 200B21
+    dtordinal: 10
+  - t_karaoke_master_id: 19574
+    song_name: マリア (スパングリッシュ・ラジオ・エディット)
+    song_kana: まりあすはんくり
+    song_alias: Maria (spanclish Radio Edit)
+    j_song_name: マリア (スパングリッシュ・ラジオ・エディット)
+    j_song_kana: MARIASPANCLISHRADIOEDIT
+    t_singer_master_id: 8647
+    mt_country_code_id: 1
+    karaoke_genre_id: 2
+    mt_duet_id: 0
+    medley_flg: 0
+    lights_flg: 0
+    available_date: '1999-01-27T00:00:00'
+    end_date: '2999-04-10T00:00:00'
+    reg_date: '2026-06-25T03:11:33'
+    upd_date: '2026-06-25T03:11:33'
+    :dt: '199901'
+    song_name_ruby: まりあすはんくり
+    singer_name: リッキー・マーティン
+    singer_alias: Ricky Martin
+    singer_name_ruby: りつきまていん
+    introcha: Wop pa! Un,dos,
+    introcha_ruby:
+    esong_code: 200B23
+    dtordinal: 11
