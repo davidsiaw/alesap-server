@@ -1,6 +1,4 @@
 class PaselaEsong < ApplicationRecord
-  has_paper_trail
-
     # esong_key string
     validates_uniqueness_of :esong_key
 
