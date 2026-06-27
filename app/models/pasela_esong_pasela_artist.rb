@@ -1,6 +1,4 @@
 class PaselaEsongPaselaArtist < ApplicationRecord
-  has_paper_trail
-
     # pasela_esong_id is a istring
     ulid :song_id
     belongs_to :song, class_name: "PaselaEsong", foreign_key: :song_id

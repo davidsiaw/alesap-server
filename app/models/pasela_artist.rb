@@ -1,5 +1,4 @@
 class PaselaArtist < ApplicationRecord
-  has_paper_trail
     # master_singer_id string
     validates_uniqueness_of :master_singer_id
     
