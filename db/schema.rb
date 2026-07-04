@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 3000_01_01_000006) do
+ActiveRecord::Schema[8.1].define(version: 3000_01_01_000009) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "citext"
   enable_extension "pg_catalog.plpgsql"
@@ -98,6 +98,25 @@ ActiveRecord::Schema[8.1].define(version: 3000_01_01_000006) do
     t.index ["updated_at"], name: "index_pasela_esongs_on_updated_at"
   end
 
+  create_table "song_counters", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
+    t.integer "count", default: 0, null: false
+    t.string "nickname", null: false
+    t.string "song_code", null: false
+    t.datetime "updated_at"
+    t.index ["nickname", "song_code"], name: "index_song_counters_on_nickname_and_song_code"
+    t.index ["nickname"], name: "index_song_counters_on_nickname"
+  end
+
+  create_table "song_histories", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
+    t.integer "last_played_at"
+    t.string "nickname", null: false
+    t.string "song_code", null: false
+    t.datetime "updated_at"
+    t.index ["last_played_at"], name: "index_song_histories_on_last_played_at"
+    t.index ["nickname"], name: "index_song_histories_on_nickname"
+    t.index ["song_code"], name: "index_song_histories_on_song_code"
+  end
+
   create_table "token_data", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
     t.string "esong_key"
     t.integer "priority"
@@ -106,6 +125,14 @@ ActiveRecord::Schema[8.1].define(version: 3000_01_01_000006) do
     t.index ["esong_key"], name: "index_token_data_on_esong_key"
     t.index ["priority"], name: "index_token_data_on_priority"
     t.index ["token"], name: "index_token_data_on_token"
+  end
+
+  create_table "user_favourites", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
+    t.string "nickname", null: false
+    t.string "song_code", null: false
+    t.datetime "updated_at"
+    t.index ["nickname", "song_code"], name: "index_user_favourites_on_nickname_and_song_code"
+    t.index ["nickname"], name: "index_user_favourites_on_nickname"
   end
 
   create_table "versions", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
