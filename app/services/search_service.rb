@@ -7,44 +7,44 @@ class SearchService
     @page_size = page_size
   end
 
-  def result
-    res = sms.search(@search_term)
-    cut = res[@page_num * @page_size ... (@page_num + 1) * @page_size]
-
-    actuals = cut.map do |esong_code|
-      song = sms.song_cache[esong_code]
-
-      {
-        song: song['song_name'],
-        artist: song['singer_name'],
-        code: song['esong_code'],
-        extra: song
-      }
-    end
-
-    {
-      search: @search_term,
-      page: @page_num,
-      total: res.length,
-      results: [actuals.to_a]
-    }
-  end
-
-  def sms
-    @sms ||= SongMemoryService.instance
-  end
-
   # def result
-  #   res = perform_search(@search_term)
+  #   res = sms.search(@search_term)
+  #   cut = res[@page_num * @page_size ... (@page_num + 1) * @page_size]
 
-  #   # fallback on ruby
-  #   if res[:total] == 0
-  #     res = perform_search(@search_term.hiragana.unicode_normalize(:nfd).gsub(NormalizeService::REGEX, ''))
-  #     res[:search] = @search_term
+  #   actuals = cut.map do |esong_code|
+  #     song = sms.song_cache[esong_code]
+
+  #     {
+  #       song: song['song_name'],
+  #       artist: song['singer_name'],
+  #       code: song['esong_code'],
+  #       extra: song
+  #     }
   #   end
 
-  #   res
+  #   {
+  #     search: @search_term,
+  #     page: @page_num,
+  #     total: res.length,
+  #     results: [actuals.to_a]
+  #   }
   # end
+
+  # def sms
+  #   @sms ||= SongMemoryService.instance
+  # end
+
+  def result
+    res = perform_search(@search_term)
+
+    # fallback on ruby
+    if res[:total] == 0
+      res = perform_search(@search_term.hiragana.unicode_normalize(:nfd).gsub(NormalizeService::REGEX, ''))
+      res[:search] = @search_term
+    end
+
+    res
+  end
 
   def perform_search(search)
     if search.gsub(/\s+/, '') == ''
