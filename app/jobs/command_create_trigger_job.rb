@@ -20,10 +20,10 @@ class CommandCreateTriggerJob < ApplicationJob
           data = YAML.load_file(file)
           data['result']['song'].each do |info|
             esong_code = info['esong_code']
-            c = info['result']['content_type'] || ''
-            g = info['result']['genre_name']
-            n = info['result']['song_name']
-            s = info['result']['singer_name']
+            c = info['content_type'] || ''
+            g = info['genre_name']
+            n = info['song_name']
+            s = info['singer_name']
 
             t = {
               code: esong_code,
@@ -103,10 +103,10 @@ class CommandCreateTriggerJob < ApplicationJob
         data = YAML.load_file(file)
         data['result']['song'].each do |info|
           esong_code = info['esong_code']
-          c = info['result']['content_type'] || ''
-          g = info['result']['genre_name']
-          n = info['result']['song_name']
-          s = info['result']['singer_name']
+          c = info['content_type'] || ''
+          g = info['genre_name']
+          n = info['song_name']
+          s = info['singer_name']
           byname[c] ||= {}
           byname[c][g] ||= {}
           byname[c][g][s] ||= {}
