@@ -12,8 +12,6 @@ class SongMemoryService
     singer_name_ruby
     song_alias
     singer_alias
-    introcha
-    introcha_ruby
   ]
 
   def initialize
@@ -120,6 +118,8 @@ class SongMemoryService
   end
 
   def subsearch_toks(term, field)
+    return {} if term.length < 2
+
     toks = split(term)
 
     results = {}
