@@ -92,8 +92,8 @@ class SongMemoryService
           results_with_relevance[code] += relevance
         end
 
-        puts "> 1000 full cutoff"
-        break if results_with_relevance.count > 1000
+        puts "> 3000 full cutoff"
+        break if results_with_relevance.count > 3000
       end
 
       results = results_with_relevance.to_a.sort_by {|x| -x[1]}.map{|x| x[0]}
