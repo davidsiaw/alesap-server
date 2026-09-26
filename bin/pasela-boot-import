@@ -1,0 +1,17 @@
+#!/bin/sh
+# Runs in the background on every container start (docker/unit/Procfile), after migrations.
+# Downloads TBLDUMP_URL and re-imports it, so publishing a new dump and restarting is enough.
+# The previous import keeps serving until the new one is swapped in, and stays if this fails.
+# Skipped when TBLDUMP_URL isn't set (dev, CI): run `bin/rails pasela:import` by hand there.
+
+if [ -z "$TBLDUMP_URL" ]; then
+  echo "pasela boot import: TBLDUMP_URL not set, skipping"
+  exit 0
+fi
+
+echo "pasela boot import: starting"
+if bundle exec rails pasela:import; then
+  echo "pasela boot import: done"
+else
+  echo "pasela boot import: FAILED, keeping the previously imported data"
+fi

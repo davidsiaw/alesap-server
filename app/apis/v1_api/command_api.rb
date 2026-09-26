@@ -5,23 +5,9 @@ class CommandApi < Grape::API
 
   # Command list
   STOP_SONG_COMMAND = 2
+  PITCH_COMMANDS = { 'sharp' => 3, 'flat' => 4 }.freeze # pitch up / pitch down
 
   resource :command do
-
-    desc 'POST command'
-    params do
-      requires :verb, type: String, desc: 'Command verb'
-      requires :subject, type: String, desc: 'Command subject'
-      requires :amount, type: Integer, desc: 'Command amount'
-    end
-    post do
-      obj = Command.create!(params)
-
-      CommandCreateTriggerJob.perform_later(obj.id)
-
-      { result: obj }
-    end
-
 
     resource :search do
 
@@ -30,12 +16,13 @@ class CommandApi < Grape::API
         optional :str, type: String, desc: 'search str'
         optional :page, type: Integer, desc: 'page num'
         optional :request_id, type: String, desc: 'requestid'
+        optional :constraint, type: String, values: SearchService::CONSTRAINTS.keys, default: 'all',
+                              desc: 'all (titles/artists/tie-ups), title, artist, or tags (genre/theme/content type)'
       end
       post do
 
-        ss = SearchService.new(params[:str], params[:page].to_i)
-
-        ss.result.merge(request_id: params[:request_id])
+        SearchService.new.call(params[:str], params[:page].to_i, constraint: params[:constraint])
+                     .merge(request_id: params[:request_id])
 
       end
     end
@@ -48,7 +35,7 @@ class CommandApi < Grape::API
       requires :ecd, type: String, desc: 'ecd'
     end
     post 'queue' do
-      unless PaselaEsong.exists?(esong_key: params[:ecd])
+      unless SongDataService.new.exists?(params[:ecd])
         status 400
         return { error: 'invalid song code' }
       end
@@ -88,13 +75,35 @@ class CommandApi < Grape::API
       { result: 'ok' }
     end
 
+    desc 'change pitch command'
+    params do
+      requires :akey, type: String, desc: 'akey'
+      requires :skey, type: String, desc: 'skey'
+      requires :scd, type: String, desc: 'scd'
+      requires :pitch, type: String, values: PITCH_COMMANDS.keys, desc: 'sharp (up) or flat (down)'
+    end
+    post 'pitch' do
+      conn = Faraday::Connection.new 'http://order.mashup.jp'
+      conn.post '/bridge/post_request.php' do |req|
+        req.body = CGI.unescape({
+          akey: params[:akey],
+          skey: params[:skey],
+          scd: params[:scd],
+          type: PITCH_COMMANDS.fetch(params[:pitch])
+        }.to_query)
+      end
+
+      status 200
+      { result: 'ok' }
+    end
+
     desc 'import favourites'
     params do
       requires :nickname, type: String, desc: 'Anonymous user key'
     end
     get 'import_favourites' do
       codes = UserFavourite.where(nickname: params[:nickname]).pluck(:song_code)
-      cache = SongDataService.build(codes)
+      cache = SongDataService.new.build(codes)
       { favourites: codes, cache: cache }
     end
 
@@ -129,7 +138,7 @@ class CommandApi < Grape::API
             last_played: h.last_played_at
           }
         end
-      cache = SongDataService.build(history.map { |h| h[:song_code] })
+      cache = SongDataService.new.build(history.map { |h| h[:song_code] })
       counts = SongCounter.where(nickname: params[:nickname])
       song_count = {}
       counts.each { |c| song_count[c.song_code] = c.count }
@@ -175,17 +184,32 @@ class CommandApi < Grape::API
     end
   end
 
+  helpers do
+    def song_data(code)
+      song = SongDataService.new.build([code]).first
+      return song if song
+
+      status 404
+      { error: 'not found' }
+    end
+  end
+
+  # Served at both /song and /command/song: the newer frontend calls the latter.
   desc 'get song data'
   params do
     requires :code, type: String
   end
   get 'song' do
-    song = SongDataService.build([params[:code]]).first
-    if song
-      song
-    else
-      status 404
-      { error: 'not found' }
+    song_data(params[:code])
+  end
+
+  resource :command do
+    desc 'get song data'
+    params do
+      requires :code, type: String
+    end
+    get 'song' do
+      song_data(params[:code])
     end
   end
 end

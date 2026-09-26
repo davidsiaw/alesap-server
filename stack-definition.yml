@@ -15,7 +15,20 @@ services:
       ALLOWED_ORIGINS: alesap.astrobunny.net,alesap.blankaex.reisen,192.168.1.4:4567
       DATABASE_URL: ${ALESAP_DB_URL}
       THING: 1
+      # Song data, downloaded and imported on every start (docs/deploy.md).
+      TBLDUMP_URL: http://alesap-tbldump:8080/tbldump.tar.gz
+      WORKERS: 4 # i7-6700K, shared with the app and Postgres
     container_name: alesap
+    networks:
+      - alesap
+
+  # Serves tbldump.tar.gz on :8080 to the alesap service. Internal only: no ports, no VIRTUAL_HOST.
+  # Pulled from the GitLab registry; the registry login lives in Portainer (Registries), not here.
+  alesap-tbldump:
+    image: docker-registry.astrobunny.net/labs/alesap-data2:latest
+    deploy:
+      update_config:
+        order: stop-first
     networks:
       - alesap
 

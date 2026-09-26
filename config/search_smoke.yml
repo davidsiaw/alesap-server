@@ -1,0 +1,71 @@
+# Real-data search checks: `bin/rails pasela:smoke`, run after `pasela:import`.
+# Each query must return, on its first page, a song whose name contains `song` and whose
+# artist contains `artist` (both case-insensitive). Optional `constraint`: all (default),
+# title, artist or tags. Matching by name, not code, so the checks survive new dumps.
+
+- query: advance australia fair
+  song: アドバンス・オーストラリア・フェア
+  artist: オーストラリア連邦国歌
+- query: advance australia
+  song: アドバンス・オーストラリア・フェア
+  artist: オーストラリア連邦国歌
+- query: アドバンスオーストラリアフェア
+  song: アドバンス・オーストラリア・フェア
+  artist: オーストラリア連邦国歌
+- query: あどばんすおーすとらりあ
+  song: アドバンス・オーストラリア・フェア
+  artist: オーストラリア連邦国歌
+
+- query: asterisk
+  song: アスタリスク
+  artist: ORANGE RANGE
+- query: asterisk orange range
+  song: アスタリスク
+  artist: ORANGE RANGE
+- query: アスタリスク
+  song: アスタリスク
+  artist: ORANGE RANGE
+- query: あすたりすく おれんじれんじ
+  song: アスタリスク
+  artist: ORANGE RANGE
+
+- query: blue field
+  song: ブルー・フィールド
+  artist: Trident
+- query: blue field trident
+  song: ブルー・フィールド
+  artist: Trident
+- query: ブルーフィールド
+  song: ブルー・フィールド
+  artist: Trident
+- query: ぶるーふぃーるど
+  song: ブルー・フィールド
+  artist: Trident
+
+# Search box filters (constraint: all/title/artist/tags; default all).
+- query: blue field
+  constraint: title
+  song: ブルー・フィールド
+  artist: Trident
+- query: trident
+  constraint: artist
+  song: ブルー・フィールド
+  artist: Trident
+- query: 国歌
+  constraint: tags
+  song: アドバンス・オーストラリア・フェア
+  artist: オーストラリア連邦国歌
+
+# Anime title (tie-up). Pasela's singer search tables contain tie-up rows attached to unrelated
+# singers (チェリッシュ); those must not outrank the real tie-up matches.
+- query: フリーレン
+  song: 勇者
+  artist: YOASOBI
+- query: 葬送のフリーレン
+  song: 晴る
+  artist: ヨルシカ
+
+# 番組V (the anime's video plays during karaoke) is a filter, and marks the song name.
+- query: フリーレン 番組V
+  song: 勇者【番組V】
+  artist: YOASOBI

@@ -1,1 +1,0 @@
-curl -X POST -d "verb=loadsongs&subject=1&amount=1" http://localhost:3000/api/v1/command

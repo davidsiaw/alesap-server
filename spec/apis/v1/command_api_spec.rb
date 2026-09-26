@@ -10,14 +10,12 @@ RSpec.describe CommandApi, type: :request do
     WebMock.disable!
   end
 
-  describe "/queue" do
-    before do
-      name = Istring.create!(str: 'test song')
-      ruby = Istring.create!(str: 'test ruby')
-      PaselaEsong.create!(esong_key: '4', name: name, ruby: ruby)
-    end
+  # spec/fixtures/tbldump/api: 4 test song / Somebody, 1877A6 勇者 / YOASOBI (番組V), 1943B8 夜に駆ける / YOASOBI.
+  # 2018A22 is deliberately missing.
 
+  describe '/queue', :no_db_transaction do
     it 'performs a queue' do
+      TbldumpImportService.new.call('spec/fixtures/tbldump/api', workers: 2, logger: Logger.new(nil))
       stub = stub_request(:post, "http://order.mashup.jp/bridge/post_request.php")
         .with(body: "akey=1&ecd=4&scd=3&skey=2")
         .to_return(body: "lol")
@@ -31,6 +29,34 @@ RSpec.describe CommandApi, type: :request do
 
       expect(response.body).to eq({ result: 'ok' }.to_json)
       expect(stub).to have_been_requested
+    end
+
+    it 'rejects a code that is not in the imported dump, without calling the bridge' do
+      TbldumpImportService.new.call('spec/fixtures/tbldump/api', workers: 2, logger: Logger.new(nil))
+      post '/api/v1/command/queue', params: { akey: 1, skey: 2, scd: 3, ecd: '2018A22' }
+
+      expect(response).to have_http_status(:bad_request)
+      expect(a_request(:post, 'http://order.mashup.jp/bridge/post_request.php')).not_to have_been_made
+    end
+  end
+
+  describe '/song', :no_db_transaction do
+    # The newer frontend calls /command/song; /song is kept for anything using the old path.
+    %w[/api/v1/song /api/v1/command/song].each do |path|
+      it "#{path} returns the song, with the 番組V marker" do
+        TbldumpImportService.new.call('spec/fixtures/tbldump/api', workers: 2, logger: Logger.new(nil))
+        get path, params: { code: '1877A6' }
+
+        expect(response.parsed_body).to include('song' => '勇者【番組V】', 'artist' => 'YOASOBI', 'code' => '1877A6',
+                                                'extra' => a_hash_including('song_name' => '勇者'))
+      end
+
+      it "#{path} returns 404 for a code that is not in the dump" do
+        TbldumpImportService.new.call('spec/fixtures/tbldump/api', workers: 2, logger: Logger.new(nil))
+        get path, params: { code: '2018A22' }
+
+        expect(response).to have_http_status(:not_found)
+      end
     end
   end
 
@@ -51,7 +77,33 @@ RSpec.describe CommandApi, type: :request do
     end
   end
 
-  describe "/import_favourites" do
+  # Sent the way the frontend sends it: JSON, with a nickname the bridge doesn't need.
+  describe '/pitch' do
+    { 'sharp' => 3, 'flat' => 4 }.each do |direction, type|
+      it "forwards #{direction} as type #{type}" do
+        stub = stub_request(:post, 'http://order.mashup.jp/bridge/post_request.php')
+               .with(body: "akey=1&scd=3&skey=2&type=#{type}").to_return(body: 'lol')
+
+        post '/api/v1/command/pitch/',
+             params: { nickname: 'n', akey: '1', skey: '2', scd: '3', pitch: direction }.to_json,
+             headers: { 'CONTENT_TYPE' => 'application/json' }
+
+        expect(response.body).to eq({ result: 'ok' }.to_json)
+        expect(stub).to have_been_requested
+      end
+    end
+
+    it 'rejects an unknown direction without calling the bridge' do
+      post '/api/v1/command/pitch/',
+           params: { nickname: 'n', akey: '1', skey: '2', scd: '3', pitch: 'up' }.to_json,
+           headers: { 'CONTENT_TYPE' => 'application/json' }
+
+      expect(response).to have_http_status(:bad_request)
+      expect(a_request(:post, 'http://order.mashup.jp/bridge/post_request.php')).not_to have_been_made
+    end
+  end
+
+  describe '/import_favourites', :no_db_transaction do
     it 'returns empty favourites and cache for unknown user' do
       get '/api/v1/command/import_favourites?nickname=nonexistent'
 
@@ -62,6 +114,7 @@ RSpec.describe CommandApi, type: :request do
     end
 
     it 'returns saved favourites for a user' do
+      TbldumpImportService.new.call('spec/fixtures/tbldump/api', workers: 2, logger: Logger.new(nil))
       create(:user_favourite, nickname: 'alice', song_code: '1877A6')
       create(:user_favourite, nickname: 'alice', song_code: '2018A22')
 
@@ -72,7 +125,19 @@ RSpec.describe CommandApi, type: :request do
       expect(body['favourites']).to eq(['1877A6', '2018A22'])
     end
 
+    it 'returns song details in cache for codes that are in the dump' do
+      TbldumpImportService.new.call('spec/fixtures/tbldump/api', workers: 2, logger: Logger.new(nil))
+      create(:user_favourite, nickname: 'alice', song_code: '1877A6')
+      create(:user_favourite, nickname: 'alice', song_code: '2018A22')
+
+      get '/api/v1/command/import_favourites?nickname=alice'
+
+      expect(response.parsed_body['cache'])
+        .to match([a_hash_including('code' => '1877A6', 'song' => '勇者【番組V】', 'artist' => 'YOASOBI')])
+    end
+
     it 'does not return other users favourites' do
+      TbldumpImportService.new.call('spec/fixtures/tbldump/api', workers: 2, logger: Logger.new(nil))
       create(:user_favourite, nickname: 'alice', song_code: '1877A6')
       create(:user_favourite, nickname: 'bob', song_code: '2018A22')
 
@@ -126,7 +191,7 @@ RSpec.describe CommandApi, type: :request do
     end
   end
 
-  describe "/import_history" do
+  describe '/import_history', :no_db_transaction do
     it 'returns empty history and cache for unknown user' do
       get '/api/v1/command/import_history?nickname=nonexistent'
 
@@ -137,6 +202,7 @@ RSpec.describe CommandApi, type: :request do
     end
 
     it 'returns saved history for a user' do
+      TbldumpImportService.new.call('spec/fixtures/tbldump/api', workers: 2, logger: Logger.new(nil))
       create(:song_history, nickname: 'alice', song_code: '1943B8',
         last_played_at: 1748131200)
 
@@ -147,6 +213,7 @@ RSpec.describe CommandApi, type: :request do
         'song_code' => '1943B8',
         'last_played' => 1748131200
       }])
+      expect(body['cache']).to match([a_hash_including('code' => '1943B8', 'song' => '夜に駆ける', 'artist' => 'YOASOBI')])
     end
 
     it 'returns 400 when nickname is missing' do

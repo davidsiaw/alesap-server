@@ -1,0 +1,15 @@
+---
+- t_singer_search_id: 1
+  t_singer_master_id: 1
+  singer_name: 'YES'
+  notation_id: 1
+  country_code: 'YES'
+  reg_date: '2026-09-18T03:05:28'
+  upd_date: '2026-09-18T03:05:28'
+- t_singer_search_id: 2
+  t_singer_master_id: 2
+  singer_name: "it's \"quoted\"\tand\\slashed\nover lines"
+  notation_id: 2
+  country_code: "it's \"quoted\"\tand\\slashed\nover lines"
+  reg_date: '2026-09-18T03:05:28'
+  upd_date: '2026-09-18T03:05:28'

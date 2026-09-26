@@ -1,0 +1,22 @@
+# Data lives outside the program. Import it with `rake pasela:import` (see docs/import.md).
+db/tbldump
+db/data
+!db/data/jpn.yml
+karaokebase
+vidoutput
+
+# Secrets: never bake master keys into an image (prod gets RAILS_MASTER_KEY from the stack)
+config/master.key
+config/credentials/*.key
+
+# Local / tool state
+.git
+.bundler
+.pirag
+.pi-sessions
+.tmp.certstore
+node_modules
+storage/*
+tmp/*
+log/*
+!log/.keep

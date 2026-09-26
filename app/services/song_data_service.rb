@@ -1,40 +1,21 @@
 # frozen_string_literal: true
 
+# Song details by song code, from the pasela schema (`rake pasela:import`): the /song
+# endpoint, the favourites/history `cache`, and the /queue code check.
+#
+#   SongDataService.new.build(['5046B2', 'NOPE']) # => [{ song: '勇者【番組V】', ..., code: '5046B2' }]
+#   SongDataService.new.exists?('5046B2')        # => true
 class SongDataService
-  def self.build(esong_keys)
-    return [] if esong_keys.empty?
-
-    esong_keys = esong_keys.uniq
-    extra_hash = build_extra_hash(esong_keys)
-    song_hash = build_song_hash(esong_keys, extra_hash)
-
-    esong_keys.filter_map do |code|
-      entry = song_hash[code]
-      entry ? entry.merge(code: code) : nil
-    end
+  # Details for each code (same shape as search results), in the given order.
+  # Codes that aren't in the dump are left out.
+  def build(codes)
+    codes = codes.uniq
+    details = PaselaSongDetailService.new.by_code(codes)
+    codes.filter_map { |code| details[code] }
   end
 
-  def self.build_extra_hash(esong_keys)
-    {}.tap do |hash|
-      ExtraDatum.where(esong_key: esong_keys).each do |ed|
-        hash[ed.esong_key] ||= {}
-        hash[ed.esong_key][ed.datatype] = ed.value
-      end
-    end
-  end
-
-  def self.build_song_hash(esong_keys, extra_hash)
-    {}.tap do |hash|
-      PaselaEsongPaselaArtist
-        .joins(:song, :artist)
-        .merge(PaselaEsong.where(esong_key: esong_keys))
-        .each do |s|
-          hash[s.code] = {
-            song: s.song_name,
-            artist: s.artist_name,
-            extra: extra_hash[s.code] || {}
-          }
-        end
-    end
+  def exists?(code)
+    sql = ActiveRecord::Base.sanitize_sql_array(['SELECT 1 FROM pasela.t_song_variation WHERE esong_code = ?', code])
+    ActiveRecord::Base.connection.select_value(sql).present?
   end
 end

@@ -76,6 +76,19 @@ RSpec.configure do |config|
     end
   end
 
+  # Code that forks or opens its own DB connections (e.g. TbldumpImportService)
+  # can't see data inside the spec's transaction. DatabaseCleaner doesn't drop schemas,
+  # so the imported pasela schemas are dropped here.
+  config.before(:each, :no_db_transaction) do
+    DatabaseCleaner.strategy = :deletion
+  end
+
+  config.after(:each, :no_db_transaction) do
+    ActiveRecord::Base.connection.execute(
+      'DROP SCHEMA IF EXISTS pasela CASCADE; DROP SCHEMA IF EXISTS pasela_import CASCADE'
+    )
+  end
+
   config.before do
     DatabaseCleaner.start
   end
