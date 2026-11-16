@@ -97,7 +97,7 @@ services:
   # PGAdmin
   # Use this to inspect your database and test queries
   pgadmin:
-    image: dpage/pgadmin4:4
+    image: dpage/pgadmin4:2026-10-27-2
     ports:
       - 5050:80
     environment:
