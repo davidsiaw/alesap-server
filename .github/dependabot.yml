@@ -12,3 +12,17 @@ updates:
     interval: daily
     time: "20:00"
   open-pull-requests-limit: 10
+- package-ecosystem: docker
+  directories:
+  - "/"
+  - "/docker/unit"
+  schedule:
+    interval: daily
+    time: "20:00"
+  open-pull-requests-limit: 10
+- package-ecosystem: docker-compose
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "20:00"
+  open-pull-requests-limit: 10
