@@ -63,7 +63,7 @@ gem 'tiny_segmenter'
 group :development, :test do
   gem 'async-rspec'
   gem 'factory_bot_rails'
-  gem 'pry-byebug', platforms: %i[mri mingw x64_mingw]
+  gem 'pry-byebug', platforms: %i[mri windows]
   gem 'rspec-rails'
   gem 'webmock'
 end
@@ -107,4 +107,4 @@ group :development do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
+gem 'tzinfo-data', platforms: %i[windows jruby]
