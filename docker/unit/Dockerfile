@@ -3,7 +3,7 @@ FROM ruby:4.0-alpine
 ARG PUID=1000
 ARG PGID=1000
 
-RUN apk --update add build-base git file less postgresql-dev nodejs tzdata curl rust cargo postgresql postgresql-contrib redis yaml-dev linux-headers && \
+RUN apk add --no-cache build-base git file less postgresql-dev nodejs tzdata curl rust cargo postgresql postgresql-contrib redis yaml-dev linux-headers && \
   gem install foreman && \
   addgroup -g ${PGID} srv && \
     adduser -D -u ${PUID} -G srv srv && \
@@ -27,43 +27,47 @@ ENV ipadic_url https://drive.google.com/uc?export=download&id=1aQCOnE4aGPz-3tXpt
 ARG _ARCH="--build=aarch64-unknown-linux-gnu"
 ARG TARGETARCH
 
+WORKDIR /tmp/mecab
+
+RUN curl -SL -o mecab-${MECAB_VERSION}.tar.gz ${mecab_url} \
+  && tar zxf mecab-${MECAB_VERSION}.tar.gz \
+  && curl -SL -o mecab-ipadic-${IPADIC_VERSION}.tar.gz ${ipadic_url} \
+  && tar zxf mecab-ipadic-${IPADIC_VERSION}.tar.gz
+
+WORKDIR /tmp/mecab/mecab-${MECAB_VERSION}
+
 RUN case "$TARGETARCH" in \
       amd64)  _ARCH="--build=x86_64-unknown-linux-gnu" ;; \
       arm64)  _ARCH="--build=aarch64-unknown-linux-gnu" ;; \
       *)      _ARCH="" ;; \
     esac && \
-  curl -SL -o mecab-${MECAB_VERSION}.tar.gz ${mecab_url} \
-  && tar zxf mecab-${MECAB_VERSION}.tar.gz \
-  && cd mecab-${MECAB_VERSION} \
-  && ./configure --enable-utf8-only --with-charset=utf8 ${_ARCH} \
+  ./configure --enable-utf8-only --with-charset=utf8 ${_ARCH} \
   && make \
   && make install
 
-RUN curl -SL -o mecab-ipadic-${IPADIC_VERSION}.tar.gz ${ipadic_url} \
-  && tar zxf mecab-ipadic-${IPADIC_VERSION}.tar.gz \
-  && cd mecab-ipadic-${IPADIC_VERSION} \
-  && ./configure --with-charset=utf8 ${_ARCH} \
-  && make \
-  && make install \
-  && cd
+WORKDIR /tmp/mecab/mecab-ipadic-${IPADIC_VERSION}
 
-ADD Gemfile Gemfile.lock Rakefile package.json .rspec .rubocop.yml .rubocop_todo.yml config.ru /srv/
+RUN ./configure --with-charset=utf8 ${_ARCH} \
+  && make \
+  && make install
+
+COPY Gemfile Gemfile.lock Rakefile package.json .rspec .rubocop.yml .rubocop_todo.yml config.ru /srv/
 
 WORKDIR /srv
 
 RUN bundle
 
-ADD --chown=srv:srv log /srv/log
-ADD --chown=srv:srv public /srv/public
-ADD --chown=srv:srv vendor /srv/vendor
-ADD --chown=srv:srv bin /srv/bin
-ADD --chown=srv:srv lib /srv/lib
-ADD --chown=srv:srv db /srv/db
-ADD --chown=srv:srv config /srv/config
-ADD --chown=srv:srv spec /srv/spec
-ADD --chown=srv:srv app /srv/app
+COPY --chown=srv:srv log /srv/log
+COPY --chown=srv:srv public /srv/public
+COPY --chown=srv:srv vendor /srv/vendor
+COPY --chown=srv:srv bin /srv/bin
+COPY --chown=srv:srv lib /srv/lib
+COPY --chown=srv:srv db /srv/db
+COPY --chown=srv:srv config /srv/config
+COPY --chown=srv:srv spec /srv/spec
+COPY --chown=srv:srv app /srv/app
 
-ADD --chown=srv:srv docker/unit/start.sh docker/unit/waitpg.sh docker/unit/waitredis.sh docker/unit/Procfile /srv/
+COPY --chown=srv:srv docker/unit/start.sh docker/unit/waitpg.sh docker/unit/waitredis.sh docker/unit/Procfile /srv/
 
 RUN mkdir -p /run/redis && \
     mkdir -p /run/postgresql && \
